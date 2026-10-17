@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17T13:00:00Z",
+  "updated": "2026-10-17T00:00:00Z",
   "shows": {
     "tvmaze:75026": {
       "title": "MobLand",
@@ -8,7 +8,11 @@
       "source": "manual",
       "note": "TV 2 Play mandag, Paramount+ fredag (set 16-10-2026)",
       "seasons": {
-        "2": { "episodes": 10, "release": "2026-09-21", "pattern": "weekly" }
+        "2": {
+          "episodes": 10,
+          "release": "2026-09-21",
+          "pattern": "weekly"
+        }
       }
     },
     "tvmaze:59344": {
@@ -17,8 +21,49 @@
       "source": "manual",
       "note": "TV 2 Play torsdag, Paramount+ fredag (set 16-10-2026)",
       "seasons": {
-        "4": { "episodes": 10, "release": "2026-10-22", "pattern": "weekly" }
+        "4": {
+          "episodes": 10,
+          "release": "2026-10-22",
+          "pattern": "weekly"
+        }
       }
+    },
+    "tvmaze:39339": {
+      "title": "Mord på Mallorca",
+      "source": "scraper",
+      "note": "Hentet fra TV 2 Plays egen schema.org (datePublished)",
+      "seasons": {
+        "1": {
+          "episodes": 3,
+          "release": "2020-04-21",
+          "pattern": "explicit",
+          "episodeOverrides": {
+            "8": {
+              "release": "2020-04-21"
+            },
+            "9": {
+              "release": "2020-04-28"
+            },
+            "10": {
+              "release": "2020-05-05"
+            }
+          }
+        },
+        "2": {
+          "episodes": 2,
+          "release": "2021-04-13",
+          "pattern": "explicit",
+          "episodeOverrides": {
+            "1": {
+              "release": "2021-04-13"
+            },
+            "2": {
+              "release": "2021-04-20"
+            }
+          }
+        }
+      },
+      "service": "tv2"
     }
   }
 }

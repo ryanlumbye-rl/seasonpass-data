@@ -1,0 +1,44 @@
+name: TV 2 Play-datoer
+
+on:
+  schedule:
+    - cron: "30 5 * * *" # efter TV 2's udgivelser kl. 06 dansk tid
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Kendt risiko: runnerne står i USA. Blokerer TV 2 ikke-danske IP'er,
+      # skal vi se det her og ikke som en tom PR.
+      - name: Geoblok-test
+        run: |
+          code=$(curl -s -o /dev/null -w "%{http_code}" \
+            -A "SeasonPass-data/1.0 (+https://github.com/ryanlumbye-rl/seasonpass-data)" \
+            https://play.tv2.dk/vp_sitemaps/sitemap-index.xml.gz)
+          echo "sitemap-index svarede HTTP $code"
+          test "$code" = "200"
+
+      - run: node --test
+      - run: npm run scrape:tv2play
+
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Danske datoer fra TV 2 Play"
+          title: "Danske datoer fra TV 2 Play"
+          body: |
+            Automatisk kørsel. Gennemgå diffen i `overrides.json`, før du merger.
+
+            Poster med `source: "manual"` er aldrig rørt. Serier uden match står i `unmatched.json`
+            og skal ind i `mappings/tv2play.json`, før de kommer med.
+          branch: tv2play-datoer
+          delete-branch: true

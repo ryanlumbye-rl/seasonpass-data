@@ -1,0 +1,10 @@
+{
+  "name": "seasonpass-data",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "scrape:tv2play": "node scripts/tv2play.mjs"
+  }
+}
