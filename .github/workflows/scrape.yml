@@ -11,7 +11,10 @@ permissions:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    # Pinnet frem for ubuntu-latest: den label flyttede til Ubuntu 26 den
+    # 19-10-2026, og en kørsel, der knækker af sig selv, er svær at kende fra
+    # en knækket kilde. Løft den bevidst, når du selv har lyst.
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
