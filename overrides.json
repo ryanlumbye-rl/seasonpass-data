@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17T08:00:00Z",
+  "updated": "2026-10-17T12:00:00Z",
   "shows": {
     "tvmaze:75026": {
       "title": "MobLand",
@@ -8,7 +8,7 @@
       "source": "manual",
       "note": "TV 2 Play mandag, Paramount+ fredag (set 16-10-2026)",
       "seasons": {
-        "2": { "episodes": 10, "release": "2026-09-21", "pattern": "weekly" }
+        "2": { "episodes": 10, "release": "2026-09-22", "pattern": "weekly" }
       }
     },
     "tvmaze:59344": {
