@@ -65,30 +65,19 @@ export function buildEntries(found, mapping) {
 }
 
 /**
- * Byg en menneske-læsbar rapport over ukendte serier, der har ændret sig.
+ * Hver ukortlagt serie, hver kørsel.
  *
- * `entries` er ALLE ukendte (ikke-kortlagte) afsnits-URL'er fra denne kørsels
- * sitemap-scan — ingen forfiltrering, ingen hentning. Slug og sæsonsti kommer
- * fra URL'en alene, og derfor kan vi ikke vide, om seasonPath reelt er et
- * sæsonnummer (Review Focus 2) eller en serie, der slet ikke findes endnu;
- * det er netop derfor et menneske skal se på det.
+ * Tidligere rapporterede denne funktion kun serier, hvis lastmod havde
+ * flyttet sig, og registrerede ved første kørsel hele katalogets lastmod i
+ * stilhed. Hensigten var at holde den første PR lille; virkningen var, at
+ * bagkataloget blev usynligt for altid — målt 21-10-2026 var 1.546 af 1.635
+ * serier skjult. Filen er en arbejdsliste, og en arbejdsliste, der skjuler
+ * 95 % af arbejdet, er værre end ingen.
  *
- * `state` er nøglet pr. SLUG, ikke pr. URL (modsat de kortlagte afsnits
- * tilstand): kun den nyeste lastmod set for serien. Det er alt, rapporten
- * behøver — "har denne serie ændret sig siden sidst, vi kiggede" — og det
- * giver en tilstandsfil på størrelsesordenen tusind rækker i stedet for
- * titusinder. En serie, der lige er tilføjet til mappings/tv2play.json, kan
- * stadig ikke fejlagtigt se "set uændret" ud, fordi den optrådte i en
- * tidligere ukendt-rapport — den kortlagte sti bruger en helt anden fil.
- *
- * Er `state` tom (ingen tidligere kørsel har set nogen ukendt serie endnu),
- * er det en opstart: hele TV 2 Plays eksisterende katalog af ikke-kortlagte
- * serier ville ellers se "ændret" ud på én gang, fordi der ikke er noget at
- * sammenligne med. Det er ikke nyt, og skal ikke fylde rapporten — vi
- * registrerer stille tilstanden, men rapporterer intet. En serie, der får et
- * nyt afsnit i morgen, dukker op i morgen; det er pointen.
+ * Nøglerne sorteres, så en ny serie giver få linjers diff frem for at flytte
+ * rundt på filen.
  */
-export function buildUnmatched(entries, state) {
+export function buildUnmatched(entries) {
   const groups = {};
   for (const e of entries) {
     const g = (groups[e.slug] ??= { seasons: new Set(), episodes: 0, lastmod: '' });
@@ -96,32 +85,10 @@ export function buildUnmatched(entries, state) {
     g.episodes += 1;
     if (e.lastmod > g.lastmod) g.lastmod = e.lastmod;
   }
-
-  const bootstrapping = Object.keys(state).length === 0;
   const report = {};
-  const nextState = { ...state };
-  for (const [slug, g] of Object.entries(groups)) {
-    if (!bootstrapping && state[slug] !== g.lastmod) {
-      report[slug] = { seasons: [...g.seasons].sort(), episodes: g.episodes, lastmod: g.lastmod };
-    }
-    nextState[slug] = g.lastmod;
+  for (const slug of Object.keys(groups).sort()) {
+    const g = groups[slug];
+    report[slug] = { seasons: [...g.seasons].sort(), episodes: g.episodes, lastmod: g.lastmod };
   }
-  return { report, nextState };
-}
-
-/**
- * Begræns unmatched.json til de `cap` senest ændrede serier, nyeste lastmod
- * først. Uden en grænse ville en samlet lastmod-opdatering på TV 2 Plays
- * side (eller en frisk opstart, se buildUnmatched) kunne oversvømme filen
- * igen — en håndfuld om dagen, ikke hele kataloget.
- */
-export function limitUnmatched(unmatched, cap) {
-  const sorted = Object.entries(unmatched).sort(([, a], [, b]) => {
-    if (a.lastmod === b.lastmod) return 0;
-    return a.lastmod < b.lastmod ? 1 : -1;
-  });
-  return {
-    kept: Object.fromEntries(sorted.slice(0, cap)),
-    omitted: Math.max(0, sorted.length - cap),
-  };
+  return { report };
 }

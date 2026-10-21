@@ -15,6 +15,10 @@ jobs:
     # 19-10-2026, og en kørsel, der knækker af sig selv, er svær at kende fra
     # en knækket kilde. Løft den bevidst, når du selv har lyst.
     runs-on: ubuntu-24.04
+    # 3.000 hentninger à 500 ms pause er omkring en halv time. Standardgrænsen
+    # (360 minutter for et selvstændigt repo, men langt lavere for et, der
+    # arver org-indstillinger) må ikke kunne ramme en langsom kørsel midt i.
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -32,7 +36,17 @@ jobs:
           test "$code" = "200"
 
       - run: node --test
-      - run: npm run scrape:tv2play
+
+      - name: Kør scraperen
+        id: scrape
+        run: |
+          npm run scrape:tv2play | tee scrape.log
+          # Tallene til PR-teksten nedenfor — læst af scraperens egen log,
+          # ingen ekstra hentning. "0" hvis linjen mangler, fx ved en tom kørsel.
+          shows=$(grep -o 'TV 2 Play-serier bygget denne kørsel: [0-9]*' scrape.log | grep -o '[0-9]*$' || echo 0)
+          unparsed=$(grep -o 'hints der ikke kunne fortolkes: [0-9]*' scrape.log | grep -o '[0-9]*$' || echo 0)
+          echo "shows=${shows:-0}" >> "$GITHUB_OUTPUT"
+          echo "unparsed=${unparsed:-0}" >> "$GITHUB_OUTPUT"
 
       - uses: peter-evans/create-pull-request@v6
         with:
@@ -43,5 +57,12 @@ jobs:
 
             Poster med `source: "manual"` er aldrig rørt. Serier uden match står i `unmatched.json`
             og skal ind i `mappings/tv2play.json`, før de kommer med.
+
+            **TV 2 Play-udgivelsen** (`tv2play/`): ${{ steps.scrape.outputs.shows }} serier bygget eller
+            opdateret denne kørsel, under hentebudgettet på 3.000 afsnit. Uforståede hints: ${{ steps.scrape.outputs.unparsed }} stk.
+            (se `tv2play/unparsed-hints.json`).
+
+            De første kørsler tilføjer mange filer under `tv2play/shows/` — det er ventet (budgettet
+            fylder kataloget op over flere kørsler), ikke en fejl.
           branch: tv2play-datoer
           delete-branch: true
