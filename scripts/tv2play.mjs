@@ -6,19 +6,25 @@
  *
  * Kør tørt med:  node scripts/tv2play.mjs --dry-run
  */
-import { writeFileSync } from 'node:fs';
+import { mkdirSync, writeFileSync } from 'node:fs';
 import { gunzipSync } from 'node:zlib';
-import { assertSitemapHealth, changedSince, episodeUrls, parseSitemap } from './lib/sitemap.mjs';
+import { assertSitemapHealth, changedSince, dueThisRun, episodeUrls, parseSitemap } from './lib/sitemap.mjs';
 import { extractEpisode } from './lib/jsonld.mjs';
-import { buildEntries, buildUnmatched, limitUnmatched } from './lib/build.mjs';
+import { extractHint, parseHint } from './lib/hint.mjs';
+import { isSupported } from './lib/scope.mjs';
+import { buildTv2Shows } from './lib/tv2shows.mjs';
+import { buildEntries, buildUnmatched } from './lib/build.mjs';
 import { canonicalJSON, mergeOverrides } from './lib/merge.mjs';
 import { readJson } from './lib/io.mjs';
 
 const UA = 'SeasonPass-data/1.0 (+https://github.com/ryanlumbye-rl/seasonpass-data)';
 const INDEX = 'https://play.tv2.dk/vp_sitemaps/sitemap-index.xml.gz';
 const PAUSE = 500;
+// Omkring en halv time ved 500 ms pause pr. forespørgsel. Kataloget er langt
+// større (~1.600 ukortlagte serier), så budgettet er med vilje en brøkdel —
+// bagkataloget fyldes op over mange kørsler, uden at nogen venter på det.
+const FETCH_BUDGET = 3000;
 const DRY = process.argv.includes('--dry-run');
-const UNMATCHED_CAP = 50;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -33,10 +39,6 @@ async function get(url, { gzip = false } = {}) {
 async function main() {
   const mapping = readJson('mappings/tv2play.json', {});
   const state = readJson('state/tv2play-lastmod.json', {});
-  // Egen tilstandsfil for ukendte serier (Fix A): en serie, der senere bliver
-  // tilføjet til mappings/tv2play.json, skal IKKE se "allerede set uændret" ud,
-  // bare fordi den en gang optrådte i en tidligere ukendt-rapport.
-  const unmatchedState = readJson('state/tv2play-unmatched-lastmod.json', {});
   const overrides = readJson('overrides.json', { version: 1, shows: {} });
   const existingUnmatched = readJson('unmatched.json', {});
 
@@ -59,7 +61,7 @@ async function main() {
   // fjerner GUID'et, eller omorganiserer <url>/<loc>), går tællingerne mod
   // nul, PR-trinnet no-op'er, og jobbet lukker grønt — for evigt, uden signal.
   // Fejl højlydt her i stedet.
-  assertSitemapHealth(all, mine);
+  assertSitemapHealth(all, mine, unmapped);
 
   const todo = changedSince(mine, state);
   console.log(`afsnit vi følger: ${mine.length}, heraf ændret siden sidst: ${todo.length}`);
@@ -77,29 +79,13 @@ async function main() {
   }
   console.log(`afsnit med dato: ${found.length}`);
 
-  // Fix A/B (runde 2): ukendte serier, der er dukket op eller ændret sig siden
-  // sidst. Ingen ekstra hentninger — slug og sæsonsti kommer alene fra
-  // sitemap'et, som vi allerede har i hukommelsen. Tilstanden er nøglet pr.
-  // slug (ikke pr. URL), så filen bliver tusinder, ikke titusinder, rækker —
-  // og er tilstanden tom (første kørsel), tier buildUnmatched stille, så hele
-  // TV 2 Plays eksisterende katalog ikke ser "ændret" ud på én gang.
-  const { report: newlyUnmatched, nextState: nextUnmatchedState } = buildUnmatched(unmapped, unmatchedState);
-  console.log(`ukendte serier med ændringer siden sidst: ${Object.keys(newlyUnmatched).length}`);
+  // unmatched.json viser hele arbejdslisten, hver kørsel: alle ukendte
+  // serier, ikke kun dem der har flyttet sig siden sidst. Ingen ekstra
+  // hentninger — slug og sæsonsti kommer alene fra sitemap'et, som vi
+  // allerede har i hukommelsen.
+  const { report: unmatched } = buildUnmatched(unmapped);
 
   const { entries } = buildEntries(found, mapping);
-  // unmatched.json akkumuleres ligesom overrides.json: en kørsel ser kun det,
-  // der er ændret, så erstattes filen med bare det, forsvinder alt, en
-  // tidligere kørsel fandt. Vi starter derfor fra det, der allerede ligger på
-  // disk, lægger denne kørsels fund ovenpå, og fjerner de slugs, der i
-  // mellemtiden er blevet kortlagt (de hører til et andet sted nu).
-  const accumulatedUnmatched = Object.fromEntries(
-    Object.entries({ ...existingUnmatched, ...newlyUnmatched })
-      .filter(([slug]) => !mapping[slug]),
-  );
-  // Fix C (runde 2): uden en grænse kunne en samlet lastmod-opdatering på
-  // TV 2 Plays side genoplive hele floden fra første kørsel. De 50 nyeste
-  // overlever; resten tælles og logges, så det ikke sker i stilhed.
-  const { kept: unmatched, omitted: unmatchedOmitted } = limitUnmatched(accumulatedUnmatched, UNMATCHED_CAP);
 
   const today = new Date().toISOString().slice(0, 10);
   const { next, changed, skipped, staleManual } = mergeOverrides(overrides, entries, today);
@@ -116,16 +102,91 @@ async function main() {
     }
   }
   if (Object.keys(unmatched).length) console.log(`uden match: ${Object.keys(unmatched).length} serier, se unmatched.json`);
-  if (unmatchedOmitted) console.log(`${unmatchedOmitted} ukendte serier udeladt af unmatched.json (grænse ${UNMATCHED_CAP}, nyeste bevares)`);
+
+  // TV 2 Play-udgivelsen: afsnit uden TVmaze-mapping, som appen alligevel vil
+  // vise (isSupported), hentet under samme budget og høflighed som ovenfor.
+  const supportedUnmapped = unmapped.filter((e) => isSupported(e.slug));
+  const unmappedTodo = dueThisRun(supportedUnmapped, state, FETCH_BUDGET);
+  console.log(`ukortlagte, understøttede afsnit: ${supportedUnmapped.length}, heraf taget af budgettet: ${unmappedTodo.length}`);
+
+  const found2 = [];
+  // En kørsel under fuldt budget tager omkring en halv time, og loggen skriver
+  // ellers kun, når noget går galt. En tavs kørsel kan ikke skelnes fra en død
+  // kørsel, så den melder fremdrift undervejs.
+  const PROGRESS_EVERY = 250;
+  for (const [i, e] of unmappedTodo.entries()) {
+    await sleep(PAUSE);
+    try {
+      const episode = extractEpisode(await get(e.loc));
+      if (episode) { found2.push({ slug: e.slug, seasonPath: e.seasonPath, guid: e.guid, episode }); state[e.loc] = e.lastmod; }
+      else console.warn(`ingen brugbar schema.org: ${e.loc}`);
+    } catch (err) {
+      console.warn(`kunne ikke hentes: ${e.loc} — ${err.message}`);
+    }
+    if ((i + 1) % PROGRESS_EVERY === 0) {
+      console.log(`  ${i + 1}/${unmappedTodo.length} afsnit hentet, ${found2.length} med dato`);
+    }
+  }
+  console.log(`ukortlagte afsnit med dato: ${found2.length}`);
+
+  // Serieforsiden hentes én gang pr. serie, ikke pr. afsnit — ellers henter
+  // vi tusindvis af sider for ingenting. Navnet tages fra afsnittets
+  // episode.series (vi har det allerede); forsiden skal kun bruges til hintet.
+  const meta = {};
+  const unparsedThisRun = {};
+  const slugsThisRun = [...new Set(found2.map((f) => f.slug))].sort();
+  for (const slug of slugsThisRun) {
+    await sleep(PAUSE);
+    const name = found2.find((f) => f.slug === slug).episode.series;
+    try {
+      const html = await get(`https://play.tv2.dk/serie/${slug}`);
+      const hintText = extractHint(html);
+      const parsedHint = hintText ? parseHint(hintText, today) : null;
+      meta[slug] = { name, tmdbId: null, next: parsedHint?.date ?? null };
+      if (parsedHint?.unparsed) unparsedThisRun[slug] = parsedHint.unparsed;
+    } catch (err) {
+      console.warn(`serieforside kunne ikke hentes: ${slug} — ${err.message}`);
+      meta[slug] = { name, tmdbId: null, next: null };
+    }
+  }
+
+  const { index: newIndex, shows: newShows } = buildTv2Shows(found2, meta);
+  console.log(`TV 2 Play-serier bygget denne kørsel: ${Object.keys(newShows).length}`);
+  console.log(`hints der ikke kunne fortolkes: ${Object.keys(unparsedThisRun).length}`);
+  if (Object.keys(unparsedThisRun).length) console.log(`  serier: ${Object.keys(unparsedThisRun).join(', ')}`);
+
+  // Budgettet gør, at én kørsel kun ser en del af kataloget. Filerne lægges
+  // derfor OVENPÅ det, der allerede ligger på disk — nøjagtig som
+  // overrides.json/mergeOverrides ovenfor — ellers sletter hver kørsel det,
+  // den forrige fandt.
+  const existingIndexFile = readJson('tv2play/index.json', { version: 1, updated: '', shows: {} });
+  const mergedIndex = { ...existingIndexFile.shows, ...newIndex };
+  const indexFile = { version: 1, updated: today, shows: mergedIndex };
+
+  const mergedShowFiles = {};
+  for (const [slug, show] of Object.entries(newShows)) {
+    const existingShow = readJson(`tv2play/shows/${slug}.json`, null);
+    mergedShowFiles[slug] = existingShow ? mergeTv2Show(existingShow, show) : show;
+  }
+
+  const existingHintsFile = readJson('tv2play/unparsed-hints.json', { version: 1, updated: '', hints: {} });
+  const mergedHints = { ...existingHintsFile.hints };
+  for (const slug of slugsThisRun) {
+    // Enten opdateres den med et nyt uforstået hint, eller den fjernes, fordi
+    // hintet nu blev forstået (eller ikke findes længere) — begge dele er en
+    // konklusion fra DENNE kørsels serieforsidekald, ikke fra tidligere.
+    if (unparsedThisRun[slug]) mergedHints[slug] = unparsedThisRun[slug];
+    else delete mergedHints[slug];
+  }
+  const hintsFile = { version: 1, updated: today, hints: mergedHints };
 
   if (DRY) { console.log('tørkørsel: intet skrevet'); return; }
 
-  // Fix C (runde 1): state/-filerne skrives ubetinget — deres indhold ændrer
-  // sig legitimt ved hver kørsel. overrides.json og unmatched.json skrives
-  // kun, når der reelt er noget nyt, så en hånd-skrevet, stabil fil ikke får
-  // en daglig git-diff af ren omformatering.
+  // state/tv2play-lastmod.json skrives ubetinget — indholdet ændrer sig
+  // legitimt ved hver kørsel. overrides.json og unmatched.json skrives kun,
+  // når der reelt er noget nyt, så en hånd-skrevet, stabil fil ikke får en
+  // daglig git-diff af ren omformatering.
   writeFileSync('state/tv2play-lastmod.json', `${JSON.stringify(state, null, 2)}\n`);
-  writeFileSync('state/tv2play-unmatched-lastmod.json', `${JSON.stringify(nextUnmatchedState, null, 2)}\n`);
 
   if (changed.length) {
     writeFileSync('overrides.json', `${JSON.stringify(next, null, 2)}\n`);
@@ -138,6 +199,45 @@ async function main() {
   } else {
     console.log('unmatched.json: ingen ændringer, skriver ikke');
   }
+
+  // Samme regel som overrides.json/unmatched.json ovenfor: skriv kun en fil,
+  // når indholdet reelt har ændret sig, så en kørsel uden nyt for en given
+  // serie ikke genererer en daglig diff af ren omformatering.
+  if (canonicalJSON(existingIndexFile) !== canonicalJSON(indexFile)) {
+    mkdirSync('tv2play', { recursive: true });
+    writeFileSync('tv2play/index.json', `${JSON.stringify(indexFile, null, 2)}\n`);
+  } else {
+    console.log('tv2play/index.json: ingen ændringer, skriver ikke');
+  }
+
+  if (Object.keys(mergedShowFiles).length) mkdirSync('tv2play/shows', { recursive: true });
+  for (const [slug, show] of Object.entries(mergedShowFiles)) {
+    const existingShow = readJson(`tv2play/shows/${slug}.json`, null);
+    if (canonicalJSON(existingShow) === canonicalJSON(show)) continue;
+    writeFileSync(`tv2play/shows/${slug}.json`, `${JSON.stringify(show, null, 2)}\n`);
+  }
+
+  if (canonicalJSON(existingHintsFile) !== canonicalJSON(hintsFile)) {
+    mkdirSync('tv2play', { recursive: true });
+    writeFileSync('tv2play/unparsed-hints.json', `${JSON.stringify(hintsFile, null, 2)}\n`);
+  } else {
+    console.log('tv2play/unparsed-hints.json: ingen ændringer, skriver ikke');
+  }
+}
+
+/**
+ * Flet en nyligt bygget serie ind i det, der allerede ligger i
+ * tv2play/shows/<slug>.json. Episoder akkumuleres på tværs af kørsler (samme
+ * grund som mergeOverrides: budgettet lader os kun se en del af afsnittene ad
+ * gangen), mens de øvrige felter (navn, status, next, tmdbId) kommer fra
+ * DENNE kørsels friske hentning af serieforsiden — de er aldrig forældede på
+ * samme måde, for de hentes hver gang serien røres.
+ */
+function mergeTv2Show(existing, incoming) {
+  const byId = new Map((existing.episodes ?? []).map((e) => [e.id, e]));
+  for (const e of incoming.episodes) byId.set(e.id, e);
+  const episodes = [...byId.values()].sort((a, b) => a.season - b.season || a.number - b.number);
+  return { ...incoming, episodes };
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

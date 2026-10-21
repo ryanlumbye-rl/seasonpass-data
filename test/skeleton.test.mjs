@@ -11,4 +11,7 @@ test('mapping-filen peger flere slugs paa samme serie', () => {
 test('fixtures findes og indeholder det vi tester paa', () => {
   assert.match(readFileSync('fixtures/tv2play-episode.html', 'utf8'), /datePublished/);
   assert.match(readFileSync('fixtures/tv2play-sitemap.xml', 'utf8'), /lastmod/);
+  // Escapingen er selve pointen med dette fikstur: ét backslash foran hvert
+  // anfoerselstegn, som paa TV 2 Plays egen side.
+  assert.match(readFileSync('fixtures/tv2play-serieside.html', 'utf8'), /\\"infoHint\\":/);
 });
