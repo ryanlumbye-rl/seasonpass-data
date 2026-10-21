@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-17T00:00:00Z",
+  "updated": "2026-10-21T00:00:00Z",
   "shows": {
     "tvmaze:75026": {
       "title": "MobLand",
@@ -30,6 +30,7 @@
     },
     "tvmaze:39339": {
       "title": "Mord på Mallorca",
+      "service": "tv2",
       "source": "scraper",
       "note": "Hentet fra TV 2 Plays egen schema.org (datePublished)",
       "seasons": {
@@ -50,7 +51,7 @@
           }
         },
         "2": {
-          "episodes": 2,
+          "episodes": 5,
           "release": "2021-04-13",
           "pattern": "explicit",
           "episodeOverrides": {
@@ -59,11 +60,19 @@
             },
             "2": {
               "release": "2021-04-20"
+            },
+            "3": {
+              "release": "2021-04-27"
+            },
+            "4": {
+              "release": "2021-05-04"
+            },
+            "5": {
+              "release": "2021-05-11"
             }
           }
         }
-      },
-      "service": "tv2"
+      }
     }
   }
 }
