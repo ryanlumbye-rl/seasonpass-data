@@ -1,0 +1,1060 @@
+{
+  "id": "tv2play:beliggenhed-beliggenhed-beliggenhed-tv2",
+  "name": "Beliggenhed, beliggenhed, beliggenhed",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8909cafe-c5ca-4858-98be-aaca62f39b9e",
+      "season": 1,
+      "number": 1,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2014-02-27"
+    },
+    {
+      "id": "fd6054ef-9755-4a8a-92ab-e883a52dbf33",
+      "season": 1,
+      "number": 2,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2014-03-06"
+    },
+    {
+      "id": "7e5f5948-e0f8-40f2-8ba0-82cac178d045",
+      "season": 1,
+      "number": 3,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2014-03-13"
+    },
+    {
+      "id": "2ce44039-a321-40a5-b99a-40c2c80bfc24",
+      "season": 1,
+      "number": 4,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2014-03-20"
+    },
+    {
+      "id": "23362f53-be92-45a1-8ea7-7d03888fe782",
+      "season": 1,
+      "number": 5,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2014-03-27"
+    },
+    {
+      "id": "a3be8c7a-9055-4dad-b328-44db01ef3c21",
+      "season": 1,
+      "number": 6,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2014-04-03"
+    },
+    {
+      "id": "99743f89-bad9-4409-8fde-6d8adc9fb71a",
+      "season": 1,
+      "number": 7,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2014-04-17"
+    },
+    {
+      "id": "64429df8-8d98-41fc-bfa0-2d9986aedf10",
+      "season": 1,
+      "number": 8,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2014-05-01"
+    },
+    {
+      "id": "d655a622-4270-4e96-be33-280bfc51aad8",
+      "season": 2,
+      "number": 1,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2015-03-24"
+    },
+    {
+      "id": "e8d4b7f5-7563-48bc-a167-676ddc624cb6",
+      "season": 2,
+      "number": 2,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2015-03-31"
+    },
+    {
+      "id": "40f5d03c-264e-4fad-be7a-a539bf665abb",
+      "season": 2,
+      "number": 3,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2015-04-07"
+    },
+    {
+      "id": "99371927-4305-46a7-96f6-328d929829d2",
+      "season": 2,
+      "number": 4,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2015-04-14"
+    },
+    {
+      "id": "d6f2732f-4bad-4906-b2b2-568c42fdcae4",
+      "season": 2,
+      "number": 5,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2015-04-21"
+    },
+    {
+      "id": "7579582d-17ca-476d-899e-566718443ddc",
+      "season": 2,
+      "number": 6,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2015-04-28"
+    },
+    {
+      "id": "1659bf0d-801f-412f-84a8-28ed4ea16c79",
+      "season": 2,
+      "number": 7,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2015-05-05"
+    },
+    {
+      "id": "e0b4f1f9-4cc3-4dc7-bd0f-cc433c6e8484",
+      "season": 2,
+      "number": 8,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2015-05-12"
+    },
+    {
+      "id": "819142bf-32f1-45c9-9e76-aefee8de0187",
+      "season": 3,
+      "number": 1,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2016-03-30"
+    },
+    {
+      "id": "51c6dbb8-d638-4b96-bc09-cda4130dc5f8",
+      "season": 3,
+      "number": 2,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2016-04-06"
+    },
+    {
+      "id": "914aaa9f-a4a1-47f1-8e44-01ea491e5c7d",
+      "season": 3,
+      "number": 3,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2016-04-13"
+    },
+    {
+      "id": "49a17d4d-26f7-4aa5-a84b-538d9c1f2654",
+      "season": 3,
+      "number": 4,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2016-04-20"
+    },
+    {
+      "id": "af6899b6-3e33-41c1-be3a-6e05d75c36c8",
+      "season": 3,
+      "number": 5,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2016-04-27"
+    },
+    {
+      "id": "4ad53e28-1035-4173-9cc6-f4e1a8f008ad",
+      "season": 3,
+      "number": 6,
+      "name": "Jagten på drømmeboligen",
+      "airdate": "2016-05-04"
+    },
+    {
+      "id": "765a68f3-2e01-46a0-8d56-0c2b2b4de1a5",
+      "season": 4,
+      "number": 1,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-04-19"
+    },
+    {
+      "id": "223f4418-1a26-4886-9f4c-cc9cfab77b05",
+      "season": 4,
+      "number": 2,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-04-26"
+    },
+    {
+      "id": "1787b5c0-7109-46a6-8470-dde6c6312a16",
+      "season": 4,
+      "number": 3,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-05-03"
+    },
+    {
+      "id": "83e0cede-f512-4677-a0ef-ea4e46968377",
+      "season": 4,
+      "number": 4,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-05-17"
+    },
+    {
+      "id": "23036ec0-55da-4e17-a767-42d8393fbb2a",
+      "season": 4,
+      "number": 5,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-05-24"
+    },
+    {
+      "id": "b7eeb2e8-28b1-4737-b568-021b579bb04f",
+      "season": 4,
+      "number": 6,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-05-31"
+    },
+    {
+      "id": "95495849-2b53-4188-95bb-2cbfef1dfc3c",
+      "season": 4,
+      "number": 7,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-06-14"
+    },
+    {
+      "id": "dd165c20-2e0a-48b4-b167-d8261cf8ca2c",
+      "season": 4,
+      "number": 8,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-06-21"
+    },
+    {
+      "id": "6364609d-7838-4c54-8cc2-c0ec95b2b8f2",
+      "season": 5,
+      "number": 1,
+      "name": "Sommerhusspecial",
+      "airdate": "2017-09-13"
+    },
+    {
+      "id": "46c24d54-e701-4cf0-97eb-796960609164",
+      "season": 5,
+      "number": 2,
+      "name": "På boligjagt med Sara og Christian",
+      "airdate": "2017-09-13"
+    },
+    {
+      "id": "86eeacf8-df83-4e10-98f5-433d2df99ce1",
+      "season": 5,
+      "number": 3,
+      "name": "På jagt i Aalborg og på Amager",
+      "airdate": "2017-09-27"
+    },
+    {
+      "id": "553e2f35-5bef-4d02-b9be-8d637823b9b6",
+      "season": 6,
+      "number": 1,
+      "name": "På boligjagt i København",
+      "airdate": "2018-04-03"
+    },
+    {
+      "id": "098d959c-ca12-4e36-b29a-d40444a0d87f",
+      "season": 6,
+      "number": 2,
+      "name": "På husjagt omkring København",
+      "airdate": "2018-04-10"
+    },
+    {
+      "id": "439e9156-d14d-47ba-9c8b-35386a56f1a3",
+      "season": 6,
+      "number": 3,
+      "name": "Boligjagt i København og Vejle",
+      "airdate": "2018-04-17"
+    },
+    {
+      "id": "f74ee050-ac90-465d-bb1d-e9db734a61d4",
+      "season": 6,
+      "number": 4,
+      "name": "På boligjagt i Svendborg og Slagelse",
+      "airdate": "2018-04-24"
+    },
+    {
+      "id": "fa12cc35-f3e6-4692-8b21-737ff5ffb272",
+      "season": 6,
+      "number": 5,
+      "name": "På boligjagt i Midtjylland og Nordsjælland",
+      "airdate": "2018-05-01"
+    },
+    {
+      "id": "9744c294-aed4-4be3-8983-b8f44012d7ac",
+      "season": 6,
+      "number": 6,
+      "name": "På boligjagt i Nordjylland - og omkring København",
+      "airdate": "2018-05-15"
+    },
+    {
+      "id": "5e931835-51ad-43bc-a597-036b38fc92d8",
+      "season": 7,
+      "number": 1,
+      "name": "På boligjagt på Midt- og Nordsjælland",
+      "airdate": "2018-08-01"
+    },
+    {
+      "id": "2d7bfff2-c13c-4ff8-b072-96c622404cf4",
+      "season": 7,
+      "number": 2,
+      "name": "På boligjagt i Herning og i Hedehusene",
+      "airdate": "2018-08-08"
+    },
+    {
+      "id": "b57dc961-3bb0-40c7-8de1-0d27f9e4aa45",
+      "season": 7,
+      "number": 3,
+      "name": "På boligjagt på Fyn og i Storkøbenhavn",
+      "airdate": "2018-08-15"
+    },
+    {
+      "id": "eaa89a45-a211-4aa1-b787-30e1b6be6495",
+      "season": 7,
+      "number": 4,
+      "name": "På boligjagt omkring Køge og i Storkøbenhavn",
+      "airdate": "2018-08-22"
+    },
+    {
+      "id": "c661632e-07ae-4d8a-a784-eba8f21b7ce9",
+      "season": 7,
+      "number": 5,
+      "name": "På boligjagt i Haderslev og København",
+      "airdate": "2018-08-29"
+    },
+    {
+      "id": "cb56335d-86e6-45d9-ad14-fedce1cd45ec",
+      "season": 7,
+      "number": 6,
+      "name": "På boligjagt i Holstebro og Nordsjælland",
+      "airdate": "2018-09-05"
+    },
+    {
+      "id": "86bc5b34-27de-463f-8dd0-700875a3d12b",
+      "season": 7,
+      "number": 7,
+      "name": "På boligjagt udenfor København og ved Aarhus",
+      "airdate": "2018-09-12"
+    },
+    {
+      "id": "733ff473-605b-4d58-ba82-090d00c1d573",
+      "season": 7,
+      "number": 8,
+      "name": "På boligjagt ved København og på Sydfyn",
+      "airdate": "2018-09-19"
+    },
+    {
+      "id": "3ce9a468-9102-462b-9ca3-24ce2d29bc41",
+      "season": 7,
+      "number": 9,
+      "name": "På boligjagt nord for København i Solrød og Greve",
+      "airdate": "2018-10-03"
+    },
+    {
+      "id": "a96bddc3-cbfc-4b6b-8dee-f1b3df774ea3",
+      "season": 7,
+      "number": 10,
+      "name": "På boligjagt nord for København og i Holbæk",
+      "airdate": "2018-10-03"
+    },
+    {
+      "id": "0c6f46f6-ef56-4ef5-a897-f8fd0f9e2fb9",
+      "season": 8,
+      "number": 1,
+      "name": "På boligjagt på Amager og i Kolding",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "49a97ce4-e438-445f-94d4-b92a0cf31f83",
+      "season": 8,
+      "number": 2,
+      "name": "På boligjagt tæt på København",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "a5d9a139-062c-4723-9f53-2247a33b2459",
+      "season": 8,
+      "number": 3,
+      "name": "På boligjagt i Nordsjælland og omkring Aalborg",
+      "airdate": "2019-02-26"
+    },
+    {
+      "id": "34a7dd81-bc14-45fe-b349-d249c1f70b9b",
+      "season": 8,
+      "number": 4,
+      "name": "På boligjagt på Midtfyn og i København",
+      "airdate": "2019-03-05"
+    },
+    {
+      "id": "2d158435-2411-4964-a10a-fe8ed49209f4",
+      "season": 8,
+      "number": 5,
+      "name": "På boligjagt i Herning og Nordsjælland",
+      "airdate": "2019-03-19"
+    },
+    {
+      "id": "1f4a14af-fe12-43d5-bcf8-f344b1cf8a3e",
+      "season": 8,
+      "number": 6,
+      "name": "Sydøstjylland og Nordsjælland",
+      "airdate": "2019-03-19"
+    },
+    {
+      "id": "ad237763-0675-41c2-b2f4-39e9874ddf3e",
+      "season": 8,
+      "number": 7,
+      "name": "På boligjagt omkring Roskilde og Vejle",
+      "airdate": "2019-03-26"
+    },
+    {
+      "id": "4f624624-6388-4bcb-87c5-c6fd91d3a79d",
+      "season": 8,
+      "number": 8,
+      "name": "På boligjagt omkring Aalborg og i Herlev",
+      "airdate": "2019-04-02"
+    },
+    {
+      "id": "3ac1de08-c510-4cf9-af8c-343f03d1073e",
+      "season": 8,
+      "number": 9,
+      "name": "På boligjagt i Sønderjylland og på Vestegnen",
+      "airdate": "2019-07-31"
+    },
+    {
+      "id": "36036b39-5c9e-48e5-be6e-38e635042919",
+      "season": 8,
+      "number": 10,
+      "name": "På boligjagt i Århus og Svendborg",
+      "airdate": "2019-08-07"
+    },
+    {
+      "id": "fceab03a-7828-48ff-85c3-e41bf202744e",
+      "season": 8,
+      "number": 11,
+      "name": "På boligjagt i Odense og på Sjælland",
+      "airdate": "2019-08-14"
+    },
+    {
+      "id": "169d630f-0957-4aae-8f46-f8f656b6fe66",
+      "season": 8,
+      "number": 12,
+      "name": "På boligjagt på Amager og på Sjælland",
+      "airdate": "2019-08-21"
+    },
+    {
+      "id": "3cbee528-3aba-4f38-a23f-9655e7688eee",
+      "season": 8,
+      "number": 13,
+      "name": "På boligjagt tæt på København",
+      "airdate": "2019-08-28"
+    },
+    {
+      "id": "66df61e5-94b6-4dd7-9268-0d5e84c34f50",
+      "season": 8,
+      "number": 14,
+      "name": "På boligjagt syd for Aarhus og nord for København",
+      "airdate": "2019-09-11"
+    },
+    {
+      "id": "9443e24d-6422-48de-a861-b2008a264afe",
+      "season": 9,
+      "number": 1,
+      "name": "På boligjagt i Nordsjælland",
+      "airdate": "2020-01-08"
+    },
+    {
+      "id": "f70ec565-9116-4029-83ee-fede11638bb8",
+      "season": 9,
+      "number": 2,
+      "name": "På boligjagt i Aarhus og Ringsted",
+      "airdate": "2020-01-08"
+    },
+    {
+      "id": "8dc45b3d-eb71-40f9-bc34-9dae9ae28679",
+      "season": 9,
+      "number": 3,
+      "name": "På boligjagt i Aarhus og Holbæk",
+      "airdate": "2020-01-22"
+    },
+    {
+      "id": "27883636-6e32-4da7-aeec-f02c9306c00f",
+      "season": 9,
+      "number": 4,
+      "name": "På boligjagt i Aalborg og Roskilde",
+      "airdate": "2020-01-29"
+    },
+    {
+      "id": "9557c8ab-f90e-4f23-95c1-dfbf245b6e94",
+      "season": 9,
+      "number": 5,
+      "name": "På boligjagt i Sønderborg og på Sjælland",
+      "airdate": "2020-02-05"
+    },
+    {
+      "id": "919f0d04-558e-4cb4-93d9-ffa0bd0b8896",
+      "season": 9,
+      "number": 6,
+      "name": "På boligjagt i Jylland og på Sjælland",
+      "airdate": "2020-02-12"
+    },
+    {
+      "id": "81b699c1-54d4-49ab-b0eb-57f567d2a34b",
+      "season": 9,
+      "number": 7,
+      "name": "På boligjagt i København og i hovedstadens dyre forstæder",
+      "airdate": "2020-02-19"
+    },
+    {
+      "id": "2911fb14-f041-4e86-8c42-b1cf21a9926b",
+      "season": 9,
+      "number": 8,
+      "name": "På boligjagt i Thy og Aarhus",
+      "airdate": "2020-03-04"
+    },
+    {
+      "id": "bb431e49-babc-4982-96b3-577d3c4fb24e",
+      "season": 10,
+      "number": 1,
+      "name": "På boligjagt i København og Nordsjælland",
+      "airdate": "2020-08-05"
+    },
+    {
+      "id": "dabe05cc-cccd-44f1-89d6-c5034ce34f61",
+      "season": 10,
+      "number": 3,
+      "name": "På husjagt i Aarhus",
+      "airdate": "2020-08-12"
+    },
+    {
+      "id": "432ddf15-bb83-4b67-8503-880f3039053c",
+      "season": 10,
+      "number": 4,
+      "name": "På boligjagt i Storkøbenhavn og omkring Aars",
+      "airdate": "2020-08-19"
+    },
+    {
+      "id": "fe3093fc-3e57-40fb-bb2a-91c158b362f9",
+      "season": 10,
+      "number": 4,
+      "name": "På boligjagt i København for millioner",
+      "airdate": "2020-08-12"
+    },
+    {
+      "id": "4c7d30c1-0dec-4b1a-82f0-4eb36282cab8",
+      "season": 10,
+      "number": 5,
+      "name": "På boligjagt i Københavns forstæder og Østjylland",
+      "airdate": "2020-08-26"
+    },
+    {
+      "id": "2b689115-a835-4003-958f-5f21accb9f5d",
+      "season": 10,
+      "number": 6,
+      "name": "På boligjagt i København og på Sjælland",
+      "airdate": "2020-09-02"
+    },
+    {
+      "id": "5d793301-b480-4c5d-bf28-aea0d4abe418",
+      "season": 10,
+      "number": 7,
+      "name": "På boligjagt i Aalborg og i Odense",
+      "airdate": "2020-09-09"
+    },
+    {
+      "id": "7fbe97d8-1811-49ee-bfb3-927434d203b8",
+      "season": 10,
+      "number": 8,
+      "name": "På boligjagt på landet og ved vandet",
+      "airdate": "2020-09-16"
+    },
+    {
+      "id": "ec235542-0d66-4184-877d-a8cb6692274a",
+      "season": 11,
+      "number": 1,
+      "name": "København og Nordsjælland",
+      "airdate": "2021-01-06"
+    },
+    {
+      "id": "295db94d-6b36-4419-be6f-7a86556f8d2e",
+      "season": 11,
+      "number": 2,
+      "name": "Roskilde og i Midtjylland",
+      "airdate": "2021-01-06"
+    },
+    {
+      "id": "56c34a2a-0b6d-4f42-9c24-23565d7bc426",
+      "season": 11,
+      "number": 3,
+      "name": "Odense og Midtjylland",
+      "airdate": "2021-01-13"
+    },
+    {
+      "id": "fe2d5462-c940-4afd-9f2e-e67ef8eef5a4",
+      "season": 11,
+      "number": 4,
+      "name": "Syd for København og i Aarhus",
+      "airdate": "2021-01-20"
+    },
+    {
+      "id": "81d077b0-0b8d-43af-8c5a-dfdb7f82b018",
+      "season": 11,
+      "number": 5,
+      "name": "Storkøbenhavn og på Bornholm",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "f1762aa4-38ac-4f2d-a12f-0f630b59991d",
+      "season": 11,
+      "number": 6,
+      "name": "København og omkring Silkeborg",
+      "airdate": "2021-02-10"
+    },
+    {
+      "id": "53bc2d2b-2939-4336-a1fd-e06c0546d29f",
+      "season": 11,
+      "number": 7,
+      "name": "Nordsjælland og Odense",
+      "airdate": "2021-02-17"
+    },
+    {
+      "id": "31c1f99b-220e-4be4-99bf-4a806912b56c",
+      "season": 11,
+      "number": 8,
+      "name": "Ved Limfjorden og i Nordsjælland",
+      "airdate": "2021-02-24"
+    },
+    {
+      "id": "216d154f-84ea-4f85-8285-2033058f21eb",
+      "season": 12,
+      "number": 1,
+      "name": "Aarhus-området og Sjælland",
+      "airdate": "2021-08-04"
+    },
+    {
+      "id": "681dfba8-c473-456a-ab81-1f7cf342ebfb",
+      "season": 12,
+      "number": 2,
+      "name": "Københavns vestegn og i Nordjylland",
+      "airdate": "2021-08-04"
+    },
+    {
+      "id": "359cd35c-c02c-4a48-8b8f-5a9589508ea0",
+      "season": 12,
+      "number": 3,
+      "name": "København og langt ude på landet",
+      "airdate": "2021-08-11"
+    },
+    {
+      "id": "77003657-3f94-42b7-9509-e429c8966236",
+      "season": 12,
+      "number": 4,
+      "name": "København og Vejle",
+      "airdate": "2021-08-18"
+    },
+    {
+      "id": "d94d6457-f90c-4dfb-8d4a-d12e3a698436",
+      "season": 12,
+      "number": 5,
+      "name": "København og Nordsjælland",
+      "airdate": "2021-08-25"
+    },
+    {
+      "id": "bd5d13d5-2290-42de-b2a1-acfc5dd787c1",
+      "season": 12,
+      "number": 6,
+      "name": "Nordsjælland og Aarhus",
+      "airdate": "2021-09-01"
+    },
+    {
+      "id": "d769143e-fad3-48a0-abb9-285c4d37f211",
+      "season": 12,
+      "number": 7,
+      "name": "Søhøjlandet og København",
+      "airdate": "2021-09-08"
+    },
+    {
+      "id": "bff677cb-331e-495b-a368-66c792c659dc",
+      "season": 12,
+      "number": 8,
+      "name": "Sjælland og på Bornholm",
+      "airdate": "2021-09-15"
+    },
+    {
+      "id": "96d51663-796f-46f3-9ea0-56acc5edb10d",
+      "season": 13,
+      "number": 1,
+      "name": "Nordsjælland og Hedensted",
+      "airdate": "2022-02-16"
+    },
+    {
+      "id": "6edefaf1-10ad-490d-8b41-93b2801e5350",
+      "season": 13,
+      "number": 2,
+      "name": "Falster og i Københavns forstæder",
+      "airdate": "2022-03-02"
+    },
+    {
+      "id": "d04dcb1a-6b8c-4b23-be7b-4ae4b7811aac",
+      "season": 13,
+      "number": 3,
+      "name": "Nordsjælland og Midtjylland",
+      "airdate": "2022-03-02"
+    },
+    {
+      "id": "507534d9-aa7a-4094-ae2a-f5c9225ee92e",
+      "season": 13,
+      "number": 4,
+      "name": "Sjælland og jagtejendomme i Jylland",
+      "airdate": "2022-03-09"
+    },
+    {
+      "id": "e7625b38-1627-4bba-adcd-7a820d18b12b",
+      "season": 13,
+      "number": 5,
+      "name": "Nordsjælland og Odense",
+      "airdate": "2022-07-20"
+    },
+    {
+      "id": "a6bf4b86-5124-458d-8df9-63c3ce19d344",
+      "season": 13,
+      "number": 6,
+      "name": "Odense og Storkøbenhavn",
+      "airdate": "2022-08-03"
+    },
+    {
+      "id": "6823f994-7922-438b-a85f-edd07bb02282",
+      "season": 13,
+      "number": 7,
+      "name": "Storkøbenhavn og Nordvestsjælland",
+      "airdate": "2022-08-03"
+    },
+    {
+      "id": "1109f841-c091-4cc0-ba7f-0d1d7e842690",
+      "season": 13,
+      "number": 8,
+      "name": "I det sydfynske og Vestjylland",
+      "airdate": "2022-08-10"
+    },
+    {
+      "id": "a2ebe780-074b-4b1a-b84e-137840242cf1",
+      "season": 13,
+      "number": 9,
+      "name": "Holstebro og København",
+      "airdate": "2022-08-17"
+    },
+    {
+      "id": "50959005-53dc-4416-ac3f-57c8e35adcd5",
+      "season": 14,
+      "number": 1,
+      "name": "Odense og Vestegnen",
+      "airdate": "2023-06-29"
+    },
+    {
+      "id": "5aef1359-b034-44a6-9802-cfc872e4759d",
+      "season": 14,
+      "number": 2,
+      "name": "Østjylland og Fyn",
+      "airdate": "2023-07-06"
+    },
+    {
+      "id": "eb37ab04-7c94-4261-b53e-67d92239c36d",
+      "season": 14,
+      "number": 3,
+      "name": "Vejle",
+      "airdate": "2023-07-13"
+    },
+    {
+      "id": "bce47d12-2fac-4061-bb3b-f12c97dbce7b",
+      "season": 14,
+      "number": 4,
+      "name": "Aarhus og København",
+      "airdate": "2023-08-17"
+    },
+    {
+      "id": "5af5ecf8-987a-48a4-b690-a20b852cbf94",
+      "season": 14,
+      "number": 5,
+      "name": "Randers og forstaderne til København",
+      "airdate": "2023-08-24"
+    },
+    {
+      "id": "6221fa66-3ca4-46d4-9722-19633268c8f8",
+      "season": 14,
+      "number": 6,
+      "name": "Nordsjælland og Egtved",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "780acbc1-ca0e-4657-bccc-89ee59cc2bed",
+      "season": 14,
+      "number": 7,
+      "name": "København og Sjælland",
+      "airdate": "2023-09-07"
+    },
+    {
+      "id": "073a532d-1d25-4480-abbb-59c9aea8befc",
+      "season": 14,
+      "number": 8,
+      "name": "København og Vestegnen",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "958e4083-b726-4515-9fed-d09db799266b",
+      "season": 15,
+      "number": 1,
+      "name": "København og Møn",
+      "airdate": "2024-01-04"
+    },
+    {
+      "id": "4c704746-d460-4bab-ae54-8e84d3247564",
+      "season": 15,
+      "number": 2,
+      "name": "København og Midtjylland",
+      "airdate": "2024-01-11"
+    },
+    {
+      "id": "f46f30b1-ff2d-4bc4-a1a7-632cbb8ab02f",
+      "season": 15,
+      "number": 3,
+      "name": "Odense og Frederikssund",
+      "airdate": "2024-01-18"
+    },
+    {
+      "id": "019bdb03-126d-484f-a6a7-c53ea7055bf4",
+      "season": 15,
+      "number": 4,
+      "name": "Nordsjælland og Sønderborg",
+      "airdate": "2024-01-25"
+    },
+    {
+      "id": "7accbb99-26c8-4188-b9e0-dad02ad2a46e",
+      "season": 15,
+      "number": 5,
+      "name": "Silkeborg og Vestegnen",
+      "airdate": "2024-02-01"
+    },
+    {
+      "id": "80bb7735-4b0b-452c-bd2c-b81698ba3e85",
+      "season": 15,
+      "number": 6,
+      "name": "I Nyborg og Aarhus",
+      "airdate": "2024-02-08"
+    },
+    {
+      "id": "41337243-acb2-43bb-bc32-7382d7454ea6",
+      "season": 16,
+      "number": 1,
+      "name": "Ringsted og Københavns omegn",
+      "airdate": "2024-02-29"
+    },
+    {
+      "id": "9d8d2942-6e15-46bb-9456-d899fee11c16",
+      "season": 16,
+      "number": 2,
+      "name": "Lolland og Aarhus",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "af284016-c303-4225-8636-f317a442c314",
+      "season": 16,
+      "number": 3,
+      "name": "Sønderjylland og Københavns forstæder",
+      "airdate": "2024-03-14"
+    },
+    {
+      "id": "9c371565-0813-455e-bdb3-425d68db51d7",
+      "season": 16,
+      "number": 4,
+      "name": "Vestegnen og Thy",
+      "airdate": "2024-03-21"
+    },
+    {
+      "id": "01dfdc08-0be4-4518-ad17-882806dab3e7",
+      "season": 16,
+      "number": 5,
+      "name": "Ribe og Odense",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "adccbf47-4d83-4a5f-a531-6a817c1f6162",
+      "season": 16,
+      "number": 6,
+      "name": "Horsens og København",
+      "airdate": "2024-07-22"
+    },
+    {
+      "id": "ee67b3f4-a81f-4b3b-b864-ae3e74413a8f",
+      "season": 17,
+      "number": 1,
+      "name": "Nykøbing Falster og Silkeborg",
+      "airdate": "2025-01-28"
+    },
+    {
+      "id": "e2dfa16d-a377-468b-904b-aca11497ef29",
+      "season": 17,
+      "number": 2,
+      "name": "København og omegn",
+      "airdate": "2025-02-04"
+    },
+    {
+      "id": "061cfa18-a232-4249-8b13-19130182fcb8",
+      "season": 17,
+      "number": 3,
+      "name": "Hillerød og Sønderborg",
+      "airdate": "2025-02-11"
+    },
+    {
+      "id": "652f96d6-4a12-4254-9b3b-91109fdc23f3",
+      "season": 17,
+      "number": 4,
+      "name": "København og Nordsjælland",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "c5435149-a59c-476f-a243-b4655d69af4e",
+      "season": 17,
+      "number": 5,
+      "name": "Vejen og Odsherred",
+      "airdate": "2025-02-25"
+    },
+    {
+      "id": "bff048a5-6f4b-4914-8cb8-b22214dd0e26",
+      "season": 17,
+      "number": 6,
+      "name": "Søborg og Vestegnen",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "c35514ca-8e69-4cf7-ad42-2dad1a37c1e8",
+      "season": 17,
+      "number": 7,
+      "name": "Østjylland og Søborg",
+      "airdate": "2025-07-24"
+    },
+    {
+      "id": "fc09c777-d2d3-4eb4-98e4-4b7851363059",
+      "season": 17,
+      "number": 8,
+      "name": "Vestegnen og Midtsjælland",
+      "airdate": "2025-07-31"
+    },
+    {
+      "id": "6e9cd1c8-727d-47d0-b2c8-b59a9092014f",
+      "season": 17,
+      "number": 9,
+      "name": "København og Esbjerg/Varde",
+      "airdate": "2025-08-07"
+    },
+    {
+      "id": "3781e7da-ace4-497c-8622-b53cfa2886eb",
+      "season": 17,
+      "number": 10,
+      "name": "Als og Søborg/Herlev",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "d09d7eaf-61a1-46e1-b150-84be36517d01",
+      "season": 17,
+      "number": 11,
+      "name": "Østjylland og Sjælland",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "da26833b-23a7-4721-8c92-0acf3f347a25",
+      "season": 17,
+      "number": 12,
+      "name": "Stevns og Odense",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "ace5571d-6844-48e9-b3a1-9893c3cfa95a",
+      "season": 18,
+      "number": 1,
+      "name": "Hals og Køge Bugt-området",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "0ca5e269-720a-4147-840b-cf75f358655f",
+      "season": 18,
+      "number": 2,
+      "name": "På Vestegnen og i Skanderborg",
+      "airdate": "2026-02-19"
+    },
+    {
+      "id": "2a2a399e-6491-484a-9ab4-200f3b97e414",
+      "season": 18,
+      "number": 3,
+      "name": "Silkeborg og Karrebæksminde",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "96ee8b79-13f4-4a22-a17f-ad8e756718cb",
+      "season": 18,
+      "number": 4,
+      "name": "Sjælland og Odense",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "fdd91b90-d2e9-46ce-9b30-cd7ae0569cc9",
+      "season": 18,
+      "number": 5,
+      "name": "Ølstykke og Esbjerg",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "7b0f1807-20e8-421d-adb2-0d635215713c",
+      "season": 18,
+      "number": 6,
+      "name": "København og Hillerød",
+      "airdate": "2026-07-09"
+    },
+    {
+      "id": "f3025955-1267-4afd-ad98-a028d600d8e9",
+      "season": 18,
+      "number": 7,
+      "name": "Nordsjælland og Silkeborg",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "4eee9800-d86d-44a8-82e8-c36283b7c9c6",
+      "season": 18,
+      "number": 8,
+      "name": "Aalborg og København",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "4ddfbaed-d5ab-4ab3-abcf-74d00c8621fc",
+      "season": 18,
+      "number": 9,
+      "name": "Nordsjælland og Sydfyn",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "04b02df1-f525-4fa9-9c80-63b8d3be5339",
+      "season": 18,
+      "number": 10,
+      "name": "Sjælland og Aarhus",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "b74067e2-492b-40f5-b8fe-a71dba6984fe",
+      "season": 18,
+      "number": 11,
+      "name": "Østjylland og Storkøbenhavn",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "008bdc55-4886-44ea-9ed1-66476922994c",
+      "season": 18,
+      "number": 12,
+      "name": "Odense og Viborg",
+      "airdate": "2026-08-20"
+    },
+    {
+      "id": "440c532b-abe6-4efa-9c75-6316f665d540",
+      "season": 18,
+      "number": 13,
+      "name": "Esbjerg og Falster",
+      "airdate": "2026-08-27"
+    },
+    {
+      "id": "7b60b60a-331e-4bd7-8710-89f306f20b88",
+      "season": 18,
+      "number": 14,
+      "name": "På Lolland og i Greve",
+      "airdate": "2026-09-03"
+    }
+  ]
+}

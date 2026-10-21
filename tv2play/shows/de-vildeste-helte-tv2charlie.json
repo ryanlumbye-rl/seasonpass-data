@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:de-vildeste-helte-tv2charlie",
+  "name": "De vildeste helte",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d80b4838-7ff8-4694-bb70-9aa47b797cdb",
+      "season": 1,
+      "number": 2,
+      "name": "Spøgelsesregimentet",
+      "airdate": "2024-04-03"
+    },
+    {
+      "id": "cc7550a0-87b9-4045-870f-239049416e47",
+      "season": 1,
+      "number": 3,
+      "name": "I et hav af sand",
+      "airdate": "2024-04-10"
+    },
+    {
+      "id": "ec2ebd92-611a-4c1a-a97f-3df2061a079f",
+      "season": 1,
+      "number": 4,
+      "name": "Ven eller fjende?",
+      "airdate": "2024-04-17"
+    },
+    {
+      "id": "98d80ead-a44c-4127-8184-2b75ef50f773",
+      "season": 1,
+      "number": 5,
+      "name": "Gjort af det rette stof",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "b089e8bc-e129-446b-af4c-82e0231c8ffe",
+      "season": 2,
+      "number": 1,
+      "name": "Indtag Sicilien",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "7b624e49-781e-47f0-80e5-9104abf6dd27",
+      "season": 2,
+      "number": 2,
+      "name": "Med præstens velsignelse",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "84cad1f9-24aa-4999-be46-35b0388cfadb",
+      "season": 2,
+      "number": 3,
+      "name": "Modstandsbevægelsens kamp",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "b94e224a-c882-4447-bbf3-623eed20cbba",
+      "season": 2,
+      "number": 4,
+      "name": "Tyskerne slår igen",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "7f2bc1f9-e865-41a4-a323-66204cb9bdf0",
+      "season": 2,
+      "number": 5,
+      "name": "Op mod muren",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "4062afec-3a1c-4a33-a189-90b7e2ab036b",
+      "season": 2,
+      "number": 6,
+      "name": "På vej mod Normandiet",
+      "airdate": "2026-01-02"
+    }
+  ]
+}

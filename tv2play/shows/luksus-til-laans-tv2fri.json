@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:luksus-til-laans-tv2fri",
+  "name": "Luksus til låns",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9c8db332-0de2-4514-9ea2-74d177a3141b",
+      "season": 3,
+      "number": 3,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "be2e7c37-083a-4624-a27e-ca0dfbc4e013",
+      "season": 3,
+      "number": 4,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "ff60ac89-b62c-48df-99fa-1c5fff38dd90",
+      "season": 3,
+      "number": 5,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "6c14a5ed-accf-445b-9538-b4615915a2f2",
+      "season": 3,
+      "number": 6,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "0db73d70-1085-423a-b999-9e10fc589c07",
+      "season": 3,
+      "number": 7,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "46cb6412-bf05-455a-b7bd-0916ca0d61a9",
+      "season": 3,
+      "number": 8,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "703bb8e5-34eb-4505-be80-1df658789496",
+      "season": 3,
+      "number": 9,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "9862dd14-40f6-4e07-8d96-60149eed4e0a",
+      "season": 3,
+      "number": 10,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "839c2353-ae39-476a-ade7-cb7aa9a40b40",
+      "season": 3,
+      "number": 11,
+      "name": "Den hurtige vej til kontanter",
+      "airdate": "2016-07-13"
+    },
+    {
+      "id": "426530c6-8c62-4446-9612-399cea8dc990",
+      "season": 3,
+      "number": 12,
+      "name": "Julespecial",
+      "airdate": "2016-07-13"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "tv2play:nybyggerne-tv2",
+  "name": "Nybyggerne",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-26",
+  "episodes": [
+    {
+      "id": "d5a79310-bdc9-498d-b34c-7c45e73c6390",
+      "season": 9,
+      "number": 1,
+      "name": "Velkommen på Nybyggervej",
+      "airdate": "2023-09-21"
+    },
+    {
+      "id": "d9ec6d41-8dc0-42da-b473-c23a04b09850",
+      "season": 9,
+      "number": 2,
+      "name": "Forhave og fællesskab",
+      "airdate": "2023-09-28"
+    },
+    {
+      "id": "a61b98f8-44e5-46ba-99e4-644d775c0968",
+      "season": 9,
+      "number": 3,
+      "name": "Uventede udfordringer med badeværelset",
+      "airdate": "2023-10-05"
+    },
+    {
+      "id": "a06753d2-d672-496e-841b-cc3eae49141c",
+      "season": 9,
+      "number": 4,
+      "name": "Ekstra værelse på fire dage",
+      "airdate": "2023-10-12"
+    },
+    {
+      "id": "f88b781b-456a-4ea5-abbe-0576009e4af9",
+      "season": 9,
+      "number": 5,
+      "name": "Køkkentid",
+      "airdate": "2023-10-19"
+    },
+    {
+      "id": "32506cda-c6d4-4c75-9bf4-5ee5d1583f04",
+      "season": 9,
+      "number": 6,
+      "name": "Ekstra værelse til gæster",
+      "airdate": "2023-10-26"
+    },
+    {
+      "id": "6d369c9e-01ab-4367-b878-16c307ec391c",
+      "season": 9,
+      "number": 7,
+      "name": "Drømmen om hygge og gæster",
+      "airdate": "2023-11-02"
+    },
+    {
+      "id": "f3827d4e-72de-4402-83ed-4d73b5168d93",
+      "season": 9,
+      "number": 8,
+      "name": "To rum på seks dage",
+      "airdate": "2023-11-09"
+    },
+    {
+      "id": "33d6e39e-b082-44fe-b2ef-5394f0714887",
+      "season": 9,
+      "number": 9,
+      "name": "Baghaven",
+      "airdate": "2023-11-16"
+    },
+    {
+      "id": "180f16fb-1d8a-4ed6-8ca8-6b45268e4d73",
+      "season": 9,
+      "number": 10,
+      "name": "Sidste omgang",
+      "airdate": "2023-11-23"
+    },
+    {
+      "id": "ac8e74ba-c319-49dc-8e20-fc41099b5304",
+      "season": 9,
+      "number": 11,
+      "name": "Sidste rum, før vinderen kåres",
+      "airdate": "2023-11-30"
+    },
+    {
+      "id": "95c9e798-c5b9-40a7-bfae-e05a3879492c",
+      "season": 10,
+      "number": 1,
+      "name": "Soveværelset",
+      "airdate": "2025-02-13"
+    },
+    {
+      "id": "8368b26a-11cd-4b3f-ad35-18c061df3dd2",
+      "season": 10,
+      "number": 2,
+      "name": "Forhaven",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "2d12ac64-a9b5-4efe-90d6-f7cec8cd2c4b",
+      "season": 10,
+      "number": 3,
+      "name": "Det første værelse",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "5abc0efc-b142-4481-9933-b44b4573dd18",
+      "season": 10,
+      "number": 4,
+      "name": "Badeværelset",
+      "airdate": "2025-03-06"
+    },
+    {
+      "id": "9e8fbc35-d473-4f36-9356-9b93269662be",
+      "season": 10,
+      "number": 5,
+      "name": "Baghaven",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "5551aa0f-a236-4aff-9fc3-563c063d1b5f",
+      "season": 10,
+      "number": 6,
+      "name": "Entréen",
+      "airdate": "2025-03-20"
+    },
+    {
+      "id": "a90cdef8-b32e-4e6b-acd1-510ec270345a",
+      "season": 10,
+      "number": 7,
+      "name": "Køkkenet",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "bc2b8283-2903-473b-a63f-dc7bff532189",
+      "season": 10,
+      "number": 8,
+      "name": "Andet værelse",
+      "airdate": "2025-04-03"
+    },
+    {
+      "id": "c5d8517c-9e74-45ae-afa0-0dd3a4d20c75",
+      "season": 10,
+      "number": 9,
+      "name": "Spisestuen",
+      "airdate": "2025-04-10"
+    },
+    {
+      "id": "d7535e77-58ca-4edf-9c50-d00a9868bca6",
+      "season": 10,
+      "number": 10,
+      "name": "Stuen",
+      "airdate": "2025-04-17"
+    },
+    {
+      "id": "9bfbc714-e251-4500-bc09-3d6e622baa57",
+      "season": 10,
+      "number": 11,
+      "name": "Hvem vinder huset i Holstebro?",
+      "airdate": "2025-05-01"
+    },
+    {
+      "id": "69ddc83d-24d1-4583-b692-8baa3e064806",
+      "season": 11,
+      "number": 1,
+      "name": "Soveværelset",
+      "airdate": "2026-09-14"
+    },
+    {
+      "id": "2f340899-a1fe-469b-96f8-cca72ae11ce5",
+      "season": 11,
+      "number": 2,
+      "name": "Badeværelset",
+      "airdate": "2026-09-21"
+    },
+    {
+      "id": "42821c3a-a56f-4177-a45d-2cbd733cb2b0",
+      "season": 11,
+      "number": 3,
+      "name": "Entré og bryggers",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "43fc2b3f-afca-415d-8097-fb375a48d88d",
+      "season": 11,
+      "number": 4,
+      "name": "Det første værelse og gangen",
+      "airdate": "2026-10-05"
+    },
+    {
+      "id": "cfb5a30d-2a07-4cec-8c7b-1ab382b40e70",
+      "season": 11,
+      "number": 5,
+      "name": "Forhaven",
+      "airdate": "2026-10-12"
+    },
+    {
+      "id": "8970b5d1-ce01-494b-bce8-134a0e2fdee1",
+      "season": 11,
+      "number": 6,
+      "name": "Køkkenet",
+      "airdate": "2026-10-19"
+    },
+    {
+      "id": "5dbfa371-232c-4b93-bec3-4ec5ebe1fd3e",
+      "season": 11,
+      "number": 7,
+      "name": "Det andet værelse og toilettet",
+      "airdate": "2026-10-26"
+    }
+  ]
+}

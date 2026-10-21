@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:verdens-stoerste-opdagelser-tv2charlie",
+  "name": "Verdens største opdagelser",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "963ba115-857d-424f-bcdc-f0e6f777df4e",
+      "season": 1,
+      "number": 1,
+      "name": "Kongernes Dal",
+      "airdate": "2024-09-26"
+    },
+    {
+      "id": "242f3b77-b48c-4f73-af9b-a2dca01f628c",
+      "season": 1,
+      "number": 2,
+      "name": "Pompeii",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "a14ec5cd-7e63-4c5a-9b16-d8792654c620",
+      "season": 1,
+      "number": 3,
+      "name": "I dinosaurernes dal",
+      "airdate": "2024-10-10"
+    },
+    {
+      "id": "3ed1dd46-7ed7-4bc7-b58d-e6d424340aaf",
+      "season": 2,
+      "number": 1,
+      "name": "Atlantis",
+      "airdate": "2025-04-17"
+    },
+    {
+      "id": "d40e582f-8140-4872-87f2-51e2ec76a2d8",
+      "season": 2,
+      "number": 2,
+      "name": "Machu Picchu",
+      "airdate": "2025-04-24"
+    },
+    {
+      "id": "e9050f70-0414-4590-861c-975d204928ac",
+      "season": 2,
+      "number": 3,
+      "name": "Stonehenge",
+      "airdate": "2025-05-01"
+    },
+    {
+      "id": "28705bde-8ae7-4132-b368-f888092d4584",
+      "season": 2,
+      "number": 4,
+      "name": "Terrakottahæren",
+      "airdate": "2025-05-08"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:rivalerne-tv2play",
+  "name": "Rivalerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "04f9e661-464c-4702-8bd7-0fb9adde82ee",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til Elverkilde",
+      "airdate": "2026-09-13"
+    },
+    {
+      "id": "d3b167ac-78af-46ba-8d79-31f2c5dbbf81",
+      "season": 1,
+      "number": 2,
+      "name": "Livet omkring os",
+      "airdate": "2026-09-20"
+    },
+    {
+      "id": "a6bcffff-cedf-4021-ade8-aa60f0e0f83a",
+      "season": 1,
+      "number": 3,
+      "name": "Damnatio memoriae",
+      "airdate": "2026-09-27"
+    },
+    {
+      "id": "8af5a4b7-c299-46f1-a77d-eb73c0bdce0c",
+      "season": 1,
+      "number": 4,
+      "name": "Hvem er bange for Johannes Gade?",
+      "airdate": "2026-10-04"
+    },
+    {
+      "id": "22757a65-941f-45ea-be50-3d6088f36b81",
+      "season": 1,
+      "number": 5,
+      "name": "Stilhed før stormen",
+      "airdate": "2026-10-11"
+    },
+    {
+      "id": "e80ff1df-9e2b-4db0-af31-4bdf6d537782",
+      "season": 1,
+      "number": 6,
+      "name": "Søens hemmelighed",
+      "airdate": "2026-10-18"
+    }
+  ]
+}

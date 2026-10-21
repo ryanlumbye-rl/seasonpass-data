@@ -1,0 +1,577 @@
+{
+  "id": "tv2play:den-foerste-date-uk-tv2echo",
+  "name": "Den første date UK",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0ef4b0cc-622c-4c8b-a3e7-09c2798a33a8",
+      "season": 8,
+      "number": 1,
+      "name": "Kendisspecial",
+      "airdate": "2023-12-04"
+    },
+    {
+      "id": "af5aeb26-c80e-43c0-8b1e-fc722aac9e49",
+      "season": 8,
+      "number": 2,
+      "name": "Julespecial",
+      "airdate": "2023-12-04"
+    },
+    {
+      "id": "57cc6971-23a1-4679-94f6-87de3bf510f6",
+      "season": 8,
+      "number": 3,
+      "name": "En kæreste til min søn",
+      "airdate": "2023-12-04"
+    },
+    {
+      "id": "53f39d48-6d55-4f10-8787-b68e5931f833",
+      "season": 8,
+      "number": 4,
+      "name": "Krøller eller ej",
+      "airdate": "2023-12-04"
+    },
+    {
+      "id": "76931d68-8bea-4870-8bb1-b558562eb444",
+      "season": 8,
+      "number": 5,
+      "name": "På jagt efter en neandertaler-rockgud",
+      "airdate": "2023-12-04"
+    },
+    {
+      "id": "cf0c99e6-f1b5-40b2-96a1-abf7b82fd02c",
+      "season": 8,
+      "number": 6,
+      "name": "Kærlighed trin for trin",
+      "airdate": "2023-12-04"
+    },
+    {
+      "id": "2a93bdcd-5f03-4d03-afc5-01cc3d2c8393",
+      "season": 8,
+      "number": 7,
+      "name": "Anden gang er lykkens gang",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "c4ded2e7-d94e-49c0-b677-0f3cb688a8c3",
+      "season": 8,
+      "number": 8,
+      "name": "En dans med skæbnen",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "e537eaf7-ec1b-4769-9764-4ad2ef2dee97",
+      "season": 8,
+      "number": 9,
+      "name": "Næse for kærlighed",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "67f64461-e3ce-4477-add6-df0edfd394f9",
+      "season": 8,
+      "number": 10,
+      "name": "Klar til at date",
+      "airdate": "2023-12-06"
+    },
+    {
+      "id": "8b174b30-a869-40fd-bb7e-7d4e3e3d1719",
+      "season": 8,
+      "number": 11,
+      "name": "Mød din svigermor",
+      "airdate": "2023-12-06"
+    },
+    {
+      "id": "d1f88da1-b553-4320-b97e-8688e43299f3",
+      "season": 8,
+      "number": 12,
+      "name": "Flop eller future husband?",
+      "airdate": "2023-12-06"
+    },
+    {
+      "id": "f57a7383-b86a-4c04-a929-e71037ff1644",
+      "season": 8,
+      "number": 13,
+      "name": "Kærlighed og ærlighed",
+      "airdate": "2023-12-07"
+    },
+    {
+      "id": "1ffb9da3-97fc-4882-921c-4ea382889f8e",
+      "season": 8,
+      "number": 14,
+      "name": "Magi i luften",
+      "airdate": "2023-12-07"
+    },
+    {
+      "id": "405ed64c-d0b2-45b2-b447-570e7efffbcb",
+      "season": 8,
+      "number": 15,
+      "name": "Tag mig, som jeg er",
+      "airdate": "2023-12-07"
+    },
+    {
+      "id": "710b414b-749c-4215-8978-8b262fe01cc3",
+      "season": 8,
+      "number": 16,
+      "name": "Prinsen på den hvide hest",
+      "airdate": "2023-12-10"
+    },
+    {
+      "id": "41a060d4-a487-4f47-8c0c-bb2c5cfecdd8",
+      "season": 8,
+      "number": 17,
+      "name": "Et match fra hipster-himlen?",
+      "airdate": "2023-12-10"
+    },
+    {
+      "id": "c7eeb1d2-bb60-4ca5-8206-7babe1d8df4c",
+      "season": 8,
+      "number": 18,
+      "name": "En spirende bromance",
+      "airdate": "2023-12-10"
+    },
+    {
+      "id": "fe9b3869-eb6d-4f70-a02f-9b403171e1d4",
+      "season": 8,
+      "number": 19,
+      "name": "Klædt på til at imponere",
+      "airdate": "2023-12-11"
+    },
+    {
+      "id": "225585c8-6c95-4aff-9efb-0235b81de769",
+      "season": 8,
+      "number": 20,
+      "name": "Så mødes vi igen",
+      "airdate": "2023-12-11"
+    },
+    {
+      "id": "66de9dcf-02f3-4243-beb8-a063fc7c215f",
+      "season": 8,
+      "number": 21,
+      "name": "Amore italiano",
+      "airdate": "2023-12-11"
+    },
+    {
+      "id": "ba72e19c-48b7-4cc0-b0cb-1a805386a09b",
+      "season": 8,
+      "number": 22,
+      "name": "På samme bølgelængde",
+      "airdate": "2023-12-12"
+    },
+    {
+      "id": "87d54e25-f568-4fae-97a2-d687b680bfbb",
+      "season": 8,
+      "number": 23,
+      "name": "Krav til kærligheden",
+      "airdate": "2023-12-12"
+    },
+    {
+      "id": "923a54ba-daeb-43a1-a318-2cb32c80f220",
+      "season": 8,
+      "number": 24,
+      "name": "Dating uden udløbsdato",
+      "airdate": "2023-12-12"
+    },
+    {
+      "id": "14f8ccfd-c1ec-42b5-99e3-3a18c53d80b1",
+      "season": 8,
+      "number": 25,
+      "name": "Valentinsdag",
+      "airdate": "2023-12-13"
+    },
+    {
+      "id": "975b256a-2e80-4ce5-94ba-78e2dd1dfa50",
+      "season": 8,
+      "number": 26,
+      "name": "Julens magi",
+      "airdate": "2023-12-13"
+    },
+    {
+      "id": "2b3f25db-de05-4591-b696-bc0c9aede765",
+      "season": 8,
+      "number": 27,
+      "name": "Under misteltenen",
+      "airdate": "2023-12-13"
+    },
+    {
+      "id": "2b4aaa1f-21a8-4a0a-bd52-fecd0f767f13",
+      "season": 9,
+      "number": 1,
+      "name": "Et nyt kapitel",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "3f3da7ee-a637-4698-afda-007ef1ba5de3",
+      "season": 9,
+      "number": 2,
+      "name": "Er du min Rachel?",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "bd798f53-7501-4d9f-b1c9-2988229e93e2",
+      "season": 9,
+      "number": 3,
+      "name": "Knockout",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "4b55edf6-6815-484f-93a2-40db92f57056",
+      "season": 9,
+      "number": 4,
+      "name": "På sporet af kærligheden",
+      "airdate": "2023-12-17"
+    },
+    {
+      "id": "3c338535-c399-406c-a84a-d36333ea92b5",
+      "season": 9,
+      "number": 5,
+      "name": "Valentins-special",
+      "airdate": "2023-12-17"
+    },
+    {
+      "id": "75f4bd83-677e-43ce-b03b-ca2c6821cf8d",
+      "season": 9,
+      "number": 6,
+      "name": "To til tango",
+      "airdate": "2023-12-17"
+    },
+    {
+      "id": "9b52cc08-d656-4a80-bf0f-afaef1ac6144",
+      "season": 9,
+      "number": 7,
+      "name": "Slanger og slægtninge",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "7f81c2f7-b007-4b1f-85a4-9a6e891fd661",
+      "season": 9,
+      "number": 8,
+      "name": "Findes Mr. Right?",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "fd856886-5709-4dfa-bed2-cd3145fb46fe",
+      "season": 9,
+      "number": 9,
+      "name": "Happily ever after",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "aae03f04-7379-4a64-a62b-ac80e21ce03d",
+      "season": 9,
+      "number": 10,
+      "name": "Jeg elsker dig",
+      "airdate": "2023-12-19"
+    },
+    {
+      "id": "8e6b3d02-6c0d-490d-a1ad-d582d9489459",
+      "season": 9,
+      "number": 11,
+      "name": "En kendisforelskelse",
+      "airdate": "2023-12-19"
+    },
+    {
+      "id": "4f22ceee-6d30-4e9e-bf37-eca36b1fa5dc",
+      "season": 9,
+      "number": 12,
+      "name": "Snor i kærligheden",
+      "airdate": "2023-12-19"
+    },
+    {
+      "id": "fd46ce9f-98d6-468b-ba3c-5910c848b7cd",
+      "season": 9,
+      "number": 13,
+      "name": "En at spejle sig i",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "2060f7de-450a-4f2b-8b3e-f52783392fdd",
+      "season": 9,
+      "number": 14,
+      "name": "Det smager af kærlighed",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "9ceb0736-a55a-4f1b-800f-b08a5d8d707e",
+      "season": 9,
+      "number": 15,
+      "name": "Kan vi prøve igen?",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "0be641e3-6b64-48eb-b0cf-b241efe02909",
+      "season": 9,
+      "number": 16,
+      "name": "En drøm om kærlighed",
+      "airdate": "2023-12-21"
+    },
+    {
+      "id": "73d31ced-b976-4af8-999e-8422ff9bd0b0",
+      "season": 9,
+      "number": 17,
+      "name": "På jagt efter et match",
+      "airdate": "2023-12-21"
+    },
+    {
+      "id": "20e7c08d-b02f-4b1d-bc95-29788ee8e6ab",
+      "season": 9,
+      "number": 18,
+      "name": "I kærlighedens tegn",
+      "airdate": "2023-12-21"
+    },
+    {
+      "id": "dad8bd7a-e3da-43da-bae0-658d2a6bca97",
+      "season": 9,
+      "number": 19,
+      "name": "Meant to brie?",
+      "airdate": "2023-12-24"
+    },
+    {
+      "id": "dafd4633-21fa-4ec8-9c18-6bbd61dfe1b0",
+      "season": 9,
+      "number": 20,
+      "name": "Lidt hjælp fra Afrodite",
+      "airdate": "2023-12-24"
+    },
+    {
+      "id": "6ed7e0da-0d25-4e05-aad0-1db88ea2cb27",
+      "season": 9,
+      "number": 21,
+      "name": "En at dele eventyret med",
+      "airdate": "2023-12-24"
+    },
+    {
+      "id": "bcede830-e731-4add-ba75-41f2f45cab64",
+      "season": 9,
+      "number": 22,
+      "name": "Jeg ønsker mig…",
+      "airdate": "2023-12-25"
+    },
+    {
+      "id": "39c12c3d-427b-4d11-b5e9-f3330bb42dea",
+      "season": 9,
+      "number": 23,
+      "name": "Ubetinget kærlighed",
+      "airdate": "2023-12-25"
+    },
+    {
+      "id": "951e009c-749f-49f7-9aa4-6778687b972d",
+      "season": 9,
+      "number": 24,
+      "name": "Ramt af Amors pil",
+      "airdate": "2023-12-25"
+    },
+    {
+      "id": "a72e3d00-82a4-445b-9756-a78eee375c3a",
+      "season": 9,
+      "number": 25,
+      "name": "Drømmemanden",
+      "airdate": "2023-12-26"
+    },
+    {
+      "id": "d5ceb765-44f2-4651-9b43-babc050af61e",
+      "season": 9,
+      "number": 26,
+      "name": "Amore",
+      "airdate": "2023-12-26"
+    },
+    {
+      "id": "d1c965a9-0822-4ff9-add8-55d147ca4395",
+      "season": 9,
+      "number": 27,
+      "name": "Ærlig kærlighed",
+      "airdate": "2023-12-26"
+    },
+    {
+      "id": "127c3526-150a-40af-9e75-210f37fae982",
+      "season": 9,
+      "number": 28,
+      "name": "Fundament for forelskelse?",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "7cdebe72-3ec4-4ed0-bfdf-e152b53c3acd",
+      "season": 9,
+      "number": 29,
+      "name": "Alt på spil",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "e961f8f3-8086-429b-a0f3-c0a13319d22a",
+      "season": 9,
+      "number": 30,
+      "name": "Den eneste ene",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "a0f7b039-77f9-4a3c-89d2-5bb6fcbb1994",
+      "season": 9,
+      "number": 31,
+      "name": "Romantik i julens tegn",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "7e104511-635c-4173-9395-6abc0ca7a9cc",
+      "season": 9,
+      "number": 32,
+      "name": "Julespecial",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "30a967f8-0173-472f-b077-ee1237152cbe",
+      "season": 10,
+      "number": 1,
+      "name": "Fra date til drømmebryllup",
+      "airdate": "2024-11-26"
+    },
+    {
+      "id": "7cceef58-64aa-4f04-b9ce-8b94fac572cc",
+      "season": 10,
+      "number": 2,
+      "name": "Svigermor og kærlighed på skotsk",
+      "airdate": "2024-11-27"
+    },
+    {
+      "id": "f5a5d1ad-3697-4ff2-8e6e-2aa320a6c8ad",
+      "season": 10,
+      "number": 3,
+      "name": "Mellem far-jokes og følelser",
+      "airdate": "2024-11-28"
+    },
+    {
+      "id": "4f1bb1fe-667d-498f-ad6b-d5cbad000b74",
+      "season": 10,
+      "number": 4,
+      "name": "Er fælles interesser nok?",
+      "airdate": "2024-11-29"
+    },
+    {
+      "id": "89654a97-c859-47a5-8d64-951383b902af",
+      "season": 10,
+      "number": 5,
+      "name": "Flirt og fans",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "0b1d9b42-2789-455b-855e-7ffd15653d03",
+      "season": 10,
+      "number": 6,
+      "name": "Vil du være min valentine?",
+      "airdate": "2024-12-03"
+    },
+    {
+      "id": "97d105bc-6ef1-45a7-a1ad-5e69b437b134",
+      "season": 10,
+      "number": 7,
+      "name": "Flammer, forførelse og første gang",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "1f6f79c5-1fe4-409d-952e-dd901562b5f4",
+      "season": 10,
+      "number": 8,
+      "name": "Er du den rette for mig?",
+      "airdate": "2024-12-05"
+    },
+    {
+      "id": "6e3bcb14-7bd7-4a58-a94f-0163c475a400",
+      "season": 10,
+      "number": 9,
+      "name": "En kærlighedshistorie",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "5d0a9ca5-8472-4f49-a034-30cc65d9bb1d",
+      "season": 10,
+      "number": 10,
+      "name": "Kærlighed på menuen",
+      "airdate": "2024-12-09"
+    },
+    {
+      "id": "253c95bd-833b-4b24-ba9a-6c0c80d29d05",
+      "season": 10,
+      "number": 11,
+      "name": "Et himmelsk match?",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "995ae357-3d51-47b4-8c7c-c5d8e3e5a339",
+      "season": 10,
+      "number": 12,
+      "name": "På jagt efter gnisten",
+      "airdate": "2025-03-19"
+    },
+    {
+      "id": "697a9ad1-137f-4d1c-9eee-94fb1c0b6917",
+      "season": 10,
+      "number": 13,
+      "name": "Tatoveringer, tabuer og true love",
+      "airdate": "2025-03-20"
+    },
+    {
+      "id": "129c9273-804f-4efc-a347-2a8562373825",
+      "season": 10,
+      "number": 14,
+      "name": "Store spørgsmål og søde sager",
+      "airdate": "2025-03-21"
+    },
+    {
+      "id": "043be1b3-28e7-4be8-b500-3d8e9212698c",
+      "season": 10,
+      "number": 15,
+      "name": "Når kemi møder kaos",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "1f11c5d5-fa32-477d-99de-215988cbf39c",
+      "season": 10,
+      "number": 16,
+      "name": "Flirt i luften",
+      "airdate": "2025-03-25"
+    },
+    {
+      "id": "5f1a19af-f617-482f-94cd-854d1d7a36bf",
+      "season": 10,
+      "number": 17,
+      "name": "En valentinsromance",
+      "airdate": "2025-05-26"
+    },
+    {
+      "id": "810f9174-4b28-4b92-b73c-e3d61ae0a7c1",
+      "season": 10,
+      "number": 18,
+      "name": "Kærlighed med kravat og kebab",
+      "airdate": "2025-05-27"
+    },
+    {
+      "id": "b61f8235-682a-4392-9e41-09c1c864fd0b",
+      "season": 10,
+      "number": 19,
+      "name": "En sand gentleman",
+      "airdate": "2025-05-28"
+    },
+    {
+      "id": "273d3aff-d825-41e7-83ba-51530e671096",
+      "season": 10,
+      "number": 20,
+      "name": "Lidt va va voom",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "6bbd35ad-9cfd-49e5-a6d4-8484ec869bd4",
+      "season": 10,
+      "number": 21,
+      "name": "En romantisk juledate",
+      "airdate": "2025-12-19"
+    },
+    {
+      "id": "202c2f47-4c2c-4e2f-8a09-d04a335bfb4f",
+      "season": 10,
+      "number": 22,
+      "name": "Misteltenens magi",
+      "airdate": "2025-12-24"
+    }
+  ]
+}

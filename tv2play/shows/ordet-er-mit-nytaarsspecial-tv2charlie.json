@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:ordet-er-mit-nytaarsspecial-tv2charlie",
+  "name": "Ordet er mit - nytårsspecial",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e903e625-3907-4cb3-a38d-32732b53831f",
+      "season": 1,
+      "number": 1,
+      "name": "Med Jesper Ole Feit, Molly Egelind og Esben Dalgaard",
+      "airdate": "2024-12-09"
+    },
+    {
+      "id": "dbcde34f-eca2-4dc5-9137-f90d1e5ffce4",
+      "season": 1,
+      "number": 2,
+      "name": "Med Signe Lindkvist, Mikkel Kryger og Katrine Abrahamsen",
+      "airdate": "2024-12-10"
+    },
+    {
+      "id": "b533cebf-5fa7-4df9-a5d2-889c413d287a",
+      "season": 1,
+      "number": 3,
+      "name": "Med Mikkel Klint Thorius, Natasha Brock og Victor Lander",
+      "airdate": "2024-12-11"
+    },
+    {
+      "id": "2476bd08-8748-4a98-9814-88608eb961cf",
+      "season": 1,
+      "number": 4,
+      "name": "Den store julefinale",
+      "airdate": "2024-12-12"
+    },
+    {
+      "id": "4945ccfe-4e8e-4757-a5f1-d38a2d9735fb",
+      "season": 2,
+      "number": 1,
+      "name": "Julemandskostume på det sorte marked",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "2b397bd8-d77d-4b90-bf3d-77aad99b926a",
+      "season": 2,
+      "number": 2,
+      "name": "Til julebal i nisseland",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "99d8381e-5d5a-402d-8870-4ff9fc0e6516",
+      "season": 2,
+      "number": 3,
+      "name": "Ordgøgl og revynisser",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "1ea1eb96-b399-470c-ab5a-022d4f3b22ca",
+      "season": 2,
+      "number": 4,
+      "name": "Hvem vinder den store julefinale?",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "36e722a2-53a4-48c8-ad5b-9873cb6d4c29",
+      "season": 2,
+      "number": 5,
+      "name": "Et brag af en quiz",
+      "airdate": "2025-12-30"
+    }
+  ]
+}

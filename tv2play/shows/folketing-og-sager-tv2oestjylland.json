@@ -1,0 +1,269 @@
+{
+  "id": "tv2play:folketing-og-sager-tv2oestjylland",
+  "name": "Folketing og sager",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "e2d3e153-78e3-49c2-a78b-be29be5ce42a",
+      "season": 1,
+      "number": 1,
+      "name": "Charlotte Broman Mølbæk",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "2398a2df-eb89-45e4-bbcf-3f824868438a",
+      "season": 1,
+      "number": 2,
+      "name": "Louise Brown",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "d392ba47-6e0c-4a02-b61e-331de364eaba",
+      "season": 1,
+      "number": 3,
+      "name": "Leif Lahn Jensen",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "9fac54e1-2786-42c1-92fd-cbfe6272911e",
+      "season": 1,
+      "number": 4,
+      "name": "Mona Juul",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "5d8d4dcd-b9d8-48be-934b-75623524f142",
+      "season": 1,
+      "number": 5,
+      "name": "Camilla Fabricius",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "d7212fa4-20f2-4335-b10b-ec3557c003a9",
+      "season": 1,
+      "number": 6,
+      "name": "Jens Meilvang",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "f34f58e8-2809-45bc-9dc5-e1735532a69a",
+      "season": 1,
+      "number": 7,
+      "name": "Torsten Gejl",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "746ab27b-f598-4dfc-855c-5391a740eb3a",
+      "season": 1,
+      "number": 8,
+      "name": "Peter Have",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "0bb30c0a-0515-49d0-b917-2fb7c54eb95c",
+      "season": 1,
+      "number": 9,
+      "name": "Kirsten Normann Andersen",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "14c41e5c-9f71-4817-9383-305b0db1364c",
+      "season": 1,
+      "number": 10,
+      "name": "Lars Boje Mathiesen",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "805e3be2-4b02-41e9-9e97-190dff97aaeb",
+      "season": 1,
+      "number": 11,
+      "name": "Michael Aastrup Jensen",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "a772a2c3-6a80-434b-85d1-054b8a3e01e2",
+      "season": 1,
+      "number": 12,
+      "name": "Katrine Robsøe",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "1b2a4161-ca4a-45ad-815e-2a1db59f5b2d",
+      "season": 1,
+      "number": 13,
+      "name": "Malte Larsen",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "dfb80e94-c7a7-4feb-a9d4-5239053a8230",
+      "season": 1,
+      "number": 14,
+      "name": "Thomas Monberg",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "34d12581-7ace-4b0b-93aa-c505e05b44a6",
+      "season": 1,
+      "number": 15,
+      "name": "Hans Kristian Skibby",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "ee8d7ad9-a127-41cc-942c-643c6c52cb22",
+      "season": 1,
+      "number": 16,
+      "name": "Jens Joel",
+      "airdate": "2025-04-26"
+    },
+    {
+      "id": "05c7834e-6a04-4daa-9b4a-6cbf45837a3d",
+      "season": 1,
+      "number": 17,
+      "name": "Henrik Rejnholt Andersen",
+      "airdate": "2025-05-03"
+    },
+    {
+      "id": "12aa1bb7-540f-4020-8c33-714683c04133",
+      "season": 1,
+      "number": 18,
+      "name": "Heidi Bank",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "0dd7b135-fb7d-4602-952b-72df1dda801c",
+      "season": 1,
+      "number": 19,
+      "name": "Carsten Bach",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "3f69986c-4e5b-4ad6-a78e-13f3704985cd",
+      "season": 1,
+      "number": 20,
+      "name": "Thomas Jensen",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "851a0476-ce93-4f4a-99bb-7290079c8005",
+      "season": 1,
+      "number": 21,
+      "name": "Med Kristian Pihl Lorentzen",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "964e81f5-4a16-4996-8515-cc8f0fe1e873",
+      "season": 1,
+      "number": 22,
+      "name": "Gitte Willumsen",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "cc51678e-096f-4526-969c-690aac34e00e",
+      "season": 1,
+      "number": 23,
+      "name": "Sofie Lippert",
+      "airdate": "2025-06-21"
+    },
+    {
+      "id": "52dd2f69-17ee-4e06-81a2-9844d8ab03a8",
+      "season": 1,
+      "number": 24,
+      "name": "Lisa Perkins",
+      "airdate": "2025-06-28"
+    },
+    {
+      "id": "e08fac40-c5ea-4a0a-876b-5d3ef9ee86c2",
+      "season": 2,
+      "number": 27,
+      "name": "Med Torsten Gejl",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "b1175133-f212-447c-aa52-9c574194c86f",
+      "season": 2,
+      "number": 28,
+      "name": "Med Malte Larsen",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "bf8949c8-d072-4dbd-87c9-feef0ccf260e",
+      "season": 2,
+      "number": 29,
+      "name": "Med Louise Louring",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "fab1dc2e-e54e-4042-8547-fa11a739d86e",
+      "season": 2,
+      "number": 30,
+      "name": "Med Katrine Robsøe",
+      "airdate": "2026-08-15"
+    },
+    {
+      "id": "6531bd32-9e0a-411a-afa9-52d28d35ab46",
+      "season": 2,
+      "number": 31,
+      "name": "Med Susan Kronborg",
+      "airdate": "2026-08-22"
+    },
+    {
+      "id": "cd2bde76-7482-4fe2-9554-7eb7711a84d1",
+      "season": 2,
+      "number": 32,
+      "name": "Med Kirsten Normann",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "6b121158-5dbd-4ddb-aaa2-64648694bf1f",
+      "season": 2,
+      "number": 33,
+      "name": "Med Eva Borchorst",
+      "airdate": "2026-09-05"
+    },
+    {
+      "id": "c03dc43a-9017-42d4-bc94-546105a9494d",
+      "season": 2,
+      "number": 34,
+      "name": "Med Jens Meilvang",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "a6bb37d3-050c-46b0-b7ec-cb2a354c6997",
+      "season": 2,
+      "number": 35,
+      "name": "Sofie Lippert",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "e1182900-dd8e-48ed-adbb-ba61a3a260ed",
+      "season": 2,
+      "number": 36,
+      "name": "Carsten Bach",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "dd5491e7-6d98-4872-8645-8f0e9929ca44",
+      "season": 2,
+      "number": 37,
+      "name": "Michael Nedersøe",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "fa736935-f196-470b-8bcc-18eea6060e9c",
+      "season": 2,
+      "number": 38,
+      "name": "Leif Lahn",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "a9c06c1e-1113-46c6-8352-5f7309b7cb22",
+      "season": 2,
+      "number": 39,
+      "name": "Hans Kristian Skibby",
+      "airdate": "2026-10-17"
+    }
+  ]
+}

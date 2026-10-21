@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:jagten-paa-olivia-tv2",
+  "name": "Jagten på Olivia",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-11-04",
+  "episodes": [
+    {
+      "id": "e2134059-d75f-441d-81e5-2bc219823838",
+      "season": 1,
+      "number": 1,
+      "name": "Jagten begynder",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "017784f0-9932-4dbe-8a69-2bb62437cba1",
+      "season": 1,
+      "number": 3,
+      "name": "Højt at flyve",
+      "airdate": "2026-11-04"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:loppe-deluxe-tv2",
+  "name": "Loppe Deluxe",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "89a8efdc-0b47-411f-8cb0-5d0a59c54836",
+      "season": 2,
+      "number": 10,
+      "name": "Vig Tuskemarked",
+      "airdate": "2015-12-14"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:vild-indretning-ved-verdens-ende-tv2fri",
+  "name": "Vild indretning ved verdens ende",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0537e315-5abf-411d-8c82-39a29ba233bb",
+      "season": 1,
+      "number": 1,
+      "name": "Går det i fisk?",
+      "airdate": "2024-03-03"
+    },
+    {
+      "id": "c17dc871-a640-45a3-a51a-548935f1a51b",
+      "season": 1,
+      "number": 2,
+      "name": "Langt ude!",
+      "airdate": "2024-03-10"
+    },
+    {
+      "id": "8f5fa6bf-3cd5-4ea2-902c-10fea2aae5b2",
+      "season": 1,
+      "number": 3,
+      "name": "Vildt vindue",
+      "airdate": "2024-03-17"
+    },
+    {
+      "id": "2d683a06-b03b-4909-90e8-408a5a6cab68",
+      "season": 1,
+      "number": 4,
+      "name": "Slotstårnet og fyrtårnet",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "80382dd9-dba7-47d4-8156-695884f6058f",
+      "season": 1,
+      "number": 5,
+      "name": "Rugbyklubben",
+      "airdate": "2024-03-31"
+    },
+    {
+      "id": "6d96bdc7-354f-4b08-92cb-e9e255063853",
+      "season": 1,
+      "number": 6,
+      "name": "Gin og ost",
+      "airdate": "2024-04-07"
+    },
+    {
+      "id": "7a394c7d-85b9-436c-b5e2-e3be8a0009ef",
+      "season": 2,
+      "number": 1,
+      "name": "Pub-love",
+      "airdate": "2026-05-29"
+    },
+    {
+      "id": "718c080a-233d-484f-a392-bea9a274b876",
+      "season": 2,
+      "number": 2,
+      "name": "Hyggeligt i Harris",
+      "airdate": "2026-06-01"
+    },
+    {
+      "id": "ae23c8c0-6d82-48b5-88da-cc3828c325bf",
+      "season": 2,
+      "number": 3,
+      "name": "Vind, vejr og vejboder",
+      "airdate": "2026-06-02"
+    },
+    {
+      "id": "96dac5a2-741a-44dd-b1dd-e38d14fb9182",
+      "season": 2,
+      "number": 4,
+      "name": "Lunt og godt",
+      "airdate": "2026-06-04"
+    },
+    {
+      "id": "bf160052-0858-408b-ba44-297df93c5113",
+      "season": 2,
+      "number": 5,
+      "name": "Halløj på hotellet",
+      "airdate": "2026-06-05"
+    },
+    {
+      "id": "f4f876a6-faf9-4dd0-aa4d-e6b7a2b1b9c1",
+      "season": 2,
+      "number": 6,
+      "name": "Fra gammelt til godt",
+      "airdate": "2026-06-08"
+    }
+  ]
+}

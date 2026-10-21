@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:dexter-resurrection-tv2play",
+  "name": "Dexter: Resurrection",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "23e4dd22-47aa-473f-a6f6-3058e656b054",
+      "season": 2,
+      "number": 1,
+      "name": "Risky Business",
+      "airdate": "2026-10-31"
+    }
+  ]
+}

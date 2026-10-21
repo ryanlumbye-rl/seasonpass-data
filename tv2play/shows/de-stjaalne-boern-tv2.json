@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:de-stjaalne-boern-tv2",
+  "name": "De stjålne børn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8de68e4d-368b-4b0b-bfc9-bd1a6b248540",
+      "season": 1,
+      "number": 1,
+      "name": "Den mystiske dame",
+      "airdate": "2022-11-09"
+    },
+    {
+      "id": "52751f27-0841-42a7-ab39-6036bbb191f4",
+      "season": 1,
+      "number": 2,
+      "name": "Mødet med diktaturets skygge",
+      "airdate": "2022-11-09"
+    },
+    {
+      "id": "ca89e75f-2c21-4fd6-90fa-75a8b8b31be0",
+      "season": 1,
+      "number": 3,
+      "name": "Er du min mor?",
+      "airdate": "2022-11-16"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:avatar-seven-havens-tv2play",
+  "name": "Avatar: Seven Havens",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "490f1228-c920-406f-bb3b-b6becdfc8b9c",
+      "season": 1,
+      "number": 6,
+      "name": "Under overfladen",
+      "airdate": "2026-10-31"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:kommissaer-dupin-tv2charlie",
+  "name": "Kommissær Dupin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4d82ea88-a152-4135-895c-0e1da41a3e74",
+      "season": 1,
+      "number": 1,
+      "name": "Politisk mord",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "87e937f1-40ef-4b79-ade0-9490d82cd201",
+      "season": 1,
+      "number": 2,
+      "name": "Salt i såret",
+      "airdate": "2025-01-26"
+    },
+    {
+      "id": "625b2b21-ebd6-491b-b723-99232d9f1635",
+      "season": 1,
+      "number": 3,
+      "name": "De døde sømænd",
+      "airdate": "2025-02-01"
+    },
+    {
+      "id": "51e116e4-5926-460e-88e9-2eef90ac632d",
+      "season": 1,
+      "number": 4,
+      "name": "Et gammelt opgør",
+      "airdate": "2025-02-02"
+    },
+    {
+      "id": "8258d3e6-1da3-499e-a2d0-aafda7015ab7",
+      "season": 1,
+      "number": 5,
+      "name": "Oversvømmelse",
+      "airdate": "2025-02-08"
+    },
+    {
+      "id": "f3504864-243a-4f42-991e-e5e5758cd3ab",
+      "season": 1,
+      "number": 6,
+      "name": "Ferie og forbrydelser",
+      "airdate": "2025-02-09"
+    },
+    {
+      "id": "4b59fc4a-f941-4909-8c79-4babe362ca51",
+      "season": 1,
+      "number": 7,
+      "name": "Kong Arthuers hemmelighed",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "c3d7f5d4-fa7e-4d76-92cc-76e548565fc6",
+      "season": 1,
+      "number": 8,
+      "name": "Lægens hemmelighed",
+      "airdate": "2025-02-16"
+    },
+    {
+      "id": "fb70aa68-bc05-4325-ab68-33a05cf4ef81",
+      "season": 1,
+      "number": 9,
+      "name": "Et dødeligt familiedrama",
+      "airdate": "2025-02-22"
+    },
+    {
+      "id": "a112f028-1600-4718-b589-41ee466bc61b",
+      "season": 1,
+      "number": 10,
+      "name": "Et oplagt mord",
+      "airdate": "2025-02-23"
+    },
+    {
+      "id": "b89a03ce-4d61-4e7f-b331-87754a7bf7e2",
+      "season": 1,
+      "number": 11,
+      "name": "Det bliver i familien",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "d147c190-d09a-43eb-8d06-14cdce56fd98",
+      "season": 1,
+      "number": 12,
+      "name": "Hvad vinkælderen gemte",
+      "airdate": "2025-03-02"
+    },
+    {
+      "id": "c12b72b5-1d66-43df-b9d9-e0057650e102",
+      "season": 1,
+      "number": 13,
+      "name": "Den mystiske ø",
+      "airdate": "2026-05-09"
+    }
+  ]
+}

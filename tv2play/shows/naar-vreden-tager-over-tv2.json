@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:naar-vreden-tager-over-tv2",
+  "name": "Når vreden tager over",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-22",
+  "episodes": [
+    {
+      "id": "0de187b9-2f2c-4b2f-95e2-dc7cee8688f3",
+      "season": 1,
+      "number": 1,
+      "name": "Når vreden rammer",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "b7ea5497-5ea9-4425-bad3-83c54a497a94",
+      "season": 1,
+      "number": 2,
+      "name": "Ude af kontrol",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "42d42a9f-b456-47fd-86c6-b5f3a127095d",
+      "season": 1,
+      "number": 3,
+      "name": "At tæmme vreden",
+      "airdate": "2026-10-22"
+    }
+  ]
+}

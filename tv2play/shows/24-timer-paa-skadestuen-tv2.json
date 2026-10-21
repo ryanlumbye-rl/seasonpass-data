@@ -1,0 +1,857 @@
+{
+  "id": "tv2play:24-timer-paa-skadestuen-tv2",
+  "name": "24 timer på skadestuen",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-26",
+  "episodes": [
+    {
+      "id": "8228ebf3-220c-4987-a63b-42148a205ead",
+      "season": 14,
+      "number": 1,
+      "name": "En alvorlig ulykke",
+      "airdate": "2021-10-25"
+    },
+    {
+      "id": "80ecfc1a-2357-42de-b2b2-46de8ab690b3",
+      "season": 14,
+      "number": 2,
+      "name": "En mors mod",
+      "airdate": "2021-10-26"
+    },
+    {
+      "id": "ed599faa-a549-4e14-908e-bc0c1bf1d799",
+      "season": 14,
+      "number": 3,
+      "name": "Hjælp til at trække vejret",
+      "airdate": "2021-10-27"
+    },
+    {
+      "id": "5c78680f-b100-4df6-9b10-93ca6a2a55ee",
+      "season": 14,
+      "number": 4,
+      "name": "Stærke smerter",
+      "airdate": "2021-10-28"
+    },
+    {
+      "id": "ce9c82d6-fa98-4163-ab73-8b865f905c7d",
+      "season": 14,
+      "number": 5,
+      "name": "Himlen over os",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "7778c92e-89e7-4687-be63-0021e9890021",
+      "season": 14,
+      "number": 6,
+      "name": "Et hævet øje",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "e3a64ba7-3878-4a50-a039-1b77d5f06689",
+      "season": 14,
+      "number": 7,
+      "name": "Overfaldet på gaden",
+      "airdate": "2021-11-02"
+    },
+    {
+      "id": "c881f9e5-e131-4cc8-9586-f17de3366305",
+      "season": 14,
+      "number": 8,
+      "name": "En krævende behandling",
+      "airdate": "2021-11-03"
+    },
+    {
+      "id": "a1be1454-eeb3-442e-8fba-4a76fdec5329",
+      "season": 14,
+      "number": 9,
+      "name": "Sportsulykker",
+      "airdate": "2021-11-04"
+    },
+    {
+      "id": "2c7ced66-6fd9-4575-a995-3023933d6cd6",
+      "season": 14,
+      "number": 10,
+      "name": "Ondt i maven",
+      "airdate": "2021-11-05"
+    },
+    {
+      "id": "98af8a37-1a39-4bb2-916c-ceb8ed3b4755",
+      "season": 14,
+      "number": 11,
+      "name": "Når alderen trykker",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "5d033753-da5d-47b9-b691-c0134b380044",
+      "season": 15,
+      "number": 1,
+      "name": "Omsorgsfulde hjælpere",
+      "airdate": "2022-06-17"
+    },
+    {
+      "id": "162aefb2-ed10-492e-8021-b7196929f7a0",
+      "season": 15,
+      "number": 2,
+      "name": "Forandringer i luften",
+      "airdate": "2022-06-20"
+    },
+    {
+      "id": "933ef267-a5bf-4265-818d-bef4cfdaea30",
+      "season": 15,
+      "number": 3,
+      "name": "De kort, vi får tildelt",
+      "airdate": "2022-06-21"
+    },
+    {
+      "id": "8852d123-60b3-41b1-a449-3449bf934e05",
+      "season": 15,
+      "number": 4,
+      "name": "Gør det rigtige",
+      "airdate": "2022-06-22"
+    },
+    {
+      "id": "14c79dee-c972-42dd-a5da-34f114685562",
+      "season": 15,
+      "number": 5,
+      "name": "Mand nede",
+      "airdate": "2022-06-23"
+    },
+    {
+      "id": "a047de89-60ea-44ae-8317-1816fc6adfef",
+      "season": 15,
+      "number": 7,
+      "name": "Kig dig for",
+      "airdate": "2022-08-01"
+    },
+    {
+      "id": "58f7d42d-619c-452c-afcb-f3b32ebd2701",
+      "season": 15,
+      "number": 8,
+      "name": "En ny vej",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "2a7f0976-c375-4737-b91b-90f087781457",
+      "season": 15,
+      "number": 9,
+      "name": "Fra i dag og frem",
+      "airdate": "2022-08-03"
+    },
+    {
+      "id": "7aa48056-fa1f-440d-8b3d-017518b05682",
+      "season": 15,
+      "number": 10,
+      "name": "Spring ud i det",
+      "airdate": "2022-08-04"
+    },
+    {
+      "id": "966be2a1-c97e-49dd-94c4-121ae62405eb",
+      "season": 15,
+      "number": 11,
+      "name": "Følg strømmen",
+      "airdate": "2022-08-05"
+    },
+    {
+      "id": "2f61be1d-e7d4-4017-a778-97f4a733bc7b",
+      "season": 15,
+      "number": 12,
+      "name": "Den ekstra mil",
+      "airdate": "2022-08-08"
+    },
+    {
+      "id": "676b85af-4500-4d14-818e-f26a410b5a38",
+      "season": 15,
+      "number": 13,
+      "name": "Jeg er ved din side",
+      "airdate": "2022-08-09"
+    },
+    {
+      "id": "7b170a44-fe3b-4707-8e87-ffa8faf14d28",
+      "season": 15,
+      "number": 14,
+      "name": "For tæt på hjem",
+      "airdate": "2022-08-10"
+    },
+    {
+      "id": "836faf93-8724-4bf8-b39a-129c9e0ae4df",
+      "season": 15,
+      "number": 15,
+      "name": "Outsiderne",
+      "airdate": "2022-08-11"
+    },
+    {
+      "id": "2e403440-4043-46e0-99e3-13aab5314da5",
+      "season": 15,
+      "number": 16,
+      "name": "Dig før mig",
+      "airdate": "2022-08-12"
+    },
+    {
+      "id": "5831989c-5640-4ad3-8c41-a8d078ad32d9",
+      "season": 15,
+      "number": 17,
+      "name": "Hjælpe dig",
+      "airdate": "2022-08-15"
+    },
+    {
+      "id": "37832ca0-faa9-4cdf-a527-0016489006be",
+      "season": 15,
+      "number": 18,
+      "name": "Du er alt, jeg har brug for",
+      "airdate": "2022-08-16"
+    },
+    {
+      "id": "a80620a5-2323-461d-b55f-b13ca3d4b60e",
+      "season": 15,
+      "number": 19,
+      "name": "Overleverne",
+      "airdate": "2022-08-17"
+    },
+    {
+      "id": "2f05d0f1-631f-4606-b906-01b35d083c06",
+      "season": 15,
+      "number": 20,
+      "name": "Pligten kalder",
+      "airdate": "2022-08-18"
+    },
+    {
+      "id": "08da5dd5-a80e-495f-8e04-98eca52d71ca",
+      "season": 15,
+      "number": 21,
+      "name": "Menneskebørn",
+      "airdate": "2022-08-22"
+    },
+    {
+      "id": "99c94bf9-94da-4626-b401-9f427736e0df",
+      "season": 15,
+      "number": 22,
+      "name": "En frelsende engel",
+      "airdate": "2022-08-23"
+    },
+    {
+      "id": "9bbb6727-a703-4792-b0c7-336545020b29",
+      "season": 15,
+      "number": 23,
+      "name": "Uendelig kærlighed",
+      "airdate": "2022-08-24"
+    },
+    {
+      "id": "a366fbcd-eccf-46b6-ab9e-071a17eaf129",
+      "season": 15,
+      "number": 24,
+      "name": "Gå dine egne veje",
+      "airdate": "2022-08-25"
+    },
+    {
+      "id": "02a17b76-ab58-4cf0-8530-e2ecf6b4adfe",
+      "season": 15,
+      "number": 25,
+      "name": "En søjle af styrke",
+      "airdate": "2022-08-26"
+    },
+    {
+      "id": "a2a0a20a-8ba5-4309-95b3-40a830f338ef",
+      "season": 16,
+      "number": 1,
+      "name": "I krig og kærlighed",
+      "airdate": "2023-10-04"
+    },
+    {
+      "id": "cfecd5b0-be31-47ce-a4f5-2ed53ee3007f",
+      "season": 16,
+      "number": 2,
+      "name": "Trykpunkter",
+      "airdate": "2023-10-05"
+    },
+    {
+      "id": "7ed40aae-0131-49b3-b032-cc07a6b9b587",
+      "season": 16,
+      "number": 3,
+      "name": "Lev og lær",
+      "airdate": "2023-10-06"
+    },
+    {
+      "id": "76979591-ad14-4a1e-bdb4-9120f0e45096",
+      "season": 16,
+      "number": 4,
+      "name": "I nattens mørke",
+      "airdate": "2023-10-09"
+    },
+    {
+      "id": "7e4ac9c6-645d-4f1a-8d1d-01e1a97f806c",
+      "season": 16,
+      "number": 5,
+      "name": "En i familien",
+      "airdate": "2023-10-10"
+    },
+    {
+      "id": "4936c169-859b-4a9d-964d-bd2a0a6a1e1f",
+      "season": 16,
+      "number": 6,
+      "name": "Med min velsignelse",
+      "airdate": "2023-10-11"
+    },
+    {
+      "id": "992d722d-7914-4b24-8cf4-32adb6e10a4f",
+      "season": 16,
+      "number": 8,
+      "name": "De bedste planer",
+      "airdate": "2023-10-13"
+    },
+    {
+      "id": "618f0b3e-48a0-451d-97c5-58bc6120a8eb",
+      "season": 16,
+      "number": 9,
+      "name": "En at stole på",
+      "airdate": "2023-10-16"
+    },
+    {
+      "id": "4edb4e1f-5496-4b13-8553-20db20ceebb6",
+      "season": 16,
+      "number": 10,
+      "name": "Giv ikke slip",
+      "airdate": "2023-10-17"
+    },
+    {
+      "id": "d31caa1f-700b-46af-b9ab-b9b8a8972dee",
+      "season": 16,
+      "number": 11,
+      "name": "Den savnede",
+      "airdate": "2023-10-18"
+    },
+    {
+      "id": "c0ef9a2f-1708-4841-80df-956ecfc0fd32",
+      "season": 16,
+      "number": 12,
+      "name": "Stol på mig",
+      "airdate": "2023-10-19"
+    },
+    {
+      "id": "fb668af7-6454-4000-b9f7-5695e623c725",
+      "season": 16,
+      "number": 13,
+      "name": "Faderroller",
+      "airdate": "2023-10-20"
+    },
+    {
+      "id": "05c697e8-17f1-445f-a713-ed5a8b8dbfeb",
+      "season": 16,
+      "number": 14,
+      "name": "I trygge hænder",
+      "airdate": "2023-10-23"
+    },
+    {
+      "id": "32475af6-be93-4f17-b726-fa4564ba9e16",
+      "season": 16,
+      "number": 15,
+      "name": "Evige forandringer",
+      "airdate": "2023-10-24"
+    },
+    {
+      "id": "3f22fb5d-734b-43e1-acda-a6aae23a9b32",
+      "season": 16,
+      "number": 16,
+      "name": "Kærlighed er ikke til salg",
+      "airdate": "2023-10-25"
+    },
+    {
+      "id": "fff84e22-d58f-465a-8191-90df5fc0c49f",
+      "season": 16,
+      "number": 17,
+      "name": "På forkant",
+      "airdate": "2023-10-26"
+    },
+    {
+      "id": "518da355-ab12-4fd8-8201-5f05c99ee752",
+      "season": 16,
+      "number": 18,
+      "name": "Kære far",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "a8cd9e7d-17a0-44da-bb6c-38432cf4447f",
+      "season": 16,
+      "number": 19,
+      "name": "Evig kærlighed",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "4604f7be-d258-4133-8fd0-50932a923662",
+      "season": 16,
+      "number": 20,
+      "name": "Store forventninger",
+      "airdate": "2023-10-31"
+    },
+    {
+      "id": "be4246e8-0d7c-4186-a530-70dac36106cf",
+      "season": 16,
+      "number": 21,
+      "name": "Stolthed og fordom",
+      "airdate": "2023-11-01"
+    },
+    {
+      "id": "04e6f83b-0100-4643-be3a-f995b33d6693",
+      "season": 16,
+      "number": 22,
+      "name": "Lyden af min stemme",
+      "airdate": "2023-11-02"
+    },
+    {
+      "id": "20ea8c7c-351f-4f2b-ab2e-ab4da8bd1927",
+      "season": 16,
+      "number": 23,
+      "name": "I krigene",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "0706aeca-a4d1-45b3-814b-e96651927cb1",
+      "season": 16,
+      "number": 24,
+      "name": "Stadigt faldende cirkler",
+      "airdate": "2023-11-06"
+    },
+    {
+      "id": "fd5eaff8-28bc-4eca-9769-180f42a4df6c",
+      "season": 16,
+      "number": 25,
+      "name": "Går distancen",
+      "airdate": "2023-11-07"
+    },
+    {
+      "id": "98f8cd0b-3f81-4ae4-aaad-664f804d54ee",
+      "season": 16,
+      "number": 26,
+      "name": "Intet kan skille os ad",
+      "airdate": "2023-11-08"
+    },
+    {
+      "id": "9bca5573-afcd-4703-ab53-38568e77490d",
+      "season": 16,
+      "number": 27,
+      "name": "Tilbage til start",
+      "airdate": "2023-11-09"
+    },
+    {
+      "id": "8e7fa4f7-7a80-4651-a665-3e22bbc9c12c",
+      "season": 16,
+      "number": 28,
+      "name": "Læringskurve",
+      "airdate": "2023-11-10"
+    },
+    {
+      "id": "a2fa0999-9636-438f-a011-c8ddf2a56124",
+      "season": 16,
+      "number": 29,
+      "name": "Under huden",
+      "airdate": "2023-11-13"
+    },
+    {
+      "id": "c1bf9a9b-e9df-4181-9b30-d16a3b436173",
+      "season": 16,
+      "number": 30,
+      "name": "Sikkerhedsnet",
+      "airdate": "2023-11-14"
+    },
+    {
+      "id": "168e7ab8-222c-41de-a7d4-a685f0919a57",
+      "season": 16,
+      "number": 31,
+      "name": "The Show Must Go On",
+      "airdate": "2023-11-15"
+    },
+    {
+      "id": "5c269854-3d32-4b38-be23-782c8ac5b3cb",
+      "season": 16,
+      "number": 32,
+      "name": "Bevar ro og omtanke",
+      "airdate": "2023-11-16"
+    },
+    {
+      "id": "ee0017d1-2978-4dc9-b63a-d370bbc8cd80",
+      "season": 16,
+      "number": 33,
+      "name": "Frit fald",
+      "airdate": "2023-11-17"
+    },
+    {
+      "id": "6910b37b-2ece-497b-9e5a-e0c498613afa",
+      "season": 17,
+      "number": 1,
+      "name": "Jeg har dig",
+      "airdate": "2025-09-25"
+    },
+    {
+      "id": "ec019f79-0a2e-41c5-ab28-0e0605227f56",
+      "season": 17,
+      "number": 2,
+      "name": "Alle har brug for hjælp",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "0e7ef9d2-01cd-466a-a3c0-87debcdd0361",
+      "season": 17,
+      "number": 3,
+      "name": "Ind i lyset",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "fa88d065-e47c-4d4a-a9df-e5d500f55472",
+      "season": 17,
+      "number": 4,
+      "name": "Hjælpen er på vej",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "b25a9ed6-50aa-4295-bcb6-0da17cfa6ed8",
+      "season": 17,
+      "number": 5,
+      "name": "Et offer",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "87cb796b-7887-4977-bc8e-825e2b7d129a",
+      "season": 17,
+      "number": 6,
+      "name": "Nogen at tale med",
+      "airdate": "2025-10-02"
+    },
+    {
+      "id": "f576c5a8-41e1-442e-be69-10d091cee635",
+      "season": 17,
+      "number": 7,
+      "name": "Et skoleeksempel",
+      "airdate": "2025-10-03"
+    },
+    {
+      "id": "a75ab128-3e34-4a8a-93fe-214a63358ea4",
+      "season": 17,
+      "number": 8,
+      "name": "Slægt og familie",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "bb9ab67e-de3e-4b9a-8b92-2c4366fba307",
+      "season": 17,
+      "number": 9,
+      "name": "Et blink med øjet",
+      "airdate": "2025-10-07"
+    },
+    {
+      "id": "14e62462-1e90-4554-9273-9be1dd81e4e6",
+      "season": 17,
+      "number": 10,
+      "name": "Skydedøre",
+      "airdate": "2025-10-08"
+    },
+    {
+      "id": "2497772d-841a-4287-b21a-4ca0341cf974",
+      "season": 17,
+      "number": 11,
+      "name": "Varig arv",
+      "airdate": "2025-10-09"
+    },
+    {
+      "id": "733edc28-9478-4650-acdf-e6d01bbae112",
+      "season": 17,
+      "number": 12,
+      "name": "Tabt i oversættelsen",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "aae32ca7-480c-46fa-83d2-1d21c5e39436",
+      "season": 17,
+      "number": 13,
+      "name": "Med eller uden dig",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "2b644411-64bb-45e6-9c1a-a1590d57be0d",
+      "season": 17,
+      "number": 14,
+      "name": "Ræk din hånd ud",
+      "airdate": "2025-10-21"
+    },
+    {
+      "id": "5ff47d85-2d88-486c-a573-a6ea6457e890",
+      "season": 17,
+      "number": 15,
+      "name": "Blodlinjer",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "5569bb2c-2aab-4aab-be41-e3096afad512",
+      "season": 17,
+      "number": 16,
+      "name": "Mit lykkelige sted",
+      "airdate": "2025-10-23"
+    },
+    {
+      "id": "e2ebcf9a-de2c-49a5-8153-f8799f10f0a5",
+      "season": 17,
+      "number": 17,
+      "name": "Lektioner i livet",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "6ce15ebc-eba8-4282-ae6a-a8d339b16d28",
+      "season": 17,
+      "number": 18,
+      "name": "Tid til omsorg",
+      "airdate": "2025-10-28"
+    },
+    {
+      "id": "3981c46f-ae0f-482e-8fd7-26c04466be19",
+      "season": 17,
+      "number": 19,
+      "name": "En uddannelse i lykke",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "a2430598-57e4-4c73-88ad-cf5224332397",
+      "season": 17,
+      "number": 20,
+      "name": "Arv",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "2d79d97c-f0bc-43eb-b589-7b5b1ba30fab",
+      "season": 17,
+      "number": 21,
+      "name": "Kærlighed uden ende",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "ebef1d8c-6d4f-43b6-ae4e-95422d5e2a0c",
+      "season": 17,
+      "number": 22,
+      "name": "En tung byrde",
+      "airdate": "2025-11-04"
+    },
+    {
+      "id": "4018d583-b0a2-4e41-88aa-f6a62dcfd79d",
+      "season": 17,
+      "number": 23,
+      "name": "Hvor der er en vilje",
+      "airdate": "2025-11-05"
+    },
+    {
+      "id": "8eca7445-1cf4-4521-8942-0251e099cb98",
+      "season": 17,
+      "number": 24,
+      "name": "Noget har ændret sig",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "b76d596d-3348-4523-b807-4dd3c5fd828b",
+      "season": 17,
+      "number": 25,
+      "name": "Ved din side",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "504fca64-c55f-4a52-b6e3-78c41c351632",
+      "season": 17,
+      "number": 26,
+      "name": "Skru tiden tilbage",
+      "airdate": "2025-11-11"
+    },
+    {
+      "id": "999e8b7b-f972-4f07-86b8-36a5b54ead8d",
+      "season": 17,
+      "number": 27,
+      "name": "Under pandemien",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "ad6c188e-e52f-49e2-835d-34b850e3f14a",
+      "season": 17,
+      "number": 28,
+      "name": "Sønner og døtre",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "570a5861-31ca-4950-af03-3539d2ca3428",
+      "season": 17,
+      "number": 29,
+      "name": "Ren kærlighed",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "76cb4c7e-a241-45d0-aa75-7042e997a439",
+      "season": 17,
+      "number": 30,
+      "name": "Du er ikke alene",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "608367f8-8ec1-4ae0-94e3-180e027833fc",
+      "season": 17,
+      "number": 31,
+      "name": "Det ukendte",
+      "airdate": "2025-11-20"
+    },
+    {
+      "id": "97f54718-ce2f-492f-9a00-a26b11c41753",
+      "season": 17,
+      "number": 32,
+      "name": "En kærlig hånd",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "30b6ee74-ecb6-4e70-ae39-e48666e1e2fe",
+      "season": 18,
+      "number": 1,
+      "name": "Uventede historier",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "e4b977f2-d434-44b6-b3ed-0d40aa6f6caf",
+      "season": 18,
+      "number": 2,
+      "name": "Tag min hånd",
+      "airdate": "2026-09-17"
+    },
+    {
+      "id": "dbd58441-640c-4a64-aaf3-c200c5818550",
+      "season": 18,
+      "number": 3,
+      "name": "Risikoen værd",
+      "airdate": "2026-09-18"
+    },
+    {
+      "id": "3dd79fbf-a24e-44e9-9280-bd34d52ce7c6",
+      "season": 18,
+      "number": 4,
+      "name": "Det handler om en dreng",
+      "airdate": "2026-09-21"
+    },
+    {
+      "id": "bf647977-424e-454b-a521-4b9cb48651e9",
+      "season": 18,
+      "number": 5,
+      "name": "Livet er for kort",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "dcc8f37c-6f99-41cd-b182-abbf630ac383",
+      "season": 18,
+      "number": 6,
+      "name": "Blod, sved og tårer",
+      "airdate": "2026-09-24"
+    },
+    {
+      "id": "a7c51554-0f51-4f5c-a337-a9910215e116",
+      "season": 18,
+      "number": 7,
+      "name": "Vilde drenge",
+      "airdate": "2026-09-25"
+    },
+    {
+      "id": "28bd3e1e-4952-4537-ac35-03ad6e39e8d7",
+      "season": 18,
+      "number": 8,
+      "name": "De søde børn",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "ba15f480-63cd-48c3-858c-aa49d8f1d809",
+      "season": 18,
+      "number": 9,
+      "name": "Folk som os",
+      "airdate": "2026-09-29"
+    },
+    {
+      "id": "1258daa0-8226-4804-8194-f66a92d022bd",
+      "season": 18,
+      "number": 10,
+      "name": "Det uventede",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "dfa16612-8150-46ed-be61-d181232b9345",
+      "season": 18,
+      "number": 11,
+      "name": "Bevar troen",
+      "airdate": "2026-10-01"
+    },
+    {
+      "id": "b372c639-54ef-44c9-b1ef-0be2c1540250",
+      "season": 18,
+      "number": 12,
+      "name": "Indtil vi ses igen",
+      "airdate": "2026-10-02"
+    },
+    {
+      "id": "7c05403e-cbb2-4b52-b9ca-59d32c6f46a7",
+      "season": 18,
+      "number": 13,
+      "name": "Du er ikke alene",
+      "airdate": "2026-10-05"
+    },
+    {
+      "id": "79eef1f1-fd0d-4a9c-8f30-7ecbe89c0b0e",
+      "season": 18,
+      "number": 14,
+      "name": "Et liv i overhalingsbanen",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "4feb6758-3613-40bb-9ec3-b8e7b8cc368c",
+      "season": 18,
+      "number": 15,
+      "name": "Krigeren",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "8ac16279-7ef2-4470-8102-a839f1f216b7",
+      "season": 18,
+      "number": 16,
+      "name": "Familien først",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "55c9194a-5612-4072-8156-ee1994b67d09",
+      "season": 18,
+      "number": 17,
+      "name": "Mænd og koner",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "207a3c8a-39a7-4c53-bd40-4c74e5faac30",
+      "season": 18,
+      "number": 18,
+      "name": "En teenagedrøm",
+      "airdate": "2026-10-12"
+    },
+    {
+      "id": "973f14b4-50eb-486f-9831-f274b86e0472",
+      "season": 18,
+      "number": 19,
+      "name": "En ven i nøden",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "08850307-3684-4298-8ddc-e7a6f1574ae3",
+      "season": 18,
+      "number": 20,
+      "name": "På et splitsekund",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "80a10efa-980c-49c6-804b-6420fb21c4a7",
+      "season": 18,
+      "number": 21,
+      "name": "Når hverdagen rammer",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "2dae0db3-89ef-44d8-9587-6f90d2538920",
+      "season": 19,
+      "number": 1,
+      "name": "Voldsomme fald",
+      "airdate": "2026-10-26"
+    }
+  ]
+}

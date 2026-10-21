@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:en-sag-for-frost-tv2charlie",
+  "name": "En sag for Frost",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4e47ce0d-bb82-4269-a910-c26c61468050",
+      "season": 3,
+      "number": 2,
+      "name": "Quarry",
+      "airdate": "1997-05-11"
+    },
+    {
+      "id": "8bb10c08-b188-4854-923e-2f79fbe24722",
+      "season": 3,
+      "number": 2,
+      "name": "Quarry",
+      "airdate": "1997-05-11"
+    },
+    {
+      "id": "dec24134-0864-4ef3-bce0-9709e10e8fef",
+      "season": 3,
+      "number": 3,
+      "name": "Dead Male One",
+      "airdate": "1997-05-18"
+    },
+    {
+      "id": "79b8d15e-93dd-4b45-bdf9-46218b654317",
+      "season": 3,
+      "number": 4,
+      "name": "No Refuge",
+      "airdate": "1997-05-25"
+    },
+    {
+      "id": "037d68d0-073c-4723-9c48-d05f398bbf8d",
+      "season": 4,
+      "number": 1,
+      "name": "Paying the Price",
+      "airdate": "1997-06-01"
+    },
+    {
+      "id": "77b36a8e-3d5b-4255-a9c6-4e9b11579cac",
+      "season": 4,
+      "number": 2,
+      "name": "Things We Do For Love",
+      "airdate": "1997-06-08"
+    },
+    {
+      "id": "6713ecee-c8df-4c41-8a17-6185182e38bf",
+      "season": 4,
+      "number": 3,
+      "name": "Unknown Soldiers",
+      "airdate": "1997-06-15"
+    },
+    {
+      "id": "e878f483-8349-4079-8f41-8f2c9e7dd609",
+      "season": 4,
+      "number": 4,
+      "name": "Fun Times for Swingers",
+      "airdate": "1997-06-22"
+    },
+    {
+      "id": "652910b0-b5aa-4273-8de6-2e1e651509d6",
+      "season": 4,
+      "number": 5,
+      "name": "Deep Waters",
+      "airdate": "1997-06-29"
+    }
+  ]
+}

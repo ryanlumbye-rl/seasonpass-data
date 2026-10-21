@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:bryd-fronterne-med-cecilie-beck-tv2play",
+  "name": "Bryd fronterne med Cecilie Beck",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b707fc49-4274-48d1-9acd-674aba34a94f",
+      "season": 2026,
+      "number": 1,
+      "name": "Hvorfor fylder islam så meget i debatten om danskhed?",
+      "airdate": "2026-10-21"
+    }
+  ]
+}

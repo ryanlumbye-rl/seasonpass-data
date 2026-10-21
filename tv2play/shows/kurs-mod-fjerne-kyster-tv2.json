@@ -1,0 +1,241 @@
+{
+  "id": "tv2play:kurs-mod-fjerne-kyster-tv2",
+  "name": "Kurs mod fjerne kyster",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "06be7499-8b8b-4f75-a3f0-27e1d96b14f6",
+      "season": 1,
+      "number": 1,
+      "name": "Farvel, Danmark!",
+      "airdate": "2014-03-11"
+    },
+    {
+      "id": "1505c0e7-3b6e-4192-accc-cb2e604f4c3a",
+      "season": 1,
+      "number": 2,
+      "name": "Det store ocean",
+      "airdate": "2014-03-18"
+    },
+    {
+      "id": "1e919447-92e5-4358-8dd5-e351cbec4eb9",
+      "season": 1,
+      "number": 3,
+      "name": "Fare forude?",
+      "airdate": "2014-03-25"
+    },
+    {
+      "id": "81319619-7ae1-40ac-8c73-e35caf71c152",
+      "season": 1,
+      "number": 4,
+      "name": "Så dykker vi",
+      "airdate": "2014-04-01"
+    },
+    {
+      "id": "78ec1f78-a039-4019-a68c-08b59a92f7e2",
+      "season": 1,
+      "number": 5,
+      "name": "På bunden af det caribiske hav",
+      "airdate": "2014-04-08"
+    },
+    {
+      "id": "4b2c5d3c-817d-4d58-a461-00ef586c0921",
+      "season": 1,
+      "number": 6,
+      "name": "På tur i Colombia",
+      "airdate": "2014-04-15"
+    },
+    {
+      "id": "12cce47a-8640-47f5-87b2-544caa322c30",
+      "season": 1,
+      "number": 7,
+      "name": "Sejlerentusiasternes Kilimanjaro",
+      "airdate": "2014-04-22"
+    },
+    {
+      "id": "3616bcc8-54ba-4306-ae9f-70b342b20db3",
+      "season": 1,
+      "number": 8,
+      "name": "Mål i sigte",
+      "airdate": "2014-04-29"
+    },
+    {
+      "id": "8b517984-2719-4af6-9ece-f288075e9511",
+      "season": 1,
+      "number": 9,
+      "name": "Mikkel ser tilbage",
+      "airdate": "2014-12-17"
+    },
+    {
+      "id": "5b2e866d-6c5d-4593-9069-98d903df59f7",
+      "season": 2,
+      "number": 1,
+      "name": "Genforenet på Galápagos",
+      "airdate": "2015-02-10"
+    },
+    {
+      "id": "58cf4b77-b766-4e22-b813-ff06f82f2660",
+      "season": 2,
+      "number": 2,
+      "name": "Fransk Polynesien",
+      "airdate": "2015-02-10"
+    },
+    {
+      "id": "37ca0063-efe5-407b-ae94-9052f40cb3e8",
+      "season": 2,
+      "number": 3,
+      "name": "Et paradis på jord?",
+      "airdate": "2015-02-17"
+    },
+    {
+      "id": "6042140b-c7a2-4a8f-9654-73cd65a17c35",
+      "season": 2,
+      "number": 4,
+      "name": "Hej hajer!",
+      "airdate": "2015-02-24"
+    },
+    {
+      "id": "17cdc7f5-0909-4dd7-8aa1-5e28841d5d93",
+      "season": 2,
+      "number": 5,
+      "name": "Drama på båden",
+      "airdate": "2015-03-03"
+    },
+    {
+      "id": "991b86ce-0197-4d0a-8506-0a1a23938cde",
+      "season": 2,
+      "number": 6,
+      "name": "Theis' tatovering",
+      "airdate": "2015-03-10"
+    },
+    {
+      "id": "ed3f445e-ef55-4361-8d25-2e92ef552ddd",
+      "season": 2,
+      "number": 7,
+      "name": "Et dyk for livet",
+      "airdate": "2015-03-17"
+    },
+    {
+      "id": "0ae9aab1-2630-4bef-bd68-26d71725aec9",
+      "season": 2,
+      "number": 8,
+      "name": "De mest eventyrlige øjeblikke",
+      "airdate": "2015-11-30"
+    },
+    {
+      "id": "19c18bae-3af9-4f7c-b759-d7c64ef9e4c8",
+      "season": 3,
+      "number": 1,
+      "name": "En god genforening",
+      "airdate": "2016-02-09"
+    },
+    {
+      "id": "d1b75cdb-ab80-40b2-b188-f8a6211798cc",
+      "season": 3,
+      "number": 2,
+      "name": "Havanas store reparation",
+      "airdate": "2016-02-09"
+    },
+    {
+      "id": "8b451118-79d0-4586-8960-c21926775130",
+      "season": 3,
+      "number": 3,
+      "name": "Mytteristernes ø",
+      "airdate": "2016-02-16"
+    },
+    {
+      "id": "4189fc34-b4ca-4fda-a32e-c1197ec30531",
+      "season": 3,
+      "number": 4,
+      "name": "Hvaldyk i det vestlige Stillehav",
+      "airdate": "2016-02-23"
+    },
+    {
+      "id": "0024390b-bffc-471d-8b1a-66007fbed44c",
+      "season": 3,
+      "number": 5,
+      "name": "Vulkaner på Vanuatu",
+      "airdate": "2016-03-01"
+    },
+    {
+      "id": "d7b7e592-9167-47db-bf70-8d26d1bcf679",
+      "season": 3,
+      "number": 6,
+      "name": "Mellem sort magi og kaskelothvaler",
+      "airdate": "2016-03-08"
+    },
+    {
+      "id": "6061222c-8d38-4e05-b776-b347b0405175",
+      "season": 3,
+      "number": 7,
+      "name": "Den store krig",
+      "airdate": "2016-03-15"
+    },
+    {
+      "id": "69e0efe8-f21e-4e1c-9f3d-a5fccadb31c0",
+      "season": 3,
+      "number": 8,
+      "name": "Det truede hav",
+      "airdate": "2016-03-22"
+    },
+    {
+      "id": "636e22e4-a797-454b-84df-7f8c5dba5bd9",
+      "season": 4,
+      "number": 1,
+      "name": "I varanernes land",
+      "airdate": "2017-01-31"
+    },
+    {
+      "id": "5346d993-b124-438c-a339-0bad2cfcf893",
+      "season": 4,
+      "number": 2,
+      "name": "Balis eventyr",
+      "airdate": "2017-02-07"
+    },
+    {
+      "id": "38484464-953e-4c5d-84d2-30a57b2812e8",
+      "season": 4,
+      "number": 3,
+      "name": "Fra Bali til Borneo",
+      "airdate": "2017-02-14"
+    },
+    {
+      "id": "da262349-7a5e-4a28-bf4a-18fd3bb4ed39",
+      "season": 4,
+      "number": 4,
+      "name": "Borneos orangutanger",
+      "airdate": "2017-02-21"
+    },
+    {
+      "id": "3b0e6622-498f-4f0b-94be-f3fdb22e1305",
+      "season": 4,
+      "number": 5,
+      "name": "Kampen for regnskoven",
+      "airdate": "2017-02-28"
+    },
+    {
+      "id": "35fc7799-5ece-429d-8749-afc6ee3431fa",
+      "season": 4,
+      "number": 6,
+      "name": "Eventyr og mareridt ved Ækvator",
+      "airdate": "2017-03-07"
+    },
+    {
+      "id": "3be97120-101b-402c-8a6d-8d644f8b4bfb",
+      "season": 4,
+      "number": 7,
+      "name": "Det kæmpe containerskib",
+      "airdate": "2017-03-14"
+    },
+    {
+      "id": "c0bee4ff-fcd5-4254-b3a7-2510f430f3d5",
+      "season": 4,
+      "number": 8,
+      "name": "Havana vender hjem",
+      "airdate": "2017-03-21"
+    }
+  ]
+}

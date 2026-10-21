@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:knaek-cancer-tv2",
+  "name": "Knæk Cancer",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b0338ba1-e4fe-4308-96fd-def4d9350692",
+      "season": 2025,
+      "number": 1,
+      "name": "Liveshow første del",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "75ff09a9-bbe1-414c-bfd8-dc370de1bf7e",
+      "season": 2025,
+      "number": 2,
+      "name": "Liveshow anden del",
+      "airdate": "2025-10-25"
+    }
+  ]
+}

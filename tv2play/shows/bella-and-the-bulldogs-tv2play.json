@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:bella-and-the-bulldogs-tv2play",
+  "name": "Bella and the Bulldogs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ca685056-a447-4af2-9239-2b34a78aaba8",
+      "season": 1,
+      "number": 18,
+      "name": "Hep på Newt",
+      "airdate": "2023-02-21"
+    }
+  ]
+}

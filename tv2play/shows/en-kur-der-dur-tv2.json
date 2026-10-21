@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:en-kur-der-dur-tv2",
+  "name": "En kur der dur",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3f28a56d-c3e8-446e-a750-a2acdea29810",
+      "season": 1,
+      "number": 1,
+      "name": "Juicekuren",
+      "airdate": "2014-01-06"
+    },
+    {
+      "id": "c428ec5b-4444-45c2-bf88-35b6d29bcac1",
+      "season": 1,
+      "number": 2,
+      "name": "Stenalderkuren",
+      "airdate": "2014-01-13"
+    },
+    {
+      "id": "6df99016-a929-42fe-b229-be47635c6dbe",
+      "season": 1,
+      "number": 3,
+      "name": "LCHF-kuren",
+      "airdate": "2014-01-27"
+    },
+    {
+      "id": "a131a662-aba0-4ef6-a3e3-09edae513186",
+      "season": 1,
+      "number": 4,
+      "name": "5:2-kuren",
+      "airdate": "2014-02-03"
+    },
+    {
+      "id": "068989c2-cb78-4884-ae74-f693453e6b52",
+      "season": 1,
+      "number": 5,
+      "name": "Dukan-kuren",
+      "airdate": "2014-02-10"
+    },
+    {
+      "id": "0eba5cde-031b-410f-ac24-bcec1cb6f294",
+      "season": 2,
+      "number": 1,
+      "name": "Alkaline-kuren",
+      "airdate": "2017-01-02"
+    },
+    {
+      "id": "6304d8e0-d610-44d4-b4ef-39c31ccb7a2e",
+      "season": 2,
+      "number": 2,
+      "name": "SIRT-kuren",
+      "airdate": "2017-01-09"
+    },
+    {
+      "id": "c0002d0c-1073-4809-965b-4e21ae2d9705",
+      "season": 2,
+      "number": 3,
+      "name": "Sense-kuren",
+      "airdate": "2017-01-23"
+    },
+    {
+      "id": "9532ef26-7c9a-421e-840a-d417e49dfa3f",
+      "season": 2,
+      "number": 4,
+      "name": "Low Carb-kuren",
+      "airdate": "2017-01-30"
+    },
+    {
+      "id": "6c993933-fdd0-4f28-a0c3-3b7471bfce08",
+      "season": 2,
+      "number": 5,
+      "name": "8-timers-kuren",
+      "airdate": "2017-02-06"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "id": "tv2play:ryd-op-i-dit-liv-tv2fri",
+  "name": "Ryd op i dit liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0a0376ed-1dfe-4d12-a51c-28148492fb60",
+      "season": 1,
+      "number": 1,
+      "name": "Julie og Peter",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "a0618bf1-3bb2-430b-9652-661ce1b93c58",
+      "season": 1,
+      "number": 2,
+      "name": "Liza og Fletcher",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "4294963b-af28-4eb1-b81a-7fa866d6e2b6",
+      "season": 1,
+      "number": 3,
+      "name": "Anu, Sid og Kashmira",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "3bb3763c-0233-423a-b11c-91b8f28c3faf",
+      "season": 1,
+      "number": 4,
+      "name": "Jaime",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "ae1097a0-f817-4492-a671-49d8ea35cd6f",
+      "season": 1,
+      "number": 5,
+      "name": "Sharon, Darren og Zara",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "a75aad25-3fac-44ac-90d8-95ded620bf41",
+      "season": 1,
+      "number": 6,
+      "name": "Faye og Maddison",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "a4d035ea-edf3-45ca-90c1-b494fc3efc1a",
+      "season": 1,
+      "number": 7,
+      "name": "Bill og Fiona",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "19f312c2-a1ba-490a-9308-5d944782f426",
+      "season": 1,
+      "number": 8,
+      "name": "Anna og Harry med familie",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "2544eb85-84d0-4966-b2ed-b483a0a40fe3",
+      "season": 1,
+      "number": 9,
+      "name": "Maria og Josie med familie",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "ce125416-dbf0-489d-8287-f54761dc546f",
+      "season": 1,
+      "number": 10,
+      "name": "Arielle og Mark med familie",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "bec68395-975e-427a-8794-b888f4951129",
+      "season": 2,
+      "number": 1,
+      "name": "Lisa og Jason",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "843f2ea4-bac1-48b2-9c63-76a2d414b314",
+      "season": 2,
+      "number": 2,
+      "name": "Carolyn",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "61f12461-2bf7-4b7d-a4c7-77c81ba7843d",
+      "season": 2,
+      "number": 3,
+      "name": "Sally og Mark",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "bfd2b5d8-2398-4ca0-9cef-c58d12ee1082",
+      "season": 2,
+      "number": 4,
+      "name": "Gary og Nez",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "09763093-8600-4a6e-a96d-eb5034a88484",
+      "season": 2,
+      "number": 5,
+      "name": "Rob og Sharon",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "243c41a1-eefa-4d09-a3f9-cc671f05beec",
+      "season": 2,
+      "number": 6,
+      "name": "Caroline og Adrian",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "51516f36-1ebb-4623-b618-a610dc333098",
+      "season": 2,
+      "number": 7,
+      "name": "Maria og Steve",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "22048cbf-d581-4692-ac04-90be5cedf047",
+      "season": 2,
+      "number": 8,
+      "name": "Sokhem, Sokhey og Amara",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "881fe6e6-71e7-48df-8071-d79ea3169d20",
+      "season": 2,
+      "number": 9,
+      "name": "Dean",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "1c0bb7e7-4b75-4800-afd5-60d48521c318",
+      "season": 2,
+      "number": 10,
+      "name": "Denis og Michelle",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "1c326e89-bba9-4b05-8c75-b94be3343b51",
+      "season": 3,
+      "number": 1,
+      "name": "Bec og Julian",
+      "airdate": "2024-07-20"
+    },
+    {
+      "id": "da9e3c7c-1466-434d-be78-67524fa2c7b2",
+      "season": 3,
+      "number": 2,
+      "name": "Jill",
+      "airdate": "2024-07-20"
+    },
+    {
+      "id": "d57107d3-f065-4389-8e38-edd59ca97e5d",
+      "season": 3,
+      "number": 3,
+      "name": "Jo og Shayne",
+      "airdate": "2024-07-20"
+    },
+    {
+      "id": "fe0faed1-e9f9-4871-8805-be337c09c5be",
+      "season": 3,
+      "number": 4,
+      "name": "Kim og Laura",
+      "airdate": "2024-07-20"
+    },
+    {
+      "id": "c8097ec1-039a-4572-baed-af941a51faa1",
+      "season": 3,
+      "number": 5,
+      "name": "Luke og David",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "e5108ca9-e1e4-4583-9534-2d6e463a00fd",
+      "season": 3,
+      "number": 6,
+      "name": "Holly og Darren",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "a41d4a16-d12a-4d1c-9b6e-393f37f2cfcd",
+      "season": 3,
+      "number": 7,
+      "name": "Silvana",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "a5819ae6-6ec6-48a2-a518-a5bf9d4d5276",
+      "season": 3,
+      "number": 8,
+      "name": "Nina og Dom",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "cd880f67-8d08-49f9-892a-86aa17088d50",
+      "season": 3,
+      "number": 9,
+      "name": "Carol, Penny, Julian og Emma",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "e58df65b-1f7a-4418-aa7b-8b4e8df9f0e2",
+      "season": 3,
+      "number": 10,
+      "name": "Georgina og Nathan",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "b66f3a4d-1b7b-41aa-87dc-0003623379a0",
+      "season": 4,
+      "number": 1,
+      "name": "Jo og Efrem",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "35644b1e-d906-4fe9-b296-7abb99222435",
+      "season": 4,
+      "number": 2,
+      "name": "Ben, Carla og Christine",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "4dda040d-d055-463c-a7d6-91ee92668d9a",
+      "season": 4,
+      "number": 3,
+      "name": "Karisha og Simon",
+      "airdate": "2025-06-16"
+    },
+    {
+      "id": "bfbb2d7a-f2d1-4996-9a61-235af525ecff",
+      "season": 4,
+      "number": 4,
+      "name": "Sandra og Denise",
+      "airdate": "2025-06-16"
+    },
+    {
+      "id": "0cbc32a4-ab07-4f0d-8fc1-5c1b20a266da",
+      "season": 4,
+      "number": 5,
+      "name": "Kylie og Paul",
+      "airdate": "2025-06-17"
+    },
+    {
+      "id": "8f49c64e-77de-42bd-b0bd-c562e8687d9d",
+      "season": 4,
+      "number": 6,
+      "name": "Kathy, Ella og Ruby",
+      "airdate": "2025-06-17"
+    },
+    {
+      "id": "443fcd12-86cb-4572-8d26-5346ac22d254",
+      "season": 4,
+      "number": 7,
+      "name": "Tracey og Stuart",
+      "airdate": "2025-06-18"
+    },
+    {
+      "id": "0e40143f-cca0-4825-a069-e0d4ba13b9cc",
+      "season": 4,
+      "number": 8,
+      "name": "På genbesøg",
+      "airdate": "2025-06-18"
+    },
+    {
+      "id": "a5c0bf0b-7172-4d49-aacc-09008a9ec05d",
+      "season": 4,
+      "number": 9,
+      "name": "Garman og Ingrid",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "4b421a90-bb85-440a-8f09-bd899a12f837",
+      "season": 4,
+      "number": 10,
+      "name": "Christine og Daniel",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "ab306444-4c44-4c85-a152-f3c6e39abe5c",
+      "season": 5,
+      "number": 1,
+      "name": "Steve og Megan",
+      "airdate": "2025-06-09"
+    },
+    {
+      "id": "3b165237-8baa-4f09-85ba-a3792a372ae1",
+      "season": 5,
+      "number": 2,
+      "name": "Renata",
+      "airdate": "2025-06-09"
+    },
+    {
+      "id": "7a76f0fc-d2e2-4630-97a0-bb212594d21c",
+      "season": 5,
+      "number": 3,
+      "name": "Maree og Bridget",
+      "airdate": "2025-06-10"
+    },
+    {
+      "id": "dddd89fa-fbf9-4a12-a091-7c96590fdc7d",
+      "season": 5,
+      "number": 4,
+      "name": "Jo, Monique og Jake",
+      "airdate": "2025-06-10"
+    },
+    {
+      "id": "74084165-b077-436b-af26-91942cb58d16",
+      "season": 5,
+      "number": 5,
+      "name": "Dianne",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "2d38b998-cfd4-47e2-a839-9b113a57da15",
+      "season": 5,
+      "number": 6,
+      "name": "Melanie",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "f470ca71-3748-4b1c-bcdf-fc9663047eab",
+      "season": 5,
+      "number": 7,
+      "name": "Leona",
+      "airdate": "2025-06-12"
+    },
+    {
+      "id": "8c72c452-1fa8-4bdf-a954-7ff870972ff7",
+      "season": 5,
+      "number": 8,
+      "name": "Iliana, Rob og Mia",
+      "airdate": "2025-06-12"
+    },
+    {
+      "id": "d5550d45-6896-4c5c-8ada-262d19cbd102",
+      "season": 6,
+      "number": 1,
+      "name": "Val, Bill og Nicole",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "17913603-3f48-433f-8433-7023766babe4",
+      "season": 6,
+      "number": 2,
+      "name": "Michael",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "2142bb69-ba9f-4eac-bd10-dde5bb525428",
+      "season": 6,
+      "number": 3,
+      "name": "Rita og Yezeg",
+      "airdate": "2026-07-31"
+    },
+    {
+      "id": "7ecf07be-2d21-4809-8197-1a51bbee4095",
+      "season": 6,
+      "number": 4,
+      "name": "Annie",
+      "airdate": "2026-07-31"
+    },
+    {
+      "id": "5f887ab0-be3a-47ae-a791-613a13275c3d",
+      "season": 6,
+      "number": 5,
+      "name": "Marg og Chris",
+      "airdate": "2026-08-03"
+    },
+    {
+      "id": "dca64d8c-c1df-46a5-9625-b279172009ea",
+      "season": 6,
+      "number": 6,
+      "name": "Ange og Marlon",
+      "airdate": "2026-08-03"
+    },
+    {
+      "id": "71c6edc0-a21f-4799-8716-bfaf1a11496f",
+      "season": 6,
+      "number": 7,
+      "name": "Steve og Sarah",
+      "airdate": "2026-08-04"
+    },
+    {
+      "id": "fdf26efd-cf0b-4dcb-86d4-537f52952554",
+      "season": 6,
+      "number": 8,
+      "name": "Belinda og James",
+      "airdate": "2026-08-04"
+    }
+  ]
+}

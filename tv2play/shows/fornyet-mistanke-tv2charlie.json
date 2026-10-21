@@ -1,0 +1,759 @@
+{
+  "id": "tv2play:fornyet-mistanke-tv2charlie",
+  "name": "Fornyet mistanke",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0519ead3-129f-4c3e-b53d-308357d69093",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2006-09-15"
+    },
+    {
+      "id": "9dc69313-a914-484b-86e0-7403376d697a",
+      "season": 1,
+      "number": 2,
+      "name": "ID Parade",
+      "airdate": "2006-09-22"
+    },
+    {
+      "id": "b18ac346-0e97-4cb3-99d0-969ea2842476",
+      "season": 1,
+      "number": 3,
+      "name": "Painting On Loan",
+      "airdate": "2006-09-29"
+    },
+    {
+      "id": "ee9c12b6-f294-4ccb-9f78-3fdac17a0c4c",
+      "season": 1,
+      "number": 4,
+      "name": "1984",
+      "airdate": "2006-10-06"
+    },
+    {
+      "id": "0a15efb0-dbe1-46db-906a-6eb4d69c8eb7",
+      "season": 1,
+      "number": 5,
+      "name": "Good Work Rewarded",
+      "airdate": "2006-10-13"
+    },
+    {
+      "id": "690903cf-2332-4c5a-8a8a-0da8e9ac0af8",
+      "season": 1,
+      "number": 6,
+      "name": "Home Truths",
+      "airdate": "2006-10-20"
+    },
+    {
+      "id": "da1662be-0f12-427e-b486-73dfd6c0063f",
+      "season": 1,
+      "number": 7,
+      "name": "Talking To The Dead",
+      "airdate": "2006-10-27"
+    },
+    {
+      "id": "e39cca9d-fbc6-418c-87d5-e7f60f325510",
+      "season": 2,
+      "number": 1,
+      "name": "A Delicate Touch",
+      "airdate": "2006-11-03"
+    },
+    {
+      "id": "a07f33c5-cbcd-45e0-a724-4f593c694c09",
+      "season": 2,
+      "number": 2,
+      "name": "Family Business",
+      "airdate": "2006-11-10"
+    },
+    {
+      "id": "b065d757-0031-47f6-8be1-e64d6f830810",
+      "season": 2,
+      "number": 3,
+      "name": "Trust Me",
+      "airdate": "2006-11-17"
+    },
+    {
+      "id": "5ffc9887-a36c-48dd-af05-729ba3451c3d",
+      "season": 2,
+      "number": 4,
+      "name": "Old And Cold",
+      "airdate": "2006-11-24"
+    },
+    {
+      "id": "c533d247-8376-4226-a600-ec8a0bebab14",
+      "season": 2,
+      "number": 5,
+      "name": "Creative Problem Solving",
+      "airdate": "2006-12-01"
+    },
+    {
+      "id": "70b06a1b-f0b2-4ede-b8c2-e91ec38a1c0f",
+      "season": 2,
+      "number": 6,
+      "name": "Eyes Down For A Full House",
+      "airdate": "2007-02-02"
+    },
+    {
+      "id": "aba4961c-1b9d-4406-a133-f20ae4e0dffd",
+      "season": 2,
+      "number": 7,
+      "name": "Fluke Of Luck",
+      "airdate": "2007-02-09"
+    },
+    {
+      "id": "54f30f58-90ee-437d-a55f-b9b2b8d7e4ae",
+      "season": 2,
+      "number": 8,
+      "name": "17 Years Of Nothing",
+      "airdate": "2007-02-16"
+    },
+    {
+      "id": "afc1c091-e66a-4cc2-9de9-f25ff0acbee2",
+      "season": 3,
+      "number": 1,
+      "name": "Lady's Pleasure",
+      "airdate": "2007-02-23"
+    },
+    {
+      "id": "1853c817-80a5-46df-8d8c-7cabb0292693",
+      "season": 3,
+      "number": 2,
+      "name": "Dockers",
+      "airdate": "2007-03-02"
+    },
+    {
+      "id": "838d249f-9228-4809-85de-7995f5575733",
+      "season": 3,
+      "number": 3,
+      "name": "Old Dogs",
+      "airdate": "2007-03-09"
+    },
+    {
+      "id": "a3fa4cbc-a49e-4897-872f-628158930462",
+      "season": 3,
+      "number": 4,
+      "name": "Diamond Geezers",
+      "airdate": "2007-03-16"
+    },
+    {
+      "id": "befc4030-a36e-483f-bbac-4b82bc3c7867",
+      "season": 3,
+      "number": 5,
+      "name": "Wicca Work",
+      "airdate": "2007-03-23"
+    },
+    {
+      "id": "5adf698f-6553-433b-9cf6-f7175c13c2c9",
+      "season": 3,
+      "number": 6,
+      "name": "Bank Robbery",
+      "airdate": "2007-03-30"
+    },
+    {
+      "id": "c3ec7d4b-bf62-4151-a5ef-46ce9bc8c95f",
+      "season": 3,
+      "number": 7,
+      "name": "Ice Cream Wars",
+      "airdate": "2007-04-06"
+    },
+    {
+      "id": "9c264a6e-09f6-4815-9597-ea4492a83079",
+      "season": 3,
+      "number": 8,
+      "name": "Congratulations",
+      "airdate": "2007-04-13"
+    },
+    {
+      "id": "d18d4dd7-00f2-486d-bf83-be0ee3423482",
+      "season": 4,
+      "number": 1,
+      "name": "Casualty",
+      "airdate": "2008-10-30"
+    },
+    {
+      "id": "53ecff01-958f-4abf-aee8-fda5a114ca86",
+      "season": 4,
+      "number": 2,
+      "name": "God's Waiting Room",
+      "airdate": "2008-11-03"
+    },
+    {
+      "id": "f29af358-27bb-4f2c-97e8-a96208269f55",
+      "season": 4,
+      "number": 3,
+      "name": "Ducking and Driving",
+      "airdate": "2008-11-04"
+    },
+    {
+      "id": "006b06be-58ac-48bf-a419-ea7363f7e461",
+      "season": 4,
+      "number": 4,
+      "name": "Nine Lives",
+      "airdate": "2008-11-05"
+    },
+    {
+      "id": "e48fa6a0-cf12-45d9-a0ea-d46c775b23eb",
+      "season": 4,
+      "number": 5,
+      "name": "Powerhouse",
+      "airdate": "2008-11-06"
+    },
+    {
+      "id": "12b9c3ed-e0d1-4e8c-bd31-bf6ad1e55418",
+      "season": 4,
+      "number": 6,
+      "name": "Buried Treasure",
+      "airdate": "2008-11-10"
+    },
+    {
+      "id": "e716a2bc-75db-4e19-a5ce-92ba494d5aeb",
+      "season": 4,
+      "number": 7,
+      "name": "Father's Pride",
+      "airdate": "2008-11-11"
+    },
+    {
+      "id": "1d84167d-89c3-44c9-a35b-5cf653750859",
+      "season": 4,
+      "number": 8,
+      "name": "Big Topped",
+      "airdate": "2008-11-13"
+    },
+    {
+      "id": "ed294e08-fabd-4799-a95c-fb17fb38a850",
+      "season": 5,
+      "number": 1,
+      "name": "Spare Parts",
+      "airdate": "2010-07-13"
+    },
+    {
+      "id": "b1e04aae-d76d-44fb-92c6-7ae1c3190009",
+      "season": 5,
+      "number": 2,
+      "name": "Final Curtain",
+      "airdate": "2010-07-14"
+    },
+    {
+      "id": "084a0324-eaec-49d0-b28a-782cb416aacd",
+      "season": 5,
+      "number": 3,
+      "name": "A Face for Radio",
+      "airdate": "2010-07-15"
+    },
+    {
+      "id": "22cf3c97-1dc0-46ea-8ef9-eb9a3e8525e4",
+      "season": 5,
+      "number": 4,
+      "name": "Loyalties and Royalties",
+      "airdate": "2010-07-16"
+    },
+    {
+      "id": "76e621c3-8ef7-45a9-91c0-4995cdf1d389",
+      "season": 5,
+      "number": 5,
+      "name": "Couldn't Organise One",
+      "airdate": "2010-07-19"
+    },
+    {
+      "id": "b1a60604-764f-459d-9663-3a3e97b10e3f",
+      "season": 5,
+      "number": 6,
+      "name": "Magic Majestic",
+      "airdate": "2010-07-20"
+    },
+    {
+      "id": "696aa4a6-33c1-4a25-aca2-a2ac474c6c32",
+      "season": 5,
+      "number": 7,
+      "name": "Communal Living",
+      "airdate": "2010-07-21"
+    },
+    {
+      "id": "fa41e0c5-f884-47ff-95ac-879ed43992b9",
+      "season": 5,
+      "number": 8,
+      "name": "Mad Dogs",
+      "airdate": "2010-07-22"
+    },
+    {
+      "id": "5d6f1fbe-621a-4b71-8039-f8cf4757725c",
+      "season": 6,
+      "number": 1,
+      "name": "The War Against Drugs",
+      "airdate": "2010-12-01"
+    },
+    {
+      "id": "2b8f11c3-3b69-43cf-8e10-cc470b038c2a",
+      "season": 6,
+      "number": 2,
+      "name": "The Truth Is Out There",
+      "airdate": "2010-12-02"
+    },
+    {
+      "id": "d6857ba3-7d91-4c65-8f08-5356eb735671",
+      "season": 6,
+      "number": 3,
+      "name": "Fresh Starts",
+      "airdate": "2010-12-03"
+    },
+    {
+      "id": "e3b428f9-9967-4738-bb2e-f3da42868c12",
+      "season": 6,
+      "number": 4,
+      "name": "Shadow Show",
+      "airdate": "2010-12-06"
+    },
+    {
+      "id": "f2f1c5b5-8210-4a25-9ba7-8c8d3518c6a1",
+      "season": 6,
+      "number": 5,
+      "name": "Death of a Timeshare Salesman",
+      "airdate": "2010-12-07"
+    },
+    {
+      "id": "e5a00311-ee1f-4a20-aa33-8b3762039afc",
+      "season": 6,
+      "number": 6,
+      "name": "The Last Laugh",
+      "airdate": "2010-12-08"
+    },
+    {
+      "id": "010b3675-a1c8-4787-b6df-b12b15d21bed",
+      "season": 6,
+      "number": 7,
+      "name": "Blood is Thicker than Water",
+      "airdate": "2010-12-09"
+    },
+    {
+      "id": "c544465d-1e5c-411a-9038-ee5c44267a7f",
+      "season": 6,
+      "number": 8,
+      "name": "Meat is Murder",
+      "airdate": "2010-12-10"
+    },
+    {
+      "id": "6e75a393-86ba-4082-9ed7-76ad57adf982",
+      "season": 7,
+      "number": 1,
+      "name": "Dead Man Talking",
+      "airdate": "2010-12-13"
+    },
+    {
+      "id": "ae56e9dd-c49a-45e2-a9cd-a912baed3054",
+      "season": 7,
+      "number": 2,
+      "name": "It Smells of Books",
+      "airdate": "2010-12-14"
+    },
+    {
+      "id": "b4b7acfe-6611-4e98-ae34-42696340ce37",
+      "season": 7,
+      "number": 3,
+      "name": "Left Field",
+      "airdate": "2010-12-15"
+    },
+    {
+      "id": "ebeb7529-a720-460c-b52d-303ed32db5a3",
+      "season": 7,
+      "number": 4,
+      "name": "Dark Chocolate",
+      "airdate": "2010-12-16"
+    },
+    {
+      "id": "4d1182f4-289c-4d6d-9755-cc59535dd648",
+      "season": 7,
+      "number": 5,
+      "name": "Good Morning Lemmings",
+      "airdate": "2010-12-17"
+    },
+    {
+      "id": "ed0eca59-5638-4d85-b166-458e66a844d3",
+      "season": 7,
+      "number": 6,
+      "name": "Fashion Victim",
+      "airdate": "2010-12-20"
+    },
+    {
+      "id": "0ce9bbd4-6a71-4acb-90ec-9f584af7c05d",
+      "season": 7,
+      "number": 7,
+      "name": "Where There's Smokes",
+      "airdate": "2010-12-21"
+    },
+    {
+      "id": "4aeb23fe-126c-4a1f-b31a-0112d01329da",
+      "season": 7,
+      "number": 8,
+      "name": "Coming Out Ball",
+      "airdate": "2010-12-22"
+    },
+    {
+      "id": "59f89696-2a69-4137-b51f-f0dacd510f09",
+      "season": 7,
+      "number": 9,
+      "name": "Gloves Off",
+      "airdate": "2010-12-23"
+    },
+    {
+      "id": "79e79da9-e44d-42eb-b94e-7511e725d914",
+      "season": 7,
+      "number": 10,
+      "name": "The Fourth Man",
+      "airdate": "2010-12-25"
+    },
+    {
+      "id": "048fcd30-db64-4d45-bf61-21e0e21e82fb",
+      "season": 8,
+      "number": 1,
+      "name": "Old Fossils",
+      "airdate": "2012-08-17"
+    },
+    {
+      "id": "457cee00-809e-478f-a32e-d0440949922f",
+      "season": 8,
+      "number": 2,
+      "name": "End Of The Line",
+      "airdate": "2012-08-20"
+    },
+    {
+      "id": "c3332d81-083f-4584-8955-40b5224b024f",
+      "season": 8,
+      "number": 3,
+      "name": "Lost In Translation",
+      "airdate": "2012-08-21"
+    },
+    {
+      "id": "15a0b467-e4d6-46c6-865c-b4bb27bbc0a5",
+      "season": 8,
+      "number": 4,
+      "name": "Setting Out Your Stall",
+      "airdate": "2012-08-22"
+    },
+    {
+      "id": "041eaadb-92bf-4f55-95ec-54c53f29cdef",
+      "season": 8,
+      "number": 5,
+      "name": "Moving Target",
+      "airdate": "2012-08-23"
+    },
+    {
+      "id": "9a7214ac-4596-4d19-afbe-3e7277aa4c47",
+      "season": 8,
+      "number": 6,
+      "name": "New Tricks",
+      "airdate": "2012-08-24"
+    },
+    {
+      "id": "43cd4c50-b0e0-48e3-812e-a438960b83ef",
+      "season": 8,
+      "number": 7,
+      "name": "The Gentleman Vanishes",
+      "airdate": "2012-08-29"
+    },
+    {
+      "id": "c5efcdb0-df40-41aa-b20e-31967b6c15d8",
+      "season": 8,
+      "number": 8,
+      "name": "Only the Brave",
+      "airdate": "2012-08-30"
+    },
+    {
+      "id": "19f1ae3f-c675-4fc1-9258-4dea3fd6d677",
+      "season": 8,
+      "number": 9,
+      "name": "Half Life",
+      "airdate": "2012-08-31"
+    },
+    {
+      "id": "bd753979-4ce7-4393-9975-bccd85ef3eb2",
+      "season": 8,
+      "number": 10,
+      "name": "Tiger Tiger",
+      "airdate": "2012-09-03"
+    },
+    {
+      "id": "c622a5f9-ea16-44b7-8528-6f9c22da8634",
+      "season": 9,
+      "number": 1,
+      "name": "A Death in the Family",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "9ef3a133-0afe-41c2-9858-3c468758f9ef",
+      "season": 9,
+      "number": 2,
+      "name": "Old School Ties",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "bf09c063-3d1d-4cd9-ada3-a729d44a6e0e",
+      "season": 9,
+      "number": 3,
+      "name": "Queen and Country",
+      "airdate": "2014-04-07"
+    },
+    {
+      "id": "964f6896-d389-4a7d-b328-5cd48f297c12",
+      "season": 9,
+      "number": 4,
+      "name": "The Girl Who Lived",
+      "airdate": "2014-04-07"
+    },
+    {
+      "id": "3af9a2d7-021d-4349-ab93-40fced62131a",
+      "season": 9,
+      "number": 5,
+      "name": "Body of Evidence",
+      "airdate": "2014-04-21"
+    },
+    {
+      "id": "06ee25ef-a1bf-4598-bb86-85218d4d755e",
+      "season": 9,
+      "number": 6,
+      "name": "Love Means Nothing in Tennis",
+      "airdate": "2014-04-21"
+    },
+    {
+      "id": "d2f4ae16-1156-4e7a-9943-095a3a0de6c0",
+      "season": 9,
+      "number": 7,
+      "name": "Dead Poets",
+      "airdate": "2014-04-28"
+    },
+    {
+      "id": "4a885370-b2b3-45a5-9065-60172b981fd1",
+      "season": 9,
+      "number": 8,
+      "name": "Blue Flower",
+      "airdate": "2014-04-28"
+    },
+    {
+      "id": "77662e8a-431a-440a-b80d-1b5dd24f1337",
+      "season": 9,
+      "number": 9,
+      "name": "A Part of a Whole",
+      "airdate": "2014-05-05"
+    },
+    {
+      "id": "99a23762-f4ef-420c-aa05-e22bc41fae76",
+      "season": 9,
+      "number": 10,
+      "name": "Glasgow UCOS",
+      "airdate": "2014-05-05"
+    },
+    {
+      "id": "14d6a9ff-3a88-4e53-8c0a-4d5daeae67ea",
+      "season": 10,
+      "number": 1,
+      "name": "The Rock - Part 1",
+      "airdate": "2014-05-12"
+    },
+    {
+      "id": "48ecbce7-a958-47a6-9a77-8c3736f9eed7",
+      "season": 10,
+      "number": 2,
+      "name": "The Rock - Part 2",
+      "airdate": "2014-05-12"
+    },
+    {
+      "id": "624e0a2a-93f0-4b7d-ad0e-548f64d1fc49",
+      "season": 10,
+      "number": 3,
+      "name": "The Sins of the Father",
+      "airdate": "2014-05-19"
+    },
+    {
+      "id": "58a5a18a-7397-42bf-ab69-5b0de753856c",
+      "season": 10,
+      "number": 4,
+      "name": "The Little Brother",
+      "airdate": "2014-05-20"
+    },
+    {
+      "id": "f3b66d9e-a5d7-4cf5-930f-1fad7cc5d595",
+      "season": 10,
+      "number": 5,
+      "name": "Cry Me a River",
+      "airdate": "2014-05-21"
+    },
+    {
+      "id": "f70f3b5c-4ebb-4003-be41-63bf14bb0312",
+      "season": 10,
+      "number": 6,
+      "name": "Into the Woods",
+      "airdate": "2014-05-22"
+    },
+    {
+      "id": "ffa8cef7-e9dd-4c66-9832-03a0f79aed6a",
+      "season": 10,
+      "number": 7,
+      "name": "Things Can Only Get Better",
+      "airdate": "2014-05-23"
+    },
+    {
+      "id": "b796ed19-c392-45c9-ac15-96df8c47ac91",
+      "season": 10,
+      "number": 8,
+      "name": "The One That Got Away",
+      "airdate": "2014-05-26"
+    },
+    {
+      "id": "39cd9509-78af-4a18-82f9-56e6e2ed16aa",
+      "season": 10,
+      "number": 9,
+      "name": "Roots",
+      "airdate": "2014-05-27"
+    },
+    {
+      "id": "47321657-bcec-4a2c-97fc-8349b0804bbd",
+      "season": 10,
+      "number": 10,
+      "name": "Justice",
+      "airdate": "2014-05-28"
+    },
+    {
+      "id": "e46f07af-6c60-442f-842d-e8580674d830",
+      "season": 11,
+      "number": 1,
+      "name": "Bermondsey Boy",
+      "airdate": "2015-01-26"
+    },
+    {
+      "id": "57a0b65f-071b-44e4-8127-1a9fc7f11b80",
+      "season": 11,
+      "number": 2,
+      "name": "Tender Loving Care",
+      "airdate": "2015-02-02"
+    },
+    {
+      "id": "c4161f97-783e-48b9-bdcb-7a0f5d24ca23",
+      "season": 11,
+      "number": 3,
+      "name": "Deep Swimming",
+      "airdate": "2015-02-02"
+    },
+    {
+      "id": "5fb81d9a-5c14-45a3-9439-46442af6114d",
+      "season": 11,
+      "number": 4,
+      "name": "Ghosts",
+      "airdate": "2015-02-09"
+    },
+    {
+      "id": "976c8be4-acb3-49bb-b823-375743494f2d",
+      "season": 11,
+      "number": 5,
+      "name": "London Underground",
+      "airdate": "2015-02-09"
+    },
+    {
+      "id": "bb46ac6e-0b40-40f4-998f-670fe8a5c8cf",
+      "season": 11,
+      "number": 6,
+      "name": "Romans Ruined",
+      "airdate": "2015-02-16"
+    },
+    {
+      "id": "40236c06-62c7-481c-9039-9d1732a0c67d",
+      "season": 11,
+      "number": 7,
+      "name": "In Vino Veritas",
+      "airdate": "2015-02-16"
+    },
+    {
+      "id": "8ad0f480-ae12-4504-9182-b0c3c3a8cf80",
+      "season": 11,
+      "number": 8,
+      "name": "The English Defence",
+      "airdate": "2015-02-23"
+    },
+    {
+      "id": "7819c1f7-a1c3-4846-8af0-ca1dde4d2ebc",
+      "season": 11,
+      "number": 9,
+      "name": "Breadcrumbs",
+      "airdate": "2015-02-23"
+    },
+    {
+      "id": "4c90ccf2-f0ee-40c1-8caa-3ca3184d5ba5",
+      "season": 11,
+      "number": 10,
+      "name": "The Queen's Speech",
+      "airdate": "2015-03-02"
+    },
+    {
+      "id": "525064f3-f873-4f04-886c-f3fac9946946",
+      "season": 12,
+      "number": 1,
+      "name": "Last Man Standing - del 1",
+      "airdate": "2016-05-23"
+    },
+    {
+      "id": "0dc2ca0e-6df2-4943-a980-555d98470274",
+      "season": 12,
+      "number": 2,
+      "name": "Last Man Standing - del 2",
+      "airdate": "2016-05-24"
+    },
+    {
+      "id": "adb65694-2155-4815-ba3c-eab055d538ba",
+      "season": 12,
+      "number": 3,
+      "name": "Curate's Egg",
+      "airdate": "2016-05-25"
+    },
+    {
+      "id": "b9ed0094-0b7c-4c5c-a73d-bbf205eee96d",
+      "season": 12,
+      "number": 4,
+      "name": "The Wolf of Wallbrook",
+      "airdate": "2016-05-26"
+    },
+    {
+      "id": "984eaabb-65ae-453a-919d-0c8a24cf1dea",
+      "season": 12,
+      "number": 5,
+      "name": "Prodigal Sons",
+      "airdate": "2016-05-27"
+    },
+    {
+      "id": "5a3eebd6-f571-467b-9444-d7a21c200bd9",
+      "season": 12,
+      "number": 6,
+      "name": "The Fame Game",
+      "airdate": "2016-05-30"
+    },
+    {
+      "id": "5d0ddf1e-3d50-49a3-a30c-12cc1a1931b6",
+      "season": 12,
+      "number": 7,
+      "name": "The Russian Cousin",
+      "airdate": "2016-05-31"
+    },
+    {
+      "id": "2514dde0-cf33-4012-bb35-13ac8945a4e1",
+      "season": 12,
+      "number": 8,
+      "name": "Lottery Curse",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "5c284bef-0a30-403f-a920-33cbc1b37abd",
+      "season": 12,
+      "number": 9,
+      "name": "Expectancy",
+      "airdate": "2016-06-02"
+    },
+    {
+      "id": "e81f4b44-c6f5-490a-9cde-1ee1b0380703",
+      "season": 12,
+      "number": 10,
+      "name": "The Crazy Gang",
+      "airdate": "2016-06-03"
+    }
+  ]
+}

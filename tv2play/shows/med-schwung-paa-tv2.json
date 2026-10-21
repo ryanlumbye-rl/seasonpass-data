@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:med-schwung-paa-tv2",
+  "name": "Med schwung på",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-26",
+  "episodes": [
+    {
+      "id": "93973aec-1673-4bb2-8d78-b806af3a3a8a",
+      "season": 2026,
+      "number": 1,
+      "name": "Dansk guld, Charmig og Tour-rygter",
+      "airdate": "2026-10-19"
+    },
+    {
+      "id": "c03f5480-69d1-4eca-9a31-30c4ed861128",
+      "season": 2026,
+      "number": 2,
+      "name": "Cykling-vodcast",
+      "airdate": "2026-10-26"
+    }
+  ]
+}

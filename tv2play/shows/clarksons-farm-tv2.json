@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:clarksons-farm-tv2",
+  "name": "Clarksons farm",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f1fe57a8-372b-4924-b814-e7f3bd930b75",
+      "season": 2,
+      "number": 7,
+      "name": "Smuthuller",
+      "airdate": "2026-01-25"
+    },
+    {
+      "id": "4dd09394-c885-4db1-bf36-a3d0d0bbd5e0",
+      "season": 2,
+      "number": 8,
+      "name": "Hemmelige forberedelser",
+      "airdate": "2026-01-25"
+    }
+  ]
+}

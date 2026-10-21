@@ -1,0 +1,437 @@
+{
+  "id": "tv2play:vaerkstedet-uk-tv2fri",
+  "name": "Værkstedet UK",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "51269470-af5e-4a9a-be68-61dcd8e9b5ab",
+      "season": 6,
+      "number": 1,
+      "name": "Lerskulpturer, en græsslåmaskine og en legetøjshest",
+      "airdate": "2022-11-23"
+    },
+    {
+      "id": "79de739d-befe-49b8-9200-f8fb67a083b8",
+      "season": 6,
+      "number": 1,
+      "name": "Lerskulpturer, en græsslåmaskine og en legetøjshest",
+      "airdate": "2022-11-23"
+    },
+    {
+      "id": "87901471-a1f3-4944-95e2-39d24b410e15",
+      "season": 6,
+      "number": 2,
+      "name": "En skruetvinge, en abebamse og lille Joes kone",
+      "airdate": "2022-11-24"
+    },
+    {
+      "id": "33a77422-732f-4778-a789-41f88731d696",
+      "season": 6,
+      "number": 3,
+      "name": "En lysekrone, et bord og en legetøjsflyvemaskine",
+      "airdate": "2022-11-24"
+    },
+    {
+      "id": "69edf0df-3038-4a38-8f1b-aa043f29b3dd",
+      "season": 6,
+      "number": 4,
+      "name": "En trist hund, en mixer og et bæltespænde",
+      "airdate": "2022-11-25"
+    },
+    {
+      "id": "872abcec-353a-4b43-9217-10331985182d",
+      "season": 6,
+      "number": 5,
+      "name": "Et portræt, en legetøjsraket og en læderpung",
+      "airdate": "2022-11-25"
+    },
+    {
+      "id": "073c8286-b040-4b9b-ab64-f639585334d6",
+      "season": 6,
+      "number": 6,
+      "name": "En ammestol, en brandmandshjelm og en kaffekværn",
+      "airdate": "2022-11-28"
+    },
+    {
+      "id": "04a4834d-4acf-4a92-a217-2e8721da4fc0",
+      "season": 6,
+      "number": 7,
+      "name": "Et kamera, en grisling og en marmorplade",
+      "airdate": "2022-11-28"
+    },
+    {
+      "id": "c2b9324a-56b6-43d9-a79d-efd0caf762e8",
+      "season": 6,
+      "number": 8,
+      "name": "Et modelskib, en stol og en hund",
+      "airdate": "2022-11-29"
+    },
+    {
+      "id": "6efe9abd-034b-4336-ab64-f7d3f11869cb",
+      "season": 6,
+      "number": 9,
+      "name": "Et bord, en dukke og et par kørehandsker",
+      "airdate": "2022-11-29"
+    },
+    {
+      "id": "a37d3634-18ff-4d60-9565-743a395ff8ee",
+      "season": 6,
+      "number": 10,
+      "name": "Et maleri, en bryllupstiara og et ur",
+      "airdate": "2022-11-30"
+    },
+    {
+      "id": "b1e95fee-751a-4194-8b2a-33ca8cd9713b",
+      "season": 6,
+      "number": 11,
+      "name": "En spillemaskine, en vindskærm og sølvkvinder",
+      "airdate": "2022-11-30"
+    },
+    {
+      "id": "db608560-1493-42b6-a83a-4255b35ee647",
+      "season": 6,
+      "number": 12,
+      "name": "En racerbil, en lædertaske og en trææske",
+      "airdate": "2022-12-01"
+    },
+    {
+      "id": "a06a41db-d461-4659-8c11-e8cdb90f88dc",
+      "season": 6,
+      "number": 13,
+      "name": "En legetøjskaret, to indrammede plader og et ur",
+      "airdate": "2022-12-01"
+    },
+    {
+      "id": "5cde6bfe-c6bc-4679-8813-6d4c099b6fbb",
+      "season": 6,
+      "number": 14,
+      "name": "Et anderledes salt- og pebersæt, en talende dukke og en gammel hat",
+      "airdate": "2022-12-02"
+    },
+    {
+      "id": "64451db1-2335-48f8-a490-d07c359440f1",
+      "season": 6,
+      "number": 15,
+      "name": "En gyngestol, en bjørn og et halsbånd",
+      "airdate": "2022-12-02"
+    },
+    {
+      "id": "0dcaed30-02d7-4407-8bf7-41ac02036b32",
+      "season": 6,
+      "number": 16,
+      "name": "En elefant, en gyngehest og et trofæ",
+      "airdate": "2022-12-05"
+    },
+    {
+      "id": "e1bc74b9-d6d9-4a20-abdc-c378105c81da",
+      "season": 6,
+      "number": 17,
+      "name": "Et instrument, en jakke og en legetøjsfugl",
+      "airdate": "2022-12-05"
+    },
+    {
+      "id": "dc768bce-c094-465f-a98c-b18942e47771",
+      "season": 6,
+      "number": 18,
+      "name": "Et trofæ, et fuglebur og en taske",
+      "airdate": "2022-12-06"
+    },
+    {
+      "id": "3ced2177-ded7-481d-8852-7b18b33f3a56",
+      "season": 6,
+      "number": 19,
+      "name": "Sneglen Sammy, et trofæ og en cykel",
+      "airdate": "2022-12-06"
+    },
+    {
+      "id": "28023503-5e92-47be-8320-76bf73d617e4",
+      "season": 6,
+      "number": 20,
+      "name": "En flyvemaskine, en ukulele og en masse dyr",
+      "airdate": "2022-12-07"
+    },
+    {
+      "id": "61635e5a-00d4-44a1-9b49-a40825365129",
+      "season": 6,
+      "number": 21,
+      "name": "Et legetøjsskib, en jordemodertaske og en bamsebjørn",
+      "airdate": "2022-12-07"
+    },
+    {
+      "id": "2e336ebe-0077-41ff-9b2c-a559064af78f",
+      "season": 6,
+      "number": 22,
+      "name": "En børnestol, et bryllupsalbum og en kamel",
+      "airdate": "2022-12-08"
+    },
+    {
+      "id": "48fb9644-0b02-46d1-8639-8a273ebaf85a",
+      "season": 6,
+      "number": 23,
+      "name": "En kaninbamse, en stortromme og en kirkebænk",
+      "airdate": "2022-12-08"
+    },
+    {
+      "id": "8c07e2be-a2a8-4e28-b9a4-56ab388e3c71",
+      "season": 6,
+      "number": 24,
+      "name": "En stol, en trykpresse og et legetøjsfly",
+      "airdate": "2022-12-09"
+    },
+    {
+      "id": "5dd18b8a-b62d-419e-b8f1-465f440a954a",
+      "season": 6,
+      "number": 25,
+      "name": "En militærkiste, et tesæt og et par rulleskøjter",
+      "airdate": "2022-12-09"
+    },
+    {
+      "id": "35233ad3-cf1b-4fa5-8777-90d865202c70",
+      "season": 6,
+      "number": 26,
+      "name": "En klovn, et kamera og et ur",
+      "airdate": "2022-12-12"
+    },
+    {
+      "id": "14ff1609-9a51-4130-81d9-b2640931cd92",
+      "season": 6,
+      "number": 27,
+      "name": "En dansende dukke, en lysestage og en sykasse",
+      "airdate": "2022-12-12"
+    },
+    {
+      "id": "b860660b-b44a-438e-b388-4f5ea74a1c23",
+      "season": 6,
+      "number": 28,
+      "name": "En bamse, et klaver og et ur",
+      "airdate": "2022-12-13"
+    },
+    {
+      "id": "daed3bb6-c42f-4473-a184-91c6a0f67b39",
+      "season": 6,
+      "number": 29,
+      "name": "To sidetasker, et barometer og et vindue",
+      "airdate": "2022-12-13"
+    },
+    {
+      "id": "5c9dbbe7-320c-4f3a-bef3-5f6db21b9946",
+      "season": 6,
+      "number": 30,
+      "name": "Et glas, en hat og en legetøjshest",
+      "airdate": "2022-12-14"
+    },
+    {
+      "id": "b2af0d4c-e265-459e-971b-b0720af355c0",
+      "season": 6,
+      "number": 31,
+      "name": "Ringe, en hest og en guitar",
+      "airdate": "2023-03-24"
+    },
+    {
+      "id": "7bc7a47f-8c90-4186-8fa3-a4c0d06e2108",
+      "season": 6,
+      "number": 32,
+      "name": "En statue, en kuffert og en giraf",
+      "airdate": "2023-03-27"
+    },
+    {
+      "id": "bb898076-8009-4a7c-befa-66a04132e633",
+      "season": 6,
+      "number": 33,
+      "name": "Et tesæt, en postkasse og en lædermappe",
+      "airdate": "2023-03-27"
+    },
+    {
+      "id": "c5e97565-2b9b-406b-a035-119fdef6194a",
+      "season": 6,
+      "number": 34,
+      "name": "En lænestol, en kasse af messing og et armbånd",
+      "airdate": "2023-03-28"
+    },
+    {
+      "id": "9af2627d-7446-4695-803f-fbb31159d0d1",
+      "season": 6,
+      "number": 35,
+      "name": "Stepsko, en håndtaske og en tryllekunstners bord",
+      "airdate": "2023-03-28"
+    },
+    {
+      "id": "0d04a755-c5f5-4468-9a44-7b536593f2e3",
+      "season": 6,
+      "number": 36,
+      "name": "Skilte, en træhest og et trofæ",
+      "airdate": "2023-03-29"
+    },
+    {
+      "id": "39890b4a-bcf5-408f-a926-e9fac1c72d36",
+      "season": 6,
+      "number": 37,
+      "name": "En tuba, et ur og en krukke",
+      "airdate": "2023-03-29"
+    },
+    {
+      "id": "3c73e9dc-9326-46c9-8fe6-c653513ba898",
+      "season": 6,
+      "number": 38,
+      "name": "En jordemodertaske, et maleri og et smykke",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "905cb822-d13b-4174-a5a1-9bca26cdcee1",
+      "season": 6,
+      "number": 39,
+      "name": "En træskulptur, et stopur og en ugle",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "2622229d-0429-4a77-be2d-3ac929abae75",
+      "season": 6,
+      "number": 40,
+      "name": "En kornet, en lampe og en spilledåse",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "d830dd73-123e-4a8b-8e40-85afec69616c",
+      "season": 6,
+      "number": 41,
+      "name": "En lampe, et skateboard og en tøjbamse",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "5a9e43b3-c39d-46d3-85bc-429da7c1a2fe",
+      "season": 6,
+      "number": 42,
+      "name": "Et maleri, en kiste og en forlovelsesring",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "5b1e2c05-7389-4d53-ad86-85c0c10ed83d",
+      "season": 6,
+      "number": 43,
+      "name": "Domino, en tøjbamse og en karrusel",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "acf8c8a0-2be5-4bf2-8e8b-e7b3004c05a0",
+      "season": 7,
+      "number": 50,
+      "name": "Romantik på rulleskøjter",
+      "airdate": "2023-09-30"
+    },
+    {
+      "id": "0efa2840-b8d1-4f29-8bf8-9a794ad02db9",
+      "season": 7,
+      "number": 51,
+      "name": "Lad musikken spille",
+      "airdate": "2023-09-30"
+    },
+    {
+      "id": "bf3277e8-8bf8-4fa6-94b2-8345fd6bfc55",
+      "season": 7,
+      "number": 52,
+      "name": "Den 74-årige bamse",
+      "airdate": "2023-09-23"
+    },
+    {
+      "id": "0bcd18c2-11e5-4f6c-ac30-94d011115896",
+      "season": 7,
+      "number": 53,
+      "name": "En hellig opgave",
+      "airdate": "2023-09-23"
+    },
+    {
+      "id": "7cc44a21-3485-4d5a-92ac-6b574191a199",
+      "season": 7,
+      "number": 54,
+      "name": "Kan alle projekter lykkes?",
+      "airdate": "2023-09-16"
+    },
+    {
+      "id": "9c54b97a-1d0d-431f-8152-fecd519ec5cb",
+      "season": 7,
+      "number": 55,
+      "name": "Den kinesiske hund Polly",
+      "airdate": "2023-09-16"
+    },
+    {
+      "id": "d8db9075-337e-47f7-9c13-4aceda11b0f9",
+      "season": 7,
+      "number": 56,
+      "name": "Løbesko med medaljer",
+      "airdate": "2023-09-09"
+    },
+    {
+      "id": "35b81472-45ac-4d7a-88f2-2feb38445907",
+      "season": 7,
+      "number": 57,
+      "name": "En hollandsk overraskelse",
+      "airdate": "2023-09-09"
+    },
+    {
+      "id": "3ca8c0fe-a452-4800-a4ce-a06f7f574ff8",
+      "season": 7,
+      "number": 58,
+      "name": "Et mekanisk hesteløbsspil",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "bb6245cf-ee8a-4c6b-b38b-ed9d5bb845a6",
+      "season": 11,
+      "number": 1,
+      "name": "Hest på afveje",
+      "airdate": "2026-09-27"
+    },
+    {
+      "id": "79ea3472-c42b-49ac-96f3-5ab5e6da2cf2",
+      "season": 11,
+      "number": 2,
+      "name": "Gammel lyd, nyt liv",
+      "airdate": "2026-09-27"
+    },
+    {
+      "id": "613b76d5-c1d6-4937-ae52-9d253bc8b221",
+      "season": 11,
+      "number": 3,
+      "name": "En køreklar børnejeep",
+      "airdate": "2026-10-04"
+    },
+    {
+      "id": "83e190f3-9ace-41b8-bb7a-1734c8b6a37b",
+      "season": 11,
+      "number": 4,
+      "name": "Et opfindsomt ur",
+      "airdate": "2026-10-04"
+    },
+    {
+      "id": "f0c8ef05-a344-436b-8f12-8fd07122cfd9",
+      "season": 11,
+      "number": 5,
+      "name": "Helten og maleriet",
+      "airdate": "2026-10-11"
+    },
+    {
+      "id": "6038d4ea-718e-4538-82a2-51be0b6cac41",
+      "season": 11,
+      "number": 6,
+      "name": "En dukke med historie",
+      "airdate": "2026-10-11"
+    },
+    {
+      "id": "18f1220c-5e96-4663-9778-b65ab93b9abd",
+      "season": 11,
+      "number": 7,
+      "name": "Et ekstra liv",
+      "airdate": "2026-10-18"
+    },
+    {
+      "id": "72b046af-cc8a-497e-9820-289505e37224",
+      "season": 11,
+      "number": 8,
+      "name": "Klar til donation",
+      "airdate": "2026-10-18"
+    }
+  ]
+}

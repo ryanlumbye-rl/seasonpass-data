@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:beier-paa-alpehotellet-tv2fri",
+  "name": "Beier på alpehotellet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "86485f90-545e-4ed6-a54c-9b2a4b6384d0",
+      "season": 1,
+      "number": 1,
+      "name": "Vi går 100 % efter drømmen",
+      "airdate": "2025-01-30"
+    },
+    {
+      "id": "90837df9-b7c0-4c7b-abe9-fec9255f9807",
+      "season": 1,
+      "number": 2,
+      "name": "Det er jo ikke noget, vi går og leger",
+      "airdate": "2025-02-06"
+    },
+    {
+      "id": "b26107e8-06d4-4411-a848-7826cf247bd3",
+      "season": 1,
+      "number": 3,
+      "name": "Der er aldrig nogen, der sagde, det blev nemt",
+      "airdate": "2025-02-13"
+    },
+    {
+      "id": "e8552100-b0b8-4b7e-8910-664e1522234c",
+      "season": 1,
+      "number": 4,
+      "name": "Der er alt for mange ting, vi ikke har styr på",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "81ddbfa5-8496-4e4b-b839-a91f12744f94",
+      "season": 1,
+      "number": 5,
+      "name": "Vi har det med at presse citronen",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "4c9c2ff5-1d74-414f-b4f6-c1335b47c70a",
+      "season": 1,
+      "number": 6,
+      "name": "Det var det, der ikke måtte ske",
+      "airdate": "2025-03-06"
+    },
+    {
+      "id": "ca5861a8-4eb0-4641-9401-3992d3e2c987",
+      "season": 2,
+      "number": 1,
+      "name": "Vi starter fra scratch",
+      "airdate": "2025-10-02"
+    },
+    {
+      "id": "ef0a4cf8-b4ec-441b-b874-31b1f51f46cd",
+      "season": 2,
+      "number": 2,
+      "name": "Fuld smadder på sommersæsonen",
+      "airdate": "2025-10-09"
+    },
+    {
+      "id": "5dbaefbb-5ab3-4bd1-a1d5-792dec5520ab",
+      "season": 2,
+      "number": 3,
+      "name": "Vi må smide, hvad vi har i hænderne",
+      "airdate": "2025-10-16"
+    },
+    {
+      "id": "566dc39a-6fa6-4009-8424-0ede1179ac0d",
+      "season": 2,
+      "number": 4,
+      "name": "Det må bare ikke ske!",
+      "airdate": "2025-10-23"
+    },
+    {
+      "id": "36764b0f-fad9-4d90-bbb8-f9622194a917",
+      "season": 2,
+      "number": 5,
+      "name": "Det er en testweekend!",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "1e230914-9009-443c-a1c1-d980986822f5",
+      "season": 2,
+      "number": 6,
+      "name": "Bureaukratiet, det er så vanvittigt!",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "db95a58b-e900-4d26-a83c-346d91927715",
+      "season": 3,
+      "number": 1,
+      "name": "Noget skal jo selvfølgelig gå galt",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "fd768428-3f34-4021-a75d-ba6cbb9ed6dc",
+      "season": 3,
+      "number": 2,
+      "name": "Hurtige beslutninger!",
+      "airdate": "2026-04-27"
+    },
+    {
+      "id": "b674bdbc-c6e0-4f0c-9e98-fb72544361a3",
+      "season": 3,
+      "number": 3,
+      "name": "Scheisse Banan!",
+      "airdate": "2026-05-04"
+    },
+    {
+      "id": "b0144778-e544-4177-b700-1080c17eb8bb",
+      "season": 3,
+      "number": 4,
+      "name": "Det er fuldstændig ødelagt",
+      "airdate": "2026-05-11"
+    },
+    {
+      "id": "ed17b001-8832-4bee-bcc1-a15e6b3a1a52",
+      "season": 3,
+      "number": 5,
+      "name": "Det er sgu lidt et tåbeligt projekt",
+      "airdate": "2026-05-18"
+    },
+    {
+      "id": "05c745f2-c775-4be3-b251-ab34ce30bda6",
+      "season": 3,
+      "number": 6,
+      "name": "Jeg kan ikke gå gennem det her igen",
+      "airdate": "2026-05-25"
+    },
+    {
+      "id": "dac821b3-a25a-4ecd-9444-8c74d1e4a1b9",
+      "season": 4,
+      "number": 1,
+      "name": "Nu kører vi smooth ride",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "08630fab-fda5-46bb-817d-a8f0b2f79378",
+      "season": 4,
+      "number": 2,
+      "name": "Nu er der intet, der virker",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "f6ce80fe-6a0c-4779-96b4-df355141b54a",
+      "season": 4,
+      "number": 3,
+      "name": "Så er Edelweiss officielt åben",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "47a36fa8-8c3a-4ed3-8bc4-e635f12d754b",
+      "season": 4,
+      "number": 4,
+      "name": "Det er en stejl læringskurve",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "b5662a6d-e56b-4564-9a96-46d0452e3b37",
+      "season": 4,
+      "number": 5,
+      "name": "Das ist ein grosses Problem",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "27e2bc59-be8e-45a1-93e9-14750b52cba0",
+      "season": 4,
+      "number": 6,
+      "name": "Et sted, hvor vi kan være os selv",
+      "airdate": "2026-10-21"
+    }
+  ]
+}

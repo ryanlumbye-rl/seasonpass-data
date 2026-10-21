@@ -1,0 +1,822 @@
+{
+  "id": "tv2play:hudson-og-rex-tv2charlie",
+  "name": "Hudson og Rex",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "460c0a9e-6c05-4b9f-9775-c8c8f07008cd",
+      "season": 1,
+      "number": 1,
+      "name": "The Hunt",
+      "airdate": "2020-06-01"
+    },
+    {
+      "id": "d8fb574b-7343-431b-99d2-11871f3b74b8",
+      "season": 1,
+      "number": 2,
+      "name": "Fearless Freaks",
+      "airdate": "2020-06-02"
+    },
+    {
+      "id": "3b10a7a1-51ee-4945-b626-30a18b065b39",
+      "season": 1,
+      "number": 3,
+      "name": "Haunted by the Past",
+      "airdate": "2020-06-03"
+    },
+    {
+      "id": "376a2063-10ea-4205-bc24-969f7d893df1",
+      "season": 1,
+      "number": 4,
+      "name": "School Daze",
+      "airdate": "2020-06-04"
+    },
+    {
+      "id": "31eaaaf5-ddc4-41d9-8e93-8037d10c8e5c",
+      "season": 1,
+      "number": 5,
+      "name": "The Pet Sitter",
+      "airdate": "2020-06-08"
+    },
+    {
+      "id": "7938a84b-be96-4771-bba6-396edab8edc6",
+      "season": 1,
+      "number": 6,
+      "name": "Murder, She Thought",
+      "airdate": "2020-06-09"
+    },
+    {
+      "id": "c390f1b7-68d6-4dad-aa2b-a20ae44500bf",
+      "season": 1,
+      "number": 7,
+      "name": "Trial and Error",
+      "airdate": "2020-06-10"
+    },
+    {
+      "id": "b6621bb9-c298-417d-be69-7d31e0661444",
+      "season": 1,
+      "number": 8,
+      "name": "Fast Eddie's",
+      "airdate": "2020-06-11"
+    },
+    {
+      "id": "0931136e-36fd-4834-8f12-fbc288c37d98",
+      "season": 1,
+      "number": 9,
+      "name": "The Mourning Show",
+      "airdate": "2020-06-15"
+    },
+    {
+      "id": "41925b72-2271-4847-afb7-cee641bd9518",
+      "season": 1,
+      "number": 10,
+      "name": "Art of Darkness",
+      "airdate": "2020-06-16"
+    },
+    {
+      "id": "35723798-a99d-40c6-8cd4-2b4b98a76e8c",
+      "season": 1,
+      "number": 11,
+      "name": "Bad Water Rising",
+      "airdate": "2020-06-17"
+    },
+    {
+      "id": "c629b558-ff17-4d86-89c7-77e7e0c791bc",
+      "season": 1,
+      "number": 12,
+      "name": "A Cult Education",
+      "airdate": "2020-06-18"
+    },
+    {
+      "id": "da9ec7ba-281a-4866-a95f-8d2caef1a5a1",
+      "season": 1,
+      "number": 13,
+      "name": "The Rex Files",
+      "airdate": "2020-06-22"
+    },
+    {
+      "id": "0b4bad99-13c4-4d16-a111-985ba2cc74b9",
+      "season": 1,
+      "number": 14,
+      "name": "A Man of Consequence",
+      "airdate": "2020-06-24"
+    },
+    {
+      "id": "4c9f10ae-4ed4-4ce8-a274-c51022866d30",
+      "season": 1,
+      "number": 15,
+      "name": "Over Ice",
+      "airdate": "2020-06-24"
+    },
+    {
+      "id": "1cdb5a4d-ca0a-4589-bbd2-4ba135bd0b34",
+      "season": 1,
+      "number": 16,
+      "name": "Blind Justice",
+      "airdate": "2020-06-25"
+    },
+    {
+      "id": "f9c582c6-1ac2-4c01-94ad-8d7678458419",
+      "season": 2,
+      "number": 1,
+      "name": "Strangers in the Night",
+      "airdate": "2020-06-29"
+    },
+    {
+      "id": "a1017606-b593-44c4-ac1e-2fb5d229d9d1",
+      "season": 2,
+      "number": 2,
+      "name": "Dead Man Walking",
+      "airdate": "2020-06-30"
+    },
+    {
+      "id": "bbb020b1-7c32-4342-8af8-1fdffdbb8832",
+      "season": 2,
+      "number": 3,
+      "name": "Under the Influencer",
+      "airdate": "2020-07-01"
+    },
+    {
+      "id": "548d15ee-5313-41f0-8a0f-45008f450594",
+      "season": 2,
+      "number": 4,
+      "name": "The Woods Have Eyes",
+      "airdate": "2020-07-02"
+    },
+    {
+      "id": "4a555308-e102-40f4-8e77-6c0ee5670cc7",
+      "season": 2,
+      "number": 5,
+      "name": "Game of Bones",
+      "airdate": "2020-07-06"
+    },
+    {
+      "id": "8cb2a97a-b643-46ba-b0ac-40d1b3d5cce6",
+      "season": 2,
+      "number": 6,
+      "name": "Bullet in the Water",
+      "airdate": "2020-07-07"
+    },
+    {
+      "id": "0d1b2bae-eb78-453a-a8b1-eaa3d226a6cd",
+      "season": 2,
+      "number": 7,
+      "name": "The French Connection",
+      "airdate": "2020-07-08"
+    },
+    {
+      "id": "62927a92-4e4f-459b-955d-17874ca0cd19",
+      "season": 2,
+      "number": 8,
+      "name": "Rex-Machina",
+      "airdate": "2020-07-13"
+    },
+    {
+      "id": "3accb9f4-4524-4f28-a5ee-2867f251096a",
+      "season": 2,
+      "number": 9,
+      "name": "Rex and the City",
+      "airdate": "2020-07-14"
+    },
+    {
+      "id": "da756062-778f-406f-be55-ca4dc3625c12",
+      "season": 2,
+      "number": 10,
+      "name": "In Pod we Trust",
+      "airdate": "2020-07-15"
+    },
+    {
+      "id": "75ad9431-8eac-4606-87d7-894fd91c75c5",
+      "season": 2,
+      "number": 11,
+      "name": "Tunnel Vision",
+      "airdate": "2020-07-16"
+    },
+    {
+      "id": "a9455df4-206a-4dc6-8f6e-d49c50ea970b",
+      "season": 2,
+      "number": 12,
+      "name": "Finger Foodie",
+      "airdate": "2020-07-20"
+    },
+    {
+      "id": "9902ac8b-baa0-4390-9a3c-3dbd9f5caa2e",
+      "season": 2,
+      "number": 13,
+      "name": "Flare of the Dog",
+      "airdate": "2020-07-21"
+    },
+    {
+      "id": "a8c3d563-b68b-4988-a950-03110cd360ae",
+      "season": 2,
+      "number": 14,
+      "name": "Graveyard Shift",
+      "airdate": "2020-07-22"
+    },
+    {
+      "id": "beda2d45-4fe8-4b7d-89f1-fc87d8439334",
+      "season": 2,
+      "number": 15,
+      "name": "Old Dogs, New Tricks",
+      "airdate": "2020-07-23"
+    },
+    {
+      "id": "41bdcbdc-b17f-456a-9dab-d9b13d798f6d",
+      "season": 2,
+      "number": 16,
+      "name": "In a Family Way",
+      "airdate": "2020-07-24"
+    },
+    {
+      "id": "a3bf169a-b0c1-443f-a52a-c9b80715f30d",
+      "season": 3,
+      "number": 1,
+      "name": "Origin Story",
+      "airdate": "2021-06-07"
+    },
+    {
+      "id": "1870c5ea-da44-487e-b9bc-a3913f8ae7d1",
+      "season": 3,
+      "number": 2,
+      "name": "Manhunt",
+      "airdate": "2021-06-08"
+    },
+    {
+      "id": "7f605d6e-df64-4f95-a2e3-c918dabfd7f4",
+      "season": 3,
+      "number": 3,
+      "name": "Into the Wild",
+      "airdate": "2021-06-09"
+    },
+    {
+      "id": "05c6cfda-f46a-4e4e-aa8f-4c816ef22134",
+      "season": 3,
+      "number": 4,
+      "name": "Under Pressure",
+      "airdate": "2021-06-10"
+    },
+    {
+      "id": "060235b1-5897-413a-bdc4-cd7aebb0f78f",
+      "season": 3,
+      "number": 5,
+      "name": "Prescription-Rex!",
+      "airdate": "2021-06-14"
+    },
+    {
+      "id": "7c5109bd-9a16-4215-8fd1-b6675938b5a4",
+      "season": 3,
+      "number": 6,
+      "name": "Endless Summer",
+      "airdate": "2021-06-15"
+    },
+    {
+      "id": "348ae22d-f79c-4ee0-b9e2-e36feb747a5f",
+      "season": 3,
+      "number": 7,
+      "name": "All in the Litter",
+      "airdate": "2021-06-16"
+    },
+    {
+      "id": "e4c452cb-51cc-4df3-9737-8fb6dc50e57c",
+      "season": 3,
+      "number": 8,
+      "name": "Sleeping Beuty",
+      "airdate": "2021-06-17"
+    },
+    {
+      "id": "1d9a11bc-32be-439a-8234-7ad4eaf45afe",
+      "season": 3,
+      "number": 9,
+      "name": "Grave Matters",
+      "airdate": "2021-06-21"
+    },
+    {
+      "id": "9a4237c8-fde9-4203-8cc4-aee91065528c",
+      "season": 3,
+      "number": 10,
+      "name": "Fanning the Flames",
+      "airdate": "2021-06-22"
+    },
+    {
+      "id": "75eee3a9-7dfd-4e7d-9559-4b3f2705fa55",
+      "season": 3,
+      "number": 11,
+      "name": "Blood on the Tracks",
+      "airdate": "2021-06-23"
+    },
+    {
+      "id": "e66ff04f-6941-4569-8a90-ab25164142d7",
+      "season": 3,
+      "number": 12,
+      "name": "Top dog",
+      "airdate": "2021-06-24"
+    },
+    {
+      "id": "2613a15d-afae-44b0-9b34-063e9d7fa0cc",
+      "season": 3,
+      "number": 13,
+      "name": "Mansion on a Hill",
+      "airdate": "2021-06-28"
+    },
+    {
+      "id": "6914cd90-aaca-4f47-b0fb-4b60ef0f8044",
+      "season": 3,
+      "number": 14,
+      "name": "The Secret Life of Levi",
+      "airdate": "2021-06-29"
+    },
+    {
+      "id": "0d31e545-c441-48a6-90af-37fbb1bdc380",
+      "season": 3,
+      "number": 15,
+      "name": "Seeing is Deceiving",
+      "airdate": "2021-06-30"
+    },
+    {
+      "id": "51c124d3-11b3-4de0-b20b-d9c7760c5e24",
+      "season": 3,
+      "number": 16,
+      "name": "The Art of the Steal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0f26f81d-8ad9-4100-bbeb-2eeda4847702",
+      "season": 4,
+      "number": 1,
+      "name": "Sid og Nancy",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "a2b88fe0-0429-47e9-b5f9-a99de2ed10de",
+      "season": 4,
+      "number": 2,
+      "name": "Oops I Bit It Again",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "b11d28c8-8494-4c05-bab3-6d7219becacd",
+      "season": 4,
+      "number": 3,
+      "name": "Rex Marks the Spot",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "e3586d47-3611-4269-aa3c-d8b79ce936d2",
+      "season": 4,
+      "number": 4,
+      "name": "Leader of the Pack",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "22a2f17e-dedc-44dc-a0ae-cc6c5c559172",
+      "season": 4,
+      "number": 5,
+      "name": "Rex to Riches",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "ce8b6e4b-db96-4268-8b17-00621cacdaee",
+      "season": 4,
+      "number": 6,
+      "name": "Dead Man's Bridge",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "46ed80d2-06c2-4f14-a459-8b2df6cfac22",
+      "season": 4,
+      "number": 7,
+      "name": "A Stab in the Dark Web",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "2c9abafc-7aa0-4ce5-82a4-86bd49f4008a",
+      "season": 4,
+      "number": 8,
+      "name": "Sudden Death",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "c6f27cc6-d2f8-4076-bfdb-4cf06beaa3a4",
+      "season": 4,
+      "number": 9,
+      "name": "Impawster Syndrome",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "8d6af108-8d9b-4426-b633-550a1623321c",
+      "season": 4,
+      "number": 10,
+      "name": "Blood and Diamonds",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "51fc4917-b79a-42f2-9a04-5e32e37290f1",
+      "season": 4,
+      "number": 11,
+      "name": "Capital Punishment",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "fb1f4a4f-be3a-44a1-8933-e44cbc76a8ce",
+      "season": 4,
+      "number": 12,
+      "name": "No Man is an Island",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "0985fe88-6960-4bf7-b74e-51bd53f085c9",
+      "season": 4,
+      "number": 13,
+      "name": "Roses of Signal Hill",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "a45a30f3-7129-4ab5-9eeb-3811e9e52d16",
+      "season": 4,
+      "number": 14,
+      "name": "Nightmare on Water Street",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "0765a144-7e3e-4e0b-9bbd-2ff044bf0816",
+      "season": 4,
+      "number": 15,
+      "name": "Roll the Bones",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "65b23c6d-7238-4aa6-99e4-611aee58f655",
+      "season": 4,
+      "number": 16,
+      "name": "Dog Days Are Over",
+      "airdate": "2022-07-12"
+    },
+    {
+      "id": "97e0e31e-011f-4ca6-94ca-289da521765c",
+      "season": 5,
+      "number": 1,
+      "name": "Lost in the Barrens",
+      "airdate": "2023-06-12"
+    },
+    {
+      "id": "db6d5b06-15a8-41cc-8994-d8c398235eb2",
+      "season": 5,
+      "number": 2,
+      "name": "Punch Drunk Glove",
+      "airdate": "2023-06-12"
+    },
+    {
+      "id": "dd6ca841-2c01-4f7c-8f8f-702f13d915ab",
+      "season": 5,
+      "number": 3,
+      "name": "Run, Donovan, Run",
+      "airdate": "2023-06-13"
+    },
+    {
+      "id": "55540d80-4065-4324-89bb-a45629eee8b8",
+      "season": 5,
+      "number": 4,
+      "name": "Hand of Cod",
+      "airdate": "2023-06-13"
+    },
+    {
+      "id": "c82ba6e0-5f43-40c3-8b34-2a00d9483043",
+      "season": 5,
+      "number": 5,
+      "name": "The Good Shepherd",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "19f137d9-672c-406d-af0a-98ad54d9aa86",
+      "season": 5,
+      "number": 6,
+      "name": "Den of Snakes",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "06c8d288-7a27-4a8b-8166-04f3ab2201e7",
+      "season": 5,
+      "number": 7,
+      "name": "The Date Escape",
+      "airdate": "2023-06-19"
+    },
+    {
+      "id": "5810dfc5-9d91-4aaa-9507-8a6c1ae4e388",
+      "season": 5,
+      "number": 8,
+      "name": "Bury the Lead",
+      "airdate": "2023-06-19"
+    },
+    {
+      "id": "dca979ad-22ed-4c3e-b344-8f1d8d7ba0f2",
+      "season": 5,
+      "number": 9,
+      "name": "Rexpert Witness",
+      "airdate": "2023-06-20"
+    },
+    {
+      "id": "6a27228e-fc1b-44a4-8318-93ab3b0aa34a",
+      "season": 5,
+      "number": 10,
+      "name": "One Wild Night",
+      "airdate": "2023-06-20"
+    },
+    {
+      "id": "ad4173cb-54ea-4e7c-af2a-20cea8c95643",
+      "season": 5,
+      "number": 11,
+      "name": "Working for the Weekend",
+      "airdate": "2023-06-21"
+    },
+    {
+      "id": "eddc27c0-c905-4cd2-83fa-2878037d676f",
+      "season": 5,
+      "number": 12,
+      "name": "Lost Lives Club",
+      "airdate": "2023-06-21"
+    },
+    {
+      "id": "6482221b-3665-4298-ac0a-74444c1e8e7d",
+      "season": 5,
+      "number": 13,
+      "name": "The Miranda Act",
+      "airdate": "2023-06-26"
+    },
+    {
+      "id": "7b4b4f99-9649-43e7-a99f-dc8fda7cd7b1",
+      "season": 5,
+      "number": 14,
+      "name": "Rexit, Stage Left",
+      "airdate": "2023-06-26"
+    },
+    {
+      "id": "91d5a6b1-9731-4cb9-85d9-b191c8fd289e",
+      "season": 5,
+      "number": 15,
+      "name": "Northern Rexposure",
+      "airdate": "2023-06-27"
+    },
+    {
+      "id": "a179f360-013b-40e7-97b8-5298d96d7fc4",
+      "season": 5,
+      "number": 16,
+      "name": "Due North",
+      "airdate": "2023-06-27"
+    },
+    {
+      "id": "99dff12e-b481-42ae-9719-1fc81978b85e",
+      "season": 5,
+      "number": 17,
+      "name": "Lost and Found",
+      "airdate": "2023-06-28"
+    },
+    {
+      "id": "ad404610-90e6-475c-b513-67e1f6153152",
+      "season": 5,
+      "number": 18,
+      "name": "Jail Break",
+      "airdate": "2023-06-28"
+    },
+    {
+      "id": "1e194545-c1cf-4cfc-bfdf-9d1237ab9daa",
+      "season": 5,
+      "number": 19,
+      "name": "The Cook, The Chief, The Cop and His Lover",
+      "airdate": "2023-07-03"
+    },
+    {
+      "id": "8cc1949e-5bbb-4c6d-a195-1ba3b046e590",
+      "season": 5,
+      "number": 20,
+      "name": "One For The Road",
+      "airdate": "2023-07-04"
+    },
+    {
+      "id": "49b243ea-3e0d-4d76-b593-5a91ab2cb10c",
+      "season": 6,
+      "number": 1,
+      "name": "Ghost Ship",
+      "airdate": "2024-07-29"
+    },
+    {
+      "id": "80c25616-03fb-4467-9df0-24b889c0e4fc",
+      "season": 6,
+      "number": 2,
+      "name": "The Good, the Bad, and the Rex",
+      "airdate": "2024-07-30"
+    },
+    {
+      "id": "bc68bc4e-7e64-440c-95b3-156ce61ce788",
+      "season": 6,
+      "number": 3,
+      "name": "Hound & Vision",
+      "airdate": "2024-07-31"
+    },
+    {
+      "id": "f4ee0226-adbe-47ff-ae00-430fcd5970b9",
+      "season": 6,
+      "number": 4,
+      "name": "Hour of the dog",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "d55a05ff-f2e7-40f2-aa6d-56bd4c9fafcd",
+      "season": 6,
+      "number": 5,
+      "name": "Hero by night",
+      "airdate": "2024-08-05"
+    },
+    {
+      "id": "f840c8e9-1924-463e-80a1-ea4f179c2c79",
+      "season": 6,
+      "number": 6,
+      "name": "Claws out",
+      "airdate": "2024-08-06"
+    },
+    {
+      "id": "3697d4de-b219-4f46-b3bc-a08924ffd1a4",
+      "season": 6,
+      "number": 7,
+      "name": "Dancer, Traitor, Shepherd, Spy",
+      "airdate": "2024-08-07"
+    },
+    {
+      "id": "d5b2a82b-bba2-42f6-a15d-4710d77bca29",
+      "season": 6,
+      "number": 8,
+      "name": "Doghouse",
+      "airdate": "2024-08-08"
+    },
+    {
+      "id": "99520442-6503-4e7c-acaf-e1fa3553d82d",
+      "season": 6,
+      "number": 9,
+      "name": "Hudson and Son",
+      "airdate": "2024-08-12"
+    },
+    {
+      "id": "c6a3fd83-3597-474e-b68d-51a4f2216e30",
+      "season": 6,
+      "number": 10,
+      "name": "Who’s Your Caddy?",
+      "airdate": "2024-08-13"
+    },
+    {
+      "id": "4fd99cee-9183-4fdc-be1d-af38d635f3c1",
+      "season": 6,
+      "number": 11,
+      "name": "Dog and Pony Show",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "0ff38317-8f1b-460d-bca3-33f72a26e625",
+      "season": 6,
+      "number": 12,
+      "name": "Bark and Bite",
+      "airdate": "2024-08-15"
+    },
+    {
+      "id": "db9e51aa-0bf4-4234-867a-bce0d09d6ec6",
+      "season": 6,
+      "number": 13,
+      "name": "Dogged Pursuit",
+      "airdate": "2024-08-19"
+    },
+    {
+      "id": "b1603f59-d633-47a5-bc6c-eca5ea0cac4b",
+      "season": 6,
+      "number": 14,
+      "name": "Death and Doorstep",
+      "airdate": "2024-08-20"
+    },
+    {
+      "id": "ce0c7950-61fd-4808-8669-7fbb9844cbd6",
+      "season": 6,
+      "number": 15,
+      "name": "Wag the Dog",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "7206876f-9a20-4fe7-8f8d-ba58757c0ad2",
+      "season": 6,
+      "number": 16,
+      "name": "Rex, Drugs & Rock ’n’ Roll",
+      "airdate": "2024-08-22"
+    },
+    {
+      "id": "178391aa-8b92-4978-adf0-2b044d11d8b2",
+      "season": 7,
+      "number": 1,
+      "name": "Double Dog Dare",
+      "airdate": "2025-07-28"
+    },
+    {
+      "id": "c01ee55a-2700-467e-8ef9-b59821203f5d",
+      "season": 7,
+      "number": 2,
+      "name": "A Room with a Clue",
+      "airdate": "2025-07-29"
+    },
+    {
+      "id": "835b6319-9f8a-4d08-bd8c-b1ec0b3e5c7d",
+      "season": 7,
+      "number": 3,
+      "name": "Shuck Everlasting",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "119ea795-e789-4f72-9256-322e5efbca35",
+      "season": 7,
+      "number": 4,
+      "name": "K9: The Rext Generation",
+      "airdate": "2025-07-31"
+    },
+    {
+      "id": "02c863a0-6cc1-4db9-95cf-9c552ea58ed7",
+      "season": 7,
+      "number": 5,
+      "name": "In from the Cold",
+      "airdate": "2025-08-04"
+    },
+    {
+      "id": "0a6e76e5-8269-4f96-b00e-a51adfd4b237",
+      "season": 7,
+      "number": 6,
+      "name": "Bee-Deviled",
+      "airdate": "2025-08-05"
+    },
+    {
+      "id": "ea205eaa-02bf-464f-a5fd-10d62321c656",
+      "season": 7,
+      "number": 7,
+      "name": "Kiss the Cod and Make Them Die",
+      "airdate": "2025-08-06"
+    },
+    {
+      "id": "c749d644-4eb0-4599-b56e-25e002de6030",
+      "season": 7,
+      "number": 8,
+      "name": "Hot Prowl in the City",
+      "airdate": "2025-08-07"
+    },
+    {
+      "id": "751ddd26-98f1-4158-bb63-b7e4db74ce33",
+      "season": 8,
+      "number": 1,
+      "name": "Into the Wilds",
+      "airdate": "2026-07-13"
+    },
+    {
+      "id": "7e9ffda9-751d-4f44-816f-edcb6ec051c7",
+      "season": 8,
+      "number": 2,
+      "name": "Runaway Witness",
+      "airdate": "2026-07-14"
+    },
+    {
+      "id": "356cd472-ff8a-4957-b8d7-19ce45eaf411",
+      "season": 8,
+      "number": 3,
+      "name": "Best Kind",
+      "airdate": "2026-07-15"
+    },
+    {
+      "id": "259a66ac-1b0d-4371-b67d-eb246529f73c",
+      "season": 8,
+      "number": 4,
+      "name": "Of All the Gin Joints",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "851fa473-8a5e-4599-a499-c82a8767ce0d",
+      "season": 8,
+      "number": 5,
+      "name": "Fortitude Newfoundland",
+      "airdate": "2026-07-20"
+    },
+    {
+      "id": "855d0ea5-fc6d-4d45-860e-92c253fad265",
+      "season": 8,
+      "number": 6,
+      "name": "Conspiracy Theory",
+      "airdate": "2026-07-21"
+    },
+    {
+      "id": "7cb4bc09-122a-456c-8b46-84846e5f2f50",
+      "season": 8,
+      "number": 7,
+      "name": "Criminal Rex",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "309679b8-e9f6-435c-a9d2-96eca45e8d1b",
+      "season": 8,
+      "number": 8,
+      "name": "Bird’s Eye View",
+      "airdate": "2026-07-23"
+    }
+  ]
+}

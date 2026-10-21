@@ -1,0 +1,26 @@
+
+> scrape:tv2play
+> node scripts/tv2play.mjs
+
+sitemap-index: 1 dele
+URL'er i alt: 40990
+afsnit vi følger: 52, heraf ændret siden sidst: 6
+afsnit med dato: 6
+ændrede poster: ingen
+uden match: 1635 serier, se unmatched.json
+ukortlagte, understøttede afsnit: 27177, heraf taget af budgettet: 2974
+  250/2974 afsnit hentet, 250 med dato
+  500/2974 afsnit hentet, 500 med dato
+  750/2974 afsnit hentet, 748 med dato
+  1000/2974 afsnit hentet, 997 med dato
+  1250/2974 afsnit hentet, 1247 med dato
+  1500/2974 afsnit hentet, 1497 med dato
+  1750/2974 afsnit hentet, 1746 med dato
+  2000/2974 afsnit hentet, 1996 med dato
+  2250/2974 afsnit hentet, 2228 med dato
+  2500/2974 afsnit hentet, 2476 med dato
+  2750/2974 afsnit hentet, 2724 med dato
+ukortlagte afsnit med dato: 2948
+TV 2 Play-serier bygget denne kørsel: 82
+hints der ikke kunne fortolkes: 0
+overrides.json: ingen ændringer, skriver ikke

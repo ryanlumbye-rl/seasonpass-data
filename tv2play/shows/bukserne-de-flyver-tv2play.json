@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:bukserne-de-flyver-tv2play",
+  "name": "Bukserne de flyver",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "79ed6184-92dd-4a01-b687-962a7370cd1e",
+      "season": 1,
+      "number": 1,
+      "name": "Pølsekonkurrence og royalt hyperloop-tog",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "8767f3ed-df6b-4a28-bf52-a69905793216",
+      "season": 1,
+      "number": 2,
+      "name": "Oscar-vinder og en brændende spejderhytte",
+      "airdate": "2026-09-05"
+    },
+    {
+      "id": "a8113e6e-797a-4459-b988-f75cd55e05db",
+      "season": 1,
+      "number": 3,
+      "name": "Tunmousse og gallamiddag i Det Hvide Hus",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "5ecdedc4-6ed3-4e2f-bd41-3e5246e9e96b",
+      "season": 1,
+      "number": 4,
+      "name": "Giftige frøer, hajtand og et vintertæppe",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "28687c0c-6801-44d1-bb0c-7cf066ea5e0d",
+      "season": 1,
+      "number": 5,
+      "name": "Faldskærmsudspring og menneskelige hyrdehunde",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "fbc5cda3-3009-45e4-8fea-8bdb532df176",
+      "season": 1,
+      "number": 6,
+      "name": "Elversprog og panik på Færøerne",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "a9310531-418c-4205-b82a-9961ff80fd4a",
+      "season": 1,
+      "number": 7,
+      "name": "Dyt-båtter til David Beckham",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "45a395d7-8981-4327-85d9-ef18740e3029",
+      "season": 1,
+      "number": 8,
+      "name": "Karatetyveriet og den bevidstløse abe",
+      "airdate": "2026-10-17"
+    }
+  ]
+}

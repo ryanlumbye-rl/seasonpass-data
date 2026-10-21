@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:alarmcentralen-tv2",
+  "name": "Alarmcentralen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2f468514-b503-42a5-8755-dd316bec62a6",
+      "season": 6,
+      "number": 1,
+      "name": "Frygtens tidsalder",
+      "airdate": "2022-04-11"
+    },
+    {
+      "id": "1999d211-201d-4d90-a81f-81f6cde6ca2d",
+      "season": 6,
+      "number": 1,
+      "name": "Frygtens tidsalder",
+      "airdate": "2022-04-11"
+    },
+    {
+      "id": "223f0134-4a50-4509-90ae-321089db8fbb",
+      "season": 6,
+      "number": 2,
+      "name": "Din mor ville ikke være stolt",
+      "airdate": "2022-04-12"
+    },
+    {
+      "id": "6eeff58a-f65d-4322-8d8e-c5411638a2db",
+      "season": 6,
+      "number": 3,
+      "name": "De er bare børn",
+      "airdate": "2022-04-14"
+    },
+    {
+      "id": "aa326f9f-42aa-4035-9f7d-8a3aea165d4e",
+      "season": 6,
+      "number": 4,
+      "name": "Det lyder som 14 dage i isolation",
+      "airdate": "2022-04-15"
+    },
+    {
+      "id": "8b67e479-6a3f-47b6-90e0-c450757f0848",
+      "season": 6,
+      "number": 5,
+      "name": "Gadens lov",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "abcdf654-4dbd-4446-8078-abfa4e6ab6c0",
+      "season": 6,
+      "number": 6,
+      "name": "Samfundets svage sjæle",
+      "airdate": "2022-04-19"
+    },
+    {
+      "id": "d5844e34-07c3-4a45-a660-a3a6c350d71b",
+      "season": 6,
+      "number": 7,
+      "name": "Alkoholvaner",
+      "airdate": "2022-04-20"
+    },
+    {
+      "id": "08e4c115-10c6-4546-beb5-ea0010b71938",
+      "season": 6,
+      "number": 8,
+      "name": "I frygt for børnene",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "9f73542b-d576-4968-bf78-18e9db686f76",
+      "season": 6,
+      "number": 9,
+      "name": "Hadefulde beskeder",
+      "airdate": "2022-04-22"
+    }
+  ]
+}
