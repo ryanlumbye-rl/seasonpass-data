@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:fint-skal-det-vaere-special-tv2charlie",
+  "name": "Fint skal det være - special",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f3d4716e-3d6e-48fa-9fa1-9f588254c0d3",
+      "season": 1,
+      "number": 1,
+      "name": "Julespecial",
+      "airdate": "2007-11-12"
+    },
+    {
+      "id": "152a2a4f-38fe-4499-a8b4-47ddfa06511f",
+      "season": 1,
+      "number": 2,
+      "name": "På krydstogt",
+      "airdate": "2007-11-13"
+    },
+    {
+      "id": "08498336-a902-4fba-b1e3-b519955af320",
+      "season": 1,
+      "number": 3,
+      "name": "Special",
+      "airdate": "2007-11-14"
+    },
+    {
+      "id": "e1d694bb-634e-4628-a43f-972c1ce8d079",
+      "season": 1,
+      "number": 4,
+      "name": "Festspillet",
+      "airdate": "2007-11-15"
+    }
+  ]
+}

@@ -1,0 +1,885 @@
+{
+  "id": "tv2play:death-in-paradise-britbox",
+  "name": "Death in Paradise",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "657d3e6e-d162-4c6d-9dbd-15a8531087b5",
+      "season": 1,
+      "number": 1,
+      "name": "Arriving in Paradise",
+      "airdate": "2012-02-17"
+    },
+    {
+      "id": "35b72f0f-a2ff-4b30-88a5-d040a3829ee1",
+      "season": 1,
+      "number": 2,
+      "name": "Wicked Wedding Night",
+      "airdate": "2012-02-24"
+    },
+    {
+      "id": "2b08443e-5d7f-4b8a-ac1a-b97d59350f64",
+      "season": 1,
+      "number": 3,
+      "name": "Predicting Murder",
+      "airdate": "2012-03-02"
+    },
+    {
+      "id": "41f9bf70-fa6b-496f-917c-1c7fd36dca27",
+      "season": 1,
+      "number": 4,
+      "name": "Missing a Body?",
+      "airdate": "2012-03-09"
+    },
+    {
+      "id": "8128b7e6-43e9-4770-b008-232645d9739c",
+      "season": 1,
+      "number": 5,
+      "name": "Spot the Difference",
+      "airdate": "2012-03-16"
+    },
+    {
+      "id": "2a38e5b3-d2d9-4c90-8f8b-8de3186c173a",
+      "season": 1,
+      "number": 6,
+      "name": "An Unhelpful Aid",
+      "airdate": "2012-03-23"
+    },
+    {
+      "id": "4cf4eb19-0399-4c86-aad5-016205ba931e",
+      "season": 1,
+      "number": 7,
+      "name": "Music of Murder",
+      "airdate": "2012-08-04"
+    },
+    {
+      "id": "e8d51b30-5c00-4a51-9bdd-c87a51daefae",
+      "season": 1,
+      "number": 8,
+      "name": "Amongst Us",
+      "airdate": "2012-08-11"
+    },
+    {
+      "id": "1f4a2b34-96db-410a-ba63-72f067291f03",
+      "season": 2,
+      "number": 1,
+      "name": "Murder on the Plantation",
+      "airdate": "2013-10-11"
+    },
+    {
+      "id": "eb2a64e5-7705-41f8-8235-428f0d325f3e",
+      "season": 2,
+      "number": 2,
+      "name": "An Unholy Death",
+      "airdate": "2013-10-11"
+    },
+    {
+      "id": "e1dac764-20f2-4c26-ac17-6f5d810f762b",
+      "season": 2,
+      "number": 3,
+      "name": "Death in the Clinic",
+      "airdate": "2013-10-18"
+    },
+    {
+      "id": "e3694ce4-fc25-4a74-b461-f162d8e326d0",
+      "season": 2,
+      "number": 4,
+      "name": "A Deadly Curse",
+      "airdate": "2013-10-18"
+    },
+    {
+      "id": "c78e861f-0a84-451d-85ec-3b2d56054e6b",
+      "season": 2,
+      "number": 5,
+      "name": "Murder Onboard",
+      "airdate": "2013-10-25"
+    },
+    {
+      "id": "5fb83de1-ee3e-4b49-9baf-00ad6762e95b",
+      "season": 2,
+      "number": 6,
+      "name": "A Dash of Sunshine",
+      "airdate": "2013-10-25"
+    },
+    {
+      "id": "e4d35cf7-276e-48de-abee-39c4d8d38ed1",
+      "season": 2,
+      "number": 7,
+      "name": "A Stormy Occurrence",
+      "airdate": "2013-11-01"
+    },
+    {
+      "id": "470a550f-d65a-47a8-9b9c-0d3874f82e07",
+      "season": 2,
+      "number": 8,
+      "name": "A Deadly Party",
+      "airdate": "2013-11-01"
+    },
+    {
+      "id": "3755c197-754c-42c1-9663-bd5eb62a6e73",
+      "season": 3,
+      "number": 1,
+      "name": "Death of a Detective",
+      "airdate": "2015-01-05"
+    },
+    {
+      "id": "a70072c4-732e-4176-90d1-e3e5db22f0a7",
+      "season": 3,
+      "number": 2,
+      "name": "The Wrong Man",
+      "airdate": "2015-01-06"
+    },
+    {
+      "id": "a6ed8ccb-00c8-49c8-b8e8-e58871bc70e6",
+      "season": 3,
+      "number": 3,
+      "name": "An Artistic Murder",
+      "airdate": "2015-01-07"
+    },
+    {
+      "id": "3fdffc29-664e-418f-ad51-ab2d92d5cd21",
+      "season": 3,
+      "number": 4,
+      "name": "Ye of Little Faith",
+      "airdate": "2015-01-08"
+    },
+    {
+      "id": "c18cce63-6da9-4227-9016-d643b8f80fc4",
+      "season": 3,
+      "number": 5,
+      "name": "Political Suicide",
+      "airdate": "2015-01-12"
+    },
+    {
+      "id": "fabbb348-12ae-4d40-99ee-75b8d53c7a82",
+      "season": 3,
+      "number": 6,
+      "name": "The Early Bird",
+      "airdate": "2015-01-13"
+    },
+    {
+      "id": "8ca985fa-8f2d-4142-bdf5-f60b3bce2679",
+      "season": 3,
+      "number": 7,
+      "name": "The Man with the Golden Gun",
+      "airdate": "2015-01-14"
+    },
+    {
+      "id": "f687e48e-aaa7-404f-8f53-e8daa9a5e089",
+      "season": 3,
+      "number": 8,
+      "name": "Rue Morgue",
+      "airdate": "2015-01-15"
+    },
+    {
+      "id": "42329356-7c8d-45cd-8648-3188be5466e1",
+      "season": 4,
+      "number": 1,
+      "name": "Stab in the Dark",
+      "airdate": "2015-08-17"
+    },
+    {
+      "id": "ad20261f-9042-4bb7-8ec3-a4f2ef8c8799",
+      "season": 4,
+      "number": 2,
+      "name": "Hidden Secrets",
+      "airdate": "2015-05-12"
+    },
+    {
+      "id": "1fa2a641-2354-4630-a7ee-f9c4eb9736bb",
+      "season": 4,
+      "number": 3,
+      "name": "Damned If You Do...",
+      "airdate": "2015-08-31"
+    },
+    {
+      "id": "105cb1a9-f9c0-4cc1-8aad-d8a12f611963",
+      "season": 4,
+      "number": 4,
+      "name": "Until Death Do You Part",
+      "airdate": "2015-09-07"
+    },
+    {
+      "id": "622be607-d70b-409c-91b9-b96126e15f5a",
+      "season": 4,
+      "number": 5,
+      "name": "Swimming in Murder",
+      "airdate": "2015-09-14"
+    },
+    {
+      "id": "25eb1a54-f753-4af9-a7d2-459aa2fb04ec",
+      "season": 4,
+      "number": 6,
+      "name": "The Perfect Murder",
+      "airdate": "2015-09-21"
+    },
+    {
+      "id": "83819168-2974-4b37-bba5-9836b2d6d2b6",
+      "season": 4,
+      "number": 7,
+      "name": "She Was Murdered Twice",
+      "airdate": "2015-09-28"
+    },
+    {
+      "id": "6bfb6374-3d48-418f-9b41-fc29004e9e3a",
+      "season": 4,
+      "number": 8,
+      "name": "Unlike Father, Unlike Son",
+      "airdate": "2015-10-05"
+    },
+    {
+      "id": "f414b437-82c6-41a1-a6c4-034586b231a1",
+      "season": 5,
+      "number": 1,
+      "name": "The Complex Murder",
+      "airdate": "2016-12-27"
+    },
+    {
+      "id": "addf17e4-7241-4f80-bd69-e18b3ecd6cba",
+      "season": 5,
+      "number": 2,
+      "name": "One for the Road",
+      "airdate": "2016-12-28"
+    },
+    {
+      "id": "3ae74181-e4ed-4119-bc93-a0b47be3a73a",
+      "season": 5,
+      "number": 3,
+      "name": "Posing in Murder",
+      "airdate": "2016-12-29"
+    },
+    {
+      "id": "e87789a9-c835-46ff-8976-fdcfbbafe889",
+      "season": 5,
+      "number": 4,
+      "name": "A Personal Murder",
+      "airdate": "2016-12-29"
+    },
+    {
+      "id": "a0c265ca-2149-4d0a-98c0-1868efdb3f3c",
+      "season": 5,
+      "number": 5,
+      "name": "Lost Identity",
+      "airdate": "2016-12-30"
+    },
+    {
+      "id": "61e34673-7acd-458b-af78-81c1ce574221",
+      "season": 5,
+      "number": 6,
+      "name": "Dishing Up Murder",
+      "airdate": "2016-12-30"
+    },
+    {
+      "id": "f708d7b4-6ae9-442b-b0b6-1994a57d4d07",
+      "season": 5,
+      "number": 7,
+      "name": "The Blood Red Sea",
+      "airdate": "2016-12-31"
+    },
+    {
+      "id": "8c31722d-e209-4c6f-a2d8-3f35e5ad3ccd",
+      "season": 5,
+      "number": 8,
+      "name": "Flames of Love",
+      "airdate": "2016-12-31"
+    },
+    {
+      "id": "a82d0c7f-221a-417c-b633-b5cc3ace15ee",
+      "season": 6,
+      "number": 1,
+      "name": "Murder in the Polls",
+      "airdate": "2017-07-18"
+    },
+    {
+      "id": "070f8260-e204-4734-bc45-641789530efb",
+      "season": 6,
+      "number": 2,
+      "name": "The Secret of the Flame Tree",
+      "airdate": "2017-07-19"
+    },
+    {
+      "id": "ee84dc1d-8512-433e-819b-78c7cf59686c",
+      "season": 6,
+      "number": 3,
+      "name": "The Impossible Murder",
+      "airdate": "2017-07-20"
+    },
+    {
+      "id": "0f7618ea-d6d5-4eeb-8cce-7659f23bf2a5",
+      "season": 6,
+      "number": 4,
+      "name": "Stumped in Murder",
+      "airdate": "2017-07-21"
+    },
+    {
+      "id": "4c1c1cb6-1140-4480-9604-94f63433a3d0",
+      "season": 6,
+      "number": 5,
+      "name": "Man Overboard, del 1",
+      "airdate": "2017-07-24"
+    },
+    {
+      "id": "c2c015d8-fe9b-4cfc-a9fb-04592e330b53",
+      "season": 6,
+      "number": 6,
+      "name": "Man Overboard, del 2",
+      "airdate": "2017-07-25"
+    },
+    {
+      "id": "f16761e2-425c-4e6e-b9de-a380385321a3",
+      "season": 6,
+      "number": 7,
+      "name": "In the Footsteps of a Killer",
+      "airdate": "2017-07-26"
+    },
+    {
+      "id": "88d618ed-9dd6-48fc-b042-d6de45056e26",
+      "season": 6,
+      "number": 8,
+      "name": "Murder in the Polls",
+      "airdate": "2017-07-27"
+    },
+    {
+      "id": "f39ad67a-f2f0-4ad2-932a-cbbb31a7d17a",
+      "season": 7,
+      "number": 1,
+      "name": "Murder from Above",
+      "airdate": "2018-07-16"
+    },
+    {
+      "id": "17b35cfc-19e5-40c7-92c4-a9f7e087b07a",
+      "season": 7,
+      "number": 2,
+      "name": "The Stakes Are High",
+      "airdate": "2018-07-16"
+    },
+    {
+      "id": "d7c05943-6fd1-4803-bd39-68c7cad580bc",
+      "season": 7,
+      "number": 3,
+      "name": "Written in Murder",
+      "airdate": "2018-07-17"
+    },
+    {
+      "id": "58cc1243-bdd1-43a5-952f-38fc2584ff84",
+      "season": 7,
+      "number": 4,
+      "name": "The Healer",
+      "airdate": "2018-07-17"
+    },
+    {
+      "id": "c89b8b30-f284-4068-8d61-d11c1cb8005b",
+      "season": 7,
+      "number": 5,
+      "name": "Murder on the Day of the Dead",
+      "airdate": "2018-07-18"
+    },
+    {
+      "id": "66d0848f-b7df-4b0b-83c2-1c5078383c29",
+      "season": 7,
+      "number": 6,
+      "name": "Meditated in Murder",
+      "airdate": "2018-07-18"
+    },
+    {
+      "id": "441d9264-3e1c-4e4b-97ae-30aa928d6f4f",
+      "season": 7,
+      "number": 7,
+      "name": "Dark Memories",
+      "airdate": "2018-07-19"
+    },
+    {
+      "id": "7f3aa75d-1f13-4495-ae1a-8cc29be0197e",
+      "season": 7,
+      "number": 8,
+      "name": "Melodies of Murder",
+      "airdate": "2018-07-19"
+    },
+    {
+      "id": "8af11bb2-aed1-4885-9a1d-f39bdcadb083",
+      "season": 8,
+      "number": 1,
+      "name": "Murder on the Honore Express",
+      "airdate": "2019-03-26"
+    },
+    {
+      "id": "0f4832bc-4be2-4e58-aef8-a8b9b8e68577",
+      "season": 8,
+      "number": 2,
+      "name": "Murder Most Animal",
+      "airdate": "2019-04-02"
+    },
+    {
+      "id": "664d5ca1-398c-4c78-998e-0ab67e46f9bc",
+      "season": 8,
+      "number": 3,
+      "name": "Wish You Weren't Here",
+      "airdate": "2019-04-09"
+    },
+    {
+      "id": "a60bdbe6-53f2-4d63-b4fe-58c56ee668af",
+      "season": 8,
+      "number": 4,
+      "name": "Frappe Death Day",
+      "airdate": "2019-04-16"
+    },
+    {
+      "id": "4b35e76a-c220-45f2-b805-ceb6f1964a5d",
+      "season": 8,
+      "number": 5,
+      "name": "Beyond the Shining Sea: Part One",
+      "airdate": "2019-04-23"
+    },
+    {
+      "id": "97eea6ee-b4ea-44d5-9160-0701acc52c9c",
+      "season": 8,
+      "number": 6,
+      "name": "Beyond the Shining Sea: Part Two",
+      "airdate": "2019-04-30"
+    },
+    {
+      "id": "953a57bd-6781-487e-a5d4-83cb134296b9",
+      "season": 8,
+      "number": 7,
+      "name": "Murder on the Airwaves",
+      "airdate": "2019-05-07"
+    },
+    {
+      "id": "c1fc20de-71c3-41b1-91b7-946eedfe5456",
+      "season": 8,
+      "number": 8,
+      "name": "Murder Begins at Home",
+      "airdate": "2019-05-14"
+    },
+    {
+      "id": "6a19fbd8-dea7-4db2-bdda-99231b5d6665",
+      "season": 9,
+      "number": 1,
+      "name": "La Murder Le Diablé",
+      "airdate": "2020-07-13"
+    },
+    {
+      "id": "8188f207-7ab4-492c-92c2-b6affae996bb",
+      "season": 9,
+      "number": 2,
+      "name": "A Murder in Portrait",
+      "airdate": "2020-07-13"
+    },
+    {
+      "id": "dd9e563c-ebbf-415a-8889-81aeb817a407",
+      "season": 9,
+      "number": 3,
+      "name": "Tour De Murder",
+      "airdate": "2020-07-14"
+    },
+    {
+      "id": "52ad17dc-0dd5-4c8b-9290-c0ebfe86f52d",
+      "season": 9,
+      "number": 4,
+      "name": "Pirates of the Murder Scene",
+      "airdate": "2020-07-14"
+    },
+    {
+      "id": "3033084d-5626-494c-80d1-2560a7a3f07e",
+      "season": 9,
+      "number": 5,
+      "name": "Switcharoo",
+      "airdate": "2020-07-15"
+    },
+    {
+      "id": "7871449c-f650-4db4-9217-eb44caab4116",
+      "season": 9,
+      "number": 6,
+      "name": "Murder on Mosquito Island",
+      "airdate": "2020-07-15"
+    },
+    {
+      "id": "1797bfd7-4325-4a04-866a-48cde6ea47e6",
+      "season": 9,
+      "number": 7,
+      "name": "Death in the Salon",
+      "airdate": "2020-07-16"
+    },
+    {
+      "id": "5e75cd05-3840-4446-8186-6e03f9f64379",
+      "season": 9,
+      "number": 8,
+      "name": "Now You See Him, Now You Don't",
+      "airdate": "2020-07-16"
+    },
+    {
+      "id": "1b33e84a-22cf-4b18-a32e-a73559dc15d9",
+      "season": 10,
+      "number": 1,
+      "name": "Breaking News",
+      "airdate": "2021-05-31"
+    },
+    {
+      "id": "a3e428ee-732a-4590-a066-ac961673816b",
+      "season": 10,
+      "number": 2,
+      "name": "Bury your Problems",
+      "airdate": "2021-05-31"
+    },
+    {
+      "id": "f49148fe-81a9-4edd-b14a-c5510f2d62b8",
+      "season": 10,
+      "number": 3,
+      "name": "One in a Million",
+      "airdate": "2021-06-01"
+    },
+    {
+      "id": "64f6f9a1-c1e4-431f-b2a1-d57f1aa7b135",
+      "season": 10,
+      "number": 4,
+      "name": "Murder at the Hospital",
+      "airdate": "2021-06-01"
+    },
+    {
+      "id": "4a40355e-308a-42cb-8862-00489b858122",
+      "season": 10,
+      "number": 5,
+      "name": "Deadly Tunes, del 1",
+      "airdate": "2021-06-02"
+    },
+    {
+      "id": "27365284-3478-4a41-8864-f0b112119b1a",
+      "season": 10,
+      "number": 6,
+      "name": "Deadly Tunes, del 2",
+      "airdate": "2021-06-02"
+    },
+    {
+      "id": "46bde0c7-9312-487a-bc00-50fa5613fb47",
+      "season": 10,
+      "number": 7,
+      "name": "Stag Party Gone Wrong",
+      "airdate": "2021-06-03"
+    },
+    {
+      "id": "5e2659a1-5cf2-45a9-968f-bc399cbd48f8",
+      "season": 10,
+      "number": 8,
+      "name": "Dear Mom",
+      "airdate": "2021-06-03"
+    },
+    {
+      "id": "86dd087e-5e22-4131-8bc3-b27390903772",
+      "season": 11,
+      "number": 1,
+      "name": "Fra kidnapning til mord",
+      "airdate": "2022-04-06"
+    },
+    {
+      "id": "6d82caf1-ae86-4706-8e57-d9f400d180bb",
+      "season": 11,
+      "number": 2,
+      "name": "Liget på golfbanen",
+      "airdate": "2022-04-13"
+    },
+    {
+      "id": "1ec93f0f-b043-419a-a14f-a0f2346337d7",
+      "season": 11,
+      "number": 3,
+      "name": "Højt at flyve",
+      "airdate": "2022-04-20"
+    },
+    {
+      "id": "df255e65-b6f2-46fb-affa-35bb17df3174",
+      "season": 11,
+      "number": 4,
+      "name": "Hemmelig identitet",
+      "airdate": "2022-04-27"
+    },
+    {
+      "id": "b2b8c18d-e3d4-4585-8982-12f7954e8585",
+      "season": 11,
+      "number": 5,
+      "name": "Fra ulykke til alvor",
+      "airdate": "2022-05-04"
+    },
+    {
+      "id": "3bf82dd0-067e-4173-be53-353fa3f41a73",
+      "season": 11,
+      "number": 6,
+      "name": "Opkald fra de døde",
+      "airdate": "2022-05-11"
+    },
+    {
+      "id": "f561e419-522f-4808-9def-231de821c6c0",
+      "season": 11,
+      "number": 7,
+      "name": "Den tætte forbindelse",
+      "airdate": "2022-05-18"
+    },
+    {
+      "id": "940ed40f-97a9-4e1c-b6bc-c840523237cf",
+      "season": 11,
+      "number": 8,
+      "name": "Et dødeligt træk",
+      "airdate": "2022-05-25"
+    },
+    {
+      "id": "0dec16f5-14fb-4c57-9440-3d374d409f10",
+      "season": 11,
+      "number": 9,
+      "name": "Et mystisk julekort",
+      "airdate": "2022-12-13"
+    },
+    {
+      "id": "81dd121e-1339-43bd-8fe3-066a179df854",
+      "season": 12,
+      "number": 1,
+      "name": "Funklende stjerne",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "a169c302-c6a2-4575-a252-b38efe7342b2",
+      "season": 12,
+      "number": 2,
+      "name": "Kærlighedens kemi",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "ee2007ec-a25f-44ba-b6fc-2868322a38de",
+      "season": 12,
+      "number": 3,
+      "name": "Alt er til salg",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "6a9d7a7e-00c2-46a5-ad8f-eac1c47d55a6",
+      "season": 12,
+      "number": 4,
+      "name": "Dødens slør",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "97863e6e-d968-4357-add4-72d6b477e5b5",
+      "season": 12,
+      "number": 5,
+      "name": "Barndommens drømme",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "f09f49c7-a224-4cf6-a3ff-fbd96a82fb5e",
+      "season": 12,
+      "number": 6,
+      "name": "Forberedt på mord",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "03ab1cc9-e112-494e-8a77-32d1c2058089",
+      "season": 12,
+      "number": 7,
+      "name": "Bedragerens kys",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "7188106c-2edf-4dee-a838-5c18d0d1a4f2",
+      "season": 12,
+      "number": 8,
+      "name": "Dødens melodi",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "9571ae63-ec02-4879-a55b-5a423b1cbdd9",
+      "season": 12,
+      "number": 9,
+      "name": "Julespecial - myrdet af et spøgelse",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "b0e5e29b-effd-4941-97d8-cef83b66712b",
+      "season": 13,
+      "number": 1,
+      "name": "Christmas Special 2023",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "e45443f6-cd20-4ef1-8e29-786330f9a1f6",
+      "season": 13,
+      "number": 2,
+      "name": "Going Round in Circles",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "6fe7b4d6-01a2-4b57-bcf5-26d685f9c7bd",
+      "season": 13,
+      "number": 3,
+      "name": "Your Number's Up",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "3192f471-6495-47f5-9b64-add95ee54f3f",
+      "season": 13,
+      "number": 4,
+      "name": "Serving Up Murder",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "dad6d678-6a95-44fd-8f4f-72ae159802a1",
+      "season": 13,
+      "number": 5,
+      "name": "Murder Most Electric",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "f233c28d-7175-48a4-9fe5-d2730744a572",
+      "season": 13,
+      "number": 6,
+      "name": "As the Sun Sets...",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "3ec1acd0-1f23-4d15-a28b-91330f7091c3",
+      "season": 13,
+      "number": 7,
+      "name": "Murder Going Down",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "91d8ca96-8993-416e-b68f-3989fb3825a4",
+      "season": 13,
+      "number": 8,
+      "name": "A Tale of Two Islands",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "5215dceb-a82c-45a1-a250-e3f62e99c57f",
+      "season": 13,
+      "number": 9,
+      "name": "A Murder in the Skies",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "9bd83eab-bf85-4f91-a52c-0d7a9881be9b",
+      "season": 14,
+      "number": 1,
+      "name": "Julespecial 2024 - De døde julemænd",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "9efd1acb-bca7-40e0-8048-7e2594cf1632",
+      "season": 14,
+      "number": 2,
+      "name": "Skriften på væggen",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "9499de5e-fe61-4006-83ee-98afb45e7782",
+      "season": 14,
+      "number": 3,
+      "name": "Farligt spil",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "df215572-7e99-47ac-9d40-bff2d701aef9",
+      "season": 14,
+      "number": 4,
+      "name": "En bitter pille",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "3e92e185-a46e-488a-884b-d0760b8626d0",
+      "season": 14,
+      "number": 5,
+      "name": "Dødelige dråber",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "d8ed5575-a55a-40f3-a072-b20dce07266f",
+      "season": 14,
+      "number": 6,
+      "name": "Mord i pausen",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "93509134-d534-47a7-bca8-4e23042f14ee",
+      "season": 14,
+      "number": 7,
+      "name": "Fanget i en løgn",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "fbd0c213-0717-4216-9e3e-23f4ae0b4e1f",
+      "season": 14,
+      "number": 8,
+      "name": "Spor fra fortiden",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "95346745-2420-40c7-8081-adf01687c08e",
+      "season": 14,
+      "number": 9,
+      "name": "Den låste dør",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "7dda0a23-87dc-46f8-a0fb-2bcf04a412b8",
+      "season": 14,
+      "number": 10,
+      "name": "Christmas Special 2025",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "788f6a04-f34d-4838-8cfc-0f6a59b4475d",
+      "season": 15,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "ced7c775-5bd8-4b25-9292-d431215b59c0",
+      "season": 15,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "d18bf069-6cb4-48a3-8717-28035d8bb0aa",
+      "season": 15,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "33ba2a2a-880b-47f1-be04-299a7f931471",
+      "season": 15,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "993ed898-30e3-46af-a833-060215a9250b",
+      "season": 15,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "ff05390c-9144-4a17-96fb-789430153691",
+      "season": 15,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "dea84a95-87b2-4734-92f6-eaaf27d64ac6",
+      "season": 15,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "4adf0ec9-d37b-41c6-aff2-ceb54f52f184",
+      "season": 15,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2026-04-15"
+    }
+  ]
+}

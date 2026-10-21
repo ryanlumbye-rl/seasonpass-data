@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:alle-elsker-rasmus-tv2echo",
+  "name": "Alle elsker Rasmus",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-26",
+  "episodes": [
+    {
+      "id": "21f05c79-3726-4ab2-b1b0-6f8e81486397",
+      "season": 1,
+      "number": 1,
+      "name": "Tys, tys",
+      "airdate": "2026-10-26"
+    }
+  ]
+}

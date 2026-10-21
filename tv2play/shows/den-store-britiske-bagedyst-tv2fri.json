@@ -1,0 +1,416 @@
+{
+  "id": "tv2play:den-store-britiske-bagedyst-tv2fri",
+  "name": "Den store britiske bagedyst",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "88067ac5-fb13-4489-afbb-84794aa61a8e",
+      "season": 8,
+      "number": 1,
+      "name": "Kager",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "59c8cdb2-6e40-4e7c-9b0f-7a13429231de",
+      "season": 8,
+      "number": 1,
+      "name": "Kager",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "d87a4b42-b243-45bc-9a71-80c6ccbe50d3",
+      "season": 8,
+      "number": 2,
+      "name": "Småkager",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "13d79497-29c9-415a-8c0e-0892309ec30c",
+      "season": 8,
+      "number": 3,
+      "name": "Brød",
+      "airdate": "2018-07-08"
+    },
+    {
+      "id": "46ba187e-94d2-4129-8f15-54faa7ca2fef",
+      "season": 8,
+      "number": 4,
+      "name": "Karamel",
+      "airdate": "2018-07-15"
+    },
+    {
+      "id": "df4e64ab-41ad-4105-b5b6-018d1447dea2",
+      "season": 8,
+      "number": 5,
+      "name": "Budding",
+      "airdate": "2018-07-22"
+    },
+    {
+      "id": "acdbe920-2b4f-4a44-a37a-1a0f03af36f4",
+      "season": 8,
+      "number": 6,
+      "name": "Dej på flere faconer",
+      "airdate": "2018-07-29"
+    },
+    {
+      "id": "3811012c-49c1-4fa4-9f5b-72a812d2fe00",
+      "season": 9,
+      "number": 1,
+      "name": "Småkager",
+      "airdate": "2019-03-29"
+    },
+    {
+      "id": "615400ba-ac00-481d-9635-5d95cb218a6c",
+      "season": 9,
+      "number": 2,
+      "name": "Kager",
+      "airdate": "2019-03-29"
+    },
+    {
+      "id": "d7644fcc-2f2c-42f7-90c7-bb836df8c236",
+      "season": 9,
+      "number": 3,
+      "name": "Brød",
+      "airdate": "2019-04-01"
+    },
+    {
+      "id": "984ca045-c6a4-421e-9788-24866ade3e91",
+      "season": 9,
+      "number": 4,
+      "name": "Desserter",
+      "airdate": "2019-04-01"
+    },
+    {
+      "id": "97abe0c8-1ef1-48ef-a315-d24b1fb63423",
+      "season": 9,
+      "number": 5,
+      "name": "Krydderier",
+      "airdate": "2019-04-02"
+    },
+    {
+      "id": "f89ebb59-0c90-42c5-9391-e6874792dbd9",
+      "season": 9,
+      "number": 6,
+      "name": "Konkurrencen spidser til!",
+      "airdate": "2019-04-02"
+    },
+    {
+      "id": "0724c4db-64e0-4328-9c17-e2037ec0aec0",
+      "season": 9,
+      "number": 7,
+      "name": "Vegansk bagværk",
+      "airdate": "2019-04-03"
+    },
+    {
+      "id": "1292c0c3-776b-403f-850a-7811b592a838",
+      "season": 9,
+      "number": 8,
+      "name": "Dansk tema",
+      "airdate": "2019-04-03"
+    },
+    {
+      "id": "1686e709-9330-4145-aaef-3841892d32eb",
+      "season": 9,
+      "number": 9,
+      "name": "Semifinalen",
+      "airdate": "2019-04-04"
+    },
+    {
+      "id": "2a232a60-c43e-423e-b26e-f38a3e6287b4",
+      "season": 9,
+      "number": 10,
+      "name": "Finalen",
+      "airdate": "2019-04-04"
+    },
+    {
+      "id": "3c3e5607-9a32-4589-a2e4-dc74eed9650c",
+      "season": 10,
+      "number": 1,
+      "name": "Kageuge",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "20db9074-4811-4277-b5ea-15e11a9f8485",
+      "season": 10,
+      "number": 2,
+      "name": "Kikseuge",
+      "airdate": "2020-03-08"
+    },
+    {
+      "id": "847f0602-89a6-494e-bb7c-cdbe105fe0f7",
+      "season": 10,
+      "number": 3,
+      "name": "Brøduge",
+      "airdate": "2020-03-15"
+    },
+    {
+      "id": "383e10d6-49f1-4132-9832-9f45f95332b4",
+      "season": 10,
+      "number": 4,
+      "name": "Mælkeuge",
+      "airdate": "2020-03-22"
+    },
+    {
+      "id": "266aafc1-d5f0-4587-bdad-6b1b35e36b15",
+      "season": 10,
+      "number": 5,
+      "name": "Historisk uge",
+      "airdate": "2020-03-29"
+    },
+    {
+      "id": "22454a68-6485-4453-8815-de7b9da6ce1c",
+      "season": 10,
+      "number": 6,
+      "name": "Dessertuge",
+      "airdate": "2020-04-05"
+    },
+    {
+      "id": "39e75830-9a41-4a45-80ad-061de668a00d",
+      "season": 10,
+      "number": 7,
+      "name": "Festivaluge",
+      "airdate": "2020-04-12"
+    },
+    {
+      "id": "b6067464-d5b2-4012-a1ac-e347db082db4",
+      "season": 10,
+      "number": 8,
+      "name": "Bagværk fra hele verden",
+      "airdate": "2020-04-19"
+    },
+    {
+      "id": "3534beae-eb81-4750-9bc2-950b28d36681",
+      "season": 10,
+      "number": 9,
+      "name": "Semifinale",
+      "airdate": "2020-04-26"
+    },
+    {
+      "id": "c328c269-3e40-4a8f-924b-a8e932469503",
+      "season": 10,
+      "number": 10,
+      "name": "Finale!",
+      "airdate": "2020-05-03"
+    },
+    {
+      "id": "1be49488-93ec-42e6-b982-4c2c8cf2a489",
+      "season": 11,
+      "number": 1,
+      "name": "Kageuge",
+      "airdate": "2021-10-02"
+    },
+    {
+      "id": "27f69660-f400-4374-a5e5-66db2cd722a3",
+      "season": 11,
+      "number": 2,
+      "name": "Kikseuge",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "0b8fe3bb-2a67-4d33-9bf2-23a27885f19a",
+      "season": 11,
+      "number": 3,
+      "name": "Brøduge",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "3049afe8-fd24-4252-9db5-dc7be7ab2e5a",
+      "season": 11,
+      "number": 4,
+      "name": "Chokoladeuge",
+      "airdate": "2021-10-23"
+    },
+    {
+      "id": "6525292f-7df7-4772-9500-c5c539f1870f",
+      "season": 11,
+      "number": 5,
+      "name": "Butterdejsuge",
+      "airdate": "2021-10-30"
+    },
+    {
+      "id": "e0b4a3c7-7a5e-4f51-b395-be0dde039e34",
+      "season": 11,
+      "number": 6,
+      "name": "Japansk uge",
+      "airdate": "2021-11-06"
+    },
+    {
+      "id": "60fec537-7075-461d-a8da-0d7dbfe8690c",
+      "season": 11,
+      "number": 7,
+      "name": "80'er-uge",
+      "airdate": "2021-11-13"
+    },
+    {
+      "id": "b43bb742-1925-4810-bc34-71d79d296805",
+      "season": 11,
+      "number": 8,
+      "name": "Dessertuge",
+      "airdate": "2021-11-20"
+    },
+    {
+      "id": "5c6b69c0-8c6d-4462-bfe0-b3181981248b",
+      "season": 11,
+      "number": 9,
+      "name": "Konditoruge",
+      "airdate": "2021-11-27"
+    },
+    {
+      "id": "49350b6b-6221-4b3c-9959-579aae61676f",
+      "season": 11,
+      "number": 10,
+      "name": "Finalen",
+      "airdate": "2021-11-27"
+    },
+    {
+      "id": "a1d9e54c-4914-427e-b3f4-765024c5e799",
+      "season": 12,
+      "number": 3,
+      "name": "Brøduge",
+      "airdate": "2022-10-09"
+    },
+    {
+      "id": "055b1925-0c65-4238-8722-999790fedfd9",
+      "season": 12,
+      "number": 4,
+      "name": "Dessertuge",
+      "airdate": "2022-10-16"
+    },
+    {
+      "id": "9cf88ff7-051e-42c3-90fb-0883bcae7617",
+      "season": 12,
+      "number": 5,
+      "name": "Tysk uge",
+      "airdate": "2022-10-23"
+    },
+    {
+      "id": "8cb00657-c435-430b-bfda-d8b69ba32316",
+      "season": 12,
+      "number": 6,
+      "name": "Butterdejsuge",
+      "airdate": "2022-10-30"
+    },
+    {
+      "id": "f73d2833-3cfb-4576-96b0-be2952707b3d",
+      "season": 12,
+      "number": 7,
+      "name": "Karameluge",
+      "airdate": "2022-11-06"
+    },
+    {
+      "id": "f8c30aec-1acb-4582-8f7b-6cdb355e616e",
+      "season": 12,
+      "number": 8,
+      "name": "Alternativ uge",
+      "airdate": "2022-11-13"
+    },
+    {
+      "id": "d6b3e7e6-1c95-45a5-a6f5-40536df4c0ad",
+      "season": 12,
+      "number": 9,
+      "name": "Konditoruge",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "f1daab82-eb5c-44d2-ac01-5e0a2d72fb1b",
+      "season": 12,
+      "number": 10,
+      "name": "Finalen",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "ac36bd65-b1a4-4f43-8d7c-2b173aa993e4",
+      "season": 15,
+      "number": 1,
+      "name": "Virkelighedstro kager",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "e09ea56a-bca9-4d66-b315-d308753e361b",
+      "season": 15,
+      "number": 2,
+      "name": "Et teater af småkagedej",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "e6d4f555-7697-43c1-9cd8-a65ee44175a9",
+      "season": 15,
+      "number": 3,
+      "name": "Overraskelser og ingen opskrift",
+      "airdate": "2025-10-03"
+    },
+    {
+      "id": "28b32738-a899-463d-a957-bf59e40ac349",
+      "season": 15,
+      "number": 4,
+      "name": "Drilsk karamel",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "d219f280-5de3-482a-988a-af6eac34b51a",
+      "season": 15,
+      "number": 5,
+      "name": "Tærter og græsk bagværk",
+      "airdate": "2025-10-17"
+    },
+    {
+      "id": "cb167a28-b553-40ea-a6e9-2ddeb2919e5f",
+      "season": 15,
+      "number": 6,
+      "name": "Efterårets smukke farver",
+      "airdate": "2025-10-24"
+    },
+    {
+      "id": "b36dc502-4d7a-48c1-8d9c-6cd55eab7f8c",
+      "season": 15,
+      "number": 7,
+      "name": "Franske og italienske desserter",
+      "airdate": "2025-10-31"
+    },
+    {
+      "id": "15f1f674-68b4-4189-a217-8233e2d6a679",
+      "season": 15,
+      "number": 8,
+      "name": "Favoritter fra 1970’erne",
+      "airdate": "2025-11-07"
+    },
+    {
+      "id": "bf331ea4-3a78-4829-9d8d-0453856b3f74",
+      "season": 15,
+      "number": 9,
+      "name": "Smørbagte kager",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "126ea3bf-2871-4c54-b68a-7996e3c008e1",
+      "season": 15,
+      "number": 10,
+      "name": "Finale",
+      "airdate": "2025-11-21"
+    },
+    {
+      "id": "f09b5c22-7420-4a9e-9d6b-0ac487161c78",
+      "season": 16,
+      "number": 1,
+      "name": "En sød start",
+      "airdate": "2026-10-02"
+    },
+    {
+      "id": "888bab88-e82c-4845-b705-3ada8dbb7c6c",
+      "season": 16,
+      "number": 2,
+      "name": "Småkager",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "69e15084-6483-4768-94c9-162aef4abd7a",
+      "season": 16,
+      "number": 3,
+      "name": "Brød",
+      "airdate": "2026-10-16"
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "id": "tv2play:korpset-tv2echo",
+  "name": "Korpset",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-22",
+  "episodes": [
+    {
+      "id": "e7a0bc55-83f9-4b4d-b537-e652602579b8",
+      "season": 1,
+      "number": 1,
+      "name": "Karakter",
+      "airdate": "2016-12-28"
+    },
+    {
+      "id": "b4e81376-4f17-4dc3-9a4a-1b067c955ea1",
+      "season": 1,
+      "number": 2,
+      "name": "Svaghed",
+      "airdate": "2017-01-04"
+    },
+    {
+      "id": "ac9016b0-f7bf-405d-84b4-a8f95727f1a9",
+      "season": 1,
+      "number": 3,
+      "name": "Frygt",
+      "airdate": "2017-01-11"
+    },
+    {
+      "id": "a17ead12-d5b1-44dc-9232-fbb44676a132",
+      "season": 1,
+      "number": 4,
+      "name": "Samarbejde",
+      "airdate": "2017-01-18"
+    },
+    {
+      "id": "39020737-ae78-42ed-847c-5ac303891dfe",
+      "season": 1,
+      "number": 5,
+      "name": "Flugt",
+      "airdate": "2017-01-25"
+    },
+    {
+      "id": "7da89edf-af6e-4464-9b9a-12e2ae32d0e4",
+      "season": 1,
+      "number": 6,
+      "name": "Afhøring",
+      "airdate": "2016-12-23"
+    },
+    {
+      "id": "5c648d00-c9b4-4cb1-bd7b-1d84b47a954a",
+      "season": 2,
+      "number": 1,
+      "name": "Viljestyrke",
+      "airdate": "2018-01-28"
+    },
+    {
+      "id": "2e1bcb1c-a997-4db3-87d1-ea19724bb7c7",
+      "season": 2,
+      "number": 2,
+      "name": "Frygt",
+      "airdate": "2018-01-28"
+    },
+    {
+      "id": "b5cb3306-55df-4710-af21-63bace10c6e4",
+      "season": 2,
+      "number": 3,
+      "name": "Kulde",
+      "airdate": "2018-01-24"
+    },
+    {
+      "id": "3d2f6fda-a218-4709-9469-1449ca15ca45",
+      "season": 2,
+      "number": 4,
+      "name": "Tillid",
+      "airdate": "2018-01-28"
+    },
+    {
+      "id": "a7aa3292-0099-46bf-a823-dea20642fea8",
+      "season": 2,
+      "number": 5,
+      "name": "Flugt",
+      "airdate": "2018-01-28"
+    },
+    {
+      "id": "442ceb7f-800d-49c6-b52c-af8e3c367dbe",
+      "season": 2,
+      "number": 6,
+      "name": "Afhøring",
+      "airdate": "2018-01-28"
+    },
+    {
+      "id": "f2196fca-d010-45bf-bf51-4f971ccfc285",
+      "season": 3,
+      "number": 1,
+      "name": "Kaos",
+      "airdate": "2019-07-04"
+    },
+    {
+      "id": "e0f6369a-ff1f-4ab9-8c19-e4284c083094",
+      "season": 3,
+      "number": 2,
+      "name": "Handlekraft",
+      "airdate": "2019-07-04"
+    },
+    {
+      "id": "3d11a75b-06db-45ca-9e2f-c3ba1f073b3a",
+      "season": 3,
+      "number": 3,
+      "name": "Modstand",
+      "airdate": "2019-07-11"
+    },
+    {
+      "id": "595d5f22-093f-40f3-b410-a54399792d77",
+      "season": 3,
+      "number": 4,
+      "name": "Svaghed",
+      "airdate": "2019-07-18"
+    },
+    {
+      "id": "3979a3c6-8166-4945-a15b-ebb710aa2757",
+      "season": 3,
+      "number": 5,
+      "name": "Kommunikation",
+      "airdate": "2019-07-25"
+    },
+    {
+      "id": "aea2ecb2-aa28-4dfa-9be0-c3e387c15034",
+      "season": 3,
+      "number": 6,
+      "name": "Fokus",
+      "airdate": "2019-08-01"
+    },
+    {
+      "id": "ca239ce2-55e3-4111-8c22-808124ba28cb",
+      "season": 3,
+      "number": 7,
+      "name": "Vilje",
+      "airdate": "2019-08-08"
+    },
+    {
+      "id": "8c61288c-7bdf-4cdb-9527-cbc950cd926c",
+      "season": 4,
+      "number": 1,
+      "name": "En ny verden",
+      "airdate": "2021-03-08"
+    },
+    {
+      "id": "268e1173-3dba-44b4-9a5b-cee339507475",
+      "season": 4,
+      "number": 2,
+      "name": "Den rette attitude",
+      "airdate": "2021-03-08"
+    },
+    {
+      "id": "126476b1-9d13-4b31-a8e4-1431d798fc16",
+      "season": 4,
+      "number": 3,
+      "name": "Ren vilje",
+      "airdate": "2021-03-15"
+    },
+    {
+      "id": "3de53db2-ba8b-4bd3-ba0e-73453c3feb82",
+      "season": 4,
+      "number": 4,
+      "name": "En for alle",
+      "airdate": "2021-03-22"
+    },
+    {
+      "id": "2b078550-fed1-4d60-baeb-9bec03a705b2",
+      "season": 4,
+      "number": 5,
+      "name": "Træt, våd og kold",
+      "airdate": "2021-03-29"
+    },
+    {
+      "id": "0d16d3f4-6899-4113-833a-aec9b8a290c1",
+      "season": 4,
+      "number": 6,
+      "name": "I uvished",
+      "airdate": "2021-04-05"
+    },
+    {
+      "id": "7136c4c3-aeeb-4e2f-afcc-45e3783f9406",
+      "season": 4,
+      "number": 7,
+      "name": "Fokus",
+      "airdate": "2021-04-12"
+    },
+    {
+      "id": "065ccbd6-51b5-4daa-8990-5aef52ba4bcc",
+      "season": 4,
+      "number": 8,
+      "name": "Sidste krampetrækning",
+      "airdate": "2021-04-19"
+    },
+    {
+      "id": "b7831b61-a3fe-4c4b-a7e9-3ecf917f307f",
+      "season": 5,
+      "number": 1,
+      "name": "Ad nye stier",
+      "airdate": "2022-08-29"
+    },
+    {
+      "id": "b59503ba-c9de-40f6-bfb6-34cc0b8b8d5a",
+      "season": 5,
+      "number": 2,
+      "name": "Slip kontrollen",
+      "airdate": "2022-08-29"
+    },
+    {
+      "id": "b90b130d-3357-4b0a-8b90-7d21211cdb62",
+      "season": 5,
+      "number": 3,
+      "name": "Lederskab og følgeskab",
+      "airdate": "2022-09-05"
+    },
+    {
+      "id": "1fa21fe7-d838-47b4-a863-9059029b6fbc",
+      "season": 5,
+      "number": 4,
+      "name": "Uden håb og mening",
+      "airdate": "2022-09-12"
+    },
+    {
+      "id": "8ab86f41-90d9-4850-86f4-2c9a4354c38e",
+      "season": 5,
+      "number": 5,
+      "name": "Ingen tvivl ingen tøven",
+      "airdate": "2022-09-19"
+    },
+    {
+      "id": "45be5959-a966-4e78-ab33-94e76adf4e04",
+      "season": 5,
+      "number": 6,
+      "name": "Tid til at handle",
+      "airdate": "2022-09-26"
+    },
+    {
+      "id": "8ffffc17-93b4-471d-baa6-bc2a9ba485be",
+      "season": 5,
+      "number": 7,
+      "name": "Op på hesten",
+      "airdate": "2022-10-03"
+    },
+    {
+      "id": "616e9fe7-884f-42a3-995a-a87dc96918d5",
+      "season": 5,
+      "number": 8,
+      "name": "Alt skal stå sin prøve",
+      "airdate": "2022-10-10"
+    },
+    {
+      "id": "95e5712c-0645-4d56-8926-3d2b2a56976f",
+      "season": 6,
+      "number": 1,
+      "name": "Let Hell Begin",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "0bd8e906-d784-4686-a598-fb06fdc165cf",
+      "season": 6,
+      "number": 2,
+      "name": "Mandefald",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "434b3487-82c0-4d85-869e-0a31b6b2f831",
+      "season": 6,
+      "number": 3,
+      "name": "På dybt vand",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "2caa8131-e913-47f5-8585-e43cb1eeacaf",
+      "season": 6,
+      "number": 4,
+      "name": "Ingen plads til de svageste",
+      "airdate": "2023-09-27"
+    },
+    {
+      "id": "33afe14f-f950-4954-be91-e2a0d974c3bd",
+      "season": 6,
+      "number": 5,
+      "name": "Hold hovedet koldt",
+      "airdate": "2023-10-04"
+    },
+    {
+      "id": "e687474d-d016-40ea-82aa-912bf7553332",
+      "season": 6,
+      "number": 6,
+      "name": "I fjendens klør",
+      "airdate": "2023-10-11"
+    },
+    {
+      "id": "7a09b9a0-6df3-4d3f-a9f2-2189ec1ff3d6",
+      "season": 6,
+      "number": 7,
+      "name": "Integritet",
+      "airdate": "2023-10-18"
+    },
+    {
+      "id": "c1d58c10-eb06-46c5-83ec-33e5209606a3",
+      "season": 6,
+      "number": 8,
+      "name": "Panik og triumf",
+      "airdate": "2023-10-25"
+    },
+    {
+      "id": "2db1421d-9132-48be-8ccf-01d038b7fc28",
+      "season": 7,
+      "number": 1,
+      "name": "En brutal verden",
+      "airdate": "2024-09-04"
+    },
+    {
+      "id": "39501ae6-be26-46cd-9a7e-88d0c0b98ee8",
+      "season": 7,
+      "number": 2,
+      "name": "Endeløst",
+      "airdate": "2024-09-11"
+    },
+    {
+      "id": "13e91afa-4d34-46f6-930a-edad2b8b64b9",
+      "season": 7,
+      "number": 3,
+      "name": "Det svageste led",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "99e2f212-eee9-458e-bceb-77eaf0c14179",
+      "season": 7,
+      "number": 4,
+      "name": "Instinkt",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "422d3da3-e1f6-40cc-ad4f-40229909c13d",
+      "season": 7,
+      "number": 5,
+      "name": "Den intelligente kriger",
+      "airdate": "2024-10-02"
+    },
+    {
+      "id": "9e4684e8-da35-4508-9f26-6ff517ed706c",
+      "season": 7,
+      "number": 6,
+      "name": "En del af holdet",
+      "airdate": "2024-10-09"
+    },
+    {
+      "id": "73dc894e-7fd6-4674-8bea-5f4daa4caf4e",
+      "season": 7,
+      "number": 7,
+      "name": "Fanget",
+      "airdate": "2024-10-16"
+    },
+    {
+      "id": "6c0a242c-b8bd-42b3-a31b-e35e375933a0",
+      "season": 7,
+      "number": 8,
+      "name": "Den store test",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "a78b32a1-5893-4f05-994f-845b5c208c63",
+      "season": 8,
+      "number": 1,
+      "name": "En usynlig grænse",
+      "airdate": "2025-04-21"
+    },
+    {
+      "id": "51264fc7-18df-4836-b317-ca4a215fde6b",
+      "season": 8,
+      "number": 2,
+      "name": "Sammen er vi stærkere",
+      "airdate": "2025-04-28"
+    },
+    {
+      "id": "7653d9aa-cb51-4f7a-a27f-3b62b38a9594",
+      "season": 8,
+      "number": 3,
+      "name": "Et frø af tvivl",
+      "airdate": "2025-05-05"
+    },
+    {
+      "id": "61d5cce8-601e-4815-a0dd-93f8b6b0211d",
+      "season": 8,
+      "number": 4,
+      "name": "Dit liv i andres hænder",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "712ea7a9-3753-423c-87f1-384f0d84e31a",
+      "season": 8,
+      "number": 5,
+      "name": "Virkeligheden vinder altid",
+      "airdate": "2025-05-19"
+    },
+    {
+      "id": "c52c32ae-06df-42d3-a669-defad8397936",
+      "season": 8,
+      "number": 6,
+      "name": "Gennem ild og flammer",
+      "airdate": "2025-05-26"
+    },
+    {
+      "id": "80fb856f-6720-45b0-a857-aee191ed09d4",
+      "season": 8,
+      "number": 7,
+      "name": "Krigens instinkt",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "94f92e20-345f-48eb-8937-fc7630288f00",
+      "season": 8,
+      "number": 8,
+      "name": "Stå imod",
+      "airdate": "2025-06-09"
+    },
+    {
+      "id": "d8ceb792-7c13-49ac-9bfd-e7ae5c1fc404",
+      "season": 9,
+      "number": 1,
+      "name": "Kæmp for dit nummer",
+      "airdate": "2026-09-03"
+    },
+    {
+      "id": "9469b9c1-0520-49fc-8bb8-68fa58543e25",
+      "season": 9,
+      "number": 2,
+      "name": "Kun de stærkeste",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "26cc1341-659a-4221-954e-afa4ff336884",
+      "season": 9,
+      "number": 3,
+      "name": "Den rette mentalitet",
+      "airdate": "2026-09-17"
+    },
+    {
+      "id": "533fc5b1-4e7a-44be-9557-d789285914b5",
+      "season": 9,
+      "number": 4,
+      "name": "Holdet først",
+      "airdate": "2026-09-24"
+    },
+    {
+      "id": "6f934173-3ea5-4f36-a7d5-b3ea453221d4",
+      "season": 9,
+      "number": 5,
+      "name": "De bedst egnede",
+      "airdate": "2026-10-01"
+    },
+    {
+      "id": "00941b1a-80fe-4aa3-9e6f-3be3f39f6fab",
+      "season": 9,
+      "number": 6,
+      "name": "Sandhedens time",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "fb6cc8d1-c52a-44bc-b3a2-25174abaea5d",
+      "season": 9,
+      "number": 7,
+      "name": "Bag uniformen",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "6c6d4820-1b95-47f8-90ea-89c5e9d00034",
+      "season": 9,
+      "number": 8,
+      "name": "Alt eller intet",
+      "airdate": "2026-10-22"
+    }
+  ]
+}

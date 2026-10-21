@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:jomfruernes-oe-tv2echo",
+  "name": "Jomfruernes Ø",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-27",
+  "episodes": [
+    {
+      "id": "a75b97a0-774e-45fc-ab33-e9e463d9ac71",
+      "season": 1,
+      "number": 1,
+      "name": "I det røde felt",
+      "airdate": "2026-10-27"
+    }
+  ]
+}

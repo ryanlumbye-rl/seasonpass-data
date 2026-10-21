@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:skadestuen-i-holby-tv2charlie",
+  "name": "Skadestuen i Holby",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bb6e6cbf-fdea-4b7c-a7e2-6c3175d393dd",
+      "season": 34,
+      "number": 36,
+      "name": "Liv og død i hverdagen",
+      "airdate": "2021-12-27"
+    },
+    {
+      "id": "20bb8baa-5d7e-4ff3-8c89-3e5a3d528de7",
+      "season": 34,
+      "number": 36,
+      "name": "Liv og død i hverdagen",
+      "airdate": "2021-12-27"
+    },
+    {
+      "id": "204a1d39-52ec-4499-b02e-7a0ef558bc9b",
+      "season": 34,
+      "number": 37,
+      "name": "Liv og død i hverdagen",
+      "airdate": "2021-12-28"
+    },
+    {
+      "id": "53f7c315-5dda-4e6a-8640-e8562e1127ec",
+      "season": 34,
+      "number": 38,
+      "name": "Liv og død i hverdagen",
+      "airdate": "2021-12-28"
+    },
+    {
+      "id": "dda879ff-badd-4417-b220-fc675fc4e9c2",
+      "season": 34,
+      "number": 39,
+      "name": "Liv og død i hverdagen",
+      "airdate": "2021-12-29"
+    },
+    {
+      "id": "18cd86d6-9b56-43fe-b4c2-e4b13cdd8601",
+      "season": 34,
+      "number": 40,
+      "name": "Liv og død i hverdagen",
+      "airdate": "2021-12-29"
+    }
+  ]
+}

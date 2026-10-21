@@ -1,0 +1,143 @@
+{
+  "id": "tv2play:kommissaer-rex-tv2charlie",
+  "name": "Kommissær Rex",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e994eb63-1753-4b48-ae91-eead83b01c75",
+      "season": 4,
+      "number": 4,
+      "name": "Mosers Tod",
+      "airdate": "2007-02-05"
+    },
+    {
+      "id": "dcec897a-db82-49cc-9d14-f25464ecfb65",
+      "season": 4,
+      "number": 5,
+      "name": "Der Neue",
+      "airdate": "2007-02-07"
+    },
+    {
+      "id": "c26d930b-e317-41ea-ab79-1cfcb1fb7e4f",
+      "season": 4,
+      "number": 6,
+      "name": "Der Mann mit den tausend Gesichtern",
+      "airdate": "2007-02-07"
+    },
+    {
+      "id": "c23ed21d-6f01-4fed-90d1-054c49c12e33",
+      "season": 4,
+      "number": 7,
+      "name": "Die Verschwörung",
+      "airdate": "2007-02-09"
+    },
+    {
+      "id": "ff56f162-26c4-4e40-87cc-6add415a8dff",
+      "season": 4,
+      "number": 8,
+      "name": "Tödliche Leidenschaft",
+      "airdate": "2007-02-10"
+    },
+    {
+      "id": "015bf1d5-63ea-4fe3-b6f9-16f92ded6518",
+      "season": 4,
+      "number": 9,
+      "name": "Geraubtes Glück",
+      "airdate": "2007-02-12"
+    },
+    {
+      "id": "eb5be159-41d4-4653-8387-0e599d10cf96",
+      "season": 4,
+      "number": 10,
+      "name": "Rache",
+      "airdate": "2007-02-12"
+    },
+    {
+      "id": "5f0c7295-e7a2-423d-b8c3-7c1435983127",
+      "season": 19,
+      "number": 1,
+      "name": "Se Wien og dø - del 1",
+      "airdate": "2026-08-17"
+    },
+    {
+      "id": "dba5f641-1373-4eda-b35a-ab38fb8b96e0",
+      "season": 19,
+      "number": 2,
+      "name": "Se Wien og dø - del 2",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "50562ffb-51f1-43a3-82f6-629643d8be87",
+      "season": 19,
+      "number": 3,
+      "name": "Bagt i egen ovn - del 1",
+      "airdate": "2026-08-19"
+    },
+    {
+      "id": "2210fbed-9868-4feb-b9ef-4b528365aeef",
+      "season": 19,
+      "number": 4,
+      "name": "Bagt i egen ovn - del 2",
+      "airdate": "2026-08-20"
+    },
+    {
+      "id": "6f858781-7ea7-4f97-9c95-5a2e6b918835",
+      "season": 19,
+      "number": 5,
+      "name": "På vej til galgen - del 1",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "42d29897-71d2-4f3c-bfc7-ab3bd9eb9ea9",
+      "season": 19,
+      "number": 6,
+      "name": "På vej til galgen - del 2",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "3ea99174-df2e-433b-9a0d-0219fa0ba799",
+      "season": 19,
+      "number": 7,
+      "name": "Døden i rampelyset - del 1",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "b2b5f3b3-5df2-4bdd-a070-393485fdc833",
+      "season": 19,
+      "number": 8,
+      "name": "Døden i rampelyset - del 2",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "90f0d2b3-aa80-4f1b-8069-475805dfb0d4",
+      "season": 19,
+      "number": 9,
+      "name": "Rex går undercover - del 1",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "25eb349e-9a26-4d13-b66b-e4b4b705524d",
+      "season": 19,
+      "number": 10,
+      "name": "Rex går undercover - del 2",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "99a0059a-8d6a-44d6-9d0a-ac50a74b3968",
+      "season": 19,
+      "number": 11,
+      "name": "Rosens hemmelighed - del 1",
+      "airdate": "2026-09-18"
+    },
+    {
+      "id": "f0e13fe3-bb39-44c3-b62e-ad50b6a62d97",
+      "season": 19,
+      "number": 12,
+      "name": "Rosens hemmelighed - del 2",
+      "airdate": "2026-09-18"
+    }
+  ]
+}

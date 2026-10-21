@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:den-foerste-date-uk-teenagere-tv2echo",
+  "name": "Den første date UK - teenagere",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3977ce0c-3019-4660-b864-11e227a68e64",
+      "season": 1,
+      "number": 1,
+      "name": "Pia & Henry",
+      "airdate": "2025-09-01"
+    },
+    {
+      "id": "f7e17e8c-e15b-4549-a0e9-f2ec822e012b",
+      "season": 1,
+      "number": 2,
+      "name": "Darryl & Presilian",
+      "airdate": "2025-09-02"
+    },
+    {
+      "id": "6d9a9f57-0b5a-4868-b50d-1c402d3988c2",
+      "season": 1,
+      "number": 3,
+      "name": "Archie & Eden",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "537cfbb9-6c1f-4d60-9d53-a2cecfd6a758",
+      "season": 1,
+      "number": 4,
+      "name": "Genevieve & Maisy",
+      "airdate": "2025-09-04"
+    },
+    {
+      "id": "5358c8f1-5961-44e2-8a5a-ccd648c3558d",
+      "season": 1,
+      "number": 5,
+      "name": "Richard & Charlotte",
+      "airdate": "2025-09-05"
+    },
+    {
+      "id": "1bb69368-8adc-48b5-9b42-0f83fb0c2640",
+      "season": 1,
+      "number": 6,
+      "name": "Katie & Joe",
+      "airdate": "2025-09-08"
+    },
+    {
+      "id": "97305993-8e41-4274-8da0-a543ea99ccea",
+      "season": 2,
+      "number": 1,
+      "name": "Adam & Amy",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "92fb50d4-ae43-4939-92a0-2b94d6a9de2b",
+      "season": 2,
+      "number": 2,
+      "name": "Aliya & Jaedon",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "b5f6a8dc-6456-4db4-ad2f-2030921fc982",
+      "season": 2,
+      "number": 3,
+      "name": "Daisy & Marlon",
+      "airdate": "2025-09-11"
+    },
+    {
+      "id": "3e1b7a3d-89d4-4db5-a7a8-e94421db66ed",
+      "season": 2,
+      "number": 4,
+      "name": "Connor & Bella",
+      "airdate": "2025-09-12"
+    },
+    {
+      "id": "50b44a11-224b-461b-a839-57846410592f",
+      "season": 2,
+      "number": 5,
+      "name": "Patrick & Millie",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "1c5aabaa-1bea-4353-9ba7-326f9124678a",
+      "season": 2,
+      "number": 6,
+      "name": "Chris & Abigail",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "c554e1b2-7c51-419a-9e9a-fcc0805420d0",
+      "season": 2,
+      "number": 7,
+      "name": "Patrick & Olly",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "f74b8e60-f529-4f48-8cb1-830f88d9552f",
+      "season": 2,
+      "number": 8,
+      "name": "Alex & Tara",
+      "airdate": "2025-09-18"
+    },
+    {
+      "id": "c3e628cf-ffbf-44c9-a000-4f7f2aaa9f24",
+      "season": 2,
+      "number": 9,
+      "name": "Jasmine & Zak",
+      "airdate": "2025-09-19"
+    },
+    {
+      "id": "7fddeae7-48f5-4047-bf67-6abe093047de",
+      "season": 2,
+      "number": 10,
+      "name": "Lois & Lennard",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "c60353df-3675-4307-84c9-3c150814b5f4",
+      "season": 2,
+      "number": 11,
+      "name": "Eve & Lewis",
+      "airdate": "2025-09-23"
+    },
+    {
+      "id": "e03da761-da95-494c-949f-c704a4ed7430",
+      "season": 2,
+      "number": 12,
+      "name": "Aeren & Chloe",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "95e437b4-a0b9-4111-9a31-7a784ab3c251",
+      "season": 2,
+      "number": 13,
+      "name": "Gracie & Daniel",
+      "airdate": "2025-09-25"
+    },
+    {
+      "id": "d325d68b-fdb9-4638-bd68-f559cdf49838",
+      "season": 2,
+      "number": 14,
+      "name": "Chelsi & Mitch",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "108d2731-17fb-497b-879c-467691bc8418",
+      "season": 2,
+      "number": 15,
+      "name": "Georgia & Dec",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "42ab9100-7c81-4dc5-95d3-fe880a6103e6",
+      "season": 2,
+      "number": 16,
+      "name": "Kiki & Ellis",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "a56fbf48-ea90-4325-911d-f14a05628928",
+      "season": 2,
+      "number": 17,
+      "name": "Harry & Isobel",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "c33b4731-796e-4c11-ba23-51a33441c970",
+      "season": 2,
+      "number": 18,
+      "name": "Summer & James",
+      "airdate": "2025-10-02"
+    },
+    {
+      "id": "8ca2386e-b439-4fa4-ba3f-d74cd41f4296",
+      "season": 2,
+      "number": 19,
+      "name": "Isobel & Izaac",
+      "airdate": "2025-10-03"
+    },
+    {
+      "id": "537c7868-3b62-449e-b591-1dbcf156856f",
+      "season": 2,
+      "number": 20,
+      "name": "Genna & Spencer",
+      "airdate": "2025-10-06"
+    }
+  ]
+}

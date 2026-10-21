@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:hofleverandoererne-tv2",
+  "name": "Hofleverandørerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cf004c1c-f6ea-4062-ab54-00dcd924c286",
+      "season": 1,
+      "number": 1,
+      "name": "Følg de kongelige hofleverandører",
+      "airdate": "2014-09-29"
+    },
+    {
+      "id": "12a9b5fe-1719-4ec0-86a0-6fb1f6542af4",
+      "season": 1,
+      "number": 2,
+      "name": "Følg de kongelige hofleverandører",
+      "airdate": "2014-10-06"
+    },
+    {
+      "id": "a4232a99-bc15-4561-89a4-1e14b2111b8f",
+      "season": 1,
+      "number": 3,
+      "name": "Følg de kongelige hofleverandører",
+      "airdate": "2014-10-20"
+    },
+    {
+      "id": "48ee83f0-c3af-4e07-a22e-40bffbadc7f8",
+      "season": 1,
+      "number": 4,
+      "name": "Følg de kongelige hofleverandører",
+      "airdate": "2014-10-27"
+    },
+    {
+      "id": "b32ae9bb-0636-46ad-b50b-ad91c1a8c46b",
+      "season": 1,
+      "number": 5,
+      "name": "Følg de kongelige hofleverandører",
+      "airdate": "2014-11-03"
+    },
+    {
+      "id": "a2db40c7-9575-41ee-ad3a-e1f44b433b70",
+      "season": 1,
+      "number": 6,
+      "name": "Følg de kongelige hofleverandører",
+      "airdate": "2014-11-10"
+    },
+    {
+      "id": "067f301b-2bba-438f-bbbe-2a502b909e7d",
+      "season": 1,
+      "number": 7,
+      "name": "Følg de kongelige hofleverandører",
+      "airdate": "2014-11-17"
+    },
+    {
+      "id": "29b71e81-3987-4740-b2c4-36f2cde208fd",
+      "season": 1,
+      "number": 8,
+      "name": "Julespecial",
+      "airdate": "2014-12-16"
+    },
+    {
+      "id": "33aa58ea-9f1e-4456-8575-f09d920b3063",
+      "season": 3,
+      "number": 1,
+      "name": "50 taffelstole til Dronningen",
+      "airdate": "2016-11-07"
+    },
+    {
+      "id": "98973829-865e-4d9b-b878-fde03de076c7",
+      "season": 3,
+      "number": 2,
+      "name": "Dronningens fødselsdag og Mustafas jubilæum",
+      "airdate": "2016-11-14"
+    },
+    {
+      "id": "a6e708c2-e9ac-4667-a9e8-10bed7dd0f57",
+      "season": 3,
+      "number": 3,
+      "name": "En frakke til dronning Margrethe",
+      "airdate": "2016-11-21"
+    },
+    {
+      "id": "1036455a-e1ee-43de-8d9a-e82e5dd18953",
+      "season": 3,
+      "number": 4,
+      "name": "Tillykke med de 125 år!",
+      "airdate": "2017-04-12"
+    },
+    {
+      "id": "83e62895-8f08-4e31-9126-aacab8f4af0d",
+      "season": 3,
+      "number": 5,
+      "name": "En festlig festkjole",
+      "airdate": "2017-04-19"
+    },
+    {
+      "id": "ea87fb43-69b3-4257-a9a6-2b3552301a55",
+      "season": 3,
+      "number": 6,
+      "name": "Julespecial",
+      "airdate": "2016-12-05"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "id": "tv2play:kaerlighed-hvor-kragerne-vender-tv2",
+  "name": "Kærlighed hvor kragerne vender",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8af93539-05ca-4c6c-bbf2-2d4db8c84a9f",
+      "season": 1,
+      "number": 1,
+      "name": "Damerne indtager Sønderjylland",
+      "airdate": "2020-03-04"
+    },
+    {
+      "id": "f47a2438-7cff-4a93-9659-5e8b139e979e",
+      "season": 1,
+      "number": 2,
+      "name": "Det svære valg",
+      "airdate": "2020-03-11"
+    },
+    {
+      "id": "3366658e-bac8-430f-a906-26f0abc97ab3",
+      "season": 1,
+      "number": 3,
+      "name": "Mit landsbyliv",
+      "airdate": "2020-03-11"
+    },
+    {
+      "id": "4300476f-f269-4f1f-8570-73ce7fbf27f7",
+      "season": 1,
+      "number": 4,
+      "name": "Er her ikke dejligt?",
+      "airdate": "2020-03-25"
+    },
+    {
+      "id": "bb905743-cf34-4a79-8fd4-130f821fe496",
+      "season": 1,
+      "number": 5,
+      "name": "Den store grillfest",
+      "airdate": "2020-04-01"
+    },
+    {
+      "id": "862652f3-7c66-4042-b378-2df2a34b1813",
+      "season": 1,
+      "number": 6,
+      "name": "Romantik på sønderjysk",
+      "airdate": "2020-04-08"
+    },
+    {
+      "id": "051dc7f7-5f25-43c9-ad4f-b28fe1173f33",
+      "season": 1,
+      "number": 7,
+      "name": "Hvem bliver den udkårne?",
+      "airdate": "2020-04-15"
+    },
+    {
+      "id": "64183282-3440-404e-aef4-0a3fa113cc4c",
+      "season": 1,
+      "number": 8,
+      "name": "Vender kragerne tilbage?",
+      "airdate": "2020-04-22"
+    },
+    {
+      "id": "cbcf2e0f-d157-44c3-8df8-62a86a4d0356",
+      "season": 2,
+      "number": 1,
+      "name": "Nu kommer damerne til Thy",
+      "airdate": "2021-01-06"
+    },
+    {
+      "id": "3099fcc8-fb00-4561-9fbd-39e187ba6f72",
+      "season": 2,
+      "number": 2,
+      "name": "Endnu flere speeddates",
+      "airdate": "2021-01-06"
+    },
+    {
+      "id": "15b640aa-8a36-47a1-8698-e7478dd152ca",
+      "season": 2,
+      "number": 3,
+      "name": "Kampen om pigerne",
+      "airdate": "2021-01-13"
+    },
+    {
+      "id": "a90c85ef-b3f8-4c0e-a6e9-8e5fdd8c0b0f",
+      "season": 2,
+      "number": 4,
+      "name": "Ud hvor kragerne vender",
+      "airdate": "2021-01-20"
+    },
+    {
+      "id": "ec4df6a3-5516-47eb-883f-c40f723d7eec",
+      "season": 2,
+      "number": 5,
+      "name": "Mit landsbyliv",
+      "airdate": "2021-01-27"
+    },
+    {
+      "id": "44014e40-2c56-4fff-8683-bd136e875c77",
+      "season": 2,
+      "number": 6,
+      "name": "Nu skal pigerne se Limfjorden",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "efaa944d-96f9-43a9-b845-934091582069",
+      "season": 2,
+      "number": 7,
+      "name": "Fest i landsbyen",
+      "airdate": "2021-02-10"
+    },
+    {
+      "id": "42160eb6-81fa-45c5-bbd3-90b9b5b35b39",
+      "season": 2,
+      "number": 8,
+      "name": "Nu bliver det romantisk",
+      "airdate": "2021-02-17"
+    },
+    {
+      "id": "03a080d0-fa30-438e-9778-bcc8c29d724c",
+      "season": 2,
+      "number": 9,
+      "name": "Det svære valg",
+      "airdate": "2021-02-24"
+    },
+    {
+      "id": "6d2f50d6-9c76-4781-8d59-68b7a31066a7",
+      "season": 2,
+      "number": 10,
+      "name": "Vender pigerne tilbage?",
+      "airdate": "2021-03-03"
+    },
+    {
+      "id": "626f9d5d-b5f3-4c70-a17b-83518539123f",
+      "season": 3,
+      "number": 1,
+      "name": "Pigerne indtager Lolland-Falster",
+      "airdate": "2022-03-01"
+    },
+    {
+      "id": "e04e47ea-e73b-4c44-a798-5b62e3dadf93",
+      "season": 3,
+      "number": 2,
+      "name": "De første svære valg",
+      "airdate": "2022-03-01"
+    },
+    {
+      "id": "62db7d99-69c5-466e-bee5-13291dfb2fd5",
+      "season": 3,
+      "number": 3,
+      "name": "Labyrint- og bydate",
+      "airdate": "2022-03-08"
+    },
+    {
+      "id": "0e7d3db3-0566-442f-b5a1-380e6e5af40d",
+      "season": 3,
+      "number": 4,
+      "name": "Kran- og kattedate",
+      "airdate": "2022-03-15"
+    },
+    {
+      "id": "5b345625-0892-47bb-8ad6-4d9ca4411082",
+      "season": 3,
+      "number": 5,
+      "name": "Festen",
+      "airdate": "2022-03-22"
+    },
+    {
+      "id": "4e3d902b-7bc8-4a04-85b1-9349b8e5f47e",
+      "season": 3,
+      "number": 6,
+      "name": "Kampen om Christie",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "fa9da472-f63d-488a-83ae-8fae08333007",
+      "season": 3,
+      "number": 7,
+      "name": "Uro i pigelejren",
+      "airdate": "2022-04-05"
+    },
+    {
+      "id": "18a21a27-b901-4af9-8673-0f7329f8dcac",
+      "season": 3,
+      "number": 8,
+      "name": "Mødet med familierne",
+      "airdate": "2022-04-12"
+    },
+    {
+      "id": "7990803e-506e-4241-8570-2ef04b660aed",
+      "season": 3,
+      "number": 9,
+      "name": "Den sidste date",
+      "airdate": "2022-04-19"
+    },
+    {
+      "id": "e7bc7d59-bc20-4fa6-bc5d-a48e7ff127ec",
+      "season": 3,
+      "number": 10,
+      "name": "Det svære valg",
+      "airdate": "2022-04-26"
+    },
+    {
+      "id": "7dd1c4f3-b369-4ef0-a856-51d8e02e0b35",
+      "season": 3,
+      "number": 11,
+      "name": "Så kom kærligheden endelig til Lolland-Falster",
+      "airdate": "2022-05-03"
+    },
+    {
+      "id": "cf043f1b-4a4b-43cf-9c21-8eca0f121cc0",
+      "season": 4,
+      "number": 1,
+      "name": "Nu kommer der damer til Vestsjælland",
+      "airdate": "2023-03-14"
+    },
+    {
+      "id": "822c2814-e8d0-495f-8b11-d539395d6188",
+      "season": 4,
+      "number": 2,
+      "name": "De første svære valg",
+      "airdate": "2023-03-21"
+    },
+    {
+      "id": "0a43b4af-8ab9-4f8c-b860-4000c0f3f9a6",
+      "season": 4,
+      "number": 3,
+      "name": "Følelserne får frit spil",
+      "airdate": "2023-03-28"
+    },
+    {
+      "id": "9fb8684d-05f6-4637-9977-298d2acdbd49",
+      "season": 4,
+      "number": 4,
+      "name": "Tour de Kalundborg",
+      "airdate": "2023-04-04"
+    },
+    {
+      "id": "d083bf7a-27aa-4511-a2f4-44c6c2e0b269",
+      "season": 4,
+      "number": 5,
+      "name": "Nu skal der være fest",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "1df6d71c-9ca8-4769-8ad6-85f9442bbe66",
+      "season": 4,
+      "number": 6,
+      "name": "Sommerland Sjælland efter lukketid",
+      "airdate": "2023-04-18"
+    },
+    {
+      "id": "6c6cf59b-fecb-47c8-aeed-97cc8de890ac",
+      "season": 4,
+      "number": 7,
+      "name": "Det kolde gys",
+      "airdate": "2023-04-25"
+    },
+    {
+      "id": "ac2b895d-0da0-48fd-a5fa-9d4bd8d3a242",
+      "season": 4,
+      "number": 8,
+      "name": "Mød min familie",
+      "airdate": "2023-05-02"
+    },
+    {
+      "id": "9cbe9ed7-1437-4729-afe8-f6161de8cfdb",
+      "season": 4,
+      "number": 9,
+      "name": "De første endelige valg",
+      "airdate": "2023-05-09"
+    },
+    {
+      "id": "0fc533e5-5b4d-4f01-ace4-34d4cf4328a6",
+      "season": 4,
+      "number": 10,
+      "name": "Kan kærligheden holde?",
+      "airdate": "2023-05-16"
+    },
+    {
+      "id": "bcd032fd-a19d-4ee4-a8aa-e69d958466de",
+      "season": 5,
+      "number": 1,
+      "name": "Kvinder til øhavet",
+      "airdate": "2024-02-27"
+    },
+    {
+      "id": "88a835da-786f-48a4-ad19-2c2301147cd3",
+      "season": 5,
+      "number": 2,
+      "name": "De første svære valg",
+      "airdate": "2024-03-05"
+    },
+    {
+      "id": "7b7e8df4-ebd3-47ff-93f6-3dc772219456",
+      "season": 5,
+      "number": 3,
+      "name": "Dirty Carwash",
+      "airdate": "2024-03-12"
+    },
+    {
+      "id": "9d949581-86c0-4a8e-9cfe-0ea50d577746",
+      "season": 5,
+      "number": 4,
+      "name": "En sild på krogen",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "a00e5d15-eced-4d44-8700-383ab099e2a3",
+      "season": 5,
+      "number": 5,
+      "name": "Så er der fest",
+      "airdate": "2024-03-26"
+    },
+    {
+      "id": "88fe95d2-19ec-438c-bdb5-33351c2e9e75",
+      "season": 5,
+      "number": 6,
+      "name": "Alenetid, tak",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "0fab3d53-12da-4911-b52d-471930c57ec0",
+      "season": 5,
+      "number": 7,
+      "name": "En brandvarm date",
+      "airdate": "2024-04-09"
+    },
+    {
+      "id": "ff95a5a6-cf1f-4a22-9249-db9843f7f551",
+      "season": 5,
+      "number": 8,
+      "name": "Mød familien",
+      "airdate": "2024-04-16"
+    },
+    {
+      "id": "91f8486b-ebce-4278-a417-13f89e72bef2",
+      "season": 5,
+      "number": 9,
+      "name": "Det endelige valg",
+      "airdate": "2024-04-23"
+    },
+    {
+      "id": "d514b260-90a6-4e13-90ff-147b66476b16",
+      "season": 5,
+      "number": 10,
+      "name": "Holder kærligheden?",
+      "airdate": "2024-04-30"
+    },
+    {
+      "id": "7b501010-7da5-41ba-b505-e841d2a77585",
+      "season": 6,
+      "number": 1,
+      "name": "Kvinder til Vestjylland",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "76d57aed-1757-4432-9585-72b58bdcd911",
+      "season": 6,
+      "number": 2,
+      "name": "Stoleleg til morgenmad",
+      "airdate": "2025-03-11"
+    },
+    {
+      "id": "e164c945-dfe1-4cb0-8a9d-b9e2dd229481",
+      "season": 6,
+      "number": 3,
+      "name": "Et uventet opkald",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "74e18e93-2a40-4d78-9b3b-f3e65c0a82e4",
+      "season": 6,
+      "number": 4,
+      "name": "En akavet dobbeltdate",
+      "airdate": "2025-03-25"
+    },
+    {
+      "id": "1459eeeb-d21d-4828-8ac3-33df0f9e1fca",
+      "season": 6,
+      "number": 5,
+      "name": "Festjylland",
+      "airdate": "2025-04-01"
+    },
+    {
+      "id": "151aa056-a79d-4e87-a4fd-1d3d7944db56",
+      "season": 6,
+      "number": 6,
+      "name": "Konkurrence fra nye kvinder",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "c74a0ff3-7ded-4bb8-b64c-51dd56648a5d",
+      "season": 6,
+      "number": 7,
+      "name": "Hvem skal hjem?",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "892d8cdd-17b4-4230-a0b1-d615125cac69",
+      "season": 6,
+      "number": 8,
+      "name": "Score-dip og første kys",
+      "airdate": "2025-04-22"
+    },
+    {
+      "id": "8d80d1d0-0b0a-42c6-8dab-6f8180ecf42a",
+      "season": 6,
+      "number": 9,
+      "name": "Dilemmaet",
+      "airdate": "2025-04-29"
+    },
+    {
+      "id": "50547f4f-c927-4419-9d0e-b271ae7885e3",
+      "season": 6,
+      "number": 10,
+      "name": "Holder kærligheden?",
+      "airdate": "2025-05-06"
+    },
+    {
+      "id": "38abcfa2-7b14-4b72-a6b7-35bfeb5fa583",
+      "season": 7,
+      "number": 1,
+      "name": "Damer til Djursland",
+      "airdate": "2026-01-19"
+    },
+    {
+      "id": "fcf1ee16-efdf-4e14-baec-0ea89ed3d837",
+      "season": 7,
+      "number": 2,
+      "name": "Det jeg ikke fik sagt",
+      "airdate": "2026-01-26"
+    },
+    {
+      "id": "6a765f15-83fc-44f8-939c-c1e4bc20e790",
+      "season": 7,
+      "number": 3,
+      "name": "Endnu flere damer",
+      "airdate": "2026-02-02"
+    },
+    {
+      "id": "091ab9bc-a411-43d0-9ba0-49f147800167",
+      "season": 7,
+      "number": 4,
+      "name": "Flyvende kærlighedsyoga",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "1af44054-e886-44ce-b45c-2e6e2f496641",
+      "season": 7,
+      "number": 5,
+      "name": "Glitter, gråd og galla",
+      "airdate": "2026-02-16"
+    },
+    {
+      "id": "0f1452b7-8ce5-4ffb-b1c7-c61e6faabdac",
+      "season": 7,
+      "number": 6,
+      "name": "De første gruppedates",
+      "airdate": "2026-02-23"
+    },
+    {
+      "id": "fb1c3c2a-34d7-4011-adb0-96f24068177d",
+      "season": 7,
+      "number": 7,
+      "name": "Hjem til 'svigermor'",
+      "airdate": "2026-03-02"
+    },
+    {
+      "id": "79dcef1e-74a3-463f-894c-d518d66515a5",
+      "season": 7,
+      "number": 8,
+      "name": "Kærlighed og kulørte lamper",
+      "airdate": "2026-03-09"
+    },
+    {
+      "id": "424fb461-4d23-4004-8bee-0e47b02a8f4d",
+      "season": 7,
+      "number": 9,
+      "name": "Let’s talk about sex",
+      "airdate": "2026-03-16"
+    },
+    {
+      "id": "e4ad4218-27ea-4158-b2a8-fecdbe8aa0d7",
+      "season": 7,
+      "number": 10,
+      "name": "Gnister på golfbanen",
+      "airdate": "2026-03-23"
+    },
+    {
+      "id": "fa757e19-b45a-4dd6-9b01-b5d14d2156e7",
+      "season": 7,
+      "number": 11,
+      "name": "Store følelser ændrer alt",
+      "airdate": "2026-03-30"
+    },
+    {
+      "id": "d626f9f0-f926-41b5-b02f-945483dbd3f7",
+      "season": 7,
+      "number": 12,
+      "name": "Det svære valg",
+      "airdate": "2026-04-06"
+    },
+    {
+      "id": "70ef4805-c377-4301-92a3-ac30e51b4bf6",
+      "season": 7,
+      "number": 13,
+      "name": "Har kragerne fundet kærligheden?",
+      "airdate": "2026-04-13"
+    }
+  ]
+}

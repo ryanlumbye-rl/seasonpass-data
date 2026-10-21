@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:alt-det-min-far-ikke-har-laert-mig-tv2",
+  "name": "Alt det min far ikke har lært mig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "65d734aa-010c-4608-ab3d-4773eb0ecf11",
+      "season": 1,
+      "number": 1,
+      "name": "Byg et mesterværk",
+      "airdate": "2020-11-09"
+    },
+    {
+      "id": "c9173119-4d28-44a9-ba71-1c4d02ba8541",
+      "season": 1,
+      "number": 2,
+      "name": "Steg en pattegris",
+      "airdate": "2020-11-09"
+    },
+    {
+      "id": "04761300-8e5c-45f2-8aef-f3e4a9ee8ff2",
+      "season": 1,
+      "number": 3,
+      "name": "Høst en mark",
+      "airdate": "2020-11-16"
+    },
+    {
+      "id": "7a651883-dd1e-416a-9d33-64a004d6e7d8",
+      "season": 1,
+      "number": 4,
+      "name": "Skyd et dyr",
+      "airdate": "2020-11-23"
+    },
+    {
+      "id": "5f8d0bed-901b-48eb-b360-e5fe97e24c30",
+      "season": 1,
+      "number": 5,
+      "name": "Jul i reservatet",
+      "airdate": "2020-12-14"
+    },
+    {
+      "id": "d1d74276-bad3-40bd-a859-7de211901f55",
+      "season": 2,
+      "number": 1,
+      "name": "Kør en lastbil",
+      "airdate": "2022-03-15"
+    },
+    {
+      "id": "1950cdeb-0f3c-43f2-9565-a7e3c0f6016f",
+      "season": 2,
+      "number": 2,
+      "name": "Arbejd for fællesskabet",
+      "airdate": "2022-03-15"
+    },
+    {
+      "id": "dfce4fbf-75f4-4df3-bda1-f76b632852a8",
+      "season": 2,
+      "number": 3,
+      "name": "Sejl en coaster",
+      "airdate": "2022-03-22"
+    },
+    {
+      "id": "f47fb6a8-40d2-4cbf-b061-9c2146443ef5",
+      "season": 2,
+      "number": 4,
+      "name": "Styr på matriklen",
+      "airdate": "2022-03-29"
+    }
+  ]
+}

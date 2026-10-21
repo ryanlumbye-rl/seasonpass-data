@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:den-store-australske-bagedyst-tv2fri",
+  "name": "Den store australske bagedyst",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3b1ab092-4a30-4f17-a292-43dabc578f00",
+      "season": 6,
+      "number": 1,
+      "name": "Klar, parat - og velkommen!",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "fe6c084e-1363-4e4f-8956-d0fcb417389c",
+      "season": 6,
+      "number": 1,
+      "name": "Klar, parat - og velkommen!",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "7330fd49-7285-44ef-b28e-c2f44118c6cd",
+      "season": 6,
+      "number": 2,
+      "name": "Bagerbrød",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "f56a2b8f-ed3b-47e2-81a8-955f8883f723",
+      "season": 6,
+      "number": 3,
+      "name": "Småkager",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "0af59973-0140-457f-be38-77b912de02a9",
+      "season": 6,
+      "number": 4,
+      "name": "Vegansk uge",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "6a9813aa-d7df-4b35-a683-c2fec7486160",
+      "season": 6,
+      "number": 5,
+      "name": "Det er smørret …",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "a4e613df-6e9d-4a5b-b43f-432f831793c7",
+      "season": 6,
+      "number": 6,
+      "name": "Konditorkunst",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "8aa1c0cf-3a30-4870-adbe-136dc49230a9",
+      "season": 6,
+      "number": 7,
+      "name": "The heat is on",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "1d72835f-d379-4647-b942-c741432cdd8c",
+      "season": 6,
+      "number": 8,
+      "name": "Forsøg med favoritkager",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "a614b9d2-45e0-44b8-afa3-8201c1e775eb",
+      "season": 6,
+      "number": 9,
+      "name": "Semifinale",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "e29aabad-4c94-4e42-8423-0efe3111ab69",
+      "season": 6,
+      "number": 10,
+      "name": "Finale",
+      "airdate": "2024-07-28"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:hospitalet-i-holby-tv2charlie",
+  "name": "Hospitalet i Holby",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e4238ab2-90c0-47fd-a6c5-26b71e89ef63",
+      "season": 20,
+      "number": 5,
+      "name": "One Day at a Time",
+      "airdate": "2020-12-07"
+    },
+    {
+      "id": "6618f5d4-7579-4bb4-a623-18e61484dfd9",
+      "season": 20,
+      "number": 5,
+      "name": "One Day at a Time",
+      "airdate": "2020-12-07"
+    },
+    {
+      "id": "1328490d-16fb-467b-a9a4-c22dfb3cea96",
+      "season": 20,
+      "number": 6,
+      "name": "Not Your Home Now",
+      "airdate": "2020-12-07"
+    },
+    {
+      "id": "1e9b2888-76ac-47e3-9217-5248b5c43bc9",
+      "season": 20,
+      "number": 7,
+      "name": "Precipice",
+      "airdate": "2020-12-08"
+    },
+    {
+      "id": "dc5e11b4-ff64-46bd-931c-24901767039d",
+      "season": 20,
+      "number": 8,
+      "name": "Hard Day's Night",
+      "airdate": "2020-12-08"
+    },
+    {
+      "id": "56159e80-2c70-40ec-b96c-a3ec902196e5",
+      "season": 20,
+      "number": 9,
+      "name": "Ache",
+      "airdate": "2020-12-09"
+    },
+    {
+      "id": "0e4f41f1-30e5-430e-89ce-9f7d80caf265",
+      "season": 20,
+      "number": 10,
+      "name": "Square One",
+      "airdate": "2020-12-09"
+    },
+    {
+      "id": "aa210751-0ebe-4ae7-9063-c5f92209471f",
+      "season": 20,
+      "number": 11,
+      "name": "The l Word",
+      "airdate": "2020-12-10"
+    },
+    {
+      "id": "9e83b35e-6cd5-45ef-9652-e7cab4fb24dc",
+      "season": 20,
+      "number": 12,
+      "name": "No Matter Where You Go, There You Are - del 1",
+      "airdate": "2020-12-10"
+    },
+    {
+      "id": "746af189-c02d-4fc8-88e0-4646a126de17",
+      "season": 20,
+      "number": 13,
+      "name": "No Matter Where You Go, There You Are - del 2",
+      "airdate": "2020-12-11"
+    },
+    {
+      "id": "8f7e112a-4615-4042-8df5-c5cf1423f79e",
+      "season": 20,
+      "number": 14,
+      "name": "Tete a Tate",
+      "airdate": "2020-12-11"
+    }
+  ]
+}

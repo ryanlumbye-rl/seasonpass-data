@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:folketing-og-sager-tv2play",
+  "name": "Folketing og sager",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "12fb86e0-0bdf-4b55-94d3-7fdc06c4ddba",
+      "season": 2,
+      "number": 40,
+      "name": "Med Charlotte Green",
+      "airdate": "2026-10-24"
+    }
+  ]
+}

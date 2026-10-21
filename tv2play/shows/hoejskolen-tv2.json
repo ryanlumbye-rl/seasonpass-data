@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:hoejskolen-tv2",
+  "name": "Højskolen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "086b53fb-c1f1-48a0-9caa-cbe1672caf5b",
+      "season": 1,
+      "number": 1,
+      "name": "Formiddag på højskolen",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "b670059a-6bf9-4299-9f68-ecec44924695",
+      "season": 1,
+      "number": 2,
+      "name": "Eftermiddag på højskolen",
+      "airdate": "2026-03-11"
+    },
+    {
+      "id": "001e9b91-1d5f-4568-9d92-e90d1e9ba62b",
+      "season": 1,
+      "number": 3,
+      "name": "Aften på højskolen",
+      "airdate": "2026-03-18"
+    },
+    {
+      "id": "80a23002-9cab-4d52-9ec7-c2fc707c0763",
+      "season": 1,
+      "number": 4,
+      "name": "Morgen på højskolen",
+      "airdate": "2026-03-22"
+    },
+    {
+      "id": "9e9a4434-16e6-4113-b527-bf41bace3afa",
+      "season": 2,
+      "number": 1,
+      "name": "Ti meninger om landbrug og ulve",
+      "airdate": "2026-09-29"
+    },
+    {
+      "id": "5383ae04-ee72-4115-8d74-f8fbff73a01b",
+      "season": 2,
+      "number": 2,
+      "name": "Ti meninger om danskhed og integration",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "08ffdcb1-7df7-4eee-9053-22d702b0e6cb",
+      "season": 2,
+      "number": 3,
+      "name": "Elleve meninger om folkeskolen og opdragelse",
+      "airdate": "2026-10-13"
+    }
+  ]
+}

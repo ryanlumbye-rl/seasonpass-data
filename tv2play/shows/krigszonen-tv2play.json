@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:krigszonen-tv2play",
+  "name": "Krigszonen",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-25",
+  "episodes": [
+    {
+      "id": "c8f347e0-5092-4b53-9a9c-46644ca001bd",
+      "season": 2026,
+      "number": 1,
+      "name": "Kan man løbe fra en drone?",
+      "airdate": "2026-10-11"
+    },
+    {
+      "id": "7c236b7a-5205-4c5d-a152-1457ce3959aa",
+      "season": 2026,
+      "number": 2,
+      "name": "Hvad nu hvis Putin bruger atomvåben i Ukraine?",
+      "airdate": "2026-10-18"
+    },
+    {
+      "id": "f8255e4a-af7f-4940-8abe-811293dae0ec",
+      "season": 2026,
+      "number": 3,
+      "name": "Hvor langt vil du gå for din bedste ven?",
+      "airdate": "2026-10-25"
+    }
+  ]
+}

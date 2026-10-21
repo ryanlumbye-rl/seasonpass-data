@@ -1,0 +1,983 @@
+{
+  "id": "tv2play:bolighjaelp-paa-vej-tv2fri",
+  "name": "Bolighjælp på vej",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a9efd507-308f-417e-89b8-092285415825",
+      "season": 1,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-19"
+    },
+    {
+      "id": "6ed4cbe7-7798-4c9b-93bf-a52adee40691",
+      "season": 1,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-20"
+    },
+    {
+      "id": "08e80ceb-30d6-4d42-88db-eba41aff7a39",
+      "season": 1,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-21"
+    },
+    {
+      "id": "93b3cb04-f519-4430-93d0-bc945fb781bb",
+      "season": 1,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-22"
+    },
+    {
+      "id": "b9f12fe0-f709-43b4-94c3-045b395408d9",
+      "season": 1,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-23"
+    },
+    {
+      "id": "a376d11d-eca3-404b-96ca-7e77e4f12d3c",
+      "season": 1,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-24"
+    },
+    {
+      "id": "334b6d8a-ed1e-4319-83a4-29e61815f788",
+      "season": 1,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-25"
+    },
+    {
+      "id": "2ab4214d-3dcf-4405-9791-9967fc2a8fbc",
+      "season": 1,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-26"
+    },
+    {
+      "id": "b247b54f-2dac-4611-863b-d8b1d93c4c97",
+      "season": 2,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-27"
+    },
+    {
+      "id": "ee78e9df-41c6-4116-8123-9bb5e6c2acbe",
+      "season": 2,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-28"
+    },
+    {
+      "id": "867d7607-9dd4-47b0-9612-f00cbe645e85",
+      "season": 2,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-29"
+    },
+    {
+      "id": "8da1f1c5-daa9-4c33-a133-caab11b076e2",
+      "season": 2,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-30"
+    },
+    {
+      "id": "511892eb-a36e-443d-9f60-2e8201d39153",
+      "season": 2,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-10-31"
+    },
+    {
+      "id": "2072fe7c-a1db-4a7c-86e7-7c4f15d1ab33",
+      "season": 2,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-01"
+    },
+    {
+      "id": "b6cd0136-7bae-44e2-8cbe-9ac76300d8e3",
+      "season": 2,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-02"
+    },
+    {
+      "id": "72346871-8561-47ed-871d-cd043f8fa225",
+      "season": 2,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-03"
+    },
+    {
+      "id": "1655862e-c9d8-4a0a-adc1-9e3d3fc06687",
+      "season": 3,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-04"
+    },
+    {
+      "id": "f3c49b9c-121d-4c37-b8f9-9d88b9d35618",
+      "season": 3,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-05"
+    },
+    {
+      "id": "33bd755d-2ccc-437b-9461-e86841c3b93b",
+      "season": 3,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-06"
+    },
+    {
+      "id": "8e74c946-3a9a-497d-b9e1-34fa893c39bf",
+      "season": 3,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-07"
+    },
+    {
+      "id": "092ef9c6-484a-40e1-a817-e3cb5d230b68",
+      "season": 3,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-08"
+    },
+    {
+      "id": "4f79fef4-c800-459b-8204-2d2d606fa219",
+      "season": 3,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-09"
+    },
+    {
+      "id": "9e4d7283-9567-4fd0-9ff4-0815a1f5cb93",
+      "season": 3,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-10"
+    },
+    {
+      "id": "50872e54-802f-470e-b2cb-a5848b024736",
+      "season": 3,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-11"
+    },
+    {
+      "id": "1a4b88e2-aaa8-47ab-9e91-73597b068473",
+      "season": 3,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-12"
+    },
+    {
+      "id": "7930c083-76c1-4ea9-a49a-f091364a628b",
+      "season": 3,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-13"
+    },
+    {
+      "id": "98e63697-0d87-4a2c-98a7-800f0577b399",
+      "season": 4,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-14"
+    },
+    {
+      "id": "55352b30-62b0-4e45-9fcb-cd1bc7a02820",
+      "season": 4,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-15"
+    },
+    {
+      "id": "b1723dc3-510c-4eac-9077-432628bbfcad",
+      "season": 4,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-16"
+    },
+    {
+      "id": "39ed2e49-b135-4e78-ae51-27d5ea7e642a",
+      "season": 4,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-17"
+    },
+    {
+      "id": "17fe1225-db10-4706-b7bb-12d74e2e4c6f",
+      "season": 4,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-18"
+    },
+    {
+      "id": "3e73bc75-b68f-4086-b033-7928b48b0815",
+      "season": 4,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-19"
+    },
+    {
+      "id": "e37d4f10-55d4-41a3-8277-db1f2338196c",
+      "season": 4,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-20"
+    },
+    {
+      "id": "33ff31d7-7d5b-48bf-8b7d-7e01d7740ac9",
+      "season": 4,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-21"
+    },
+    {
+      "id": "904eede1-0f6f-4187-882e-241a7760eb0d",
+      "season": 4,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-22"
+    },
+    {
+      "id": "dbb86fd1-0611-4cc4-b415-a05e32fe3bfd",
+      "season": 4,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-23"
+    },
+    {
+      "id": "0319dbde-c34c-47b7-8d9e-28efc02b6f09",
+      "season": 5,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-24"
+    },
+    {
+      "id": "f58f0570-a6ac-4e35-bb3e-22bd52e8a91f",
+      "season": 5,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-25"
+    },
+    {
+      "id": "816cc319-9dcb-490c-8e43-175f1eb0cb87",
+      "season": 5,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-26"
+    },
+    {
+      "id": "17dd0afb-62ea-4771-9767-0c850afcc861",
+      "season": 5,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-27"
+    },
+    {
+      "id": "34eb8444-0523-4183-a309-85d884363d6e",
+      "season": 5,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-28"
+    },
+    {
+      "id": "d529ce0a-2d41-4657-be24-078c19356e51",
+      "season": 5,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-29"
+    },
+    {
+      "id": "07f1652b-163e-4f36-847f-065d70458504",
+      "season": 5,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-11-30"
+    },
+    {
+      "id": "a4a5c7ca-b301-4fba-9b3c-73fd01b590b6",
+      "season": 5,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-12-02"
+    },
+    {
+      "id": "77cdc92e-0c85-406f-a421-31d26c3d6a3d",
+      "season": 5,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-12-03"
+    },
+    {
+      "id": "68c25e86-a5c6-42fb-b543-aed7036c6d87",
+      "season": 5,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2013-12-05"
+    },
+    {
+      "id": "ad201a43-17e6-4e43-9ad5-4a1b2b0d5941",
+      "season": 6,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-02"
+    },
+    {
+      "id": "4af5edac-81f8-4c38-a6d0-532379e2a407",
+      "season": 6,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-03"
+    },
+    {
+      "id": "9774cc56-b3d1-4dc7-bda5-bb222eaa8c0c",
+      "season": 6,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-06"
+    },
+    {
+      "id": "a220d266-17bf-49ad-a490-e9ce18d3fc12",
+      "season": 6,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-07"
+    },
+    {
+      "id": "5cd23a3e-7966-4438-9463-1660b00d6f2f",
+      "season": 6,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-08"
+    },
+    {
+      "id": "1af9842c-d4af-461c-a6c2-0690bb2df62f",
+      "season": 6,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-09"
+    },
+    {
+      "id": "90a85697-db05-4d9a-a76c-6d5161378057",
+      "season": 6,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-10"
+    },
+    {
+      "id": "b7e8b61b-109e-47bd-8d2f-bfa0250a1b1f",
+      "season": 6,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-13"
+    },
+    {
+      "id": "9482c99f-5b61-401f-b749-e9870f5ce6d0",
+      "season": 6,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-14"
+    },
+    {
+      "id": "dc6fb8ce-593e-4e50-8a1b-78f105e170f6",
+      "season": 6,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-15"
+    },
+    {
+      "id": "987a684e-b36c-4dbb-8710-6d9f6a951e42",
+      "season": 7,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-16"
+    },
+    {
+      "id": "717c7ddb-7cb3-448a-9fae-5f8c7f8213af",
+      "season": 7,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-17"
+    },
+    {
+      "id": "3e6905b7-e1ce-4000-8935-a475e4ca1700",
+      "season": 7,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-20"
+    },
+    {
+      "id": "7b99796a-5d23-4175-a314-7e66f3b4da07",
+      "season": 7,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-21"
+    },
+    {
+      "id": "e81bd303-093f-4f7c-8775-fdee7dff775a",
+      "season": 7,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-22"
+    },
+    {
+      "id": "e0eea620-9172-4e0a-ac19-025dd2d0a05a",
+      "season": 7,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-23"
+    },
+    {
+      "id": "a441cee1-4427-4996-b2ad-0d19ef65133d",
+      "season": 7,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-24"
+    },
+    {
+      "id": "3aecaaf7-db5e-4038-a6b2-904505de33ee",
+      "season": 7,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-27"
+    },
+    {
+      "id": "f956da41-b987-4352-ad7b-905f58991687",
+      "season": 7,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-28"
+    },
+    {
+      "id": "60c0e59d-d845-4fad-9d83-b12bc3279921",
+      "season": 7,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-01-29"
+    },
+    {
+      "id": "d8c75d2e-27c4-4f4b-998e-c0c83d65493f",
+      "season": 8,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-03-28"
+    },
+    {
+      "id": "e8513fa9-e5f4-4c73-8630-e48b9c3796ee",
+      "season": 8,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-03-29"
+    },
+    {
+      "id": "29f6a01c-e5a2-4007-a197-b368d6f8b5ec",
+      "season": 8,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-03-30"
+    },
+    {
+      "id": "0d46d416-27ed-4ed4-a7b6-fc9512b48fdc",
+      "season": 8,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "961dd5cc-6e4c-40f3-9e90-e25f479777c3",
+      "season": 8,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-01"
+    },
+    {
+      "id": "eed7c4d1-a180-43b2-964b-63c9f16f7b9d",
+      "season": 8,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-02"
+    },
+    {
+      "id": "bf47480e-d564-4b25-976c-47202c345fc3",
+      "season": 8,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-03"
+    },
+    {
+      "id": "a57f8e5d-6fb6-4d65-94f6-c3c6c881c18c",
+      "season": 8,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-04"
+    },
+    {
+      "id": "9285609c-be52-46ab-9218-38ce9ac1825b",
+      "season": 8,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-05"
+    },
+    {
+      "id": "076fb9f8-a9b5-4e12-b9a3-fd6b09a23cac",
+      "season": 8,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-06"
+    },
+    {
+      "id": "4d84a0dd-3240-47b6-ab01-0c9a98e81db9",
+      "season": 9,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-07"
+    },
+    {
+      "id": "c60bdfbf-e974-45ca-af38-effb32d72132",
+      "season": 9,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-08"
+    },
+    {
+      "id": "e6a783b7-5c15-498e-907a-864c5b8abc4b",
+      "season": 9,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-09"
+    },
+    {
+      "id": "7793d7db-7e62-468e-bef6-2c8cd0ba93a6",
+      "season": 9,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-10"
+    },
+    {
+      "id": "4f825d1c-6c7a-493a-b598-d5d681101da0",
+      "season": 9,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-11"
+    },
+    {
+      "id": "1912690f-66a2-4d00-b7a0-2ed060276985",
+      "season": 9,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-12"
+    },
+    {
+      "id": "b969550b-3fa6-4940-9fff-d3a136658714",
+      "season": 9,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-13"
+    },
+    {
+      "id": "89240f12-1dd4-4f91-99f5-a87014f00ca1",
+      "season": 9,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-22"
+    },
+    {
+      "id": "facee96c-adf7-48c6-a369-8aa7ed1f7e0e",
+      "season": 9,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-23"
+    },
+    {
+      "id": "a4a8c2ca-ffbe-4ace-aa79-7bca505ebe6e",
+      "season": 9,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2014-04-24"
+    },
+    {
+      "id": "4d5ee78d-0eb9-4bcb-836a-9831a6aad732",
+      "season": 10,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-15"
+    },
+    {
+      "id": "f340277d-208b-4d80-a782-60b0fed8f23b",
+      "season": 10,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-16"
+    },
+    {
+      "id": "3d773741-bf3b-4820-9e5d-92d440405da2",
+      "season": 10,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-17"
+    },
+    {
+      "id": "32dfa706-cccc-4e0a-ab43-85cc2f9d1dbf",
+      "season": 10,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-18"
+    },
+    {
+      "id": "0825a21b-7d65-4c92-81f7-49729292f09f",
+      "season": 10,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-19"
+    },
+    {
+      "id": "11634c8f-41c9-428a-a973-561160954ffd",
+      "season": 10,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-20"
+    },
+    {
+      "id": "22ebbaa4-6b30-4cca-bc57-44721ef91f31",
+      "season": 10,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-21"
+    },
+    {
+      "id": "01d4b511-a417-4dcb-a4ae-cb70c21aa762",
+      "season": 10,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-22"
+    },
+    {
+      "id": "5ad60d92-6d2b-47fe-879b-fa4992de31ab",
+      "season": 10,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-23"
+    },
+    {
+      "id": "49f10124-a9a4-4b57-bd69-f52536cfff28",
+      "season": 10,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2015-01-24"
+    },
+    {
+      "id": "1ec8cef4-954a-4dd4-bb11-a2b906b196b5",
+      "season": 11,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-14"
+    },
+    {
+      "id": "880af105-f307-428e-a8c4-003f96336a4a",
+      "season": 11,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-14"
+    },
+    {
+      "id": "436a930c-0368-43ac-8094-69a1e70c4d0b",
+      "season": 11,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-15"
+    },
+    {
+      "id": "3eb9fb8d-4e8c-4973-990a-f2d931bd845b",
+      "season": 11,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-15"
+    },
+    {
+      "id": "f0fa1266-edfb-4b1b-899c-db391d40b1cc",
+      "season": 11,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-16"
+    },
+    {
+      "id": "f04dc433-9e09-4989-b3cc-dac65dcfeb5b",
+      "season": 11,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-16"
+    },
+    {
+      "id": "bd14dfeb-b330-4f07-932c-b083aa7cd9bf",
+      "season": 11,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-17"
+    },
+    {
+      "id": "7a272303-4ae8-41c6-b8d2-5c2427ae7b7b",
+      "season": 11,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-17"
+    },
+    {
+      "id": "1ccb5396-f2b3-469a-9bfc-453c55d49f37",
+      "season": 11,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-18"
+    },
+    {
+      "id": "e6f7a30b-e814-474e-b4ac-b54f5fd7c5f4",
+      "season": 11,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-18"
+    },
+    {
+      "id": "5f4a4d0c-5be9-44a0-b806-ab56d15b5835",
+      "season": 12,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-21"
+    },
+    {
+      "id": "ddd81d26-a81d-44de-9345-bf29cba7c219",
+      "season": 12,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-21"
+    },
+    {
+      "id": "6e786978-524b-41d9-876f-43acd0acf0b1",
+      "season": 12,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-22"
+    },
+    {
+      "id": "767badaf-89ac-44eb-bef6-5b8ef486c610",
+      "season": 12,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-22"
+    },
+    {
+      "id": "47af192d-4b3f-4090-ac16-630904b744d3",
+      "season": 12,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-23"
+    },
+    {
+      "id": "5fc75126-82a2-4661-90a0-560fe42312e0",
+      "season": 12,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-23"
+    },
+    {
+      "id": "99899178-50e7-4c8e-99b2-953f796ea046",
+      "season": 12,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-24"
+    },
+    {
+      "id": "950ccabe-7fc6-46da-a7d1-2ddff1c9698b",
+      "season": 12,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-24"
+    },
+    {
+      "id": "a5533e1b-d4d4-4894-bc35-16aeb2c20452",
+      "season": 12,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-25"
+    },
+    {
+      "id": "5c93df5c-1df0-4bd4-a241-51e83ab4edaa",
+      "season": 12,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2016-11-25"
+    },
+    {
+      "id": "3f99f3bc-88bc-4a6e-9c2b-967e3ca54414",
+      "season": 13,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-20"
+    },
+    {
+      "id": "2227edb6-24e7-4ccf-ac85-5446cab1fc88",
+      "season": 13,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-20"
+    },
+    {
+      "id": "c7d58467-a46a-417e-96c5-e78b8f68e634",
+      "season": 13,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-21"
+    },
+    {
+      "id": "32d99e2c-ec46-4897-85cd-155809860d2b",
+      "season": 13,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-21"
+    },
+    {
+      "id": "2d42c08d-8e63-44e5-8297-e1a408c108ef",
+      "season": 13,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-22"
+    },
+    {
+      "id": "1815212d-10a6-4f19-b455-82b8ed85f18e",
+      "season": 13,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-22"
+    },
+    {
+      "id": "431e17a5-c885-408d-afae-f4053fbcacec",
+      "season": 13,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-25"
+    },
+    {
+      "id": "6e231cc6-83ef-4e09-aada-5eacfd9514a0",
+      "season": 13,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-25"
+    },
+    {
+      "id": "585d0a3a-d4a5-45b9-9f0a-3ca879ebed4c",
+      "season": 13,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-26"
+    },
+    {
+      "id": "4ab50ad8-f881-4ac0-abec-e0f3f3cf9d05",
+      "season": 13,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-26"
+    },
+    {
+      "id": "7259ecb2-b3c7-435e-93ba-bb7068f08182",
+      "season": 13,
+      "number": 11,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-27"
+    },
+    {
+      "id": "756eaf16-42f7-4902-b495-7e50e90dd0a6",
+      "season": 13,
+      "number": 12,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-27"
+    },
+    {
+      "id": "58176ee1-d8b1-46e3-8132-11e2c0821a50",
+      "season": 13,
+      "number": 13,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2017-09-28"
+    },
+    {
+      "id": "90dd861b-3c7e-41e2-a086-e17ea3518568",
+      "season": 14,
+      "number": 1,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-03"
+    },
+    {
+      "id": "e8190ea2-370c-488c-bd6d-8887085d422d",
+      "season": 14,
+      "number": 2,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-03"
+    },
+    {
+      "id": "9b3f0c67-86bf-4ca3-9601-2df4e19d960f",
+      "season": 14,
+      "number": 3,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-04"
+    },
+    {
+      "id": "8c706624-c788-4034-a705-c150eb050c40",
+      "season": 14,
+      "number": 4,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-04"
+    },
+    {
+      "id": "5db7958b-6013-42dc-93bc-7cc0fd4d5e20",
+      "season": 14,
+      "number": 5,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-04"
+    },
+    {
+      "id": "0561aa12-4641-4c85-be18-5c5af4ca4999",
+      "season": 14,
+      "number": 6,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-04"
+    },
+    {
+      "id": "fead7bc3-4fd7-4d13-9c6c-b4a45af0326c",
+      "season": 14,
+      "number": 7,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-07"
+    },
+    {
+      "id": "827fd235-affb-4d3c-ae4e-dae16e314aa2",
+      "season": 14,
+      "number": 8,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-07"
+    },
+    {
+      "id": "417b8a5e-21cd-4141-80f6-96240b8afb8c",
+      "season": 14,
+      "number": 9,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-07"
+    },
+    {
+      "id": "9b269994-a98b-45a3-85e6-290a728ad754",
+      "season": 14,
+      "number": 10,
+      "name": "Hjemmehjælp til byggeprojekter",
+      "airdate": "2018-05-07"
+    }
+  ]
+}

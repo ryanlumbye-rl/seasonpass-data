@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:fem-fede-kokke-tv2fri",
+  "name": "Fem fede kokke",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2a5949ac-e974-4fb0-9c62-9f36b2274471",
+      "season": 1,
+      "number": 1,
+      "name": "Kan fem af Danmarks bedste kokke ændre deres liv?",
+      "airdate": "2020-02-04"
+    },
+    {
+      "id": "fb0328dd-ad17-4c61-84d3-54e45ac66c21",
+      "season": 1,
+      "number": 2,
+      "name": "Modet bliver sat på prøve",
+      "airdate": "2020-02-04"
+    },
+    {
+      "id": "8844dd89-5c70-4d25-98bb-7b16d136c125",
+      "season": 1,
+      "number": 3,
+      "name": "De store drenges sport",
+      "airdate": "2020-02-11"
+    },
+    {
+      "id": "fa06ab6a-4362-4b3c-96a7-67b7859c4e4d",
+      "season": 1,
+      "number": 4,
+      "name": "Flæskekonge på slankekur",
+      "airdate": "2020-02-18"
+    },
+    {
+      "id": "db2982a5-b16b-4681-98fd-e5abac4472a4",
+      "season": 1,
+      "number": 5,
+      "name": "Varer motivationen ved?",
+      "airdate": "2020-02-25"
+    },
+    {
+      "id": "a8b58940-fdf8-46e2-9a57-64e00b0b6e95",
+      "season": 1,
+      "number": 6,
+      "name": "Den store finale",
+      "airdate": "2020-03-03"
+    },
+    {
+      "id": "d4acc784-3463-4a41-a337-2763b86d4a02",
+      "season": 2,
+      "number": 1,
+      "name": "Nu eller aldrig",
+      "airdate": "2021-02-09"
+    },
+    {
+      "id": "37a2a56f-fb71-4d10-97ad-aed4f1d93c5f",
+      "season": 2,
+      "number": 2,
+      "name": "Jo vildere, jo bedre",
+      "airdate": "2021-02-09"
+    },
+    {
+      "id": "f8a37ef5-9957-4a0f-ba73-ec0495d3c586",
+      "season": 2,
+      "number": 3,
+      "name": "Se ud som en vinder",
+      "airdate": "2021-02-16"
+    },
+    {
+      "id": "2558cf46-89bf-4768-8b5b-6c5298c93824",
+      "season": 2,
+      "number": 4,
+      "name": "Kærlighedskokke i trøjen",
+      "airdate": "2021-02-23"
+    },
+    {
+      "id": "42959737-683b-410a-a654-2643cc3aca2c",
+      "season": 2,
+      "number": 5,
+      "name": "Sjappet cykeltur",
+      "airdate": "2021-03-02"
+    },
+    {
+      "id": "095761ed-fd46-4b79-bb78-6636f7abf615",
+      "season": 2,
+      "number": 6,
+      "name": "Venner for livet",
+      "airdate": "2021-03-09"
+    },
+    {
+      "id": "5c9b1ab1-ff5f-4c0f-9d69-836601b8bbd0",
+      "season": 3,
+      "number": 1,
+      "name": "Sikke noget at lokke os ud i",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "53d3dd03-d331-4063-88f2-7e9ae9ce24ee",
+      "season": 3,
+      "number": 2,
+      "name": "Satte du lige El Presidente på plads?",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "53d1575c-494c-4769-aeeb-8cf8764721d4",
+      "season": 3,
+      "number": 3,
+      "name": "En flot udstillingsmodel",
+      "airdate": "2022-11-08"
+    },
+    {
+      "id": "3a8b86e4-92a3-4f56-ab2c-40f9f6b1af32",
+      "season": 3,
+      "number": 4,
+      "name": "Jumping fitness lyder meget moderne",
+      "airdate": "2022-11-15"
+    },
+    {
+      "id": "4ed86403-6d96-4c24-bc33-df352f29f9dd",
+      "season": 3,
+      "number": 5,
+      "name": "Det ligner en omgang psyko jazzballet",
+      "airdate": "2022-11-22"
+    },
+    {
+      "id": "6f40cbef-cb00-4b5e-9991-c3625cda4216",
+      "season": 3,
+      "number": 6,
+      "name": "Vinterbadning skal brænde i helvede",
+      "airdate": "2022-11-29"
+    },
+    {
+      "id": "4c920fe5-dabf-4664-9fa9-13bfd59e4475",
+      "season": 3,
+      "number": 7,
+      "name": "Abekatte på tur",
+      "airdate": "2022-12-06"
+    },
+    {
+      "id": "cca2618c-44eb-4aa5-8644-d4bdce4e473f",
+      "season": 3,
+      "number": 8,
+      "name": "Til lands, til vands og i luften",
+      "airdate": "2022-12-13"
+    },
+    {
+      "id": "f183a3a4-35e4-4a25-baa0-609e14dfa7d8",
+      "season": 4,
+      "number": 1,
+      "name": "Topmotiveret",
+      "airdate": "2024-01-16"
+    },
+    {
+      "id": "5d85e3d2-aa95-4e67-9960-0de97b128cf5",
+      "season": 4,
+      "number": 2,
+      "name": "Kondien er cirka minus seks",
+      "airdate": "2024-01-23"
+    },
+    {
+      "id": "da6b7f6c-9de9-49ca-9ffc-1b5c3b22a489",
+      "season": 4,
+      "number": 3,
+      "name": "Hold op med det pyller og rejs dig",
+      "airdate": "2024-01-30"
+    },
+    {
+      "id": "6d1e10bf-fb34-4bdc-9d45-629436190b6d",
+      "season": 4,
+      "number": 4,
+      "name": "En tung Olfert",
+      "airdate": "2024-02-06"
+    },
+    {
+      "id": "68a14787-6bd5-46ff-bd46-9f61f2943143",
+      "season": 4,
+      "number": 5,
+      "name": "Mit værste mareridt",
+      "airdate": "2024-02-13"
+    },
+    {
+      "id": "aeb99150-3265-45cb-a4d5-cd7b6532c33e",
+      "season": 4,
+      "number": 6,
+      "name": "Et par hurtige lussinger",
+      "airdate": "2024-02-20"
+    },
+    {
+      "id": "89dee73f-e8c1-42a9-bec5-caa2338e4cf7",
+      "season": 4,
+      "number": 7,
+      "name": "Se dæmonerne i øjnene",
+      "airdate": "2024-02-27"
+    },
+    {
+      "id": "f0ebb04e-bc40-4813-83a1-34d1c3b2b24c",
+      "season": 4,
+      "number": 8,
+      "name": "Sandhedens time",
+      "airdate": "2024-03-05"
+    },
+    {
+      "id": "9930d453-a976-4150-ba98-3b203eeb3d62",
+      "season": 5,
+      "number": 1,
+      "name": "Motion - hvad er det?",
+      "airdate": "2025-01-07"
+    },
+    {
+      "id": "df9b9da0-1633-4075-b42c-5b0485fef084",
+      "season": 5,
+      "number": 2,
+      "name": "Man må gerne smile imens!",
+      "airdate": "2025-01-14"
+    },
+    {
+      "id": "a363d365-051d-4a9b-a5d1-9f3b245fe3d5",
+      "season": 5,
+      "number": 3,
+      "name": "Ti spørgsmål til professoren ",
+      "airdate": "2025-01-21"
+    },
+    {
+      "id": "9d46fced-6924-4f14-997f-3529106a8f4b",
+      "season": 5,
+      "number": 4,
+      "name": "Må man smide håndklædet?",
+      "airdate": "2025-01-28"
+    },
+    {
+      "id": "5d9aee8c-f882-4c65-b453-8a5a4f49d7a0",
+      "season": 5,
+      "number": 5,
+      "name": "Bornholm, Bornholm, Bornholm",
+      "airdate": "2025-02-04"
+    },
+    {
+      "id": "861a7a2c-3406-450f-b3b8-f2d311c4c517",
+      "season": 5,
+      "number": 6,
+      "name": "Kuldegysninger og røg i øjnene ",
+      "airdate": "2025-02-11"
+    },
+    {
+      "id": "fe489054-34da-49c8-a9db-013f55eaff31",
+      "season": 5,
+      "number": 7,
+      "name": "Vi går efter sejren!",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "0f938a95-aae1-48ed-86e4-d36c207bd6ab",
+      "season": 5,
+      "number": 8,
+      "name": "Shit! Nu er det nu!",
+      "airdate": "2025-02-25"
+    }
+  ]
+}

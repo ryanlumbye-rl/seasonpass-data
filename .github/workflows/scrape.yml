@@ -40,11 +40,12 @@ jobs:
       - name: Kør scraperen
         id: scrape
         run: |
-          npm run scrape:tv2play | tee scrape.log
+          # Loggen skrives UDEN for repoet: ellers committer PR-trinnet den med.
+          npm run scrape:tv2play | tee "$RUNNER_TEMP/scrape.log"
           # Tallene til PR-teksten nedenfor — læst af scraperens egen log,
           # ingen ekstra hentning. "0" hvis linjen mangler, fx ved en tom kørsel.
-          shows=$(grep -o 'TV 2 Play-serier bygget denne kørsel: [0-9]*' scrape.log | grep -o '[0-9]*$' || echo 0)
-          unparsed=$(grep -o 'hints der ikke kunne fortolkes: [0-9]*' scrape.log | grep -o '[0-9]*$' || echo 0)
+          shows=$(grep -o 'TV 2 Play-serier bygget denne kørsel: [0-9]*' "$RUNNER_TEMP/scrape.log" | grep -o '[0-9]*$' || echo 0)
+          unparsed=$(grep -o 'hints der ikke kunne fortolkes: [0-9]*' "$RUNNER_TEMP/scrape.log" | grep -o '[0-9]*$' || echo 0)
           echo "shows=${shows:-0}" >> "$GITHUB_OUTPUT"
           echo "unparsed=${unparsed:-0}" >> "$GITHUB_OUTPUT"
 

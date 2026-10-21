@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:haakon-og-mette-marit-vores-norge-tv2charlie",
+  "name": "Haakon og Mette-Marit - vores Norge",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "82db6ad3-6908-4b7e-8f9a-e4c17042330f",
+      "season": 1,
+      "number": 1,
+      "name": "Du havde ikke rigtig lyst til at fejre din fødselsdag",
+      "airdate": "2024-04-04"
+    },
+    {
+      "id": "d2819ab0-ecba-4568-8874-8c2cbbcd9ff7",
+      "season": 1,
+      "number": 2,
+      "name": "Det var her, vi flyttede sammen",
+      "airdate": "2024-04-11"
+    },
+    {
+      "id": "68e5e8ce-154d-4431-a48b-7efe7c76078a",
+      "season": 1,
+      "number": 3,
+      "name": "Man taler egentlig ikke om det",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "77baa6e9-734f-4a97-b6f6-1809da7aef1c",
+      "season": 1,
+      "number": 4,
+      "name": "Er du kongen?",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "78d90d69-581a-4f20-ac5a-0bcf50b7e5ff",
+      "season": 1,
+      "number": 5,
+      "name": "Det har vi aldrig gjort før",
+      "airdate": "2024-05-02"
+    }
+  ]
+}

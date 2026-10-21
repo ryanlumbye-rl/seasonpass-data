@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:en-saerlig-slags-tv2play",
+  "name": "En særlig slags",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cb17d146-4f57-4eff-aaa8-a3ed61bd6bd7",
+      "season": 3,
+      "number": 1,
+      "name": "Frihed og fart på",
+      "airdate": "2026-10-24"
+    }
+  ]
+}

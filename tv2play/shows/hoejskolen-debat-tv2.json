@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:hoejskolen-debat-tv2",
+  "name": "Højskolen - debat",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6aa65bd2-2abf-4c67-942a-5e786cd76160",
+      "season": 1,
+      "number": 1,
+      "name": "Har landbruget en fremtid?",
+      "airdate": "2026-09-29"
+    },
+    {
+      "id": "f4c12e25-1597-48bf-a7d9-1c21eb03d4ac",
+      "season": 1,
+      "number": 2,
+      "name": "Hvornår er man dansk?",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "f0c2dce1-8144-48da-bf09-4c8e90610557",
+      "season": 1,
+      "number": 3,
+      "name": "Hvad er der galt med folkeskolen?",
+      "airdate": "2026-10-13"
+    }
+  ]
+}

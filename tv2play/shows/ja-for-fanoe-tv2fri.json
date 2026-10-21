@@ -1,0 +1,374 @@
+{
+  "id": "tv2play:ja-for-fanoe-tv2fri",
+  "name": "Ja for Fanø",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "02cd7051-d2a4-4115-9e63-3608954db567",
+      "season": 1,
+      "number": 1,
+      "name": "Højt til loftet på en lille ø",
+      "airdate": "2017-10-17"
+    },
+    {
+      "id": "03898cb9-67d7-4940-802c-4451e023c4bc",
+      "season": 1,
+      "number": 2,
+      "name": "Højt til loftet på en lille ø",
+      "airdate": "2017-10-24"
+    },
+    {
+      "id": "29d461b2-b7ac-429f-9be7-18cf86bfa005",
+      "season": 1,
+      "number": 3,
+      "name": "Højt til loftet på en lille ø",
+      "airdate": "2017-10-31"
+    },
+    {
+      "id": "d5d59500-bff2-4c62-80b0-949ea9665b8c",
+      "season": 1,
+      "number": 4,
+      "name": "Højt til loftet på en lille ø",
+      "airdate": "2017-11-07"
+    },
+    {
+      "id": "7135f43d-5abd-4af2-85ce-b97dea3336c0",
+      "season": 1,
+      "number": 5,
+      "name": "Højt til loftet på en lille ø",
+      "airdate": "2017-11-28"
+    },
+    {
+      "id": "d9c0eab8-27ad-40f1-8187-8f1d0907fcfe",
+      "season": 2,
+      "number": 1,
+      "name": "Johnny stikker af!",
+      "airdate": "2018-09-11"
+    },
+    {
+      "id": "33c0205e-3b96-4338-9be5-3109ef493857",
+      "season": 2,
+      "number": 2,
+      "name": "Johnny på dametoilettet",
+      "airdate": "2018-09-11"
+    },
+    {
+      "id": "51c6b07a-441c-4e55-8a9c-a29339696d37",
+      "season": 2,
+      "number": 3,
+      "name": "Johnny og vennerne vælter øen",
+      "airdate": "2018-09-18"
+    },
+    {
+      "id": "30e815be-2978-4744-8d56-3ae69a255087",
+      "season": 2,
+      "number": 4,
+      "name": "Kaos på Fanø",
+      "airdate": "2018-09-25"
+    },
+    {
+      "id": "0d148c0b-752d-4375-bc74-b9d1753c06a5",
+      "season": 2,
+      "number": 5,
+      "name": "Johnny går kold",
+      "airdate": "2018-10-02"
+    },
+    {
+      "id": "6272fec5-7b49-441d-a473-b621b065f3c1",
+      "season": 2,
+      "number": 6,
+      "name": "Johnny boykotter Priden",
+      "airdate": "2018-10-09"
+    },
+    {
+      "id": "dbe6234d-c3f8-4f4c-8a42-8312f2732e3c",
+      "season": 3,
+      "number": 1,
+      "name": "Johnny melder (næsten) udsolgt",
+      "airdate": "2019-10-08"
+    },
+    {
+      "id": "0c92cbe5-dece-4769-8f13-2a8f9c209b6e",
+      "season": 3,
+      "number": 2,
+      "name": "Johnny og Fanøs Walk of Fame",
+      "airdate": "2019-10-08"
+    },
+    {
+      "id": "7cd405a1-3152-4f9e-b0dc-9f8e7b20b895",
+      "season": 3,
+      "number": 3,
+      "name": "Skal Johnny have sin egen hotdog?",
+      "airdate": "2019-10-15"
+    },
+    {
+      "id": "4b5f975a-db7d-42fa-800b-6c1342f409b3",
+      "season": 3,
+      "number": 4,
+      "name": "Kvinder forbudt på golfbanen",
+      "airdate": "2019-10-22"
+    },
+    {
+      "id": "32d2fe1e-8177-480f-b840-f3b58cf6bc1d",
+      "season": 3,
+      "number": 5,
+      "name": "Johnny er flyvende",
+      "airdate": "2019-10-29"
+    },
+    {
+      "id": "d10bbe76-5490-46c3-9214-96ed9ca97f12",
+      "season": 4,
+      "number": 1,
+      "name": "Total afspritning",
+      "airdate": "2020-11-03"
+    },
+    {
+      "id": "b8e51f5f-3183-45ed-b901-74c0a81ffbb0",
+      "season": 4,
+      "number": 2,
+      "name": "Johnny i underbukser",
+      "airdate": "2020-11-10"
+    },
+    {
+      "id": "a0140e19-ca0d-4909-97f2-0af967192364",
+      "season": 4,
+      "number": 3,
+      "name": "To tidligere udenrigsministre og en tamburinsolo",
+      "airdate": "2020-11-10"
+    },
+    {
+      "id": "bb28fc48-ee40-4670-8fab-f5d8e1c98258",
+      "season": 4,
+      "number": 4,
+      "name": "Tingdamen og Kløpinden",
+      "airdate": "2020-11-17"
+    },
+    {
+      "id": "3a619970-f453-431d-bb1d-94c7283f8515",
+      "season": 4,
+      "number": 5,
+      "name": "Et styk klimavenlig, økologisk hybridbil, tak",
+      "airdate": "2020-11-17"
+    },
+    {
+      "id": "95c45f10-6783-41b2-bb94-faf38152b2eb",
+      "season": 4,
+      "number": 6,
+      "name": "Stort ståhej og pakkeleg",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1b7f2af6-311a-4164-b82b-74cf5f67cbaf",
+      "season": 5,
+      "number": 1,
+      "name": "Det muntre køkken",
+      "airdate": "2021-10-05"
+    },
+    {
+      "id": "b4992d22-5c5f-48a4-9fe5-6d30516082c6",
+      "season": 5,
+      "number": 2,
+      "name": "Jo større desto bedre",
+      "airdate": "2021-10-05"
+    },
+    {
+      "id": "0d5c5f78-0408-4133-965d-59268954c5ad",
+      "season": 5,
+      "number": 3,
+      "name": "Rejsegilde a la Jeanett",
+      "airdate": "2021-10-12"
+    },
+    {
+      "id": "b92fc54a-8433-479c-8502-d29f46c171cf",
+      "season": 5,
+      "number": 4,
+      "name": "Johnny og Jeanett på nye afveje",
+      "airdate": "2021-10-19"
+    },
+    {
+      "id": "736eeb55-1869-43af-a6b3-bcd726b4967d",
+      "season": 5,
+      "number": 5,
+      "name": "Svensk pølseret og en legendarisk aften",
+      "airdate": "2021-10-26"
+    },
+    {
+      "id": "61f4cd9f-54f2-4773-b74b-e375957d4f62",
+      "season": 5,
+      "number": 6,
+      "name": "Fritgående æg og balladen om fliserne",
+      "airdate": "2021-11-02"
+    },
+    {
+      "id": "2e198921-8991-4a9c-8e8c-7268a53e9a52",
+      "season": 6,
+      "number": 1,
+      "name": "Talevanskeligheder",
+      "airdate": "2022-09-27"
+    },
+    {
+      "id": "7a116362-edf3-4e94-92df-751506da44fc",
+      "season": 6,
+      "number": 2,
+      "name": "Støv på stjernen",
+      "airdate": "2022-10-04"
+    },
+    {
+      "id": "2cbb1de2-3c3c-4021-9b98-5a74555ec2ce",
+      "season": 6,
+      "number": 3,
+      "name": "Rock’n’roll og spinatjuice",
+      "airdate": "2022-10-11"
+    },
+    {
+      "id": "a5e6bece-0593-45ab-bcba-a02f287d878d",
+      "season": 6,
+      "number": 4,
+      "name": "Klonerne kommer",
+      "airdate": "2022-10-18"
+    },
+    {
+      "id": "aa04255c-cca1-4a24-9de4-6624308a69fb",
+      "season": 6,
+      "number": 5,
+      "name": "Kunsten at tælle til 16",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "be6dcd89-8cd3-476d-9bf5-1afcc3bfb632",
+      "season": 6,
+      "number": 6,
+      "name": "Nogle malere synger i deres fritid",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "6af52570-6c4f-4406-9591-ecff05c2355f",
+      "season": 7,
+      "number": 1,
+      "name": "Alle farver på paletten",
+      "airdate": "2024-02-22"
+    },
+    {
+      "id": "2b5e822a-7d0f-4bce-832c-250c8430ff7d",
+      "season": 7,
+      "number": 2,
+      "name": "En våd Tørfisk",
+      "airdate": "2024-02-29"
+    },
+    {
+      "id": "36056638-baa7-4d7e-b233-67bad5af8ea5",
+      "season": 7,
+      "number": 3,
+      "name": "Magi i luften",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "7616382f-cd9e-4593-95e9-6de552c81748",
+      "season": 7,
+      "number": 4,
+      "name": "Hvor skal fællesskabet stå?",
+      "airdate": "2024-03-14"
+    },
+    {
+      "id": "97ef7d28-d066-4462-a4c8-24ac30046163",
+      "season": 7,
+      "number": 5,
+      "name": "Huller i horisonten",
+      "airdate": "2024-03-21"
+    },
+    {
+      "id": "1fb27c25-5755-44b9-bde4-90813e2b21eb",
+      "season": 7,
+      "number": 6,
+      "name": "Kunst i containeren",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "14df2ca2-2ef6-449b-8bd2-f72af9063e74",
+      "season": 8,
+      "number": 1,
+      "name": "En varm sæsonstart",
+      "airdate": "2024-10-22"
+    },
+    {
+      "id": "80b5cb82-83f3-493b-8da2-43bf713d5e5d",
+      "season": 8,
+      "number": 2,
+      "name": "Rettidig omhu",
+      "airdate": "2024-10-29"
+    },
+    {
+      "id": "cd9683db-4bc0-42cd-a6f6-c14faa5b9ad9",
+      "season": 8,
+      "number": 3,
+      "name": "En stor familie",
+      "airdate": "2024-11-05"
+    },
+    {
+      "id": "64ce8e96-7bcb-45f1-92ea-fca22807eedd",
+      "season": 8,
+      "number": 4,
+      "name": "Du danske sprog",
+      "airdate": "2024-11-12"
+    },
+    {
+      "id": "385de87e-a3ac-481b-8559-d519de1288b3",
+      "season": 8,
+      "number": 5,
+      "name": "Ferieafløserne og seks på taget",
+      "airdate": "2024-11-19"
+    },
+    {
+      "id": "68328435-8671-4f0e-933c-5b710024a33b",
+      "season": 8,
+      "number": 6,
+      "name": "Verdens bedste værter",
+      "airdate": "2024-11-26"
+    },
+    {
+      "id": "2b2fba34-70a6-49b0-942c-818e233e23dd",
+      "season": 9,
+      "number": 1,
+      "name": "Man sidder altså på toilet hele tiden",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "d08ebe53-99fd-4ca0-9ced-852bf4f34279",
+      "season": 9,
+      "number": 2,
+      "name": "Hvem har sagt Stokkepikkefar?",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "4f77a92f-c3a5-41c3-a207-78130d547dba",
+      "season": 9,
+      "number": 3,
+      "name": "Johnnys sidste ord",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "6337f6c8-ab36-417d-9542-9597318be05c",
+      "season": 9,
+      "number": 4,
+      "name": "Du ligner en, der har været med på Royal Run",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "88b78757-924e-45ed-a74e-0b53afa2b5e5",
+      "season": 9,
+      "number": 5,
+      "name": "Det er jeg faktisk ret god til det her",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "a4daeb6d-6d5b-4e9c-92d2-1a2180ccf2c5",
+      "season": 9,
+      "number": 6,
+      "name": "Jeg magter ikke flere ulykker",
+      "airdate": "2025-11-24"
+    }
+  ]
+}

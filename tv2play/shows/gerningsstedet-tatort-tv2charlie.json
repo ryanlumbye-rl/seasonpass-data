@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:gerningsstedet-tatort-tv2charlie",
+  "name": "Gerningsstedet - Tatort",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "86049df9-e999-46c0-a845-9d714e1fcc22",
+      "season": 1,
+      "number": 65,
+      "name": "Mesterkokkens blodige kniv",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "d217ab68-3ad8-4e47-bccc-6d368f7fb9d3",
+      "season": 1,
+      "number": 65,
+      "name": "Mesterkokkens blodige kniv",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "c2a43624-7664-4327-b117-162848a6ea14",
+      "season": 1,
+      "number": 66,
+      "name": "Trusler mod staten",
+      "airdate": "2025-11-21"
+    }
+  ]
+}

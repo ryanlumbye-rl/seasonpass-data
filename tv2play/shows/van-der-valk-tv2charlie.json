@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:van-der-valk-tv2charlie",
+  "name": "Van der Valk",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cf4af9cf-2deb-4f2e-b351-394f1ee3a0b7",
+      "season": 1,
+      "number": 1,
+      "name": "Et politisk mord",
+      "airdate": "2021-04-14"
+    },
+    {
+      "id": "ed7da852-17b0-49ad-a8a2-570d28eee354",
+      "season": 1,
+      "number": 2,
+      "name": "Farlig erotik",
+      "airdate": "2021-04-14"
+    },
+    {
+      "id": "34cb117b-5a89-4fd6-a857-eec55d375ecb",
+      "season": 1,
+      "number": 3,
+      "name": "Død i Amsterdam",
+      "airdate": "2021-04-21"
+    },
+    {
+      "id": "064eccfc-2ae0-4fbd-9c97-b422732d5a3a",
+      "season": 2,
+      "number": 1,
+      "name": "Blodig protest",
+      "airdate": "2022-02-23"
+    },
+    {
+      "id": "087cd44d-6ea9-4805-b254-ff71a845ccda",
+      "season": 2,
+      "number": 2,
+      "name": "Diamanter dræber",
+      "airdate": "2022-02-23"
+    },
+    {
+      "id": "ab442d4a-7b18-4839-8d76-340507edebf4",
+      "season": 2,
+      "number": 3,
+      "name": "Hævnen er ikke kun sød",
+      "airdate": "2022-03-02"
+    },
+    {
+      "id": "08eb2be0-3248-4f67-ab23-36982c0dd932",
+      "season": 3,
+      "number": 1,
+      "name": "Frihed i Amsterdam",
+      "airdate": "2023-01-02"
+    },
+    {
+      "id": "da9020ae-45d4-4f57-ae50-952a119af29f",
+      "season": 3,
+      "number": 2,
+      "name": "Frelse i Amsterdam",
+      "airdate": "2023-01-03"
+    },
+    {
+      "id": "97753765-934f-4a75-ba01-acda1d4dcda7",
+      "season": 3,
+      "number": 3,
+      "name": "Magi i Amsterdam",
+      "airdate": "2023-01-04"
+    },
+    {
+      "id": "0b7998a8-43d9-4b3a-a139-0ac126e47bf4",
+      "season": 4,
+      "number": 1,
+      "name": "Sikker i Amsterdam",
+      "airdate": "2024-07-22"
+    },
+    {
+      "id": "7ba0e118-270b-4ccd-8bae-dcc5f2742681",
+      "season": 4,
+      "number": 2,
+      "name": "Håb i Amsterdam",
+      "airdate": "2024-07-23"
+    },
+    {
+      "id": "b386d909-8b5b-468c-a6ad-6590525e8c8c",
+      "season": 4,
+      "number": 3,
+      "name": "Hemmeligheder i Amsterdam",
+      "airdate": "2024-07-24"
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "id": "tv2play:haveglaeder-tv2fri",
+  "name": "Haveglæder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cb47c72e-a7da-407e-b6c7-0c4d294fd2f5",
+      "season": 2,
+      "number": 1,
+      "name": "Louises japanske have",
+      "airdate": "2014-01-27"
+    },
+    {
+      "id": "75106d58-7188-4a3a-b638-6d3d0588e66a",
+      "season": 2,
+      "number": 2,
+      "name": "En familie på syv",
+      "airdate": "2014-01-28"
+    },
+    {
+      "id": "1f4fae75-becd-4305-b8af-022c22797402",
+      "season": 2,
+      "number": 3,
+      "name": "En have fuld af roser",
+      "airdate": "2014-01-29"
+    },
+    {
+      "id": "bf8aa66d-6947-48b0-a588-47ee9b8fecae",
+      "season": 2,
+      "number": 4,
+      "name": "En ny have en ny glæde",
+      "airdate": "2014-01-30"
+    },
+    {
+      "id": "b3097b04-1bcd-4ea8-b49c-74436fa52c77",
+      "season": 2,
+      "number": 5,
+      "name": "Krigsveteranens nye have",
+      "airdate": "2014-01-31"
+    },
+    {
+      "id": "6d9f55ab-924c-4a42-b7cc-7d2a197effe4",
+      "season": 2,
+      "number": 6,
+      "name": "En have til børn på hospice",
+      "airdate": "2014-02-01"
+    },
+    {
+      "id": "425c529c-73fa-4d3e-a8b5-def4d257bfb6",
+      "season": 3,
+      "number": 1,
+      "name": "En have til særlige behov",
+      "airdate": "2014-02-02"
+    },
+    {
+      "id": "e0eed9b3-4509-4d5e-8436-7d4c21f9e6c1",
+      "season": 3,
+      "number": 2,
+      "name": "En have til særlige behov",
+      "airdate": "2014-02-03"
+    },
+    {
+      "id": "034dfa8b-6576-453c-a0d7-bef7616e4a7c",
+      "season": 3,
+      "number": 3,
+      "name": "En have til særlige behov",
+      "airdate": "2014-02-04"
+    },
+    {
+      "id": "48dbb660-377c-4bdb-8037-800449b1e474",
+      "season": 3,
+      "number": 4,
+      "name": "En have til særlige behov",
+      "airdate": "2014-02-05"
+    },
+    {
+      "id": "5352f4f5-44c9-4ed6-ba3a-a27b9ac4778e",
+      "season": 3,
+      "number": 5,
+      "name": "En have til særlige behov",
+      "airdate": "2014-02-06"
+    },
+    {
+      "id": "76d8b217-3dd5-45e0-a7ae-b66fae76ad89",
+      "season": 3,
+      "number": 6,
+      "name": "En have til særlige behov",
+      "airdate": "2014-02-07"
+    },
+    {
+      "id": "613847d3-4ae5-4eca-bd5c-b783f42e3faf",
+      "season": 3,
+      "number": 7,
+      "name": "En have til særlige behov",
+      "airdate": "2014-02-08"
+    },
+    {
+      "id": "81a6d41b-29c3-4138-97fb-48783aad9d79",
+      "season": 3,
+      "number": 8,
+      "name": "En have til særlige behov",
+      "airdate": "2014-02-09"
+    },
+    {
+      "id": "05cd8177-0234-42c4-8ce8-277693d3a736",
+      "season": 4,
+      "number": 1,
+      "name": "Elsk din have",
+      "airdate": "2015-03-26"
+    },
+    {
+      "id": "90f43642-52c3-4b14-9baa-bad7ab062bdd",
+      "season": 4,
+      "number": 2,
+      "name": "Elsk din have",
+      "airdate": "2015-03-26"
+    },
+    {
+      "id": "c6004d75-490d-4b76-b265-db303ee3f881",
+      "season": 4,
+      "number": 3,
+      "name": "Elsk din have",
+      "airdate": "2015-03-27"
+    },
+    {
+      "id": "fc4b56e3-bd28-4525-a41e-37ffe40aaa01",
+      "season": 4,
+      "number": 4,
+      "name": "Elsk din have",
+      "airdate": "2015-03-27"
+    },
+    {
+      "id": "0a4be8a2-2705-487c-8a9e-fa298c9b3149",
+      "season": 4,
+      "number": 5,
+      "name": "Elsk din have",
+      "airdate": "2015-03-28"
+    },
+    {
+      "id": "487df4d1-1787-46c1-88bd-537db3d98904",
+      "season": 4,
+      "number": 6,
+      "name": "Elsk din have",
+      "airdate": "2015-03-28"
+    },
+    {
+      "id": "ab62de1e-9c3a-4496-8473-8872d48e73e7",
+      "season": 4,
+      "number": 7,
+      "name": "Elsk din have",
+      "airdate": "2015-03-28"
+    },
+    {
+      "id": "be97d403-88af-44c6-8f00-0fd25d249190",
+      "season": 4,
+      "number": 8,
+      "name": "Elsk din have",
+      "airdate": "2015-03-28"
+    },
+    {
+      "id": "c6aa6790-ca99-4b6f-a7e2-dce48434623a",
+      "season": 5,
+      "number": 1,
+      "name": "Elsk din have",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "4c90467e-12fc-46fa-9dbe-87e8e917787e",
+      "season": 5,
+      "number": 2,
+      "name": "Elsk din have",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "cb2ac979-535f-44f2-818d-3c588ab086be",
+      "season": 5,
+      "number": 3,
+      "name": "Elsk din have",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "4633683b-33ea-4832-abca-67d4ad49b533",
+      "season": 5,
+      "number": 4,
+      "name": "Elsk din have",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "1636f8ac-d82e-42b1-a21a-dd9f40386ee0",
+      "season": 5,
+      "number": 5,
+      "name": "Elsk din have",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "397ba5bd-00fb-4b19-9d22-5001a3e4413f",
+      "season": 5,
+      "number": 6,
+      "name": "Elsk din have",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "44146781-e65f-408d-8163-e8b80aaa731b",
+      "season": 5,
+      "number": 7,
+      "name": "Elsk din have",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "f94d9df8-b141-4f8d-afb5-7d2cac44e452",
+      "season": 5,
+      "number": 8,
+      "name": "Elsk din have",
+      "airdate": "2015-08-04"
+    },
+    {
+      "id": "0adb729e-b377-40d3-9a31-04293364a7b0",
+      "season": 5,
+      "number": 9,
+      "name": "Elsk din have",
+      "airdate": "2017-03-07"
+    },
+    {
+      "id": "39e4734a-94bb-4dc9-b165-0a2dad6b1247",
+      "season": 6,
+      "number": 1,
+      "name": "Farver og nostalgi",
+      "airdate": "2024-04-11"
+    },
+    {
+      "id": "dbf1e564-15d1-4e7a-9fa7-bc91b37083c9",
+      "season": 6,
+      "number": 2,
+      "name": "En have for hele familien",
+      "airdate": "2024-04-11"
+    },
+    {
+      "id": "e4924ef4-263d-47c7-833b-c034ae4e8e20",
+      "season": 6,
+      "number": 3,
+      "name": "Med nepalesisk inspiration",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "c468f256-3f84-42a2-af15-05a59480c821",
+      "season": 6,
+      "number": 4,
+      "name": "Et fristed for dyrene",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "a9cd6780-3bee-40d4-b7ed-3838d476ebef",
+      "season": 6,
+      "number": 5,
+      "name": "Et krydstogtskib i haven",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "97121ec2-3934-48cf-bc75-b64e168acca8",
+      "season": 6,
+      "number": 6,
+      "name": "En have til minde om dig",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "e4e7c68f-d77b-4f4a-b49c-31e4f5372a57",
+      "season": 7,
+      "number": 1,
+      "name": "Et skønt fristed",
+      "airdate": "2024-04-16"
+    },
+    {
+      "id": "274a8c7d-d19d-4594-bb26-4d58ef70528e",
+      "season": 7,
+      "number": 2,
+      "name": "En gave fra familie og venner",
+      "airdate": "2024-04-16"
+    },
+    {
+      "id": "614a14cd-128e-40c1-a7ba-fe5d50d6ce8e",
+      "season": 7,
+      "number": 3,
+      "name": "En smuk forvandling",
+      "airdate": "2024-04-17"
+    },
+    {
+      "id": "cb9d0d2d-537a-4cb3-956a-985169ad1c18",
+      "season": 7,
+      "number": 4,
+      "name": "Den japanske have",
+      "airdate": "2024-04-17"
+    },
+    {
+      "id": "01c9030c-7f33-4938-b922-0deed055f33a",
+      "season": 7,
+      "number": 5,
+      "name": "En veteranhave",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "8b3d580e-a619-4519-8cdb-86c11e240a5b",
+      "season": 7,
+      "number": 6,
+      "name": "En mindehave",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "bad78a96-3f40-428a-8474-e392d26d8885",
+      "season": 7,
+      "number": 7,
+      "name": "En sansehave",
+      "airdate": "2024-04-19"
+    },
+    {
+      "id": "53e5ff5b-9f95-4bdd-94f1-1240abe7488a",
+      "season": 7,
+      "number": 8,
+      "name": "En sand dyreven",
+      "airdate": "2024-04-19"
+    },
+    {
+      "id": "fefd9d14-678f-4ce6-84e3-f28a0285de80",
+      "season": 7,
+      "number": 9,
+      "name": "En boksetræners køkkenhave",
+      "airdate": "2024-04-22"
+    },
+    {
+      "id": "ccd339f8-1509-4719-a9ed-5db772ef8495",
+      "season": 8,
+      "number": 1,
+      "name": "En farverig have",
+      "airdate": "2024-04-22"
+    },
+    {
+      "id": "20e4e12d-cedf-42b5-9fe5-0d209487c006",
+      "season": 8,
+      "number": 2,
+      "name": "En skøn familiehave",
+      "airdate": "2024-04-23"
+    },
+    {
+      "id": "2145625c-9b5e-4c4d-866c-cb12d946023b",
+      "season": 8,
+      "number": 3,
+      "name": "Fra beton til bling",
+      "airdate": "2024-04-23"
+    },
+    {
+      "id": "1ca66778-9776-455e-b26f-406272f0181b",
+      "season": 8,
+      "number": 4,
+      "name": "En sand festival",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "bd05b209-07d4-456b-a96f-72dee0062175",
+      "season": 8,
+      "number": 5,
+      "name": "Et fredfyldt fristed",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "3c2f0a34-3b48-4a16-870e-2a3d5d04341b",
+      "season": 8,
+      "number": 6,
+      "name": "Have med caribisk stemning",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "08589a81-3981-4d73-9e31-51db924a60f8",
+      "season": 8,
+      "number": 7,
+      "name": "Klassisk have med charme",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "49c4fa4e-2265-4ab2-b4dd-fc5373656e0e",
+      "season": 8,
+      "number": 8,
+      "name": "En tropisk have",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "be2885b1-a53e-4eaa-8759-bdcb0d5afbc5",
+      "season": 9,
+      "number": 1,
+      "name": "Med hjertet i haven",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "b00d5b90-ed26-4dfc-9dc8-cf51eb59b9e2",
+      "season": 9,
+      "number": 2,
+      "name": "Eventyrlig herregårdshave",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "af693578-3e61-427f-9f0b-c23e8b11bbf0",
+      "season": 9,
+      "number": 3,
+      "name": "Et modigt design",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "892a592e-c3ba-49e2-8d58-8e57e6edb263",
+      "season": 9,
+      "number": 4,
+      "name": "En spiselig have",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "3abb304e-aff0-46ae-85a7-a9036b4f4619",
+      "season": 9,
+      "number": 5,
+      "name": "For børn og barnlige sjæle",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "a0dbbedc-2fce-44d9-8ac9-57efa70250a1",
+      "season": 9,
+      "number": 6,
+      "name": "Hunde i haven",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "e481d112-ab88-4f35-bfc4-fe5e8e73bfd1",
+      "season": 9,
+      "number": 7,
+      "name": "Nyt liv i grønne omgivelser",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "e89da151-c112-4360-8629-0578cb47673a",
+      "season": 9,
+      "number": 8,
+      "name": "Et helende pusterum",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "91771945-5c5d-47ae-bbcc-514214b1799b",
+      "season": 10,
+      "number": 1,
+      "name": "Biograf og børnesikring",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "057eaffc-963b-4d0e-b3e8-a2a72542f0a6",
+      "season": 10,
+      "number": 2,
+      "name": "Hjemmebag og køkkenhave",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "92d22765-ddb8-45e3-96a9-b80943e5f83f",
+      "season": 10,
+      "number": 3,
+      "name": "Have til børn og voksne",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "6980d08c-e0b5-4568-9af2-b4d3bb8bd9eb",
+      "season": 10,
+      "number": 4,
+      "name": "Lille have på budget",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "fd491c2a-bcf4-42fe-91b3-c14a1bbf03a4",
+      "season": 10,
+      "number": 5,
+      "name": "Hjertevarm haveforvandling",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "f5bcf133-660f-4962-98c0-0b9bea49e5d9",
+      "season": 10,
+      "number": 6,
+      "name": "Et grønt fristed",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "c56c23cc-f980-4261-af05-491600fedb2d",
+      "season": 10,
+      "number": 7,
+      "name": "En tropisk have",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "9bb7652f-ea45-4f55-98fe-18971a282063",
+      "season": 10,
+      "number": 8,
+      "name": "Have i balance",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "3385313f-5fa2-4254-a0ec-7b10c541e6ef",
+      "season": 11,
+      "number": 1,
+      "name": "Luksuriøs herregårdshave",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "7d2f9c35-6928-411c-815d-93033c82df49",
+      "season": 11,
+      "number": 2,
+      "name": "Et funktionelt udendørsrum",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "c3eaddae-66a4-4565-a8e9-c9370c68f9c7",
+      "season": 11,
+      "number": 3,
+      "name": "Vækst i køligt klima",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "1a24e5f3-3646-49df-b310-db5a19d50784",
+      "season": 11,
+      "number": 4,
+      "name": "En magisk skovhave",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "a2db5d6c-a5a9-4122-8e72-85448c63776f",
+      "season": 11,
+      "number": 5,
+      "name": "Plads til alle",
+      "airdate": "2025-06-07"
+    },
+    {
+      "id": "27865331-ca2f-435d-874a-cc0e1d6d3105",
+      "season": 11,
+      "number": 6,
+      "name": "Fokus på genbrug",
+      "airdate": "2025-06-07"
+    },
+    {
+      "id": "6960d468-b857-459c-91f3-e0f8b708a10d",
+      "season": 11,
+      "number": 7,
+      "name": "Sanserne i spil",
+      "airdate": "2025-06-07"
+    },
+    {
+      "id": "61e84694-5277-4edf-8790-a083efa4d4b7",
+      "season": 11,
+      "number": 8,
+      "name": "En hemmelig have",
+      "airdate": "2025-06-07"
+    },
+    {
+      "id": "ad66df44-d910-43ee-b300-b75510a5a769",
+      "season": 12,
+      "number": 1,
+      "name": "Have med minder",
+      "airdate": "2026-03-22"
+    },
+    {
+      "id": "0726b103-04f5-48e3-bb13-1e8dbcc42c17",
+      "season": 12,
+      "number": 2,
+      "name": "Fuld af farver",
+      "airdate": "2026-03-22"
+    },
+    {
+      "id": "59e49057-5bfe-4d58-8513-060d29c305e3",
+      "season": 12,
+      "number": 3,
+      "name": "Plads til dyr",
+      "airdate": "2026-03-29"
+    },
+    {
+      "id": "4b000a33-7079-4aa5-888f-bcd4842486ba",
+      "season": 12,
+      "number": 4,
+      "name": "Vand i haven",
+      "airdate": "2026-04-05"
+    },
+    {
+      "id": "a88b86c2-7cdd-4e7c-8fa1-0d27698d341c",
+      "season": 12,
+      "number": 5,
+      "name": "Wirral-jungle",
+      "airdate": "2026-04-12"
+    },
+    {
+      "id": "b1d8d56b-f881-4f52-8406-e179e4bd289a",
+      "season": 12,
+      "number": 6,
+      "name": "Fred og ro",
+      "airdate": "2026-04-19"
+    },
+    {
+      "id": "17b58b21-7166-485c-8a6c-6b3b631aaffc",
+      "season": 12,
+      "number": 7,
+      "name": "Funktionel have",
+      "airdate": "2026-04-26"
+    },
+    {
+      "id": "98a0a8ae-1941-478a-95c9-2de6c77b6485",
+      "season": 12,
+      "number": 8,
+      "name": "Fællesskabet længe leve",
+      "airdate": "2026-05-03"
+    },
+    {
+      "id": "1ce5020e-e7ec-401e-ac12-274a7bd6ff6c",
+      "season": 13,
+      "number": 1,
+      "name": "Sydlandsk stemning",
+      "airdate": "2026-06-21"
+    },
+    {
+      "id": "3a73a1a1-efd6-4a2f-84c6-360f1fa49f5e",
+      "season": 13,
+      "number": 2,
+      "name": "Familiehave med hjerte",
+      "airdate": "2026-06-21"
+    },
+    {
+      "id": "78f25a74-7d63-4efd-936f-9fb79b7ae02b",
+      "season": 13,
+      "number": 3,
+      "name": "Plads til alle",
+      "airdate": "2026-06-21"
+    },
+    {
+      "id": "90a9cfa9-5988-4bec-9e87-80c35472685f",
+      "season": 13,
+      "number": 4,
+      "name": "Fra Vietnam til villahave",
+      "airdate": "2026-06-28"
+    },
+    {
+      "id": "6bc73fe0-d466-48d7-964f-2ad28d6ca20b",
+      "season": 13,
+      "number": 5,
+      "name": "Klassisk landhave",
+      "airdate": "2026-06-28"
+    },
+    {
+      "id": "6a2cfc51-85b1-48d0-9d3d-e6803b07d62d",
+      "season": 13,
+      "number": 6,
+      "name": "Helende have i Hertfordshire",
+      "airdate": "2026-06-28"
+    }
+  ]
+}

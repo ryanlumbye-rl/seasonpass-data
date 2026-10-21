@@ -1,0 +1,143 @@
+{
+  "id": "tv2play:mesterlige-ombygninger-tv2",
+  "name": "Mesterlige ombygninger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2386d41c-a352-4a15-90ba-38359f22ae12",
+      "season": 1,
+      "number": 1,
+      "name": "Fra industribygning til fed familiebolig",
+      "airdate": "2016-09-27"
+    },
+    {
+      "id": "dc0ef1b2-a9fe-4519-804b-d07764b48812",
+      "season": 1,
+      "number": 2,
+      "name": "Den grimme ælling i Vanløse",
+      "airdate": "2016-10-04"
+    },
+    {
+      "id": "ed8eaa41-eb6b-4ec8-8d70-2ec27b8157fb",
+      "season": 1,
+      "number": 3,
+      "name": "Herskabslejligheden i København",
+      "airdate": "2016-10-11"
+    },
+    {
+      "id": "4607d7b4-0e79-4ecc-aa3f-18888b67c1bf",
+      "season": 1,
+      "number": 4,
+      "name": "Fyrskibet, der fik ny historie",
+      "airdate": "2016-10-18"
+    },
+    {
+      "id": "6d6d577c-4dbb-4a2f-a3b0-04ccd659f3b3",
+      "season": 1,
+      "number": 5,
+      "name": "Vaskehuset på Ærø",
+      "airdate": "2016-10-25"
+    },
+    {
+      "id": "0cb0ea7e-a6e1-483b-a5ea-a2906d919e2e",
+      "season": 1,
+      "number": 6,
+      "name": "Lysmesteren kommer forbi",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "61266b24-b71e-4931-ade2-53c8a3b9b045",
+      "season": 2,
+      "number": 1,
+      "name": "Bølgen i Gilleleje",
+      "airdate": "2020-10-28"
+    },
+    {
+      "id": "1a21233b-d094-4e2e-b9b2-c03f40de57e4",
+      "season": 2,
+      "number": 2,
+      "name": "Den røde murstenskasse i Holte",
+      "airdate": "2020-10-28"
+    },
+    {
+      "id": "702de7bb-eed7-408f-9474-f57589d94321",
+      "season": 2,
+      "number": 3,
+      "name": "Kolonihaven på Amager",
+      "airdate": "2020-11-04"
+    },
+    {
+      "id": "810e89b4-dc82-42e8-9f31-0f96705b2d6b",
+      "season": 2,
+      "number": 4,
+      "name": "Den mørke lade i Horsens",
+      "airdate": "2020-11-11"
+    },
+    {
+      "id": "e4cfe2d8-ef26-43bd-9003-b972ad5a9587",
+      "season": 2,
+      "number": 5,
+      "name": "Mormors parcelhus i Dragør",
+      "airdate": "2021-10-06"
+    },
+    {
+      "id": "02076ad1-4eab-4653-9c81-239820445b17",
+      "season": 3,
+      "number": 1,
+      "name": "Møllen i Roskilde",
+      "airdate": "2024-11-14"
+    },
+    {
+      "id": "4ea98c03-d7e6-424d-8ce4-92e79855724d",
+      "season": 3,
+      "number": 2,
+      "name": "Det fredede barndomshjem i Søllerød",
+      "airdate": "2024-11-21"
+    },
+    {
+      "id": "6e2b59cb-f6ca-416c-801a-57e4b791e0d3",
+      "season": 3,
+      "number": 3,
+      "name": "Sommerhuset på Thurø",
+      "airdate": "2024-11-28"
+    },
+    {
+      "id": "a474f876-f5a8-4398-be2b-b240bc587907",
+      "season": 3,
+      "number": 4,
+      "name": "Parcellen på Amager Fælled",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "345a98a5-921a-47c4-8916-982a15834f2f",
+      "season": 3,
+      "number": 5,
+      "name": "Huset på skråningen ved Århus",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "ec6d3ec4-102c-44e6-bfc3-4677c5e7025a",
+      "season": 4,
+      "number": 1,
+      "name": "Murermestervilla i Odense",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "895bc2ee-22cb-4a45-bb5e-2a9f67ad3cbe",
+      "season": 4,
+      "number": 2,
+      "name": "Murstenssommerhus i Stillinge Strand",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "5656b12b-8113-4961-803a-1a688097ab0a",
+      "season": 5,
+      "number": 1,
+      "name": "Mesterlige ombygninger",
+      "airdate": "2027-05-20"
+    }
+  ]
+}

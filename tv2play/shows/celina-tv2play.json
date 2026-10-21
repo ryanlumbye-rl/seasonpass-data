@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:celina-tv2play",
+  "name": "Celina",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-11-02",
+  "episodes": [
+    {
+      "id": "d7e14eee-4283-485f-8d1f-a5f4c1daecaa",
+      "season": 2026,
+      "number": 1,
+      "name": "USA-eventyr gav Zanka mere end fodbold",
+      "airdate": "2026-10-12"
+    },
+    {
+      "id": "245aefa3-5cfb-4870-93b6-fa979015e844",
+      "season": 2026,
+      "number": 2,
+      "name": "LA-dansker deler opskriften på sit \"fede liv”",
+      "airdate": "2026-10-19"
+    },
+    {
+      "id": "bf8d9c7f-248c-4781-8d8f-b6a73693e094",
+      "season": 2026,
+      "number": 4,
+      "name": "Celina",
+      "airdate": "2028-01-01"
+    }
+  ]
+}

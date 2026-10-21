@@ -1,0 +1,402 @@
+{
+  "id": "tv2play:sommerdahl-tv2charlie",
+  "name": "Sommerdahl",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f4773572-34d2-4b28-bfef-033230c31af1",
+      "season": 1,
+      "number": 1,
+      "name": "Til døden os skiller - del 1",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "cdfc4d9f-a80e-49a2-a71c-8a4703079511",
+      "season": 1,
+      "number": 2,
+      "name": "Til døden os skiller - del 2",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "f43ba1ee-c49b-4129-8343-e8abc6374037",
+      "season": 1,
+      "number": 3,
+      "name": "Kontakt søges... - del 1",
+      "airdate": "2020-03-08"
+    },
+    {
+      "id": "d76295f8-d948-4a34-b9fc-e923858a0fea",
+      "season": 1,
+      "number": 4,
+      "name": "Kontakt søges... - del 2",
+      "airdate": "2020-03-15"
+    },
+    {
+      "id": "ff49df2a-2071-4248-abc3-f025b34e8019",
+      "season": 1,
+      "number": 5,
+      "name": "Gengældelsen - del 1",
+      "airdate": "2020-03-22"
+    },
+    {
+      "id": "bde07233-0887-433f-a6a1-515cd495f6b4",
+      "season": 1,
+      "number": 6,
+      "name": "Gengældelsen - del 2",
+      "airdate": "2020-03-29"
+    },
+    {
+      "id": "cf371879-5f00-4159-9a74-500774c4db58",
+      "season": 1,
+      "number": 7,
+      "name": "Fatalt selvmål - del 1",
+      "airdate": "2020-04-05"
+    },
+    {
+      "id": "dd027407-5896-43cb-923a-94fcbea4d605",
+      "season": 1,
+      "number": 8,
+      "name": "Fatalt selvmål - del 2",
+      "airdate": "2020-04-12"
+    },
+    {
+      "id": "406f6c8b-3ca4-45d8-90bc-853dde8beb28",
+      "season": 2,
+      "number": 1,
+      "name": "Tabte drømme - del 1",
+      "airdate": "2021-02-28"
+    },
+    {
+      "id": "83dc1def-f62c-47a1-a804-959fbd970dc4",
+      "season": 2,
+      "number": 2,
+      "name": "Tabte drømme - del 2",
+      "airdate": "2021-02-28"
+    },
+    {
+      "id": "0f91cfe2-2a3b-482c-9006-c3bae43fa695",
+      "season": 2,
+      "number": 3,
+      "name": "Kærligheden tåler (næsten) alt - del 1",
+      "airdate": "2021-03-07"
+    },
+    {
+      "id": "f75b9d23-def2-4d9d-ad35-e8613ec335a2",
+      "season": 2,
+      "number": 4,
+      "name": "Kærligheden tåler (næsten) alt - del 2",
+      "airdate": "2021-03-14"
+    },
+    {
+      "id": "348ba4fe-88d9-4d05-9f55-f41d24c3c850",
+      "season": 2,
+      "number": 5,
+      "name": "Den man tugter, elsker man - del 1",
+      "airdate": "2021-03-21"
+    },
+    {
+      "id": "cb57122b-3f21-46d5-ac21-be099a4ba70b",
+      "season": 2,
+      "number": 6,
+      "name": "Den man tugter, elsker man - del 2",
+      "airdate": "2021-03-28"
+    },
+    {
+      "id": "9bf6e46c-c356-46bd-89d2-1763f90c4852",
+      "season": 2,
+      "number": 7,
+      "name": "Når målet helliger midlet - del 1",
+      "airdate": "2021-04-04"
+    },
+    {
+      "id": "e383c520-2bad-476f-872e-9afe5fe54515",
+      "season": 2,
+      "number": 8,
+      "name": "Når målet helliger midlet - del 2",
+      "airdate": "2021-04-11"
+    },
+    {
+      "id": "3ec20395-8fa8-4638-8bf6-53d0ca8e425f",
+      "season": 3,
+      "number": 1,
+      "name": "Fortrængte følelser - del 1",
+      "airdate": "2022-03-13"
+    },
+    {
+      "id": "18a9eefb-81f2-435d-a6c1-0be69c7d3101",
+      "season": 3,
+      "number": 2,
+      "name": "Fortrængte følelser - del 2",
+      "airdate": "2022-03-13"
+    },
+    {
+      "id": "0636a967-7678-4cd6-9d74-8d65b4f0d161",
+      "season": 3,
+      "number": 3,
+      "name": "Nordens Cannes - del 1",
+      "airdate": "2022-03-20"
+    },
+    {
+      "id": "774d1362-f14e-4371-97f9-92c62de298ef",
+      "season": 3,
+      "number": 4,
+      "name": "Nordens Cannes - del 2",
+      "airdate": "2022-03-27"
+    },
+    {
+      "id": "572b9d3a-41f5-4e20-bf11-f85358a9e2ff",
+      "season": 3,
+      "number": 5,
+      "name": "For Gud og fædreland - del 1",
+      "airdate": "2022-04-03"
+    },
+    {
+      "id": "04bebe77-94d9-4862-9b5d-bf61d7efeb31",
+      "season": 3,
+      "number": 6,
+      "name": "For Gud og fædreland - del 2",
+      "airdate": "2022-04-10"
+    },
+    {
+      "id": "93bb74bc-b181-4e84-a615-c8183c3981b9",
+      "season": 3,
+      "number": 7,
+      "name": "Lige børn leger bedst - del 1",
+      "airdate": "2022-04-17"
+    },
+    {
+      "id": "adc5df0a-4a81-40c7-9e43-67c2d620dacc",
+      "season": 3,
+      "number": 8,
+      "name": "Lige børn leger bedst - del 2",
+      "airdate": "2022-04-24"
+    },
+    {
+      "id": "9f32a4d4-351e-4926-b889-ac1218bd2fba",
+      "season": 4,
+      "number": 1,
+      "name": "Belønning og straf - del 1",
+      "airdate": "2023-05-07"
+    },
+    {
+      "id": "2bef39d9-1ac9-4d08-8097-a47b6387671e",
+      "season": 4,
+      "number": 2,
+      "name": "Belønning og straf - del 2",
+      "airdate": "2023-05-14"
+    },
+    {
+      "id": "8f14a3bd-7a15-4459-bbd3-cd3ffdfc5e6c",
+      "season": 4,
+      "number": 3,
+      "name": "Det lugter af fisk - del 1",
+      "airdate": "2023-05-21"
+    },
+    {
+      "id": "50362426-623e-4fe4-beb7-705267005880",
+      "season": 4,
+      "number": 4,
+      "name": "Det lugter af fisk - del 2",
+      "airdate": "2023-05-28"
+    },
+    {
+      "id": "9a5cb74c-6479-4576-8d15-33acdb24ab59",
+      "season": 4,
+      "number": 5,
+      "name": "Op på hesten igen - del 1",
+      "airdate": "2023-06-04"
+    },
+    {
+      "id": "b382d515-8a72-44a0-ba3c-7d8f5fe5998f",
+      "season": 4,
+      "number": 6,
+      "name": "Op på hesten igen - del 2",
+      "airdate": "2023-06-11"
+    },
+    {
+      "id": "3051c0aa-8f73-4474-83cf-08df30ac3c36",
+      "season": 4,
+      "number": 7,
+      "name": "Det gode menneske - del 1",
+      "airdate": "2023-06-18"
+    },
+    {
+      "id": "9de2eddc-0569-44d5-8cf4-123dfb9c81e9",
+      "season": 4,
+      "number": 8,
+      "name": "Det gode menneske - del 2",
+      "airdate": "2023-06-20"
+    },
+    {
+      "id": "09c8a60a-0141-494d-ab75-dfacbbf3ed12",
+      "season": 5,
+      "number": 1,
+      "name": "Næste generation - del 1",
+      "airdate": "2024-05-05"
+    },
+    {
+      "id": "bc05e8a3-c8de-46f7-aa0d-a565469b2809",
+      "season": 5,
+      "number": 2,
+      "name": "Næste generation - del 2",
+      "airdate": "2024-05-12"
+    },
+    {
+      "id": "1d67995b-49cd-40c9-863c-31bdc56ee74f",
+      "season": 5,
+      "number": 3,
+      "name": "Det spinkle håb - del 1",
+      "airdate": "2024-05-19"
+    },
+    {
+      "id": "a868ba2e-e5f0-44b7-bf9d-f67591faa927",
+      "season": 5,
+      "number": 4,
+      "name": "Det spinkle håb - del 2",
+      "airdate": "2024-05-26"
+    },
+    {
+      "id": "d665e217-479c-4215-b5d5-49f22385aa9f",
+      "season": 5,
+      "number": 5,
+      "name": "Et slag for retfærdighed - del 1",
+      "airdate": "2024-06-02"
+    },
+    {
+      "id": "71a3becf-22b9-4dbb-b8b2-c49d720ff4fc",
+      "season": 5,
+      "number": 6,
+      "name": "Et slag for retfærdighed - del 2",
+      "airdate": "2024-06-09"
+    },
+    {
+      "id": "25636a9f-365b-4b74-8353-7a74c2af9b57",
+      "season": 5,
+      "number": 7,
+      "name": "En stor fisk i nettet - del 1",
+      "airdate": "2024-06-16"
+    },
+    {
+      "id": "afb624ad-4411-4221-8b36-a60a31942db2",
+      "season": 5,
+      "number": 8,
+      "name": "En stor fisk i nettet - del 2",
+      "airdate": "2024-06-23"
+    },
+    {
+      "id": "a5063fe7-f26c-4f19-b555-0ad335d1a704",
+      "season": 6,
+      "number": 1,
+      "name": "SoMe - del 1",
+      "airdate": "2025-01-26"
+    },
+    {
+      "id": "d8ebc3da-cfc1-42ce-9afc-ab6fce6017c4",
+      "season": 6,
+      "number": 2,
+      "name": "SoMe - del 2",
+      "airdate": "2025-02-02"
+    },
+    {
+      "id": "b0bedf10-8f9f-4c09-b964-f5fc1ea40057",
+      "season": 6,
+      "number": 3,
+      "name": "Bagsiden af medaljen - del 1",
+      "airdate": "2025-02-09"
+    },
+    {
+      "id": "0a573428-f5bc-4442-b610-a45e7748703f",
+      "season": 6,
+      "number": 4,
+      "name": "Bagsiden af medaljen - del 2",
+      "airdate": "2025-02-16"
+    },
+    {
+      "id": "dab40bb0-2733-4fc6-a838-0b84184ad86f",
+      "season": 6,
+      "number": 5,
+      "name": "Kunstigt - del 1",
+      "airdate": "2025-02-23"
+    },
+    {
+      "id": "8d6b173d-f36a-49d3-806a-e39544423b2f",
+      "season": 6,
+      "number": 6,
+      "name": "Kunstigt - del 2",
+      "airdate": "2025-03-02"
+    },
+    {
+      "id": "c81259f8-4b05-48ea-9b0b-04b3c11d50f4",
+      "season": 6,
+      "number": 7,
+      "name": "Brudte løfter - del 1",
+      "airdate": "2025-03-09"
+    },
+    {
+      "id": "b256d5e4-02f5-4abc-8fa8-dc0a50a5204a",
+      "season": 6,
+      "number": 8,
+      "name": "Brudte løfter - del 2",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "477e5428-e9e7-4e93-ae6c-a21515e44d66",
+      "season": 7,
+      "number": 1,
+      "name": "Under overfladen - del 1",
+      "airdate": "2026-03-15"
+    },
+    {
+      "id": "982372b2-f42a-4996-836b-b2ba98c6f9bc",
+      "season": 7,
+      "number": 2,
+      "name": "Under overfladen - del 2",
+      "airdate": "2026-03-22"
+    },
+    {
+      "id": "42e9da95-daa8-452d-b51c-f68d7e78ac60",
+      "season": 7,
+      "number": 3,
+      "name": "Værelse med udsigt - del 1",
+      "airdate": "2026-03-29"
+    },
+    {
+      "id": "6c8743ed-d4ae-4c3b-977d-bf3e75013892",
+      "season": 7,
+      "number": 4,
+      "name": "Værelse med udsigt - del 2",
+      "airdate": "2026-04-05"
+    },
+    {
+      "id": "9ca87c41-745b-4dcf-91c4-6537dab46233",
+      "season": 7,
+      "number": 5,
+      "name": "Til døden os skiller - del 1",
+      "airdate": "2026-04-12"
+    },
+    {
+      "id": "69547909-bd1a-4942-bbca-1b09ea0c15d5",
+      "season": 7,
+      "number": 6,
+      "name": "Til døden os skiller - del 2",
+      "airdate": "2026-04-19"
+    },
+    {
+      "id": "2a4c6c44-7aef-4dd4-a194-cd6669b1da67",
+      "season": 7,
+      "number": 7,
+      "name": "No change, no future - del 1",
+      "airdate": "2026-04-26"
+    },
+    {
+      "id": "b29e04d2-4980-4bdd-b205-e0619081a624",
+      "season": 7,
+      "number": 8,
+      "name": "No change, no future - del 2",
+      "airdate": "2026-05-03"
+    }
+  ]
+}

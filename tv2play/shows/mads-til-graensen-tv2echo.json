@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:mads-til-graensen-tv2echo",
+  "name": "Mads til grænsen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a0458622-9d92-45c9-8ad2-4e66e09974a1",
+      "season": 1,
+      "number": 1,
+      "name": "Blodofring i Indonesien",
+      "airdate": "2022-10-31"
+    },
+    {
+      "id": "0747845a-4400-4a4c-ba27-a4afd8c1af36",
+      "season": 1,
+      "number": 2,
+      "name": "Pasola showdown",
+      "airdate": "2022-10-31"
+    },
+    {
+      "id": "901b04df-80f0-4c9f-aba7-b1d5e98d2a10",
+      "season": 1,
+      "number": 3,
+      "name": "Rumble in the jungle",
+      "airdate": "2022-11-07"
+    },
+    {
+      "id": "ea06d081-ec29-4fdd-a89b-3e267e0a8307",
+      "season": 1,
+      "number": 4,
+      "name": "Skovtur med party-pygmæerne",
+      "airdate": "2022-11-14"
+    },
+    {
+      "id": "e21ebc02-ea93-4384-adc7-368bedd42604",
+      "season": 1,
+      "number": 5,
+      "name": "Afrikas stjerne",
+      "airdate": "2022-11-21"
+    }
+  ]
+}

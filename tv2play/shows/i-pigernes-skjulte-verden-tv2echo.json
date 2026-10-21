@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:i-pigernes-skjulte-verden-tv2echo",
+  "name": "I pigernes skjulte verden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cd3bacc2-d603-40c3-beb2-7e30e8966f64",
+      "season": 1,
+      "number": 1,
+      "name": "Overgreb i Kenya",
+      "airdate": "2020-11-18"
+    },
+    {
+      "id": "80ad59d1-4350-4607-af5a-c58811038972",
+      "season": 1,
+      "number": 2,
+      "name": "Barnebrude i Nepal",
+      "airdate": "2020-11-18"
+    },
+    {
+      "id": "655e3b83-c712-4e6f-922a-72d15392b4ab",
+      "season": 1,
+      "number": 3,
+      "name": "Teenagemødre i Honduras",
+      "airdate": "2020-12-02"
+    },
+    {
+      "id": "94cabc1c-be57-413d-bcf3-071a76b1e549",
+      "season": 1,
+      "number": 4,
+      "name": "Overlevelse i Kenya",
+      "airdate": "2020-11-25"
+    },
+    {
+      "id": "c2529702-e134-4aae-885e-c37818fddf9a",
+      "season": 1,
+      "number": 5,
+      "name": "Sexisme og MeToo",
+      "airdate": "2020-12-02"
+    },
+    {
+      "id": "e8989625-e757-4da3-9c9e-27cd1ae3ca28",
+      "season": 1,
+      "number": 6,
+      "name": "Håb for fremtiden",
+      "airdate": "2020-12-02"
+    }
+  ]
+}

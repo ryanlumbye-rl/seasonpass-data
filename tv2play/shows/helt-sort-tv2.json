@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:helt-sort-tv2",
+  "name": "Helt sort",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e1e98186-a140-4099-b467-d8bc40f06b8c",
+      "season": 1,
+      "number": 1,
+      "name": "Melvin på toppen af Jylland",
+      "airdate": "2019-11-04"
+    },
+    {
+      "id": "5c9b95be-ab95-4921-8564-eaef2481bda6",
+      "season": 1,
+      "number": 2,
+      "name": "Melvin tager kampen op på Fyn",
+      "airdate": "2019-11-04"
+    },
+    {
+      "id": "def3c350-607e-4180-96c9-524b37af8fa4",
+      "season": 1,
+      "number": 3,
+      "name": "Melvin på Solskinsøen",
+      "airdate": "2019-11-11"
+    },
+    {
+      "id": "ad89a7be-b39b-4c99-b94a-1afc2cf543d0",
+      "season": 1,
+      "number": 4,
+      "name": "Melvin udforsker Midtjylland",
+      "airdate": "2019-11-18"
+    },
+    {
+      "id": "f99d9b23-d349-4dab-b6f7-0af2d6e9b60b",
+      "season": 2,
+      "number": 1,
+      "name": "Melvin og de kronjyske lamaer",
+      "airdate": "2020-11-10"
+    },
+    {
+      "id": "385d3958-4541-4d10-b31c-7e616046c869",
+      "season": 2,
+      "number": 2,
+      "name": "Melvin på sønderjysk",
+      "airdate": "2020-11-10"
+    },
+    {
+      "id": "7adb3846-c1d4-4a29-ab94-194b0d3070aa",
+      "season": 2,
+      "number": 3,
+      "name": "Melvin i det vilde Vestsjælland",
+      "airdate": "2020-11-17"
+    },
+    {
+      "id": "2040e3ab-108c-4637-9129-d03ea001a4ae",
+      "season": 2,
+      "number": 4,
+      "name": "Melvin på de danske sydhavsøer",
+      "airdate": "2020-11-24"
+    },
+    {
+      "id": "816c4001-ee3e-4eeb-8c41-a62ffb6f5687",
+      "season": 2,
+      "number": 5,
+      "name": "Melvin i lære som julemand",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e7328790-e820-413f-aebe-057956266abe",
+      "season": 3,
+      "number": 1,
+      "name": "Melvin lægger arm med hovedstaden",
+      "airdate": "2021-10-28"
+    },
+    {
+      "id": "70b3c6fc-bf4b-4d5c-bf11-e770f9de6a14",
+      "season": 3,
+      "number": 2,
+      "name": "Mavesår på Vestegnen",
+      "airdate": "2021-10-28"
+    },
+    {
+      "id": "b7c058f3-6060-4046-a0cf-464015170d5d",
+      "season": 3,
+      "number": 3,
+      "name": "Melvin griller i Sydvestjylland",
+      "airdate": "2021-11-04"
+    },
+    {
+      "id": "aa0e8261-6a05-4458-b094-bf86ea69b708",
+      "season": 3,
+      "number": 5,
+      "name": "Temposkift i Thy",
+      "airdate": "2021-11-18"
+    },
+    {
+      "id": "b26d3023-0810-4327-86d6-7d27762b6562",
+      "season": 3,
+      "number": 6,
+      "name": "På glatis i Grønland",
+      "airdate": "2021-11-25"
+    },
+    {
+      "id": "43fa5505-9ee3-4808-849b-864a3a16d7ac",
+      "season": 4,
+      "number": 1,
+      "name": "Melvin til Tour de France",
+      "airdate": "2022-10-20"
+    },
+    {
+      "id": "aa8567ed-e0e8-49f2-9379-5bf76c3cc7a5",
+      "season": 4,
+      "number": 2,
+      "name": "Melvin til E-sport",
+      "airdate": "2022-10-20"
+    },
+    {
+      "id": "06cf82f8-941d-4eb3-9d5b-98217387c6ff",
+      "season": 4,
+      "number": 3,
+      "name": "Melvin i Bruxelles",
+      "airdate": "2022-10-27"
+    },
+    {
+      "id": "ae264c33-e6a2-42e5-bfe6-cc06ad6c4a34",
+      "season": 4,
+      "number": 4,
+      "name": "Melvin på sommertogt",
+      "airdate": "2022-11-03"
+    },
+    {
+      "id": "9ffa2fc2-7b80-4b7c-af5a-630b525cb444",
+      "season": 4,
+      "number": 5,
+      "name": "Melvin på festival",
+      "airdate": "2022-11-10"
+    },
+    {
+      "id": "6a87684c-5be2-4dc7-be11-413dcbc365b1",
+      "season": 4,
+      "number": 6,
+      "name": "Melvin til landskamp",
+      "airdate": "2022-11-17"
+    },
+    {
+      "id": "1bc64b92-bbd4-4de8-8dc3-0e4060dd5825",
+      "season": 5,
+      "number": 1,
+      "name": "Barndommen",
+      "airdate": "2024-02-28"
+    },
+    {
+      "id": "b2973fbe-823c-4fe6-b2ab-b34f775316e5",
+      "season": 5,
+      "number": 2,
+      "name": "Ungdommen",
+      "airdate": "2024-03-06"
+    },
+    {
+      "id": "6e9cd1c0-deae-4685-9948-dae024da06f8",
+      "season": 5,
+      "number": 3,
+      "name": "Voksenlivet",
+      "airdate": "2024-03-13"
+    },
+    {
+      "id": "fd8759a2-747a-4f37-9fdb-47a90d1377bb",
+      "season": 5,
+      "number": 4,
+      "name": "Midt i livet",
+      "airdate": "2024-03-20"
+    },
+    {
+      "id": "e7cc1428-03b2-4a0a-bb42-3f20c613693a",
+      "season": 5,
+      "number": 5,
+      "name": "Seniorlivet",
+      "airdate": "2024-03-27"
+    },
+    {
+      "id": "1376bd53-72b3-4033-9990-d138d3cec7da",
+      "season": 5,
+      "number": 6,
+      "name": "Livets slutning",
+      "airdate": "2024-04-03"
+    },
+    {
+      "id": "18a02c62-fdcb-4aca-ba66-3ca271d9098e",
+      "season": 6,
+      "number": 1,
+      "name": "Sundhed",
+      "airdate": "2025-08-06"
+    },
+    {
+      "id": "1c264012-fb07-48b1-9952-1f9cc260fca9",
+      "season": 6,
+      "number": 2,
+      "name": "Spiritualitet",
+      "airdate": "2025-08-13"
+    },
+    {
+      "id": "ded2d3d1-0c8c-48b5-aa0b-75e18e4159fa",
+      "season": 6,
+      "number": 3,
+      "name": "Teknologi",
+      "airdate": "2025-08-20"
+    },
+    {
+      "id": "9f5c4339-79f8-4795-a448-b81efccedb6e",
+      "season": 6,
+      "number": 4,
+      "name": "Køn",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "633bc851-15ed-48e4-952a-b4b8a7823c94",
+      "season": 6,
+      "number": 5,
+      "name": "Kærlighed",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "c01bc740-0ebd-41cf-a489-149d09701c58",
+      "season": 6,
+      "number": 6,
+      "name": "Klima",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "95583a79-ea91-43c3-9885-66f6e907b73e",
+      "season": 6,
+      "number": 7,
+      "name": "Nu skal vi ha' haps",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "7c50e5ec-ee0c-4320-a032-e4c4776cee65",
+      "season": 6,
+      "number": 8,
+      "name": "Hvorfor spiser vi så and?",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "651324f7-e823-4f6f-854e-d401c9a369d3",
+      "season": 7,
+      "number": 1,
+      "name": "Lykke",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "23d9b08d-6171-4742-a47c-c18d5726afcf",
+      "season": 7,
+      "number": 2,
+      "name": "Frisind",
+      "airdate": "2026-08-05"
+    },
+    {
+      "id": "9944cef6-8d18-40c9-9bc1-94fdc9026099",
+      "season": 7,
+      "number": 3,
+      "name": "Hygge",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "651e797d-4524-4c1e-80be-f9658c74f433",
+      "season": 7,
+      "number": 4,
+      "name": "Jantelov",
+      "airdate": "2026-08-19"
+    },
+    {
+      "id": "0cfda843-550f-4fe4-a1a3-1108227d6817",
+      "season": 7,
+      "number": 5,
+      "name": "Humor",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "e60006d6-d3bc-471c-8444-f27a09586a09",
+      "season": 7,
+      "number": 6,
+      "name": "Demokrati",
+      "airdate": "2026-09-02"
+    }
+  ]
+}

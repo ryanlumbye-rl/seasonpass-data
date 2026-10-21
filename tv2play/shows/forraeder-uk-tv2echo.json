@@ -1,0 +1,360 @@
+{
+  "id": "tv2play:forraeder-uk-tv2echo",
+  "name": "Forræder UK",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "c57aa941-d2c5-4178-b39f-705e0a3c0922",
+      "season": 2,
+      "number": 1,
+      "name": "Ankomsten",
+      "airdate": "2024-05-31"
+    },
+    {
+      "id": "32a1034e-4b3e-49f8-8b89-ba2ed891f5e4",
+      "season": 2,
+      "number": 2,
+      "name": "Første mord",
+      "airdate": "2024-06-08"
+    },
+    {
+      "id": "83e67c9b-6c5f-4463-b2c7-6f89293fa366",
+      "season": 2,
+      "number": 3,
+      "name": "Hemmeligheder",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "dc431a73-0a4c-4bce-a9bc-c91099daf78f",
+      "season": 2,
+      "number": 4,
+      "name": "Overraskelse",
+      "airdate": "2024-06-22"
+    },
+    {
+      "id": "9418a3ef-2576-4a80-9f3c-f8a55249c56e",
+      "season": 2,
+      "number": 5,
+      "name": "Brutal forvisning",
+      "airdate": "2024-06-29"
+    },
+    {
+      "id": "599ad060-b0a7-4f79-bf6a-cc809abc9379",
+      "season": 2,
+      "number": 6,
+      "name": "Halvvejs",
+      "airdate": "2024-07-06"
+    },
+    {
+      "id": "5a44990c-a8e4-47cb-a928-d900904ba8c0",
+      "season": 2,
+      "number": 7,
+      "name": "Frit løb for følelserne",
+      "airdate": "2024-07-13"
+    },
+    {
+      "id": "d849476e-33d6-4564-9ebe-00289b47450a",
+      "season": 2,
+      "number": 8,
+      "name": "Mistro",
+      "airdate": "2024-07-20"
+    },
+    {
+      "id": "133ab429-3d7d-428c-854e-536675635865",
+      "season": 2,
+      "number": 9,
+      "name": "Game changer",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "a8dbd18d-2456-46f0-9fc8-f9154b6a1d6e",
+      "season": 2,
+      "number": 10,
+      "name": "Fælder og fældet",
+      "airdate": "2024-08-03"
+    },
+    {
+      "id": "ae8c5d0e-3069-46f0-82cc-321f5a5cac65",
+      "season": 2,
+      "number": 11,
+      "name": "Stol ikke på nogen",
+      "airdate": "2024-08-10"
+    },
+    {
+      "id": "376aa8ec-47dc-4fd6-b80c-92cecfba02e2",
+      "season": 2,
+      "number": 12,
+      "name": "Sidste dag på slottet",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "bd0042c6-0060-434d-8606-2e9c6f21fc49",
+      "season": 3,
+      "number": 1,
+      "name": "Velkommen til slottet",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "ee254ce5-35e8-4530-9a01-2ca2570685c3",
+      "season": 3,
+      "number": 2,
+      "name": "Chok på slottet",
+      "airdate": "2025-06-07"
+    },
+    {
+      "id": "269174d5-148d-4c00-99b3-c6830f1b02af",
+      "season": 3,
+      "number": 3,
+      "name": "Tvivlen nager",
+      "airdate": "2025-06-14"
+    },
+    {
+      "id": "b0d3e5f5-33e7-4acb-b227-c65248a6c681",
+      "season": 3,
+      "number": 4,
+      "name": "Nattens mord",
+      "airdate": "2025-06-21"
+    },
+    {
+      "id": "48687765-9daa-443e-b72e-c5015bb5bd2c",
+      "season": 3,
+      "number": 5,
+      "name": "Hvem er de forrædere?",
+      "airdate": "2025-06-28"
+    },
+    {
+      "id": "4ef83e3f-704f-4b86-97fa-17a586eebd1e",
+      "season": 3,
+      "number": 6,
+      "name": "Snart halvvejs i spillet",
+      "airdate": "2025-07-05"
+    },
+    {
+      "id": "8b8c55aa-6124-4e5d-b0cc-991cb70d911a",
+      "season": 3,
+      "number": 7,
+      "name": "Tiden går",
+      "airdate": "2025-07-12"
+    },
+    {
+      "id": "638da25f-01c3-4b47-a162-ed1dc36b89ff",
+      "season": 3,
+      "number": 8,
+      "name": "Følelserne får frit løb",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "5c6f158c-f608-4390-8ede-0ef8ae9a3a15",
+      "season": 3,
+      "number": 9,
+      "name": "Alliancer under pres",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "9f94b6b4-6977-45e2-904a-c7edba3ed56f",
+      "season": 3,
+      "number": 10,
+      "name": "Hvem kan jeg stole på?",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "bd9f86b6-05a9-4dba-92ab-3c9fc19cf091",
+      "season": 3,
+      "number": 11,
+      "name": "Penge i puljen",
+      "airdate": "2025-08-09"
+    },
+    {
+      "id": "13039f4e-0af7-431e-8941-109a547c822b",
+      "season": 3,
+      "number": 12,
+      "name": "Finaledag",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "2d0f44cb-27e6-4328-ad59-4c81ca9f428f",
+      "season": 4,
+      "number": 1,
+      "name": "Hvem kan du stole på?",
+      "airdate": "2026-02-17"
+    },
+    {
+      "id": "3b6a885e-d449-4e43-a547-f35a5f8b5d07",
+      "season": 4,
+      "number": 2,
+      "name": "Mistanken vokser",
+      "airdate": "2026-02-24"
+    },
+    {
+      "id": "d50a9b2c-e986-4f2e-8797-e6c402d237f1",
+      "season": 4,
+      "number": 3,
+      "name": "En splittet gruppe",
+      "airdate": "2026-03-03"
+    },
+    {
+      "id": "d34a0c57-2cd7-48a6-ba9d-09807c4916c0",
+      "season": 4,
+      "number": 4,
+      "name": "Kan du læse mellem linjerne?",
+      "airdate": "2026-03-10"
+    },
+    {
+      "id": "c58277f8-176f-47ac-916e-0afb6e69284c",
+      "season": 4,
+      "number": 5,
+      "name": "Hvem gjorde det?",
+      "airdate": "2026-03-17"
+    },
+    {
+      "id": "68ff00fd-3ae3-451f-bd7c-0f861292454f",
+      "season": 4,
+      "number": 6,
+      "name": "Kom tæt på forrædernes spil",
+      "airdate": "2026-03-24"
+    },
+    {
+      "id": "eb10c0dd-9183-40d0-88d5-c3f15fe6da76",
+      "season": 4,
+      "number": 7,
+      "name": "Pres, paranoia og beskyttelse",
+      "airdate": "2026-03-31"
+    },
+    {
+      "id": "0c7b6d89-e26e-48ec-aa92-bbbfc7e75afd",
+      "season": 4,
+      "number": 8,
+      "name": "Sidste chance",
+      "airdate": "2026-04-07"
+    },
+    {
+      "id": "62673af3-c922-4df8-9c61-a72fb6f63dab",
+      "season": 4,
+      "number": 9,
+      "name": "Hvem vinder - og snyder?",
+      "airdate": "2026-04-14"
+    },
+    {
+      "id": "9a9edaf8-e240-4806-a24f-5624b217e1ff",
+      "season": 5,
+      "number": 1,
+      "name": "Lad spillet begynde",
+      "airdate": "2026-06-01"
+    },
+    {
+      "id": "c58769e8-7537-4fe5-90c9-aa6bb060c61c",
+      "season": 5,
+      "number": 2,
+      "name": "Første morgen",
+      "airdate": "2026-06-01"
+    },
+    {
+      "id": "e7e07016-e10b-45ee-9fbe-89431141c7fd",
+      "season": 5,
+      "number": 3,
+      "name": "Ledetråde ønskes",
+      "airdate": "2026-06-01"
+    },
+    {
+      "id": "346565c3-bb09-40ec-b9b7-8ded68bb8fb1",
+      "season": 5,
+      "number": 4,
+      "name": "Ny dag, nyt drama",
+      "airdate": "2026-06-08"
+    },
+    {
+      "id": "9d38ce2c-3b70-4d89-b7ae-47494b0ef982",
+      "season": 5,
+      "number": 5,
+      "name": "Mission mod mord",
+      "airdate": "2026-06-08"
+    },
+    {
+      "id": "e15d0fc3-2975-43a1-a388-04424f6c82ae",
+      "season": 5,
+      "number": 6,
+      "name": "Tid til refleksion",
+      "airdate": "2026-06-08"
+    },
+    {
+      "id": "9d8252f2-5c01-42e9-a471-68c53d74868d",
+      "season": 5,
+      "number": 7,
+      "name": "Mistanken vokser",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "92185f64-60fa-4add-93d7-9f4553f18c1e",
+      "season": 5,
+      "number": 8,
+      "name": "Et levende mareridt",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "a76d9dbb-2e80-4f6c-a583-26afd16bb03a",
+      "season": 5,
+      "number": 9,
+      "name": "Pres på",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "fbedcf06-94e6-4a5f-9bb7-1a2cefad4528",
+      "season": 5,
+      "number": 10,
+      "name": "Temmelig rundtosset",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "a63c2b87-8b36-4ce0-97a8-f60fe1e0f402",
+      "season": 5,
+      "number": 11,
+      "name": "Tiden rinder ud",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "6d62733e-eb6b-4484-a1ee-e50534e658cc",
+      "season": 5,
+      "number": 12,
+      "name": "Finalen",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "bdccf34e-7ba2-4b20-b783-35e30bbd8457",
+      "season": 6,
+      "number": 1,
+      "name": "Hvem kan jeg stole på?",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "e70e9c65-90b7-4444-b582-fc037c19727c",
+      "season": 6,
+      "number": 2,
+      "name": "Mistanken breder sig",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "d743d907-6854-4516-b299-3acf04eb1dc5",
+      "season": 6,
+      "number": 3,
+      "name": "En forræder i sigte?",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "cbed3b04-1b43-4579-b2d8-780fdc18d81b",
+      "season": 6,
+      "number": 4,
+      "name": "Ny dag, nye mistænkte",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "e466efaf-b38a-478b-afa7-8033dad913c1",
+      "season": 6,
+      "number": 6,
+      "name": "Hoveder må rulle",
+      "airdate": "2026-10-24"
+    }
+  ]
+}

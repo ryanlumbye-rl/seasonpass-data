@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:jespers-gaestebud-tv2",
+  "name": "Jespers gæstebud",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e68258aa-8fd8-47a2-a869-3caf239b7c59",
+      "season": 1,
+      "number": 1,
+      "name": "Jespers store sommertræf - del 1",
+      "airdate": "2014-11-04"
+    },
+    {
+      "id": "275928d1-cfdb-43aa-8ab3-85bf67910a4f",
+      "season": 1,
+      "number": 2,
+      "name": "Jespers store sommertræf - del 2",
+      "airdate": "2014-11-11"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:kidnappet-tv2play",
+  "name": "Kidnappet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d4a4c21d-2ace-4df9-8ed0-3c466845b0aa",
+      "season": 1,
+      "number": 1,
+      "name": "Tilfangetagelsen",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "304364d2-5fc6-427b-be01-cf79d13d79bc",
+      "season": 1,
+      "number": 2,
+      "name": "Flugten",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "35a43aff-be93-45be-873f-104473e54f97",
+      "season": 1,
+      "number": 3,
+      "name": "Kritikken",
+      "airdate": "2026-09-28"
+    }
+  ]
+}

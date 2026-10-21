@@ -1,0 +1,570 @@
+{
+  "id": "tv2play:graensepatruljen-australien-tv2",
+  "name": "Grænsepatruljen Australien",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "09db90a4-ec7c-4f6f-9e0e-4294d7eaf2ed",
+      "season": 8,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2014-03-26"
+    },
+    {
+      "id": "e83dab4a-2b10-4feb-93ea-2daafd1a0e7d",
+      "season": 8,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2014-03-26"
+    },
+    {
+      "id": "0246204f-dd8a-4629-97cf-658a4c90298f",
+      "season": 8,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2014-03-27"
+    },
+    {
+      "id": "2f01e2af-695c-4257-b06a-22e39c89a2e6",
+      "season": 8,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2014-03-27"
+    },
+    {
+      "id": "8e4e46db-3054-4c57-b34e-4829d10b2d04",
+      "season": 8,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2014-03-28"
+    },
+    {
+      "id": "e3ff62e2-5c5e-4b42-affd-a3695533e066",
+      "season": 8,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2014-03-28"
+    },
+    {
+      "id": "c15d6699-c2f0-48c1-9a09-4488f4b44f32",
+      "season": 8,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2014-04-01"
+    },
+    {
+      "id": "8a3a2934-fd6b-4577-b87e-46c14d042d6e",
+      "season": 8,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2014-04-01"
+    },
+    {
+      "id": "640c0ccf-627b-435a-8b22-fa924d51a1d2",
+      "season": 8,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2014-04-02"
+    },
+    {
+      "id": "f6cfa733-e5f2-4e4e-88d6-2334199f96be",
+      "season": 8,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2014-04-02"
+    },
+    {
+      "id": "f9cfe383-1dc9-4a07-862a-791b5a0a85e4",
+      "season": 8,
+      "number": 11,
+      "name": "Afsnit 11",
+      "airdate": "2014-04-03"
+    },
+    {
+      "id": "049be9dc-d9df-4130-b862-293aa5681e42",
+      "season": 8,
+      "number": 12,
+      "name": "Afsnit 12",
+      "airdate": "2014-04-03"
+    },
+    {
+      "id": "dafe017a-f961-4075-9ad4-ce78251f416a",
+      "season": 8,
+      "number": 13,
+      "name": "Afsnit 13",
+      "airdate": "2014-04-04"
+    },
+    {
+      "id": "33a1e45e-23eb-4c32-957d-d595507ecc6d",
+      "season": 8,
+      "number": 14,
+      "name": "Afsnit 14",
+      "airdate": "2014-04-04"
+    },
+    {
+      "id": "5935b8c8-b22f-46b2-b150-140941e7b6a7",
+      "season": 8,
+      "number": 15,
+      "name": "Afsnit 15",
+      "airdate": "2014-04-08"
+    },
+    {
+      "id": "964ef33b-05be-4e1a-bc1d-5557057502b1",
+      "season": 8,
+      "number": 16,
+      "name": "Afsnit 16",
+      "airdate": "2014-04-08"
+    },
+    {
+      "id": "c909d9e8-87e2-4db3-a78c-d63ddd07e1df",
+      "season": 8,
+      "number": 17,
+      "name": "Afsnit 17",
+      "airdate": "2014-04-09"
+    },
+    {
+      "id": "b64f4a22-9d14-4367-ae69-c125846c1bed",
+      "season": 8,
+      "number": 18,
+      "name": "Afsnit 18",
+      "airdate": "2014-04-09"
+    },
+    {
+      "id": "e94d42b5-75ab-4139-9f07-2fc24c0477d4",
+      "season": 8,
+      "number": 19,
+      "name": "Afsnit 19",
+      "airdate": "2014-04-10"
+    },
+    {
+      "id": "750b0236-5292-4417-8dca-fa4182949209",
+      "season": 8,
+      "number": 20,
+      "name": "Afsnit 20",
+      "airdate": "2014-04-10"
+    },
+    {
+      "id": "b3f4a652-4b8c-4355-ba53-16006b159c44",
+      "season": 9,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2016-09-08"
+    },
+    {
+      "id": "01f45c7a-fd56-4b77-9fa9-34d93de586bb",
+      "season": 9,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2016-09-08"
+    },
+    {
+      "id": "4d9383fc-c97d-417d-aefd-70f6e90245b9",
+      "season": 9,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2016-09-09"
+    },
+    {
+      "id": "c60d2a46-2dae-43ff-96f5-cf78584ecae0",
+      "season": 9,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2016-09-09"
+    },
+    {
+      "id": "9b71b98c-757a-4827-a5d0-8e1a9be793c7",
+      "season": 9,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2016-09-13"
+    },
+    {
+      "id": "da2344cb-ae88-443e-9501-593344a30659",
+      "season": 9,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2016-09-13"
+    },
+    {
+      "id": "ba044116-c9b0-483d-8708-c5cab1a50a38",
+      "season": 9,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2016-09-14"
+    },
+    {
+      "id": "c828d955-9320-46a7-9f03-c5a1b4727875",
+      "season": 9,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2016-09-14"
+    },
+    {
+      "id": "a9feb472-127b-428a-89fb-369d660cc8ba",
+      "season": 9,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2016-09-15"
+    },
+    {
+      "id": "a60eff53-0dd3-4cbd-91ec-aaa82ca05a1e",
+      "season": 9,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2016-09-15"
+    },
+    {
+      "id": "a888503a-ec3a-4ecc-855d-41755abec9ab",
+      "season": 9,
+      "number": 11,
+      "name": "Afsnit 11",
+      "airdate": "2016-09-16"
+    },
+    {
+      "id": "365be47a-45a7-4e10-bf75-379396de1b63",
+      "season": 9,
+      "number": 12,
+      "name": "Afsnit 12",
+      "airdate": "2016-09-16"
+    },
+    {
+      "id": "f5519266-5883-4f3c-9f60-8248cf541b2f",
+      "season": 9,
+      "number": 13,
+      "name": "Afsnit 13",
+      "airdate": "2016-09-20"
+    },
+    {
+      "id": "32d9a66d-da72-4bcb-9b5e-4e1b1a263c56",
+      "season": 9,
+      "number": 14,
+      "name": "Afsnit 14",
+      "airdate": "2016-09-20"
+    },
+    {
+      "id": "e04f986f-45ef-4d2f-9818-1d81c4a0c553",
+      "season": 9,
+      "number": 15,
+      "name": "Afsnit 15",
+      "airdate": "2016-09-21"
+    },
+    {
+      "id": "e221cd4b-c4e4-4541-adef-2a9c97717e37",
+      "season": 9,
+      "number": 16,
+      "name": "Afsnit 16",
+      "airdate": "2016-09-21"
+    },
+    {
+      "id": "6bbebd11-48f6-453c-a335-d3af5dcbf975",
+      "season": 9,
+      "number": 17,
+      "name": "Afsnit 17",
+      "airdate": "2016-09-22"
+    },
+    {
+      "id": "7662126c-28b5-4c35-a24a-c7273508ac07",
+      "season": 9,
+      "number": 18,
+      "name": "Afsnit 18",
+      "airdate": "2016-09-22"
+    },
+    {
+      "id": "6d11754f-4574-4cf0-aadb-a36eeb6b1e31",
+      "season": 9,
+      "number": 19,
+      "name": "Afsnit 19",
+      "airdate": "2016-09-23"
+    },
+    {
+      "id": "3dc0bc35-46f3-4163-9dc1-bdaafbbc9979",
+      "season": 9,
+      "number": 20,
+      "name": "Afsnit 20",
+      "airdate": "2016-09-23"
+    },
+    {
+      "id": "3415c1ab-f7aa-4cd0-bfa0-a9d2756774a2",
+      "season": 10,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2018-01-04"
+    },
+    {
+      "id": "b20c7fbc-3127-40b7-89f7-befc38f2b640",
+      "season": 10,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2018-01-04"
+    },
+    {
+      "id": "1e954175-71b7-4946-ad71-697352cdb8fc",
+      "season": 10,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2018-01-05"
+    },
+    {
+      "id": "5b221a47-f62e-48d6-b1b1-b4b203b53f0b",
+      "season": 10,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2018-01-05"
+    },
+    {
+      "id": "3e196512-e9e3-41e6-ab02-b107befc29f6",
+      "season": 10,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2018-01-09"
+    },
+    {
+      "id": "1132355c-9254-46ba-ad0e-3f9a031800f6",
+      "season": 10,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2018-01-09"
+    },
+    {
+      "id": "9b513f96-b42f-4e03-896d-b096071e3285",
+      "season": 10,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2018-01-10"
+    },
+    {
+      "id": "0ad492ec-3efb-44b9-a1f1-6ea61b2b8a10",
+      "season": 10,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2018-01-10"
+    },
+    {
+      "id": "20a49da1-c203-4a43-901c-bfe7a0e4ac79",
+      "season": 10,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2018-01-11"
+    },
+    {
+      "id": "7723fca7-0a4a-4ade-83de-5154b63ec85a",
+      "season": 10,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2018-01-11"
+    },
+    {
+      "id": "0fa541e0-9583-49d5-b286-42f886287e12",
+      "season": 10,
+      "number": 11,
+      "name": "Afsnit 11",
+      "airdate": "2018-01-12"
+    },
+    {
+      "id": "d0c53ad8-bedc-45f4-bb24-91ea30f4c0a9",
+      "season": 10,
+      "number": 12,
+      "name": "Afsnit 12",
+      "airdate": "2018-01-12"
+    },
+    {
+      "id": "92a84a24-cc04-4275-ab2f-f13eaec24fb0",
+      "season": 10,
+      "number": 13,
+      "name": "Afsnit 13",
+      "airdate": "2018-01-16"
+    },
+    {
+      "id": "4699bbbc-1cb2-4807-ac0c-21edab36a993",
+      "season": 10,
+      "number": 14,
+      "name": "Afsnit 14",
+      "airdate": "2018-01-16"
+    },
+    {
+      "id": "cd4556df-0040-4f6b-93ae-450ffadaedf0",
+      "season": 10,
+      "number": 15,
+      "name": "Afsnit 15",
+      "airdate": "2018-01-17"
+    },
+    {
+      "id": "9d96123e-51f6-4d86-adcb-618fa1b3128a",
+      "season": 10,
+      "number": 16,
+      "name": "Afsnit 16",
+      "airdate": "2018-01-17"
+    },
+    {
+      "id": "3f9c16c5-9806-4257-9312-8b629ebb248e",
+      "season": 10,
+      "number": 17,
+      "name": "Afsnit 17",
+      "airdate": "2018-01-18"
+    },
+    {
+      "id": "54004d80-06f7-447c-817e-862220fdb9f5",
+      "season": 10,
+      "number": 18,
+      "name": "Afsnit 18",
+      "airdate": "2018-01-18"
+    },
+    {
+      "id": "68d5cc90-009b-4406-b114-2767e3b33441",
+      "season": 10,
+      "number": 19,
+      "name": "Afsnit 19",
+      "airdate": "2018-01-19"
+    },
+    {
+      "id": "84e57bd8-d755-4882-8c6f-c43e8516ad6b",
+      "season": 10,
+      "number": 20,
+      "name": "Afsnit 20",
+      "airdate": "2018-01-19"
+    },
+    {
+      "id": "b09c46df-5542-4e3d-af34-c2007cbcc95a",
+      "season": 11,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2019-01-30"
+    },
+    {
+      "id": "799e6f3d-cbae-4cae-b4d2-1f0e9bb09627",
+      "season": 11,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2019-01-30"
+    },
+    {
+      "id": "3da16b41-de9b-4e39-b933-51c1cf09a557",
+      "season": 11,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2019-01-31"
+    },
+    {
+      "id": "99e4e7d7-10b7-4918-b070-c79e1a5efc94",
+      "season": 11,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2019-01-31"
+    },
+    {
+      "id": "0f39aae8-5905-4215-a75e-b7f397b2c5b0",
+      "season": 11,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2019-02-01"
+    },
+    {
+      "id": "5b85dd5f-a62d-4a0b-ac7d-5d45059f62f2",
+      "season": 11,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2019-02-01"
+    },
+    {
+      "id": "118fe419-296e-447e-903d-3a92c43ebe1f",
+      "season": 11,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2019-02-12"
+    },
+    {
+      "id": "ef84a39d-2b76-47a9-a869-325357c764e7",
+      "season": 11,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2019-02-12"
+    },
+    {
+      "id": "d67e20b7-15d5-483c-a36d-c67c50e5e7dc",
+      "season": 11,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2019-02-13"
+    },
+    {
+      "id": "72321fdf-9467-4d4e-8370-028627d4412f",
+      "season": 11,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2019-02-13"
+    },
+    {
+      "id": "1c3a9e6c-cc1e-44fb-bde6-b042d7764ae2",
+      "season": 11,
+      "number": 11,
+      "name": "Afsnit 11",
+      "airdate": "2019-02-14"
+    },
+    {
+      "id": "62aa70ac-0986-4ed4-b301-8dc7efeaf187",
+      "season": 11,
+      "number": 12,
+      "name": "Afsnit 12",
+      "airdate": "2019-02-14"
+    },
+    {
+      "id": "9efec1b2-6e2a-4165-ab36-5fd578c08849",
+      "season": 11,
+      "number": 13,
+      "name": "Afsnit 13",
+      "airdate": "2019-02-14"
+    },
+    {
+      "id": "2226451b-eb40-4dce-be26-dcbb04e38d4b",
+      "season": 11,
+      "number": 14,
+      "name": "Afsnit 14",
+      "airdate": "2019-02-15"
+    },
+    {
+      "id": "5330251b-7e7e-4e85-bf9b-b8e05c011b5e",
+      "season": 11,
+      "number": 15,
+      "name": "Afsnit 15",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "f19a9a02-066c-4864-b3ac-777c3940af04",
+      "season": 11,
+      "number": 16,
+      "name": "Afsnit 16",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "e8bd1cbd-d190-4a69-ab77-1d3fa33729c0",
+      "season": 11,
+      "number": 17,
+      "name": "Afsnit 17",
+      "airdate": "2019-02-20"
+    },
+    {
+      "id": "fc82eb5c-7076-4b23-85cf-91bcef8292e3",
+      "season": 11,
+      "number": 18,
+      "name": "Afsnit 18",
+      "airdate": "2019-02-20"
+    },
+    {
+      "id": "abc9d032-6ee3-4160-84d1-2de5511b3998",
+      "season": 11,
+      "number": 19,
+      "name": "Afsnit 19",
+      "airdate": "2019-02-21"
+    },
+    {
+      "id": "0fad63d3-7ef0-4052-9985-7fdef5e281da",
+      "season": 11,
+      "number": 20,
+      "name": "Afsnit 20",
+      "airdate": "2019-02-21"
+    }
+  ]
+}
