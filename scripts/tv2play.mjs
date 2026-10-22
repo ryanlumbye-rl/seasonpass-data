@@ -214,7 +214,8 @@ async function main() {
   for (const slug of built) allShows[slug] = readJson(`tv2play/shows/${slug}.json`, null);
   Object.assign(allShows, mergedShowFiles);
   for (const slug of Object.keys(allShows)) if (!allShows[slug]) delete allShows[slug];
-  const canon = canonicalSlugs([...new Set([...supportedUnmapped.map((e) => e.slug), ...Object.keys(allShows)])]);
+  const info = Object.fromEntries(Object.entries(allShows).map(([slug, x]) => [slug, { name: x.name, episodes: x.episodes?.length ?? 0 }]));
+  const canon = canonicalSlugs([...new Set([...supportedUnmapped.map((e) => e.slug), ...Object.keys(allShows)])], info);
   const { shows: consolidated, index: newIndexAll, images: newImagesAll } = consolidate(allShows, canon);
   const variants = Object.keys(consolidated).filter((slug) => canon.get(slug) !== slug).length;
   console.log(`TV 2 Play-varianter foldet ind under -tv2play: ${variants}`);
