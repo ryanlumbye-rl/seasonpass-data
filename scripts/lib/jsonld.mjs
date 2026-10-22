@@ -30,3 +30,31 @@ export function extractEpisode(html) {
   }
   return null;
 }
+
+/**
+ * Seriens egen beskrivelse og billede fra seriesidens schema.org TVSeries. og:description
+ * er TV 2's generelle reklametekst ("Prøv TV 2 Play nu") og bruges ikke. Billedet ligger
+ * på TV 2's billed-CDN, hvor w= styrer bredden; siden beder om 720 px, vi tager 1280 til
+ * forhåndsvisningens store felt. rect= (beskæringen) bevares.
+ */
+export function extractSeries(html) {
+  for (const m of html.matchAll(BLOCK)) {
+    let d;
+    try { d = JSON.parse(m[1].trim()); } catch { continue; }
+    if (!d || d['@type'] !== 'TVSeries') continue;
+    const description = typeof d.description === 'string' && d.description.trim() ? d.description.trim() : null;
+    const raw = typeof d.image === 'string' ? d.image : Array.isArray(d.image) && typeof d.image[0] === 'string' ? d.image[0] : null;
+    return { description, image: raw ? widen(raw) : null };
+  }
+  return { description: null, image: null };
+}
+
+function widen(url) {
+  try {
+    const u = new URL(url);
+    if (u.hostname.endsWith('tv2i.dk')) u.searchParams.set('w', '1280');
+    return u.toString();
+  } catch {
+    return null;
+  }
+}

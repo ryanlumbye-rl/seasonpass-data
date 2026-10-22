@@ -72,3 +72,20 @@ test('status følger om der er et næste afsnit', () => {
   // Ikke 'Ended': TV 2 Play siger kun om der kommer et afsnit, ikke om serien er slut
   assert.equal(slut.shows['simon-siger-tv2'].status, 'Unknown');
 });
+
+test('beskrivelse og billede kommer med i serie-filen; billedet i et separat kort, ikke i indeksets poster', () => {
+  const withArt = { 'simon-siger-tv2': { ...meta['simon-siger-tv2'], description: 'Simon Kvamm siger.', image: 'https://cdn-play.tv2i.dk/x.jpg?w=1280' } };
+  const { index, shows, images } = buildTv2Shows([ep('simon-siger-tv2', 1, 1, '2026-10-10')], withArt);
+  // Appen i drift afviser poster med andet end to felter — de må ikke vokse.
+  assert.deepEqual(index, { 'simon-siger-tv2': ['Simon siger', 335191] });
+  assert.equal(shows['simon-siger-tv2'].description, 'Simon Kvamm siger.');
+  assert.equal(shows['simon-siger-tv2'].image, 'https://cdn-play.tv2i.dk/x.jpg?w=1280');
+  assert.deepEqual(images, { 'simon-siger-tv2': 'https://cdn-play.tv2i.dk/x.jpg?w=1280' });
+});
+
+test('uden billede: null i filen og ingen post i billedkortet', () => {
+  const { shows, images } = buildTv2Shows([ep('simon-siger-tv2', 1, 1, '2026-10-10')], meta);
+  assert.equal(shows['simon-siger-tv2'].description, null);
+  assert.equal(shows['simon-siger-tv2'].image, null);
+  assert.deepEqual(images, {});
+});

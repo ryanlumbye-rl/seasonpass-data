@@ -29,6 +29,9 @@ export function buildTv2Shows(found, meta) {
         status: m.next ? 'Running' : 'Unknown',
         tmdbId: m.tmdbId ?? null,
         next: m.next ?? null,
+        // Fra seriesidens schema.org (extractSeries): til forhåndsvisningen, når TMDB intet har.
+        description: m.description ?? null,
+        image: m.image ?? null,
         episodes: new Map(), // på GUID, så samme afsnit kun tælles én gang
       });
     }
@@ -45,13 +48,17 @@ export function buildTv2Shows(found, meta) {
 
   const index = {};
   const shows = {};
+  // Billederne ligger i et kort ved siden af indekset, ikke i dets poster: appen i drift
+  // (22-10-2026) afviser en post med andet end [navn, tmdbId] og ville smide hele indekset væk.
+  const images = {};
   for (const slug of [...bySlug.keys()].sort()) {
     const s = bySlug.get(slug);
     index[slug] = [s.name, s.tmdbId];
+    if (s.image) images[slug] = s.image;
     shows[slug] = {
       ...s,
       episodes: [...s.episodes.values()].sort((a, b) => a.season - b.season || a.number - b.number),
     };
   }
-  return { index, shows };
+  return { index, shows, images };
 }

@@ -6,10 +6,10 @@
  *
  * Kør tørt med:  node scripts/tv2play.mjs --dry-run
  */
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readdirSync, writeFileSync } from 'node:fs';
 import { gunzipSync } from 'node:zlib';
 import { assertSitemapHealth, changedSince, dueThisRun, episodeUrls, parseSitemap } from './lib/sitemap.mjs';
-import { extractEpisode } from './lib/jsonld.mjs';
+import { extractEpisode, extractSeries } from './lib/jsonld.mjs';
 import { extractHint, parseHint } from './lib/hint.mjs';
 import { isSupported } from './lib/scope.mjs';
 import { buildTv2Shows } from './lib/tv2shows.mjs';
@@ -30,6 +30,9 @@ const FETCH_BUDGET = 15000;
 // gemmer det, den nåede. Skal ligge et godt stykke under timeout-minutes (330):
 // serieforsiderne og skrivningen kommer bagefter.
 const FETCH_DEADLINE_MS = 270 * 60 * 1000;
+// Serier, der blev bygget før billede og beskrivelse kom med (22-10-2026), henter deres
+// serieside igen — højst så mange pr. kørsel, så opsamlingen ikke æder budgettet.
+const BACKFILL_BUDGET = 300;
 const DRY = process.argv.includes('--dry-run');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -142,7 +145,8 @@ async function main() {
 
   // Serieforsiden hentes én gang pr. serie, ikke pr. afsnit — ellers henter
   // vi tusindvis af sider for ingenting. Navnet tages fra afsnittets
-  // episode.series (vi har det allerede); forsiden skal kun bruges til hintet.
+  // episode.series (vi har det allerede); forsiden bruges til hintet og til
+  // seriens egen beskrivelse og billede (extractSeries).
   const meta = {};
   const unparsedThisRun = {};
   const slugsThisRun = [...new Set(found2.map((f) => f.slug))].sort();
@@ -153,7 +157,8 @@ async function main() {
       const html = await get(`https://play.tv2.dk/serie/${slug}`);
       const hintText = extractHint(html);
       const parsedHint = hintText ? parseHint(hintText, today) : null;
-      meta[slug] = { name, tmdbId: null, next: parsedHint?.date ?? null };
+      const { description, image } = extractSeries(html);
+      meta[slug] = { name, tmdbId: null, next: parsedHint?.date ?? null, description, image };
       if (parsedHint?.unparsed) unparsedThisRun[slug] = parsedHint.unparsed;
     } catch (err) {
       console.warn(`serieforside kunne ikke hentes: ${slug} — ${err.message}`);
@@ -161,7 +166,28 @@ async function main() {
     }
   }
 
-  const { index: newIndex, shows: newShows } = buildTv2Shows(found2, meta);
+  const { index: newIndex, shows: newShows, images: newImages } = buildTv2Shows(found2, meta);
+
+  // Opsamling: serie-filer fra før billede og beskrivelse kom med, og som denne kørsel
+  // ikke allerede har rørt. Et hentet svar uden billede gemmes som null, så serien ikke
+  // hentes igen hver nat; en fejl lader feltet mangle, så næste kørsel prøver igen.
+  const backfill = {};
+  const built = existsSync('tv2play/shows') ? readdirSync('tv2play/shows').filter((f) => f.endsWith('.json')).map((f) => f.slice(0, -5)) : [];
+  const missing = built.filter((slug) => !newShows[slug] && !('image' in (readJson(`tv2play/shows/${slug}.json`, {}) ?? {}))).slice(0, BACKFILL_BUDGET);
+  for (const slug of missing) {
+    if (Date.now() - started > FETCH_DEADLINE_MS) break;
+    await sleep(PAUSE);
+    try {
+      backfill[slug] = extractSeries(await get(`https://play.tv2.dk/serie/${slug}`));
+      if (backfill[slug].image) newImages[slug] = backfill[slug].image;
+    } catch (err) {
+      // 404: serien er fjernet fra TV 2 Play (fx Clarkson's Farm, 22-10-2026). Det er et svar,
+      // ikke en fejl — gem null, så den ikke hentes igen hver nat.
+      if (/svarede 404$/.test(err.message)) backfill[slug] = { description: null, image: null };
+      else console.warn(`serieforside kunne ikke hentes (opsamling): ${slug} — ${err.message}`);
+    }
+  }
+  console.log(`opsamling af billede og beskrivelse: ${Object.keys(backfill).length} af ${missing.length} serier`);
   console.log(`TV 2 Play-serier bygget denne kørsel: ${Object.keys(newShows).length}`);
   console.log(`hints der ikke kunne fortolkes: ${Object.keys(unparsedThisRun).length}`);
   if (Object.keys(unparsedThisRun).length) console.log(`  serier: ${Object.keys(unparsedThisRun).join(', ')}`);
@@ -172,12 +198,15 @@ async function main() {
   // den forrige fandt.
   const existingIndexFile = readJson('tv2play/index.json', { version: 1, updated: '', shows: {} });
   const mergedIndex = { ...existingIndexFile.shows, ...newIndex };
-  const indexFile = { version: 1, updated: today, shows: mergedIndex };
+  const indexFile = { version: 1, updated: today, shows: mergedIndex, images: { ...(existingIndexFile.images ?? {}), ...newImages } };
 
   const mergedShowFiles = {};
   for (const [slug, show] of Object.entries(newShows)) {
     const existingShow = readJson(`tv2play/shows/${slug}.json`, null);
     mergedShowFiles[slug] = existingShow ? mergeTv2Show(existingShow, show) : show;
+  }
+  for (const [slug, art] of Object.entries(backfill)) {
+    mergedShowFiles[slug] = { ...readJson(`tv2play/shows/${slug}.json`, {}), description: art.description, image: art.image };
   }
 
   const existingHintsFile = readJson('tv2play/unparsed-hints.json', { version: 1, updated: '', hints: {} });
