@@ -69,12 +69,26 @@ export function buildTv2Shows(found, meta) {
  * -tv2play ikke har (Alene sammen: 1 mod 31), så afsnittene samles under -tv2play i stedet for
  * at kanal-udgaven smides væk. Serier hører sammen, når alt før sidste bindestreg er ens.
  */
-export function canonicalSlugs(slugs) {
+export function canonicalSlugs(slugs, info = {}) {
   const all = new Set(slugs);
+  const base = (slug) => slug.slice(0, slug.lastIndexOf('-'));
+  // Uden en -tv2play samles udgaver med samme titel (uden tegnsætning) under den med flest
+  // afsnit (Ryan 22-10-2026: Jo færre jo bedre stod to gange). Kendes titlen ikke, røres
+  // udgaven ikke — to serier med samme slug-start må aldrig blandes sammen.
+  const title = (slug) => info[slug]?.name?.toLowerCase().replace(/[^\p{L}\p{N}]/gu, '') || null;
+  const best = new Map();
+  for (const slug of all) {
+    const t = title(slug);
+    if (!t) continue;
+    const key = `${base(slug)}|${t}`;
+    const cur = best.get(key);
+    if (!cur || (info[slug].episodes ?? 0) > (info[cur].episodes ?? 0)) best.set(key, slug);
+  }
   const out = new Map();
   for (const slug of all) {
-    const base = slug.slice(0, slug.lastIndexOf('-'));
-    out.set(slug, all.has(`${base}-tv2play`) ? `${base}-tv2play` : slug);
+    const b = base(slug);
+    if (all.has(`${b}-tv2play`)) out.set(slug, `${b}-tv2play`);
+    else out.set(slug, title(slug) ? best.get(`${b}|${title(slug)}`) : slug);
   }
   return out;
 }

@@ -72,3 +72,36 @@ test('kun kanal-udgaven er hentet indtil videre: den bliver til -tv2play-serien'
   assert.equal(out.shows['bad-blood-tv2play'].id, 'tv2play:bad-blood-tv2play');
   assert.deepEqual(out.index, { 'bad-blood-tv2play': ['Bad Blood', null] });
 });
+
+// Ryan 22-10-2026: tre serier stod stadig to gange i søgningen, fordi ingen af udgaverne var
+// -tv2play (fx jo-faerre-jo-bedre-tv2 og -tv2charlie). Uden en -tv2play samles udgaver med
+// samme titel under den med flest afsnit.
+test('canonicalSlugs: uden -tv2play samles samme titel under udgaven med flest afsnit', () => {
+  const info = {
+    'jo-faerre-jo-bedre-tv2': { name: 'Jo færre jo bedre', episodes: 108 },
+    'jo-faerre-jo-bedre-tv2charlie': { name: 'Jo færre jo bedre', episodes: 2 },
+    'laban-det-lille-spoegelse-cmore': { name: 'Laban - Det lille spøgelse', episodes: 6 },
+    'laban-det-lille-spoegelse-oiii': { name: 'Laban det lille spøgelse', episodes: 18 },
+  };
+  const c = canonicalSlugs(Object.keys(info), info);
+  assert.equal(c.get('jo-faerre-jo-bedre-tv2charlie'), 'jo-faerre-jo-bedre-tv2');
+  assert.equal(c.get('jo-faerre-jo-bedre-tv2'), 'jo-faerre-jo-bedre-tv2');
+  assert.equal(c.get('laban-det-lille-spoegelse-cmore'), 'laban-det-lille-spoegelse-oiii');
+});
+
+test('canonicalSlugs: forskellige titler med samme slug-start samles ikke', () => {
+  const info = {
+    'bonderoeven-tv2': { name: 'Bonderøven', episodes: 40 },
+    'bonderoeven-tv2fri': { name: 'Bonderøven i Sverige', episodes: 8 },
+  };
+  const c = canonicalSlugs(Object.keys(info), info);
+  assert.equal(c.get('bonderoeven-tv2fri'), 'bonderoeven-tv2fri');
+});
+
+test('canonicalSlugs: -tv2play vinder stadig, også over en udgave med flere afsnit', () => {
+  const info = {
+    'alfa-tv2play': { name: 'Alfa', episodes: 3 },
+    'alfa-tv2echo': { name: 'Alfa', episodes: 30 },
+  };
+  assert.equal(canonicalSlugs(Object.keys(info), info).get('alfa-tv2echo'), 'alfa-tv2play');
+});
