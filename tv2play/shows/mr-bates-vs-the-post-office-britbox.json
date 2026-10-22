@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:mr-bates-vs-the-post-office-britbox",
+  "name": "Mr. Bates vs. The Post Office",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "011db39d-fb7e-49e2-963b-3043eae4e65a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-03-27"
+    },
+    {
+      "id": "9df8a304-e66b-4357-80c4-816c15720403",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-03-27"
+    },
+    {
+      "id": "f3616392-1c45-4194-a564-2465dbbdf1bb",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-03-27"
+    },
+    {
+      "id": "e940a0d9-1fb3-4950-af9a-cf8906ca9d42",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-03-27"
+    }
+  ]
+}

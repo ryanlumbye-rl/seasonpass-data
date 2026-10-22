@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:emil-skruer-ned-tv2",
+  "name": "Emil skruer ned",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "48b9ed40-7e71-48fe-b5ea-245b5a1179ec",
+      "season": 1,
+      "number": 1,
+      "name": "Den mest målte mand",
+      "airdate": "2026-05-12"
+    },
+    {
+      "id": "1aa6b3ae-308d-4542-a6bc-135207e8a06a",
+      "season": 1,
+      "number": 2,
+      "name": "Snogen i søen",
+      "airdate": "2026-05-19"
+    },
+    {
+      "id": "40d90b68-1132-4317-b758-f8d7538f719d",
+      "season": 1,
+      "number": 3,
+      "name": "En rødgran i stuen",
+      "airdate": "2026-05-26"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:dracula-tv2play",
+  "name": "Dracula",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6253aba0-a92c-4daf-ae6b-4003826a040e",
+      "season": 1,
+      "number": 1,
+      "name": "Blood Is the Life",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "fe7a505a-22cb-4a5d-abe7-01f4e5d18930",
+      "season": 1,
+      "number": 2,
+      "name": "A Whiff of Sulfur",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "0545775c-6c9f-41f9-917c-3bca97f71497",
+      "season": 1,
+      "number": 3,
+      "name": "Goblin Merchant Men",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "e981269b-b2b6-48bf-8fa7-7cd38857715a",
+      "season": 1,
+      "number": 4,
+      "name": "From Darkness to Light",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "fa239526-7296-4778-aa53-4edcc2298d6b",
+      "season": 1,
+      "number": 5,
+      "name": "Dracula",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "b3eddb97-b7a0-4d2e-a5d0-9f76be766120",
+      "season": 1,
+      "number": 6,
+      "name": "Of Monsters and Men",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "df0f083f-5784-4668-a539-f36dee2693c9",
+      "season": 1,
+      "number": 7,
+      "name": "Servants to Two Masters",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "b015d878-5168-41d6-98b2-62f3567e5c3c",
+      "season": 1,
+      "number": 8,
+      "name": "Come to Die",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "9558a20e-bbfb-4f43-a2c9-a25134fac07d",
+      "season": 1,
+      "number": 9,
+      "name": "Four Roses",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "0541effb-2529-4b1c-a4d4-d0a683edc4ed",
+      "season": 1,
+      "number": 10,
+      "name": "Let There Be Light",
+      "airdate": "2026-10-15"
+    }
+  ]
+}

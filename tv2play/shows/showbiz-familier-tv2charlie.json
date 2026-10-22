@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:showbiz-familier-tv2charlie",
+  "name": "Showbiz familier",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "eef768a5-8635-4db2-a9e1-fbfe4ed06cda",
+      "season": 1,
+      "number": 3,
+      "name": "I zoo med Keld og Hilda",
+      "airdate": "2016-02-23"
+    },
+    {
+      "id": "49e49c7f-77b1-427a-80e5-92ca79096eda",
+      "season": 1,
+      "number": 6,
+      "name": "Jens Werner på gavejagt",
+      "airdate": "2016-02-23"
+    },
+    {
+      "id": "18df595f-28f2-4551-b458-4f32da09ebea",
+      "season": 1,
+      "number": 7,
+      "name": "Lisbets store aften",
+      "airdate": "2016-02-23"
+    },
+    {
+      "id": "09447a22-200e-4d92-994f-77bbcca0535c",
+      "season": 1,
+      "number": 8,
+      "name": "50 år på de skrå brædder",
+      "airdate": "2016-02-23"
+    },
+    {
+      "id": "73ca73ae-4dc3-416b-936b-d99519939c4e",
+      "season": 1,
+      "number": 9,
+      "name": "Kelds skæbnedag",
+      "airdate": "2016-02-23"
+    }
+  ]
+}

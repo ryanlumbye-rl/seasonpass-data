@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:spoerg-charlie-jul-tv2charlie",
+  "name": "Spørg Charlie - jul",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "da56c2bf-b303-4863-beaa-8c92f5f6383f",
+      "season": 1,
+      "number": 1,
+      "name": "Nej tak til hjemmelavede julegaver!",
+      "airdate": "2019-12-02"
+    },
+    {
+      "id": "f6916f95-ff88-4a34-b677-e8ce4d1318ea",
+      "season": 1,
+      "number": 2,
+      "name": "Den veganske svigerdatter",
+      "airdate": "2019-12-02"
+    },
+    {
+      "id": "915c9a36-209a-4c8b-a54a-37c745b678e0",
+      "season": 1,
+      "number": 3,
+      "name": "Ingen slikkalender til børnebørnene",
+      "airdate": "2019-12-09"
+    },
+    {
+      "id": "67f2fc56-39dc-4d0c-9a65-2a7a6aecfe1b",
+      "season": 1,
+      "number": 4,
+      "name": "Må man lyve til jul?",
+      "airdate": "2019-12-16"
+    }
+  ]
+}

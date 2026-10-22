@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:vanity-fair-britbox",
+  "name": "Vanity Fair",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "831e432c-e357-49bf-9628-5afc3bc2f5ce",
+      "season": 1,
+      "number": 1,
+      "name": "Miss Sharp in the Presence of the Enemy",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f41efc14-6232-41a2-b1f5-74761f7216f4",
+      "season": 1,
+      "number": 2,
+      "name": "Miss Sharp Begins To Make Friends",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "099ece59-c62e-4b3f-84c7-72cd4ab97434",
+      "season": 1,
+      "number": 3,
+      "name": "A Quarrel About An Heiress",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8f47ba85-6caf-4b3b-9ae4-9268541455c3",
+      "season": 1,
+      "number": 4,
+      "name": "In Which Becky Joins Her Regiment",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a155e9b4-c34f-488e-bee6-619a8b0642a7",
+      "season": 1,
+      "number": 5,
+      "name": "In Which Battles Are Won and Lost",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f0b93fe2-81e8-4069-bc41-e461eed61502",
+      "season": 1,
+      "number": 6,
+      "name": "In Which a Painter's Daughter Meets a King",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f6fa96ad-c082-4089-9b51-56e08c38305e",
+      "season": 1,
+      "number": 7,
+      "name": "Endings and Beginnings",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

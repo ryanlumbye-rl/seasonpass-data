@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:shades-of-blue-tv2play",
+  "name": "Shades Of Blue",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "566ad815-994b-4644-8e30-0064521f9466",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "9e5a7a6b-42ec-4a99-9f9a-c60da2d2ff8b",
+      "season": 1,
+      "number": 2,
+      "name": "Original Sin",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "42c89239-de20-41f9-97d2-72574ff10010",
+      "season": 1,
+      "number": 3,
+      "name": "False Face, False Heart",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "5d9bfe8f-107d-460c-abd0-fbe484893217",
+      "season": 1,
+      "number": 4,
+      "name": "Who Is It That Can Tell Me Who I Am",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "6c909a2e-a34d-4888-8551-36bd0bdf76fb",
+      "season": 1,
+      "number": 5,
+      "name": "Equal & Opposite",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "26e6b5f4-dd52-4a1f-93f7-1a3449fdf9a3",
+      "season": 1,
+      "number": 6,
+      "name": "Fall of Man",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "1c5d061d-1ec7-4d1a-af59-352a4aae566b",
+      "season": 1,
+      "number": 7,
+      "name": "Undiscovered Country",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "480d31dd-8327-429b-a097-2ca41d01b38b",
+      "season": 1,
+      "number": 8,
+      "name": "Good Cop, Bad Cop",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "55940e24-311d-418e-a871-c315584706b0",
+      "season": 1,
+      "number": 9,
+      "name": "Live Wire Act",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "a79fb814-9a4e-47a3-a0cf-3e9c6041f736",
+      "season": 1,
+      "number": 10,
+      "name": "What Devil Do",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "8033ccad-6170-4140-a15c-e156e11f0663",
+      "season": 1,
+      "number": 11,
+      "name": "The Breach",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "c54b725c-c7be-4412-9f7d-9a595f96215b",
+      "season": 1,
+      "number": 12,
+      "name": "For I Have Sinned",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "e213ffa3-c25d-4b8f-bc07-5fb93da13159",
+      "season": 1,
+      "number": 13,
+      "name": "One Last Lie",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "38ac6fce-4202-4712-bcc1-d22e79cde14f",
+      "season": 2,
+      "number": 1,
+      "name": "Unforgiven",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "fbe54c7c-4562-4a50-a21f-78d32f7b80f4",
+      "season": 2,
+      "number": 2,
+      "name": "Eye of the Hurricane",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "3927695a-8940-4f9a-861d-2968dae75057",
+      "season": 2,
+      "number": 3,
+      "name": "Ghost Hunt",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "8e781d92-a417-41aa-b1b2-51ddf3013e9b",
+      "season": 2,
+      "number": 4,
+      "name": "Daddy's Girl",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "d8d4b51e-7c85-4262-aa38-358546b784a7",
+      "season": 2,
+      "number": 5,
+      "name": "Sweet Caroline",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "d53b2a9f-8a86-4753-a06d-79afb55ed0f1",
+      "season": 2,
+      "number": 6,
+      "name": "Fracture",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "bdcfe48e-d447-49cf-82f1-5c4860bd6557",
+      "season": 2,
+      "number": 7,
+      "name": "A House Divided",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "331c444d-dce0-4a59-8a23-732ce7b8d06c",
+      "season": 2,
+      "number": 8,
+      "name": "Unpaid Debts",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "6f100540-f3a9-47fa-bc92-301accb16850",
+      "season": 2,
+      "number": 9,
+      "name": "Chaos Is Come Again",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "63ca4000-ddce-41c3-9abc-40913a93b826",
+      "season": 2,
+      "number": 10,
+      "name": "Whoever Fights Monsters",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "00755b3d-5e04-4605-978e-0ef8d2fa3087",
+      "season": 2,
+      "number": 11,
+      "name": "The Quality of Mercy",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "eb7957f6-c21a-4224-a907-09af5b7fcbaa",
+      "season": 2,
+      "number": 12,
+      "name": "Behind the Mask",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "37365429-5b59-41be-8da6-94175869a025",
+      "season": 2,
+      "number": 13,
+      "name": "Broken Dolls",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "38824afd-a13d-4991-9d0c-467a2ac6d29f",
+      "season": 3,
+      "number": 1,
+      "name": "Good Police",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "89c85210-5185-4b30-b44a-0fb3a081140c",
+      "season": 3,
+      "number": 2,
+      "name": "The Hollow Crown",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "5961e18d-abbc-478c-93b4-beaef7ce6e45",
+      "season": 3,
+      "number": 3,
+      "name": "That Way Madness Lies",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "1679b2c2-c4ca-4ef1-9741-1878ba7bd3e3",
+      "season": 3,
+      "number": 4,
+      "name": "A Walking Shadow",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "54cbd832-e8e3-4623-848c-a0019ee0cf55",
+      "season": 3,
+      "number": 5,
+      "name": "The Blue Wall",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "3ea79dea-f3d1-4f18-8ab2-8293b8e7683b",
+      "season": 3,
+      "number": 6,
+      "name": "The Reckoning",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "4ca624bf-8aca-431e-a083-69dcdafa04d9",
+      "season": 3,
+      "number": 7,
+      "name": "Straight Through the Heart",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "7c927d67-2415-43e6-8e66-7390ab27d94a",
+      "season": 3,
+      "number": 8,
+      "name": "Cry Havoc",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "f30f16dc-a57a-4a0d-bf8d-18942b8184cb",
+      "season": 3,
+      "number": 9,
+      "name": "Goodnight, Sweet Prince",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "f86f5530-2a1b-481d-83f4-3896d15a439e",
+      "season": 3,
+      "number": 10,
+      "name": "By Virtue Fall",
+      "airdate": "2026-10-20"
+    }
+  ]
+}

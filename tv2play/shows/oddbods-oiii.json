@@ -1,0 +1,430 @@
+{
+  "id": "tv2play:oddbods-oiii",
+  "name": "Oddbods",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4765f918-81c2-401a-8173-0925e89db851",
+      "season": 1,
+      "number": 1,
+      "name": "Det er min fest",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "846f486a-bca9-477f-8624-7b7fc3ca3c9a",
+      "season": 1,
+      "number": 2,
+      "name": "Et godt hjerte",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "3ac0eb26-3a09-41f4-9dc1-119871989cb5",
+      "season": 1,
+      "number": 3,
+      "name": "Strandet",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "e41fd471-ab52-4de7-9b68-b3f62b2d037d",
+      "season": 1,
+      "number": 4,
+      "name": "Forældreinstinkt",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "c55a6bed-71b0-4358-952c-9f5ee0280c9c",
+      "season": 1,
+      "number": 5,
+      "name": "Sheriffen af Oddsville",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "1c215a2c-e0d0-4473-913f-ec815b056ccf",
+      "season": 1,
+      "number": 6,
+      "name": "Bortført af rumvæsener",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "96745e43-b872-4223-aa67-f5a6bcb79d51",
+      "season": 1,
+      "number": 7,
+      "name": "Dansekongen",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "d42ea84f-e61a-46bb-9d1b-d4477dde72cb",
+      "season": 1,
+      "number": 8,
+      "name": "Musejagt om natten",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "487809c8-ce8a-4864-8f59-cb2c67e19e45",
+      "season": 1,
+      "number": 9,
+      "name": "Newts uforglemmelige aften",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "e6bcbf95-cda0-4e0c-822a-88a4bd57576a",
+      "season": 1,
+      "number": 10,
+      "name": "En to mange",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "fedb41e0-7ce6-49da-bf0b-8c21b74207db",
+      "season": 1,
+      "number": 11,
+      "name": "Poltergejsten Pogo",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "d579c552-8123-46dd-8f72-7997526396ab",
+      "season": 1,
+      "number": 12,
+      "name": "Robobuddy",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "7385b548-d1ae-4c7a-83d2-0d6f3a9a9a3b",
+      "season": 1,
+      "number": 13,
+      "name": "Skraldekunst",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "22882208-7a3d-4a43-b572-c3ac71274fa1",
+      "season": 1,
+      "number": 14,
+      "name": "Zeellionær",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "4e9f5e8d-2107-4477-aedd-c22ed225ac0e",
+      "season": 1,
+      "number": 15,
+      "name": "Dårlig medicin",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "97184975-bfa6-45e5-8333-4fbb8fdf3fde",
+      "season": 1,
+      "number": 16,
+      "name": "Fuses korte lunte",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "41220622-e1d5-48d2-946c-0f7294945b06",
+      "season": 1,
+      "number": 17,
+      "name": "Kleptotyv",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "bd5a98d4-696d-45cc-9c90-f099546739f4",
+      "season": 1,
+      "number": 18,
+      "name": "Bubble i problemer",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "0ca47126-4398-4a77-9fac-50849417c955",
+      "season": 1,
+      "number": 19,
+      "name": "Dobbeltdate og ballade",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "7f11de16-ad1e-4c9c-a159-4ab2523b8279",
+      "season": 1,
+      "number": 20,
+      "name": "Min helt",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "272e3479-137a-4c88-a61e-b7c3b7689af7",
+      "season": 1,
+      "number": 21,
+      "name": "Florence Newtingale",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "06590f44-1daf-46b8-b14f-071b6506b4fa",
+      "season": 1,
+      "number": 22,
+      "name": "Hypnobod",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "55a2eed9-3d65-44e1-a24c-02ed0644c49e",
+      "season": 1,
+      "number": 23,
+      "name": "Oddbod-par",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "dea0c694-1252-4886-ba71-bdabe3231670",
+      "season": 1,
+      "number": 24,
+      "name": "Zee bestemmer",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "642843f3-cfa4-4076-bb37-906010f00ea2",
+      "season": 1,
+      "number": 25,
+      "name": "Den der ler sidst",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "af31577f-b555-4bb2-9da6-f33d250e8dc2",
+      "season": 1,
+      "number": 26,
+      "name": "Ikke vild med dans",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "58aa9904-27d9-463f-9b95-1fc058a8f9a0",
+      "season": 1,
+      "number": 27,
+      "name": "Den fantastiske Slicko",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "1261948c-f11f-468b-b7e1-c3d418727c18",
+      "season": 1,
+      "number": 28,
+      "name": "Panikrum",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "809d52e5-5727-4092-89e4-516083978947",
+      "season": 1,
+      "number": 29,
+      "name": "Ingen god gerning",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "2129b6a2-34d1-407e-ac0a-b28e57f0dd62",
+      "season": 1,
+      "number": 30,
+      "name": "Katastrofal is-krig",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "c2212eaf-c5a4-48b2-933d-02b6434236ad",
+      "season": 1,
+      "number": 31,
+      "name": "Høj pris på naboskab",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "a976d7bf-feb5-4ba6-b5b0-3cc6c78aa5a1",
+      "season": 1,
+      "number": 32,
+      "name": "Uheldig superhelt",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "a5782b4c-eb76-4d5e-a49a-7354629b0db0",
+      "season": 1,
+      "number": 33,
+      "name": "Newts heldige dag",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "12685918-d4b6-4268-bbce-179781a7c9a6",
+      "season": 1,
+      "number": 34,
+      "name": "Den skjulte skat",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "0ec84871-7625-41b3-a04c-54ef4c3d9deb",
+      "season": 1,
+      "number": 35,
+      "name": "Græskarkonkurrencen",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "1a1dadae-de77-41b2-82d0-9ca90468c8d6",
+      "season": 1,
+      "number": 36,
+      "name": "15 meter Zee",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "75e493d5-74bd-42b1-b8c9-ebc2f4c58e01",
+      "season": 1,
+      "number": 37,
+      "name": "Det sidste strå",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "7e8ab316-d7ff-423a-ae40-66cc95e34d9f",
+      "season": 1,
+      "number": 38,
+      "name": "Bubbles’ raket",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "7b8cb79b-9b01-4906-b601-62242821456c",
+      "season": 1,
+      "number": 39,
+      "name": "Macho Jeff",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "d28a76d2-c586-4d0c-aa5a-78948eb9b9fb",
+      "season": 1,
+      "number": 40,
+      "name": "Lige ved og næsten",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "e9d64fc5-94f5-48ef-9d0d-123f18f67fc0",
+      "season": 1,
+      "number": 41,
+      "name": "Tankekontrol",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "1468ce72-f3d1-4998-8f91-f2c0cd277656",
+      "season": 1,
+      "number": 42,
+      "name": "Monsteret fra Oddville",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "792ba7ef-7b39-4432-b110-0adf67a081dc",
+      "season": 1,
+      "number": 43,
+      "name": "Zoom",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "61c7f91c-a35f-4054-8c10-519afb4d2e6a",
+      "season": 1,
+      "number": 44,
+      "name": "Hr. Snuffles",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "771e87c0-4251-4f5b-aaf4-c152984b5c6a",
+      "season": 1,
+      "number": 45,
+      "name": "Det forbandede hoved",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "bddfb0a2-d6c4-4176-9178-3d0005f41f01",
+      "season": 1,
+      "number": 46,
+      "name": "Fuse frabeder sig teknologi",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "abbfee2a-135b-4011-a34b-ec93c514a5fd",
+      "season": 1,
+      "number": 47,
+      "name": "Skuespil",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "904754bb-c9b9-4599-89a2-c2b9f9262c03",
+      "season": 1,
+      "number": 48,
+      "name": "Mini-Pogo",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "551b4007-6065-417b-9d3a-1ca8398c0544",
+      "season": 1,
+      "number": 49,
+      "name": "Lige så nemt som at cykle",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "0b54ee75-c1a7-4fe3-bd64-739d52563645",
+      "season": 1,
+      "number": 50,
+      "name": "Iskugler med dobbelteffekt",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "d06d7db4-733d-4bfd-9cea-9f0f5ec87974",
+      "season": 1,
+      "number": 51,
+      "name": "Campingtur",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "a099a795-4cc1-4f3c-9a87-6558e43ed713",
+      "season": 1,
+      "number": 52,
+      "name": "Fuld fart på",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "5d4900fd-5790-4874-97d9-df835e8d0d12",
+      "season": 1,
+      "number": 53,
+      "name": "Spil og sport",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "3834060b-06e8-4dbf-81f2-cb7d9565a930",
+      "season": 1,
+      "number": 54,
+      "name": "Lad os se det igen",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "fc7a9cb4-cc1a-4cc8-bad6-85856b1921dc",
+      "season": 1,
+      "number": 55,
+      "name": "Skam, skyld og berømmelse",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "63b311eb-5da5-429f-9917-14a7853d3dd4",
+      "season": 1,
+      "number": 56,
+      "name": "Ustyrligt temperament",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "9ff9a87e-532e-475e-aace-ce633f03bb6c",
+      "season": 1,
+      "number": 57,
+      "name": "Spåkort",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "de30322d-0ce9-4b2a-aa84-1f4e403f1411",
+      "season": 1,
+      "number": 58,
+      "name": "Oddjobs",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "42bd14b6-84ad-4975-aef3-ceae3462d2d4",
+      "season": 1,
+      "number": 59,
+      "name": "Kloge hoveder",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "e7c4119e-2855-44aa-81b5-00fd636e89c5",
+      "season": 1,
+      "number": 60,
+      "name": "En tricky tand",
+      "airdate": "2025-08-02"
+    }
+  ]
+}

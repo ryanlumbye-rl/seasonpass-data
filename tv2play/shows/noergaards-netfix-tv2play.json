@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:noergaards-netfix-tv2play",
+  "name": "Nørgaards netfix",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "32c319ae-dc70-40dc-8c43-dc892f7dda6c",
+      "season": 2,
+      "number": 1,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-02-02"
+    },
+    {
+      "id": "4760dc98-476b-4c27-a928-33a70ea46d32",
+      "season": 2,
+      "number": 2,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-02-09"
+    },
+    {
+      "id": "e775165c-577a-4c8c-ae60-aa8eb75b816c",
+      "season": 2,
+      "number": 3,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-02-16"
+    },
+    {
+      "id": "47161247-f3bc-458a-a34a-07467797c050",
+      "season": 2,
+      "number": 4,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-02-23"
+    },
+    {
+      "id": "5a1eeaae-0593-4f96-8c61-22764e032d65",
+      "season": 2,
+      "number": 5,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-03-02"
+    },
+    {
+      "id": "db2722bf-901f-47a3-8095-ee572e1833d1",
+      "season": 2,
+      "number": 6,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-03-09"
+    },
+    {
+      "id": "db49b204-0b21-452a-9a19-92adae21077f",
+      "season": 2,
+      "number": 7,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-03-16"
+    },
+    {
+      "id": "925fd56f-c0d7-4029-9d54-e202c66f059e",
+      "season": 2,
+      "number": 8,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-03-16"
+    },
+    {
+      "id": "f0c7bbc3-128b-4e04-beda-5eb6b8991695",
+      "season": 3,
+      "number": 1,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-08-24"
+    },
+    {
+      "id": "edcae7d0-9e69-4e0a-9dbc-657a29d83402",
+      "season": 3,
+      "number": 2,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-08-31"
+    },
+    {
+      "id": "ab1093aa-8aba-4044-bde7-5daada9f2a19",
+      "season": 3,
+      "number": 3,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-09-07"
+    },
+    {
+      "id": "2de0a6d4-557a-4dbd-90e9-6974bc753de3",
+      "season": 3,
+      "number": 4,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-09-14"
+    },
+    {
+      "id": "9e190fdc-f05d-4750-8eca-9802dc073fb7",
+      "season": 3,
+      "number": 5,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-09-21"
+    },
+    {
+      "id": "7bdf6803-1837-48a0-b238-e1583d1c4ac4",
+      "season": 3,
+      "number": 6,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-10-05"
+    },
+    {
+      "id": "6b4ed596-eba5-4bec-8379-21f89b43d356",
+      "season": 3,
+      "number": 7,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-10-05"
+    },
+    {
+      "id": "8e37ad82-1535-470f-9a92-7912b56c0211",
+      "season": 3,
+      "number": 8,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-10-12"
+    },
+    {
+      "id": "1240e282-0ba8-4110-b27c-37450ed2ce90",
+      "season": 3,
+      "number": 9,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-10-26"
+    },
+    {
+      "id": "8261ccd9-1b7d-4c3e-a262-c8538d184b1d",
+      "season": 3,
+      "number": 10,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-11-02"
+    },
+    {
+      "id": "8c73abbd-bf31-47cf-9473-4161cf8aba97",
+      "season": 3,
+      "number": 11,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-11-02"
+    },
+    {
+      "id": "33602c79-6aae-49d3-b3b4-50ec39fa9621",
+      "season": 3,
+      "number": 12,
+      "name": "Det bedste - og værste - fra nettet",
+      "airdate": "2015-11-09"
+    }
+  ]
+}

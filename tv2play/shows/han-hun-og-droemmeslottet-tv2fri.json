@@ -1,0 +1,311 @@
+{
+  "id": "tv2play:han-hun-og-droemmeslottet-tv2fri",
+  "name": "Han, hun og drømmeslottet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e6d0557b-f032-4a45-a53d-57c5647a878b",
+      "season": 1,
+      "number": 1,
+      "name": "Hul i muren",
+      "airdate": "2017-04-17"
+    },
+    {
+      "id": "27205420-849f-42cc-b26f-3276e6ad2614",
+      "season": 1,
+      "number": 2,
+      "name": "Det er vores fluer!",
+      "airdate": "2017-04-24"
+    },
+    {
+      "id": "85bce47d-964a-4a12-a946-e027efc5bb69",
+      "season": 1,
+      "number": 3,
+      "name": "Angels mange ideer",
+      "airdate": "2017-05-01"
+    },
+    {
+      "id": "800bcbea-4409-42f2-9a1d-44152ec155e2",
+      "season": 1,
+      "number": 4,
+      "name": "Brylluppet står for slotsdøren",
+      "airdate": "2017-05-08"
+    },
+    {
+      "id": "b99ebbab-88ad-46a2-9717-cba392afef57",
+      "season": 2,
+      "number": 1,
+      "name": "Svinegril, Versailles-toilet og første skoledag",
+      "airdate": "2017-05-11"
+    },
+    {
+      "id": "f19cc4a8-d031-4b26-a471-1daff403aaed",
+      "season": 2,
+      "number": 2,
+      "name": "Furagere og en elevator",
+      "airdate": "2017-05-22"
+    },
+    {
+      "id": "07994f1d-2c2b-4e4a-98d7-17c2311e7fcd",
+      "season": 2,
+      "number": 3,
+      "name": "Jul på slottet",
+      "airdate": "2017-05-11"
+    },
+    {
+      "id": "885b31f1-7072-47fc-b182-e0c54a09e297",
+      "season": 3,
+      "number": 1,
+      "name": "Kun 20 værelser tilbage",
+      "airdate": "2018-01-03"
+    },
+    {
+      "id": "d46dca49-75c1-4c13-ba62-3d27dc2503ac",
+      "season": 3,
+      "number": 2,
+      "name": "Forår",
+      "airdate": "2018-01-10"
+    },
+    {
+      "id": "42d081ed-e9b0-4a2f-90eb-47a241747080",
+      "season": 3,
+      "number": 3,
+      "name": "Bryllupssæson",
+      "airdate": "2018-01-17"
+    },
+    {
+      "id": "f8e355d5-becf-49fe-8c23-c0d7a95d880e",
+      "season": 4,
+      "number": 1,
+      "name": "Det franske eventyr",
+      "airdate": "2018-05-14"
+    },
+    {
+      "id": "d75c7ac8-7f64-4b30-91b3-12591257d37c",
+      "season": 4,
+      "number": 2,
+      "name": "Det franske eventyr",
+      "airdate": "2018-05-21"
+    },
+    {
+      "id": "c75e7415-0761-4e9a-bcb0-4974433aea49",
+      "season": 4,
+      "number": 3,
+      "name": "Det franske eventyr",
+      "airdate": "2018-05-28"
+    },
+    {
+      "id": "df5cd587-b6e2-47b8-8787-a6944273e161",
+      "season": 6,
+      "number": 1,
+      "name": "Vinteren vender tilbage",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "71bb2706-0eb5-471c-b121-4d77825b222e",
+      "season": 6,
+      "number": 2,
+      "name": "En båd i voldgraven",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "2bb735db-4523-4b31-84cb-eb7d5555686e",
+      "season": 6,
+      "number": 3,
+      "name": "Bryllupper og fuglebure",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "0850376e-92c1-42a5-98b7-ba0541c4f8e4",
+      "season": 6,
+      "number": 4,
+      "name": "Dit livs bedste fest",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "46f3d8d2-de03-4ecf-b5b7-eee3c5cc0dbc",
+      "season": 6,
+      "number": 5,
+      "name": "Campingvan",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "f4a0bffa-864a-4563-bf6a-67bb28a888a3",
+      "season": 6,
+      "number": 6,
+      "name": "Efterårsrenovering",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "da0a21ad-f14b-4f71-8d10-eb5481ddadb2",
+      "season": 6,
+      "number": 7,
+      "name": "Husbåden",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "bf82b078-b79c-4d8a-a0c6-3a9af9823358",
+      "season": 6,
+      "number": 8,
+      "name": "Jul på slottet",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "91860577-c811-4c1c-9c4a-d901586e140b",
+      "season": 7,
+      "number": 1,
+      "name": "To-do-listen",
+      "airdate": "2021-05-12"
+    },
+    {
+      "id": "5387f6fe-f294-4464-bd33-156f09203194",
+      "season": 7,
+      "number": 2,
+      "name": "Bibliotek i tårnet",
+      "airdate": "2021-05-12"
+    },
+    {
+      "id": "008a56b4-ef67-4758-8be1-b0376578288f",
+      "season": 7,
+      "number": 3,
+      "name": "Vaskehuset",
+      "airdate": "2021-05-19"
+    },
+    {
+      "id": "bb439cb2-1613-4367-815f-7fc5d453ec38",
+      "season": 7,
+      "number": 4,
+      "name": "Orangeriet",
+      "airdate": "2021-05-26"
+    },
+    {
+      "id": "f4098b4e-86ff-496b-a626-f0b05ef84385",
+      "season": 7,
+      "number": 5,
+      "name": "Fem-årsbryllupsdag",
+      "airdate": "2021-06-02"
+    },
+    {
+      "id": "e2191be4-e0f1-4038-bf08-872c5d8dfa05",
+      "season": 7,
+      "number": 6,
+      "name": "En gammel hovedbog",
+      "airdate": "2021-06-09"
+    },
+    {
+      "id": "58400341-3885-4960-bea4-ed9aa9274c86",
+      "season": 8,
+      "number": 1,
+      "name": "Kornmagasinet",
+      "airdate": "2022-01-05"
+    },
+    {
+      "id": "29c393bb-62b5-432a-b4a8-e5f485146692",
+      "season": 8,
+      "number": 2,
+      "name": "Forrådskammeret",
+      "airdate": "2022-01-05"
+    },
+    {
+      "id": "edf5fc7c-5b37-4d2a-a6a0-138742be737b",
+      "season": 8,
+      "number": 3,
+      "name": "Party i haven",
+      "airdate": "2022-01-12"
+    },
+    {
+      "id": "08b3afd0-711d-453e-a119-9775e6331892",
+      "season": 8,
+      "number": 4,
+      "name": "Mere plads til opbevaring",
+      "airdate": "2022-01-19"
+    },
+    {
+      "id": "10418ece-7c0f-4672-978e-9dab73eb4b0d",
+      "season": 8,
+      "number": 5,
+      "name": "Udsigt til stjernerne",
+      "airdate": "2022-01-26"
+    },
+    {
+      "id": "a69a31cf-6846-41b0-9731-e333b6abff5e",
+      "season": 8,
+      "number": 6,
+      "name": "Farver og cider",
+      "airdate": "2022-02-02"
+    },
+    {
+      "id": "e73d2dd5-bdf2-4604-bfb9-c62b1b57be55",
+      "season": 8,
+      "number": 7,
+      "name": "En nøgle i sølv",
+      "airdate": "2022-02-09"
+    },
+    {
+      "id": "6cd631eb-fbf4-4e2d-b836-8aac8e55ba20",
+      "season": 8,
+      "number": 8,
+      "name": "En magisk jul",
+      "airdate": "2022-02-16"
+    },
+    {
+      "id": "188f0a87-29df-41c8-a2b8-5881bdadfd82",
+      "season": 9,
+      "number": 1,
+      "name": "Slottet åbner op igen",
+      "airdate": "2023-04-13"
+    },
+    {
+      "id": "f342edd4-a1e7-4d22-bbe6-b3e2680e9023",
+      "season": 9,
+      "number": 2,
+      "name": "Det første bryllup",
+      "airdate": "2023-04-20"
+    },
+    {
+      "id": "ee300667-fe26-44ac-a24a-cb3c9c25a962",
+      "season": 9,
+      "number": 3,
+      "name": "En smuk have",
+      "airdate": "2023-04-27"
+    },
+    {
+      "id": "9ce58758-5ba8-4de4-87bd-b76f3c7ca165",
+      "season": 9,
+      "number": 4,
+      "name": "Sommer og sol",
+      "airdate": "2023-05-04"
+    },
+    {
+      "id": "60e2b9c1-eb1e-4cb6-8aee-71e5fd47150b",
+      "season": 9,
+      "number": 5,
+      "name": "Nok at se til",
+      "airdate": "2023-05-11"
+    },
+    {
+      "id": "fc54a5a9-2c11-4360-be4a-b2a98b782a55",
+      "season": 9,
+      "number": 6,
+      "name": "Skjulte skatte",
+      "airdate": "2023-05-18"
+    },
+    {
+      "id": "ebc91fdd-b59b-430e-b7fa-f68e7d7bd6eb",
+      "season": 9,
+      "number": 7,
+      "name": "En udvidelse",
+      "airdate": "2023-05-25"
+    },
+    {
+      "id": "da76d1a5-977f-46f0-8b06-47ce54693f80",
+      "season": 9,
+      "number": 8,
+      "name": "Julefest",
+      "airdate": "2023-06-01"
+    }
+  ]
+}

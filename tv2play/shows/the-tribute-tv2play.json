@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:the-tribute-tv2play",
+  "name": "The Tribute",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3ee5dc16-dcea-411b-927a-4a509174caaa",
+      "season": 1,
+      "number": 1,
+      "name": "Adolfo og Norma",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "682c3875-a6e5-46ef-a03a-43ecac829a92",
+      "season": 1,
+      "number": 2,
+      "name": "Stella",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "23733604-732a-4a51-a138-a09e7af9d508",
+      "season": 1,
+      "number": 3,
+      "name": "Greta",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "eded1b3e-21e5-4ab7-9665-0e5a425f4902",
+      "season": 1,
+      "number": 4,
+      "name": "Elías",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "953bb3db-e5fc-4a54-977e-9e465ef2c710",
+      "season": 1,
+      "number": 5,
+      "name": "Lorenzo",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "6ab96928-0d9c-4859-a51c-b5d61368140e",
+      "season": 1,
+      "number": 6,
+      "name": "Paula",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "847c22f4-605b-4698-a259-5523725e616b",
+      "season": 1,
+      "number": 7,
+      "name": "Azarías",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "558e241a-487f-4111-9c83-035bb9ce94db",
+      "season": 1,
+      "number": 8,
+      "name": "Hyldesten",
+      "airdate": "2026-08-28"
+    }
+  ]
+}

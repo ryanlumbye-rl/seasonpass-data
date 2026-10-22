@@ -1,0 +1,801 @@
+{
+  "id": "tv2play:jordemoderen-britbox",
+  "name": "Jordemoderen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f150e031-bc59-4f9d-9978-67d338dd2a23",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "dfcaa12d-7485-4502-a65f-c4e687f564a6",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "792ff099-c835-47ea-9976-c8c081f3c1db",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e8193003-332d-431f-a845-b0e56614c1c9",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "36895d02-6ddf-4f49-b0a4-8ab37d317c4c",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b8340327-19e4-4b9f-ac31-760acb3ce080",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4c8e60ec-29f9-43ce-b39c-80c4f209fcdf",
+      "season": 1,
+      "number": 7,
+      "name": "Christmas Special 2012",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e0a61aba-8343-45d5-a66f-7c10d0ea8284",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "19bd0442-a177-4f4d-9099-deeff064de52",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2ffcfe0c-e438-45dc-b5a7-d188dbadfdcb",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "37d24498-a3e8-43f3-a275-bb5ec601ffad",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d82f382c-6cdf-44e2-ac4f-53c717e16db3",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6ddc4397-9f70-4137-8d7a-4549a30cb3b9",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2ffe02f5-01f1-486c-b9ba-d7e5b1d8eac9",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "938d2878-a584-47a3-9653-f8ac42f23d57",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "43d50ea0-c02c-468d-ab9d-525191e2a3a4",
+      "season": 2,
+      "number": 9,
+      "name": "Christmas Special 2013",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6686968a-715b-4840-831a-28fa68ab674b",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d209e02a-97c1-420b-9697-73c06923d19f",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "08f4c565-d72b-4bea-9feb-78fff00c995a",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a68ea7e2-bbe6-4d06-a0b3-fdff38a83477",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b6110552-1c7d-4329-9937-6be4330c69f5",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9b1ced33-07ac-4c8e-9a86-85cc7d5b0589",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ade04cc2-26ab-4dc7-b7fe-6122960211df",
+      "season": 3,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1a7573ee-560b-43f0-87bf-947a6e46decb",
+      "season": 3,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d898ea4f-6780-4f7f-8c0b-7c438b820fb4",
+      "season": 3,
+      "number": 9,
+      "name": "Christmas Special 2014",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0c0692ba-081b-4856-9b5f-1b092ea05945",
+      "season": 4,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "dc718191-2ab3-4c2d-8924-15dda02cb3d4",
+      "season": 4,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c042a2c8-d155-4e56-8f1b-b652a0ab7a9f",
+      "season": 4,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "40b0db0f-3623-4c23-a835-ee23cde0f87b",
+      "season": 4,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e65ca930-156d-4679-bf37-8448304fdbd8",
+      "season": 4,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "167d7a9e-bd81-4dbf-8b82-65d5a79c0701",
+      "season": 4,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "16967c43-85da-42a8-b672-389985e3029a",
+      "season": 4,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "18a47ad0-9918-4900-81c3-2ba815c9d630",
+      "season": 4,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a76dd1af-df1f-4869-b746-8916da56d6f7",
+      "season": 4,
+      "number": 9,
+      "name": "Christmas Special 2015",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "382dc94a-d027-40d7-a0fb-2f618f3908b4",
+      "season": 5,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "63360d1d-e2e3-48c5-8220-17c1fcfd64cf",
+      "season": 5,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6b595717-f1eb-47bf-b4f7-1b40bfae4697",
+      "season": 5,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3053b0a1-9eb3-4667-86c1-b6c14367af3f",
+      "season": 5,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d8d7517d-8a9c-43cc-bcda-e67ee895b345",
+      "season": 5,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4eee409d-ac8a-4387-9e0b-4afeb2308699",
+      "season": 5,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "43602873-efef-4e47-9d97-90df0bb42c30",
+      "season": 5,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bb791d96-b895-4846-8a56-e72f44c533fb",
+      "season": 5,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a3fe76de-c820-48c1-a2c8-45071823e9fb",
+      "season": 5,
+      "number": 9,
+      "name": "Julespecial 2016",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "15f0982d-022f-4639-8c73-f749f1d00036",
+      "season": 6,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6c2c5025-f261-4a13-ab5c-d774a0728725",
+      "season": 6,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "dd592628-0fc4-4484-95e0-56d1963b40d7",
+      "season": 6,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0d16568a-4de3-4f2c-8327-19b45c243822",
+      "season": 6,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "79edae24-1806-4c0f-9dbe-9b364c0fb8a9",
+      "season": 6,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "665e84c7-38f0-4cb2-a93f-4b6b474f5b49",
+      "season": 6,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e696a37c-4153-40de-a6a5-44f3951a8e6b",
+      "season": 6,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "41d961d8-c84d-40f3-ad4f-2d7cbc69e282",
+      "season": 6,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "65e92897-9744-4b40-8522-1e8e686a6712",
+      "season": 6,
+      "number": 9,
+      "name": "Christmas Special 2017",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8339162d-9ca7-42e4-b0a1-302888e43577",
+      "season": 7,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "db3032e4-d41b-482a-99dd-1cb2ea125ab6",
+      "season": 7,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7f49edae-bbd9-4826-9f4d-1c6d62ed31bc",
+      "season": 7,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c597e583-9949-4bf4-a13b-0ae4d758227f",
+      "season": 7,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d12379c9-921a-4d3f-83ed-1b19b2672210",
+      "season": 7,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cd5538ba-3615-41fb-9a46-a513fa582622",
+      "season": 7,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9d231ca0-f0ca-4d48-b134-692d0479b495",
+      "season": 7,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "eba57a5f-ffe4-4328-a033-f81e96b65dfd",
+      "season": 7,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f6b367a7-890e-43ed-8c69-e36366d85794",
+      "season": 7,
+      "number": 9,
+      "name": "Christmas Special 2018",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "787f1ab6-ff75-4a59-8911-9dc997c4e7c3",
+      "season": 8,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "96dc9050-0680-4a71-94de-749c732837d4",
+      "season": 8,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3d4cf306-1ab2-4b98-ad45-c9423df19f9d",
+      "season": 8,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3c842673-4e38-456b-a284-3462489d3b7b",
+      "season": 8,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d9bc6ef3-628d-436c-a3e6-74d51f4a9c76",
+      "season": 8,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "70c005a9-407c-4494-b57f-2e5911887954",
+      "season": 8,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1c05fbe9-27b2-4f89-9494-d47d0eb5db49",
+      "season": 8,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "32798117-acc5-452c-8940-f37365cf2c40",
+      "season": 8,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0b3c8159-9b79-42b0-9f4c-c9d280c9128c",
+      "season": 8,
+      "number": 9,
+      "name": "Christmas Special 2019",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e1893b17-2cd7-4053-99fb-08747bf96230",
+      "season": 9,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3cf6db1b-b639-4f4d-8239-10ea3f8882ca",
+      "season": 9,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "72d38dc8-b2d7-48ec-a7e2-6427aa2a24a6",
+      "season": 9,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "18256d04-a1c4-4b91-8856-5c7c0ea64fa4",
+      "season": 9,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "33512c92-b4bf-49a7-a533-b7204cbe84e9",
+      "season": 9,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ff2f446f-03e5-4523-88e7-01c76f8bd8f7",
+      "season": 9,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6dc5d26b-47f8-457e-9ff4-9a9f4ab97ca4",
+      "season": 9,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fe036053-a6a0-4082-9570-f8bdd35f5e6d",
+      "season": 9,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b7a63e96-8bf7-415b-bbf2-6d0eb3bf5768",
+      "season": 9,
+      "number": 9,
+      "name": "Christmas Special 2020",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "25699d66-4e43-4a2b-94b8-814703b2fb27",
+      "season": 10,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cb84d699-3302-4abf-8656-e0c2bd82884c",
+      "season": 10,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "97e70008-97e8-4422-9ee6-94f646b3924d",
+      "season": 10,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bbad035e-40f7-477a-8515-d6392bc9bd71",
+      "season": 10,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fc06cefb-ffbf-429d-8275-e6d95e50bcab",
+      "season": 10,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "053d96c6-b3f2-4d0c-b28c-c714a1721574",
+      "season": 10,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8b1355b6-c757-4bce-aa29-33c7a89356f9",
+      "season": 10,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b17e812b-1f92-4941-9310-985cca3e04cf",
+      "season": 10,
+      "number": 8,
+      "name": "Christmas Special 2021",
+      "airdate": "2023-12-06"
+    },
+    {
+      "id": "cb3b51cc-734d-4b75-a0d5-de8c2c4517a9",
+      "season": 11,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "30ba1f40-6672-4c75-abc9-3452e4c76523",
+      "season": 11,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "10f23c7e-fc38-4504-a086-9abcab59b146",
+      "season": 11,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "897d96fb-aef3-408e-92dd-c6f31b37ede7",
+      "season": 11,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "7b9f48e5-97aa-4bb3-a7b6-04d56ff57124",
+      "season": 11,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "425feccb-fa44-4b6f-a147-7d2b618a97b9",
+      "season": 11,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "12b87809-e4ba-4572-9874-7d9a83f68379",
+      "season": 11,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "8c74c03a-ef98-41d3-9bed-cccbeb6b3393",
+      "season": 11,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "f24f3b37-9423-4aec-9fd6-f2bb0e506ad0",
+      "season": 11,
+      "number": 9,
+      "name": "Christmas Special 2022",
+      "airdate": "2024-11-27"
+    },
+    {
+      "id": "173496e8-c501-44d5-862a-60af60d9cb19",
+      "season": 12,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "36d09950-baf2-469b-b3f0-fd53b89b9ec8",
+      "season": 12,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "3d205e28-f45e-4698-b46a-c2ef35861a1c",
+      "season": 12,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "0ff780f0-ce55-49d7-b044-c8b40c466add",
+      "season": 12,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "bb27a25c-ebb6-4263-ab45-e8eabf1fc460",
+      "season": 12,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "e89f9f0d-bdc8-42b2-b259-755005254211",
+      "season": 12,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "3475527c-857b-4fcd-8920-c12d847a450b",
+      "season": 12,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "ace08bff-896a-41fe-a3cb-8ce13086e856",
+      "season": 12,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "103c1aa3-32d4-42a2-8fb8-2d9c3b1ab283",
+      "season": 12,
+      "number": 9,
+      "name": "Christmas Special 2023",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "8aa5ee63-9384-46c5-9335-ced7540cf283",
+      "season": 13,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "563e3e64-f39a-43a2-b527-57b250c70a8d",
+      "season": 13,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "a9185caa-c1f6-4bc5-b96f-b9a0250e14c0",
+      "season": 13,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "eaf5d52e-a6ff-4be6-a3ed-b62b7dcb001d",
+      "season": 13,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "3aa1d879-f46a-40cd-9f7a-12868ac47630",
+      "season": 13,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "f4a4e16b-023e-4a64-9eda-9dc51d56e80a",
+      "season": 13,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "28406be4-184d-4d2c-a41a-b7e8de5ceac7",
+      "season": 13,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "b58c93b5-f0c1-4777-ad7c-a9fbff23b87c",
+      "season": 13,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2026-02-04"
+    }
+  ]
+}

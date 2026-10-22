@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:megafamilierne-tv2",
+  "name": "Megafamilierne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d5f07c97-75db-4768-a01e-2b390e577eaf",
+      "season": 1,
+      "number": 1,
+      "name": "Har vi glemt nogen?",
+      "airdate": "2026-03-03"
+    },
+    {
+      "id": "e150dda0-9088-448c-9051-0d15f161a439",
+      "season": 1,
+      "number": 2,
+      "name": "Ferie - eller noget der ligner",
+      "airdate": "2026-03-10"
+    },
+    {
+      "id": "54ba13a4-e462-4cb3-b1d6-c92b28739f7e",
+      "season": 1,
+      "number": 3,
+      "name": "Når flyttebilen kører",
+      "airdate": "2026-03-17"
+    },
+    {
+      "id": "ae69f437-b214-4152-afe3-62c4f15bac0b",
+      "season": 1,
+      "number": 4,
+      "name": "Mange børn koster mange penge",
+      "airdate": "2026-03-24"
+    },
+    {
+      "id": "ea331e35-b714-4d9a-9d06-a68f02248878",
+      "season": 1,
+      "number": 5,
+      "name": "Tid til alle?",
+      "airdate": "2026-03-31"
+    },
+    {
+      "id": "cd20354b-785b-4f82-b65c-ebe25daa8914",
+      "season": 1,
+      "number": 6,
+      "name": "Knaster i rutinerne",
+      "airdate": "2026-04-07"
+    }
+  ]
+}

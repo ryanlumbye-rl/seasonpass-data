@@ -1,0 +1,185 @@
+{
+  "id": "tv2play:a-discovery-of-witches-skyshowtime",
+  "name": "A Discovery of Witches",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1af06c12-3e62-42f0-bc9e-a3a63af8ec38",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3fb6b86e-97d2-4f69-beb0-67c372c63777",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3efa06e1-d12e-4570-8b6c-6643715f9f89",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "78f82edf-b559-4641-9054-5a8f176157d1",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c497a146-3843-4ef4-9125-47dfa98703a7",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "897dcc29-5fb1-4258-b9c2-5647dd09d839",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9ce7dc9d-c2c1-4d2e-a8d6-c1c90b9c4f92",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "29e993b6-f79c-4ec8-ad23-1a67b2043822",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ad77e0a6-c1be-41c6-8f5b-f337fdf75fad",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "34ca8de1-476c-4725-9328-2adf9b66986e",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "60cc260e-14ce-4762-b666-cfe6e0b6ff85",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "fa9bc89d-2c09-4369-8063-12264bb199bb",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "180e7b93-e2fb-4935-9231-a11b91eee886",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "94d068bc-7fd3-4ed1-b655-7ca5be0272f0",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "9819a055-bd4f-47e9-8629-80566122afca",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "33f2af3d-af3a-46f9-b59a-5958e10df6ab",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "568a2589-20f0-47cd-8a49-df1f16d03311",
+      "season": 2,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "29de5855-bc06-41b3-a3c0-ec820790d11f",
+      "season": 2,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "938d2018-4ef0-4a8a-9ba2-d0ce6184714c",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "57e21bb9-5649-44d1-acc4-4d4fae9e15e4",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "11dcffa7-0d62-4f18-a5fc-376687ad20ab",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "e493feb2-04f1-4cde-b724-d6ada089bfa5",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "17ec42ff-864c-4b6f-a203-c94e7f849640",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "2fd64f3c-777d-45db-886d-ce8d83ecc635",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "8a00feb2-717c-4b0e-a009-f918fa661faf",
+      "season": 3,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-12-31"
+    }
+  ]
+}

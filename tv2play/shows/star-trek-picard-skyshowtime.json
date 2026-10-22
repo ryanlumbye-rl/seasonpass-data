@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:star-trek-picard-skyshowtime",
+  "name": "Star Trek: Picard",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bac6470d-3149-43c4-969e-196a76908629",
+      "season": 1,
+      "number": 1,
+      "name": "Remembrance",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "4cb6326f-bafe-4864-9a42-a67e252b3b6c",
+      "season": 1,
+      "number": 2,
+      "name": "Maps and Legends",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "ca5053dd-66b0-450d-9354-9b9bc80c0f85",
+      "season": 1,
+      "number": 3,
+      "name": "The End Is the Beginning",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "9e5761a1-f1c1-45cc-ab7c-fd0f6e27c00b",
+      "season": 1,
+      "number": 4,
+      "name": "Absolute Candor",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "4d81dccc-1be4-4b21-be99-2b9e6f9ea236",
+      "season": 1,
+      "number": 5,
+      "name": "Stardust City Rag",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "dd54fb5f-03c4-49c9-9493-5ed159daa9c5",
+      "season": 1,
+      "number": 6,
+      "name": "The Impossible Box",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "a5aa2bb3-83b8-42d6-af91-07bf1798fcf6",
+      "season": 1,
+      "number": 7,
+      "name": "Nepenthe",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "433e07db-404f-40e7-b03d-93ca07b52f5e",
+      "season": 1,
+      "number": 8,
+      "name": "Broken Pieces",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "813d29f1-527f-481f-a5f7-4747f9e7300e",
+      "season": 1,
+      "number": 9,
+      "name": "Et in Arcadia Ego: Part 1",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "0738f7bb-bfff-4a52-9501-3950b61e6c24",
+      "season": 1,
+      "number": 10,
+      "name": "Et in Arcadia Ego: Part 2",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "84c5520e-5d25-407d-8ac4-520ce81b758a",
+      "season": 2,
+      "number": 1,
+      "name": "The Star Gazer",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "8edf782f-4ad3-465a-a2dd-87df892e0da5",
+      "season": 2,
+      "number": 2,
+      "name": "Penance",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "bc84298f-b1d0-46f3-9aec-2fde2e9b43d9",
+      "season": 2,
+      "number": 3,
+      "name": "Assimilation",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "8ea42972-4983-4cb2-b1fc-287573a4f8a9",
+      "season": 2,
+      "number": 4,
+      "name": "Watcher",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "258a42b6-748d-40ec-b8b7-f68c6b1f6aca",
+      "season": 2,
+      "number": 5,
+      "name": "Fly Me to the Moon",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "264ee5de-e6e7-480c-a9cf-10707a300bff",
+      "season": 2,
+      "number": 6,
+      "name": "Two of One",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "f0b06aca-e716-4e21-b413-cb99bbb1a3f6",
+      "season": 2,
+      "number": 7,
+      "name": "Monsters",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "28495835-2937-46dd-8639-698df18c003e",
+      "season": 2,
+      "number": 8,
+      "name": "Mercy",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "bdf3bdec-221b-4c1a-a685-51a1b812afd7",
+      "season": 2,
+      "number": 9,
+      "name": "Hide and Seek",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "755f4efc-aa0c-4cac-8aa5-2d2f55a50260",
+      "season": 2,
+      "number": 10,
+      "name": "Farewell",
+      "airdate": "2025-07-30"
+    }
+  ]
+}

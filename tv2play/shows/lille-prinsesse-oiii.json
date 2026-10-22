@@ -1,0 +1,717 @@
+{
+  "id": "tv2play:lille-prinsesse-oiii",
+  "name": "Lille prinsesse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "95f277a2-8772-47a7-b674-17dfcc875ad6",
+      "season": 1,
+      "number": 1,
+      "name": "Jeg vil have min tand!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "e72f48ab-0fbe-49a6-a7b1-b5e8f9f332b7",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg vil ikke have hjælp!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "29a6d957-1213-4e3d-8ea8-65f6d849b22f",
+      "season": 1,
+      "number": 3,
+      "name": "Jeg vil ikke i seng!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "0ab7f48c-d636-457f-867e-0c976dcd1a6b",
+      "season": 1,
+      "number": 4,
+      "name": "Hvad skal jeg være?",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "7d6d260c-d96a-4046-beb3-7c5e44b1982a",
+      "season": 1,
+      "number": 5,
+      "name": "Det kan jeg ikke huske!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "11836a0f-47b8-4e38-88d5-3fe527ee53b9",
+      "season": 1,
+      "number": 6,
+      "name": "Jeg vil have min sut!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "c6155d17-9f27-417e-a375-89959a9d7abd",
+      "season": 1,
+      "number": 7,
+      "name": "Jeg vil gerne fløjte!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "93b593e0-078c-4859-81cc-7bba67a4a3dc",
+      "season": 1,
+      "number": 8,
+      "name": "Jeg vil ikke i bad!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "8387bf91-f8f1-44e2-87c5-0afcdb5ca91d",
+      "season": 1,
+      "number": 9,
+      "name": "Det var ikke mig!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "39d22569-7b73-44d1-aa18-58ee7d5e2e4b",
+      "season": 1,
+      "number": 10,
+      "name": "Jeg vil ikke have redt mit hår!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "6e576625-ebe6-4ac1-bd27-82e84eab8051",
+      "season": 1,
+      "number": 11,
+      "name": "Jeg kan ikke lide salat!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "4eef7a55-5e64-4688-857c-7a4be0f0d664",
+      "season": 1,
+      "number": 12,
+      "name": "Jeg vil lære at trylle!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "b66c073e-b7e1-445d-ba6f-679f146a9f09",
+      "season": 1,
+      "number": 13,
+      "name": "Jeg vil ikke rydde op!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "9726b26f-d49d-475e-9177-4f360d22fc7f",
+      "season": 1,
+      "number": 14,
+      "name": "Jeg vil have en trompet!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "8a7c0e9c-09b7-4950-8ba0-f4bb807319d4",
+      "season": 1,
+      "number": 15,
+      "name": "Jeg vil ikke dele!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "3e52bfa8-eabe-47d8-8482-56bcbeaee348",
+      "season": 1,
+      "number": 16,
+      "name": "Jeg kan ikke lide orme!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "c44c9b1e-a745-46fd-9a14-0dadb97536c9",
+      "season": 1,
+      "number": 17,
+      "name": "Jeg vil have min stemme tilbage!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "e0d91610-8c91-4d0e-b12b-9b4386c45ae5",
+      "season": 1,
+      "number": 18,
+      "name": "Hvad er der galt med Gilbert?",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "8f2fb934-ffad-46bf-a52a-360f77f9b6f7",
+      "season": 1,
+      "number": 19,
+      "name": "Jeg vil have et telt!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "f93cfab8-13a3-4a92-b14d-3d985769dcf7",
+      "season": 1,
+      "number": 20,
+      "name": "Jeg vil vinde!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "3f818596-254b-47d7-a164-de3fe6996c72",
+      "season": 1,
+      "number": 21,
+      "name": "Jeg vil ikke være forkølet!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "3827a9d1-1b0a-47e5-bf8c-b578f191cb5e",
+      "season": 1,
+      "number": 22,
+      "name": "Stuepigens fridag",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "4050e8ec-2797-4bf4-aeb2-b10372109e2e",
+      "season": 1,
+      "number": 23,
+      "name": "Må jeg godt beholde den?",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "f2cce4bf-9785-4248-846c-3c3847972214",
+      "season": 1,
+      "number": 24,
+      "name": "Jeg vil lave mad!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "d41f7d05-a812-432b-8f27-1894e396ea37",
+      "season": 1,
+      "number": 25,
+      "name": "Jeg kan ikke lide efterår!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "4dc9f0e8-a924-4ff4-a557-7cabdd707f1a",
+      "season": 1,
+      "number": 26,
+      "name": "Jeg vil ikke have lus!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "c5e3ab73-b788-4558-ae66-11b74cd02edc",
+      "season": 1,
+      "number": 27,
+      "name": "Jeg vil have mine nye sko!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "003d7fd0-d1e5-4bb0-9ceb-28d6e37dd8b7",
+      "season": 1,
+      "number": 28,
+      "name": "Jeg vil have min snegl!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "7d130c6f-7f74-44c7-945e-e2d64118253c",
+      "season": 1,
+      "number": 29,
+      "name": "Men det er mit!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "0b3c0733-4e04-467e-b8fd-53af38905859",
+      "season": 1,
+      "number": 30,
+      "name": "Jeg vil have min slæde!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "85c81910-fca7-4045-a514-9c37d6b28b1d",
+      "season": 2,
+      "number": 1,
+      "name": "Jeg vil have en butik!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "e6c191a2-5aef-43f8-9b9b-3154743c651c",
+      "season": 2,
+      "number": 2,
+      "name": "Det er sportsdag",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "a43b4bf0-ae34-482d-ae83-731000d8f04c",
+      "season": 2,
+      "number": 3,
+      "name": "Jeg vil være sørøver!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "5d657b53-ea49-441e-b16c-a65e52c495e6",
+      "season": 2,
+      "number": 4,
+      "name": "Jeg vil med til marked!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "3cdf798f-8720-4e25-a08e-62a6c6ce5234",
+      "season": 2,
+      "number": 5,
+      "name": "Jeg vil have et sjovt kostume!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "7346ae83-add0-43e2-8720-67e5cc9dfafa",
+      "season": 2,
+      "number": 6,
+      "name": "Jeg vil have en overraskelse!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "8b201c1a-eb6d-4c18-babc-e3464535da65",
+      "season": 2,
+      "number": 7,
+      "name": "Jeg vil have en cykel!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "aec9d78d-328c-411f-9b07-ba19259d068e",
+      "season": 2,
+      "number": 8,
+      "name": "Jeg vil ikke flytte hjemmefra!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "7bfa1cd7-54fd-4686-a315-d7113aaf1164",
+      "season": 2,
+      "number": 9,
+      "name": "Jeg vil have en bedste ven!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "36765c6c-2337-4305-9ae4-9f4a60ab1238",
+      "season": 2,
+      "number": 10,
+      "name": "Jeg vil ikke kysse grandtante!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "7fb13869-b047-43df-a370-cbe13edb5614",
+      "season": 2,
+      "number": 11,
+      "name": "Jeg vil have en midnatsfest!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "256f0562-a4bc-457a-85ef-6a05ec4446e5",
+      "season": 2,
+      "number": 12,
+      "name": "Jeg vil så gerne være sød!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "9188e459-f9d3-42ce-8517-36eb204ac399",
+      "season": 2,
+      "number": 13,
+      "name": "Hvem har hugget mine farver?",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "2d7ec275-d7aa-4443-b018-f4c21af44a9b",
+      "season": 2,
+      "number": 14,
+      "name": "Jeg vil være høj!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "7bd21705-a591-4c5b-bb87-5417883974fd",
+      "season": 2,
+      "number": 15,
+      "name": "Jeg vil ikke have mit plaster af!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "2805b30b-199c-425a-a8ac-7969e6b5f2db",
+      "season": 2,
+      "number": 16,
+      "name": "Jeg vil have en gynge!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "7e9cd63d-f8bb-48ed-8ad7-c5d24a757138",
+      "season": 2,
+      "number": 17,
+      "name": "Jeg vil være en baby!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "7b5ef7ea-0104-4500-a922-daee3368ec00",
+      "season": 2,
+      "number": 18,
+      "name": "Jeg vil være en hulepige!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "8fa9264d-00f7-46d1-9a5a-4499d8ad8212",
+      "season": 2,
+      "number": 19,
+      "name": "Jeg vil have mine dukker!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "5d0ca2c2-401d-4b1f-a147-bc385024412c",
+      "season": 2,
+      "number": 20,
+      "name": "Jeg vil lave en gave til mor",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "8986a06d-f28c-4b10-b9f1-0cd28344b10c",
+      "season": 2,
+      "number": 21,
+      "name": "Jeg vil være forsker!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "231a2eda-23b3-4f0d-9be6-873c948c267a",
+      "season": 2,
+      "number": 22,
+      "name": "Jeg vil samle på noget!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "d0df415f-4d7f-4a36-84fb-ac66bfad0c2c",
+      "season": 2,
+      "number": 23,
+      "name": "Jeg vil være dronning!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "bddff8be-7e38-4492-904a-84672aad33ca",
+      "season": 2,
+      "number": 24,
+      "name": "Jeg vil spille fodbold!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "2c7bf70d-f9e8-4040-a723-74466f2405ec",
+      "season": 2,
+      "number": 25,
+      "name": "Jeg vil ud at lege i regnen",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "943a4b1e-0dc4-4dee-9201-632b96d375b2",
+      "season": 2,
+      "number": 26,
+      "name": "Jeg vil have bønner i tomatsovs!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "fff5ffbc-5362-4c98-a4c5-1cc3236c1008",
+      "season": 2,
+      "number": 27,
+      "name": "Jeg vil ikke gå til dans!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "bcc3b5af-2485-4238-80be-ab38cb8e290f",
+      "season": 2,
+      "number": 28,
+      "name": "Jeg vil også på ferie!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "aa8e0e69-3cdd-4dd0-81ce-dd0342cf3ef9",
+      "season": 2,
+      "number": 29,
+      "name": "Jeg vil beholde mit får!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "9effa107-7476-49e6-92c1-2e44a41a4273",
+      "season": 2,
+      "number": 30,
+      "name": "Jeg vil også være med!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "8a83cc19-5c21-4703-90ae-27e85afd0862",
+      "season": 2,
+      "number": 31,
+      "name": "Jeg vil lave et show!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "15eaf926-ef78-4adb-bf2b-dec9dfbe9ba6",
+      "season": 2,
+      "number": 32,
+      "name": "Jeg vil have Gilbert tilbage!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "a6404385-f70f-45b8-9998-15718e14f017",
+      "season": 2,
+      "number": 33,
+      "name": "Jeg vil finde alle påskeæggene!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "be6bcbe9-6685-463c-b9e0-40fff861013e",
+      "season": 2,
+      "number": 34,
+      "name": "Jeg kan ikke lide tordenvejr!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "d8e1452d-acf7-4cf5-83a1-bdefa7ea132a",
+      "season": 2,
+      "number": 35,
+      "name": "Jeg kan godt holde på en hemmelighed!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "f0964601-13a1-4eda-bac2-6105a4eabed7",
+      "season": 3,
+      "number": 1,
+      "name": "Jeg vil have min Hopsa!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "aa0cb12f-8c04-4927-8fbd-0220abb5c9db",
+      "season": 3,
+      "number": 2,
+      "name": "Jeg vil være brudepige!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1c335862-d887-412b-a435-40033a1cd16c",
+      "season": 3,
+      "number": 3,
+      "name": "Hvem har slukket lyset?",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7e44ec9b-0f8d-4eec-8295-0df198c4b7b4",
+      "season": 3,
+      "number": 4,
+      "name": "Jeg vil have en træhule!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a3663707-21a5-4cb7-962a-fc9a3717c60a",
+      "season": 3,
+      "number": 5,
+      "name": "Jeg vil være dyrlæge!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b1d128e7-a4e3-4582-b441-c028b47c5693",
+      "season": 3,
+      "number": 6,
+      "name": "Jeg vil klippe det ud!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "14096ccb-db62-4afd-85c2-6f0892938116",
+      "season": 3,
+      "number": 7,
+      "name": "Jeg vil have Pjok!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8130ec91-549f-46ca-a73c-a50b11fa4375",
+      "season": 3,
+      "number": 8,
+      "name": "Jeg vil løbe på rulleskøjter!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f46ebc58-d9ad-4053-a740-486ac7e2d51f",
+      "season": 3,
+      "number": 9,
+      "name": "Jeg vil gerne til party!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2558a2c1-42b0-4881-82b8-05457018bc84",
+      "season": 3,
+      "number": 10,
+      "name": "Du må ikke gå!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4eb32603-ffc0-4227-be2d-308db83228eb",
+      "season": 3,
+      "number": 11,
+      "name": "Jeg vil have min and!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6d4f34bd-6f1e-495f-a769-1f03edd98064",
+      "season": 3,
+      "number": 12,
+      "name": "Jeg vil vinde førstepræmien!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "df5d9530-d43a-4dc4-bc02-33f3c76204ae",
+      "season": 3,
+      "number": 13,
+      "name": "Jeg kan ikke lide skænderier!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f7ef1b51-076c-49d9-9712-2499934a25a6",
+      "season": 3,
+      "number": 14,
+      "name": "Jeg vil gerne synge!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "843815b6-c332-43e0-b788-804af5df34b0",
+      "season": 3,
+      "number": 15,
+      "name": "Jeg vil gerne lave sjov!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "aa2d12db-64ff-4387-be06-224e973b104d",
+      "season": 3,
+      "number": 16,
+      "name": "Jeg vil være detektiv!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "48cf0d1c-6f4b-43bc-8236-35028d9140f0",
+      "season": 3,
+      "number": 17,
+      "name": "Jeg vil have min rødkælk!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "dbdf9068-7533-4136-9db0-3c195008663b",
+      "season": 3,
+      "number": 18,
+      "name": "Jeg vil have et ridestævne!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e6ed649e-725e-4051-a946-78648c039532",
+      "season": 3,
+      "number": 19,
+      "name": "Jeg vil gøre dig stærk!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0bbd06f0-d8cb-4d75-b614-b9e6805f90a1",
+      "season": 3,
+      "number": 20,
+      "name": "Jeg vil ikke spille klaver!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "172e50c3-c92e-4c06-a8c9-3dc3b7f2a40a",
+      "season": 3,
+      "number": 21,
+      "name": "Jeg vil ud i rummet!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "89acb763-9454-4272-999c-142d92410a7d",
+      "season": 3,
+      "number": 22,
+      "name": "Jeg vil være politimand!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "04209242-31c5-46f9-aefd-77ff357aa0d7",
+      "season": 3,
+      "number": 23,
+      "name": "Jeg vil på campingtur!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "703b3f65-6bfa-4c2e-96e6-a8501780a9bf",
+      "season": 3,
+      "number": 24,
+      "name": "Jeg vil genbruges!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d3dbdc0c-aecf-4b62-b764-3ed63e9a32b2",
+      "season": 3,
+      "number": 25,
+      "name": "Høstfesten!",
+      "airdate": "2024-09-14"
+    },
+    {
+      "id": "2b4bf5f2-f363-481f-91fe-37d24db2ae26",
+      "season": 3,
+      "number": 26,
+      "name": "Jeg vil gerne være sygeplejerske",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "6d81ae46-3a1f-42ca-b464-29272c38ae9c",
+      "season": 3,
+      "number": 27,
+      "name": "Jeg vil lege gemmeleg",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "f808fe06-ae91-47b5-a273-6196763ccdea",
+      "season": 3,
+      "number": 28,
+      "name": "Jeg vil ha' malet mit værelse",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "d814506e-6859-4527-a986-e6d6612bf033",
+      "season": 3,
+      "number": 29,
+      "name": "Det er mit diadem",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "c3bc7867-18df-4d77-a3ee-69a82836d7d0",
+      "season": 3,
+      "number": 30,
+      "name": "Jeg vil være berømt",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "8e43e07f-6e1c-4f22-9aec-8dbd8873d5ec",
+      "season": 3,
+      "number": 31,
+      "name": "Jeg vil have et sovedyr",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "530c63ac-9189-4701-bbc5-a758511376ff",
+      "season": 3,
+      "number": 32,
+      "name": "Jeg vil løbe på skøjter",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "77be14d8-3cb3-4f7b-8839-6c56de6539e3",
+      "season": 3,
+      "number": 33,
+      "name": "Jeg vil ha' en penneven",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "c107e09c-3e13-4a4c-be95-631d11a665fb",
+      "season": 3,
+      "number": 34,
+      "name": "Jeg vil ha' en sæbekassebil",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "d79f49fd-f87b-46f6-9a5b-71367f96d163",
+      "season": 3,
+      "number": 35,
+      "name": "Jeg må ikke være så kommanderende",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "65efbf15-f6e1-4fb6-95ed-1d7405670c8b",
+      "season": 3,
+      "number": 36,
+      "name": "Jeg vil ha' en vandrende pind",
+      "airdate": "2024-11-01"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:jaegerne-cmore",
+  "name": "Jægerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5132d52f-a3f7-498b-9160-77a8435aebfa",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "686eef57-fea9-47b2-b0b3-2aeca349d8d1",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b628b4ec-60a6-4187-8be7-82ef3e085468",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e20d3255-a7b2-427f-b940-5a8f910c52b3",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "12a6e802-18bc-4673-bc82-f2bdc134d4db",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "94584be4-3cc9-482f-88b9-86c325cee26f",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

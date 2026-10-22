@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:fake-patient-cmore",
+  "name": "Fake Patient",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5dc7bf5f-7266-4357-b51b-308a323fa481",
+      "season": 1,
+      "number": 1,
+      "name": "Frygten for døden",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "33efe53f-d318-45a2-83d8-6d15d3ca3018",
+      "season": 1,
+      "number": 2,
+      "name": "Fornægtelse",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "5b877028-b5cd-434f-a2ed-4bba1e69edaa",
+      "season": 1,
+      "number": 3,
+      "name": "Vrede",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "6afa69fb-192c-4a72-ba9b-8c4efaa9e942",
+      "season": 1,
+      "number": 4,
+      "name": "Et år tidligere",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "1c5a43a1-e192-422f-b755-72348aef8ef1",
+      "season": 1,
+      "number": 5,
+      "name": "Forhandling",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "64a8e226-d98d-444c-bc5c-0c332f8daad4",
+      "season": 1,
+      "number": 6,
+      "name": "Depression",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "218b5ffe-3f27-4e66-83ac-86dbf8cf1048",
+      "season": 1,
+      "number": 7,
+      "name": "Accept",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "080ec6d2-afa7-4c62-bb1f-3b52c1f520c8",
+      "season": 1,
+      "number": 8,
+      "name": "Håb",
+      "airdate": "2023-07-10"
+    }
+  ]
+}

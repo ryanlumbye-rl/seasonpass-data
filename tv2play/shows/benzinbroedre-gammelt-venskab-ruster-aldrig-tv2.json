@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:benzinbroedre-gammelt-venskab-ruster-aldrig-tv2",
+  "name": "Benzinbrødre - gammelt venskab ruster aldrig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f6c95373-b43f-4513-a691-dbe5aaa31491",
+      "season": 1,
+      "number": 1,
+      "name": "Drømmebilen",
+      "airdate": "2026-10-12"
+    }
+  ]
+}

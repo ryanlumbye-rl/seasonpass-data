@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:vi-kommer-med-fred-tv2play",
+  "name": "Vi kommer med fred",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d4c7ad01-631f-4787-b1f4-36efd93e27c1",
+      "season": 1,
+      "number": 1,
+      "name": "Dag 0",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "f74ff0d9-7a63-4eb1-a9a3-84698b5cea22",
+      "season": 1,
+      "number": 2,
+      "name": "Zandras opdagelse",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "92706782-3caa-47f3-8edd-c0e57c1e80ea",
+      "season": 1,
+      "number": 3,
+      "name": "Ægget",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "6de85772-6f61-4715-a4d1-eb71e2358fec",
+      "season": 1,
+      "number": 4,
+      "name": "Invasionen",
+      "airdate": "2025-11-20"
+    },
+    {
+      "id": "c47de02e-fdc4-4d53-84cd-352b928f8e1a",
+      "season": 1,
+      "number": 5,
+      "name": "\"Red mig!\"",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "cf71daa0-767e-40d2-93ce-3e7b1538ee83",
+      "season": 1,
+      "number": 6,
+      "name": "Farvel mor",
+      "airdate": "2025-12-04"
+    }
+  ]
+}

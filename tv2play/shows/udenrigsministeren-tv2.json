@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:udenrigsministeren-tv2",
+  "name": "Udenrigsministeren",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5dfdc87b-ccd5-4851-a076-5134ee47fbbe",
+      "season": 1,
+      "number": 1,
+      "name": "Spillet om Grønland",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "f27c4697-7b60-4e84-84e8-0ff08f61b96a",
+      "season": 1,
+      "number": 2,
+      "name": "Vores sikkerhed i fare",
+      "airdate": "2026-02-11"
+    },
+    {
+      "id": "90502ef0-14cd-4401-a79c-4c24cd27e3bd",
+      "season": 1,
+      "number": 3,
+      "name": "Vil freden lykkes?",
+      "airdate": "2026-02-18"
+    }
+  ]
+}

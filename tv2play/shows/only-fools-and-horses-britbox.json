@@ -1,0 +1,444 @@
+{
+  "id": "tv2play:only-fools-and-horses-britbox",
+  "name": "Only Fools and Horses",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a5a5640e-5566-432b-b90e-d47e33ce9f9b",
+      "season": 1,
+      "number": 1,
+      "name": "Big Brother",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "c57f440f-3a16-454b-aba3-baeab30e5eda",
+      "season": 1,
+      "number": 2,
+      "name": "Go West Young Man",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "3666de51-11be-473f-a631-fb7170022eb6",
+      "season": 1,
+      "number": 3,
+      "name": "Cash And Curry",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "2cba0ae4-65bd-463f-b073-446fcc09c46b",
+      "season": 1,
+      "number": 4,
+      "name": "The Second Time Around",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "cb55a223-bf0b-4c78-b9da-edb027b36fb1",
+      "season": 1,
+      "number": 5,
+      "name": "A Slow Bus To Chingford",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "467c03af-138f-4c75-8860-4991dcff5729",
+      "season": 1,
+      "number": 6,
+      "name": "The Russians Are Coming",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "c3552132-583e-4b80-95f3-917b00c5d821",
+      "season": 1,
+      "number": 7,
+      "name": "Christmas Crackers",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "409a7d04-feaf-4594-a432-f64d744ddf4d",
+      "season": 2,
+      "number": 1,
+      "name": "Long Legs Of The Law",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "ad4746e1-78a9-47d1-b208-3bc1563fc5b8",
+      "season": 2,
+      "number": 2,
+      "name": "Ashes To Ashes",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "77ec1612-1d88-4b63-a72b-771eb63ad7af",
+      "season": 2,
+      "number": 3,
+      "name": "A Losing Streak",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "2fbaee73-51ef-4553-9c34-b644149a7030",
+      "season": 2,
+      "number": 4,
+      "name": "No Greater Love",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "c5ce24cf-8869-4359-b781-796a95a09087",
+      "season": 2,
+      "number": 5,
+      "name": "The Yellow Peril",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "ce2aa24c-a945-4beb-b1ef-d2c93889cd2c",
+      "season": 2,
+      "number": 6,
+      "name": "It Never Rains",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "8d8c0221-904d-4195-ae13-62d8a9d97322",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "d43334ba-43f2-4a9a-8079-a5746cde1dbf",
+      "season": 2,
+      "number": 8,
+      "name": "Diamonds Are For Heather",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "8d9f7f2a-47cb-4b9a-9485-e2c9f558a072",
+      "season": 3,
+      "number": 1,
+      "name": "Homesick",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "f6a146cb-0235-4a0e-876d-5813bb31eadc",
+      "season": 3,
+      "number": 2,
+      "name": "Healthy Competition",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "16304dbe-194d-4fd1-b8d6-7e6211041b7f",
+      "season": 3,
+      "number": 3,
+      "name": "Friday The 14th",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "568238ea-4c63-4f6d-8ae8-d5b368cbf7bb",
+      "season": 3,
+      "number": 4,
+      "name": "Yesterday Never Comes",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "d828e4af-b951-4989-9287-dcde80e7590a",
+      "season": 3,
+      "number": 5,
+      "name": "May The Force Be With You",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "84871852-11e8-42b7-80a4-6f856c83fcab",
+      "season": 3,
+      "number": 6,
+      "name": "Wanted",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "afdc686a-294c-491c-8eff-2b2ad67ee5b4",
+      "season": 3,
+      "number": 7,
+      "name": "Who's A Pretty Boy?",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "49076081-e35a-4d97-908d-07c7b1f62454",
+      "season": 3,
+      "number": 8,
+      "name": "Thicker Than Water",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "eb4c967e-e923-4b21-bec2-274c8b79cbbd",
+      "season": 4,
+      "number": 1,
+      "name": "Happy Returns",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "5bbfe0ab-aa26-49b9-b8bd-1b980db57f31",
+      "season": 4,
+      "number": 2,
+      "name": "Strained Relations",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "0cebd458-dac7-4d02-bfc9-d08ecdf1ef02",
+      "season": 4,
+      "number": 3,
+      "name": "Hole In One",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "4b75fee8-30e5-4b08-b1a9-ee0f33326d61",
+      "season": 4,
+      "number": 4,
+      "name": "It's Only Rock And Roll",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "02d05d8b-ac51-4706-ad67-a9c90016d2c2",
+      "season": 4,
+      "number": 5,
+      "name": "Sleeping Dogs Lie",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "64e120d1-221f-4a1d-ace8-e1c50fc277ac",
+      "season": 4,
+      "number": 6,
+      "name": "Watching The Girls Go By",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "3f448795-ccb9-489a-918d-9cf70b6cc3ea",
+      "season": 4,
+      "number": 7,
+      "name": "As One Door Closes",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "56409648-947a-4ae4-af16-eaa8f89d41e0",
+      "season": 4,
+      "number": 8,
+      "name": "To Hull And Back",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "f9125b7c-11d1-45b4-9a91-1ffe9e19a238",
+      "season": 5,
+      "number": 1,
+      "name": "From Prussia With Love",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "1306820a-863f-4786-95b5-2550d8f6f899",
+      "season": 5,
+      "number": 2,
+      "name": "The Miracle Of Peckham",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "e3ba7752-4d24-4a5e-81a4-edc608e85ab1",
+      "season": 5,
+      "number": 3,
+      "name": "The Longest Night",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "fd5e15c3-7ac7-4169-b06b-61ef97465fd5",
+      "season": 5,
+      "number": 4,
+      "name": "Tea For Three",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "d4abb0fe-4517-4b68-95cc-1941b8b6f173",
+      "season": 5,
+      "number": 5,
+      "name": "Video Nasty",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "f19ded1f-ca68-4d89-9129-260f51adee7e",
+      "season": 5,
+      "number": 6,
+      "name": "Who Wants To Be A Millionaire?",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "ddda8e25-9ef0-41f8-a54a-f647e537a08b",
+      "season": 5,
+      "number": 7,
+      "name": "A Royal Flush",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "330ec605-2ff8-47e3-9ec4-a66255d8d436",
+      "season": 5,
+      "number": 8,
+      "name": "The Frog's Legacy",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "7fd0974e-e113-42a0-aa73-0f6732b4462f",
+      "season": 5,
+      "number": 9,
+      "name": "Dates",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "580a7a52-fe17-4e47-9f83-201467d41342",
+      "season": 6,
+      "number": 1,
+      "name": "Yuppy Love",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "11cadd10-7e33-4bea-9528-5e24812b4197",
+      "season": 6,
+      "number": 2,
+      "name": "Danger UXD",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "89d64468-fb63-4319-be50-b2fee3b5f604",
+      "season": 6,
+      "number": 3,
+      "name": "Chain Gang",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "a7deccd5-8160-48e0-8f1e-922920aa5f81",
+      "season": 6,
+      "number": 4,
+      "name": "The Unlucky Winner Is...",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "3c5f5e57-a10a-473f-8797-f838c0bd35ee",
+      "season": 6,
+      "number": 5,
+      "name": "Sickness And Wealth",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "f8aa7dc9-8501-459a-9414-765999c50c4e",
+      "season": 6,
+      "number": 6,
+      "name": "Little Problems",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "9710546a-42db-4ae5-b217-ea76afe384b9",
+      "season": 6,
+      "number": 7,
+      "name": "Jolly Boys Outing",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "a48a2f2f-f654-4474-9125-b7a26391c25a",
+      "season": 6,
+      "number": 8,
+      "name": "Rodney Come Home",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "80107bdc-5734-4135-bf60-6f488074242c",
+      "season": 7,
+      "number": 1,
+      "name": "The Sky's The Limit",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "81e26126-ae2e-492a-b585-f526b8fb8837",
+      "season": 7,
+      "number": 2,
+      "name": "The Chance Of A Lunchtime",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "e55dc1de-8019-414c-98fc-0afb1cdf5600",
+      "season": 7,
+      "number": 4,
+      "name": "The Class Of '62",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "54c96030-1a4a-4bf5-b3ea-e7fb248a3321",
+      "season": 7,
+      "number": 5,
+      "name": "He Ain't Heavy, He's My Uncle",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "a513b642-7af5-43fc-a258-f31c2d96f4fe",
+      "season": 7,
+      "number": 6,
+      "name": "Three Men, A Woman And A Baby",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "f8eae24a-1617-4b8b-9a80-eea811ba7295",
+      "season": 7,
+      "number": 7,
+      "name": "Miami Twice: The American Dream",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "1894a092-06c6-4812-95c8-e5b922e9c533",
+      "season": 7,
+      "number": 8,
+      "name": "Miami Twice: Oh To Be In England",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "fd36d986-566d-4ee1-87be-3e742e5b1d71",
+      "season": 7,
+      "number": 9,
+      "name": "Mother Nature's Son",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "10aa16dd-f224-4fdb-b0d1-912913a1292a",
+      "season": 7,
+      "number": 10,
+      "name": "Fatal Extraction",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "1e6689ed-e424-4466-8c7a-ccca963c13a1",
+      "season": 8,
+      "number": 1,
+      "name": "Heroes and Villains",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "ae2cde74-6b21-4b6c-b782-c88ab5a2fa8d",
+      "season": 8,
+      "number": 3,
+      "name": "Time On Our Hands",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "e84d93d2-c872-4ed7-995c-35f56b58396a",
+      "season": 9,
+      "number": 1,
+      "name": "If They Could See Us Now!",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "fb14becb-429f-4e21-9fce-86122c44038e",
+      "season": 9,
+      "number": 2,
+      "name": "Strangers On The Store",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "d97bd2d7-b005-45d6-8475-70e1cfe3f39c",
+      "season": 9,
+      "number": 3,
+      "name": "Sleepless in Peckham",
+      "airdate": "2023-11-29"
+    }
+  ]
+}

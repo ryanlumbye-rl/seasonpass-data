@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:the-midwich-cuckoos-tv2play",
+  "name": "The Midwich Cuckoos",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9e3d124c-0d6b-470c-8d4c-970709e0a946",
+      "season": 1,
+      "number": 1,
+      "name": "Bad Things",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e946ed54-0112-4c38-be4b-b6d18735ece0",
+      "season": 1,
+      "number": 2,
+      "name": "In This Together",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4b3052b1-e255-48cf-87a3-47acab363dcc",
+      "season": 1,
+      "number": 3,
+      "name": "The Hive",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8c29f3d0-dcc8-44f5-b41e-b4ea6259a47a",
+      "season": 1,
+      "number": 4,
+      "name": "Hide and Seek",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f5b3c43a-e176-4640-aee9-2c8afdc3884a",
+      "season": 1,
+      "number": 5,
+      "name": "Why Are You Lying?",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9f43c23d-860f-427c-9c0b-5d3c3f5d464c",
+      "season": 1,
+      "number": 6,
+      "name": "Not an Ice Cream",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f2853851-c6ca-4b60-b921-38728d2fe990",
+      "season": 1,
+      "number": 7,
+      "name": "Departure",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

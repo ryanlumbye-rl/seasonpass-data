@@ -1,0 +1,136 @@
+{
+  "id": "tv2play:backstrom-cmore",
+  "name": "Bäckström",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a3373d14-514c-4a4f-bf14-f27ca1bc6228",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5590b797-b423-4617-afc3-226bf17103aa",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "81d4cde5-0d0b-45c7-b6f7-4f98c31fbf15",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3044714b-426a-459b-a8de-df2bd9f6176e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8419fb5c-6a8a-42a7-b6e8-5c3281eddaa1",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7c0b56fe-4fc6-4723-8f72-394787c2ac88",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a718806a-c1c4-4940-8588-49c46fb18ecb",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0d4641c6-06e6-43eb-90c1-12bed80b6007",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6176a97e-db69-44ab-a2b0-c321cb77f001",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3f22105b-0f17-4648-942f-cc51cdceb812",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3df921fa-3f28-4f29-8a98-ccef9ecec3fb",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fd3c0070-475b-42f2-a5f7-10334dc035dd",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "682ec181-55ac-4b69-8a05-3492c9afab5c",
+      "season": 3,
+      "number": 1,
+      "name": "Operation Palma",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "1c84a747-1076-4ca5-b669-566a3d490c18",
+      "season": 3,
+      "number": 2,
+      "name": "Dolores",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "f4174f0b-a3bc-4a3a-98b3-45bb2f11098d",
+      "season": 3,
+      "number": 3,
+      "name": "Costa",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "6b1369c4-d021-432e-8d38-2116bdcada61",
+      "season": 3,
+      "number": 4,
+      "name": "Bäckströms blodrøde",
+      "airdate": "2024-05-01"
+    },
+    {
+      "id": "0915019c-2e70-4d67-b93c-b19b63470fc0",
+      "season": 3,
+      "number": 5,
+      "name": "Ven eller fjende",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "74e32b93-90e7-41da-a3b5-087bcb5486ce",
+      "season": 3,
+      "number": 6,
+      "name": "Ørnen er landet",
+      "airdate": "2024-05-15"
+    }
+  ]
+}

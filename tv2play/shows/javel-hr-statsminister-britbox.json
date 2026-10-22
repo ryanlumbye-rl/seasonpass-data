@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:javel-hr-statsminister-britbox",
+  "name": "Javel, hr. statsminister",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3fa0fe71-795c-4b98-991c-a32bf3eaf8bf",
+      "season": 1,
+      "number": 1,
+      "name": "The Grand Design",
+      "airdate": "2006-07-06"
+    },
+    {
+      "id": "8582cf9b-3a64-4c23-a52b-ad44a07a7869",
+      "season": 1,
+      "number": 2,
+      "name": "The Ministerial Broadcast",
+      "airdate": "2006-07-13"
+    },
+    {
+      "id": "cd53dc9f-b6fd-4991-b7ba-073ba50d4e2f",
+      "season": 1,
+      "number": 3,
+      "name": "The Smoke Screen",
+      "airdate": "2006-07-20"
+    },
+    {
+      "id": "de26afeb-b824-4c01-a4c6-aa796aaa0e45",
+      "season": 1,
+      "number": 4,
+      "name": "The Key",
+      "airdate": "2006-07-27"
+    },
+    {
+      "id": "cbff2402-742b-4c2a-9926-a2d91b0641a7",
+      "season": 1,
+      "number": 5,
+      "name": "A Real Partnership",
+      "airdate": "2006-08-03"
+    },
+    {
+      "id": "703d76ac-4290-405d-ac50-c0ffb13bd1b6",
+      "season": 1,
+      "number": 6,
+      "name": "A Victory for Democracy",
+      "airdate": "2006-08-10"
+    },
+    {
+      "id": "9d4d9e63-95f3-4ea0-a939-be00af8cd500",
+      "season": 1,
+      "number": 7,
+      "name": "The Bishop's Gambit",
+      "airdate": "2008-07-05"
+    },
+    {
+      "id": "f68c0a87-eaf8-4f74-977a-a8062612fe90",
+      "season": 1,
+      "number": 8,
+      "name": "One of Us",
+      "airdate": "2008-07-06"
+    },
+    {
+      "id": "b18fc0d5-01d6-416b-9fca-a0c86bdb4b54",
+      "season": 2,
+      "number": 1,
+      "name": "Man Overboard",
+      "airdate": "2008-07-12"
+    },
+    {
+      "id": "560df0a2-33db-4860-bc83-1d3d0e21994d",
+      "season": 2,
+      "number": 2,
+      "name": "Official Secrets",
+      "airdate": "2008-07-13"
+    },
+    {
+      "id": "60fc6669-9275-4332-809c-e2142e3706d9",
+      "season": 2,
+      "number": 3,
+      "name": "A Diplomatic Incident",
+      "airdate": "2008-07-19"
+    },
+    {
+      "id": "5dee8b5a-a7ef-409f-9cbb-eb8372f5c25a",
+      "season": 2,
+      "number": 4,
+      "name": "A Conflict of Interest",
+      "airdate": "2008-07-20"
+    },
+    {
+      "id": "c48ff2cc-1db8-4810-9d0f-63f9c66e8d1c",
+      "season": 2,
+      "number": 5,
+      "name": "Power to the People",
+      "airdate": "2008-07-26"
+    },
+    {
+      "id": "d837bd6a-4a41-4ffb-84f0-1e850e46de9e",
+      "season": 2,
+      "number": 6,
+      "name": "The Patron of the Arts",
+      "airdate": "2008-07-27"
+    },
+    {
+      "id": "5ab65421-c9b1-4d26-a18c-4fe8afd965c8",
+      "season": 2,
+      "number": 7,
+      "name": "The National Education Service",
+      "airdate": "2008-08-02"
+    },
+    {
+      "id": "0e9eb6f8-e54b-440f-8ad8-eeb5c8c7c89c",
+      "season": 2,
+      "number": 8,
+      "name": "The Tangled Web",
+      "airdate": "2008-08-03"
+    }
+  ]
+}

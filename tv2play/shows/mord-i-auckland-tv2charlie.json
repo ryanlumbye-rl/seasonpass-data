@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:mord-i-auckland-tv2charlie",
+  "name": "Mord i Auckland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "652e468e-8e4d-48fe-9e61-9cb1d185622a",
+      "season": 2,
+      "number": 1,
+      "name": "Call of the Wild",
+      "airdate": "2021-09-21"
+    },
+    {
+      "id": "de0defa9-eec7-4356-8b4f-f0f8cfd0cdb1",
+      "season": 2,
+      "number": 2,
+      "name": "Oceans Apart",
+      "airdate": "2021-09-21"
+    },
+    {
+      "id": "cd02d583-1dbf-4795-afbf-865d117a94eb",
+      "season": 2,
+      "number": 3,
+      "name": "All That Glitters",
+      "airdate": "2021-09-28"
+    },
+    {
+      "id": "dfc448ed-f35a-405c-a6d9-e498a174b33c",
+      "season": 2,
+      "number": 4,
+      "name": "Look Don't Touch",
+      "airdate": "2021-10-05"
+    },
+    {
+      "id": "a9b5b9a0-9e7b-40ce-be86-2038644e3255",
+      "season": 2,
+      "number": 5,
+      "name": "Crushed Dreams",
+      "airdate": "2021-10-12"
+    },
+    {
+      "id": "a49af8de-ecf9-4d29-9ba8-bf2b1abfee88",
+      "season": 2,
+      "number": 6,
+      "name": "Sleep No More",
+      "airdate": "2021-10-19"
+    },
+    {
+      "id": "85655bf8-bd10-4b4f-8e90-2f6ebb862b66",
+      "season": 2,
+      "number": 7,
+      "name": "All the Better to See You",
+      "airdate": "2021-10-26"
+    },
+    {
+      "id": "20338206-bcce-47fd-ae8b-31ef788fda63",
+      "season": 2,
+      "number": 8,
+      "name": "Hidden Gems",
+      "airdate": "2021-11-02"
+    },
+    {
+      "id": "56716604-ec67-4b57-90d8-79373ccb305f",
+      "season": 2,
+      "number": 9,
+      "name": "Wild Life",
+      "airdate": "2021-11-09"
+    },
+    {
+      "id": "793d07ec-531b-4643-ae14-4246b8adebea",
+      "season": 2,
+      "number": 10,
+      "name": "Pleasure and Pain",
+      "airdate": "2021-11-16"
+    },
+    {
+      "id": "db11ee28-a5ac-48c3-b1d4-f7d793c44fa7",
+      "season": 3,
+      "number": 1,
+      "name": "It Takes Two",
+      "airdate": "2022-10-04"
+    },
+    {
+      "id": "e54d7779-dc42-4533-bbaa-314e25b37100",
+      "season": 3,
+      "number": 2,
+      "name": "Nothing Concrete",
+      "airdate": "2022-10-04"
+    },
+    {
+      "id": "ab855b5c-614c-4059-b623-3d2f0cdb406d",
+      "season": 3,
+      "number": 3,
+      "name": "Bloodlines",
+      "airdate": "2022-10-11"
+    },
+    {
+      "id": "c9e7481a-6624-42e2-a4ba-6b575b9d440c",
+      "season": 3,
+      "number": 4,
+      "name": "The Village",
+      "airdate": "2022-10-18"
+    },
+    {
+      "id": "361f8989-877c-43dd-a4f6-b3346fb5cbef",
+      "season": 3,
+      "number": 5,
+      "name": "Silent Lights",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "f350edd4-1cd5-4916-97f3-47e071868a71",
+      "season": 3,
+      "number": 6,
+      "name": "Bride to Bee",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "4859c923-640b-4524-becb-3bfb928c3a22",
+      "season": 3,
+      "number": 7,
+      "name": "Breaking Bread",
+      "airdate": "2022-11-08"
+    },
+    {
+      "id": "c29cb2e5-d9fe-4031-9888-d18bce351267",
+      "season": 3,
+      "number": 8,
+      "name": "Gaslight Sonata",
+      "airdate": "2022-11-15"
+    },
+    {
+      "id": "c543a161-d68d-4e21-8a92-0e1f27ca8236",
+      "season": 3,
+      "number": 9,
+      "name": "Staying Mum",
+      "airdate": "2022-11-22"
+    },
+    {
+      "id": "5f3d85e7-15d5-40fb-932c-ca0fdbebbfe7",
+      "season": 3,
+      "number": 10,
+      "name": "Killer Fashion",
+      "airdate": "2022-11-29"
+    },
+    {
+      "id": "51af96aa-9e6c-4a76-b6ac-d77b07dddec3",
+      "season": 4,
+      "number": 1,
+      "name": "To Dye For",
+      "airdate": "2024-08-30"
+    },
+    {
+      "id": "20dde88f-91b9-45d1-9fa7-b73f2c16b82d",
+      "season": 4,
+      "number": 2,
+      "name": "Tough Love",
+      "airdate": "2024-08-30"
+    },
+    {
+      "id": "06279b05-97a9-48e9-97e0-f817ca000d93",
+      "season": 4,
+      "number": 3,
+      "name": "Location, Location, Location",
+      "airdate": "2024-09-06"
+    },
+    {
+      "id": "716c81ce-dff5-4448-aca9-5cea5c87a91c",
+      "season": 4,
+      "number": 4,
+      "name": "One Man's Poison",
+      "airdate": "2024-09-06"
+    },
+    {
+      "id": "121921d3-6d47-4c7a-a739-0a39cf0b4a34",
+      "season": 4,
+      "number": 5,
+      "name": "En Pointe",
+      "airdate": "2024-09-13"
+    },
+    {
+      "id": "94bc3dd7-3993-460a-9459-11ba11e1acff",
+      "season": 4,
+      "number": 6,
+      "name": "The Good Oil",
+      "airdate": "2024-09-13"
+    },
+    {
+      "id": "71d7522b-1fe2-4768-a476-de8a9901d7d5",
+      "season": 4,
+      "number": 7,
+      "name": "The Widow's Club - del 1",
+      "airdate": "2024-09-20"
+    },
+    {
+      "id": "1321cb85-cdb7-47e0-94dc-455d1fad0987",
+      "season": 4,
+      "number": 8,
+      "name": "The Widow's Club - del 2",
+      "airdate": "2024-09-20"
+    },
+    {
+      "id": "eb35154b-b51c-4746-8829-7575a0f28ef6",
+      "season": 5,
+      "number": 1,
+      "name": "Gimme an M",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "e283e169-30cd-48ff-9951-d4f0ca7d7e69",
+      "season": 5,
+      "number": 2,
+      "name": "Catfish",
+      "airdate": "2025-10-19"
+    },
+    {
+      "id": "47f532f5-0a8f-4cf1-a83b-8847467bb66b",
+      "season": 5,
+      "number": 3,
+      "name": "For the Love of Dog",
+      "airdate": "2025-10-26"
+    },
+    {
+      "id": "7bacba96-cd5c-4e36-9974-8d36cee4e600",
+      "season": 5,
+      "number": 4,
+      "name": "Top Two Inches",
+      "airdate": "2025-11-02"
+    },
+    {
+      "id": "95066754-df18-4227-b865-54fb9b2d9c1a",
+      "season": 5,
+      "number": 5,
+      "name": "Thirteen O'clock",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "60016ecd-8cc8-4841-a26f-1e58c21b0f11",
+      "season": 5,
+      "number": 6,
+      "name": "Bad Chemistry",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "9223a7c5-06f0-49e3-8cee-a007badf11df",
+      "season": 5,
+      "number": 7,
+      "name": "The One That Got Away - del 1",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "fbd8f7f4-ded6-414d-8fa9-64eedb366774",
+      "season": 5,
+      "number": 8,
+      "name": "The One That Got Away - del 2",
+      "airdate": "2025-11-15"
+    }
+  ]
+}

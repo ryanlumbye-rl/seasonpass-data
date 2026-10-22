@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:soelykkens-jul-cmore",
+  "name": "Sølykkens jul",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "07f08bc4-7191-4dd4-9c78-249004102609",
+      "season": 3,
+      "number": 1,
+      "name": "Juleforberedelser",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "55503a65-871e-445c-b7e5-678fe8fadeeb",
+      "season": 3,
+      "number": 2,
+      "name": "Jul på Sølykken",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

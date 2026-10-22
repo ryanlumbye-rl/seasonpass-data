@@ -1,0 +1,794 @@
+{
+  "id": "tv2play:bachelorette-tv2echo",
+  "name": "Bachelorette",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "65a13320-9937-404d-b8f7-a2d1c2f3c1b6",
+      "season": 1,
+      "number": 1,
+      "name": "Danmarks første bachelorettes",
+      "airdate": "2023-05-23"
+    },
+    {
+      "id": "54b30178-cf07-4eaf-8fd1-cd8284a543a6",
+      "season": 1,
+      "number": 2,
+      "name": "Højt at flyve",
+      "airdate": "2023-05-24"
+    },
+    {
+      "id": "bb6392f0-1bc2-4fdc-839b-b2e6c249bccf",
+      "season": 1,
+      "number": 3,
+      "name": "En uventet beslutning",
+      "airdate": "2023-05-25"
+    },
+    {
+      "id": "f40bc745-2c76-41f0-8e86-71a74885614a",
+      "season": 1,
+      "number": 4,
+      "name": "Den sidste nadver?",
+      "airdate": "2023-05-30"
+    },
+    {
+      "id": "6411ec16-244c-4766-8bd4-b63061996041",
+      "season": 1,
+      "number": 5,
+      "name": "En tur i hjertelagunen",
+      "airdate": "2023-05-31"
+    },
+    {
+      "id": "dc137f15-afe6-459c-a060-7156656221ea",
+      "season": 1,
+      "number": 6,
+      "name": "Roseceremoni",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "c73c29b8-75f7-4e99-8dff-7a42f4d0ce2d",
+      "season": 1,
+      "number": 7,
+      "name": "En moderne mand",
+      "airdate": "2023-06-06"
+    },
+    {
+      "id": "69daacce-0799-4e25-9b41-1ee709d505d2",
+      "season": 1,
+      "number": 8,
+      "name": "På dybt vand",
+      "airdate": "2023-06-07"
+    },
+    {
+      "id": "7e51d9ba-32d7-415f-9b41-ed530a6ff110",
+      "season": 1,
+      "number": 9,
+      "name": "Maskebal",
+      "airdate": "2023-06-08"
+    },
+    {
+      "id": "6ad07b01-424f-430e-a356-bc8eab2f8751",
+      "season": 1,
+      "number": 10,
+      "name": "En ny bachelorette",
+      "airdate": "2023-06-13"
+    },
+    {
+      "id": "61edb135-373e-4ede-89ec-ca102b7008a2",
+      "season": 1,
+      "number": 11,
+      "name": "Hårde sandheder",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "08a239eb-fa8a-4a08-a402-58146fc8fdbe",
+      "season": 1,
+      "number": 12,
+      "name": "Roseceremoni",
+      "airdate": "2023-06-15"
+    },
+    {
+      "id": "7f414485-93a3-4f99-a969-5577cd4e7bd9",
+      "season": 1,
+      "number": 13,
+      "name": "Nøglerne",
+      "airdate": "2023-06-20"
+    },
+    {
+      "id": "4e038850-fa23-479d-b8f2-3afb553c8017",
+      "season": 1,
+      "number": 14,
+      "name": "Nye begyndelser",
+      "airdate": "2023-06-21"
+    },
+    {
+      "id": "c0f8447c-ff88-495d-8489-05a2a07e499b",
+      "season": 1,
+      "number": 15,
+      "name": "Hvad skal der nu ske?",
+      "airdate": "2023-06-22"
+    },
+    {
+      "id": "30e0d61b-e788-428b-a2f6-f38b817a3dfb",
+      "season": 1,
+      "number": 16,
+      "name": "Et afgørende valg",
+      "airdate": "2023-06-27"
+    },
+    {
+      "id": "b331c87d-2a5c-4898-bd81-b284cc3dd6b9",
+      "season": 1,
+      "number": 17,
+      "name": "I medgang og modgang",
+      "airdate": "2023-06-28"
+    },
+    {
+      "id": "d5478aca-6bc8-4e0b-88fd-396750dcf537",
+      "season": 1,
+      "number": 18,
+      "name": "Roseceremoni",
+      "airdate": "2023-06-29"
+    },
+    {
+      "id": "4b2d87a0-4974-4591-81d5-1ab83d912e84",
+      "season": 1,
+      "number": 19,
+      "name": "Dates med alt på spil",
+      "airdate": "2023-07-04"
+    },
+    {
+      "id": "9cf42af3-11d3-40d2-b6ae-88012c9bc983",
+      "season": 1,
+      "number": 20,
+      "name": "Et kærlighedsritual",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "19dea821-cd9f-4cd0-b653-9a1ee205963f",
+      "season": 1,
+      "number": 21,
+      "name": "Får alle en rose?",
+      "airdate": "2023-07-06"
+    },
+    {
+      "id": "6deea3c4-6019-47c9-a275-c7d91efd6bbc",
+      "season": 1,
+      "number": 22,
+      "name": "Svigermors drøm",
+      "airdate": "2023-07-11"
+    },
+    {
+      "id": "926e6699-fe80-4053-b95d-7dd512a2a932",
+      "season": 1,
+      "number": 23,
+      "name": "Mettes familie",
+      "airdate": "2023-07-12"
+    },
+    {
+      "id": "2230876b-4d7b-4d8d-8307-08e48777ca02",
+      "season": 1,
+      "number": 24,
+      "name": "De knuste hjerters aften",
+      "airdate": "2023-07-13"
+    },
+    {
+      "id": "85c1c037-4c8b-4037-88e9-fa33bac4bc97",
+      "season": 1,
+      "number": 25,
+      "name": "De første drømmedates",
+      "airdate": "2023-07-18"
+    },
+    {
+      "id": "dea951bb-e5cc-4738-9478-7624067c5691",
+      "season": 1,
+      "number": 26,
+      "name": "Én sidste nat sammen",
+      "airdate": "2023-07-19"
+    },
+    {
+      "id": "e4dc0d52-88b9-451e-880e-60233eb9dff7",
+      "season": 1,
+      "number": 27,
+      "name": "Den sidste rose",
+      "airdate": "2023-07-20"
+    },
+    {
+      "id": "61b34ca7-fe9d-44ae-84d3-000908b122cb",
+      "season": 1,
+      "number": 28,
+      "name": "Efter den sidste rose",
+      "airdate": "2023-07-25"
+    },
+    {
+      "id": "3519ec01-10a5-48ac-aedc-412be254ca7b",
+      "season": 2,
+      "number": 1,
+      "name": "Den røde løber",
+      "airdate": "2024-05-07"
+    },
+    {
+      "id": "25c54772-4661-4d6f-8290-4fd6da67c437",
+      "season": 2,
+      "number": 2,
+      "name": "At skille sig ud fra mængden",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "0598811a-9b40-410c-b278-7e1ea5936053",
+      "season": 2,
+      "number": 3,
+      "name": "Den første roseceremoni",
+      "airdate": "2024-05-09"
+    },
+    {
+      "id": "bbebd21d-084d-4bd9-beb6-66c45d472360",
+      "season": 2,
+      "number": 4,
+      "name": "De første singledates",
+      "airdate": "2024-05-14"
+    },
+    {
+      "id": "b87ea0d0-92c3-47f1-b7b0-f3d78ad6fdd3",
+      "season": 2,
+      "number": 5,
+      "name": "Dobbeltdate",
+      "airdate": "2024-05-15"
+    },
+    {
+      "id": "b4d3ca97-13bb-4855-aff8-51e450d31348",
+      "season": 2,
+      "number": 6,
+      "name": "Roseceremoni",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "39df9fb7-da56-4b97-99a4-23e4832fb91a",
+      "season": 2,
+      "number": 7,
+      "name": "Det står skrevet i stjernerne",
+      "airdate": "2024-05-21"
+    },
+    {
+      "id": "66373b86-59fb-40df-a8ee-9cb8313e7131",
+      "season": 2,
+      "number": 8,
+      "name": "En fisk på krogen?",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "aa3b1169-8fb5-4919-8b48-dcc3bc386729",
+      "season": 2,
+      "number": 9,
+      "name": "Roseceremoni",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "4b99ea01-51c1-4399-ac16-7af0ef8f3f19",
+      "season": 2,
+      "number": 10,
+      "name": "Kunsten at forføre",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "e1ac30d1-25d0-44c8-a59f-be3ab8989979",
+      "season": 2,
+      "number": 11,
+      "name": "Guidet tur",
+      "airdate": "2024-05-29"
+    },
+    {
+      "id": "0c68c359-3d8e-4a46-bebc-60cb893a7b08",
+      "season": 2,
+      "number": 12,
+      "name": "Rosefest",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "0926f1df-dcd0-49c1-82c5-75961754c6a1",
+      "season": 2,
+      "number": 13,
+      "name": "Nøglerne",
+      "airdate": "2024-06-04"
+    },
+    {
+      "id": "df3f691a-0d5f-4748-935c-13b056e89a03",
+      "season": 2,
+      "number": 14,
+      "name": "Hjerte rimer på smerte",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "86aa13f1-ed2d-4c76-9378-d01466915ea8",
+      "season": 2,
+      "number": 15,
+      "name": "Roseceremoni",
+      "airdate": "2024-06-06"
+    },
+    {
+      "id": "d3a14bae-3ab7-4c55-a6a3-8e0be8fb9acf",
+      "season": 2,
+      "number": 16,
+      "name": "Manden, jeg søger",
+      "airdate": "2024-06-11"
+    },
+    {
+      "id": "aadfdfe5-0f06-49e4-9c0c-63902eb0a49b",
+      "season": 2,
+      "number": 17,
+      "name": "Et opkald hjemmefra",
+      "airdate": "2024-06-12"
+    },
+    {
+      "id": "201febdf-7ac0-4a60-97df-4820d9b20754",
+      "season": 2,
+      "number": 18,
+      "name": "Roseceremoni",
+      "airdate": "2024-06-13"
+    },
+    {
+      "id": "d5c8a44d-a76e-4a25-8835-3e12bb70581b",
+      "season": 2,
+      "number": 19,
+      "name": "En frokost med sandheder",
+      "airdate": "2024-06-18"
+    },
+    {
+      "id": "602ddb92-c0a3-45c9-9b85-67a290fcf1cb",
+      "season": 2,
+      "number": 20,
+      "name": "En spicy date",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "d15e3905-1972-4ae3-b13c-053f63668dc8",
+      "season": 2,
+      "number": 21,
+      "name": "En svær mingle",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "2ea99363-1606-4585-a353-8e3f8e7c8c53",
+      "season": 2,
+      "number": 22,
+      "name": "Roseceremoni",
+      "airdate": "2024-06-25"
+    },
+    {
+      "id": "ee7e2bbc-508c-4d48-ae74-0d04e8eafddb",
+      "season": 2,
+      "number": 23,
+      "name": "Far med på date",
+      "airdate": "2024-06-26"
+    },
+    {
+      "id": "c597d7b9-1ab4-4293-9a23-e6dc22ff5c65",
+      "season": 2,
+      "number": 24,
+      "name": "Den sidste mingle",
+      "airdate": "2024-06-27"
+    },
+    {
+      "id": "0fe7f6f6-e493-4d2b-922d-7872cd228dfa",
+      "season": 2,
+      "number": 25,
+      "name": "Den sidste roseceremoni",
+      "airdate": "2024-07-02"
+    },
+    {
+      "id": "d7be1317-d60f-4e2e-b818-18007e9db7bc",
+      "season": 2,
+      "number": 26,
+      "name": "Endnu en drømmedate",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "4c86263e-d59e-4046-9243-d96e796bb422",
+      "season": 2,
+      "number": 27,
+      "name": "Den sidste rose",
+      "airdate": "2024-07-04"
+    },
+    {
+      "id": "a397e40e-7672-424a-909b-7631ab1b74af",
+      "season": 2,
+      "number": 28,
+      "name": "Et gensyn",
+      "airdate": "2024-07-09"
+    },
+    {
+      "id": "2694c6dd-3814-4e81-a6b2-b83caee2b248",
+      "season": 3,
+      "number": 1,
+      "name": "Eventyret begynder nu",
+      "airdate": "2025-05-13"
+    },
+    {
+      "id": "924ad4b6-d629-4497-845f-080010ddebe4",
+      "season": 3,
+      "number": 2,
+      "name": "De allerførste dates",
+      "airdate": "2025-05-14"
+    },
+    {
+      "id": "874886e7-588b-4cf2-92b4-3395725b5e3d",
+      "season": 3,
+      "number": 3,
+      "name": "Første roseceremoni",
+      "airdate": "2025-05-15"
+    },
+    {
+      "id": "c8ce18fe-b80d-45c3-9284-ae3079eb65b9",
+      "season": 3,
+      "number": 4,
+      "name": "En del af fællesskabet",
+      "airdate": "2025-05-20"
+    },
+    {
+      "id": "dba6d7c6-14ea-4210-ac5b-d867cbe2e1d7",
+      "season": 3,
+      "number": 5,
+      "name": "En sang for sjælen",
+      "airdate": "2025-05-21"
+    },
+    {
+      "id": "b047d202-ae01-46ed-88b5-b6ae0af59a29",
+      "season": 3,
+      "number": 6,
+      "name": "Anden roseceremoni",
+      "airdate": "2025-05-22"
+    },
+    {
+      "id": "6f70a6d1-6313-4ad5-9bc3-ea4b95609ea2",
+      "season": 3,
+      "number": 7,
+      "name": "Drilsk dobbeltdate",
+      "airdate": "2025-05-27"
+    },
+    {
+      "id": "40c62575-3491-4124-bd40-464b049172b3",
+      "season": 3,
+      "number": 8,
+      "name": "Venindernes valg",
+      "airdate": "2025-05-28"
+    },
+    {
+      "id": "b5b0770c-2451-4a85-8a24-3c8392ca08b1",
+      "season": 3,
+      "number": 9,
+      "name": "Tredje roseceremoni",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "ba965967-0054-4b43-b289-163c5627a5ea",
+      "season": 3,
+      "number": 10,
+      "name": "En ærlig fest",
+      "airdate": "2025-06-03"
+    },
+    {
+      "id": "c08d9934-75b6-4795-8aef-750940a20d20",
+      "season": 3,
+      "number": 11,
+      "name": "Intim efterfest",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "04362361-30a9-4344-a68c-e3b939983c1b",
+      "season": 3,
+      "number": 12,
+      "name": "Fjerde roseceremoni",
+      "airdate": "2025-06-05"
+    },
+    {
+      "id": "7e6e168d-3612-4c37-8ac5-8834c6324654",
+      "season": 3,
+      "number": 13,
+      "name": "Nøglen til mit hjerte?",
+      "airdate": "2025-06-10"
+    },
+    {
+      "id": "daccce13-99a1-41ee-9f60-d47f51c4d77d",
+      "season": 3,
+      "number": 14,
+      "name": "Fire til tango",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "8b3cb808-20aa-420f-9670-66108c80ccf4",
+      "season": 3,
+      "number": 15,
+      "name": "Femte roseceremoni",
+      "airdate": "2025-06-12"
+    },
+    {
+      "id": "16589df9-50d5-4fe8-89b9-5ad50c1daedd",
+      "season": 3,
+      "number": 16,
+      "name": "En åbenbaring fra far",
+      "airdate": "2025-06-17"
+    },
+    {
+      "id": "21432462-f9fb-4cb6-b345-296bb52594f9",
+      "season": 3,
+      "number": 17,
+      "name": "Svedetur med svigerfar",
+      "airdate": "2025-06-18"
+    },
+    {
+      "id": "bded63ad-14fd-4ce0-b8e5-8e3a03584f2f",
+      "season": 3,
+      "number": 18,
+      "name": "Sjette roseceremoni",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "ac405982-9a7a-4b58-bd1b-49753691af81",
+      "season": 3,
+      "number": 19,
+      "name": "Sandhedsfrokost",
+      "airdate": "2025-06-24"
+    },
+    {
+      "id": "ed87b575-9ce7-40a3-b3fa-ce4c3ca55207",
+      "season": 3,
+      "number": 20,
+      "name": "Sanserne vækkes",
+      "airdate": "2025-06-25"
+    },
+    {
+      "id": "d38790cb-ba2b-46ce-848f-d29bb7ff4890",
+      "season": 3,
+      "number": 21,
+      "name": "En dramatisk mingle",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "75cd21b6-1e7d-4a48-9f4d-9f1d5aec81ee",
+      "season": 3,
+      "number": 22,
+      "name": "En akavet affære",
+      "airdate": "2025-07-01"
+    },
+    {
+      "id": "330f8f93-a931-4e88-b370-6702ec132d49",
+      "season": 3,
+      "number": 23,
+      "name": "Nøgen sandhed",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "1d66c16f-cff0-4815-aab2-dca6304eb9d6",
+      "season": 3,
+      "number": 24,
+      "name": "Brug tiden fornuftigt",
+      "airdate": "2025-07-03"
+    },
+    {
+      "id": "c97014aa-de02-4820-88b1-c5effaac1574",
+      "season": 3,
+      "number": 25,
+      "name": "Sidste roseceremoni",
+      "airdate": "2025-07-08"
+    },
+    {
+      "id": "0b1065df-417e-4516-a986-694b9a9deb02",
+      "season": 3,
+      "number": 26,
+      "name": "Sød musik",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "a7e5b85e-d5a1-4713-83de-d59993191eb1",
+      "season": 3,
+      "number": 27,
+      "name": "Kærlighed og krokodiller",
+      "airdate": "2025-07-10"
+    },
+    {
+      "id": "b7a16b50-d858-4373-9b8f-750c36c3b5a3",
+      "season": 3,
+      "number": 28,
+      "name": "Den sidste rose",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "5cadfb55-1986-4fc6-af40-50ab400bf93b",
+      "season": 4,
+      "number": 1,
+      "name": "Benvenuti in Sicilia!",
+      "airdate": "2026-04-21"
+    },
+    {
+      "id": "a30e95bc-5636-4d90-a4a5-c4ef612d3f35",
+      "season": 4,
+      "number": 2,
+      "name": "Søde druer",
+      "airdate": "2026-04-22"
+    },
+    {
+      "id": "701ddc45-4f8a-4ef9-81a7-79ea0392a55a",
+      "season": 4,
+      "number": 3,
+      "name": "Første roseceremoni",
+      "airdate": "2026-04-23"
+    },
+    {
+      "id": "54386a17-b3d2-4a12-ba42-c5e5f0305a7e",
+      "season": 4,
+      "number": 4,
+      "name": "Blind dates",
+      "airdate": "2026-04-28"
+    },
+    {
+      "id": "bc405e4d-5eed-46f2-ae91-fcd3097e4cda",
+      "season": 4,
+      "number": 5,
+      "name": "Tag springet",
+      "airdate": "2026-04-29"
+    },
+    {
+      "id": "3bfc3c6f-3f5a-4e4a-b3a1-d3e144d6c032",
+      "season": 4,
+      "number": 6,
+      "name": "Anden roseceremoni",
+      "airdate": "2026-04-30"
+    },
+    {
+      "id": "4488b66d-a6dc-4834-82d0-0321bf8288dd",
+      "season": 4,
+      "number": 7,
+      "name": "Boris' flirteskole",
+      "airdate": "2026-05-05"
+    },
+    {
+      "id": "023666a9-a2e9-40e5-b180-95aeece9c339",
+      "season": 4,
+      "number": 8,
+      "name": "Fire til tango",
+      "airdate": "2026-05-06"
+    },
+    {
+      "id": "0adc45d1-4cc1-4295-b3a1-1324e454041f",
+      "season": 4,
+      "number": 9,
+      "name": "Tredje roseceremoni",
+      "airdate": "2026-05-07"
+    },
+    {
+      "id": "9faa1005-1386-4893-b2a4-083b86f0cf85",
+      "season": 4,
+      "number": 10,
+      "name": "Festen",
+      "airdate": "2026-05-12"
+    },
+    {
+      "id": "258e0595-e8ef-48c2-94bf-2b3c67499a17",
+      "season": 4,
+      "number": 11,
+      "name": "Efterfesten",
+      "airdate": "2026-05-13"
+    },
+    {
+      "id": "7c64757d-6470-4ccb-8f5e-fd7f1844b80d",
+      "season": 4,
+      "number": 12,
+      "name": "Fjerde roseceremoni",
+      "airdate": "2026-05-14"
+    },
+    {
+      "id": "471870a6-6e7a-452a-89ca-7c19e049b25f",
+      "season": 4,
+      "number": 13,
+      "name": "Åbne hjerter",
+      "airdate": "2026-05-19"
+    },
+    {
+      "id": "179e6680-9f8d-41bc-934c-3e7ba03eec9a",
+      "season": 4,
+      "number": 14,
+      "name": "O sole mio",
+      "airdate": "2026-05-20"
+    },
+    {
+      "id": "32b86700-ea9a-457b-841c-0c0f599fb92b",
+      "season": 4,
+      "number": 15,
+      "name": "Sandhedsfrokost",
+      "airdate": "2026-05-21"
+    },
+    {
+      "id": "a6fb0c58-dc94-4ba4-9fbf-fc9402996079",
+      "season": 4,
+      "number": 16,
+      "name": "Vespa og violin",
+      "airdate": "2026-05-26"
+    },
+    {
+      "id": "65b16d80-9ef7-4568-920b-eee2511f963f",
+      "season": 4,
+      "number": 17,
+      "name": "Det ligger i kortene",
+      "airdate": "2026-05-27"
+    },
+    {
+      "id": "ec11da91-d589-47c3-82f4-9ab1153adc2f",
+      "season": 4,
+      "number": 18,
+      "name": "Femte roseceremoni",
+      "airdate": "2026-05-28"
+    },
+    {
+      "id": "954fad93-b1e2-40f0-9162-c0f108c69b53",
+      "season": 4,
+      "number": 19,
+      "name": "La famiglia",
+      "airdate": "2026-06-02"
+    },
+    {
+      "id": "dc2ed20a-771f-45ba-bf62-abc331dea204",
+      "season": 4,
+      "number": 20,
+      "name": "Mormor og Melinda",
+      "airdate": "2026-06-03"
+    },
+    {
+      "id": "0493a965-1ddf-4993-bb2b-039950ca82c0",
+      "season": 4,
+      "number": 21,
+      "name": "Familieroser",
+      "airdate": "2026-06-04"
+    },
+    {
+      "id": "70e0ef31-7c3a-4cf1-9cde-5d9fcbcaa222",
+      "season": 4,
+      "number": 22,
+      "name": "La dolce vita",
+      "airdate": "2026-06-09"
+    },
+    {
+      "id": "88dcf13d-de68-4a04-af65-3a527a4d867d",
+      "season": 4,
+      "number": 23,
+      "name": "Poesi fra hjertet",
+      "airdate": "2026-06-10"
+    },
+    {
+      "id": "5370c8d0-b89f-463e-b507-ef506c7b7a57",
+      "season": 4,
+      "number": 24,
+      "name": "Sidste roseceremoni",
+      "airdate": "2026-06-11"
+    },
+    {
+      "id": "ed5509a4-451e-44f6-aa23-d65a2b1a9448",
+      "season": 4,
+      "number": 25,
+      "name": "Følelser for to",
+      "airdate": "2026-06-16"
+    },
+    {
+      "id": "200afaf0-4535-4f23-b3e5-e4f01ab14b2d",
+      "season": 4,
+      "number": 26,
+      "name": "Drømmedates",
+      "airdate": "2026-06-17"
+    },
+    {
+      "id": "a016fefc-b755-4d27-b9f4-53eb043e833d",
+      "season": 4,
+      "number": 27,
+      "name": "Final rose",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "024b4bf6-cff0-4d61-80c7-1a74dcc0e21c",
+      "season": 4,
+      "number": 28,
+      "name": "Efter den sidste rose",
+      "airdate": "2026-06-23"
+    }
+  ]
+}

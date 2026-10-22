@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:dyr-i-byr-oiii",
+  "name": "Dyr i by'r",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "58979fee-e4e7-431f-be31-7f0ca7dde576",
+      "season": 1,
+      "number": 1,
+      "name": "Frø",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "7910e526-90cb-40d7-ae4b-169098990285",
+      "season": 1,
+      "number": 2,
+      "name": "Bænkebider",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "484167bc-9454-41b6-8493-06eab771ead5",
+      "season": 1,
+      "number": 3,
+      "name": "Hættemåge",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "076798aa-6d6b-4ab3-8c36-0a75dbc8cac3",
+      "season": 1,
+      "number": 4,
+      "name": "Mejeredderkop",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "60abe9dd-b2f7-4103-a839-97d3ce902790",
+      "season": 1,
+      "number": 5,
+      "name": "Leopardsnegl",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "29238024-018a-4b8a-92ba-41129f5c5c08",
+      "season": 1,
+      "number": 6,
+      "name": "Bi",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "0883c5c2-59eb-4448-afb6-8685f6c6dd05",
+      "season": 1,
+      "number": 7,
+      "name": "Egern",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "742e3998-6d3c-4d9d-9025-0d3b68a9a58b",
+      "season": 1,
+      "number": 8,
+      "name": "Sølvfisk",
+      "airdate": "2025-04-12"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:hvem-fanden-vil-vaere-landmand-tv2play",
+  "name": "Hvem fanden vil være landmand?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cefcb757-7b90-4acd-a9f6-5d37ebddb462",
+      "season": 1,
+      "number": 1,
+      "name": "Et venskab",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "0bfa9ba2-9eaa-46a1-b3bd-97f48b3118d2",
+      "season": 1,
+      "number": 2,
+      "name": "Campingvogn-shopping",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "626440ec-e9f7-4abf-a8be-36a71e2924f6",
+      "season": 1,
+      "number": 3,
+      "name": "Bøndernes ‘Roskilde festival’",
+      "airdate": "2026-10-05"
+    }
+  ]
+}

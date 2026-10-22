@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:hvem-byder-bedst-julespecial-tv2fri",
+  "name": "Hvem byder bedst - julespecial",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "629a3a8c-2a16-4af0-adcd-91965f04917a",
+      "season": 1,
+      "number": 1,
+      "name": "Julepynt og julegaver",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "9cdaa429-cb56-495c-8f17-1f1289c4278c",
+      "season": 1,
+      "number": 2,
+      "name": "Julehygge og spaltekande",
+      "airdate": "2024-12-12"
+    }
+  ]
+}

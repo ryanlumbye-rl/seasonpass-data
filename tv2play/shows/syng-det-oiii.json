@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:syng-det-oiii",
+  "name": "Syng det!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e322a5d9-24e7-4af6-a538-5b5fd08acd78",
+      "season": 1,
+      "number": 1,
+      "name": "Luke",
+      "airdate": "2022-10-15"
+    },
+    {
+      "id": "96412eeb-a397-43e2-84ac-0e220ad5ac08",
+      "season": 1,
+      "number": 2,
+      "name": "Viktor",
+      "airdate": "2022-10-15"
+    },
+    {
+      "id": "5328b13b-5b81-4f20-a039-26efc23955bf",
+      "season": 1,
+      "number": 3,
+      "name": "Kaya-Lily",
+      "airdate": "2022-10-15"
+    },
+    {
+      "id": "2693e154-9d22-46b2-be22-2119134eb65a",
+      "season": 1,
+      "number": 4,
+      "name": "Benjamin",
+      "airdate": "2022-10-15"
+    },
+    {
+      "id": "3f32a1b8-f6ee-449d-99eb-e6d3f7352ade",
+      "season": 1,
+      "number": 5,
+      "name": "Alvilde",
+      "airdate": "2022-10-15"
+    },
+    {
+      "id": "82833f41-5a73-43a3-97d9-7d412d37f51c",
+      "season": 1,
+      "number": 6,
+      "name": "Noomi",
+      "airdate": "2022-10-15"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:six-four-britbox",
+  "name": "Six Four",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9bb23526-48ce-40d3-9f7f-52a99f4edd21",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-08-13"
+    },
+    {
+      "id": "0590e476-a99d-45a0-b187-b9cc9e9ec218",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-08-13"
+    },
+    {
+      "id": "ce42d745-ce13-428e-8c05-aba74a3a9511",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-08-13"
+    },
+    {
+      "id": "d650b8c3-44b0-4e62-a695-136e4a6dc50f",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-08-13"
+    }
+  ]
+}

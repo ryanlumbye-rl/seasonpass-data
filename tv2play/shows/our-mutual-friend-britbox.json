@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:our-mutual-friend-britbox",
+  "name": "Our Mutual Friend",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6bd40168-b521-4f6f-b56b-26ebec245cd2",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "4ad43bf1-6cbb-4ecb-a89d-ef1a14db9e38",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "72592ee3-2351-4f07-bcf5-4c594cf7dcc2",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "4efcf502-223c-4ffa-bb85-c3b8e3ef848e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-07-02"
+    }
+  ]
+}

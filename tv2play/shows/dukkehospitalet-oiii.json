@@ -1,0 +1,374 @@
+{
+  "id": "tv2play:dukkehospitalet-oiii",
+  "name": "Dukkehospitalet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "12cba4c7-5ddb-40b4-98d6-4acb4c0213ef",
+      "season": 1,
+      "number": 1,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-08-18"
+    },
+    {
+      "id": "5b6174b4-b16f-48dc-baf8-eedcee291486",
+      "season": 1,
+      "number": 2,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-08-25"
+    },
+    {
+      "id": "3e5f5a2b-5952-4a96-8ed6-46e6921fa717",
+      "season": 1,
+      "number": 3,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-09-01"
+    },
+    {
+      "id": "3334f6e8-2ea9-4fa5-93ce-18e9519b7012",
+      "season": 1,
+      "number": 4,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-09-15"
+    },
+    {
+      "id": "4d10e041-8df2-4d29-9a53-7cb1925f302d",
+      "season": 1,
+      "number": 5,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-09-22"
+    },
+    {
+      "id": "edd02170-896e-4e2a-9508-548498ae3723",
+      "season": 1,
+      "number": 6,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-09-29"
+    },
+    {
+      "id": "b7043f28-3047-460e-9704-ab43595f1b11",
+      "season": 1,
+      "number": 7,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-10-13"
+    },
+    {
+      "id": "d3497f9d-4466-410c-917c-1063668dc943",
+      "season": 1,
+      "number": 8,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-10-18"
+    },
+    {
+      "id": "71013fb6-0287-4711-b7da-366447f5eaa1",
+      "season": 1,
+      "number": 9,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-10-19"
+    },
+    {
+      "id": "136d905d-96c7-41cd-a792-b356d35ae9e6",
+      "season": 1,
+      "number": 10,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-10-20"
+    },
+    {
+      "id": "1f8fff66-3a68-4bc1-8323-dad8bed32e63",
+      "season": 1,
+      "number": 11,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-10-21"
+    },
+    {
+      "id": "f7d375e8-6eae-4fed-ad53-8a8f1393a68c",
+      "season": 1,
+      "number": 12,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-10-22"
+    },
+    {
+      "id": "522798ff-52e2-45eb-8523-c165ae372e7c",
+      "season": 1,
+      "number": 13,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-10-27"
+    },
+    {
+      "id": "9ed1a3b2-3a07-4f31-94f4-063c61153495",
+      "season": 1,
+      "number": 14,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-11-03"
+    },
+    {
+      "id": "2c4cb3e9-7616-4f1f-9236-0247eb253ad8",
+      "season": 1,
+      "number": 15,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-11-10"
+    },
+    {
+      "id": "1aae055b-9541-492b-a9c8-c61af6090e4c",
+      "season": 1,
+      "number": 16,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-11-17"
+    },
+    {
+      "id": "4f155d9e-e2d8-4252-a7b9-6101a494da47",
+      "season": 1,
+      "number": 17,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-11-24"
+    },
+    {
+      "id": "f5f97a3a-1a24-46bf-a3de-764f03e3b084",
+      "season": 1,
+      "number": 18,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-12-01"
+    },
+    {
+      "id": "c8371a4c-ae46-4121-a0d9-fddd569db44e",
+      "season": 1,
+      "number": 19,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-12-08"
+    },
+    {
+      "id": "c8fda1f3-6db7-4128-ba81-aa9553954483",
+      "season": 1,
+      "number": 20,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-12-15"
+    },
+    {
+      "id": "6eee9097-0be2-44dc-a7fe-0d554a175ed5",
+      "season": 1,
+      "number": 21,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "1999-12-22"
+    },
+    {
+      "id": "8e1df629-f44b-4c88-ac9c-76f1eeaf6a33",
+      "season": 1,
+      "number": 22,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-01-05"
+    },
+    {
+      "id": "4595989a-f013-4f49-965e-8d8733e81952",
+      "season": 1,
+      "number": 23,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-01-12"
+    },
+    {
+      "id": "7eecd993-b1c6-4974-b0f7-903543aa3111",
+      "season": 1,
+      "number": 24,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-01-19"
+    },
+    {
+      "id": "99467fc4-80fc-43ae-b5cd-80ba820725b1",
+      "season": 1,
+      "number": 25,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-01-26"
+    },
+    {
+      "id": "9e9ffe5f-5823-4840-add3-aaf507dd5d8e",
+      "season": 1,
+      "number": 26,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-02-02"
+    },
+    {
+      "id": "10bd3354-90e3-4a36-a39b-4008c28bd67d",
+      "season": 1,
+      "number": 27,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-02-09"
+    },
+    {
+      "id": "39154857-e379-477f-8a24-9c5d7a7c2154",
+      "season": 1,
+      "number": 28,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-02-16"
+    },
+    {
+      "id": "6b210208-8bbc-4d9a-a57b-ede035b1f85a",
+      "season": 1,
+      "number": 29,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-02-23"
+    },
+    {
+      "id": "e7933bdd-defc-4f7d-9fb9-67205bb5abd9",
+      "season": 1,
+      "number": 30,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-03-01"
+    },
+    {
+      "id": "b8c6a635-43d0-4883-a0b0-c8b8be33fb54",
+      "season": 1,
+      "number": 31,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-03-08"
+    },
+    {
+      "id": "e2eb7356-b05f-4020-b45e-da5d7ef2ef4f",
+      "season": 1,
+      "number": 32,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-03-15"
+    },
+    {
+      "id": "45915709-02bc-4c37-97f2-773d367654b0",
+      "season": 1,
+      "number": 33,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-03-22"
+    },
+    {
+      "id": "6cb5fd8e-6a1f-4c52-91b8-68c48b11e757",
+      "season": 1,
+      "number": 34,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-03-29"
+    },
+    {
+      "id": "9f4d7b8e-48a3-446b-aca9-0e69c1d1b498",
+      "season": 1,
+      "number": 35,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-04-05"
+    },
+    {
+      "id": "1e897298-a8bf-43b6-bfb5-20723b90246e",
+      "season": 1,
+      "number": 36,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-04-12"
+    },
+    {
+      "id": "1972b216-22d4-4f70-a84b-f5e483789884",
+      "season": 1,
+      "number": 37,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-04-26"
+    },
+    {
+      "id": "8cb9b0bc-6fda-46e9-a150-d499d6c034f7",
+      "season": 1,
+      "number": 38,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-05-03"
+    },
+    {
+      "id": "79506aef-9e2a-4a9d-b8bb-c19878b6bc8f",
+      "season": 1,
+      "number": 39,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-05-10"
+    },
+    {
+      "id": "6968b177-759f-4863-bcd8-8380c7f83035",
+      "season": 1,
+      "number": 40,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-05-17"
+    },
+    {
+      "id": "7b51e7d1-198b-4cdb-be04-a927302cc255",
+      "season": 1,
+      "number": 41,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-05-24"
+    },
+    {
+      "id": "d3c5ab98-5c30-41b1-a1ba-f3cfd04aec36",
+      "season": 1,
+      "number": 42,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-05-31"
+    },
+    {
+      "id": "11d774c9-721c-47cd-8b66-41f0ec6f981e",
+      "season": 1,
+      "number": 43,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2000-06-07"
+    },
+    {
+      "id": "fe399fc1-a542-41ca-8393-b73a6634d7e7",
+      "season": 1,
+      "number": 44,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-08-19"
+    },
+    {
+      "id": "ed123d5f-a76a-4d02-b156-d76054b64124",
+      "season": 1,
+      "number": 45,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-08-26"
+    },
+    {
+      "id": "8432ed8b-808d-4385-866f-13231b34244f",
+      "season": 1,
+      "number": 46,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-09-02"
+    },
+    {
+      "id": "112a7d6b-74be-4b54-937f-2feb7b82de76",
+      "season": 1,
+      "number": 47,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-09-09"
+    },
+    {
+      "id": "eb8c960e-508c-4298-84ed-cb4f81e7f706",
+      "season": 1,
+      "number": 48,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-09-16"
+    },
+    {
+      "id": "7e9b50e6-8964-4a89-b6ec-58f96b5d2e9f",
+      "season": 1,
+      "number": 49,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-09-23"
+    },
+    {
+      "id": "cb147ee9-cc89-4065-9b07-933068720325",
+      "season": 1,
+      "number": 50,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-09-30"
+    },
+    {
+      "id": "f039631d-bacd-4fd7-b26b-04b60a9abb7c",
+      "season": 1,
+      "number": 51,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-10-07"
+    },
+    {
+      "id": "4b2868cb-a917-43a3-a004-1c14350e8901",
+      "season": 1,
+      "number": 52,
+      "name": "Nødhjælp til dukker og tøjdyr",
+      "airdate": "2001-10-14"
+    }
+  ]
+}

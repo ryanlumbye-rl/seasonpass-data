@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:aargang-20-tv2",
+  "name": "Årgang 20",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "35081bda-4d70-47f5-a60e-ab8bccd53f0f",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til verden",
+      "airdate": "2021-01-28"
+    },
+    {
+      "id": "2cadd9b0-6c61-46e9-9434-ce2c3fbffd53",
+      "season": 1,
+      "number": 2,
+      "name": "Coronaen rammer",
+      "airdate": "2021-01-28"
+    },
+    {
+      "id": "489fc001-0a27-4078-8691-b52249a47f7b",
+      "season": 1,
+      "number": 3,
+      "name": "En anderledes sommer",
+      "airdate": "2021-02-04"
+    },
+    {
+      "id": "87e5c3e6-6c88-4ecd-b1c6-9b8e5e0b5c04",
+      "season": 1,
+      "number": 4,
+      "name": "Små og store forandringer",
+      "airdate": "2021-02-11"
+    },
+    {
+      "id": "5e9f3ca1-72c5-4647-93ab-cd2ab387bf44",
+      "season": 2,
+      "number": 1,
+      "name": "Det, som ingen ved",
+      "airdate": "2022-01-04"
+    },
+    {
+      "id": "85978be9-8b19-4777-b4eb-5225abb8282d",
+      "season": 2,
+      "number": 2,
+      "name": "Den største drøm",
+      "airdate": "2022-01-04"
+    },
+    {
+      "id": "be5d5aae-a51c-4ab4-8787-d81e61b8963d",
+      "season": 2,
+      "number": 3,
+      "name": "Til døden os skiller",
+      "airdate": "2022-01-11"
+    },
+    {
+      "id": "46fb30e3-4d94-45a5-8139-bbaa8f58eeb5",
+      "season": 2,
+      "number": 4,
+      "name": "En lille ring af guld",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "cfeb50b0-00c1-438b-8a62-5a6cdb928eb5",
+      "season": 3,
+      "number": 1,
+      "name": "I virkelighedens verden",
+      "airdate": "2023-01-05"
+    },
+    {
+      "id": "3a4f0230-5110-4d84-9c21-20ce5e7c67cd",
+      "season": 3,
+      "number": 2,
+      "name": "Ikke som du regner med",
+      "airdate": "2023-01-12"
+    },
+    {
+      "id": "46b873d6-0ad6-4239-839d-37fcbdf7eb6e",
+      "season": 3,
+      "number": 3,
+      "name": "Nye liv",
+      "airdate": "2023-01-19"
+    },
+    {
+      "id": "b9a3a3da-efbc-408a-a15d-f3cd452f0e88",
+      "season": 3,
+      "number": 4,
+      "name": "I krise og kærlighed",
+      "airdate": "2023-01-26"
+    },
+    {
+      "id": "add04d7a-7272-4693-9db6-88356cdc90bd",
+      "season": 4,
+      "number": 1,
+      "name": "Søskendekærlighed eller ej",
+      "airdate": "2024-01-30"
+    },
+    {
+      "id": "2e316d2f-0e34-4c6f-9d5f-c96ddaf907e4",
+      "season": 4,
+      "number": 2,
+      "name": "Børn i sengen",
+      "airdate": "2024-02-06"
+    },
+    {
+      "id": "cb73d047-b637-4e69-89ec-9e308aeb7dac",
+      "season": 4,
+      "number": 3,
+      "name": "Ude godt, hjemme bedst",
+      "airdate": "2024-02-13"
+    },
+    {
+      "id": "f68b21f4-b9e7-4fae-9119-823250142c95",
+      "season": 4,
+      "number": 4,
+      "name": "En tur i rutsjebanen",
+      "airdate": "2024-02-20"
+    },
+    {
+      "id": "c3c09474-8f87-4ad9-85f1-4ebe9f410202",
+      "season": 5,
+      "number": 1,
+      "name": "Tronskifte og andre begyndelser",
+      "airdate": "2025-01-02"
+    },
+    {
+      "id": "c0a038ac-c8b0-4dc7-9bb4-2789ad9d3689",
+      "season": 5,
+      "number": 2,
+      "name": "Fest, forår og hospitalsindlæggelse",
+      "airdate": "2025-01-09"
+    },
+    {
+      "id": "c75bde20-ce64-455d-82dc-8554a1e3a12d",
+      "season": 5,
+      "number": 3,
+      "name": "En sommer med drømme og svære valg",
+      "airdate": "2025-01-16"
+    },
+    {
+      "id": "9c14fbf9-78e4-403e-863c-a276cd3ce49c",
+      "season": 5,
+      "number": 4,
+      "name": "Modige beslutninger og nye tider",
+      "airdate": "2025-01-23"
+    },
+    {
+      "id": "e49e79f2-65bd-419b-92f4-61c4f537b44a",
+      "season": 6,
+      "number": 1,
+      "name": "Håbet i vores børn",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "f9c6baee-08ad-420a-9179-4a60085d31f9",
+      "season": 6,
+      "number": 2,
+      "name": "Drømme i modvind",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "6350e440-c7e8-4ac4-a419-4604f418b157",
+      "season": 6,
+      "number": 3,
+      "name": "Du danske sommer",
+      "airdate": "2026-01-22"
+    },
+    {
+      "id": "d6ab1594-4838-4ca1-8ffb-80594393c0fa",
+      "season": 6,
+      "number": 4,
+      "name": "Storken kommer på besøg",
+      "airdate": "2026-01-29"
+    }
+  ]
+}

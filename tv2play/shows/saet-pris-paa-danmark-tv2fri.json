@@ -1,0 +1,570 @@
+{
+  "id": "tv2play:saet-pris-paa-danmark-tv2fri",
+  "name": "Sæt pris på Danmark",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "418c2f59-511e-4701-ae4b-10b0b0cbaca7",
+      "season": 1,
+      "number": 1,
+      "name": "Bornholm",
+      "airdate": "2017-10-23"
+    },
+    {
+      "id": "57945646-779c-4873-8ed3-fd063cdea63b",
+      "season": 1,
+      "number": 2,
+      "name": "Nordjylland",
+      "airdate": "2017-10-23"
+    },
+    {
+      "id": "093c8559-9b0c-49fb-89b1-c69ccff44d34",
+      "season": 1,
+      "number": 3,
+      "name": "Fyn",
+      "airdate": "2017-10-30"
+    },
+    {
+      "id": "5fff6cda-f220-40c2-b4b6-0cc9454325dc",
+      "season": 1,
+      "number": 4,
+      "name": "Sjælland",
+      "airdate": "2017-11-06"
+    },
+    {
+      "id": "852f2376-7c28-4477-9e90-9bbbafeda1af",
+      "season": 1,
+      "number": 5,
+      "name": "Østjylland",
+      "airdate": "2017-11-13"
+    },
+    {
+      "id": "fefc0719-bd1c-471b-8cc6-512dd5f89d8e",
+      "season": 1,
+      "number": 6,
+      "name": "Syd- og Sønderjylland",
+      "airdate": "2017-11-20"
+    },
+    {
+      "id": "4851eea8-699c-4b32-a388-6098462c96b9",
+      "season": 2,
+      "number": 1,
+      "name": "Lolland",
+      "airdate": "2018-08-15"
+    },
+    {
+      "id": "996f15a4-d4f4-4edd-bece-796cd2b8ba02",
+      "season": 2,
+      "number": 2,
+      "name": "Thy",
+      "airdate": "2018-08-15"
+    },
+    {
+      "id": "62c64bfc-3a63-4134-b89d-4acb030798ed",
+      "season": 2,
+      "number": 3,
+      "name": "Fyn og Ærø",
+      "airdate": "2018-08-22"
+    },
+    {
+      "id": "169ec29d-8a29-4a56-9e78-92bac437b116",
+      "season": 2,
+      "number": 4,
+      "name": "Vadehavet",
+      "airdate": "2018-08-29"
+    },
+    {
+      "id": "78507552-53c0-492e-962d-12cf555e8310",
+      "season": 2,
+      "number": 5,
+      "name": "Nordsjælland",
+      "airdate": "2018-09-05"
+    },
+    {
+      "id": "3a7cc3e2-2e99-4cee-8232-70325c49d6f3",
+      "season": 2,
+      "number": 6,
+      "name": "Færøerne",
+      "airdate": "2018-09-12"
+    },
+    {
+      "id": "8316d443-b104-40b8-bc78-2a74883821cc",
+      "season": 3,
+      "number": 1,
+      "name": "Møn og Nyord",
+      "airdate": "2019-08-21"
+    },
+    {
+      "id": "3ec832b3-9985-4232-80e4-d389f2946db9",
+      "season": 3,
+      "number": 2,
+      "name": "Bornholm",
+      "airdate": "2019-08-21"
+    },
+    {
+      "id": "a6f64885-457e-4e21-8eec-b65e3934e052",
+      "season": 3,
+      "number": 3,
+      "name": "Sjælland",
+      "airdate": "2019-08-28"
+    },
+    {
+      "id": "dd0bc093-dd13-4271-b6a3-aea8dca94d87",
+      "season": 3,
+      "number": 4,
+      "name": "Hven",
+      "airdate": "2019-09-04"
+    },
+    {
+      "id": "e077149f-a636-45b5-93ef-c0ec8da5f4c1",
+      "season": 3,
+      "number": 5,
+      "name": "Samsø",
+      "airdate": "2019-09-11"
+    },
+    {
+      "id": "e81f0eba-1268-4c2f-92ad-3c222e8d5e9d",
+      "season": 3,
+      "number": 6,
+      "name": "Læsø",
+      "airdate": "2019-09-18"
+    },
+    {
+      "id": "fa64c207-5b22-43fc-8404-2c088b8ededc",
+      "season": 3,
+      "number": 7,
+      "name": "Vestjylland",
+      "airdate": "2019-09-25"
+    },
+    {
+      "id": "9f73314d-8428-4196-a608-ce4bbc5b1ef6",
+      "season": 3,
+      "number": 8,
+      "name": "Østjylland",
+      "airdate": "2019-10-02"
+    },
+    {
+      "id": "eff0714a-3959-49f5-964c-19348ea10faa",
+      "season": 4,
+      "number": 1,
+      "name": "Søhøjlandet",
+      "airdate": "2020-08-19"
+    },
+    {
+      "id": "d30d1484-31e0-4f9e-b1b4-54d098aa4825",
+      "season": 4,
+      "number": 2,
+      "name": "Fyn",
+      "airdate": "2020-08-19"
+    },
+    {
+      "id": "a851ef4a-1cf6-4a89-b27f-6329d869cf17",
+      "season": 4,
+      "number": 3,
+      "name": "Limfjorden",
+      "airdate": "2020-08-26"
+    },
+    {
+      "id": "aa01fa86-363e-44ac-9f4a-e3a60cf30cd1",
+      "season": 4,
+      "number": 4,
+      "name": "Djursland",
+      "airdate": "2020-09-02"
+    },
+    {
+      "id": "f2172db8-c695-43a1-93ce-0828e375b420",
+      "season": 4,
+      "number": 5,
+      "name": "Lolland-Falster",
+      "airdate": "2020-09-09"
+    },
+    {
+      "id": "bc089506-40a0-48ce-a35a-9c50db1f5a7b",
+      "season": 4,
+      "number": 6,
+      "name": "Langeland og Tåsinge",
+      "airdate": "2020-09-16"
+    },
+    {
+      "id": "cc2a47ae-7c87-477b-93dc-f0ff27c159a4",
+      "season": 4,
+      "number": 7,
+      "name": "Sønderjylland",
+      "airdate": "2020-09-23"
+    },
+    {
+      "id": "1579156d-0124-45ba-bcd5-4f467ad299c8",
+      "season": 4,
+      "number": 8,
+      "name": "Sjælland",
+      "airdate": "2020-09-30"
+    },
+    {
+      "id": "804b95f4-aa18-43b5-a585-a426aeaaff2a",
+      "season": 5,
+      "number": 1,
+      "name": "Fyn",
+      "airdate": "2021-09-29"
+    },
+    {
+      "id": "72b04be1-6d25-4ca1-90d7-cfde10b3ba3d",
+      "season": 5,
+      "number": 2,
+      "name": "Vestkysten",
+      "airdate": "2021-09-29"
+    },
+    {
+      "id": "22245488-8adf-4543-ab89-b0e6267c9e8e",
+      "season": 5,
+      "number": 3,
+      "name": "Halsnæs og Odsherred",
+      "airdate": "2021-10-06"
+    },
+    {
+      "id": "7992b820-537b-4e73-ac9d-74fb9122a470",
+      "season": 5,
+      "number": 4,
+      "name": "Als",
+      "airdate": "2021-10-13"
+    },
+    {
+      "id": "3c4e175a-66c7-4915-a6d6-1f4089976685",
+      "season": 5,
+      "number": 5,
+      "name": "Jammerbugten",
+      "airdate": "2021-10-20"
+    },
+    {
+      "id": "a67ba69c-2359-4029-9c03-078cfda4fdb1",
+      "season": 5,
+      "number": 6,
+      "name": "København",
+      "airdate": "2021-10-27"
+    },
+    {
+      "id": "b8a84505-9ca6-475e-a911-32b8b091c4d4",
+      "season": 5,
+      "number": 7,
+      "name": "Himmerland",
+      "airdate": "2021-11-03"
+    },
+    {
+      "id": "9c5d3aa8-0c56-4d66-a9a9-d66340b35c64",
+      "season": 5,
+      "number": 8,
+      "name": "Aarhus",
+      "airdate": "2021-11-10"
+    },
+    {
+      "id": "8cb41103-0b66-430b-a1e6-144d56fc146c",
+      "season": 5,
+      "number": 9,
+      "name": "Sydsjælland",
+      "airdate": "2021-11-17"
+    },
+    {
+      "id": "4868b541-becb-40e5-b813-0b7d522f5f18",
+      "season": 5,
+      "number": 10,
+      "name": "Vadehavet",
+      "airdate": "2021-11-18"
+    },
+    {
+      "id": "d969d05e-c3cb-488e-9122-31087fd922cb",
+      "season": 6,
+      "number": 1,
+      "name": "Skagen",
+      "airdate": "2022-08-10"
+    },
+    {
+      "id": "2f045a13-5b3a-48c5-ac8e-17ed76e7e54b",
+      "season": 6,
+      "number": 2,
+      "name": "Lillebælt",
+      "airdate": "2022-08-10"
+    },
+    {
+      "id": "2506af3b-5209-41be-9615-f7ebaa79343c",
+      "season": 6,
+      "number": 3,
+      "name": "Esbjerg og Fanø",
+      "airdate": "2022-08-17"
+    },
+    {
+      "id": "7f257c3a-4609-407b-b2ce-9addb2ffa9f9",
+      "season": 6,
+      "number": 4,
+      "name": "Lolland",
+      "airdate": "2022-08-24"
+    },
+    {
+      "id": "c7b416bd-5da1-4cd7-a112-433094e6f07b",
+      "season": 6,
+      "number": 5,
+      "name": "Ærø",
+      "airdate": "2022-08-31"
+    },
+    {
+      "id": "75cf41f3-3a97-4a4a-886d-05f7c8247220",
+      "season": 6,
+      "number": 6,
+      "name": "Faxe Bugt",
+      "airdate": "2022-09-07"
+    },
+    {
+      "id": "ea85716f-3d1b-4c1c-a272-ac5e7d38f02d",
+      "season": 6,
+      "number": 7,
+      "name": "Aalborg",
+      "airdate": "2022-09-14"
+    },
+    {
+      "id": "0e4698e6-d82b-4bb8-a6d8-2d98d5af77a1",
+      "season": 6,
+      "number": 8,
+      "name": "Bornholm",
+      "airdate": "2022-09-21"
+    },
+    {
+      "id": "9264687e-d821-4de0-a4fd-d955a2993575",
+      "season": 7,
+      "number": 1,
+      "name": "Strynø og Langeland",
+      "airdate": "2023-08-10"
+    },
+    {
+      "id": "1a575e8b-b54a-4469-8633-90075a8827fa",
+      "season": 7,
+      "number": 2,
+      "name": "Djursland",
+      "airdate": "2023-08-17"
+    },
+    {
+      "id": "f20f5805-8baf-4398-9441-c5932887af5e",
+      "season": 7,
+      "number": 3,
+      "name": "Møn",
+      "airdate": "2023-08-24"
+    },
+    {
+      "id": "70535b48-33bd-45c2-875b-6a0e20684b28",
+      "season": 7,
+      "number": 4,
+      "name": "Horsens Fjord",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "3b85ca36-4d57-433d-9a0e-e37272bccfb2",
+      "season": 7,
+      "number": 5,
+      "name": "Vestsjælland",
+      "airdate": "2023-09-07"
+    },
+    {
+      "id": "57bed9f2-5387-4ce7-b0a1-72a7b61e0813",
+      "season": 7,
+      "number": 6,
+      "name": "Viborg",
+      "airdate": "2023-09-14"
+    },
+    {
+      "id": "89544de7-f05a-463d-a047-70878f7ffd23",
+      "season": 7,
+      "number": 7,
+      "name": "Sønderjylland",
+      "airdate": "2023-09-21"
+    },
+    {
+      "id": "6e8cffa4-4061-4e29-9da6-13346480af95",
+      "season": 7,
+      "number": 8,
+      "name": "Roskilde",
+      "airdate": "2023-09-28"
+    },
+    {
+      "id": "6ffbb8fe-80b1-4451-a457-5cb1b052069f",
+      "season": 8,
+      "number": 1,
+      "name": "På tur til Køge Bugt",
+      "airdate": "2024-09-12"
+    },
+    {
+      "id": "4d9a88ee-fed7-418e-a19d-84a918075038",
+      "season": 8,
+      "number": 2,
+      "name": "På tur til Mors og Thy",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "06236794-6443-4407-b236-d61b37392dc5",
+      "season": 8,
+      "number": 3,
+      "name": "På tur til Samsø",
+      "airdate": "2024-09-26"
+    },
+    {
+      "id": "ce9ec0c1-67ae-4a08-969e-df36414cfccc",
+      "season": 8,
+      "number": 4,
+      "name": "På tur til Kronjylland",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "b946b121-7c7e-4f03-bd93-63a1fb1c574e",
+      "season": 8,
+      "number": 5,
+      "name": "På tur til Ringkøbing Fjord",
+      "airdate": "2024-10-10"
+    },
+    {
+      "id": "ede3c6c5-24e3-44f6-a7df-eef19c07bb36",
+      "season": 8,
+      "number": 6,
+      "name": "På tur til Sydfyn",
+      "airdate": "2024-10-17"
+    },
+    {
+      "id": "e579dff4-1f83-4891-ad0e-d7ceae32a690",
+      "season": 8,
+      "number": 7,
+      "name": "På tur til Vendsyssel",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "d8529723-1ab2-487d-9b39-223413f51813",
+      "season": 8,
+      "number": 8,
+      "name": "På tur til Odsherred",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "5354bab6-3559-4c8a-8f49-9e40ada67935",
+      "season": 9,
+      "number": 1,
+      "name": "Herning og Brande",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "419ba176-fad1-4b79-af8b-5757918056de",
+      "season": 9,
+      "number": 2,
+      "name": "Marsklandet",
+      "airdate": "2025-03-20"
+    },
+    {
+      "id": "307a85d3-b24c-421f-a967-89d4aedadc87",
+      "season": 9,
+      "number": 3,
+      "name": "Trekantområdet",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "c00b1fd2-ddd3-4a13-bfd7-57593176e871",
+      "season": 9,
+      "number": 4,
+      "name": "Næstved og omegn",
+      "airdate": "2025-04-03"
+    },
+    {
+      "id": "925a8174-494d-4754-b785-d190bc391b4c",
+      "season": 9,
+      "number": 5,
+      "name": "Nordvestkysten",
+      "airdate": "2025-04-10"
+    },
+    {
+      "id": "5da2c712-a84f-43a4-893f-479cb6b9f7ca",
+      "season": 9,
+      "number": 6,
+      "name": "Odense",
+      "airdate": "2025-04-17"
+    },
+    {
+      "id": "13d9078b-d5c2-46b4-b59e-b807d8565e1f",
+      "season": 9,
+      "number": 7,
+      "name": "Halsnæs",
+      "airdate": "2025-04-24"
+    },
+    {
+      "id": "896deeec-c4a8-4a99-824d-dc0f33b8f04a",
+      "season": 9,
+      "number": 8,
+      "name": "Sydøstfyn",
+      "airdate": "2025-05-01"
+    },
+    {
+      "id": "f99a2584-a47f-4c71-b89f-fa31ef2927d8",
+      "season": 9,
+      "number": 9,
+      "name": "Lolland og Falster",
+      "airdate": "2025-05-08"
+    },
+    {
+      "id": "ce4638ff-0bac-4365-b44d-6c905e081d51",
+      "season": 10,
+      "number": 1,
+      "name": "Sydvestfyn",
+      "airdate": "2026-02-17"
+    },
+    {
+      "id": "f1a004e8-5182-47d4-a3c7-c82fc2265cc9",
+      "season": 10,
+      "number": 2,
+      "name": "Halvøen Salling",
+      "airdate": "2026-02-24"
+    },
+    {
+      "id": "f388aa0a-99e9-41f1-b560-46f5976a9a6e",
+      "season": 10,
+      "number": 3,
+      "name": "Kalundborg og omegn",
+      "airdate": "2026-03-03"
+    },
+    {
+      "id": "3e24154b-5e1d-47e3-bc00-34f064cec12f",
+      "season": 10,
+      "number": 4,
+      "name": "Mariager Fjord",
+      "airdate": "2026-03-10"
+    },
+    {
+      "id": "123a7564-cae9-4dbb-a8c1-051c43f90c84",
+      "season": 10,
+      "number": 5,
+      "name": "Orø",
+      "airdate": "2026-03-17"
+    },
+    {
+      "id": "25a4654f-e491-4896-8927-5b28dcb64fb8",
+      "season": 10,
+      "number": 6,
+      "name": "Lemvig og omegn",
+      "airdate": "2026-04-07"
+    },
+    {
+      "id": "193fc9a9-813f-4eaa-a0eb-e32f0af7de11",
+      "season": 10,
+      "number": 7,
+      "name": "Nordøstfyn",
+      "airdate": "2026-04-14"
+    },
+    {
+      "id": "7580e442-9ac2-472d-a5ee-c6ed3a0b1613",
+      "season": 10,
+      "number": 8,
+      "name": "Aabenraa og omegn",
+      "airdate": "2026-04-21"
+    },
+    {
+      "id": "2cd00600-9650-40a2-a89b-c6f17dff5371",
+      "season": 10,
+      "number": 9,
+      "name": "Vestegnen",
+      "airdate": "2026-04-28"
+    }
+  ]
+}

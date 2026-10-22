@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:se-hva-jeg-kan-oiii",
+  "name": "Se hva jeg kan",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a736fd75-a6ad-46ee-9c3a-ebc4d068319a",
+      "season": 1,
+      "number": 1,
+      "name": "Carla og idrætsgymnastik",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "f62c903f-15e2-43fa-b824-822050217d87",
+      "season": 1,
+      "number": 2,
+      "name": "Otto og skateboard",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "39737a10-04a9-419d-af00-da7c93fc0f20",
+      "season": 1,
+      "number": 3,
+      "name": "Ninja og karate",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "4e7ad57f-9dc1-4ef9-90b4-b19311f7143a",
+      "season": 1,
+      "number": 4,
+      "name": "Mio og udspring",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "7598525a-585d-43d3-b461-3a68e6a1bb26",
+      "season": 1,
+      "number": 5,
+      "name": "Elva og kunstskøjteløb",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "21a5af31-ccba-4465-a382-ed83f82a052d",
+      "season": 1,
+      "number": 6,
+      "name": "Adam og BMX",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "63e0fdf8-1668-4e2e-99a3-a721bb1f2c6e",
+      "season": 1,
+      "number": 7,
+      "name": "Sienna og ridning",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "16eceded-8235-445d-98a5-3a8dd93d3cdf",
+      "season": 1,
+      "number": 8,
+      "name": "Leonard og dans",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "4b6ace2d-c516-49a7-b77e-b16f50714c4e",
+      "season": 1,
+      "number": 9,
+      "name": "Hedvig og klatring",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "e957db36-6746-4783-8d90-5c21a0e1fb01",
+      "season": 1,
+      "number": 10,
+      "name": "Camillo og springgymnastik",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "a6de165c-5005-4e3d-9c31-68ee46ad1d5f",
+      "season": 2,
+      "number": 1,
+      "name": "Ada Mari og streetbasket",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "6733243b-3569-4c93-9436-a4a24f7edc14",
+      "season": 2,
+      "number": 2,
+      "name": "Ruben og sportsdans",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "eddfe4e2-6ef6-4a26-8d10-86751c896de0",
+      "season": 2,
+      "number": 3,
+      "name": "Albert og jollesejling",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "b094081a-98fc-4b6c-a4c7-8a3ca06e3209",
+      "season": 2,
+      "number": 4,
+      "name": "Nora og Cirkus",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "e922a989-74f5-4eca-8cee-9460ab127c82",
+      "season": 2,
+      "number": 5,
+      "name": "Aaron og trial",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "9643a40d-28e6-40cc-890f-4d629bfa6a87",
+      "season": 2,
+      "number": 6,
+      "name": "Sofie og orienteringsløb",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "de61e02b-c02a-4c6d-b6b4-53fc4496895e",
+      "season": 2,
+      "number": 7,
+      "name": "Jesper og tennis",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "a7a8f119-bb19-4706-8dc3-f0ba7dc25492",
+      "season": 2,
+      "number": 8,
+      "name": "Sesuna og rytmisk gymnastik",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "9df28003-04c7-4bbe-a1d2-2b3419433070",
+      "season": 2,
+      "number": 9,
+      "name": "Olaf Junior og trampolin",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "9265f363-7511-4909-8d37-311e85c4f2d5",
+      "season": 2,
+      "number": 10,
+      "name": "Samuel og golf",
+      "airdate": "2025-12-27"
+    }
+  ]
+}

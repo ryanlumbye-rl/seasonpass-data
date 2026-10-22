@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:de-sjaeldne-danskere-tv2",
+  "name": "De sjældne danskere",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-27",
+  "episodes": [
+    {
+      "id": "2bf0260e-b20c-4b54-91f7-1d8469869202",
+      "season": 1,
+      "number": 1,
+      "name": "Et godt liv på trods af en sjælden sygdom",
+      "airdate": "2018-08-14"
+    },
+    {
+      "id": "aef18058-fce4-4515-b9b7-72bed2b07d36",
+      "season": 1,
+      "number": 2,
+      "name": "En ny operation",
+      "airdate": "2018-08-21"
+    },
+    {
+      "id": "c898cc3a-d3fc-42c8-8ee0-3fe863c7bf18",
+      "season": 1,
+      "number": 3,
+      "name": "Piets drøm",
+      "airdate": "2018-08-28"
+    },
+    {
+      "id": "0786a33e-b60d-4124-ac63-c1fb20bac1d4",
+      "season": 1,
+      "number": 4,
+      "name": "Et godt liv på trods af en sjælden sygdom",
+      "airdate": "2018-08-28"
+    },
+    {
+      "id": "cc9b384f-6526-4346-bc52-d8334e4266b0",
+      "season": 2,
+      "number": 1,
+      "name": "Et godt liv på trods af sjælden sygdom",
+      "airdate": "2019-09-01"
+    },
+    {
+      "id": "36d8ee2f-5c30-4e8b-aa5a-e001234d8625",
+      "season": 2,
+      "number": 2,
+      "name": "Et godt liv på trods af sjælden sygdom",
+      "airdate": "2019-09-03"
+    },
+    {
+      "id": "3052b670-9b14-42e9-b67c-57bbe1d22964",
+      "season": 2,
+      "number": 3,
+      "name": "Et godt liv på trods af sjælden sygdom",
+      "airdate": "2019-09-10"
+    },
+    {
+      "id": "618bc0cf-f99a-4fb6-859b-003cf5ff291e",
+      "season": 2,
+      "number": 4,
+      "name": "Et godt liv på trods af sjælden sygdom",
+      "airdate": "2019-09-17"
+    },
+    {
+      "id": "29e9aca1-a8b2-432a-9ef4-ac6dcba9b1e8",
+      "season": 2,
+      "number": 5,
+      "name": "Et godt liv på trods af sjælden sygdom",
+      "airdate": "2019-09-24"
+    },
+    {
+      "id": "44f1a604-9ec0-4869-8029-c99b5515821e",
+      "season": 2,
+      "number": 6,
+      "name": "Et godt liv på trods af sjælden sygdom",
+      "airdate": "2019-10-01"
+    },
+    {
+      "id": "17ae83fe-f411-4b3a-9530-a0e04d1e047a",
+      "season": 3,
+      "number": 1,
+      "name": "Nalina og Noor skal flytte",
+      "airdate": "2021-02-25"
+    },
+    {
+      "id": "77156e97-1e36-45d6-b29b-2f6229e93a33",
+      "season": 3,
+      "number": 2,
+      "name": "Goddag til Niels",
+      "airdate": "2021-02-25"
+    },
+    {
+      "id": "5516ee2e-cfb4-4896-b094-f2667bcde7ed",
+      "season": 3,
+      "number": 3,
+      "name": "Theo skal til øjenlæge",
+      "airdate": "2021-03-04"
+    },
+    {
+      "id": "60814b95-8ad2-435e-87a0-3ea6464054f6",
+      "season": 3,
+      "number": 4,
+      "name": "Hjalte og Piet møder ministeren",
+      "airdate": "2021-03-11"
+    },
+    {
+      "id": "68856e5b-4327-4182-971f-ba951472f668",
+      "season": 3,
+      "number": 5,
+      "name": "Danmark lukkes ned",
+      "airdate": "2021-03-18"
+    },
+    {
+      "id": "484627b9-4f0f-46ce-84fc-1fb16570373f",
+      "season": 3,
+      "number": 6,
+      "name": "Gensyn med Bastian, Piet og Andrea",
+      "airdate": "2021-03-25"
+    },
+    {
+      "id": "718722f2-58f4-499f-84ae-104492bb1fc8",
+      "season": 4,
+      "number": 1,
+      "name": "Milles modeshow",
+      "airdate": "2023-05-09"
+    },
+    {
+      "id": "1c550664-a77e-4e25-801c-517341a79777",
+      "season": 4,
+      "number": 2,
+      "name": "Håret, tøjet, makeuppen",
+      "airdate": "2023-05-16"
+    },
+    {
+      "id": "be47f9d5-b34b-4b45-9eac-abc6d2fa0a58",
+      "season": 4,
+      "number": 3,
+      "name": "Ikke noget ballade, vel?",
+      "airdate": "2023-05-23"
+    },
+    {
+      "id": "3b7b7715-8e42-4350-bb0b-bfb37d0a2a28",
+      "season": 4,
+      "number": 4,
+      "name": "Sig det til hende, mor!",
+      "airdate": "2023-05-30"
+    },
+    {
+      "id": "720df5a1-2ecf-4603-afe4-0a9391db57e0",
+      "season": 4,
+      "number": 5,
+      "name": "Findes der en kur?",
+      "airdate": "2023-06-06"
+    },
+    {
+      "id": "4466ee58-b020-42a1-964f-b00d3fd9206e",
+      "season": 5,
+      "number": 1,
+      "name": "På dybt vand",
+      "airdate": "2024-08-15"
+    },
+    {
+      "id": "069b5fa1-6a80-4f9a-9086-2ecd1a7f1454",
+      "season": 5,
+      "number": 2,
+      "name": "Mor er lige her!",
+      "airdate": "2024-08-22"
+    },
+    {
+      "id": "0b74ec22-7d9e-4724-bb46-d027e2f7b4b3",
+      "season": 5,
+      "number": 3,
+      "name": "Hvis man ikke har venner, bliver man kattedame",
+      "airdate": "2024-08-29"
+    },
+    {
+      "id": "8d5e6e33-9c5a-46cd-b129-f2d902763071",
+      "season": 5,
+      "number": 4,
+      "name": "En farlig operation",
+      "airdate": "2024-09-05"
+    },
+    {
+      "id": "e53b0ffe-35ce-48e4-b39b-a8c3da29ac12",
+      "season": 5,
+      "number": 5,
+      "name": "Nye møder",
+      "airdate": "2024-09-12"
+    },
+    {
+      "id": "43941071-52a2-4583-8d15-1070eb61eba0",
+      "season": 5,
+      "number": 6,
+      "name": "Længe leve hverdagen!",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "898bd23c-7d21-4b65-9305-22b0a0e25e95",
+      "season": 6,
+      "number": 1,
+      "name": "Hellere lille og sjov end høj og kedelig",
+      "airdate": "2025-10-14"
+    },
+    {
+      "id": "742ee5c7-b0a6-4326-b523-94aa8a30b7d0",
+      "season": 6,
+      "number": 2,
+      "name": "Vi skal nyde al den tid, vi har sammen",
+      "airdate": "2025-10-21"
+    },
+    {
+      "id": "b55c04bd-b691-4732-b2b9-48d5d406459a",
+      "season": 6,
+      "number": 3,
+      "name": "Jeg kan ikke overskue at blive voksen",
+      "airdate": "2025-10-28"
+    },
+    {
+      "id": "9d339a68-6bf2-482c-9e1e-e3a58dfebafc",
+      "season": 6,
+      "number": 4,
+      "name": "Hvorfor har du ondt?",
+      "airdate": "2025-11-04"
+    },
+    {
+      "id": "790538f1-6874-4ba1-80b7-a4845d823297",
+      "season": 6,
+      "number": 5,
+      "name": "Sjov med sygdom",
+      "airdate": "2025-11-11"
+    },
+    {
+      "id": "ea1546f1-4eef-48a9-90d4-d9ea2baffd18",
+      "season": 6,
+      "number": 6,
+      "name": "Store helte vækker glæde",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "8e324655-eb93-40d0-adc9-b01c2fb2bbb3",
+      "season": 6,
+      "number": 7,
+      "name": "Den store finale",
+      "airdate": "2025-11-25"
+    },
+    {
+      "id": "acd645de-7cdf-409e-8f82-2ea6f2eb3bec",
+      "season": 7,
+      "number": 1,
+      "name": "Det er ikke en arvelig genfejl. Det er shit happens",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "5f544740-8186-458b-9418-d01872f9a952",
+      "season": 7,
+      "number": 2,
+      "name": "En følelse af normalitet i hverdagen",
+      "airdate": "2026-10-27"
+    }
+  ]
+}

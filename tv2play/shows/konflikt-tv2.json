@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:konflikt-tv2",
+  "name": "Konflikt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b7d2d02a-edb2-4fb0-ae2a-aa04a4fdbb48",
+      "season": 1,
+      "number": 1,
+      "name": "Besættelse",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "053c1f1f-be35-405f-b54a-ee941e888e28",
+      "season": 1,
+      "number": 2,
+      "name": "Reaktion",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "5250cd51-dffe-43e3-9ae0-209b2d3fe790",
+      "season": 1,
+      "number": 3,
+      "name": "Modstand",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "b2077ee8-7757-4985-a29e-b535878dc96d",
+      "season": 1,
+      "number": 4,
+      "name": "Forrådt",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "e45ecc55-2561-4a63-9815-d556a1492b42",
+      "season": 1,
+      "number": 5,
+      "name": "Ofret",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "c86af688-c14e-4704-b63e-1b17bafda654",
+      "season": 1,
+      "number": 6,
+      "name": "Angreb",
+      "airdate": "2026-04-02"
+    }
+  ]
+}

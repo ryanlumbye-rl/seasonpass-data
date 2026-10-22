@@ -1,0 +1,1375 @@
+{
+  "id": "tv2play:spoerg-charlie-tv2charlie",
+  "name": "Spørg Charlie",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-29",
+  "episodes": [
+    {
+      "id": "e4e54712-fb4a-40ab-9f18-83b4bf1d0e3f",
+      "season": 10,
+      "number": 1,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-08-24"
+    },
+    {
+      "id": "579bd537-a708-48e3-9f75-472498554c85",
+      "season": 10,
+      "number": 2,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-08-31"
+    },
+    {
+      "id": "112918b7-3fc4-4a0e-bc4d-8729e6f50527",
+      "season": 10,
+      "number": 3,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-09-07"
+    },
+    {
+      "id": "acebe002-90d9-4195-9152-0e26040e0cc6",
+      "season": 10,
+      "number": 4,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-09-14"
+    },
+    {
+      "id": "44826e95-a603-49f3-bed6-8e70594dafd4",
+      "season": 10,
+      "number": 5,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-09-21"
+    },
+    {
+      "id": "328d0b9a-57fa-4d28-b751-92f3f94a1838",
+      "season": 10,
+      "number": 6,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-09-28"
+    },
+    {
+      "id": "1ce3fbc6-8093-4191-b87b-d71404defeaf",
+      "season": 10,
+      "number": 7,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-10-05"
+    },
+    {
+      "id": "e4dcd91d-7262-49e3-9831-219b339dc77a",
+      "season": 10,
+      "number": 8,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-10-12"
+    },
+    {
+      "id": "8c9c4819-ae5f-4639-a9c4-517a0b5de2b2",
+      "season": 10,
+      "number": 9,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-10-19"
+    },
+    {
+      "id": "70a153fd-5da0-4950-805c-8ac9e45a0dd9",
+      "season": 10,
+      "number": 10,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-10-26"
+    },
+    {
+      "id": "89ad3e25-9d5a-4b18-8625-9721096a4f93",
+      "season": 10,
+      "number": 11,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-11-02"
+    },
+    {
+      "id": "3c065112-2163-4103-93a5-41f4d7c02c21",
+      "season": 10,
+      "number": 12,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2011-11-09"
+    },
+    {
+      "id": "fed45677-ff0f-4bd6-adc0-608e5884b79b",
+      "season": 11,
+      "number": 1,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-08-29"
+    },
+    {
+      "id": "a784e686-fa6c-4ef9-b15c-a8aa8799ac9e",
+      "season": 11,
+      "number": 2,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-09-05"
+    },
+    {
+      "id": "62b45656-c8c8-42f4-b792-54ab710b990f",
+      "season": 11,
+      "number": 3,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-09-12"
+    },
+    {
+      "id": "3f70580d-9609-4a77-9c73-cb48c48f215c",
+      "season": 11,
+      "number": 4,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-09-19"
+    },
+    {
+      "id": "7db3a9c8-44e5-46bb-acda-6177cba7add3",
+      "season": 11,
+      "number": 5,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-09-26"
+    },
+    {
+      "id": "e282195e-7ef6-44a8-bc48-d60ef1258832",
+      "season": 11,
+      "number": 6,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-10-03"
+    },
+    {
+      "id": "bfb359df-85ca-43b6-aa3f-21c4dba165a3",
+      "season": 11,
+      "number": 7,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-10-10"
+    },
+    {
+      "id": "019853a5-2a3c-4891-bdd0-0b799d7fadb0",
+      "season": 11,
+      "number": 8,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-10-17"
+    },
+    {
+      "id": "f502181a-7227-4bac-ace2-9a3f5aa4fbdf",
+      "season": 11,
+      "number": 9,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-10-24"
+    },
+    {
+      "id": "d33331da-f609-475e-9ea9-8aeb28c031cf",
+      "season": 11,
+      "number": 10,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-10-31"
+    },
+    {
+      "id": "1719059c-96d8-423d-afbd-a36d72d46e88",
+      "season": 11,
+      "number": 11,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-11-07"
+    },
+    {
+      "id": "3fe4ddc7-7f76-4424-9bb7-d2e2ff3ae02f",
+      "season": 11,
+      "number": 12,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2012-11-14"
+    },
+    {
+      "id": "7cd1d2a9-24e2-4efe-bebe-1071f96e5d9a",
+      "season": 12,
+      "number": 1,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-08-21"
+    },
+    {
+      "id": "40c0f04d-8105-457f-9bb9-11b007dfab36",
+      "season": 12,
+      "number": 2,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-08-28"
+    },
+    {
+      "id": "fc9024c6-6c20-4d2c-b184-86c5750b81ef",
+      "season": 12,
+      "number": 3,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-09-11"
+    },
+    {
+      "id": "d3512277-15d7-4a7e-ab27-0a1b2c89e67c",
+      "season": 12,
+      "number": 4,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-09-18"
+    },
+    {
+      "id": "191361a7-ae9c-4905-9be0-fa7e882dbd32",
+      "season": 12,
+      "number": 5,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-09-25"
+    },
+    {
+      "id": "f765b755-c6d9-486f-8d54-47ecd818154e",
+      "season": 12,
+      "number": 6,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-10-02"
+    },
+    {
+      "id": "b9c868df-3fb4-4e86-85ff-3be285f894d0",
+      "season": 12,
+      "number": 7,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-10-09"
+    },
+    {
+      "id": "5f95bcb0-cf58-4add-8c0c-8deca60472a4",
+      "season": 12,
+      "number": 8,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-10-16"
+    },
+    {
+      "id": "f96b97f0-c259-4797-9adc-a44ad7b21aff",
+      "season": 12,
+      "number": 9,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-10-23"
+    },
+    {
+      "id": "66f3f4de-f7d5-4757-b3c4-b3433443020d",
+      "season": 12,
+      "number": 10,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-10-30"
+    },
+    {
+      "id": "e3011ad1-60f5-4bec-b844-2bb77a496690",
+      "season": 12,
+      "number": 11,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-11-06"
+    },
+    {
+      "id": "290428a5-1e3c-4434-9815-12c882b9d95a",
+      "season": 12,
+      "number": 12,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2013-11-13"
+    },
+    {
+      "id": "07cffb2f-19ff-4e38-b886-77222836dcd7",
+      "season": 13,
+      "number": 1,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-08-20"
+    },
+    {
+      "id": "d41fbc54-ba4d-4112-bafc-7147b4194d23",
+      "season": 13,
+      "number": 2,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-08-27"
+    },
+    {
+      "id": "12a98c7e-c92d-4b6a-98eb-df83dd82c81c",
+      "season": 13,
+      "number": 3,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-09-03"
+    },
+    {
+      "id": "9e9f3b6e-5d9a-4966-af25-4fff775038b3",
+      "season": 13,
+      "number": 4,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-09-10"
+    },
+    {
+      "id": "59718510-d6f5-4dac-9f51-1b2adc51aa4d",
+      "season": 13,
+      "number": 5,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-09-17"
+    },
+    {
+      "id": "9075d8d3-5854-46d2-9cd3-9e17946d4c3e",
+      "season": 13,
+      "number": 6,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-09-24"
+    },
+    {
+      "id": "76357b6f-9312-422f-9fce-0cefb9b2f1ac",
+      "season": 13,
+      "number": 7,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-10-01"
+    },
+    {
+      "id": "5fa3d343-944e-427b-ab00-1a39a4f44df8",
+      "season": 13,
+      "number": 8,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-10-08"
+    },
+    {
+      "id": "9031f7bc-0f4a-4505-950a-9324132ae19c",
+      "season": 13,
+      "number": 9,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-10-15"
+    },
+    {
+      "id": "16c5c2e7-3db7-4160-92a7-e8f1ba715e5e",
+      "season": 13,
+      "number": 10,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-10-22"
+    },
+    {
+      "id": "3e0ae7c3-71c5-43ab-87ea-609c0cff5a71",
+      "season": 13,
+      "number": 11,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-10-29"
+    },
+    {
+      "id": "f74a5c3d-9ab7-40dd-885c-d4e963960382",
+      "season": 13,
+      "number": 12,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2014-11-05"
+    },
+    {
+      "id": "635a2700-0417-4f58-8aff-cafb81a4e7eb",
+      "season": 14,
+      "number": 1,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-08-12"
+    },
+    {
+      "id": "12687010-78e4-421d-b2ee-82b65c808c74",
+      "season": 14,
+      "number": 2,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-08-19"
+    },
+    {
+      "id": "354e27c3-eb12-4714-92c8-8087ecbef1b7",
+      "season": 14,
+      "number": 3,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-08-26"
+    },
+    {
+      "id": "b6f07908-c106-4527-8408-8efa81909055",
+      "season": 14,
+      "number": 4,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-09-02"
+    },
+    {
+      "id": "f92cb583-dfd3-4c12-a603-e382a3dae0ab",
+      "season": 14,
+      "number": 5,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-09-09"
+    },
+    {
+      "id": "beed09b5-c729-474d-8cee-25b5fae62db5",
+      "season": 14,
+      "number": 6,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-09-16"
+    },
+    {
+      "id": "67fb5f1c-b4a7-4d52-a85e-92c0cb52bce1",
+      "season": 14,
+      "number": 7,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-09-23"
+    },
+    {
+      "id": "616e7dda-366d-49d6-9e4f-2cd7ac3ff655",
+      "season": 14,
+      "number": 8,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-09-30"
+    },
+    {
+      "id": "edeb0b56-be25-4be0-b1b9-c678e2c02037",
+      "season": 14,
+      "number": 9,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-10-07"
+    },
+    {
+      "id": "78af4f43-a144-4818-8df2-f55357a61b3d",
+      "season": 14,
+      "number": 10,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-10-14"
+    },
+    {
+      "id": "e7922515-75aa-4136-89b0-bce4529a4c37",
+      "season": 14,
+      "number": 11,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-10-21"
+    },
+    {
+      "id": "47b5dd5d-d469-4be9-af85-b17ef078d5c7",
+      "season": 14,
+      "number": 12,
+      "name": "Svar på livets mange spørgsmål",
+      "airdate": "2015-10-28"
+    },
+    {
+      "id": "a38f9429-439d-491d-b8d6-e3aac5d810d7",
+      "season": 14,
+      "number": 13,
+      "name": "Svar på livets mange spørgsmål - Special",
+      "airdate": "2015-11-11"
+    },
+    {
+      "id": "49ca0d8c-bf1b-4380-af40-478a4ce7ca1c",
+      "season": 14,
+      "number": 15,
+      "name": "Juletraditioner",
+      "airdate": "2015-12-20"
+    },
+    {
+      "id": "769a1f0e-58cf-4885-9473-d98167cff060",
+      "season": 15,
+      "number": 1,
+      "name": "På tur i Helsingør",
+      "airdate": "2016-08-24"
+    },
+    {
+      "id": "df340add-41ee-45f4-8b84-49d242f942d6",
+      "season": 15,
+      "number": 2,
+      "name": "På tur i Holstebro",
+      "airdate": "2016-08-31"
+    },
+    {
+      "id": "777435b5-14d0-440f-9c24-622e476c3c16",
+      "season": 15,
+      "number": 3,
+      "name": "På tur i Aalborg",
+      "airdate": "2016-09-07"
+    },
+    {
+      "id": "d5565722-dad1-4860-8541-fa39be49ad18",
+      "season": 15,
+      "number": 4,
+      "name": "På tur i Esbjerg",
+      "airdate": "2016-09-14"
+    },
+    {
+      "id": "6f474773-e439-440c-a2cb-1d24fbb8df6a",
+      "season": 15,
+      "number": 5,
+      "name": "På tur i Slagelse",
+      "airdate": "2016-09-21"
+    },
+    {
+      "id": "a9b20524-20d8-4d5c-b9d0-179d1a2288c1",
+      "season": 15,
+      "number": 6,
+      "name": "På tur i Greve",
+      "airdate": "2016-10-05"
+    },
+    {
+      "id": "fdbf8bf9-4314-4af7-a893-9ed00bfae36f",
+      "season": 15,
+      "number": 7,
+      "name": "På tur i Aalborg",
+      "airdate": "2016-10-12"
+    },
+    {
+      "id": "fdfcc629-385b-4d49-9c89-f9c3d3331dd5",
+      "season": 15,
+      "number": 8,
+      "name": "På tur i Horsens",
+      "airdate": "2016-10-26"
+    },
+    {
+      "id": "b184ed1c-e5f6-4815-9500-13f02bd1ff28",
+      "season": 15,
+      "number": 9,
+      "name": "På tur i Helsingør",
+      "airdate": "2016-11-02"
+    },
+    {
+      "id": "e703c2d8-b744-42cc-b3be-a897f63fd956",
+      "season": 15,
+      "number": 10,
+      "name": "På tur i Slagelse",
+      "airdate": "2016-11-09"
+    },
+    {
+      "id": "aac26b85-4f48-4ae6-a45d-e16f0d388d0b",
+      "season": 15,
+      "number": 11,
+      "name": "På tur i Holstebro",
+      "airdate": "2016-11-16"
+    },
+    {
+      "id": "a0b7d0f4-4020-4db2-bb08-b7076849cda5",
+      "season": 15,
+      "number": 12,
+      "name": "På tur i Horsens",
+      "airdate": "2016-11-23"
+    },
+    {
+      "id": "3d7571bf-57ab-4348-82b6-e602f000df13",
+      "season": 15,
+      "number": 13,
+      "name": "Jubilæumsspecial",
+      "airdate": "2016-09-28"
+    },
+    {
+      "id": "18907b88-89a5-4b18-bad6-66cb098341ed",
+      "season": 15,
+      "number": 14,
+      "name": "Vild med dans-special",
+      "airdate": "2016-10-19"
+    },
+    {
+      "id": "af65c73e-3c49-4a95-a75b-7d6ebb69b16d",
+      "season": 16,
+      "number": 1,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-08-16"
+    },
+    {
+      "id": "c08a56a5-0ef9-42e8-bd42-d8ecf94a1f95",
+      "season": 16,
+      "number": 2,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-08-23"
+    },
+    {
+      "id": "8f37f4d0-ae0f-4997-b81f-4ae97dd93f32",
+      "season": 16,
+      "number": 3,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-09-06"
+    },
+    {
+      "id": "b3ac9be8-c364-48fe-a2f5-ebd652266a17",
+      "season": 16,
+      "number": 4,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-09-06"
+    },
+    {
+      "id": "10568c27-5d1c-4479-be31-14421f563c3c",
+      "season": 16,
+      "number": 5,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-09-13"
+    },
+    {
+      "id": "6ecca7d2-874e-421d-a72f-58e33499ea22",
+      "season": 16,
+      "number": 6,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-09-20"
+    },
+    {
+      "id": "6886b160-edca-4b3c-9bee-b849e762e4d4",
+      "season": 16,
+      "number": 7,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-09-27"
+    },
+    {
+      "id": "d2db65e3-8bf6-4374-94b4-a805dca74c92",
+      "season": 16,
+      "number": 8,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-10-04"
+    },
+    {
+      "id": "cd680ec9-bd8f-4205-9d3f-36dd9ab45086",
+      "season": 16,
+      "number": 9,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-10-11"
+    },
+    {
+      "id": "d55fa301-0161-44e6-a5e7-e735abcc75a5",
+      "season": 16,
+      "number": 10,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-10-18"
+    },
+    {
+      "id": "d5a13077-3db9-4e53-ad98-2847b82f8405",
+      "season": 16,
+      "number": 11,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-10-25"
+    },
+    {
+      "id": "5225397b-f8a3-4ddb-a318-bdc7a95ba427",
+      "season": 16,
+      "number": 12,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2017-11-01"
+    },
+    {
+      "id": "3147d3f3-de06-45ed-a755-6e5da5f1a552",
+      "season": 17,
+      "number": 2,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-09-17"
+    },
+    {
+      "id": "8149d482-704a-4e67-9449-448c66622614",
+      "season": 17,
+      "number": 4,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-10-01"
+    },
+    {
+      "id": "bbbf6fc2-6bea-422f-862e-98207652431b",
+      "season": 17,
+      "number": 6,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-10-15"
+    },
+    {
+      "id": "a260159a-b924-423d-885e-50a41c300e28",
+      "season": 17,
+      "number": 7,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-10-22"
+    },
+    {
+      "id": "69c1a71a-c39e-4d27-8a46-6d07d98fe026",
+      "season": 17,
+      "number": 8,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-10-29"
+    },
+    {
+      "id": "68a303e2-3de4-440e-a3fb-a58dd9aab4c1",
+      "season": 17,
+      "number": 9,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-11-05"
+    },
+    {
+      "id": "caa0ce30-7c80-4516-a907-36be460e44a0",
+      "season": 17,
+      "number": 10,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-11-12"
+    },
+    {
+      "id": "91e5fc85-ea35-467f-bb93-a431ac4cf43f",
+      "season": 17,
+      "number": 11,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-11-19"
+    },
+    {
+      "id": "9969e480-234e-4482-a16b-6550565f72c4",
+      "season": 17,
+      "number": 12,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2018-11-26"
+    },
+    {
+      "id": "afafe86f-5891-4f86-ba4d-27128a1edc83",
+      "season": 18,
+      "number": 1,
+      "name": "Bruger sin mands urne som pyntegenstand",
+      "airdate": "2019-09-09"
+    },
+    {
+      "id": "8440b875-62eb-482b-89e0-76fe4a80192e",
+      "season": 18,
+      "number": 2,
+      "name": "Kontante svar på seernes dilemmaer",
+      "airdate": "2019-09-09"
+    },
+    {
+      "id": "bea96cbe-5e64-405b-a284-4305c6400065",
+      "season": 18,
+      "number": 3,
+      "name": "Min kæreste er racist",
+      "airdate": "2019-09-16"
+    },
+    {
+      "id": "ce3c1522-7994-41e3-82ff-970335a4458e",
+      "season": 18,
+      "number": 4,
+      "name": "Min mand er træls",
+      "airdate": "2019-09-23"
+    },
+    {
+      "id": "4a604b09-8eec-4d65-9eb6-1df1a3ff4e99",
+      "season": 18,
+      "number": 5,
+      "name": "Sex i samme rum som baby?",
+      "airdate": "2019-09-30"
+    },
+    {
+      "id": "7f199961-86a5-4646-8029-ed87f8f63264",
+      "season": 18,
+      "number": 6,
+      "name": "Ægteskabskrise",
+      "airdate": "2019-10-07"
+    },
+    {
+      "id": "87556479-efac-4018-a054-026e888d0d6e",
+      "season": 18,
+      "number": 7,
+      "name": "Ekskærester eller ej?",
+      "airdate": "2019-10-14"
+    },
+    {
+      "id": "6b3409b7-5e25-4ebe-a7dd-725eb25c873f",
+      "season": 18,
+      "number": 8,
+      "name": "Når manden ikke kan danse",
+      "airdate": "2019-10-21"
+    },
+    {
+      "id": "9457f679-1501-476f-92d4-e9bc470ad60a",
+      "season": 18,
+      "number": 9,
+      "name": "Min kone går dødssygt klædt",
+      "airdate": "2019-10-28"
+    },
+    {
+      "id": "0c9225a7-42bb-4f95-8d60-a9dac49c3c3d",
+      "season": 18,
+      "number": 10,
+      "name": "Må man kysse andres børn?",
+      "airdate": "2019-11-04"
+    },
+    {
+      "id": "0c2dfabb-c203-49a1-a22e-15cb75456fda",
+      "season": 18,
+      "number": 11,
+      "name": "Mormor gider ikke passe sine børnebørn",
+      "airdate": "2019-11-25"
+    },
+    {
+      "id": "d7bc836a-9ac2-48de-a1aa-bb9a7c4db095",
+      "season": 19,
+      "number": 1,
+      "name": "Savl i sovsen",
+      "airdate": "2020-09-14"
+    },
+    {
+      "id": "ddb897d1-e4a1-4635-8c09-6944380a6a25",
+      "season": 19,
+      "number": 2,
+      "name": "Farlig farmor",
+      "airdate": "2020-09-14"
+    },
+    {
+      "id": "fd288917-be42-40dc-86da-af05945fd5b4",
+      "season": 19,
+      "number": 3,
+      "name": "Heilende 3-årig",
+      "airdate": "2020-09-21"
+    },
+    {
+      "id": "6f8c0b99-d3db-4114-9a5d-ee176a0a9d1a",
+      "season": 19,
+      "number": 4,
+      "name": "Må kæresten lave porno?",
+      "airdate": "2020-09-28"
+    },
+    {
+      "id": "2c471a7d-41f2-4446-8180-5497976b522f",
+      "season": 19,
+      "number": 5,
+      "name": "Piercing i fødselsdagsgave",
+      "airdate": "2020-10-05"
+    },
+    {
+      "id": "79d489a7-881a-4031-b103-b6537d7c072d",
+      "season": 19,
+      "number": 6,
+      "name": "Møgmisundelig",
+      "airdate": "2020-10-12"
+    },
+    {
+      "id": "ef5f8406-3a9d-418a-85d3-25ce93f24fbd",
+      "season": 19,
+      "number": 7,
+      "name": "Til fest i pelsskind",
+      "airdate": "2020-10-19"
+    },
+    {
+      "id": "87b5e541-9be3-432c-a454-89782ccbc9ba",
+      "season": 19,
+      "number": 8,
+      "name": "Bryllup i rockerborg",
+      "airdate": "2020-11-02"
+    },
+    {
+      "id": "616c15ae-a07b-442c-822c-058b4033712b",
+      "season": 19,
+      "number": 9,
+      "name": "Kærlig familiefest",
+      "airdate": "2020-11-02"
+    },
+    {
+      "id": "86fa74f8-920f-4bc7-b5cd-1068a1a82e28",
+      "season": 19,
+      "number": 10,
+      "name": "Den kriminelle morfar",
+      "airdate": "2020-11-09"
+    },
+    {
+      "id": "d552e8ed-c6e4-4d7d-bb0d-db6214d759e9",
+      "season": 19,
+      "number": 11,
+      "name": "Dværghamster",
+      "airdate": "2020-11-16"
+    },
+    {
+      "id": "88879ff6-a768-403e-9b42-589bfcba5bc4",
+      "season": 19,
+      "number": 12,
+      "name": "Den hemmelige stedsøn",
+      "airdate": "2020-11-23"
+    },
+    {
+      "id": "78b8437d-c8bd-48b0-b0ea-b045419dfde1",
+      "season": 20,
+      "number": 1,
+      "name": "Mænd og tis",
+      "airdate": "2021-09-13"
+    },
+    {
+      "id": "c2478b68-7c48-4da6-8b2e-f82e1aba7f44",
+      "season": 20,
+      "number": 2,
+      "name": "Hvad ville Mette Frederiksen gøre?",
+      "airdate": "2021-09-13"
+    },
+    {
+      "id": "0031c815-ebfa-41b4-891a-9226f8f785cd",
+      "season": 20,
+      "number": 3,
+      "name": "Ud med vielsesringen",
+      "airdate": "2021-09-20"
+    },
+    {
+      "id": "7dd54c3f-d648-4869-9f3b-d3abc2250ce5",
+      "season": 20,
+      "number": 4,
+      "name": "Aflive hunden eller ej?",
+      "airdate": "2021-09-27"
+    },
+    {
+      "id": "df6e3c8c-19bf-4576-83bd-7b6717762a55",
+      "season": 20,
+      "number": 5,
+      "name": "Frikadeller med hundemad",
+      "airdate": "2021-10-04"
+    },
+    {
+      "id": "24bbe58b-ac4d-4dd8-946c-011f2a04d5c4",
+      "season": 20,
+      "number": 6,
+      "name": "Genbrug af sexlegetøj?",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "86c1675f-fd23-4d21-b94d-380958096c55",
+      "season": 20,
+      "number": 7,
+      "name": "Nyt navn til treårig?",
+      "airdate": "2021-10-18"
+    },
+    {
+      "id": "b15ca528-ea10-42b1-a6e7-0585cb47a6e8",
+      "season": 20,
+      "number": 8,
+      "name": "Kvindelig kropsbehåring",
+      "airdate": "2021-10-25"
+    },
+    {
+      "id": "ba7873c3-e0c0-4c02-8907-c99231ae1f4a",
+      "season": 20,
+      "number": 9,
+      "name": "At stange tænder og snyde gamle damer",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "32da5043-f01a-421c-8ae9-e8e882e71cb6",
+      "season": 20,
+      "number": 10,
+      "name": "Må du lyve om din alder?",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "7ca9008f-5aab-48cd-b943-bc2933cd986d",
+      "season": 20,
+      "number": 11,
+      "name": "Billig gave i Gucci-æske",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "bdea18f1-2b2c-408d-969b-00a016016197",
+      "season": 20,
+      "number": 12,
+      "name": "Kønssygdom og snyde-penicillin",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "2d2b6cc9-f569-4e12-8f10-94dde9e3065e",
+      "season": 21,
+      "number": 1,
+      "name": "Affære med eksmand",
+      "airdate": "2022-09-12"
+    },
+    {
+      "id": "e3c8abd4-99b5-4ade-8543-ede2ce0ceba4",
+      "season": 21,
+      "number": 2,
+      "name": "Kan man rejse fra en gammel hund?",
+      "airdate": "2022-09-12"
+    },
+    {
+      "id": "1fb18a73-7ba7-4e12-9e60-2320109249b8",
+      "season": 21,
+      "number": 3,
+      "name": "Hvor meget skal vi blande os?",
+      "airdate": "2022-09-19"
+    },
+    {
+      "id": "5657cd3e-d85f-4a04-8b01-95483ec18085",
+      "season": 21,
+      "number": 4,
+      "name": "Når uheldet er ude",
+      "airdate": "2022-09-26"
+    },
+    {
+      "id": "65b4bdb7-e4fb-4887-9233-41dff83dba3d",
+      "season": 21,
+      "number": 5,
+      "name": "DNA-test giver dilemma",
+      "airdate": "2022-10-03"
+    },
+    {
+      "id": "58e6b704-7053-4dfb-b845-d662778fd0b7",
+      "season": 21,
+      "number": 6,
+      "name": "Ingen fest - ingen gaver?",
+      "airdate": "2022-10-10"
+    },
+    {
+      "id": "1bf5d0ce-8189-441d-9197-9646954cde83",
+      "season": 21,
+      "number": 7,
+      "name": "Må man spille dum for at score?",
+      "airdate": "2022-10-17"
+    },
+    {
+      "id": "cb877757-17b6-443e-b2b2-a4a393cafd5d",
+      "season": 21,
+      "number": 8,
+      "name": "Når din nye psykolog er din ekskæreste",
+      "airdate": "2022-10-24"
+    },
+    {
+      "id": "3572f269-f2a3-4f68-9ba8-4cf243ca3475",
+      "season": 21,
+      "number": 9,
+      "name": "Må man lyve for at få en ven?",
+      "airdate": "2022-10-31"
+    },
+    {
+      "id": "7ef0a7ab-9ff5-4e5f-bccd-76660960ff57",
+      "season": 21,
+      "number": 10,
+      "name": "Deler man udgiften til prævention?",
+      "airdate": "2022-11-07"
+    },
+    {
+      "id": "b5147680-db21-4eaf-9200-8df4ebafd87b",
+      "season": 21,
+      "number": 11,
+      "name": "Et klimavenligt valg?",
+      "airdate": "2022-11-14"
+    },
+    {
+      "id": "2a05eece-fd13-4fa3-9780-f905e72dafa0",
+      "season": 21,
+      "number": 12,
+      "name": "Venneparrets tone",
+      "airdate": "2022-11-21"
+    },
+    {
+      "id": "ccfd47aa-f565-4428-af4c-6bb143da451b",
+      "season": 22,
+      "number": 1,
+      "name": "Dating med filter på",
+      "airdate": "2023-08-28"
+    },
+    {
+      "id": "547cea07-af53-438c-88db-f3d9cd11da05",
+      "season": 22,
+      "number": 2,
+      "name": "Må man røre ved agurken?",
+      "airdate": "2023-09-04"
+    },
+    {
+      "id": "e8dcaeb0-ebfa-4b5d-909e-86b32fbd58f9",
+      "season": 22,
+      "number": 3,
+      "name": "Min kæreste er på Tinder",
+      "airdate": "2023-09-11"
+    },
+    {
+      "id": "037ab8af-dcec-4c42-9f66-779d6148e3d4",
+      "season": 22,
+      "number": 4,
+      "name": "Må jeg gps-tracke min kone?",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "7df32c7a-6a7c-4ec9-a12e-bdd3297e08dc",
+      "season": 22,
+      "number": 5,
+      "name": "Min søster vil sladre",
+      "airdate": "2023-09-25"
+    },
+    {
+      "id": "7b8b896f-b4ea-4cca-a4f2-7a08136bb3a7",
+      "season": 22,
+      "number": 6,
+      "name": "Julekortene tager livet af mig",
+      "airdate": "2023-10-02"
+    },
+    {
+      "id": "0358a168-5a18-4f11-95cb-9e0e265b54da",
+      "season": 22,
+      "number": 7,
+      "name": "Jeg vil ikke være oldemor",
+      "airdate": "2023-10-09"
+    },
+    {
+      "id": "89d540ec-640f-4739-b836-a95351062387",
+      "season": 22,
+      "number": 8,
+      "name": "Min frisør snakker for meget",
+      "airdate": "2023-10-16"
+    },
+    {
+      "id": "6fe2ddb4-1127-4b1d-95a4-5e0e7d063dd6",
+      "season": 22,
+      "number": 9,
+      "name": "Julekort til kendte",
+      "airdate": "2023-10-23"
+    },
+    {
+      "id": "11f2c81d-434d-40b7-8659-39cd18ae0325",
+      "season": 22,
+      "number": 10,
+      "name": "Mand i dametøj",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "366afe1a-a706-4531-a856-f1c88edaaad0",
+      "season": 22,
+      "number": 11,
+      "name": "Hjælp! Min chef vil kramme",
+      "airdate": "2023-11-06"
+    },
+    {
+      "id": "17bcf133-4736-4bc3-8ab3-a506c75d979b",
+      "season": 22,
+      "number": 12,
+      "name": "En mand med paryk og svære pronominer",
+      "airdate": "2023-11-13"
+    },
+    {
+      "id": "bf01f0cb-a654-4d80-a250-ca770e3a1d43",
+      "season": 22,
+      "number": 13,
+      "name": "Med Ulla Terkelsen, Lasse Rimmer og Søren Lippert",
+      "airdate": "2024-06-17"
+    },
+    {
+      "id": "2b70641b-1cc6-46bb-b06e-38f141eca418",
+      "season": 22,
+      "number": 14,
+      "name": "Med Mette Frederiksen, Mona Juul og Inger Støjberg",
+      "airdate": "2024-06-17"
+    },
+    {
+      "id": "fe3a9bfb-7b09-4040-82a8-2851f58e8402",
+      "season": 23,
+      "number": 1,
+      "name": "Måske får min nabo tæsk",
+      "airdate": "2024-08-26"
+    },
+    {
+      "id": "4786bdef-c9d3-4dee-a42e-9a1768a427a7",
+      "season": 23,
+      "number": 2,
+      "name": "Et upassende forhold?",
+      "airdate": "2024-09-02"
+    },
+    {
+      "id": "c775d4a5-82c3-41cc-8792-907d09e346ed",
+      "season": 23,
+      "number": 3,
+      "name": "Gækkebrev fra familie",
+      "airdate": "2024-09-09"
+    },
+    {
+      "id": "fe87e575-7383-46bd-82b3-5a7595aa99e8",
+      "season": 23,
+      "number": 4,
+      "name": "Jeg vil have lov til en øv-dag",
+      "airdate": "2024-09-16"
+    },
+    {
+      "id": "0cd9d0d4-0485-4885-a184-895dbadc24e7",
+      "season": 23,
+      "number": 5,
+      "name": "Ulækkert svinekød",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "5ef12a39-7c55-449e-9bcb-d0ba72f862c7",
+      "season": 23,
+      "number": 6,
+      "name": "Stop gaveræset",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "c0fef058-5c34-447e-bbfd-fb7b8274148f",
+      "season": 23,
+      "number": 7,
+      "name": "Hjælp, min læge er lækker",
+      "airdate": "2024-10-07"
+    },
+    {
+      "id": "fb0280f5-5b2e-42b3-b105-42dec721acc1",
+      "season": 23,
+      "number": 8,
+      "name": "Vi står på en brændende platform",
+      "airdate": "2024-10-14"
+    },
+    {
+      "id": "e8ed1afb-5f97-4a0d-b7be-82909e01f9b5",
+      "season": 23,
+      "number": 9,
+      "name": "Små, røde speedos",
+      "airdate": "2024-10-21"
+    },
+    {
+      "id": "0d311acf-ad9d-4702-8179-f6ca75e6adfb",
+      "season": 23,
+      "number": 10,
+      "name": "I krig med sin bedste ven",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "637d2942-1b98-433f-aa18-42f0345967c9",
+      "season": 23,
+      "number": 11,
+      "name": "Hjælp, hunden har fået mit navn",
+      "airdate": "2024-11-04"
+    },
+    {
+      "id": "71da3e83-0fa3-488d-996b-5dfcddf1a5ee",
+      "season": 23,
+      "number": 12,
+      "name": "Rod overalt",
+      "airdate": "2024-11-11"
+    },
+    {
+      "id": "1e848af4-428a-445e-a740-5703f4cf2499",
+      "season": 23,
+      "number": 13,
+      "name": "Med Inger Støjberg, Mona Juul og Nicolai Wammen",
+      "airdate": "2025-06-30"
+    },
+    {
+      "id": "40699ef0-c65e-4989-b8b7-0e29fb953bfc",
+      "season": 23,
+      "number": 14,
+      "name": "Med Ida Auken, Pernille Vermund og Jakob Engel-Schmidt",
+      "airdate": "2025-07-07"
+    },
+    {
+      "id": "3348f7bf-2662-4e35-a894-316b66824b14",
+      "season": 24,
+      "number": 1,
+      "name": "Den lugtende ost",
+      "airdate": "2025-08-25"
+    },
+    {
+      "id": "aa25cce8-17ce-4c85-b9fe-83bb5422bcf1",
+      "season": 24,
+      "number": 2,
+      "name": "Mine udlånte ting forsvinder",
+      "airdate": "2025-09-01"
+    },
+    {
+      "id": "8a873ee5-34fa-4206-b355-79e468c7eb23",
+      "season": 24,
+      "number": 3,
+      "name": "Vores mor bliver snydt af en egyptisk prins",
+      "airdate": "2025-09-08"
+    },
+    {
+      "id": "1d53a478-dcbc-4331-9f28-29954aeee040",
+      "season": 24,
+      "number": 4,
+      "name": "Min mors kæreste har en dom",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "ab514f7d-6fb3-49c3-b98d-dd2dadcd9169",
+      "season": 24,
+      "number": 5,
+      "name": "Må jeg se soft porn?",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "6fb6b113-46c1-499d-883e-16f55a5504e1",
+      "season": 24,
+      "number": 6,
+      "name": "Hjælp, min far er cringe",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "795bfa58-7b64-40a3-a38e-6ad992b2059e",
+      "season": 24,
+      "number": 7,
+      "name": "Hunden ødelægger familien",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "eb38f02b-9cb0-4912-8024-1ff156c867a6",
+      "season": 24,
+      "number": 8,
+      "name": "Må vi sælge gravstenen?",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "26fc2617-4a14-439c-a5cd-60d8b31d707f",
+      "season": 24,
+      "number": 9,
+      "name": "Min veninde lugter",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "38490234-1cad-4ac7-a99a-a2d15f50013d",
+      "season": 24,
+      "number": 10,
+      "name": "Venner med fordele",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "e2e62357-890a-4b23-a6fa-6a3579acd09a",
+      "season": 24,
+      "number": 11,
+      "name": "Min ven snyder med AI",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "6c479cb5-4324-40ed-80f2-b343662fc841",
+      "season": 24,
+      "number": 12,
+      "name": "Gaveregn til lærerne",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "be621fb6-1a36-4148-bf32-0f23233baa64",
+      "season": 24,
+      "number": 13,
+      "name": "Dan Jørgensen, Anna Thygesen og Jakob Engel-Schmidt",
+      "airdate": "2026-06-16"
+    },
+    {
+      "id": "bcb54dc5-f7f1-4014-b3e1-a07e7c677782",
+      "season": 24,
+      "number": 14,
+      "name": "Pia Kjærsgaard, Helle Thorning-Schmidt og Özlem Cekic",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "cbc310dc-f20b-4fff-b03b-41a633f40620",
+      "season": 25,
+      "number": 1,
+      "name": "Han skal betale min spiral",
+      "airdate": "2026-08-27"
+    },
+    {
+      "id": "33939189-9b09-4a2f-b9aa-80f118857350",
+      "season": 25,
+      "number": 2,
+      "name": "Den svære selfie",
+      "airdate": "2026-09-03"
+    },
+    {
+      "id": "8fae9db6-3b43-4198-a08b-f36b887376c2",
+      "season": 25,
+      "number": 3,
+      "name": "Den nøgne bedstemor",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "e87455a0-5c57-4871-bdb0-3bd066514f4e",
+      "season": 25,
+      "number": 4,
+      "name": "Bliv hjemme - jeg er gravid",
+      "airdate": "2026-09-17"
+    },
+    {
+      "id": "4507645a-36a0-434e-b587-e9bdafc13b7e",
+      "season": 25,
+      "number": 5,
+      "name": "Må jeg date min afdøde venindes mand?",
+      "airdate": "2026-09-24"
+    },
+    {
+      "id": "eed4991a-2999-4144-afb9-dbc1d625a7d8",
+      "season": 25,
+      "number": 6,
+      "name": "Hjælp, børnene larmer",
+      "airdate": "2026-10-01"
+    },
+    {
+      "id": "21942c81-3e17-43e7-b220-80b8435d4fc9",
+      "season": 25,
+      "number": 7,
+      "name": "Min far vil i byrådet",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "d8a7d1ac-f747-4b94-87b6-2d2285aa89d4",
+      "season": 25,
+      "number": 8,
+      "name": "Kan jeg tvinge drengene i bad?",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "f70f8aa2-8e89-4e90-90a6-77c100745cf3",
+      "season": 25,
+      "number": 9,
+      "name": "Min datter synger forfærdeligt",
+      "airdate": "2026-10-22"
+    }
+  ]
+}

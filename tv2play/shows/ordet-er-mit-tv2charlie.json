@@ -1,0 +1,766 @@
+{
+  "id": "tv2play:ordet-er-mit-tv2charlie",
+  "name": "Ordet er mit",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7267fb49-311f-4664-ac0a-218c730792cb",
+      "season": 1,
+      "number": 1,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-01-29"
+    },
+    {
+      "id": "0e5b6e1e-4934-43da-89aa-19ce61e717bf",
+      "season": 1,
+      "number": 2,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-01-30"
+    },
+    {
+      "id": "6886642b-42bf-4e02-a5e1-f730e63ed152",
+      "season": 1,
+      "number": 3,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-01-31"
+    },
+    {
+      "id": "eaa22621-d8d7-42ec-b537-bbbbf8db7c1f",
+      "season": 1,
+      "number": 4,
+      "name": "Ugefinalen",
+      "airdate": "2024-02-01"
+    },
+    {
+      "id": "a5bbb796-7669-43cf-ad95-b7ca37d682b4",
+      "season": 1,
+      "number": 5,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-05"
+    },
+    {
+      "id": "fd5aa818-c01a-4932-99a2-5d4f1c283a26",
+      "season": 1,
+      "number": 6,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-06"
+    },
+    {
+      "id": "e1477b77-a060-4e59-9827-c6ff180ed9bb",
+      "season": 1,
+      "number": 7,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-07"
+    },
+    {
+      "id": "dfab2bc3-5851-4d49-afb1-95d287e78767",
+      "season": 1,
+      "number": 8,
+      "name": "Ugefinalen",
+      "airdate": "2024-02-08"
+    },
+    {
+      "id": "b008e63e-3f73-4eaa-a901-5abbd24523c4",
+      "season": 1,
+      "number": 9,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-12"
+    },
+    {
+      "id": "25c45de1-a0ce-4ffb-87d3-8e122f87c9b4",
+      "season": 1,
+      "number": 10,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-13"
+    },
+    {
+      "id": "694f333c-e216-4616-a006-722353748495",
+      "season": 1,
+      "number": 11,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "3fc0d602-1b65-44b3-aa5b-e9efb78ce48e",
+      "season": 1,
+      "number": 12,
+      "name": "Ugefinale",
+      "airdate": "2024-02-15"
+    },
+    {
+      "id": "04b6b9ae-6afe-4b2d-8229-980ad17430c3",
+      "season": 1,
+      "number": 13,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-19"
+    },
+    {
+      "id": "45b042b6-d275-4f2d-baa2-912569dc7da9",
+      "season": 1,
+      "number": 14,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-20"
+    },
+    {
+      "id": "0c273650-16bc-4ae7-856e-a98a0d641140",
+      "season": 1,
+      "number": 15,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-21"
+    },
+    {
+      "id": "f5941e8e-aac8-42aa-9ced-9d49b202fdf6",
+      "season": 1,
+      "number": 16,
+      "name": "Ugefinale",
+      "airdate": "2024-02-22"
+    },
+    {
+      "id": "9f4b0b79-43fb-4a65-ac7c-537352b8efa7",
+      "season": 1,
+      "number": 17,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-26"
+    },
+    {
+      "id": "bcd4b77d-26fc-4543-8e54-f24a6b2aa5a7",
+      "season": 1,
+      "number": 18,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-27"
+    },
+    {
+      "id": "f2077281-bda3-4a6e-8e40-6c70786bcd3d",
+      "season": 1,
+      "number": 19,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-28"
+    },
+    {
+      "id": "13934e4f-de6e-4a4a-bb47-79de08b81d5a",
+      "season": 1,
+      "number": 20,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-02-29"
+    },
+    {
+      "id": "59f7fada-b331-43ac-ab9a-c69f4e3c2110",
+      "season": 1,
+      "number": 21,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-03-04"
+    },
+    {
+      "id": "c77c3129-a4a5-49da-8bc8-2840be9d59a3",
+      "season": 1,
+      "number": 22,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-03-05"
+    },
+    {
+      "id": "e7aef8b1-3f0c-4fba-926f-119b3cdcf19a",
+      "season": 1,
+      "number": 23,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-03-06"
+    },
+    {
+      "id": "4ce9c50e-7326-4ab2-9c69-570c02855002",
+      "season": 1,
+      "number": 24,
+      "name": "Ugefinale",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "f59bd62a-496a-41f3-bdee-c8e8f5974a81",
+      "season": 1,
+      "number": 25,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-03-11"
+    },
+    {
+      "id": "eae6271f-23b6-4017-a20b-f863a2731b46",
+      "season": 1,
+      "number": 26,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-03-12"
+    },
+    {
+      "id": "b0b7361a-7b54-4d99-bcc4-9955f52e3146",
+      "season": 1,
+      "number": 27,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-03-13"
+    },
+    {
+      "id": "87cff98e-d30d-403a-bea6-7eda33bc5bb5",
+      "season": 1,
+      "number": 28,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-03-14"
+    },
+    {
+      "id": "46b16b40-2f38-4a35-b625-2fa09edb97d3",
+      "season": 2,
+      "number": 1,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-02"
+    },
+    {
+      "id": "31631ed0-486b-4567-8690-1d7fe71719ff",
+      "season": 2,
+      "number": 2,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-03"
+    },
+    {
+      "id": "2d830a03-4a51-46a3-b477-7fa05942ed93",
+      "season": 2,
+      "number": 3,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-04"
+    },
+    {
+      "id": "5e7e3526-f9bd-45f7-aa44-d23f0217e280",
+      "season": 2,
+      "number": 4,
+      "name": "Ugefinalen",
+      "airdate": "2024-09-05"
+    },
+    {
+      "id": "8fa5c1d6-6178-4fdc-a300-128d35a5aa56",
+      "season": 2,
+      "number": 5,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-09"
+    },
+    {
+      "id": "2e180929-7010-437d-99e8-f86ab96d31f5",
+      "season": 2,
+      "number": 6,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-10"
+    },
+    {
+      "id": "67b325e4-072e-4452-a818-87fd4e771d06",
+      "season": 2,
+      "number": 7,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-11"
+    },
+    {
+      "id": "c7a5e2aa-441b-49a8-ac96-c70fe7129878",
+      "season": 2,
+      "number": 8,
+      "name": "Ugefinalen",
+      "airdate": "2024-09-12"
+    },
+    {
+      "id": "42c911bb-24e5-4702-97dc-63269f8560b1",
+      "season": 2,
+      "number": 9,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-16"
+    },
+    {
+      "id": "6f34b75d-4d99-4abb-addc-dec8bb845460",
+      "season": 2,
+      "number": 10,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-17"
+    },
+    {
+      "id": "03e13aee-9a08-4549-a47b-81bb4d5aa87c",
+      "season": 2,
+      "number": 11,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "f0a6d310-2bb1-434c-9bdd-aa7b774cdf87",
+      "season": 2,
+      "number": 12,
+      "name": "Ugefinale",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "12eb20e9-8b3d-4c5c-9957-300c83999ca8",
+      "season": 2,
+      "number": 13,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "62552936-c2bc-4e7d-8aeb-e992a6a3ca3f",
+      "season": 2,
+      "number": 14,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-24"
+    },
+    {
+      "id": "1bfb4eea-d8bd-402c-8aac-fe5abd068406",
+      "season": 2,
+      "number": 15,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "de3a5c2c-a000-4135-9cb8-ddaba048a5e8",
+      "season": 2,
+      "number": 16,
+      "name": "Ugefinale",
+      "airdate": "2024-09-26"
+    },
+    {
+      "id": "190c08e2-d681-483d-b161-1091f5beebe8",
+      "season": 2,
+      "number": 17,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "1fa66c9a-b88e-4740-ad70-310fe1b0839d",
+      "season": 2,
+      "number": 18,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-10-01"
+    },
+    {
+      "id": "f3a670bf-ec18-46de-886f-ddee4d56f604",
+      "season": 2,
+      "number": 19,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2024-10-02"
+    },
+    {
+      "id": "64a3fa43-075b-43e9-8cdd-4e6fb3135a5d",
+      "season": 2,
+      "number": 20,
+      "name": "Ugefinale",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "1ae957c6-e462-487a-a596-a177d2d09310",
+      "season": 3,
+      "number": 1,
+      "name": "Helt nye runder",
+      "airdate": "2025-02-03"
+    },
+    {
+      "id": "f79a587e-298c-455c-8266-843a5059ffd8",
+      "season": 3,
+      "number": 2,
+      "name": "Stjerner og stjerneskud",
+      "airdate": "2025-02-04"
+    },
+    {
+      "id": "a42d90de-d274-457b-b5a9-60abe14c1b86",
+      "season": 3,
+      "number": 3,
+      "name": "Bossanova og bavianer",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "4e39c321-7233-477c-86e5-d7331e050a6d",
+      "season": 3,
+      "number": 4,
+      "name": "Ugefinale",
+      "airdate": "2025-02-06"
+    },
+    {
+      "id": "37196971-fd36-4a88-b6e1-8d59de2639d8",
+      "season": 3,
+      "number": 5,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "f7122854-11fa-4918-87c7-36b702e12f57",
+      "season": 3,
+      "number": 6,
+      "name": "Moby Dick og andre hvaler",
+      "airdate": "2025-02-11"
+    },
+    {
+      "id": "03582492-e378-4b00-8a49-f24d427bb4f1",
+      "season": 3,
+      "number": 7,
+      "name": "Fra hattemagere til influencers",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "41d7addb-b292-4fcc-bee9-ef8728722911",
+      "season": 3,
+      "number": 8,
+      "name": "Ugefinale",
+      "airdate": "2025-02-13"
+    },
+    {
+      "id": "eb8eb3f5-2f0a-46e1-87f9-5f7b816ec1e3",
+      "season": 3,
+      "number": 9,
+      "name": "Rugbrød og rødkælk",
+      "airdate": "2025-02-17"
+    },
+    {
+      "id": "8fde776d-f480-4bce-b2d7-289794038802",
+      "season": 3,
+      "number": 10,
+      "name": "Besøg fra Randers",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "47c8acf5-9bbf-474b-82ff-aa9e0c80a23d",
+      "season": 3,
+      "number": 11,
+      "name": "Med Thorning og Timberland",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "9aa3a795-5432-4139-a185-e086038f5491",
+      "season": 3,
+      "number": 12,
+      "name": "Ugefinale",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "670ec60c-2e1e-4fa9-aabc-043b8a3aec26",
+      "season": 3,
+      "number": 13,
+      "name": "Hvem står tilbage med det bedste ord?",
+      "airdate": "2025-02-24"
+    },
+    {
+      "id": "4473e763-9b7c-4ede-bddc-ffbff83ce9f1",
+      "season": 3,
+      "number": 14,
+      "name": "Potter-heads og Britney-fans",
+      "airdate": "2025-02-25"
+    },
+    {
+      "id": "561516d9-c9de-4c44-89c5-87921225e82a",
+      "season": 3,
+      "number": 15,
+      "name": "Med TikTok og hybelkanin",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "88466832-aee1-4921-8046-36a1b82d0f1e",
+      "season": 3,
+      "number": 16,
+      "name": "Ugefinale",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "8cc42b7a-972e-4186-9d7c-a9f1ffba876c",
+      "season": 3,
+      "number": 17,
+      "name": "Sneengle og isblomster",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "18337073-8ce9-4a71-9e35-1aacfe3b6268",
+      "season": 3,
+      "number": 18,
+      "name": "Med Puma og Jaguar",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "a27726c2-9243-4b93-9ff2-358f8a8e86d1",
+      "season": 3,
+      "number": 19,
+      "name": "En lort på hovedet",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "1eadda32-b4ac-497b-8da7-5ac786510111",
+      "season": 3,
+      "number": 20,
+      "name": "Ugefinale med alt fra Hamlet til Holberg",
+      "airdate": "2025-03-06"
+    },
+    {
+      "id": "625634ac-1438-46a3-b658-0431baf77b8e",
+      "season": 4,
+      "number": 1,
+      "name": "Med surströmming og Michelin-mad",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "ba637e1f-51ca-4449-974b-a7967f090bf0",
+      "season": 4,
+      "number": 2,
+      "name": "Konger, dronninger og plattedamer",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "a0b6b80d-da04-40ef-8999-4e803e675ab4",
+      "season": 4,
+      "number": 3,
+      "name": "Helt i skoven",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "f428d4a3-d14b-40f2-843b-a73f865c9b25",
+      "season": 4,
+      "number": 4,
+      "name": "Ugefinale",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "15f485ac-31cc-4aae-bd53-8df4cd859861",
+      "season": 4,
+      "number": 5,
+      "name": "En tur på værtshus",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "43e296ae-ab66-4a72-9de2-444622495716",
+      "season": 4,
+      "number": 6,
+      "name": "Klatkager og anemonesang",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "ace55b64-4f02-42ce-8881-dedeb4b97d5f",
+      "season": 4,
+      "number": 7,
+      "name": "En dyrepasser, en snedker og en psykolog",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "24dda828-3ace-4ebd-8c09-a413d6617a62",
+      "season": 4,
+      "number": 8,
+      "name": "Ugefinale",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "49382194-2325-421a-80bb-daa22607b13b",
+      "season": 4,
+      "number": 9,
+      "name": "En gartner, en journalist og en økonom",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "ed933475-99fe-4d88-a691-88510128881c",
+      "season": 4,
+      "number": 10,
+      "name": "Med solbriller og strandløver",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "bd7330a3-764f-434c-91e9-3e56995cdfb2",
+      "season": 4,
+      "number": 11,
+      "name": "Barbie og Bollywood",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "7f86b441-dadd-4992-b150-a778c44ce257",
+      "season": 4,
+      "number": 12,
+      "name": "Ugefinale",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "0b677c42-95b9-4564-b3ed-1408d08c3a8b",
+      "season": 4,
+      "number": 13,
+      "name": "Hornfisk og håndbold",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "7d402db7-feaf-4c40-92d1-2c6333cbcc47",
+      "season": 4,
+      "number": 14,
+      "name": "Med Shinkansen og gamacher",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "10d77cfb-a942-43ce-bce2-dc3adc42407f",
+      "season": 4,
+      "number": 15,
+      "name": "Med Dolly og Rullemarie",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "9a14eb70-c65d-4aed-a5af-50a98351098d",
+      "season": 4,
+      "number": 16,
+      "name": "Ugefinale",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "461c1477-0855-44a5-8036-51f9d2f1a32c",
+      "season": 4,
+      "number": 17,
+      "name": "Kanonkonger og rytterknægte",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "cc6774ce-2dbb-4df9-8bb8-9da58d4b0890",
+      "season": 4,
+      "number": 18,
+      "name": "Hvem har det bedste ord?",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "071c3113-2f0b-4eb7-876f-05a68564b013",
+      "season": 4,
+      "number": 19,
+      "name": "Headbanging og nøgenløb",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "53f79c7f-dc56-4418-a140-db7dea875045",
+      "season": 4,
+      "number": 20,
+      "name": "Ugefinale",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "29e9d97e-0c7f-4097-bbd2-45fa08aced33",
+      "season": 5,
+      "number": 1,
+      "name": "Den store turnering skydes i gang",
+      "airdate": "2026-02-23"
+    },
+    {
+      "id": "73361c74-585f-4e3f-92ae-2c88b4aba864",
+      "season": 5,
+      "number": 2,
+      "name": "Er Padeso et ord?",
+      "airdate": "2026-02-23"
+    },
+    {
+      "id": "cda13bc2-3553-452f-97ce-de5ebdf1651a",
+      "season": 5,
+      "number": 3,
+      "name": "De gemte bogtitler",
+      "airdate": "2026-02-23"
+    },
+    {
+      "id": "cb054d55-ccc7-4512-a0ff-a3147578814e",
+      "season": 5,
+      "number": 4,
+      "name": "Hvem tager førstepladsen?",
+      "airdate": "2026-02-23"
+    },
+    {
+      "id": "cb1541c7-6917-4eec-8792-493b8c7bae7f",
+      "season": 5,
+      "number": 5,
+      "name": "Violer og hundeprutter",
+      "airdate": "2026-03-02"
+    },
+    {
+      "id": "3b2e8621-243b-44e0-9200-2dd5e02abcad",
+      "season": 5,
+      "number": 6,
+      "name": "Fra Paris til Costa del Sol",
+      "airdate": "2026-03-02"
+    },
+    {
+      "id": "43ed115b-f267-40a2-82e0-a38d801c651d",
+      "season": 5,
+      "number": 7,
+      "name": "Guld og morgenstjerner",
+      "airdate": "2026-03-02"
+    },
+    {
+      "id": "b00cf57a-ee29-4299-8b2d-60eb7e89a3bb",
+      "season": 5,
+      "number": 8,
+      "name": "Ugefinalen",
+      "airdate": "2026-03-02"
+    },
+    {
+      "id": "d14b6800-514e-4f93-bd6e-c5e1e7cea28a",
+      "season": 5,
+      "number": 9,
+      "name": "På med brillen Ibi",
+      "airdate": "2026-03-09"
+    },
+    {
+      "id": "4ca98cc3-b748-494c-ba9b-6bd651c1a5c5",
+      "season": 5,
+      "number": 10,
+      "name": "Sengehest eller elskovspony?",
+      "airdate": "2026-03-09"
+    },
+    {
+      "id": "c001b285-a87f-46e3-94c0-e61787e64223",
+      "season": 5,
+      "number": 11,
+      "name": "Stop Steen!",
+      "airdate": "2026-03-09"
+    },
+    {
+      "id": "78f7d97a-073e-41f3-a8c1-5495b52178e6",
+      "season": 5,
+      "number": 12,
+      "name": "Ugefinalen",
+      "airdate": "2026-03-09"
+    },
+    {
+      "id": "362a5fe6-7d67-4c39-ad8d-376a90827b9b",
+      "season": 5,
+      "number": 13,
+      "name": "Billy og Børge",
+      "airdate": "2026-03-16"
+    },
+    {
+      "id": "9aedbe21-6548-42bf-ab51-99feba6552a6",
+      "season": 5,
+      "number": 14,
+      "name": "To navnesøstre og en håndboldspiller",
+      "airdate": "2026-03-16"
+    },
+    {
+      "id": "86e44a90-9b59-4454-9ec6-7ebc203a07aa",
+      "season": 5,
+      "number": 15,
+      "name": "Tre komikere gik ind til en quiz",
+      "airdate": "2026-03-16"
+    },
+    {
+      "id": "b48a806c-197b-49fc-ab1b-9b34bd043ab5",
+      "season": 5,
+      "number": 16,
+      "name": "Den sidste ugefinale",
+      "airdate": "2026-03-16"
+    },
+    {
+      "id": "1d0a1ca1-6378-4589-8a4e-80a6ad5a7fdc",
+      "season": 5,
+      "number": 17,
+      "name": "Den første semifinale",
+      "airdate": "2026-03-23"
+    },
+    {
+      "id": "bd9a4cc2-ccd5-4ae5-a182-4850641ce479",
+      "season": 5,
+      "number": 18,
+      "name": "Hvem skal i finalen?",
+      "airdate": "2026-03-23"
+    },
+    {
+      "id": "41409da1-b145-402a-8f80-910fb6ae35e1",
+      "season": 5,
+      "number": 19,
+      "name": "Hvem bliver den sidste finalist?",
+      "airdate": "2026-03-23"
+    },
+    {
+      "id": "fd647d89-1bd3-4560-ac44-4d06166155e3",
+      "season": 5,
+      "number": 20,
+      "name": "Hvem vinder hele turneringen?",
+      "airdate": "2026-03-23"
+    }
+  ]
+}

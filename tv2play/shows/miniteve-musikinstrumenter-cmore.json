@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:miniteve-musikinstrumenter-cmore",
+  "name": "Miniteve: Musikinstrumenter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a63df25c-37fa-4bb6-b6d4-b61deb03ab20",
+      "season": 1,
+      "number": 1,
+      "name": "Blokfløjte",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "466fba65-d425-404a-802e-c310fc24afaa",
+      "season": 1,
+      "number": 2,
+      "name": "Cello",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "9dff7b72-f2a4-4d95-91cc-afd5368fb69a",
+      "season": 1,
+      "number": 3,
+      "name": "Harmonika",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "aa01b82c-74d1-4251-8a10-ac23c938672b",
+      "season": 1,
+      "number": 4,
+      "name": "Violin",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "50a7764d-4d7c-468c-a8e8-cfefb6528bfa",
+      "season": 1,
+      "number": 5,
+      "name": "Valdhorn",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "d8a70182-33c6-4cfc-9447-1e3f09aff81e",
+      "season": 1,
+      "number": 6,
+      "name": "Klarinet",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "2bbe3e6c-cf7c-4348-b9c9-80dcaedf0252",
+      "season": 1,
+      "number": 7,
+      "name": "Drejelire",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "075835d3-478a-4684-9dec-2de868333a4b",
+      "season": 1,
+      "number": 8,
+      "name": "Xylofon",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "82e90051-e6ba-40e2-8092-66cd2fa56dad",
+      "season": 1,
+      "number": 9,
+      "name": "Obo",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "d1ec15b8-e679-45c0-a595-f827575ad3b9",
+      "season": 1,
+      "number": 10,
+      "name": "Klaver",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "d210da88-5cf6-4a9d-ba74-bdd7b97e8442",
+      "season": 1,
+      "number": 11,
+      "name": "Saxofon",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "e0093216-a6a2-4f11-982b-2bdb576dcd10",
+      "season": 1,
+      "number": 12,
+      "name": "Trumpet",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "79a5c4af-7227-47ee-89d5-eae91c38e8f7",
+      "season": 1,
+      "number": 13,
+      "name": "Tværfløjte",
+      "airdate": "2024-03-16"
+    }
+  ]
+}

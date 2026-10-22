@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:zulu-hk-tv2play",
+  "name": "Zulu HK",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "912700fa-2c7f-4e06-8a45-f2e06658e784",
+      "season": 1,
+      "number": 1,
+      "name": "At starte fra bunden",
+      "airdate": "2019-01-11"
+    },
+    {
+      "id": "2ce7e7f1-98b1-4115-835f-9370fa01cca9",
+      "season": 1,
+      "number": 2,
+      "name": "Fra solo til hold",
+      "airdate": "2019-01-11"
+    },
+    {
+      "id": "a5ba7356-2ce8-4e16-acce-be5b19eb6eb8",
+      "season": 1,
+      "number": 3,
+      "name": "På skolebænken",
+      "airdate": "2019-01-18"
+    },
+    {
+      "id": "9ca9d841-55a1-4678-8643-78f5961d631b",
+      "season": 1,
+      "number": 4,
+      "name": "Fra egoist til holdspiller",
+      "airdate": "2019-01-25"
+    },
+    {
+      "id": "8fa32094-86e2-4393-805d-cc0a36834494",
+      "season": 1,
+      "number": 5,
+      "name": "Fra indre til ydre kamp",
+      "airdate": "2019-02-01"
+    },
+    {
+      "id": "3a3d492a-4273-4d6d-a7ea-89f65fe0a6b3",
+      "season": 1,
+      "number": 6,
+      "name": "Fra basse til bisse",
+      "airdate": "2019-02-08"
+    },
+    {
+      "id": "29183806-5b68-4487-b9e9-fa4e5ab26bb5",
+      "season": 1,
+      "number": 7,
+      "name": "Dannelsesrejsen - del 1",
+      "airdate": "2019-02-15"
+    },
+    {
+      "id": "d88fe6dd-b35a-4923-94f2-1e708da29555",
+      "season": 1,
+      "number": 8,
+      "name": "Dannelsesrejsen - del 2",
+      "airdate": "2019-02-22"
+    },
+    {
+      "id": "648a5786-44df-4e5a-94c6-6824941afbdb",
+      "season": 1,
+      "number": 9,
+      "name": "Den store finale",
+      "airdate": "2019-03-01"
+    }
+  ]
+}

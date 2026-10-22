@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:sandheden-cmore",
+  "name": "Sandheden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d3284c72-1e09-424a-ad57-83017fbe0c3f",
+      "season": 1,
+      "number": 1,
+      "name": "Benjamin",
+      "airdate": "2023-12-25"
+    },
+    {
+      "id": "11749760-0323-4db2-a4f2-229de1de1f28",
+      "season": 1,
+      "number": 2,
+      "name": "Alibiet",
+      "airdate": "2023-12-25"
+    },
+    {
+      "id": "e4179313-66ad-48c6-8fc8-2e41d13dbb75",
+      "season": 1,
+      "number": 3,
+      "name": "Vildspor",
+      "airdate": "2024-01-01"
+    },
+    {
+      "id": "5d1a03fc-9382-4f52-a2bd-d742336229fe",
+      "season": 1,
+      "number": 4,
+      "name": "Stockholm",
+      "airdate": "2024-01-07"
+    },
+    {
+      "id": "4535ac6d-49e6-4b8e-8524-bbbf44d33f58",
+      "season": 1,
+      "number": 5,
+      "name": "Indrømmelsen",
+      "airdate": "2024-01-14"
+    },
+    {
+      "id": "1bb0dcae-cc49-415d-8aa8-f0ca928c59e8",
+      "season": 1,
+      "number": 6,
+      "name": "Forsoningen",
+      "airdate": "2024-01-21"
+    },
+    {
+      "id": "3f1a549d-388f-4190-a6f5-f2c23ccd8dd7",
+      "season": 2,
+      "number": 1,
+      "name": "Jagt",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "022e6d84-c3d6-466b-872e-90698714ba47",
+      "season": 2,
+      "number": 2,
+      "name": "Tips til politiet",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "a3588497-f001-4888-b7e3-0cf173d0c516",
+      "season": 2,
+      "number": 3,
+      "name": "Mindehøjtidelighed",
+      "airdate": "2026-01-01"
+    },
+    {
+      "id": "d53b4ee3-1b54-4836-9e4a-a17d89380cae",
+      "season": 2,
+      "number": 4,
+      "name": "Svigt",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "36fa21d3-9c3b-4f73-a569-171b14ae3166",
+      "season": 2,
+      "number": 5,
+      "name": "Familiehemmeligheder",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "6322bb51-8037-4eb0-815f-9c06e0f7955b",
+      "season": 2,
+      "number": 6,
+      "name": "Tilståelser",
+      "airdate": "2026-01-22"
+    }
+  ]
+}

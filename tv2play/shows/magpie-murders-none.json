@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:magpie-murders-none",
+  "name": "Magpie Murders",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cf76ccb7-97b6-4d49-af56-3bcff648d735",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-09-02"
+    },
+    {
+      "id": "d7fe862b-cf28-45f2-aec6-2d78ee66d911",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-09-02"
+    },
+    {
+      "id": "b3d8ecea-57fd-4e75-8fd7-e8eabc63d940",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-09-02"
+    },
+    {
+      "id": "139c6a27-2473-4864-8bfe-b4567f4f4fb2",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-09-02"
+    },
+    {
+      "id": "8d10ba32-6b13-44fd-9cb8-956d615be41f",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-09-02"
+    },
+    {
+      "id": "168a66a7-a646-4cc3-9dd4-b306c3cc94cc",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-09-02"
+    }
+  ]
+}

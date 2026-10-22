@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:golden-bachelor-usa-tv2charlie",
+  "name": "Golden Bachelor USA",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9fb398e9-be04-417b-b1e5-c6247b2f33d0",
+      "season": 1,
+      "number": 1,
+      "name": "Den røde løber",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "3610c8dc-7fc5-45b1-abe7-34b39c8e67e2",
+      "season": 1,
+      "number": 2,
+      "name": "Hip hip hurra",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "110b42a8-2587-471d-af60-4ab12936f20e",
+      "season": 1,
+      "number": 3,
+      "name": "Følelser for flere",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "576cc45f-7521-444a-85ec-6012841e8ea1",
+      "season": 1,
+      "number": 4,
+      "name": "En hård tid",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "4f382d75-f4b4-4db5-9011-297bdf0963b9",
+      "season": 1,
+      "number": 5,
+      "name": "Tre roser tilbage",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "93ec3a0b-b5c9-470c-85a9-98d50f94fc08",
+      "season": 1,
+      "number": 6,
+      "name": "Familiemøde",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "525f0803-63fb-4c6c-833a-791ec2bd12bc",
+      "season": 1,
+      "number": 7,
+      "name": "Et tilbageblik",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "ff23e9ee-3f5a-4193-91a4-ac635e16b790",
+      "season": 1,
+      "number": 8,
+      "name": "De sidste dates",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "6e2d8317-675b-45db-b7fd-d6a393e1242b",
+      "season": 1,
+      "number": 9,
+      "name": "Den sidste rose",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "731c047d-251d-4c22-8dc6-8f4dcf0d4ebe",
+      "season": 1,
+      "number": 10,
+      "name": "Brylluppet",
+      "airdate": "2025-10-13"
+    }
+  ]
+}

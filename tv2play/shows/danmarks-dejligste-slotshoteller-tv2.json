@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:danmarks-dejligste-slotshoteller-tv2",
+  "name": "Danmarks dejligste slotshoteller",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1fa6e88d-81c6-4470-a24d-accba3117fe4",
+      "season": 1,
+      "number": 1,
+      "name": "Dronninglund Slot og Kragerup Gods",
+      "airdate": "2015-02-18"
+    },
+    {
+      "id": "382632cf-0554-4f33-8690-882f13d49bc7",
+      "season": 1,
+      "number": 2,
+      "name": "Broholm Slot og Juelsberg Slot",
+      "airdate": "2015-02-25"
+    },
+    {
+      "id": "37973743-87ff-427d-a40d-cfcbf2953a4a",
+      "season": 1,
+      "number": 3,
+      "name": "Holckenhavn Slot og Sophiendal Slot",
+      "airdate": "2015-03-04"
+    },
+    {
+      "id": "e8fec020-0aad-4d7b-b366-e7122a00e8eb",
+      "season": 1,
+      "number": 4,
+      "name": "Herregården Broløkke og Hvedholm Slot",
+      "airdate": "2015-03-11"
+    },
+    {
+      "id": "5fb42fae-9f0d-4555-a16a-965b9e2f670f",
+      "season": 1,
+      "number": 5,
+      "name": "Dragsholm Slot og Skjoldenæsholm",
+      "airdate": "2015-03-18"
+    },
+    {
+      "id": "0c788b60-0912-495f-92ce-6773d13fcebd",
+      "season": 1,
+      "number": 6,
+      "name": "Hindsgavl Slot og Damsbo Gods",
+      "airdate": "2015-03-25"
+    },
+    {
+      "id": "c62a55c1-3fb8-4a47-82f5-ab1f4e482764",
+      "season": 1,
+      "number": 7,
+      "name": "Næsbyholm og Liselund Ny Slot",
+      "airdate": "2015-04-16"
+    },
+    {
+      "id": "28be0710-d6a2-429c-ae84-873e2064f960",
+      "season": 1,
+      "number": 8,
+      "name": "Gram Slot og Kokkedal Slot Copenhagen",
+      "airdate": "2015-05-18"
+    }
+  ]
+}

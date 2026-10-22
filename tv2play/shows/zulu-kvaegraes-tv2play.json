@@ -1,0 +1,171 @@
+{
+  "id": "tv2play:zulu-kvaegraes-tv2play",
+  "name": "Zulu Kvægræs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8cab0559-1c45-4e96-a2ca-7eb64a93890c",
+      "season": 1,
+      "number": 1,
+      "name": "En liderlig hest",
+      "airdate": "2010-03-15"
+    },
+    {
+      "id": "3261c499-a946-49c0-8253-ff284b6fdc84",
+      "season": 1,
+      "number": 2,
+      "name": "Gittes gyngende barm",
+      "airdate": "2010-03-22"
+    },
+    {
+      "id": "a5dce261-de1b-44fd-90e3-704f9641b32e",
+      "season": 1,
+      "number": 4,
+      "name": "På hesteryg uden sadel",
+      "airdate": "2010-04-05"
+    },
+    {
+      "id": "c1548ac7-f7bc-4b5a-a1a8-3d6f47900438",
+      "season": 1,
+      "number": 5,
+      "name": "Jonas Schmidt med skyder",
+      "airdate": "2010-04-12"
+    },
+    {
+      "id": "768e3122-db52-494e-aa8d-ec6aba7a0be0",
+      "season": 1,
+      "number": 6,
+      "name": "Verbale øretæver uddeles",
+      "airdate": "2010-04-19"
+    },
+    {
+      "id": "fbcd4d42-c0ca-45c2-bcca-3dbd67117084",
+      "season": 1,
+      "number": 7,
+      "name": "Prærien bliver aldrig den samme igen",
+      "airdate": "2010-04-26"
+    },
+    {
+      "id": "5be0b95b-bc37-4b6e-8d9a-2794790c1b10",
+      "season": 1,
+      "number": 8,
+      "name": "Zulu sheriffer 2010",
+      "airdate": "2010-05-03"
+    },
+    {
+      "id": "f79935ad-b178-4741-b57b-c2e3f92f7a53",
+      "season": 2,
+      "number": 1,
+      "name": "Tilbage på prærien",
+      "airdate": "2011-02-03"
+    },
+    {
+      "id": "58f466c4-4055-4fcd-b51a-4f3c86424c6f",
+      "season": 2,
+      "number": 2,
+      "name": "Kolort i øjnene",
+      "airdate": "2011-02-10"
+    },
+    {
+      "id": "bc402def-a089-4e41-b904-0f0c14364c30",
+      "season": 2,
+      "number": 3,
+      "name": "Så skal der skydes!",
+      "airdate": "2011-02-17"
+    },
+    {
+      "id": "3c3c43d3-bc33-4785-b5ad-99d6443f5581",
+      "season": 2,
+      "number": 4,
+      "name": "Teamwork i fokus",
+      "airdate": "2011-02-24"
+    },
+    {
+      "id": "13e7959b-f445-440a-aaad-d17793683158",
+      "season": 2,
+      "number": 5,
+      "name": "Øretæver i luften",
+      "airdate": "2011-02-28"
+    },
+    {
+      "id": "f46cddca-852e-4785-846a-2bd4c53f462a",
+      "season": 2,
+      "number": 6,
+      "name": "Slangeangreb",
+      "airdate": "2011-03-07"
+    },
+    {
+      "id": "fdfa1389-28f8-47f8-a261-480061193e2f",
+      "season": 2,
+      "number": 7,
+      "name": "There's a New Host in Town!",
+      "airdate": "2011-03-14"
+    },
+    {
+      "id": "6aa9d1cd-7b54-4351-916b-ae900158d9b9",
+      "season": 2,
+      "number": 8,
+      "name": "Finalen!",
+      "airdate": "2011-03-21"
+    },
+    {
+      "id": "dab22bdf-0e82-4761-89d8-d0b51eae533d",
+      "season": 3,
+      "number": 1,
+      "name": "Nu er det for real",
+      "airdate": "2012-03-18"
+    },
+    {
+      "id": "049ce4d0-1709-4e3d-af82-01a9aa69da7e",
+      "season": 3,
+      "number": 2,
+      "name": "Nærkontakt af muh'ende grad",
+      "airdate": "2012-03-25"
+    },
+    {
+      "id": "af11d36f-8d40-464c-824b-462f7adbbf98",
+      "season": 3,
+      "number": 3,
+      "name": "Pisken svinges",
+      "airdate": "2012-04-01"
+    },
+    {
+      "id": "9d34c926-150f-451e-9628-2c0e350f657f",
+      "season": 3,
+      "number": 4,
+      "name": "Rigtige cowboys",
+      "airdate": "2012-04-08"
+    },
+    {
+      "id": "dc7c32b0-0def-423b-bff3-691312e5631f",
+      "season": 3,
+      "number": 5,
+      "name": "Lars på walkabout",
+      "airdate": "2012-04-15"
+    },
+    {
+      "id": "606c22fa-a41f-43ad-9e1f-9f41f1c91f4b",
+      "season": 3,
+      "number": 6,
+      "name": "Kampen om et poolparty",
+      "airdate": "2012-04-22"
+    },
+    {
+      "id": "67f77440-a4cb-41b6-a50a-2f22a12f8c98",
+      "season": 3,
+      "number": 7,
+      "name": "Skarpe knive på spil",
+      "airdate": "2012-04-29"
+    },
+    {
+      "id": "2df6eb90-42dc-425b-99ad-fa9dce0a44d6",
+      "season": 3,
+      "number": 8,
+      "name": "Der skydes med skarpt!",
+      "airdate": "2012-05-06"
+    }
+  ]
+}

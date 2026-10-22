@@ -1,0 +1,171 @@
+{
+  "id": "tv2play:kreaklubben-oiii",
+  "name": "Kreaklubben",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8f889063-da3a-4c91-94d5-99de96c6a25a",
+      "season": 1,
+      "number": 1,
+      "name": "Øreringe",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "0102df3f-4252-4b6c-8667-fd3664ea8af7",
+      "season": 1,
+      "number": 2,
+      "name": "Uro",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "e40cbb31-8494-4271-b557-3b04792c46a0",
+      "season": 1,
+      "number": 3,
+      "name": "Tryllestav",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "7548fbad-9e01-45bd-946d-9a0d3fecbe89",
+      "season": 1,
+      "number": 4,
+      "name": "Skål",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "b50a9f8d-38ce-4c05-988f-5566509118bd",
+      "season": 1,
+      "number": 5,
+      "name": "Mobilcover",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "98564e4c-3bd8-4505-99a5-af085aefb81e",
+      "season": 1,
+      "number": 6,
+      "name": "Linoleumstryk",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "5c28ae5e-63a5-45e1-ae8a-668443b7964e",
+      "season": 1,
+      "number": 7,
+      "name": "Hårbøjle",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "c1d1b300-e267-4f47-b09b-d25a458fd0f0",
+      "season": 1,
+      "number": 8,
+      "name": "Fødselsdagskort",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "b88e9bc0-d63d-4081-bf87-519efb222817",
+      "season": 1,
+      "number": 9,
+      "name": "Fotoalbum",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "3e435bee-d289-47fa-b680-cb4a51294ca5",
+      "season": 1,
+      "number": 10,
+      "name": "Filtcollage",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "1fb2f599-884f-401b-b176-1b7dc95dec4d",
+      "season": 1,
+      "number": 11,
+      "name": "Evighedsblomster",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "ab6529ee-279c-48b0-98c7-1d732bb42f03",
+      "season": 1,
+      "number": 12,
+      "name": "Blyantholder",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "eec9b8e3-7e1f-4ffd-8065-97ecfb4367c0",
+      "season": 1,
+      "number": 13,
+      "name": "Blomsterramme",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "9b4e8309-fd26-4c9f-9348-3bfa943f4e08",
+      "season": 2,
+      "number": 1,
+      "name": "Blomsterbuket i stearin",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "39a3b9f2-9e42-4c40-ab9d-875fa35c8901",
+      "season": 2,
+      "number": 2,
+      "name": "Fødselsdagskrone",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "842eeecf-36a0-414f-a38c-7da8b2f3895c",
+      "season": 2,
+      "number": 3,
+      "name": "Vandmand-lampe",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "a93d41b7-c661-40b7-bc5c-842ccde56b02",
+      "season": 2,
+      "number": 4,
+      "name": "Vindmølle",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "c6a126c8-aa51-4435-b05a-05c9868ec577",
+      "season": 2,
+      "number": 5,
+      "name": "Fra t-shirt til totebag",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "103f982d-941a-4f14-8648-71fbda3914c0",
+      "season": 2,
+      "number": 6,
+      "name": "Lys med hemmelig besked",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "45784d92-b0e7-4fe4-b9b7-2fc2f908826e",
+      "season": 2,
+      "number": 7,
+      "name": "Toiletrulle-drage",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "0a1ae5e9-0f35-4bf7-b5a4-d93fb44998a9",
+      "season": 2,
+      "number": 8,
+      "name": "Heksekost",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "21594ddc-b82e-435b-9332-7491bb974ee4",
+      "season": 2,
+      "number": 9,
+      "name": "Kort med blomstertryk",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "c0e88791-7560-4ec2-952c-4bc8d6e2d936",
+      "season": 2,
+      "number": 10,
+      "name": "Sy et julehjerte",
+      "airdate": "2026-03-07"
+    }
+  ]
+}

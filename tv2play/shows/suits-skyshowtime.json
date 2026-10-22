@@ -1,0 +1,906 @@
+{
+  "id": "tv2play:suits-skyshowtime",
+  "name": "Suits",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "47a3e0e1-292e-457d-aa7b-541e29a37a2c",
+      "season": 1,
+      "number": 2,
+      "name": "Pilot - del 2",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "239071b0-b2cc-41a0-890e-812d01311636",
+      "season": 1,
+      "number": 3,
+      "name": "Errors and Omissions",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "9daa0d6e-df63-473c-9623-44a2d63860f8",
+      "season": 1,
+      "number": 4,
+      "name": "Inside Track",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "e6025993-77b3-4211-87be-003e3271229a",
+      "season": 1,
+      "number": 5,
+      "name": "Dirty Little Secrets",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "f0a1059c-85e6-43d8-8931-130920ad4162",
+      "season": 1,
+      "number": 6,
+      "name": "Bail Out",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "afac7d5d-f0b3-4c78-a677-7fe2cccf25d3",
+      "season": 1,
+      "number": 7,
+      "name": "Tricks of the Trade",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "50ea84ef-de33-4fc5-8eab-cc93f645637d",
+      "season": 1,
+      "number": 8,
+      "name": "Play the Man",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "a34c0203-a24b-4b5c-8940-e5d35b93fbb1",
+      "season": 1,
+      "number": 9,
+      "name": "Identity Crisis",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "9569483d-8734-43d5-b7cc-6bed0164034c",
+      "season": 1,
+      "number": 10,
+      "name": "Undefeated",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "e7928165-58e0-4bcf-9507-1fc4dd452992",
+      "season": 1,
+      "number": 12,
+      "name": "Rules of the Game",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "3e42f1c3-3cae-4cd6-addc-558a9142902d",
+      "season": 1,
+      "number": 13,
+      "name": "Dog Fight",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "40be40da-13c5-4e79-9a93-5480c6f244d3",
+      "season": 2,
+      "number": 2,
+      "name": "The Choice",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "7932b766-1e85-4d06-894a-d904c9ac5f40",
+      "season": 2,
+      "number": 3,
+      "name": "Meet the New Boss",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "8671f1b1-2fcc-470f-9884-fd0f10448ecd",
+      "season": 2,
+      "number": 4,
+      "name": "Discovery",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "bb40f879-f1ec-4319-bd37-0b164481fc3a",
+      "season": 2,
+      "number": 5,
+      "name": "Break Point",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "ddb9de2a-ba5e-4d0a-bfc4-5b88d7f41c94",
+      "season": 2,
+      "number": 6,
+      "name": "All In",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "c52a14af-0066-42ab-86e6-36b9eb52a777",
+      "season": 2,
+      "number": 7,
+      "name": "Sucker Punch",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "b85dcf76-9817-43ca-85b7-17f3c85f1c0a",
+      "season": 2,
+      "number": 8,
+      "name": "Rewind",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "802f908c-e67c-41c2-b81c-a1c7819b5c70",
+      "season": 2,
+      "number": 9,
+      "name": "Asterisk",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "fec3b3f7-0b5f-4afd-92fa-c33bc2066d81",
+      "season": 2,
+      "number": 10,
+      "name": "High Noon",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "31699db0-0469-44cd-8326-597824ef6bca",
+      "season": 2,
+      "number": 11,
+      "name": "Blind-Sided",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "e72ffabe-75ba-42db-aaac-1db6db07704c",
+      "season": 2,
+      "number": 12,
+      "name": "Blood in the Water",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "f47dd865-24b0-47e2-b6b7-ab72b060129e",
+      "season": 2,
+      "number": 13,
+      "name": "Zane vs. Zane",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "26185739-63d3-4c95-8dc4-01c1cc3e2c76",
+      "season": 2,
+      "number": 14,
+      "name": "He's Back",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "f477ce53-15e5-4fb9-b184-c3f86e141377",
+      "season": 2,
+      "number": 16,
+      "name": "War",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "3b817532-1ed0-4ceb-963d-a1708946ad15",
+      "season": 3,
+      "number": 1,
+      "name": "The Arrangement",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "82664c53-59cb-4a24-82b6-3cc86a95e966",
+      "season": 3,
+      "number": 2,
+      "name": "I Want You to Want Me",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "87eaa658-80f0-435a-add0-c628312bafee",
+      "season": 3,
+      "number": 3,
+      "name": "Unfinished Business",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "c8f7f5d4-e3ed-46db-ab1b-03394b51b8e9",
+      "season": 3,
+      "number": 4,
+      "name": "Conflict of Interest",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "2340df60-9f29-4ac2-ac9f-f7b7814b041a",
+      "season": 3,
+      "number": 5,
+      "name": "Shadow of a Doubt",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "e862ba3f-7f66-4cf0-aa84-bdcba369bb04",
+      "season": 3,
+      "number": 6,
+      "name": "The Other Time",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "b96f92cf-5cad-4c0b-b1ce-b8ced9f5a130",
+      "season": 3,
+      "number": 8,
+      "name": "Endgame",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "4daa12c9-0327-4d52-addd-59ba508e89e3",
+      "season": 3,
+      "number": 9,
+      "name": "Bad Faith",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "5fa2fd6e-97cf-4b34-ad99-f302ca15ee62",
+      "season": 3,
+      "number": 10,
+      "name": "Stay",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "068b431e-039d-471f-b9a6-0bd66aad6560",
+      "season": 3,
+      "number": 12,
+      "name": "Yesterday's Gone",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "1e20d6cd-fff6-4a5d-b5d7-8fcf12c63214",
+      "season": 3,
+      "number": 13,
+      "name": "Moot Point",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "7f0e9e9b-f2cc-47a0-9d56-299ab103ddb1",
+      "season": 3,
+      "number": 14,
+      "name": "Heartburn",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "5b5448b6-e96c-4fd2-82bc-b9d7185f9956",
+      "season": 3,
+      "number": 15,
+      "name": "Know When to Fold 'Em",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "40a65017-69d5-463f-aa73-08540ba21817",
+      "season": 3,
+      "number": 16,
+      "name": "No Way Out",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "cc069a78-aef0-425f-92aa-aef765471c87",
+      "season": 4,
+      "number": 1,
+      "name": "One-Two-Three Go...",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "993ae442-a122-4671-9dfe-a5ad57eb10db",
+      "season": 4,
+      "number": 2,
+      "name": "Breakfast, Lunch and Dinner",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "16029731-6c7b-4755-aa97-59c491f9604c",
+      "season": 4,
+      "number": 3,
+      "name": "Two in the Knees",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "b6df34fa-1d70-4d18-9d1e-fcb218eba4dc",
+      "season": 4,
+      "number": 4,
+      "name": "Leveraged",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "0a636e3f-1fe1-4744-a4fa-3b9d80d5a50a",
+      "season": 4,
+      "number": 5,
+      "name": "Pound of Flesh",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "3d2fb8d3-e5e0-453f-b777-4b04deaf8ef3",
+      "season": 4,
+      "number": 6,
+      "name": "Litt the Hell Up",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "bffd86bf-b746-4062-b52e-df8bcdbb5b0c",
+      "season": 4,
+      "number": 7,
+      "name": "We're Done",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "54e71e4c-6462-4925-8d41-1df12c8ce62b",
+      "season": 4,
+      "number": 8,
+      "name": "Exposure",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "05acd9c4-5e19-4ee4-ba6e-6efe2d9e675e",
+      "season": 4,
+      "number": 9,
+      "name": "Gone",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "0756c159-9b3b-4452-be9f-e003abcec502",
+      "season": 4,
+      "number": 10,
+      "name": "This Is Rome",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "4b600e01-4969-4cf2-837e-ad996e536d93",
+      "season": 4,
+      "number": 11,
+      "name": "Enough Is Enough",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "cc051918-ce73-427c-a7da-99253de30784",
+      "season": 4,
+      "number": 12,
+      "name": "Respect",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "8bf54f3e-d88a-443e-be98-4af1d66a5e32",
+      "season": 4,
+      "number": 13,
+      "name": "Fork in the Road",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "6299af30-b644-44b4-b055-50640feb3116",
+      "season": 4,
+      "number": 14,
+      "name": "Derailed",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "72bff904-8194-4767-8e88-885bb7897e0d",
+      "season": 4,
+      "number": 15,
+      "name": "Intent",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "18c36171-1b93-4b67-ac0b-7a8f44e774a8",
+      "season": 5,
+      "number": 1,
+      "name": "Denial",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "34890f10-099d-45ad-b34b-e0f4504d9929",
+      "season": 5,
+      "number": 2,
+      "name": "Compensation",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "d41217df-978b-4142-845e-2ff70f9aa851",
+      "season": 5,
+      "number": 3,
+      "name": "No Refills",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "15176222-2a64-4bc3-88d5-e95cf2f9c23a",
+      "season": 5,
+      "number": 4,
+      "name": "No Puedo Hacerlo",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "507c10ee-afb0-48b8-b625-43c9582af1b2",
+      "season": 5,
+      "number": 5,
+      "name": "Toe to Toe",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "570d87bd-f29b-437f-9c11-9e2cc782b41e",
+      "season": 5,
+      "number": 6,
+      "name": "Privilege",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "0aa81185-cb84-4bfa-aa0d-5f2bd0b4c559",
+      "season": 5,
+      "number": 7,
+      "name": "Hitting Home",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "e78d2ed1-b06e-48f6-bf8f-3cfc73db508d",
+      "season": 5,
+      "number": 8,
+      "name": "Mea Culpa",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "062de343-bab7-43ec-b94c-9c809f3e38e1",
+      "season": 5,
+      "number": 9,
+      "name": "Uninvited Guests",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "991ad9d8-8f87-44dd-8401-1b84161bccee",
+      "season": 5,
+      "number": 10,
+      "name": "Faith",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "6c45ded4-24ea-4559-8b80-451b09b5d989",
+      "season": 5,
+      "number": 11,
+      "name": "Blowback",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "4add68c7-4350-426d-a5c6-dcf209454286",
+      "season": 5,
+      "number": 12,
+      "name": "Live to Fight...",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "d62fbaa6-e956-4cfd-94a6-78b983e8c948",
+      "season": 5,
+      "number": 13,
+      "name": "God's Green Earth",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "c2bbb616-f87d-41ba-89bb-ba65b45f94e3",
+      "season": 5,
+      "number": 14,
+      "name": "Self Defense",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "eb3a8eff-ab03-4fc9-91c9-b555a2f2dff6",
+      "season": 5,
+      "number": 15,
+      "name": "Tick Tock",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "99e9dde5-3121-43be-9df1-93b609ff7325",
+      "season": 5,
+      "number": 16,
+      "name": "25th Hour",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "e0132f6a-c0df-4cc1-b18f-ee17fce2a94e",
+      "season": 6,
+      "number": 1,
+      "name": "To Trouble",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "6052bd7b-b64c-4b11-b4f6-5861dccefb82",
+      "season": 6,
+      "number": 2,
+      "name": "Accounts Payable",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "f70df8cb-d0a7-4100-b451-6b483aaa9ef8",
+      "season": 6,
+      "number": 3,
+      "name": "Back on the Map",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "309847be-b990-4a6e-a2a0-39fc2ee66e22",
+      "season": 6,
+      "number": 4,
+      "name": "Turn",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "c32a762b-2d84-4b89-8be0-3eefb007ab94",
+      "season": 6,
+      "number": 5,
+      "name": "Trust",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "f73081ed-1c05-487d-8b2c-b2f445a4fccb",
+      "season": 6,
+      "number": 6,
+      "name": "Spain",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "83b8b5c3-347d-4b1c-95b8-a0a366a97bb0",
+      "season": 6,
+      "number": 7,
+      "name": "Shake the Trees",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "c87ed3ff-1521-40e3-b9b4-4a8a2bad605a",
+      "season": 6,
+      "number": 8,
+      "name": "Borrowed Time",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "5cbe86aa-b261-4187-b8d7-13b46a24b14b",
+      "season": 6,
+      "number": 9,
+      "name": "The Hand That Feeds You",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "ad74a26f-1ad6-44da-8d3b-3df7519c47f9",
+      "season": 6,
+      "number": 10,
+      "name": "P.S.L.",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "43afb28c-2a3a-46fd-ac6a-63d2633c2298",
+      "season": 6,
+      "number": 11,
+      "name": "She's Gone",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "ff62c603-2ea0-4ac5-8f82-39ad49052030",
+      "season": 6,
+      "number": 12,
+      "name": "The Painting",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "cbc5c14f-e9bf-4675-adf0-6f455d7cc510",
+      "season": 6,
+      "number": 13,
+      "name": "Teeth, Nose, Teeth",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "5f7f93db-54ee-4615-be33-a639bf138bbd",
+      "season": 6,
+      "number": 14,
+      "name": "Admission of Guilt",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "5924e22b-d0b8-47d8-9f32-2f0ebe10eaa2",
+      "season": 6,
+      "number": 15,
+      "name": "Quid Pro Quo",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "69ab6719-865c-43ca-8bbe-c68d82c91162",
+      "season": 6,
+      "number": 16,
+      "name": "Character and Fitness",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "d9611481-20b9-43a2-805a-8f79172a295c",
+      "season": 7,
+      "number": 1,
+      "name": "Skin in the Game",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "993b3739-5716-48ee-aaaa-dd89a3e47f56",
+      "season": 7,
+      "number": 2,
+      "name": "The Statue",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "5d577473-58ca-4d8d-ac49-127aee70a96a",
+      "season": 7,
+      "number": 3,
+      "name": "Mudmare",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "7d379a0d-ee58-449e-9aac-b1b012d4d483",
+      "season": 7,
+      "number": 4,
+      "name": "Divide and Conquer",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "5ff92f75-d531-4343-90a7-227bcedacbc0",
+      "season": 7,
+      "number": 5,
+      "name": "Brooklyn Housing",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "409caa67-e698-4002-ac00-774cbd08b6fb",
+      "season": 7,
+      "number": 6,
+      "name": "Home to Roost",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "0ee09c48-45b9-4e4f-a437-5334f837626d",
+      "season": 7,
+      "number": 7,
+      "name": "Full Disclosure",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "ea14514a-f08b-4cf5-a6de-4e821b2984f9",
+      "season": 7,
+      "number": 8,
+      "name": "100",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "ae676dd3-2bcd-404c-bc89-eb38b13ad679",
+      "season": 7,
+      "number": 9,
+      "name": "Shame",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "68ff9ba1-a121-462e-952a-55c81f1cbb74",
+      "season": 7,
+      "number": 10,
+      "name": "Donna",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "27597cac-0a0c-4828-8b04-1b48269b1071",
+      "season": 7,
+      "number": 11,
+      "name": "Hard Truths",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "4e9cf5db-05f1-495a-9df0-6fb654b206a6",
+      "season": 7,
+      "number": 12,
+      "name": "Bad Man",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "044d23ca-ff54-41e9-828e-ec68458e6557",
+      "season": 7,
+      "number": 13,
+      "name": "Inevitable",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "502520b6-b996-4e44-8e48-43e560469958",
+      "season": 7,
+      "number": 14,
+      "name": "Pulling the Goalie",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "01a7afe0-e1e6-4ad9-b5cf-fdd55f186b6e",
+      "season": 7,
+      "number": 15,
+      "name": "Tiny Violin",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "7aef044c-a51e-44d9-aa35-1e105b3535aa",
+      "season": 7,
+      "number": 16,
+      "name": "Good-Bye",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "0f516ed6-f723-41f5-a4f6-00cd4a485b19",
+      "season": 8,
+      "number": 1,
+      "name": "Right-Hand Man",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "90f93211-6d53-4109-bb57-6dc751020c3d",
+      "season": 8,
+      "number": 2,
+      "name": "Pecking Order",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "de6f760a-e32b-44df-afc9-99a3f9348b57",
+      "season": 8,
+      "number": 3,
+      "name": "Promises, Promises",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "97974346-9d5d-4e7f-8881-9739c5d8afcc",
+      "season": 8,
+      "number": 4,
+      "name": "Revenue Per Square Foot",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "0afdee81-9b85-4e15-a3d0-6da4089e0f6f",
+      "season": 8,
+      "number": 5,
+      "name": "Good Mudding",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "3cdf6acc-e365-4ef9-9ec1-c5d938154ddd",
+      "season": 8,
+      "number": 6,
+      "name": "Cats, Ballet, Harvey Specter",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "87ebbc70-6fee-42d1-bd8f-5afc2544e42b",
+      "season": 8,
+      "number": 7,
+      "name": "Sour Grapes",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "37b4bb59-7e50-46e1-bc47-119d7e24adca",
+      "season": 8,
+      "number": 8,
+      "name": "Coral Gables",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "0d52a557-592c-4d1d-94fb-280fe7358022",
+      "season": 8,
+      "number": 9,
+      "name": "Motion to Delay",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "a08b50db-7989-4d63-8a42-68f0cc81a4d1",
+      "season": 8,
+      "number": 10,
+      "name": "Managing Partner",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "47ad2550-01eb-48bb-81d4-9a2e6682aafa",
+      "season": 8,
+      "number": 11,
+      "name": "Rocky 8",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "3d9aca56-2051-4f81-b330-96fb1a0c5f48",
+      "season": 8,
+      "number": 12,
+      "name": "Whale Hunt",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "d7b05270-8a86-487f-b812-bb67b99c51c5",
+      "season": 8,
+      "number": 13,
+      "name": "The Greater Good",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "b1e2d1ec-6f83-4b31-a443-645b7ab3ca1d",
+      "season": 8,
+      "number": 14,
+      "name": "Peas in a Pod",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "64f88c9b-1bea-41f2-90fb-5836a42056c3",
+      "season": 8,
+      "number": 15,
+      "name": "Stalking Horse",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "e74df1c8-d05d-4b05-90a5-b72638aa78d9",
+      "season": 8,
+      "number": 16,
+      "name": "Harvey",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "9e80142d-a4bd-4487-8e95-958c95b432d7",
+      "season": 9,
+      "number": 1,
+      "name": "Everything's Changed",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "23ae5859-ddbe-40a7-a232-aa6f57e3ee05",
+      "season": 9,
+      "number": 2,
+      "name": "Special Master",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "62e2260e-daca-40a1-8286-93001ad574ea",
+      "season": 9,
+      "number": 3,
+      "name": "Windmills",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "4358cd3a-e12c-42fb-8acc-a4d79b47b600",
+      "season": 9,
+      "number": 4,
+      "name": "Cairo",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "5b30a91b-fde4-4040-aae7-fdb3906132ab",
+      "season": 9,
+      "number": 5,
+      "name": "If the Shoe Fits",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "424e0091-e28b-4334-9f8c-4f1a0d8f0690",
+      "season": 9,
+      "number": 6,
+      "name": "Whatever It Takes",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "52d06f27-b656-4666-a6e6-33fc21b01294",
+      "season": 9,
+      "number": 7,
+      "name": "Scenic Route",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "3a416783-1a87-4b37-9db0-06786f66474e",
+      "season": 9,
+      "number": 8,
+      "name": "Prisoner's Dilemma",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "8bc3d34b-74b0-476a-a2a8-85895d89ee11",
+      "season": 9,
+      "number": 9,
+      "name": "Thunder Away",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "e1f53f2c-d850-4b06-9344-cae48c7dc004",
+      "season": 9,
+      "number": 10,
+      "name": "One Last Con",
+      "airdate": "2025-07-17"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:verden-som-laereplads-tv2play",
+  "name": "Verden som læreplads",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e8a24e34-bcda-4dcb-aca6-8df514f1d8dc",
+      "season": 1,
+      "number": 1,
+      "name": "Ta´ tyren ved hornene",
+      "airdate": "2026-03-27"
+    },
+    {
+      "id": "e660afae-6643-4ecc-a82c-489881ca7eef",
+      "season": 1,
+      "number": 2,
+      "name": "Ekstrem kultur",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "35f92ddf-11ff-48b4-bb1a-931e6873c6e1",
+      "season": 1,
+      "number": 3,
+      "name": "Afrikansk tid",
+      "airdate": "2026-04-10"
+    },
+    {
+      "id": "d0c1a52a-235d-4e07-a981-81994cf49e5f",
+      "season": 1,
+      "number": 4,
+      "name": "En oplevelse for livet",
+      "airdate": "2026-04-17"
+    }
+  ]
+}

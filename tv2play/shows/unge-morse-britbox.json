@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:unge-morse-britbox",
+  "name": "Unge Morse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ba5a6fb8-ef1c-455f-9890-3e7cc4652299",
+      "season": 8,
+      "number": 1,
+      "name": "Striker",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e460f64b-f63f-4d79-b8e2-24c28c570149",
+      "season": 8,
+      "number": 2,
+      "name": "Scherzo",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7513e4a0-b962-4da7-9685-7201bbf6e3d9",
+      "season": 8,
+      "number": 3,
+      "name": "Terminus",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

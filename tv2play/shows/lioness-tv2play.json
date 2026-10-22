@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:lioness-tv2play",
+  "name": "Lioness",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e0a74586-dc20-42d6-a48a-a8438fc22c89",
+      "season": 3,
+      "number": 8,
+      "name": "The Unravelling",
+      "airdate": "2026-09-21"
+    }
+  ]
+}

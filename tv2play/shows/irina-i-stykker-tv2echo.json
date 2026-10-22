@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:irina-i-stykker-tv2echo",
+  "name": "Irina i stykker",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6f163117-f35a-4d77-a0b8-c96489efb9d1",
+      "season": 1,
+      "number": 1,
+      "name": "Hvordan er jeg endt her?",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "98f4b43a-3166-43c1-a362-9ea31290c18e",
+      "season": 1,
+      "number": 2,
+      "name": "Et mærkeligt spil, som jeg ikke kan vinde",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "318d603e-7c19-4787-a2f6-cce5f8710760",
+      "season": 1,
+      "number": 3,
+      "name": "Jeg sagde måske lidt for meget",
+      "airdate": "2026-03-19"
+    },
+    {
+      "id": "9fe21d38-62ea-4ce4-b195-5e12fe5a32b6",
+      "season": 1,
+      "number": 4,
+      "name": "Jeg giver slip",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "34f739f2-c163-4d96-b010-9141dfd6fa20",
+      "season": 1,
+      "number": 5,
+      "name": "Jeg elsker ham",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "a26dfe33-cbf1-4ba5-8e9f-0245a058f3ac",
+      "season": 1,
+      "number": 6,
+      "name": "I'm back",
+      "airdate": "2026-04-09"
+    }
+  ]
+}

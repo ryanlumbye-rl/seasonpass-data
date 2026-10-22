@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:mashas-uhyggelige-eventyr-oiii",
+  "name": "Mashas uhyggelige eventyr",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e9ce76f1-aeff-433b-8f77-e5eda5ae4e7f",
+      "season": 1,
+      "number": 1,
+      "name": "Den Skrækkelige Fortælling Om Den Grumme Skov Og Det Lille Mørkerædde Insekt",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "5b9aa556-1ff9-4cac-8449-7a51a9a06396",
+      "season": 1,
+      "number": 2,
+      "name": "Mega Uhyggelig Historie Om En Lille Dreng Som Var Bange For At Vaske Sig",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "fddb7688-7390-4a73-95e8-ee0bc7d0fd23",
+      "season": 1,
+      "number": 3,
+      "name": "En Sandfærdig Og Grum Historie Om Uhyrer Og Dem Som Frygter Dem",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "d9dc8d16-6be8-4cc1-b3f1-0cd5d2af6da8",
+      "season": 1,
+      "number": 4,
+      "name": "Den Fæle Fabel Om Kattekillingen Som Blev Væk Men Blev Fundet Igen",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "4ca24dd7-ce70-4042-9282-ee0a6dab9992",
+      "season": 1,
+      "number": 5,
+      "name": "Lad Os Digte Julen Ind",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "4600d389-cbed-4b32-9e49-82b87b7abee0",
+      "season": 1,
+      "number": 6,
+      "name": "Den Uhyggelige Lignelse Om Den Overtroiske Pige",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "5fd4cd77-14d9-431f-ada1-ecfe875109ba",
+      "season": 1,
+      "number": 7,
+      "name": "Bestyrtende Beretning Om En Snottet Snothvalp",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "7f2d8ff9-1515-4706-9761-9bb10db73e37",
+      "season": 1,
+      "number": 8,
+      "name": "Et Uhyggeligt Eventyr Om En Pige Der Var Bange For Dyr",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "22a4a6b9-9d7d-4348-9784-9f9c5226853a",
+      "season": 1,
+      "number": 9,
+      "name": "En Skrækindjagende Historie Om En Bedstemor Og Hendes Barnebarn",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "76d915b7-00f5-40a5-9820-87c6d7099425",
+      "season": 1,
+      "number": 10,
+      "name": "En Beretning Fuld Af Sorg Og Fortvivlelse Om En Historisk Fejltagelse",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "a6ce8d26-4667-46b2-be37-6b734e16a451",
+      "season": 1,
+      "number": 11,
+      "name": "En Panisk Ubærlig Fortælling Om Insekter",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "49619bfc-fc8d-4f90-b46e-b5b1bfc02d6b",
+      "season": 1,
+      "number": 12,
+      "name": "Den Alvorlige Historie Om Baba-yaga",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "dc7b4366-37d2-4288-b455-aa8e7933e5fe",
+      "season": 1,
+      "number": 13,
+      "name": "En Frygtelig Fortælling Og En Syg Mavse Og En Pige Der Var Bange For Læger",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "31807137-db61-412f-ac72-6a437b96fc61",
+      "season": 1,
+      "number": 14,
+      "name": "Den Fantastisk Fabel Om Et Pindsvin, En Dreng Og Grønne Rumvæsner",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "d2d35dab-e2cf-40ef-87a0-34e494dbe4fd",
+      "season": 1,
+      "number": 15,
+      "name": "Den Skræmmende Sandfærdige Historie Om En Dreng Der Blev Overført Til En Anden Skole",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "ec7bb76d-3b13-441c-b03f-de5810175567",
+      "season": 1,
+      "number": 16,
+      "name": "En Frygtelig Fabel Om En Kodriver Og En Bortløben Hund",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "a8a5be06-4a20-4c16-a0c2-4b67ea92e036",
+      "season": 1,
+      "number": 17,
+      "name": "En Chokerende Spøgelsescykelsaga",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "2539f71b-876b-4859-a3c9-065f89521afc",
+      "season": 1,
+      "number": 18,
+      "name": "En Uhyggelig Historie Om Uhyggelige Historier",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "c8753313-f553-4dcc-9840-5f871e3aac32",
+      "season": 1,
+      "number": 19,
+      "name": "En Uhyggelig Historie Om Nyttige Opfindelser",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "879cb7d1-c0d6-44cd-b8f0-30f726a8ae1b",
+      "season": 1,
+      "number": 20,
+      "name": "En Skummel Historie Om Dystre Drømme",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "47d885b2-d762-4bd0-961a-7b4dcd26e6bf",
+      "season": 1,
+      "number": 21,
+      "name": "En Alarmerende Legende Om Lyn Og Torden",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "1c284ae1-f4a5-4bc7-9704-c91fb272dd64",
+      "season": 1,
+      "number": 22,
+      "name": "Drengen Der Var Bange For At Være Lille",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "8aefd1f4-822b-440c-9a54-10984ad85a47",
+      "season": 1,
+      "number": 23,
+      "name": "En Gruopvækkende Fortælling Om En Glædelig Begivenhed",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "e788ec1c-fe1b-40dd-b272-85aa24ed0b4b",
+      "season": 1,
+      "number": 24,
+      "name": "En Tårnhøj Fabel Om Fabelagtige Højder",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "a497d480-80c8-4797-9882-45cd72dbadf0",
+      "season": 1,
+      "number": 25,
+      "name": "En Meget Bange Klovn",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "62a3bf94-986e-4eb3-8490-26ac63c6a586",
+      "season": 1,
+      "number": 26,
+      "name": "Pigen Der Var Bange For Alt",
+      "airdate": "2021-10-09"
+    }
+  ]
+}

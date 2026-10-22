@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:droemmehotellet-paa-den-lille-oe-tv2fri",
+  "name": "Drømmehotellet på den lille ø",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "36cea353-0e18-40a5-b91f-4d51467e521a",
+      "season": 1,
+      "number": 1,
+      "name": "Vores nye hjem",
+      "airdate": "2026-05-02"
+    },
+    {
+      "id": "f451c330-f240-4647-85e4-8407d80abf68",
+      "season": 1,
+      "number": 2,
+      "name": "Et vanvittigt projekt",
+      "airdate": "2026-05-09"
+    },
+    {
+      "id": "a660797c-4cd7-4d86-b824-4bdd5a633c01",
+      "season": 1,
+      "number": 3,
+      "name": "Når drømme bliver dyre",
+      "airdate": "2026-05-16"
+    },
+    {
+      "id": "09537aab-7960-457b-93dd-ac6c633f8275",
+      "season": 1,
+      "number": 4,
+      "name": "Moder Natur bestemmer",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "ca154f90-11b1-40ab-80bf-3bf835650418",
+      "season": 1,
+      "number": 5,
+      "name": "Skotsk folklore flytter ind",
+      "airdate": "2026-05-30"
+    },
+    {
+      "id": "9164c922-91b4-47f3-8989-ac79c127905a",
+      "season": 1,
+      "number": 6,
+      "name": "Vinteren er på vej",
+      "airdate": "2026-06-06"
+    }
+  ]
+}

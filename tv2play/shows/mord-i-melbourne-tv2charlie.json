@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:mord-i-melbourne-tv2charlie",
+  "name": "Mord i Melbourne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "30711571-c24e-4bfb-8b14-2d4179358901",
+      "season": 1,
+      "number": 1,
+      "name": "The Boyfriend Experience",
+      "airdate": "2021-02-02"
+    },
+    {
+      "id": "284e539e-51d6-40f5-ba1f-68bcb15cb0b0",
+      "season": 1,
+      "number": 2,
+      "name": "The Locked Room",
+      "airdate": "2021-02-02"
+    },
+    {
+      "id": "b721aaa4-6825-4c5a-b5b4-bbcd7f353151",
+      "season": 1,
+      "number": 3,
+      "name": "Lividity in Lycra",
+      "airdate": "2021-02-16"
+    },
+    {
+      "id": "fe48686d-0834-472e-8aaf-6108051bee3d",
+      "season": 1,
+      "number": 4,
+      "name": "Can't Stand the Heat",
+      "airdate": "2021-02-16"
+    },
+    {
+      "id": "8a40a355-70d7-4a34-9010-45e6117c1446",
+      "season": 1,
+      "number": 5,
+      "name": "Feet of Clay",
+      "airdate": "2021-02-23"
+    },
+    {
+      "id": "0eb9bb30-e132-4198-bf76-c95af7dd4f38",
+      "season": 1,
+      "number": 6,
+      "name": "Another Bloody Podcast",
+      "airdate": "2021-03-02"
+    },
+    {
+      "id": "2f92bf82-5d7d-4ba9-8238-866bd874e806",
+      "season": 1,
+      "number": 7,
+      "name": "Old School",
+      "airdate": "2021-03-09"
+    },
+    {
+      "id": "e314a115-e543-4e1f-89e5-284966bbe1d5",
+      "season": 1,
+      "number": 8,
+      "name": "Remains to Be Seen",
+      "airdate": "2021-03-16"
+    },
+    {
+      "id": "e03ec431-43a0-4550-81b0-8937c64d0edf",
+      "season": 1,
+      "number": 9,
+      "name": "Fake Empire",
+      "airdate": "2021-03-23"
+    },
+    {
+      "id": "c344be60-b859-4636-bf3a-46883b366635",
+      "season": 1,
+      "number": 10,
+      "name": "Mirror Mirror",
+      "airdate": "2021-03-30"
+    }
+  ]
+}

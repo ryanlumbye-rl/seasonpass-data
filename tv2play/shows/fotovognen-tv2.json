@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:fotovognen-tv2",
+  "name": "Fotovognen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "56ecde37-0561-4504-bcc5-7384f2274a8a",
+      "season": 1,
+      "number": 1,
+      "name": "To tyskere",
+      "airdate": "2021-05-04"
+    },
+    {
+      "id": "ab03ebe9-b2b9-4534-acb3-8fc2d84f3abb",
+      "season": 1,
+      "number": 2,
+      "name": "En næsten nøgen mand",
+      "airdate": "2021-05-04"
+    },
+    {
+      "id": "28dc8a1d-b964-4877-ab5f-0a9b6fff8494",
+      "season": 1,
+      "number": 3,
+      "name": "Både til mænd og kvinder",
+      "airdate": "2021-05-11"
+    },
+    {
+      "id": "a94d1cea-a23a-4713-9ef8-0b56ee6a7d86",
+      "season": 1,
+      "number": 4,
+      "name": "Kun én forretning",
+      "airdate": "2021-05-18"
+    },
+    {
+      "id": "39150e6c-7468-4c02-b497-ab90e34dd8c8",
+      "season": 2,
+      "number": 1,
+      "name": "Vibeke bliver bagt på",
+      "airdate": "2023-08-30"
+    },
+    {
+      "id": "64505878-587f-4517-9fb3-e9b9e727bc5d",
+      "season": 2,
+      "number": 2,
+      "name": "Kaffe i modvind",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "630d8a2a-fc39-4f6b-9bc7-7eee3fea5af1",
+      "season": 2,
+      "number": 3,
+      "name": "Det der med piger",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "f24f0b0b-c0ac-4681-b5b0-59857f33df13",
+      "season": 2,
+      "number": 4,
+      "name": "Mor med mange kærester",
+      "airdate": "2023-09-20"
+    }
+  ]
+}

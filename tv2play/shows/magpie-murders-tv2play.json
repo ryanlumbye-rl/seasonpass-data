@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:magpie-murders-tv2play",
+  "name": "Magpie Murders",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "eb300436-25cd-4ac8-940f-08ae3eea5109",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "6eb0eda4-bbd5-45d9-8d4d-7cb69c02e707",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "0186b41c-337c-48ad-9e35-f3fbb219c923",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "c78568ed-cdb6-4bb8-a2b5-d82193b691e3",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "2663380b-9f0d-4977-8a1a-92eba5d5a82e",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "c6da4126-f3c4-4e2e-88fb-2f6267583853",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-10-07"
+    }
+  ]
+}

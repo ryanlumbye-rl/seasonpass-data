@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:fordi-vi-har-lyst-tv2echo",
+  "name": "Fordi vi har lyst",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "47732eb8-bedb-4407-9522-65ed9964d844",
+      "season": 1,
+      "number": 2,
+      "name": "Kald mig, hvad du vil!",
+      "airdate": "2020-09-16"
+    },
+    {
+      "id": "48cbef99-e355-4bbb-acd8-09bffd43d598",
+      "season": 1,
+      "number": 3,
+      "name": "Er jeg jaloux?",
+      "airdate": "2020-09-23"
+    },
+    {
+      "id": "66934c47-6fd1-462a-ad4b-912cfe1aa404",
+      "season": 1,
+      "number": 4,
+      "name": "Fri os fra skam",
+      "airdate": "2020-09-30"
+    }
+  ]
+}

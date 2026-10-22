@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:star-trek-enterprise-tv2play",
+  "name": "Star Trek: Enterprise",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "81ebe0d3-4ac2-4dbf-bf4a-8eb336cf0b46",
+      "season": 2,
+      "number": 8,
+      "name": "The Communicator",
+      "airdate": "2023-09-22"
+    }
+  ]
+}

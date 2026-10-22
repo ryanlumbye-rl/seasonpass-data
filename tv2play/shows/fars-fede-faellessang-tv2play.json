@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:fars-fede-faellessang-tv2play",
+  "name": "Fars fede fællessang",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "09ba4bc7-3595-4ea0-b04e-3c907eed3397",
+      "season": 1,
+      "number": 1,
+      "name": "Vred med ADHD",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "5e90703a-341e-42d0-9657-f4736c43b2f6",
+      "season": 1,
+      "number": 2,
+      "name": "Ikke forkert, bare anderledes",
+      "airdate": "2026-09-19"
+    }
+  ]
+}

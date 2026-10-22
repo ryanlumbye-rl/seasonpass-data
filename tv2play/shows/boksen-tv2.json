@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:boksen-tv2",
+  "name": "Boksen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4ca7aa88-316f-47d7-a3c6-cea68be90033",
+      "season": 1,
+      "number": 1,
+      "name": "Ud af boksen",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "e5037e20-72a0-4692-aba6-848357dd70ce",
+      "season": 1,
+      "number": 2,
+      "name": "Knæk og bræk",
+      "airdate": "2025-08-08"
+    },
+    {
+      "id": "a9003160-dd5d-42a6-991c-22abab8cca6a",
+      "season": 1,
+      "number": 3,
+      "name": "Højt at flyve, dybt at falde",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "2e61bd3f-6728-40f8-803c-67f6af9d9a28",
+      "season": 1,
+      "number": 4,
+      "name": "Alle kneb gælder",
+      "airdate": "2025-08-22"
+    },
+    {
+      "id": "3f088c05-3858-4b7b-a4ab-3506e2ba4d71",
+      "season": 1,
+      "number": 5,
+      "name": "Når lyset slukkes",
+      "airdate": "2025-08-29"
+    },
+    {
+      "id": "58b29370-2397-45f4-a94b-9f6a4ea45c77",
+      "season": 1,
+      "number": 6,
+      "name": "73 meters panik",
+      "airdate": "2025-09-05"
+    },
+    {
+      "id": "d3b0a87e-bffc-4f8c-9644-6f298a0451cd",
+      "season": 1,
+      "number": 7,
+      "name": "Fuld fart frem",
+      "airdate": "2025-09-12"
+    },
+    {
+      "id": "df48964e-4c2d-4de8-937f-f5a44a91604f",
+      "season": 1,
+      "number": 8,
+      "name": "Én ø, én vinder",
+      "airdate": "2025-09-19"
+    }
+  ]
+}

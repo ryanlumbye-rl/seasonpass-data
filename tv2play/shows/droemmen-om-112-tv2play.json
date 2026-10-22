@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:droemmen-om-112-tv2play",
+  "name": "Drømmen om 112",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a01bae07-8f63-47dc-b441-f0eebdba57a7",
+      "season": 1,
+      "number": 1,
+      "name": "Optagelsesprøven",
+      "airdate": "2026-10-04"
+    },
+    {
+      "id": "61a4de05-9e86-442a-b47b-a5b763f0d7f4",
+      "season": 1,
+      "number": 2,
+      "name": "Jomfruturen",
+      "airdate": "2026-10-11"
+    },
+    {
+      "id": "a6d45516-f34a-4c21-88a3-a0e99b342327",
+      "season": 1,
+      "number": 3,
+      "name": "Hjertestop",
+      "airdate": "2026-10-18"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:hjemme-hos-ernst-tv2fri",
+  "name": "Hjemme hos Ernst",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "66d87817-b652-4530-9484-813797686ff8",
+      "season": 1,
+      "number": 1,
+      "name": "Gamle brædder og blå pasta",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "074ca2df-32aa-4d48-9133-8073fe4ec95b",
+      "season": 1,
+      "number": 2,
+      "name": "En lampe af siv",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "f1f85080-86a2-422a-8c4a-026dc35402f3",
+      "season": 1,
+      "number": 3,
+      "name": "Fokus på farver",
+      "airdate": "2024-05-31"
+    },
+    {
+      "id": "7f2d2105-dae9-47be-8253-b53572db9120",
+      "season": 1,
+      "number": 4,
+      "name": "Gårdens have",
+      "airdate": "2024-05-31"
+    },
+    {
+      "id": "65faf65d-50f1-4aff-b71a-f39362dbd275",
+      "season": 1,
+      "number": 5,
+      "name": "Hall'en",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "587c8ae9-dd6b-4ea3-af7d-f4489267b130",
+      "season": 1,
+      "number": 6,
+      "name": "En gyngebænk til gården",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "a9706f7c-9b2f-4194-b0e1-a9846ca87155",
+      "season": 1,
+      "number": 7,
+      "name": "Soverum og svampe",
+      "airdate": "2024-06-04"
+    },
+    {
+      "id": "f5d21ac8-cf87-4764-88ba-4b2e51cfbc51",
+      "season": 1,
+      "number": 8,
+      "name": "Mere genbrug",
+      "airdate": "2024-06-04"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:ted-skyshowtime",
+  "name": "Ted",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7ebef895-65f0-4ba1-bdd8-3d8e70d3e797",
+      "season": 1,
+      "number": 1,
+      "name": "Just Say Yes - Part 1",
+      "airdate": "2024-02-22"
+    },
+    {
+      "id": "54031c69-d762-43e0-8019-da551ff3e86d",
+      "season": 1,
+      "number": 2,
+      "name": "Just Say Yes - Part 2",
+      "airdate": "2024-02-29"
+    },
+    {
+      "id": "7c37de10-72b3-4b5d-92fa-a7858748e2ac",
+      "season": 1,
+      "number": 3,
+      "name": "My Two Dads",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "ef8f2281-8fba-4612-8bc8-2ff0aeb576c1",
+      "season": 1,
+      "number": 4,
+      "name": "Ejectile Dysfunction",
+      "airdate": "2024-03-14"
+    },
+    {
+      "id": "9baa0f9a-3eaa-47d8-9f83-0444c4f2db69",
+      "season": 1,
+      "number": 5,
+      "name": "Subways, Bicycles and Automobiles",
+      "airdate": "2024-03-21"
+    },
+    {
+      "id": "a5bca0d5-f70e-4239-87b2-0ac2f83d6897",
+      "season": 1,
+      "number": 6,
+      "name": "Desperately Seeking Susan",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "66dc468d-16b3-493a-b710-2bcd1ad139fb",
+      "season": 1,
+      "number": 7,
+      "name": "Loud Night",
+      "airdate": "2024-04-04"
+    },
+    {
+      "id": "9192ff2c-03d1-4214-bf2d-fc8b70720800",
+      "season": 1,
+      "number": 8,
+      "name": "He’s Gotta Have It",
+      "airdate": "2024-04-11"
+    },
+    {
+      "id": "b10977de-2e7b-4446-a7c0-bf5089514b94",
+      "season": 2,
+      "number": 1,
+      "name": "Talk Dirty to Me",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "3d465a5a-ea51-4c09-8f74-99711b71ec96",
+      "season": 2,
+      "number": 2,
+      "name": "Mrs. Robichek",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "e9f3d6f4-6918-4002-a65d-47704b96ac42",
+      "season": 2,
+      "number": 3,
+      "name": "Dungeons & Dealers",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "da043acd-de82-44bb-ac9a-c16718e64204",
+      "season": 2,
+      "number": 4,
+      "name": "The Mom's Bombed Rom Com",
+      "airdate": "2026-03-27"
+    },
+    {
+      "id": "919ba947-23c8-4d72-aeac-28621e3eeb4d",
+      "season": 2,
+      "number": 5,
+      "name": "The Sword in the Stone",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "fd81d63d-bec2-4e1f-bd4b-92cb397a6608",
+      "season": 2,
+      "number": 6,
+      "name": "Roe V. Weed",
+      "airdate": "2026-04-10"
+    },
+    {
+      "id": "8fbf6405-5932-423e-85c9-8acbdb4d08b0",
+      "season": 2,
+      "number": 7,
+      "name": "Susan Is the New Black",
+      "airdate": "2026-04-17"
+    },
+    {
+      "id": "ceb49934-fb50-428e-b577-e9e1412824e0",
+      "season": 2,
+      "number": 8,
+      "name": "Fraudcast News",
+      "airdate": "2026-04-24"
+    }
+  ]
+}

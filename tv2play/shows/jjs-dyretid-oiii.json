@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:jjs-dyretid-oiii",
+  "name": "JJ's dyretid",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8dd56176-5fbd-405c-aebc-67b9bc725611",
+      "season": 1,
+      "number": 1,
+      "name": "Her i vor bugt",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "ba8c4daa-ab43-4150-8966-c1c61897b737",
+      "season": 1,
+      "number": 2,
+      "name": "Emmys sygesang",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "c5824df6-3667-4066-ab8a-8ff97c63cbae",
+      "season": 1,
+      "number": 3,
+      "name": "Sørøver",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "9461ab16-4a0b-4ba7-8e76-2afeeddbf97f",
+      "season": 1,
+      "number": 4,
+      "name": "Jens Hansen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "0f8b4a03-a4f5-4c95-ba05-0d421410228d",
+      "season": 1,
+      "number": 5,
+      "name": "Emmys fødselsdag",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "89df2bcc-28bb-4f38-a390-0a6a56978c05",
+      "season": 1,
+      "number": 6,
+      "name": "Mimis raket til månen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "c9c79b52-2650-475e-bff8-2f503bfdeded",
+      "season": 1,
+      "number": 7,
+      "name": "Mæh, mæh sorte lam",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "0cb48af5-4bd3-433d-a03a-3bbed7a24a10",
+      "season": 1,
+      "number": 8,
+      "name": "Hjulene på bussen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "b2cf163e-4b91-47ff-8b2a-7a19a5b263e4",
+      "season": 1,
+      "number": 9,
+      "name": "Se, hvor flot",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "d9b19665-0a9e-4ea5-a7d3-a24236285b69",
+      "season": 1,
+      "number": 10,
+      "name": "Emmys hjemsøgte hus",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "fcc2cab0-3a9c-4369-8ea7-d31530592fa5",
+      "season": 1,
+      "number": 11,
+      "name": "Æbler og bananer",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "790c77d0-c493-437a-88c0-415d9a431a55",
+      "season": 1,
+      "number": 12,
+      "name": "Oppe bag de hvide skyer",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "5da1870a-6444-4417-8a19-731d3640a8a1",
+      "season": 1,
+      "number": 13,
+      "name": "Skattejagtsangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "a2fea8de-1bc1-457f-b4bf-9eb278134137",
+      "season": 1,
+      "number": 14,
+      "name": "Dibidi-dubidi-dop",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "978d37a8-9f08-4b6b-b200-008ee7ed0221",
+      "season": 1,
+      "number": 15,
+      "name": "Dyrk, dyrk, dyrk din frugt",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "33ef6407-2f5d-4d79-be70-d3c6d76b27f2",
+      "season": 1,
+      "number": 16,
+      "name": "Svømmesangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "285f6c28-05e7-47e9-bef1-caedb6525085",
+      "season": 1,
+      "number": 17,
+      "name": "De tre små venner",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "8c5b5d48-d500-4acc-9fd5-32f4e67a85f9",
+      "season": 1,
+      "number": 18,
+      "name": "JJ i en rød hætte",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "759ea019-e0d5-4f14-ab4a-1db246f72dfa",
+      "season": 1,
+      "number": 19,
+      "name": "Lys fra en gul sol",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "db2ba866-a312-4303-9802-0b99c2550dc8",
+      "season": 1,
+      "number": 20,
+      "name": "Vi er ikke ens-sangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "0e82522d-4bd6-4c98-9504-10b5c220941c",
+      "season": 1,
+      "number": 21,
+      "name": "Dyrenes dans",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "17da1be9-d44a-4c48-8bd7-3e0ba64859ab",
+      "season": 1,
+      "number": 22,
+      "name": "Pust din ballon op",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "15beacf0-986b-4750-b780-9fe9e633acc8",
+      "season": 1,
+      "number": 23,
+      "name": "Titte-bøh",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "00cd490b-9706-4e72-b706-17cb346e1b07",
+      "season": 1,
+      "number": 24,
+      "name": "På stranden leger vi",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "a73123ea-4bfb-4b2e-8ad2-e7944fe7d5e4",
+      "season": 1,
+      "number": 25,
+      "name": "Dele-sangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "0f89321b-93de-4141-bbfe-7ce006c358c1",
+      "season": 1,
+      "number": 26,
+      "name": "Spis dine grøntsager",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "76420ff4-5cc5-4247-bc9f-5b25b0d9a6ff",
+      "season": 1,
+      "number": 27,
+      "name": "Madkasse-sangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "2d2de77c-2708-40af-9ac1-ebfdbfed2e5b",
+      "season": 1,
+      "number": 28,
+      "name": "Lille Peter Edderkop",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "e0977d4d-07cc-423f-a096-b1861077c7d3",
+      "season": 1,
+      "number": 29,
+      "name": "Oprydningssangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "a5471b7a-2e92-42e0-9b63-378843b88c26",
+      "season": 1,
+      "number": 30,
+      "name": "Er du rigtig glad, så klap i hænderne",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "45fe7868-b77e-47ee-8e22-7b135f505f54",
+      "season": 1,
+      "number": 31,
+      "name": "Vask bussen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "f04bc086-d279-4e6b-a4c7-72701759dcd0",
+      "season": 1,
+      "number": 32,
+      "name": "JJ og bønnestagen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "bf91ddaf-f487-498f-bec2-8a060847a7c9",
+      "season": 1,
+      "number": 33,
+      "name": "Racersangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "856030cf-f268-45e5-bcd9-22e126a08067",
+      "season": 1,
+      "number": 34,
+      "name": "Boba-bjørn",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "9b1a3457-98b8-4ec1-ac93-2c53e7cb0cfb",
+      "season": 1,
+      "number": 35,
+      "name": "Klør fem",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "7258c4db-eca8-4273-9c58-82f30cf02ebf",
+      "season": 1,
+      "number": 36,
+      "name": "Gemmeleg",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "d890da23-535e-4015-a7a2-fa079f5c325f",
+      "season": 1,
+      "number": 37,
+      "name": "Humpty Dumpty",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "467e4452-52ef-4a17-87bd-033b16d78c4d",
+      "season": 1,
+      "number": 38,
+      "name": "Græskarsangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "4d0cdb3f-ea67-454f-baf9-272fd46e3d3f",
+      "season": 1,
+      "number": 39,
+      "name": "Vennesangen",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "360b37e3-6f2e-4b5c-976b-cd86bb7ac6e9",
+      "season": 1,
+      "number": 40,
+      "name": "John Jacob Jingleheimer Schmidt",
+      "airdate": "2025-08-30"
+    }
+  ]
+}

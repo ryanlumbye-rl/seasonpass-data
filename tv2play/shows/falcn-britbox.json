@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:falcn-britbox",
+  "name": "Falcón",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "15833a65-9b4e-4133-a715-95f6bd75ce94",
+      "season": 1,
+      "number": 1,
+      "name": "The Blind Man of Seville - del 1",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "c3eb4dee-b125-491a-85e1-f67004347f4d",
+      "season": 1,
+      "number": 2,
+      "name": "The Blind Man of Seville - del 2",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "23934979-187f-4a86-9a9c-eb03adfedf33",
+      "season": 1,
+      "number": 3,
+      "name": "The Silent and the Damned - del 1",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "4719e46d-a5a4-4577-9184-19f6858d4688",
+      "season": 1,
+      "number": 4,
+      "name": "The Silent and the Damned - del 2",
+      "airdate": "2025-03-26"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:made-in-finland-cmore",
+  "name": "Made in Finland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1e3cd490-50f2-4967-a299-1a387ff5aeff",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "494cd394-967e-4232-92ee-1624ebd84b58",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "9eae1a5c-9d45-4503-84cf-6b4a4e81c9f8",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "43873e26-5953-45bf-b63c-18abbdccc858",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "23109276-631f-4e0c-8c4b-4fa153186534",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "57eab2fc-e84f-4165-b6a1-e33a408a259d",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

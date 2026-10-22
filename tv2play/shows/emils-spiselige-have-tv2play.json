@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:emils-spiselige-have-tv2play",
+  "name": "Emils spiselige have",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f73817c1-e97b-4bff-afef-4fb900e8fdc8",
+      "season": 1,
+      "number": 1,
+      "name": "Hemmeligheden bag en nem køkkenhave",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "2c731d0e-0d2b-434b-8a0b-94d73066f5f5",
+      "season": 1,
+      "number": 2,
+      "name": "Emils have fylder spisekammeret",
+      "airdate": "2026-07-08"
+    },
+    {
+      "id": "afdb2f95-f4ec-459f-b49f-00cf68ee64b2",
+      "season": 1,
+      "number": 3,
+      "name": "Emil kan høste året rundt",
+      "airdate": "2026-07-15"
+    },
+    {
+      "id": "6c831cdf-2e38-40cb-8b79-269e4df39c66",
+      "season": 1,
+      "number": 4,
+      "name": "Havens skjulte spisekammer",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "2c91b927-ce7b-4c1c-bbcd-e1902b4af433",
+      "season": 1,
+      "number": 5,
+      "name": "Sådan klarer haven tørken",
+      "airdate": "2026-07-29"
+    }
+  ]
+}

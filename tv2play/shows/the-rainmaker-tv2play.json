@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:the-rainmaker-tv2play",
+  "name": "The Rainmaker",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d0db4304-0b1d-4a68-b003-81c4cac530cc",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "abf8967a-4850-4180-84fb-3ef2c4a28ac6",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "f105cb5b-2366-47d5-b109-2e8510dc7df6",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "12cad023-c795-4137-95b0-ab726aeb4109",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "54c30ada-fb1b-4f01-879a-08ad9487c786",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "e221225b-1d3a-493d-8efa-1de9936c5b53",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "a6ab127e-c2be-4297-a89c-23e97c6f4d34",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "02131d6e-c77c-42c0-a9e6-d35860b662a3",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "de4cd9a3-c2f2-4156-b677-835ee8211705",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "7c50a184-1159-4291-b36e-6e632025ab10",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2025-12-10"
+    }
+  ]
+}

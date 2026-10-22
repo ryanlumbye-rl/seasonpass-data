@@ -1,0 +1,318 @@
+{
+  "id": "tv2play:gilmore-girls-tv2play",
+  "name": "Gilmore Girls",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-23",
+  "episodes": [
+    {
+      "id": "59a51c3d-33db-4cc5-8575-c8d9a07ae505",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "127c8cb5-f0ae-47c2-9a43-8cc5cb271b8f",
+      "season": 1,
+      "number": 2,
+      "name": "The Lorelais' First Day At Chilton",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "e7403258-5296-49d3-ba62-3a3f9754c642",
+      "season": 1,
+      "number": 3,
+      "name": "Kill Me Now",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "bb8e022d-73a3-4b62-aa0a-78346e51af4e",
+      "season": 1,
+      "number": 4,
+      "name": "The Deer-Hunters",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "47ca920b-11fc-4313-ba98-e796bacaaf10",
+      "season": 1,
+      "number": 5,
+      "name": "Cinnamon's Wake",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "29cd5425-3415-4857-b69b-868875e151af",
+      "season": 1,
+      "number": 6,
+      "name": "Rory's Birthday Parties",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "0aca9994-5961-4f75-8062-d6427e116328",
+      "season": 1,
+      "number": 7,
+      "name": "Kiss And Tell",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "f90eba01-92af-4406-9d79-26ec85578ab7",
+      "season": 1,
+      "number": 8,
+      "name": "Love & War & Snow",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "705269a6-a141-4427-812d-19dcef304083",
+      "season": 1,
+      "number": 9,
+      "name": "Rory's Dance",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "d5ab6988-2465-45ce-93b7-dfec38b637cd",
+      "season": 1,
+      "number": 10,
+      "name": "Forgiveness And Stuff",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "bc9b905f-b87e-4aad-a076-62b1c6d5a8bf",
+      "season": 1,
+      "number": 11,
+      "name": "Paris Is Burning",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "d384ff19-a53e-4634-a5a7-ee9398611149",
+      "season": 1,
+      "number": 12,
+      "name": "Double Date",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "93c524a8-ed8d-4f07-9443-e7b6bc81ddac",
+      "season": 1,
+      "number": 13,
+      "name": "Concert Interruptus",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "ab5ddb3a-f00a-4442-9036-df8212fbaf92",
+      "season": 1,
+      "number": 14,
+      "name": "That Damn Donna Reed",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "fbb65cd9-9b6b-4997-b663-9577a0add278",
+      "season": 1,
+      "number": 15,
+      "name": "Christopher Returns",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "aad5c532-de07-4a5a-9ecb-ba2ce0be22a9",
+      "season": 1,
+      "number": 16,
+      "name": "Star-Crossed Lovers And Other Strangers",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "e2dce517-9feb-4637-bac4-313c531cc692",
+      "season": 1,
+      "number": 17,
+      "name": "The Breakup, Part II",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "4f462a3b-3760-406c-b03d-11cd332f46c3",
+      "season": 1,
+      "number": 18,
+      "name": "The Third Lorelai",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "aa50a083-b5ce-4488-a8a1-0f557006de7d",
+      "season": 1,
+      "number": 19,
+      "name": "Emily In Wonderland",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "cfcfe9e5-5fc3-4583-b29d-da0ddb229e2d",
+      "season": 1,
+      "number": 20,
+      "name": "P.S. I Lo...",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "81709fe5-6839-4bff-81f2-55df2d9e4dd8",
+      "season": 1,
+      "number": 21,
+      "name": "Love, Daisies & Troubadours",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "2fd215f4-1b06-4cb2-8b0a-9c71f3370792",
+      "season": 2,
+      "number": 1,
+      "name": "Sadie, Sadie...",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "24515c48-708f-4c47-9003-05024d3ef25a",
+      "season": 2,
+      "number": 2,
+      "name": "Hammers and Veils",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "a40b9a72-c6fe-45ff-9e74-cd58fb084a27",
+      "season": 2,
+      "number": 3,
+      "name": "Red Light on the Wedding Night",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "8910c3bc-c948-4465-a144-0040ab72e15a",
+      "season": 2,
+      "number": 4,
+      "name": "The Road Trip to Harvard",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "c6dbd175-2671-4c3d-9285-f99c7e65e739",
+      "season": 2,
+      "number": 5,
+      "name": "Nick & Nora/Sid & Nancy",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "7aee5291-2655-4431-a3ba-d830ef772e27",
+      "season": 2,
+      "number": 6,
+      "name": "Presenting Lorelai Gilmore",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "15454934-fb2f-41b9-9054-bbbb8ae3f2e2",
+      "season": 2,
+      "number": 7,
+      "name": "Like Mother, Like Daughter",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "c67f6e2d-5fba-4396-8b35-5157c013aab8",
+      "season": 2,
+      "number": 8,
+      "name": "The Ins and Outs of Inns",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "deef496d-517b-44f4-9be7-dc5515e40f24",
+      "season": 2,
+      "number": 9,
+      "name": "Run Away, Little Boy",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "72ff393b-1eeb-4c9f-af9b-c695aa35db1b",
+      "season": 2,
+      "number": 10,
+      "name": "The Bracebridge Dinner",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "cbbc5534-68d5-4f95-a035-382ec52a5cf8",
+      "season": 2,
+      "number": 11,
+      "name": "Secrets and Loans",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "666713eb-1b81-438f-ade8-233950223d20",
+      "season": 2,
+      "number": 12,
+      "name": "Richard in Stars Hollow",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "bdfe23eb-52e1-4bb7-a3be-0d1a5d6cb94c",
+      "season": 2,
+      "number": 13,
+      "name": "A-Tisket, A-Tasket",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "f1aacf7e-c561-4c88-8549-51571f6e0729",
+      "season": 2,
+      "number": 14,
+      "name": "It Should've Been Lorelai",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "96448250-c06f-4eb3-af5d-49ce54d72727",
+      "season": 2,
+      "number": 15,
+      "name": "Lost & Found",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "6741e1a2-7cd0-4453-91e2-47dce99a5e87",
+      "season": 2,
+      "number": 16,
+      "name": "There's the Rub",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "4dd901d1-73d7-4b3c-a535-d508855b355b",
+      "season": 2,
+      "number": 17,
+      "name": "Dead Uncles & Vegetables",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "035cbe75-02ad-4136-bad8-775387b2a51b",
+      "season": 2,
+      "number": 18,
+      "name": "Back in the Saddle Again",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "02d28cff-8d82-4aa5-a648-8f8cb05d8882",
+      "season": 2,
+      "number": 19,
+      "name": "Teach Me Tonight",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "b1551447-0a9a-410f-ae5f-40b464e127bb",
+      "season": 2,
+      "number": 20,
+      "name": "Help Wanted",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "dd40f312-4fa9-479a-9e51-d11c0ea5f952",
+      "season": 2,
+      "number": 21,
+      "name": "Lorelai's Graduation Day",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "96123b69-ca25-4d2e-b3e7-e14ae018bf3b",
+      "season": 2,
+      "number": 22,
+      "name": "I Can't Get Started",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "670f3c7d-4538-45a6-a62e-b50e4567989a",
+      "season": 3,
+      "number": 1,
+      "name": "Those Lazy-Hazy-Crazy Days",
+      "airdate": "2026-10-23"
+    }
+  ]
+}

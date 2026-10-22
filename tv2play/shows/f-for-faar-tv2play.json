@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:f-for-faar-tv2play",
+  "name": "F for får",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "268adc6e-932d-4e3a-a79e-52e61e7e91d4",
+      "season": 2,
+      "number": 4,
+      "name": "Hop for livet",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "12eb5de1-c5d2-4e62-9379-f17adcb6e736",
+      "season": 2,
+      "number": 5,
+      "name": "Danseforbud",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "56eabbc8-224a-43af-84a0-0a266be73346",
+      "season": 2,
+      "number": 6,
+      "name": "Golf med vennerne",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "6f6bf4f0-45c3-4cff-b73d-856657915e86",
+      "season": 2,
+      "number": 7,
+      "name": "Hår i dag, væk i morgen",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "b78bfb53-fbc0-4a29-b48f-1e1ec5713ae9",
+      "season": 2,
+      "number": 8,
+      "name": "Sækkepiberi",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "b80f3c43-d3e4-4171-bda1-946625f640e6",
+      "season": 2,
+      "number": 9,
+      "name": "Et stort problem!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "214038c9-e9cf-4c6d-ad59-aad858e9add0",
+      "season": 2,
+      "number": 10,
+      "name": "Låst ude!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "4fe56d4b-aa1e-4987-8be9-cd35ac691acf",
+      "season": 2,
+      "number": 11,
+      "name": "De vilde dyr",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "5e7b011b-9891-49cf-974d-cf1343577af1",
+      "season": 2,
+      "number": 12,
+      "name": "Hvor er brillerne?",
+      "airdate": "2016-11-01"
+    }
+  ]
+}

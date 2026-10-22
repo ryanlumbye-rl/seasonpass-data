@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:columbo-1988-tv2play",
+  "name": "Columbo (1988)",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1c4ac2ad-04c8-49e6-90b3-986d951db892",
+      "season": 6,
+      "number": 1,
+      "name": "Strange Bedfellows",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "9b44fdf6-1ecd-4950-b87d-27663bba2e7a",
+      "season": 7,
+      "number": 1,
+      "name": "A Trace of Murder",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "44ee50ee-4383-49ff-af6b-1d496526b3fd",
+      "season": 8,
+      "number": 1,
+      "name": "Ashes to Ashes",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "92678994-58b7-4399-99e4-bf2759a54dd0",
+      "season": 8,
+      "number": 2,
+      "name": "Murder with Too Many Notes",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "21013515-13ad-450f-b4d1-fa77f063be77",
+      "season": 9,
+      "number": 1,
+      "name": "Columbo Likes the Nightlife",
+      "airdate": "2026-09-16"
+    }
+  ]
+}

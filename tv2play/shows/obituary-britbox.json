@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:obituary-britbox",
+  "name": "Obituary",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "189c67d6-e1a4-4bc0-82f8-0e932ab63a33",
+      "season": 1,
+      "number": 1,
+      "name": "Death Becomes Her",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "e71bd8cc-aaaf-4e86-a82e-7142a2e24731",
+      "season": 1,
+      "number": 2,
+      "name": "Hiccups",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "4b450224-35af-4cef-8865-426baf0c87a7",
+      "season": 1,
+      "number": 3,
+      "name": "Stay of Execution",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "57d50c8e-239e-46cd-84ca-8549a6271ef0",
+      "season": 1,
+      "number": 4,
+      "name": "Weapons of Minor Destruction",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "628238e9-2857-45b4-a509-600e1a9c9ae1",
+      "season": 1,
+      "number": 5,
+      "name": "Wild Goose Chase",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "d5507e59-6d0d-43d9-95ce-0efb1d2b77f3",
+      "season": 1,
+      "number": 6,
+      "name": "Body Count",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "c07c7851-2b87-4047-aec3-5722a0d69e16",
+      "season": 2,
+      "number": 1,
+      "name": "The Bad Sleep Well",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "4ed6552f-4fb3-455c-96cc-56eb319593ad",
+      "season": 2,
+      "number": 2,
+      "name": "A Brain Full of Razor Blades",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "850da9e8-da1e-4a35-94b0-702074b0168e",
+      "season": 2,
+      "number": 3,
+      "name": "It Doesn’t Count as a Crime if You Had Fun",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "fbb30468-90b9-4667-942f-de3aba3f15e2",
+      "season": 2,
+      "number": 4,
+      "name": "The Principle of Two Weaknesses",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "f896e62d-bf1c-48bf-9e70-1f045f7b7be0",
+      "season": 2,
+      "number": 5,
+      "name": "The Wrongful Prolongation of Life",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "cde1d516-fef0-4ca7-8479-4394fa147473",
+      "season": 2,
+      "number": 6,
+      "name": "WRH?",
+      "airdate": "2026-01-14"
+    }
+  ]
+}

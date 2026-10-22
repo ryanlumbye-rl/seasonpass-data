@@ -1,0 +1,570 @@
+{
+  "id": "tv2play:doc-martin-tv2charlie",
+  "name": "Doc Martin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2c5a915c-c0de-490f-a53a-c767a77f18ee",
+      "season": 1,
+      "number": 1,
+      "name": "Going Bodmin",
+      "airdate": "2005-03-23"
+    },
+    {
+      "id": "4f1c3c60-9668-4f01-ac73-f8cff140645f",
+      "season": 1,
+      "number": 2,
+      "name": "Gentlemen Prefer",
+      "airdate": "2005-03-30"
+    },
+    {
+      "id": "b78aef13-476d-4dbd-876f-fe12475af1ed",
+      "season": 1,
+      "number": 3,
+      "name": "Shit Happens",
+      "airdate": "2005-04-06"
+    },
+    {
+      "id": "b6fc575b-eb68-4751-8b07-55e8363312a4",
+      "season": 1,
+      "number": 4,
+      "name": "The Portween Effect",
+      "airdate": "2005-04-13"
+    },
+    {
+      "id": "0f427472-e896-4761-875d-862f4e0a706c",
+      "season": 1,
+      "number": 5,
+      "name": "Of All the Harbours in All the Towns",
+      "airdate": "2005-04-20"
+    },
+    {
+      "id": "4c73fed3-cdc4-4bd8-8129-cf0ed0c47499",
+      "season": 1,
+      "number": 6,
+      "name": "Haemophobia",
+      "airdate": "2005-04-27"
+    },
+    {
+      "id": "ed570ae1-5c5b-4569-abf6-bcd2b72eb0f3",
+      "season": 2,
+      "number": 1,
+      "name": "Old Dogs",
+      "airdate": "2008-02-23"
+    },
+    {
+      "id": "ff4541ac-17a4-484c-b169-2b9c0730ea92",
+      "season": 2,
+      "number": 2,
+      "name": "In Loco",
+      "airdate": "2008-02-24"
+    },
+    {
+      "id": "518cfbe1-db45-40c5-bf8e-f55c140478ae",
+      "season": 2,
+      "number": 3,
+      "name": "Blood is Thicker",
+      "airdate": "2008-03-01"
+    },
+    {
+      "id": "b4eb2a5d-c8a3-41e2-b280-99a2a1daad77",
+      "season": 2,
+      "number": 4,
+      "name": "Aromatherapy",
+      "airdate": "2008-03-02"
+    },
+    {
+      "id": "c9c145d9-7223-4038-b1e7-1e8fa26f564d",
+      "season": 2,
+      "number": 5,
+      "name": "Always On My Mind",
+      "airdate": "2008-03-08"
+    },
+    {
+      "id": "8b9f2b86-6d20-4590-95f4-9bb566f8fa58",
+      "season": 2,
+      "number": 6,
+      "name": "The Family Way",
+      "airdate": "2008-03-09"
+    },
+    {
+      "id": "1f18585d-043c-46f2-957a-e9556641ec00",
+      "season": 2,
+      "number": 7,
+      "name": "Out of the Woods",
+      "airdate": "2008-03-15"
+    },
+    {
+      "id": "604605c1-043f-4627-9bdd-4632cd0f1ef6",
+      "season": 2,
+      "number": 8,
+      "name": "Erotomania",
+      "airdate": "2008-03-16"
+    },
+    {
+      "id": "46bccdf1-6f40-4397-8442-992bba7c0e80",
+      "season": 3,
+      "number": 1,
+      "name": "On the Edge - del 1",
+      "airdate": "2008-06-20"
+    },
+    {
+      "id": "313243d9-4a4c-4d27-a4a1-ed0674c1b2f7",
+      "season": 3,
+      "number": 2,
+      "name": "On the Edge - del 2",
+      "airdate": "2008-06-24"
+    },
+    {
+      "id": "16f63c04-3d42-493b-a045-fa8f6fc7f697",
+      "season": 3,
+      "number": 3,
+      "name": "The Apple Doesn't Fall",
+      "airdate": "2008-06-25"
+    },
+    {
+      "id": "509d0a92-f1b0-4744-a503-cf8fa60cce64",
+      "season": 3,
+      "number": 4,
+      "name": "Movement",
+      "airdate": "2008-06-26"
+    },
+    {
+      "id": "aac71fe5-bfb5-4f35-9c5a-0baa0092da5f",
+      "season": 3,
+      "number": 5,
+      "name": "City Slickers",
+      "airdate": "2008-06-27"
+    },
+    {
+      "id": "35d07ae6-1df2-4ce0-bba5-b866ba45b8ba",
+      "season": 3,
+      "number": 6,
+      "name": "The Admirer",
+      "airdate": "2008-06-30"
+    },
+    {
+      "id": "e4b7d7bd-64f4-4b26-90f9-9ae796bb71df",
+      "season": 3,
+      "number": 7,
+      "name": "The Holly Bears a Prickle",
+      "airdate": "2008-07-01"
+    },
+    {
+      "id": "8bd8fc3f-92b2-4740-a227-92169531807e",
+      "season": 3,
+      "number": 8,
+      "name": "Nowt So Queer",
+      "airdate": "2008-07-02"
+    },
+    {
+      "id": "d84d91ae-edd4-404d-af94-67fb7d56f3e1",
+      "season": 3,
+      "number": 9,
+      "name": "Happily Ever After",
+      "airdate": "2008-07-03"
+    },
+    {
+      "id": "a210b188-2119-411f-828d-156ed8c5384d",
+      "season": 4,
+      "number": 1,
+      "name": "Better the Devil",
+      "airdate": "2011-09-17"
+    },
+    {
+      "id": "feb4e61a-0362-4c69-af36-1e8194ee6251",
+      "season": 4,
+      "number": 2,
+      "name": "Uneasy Lies the Head",
+      "airdate": "2011-09-18"
+    },
+    {
+      "id": "57a55868-1d71-4805-ac19-a7b51253bce0",
+      "season": 4,
+      "number": 3,
+      "name": "Perish Together as Fools",
+      "airdate": "2011-09-24"
+    },
+    {
+      "id": "e2793573-5008-455b-a196-406aac4a7b14",
+      "season": 4,
+      "number": 4,
+      "name": "Driving Mr. McLynn",
+      "airdate": "2011-09-25"
+    },
+    {
+      "id": "4f1f41b6-4708-4b87-8587-243f756f2a21",
+      "season": 4,
+      "number": 5,
+      "name": "The Departed",
+      "airdate": "2011-10-01"
+    },
+    {
+      "id": "6f75b8dd-f21c-4820-95e7-9517cb62e819",
+      "season": 4,
+      "number": 6,
+      "name": "Midwife Crisis",
+      "airdate": "2011-10-02"
+    },
+    {
+      "id": "8e38a49c-8f5a-4f94-b054-7cbdad865993",
+      "season": 4,
+      "number": 7,
+      "name": "Do Not Disturb",
+      "airdate": "2011-10-08"
+    },
+    {
+      "id": "3c06d9c8-6368-4516-adcd-7297fac0471b",
+      "season": 4,
+      "number": 8,
+      "name": "The Wrong Goodbye",
+      "airdate": "2011-10-09"
+    },
+    {
+      "id": "0c093729-3721-41fc-8341-bf580ce2c21a",
+      "season": 5,
+      "number": 1,
+      "name": "Preserve the Romance",
+      "airdate": "2013-02-28"
+    },
+    {
+      "id": "843aa88f-c6f3-4b6d-a6f8-dedb07aaf0a6",
+      "season": 5,
+      "number": 2,
+      "name": "Dry Your Tears",
+      "airdate": "2013-03-07"
+    },
+    {
+      "id": "5f986039-b50b-40a2-8f05-aa8fb0a5de25",
+      "season": 5,
+      "number": 3,
+      "name": "Born With a Shotgun",
+      "airdate": "2013-03-14"
+    },
+    {
+      "id": "3185cfce-ab20-4506-992f-6cc986288538",
+      "season": 5,
+      "number": 4,
+      "name": "Mother Knows Best",
+      "airdate": "2013-03-21"
+    },
+    {
+      "id": "333ba472-a140-4c75-9dbc-86632746c25c",
+      "season": 5,
+      "number": 5,
+      "name": "Remember Me",
+      "airdate": "2013-03-28"
+    },
+    {
+      "id": "165ef228-37bf-45b7-bdfc-e2544483f6db",
+      "season": 5,
+      "number": 6,
+      "name": "Don't Let Go",
+      "airdate": "2013-04-04"
+    },
+    {
+      "id": "b932b47a-4e7c-48f9-80d8-7b08ea3606c1",
+      "season": 5,
+      "number": 7,
+      "name": "Cats & Sharks",
+      "airdate": "2013-04-11"
+    },
+    {
+      "id": "2bca4a78-064c-4678-aaba-e8af0edcf308",
+      "season": 5,
+      "number": 8,
+      "name": "Ever After",
+      "airdate": "2013-04-18"
+    },
+    {
+      "id": "724bac8b-4184-487a-bc77-ca93e05a50d1",
+      "season": 6,
+      "number": 1,
+      "name": "Sickness and Health",
+      "airdate": "2014-02-01"
+    },
+    {
+      "id": "41c4194e-3a36-4c37-8683-6764486f18d6",
+      "season": 6,
+      "number": 2,
+      "name": "Guess Who's Coming to Dinner",
+      "airdate": "2014-02-02"
+    },
+    {
+      "id": "36be33d5-44f0-4fa8-8279-26dd01ef17ea",
+      "season": 6,
+      "number": 3,
+      "name": "The Tameness of a Wolf",
+      "airdate": "2014-02-08"
+    },
+    {
+      "id": "ded69e05-5f4c-48ae-8d42-4673e82fcc81",
+      "season": 6,
+      "number": 4,
+      "name": "Nobody Likes Me",
+      "airdate": "2014-02-09"
+    },
+    {
+      "id": "cae70fb8-3499-4d23-8b68-ae0ce52181ea",
+      "season": 6,
+      "number": 5,
+      "name": "The Practice Around the Corner",
+      "airdate": "2014-02-15"
+    },
+    {
+      "id": "614c860c-7f35-4e6b-9503-72a936a87f55",
+      "season": 6,
+      "number": 6,
+      "name": "Hazardous Exposure",
+      "airdate": "2014-02-16"
+    },
+    {
+      "id": "2607b225-65db-4e13-bfa8-4affc5725782",
+      "season": 6,
+      "number": 7,
+      "name": "Listen with Mother",
+      "airdate": "2014-02-22"
+    },
+    {
+      "id": "de37c656-9d77-4537-ab76-12c227906c10",
+      "season": 6,
+      "number": 8,
+      "name": "Departure",
+      "airdate": "2014-02-23"
+    },
+    {
+      "id": "3015e23f-6368-4986-8737-cde818008ed7",
+      "season": 7,
+      "number": 1,
+      "name": "Rescue Me",
+      "airdate": "2015-11-01"
+    },
+    {
+      "id": "34420888-bc64-40e8-bb76-aeb2ff66a494",
+      "season": 7,
+      "number": 2,
+      "name": "The Shock of the New",
+      "airdate": "2015-11-01"
+    },
+    {
+      "id": "ef0ff5ba-d531-4516-a042-a516d48480d7",
+      "season": 7,
+      "number": 3,
+      "name": "It's Good to Talk",
+      "airdate": "2015-11-01"
+    },
+    {
+      "id": "ac58cf22-9dd0-4416-8378-3f235bc14c93",
+      "season": 7,
+      "number": 4,
+      "name": "Education, Education, Education",
+      "airdate": "2015-11-01"
+    },
+    {
+      "id": "de39fbbb-ce15-4cd6-b713-1c3018f308d8",
+      "season": 7,
+      "number": 5,
+      "name": "Control-Alt-Delete",
+      "airdate": "2015-11-02"
+    },
+    {
+      "id": "b3f616b1-7ae9-4012-8bf0-e6045fbb678d",
+      "season": 7,
+      "number": 6,
+      "name": "Other People's Children",
+      "airdate": "2015-09-24"
+    },
+    {
+      "id": "c03746d5-5e14-46ce-b71e-61663bcdff7b",
+      "season": 7,
+      "number": 7,
+      "name": "Facta Non Verba",
+      "airdate": "2015-11-04"
+    },
+    {
+      "id": "2c4383b6-90e8-4a9a-8982-bc45af73340d",
+      "season": 7,
+      "number": 8,
+      "name": "The Doctor Is Out",
+      "airdate": "2015-11-05"
+    },
+    {
+      "id": "98bf68ca-1f61-43e6-9470-221967002114",
+      "season": 8,
+      "number": 1,
+      "name": "Mysterious Ways",
+      "airdate": "2018-03-13"
+    },
+    {
+      "id": "92b039f9-df53-49b5-a153-b74840ac162b",
+      "season": 8,
+      "number": 2,
+      "name": "Sons and Lovers",
+      "airdate": "2018-03-14"
+    },
+    {
+      "id": "e76df58b-56a4-49a8-a087-450d4402e2af",
+      "season": 8,
+      "number": 3,
+      "name": "Farewell, My Lovely",
+      "airdate": "2018-03-15"
+    },
+    {
+      "id": "f689409b-a689-4f18-9e8e-932d1ed91f7d",
+      "season": 8,
+      "number": 4,
+      "name": "Faith",
+      "airdate": "2018-03-16"
+    },
+    {
+      "id": "097c3c3b-29ae-474b-add3-530cc0dd44df",
+      "season": 8,
+      "number": 5,
+      "name": "From the Mouths of Babes",
+      "airdate": "2018-03-19"
+    },
+    {
+      "id": "0da9e80f-c21d-44bd-a2bb-b2b118c52536",
+      "season": 8,
+      "number": 6,
+      "name": "Accidental Hero",
+      "airdate": "2018-03-20"
+    },
+    {
+      "id": "b4d906a6-7617-4cde-b7fb-1f4ba73f57e2",
+      "season": 8,
+      "number": 7,
+      "name": "Blade on the Feather",
+      "airdate": "2018-03-21"
+    },
+    {
+      "id": "5f4e25de-2938-4a1a-b65c-bca8f224c111",
+      "season": 8,
+      "number": 8,
+      "name": "All My Trials",
+      "airdate": "2018-03-22"
+    },
+    {
+      "id": "1416b897-8ec8-4fe7-a9a2-37fb7d836895",
+      "season": 9,
+      "number": 1,
+      "name": "To the Lighthouse",
+      "airdate": "2019-12-04"
+    },
+    {
+      "id": "4dc6d6cc-9667-4fb5-92bd-a084c2a7aeb7",
+      "season": 9,
+      "number": 2,
+      "name": "The Shock of the New",
+      "airdate": "2019-12-05"
+    },
+    {
+      "id": "0bdaa781-fdf6-4432-819c-ea94b1b62b35",
+      "season": 9,
+      "number": 3,
+      "name": "SWALK",
+      "airdate": "2019-12-06"
+    },
+    {
+      "id": "84899037-cb96-4737-97e7-691240250e1a",
+      "season": 9,
+      "number": 4,
+      "name": "Paint It Black",
+      "airdate": "2019-12-09"
+    },
+    {
+      "id": "b3b4f2d0-288f-443c-aa9b-7ced36548252",
+      "season": 9,
+      "number": 5,
+      "name": "Wild West Country",
+      "airdate": "2019-12-10"
+    },
+    {
+      "id": "a7194acb-e595-4d5f-a29e-e678223e8499",
+      "season": 9,
+      "number": 6,
+      "name": "Equilibrium",
+      "airdate": "2019-12-11"
+    },
+    {
+      "id": "4adbfbd9-6ab2-4525-9409-f4fb4d7a6b35",
+      "season": 9,
+      "number": 7,
+      "name": "Single White Bevy",
+      "airdate": "2019-12-12"
+    },
+    {
+      "id": "d4ad1c4d-9368-4cf0-b33f-82d1a294c87e",
+      "season": 9,
+      "number": 8,
+      "name": "Licence to Practice",
+      "airdate": "2019-12-13"
+    },
+    {
+      "id": "e7916479-ac67-4d5c-860f-fc7503771b5b",
+      "season": 10,
+      "number": 1,
+      "name": "I Will Survive",
+      "airdate": "2023-04-12"
+    },
+    {
+      "id": "4bfd8729-45dc-4bae-81a7-f65d25453aef",
+      "season": 10,
+      "number": 2,
+      "name": "One Night Only",
+      "airdate": "2023-04-13"
+    },
+    {
+      "id": "ee96086b-3533-4343-b090-2f15caed4cf4",
+      "season": 10,
+      "number": 3,
+      "name": "How Long Has This Been Going On?",
+      "airdate": "2023-04-14"
+    },
+    {
+      "id": "8793548d-0a5c-4836-8801-301ce9dcffe3",
+      "season": 10,
+      "number": 4,
+      "name": "Everlasting Love",
+      "airdate": "2023-04-17"
+    },
+    {
+      "id": "23f0bce1-c83b-4fed-acf9-3ba6b1d61ac4",
+      "season": 10,
+      "number": 5,
+      "name": "Fly Me To The Moon",
+      "airdate": "2023-04-18"
+    },
+    {
+      "id": "9db4edf7-3d69-4a2f-b695-754f1bb09687",
+      "season": 10,
+      "number": 6,
+      "name": "Return To Sender",
+      "airdate": "2023-04-19"
+    },
+    {
+      "id": "d9450fa1-8781-4241-87ba-deebf255dc57",
+      "season": 10,
+      "number": 7,
+      "name": "Love Will Set You Free",
+      "airdate": "2023-04-20"
+    },
+    {
+      "id": "d6e08a15-ba24-41ee-8b0c-43e45a91486b",
+      "season": 10,
+      "number": 8,
+      "name": "Our Last Summer",
+      "airdate": "2023-04-21"
+    },
+    {
+      "id": "e8f0cf3c-2b0c-4ec0-94fa-7ee773d0aac9",
+      "season": 10,
+      "number": 9,
+      "name": "Sidste afsnit - julespecial",
+      "airdate": "2023-12-14"
+    }
+  ]
+}

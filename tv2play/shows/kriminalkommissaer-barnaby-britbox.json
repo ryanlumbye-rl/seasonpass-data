@@ -1,0 +1,577 @@
+{
+  "id": "tv2play:kriminalkommissaer-barnaby-britbox",
+  "name": "Kriminalkommissær Barnaby",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e71dda47-9282-4120-b7ca-739f1f27cc15",
+      "season": 1,
+      "number": 1,
+      "name": "The Killings at Badger's Drift (Pilot)",
+      "airdate": "2017-12-25"
+    },
+    {
+      "id": "fec398c2-d306-4fc0-98ae-7387c35c3665",
+      "season": 1,
+      "number": 2,
+      "name": "Written in Blood",
+      "airdate": "2017-12-26"
+    },
+    {
+      "id": "6a37387d-6613-460a-b404-b2691c36f8d6",
+      "season": 1,
+      "number": 3,
+      "name": "Death of a Hollow Man",
+      "airdate": "2017-12-27"
+    },
+    {
+      "id": "7b653c80-000c-465d-b039-b71c8d4c22f5",
+      "season": 1,
+      "number": 4,
+      "name": "Faithful Unto Death",
+      "airdate": "2017-12-28"
+    },
+    {
+      "id": "9e83439d-8dcf-4d6f-bbdd-9571a2789f16",
+      "season": 1,
+      "number": 5,
+      "name": "Death in Disguise",
+      "airdate": "2017-12-29"
+    },
+    {
+      "id": "559d61a9-0970-4f77-8156-68c4f87e2752",
+      "season": 2,
+      "number": 1,
+      "name": "Death's Shadow",
+      "airdate": "2018-01-04"
+    },
+    {
+      "id": "d0506034-03af-4044-bad0-58feecc77dba",
+      "season": 2,
+      "number": 2,
+      "name": "Strangler's Wood",
+      "airdate": "2018-01-15"
+    },
+    {
+      "id": "8e2a6ed2-2576-4ca0-8391-fa62826893ca",
+      "season": 2,
+      "number": 3,
+      "name": "Dead Mans Eleven",
+      "airdate": "2018-01-24"
+    },
+    {
+      "id": "b89c7814-700a-4b96-9f17-ca9695a98ea6",
+      "season": 2,
+      "number": 4,
+      "name": "Blood Will Out",
+      "airdate": "2018-01-19"
+    },
+    {
+      "id": "54ede5df-42a2-41c0-88c8-ae69bcebe098",
+      "season": 3,
+      "number": 1,
+      "name": "Death of a Stranger",
+      "airdate": "2018-02-09"
+    },
+    {
+      "id": "08e678f2-27a8-4755-a566-346e0ed24b01",
+      "season": 3,
+      "number": 2,
+      "name": "Blue Herrings",
+      "airdate": "2018-01-26"
+    },
+    {
+      "id": "a604e30e-e7b8-45db-81d4-d5c9ec8d6a64",
+      "season": 3,
+      "number": 3,
+      "name": "Judgement Day",
+      "airdate": "2018-02-02"
+    },
+    {
+      "id": "dda2be46-7cee-4cd6-9ab4-9d4f2912c47e",
+      "season": 3,
+      "number": 4,
+      "name": "Beyond the Grave",
+      "airdate": "2018-01-17"
+    },
+    {
+      "id": "7411b6e6-fa6e-4fd1-8925-fdd0b0b91380",
+      "season": 4,
+      "number": 1,
+      "name": "Garden of Death",
+      "airdate": "2018-02-16"
+    },
+    {
+      "id": "b3f957ed-cdfc-4cfd-a6b8-09dc31084171",
+      "season": 4,
+      "number": 2,
+      "name": "Destroying Angel",
+      "airdate": "2018-02-23"
+    },
+    {
+      "id": "25dad53d-3a20-4b61-88ed-08956f29f512",
+      "season": 4,
+      "number": 3,
+      "name": "The Electric Vendetta",
+      "airdate": "2018-03-02"
+    },
+    {
+      "id": "98b43b10-6cd4-4fd9-adb8-f4c31ca98bf3",
+      "season": 4,
+      "number": 4,
+      "name": "Who Killed Cock Robin?",
+      "airdate": "2018-03-09"
+    },
+    {
+      "id": "bc91dcc8-5809-4bd2-8614-a217eb293b70",
+      "season": 4,
+      "number": 5,
+      "name": "Dark Autumn",
+      "airdate": "2018-03-16"
+    },
+    {
+      "id": "acf83287-8c5b-4efc-8f88-495178e691d8",
+      "season": 4,
+      "number": 6,
+      "name": "Tainted Fruit",
+      "airdate": "2018-03-23"
+    },
+    {
+      "id": "8c2ef82c-1c35-4725-8bdb-2626d4f2ad4a",
+      "season": 5,
+      "number": 1,
+      "name": "Market For Murder",
+      "airdate": "2018-04-13"
+    },
+    {
+      "id": "6e981e31-153e-4094-870c-1f58df82ffc8",
+      "season": 5,
+      "number": 2,
+      "name": "A Worm In The Bud",
+      "airdate": "2018-04-20"
+    },
+    {
+      "id": "358dce23-4a84-47fc-af6c-764d33b53a3c",
+      "season": 5,
+      "number": 3,
+      "name": "Ring Out Your Dead",
+      "airdate": "2018-03-30"
+    },
+    {
+      "id": "569e63e4-54d5-49b7-a07d-21e50676f6c6",
+      "season": 5,
+      "number": 4,
+      "name": "Murder On St. Malley Day",
+      "airdate": "2018-04-06"
+    },
+    {
+      "id": "59c7a338-0073-4f7d-905c-e8c4d078b751",
+      "season": 6,
+      "number": 1,
+      "name": "A Talent For Life",
+      "airdate": "2018-04-27"
+    },
+    {
+      "id": "8e8deaf2-3d4d-4001-8b00-32ec6b71117c",
+      "season": 6,
+      "number": 2,
+      "name": "Death and Dreams",
+      "airdate": "2018-05-04"
+    },
+    {
+      "id": "3c20045d-07ea-44df-aa49-8d0f27332496",
+      "season": 6,
+      "number": 3,
+      "name": "Painted in Blood",
+      "airdate": "2018-05-11"
+    },
+    {
+      "id": "20d6612e-c272-4068-a908-edd51199f09b",
+      "season": 6,
+      "number": 4,
+      "name": "A Tale of Two Hamlets",
+      "airdate": "2018-05-18"
+    },
+    {
+      "id": "2498177e-20ac-4e72-9bc8-9917e93d178f",
+      "season": 6,
+      "number": 5,
+      "name": "Birds of Prey",
+      "airdate": "2018-05-25"
+    },
+    {
+      "id": "e96a4d50-6b5f-43ef-bc07-9952df65591f",
+      "season": 7,
+      "number": 1,
+      "name": "Midsomer Murders",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "d7659e33-1af7-4aaa-a611-b22fc6141a85",
+      "season": 7,
+      "number": 2,
+      "name": "Bad Tidings",
+      "airdate": "2018-06-08"
+    },
+    {
+      "id": "bfc6918c-e89e-4ebf-90e1-1268921b5854",
+      "season": 7,
+      "number": 3,
+      "name": "Fisher King",
+      "airdate": "2018-06-15"
+    },
+    {
+      "id": "37afa287-5114-4f8a-aafa-14008cb534fa",
+      "season": 7,
+      "number": 4,
+      "name": "Sins of Commission",
+      "airdate": "2018-06-22"
+    },
+    {
+      "id": "dacafb7b-e294-46dc-b58b-c89b4387e558",
+      "season": 7,
+      "number": 5,
+      "name": "Maid In Splendour",
+      "airdate": "2018-06-29"
+    },
+    {
+      "id": "f00c4a99-604d-41d0-b292-3356a21e7b1d",
+      "season": 7,
+      "number": 6,
+      "name": "Straw Woman",
+      "airdate": "2018-07-06"
+    },
+    {
+      "id": "f4be7bc3-7130-40c8-9619-4db43dd4ff45",
+      "season": 7,
+      "number": 7,
+      "name": "Ghosts of Christmas Past",
+      "airdate": "2018-07-13"
+    },
+    {
+      "id": "31bd3899-c3e7-4139-85d1-113bc2abc943",
+      "season": 8,
+      "number": 1,
+      "name": "Things That Go Bump In The Night",
+      "airdate": "2018-07-20"
+    },
+    {
+      "id": "0bcbb485-626f-4749-95ca-a2186760e12b",
+      "season": 8,
+      "number": 2,
+      "name": "Dead In The Water",
+      "airdate": "2018-07-27"
+    },
+    {
+      "id": "f5e31eb4-72b5-4f67-b07d-1abe32f9dfc8",
+      "season": 8,
+      "number": 3,
+      "name": "Orchis Fatalis",
+      "airdate": "2018-08-03"
+    },
+    {
+      "id": "8140fbf6-5abd-4425-a971-91a45eef23ed",
+      "season": 8,
+      "number": 4,
+      "name": "Bantling Boy",
+      "airdate": "2018-08-10"
+    },
+    {
+      "id": "1b7a7b8a-1eff-4aa6-96c0-6dae26a87483",
+      "season": 8,
+      "number": 5,
+      "name": "Second Sight",
+      "airdate": "2018-08-17"
+    },
+    {
+      "id": "0079bf2f-626d-4085-a47f-315c2361a273",
+      "season": 8,
+      "number": 6,
+      "name": "Hidden Depths",
+      "airdate": "2018-08-31"
+    },
+    {
+      "id": "b47a303e-bd87-44d2-9116-70f3857c7b23",
+      "season": 8,
+      "number": 7,
+      "name": "Sauce For The Goose",
+      "airdate": "2018-09-07"
+    },
+    {
+      "id": "453524c0-1e10-4ed4-9ea7-ad8522dc003b",
+      "season": 8,
+      "number": 8,
+      "name": "Midsomer Rhapsody",
+      "airdate": "2018-09-14"
+    },
+    {
+      "id": "eaee7452-a3b7-4178-9590-0dbc97c74c85",
+      "season": 9,
+      "number": 1,
+      "name": "House In The Woods",
+      "airdate": "2018-09-21"
+    },
+    {
+      "id": "c63983e4-4bcb-4011-ada6-6c4f46e0c069",
+      "season": 9,
+      "number": 2,
+      "name": "Dead Letters",
+      "airdate": "2018-09-28"
+    },
+    {
+      "id": "64029c1c-549d-4902-817e-c6fa71454f55",
+      "season": 9,
+      "number": 3,
+      "name": "Vixens Run",
+      "airdate": "2018-10-05"
+    },
+    {
+      "id": "a109f3af-9700-4c21-9ec0-a32b10b9368e",
+      "season": 9,
+      "number": 4,
+      "name": "Down Among The Dead Men",
+      "airdate": "2018-10-12"
+    },
+    {
+      "id": "cc3325b8-b849-4ea6-9b8e-06a7bfd0ee06",
+      "season": 9,
+      "number": 5,
+      "name": "Four Funerals and A Wedding",
+      "airdate": "2018-10-19"
+    },
+    {
+      "id": "36fd7abd-3816-41d2-aaac-a19ea6543d44",
+      "season": 9,
+      "number": 6,
+      "name": "Country Matters",
+      "airdate": "2018-10-26"
+    },
+    {
+      "id": "6e265008-869c-42ac-8fd4-e9d2761f933a",
+      "season": 9,
+      "number": 7,
+      "name": "Death In Chorus",
+      "airdate": "2018-11-02"
+    },
+    {
+      "id": "ebc4e138-3b2f-4f67-a771-31b31717c767",
+      "season": 9,
+      "number": 8,
+      "name": "Last Years Model",
+      "airdate": "2018-11-09"
+    },
+    {
+      "id": "7b4efcc4-dbf2-414c-9b18-eab85b4d9cd0",
+      "season": 10,
+      "number": 1,
+      "name": "Dance with the Dead",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "9a73c840-2600-4dab-9a74-bec10cfee74b",
+      "season": 10,
+      "number": 2,
+      "name": "The Animal Within",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "b13925eb-c444-44a0-ac38-a17e2a821abb",
+      "season": 10,
+      "number": 3,
+      "name": "King's Crystal",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "2e86e626-7b1a-40d0-a8c9-c4c601f2ed7c",
+      "season": 10,
+      "number": 4,
+      "name": "The Axeman Cometh",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "ca353a2a-0593-442d-aa40-1d91db1692b5",
+      "season": 10,
+      "number": 5,
+      "name": "Death and Dust",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "f0caeb9d-92cd-421e-be2c-62835d44b976",
+      "season": 10,
+      "number": 6,
+      "name": "Picture of Innocence",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "4b559a68-43ec-4f57-8c0d-cf813f58d63a",
+      "season": 10,
+      "number": 7,
+      "name": "They Seek Him Here",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "72d97f15-3248-4efd-931e-4cd82ab30e38",
+      "season": 10,
+      "number": 8,
+      "name": "Death in a Chocolate Box",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "7e8e51f6-b73d-479e-b3a4-e0f40e870cc8",
+      "season": 11,
+      "number": 1,
+      "name": "Shot at Dawn",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "a4e9345f-6a1a-40b0-9b05-b64762545938",
+      "season": 11,
+      "number": 2,
+      "name": "Blood Wedding",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "86fbd3d5-3d27-43b3-83db-2e5a01cf4ddc",
+      "season": 11,
+      "number": 3,
+      "name": "Left for Dead",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "17f74cd0-af49-47e3-aaf2-750f3cc749f5",
+      "season": 11,
+      "number": 4,
+      "name": "Midsomer Life",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "c451946a-823b-41c1-9098-afa85dfb6d00",
+      "season": 11,
+      "number": 5,
+      "name": "The Magician's Nephew",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "10841ca0-128e-4cc6-b721-8c4554e4878f",
+      "season": 11,
+      "number": 6,
+      "name": "Days of Misrule",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "4afe1671-c866-441c-8589-96b1d30b14a3",
+      "season": 11,
+      "number": 7,
+      "name": "Talking to the Dead",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "4b7dec91-db3b-456d-9849-411667064349",
+      "season": 12,
+      "number": 1,
+      "name": "The Dogleg Murders",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "77058642-100f-4959-93e5-316270609d4b",
+      "season": 12,
+      "number": 2,
+      "name": "The Black Book",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "14e54c7a-cfa0-440a-b974-178e0d8d0f7a",
+      "season": 12,
+      "number": 3,
+      "name": "Secrets and Spies",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "1a0cc1d7-01c4-4775-a0d3-aa9f990c3c5d",
+      "season": 12,
+      "number": 4,
+      "name": "The Glitch",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "1b195e21-fb5d-46ae-a8e8-ce0c43953f22",
+      "season": 12,
+      "number": 5,
+      "name": "Small Mercies",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "2ce30502-4eda-4c10-94fe-38b4a5be53f4",
+      "season": 12,
+      "number": 6,
+      "name": "The Creeper",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "f9d3fa2d-c91b-418e-a1dd-40c726663155",
+      "season": 12,
+      "number": 7,
+      "name": "The Great and the Good",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "070e03f9-3d26-42fa-9617-2a0a2960cb62",
+      "season": 13,
+      "number": 1,
+      "name": "The Made-to-Measure Murders",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "4e155b1b-a768-4df4-bf46-82388dc5158c",
+      "season": 13,
+      "number": 2,
+      "name": "The Sword of Guillaume",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "0b13011f-c2fd-4bcb-86b2-77751097c5d7",
+      "season": 13,
+      "number": 3,
+      "name": "Blood on the Saddle",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "b43c4532-b880-4c50-90f3-c98b3e9b3ed1",
+      "season": 13,
+      "number": 4,
+      "name": "The Silent Land",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "3c01b75d-06b9-480e-ad44-d950a95ce709",
+      "season": 13,
+      "number": 5,
+      "name": "Master Class",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "c50c48d7-4e68-485d-8058-b0d50c5274b0",
+      "season": 13,
+      "number": 6,
+      "name": "The Noble Art",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "4ca894c3-2ed7-4422-ab3b-423405fdce4f",
+      "season": 13,
+      "number": 7,
+      "name": "Not in My Back Yard",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "407e0c4f-7e4c-48a1-953d-2b4e92614021",
+      "season": 13,
+      "number": 8,
+      "name": "Fit for Murder",
+      "airdate": "2024-08-14"
+    }
+  ]
+}

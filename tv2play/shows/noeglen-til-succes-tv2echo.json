@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:noeglen-til-succes-tv2echo",
+  "name": "Nøglen til succes",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "144805ae-8b64-4c3f-a84d-853023e89146",
+      "season": 1,
+      "number": 1,
+      "name": "Et godt førstehåndsindtryk",
+      "airdate": "2019-09-12"
+    },
+    {
+      "id": "a0ce1483-90ae-40ae-a9e1-54cc9954e72e",
+      "season": 1,
+      "number": 2,
+      "name": "Snyd eller samarbejde i sommerhuset",
+      "airdate": "2019-09-12"
+    },
+    {
+      "id": "8edf7b0c-e173-4b2d-a256-7e2ab98f4caa",
+      "season": 1,
+      "number": 3,
+      "name": "Cocktailparty med og uden forberedelse",
+      "airdate": "2019-09-19"
+    },
+    {
+      "id": "8d9d0d71-c6a8-4eeb-bff8-d6692e4ca924",
+      "season": 1,
+      "number": 4,
+      "name": "Kørselskaos i Marbella",
+      "airdate": "2019-09-26"
+    },
+    {
+      "id": "b1f7d120-5dc7-494c-bf3e-7987cf4a1bf6",
+      "season": 1,
+      "number": 5,
+      "name": "Snyd, harme og spidse albuer",
+      "airdate": "2019-10-03"
+    },
+    {
+      "id": "1c729f67-ef95-4c6f-9f26-29679d881ccf",
+      "season": 1,
+      "number": 6,
+      "name": "Russisk agent og spanske delikatesser",
+      "airdate": "2019-10-10"
+    },
+    {
+      "id": "d78b82c4-c546-408e-824d-80d531b8666d",
+      "season": 1,
+      "number": 7,
+      "name": "Gyldne golfslag",
+      "airdate": "2019-10-17"
+    },
+    {
+      "id": "27e61eb7-58c0-4deb-9a97-bfc342222fed",
+      "season": 1,
+      "number": 8,
+      "name": "Satsning og konsekvens",
+      "airdate": "2019-10-24"
+    },
+    {
+      "id": "dcef0d46-4a0d-419c-bffe-484b807926c5",
+      "season": 1,
+      "number": 9,
+      "name": "Kamerakiks lige før finalen",
+      "airdate": "2019-11-07"
+    },
+    {
+      "id": "c53effcb-01af-4083-97f4-2f9dd783bdef",
+      "season": 1,
+      "number": 10,
+      "name": "Kampen om kontrakten",
+      "airdate": "2019-11-07"
+    }
+  ]
+}

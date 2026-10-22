@@ -1,0 +1,325 @@
+{
+  "id": "tv2play:mr-robot-skyshowtime",
+  "name": "Mr. Robot",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e28fa066-b42b-4d30-abda-4e2ddc074f3d",
+      "season": 1,
+      "number": 1,
+      "name": "eps1.0_hellofriend.mov",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a43fde4c-b64a-4d6d-ae20-0bd09093f52a",
+      "season": 1,
+      "number": 2,
+      "name": "eps1.1_ones-and-zer0es.mpeg",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8f143ef8-d7ea-44ca-8114-911753e97b8e",
+      "season": 1,
+      "number": 3,
+      "name": "eps1.2_d3bug.mkv",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d5022d85-b089-4023-8764-21422e0ce9ac",
+      "season": 1,
+      "number": 4,
+      "name": "eps1.3_da3m0ns.mp4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0accc618-f377-4e91-8cd2-8ec4c12d9076",
+      "season": 1,
+      "number": 5,
+      "name": "eps1.4_3xpl0its.wmv",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "fba2eea2-9932-4da8-8ae9-90ef085d9d30",
+      "season": 1,
+      "number": 6,
+      "name": "eps1.5_br4ve-trave1er.asf",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "dc3e666e-7491-4281-b15a-ab0a583674c9",
+      "season": 1,
+      "number": 7,
+      "name": "eps1.6_v1ew-s0urce.flv",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d89a5008-6e2a-4990-919e-d0615956c5f8",
+      "season": 1,
+      "number": 8,
+      "name": "eps1.7_wh1ter0se.m4v",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "26cdeb1d-e4f6-47c1-a7c0-dda5e6d5255b",
+      "season": 1,
+      "number": 9,
+      "name": "eps1.8_m1rr0r1ng.qt",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e8d7a38c-0e85-4885-9b2a-a4a63e7eedac",
+      "season": 1,
+      "number": 10,
+      "name": "eps1.9_zer0-day.avi",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bb035406-d657-4358-8d93-fcd539a75b7c",
+      "season": 2,
+      "number": 1,
+      "name": "eps2.0_unm4sk-pt1.tc",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d66c765e-e830-4577-ad75-db6fc3cb48bc",
+      "season": 2,
+      "number": 2,
+      "name": "eps2.0_unm4sk-pt2.tc",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "92d326c8-04f5-4653-97ac-ecb3bdd92faf",
+      "season": 2,
+      "number": 3,
+      "name": "eps2.1_k3rnel-pan1c.ksd",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f64e0456-bd49-449b-8997-4dada1f27406",
+      "season": 2,
+      "number": 4,
+      "name": "eps2.2_init1.asec",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ed09decf-d8ee-414c-8ad5-be0c1cd4d096",
+      "season": 2,
+      "number": 5,
+      "name": "eps2.3_logic-b0mb.hc",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d92baa35-8e43-494a-ba3a-eb6eeaeb758c",
+      "season": 2,
+      "number": 6,
+      "name": "eps2.4_m4ster-s1ave.aes",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "6bac1274-ae82-4f4d-88d2-127a6e160407",
+      "season": 2,
+      "number": 7,
+      "name": "eps2.5_h4ndshake.sme",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "99446f98-5ca2-4df5-968e-3210fe578e6f",
+      "season": 2,
+      "number": 8,
+      "name": "eps2.6_succ3ss0r.p12",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c1fd5659-d688-4c60-9741-889e7c4097a3",
+      "season": 2,
+      "number": 9,
+      "name": "eps2.7_init5.fve",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b39a42fd-2273-4a45-9b7a-9f1a1a7c4009",
+      "season": 2,
+      "number": 10,
+      "name": "eps2.8_h1dden-pr0cess.axx",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1b06ed6c-a55c-4e85-b53c-c32a63b9d602",
+      "season": 2,
+      "number": 11,
+      "name": "eps2.9_pyth0n-pt1.p7z",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e8f3abaf-4153-41d5-8b98-7713d8be3a08",
+      "season": 2,
+      "number": 12,
+      "name": "eps2.9_pyth0n-pt2.p7z",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1f3122dd-c6c8-4b95-a266-cc720d25ec19",
+      "season": 3,
+      "number": 1,
+      "name": "eps3.0_power-saver-mode.h",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "afb8acaa-6788-4d4b-aaa9-91335589468b",
+      "season": 3,
+      "number": 2,
+      "name": "eps3.1_undo.gz",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1db84c7c-91af-47ea-a29b-c5ad7178b957",
+      "season": 3,
+      "number": 3,
+      "name": "eps3.2_legacy.so",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f44b4a62-9aff-41ea-a7d0-4266190ce08e",
+      "season": 3,
+      "number": 4,
+      "name": "eps3.3_metadata.par2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5649f9bd-90a2-4920-9d56-2a22eec39535",
+      "season": 3,
+      "number": 5,
+      "name": "eps3.4_runtime-err0r.r00",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b7298775-0535-4573-b2c6-eb1760d71626",
+      "season": 3,
+      "number": 6,
+      "name": "eps3.5_kill-pr0cess.inc",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c07ba860-6717-4de2-b6f0-ecac47a4a022",
+      "season": 3,
+      "number": 7,
+      "name": "eps3.6_fredrick+tanya.chk",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "6321a0c2-4a7c-4403-99b0-2795d1dccc69",
+      "season": 3,
+      "number": 8,
+      "name": "eps3.7_dont-delete-me.ko",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7bbaff8c-b086-48da-abff-794f571984d5",
+      "season": 3,
+      "number": 9,
+      "name": "eps3.8_stage3.torrent",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "368797fe-3aee-4ed3-a6fb-e038635df41d",
+      "season": 3,
+      "number": 10,
+      "name": "eps3.9_shutdown-r",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4de7da83-bd34-46ff-bea3-3aa9a9a192f8",
+      "season": 4,
+      "number": 1,
+      "name": "401 Unauthorized",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "01221f3d-8249-4224-85ae-6effee44a47d",
+      "season": 4,
+      "number": 2,
+      "name": "402 Payment Required",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0e727a6a-6984-481a-8e9b-244da28b7793",
+      "season": 4,
+      "number": 3,
+      "name": "403 Forbidden",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9248661f-aef1-45fb-b29e-029a40112bad",
+      "season": 4,
+      "number": 4,
+      "name": "404 Not Found",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "64115738-59e5-4e42-981f-3be968043ff9",
+      "season": 4,
+      "number": 5,
+      "name": "405 Method Not Allowed",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "aca08bca-792b-47d3-a2a8-eb0b18020378",
+      "season": 4,
+      "number": 6,
+      "name": "406 Not Acceptable",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "cbe12846-dff0-433d-af18-ca0a85b125ad",
+      "season": 4,
+      "number": 7,
+      "name": "407 Proxy Authentication Required",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3abde6e3-e914-4624-9d1b-b516bfe36c8b",
+      "season": 4,
+      "number": 8,
+      "name": "408 Request Timeout",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8f4c25c0-59a4-4540-8af8-78bc26e97380",
+      "season": 4,
+      "number": 9,
+      "name": "409 Conflict",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "747db385-4be2-42db-9813-48661bba4f93",
+      "season": 4,
+      "number": 10,
+      "name": "410 Gone",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f8cfe3df-6d42-4884-ac72-c3a035b55566",
+      "season": 4,
+      "number": 11,
+      "name": "eXit",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d4d1722f-d758-411d-98b0-5fa686f0a4d1",
+      "season": 4,
+      "number": 12,
+      "name": "whoami",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d8be040f-ba72-4126-9db2-6a9033169bc3",
+      "season": 4,
+      "number": 13,
+      "name": "Hello, Elliot",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

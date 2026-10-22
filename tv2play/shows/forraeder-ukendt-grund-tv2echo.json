@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:forraeder-ukendt-grund-tv2echo",
+  "name": "Forræder - Ukendt grund",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5459d453-b3bf-49ff-adbf-02871edbc41f",
+      "season": 1,
+      "number": 1,
+      "name": "Hvem tør stole på hvem?",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "fd52d95c-7da0-434e-a423-83f32a28435e",
+      "season": 1,
+      "number": 2,
+      "name": "Det første mord",
+      "airdate": "2024-10-19"
+    },
+    {
+      "id": "08de7053-a25b-46cc-948b-eb7a1de4b677",
+      "season": 1,
+      "number": 3,
+      "name": "Et falsk venskab?",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "8642c21d-e0ce-4b18-b56d-b9791e087838",
+      "season": 1,
+      "number": 4,
+      "name": "I en kælder sort som kul",
+      "airdate": "2024-11-02"
+    },
+    {
+      "id": "84de44b3-d5e5-4407-9059-e6b317ee940c",
+      "season": 1,
+      "number": 5,
+      "name": "Bål og brand",
+      "airdate": "2024-11-09"
+    },
+    {
+      "id": "810c5704-6b17-4bb4-a1fa-176aa48ce06d",
+      "season": 1,
+      "number": 6,
+      "name": "Hvil i fred",
+      "airdate": "2024-11-16"
+    },
+    {
+      "id": "3416b723-263d-4958-9963-5b21ac44cc6e",
+      "season": 1,
+      "number": 7,
+      "name": "En tung byrde",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "977c26ed-130a-45a6-8e86-30eefa526484",
+      "season": 1,
+      "number": 8,
+      "name": "Den store finale",
+      "airdate": "2024-11-30"
+    },
+    {
+      "id": "81d4b586-bf51-4fdd-842d-273bf6096a48",
+      "season": 2,
+      "number": 1,
+      "name": "Så kører bussen",
+      "airdate": "2025-09-20"
+    },
+    {
+      "id": "27d73615-649b-4bde-999b-392da20a2216",
+      "season": 2,
+      "number": 2,
+      "name": "Go big or go home",
+      "airdate": "2025-09-27"
+    },
+    {
+      "id": "ff4ab82c-5691-4cab-84d8-11f3f88c692d",
+      "season": 2,
+      "number": 3,
+      "name": "Sidste vers",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "2307f9ca-7087-41d5-b241-086a80cf7e29",
+      "season": 2,
+      "number": 4,
+      "name": "Over åen efter vand",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "c5c22ba6-6113-4b18-bad1-019455b6c9fb",
+      "season": 2,
+      "number": 5,
+      "name": "Slagterens datter",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "de8f4936-899c-4a42-866e-75c466cf954e",
+      "season": 2,
+      "number": 6,
+      "name": "Sporskifte",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "6c8c94a7-0550-466e-83f5-46e12e2e72be",
+      "season": 2,
+      "number": 7,
+      "name": "Retten er sat",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "4cbe80d7-bd5d-41ff-837a-23b7352f6b4f",
+      "season": 2,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "9190804e-ff8f-4dce-84d8-59fa4697569e",
+      "season": 3,
+      "number": 1,
+      "name": "Den hemmelige forræder",
+      "airdate": "2026-04-17"
+    },
+    {
+      "id": "8a52793a-8e09-4657-a777-d2b455306f87",
+      "season": 3,
+      "number": 2,
+      "name": "Knæk koden",
+      "airdate": "2026-04-24"
+    },
+    {
+      "id": "070760f3-a67a-47c0-ac61-727f09e24cb1",
+      "season": 3,
+      "number": 3,
+      "name": "Én for alle, alle for sig",
+      "airdate": "2026-05-01"
+    },
+    {
+      "id": "c2e59520-1df0-49e5-8a84-103e4244086e",
+      "season": 3,
+      "number": 4,
+      "name": "Dødsdømt, men i live",
+      "airdate": "2026-05-08"
+    },
+    {
+      "id": "6aab5b63-aeb7-4522-8266-749df2a78099",
+      "season": 3,
+      "number": 5,
+      "name": "Du ser spøgelser",
+      "airdate": "2026-05-15"
+    },
+    {
+      "id": "afb60210-3d77-4ede-a9bc-e297383fbd57",
+      "season": 3,
+      "number": 6,
+      "name": "Blinde passagerer",
+      "airdate": "2026-05-22"
+    },
+    {
+      "id": "ad2b7860-e39a-47ce-a843-ad0ee3c786dc",
+      "season": 3,
+      "number": 7,
+      "name": "Sandhedens stævnemøde",
+      "airdate": "2026-05-29"
+    },
+    {
+      "id": "6d41d834-4d44-46c2-9e99-48e3732055b0",
+      "season": 3,
+      "number": 8,
+      "name": "Det sidste runde bord",
+      "airdate": "2026-06-05"
+    }
+  ]
+}

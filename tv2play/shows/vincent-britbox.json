@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:vincent-britbox",
+  "name": "Vincent",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "68574d90-edb7-45b9-8214-bdd197a2cf25",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "97cdf93f-163c-418e-b350-c29fa830b9ed",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "7a29b4cd-b8c1-4933-ad6e-9dd19ae636cc",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "49199e15-d6b5-4c0d-9285-508fe7fdbeb0",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "a0b5eef8-949d-4ecc-927b-f19d36f94cdc",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "c0692321-f0dd-46c3-8456-e10aa2453218",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "1e816855-8a84-4f9a-8920-e2a86ed41401",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "3a8453d7-7aee-4ae1-afd1-4f011d87f7f9",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-06-26"
+    }
+  ]
+}

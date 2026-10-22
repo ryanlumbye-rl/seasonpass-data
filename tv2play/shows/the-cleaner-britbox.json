@@ -1,0 +1,143 @@
+{
+  "id": "tv2play:the-cleaner-britbox",
+  "name": "The Cleaner",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bf7b35b1-3364-40e7-b0e3-02efb5d9f396",
+      "season": 1,
+      "number": 1,
+      "name": "The Widow",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b94146cb-6f21-4eeb-8fb5-b0bf9ebfeed7",
+      "season": 1,
+      "number": 2,
+      "name": "The Writer",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "68d39a95-0a5b-42e4-bde0-0a99b7795a53",
+      "season": 1,
+      "number": 3,
+      "name": "The Neighbour",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b42adc6a-a04e-4d47-94f1-258f3e7d0fe0",
+      "season": 1,
+      "number": 4,
+      "name": "The Aristocrat",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "927edefc-0c19-4dc0-9897-7d5221f0523d",
+      "season": 1,
+      "number": 5,
+      "name": "The Influencer",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "401c06d8-4250-49b3-a311-64a7919ce71b",
+      "season": 1,
+      "number": 6,
+      "name": "The One",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "50931c86-3b08-4d0b-8136-2daedf78536c",
+      "season": 2,
+      "number": 1,
+      "name": "A Clean Christmas",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fa656526-d6b6-4933-a838-d29056f683be",
+      "season": 2,
+      "number": 2,
+      "name": "The Transaction",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c29924bd-5116-4259-9609-2568373e59eb",
+      "season": 2,
+      "number": 3,
+      "name": "The Clown",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "755ace69-cee9-4b87-a3ae-c41bf220e3f4",
+      "season": 2,
+      "number": 4,
+      "name": "The Night Shift",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f6a75267-bce3-47c5-9114-fc57f045113c",
+      "season": 2,
+      "number": 5,
+      "name": "The Shaman",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d9bbdbc7-fcaa-4251-9b20-b5499bc5b72b",
+      "season": 2,
+      "number": 6,
+      "name": "The Statue",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1104e595-759f-419a-b43b-dc593e20cb5a",
+      "season": 2,
+      "number": 7,
+      "name": "The Dead End",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "79be5d45-d5e1-44f0-a78f-3df945d0a329",
+      "season": 3,
+      "number": 1,
+      "name": "The Reunion",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "318e5dc8-335f-4060-b027-300c7f270f08",
+      "season": 3,
+      "number": 2,
+      "name": "The Baby",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "f0bcb6ef-f1ec-4421-984c-8a1cb8abc463",
+      "season": 3,
+      "number": 3,
+      "name": "The Committee",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "21f67b6a-6ee7-4e54-9fe2-a5780197137e",
+      "season": 3,
+      "number": 4,
+      "name": "The Lighthouse",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "89589d18-55ee-4042-8802-7966c9e42598",
+      "season": 3,
+      "number": 5,
+      "name": "The Housekeeper",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "1860e2fe-6dde-42a2-bc4b-0a465a633baa",
+      "season": 3,
+      "number": 6,
+      "name": "The Wedding",
+      "airdate": "2025-02-19"
+    }
+  ]
+}

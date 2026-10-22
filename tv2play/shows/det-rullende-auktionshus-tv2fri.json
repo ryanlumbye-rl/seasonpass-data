@@ -1,0 +1,458 @@
+{
+  "id": "tv2play:det-rullende-auktionshus-tv2fri",
+  "name": "Det rullende auktionshus",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "985c1e71-5a59-48ae-a64c-f08c2fc4c0a8",
+      "season": 1,
+      "number": 1,
+      "name": "Skjulte rum og unik kunst",
+      "airdate": "2024-09-17"
+    },
+    {
+      "id": "ab85dc5e-5f09-4eec-beee-26574c8f034d",
+      "season": 1,
+      "number": 2,
+      "name": "En stor gevinst på vej?",
+      "airdate": "2024-09-17"
+    },
+    {
+      "id": "52cafe06-de8b-47d3-a176-0ad71f9d7c69",
+      "season": 1,
+      "number": 3,
+      "name": "På svigermors gode side",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "77588e23-bede-4c78-86ee-2687fb5aa84c",
+      "season": 1,
+      "number": 4,
+      "name": "Nu spiller klaveret",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "e7435963-f56e-4105-bedf-1a6aee093a5d",
+      "season": 1,
+      "number": 5,
+      "name": "En auktion med fart på",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "f3d4be7d-0e6d-41fa-b36e-bee5c79e24d5",
+      "season": 1,
+      "number": 6,
+      "name": "Et stort flytteprojekt",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "6b5c3b7b-85a7-4cab-8b7a-d779b03e7711",
+      "season": 1,
+      "number": 7,
+      "name": "Småt er godt",
+      "airdate": "2024-09-20"
+    },
+    {
+      "id": "83468779-14c3-41c3-95b5-32438f166a3f",
+      "season": 1,
+      "number": 8,
+      "name": "Fra lovens lange arm",
+      "airdate": "2024-09-20"
+    },
+    {
+      "id": "1a34fbb7-12ab-4d63-aca1-f2dbf74e30c3",
+      "season": 1,
+      "number": 9,
+      "name": "Sjældne barndomssamlinger",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "35d5f016-deec-4db8-9628-c86cd6f3075a",
+      "season": 1,
+      "number": 10,
+      "name": "Fra det 17. århundrede",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "5ffd9d60-3464-4db7-8e1a-27b95a3d0b18",
+      "season": 1,
+      "number": 11,
+      "name": "Stjernedrys over auktionshuset",
+      "airdate": "2024-09-24"
+    },
+    {
+      "id": "24fde4d2-351c-468c-a730-2e1a5823a85c",
+      "season": 1,
+      "number": 12,
+      "name": "Kan et juleønske blive til virkelighed?",
+      "airdate": "2024-09-24"
+    },
+    {
+      "id": "b098212a-9d71-4ce7-89d9-049ae482da56",
+      "season": 1,
+      "number": 13,
+      "name": "Årgangschampagne og kunstsamling",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "4e46beba-4d56-4f10-894f-8575c1dc34ef",
+      "season": 1,
+      "number": 14,
+      "name": "En kendis, der kender sin pris",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "cf88f0b3-9a37-4ddd-afbb-a02e20e8040f",
+      "season": 1,
+      "number": 15,
+      "name": "Tips fra en balletdanser",
+      "airdate": "2024-09-26"
+    },
+    {
+      "id": "7f97f843-8046-40f6-83ff-1b6a64c11d58",
+      "season": 2,
+      "number": 1,
+      "name": "I en god sags tjeneste",
+      "airdate": "2024-09-26"
+    },
+    {
+      "id": "fe68f67d-baea-49b3-841f-db26936d942e",
+      "season": 2,
+      "number": 2,
+      "name": "Stilfulde samleobjekter",
+      "airdate": "2024-09-27"
+    },
+    {
+      "id": "b9497997-d903-4eb7-9667-789294605b07",
+      "season": 2,
+      "number": 3,
+      "name": "Store drømme på auktionshuset",
+      "airdate": "2024-09-27"
+    },
+    {
+      "id": "8cd264db-a343-4535-b750-52f3b5e95f1f",
+      "season": 2,
+      "number": 4,
+      "name": "En rejse tilbage i tiden",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "b388028b-fd47-4042-8d4b-3b2f43ffa9ba",
+      "season": 2,
+      "number": 5,
+      "name": "Mesterligt håndværk",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "fbcf3e28-1273-4ae0-b419-86b6bf76fa24",
+      "season": 2,
+      "number": 6,
+      "name": "Gyngeheste og campingvogne",
+      "airdate": "2024-10-01"
+    },
+    {
+      "id": "d050753e-c26c-40b4-9a7e-7aa1e61eb0f1",
+      "season": 2,
+      "number": 7,
+      "name": "Fra frimærker til modelbiler",
+      "airdate": "2024-10-01"
+    },
+    {
+      "id": "50942ff2-8587-44f4-b686-2d1cc435798d",
+      "season": 2,
+      "number": 8,
+      "name": "Tid til at give slip",
+      "airdate": "2024-10-02"
+    },
+    {
+      "id": "dde8257f-3a31-4706-ae65-09edcd3ad983",
+      "season": 2,
+      "number": 9,
+      "name": "Når arven kommer i flyttekasser",
+      "airdate": "2024-10-02"
+    },
+    {
+      "id": "3aef03a3-6d9a-422a-a3a7-8c4afb6355a6",
+      "season": 2,
+      "number": 10,
+      "name": "Postkort i massevis",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "35d2d914-4a87-4d6e-b77f-f7f723a5f36e",
+      "season": 2,
+      "number": 11,
+      "name": "Et nyt, kærligt hjem",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "0a1af293-3b21-4f7b-a0ba-7f0f1e99103b",
+      "season": 2,
+      "number": 12,
+      "name": "Arvestykker fra en militærfamilie",
+      "airdate": "2024-10-04"
+    },
+    {
+      "id": "d0a46b59-9235-4249-8160-33436165de17",
+      "season": 2,
+      "number": 13,
+      "name": "Værdifulde minder og gemte skatte",
+      "airdate": "2024-10-04"
+    },
+    {
+      "id": "331ac57e-1e0f-4631-be2c-c689fa6b27b5",
+      "season": 2,
+      "number": 14,
+      "name": "En samling af afrikanske artefakter",
+      "airdate": "2024-10-07"
+    },
+    {
+      "id": "a520d64a-ccbc-404b-84a5-a4f6fd2a3d45",
+      "season": 2,
+      "number": 15,
+      "name": "En succesfuld auktionsdag",
+      "airdate": "2024-10-07"
+    },
+    {
+      "id": "d9668552-9b43-40f8-a28e-be353e9c5f98",
+      "season": 2,
+      "number": 16,
+      "name": "En eksperts vurdering",
+      "airdate": "2024-10-08"
+    },
+    {
+      "id": "0ae3f859-8e90-4923-87f0-5e1d2e154c2a",
+      "season": 2,
+      "number": 17,
+      "name": "Nye fund skal under hammeren",
+      "airdate": "2024-10-08"
+    },
+    {
+      "id": "9790a031-ae20-4095-97f4-9c0187b7754e",
+      "season": 2,
+      "number": 18,
+      "name": "Mormors minder på auktion",
+      "airdate": "2024-10-09"
+    },
+    {
+      "id": "395e55a4-bcf8-4c3b-8bbc-365bf5fb0b70",
+      "season": 2,
+      "number": 19,
+      "name": "Barndomslegetøj fra loftet",
+      "airdate": "2024-10-09"
+    },
+    {
+      "id": "22f5e99f-73e5-44e9-a34c-4e83459fc312",
+      "season": 2,
+      "number": 20,
+      "name": "På jagt efter guld",
+      "airdate": "2024-10-10"
+    },
+    {
+      "id": "4f39b596-9811-479e-b231-21ee1bd74b6c",
+      "season": 2,
+      "number": 21,
+      "name": "Auktionshuset ser stjerner",
+      "airdate": "2024-10-10"
+    },
+    {
+      "id": "4becfe7b-1320-458b-8822-087fe4409fa7",
+      "season": 2,
+      "number": 22,
+      "name": "På auktionseventyr i Frankrig",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "a477252c-a6b3-43ba-86f3-f05b1b633d0a",
+      "season": 2,
+      "number": 24,
+      "name": "På skattejagt i garagen",
+      "airdate": "2024-10-14"
+    },
+    {
+      "id": "9be66042-88bb-4cc8-9146-423f24ced1c5",
+      "season": 2,
+      "number": 25,
+      "name": "En auktion med pop og rock",
+      "airdate": "2024-10-14"
+    },
+    {
+      "id": "2682cb75-7bcc-443f-88ef-6e8cc19a83bd",
+      "season": 3,
+      "number": 1,
+      "name": "Høje bud på en sjælden samling",
+      "airdate": "2024-10-15"
+    },
+    {
+      "id": "97e366d2-9529-4c7b-a918-576f6f5716e3",
+      "season": 3,
+      "number": 2,
+      "name": "Sultne dyr og værdifulde ure",
+      "airdate": "2024-10-15"
+    },
+    {
+      "id": "5be37e34-ddbf-407f-8c5d-747f2b95600e",
+      "season": 3,
+      "number": 3,
+      "name": "Lightere og keramiske heste",
+      "airdate": "2024-10-16"
+    },
+    {
+      "id": "5cbf4e93-06c9-4699-8a93-bc0535220a6d",
+      "season": 3,
+      "number": 4,
+      "name": "Fra barberens samling",
+      "airdate": "2024-10-16"
+    },
+    {
+      "id": "3b579ba1-998c-47ea-83e2-30847bdf1e08",
+      "season": 3,
+      "number": 5,
+      "name": "Klokker og et sjældent ur",
+      "airdate": "2024-10-17"
+    },
+    {
+      "id": "abea266e-7b5a-4679-b872-8618fc5ec151",
+      "season": 3,
+      "number": 6,
+      "name": "Arvestykker gennem tre generationer",
+      "airdate": "2024-10-17"
+    },
+    {
+      "id": "5f4ee933-241d-4dd0-9f95-4a03845cd496",
+      "season": 3,
+      "number": 7,
+      "name": "Fiskeudstyr og damptoge",
+      "airdate": "2024-10-18"
+    },
+    {
+      "id": "511588ac-4b33-4ca5-8d22-b8bc58e1dc03",
+      "season": 3,
+      "number": 8,
+      "name": "Sjældne radioer og en jukeboks",
+      "airdate": "2024-10-18"
+    },
+    {
+      "id": "b483dd12-d262-4a6a-af1b-3df9e5798f53",
+      "season": 3,
+      "number": 9,
+      "name": "Masser af maskiner",
+      "airdate": "2024-10-21"
+    },
+    {
+      "id": "12da8f9a-37eb-4690-9b5b-07d5a72c721a",
+      "season": 3,
+      "number": 10,
+      "name": "Victorianske genstande",
+      "airdate": "2024-10-21"
+    },
+    {
+      "id": "20b2fbf0-126e-411b-874b-d870378bc00e",
+      "season": 3,
+      "number": 11,
+      "name": "En mesters værk",
+      "airdate": "2024-10-22"
+    },
+    {
+      "id": "3b6f8a23-5b48-4e93-9bc2-f74930c80a53",
+      "season": 3,
+      "number": 12,
+      "name": "Legetøj, bamser og dukker",
+      "airdate": "2024-10-22"
+    },
+    {
+      "id": "59e412a7-d344-4887-ba77-b2535625f10b",
+      "season": 3,
+      "number": 13,
+      "name": "Et nyt, kærligt hjem",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "5cc71c20-b523-4642-8ddd-9460c10aad38",
+      "season": 3,
+      "number": 14,
+      "name": "En god gevinst",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "321a2842-2a5b-420a-812a-2d187a2c6235",
+      "season": 3,
+      "number": 15,
+      "name": "En golfspillers minder",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "4ff7c8a4-0fb9-476a-bb88-2c9f0d49e583",
+      "season": 3,
+      "number": 16,
+      "name": "Når olie er alt",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "0143d3a0-0342-47db-be7b-129a7b4dc341",
+      "season": 3,
+      "number": 17,
+      "name": "Globetrottere og en musikelsker",
+      "airdate": "2024-10-25"
+    },
+    {
+      "id": "8e7d6667-b375-4b21-a680-eaabdf488040",
+      "season": 3,
+      "number": 18,
+      "name": "Kvantitet eller kvalitet?",
+      "airdate": "2024-10-25"
+    },
+    {
+      "id": "206f1507-4a92-4422-bed8-7efda0dc7309",
+      "season": 3,
+      "number": 19,
+      "name": "Mærkelig, gammel, stor og lille",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "60411835-edc6-4f92-8726-904aae345844",
+      "season": 3,
+      "number": 20,
+      "name": "Ingen plads til fejl",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "1a81fb67-88bb-464b-9918-4abb1c52ac43",
+      "season": 3,
+      "number": 21,
+      "name": "Oprydning hos en kendis",
+      "airdate": "2024-10-29"
+    },
+    {
+      "id": "eae3df6c-c1a2-43b2-84d8-428f5b225a34",
+      "season": 3,
+      "number": 22,
+      "name": "På opdagelse hos en legende",
+      "airdate": "2024-10-29"
+    },
+    {
+      "id": "610177df-b04d-4de7-bb4d-ca1fc10c2f67",
+      "season": 3,
+      "number": 23,
+      "name": "Minder fra karrieren",
+      "airdate": "2024-10-30"
+    },
+    {
+      "id": "b9370e1e-a056-4ebb-8792-50b147a25c5f",
+      "season": 3,
+      "number": 24,
+      "name": "Gemte skatte hos stjernerne",
+      "airdate": "2024-10-30"
+    },
+    {
+      "id": "017102ad-b5e0-452d-9afe-9e6862cdbecc",
+      "season": 3,
+      "number": 25,
+      "name": "Danske stole og en tryllekunstners sæk",
+      "airdate": "2024-10-31"
+    }
+  ]
+}

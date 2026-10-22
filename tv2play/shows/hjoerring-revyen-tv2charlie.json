@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:hjoerring-revyen-tv2charlie",
+  "name": "Hjørring Revyen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4d4bb196-791e-4150-83f3-7f89c2813260",
+      "season": 2021,
+      "number": 1,
+      "name": "Stærkt hold i underholdende revy",
+      "airdate": "2021-12-08"
+    },
+    {
+      "id": "aa44e6ea-633b-41c0-9261-c31e9dd8a0d4",
+      "season": 2021,
+      "number": 2,
+      "name": "Stærkt hold i underholdende revy",
+      "airdate": "2021-12-08"
+    },
+    {
+      "id": "01654477-d918-473d-9b04-c757e2bea3e5",
+      "season": 2022,
+      "number": 1,
+      "name": "Hjørring Revyen 2022 - del 1",
+      "airdate": "2022-12-21"
+    },
+    {
+      "id": "972a6b14-4d2d-4932-b32f-d90b69c7e8b7",
+      "season": 2022,
+      "number": 2,
+      "name": "Hjørring Revyen 2022 - del 2",
+      "airdate": "2022-12-21"
+    },
+    {
+      "id": "6e34336a-1e13-4a5d-89ef-815b3efa4d94",
+      "season": 2023,
+      "number": 1,
+      "name": "Fra Vendsyssel Teater - del 1",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "ace8c1a1-fb12-43c5-8655-9e17b828f973",
+      "season": 2023,
+      "number": 2,
+      "name": "Fra Vendsyssel Teater - del 2",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "c811341c-747a-46f8-bae5-c98409d1ba8e",
+      "season": 2024,
+      "number": 1,
+      "name": "Hjørring Revyen 2024, del 1",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "61d4edd9-131b-458b-b032-09627f1db9ce",
+      "season": 2024,
+      "number": 2,
+      "name": "Hjørring Revyen 2024, del 2",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "3e7b5b0e-7ff6-441d-a516-90d1e43c2224",
+      "season": 2025,
+      "number": 1,
+      "name": "Hjørring Revyen 2025 - del 1",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "94eefb2b-b2eb-4f48-9bd3-2b6f46eddc2e",
+      "season": 2025,
+      "number": 2,
+      "name": "Hjørring Revyen 2025 - del 2",
+      "airdate": "2025-12-17"
+    }
+  ]
+}

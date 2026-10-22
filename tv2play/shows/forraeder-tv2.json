@@ -1,0 +1,234 @@
+{
+  "id": "tv2play:forraeder-tv2",
+  "name": "Forræder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "72d3b06d-3924-4dcf-8eb0-f38737747438",
+      "season": 1,
+      "number": 1,
+      "name": "Lad spillet begynde",
+      "airdate": "2023-07-28"
+    },
+    {
+      "id": "68dedd15-3360-48d6-90a7-367606ea7b61",
+      "season": 1,
+      "number": 2,
+      "name": "Nu kører toget",
+      "airdate": "2023-08-04"
+    },
+    {
+      "id": "b65abbcf-ea16-4d24-a7f0-edf6af88d05b",
+      "season": 1,
+      "number": 3,
+      "name": "Nye alliancer",
+      "airdate": "2023-08-11"
+    },
+    {
+      "id": "15105756-7001-4f10-9ee7-5ead09f5c02b",
+      "season": 1,
+      "number": 4,
+      "name": "Dødslisten",
+      "airdate": "2023-08-18"
+    },
+    {
+      "id": "5cb3b5c6-a83c-47a6-875b-0589111063db",
+      "season": 1,
+      "number": 5,
+      "name": "Hvem peger pilene på?",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "357eedff-1b57-4473-bdff-1e0305888c79",
+      "season": 1,
+      "number": 6,
+      "name": "Fristet",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "4980ce3a-982d-473a-8310-8b2607393383",
+      "season": 1,
+      "number": 7,
+      "name": "Nettet strammes",
+      "airdate": "2023-09-08"
+    },
+    {
+      "id": "2d1cec0a-c343-4a65-a289-8fbd4726ae39",
+      "season": 1,
+      "number": 8,
+      "name": "Den endelige kamp",
+      "airdate": "2023-09-15"
+    },
+    {
+      "id": "29eb11fe-f7cf-4a4e-9bdc-dc5e0dfb7418",
+      "season": 2,
+      "number": 1,
+      "name": "Hvem tør du stole på?",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "e1c9c6bc-987b-49a5-bfd5-8fa9efa1b2ea",
+      "season": 2,
+      "number": 2,
+      "name": "To stemmer i én",
+      "airdate": "2024-04-19"
+    },
+    {
+      "id": "81783b85-5836-47ce-af06-54c8538da045",
+      "season": 2,
+      "number": 3,
+      "name": "En splittet gruppe",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "9b8d1282-c3c3-469f-bd16-13a6d6367e41",
+      "season": 2,
+      "number": 4,
+      "name": "Fra ven til fjende",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "fae836cc-6d66-4e8f-a467-7da01184f471",
+      "season": 2,
+      "number": 5,
+      "name": "Stukket i ryggen",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "85af3916-691d-418d-b5f5-c9e2184085f1",
+      "season": 2,
+      "number": 6,
+      "name": "Død eller dobbeltspil?",
+      "airdate": "2024-05-17"
+    },
+    {
+      "id": "9138f598-ba2a-4721-b0fe-819c7e6dcce9",
+      "season": 2,
+      "number": 7,
+      "name": "Gammelt nag ruster aldrig",
+      "airdate": "2024-05-24"
+    },
+    {
+      "id": "32a3093b-1160-480d-9fcc-7da8b964cf49",
+      "season": 2,
+      "number": 8,
+      "name": "Alle kneb gælder",
+      "airdate": "2024-05-31"
+    },
+    {
+      "id": "a39a87ef-9908-476e-82e9-a06e0f72de7c",
+      "season": 3,
+      "number": 1,
+      "name": "Dæmoner i sukkerskålen",
+      "airdate": "2025-04-11"
+    },
+    {
+      "id": "148b992a-4f15-410c-956a-bed6847c0f17",
+      "season": 3,
+      "number": 2,
+      "name": "Massehysteri og mavefornemmelser",
+      "airdate": "2025-04-18"
+    },
+    {
+      "id": "520712fc-5b58-4c94-8e98-cb4d6a8f5d0f",
+      "season": 3,
+      "number": 3,
+      "name": "En høne at plukke",
+      "airdate": "2025-04-25"
+    },
+    {
+      "id": "5d4ebac7-2d2b-44ce-856b-38e1fed1e9a1",
+      "season": 3,
+      "number": 4,
+      "name": "Hav en dejlig fødselsdag!",
+      "airdate": "2025-05-02"
+    },
+    {
+      "id": "60d4d805-cc10-4499-8f26-3875c610ebbd",
+      "season": 3,
+      "number": 5,
+      "name": "Nye tider i konklavet",
+      "airdate": "2025-05-09"
+    },
+    {
+      "id": "8e10aa43-8de6-441b-95de-af787ed5bfa1",
+      "season": 3,
+      "number": 6,
+      "name": "Øjenmakker",
+      "airdate": "2025-05-16"
+    },
+    {
+      "id": "c49923c3-7f6f-4769-9c3d-91e0ecc99ef4",
+      "season": 3,
+      "number": 7,
+      "name": "Såret fugl",
+      "airdate": "2025-05-23"
+    },
+    {
+      "id": "a5531449-7e90-48b6-b123-54359794f8e8",
+      "season": 3,
+      "number": 8,
+      "name": "Finaledag på slottet",
+      "airdate": "2025-05-30"
+    },
+    {
+      "id": "794bf54f-5a0d-4398-a591-d7da2b81bafa",
+      "season": 4,
+      "number": 1,
+      "name": "En ny begyndelse",
+      "airdate": "2026-08-07"
+    },
+    {
+      "id": "0f89c8b0-833e-412b-8858-c3c126d66c4d",
+      "season": 4,
+      "number": 2,
+      "name": "100 kutter",
+      "airdate": "2026-08-14"
+    },
+    {
+      "id": "c647e58d-6a81-4b1a-9406-b86554bbe664",
+      "season": 4,
+      "number": 3,
+      "name": "Dødsdømte",
+      "airdate": "2026-08-21"
+    },
+    {
+      "id": "c1036747-ef39-4165-bf3c-43686e948797",
+      "season": 4,
+      "number": 4,
+      "name": "Blinde vinkler",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "7f54b349-3214-44a5-b569-04200caa42aa",
+      "season": 4,
+      "number": 5,
+      "name": "Revner i facaden",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "a7abc14d-2388-4053-a2af-349824384109",
+      "season": 4,
+      "number": 6,
+      "name": "I søgelyset",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "51125615-4ed9-40a6-a383-bd1da36dbf36",
+      "season": 4,
+      "number": 7,
+      "name": "Hemmelighedernes bibliotek",
+      "airdate": "2026-09-18"
+    },
+    {
+      "id": "9e5affce-4b67-41d4-b73c-6ecca3219e10",
+      "season": 4,
+      "number": 8,
+      "name": "Den sidste løgn",
+      "airdate": "2026-09-25"
+    }
+  ]
+}

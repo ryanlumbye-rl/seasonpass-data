@@ -1,0 +1,143 @@
+{
+  "id": "tv2play:slikbyggerne-oiii",
+  "name": "Slikbyggerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "81fbf1b6-9ace-4cd4-999b-63745571ceb4",
+      "season": 1,
+      "number": 1,
+      "name": "Uhyggelig Halloween-dekoration med Naja Münster",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "bf68a3d4-6718-4d9c-a098-175454792615",
+      "season": 1,
+      "number": 2,
+      "name": "Udfordrende slik-kage med Emil Obel",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "3562f774-0cca-4b0d-9187-fb29358e5a93",
+      "season": 1,
+      "number": 3,
+      "name": "Sejt navneskilt til værelset med Kaspar og Lambang",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "e95c9713-dbcb-45bd-b706-573120ade2bb",
+      "season": 1,
+      "number": 4,
+      "name": "Unik Mobilbaggrund Med Niki Topgaard",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "899745c6-3d53-4b08-b675-d94a90f25b5d",
+      "season": 1,
+      "number": 5,
+      "name": "De vildeste accessories med Jon Elster",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "03afeede-ed63-4435-901e-2fe4b1a3450f",
+      "season": 1,
+      "number": 6,
+      "name": "Nuttede slik-dyr med Anders Kofoed",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "15fd2ccd-3f5c-4ab7-b052-c4f88ce4e38b",
+      "season": 1,
+      "number": 7,
+      "name": "Svedigt slik-portræt med Iben Devantie",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "15d459a0-e6ce-4ee9-8a84-3c1893e126bf",
+      "season": 2,
+      "number": 1,
+      "name": "Kærlighedsværker med Alexander Husum og Nelly",
+      "airdate": "2025-02-08"
+    },
+    {
+      "id": "339a0274-f503-435e-b5d4-9484c802d733",
+      "season": 2,
+      "number": 2,
+      "name": "Sliksmykker med Signe Kragh",
+      "airdate": "2025-02-08"
+    },
+    {
+      "id": "27bdd242-b37e-46f7-8697-082fbbfb2d88",
+      "season": 2,
+      "number": 3,
+      "name": "Festpynt med Elias Buch",
+      "airdate": "2025-02-08"
+    },
+    {
+      "id": "d3900ea4-cd51-404b-929b-d21bb3df5a7e",
+      "season": 2,
+      "number": 4,
+      "name": "Mystik, magi og tarotkort med Mathias Helt",
+      "airdate": "2025-02-08"
+    },
+    {
+      "id": "b191452a-1343-47a0-851f-6354f89c779f",
+      "season": 2,
+      "number": 5,
+      "name": "Hund af slik med Astrid fra Mit nye værelse",
+      "airdate": "2025-02-08"
+    },
+    {
+      "id": "f94e8d5b-24a9-4fe8-9993-0764003a6bae",
+      "season": 2,
+      "number": 6,
+      "name": "Finale! Hvem tager sejren?",
+      "airdate": "2025-02-08"
+    },
+    {
+      "id": "4edfca74-f3b3-4fe3-bea6-b3d9f01a94e1",
+      "season": 3,
+      "number": 1,
+      "name": "Sliksko med Lærke Sejer",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "6efc438a-ca64-42e8-918a-96fe91824a5d",
+      "season": 3,
+      "number": 2,
+      "name": "Gaming i slik med Judex",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "fa9ba90c-23bb-4c20-ae9e-182b75539fb9",
+      "season": 3,
+      "number": 3,
+      "name": "På slikrejse med Sofie Martinussen",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "14ed1204-b86c-4dd8-badf-0b07db80565b",
+      "season": 3,
+      "number": 4,
+      "name": "Slikmad med Gadtoft",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "1d5ac91b-c15e-4fab-a37e-7246cfb23543",
+      "season": 3,
+      "number": 5,
+      "name": "Slikfamilie med Malle Riemer",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "8c3a0c18-9e45-4c48-8bf5-a79e0266d0f5",
+      "season": 3,
+      "number": 6,
+      "name": "Finale! Hvem vinder?",
+      "airdate": "2026-06-27"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:eyewitness-tv2play",
+  "name": "Eyewitness",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f8d9d512-4cb0-4012-8745-07799212cd02",
+      "season": 1,
+      "number": 1,
+      "name": "Buffalo '07",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "1fbe95ac-bf20-4352-a879-db90ed9133bc",
+      "season": 1,
+      "number": 2,
+      "name": "Bless the Beast and the Children",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "a26b9ba3-e971-459d-90ba-fa21a1844f01",
+      "season": 1,
+      "number": 3,
+      "name": "Bella, Bella, Bella",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "9ca1f7fe-c900-4448-91ee-3e14d39f405b",
+      "season": 1,
+      "number": 4,
+      "name": "Crème Brûlée",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "c2a778b5-8d43-417a-8f1c-2b4333288b6e",
+      "season": 1,
+      "number": 5,
+      "name": "The Lilies",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "3a4a219a-ef1a-487a-b71e-cabd01a89afc",
+      "season": 1,
+      "number": 6,
+      "name": "The Yellow Couch",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "93b4afa2-b7e5-4467-ae2e-cebca83e0909",
+      "season": 1,
+      "number": 7,
+      "name": "They Lied",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "3b6b3381-afba-47d0-9e0a-d01770ea3059",
+      "season": 1,
+      "number": 8,
+      "name": "The Larsons' Dog",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "ae32e476-8225-4b51-a06c-690710432a18",
+      "season": 1,
+      "number": 9,
+      "name": "Savior Unknown",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "ee121946-92d7-43bf-827a-fa8a661fa7cb",
+      "season": 1,
+      "number": 10,
+      "name": "Mother's Day",
+      "airdate": "2026-08-06"
+    }
+  ]
+}

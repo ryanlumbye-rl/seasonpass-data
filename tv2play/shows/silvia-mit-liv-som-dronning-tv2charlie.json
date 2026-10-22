@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:silvia-mit-liv-som-dronning-tv2charlie",
+  "name": "Silvia - mit liv som dronning",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c7c675d2-ba08-40af-b533-51e3eaa6e526",
+      "season": 1,
+      "number": 2,
+      "name": "Royalt bryllup i 1976",
+      "airdate": "2024-01-25"
+    }
+  ]
+}

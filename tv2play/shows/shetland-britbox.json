@@ -1,0 +1,360 @@
+{
+  "id": "tv2play:shetland-britbox",
+  "name": "Shetland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "df865d92-409f-40f0-acfa-79ece8849159",
+      "season": 1,
+      "number": 1,
+      "name": "Rødt støv, del 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "809352c4-b92d-446d-b89a-4dac660bc973",
+      "season": 1,
+      "number": 2,
+      "name": "Rødt støv, del 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "241d1ba0-96e1-49a3-a855-fe7b0437be5f",
+      "season": 2,
+      "number": 1,
+      "name": "Sort som ravnen, del 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fb32653a-6b4c-48a7-8677-afb0ac55e134",
+      "season": 2,
+      "number": 2,
+      "name": "Sort som ravnen, del 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "748e5034-f720-442f-ab12-6a969e8924e1",
+      "season": 2,
+      "number": 3,
+      "name": "Dead Water, del 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cb6ed9fa-cf9f-4240-a3bb-2f7d88016a1f",
+      "season": 2,
+      "number": 4,
+      "name": "Dead Water, del 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f1777524-a386-47f9-be8f-18211fad22ed",
+      "season": 2,
+      "number": 5,
+      "name": "Blue Lightning, del 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1cd1b7b1-9f80-4157-b201-61a20b7bbdd1",
+      "season": 2,
+      "number": 6,
+      "name": "Blue Lightning, del 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "470793c3-f0fb-406f-8add-c20e11cb3e1d",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bf8ab0d8-e94a-475f-a550-b76c5dbb9d5d",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "69d687de-daab-4a45-a87a-20bc792663fe",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "000053b5-719e-4b12-8e5e-33686e979c95",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b4bb315e-b459-4285-afe8-6cb93b472615",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3703734f-069b-405e-808c-0554a42942a1",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1cfe854d-e2f7-4c4b-ad1c-14f5e2954737",
+      "season": 4,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "aa9a520d-fb4b-472b-a07f-e337df875ecb",
+      "season": 4,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "42241e55-1fba-46ab-b137-772029a28d05",
+      "season": 4,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0fb94d21-06c5-4be7-8c09-7a35503c64c9",
+      "season": 4,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e7f6a397-68b8-439b-9dd2-5f6eb8ffbfa0",
+      "season": 4,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "df33ec9a-18f2-4fce-b358-ac0be91161ff",
+      "season": 4,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3d7fe1fc-b9ab-48ba-bc04-6efd04a3b097",
+      "season": 5,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4d9e6e72-bfe7-4504-86d6-33502175c9a9",
+      "season": 5,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ea224492-d774-4b18-8456-bcaf8a66445d",
+      "season": 5,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3c5afb3a-5fa2-455c-9ff3-e09badbf57f1",
+      "season": 5,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bc0f751a-064f-4eaf-be71-61d0ee97668e",
+      "season": 5,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e3c478ea-202a-42d6-b83a-a587a1a5a588",
+      "season": 5,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0ea2b1fe-a394-4bf1-bb12-4f7a119ff716",
+      "season": 6,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4e9f267f-0de1-4d5f-ad0c-86f290d70470",
+      "season": 6,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0a86ad0e-261d-4ccd-8d6f-2ca1fd2f5f13",
+      "season": 6,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d0621b89-0667-4fab-b2d1-b7d7c915edfa",
+      "season": 6,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e10e2f29-34f3-4bc6-8138-8b9b2869f7eb",
+      "season": 6,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "01452cd6-e040-4cb7-a1b4-618d68cbff62",
+      "season": 6,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c59f83f1-05eb-4d42-ae37-14f2e5da3b20",
+      "season": 7,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "ce62d75a-38e7-4a80-af01-01fa9d5463ca",
+      "season": 7,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "2fad7018-e079-4c56-becb-6997c795ec23",
+      "season": 7,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "b0d11d67-2b84-4b62-b1b2-21510312ec56",
+      "season": 7,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "6b234da1-c595-4be3-bd3d-677bda3ebc7a",
+      "season": 7,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "26650612-b73e-454e-aa0e-d4cadfbc6629",
+      "season": 7,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "63845626-681f-4747-9ace-8d873f085d9a",
+      "season": 8,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "2c749e04-cee2-4412-8fdc-a1498b99fb0a",
+      "season": 8,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "be713bb0-37f8-4fee-a609-685772cb8e43",
+      "season": 8,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "36f37362-ffdb-4d93-9d90-758a5f89a56a",
+      "season": 8,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "05b7652b-d669-4901-af00-5cbfa3c015b0",
+      "season": 8,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "d012a365-9858-4a31-9fbb-0ddee0c048f8",
+      "season": 8,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "fceab9e6-04f5-492a-8562-b628b13757d7",
+      "season": 9,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-06-17"
+    },
+    {
+      "id": "b8e9c353-8ce2-4424-928b-3f7b12a766b4",
+      "season": 9,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-06-17"
+    },
+    {
+      "id": "9c041df9-3fdf-4f5d-8647-4da5d11255cb",
+      "season": 9,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-06-17"
+    },
+    {
+      "id": "0a41ed05-771a-443e-8b3d-4ed43e5d7177",
+      "season": 9,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-06-17"
+    },
+    {
+      "id": "795fba14-4626-43c5-bf3a-b524fbc4cfab",
+      "season": 9,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-06-17"
+    },
+    {
+      "id": "17a613bb-e7c2-4960-a78e-17ba3490e215",
+      "season": 9,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-06-17"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:little-charmers-oiii",
+  "name": "Little Charmers",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0b3cc1a1-ee6c-4bb3-a957-4711c799b54d",
+      "season": 1,
+      "number": 1,
+      "name": "Den så knap så fortryllende prins",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "83831cad-c50d-402f-8acb-3be2ffd2ee66",
+      "season": 1,
+      "number": 2,
+      "name": "Den fortryllende trio",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "bbf1650f-071b-4c21-9bf4-739327e6b785",
+      "season": 1,
+      "number": 3,
+      "name": "Dobbeltgængerproblemer",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "b0c1fe84-f3c0-4205-960e-9f5178c83b11",
+      "season": 1,
+      "number": 4,
+      "name": "En fortryllende gentagelse",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "89716063-73f0-4878-adc7-9178957db807",
+      "season": 1,
+      "number": 5,
+      "name": "Heldige Seven",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "afac2d78-6f64-4c1c-8751-45007b16f26c",
+      "season": 1,
+      "number": 6,
+      "name": "Bytte om!",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "ee2355db-40a7-4fa1-b169-35a097ff4c05",
+      "season": 1,
+      "number": 7,
+      "name": "Frostdans",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "3b1c99d7-4673-4d81-8a09-aa2c57fd6ae8",
+      "season": 1,
+      "number": 8,
+      "name": "Græskarskræmmenatten",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "bc3b7819-277c-42ca-a5a0-fd041705d27e",
+      "season": 1,
+      "number": 9,
+      "name": "Et fortryllende sludrechatol",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "68f1c3a3-931c-4b05-8a12-2a306cac8bf3",
+      "season": 1,
+      "number": 10,
+      "name": "Usynlig i modebilledet",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "cdcc0b48-20ad-450d-b1a4-9e35f2d551d8",
+      "season": 1,
+      "number": 11,
+      "name": "Et liv uden trylleri",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "127be3de-0338-437b-9692-0a45c42e0102",
+      "season": 1,
+      "number": 12,
+      "name": "Trylle-hjertedag",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "543d3920-247e-404e-b153-5b729e258407",
+      "season": 1,
+      "number": 13,
+      "name": "En hårfin balance",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "164b299a-0589-4eec-86e6-51f79894a5b0",
+      "season": 1,
+      "number": 14,
+      "name": "Stjernekrukken",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "7ec3c257-e9f6-402e-b1d7-9220001630b9",
+      "season": 1,
+      "number": 15,
+      "name": "Fut-i-fart-kosten",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "327c0e9c-145a-49f0-9dfa-918027bcc571",
+      "season": 1,
+      "number": 16,
+      "name": "Trylleharen",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "dc26947e-07a9-47ac-bd44-9d6f74abeaef",
+      "season": 1,
+      "number": 17,
+      "name": "Franken-flare",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "48d82f61-3370-4e85-9467-afced720ba4e",
+      "season": 1,
+      "number": 18,
+      "name": "Posies bønner",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "acb645b6-1729-473b-a5b2-a8a9a28fca9c",
+      "season": 1,
+      "number": 19,
+      "name": "Mit tryllehus er dit tryllehus",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "318c0a3c-1faa-4d98-a895-9668e0584214",
+      "season": 1,
+      "number": 20,
+      "name": "Et fortryllende bryllup",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "00e899e1-c1cc-41ef-8efc-fcb18f64affe",
+      "season": 2,
+      "number": 1,
+      "name": "Mors fortryllende dag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "fc7c7ddc-6437-4013-a204-8632b08a3314",
+      "season": 2,
+      "number": 2,
+      "name": "Der, hvor regnbuen ender",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9ef239d6-4d80-4184-a7ae-91b3fc58be7e",
+      "season": 2,
+      "number": 3,
+      "name": "Synge-syge",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c1ff8f73-94e5-444d-8937-147fdf6da8ca",
+      "season": 2,
+      "number": 4,
+      "name": "Fars magiske hat",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "450b4e9a-3dc1-41cd-867f-47c5ad87e3ad",
+      "season": 2,
+      "number": 5,
+      "name": "Hazel har fart på",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7f956b08-2241-4730-93c0-d58e2eafb341",
+      "season": 2,
+      "number": 6,
+      "name": "Fortryllende nattelys",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c958fb36-b494-4b6f-be06-d8e67aeb3d29",
+      "season": 2,
+      "number": 7,
+      "name": "Et unikt enhjørningehorn",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3b7a35d8-d43c-45b6-9bf6-dd3b6b7ff4d5",
+      "season": 2,
+      "number": 8,
+      "name": "En lillebitte tryllefejl",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f9af1485-a84e-4a7e-b367-c77525b9080c",
+      "season": 2,
+      "number": 9,
+      "name": "Hazels fortryllende dag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f80bb01a-1800-4ab7-9858-7184ed0365b1",
+      "season": 2,
+      "number": 10,
+      "name": "Glitter og stjernestøv",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "29077848-811f-44cd-af0c-ec2934dff688",
+      "season": 2,
+      "number": 11,
+      "name": "Band på fri fod",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d78c1c5f-bf7d-49a3-91c4-a79b950e01c5",
+      "season": 2,
+      "number": 12,
+      "name": "Forglem-os-ej",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "69e1834a-3afa-42ed-8815-0a295ae03092",
+      "season": 2,
+      "number": 13,
+      "name": "Glasskoen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "276e5287-5fb9-4ef6-ba63-3e7c7856d45a",
+      "season": 2,
+      "number": 14,
+      "name": "Hazels fanklub",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "63633250-8191-4ca5-912b-7ff872ec6547",
+      "season": 2,
+      "number": 15,
+      "name": "En fortryllende historie",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a0348e19-4c2c-4596-9aa6-2bfcfcf1334e",
+      "season": 2,
+      "number": 16,
+      "name": "Posies perfekte eliksir",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "696cb397-c387-4806-a217-7f4f4730842f",
+      "season": 2,
+      "number": 17,
+      "name": "Et fortryllende havfrueeventyr",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "126164b5-30e1-45fd-8cdf-3f33741b7d5e",
+      "season": 2,
+      "number": 18,
+      "name": "Et fortryllende ræs",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "44fc5043-2078-4559-b3ce-4b258b4fa87a",
+      "season": 2,
+      "number": 19,
+      "name": "Verdens bedste koste",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "509ee290-d69a-472f-b971-01ca4638cb55",
+      "season": 2,
+      "number": 20,
+      "name": "Glimmerbærtærter",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

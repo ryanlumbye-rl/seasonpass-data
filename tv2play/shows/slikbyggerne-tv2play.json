@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:slikbyggerne-tv2play",
+  "name": "Slikbyggerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0dda66dd-1c42-442d-ad1e-25cb9a9ae628",
+      "season": 3,
+      "number": 7,
+      "name": "Skummel slikspand med Philip May",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "91888e24-218c-47a7-b3ed-4bf4d60051be",
+      "season": 3,
+      "number": 8,
+      "name": "Skræmmende accessories med Marie Watson",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "595e4c90-ce16-48db-b534-0414288663ab",
+      "season": 3,
+      "number": 9,
+      "name": "Det mest uhyggelige finalemonster!",
+      "airdate": "2026-10-10"
+    }
+  ]
+}

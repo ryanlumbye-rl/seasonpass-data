@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:kamikaze-skyshowtime",
+  "name": "Kamikaze",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "291c2953-4866-4ece-af98-b3cf678aff64",
+      "season": 1,
+      "number": 1,
+      "name": "Festen er aflyst",
+      "airdate": "2022-11-09"
+    },
+    {
+      "id": "1cd0f462-6a62-496d-b055-7c28f4ac7358",
+      "season": 1,
+      "number": 2,
+      "name": "Før og efter",
+      "airdate": "2022-11-09"
+    },
+    {
+      "id": "31c19922-3d1c-4606-9e75-85ce831c7df1",
+      "season": 1,
+      "number": 3,
+      "name": "Flight Mode",
+      "airdate": "2022-11-16"
+    },
+    {
+      "id": "93a8dae4-7620-4c01-a812-d00962d94006",
+      "season": 1,
+      "number": 4,
+      "name": "Happy White Day!",
+      "airdate": "2022-11-16"
+    },
+    {
+      "id": "9f8cba79-e247-4f77-a611-3dc7bc6a7c31",
+      "season": 1,
+      "number": 5,
+      "name": "Efterladt bagage",
+      "airdate": "2022-11-23"
+    },
+    {
+      "id": "74174518-c3ea-4dea-911b-f1bb1d3ac57e",
+      "season": 1,
+      "number": 6,
+      "name": "Pancake Syrup",
+      "airdate": "2022-11-23"
+    },
+    {
+      "id": "5e1fa327-9952-4b7f-ac02-fe69d2e8483e",
+      "season": 1,
+      "number": 7,
+      "name": "Hjem",
+      "airdate": "2022-11-30"
+    },
+    {
+      "id": "045ac554-6b3e-41cf-b27f-876e40270060",
+      "season": 1,
+      "number": 8,
+      "name": "Krzysztof og det kosmiske tilfælde",
+      "airdate": "2022-11-20"
+    }
+  ]
+}

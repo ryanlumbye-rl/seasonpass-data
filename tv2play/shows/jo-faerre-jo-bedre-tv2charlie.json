@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:jo-faerre-jo-bedre-tv2charlie",
+  "name": "Jo færre jo bedre",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8735342a-52e0-4ddc-9357-8fec63e1f75a",
+      "season": 10,
+      "number": 9,
+      "name": "Nordmænd, næb og skov",
+      "airdate": "2026-10-19"
+    },
+    {
+      "id": "41256d05-a720-4955-bcd9-4795bc93d5cf",
+      "season": 10,
+      "number": 10,
+      "name": "Pasta, magi og demokrati",
+      "airdate": "2026-10-26"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:raedslernes-labyrint-tv2play",
+  "name": "Rædslernes labyrint",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6c8c4c60-49e6-4e6e-9088-f4c22aebef29",
+      "season": 1,
+      "number": 1,
+      "name": "Et (u)hyggeligt fællesskab",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "490def33-61be-4618-9913-b4393f29b4bb",
+      "season": 1,
+      "number": 2,
+      "name": "Er det sundt at blive bange?",
+      "airdate": "2026-09-18"
+    },
+    {
+      "id": "e30f2f12-3fde-4cb9-8bff-b4adcf55e437",
+      "season": 1,
+      "number": 3,
+      "name": "13 år og horrorteater. God idé?",
+      "airdate": "2026-09-25"
+    },
+    {
+      "id": "c42d2a96-0d6e-4675-9c70-d56f35603bd9",
+      "season": 1,
+      "number": 4,
+      "name": "En blodig Pjerrot",
+      "airdate": "2026-10-02"
+    },
+    {
+      "id": "ca87b9d5-2e95-45fa-839c-fd4a1caa873f",
+      "season": 1,
+      "number": 5,
+      "name": "Gæster får revet tøj i stykker",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "da28acd6-1b83-473b-97ce-7f0bb73fafb6",
+      "season": 1,
+      "number": 6,
+      "name": "En monsterhyggelig fest",
+      "airdate": "2026-10-16"
+    }
+  ]
+}

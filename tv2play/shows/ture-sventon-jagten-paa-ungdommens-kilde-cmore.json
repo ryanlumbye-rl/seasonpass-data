@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:ture-sventon-jagten-paa-ungdommens-kilde-cmore",
+  "name": "Ture Sventon & jagten på Ungdommens kilde",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0fba6876-9641-481f-bfd9-5e37f675dc3b",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d11a2b1b-404e-458b-a17b-db6c9525f536",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a481f259-a7e7-41b7-a4e5-cc291ff8e257",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7b55cf7a-e8f2-450a-8bec-9437c58effd2",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1124dad7-cb8a-4271-8edf-18d2cd5c6077",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6d73df72-1d0e-4216-952f-e2bb984f0630",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "abbe7fac-b2d9-49cf-b54e-55c420c249b4",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-09-08"
+    },
+    {
+      "id": "577f1941-7ccc-41cc-8cee-0753dcec51f8",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-09-08"
+    },
+    {
+      "id": "28ce1217-2f15-4ba2-bc68-49ed7b5afe32",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-09-15"
+    },
+    {
+      "id": "44b64f4a-35bb-42cb-85d2-08f2f2c982c8",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-09-15"
+    },
+    {
+      "id": "bd972d63-d9cd-446a-bdee-ddf92afec29c",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-09-22"
+    },
+    {
+      "id": "147359eb-9584-4076-8269-ac240b776c01",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-09-22"
+    },
+    {
+      "id": "bef6d808-2822-439d-9475-e70192d75ccc",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "41c6294c-7c4c-4536-ac40-0cc7acc6bd70",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "d7627044-116a-4ce4-ba92-e57ce4fc5352",
+      "season": 2,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-10-06"
+    },
+    {
+      "id": "6b171f98-b7a7-4f2d-989f-7feb0e36b9ea",
+      "season": 2,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-10-06"
+    }
+  ]
+}

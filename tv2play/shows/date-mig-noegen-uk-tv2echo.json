@@ -1,0 +1,402 @@
+{
+  "id": "tv2play:date-mig-noegen-uk-tv2echo",
+  "name": "Date mig nøgen UK",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f7f2da3d-e2bb-4682-8d5e-e63433b43f97",
+      "season": 1,
+      "number": 1,
+      "name": "Aina og Mal",
+      "airdate": "2018-02-13"
+    },
+    {
+      "id": "e1c8aca5-5e8f-4018-859b-e029ce17d4ae",
+      "season": 1,
+      "number": 2,
+      "name": "Tracy og Matthew",
+      "airdate": "2018-02-24"
+    },
+    {
+      "id": "6e015ef7-f259-4042-8a0b-34f192014d76",
+      "season": 1,
+      "number": 3,
+      "name": "Sapphire og Kieron",
+      "airdate": "2018-03-03"
+    },
+    {
+      "id": "8d9358e2-08ad-4fcc-988f-ec2355da4df2",
+      "season": 1,
+      "number": 4,
+      "name": "Rebecca og Dan",
+      "airdate": "2018-03-10"
+    },
+    {
+      "id": "c4cb08b2-f8c2-4438-9092-619860413d8a",
+      "season": 2,
+      "number": 1,
+      "name": "Dom og Izzy",
+      "airdate": "2018-03-17"
+    },
+    {
+      "id": "c3e42ebe-f567-45af-ac63-5914d36713ec",
+      "season": 2,
+      "number": 2,
+      "name": "Marlie og Adam",
+      "airdate": "2018-03-24"
+    },
+    {
+      "id": "a72f46ca-883c-46fe-a8ad-f0b98de99192",
+      "season": 2,
+      "number": 3,
+      "name": "Gemma og Jennafer",
+      "airdate": "2018-04-07"
+    },
+    {
+      "id": "c48a0874-f8a6-4d07-89ea-3c0905a85daa",
+      "season": 2,
+      "number": 4,
+      "name": "Cathy og Adam",
+      "airdate": "2018-04-14"
+    },
+    {
+      "id": "f0fb06a4-b7c5-43e0-a22c-8fb0e721e49f",
+      "season": 2,
+      "number": 5,
+      "name": "Sophie og Dom",
+      "airdate": "2018-04-21"
+    },
+    {
+      "id": "a2379294-0774-4828-8d3a-a278bcab1b85",
+      "season": 2,
+      "number": 6,
+      "name": "Ray og Jimmy",
+      "airdate": "2018-05-05"
+    },
+    {
+      "id": "6e3d96aa-a583-4899-b294-04efc1decfb1",
+      "season": 2,
+      "number": 7,
+      "name": "Mark og Justin",
+      "airdate": "2018-05-12"
+    },
+    {
+      "id": "6209ccde-b7cc-4989-8e65-4597616312d5",
+      "season": 2,
+      "number": 8,
+      "name": "Alesia og Louise",
+      "airdate": "2018-05-19"
+    },
+    {
+      "id": "0a89b9e1-8dcd-4c7e-9e08-c2a93400674d",
+      "season": 3,
+      "number": 1,
+      "name": "Josh, Mary og Matt",
+      "airdate": "2018-12-31"
+    },
+    {
+      "id": "ac0cc232-e193-417f-98da-0ad3be9c7ea6",
+      "season": 3,
+      "number": 2,
+      "name": "Chris og Louise",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "d7e62e4e-deda-41e7-8360-497598328f73",
+      "season": 3,
+      "number": 3,
+      "name": "Leah og Ryan",
+      "airdate": "2019-01-02"
+    },
+    {
+      "id": "1f5ab7d3-93c0-4edd-a260-3463c0d886bf",
+      "season": 3,
+      "number": 4,
+      "name": "Richard og David",
+      "airdate": "2019-01-03"
+    },
+    {
+      "id": "c00037b0-ee81-4a79-8b46-1ff3bcdb32a7",
+      "season": 3,
+      "number": 5,
+      "name": "Charles og Lee",
+      "airdate": "2019-01-07"
+    },
+    {
+      "id": "8844bc50-d69f-4553-89da-266ad628bb01",
+      "season": 3,
+      "number": 6,
+      "name": "Zoe og Derry",
+      "airdate": "2019-01-08"
+    },
+    {
+      "id": "44a0618e-f41b-4e36-8b2e-41c3b874aa59",
+      "season": 3,
+      "number": 7,
+      "name": "Jamie og Jasmin",
+      "airdate": "2019-01-09"
+    },
+    {
+      "id": "6b98e0b3-d938-400b-aae5-d8cd0fce9c28",
+      "season": 3,
+      "number": 8,
+      "name": "Millie og Alex",
+      "airdate": "2019-01-10"
+    },
+    {
+      "id": "9dfb16f6-df20-4622-a766-549c9f6c30c5",
+      "season": 3,
+      "number": 9,
+      "name": "Katie og James",
+      "airdate": "2019-01-14"
+    },
+    {
+      "id": "556ba786-cfc4-447f-a0d6-df1873b7541d",
+      "season": 3,
+      "number": 10,
+      "name": "Rose og Clarissa",
+      "airdate": "2019-01-21"
+    },
+    {
+      "id": "5902a7b8-941c-4bc0-97b7-e67a099d03c4",
+      "season": 4,
+      "number": 1,
+      "name": "Stephanie & Bethany",
+      "airdate": "2020-01-22"
+    },
+    {
+      "id": "5d439720-809d-4587-bac9-0a5dba968960",
+      "season": 4,
+      "number": 2,
+      "name": "Amira & Andy B.",
+      "airdate": "2020-01-29"
+    },
+    {
+      "id": "56711139-aff1-4bd1-ae24-6fb98c64e12d",
+      "season": 4,
+      "number": 3,
+      "name": "Hope & Kurt",
+      "airdate": "2020-02-05"
+    },
+    {
+      "id": "586d20c9-982d-42b1-84d0-050eb948db80",
+      "season": 4,
+      "number": 4,
+      "name": "Pablo & Leon",
+      "airdate": "2020-02-12"
+    },
+    {
+      "id": "d3447805-c17a-4bb4-ad9a-b54c0c8c6376",
+      "season": 4,
+      "number": 5,
+      "name": "Judith & Rigby",
+      "airdate": "2020-02-19"
+    },
+    {
+      "id": "17374ac6-e06d-4f03-9191-6dcec0351ce3",
+      "season": 4,
+      "number": 6,
+      "name": "Michelle & Adam",
+      "airdate": "2020-02-26"
+    },
+    {
+      "id": "14e4f45e-1206-4034-a8d7-0f3f35ac2fd7",
+      "season": 4,
+      "number": 7,
+      "name": "Hollie-Anna & Jaison",
+      "airdate": "2020-03-04"
+    },
+    {
+      "id": "a702412c-18d9-4f1a-a00c-d7aea974d3c9",
+      "season": 4,
+      "number": 8,
+      "name": "Glyn & Jamie",
+      "airdate": "2020-03-11"
+    },
+    {
+      "id": "c4fdc626-3925-4bd8-9f84-21e24683d4b1",
+      "season": 4,
+      "number": 9,
+      "name": "Emmy-Lou & Charlie D.",
+      "airdate": "2020-03-18"
+    },
+    {
+      "id": "5d221858-c1cd-41ad-bd87-31824b03c1c8",
+      "season": 4,
+      "number": 10,
+      "name": "Alex & Laura",
+      "airdate": "2020-11-11"
+    },
+    {
+      "id": "c81adb84-b6bf-4436-96e3-a6a1fa5f1257",
+      "season": 5,
+      "number": 1,
+      "name": "Brian og Shaida",
+      "airdate": "2021-01-28"
+    },
+    {
+      "id": "7e370583-c43d-4de7-b8d7-7ce7695cc45a",
+      "season": 5,
+      "number": 2,
+      "name": "Leanne og Stirling",
+      "airdate": "2021-02-04"
+    },
+    {
+      "id": "e9027661-6e6d-409c-aee0-0fab4185de14",
+      "season": 5,
+      "number": 3,
+      "name": "Jessica og Clare",
+      "airdate": "2021-02-11"
+    },
+    {
+      "id": "b7a995e9-1054-4baf-b283-50014840ea10",
+      "season": 5,
+      "number": 4,
+      "name": "Raheem og Jerome",
+      "airdate": "2021-02-18"
+    },
+    {
+      "id": "5100938c-317f-4d00-bbd6-64d238d31469",
+      "season": 5,
+      "number": 5,
+      "name": "Nicola og Mark",
+      "airdate": "2022-03-04"
+    },
+    {
+      "id": "8e0cfc88-5b52-4a9e-a150-ed0ad91c0443",
+      "season": 5,
+      "number": 6,
+      "name": "Iain og Leon",
+      "airdate": "2022-03-11"
+    },
+    {
+      "id": "c6a1de5e-16e2-4cbf-9623-eafd93253fa4",
+      "season": 5,
+      "number": 7,
+      "name": "Kelly og Carlo",
+      "airdate": "2022-03-18"
+    },
+    {
+      "id": "abcdb270-7a6e-4472-b216-8a38ca8236d7",
+      "season": 5,
+      "number": 8,
+      "name": "Jay og Victoria",
+      "airdate": "2022-03-25"
+    },
+    {
+      "id": "e056f02e-2512-4398-af8b-e3b2d22ce21b",
+      "season": 5,
+      "number": 9,
+      "name": "Ian og Kerry",
+      "airdate": "2022-05-12"
+    },
+    {
+      "id": "0f6a642c-9359-46c6-8ee9-537fa6be767e",
+      "season": 6,
+      "number": 1,
+      "name": "Hayley og Dmitri",
+      "airdate": "2022-09-14"
+    },
+    {
+      "id": "e9fba38c-f007-4e89-86f2-fb1370aff70c",
+      "season": 6,
+      "number": 2,
+      "name": "Nameya og Dan",
+      "airdate": "2022-09-14"
+    },
+    {
+      "id": "57528ba4-130f-483f-896b-f137dcd0632f",
+      "season": 6,
+      "number": 3,
+      "name": "Oliver og Claire",
+      "airdate": "2022-09-21"
+    },
+    {
+      "id": "60dad5f2-b9f9-4b17-884d-e9b09b01d353",
+      "season": 6,
+      "number": 4,
+      "name": "Deanne og Hezron",
+      "airdate": "2022-09-28"
+    },
+    {
+      "id": "f49cf8a2-457d-472a-89da-52a471af11ec",
+      "season": 6,
+      "number": 5,
+      "name": "Callie og Luca",
+      "airdate": "2022-10-05"
+    },
+    {
+      "id": "9c3a8d45-d366-4ed0-968a-6a1f13a8e19c",
+      "season": 6,
+      "number": 6,
+      "name": "Nico og Patrice",
+      "airdate": "2022-10-12"
+    },
+    {
+      "id": "58c6d586-6578-4395-be73-53034ad4e703",
+      "season": 6,
+      "number": 7,
+      "name": "Josh og Jack",
+      "airdate": "2022-10-19"
+    },
+    {
+      "id": "fda3746f-037e-4a8e-b82f-2f1a6a1e4b2d",
+      "season": 6,
+      "number": 8,
+      "name": "Fi og Elle",
+      "airdate": "2022-10-26"
+    },
+    {
+      "id": "43cc6ea6-2d7c-4763-ab2c-f16599fd3e47",
+      "season": 7,
+      "number": 1,
+      "name": "Sarah og Jamie",
+      "airdate": "2023-10-05"
+    },
+    {
+      "id": "1e1515b9-bbec-4e18-ba04-328ae6c9743e",
+      "season": 7,
+      "number": 2,
+      "name": "Mariia og Alannah",
+      "airdate": "2023-10-12"
+    },
+    {
+      "id": "e2fa49bd-9678-46ac-9db3-9d7735f869cb",
+      "season": 7,
+      "number": 3,
+      "name": "Abbie, Charlie og Chrissie",
+      "airdate": "2023-10-19"
+    },
+    {
+      "id": "c7219767-837c-439c-a088-93314342187b",
+      "season": 7,
+      "number": 4,
+      "name": "Lauren og Ryan",
+      "airdate": "2023-10-26"
+    },
+    {
+      "id": "ef5da3d9-bba1-4b2b-a080-5e8293a5df65",
+      "season": 7,
+      "number": 5,
+      "name": "Sandra og Toni-Ann",
+      "airdate": "2024-08-31"
+    },
+    {
+      "id": "4a419262-55a0-4b95-8231-b1cc01ad667d",
+      "season": 7,
+      "number": 6,
+      "name": "Dean og Abi",
+      "airdate": "2024-09-14"
+    },
+    {
+      "id": "cdbd750a-25f9-441d-bbe3-c8c4a6b9d267",
+      "season": 7,
+      "number": 7,
+      "name": "Skyla og Zeus",
+      "airdate": "2024-06-01"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "id": "tv2play:hvem-vil-vaere-millionaer-tv2charlie",
+  "name": "Hvem vil være millionær?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b5e49392-373d-4205-a891-369053bc762c",
+      "season": 1,
+      "number": 1,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2019-10-13"
+    },
+    {
+      "id": "eb1edfe2-4612-4e35-bc60-56f0b391e28a",
+      "season": 1,
+      "number": 2,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2019-10-20"
+    },
+    {
+      "id": "f77d4c52-a02c-4642-a5a3-ae3d15af844c",
+      "season": 1,
+      "number": 3,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2019-10-27"
+    },
+    {
+      "id": "1f96fe55-e633-4b77-a939-5a9b54e0320b",
+      "season": 1,
+      "number": 4,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2019-11-03"
+    },
+    {
+      "id": "c2091e0e-e991-40a9-8ab4-0db2e99d32ee",
+      "season": 1,
+      "number": 5,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2019-11-10"
+    },
+    {
+      "id": "d7e99cd5-70e3-4909-8fb7-b1f1dcc6c4df",
+      "season": 1,
+      "number": 6,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2019-11-17"
+    },
+    {
+      "id": "c12b7ea2-bedc-4094-b6ea-742004f01ff5",
+      "season": 1,
+      "number": 7,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2019-11-24"
+    },
+    {
+      "id": "b1a7c325-7c08-421b-b110-20bde5794e4e",
+      "season": 1,
+      "number": 8,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2019-12-08"
+    },
+    {
+      "id": "3daccde0-cf3c-41b9-933b-78f5fddf4c7a",
+      "season": 2,
+      "number": 1,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-01-05"
+    },
+    {
+      "id": "f5b42b72-dbee-4c70-abd2-3caa867119a2",
+      "season": 2,
+      "number": 2,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-01-12"
+    },
+    {
+      "id": "a0a94fb8-5071-4044-bd8a-44479c2abba9",
+      "season": 2,
+      "number": 3,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-01-19"
+    },
+    {
+      "id": "fa819cfc-bdc2-499d-ac0c-775394356231",
+      "season": 2,
+      "number": 4,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-01-26"
+    },
+    {
+      "id": "a7124588-dc1c-49db-b9b0-ea6cecbc96a5",
+      "season": 2,
+      "number": 5,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-02-02"
+    },
+    {
+      "id": "efb9c84f-6f82-4e4a-b707-a9021760d75e",
+      "season": 2,
+      "number": 6,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-02-09"
+    },
+    {
+      "id": "5cb7a0c8-76a4-4a1f-ad4e-bc921df2c8fe",
+      "season": 2,
+      "number": 7,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-02-16"
+    },
+    {
+      "id": "230b1aeb-6631-420d-9323-22af26306809",
+      "season": 2,
+      "number": 8,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-02-23"
+    },
+    {
+      "id": "b9b2108f-7edd-4b5f-b26b-f1b2f5d214bd",
+      "season": 2,
+      "number": 9,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-04-26"
+    },
+    {
+      "id": "48bdd421-e354-4fa3-bcb7-5030a08fbb5c",
+      "season": 2,
+      "number": 10,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-05-03"
+    },
+    {
+      "id": "4566b4ae-779c-41ef-9d9a-4681a318f265",
+      "season": 2,
+      "number": 11,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-05-10"
+    },
+    {
+      "id": "d6dd7e46-d7b5-4beb-9e0e-b595130466ca",
+      "season": 2,
+      "number": 12,
+      "name": "15 spørgsmål og fire livliner op til millionen",
+      "airdate": "2020-05-17"
+    },
+    {
+      "id": "ef9f4d9a-5781-4828-916c-ac6f527a234f",
+      "season": 3,
+      "number": 1,
+      "name": "Franske kæledyr og dansk krimi",
+      "airdate": "2021-01-03"
+    },
+    {
+      "id": "43b82d65-d737-41ca-8901-42cb2f1f7582",
+      "season": 3,
+      "number": 2,
+      "name": "Fra Middelhavet til Mekong",
+      "airdate": "2021-01-03"
+    },
+    {
+      "id": "897759b3-c6da-457e-80af-e98220400ba6",
+      "season": 3,
+      "number": 3,
+      "name": "Tyske slogans, vingummi og delfiner",
+      "airdate": "2021-01-10"
+    },
+    {
+      "id": "c981589a-1abd-490e-af71-dcbb16a1f168",
+      "season": 3,
+      "number": 4,
+      "name": "Superhelte og cøliakere",
+      "airdate": "2021-01-17"
+    },
+    {
+      "id": "735928d6-cb3c-4e42-a5d6-ce08c785c586",
+      "season": 3,
+      "number": 5,
+      "name": "Præsten og Degnen",
+      "airdate": "2021-01-24"
+    },
+    {
+      "id": "9cf05029-b141-4204-850f-900ce2bb39b1",
+      "season": 3,
+      "number": 6,
+      "name": "Quiz eller parterapi?",
+      "airdate": "2021-01-31"
+    },
+    {
+      "id": "ddbfcd18-4d2b-48f6-b214-259b92620869",
+      "season": 3,
+      "number": 7,
+      "name": "Landmand søger million",
+      "airdate": "2021-02-07"
+    },
+    {
+      "id": "853f82df-883f-47f3-9916-d30d4fe546d3",
+      "season": 3,
+      "number": 8,
+      "name": "Alle gode gange tre",
+      "airdate": "2021-02-14"
+    },
+    {
+      "id": "e03b2af5-9729-449f-b890-952ae36ba6fb",
+      "season": 3,
+      "number": 9,
+      "name": "Familierekorden",
+      "airdate": "2021-11-07"
+    },
+    {
+      "id": "2ee93753-8965-4a23-bedf-92b2b7b6d2ea",
+      "season": 3,
+      "number": 10,
+      "name": "Hvilken musical er du?",
+      "airdate": "2021-11-07"
+    },
+    {
+      "id": "cd994ccb-f955-4355-98bf-96f42183439b",
+      "season": 3,
+      "number": 11,
+      "name": "Danske kager og australske dyr",
+      "airdate": "2021-11-14"
+    },
+    {
+      "id": "ceb9e7a8-3b1d-499f-be5d-ce1b003db49a",
+      "season": 3,
+      "number": 12,
+      "name": "Skole-hjem-samtalen",
+      "airdate": "2021-11-21"
+    },
+    {
+      "id": "5b38a9b3-208b-49c4-b9bc-57283105607d",
+      "season": 4,
+      "number": 1,
+      "name": "Den varme stol",
+      "airdate": "2022-02-06"
+    },
+    {
+      "id": "44315606-8b2f-400b-b65d-f2b05edc746d",
+      "season": 4,
+      "number": 2,
+      "name": "En til historiebøgerne?",
+      "airdate": "2022-02-13"
+    },
+    {
+      "id": "eef2a911-fb0b-4439-a31d-35e444c596c8",
+      "season": 4,
+      "number": 3,
+      "name": "Dyrelyde og pagtens ark",
+      "airdate": "2022-02-20"
+    },
+    {
+      "id": "8ecfcee3-173a-4382-81bf-f907fb7e16d9",
+      "season": 4,
+      "number": 4,
+      "name": "Farmor med fut i",
+      "airdate": "2022-02-27"
+    },
+    {
+      "id": "84593ead-1b5c-45c8-9a96-0662b15e1e59",
+      "season": 4,
+      "number": 5,
+      "name": "Den menneskelige Google",
+      "airdate": "2022-05-08"
+    },
+    {
+      "id": "b985422e-108b-452e-a87b-7b37b9114599",
+      "season": 4,
+      "number": 6,
+      "name": "Tak til Torben",
+      "airdate": "2022-05-08"
+    },
+    {
+      "id": "ab2db6f0-1a7a-48f6-bd81-af50f064587b",
+      "season": 4,
+      "number": 7,
+      "name": "Ikea og eBay",
+      "airdate": "2022-05-15"
+    },
+    {
+      "id": "13ded8a7-7699-46f6-a6f8-26b4facfb071",
+      "season": 4,
+      "number": 8,
+      "name": "Pantefogeden jagter millionen",
+      "airdate": "2022-05-22"
+    },
+    {
+      "id": "286f9082-a460-43c3-a4c6-aa6382eaf475",
+      "season": 4,
+      "number": 9,
+      "name": "En holdindsats",
+      "airdate": "2023-02-11"
+    },
+    {
+      "id": "9e6ac420-ced7-4a0c-8f61-48f56a980ff9",
+      "season": 4,
+      "number": 10,
+      "name": "De store fem",
+      "airdate": "2023-02-18"
+    },
+    {
+      "id": "1fa2bd25-3b13-44b6-a838-2acc1f17267b",
+      "season": 4,
+      "number": 11,
+      "name": "Kronhjortens brøl",
+      "airdate": "2023-02-25"
+    },
+    {
+      "id": "460e56a2-af60-45f2-ab39-0b4932ef0592",
+      "season": 4,
+      "number": 12,
+      "name": "Kantareller og røde kæmper",
+      "airdate": "2023-03-04"
+    },
+    {
+      "id": "18ae1c34-0323-4ef8-b0fa-393721e5ed74",
+      "season": 4,
+      "number": 13,
+      "name": "Se frygten i øjnene",
+      "airdate": "2023-03-11"
+    },
+    {
+      "id": "8d5c0ec5-1c43-400e-ac5d-5cb6bf310856",
+      "season": 4,
+      "number": 14,
+      "name": "Danske krimier og syngende insekter",
+      "airdate": "2023-03-18"
+    },
+    {
+      "id": "2703b44c-1b35-4bc4-b888-01e61839a6e1",
+      "season": 4,
+      "number": 15,
+      "name": "Den unge mand og millionen",
+      "airdate": "2023-03-25"
+    },
+    {
+      "id": "fe9f9833-982a-437b-b48f-1b8be6616650",
+      "season": 4,
+      "number": 16,
+      "name": "Fremskridt eller fattigdom",
+      "airdate": "2023-04-01"
+    }
+  ]
+}

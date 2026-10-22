@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:han-hun-og-droemmeslottet-ud-i-det-blaa-tv2fri",
+  "name": "Han, hun og drømmeslottet - ud i det blå",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "833807af-9778-4767-9141-3400f06ab7aa",
+      "season": 1,
+      "number": 1,
+      "name": "Korkhøst og vilde flamingoer i Provence",
+      "airdate": "2024-10-14"
+    },
+    {
+      "id": "8017c1c4-47af-43fc-9838-8e50025264c7",
+      "season": 1,
+      "number": 2,
+      "name": "Et langsommere liv i Gascogne",
+      "airdate": "2024-10-21"
+    },
+    {
+      "id": "90a5e3d6-6857-47e0-bfaf-f6ceb7155579",
+      "season": 1,
+      "number": 3,
+      "name": "Vinteridyl i Auvergne",
+      "airdate": "2024-10-28"
+    }
+  ]
+}

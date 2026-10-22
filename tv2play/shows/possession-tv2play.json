@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:possession-tv2play",
+  "name": "Possession",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ddd64a8d-5528-4039-9d18-4c36f1451959",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-09-25"
+    },
+    {
+      "id": "6837b910-00f4-4697-bf8c-f2940eb986b1",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-09-25"
+    },
+    {
+      "id": "f199c62c-8a51-400a-aad7-81b498be6b40",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-09-25"
+    },
+    {
+      "id": "49b4f37e-0e54-47d9-b1f3-d56f3e10f386",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-09-25"
+    },
+    {
+      "id": "fd1b0ca9-6ebe-4622-9a7c-779d72ce96a7",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-09-25"
+    }
+  ]
+}

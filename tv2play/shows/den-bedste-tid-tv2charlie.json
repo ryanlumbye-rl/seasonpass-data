@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:den-bedste-tid-tv2charlie",
+  "name": "Den bedste tid",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4d689a49-8448-4d56-8f0d-f37ab54a2b0b",
+      "season": 2,
+      "number": 1,
+      "name": "Jacob Haugaard og Jens Werner",
+      "airdate": "2023-04-09"
+    },
+    {
+      "id": "ed58ade1-94a7-4b1f-a492-8fa540a1c8a6",
+      "season": 2,
+      "number": 2,
+      "name": "Ibi Støving og Carsten Bang",
+      "airdate": "2023-04-16"
+    },
+    {
+      "id": "ae318170-197b-41b7-856f-c70d382d169a",
+      "season": 2,
+      "number": 4,
+      "name": "Anne-Louise Hassing og Bjarne Henriksen",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "c6e198cc-2960-4946-827e-27bedbfb20cc",
+      "season": 2,
+      "number": 5,
+      "name": "Torben Chris og Uffe Holm",
+      "airdate": "2023-05-07"
+    },
+    {
+      "id": "ae5c47e6-856d-492e-888d-e97a6a3779e3",
+      "season": 2,
+      "number": 6,
+      "name": "Jeanette Ottesen og Rikke Hørlykke",
+      "airdate": "2023-05-14"
+    },
+    {
+      "id": "d8ff12e2-0735-450e-ba52-eb73a5c9812c",
+      "season": 3,
+      "number": 1,
+      "name": "Hilda og Keld Heick",
+      "airdate": "2024-10-20"
+    },
+    {
+      "id": "c02a1187-5df0-48a0-ac55-3a4517d59cc4",
+      "season": 3,
+      "number": 2,
+      "name": "Peter Ingemann og Johnny Hansen",
+      "airdate": "2024-10-27"
+    },
+    {
+      "id": "4a051140-3093-4408-81ff-547961f10b3f",
+      "season": 3,
+      "number": 3,
+      "name": "Lene Beier og Jesper Skibby",
+      "airdate": "2024-11-03"
+    },
+    {
+      "id": "fd1c1537-8519-4e3f-bda4-1fc21166cdc8",
+      "season": 3,
+      "number": 4,
+      "name": "Esben Dalgaard og Ditte Ylva Olsen",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "715013f4-75ea-428e-b061-a01c06922f14",
+      "season": 3,
+      "number": 5,
+      "name": "Silas Holst og Laura Drasbæk",
+      "airdate": "2024-11-17"
+    },
+    {
+      "id": "33f80663-af58-44db-94e0-8134b55d95aa",
+      "season": 3,
+      "number": 6,
+      "name": "Mie Moltke og Steen Langeberg",
+      "airdate": "2024-11-24"
+    }
+  ]
+}

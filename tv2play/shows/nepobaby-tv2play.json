@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:nepobaby-tv2play",
+  "name": "Nepobaby",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0cf542f4-4238-4ef2-8bb8-83fb54891615",
+      "season": 1,
+      "number": 1,
+      "name": "En utrolig fin gave",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "82ae609e-b626-44f8-9047-79a4e5b479c5",
+      "season": 1,
+      "number": 2,
+      "name": "Hyggelige folk",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "982b5fb0-6d3c-4e7a-8e2e-a0ee6c1e2d8e",
+      "season": 1,
+      "number": 3,
+      "name": "Positive og normale samtaler",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "643335a6-485a-49ba-8216-2d52c06e5101",
+      "season": 1,
+      "number": 4,
+      "name": "En ny begyndelse",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "260ebb15-37dc-4636-99a7-a0b413033403",
+      "season": 1,
+      "number": 5,
+      "name": "Gruppekram hver halve time",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "98a2ffc3-7c77-4f94-b97c-b979d1f0cb83",
+      "season": 1,
+      "number": 6,
+      "name": "Det vigtigste barn",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "763160e1-523c-4791-a66f-5173786ffcdc",
+      "season": 2,
+      "number": 1,
+      "name": "En forfærdelig afterparty-idé",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "95771876-d2d3-4a0e-b8cd-f990275f7479",
+      "season": 2,
+      "number": 2,
+      "name": "En slags Truman Show",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "da0d1e94-d966-450e-bf32-376c652d7f0c",
+      "season": 2,
+      "number": 3,
+      "name": "Jeg kan mærke det i min nyre",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "dc8d1320-2a99-4e59-bf77-aa856613a4b1",
+      "season": 2,
+      "number": 4,
+      "name": "Fortæl mig ikke, hvad jeg ikke kan",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "4f7699af-6f7b-4046-8f19-370ef3e47798",
+      "season": 2,
+      "number": 5,
+      "name": "Turndown service",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "6a324c1b-4f0a-47f5-b7ff-be8566f294e2",
+      "season": 2,
+      "number": 6,
+      "name": "Kender du mig virkelig så dårligt?",
+      "airdate": "2026-10-14"
+    }
+  ]
+}

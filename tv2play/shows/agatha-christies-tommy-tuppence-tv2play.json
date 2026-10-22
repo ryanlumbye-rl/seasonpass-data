@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:agatha-christies-tommy-tuppence-tv2play",
+  "name": "Agatha Christie's Tommy & Tuppence",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "48aff610-ff6c-44fe-9837-5ad38f9e0c6c",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "54cd2a4f-f2d4-4f1e-8ea5-03063dd5435a",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "8f2ede06-0018-40ae-b1bd-c5299630a381",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "620912aa-8915-4824-adec-a97578f6c240",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "215dcc25-58d0-45f0-8dac-418a36fa0c03",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "27ceb950-f89b-4509-a230-60ddfa45ede9",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-10-14"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:the-agency-tv2play",
+  "name": "The Agency",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d844294e-0755-44d0-9752-eca24fc3a7fe",
+      "season": 2,
+      "number": 1,
+      "name": "Kick the Wasp’s Nest",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "bd8cd6c5-7f1b-4caf-8b89-eb15b1d4ce43",
+      "season": 2,
+      "number": 2,
+      "name": "A Bear in Wolf’s Clothing",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "f4bdbf08-01e3-4f21-9eb5-872dc6022362",
+      "season": 2,
+      "number": 3,
+      "name": "Spymaster",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "e49f0bf2-a207-43ab-95d3-7854440a9831",
+      "season": 2,
+      "number": 4,
+      "name": "Dead End",
+      "airdate": "2026-06-29"
+    },
+    {
+      "id": "7a477832-31ac-4d4f-91b1-0c743d5839a6",
+      "season": 2,
+      "number": 5,
+      "name": "Out Cold",
+      "airdate": "2026-07-06"
+    },
+    {
+      "id": "4b8cd6c2-343d-467f-8663-4d780d31e2f4",
+      "season": 2,
+      "number": 6,
+      "name": "Officially a Ghost",
+      "airdate": "2026-07-13"
+    },
+    {
+      "id": "4b3d72b9-320c-4ab3-8779-8fbc8e3e30bf",
+      "season": 2,
+      "number": 7,
+      "name": "Drown Him Then Throw Him a Lifejacket",
+      "airdate": "2026-07-20"
+    },
+    {
+      "id": "463f8acd-c511-4c35-b833-e7fede33249c",
+      "season": 2,
+      "number": 8,
+      "name": "False Flag Attack",
+      "airdate": "2026-07-27"
+    },
+    {
+      "id": "bebb75d2-b9a8-496d-8385-34bef7b898bf",
+      "season": 2,
+      "number": 9,
+      "name": "Rogue Cell",
+      "airdate": "2026-08-03"
+    },
+    {
+      "id": "068bce53-0ecc-450a-8c54-86345b4e06c6",
+      "season": 2,
+      "number": 10,
+      "name": "King Sacrifice",
+      "airdate": "2026-08-10"
+    }
+  ]
+}

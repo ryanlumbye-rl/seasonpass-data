@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:natholdet-tv2",
+  "name": "Natholdet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "566977f0-3884-4df3-868e-a669629bc6ae",
+      "season": 24,
+      "number": 1,
+      "name": "Med Andreas Odbjerg og Drew Sycamore",
+      "airdate": "2022-09-04"
+    },
+    {
+      "id": "f368d3e7-38a1-4237-b790-2c52b234ce09",
+      "season": 24,
+      "number": 2,
+      "name": "Med Sus Wilkins og TopGunn",
+      "airdate": "2022-09-05"
+    },
+    {
+      "id": "f3717acf-ef6e-440e-9ebb-d178b9e3f2ca",
+      "season": 24,
+      "number": 3,
+      "name": "Med Jimilian og Pelle Peter Jencel",
+      "airdate": "2022-09-12"
+    },
+    {
+      "id": "e6d5a340-7ce9-4cd6-9349-a65ee79e18b6",
+      "season": 24,
+      "number": 4,
+      "name": "Med Julie Rudbæk og Jesper Ole Feit",
+      "airdate": "2022-09-19"
+    },
+    {
+      "id": "64908e6f-85f6-4828-969c-588b8ae261c8",
+      "season": 24,
+      "number": 5,
+      "name": "Med Molly Egelind og Jonatan Spang",
+      "airdate": "2022-09-26"
+    },
+    {
+      "id": "1dd670f5-522e-4b5b-80fb-a1aa3e5817e3",
+      "season": 24,
+      "number": 6,
+      "name": "Med Christian Fuhlendorff og Mahamad Habane",
+      "airdate": "2022-10-03"
+    },
+    {
+      "id": "5e26ada4-0278-4abe-a20f-6919ae43d4ba",
+      "season": 24,
+      "number": 7,
+      "name": "Med Petra Nagel og Clara",
+      "airdate": "2022-10-10"
+    },
+    {
+      "id": "78b1365b-08ea-4132-8c5c-6b6c730b9299",
+      "season": 24,
+      "number": 8,
+      "name": "Med Sofie Linde og Sofie Jo Kaufmanas",
+      "airdate": "2022-10-17"
+    }
+  ]
+}

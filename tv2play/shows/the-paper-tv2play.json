@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:the-paper-tv2play",
+  "name": "The Paper",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5240100d-a01e-49de-bad1-015c6c1c4a30",
+      "season": 2,
+      "number": 1,
+      "name": "The Paper",
+      "airdate": "2026-11-06"
+    }
+  ]
+}

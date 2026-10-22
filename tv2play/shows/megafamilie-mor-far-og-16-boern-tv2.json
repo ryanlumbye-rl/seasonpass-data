@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:megafamilie-mor-far-og-16-boern-tv2",
+  "name": "Megafamilie - mor, far og 16 børn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a7f799ec-6084-488d-bc12-d5cb406177ac",
+      "season": 2,
+      "number": 1,
+      "name": "Huset fyldt med børn",
+      "airdate": "2013-05-29"
+    },
+    {
+      "id": "3bbd515c-7e18-487c-8e8c-ba1b396a39a4",
+      "season": 2,
+      "number": 2,
+      "name": "Huset fyldt med børn",
+      "airdate": "2013-06-12"
+    },
+    {
+      "id": "6310043f-22e2-44af-8d32-2a20fb933da5",
+      "season": 2,
+      "number": 3,
+      "name": "Huset fyldt med børn",
+      "airdate": "2013-07-03"
+    },
+    {
+      "id": "bd8ea2d1-702d-4f7f-8293-678097d9e724",
+      "season": 2,
+      "number": 4,
+      "name": "Huset fyldt med børn",
+      "airdate": "2013-07-10"
+    },
+    {
+      "id": "a3e2cad0-197f-433d-a2a9-2485e4ddf457",
+      "season": 2,
+      "number": 5,
+      "name": "Huset fyldt med børn",
+      "airdate": "2013-08-21"
+    },
+    {
+      "id": "fba27853-d833-43dd-9737-73768fa24b56",
+      "season": 2,
+      "number": 6,
+      "name": "Huset fyldt med børn",
+      "airdate": "2013-12-22"
+    },
+    {
+      "id": "b141062a-df09-40a4-875b-c02c5a07f373",
+      "season": 2,
+      "number": 7,
+      "name": "Huset fyldt med børn",
+      "airdate": "2014-01-03"
+    }
+  ]
+}

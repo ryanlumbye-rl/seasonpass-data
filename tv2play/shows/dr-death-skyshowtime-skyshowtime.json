@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:dr-death-skyshowtime-skyshowtime",
+  "name": "Dr. Death",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "240d8e10-e210-4361-8f33-fa1b75569a55",
+      "season": 1,
+      "number": 1,
+      "name": "Diplos",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "32a55df6-cf4f-414b-84ae-ba3067a8aa79",
+      "season": 1,
+      "number": 2,
+      "name": "Ain't No Bum",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "b1d60eed-f267-4279-9f1f-1bb55d24b7b5",
+      "season": 1,
+      "number": 3,
+      "name": "Dock Ellis",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "78c464cc-d5fa-4cf0-b031-055b2a837883",
+      "season": 1,
+      "number": 4,
+      "name": "An Occurrence at Randall Kirby's Sink",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "81280e14-f4d0-4600-9b6e-2aadd6e37b32",
+      "season": 1,
+      "number": 5,
+      "name": "The $?!& in the Bed",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "0918121e-b679-4531-b9b9-c3851e57f844",
+      "season": 1,
+      "number": 6,
+      "name": "Occam's Razor",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "779568ca-0186-4cf4-adad-907a84e0ee70",
+      "season": 1,
+      "number": 7,
+      "name": "Feet of Clay",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "c3038d10-d62b-473c-ac3b-4b99ee239c22",
+      "season": 1,
+      "number": 8,
+      "name": "Hardwood Floors",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "b33d5a95-8797-4424-9047-fa5563e9244d",
+      "season": 2,
+      "number": 1,
+      "name": "Like Magic",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "99f5dbee-7954-4fea-ab65-fcbd9c85f896",
+      "season": 2,
+      "number": 2,
+      "name": "Worth The Risk",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "88f3279b-d845-499d-b27b-deab1431cd71",
+      "season": 2,
+      "number": 3,
+      "name": "The Horizon",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "6fd71bb1-d97d-4251-a058-7985bf11f6b0",
+      "season": 2,
+      "number": 4,
+      "name": "Tarantela Telaraña",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "9c3e07fc-799c-4838-b0fa-b34430062060",
+      "season": 2,
+      "number": 5,
+      "name": "191",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "eb9ad070-d94a-4e4b-ae81-3226da27ee23",
+      "season": 2,
+      "number": 6,
+      "name": "The Fog",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "271beef7-c283-411f-b56d-56d61b4fe44a",
+      "season": 2,
+      "number": 7,
+      "name": "Compassionate Uses",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "f4c5291e-a7e4-4b15-9e81-37c4b68e0e79",
+      "season": 2,
+      "number": 8,
+      "name": "Surgeons, Bachelors and Butchers",
+      "airdate": "2026-06-25"
+    }
+  ]
+}

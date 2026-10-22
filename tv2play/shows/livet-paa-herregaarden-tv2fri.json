@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:livet-paa-herregaarden-tv2fri",
+  "name": "Livet på herregården",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "32b95ec9-75fa-455c-aae4-bea935e60bdc",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til Longleat",
+      "airdate": "2026-09-13"
+    },
+    {
+      "id": "722d5954-1d33-43f5-9db6-209acafb3e67",
+      "season": 1,
+      "number": 2,
+      "name": "Ikoner i luften",
+      "airdate": "2026-09-13"
+    },
+    {
+      "id": "2f7b1c31-c25d-489e-94b2-4a9e4e64251b",
+      "season": 1,
+      "number": 3,
+      "name": "Den røde panda",
+      "airdate": "2026-09-20"
+    }
+  ]
+}

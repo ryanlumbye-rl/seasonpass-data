@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:mors-drenge-tv2",
+  "name": "Mors drenge",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e215bbc3-9b75-4782-a430-31bcb684d73b",
+      "season": 1,
+      "number": 1,
+      "name": "Første akt",
+      "airdate": "2026-03-10"
+    },
+    {
+      "id": "a95edb76-0877-44b7-9823-17a6aae83602",
+      "season": 1,
+      "number": 2,
+      "name": "Anden akt",
+      "airdate": "2026-03-17"
+    },
+    {
+      "id": "afff9549-d9b6-49ea-8da4-d678eb89ca93",
+      "season": 1,
+      "number": 3,
+      "name": "Tredje akt",
+      "airdate": "2026-03-17"
+    }
+  ]
+}

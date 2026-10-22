@@ -1,0 +1,269 @@
+{
+  "id": "tv2play:spillet-tv2echo",
+  "name": "Spillet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fb0d0c38-6f38-435d-8ba7-d39681cdf5e0",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til 'Spillet'",
+      "airdate": "2025-01-22"
+    },
+    {
+      "id": "b2e2a62a-af53-4e3a-9605-651260252a6f",
+      "season": 1,
+      "number": 2,
+      "name": "Under overfladen",
+      "airdate": "2025-01-29"
+    },
+    {
+      "id": "ad44dbb0-b357-4f97-a4bc-3739279fdc19",
+      "season": 1,
+      "number": 3,
+      "name": "Dead man walking",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "1210d19b-143a-41a3-ab90-a0319f6c46a0",
+      "season": 1,
+      "number": 4,
+      "name": "Et ben i hver lejr",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "fac88af6-1153-404b-87da-9ea67a8a31b1",
+      "season": 1,
+      "number": 5,
+      "name": "Kongen og dronningen",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "6e8dd1b8-006a-46a3-8af0-f9430b4f7137",
+      "season": 1,
+      "number": 6,
+      "name": "Den store reunion",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "2622e650-ff54-449f-8914-2f0ff11885b0",
+      "season": 1,
+      "number": 7,
+      "name": "Kold luft",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "277596be-b717-4b22-ba7f-e4de1ef69796",
+      "season": 1,
+      "number": 8,
+      "name": "Overetagen ser rødt",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "b2287729-8092-4961-846b-7eb89e517475",
+      "season": 1,
+      "number": 9,
+      "name": "Noget i gære",
+      "airdate": "2025-03-19"
+    },
+    {
+      "id": "e82b8be0-eee7-4f1c-abef-3196180b9557",
+      "season": 1,
+      "number": 10,
+      "name": "Flaskehalsen peger på",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "ea4b1e41-ab38-4a06-a0fd-e57c9835b9cb",
+      "season": 1,
+      "number": 11,
+      "name": "Spillet op i et hjørne",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "ae60ee59-b0bd-4308-bdda-da5aeb038976",
+      "season": 1,
+      "number": 12,
+      "name": "Slutspillet",
+      "airdate": "2025-04-09"
+    },
+    {
+      "id": "9d7fbac3-44e6-48f0-90a2-7d2cf39ff8e2",
+      "season": 2,
+      "number": 1,
+      "name": "Spillet om magten",
+      "airdate": "2026-01-01"
+    },
+    {
+      "id": "bb23d995-f149-40d9-98f9-d205ca4f1f4e",
+      "season": 2,
+      "number": 2,
+      "name": "Den anden side",
+      "airdate": "2026-01-06"
+    },
+    {
+      "id": "ed79cf8f-9a4b-42a4-924f-87a3a60df14e",
+      "season": 2,
+      "number": 3,
+      "name": "Farlig fejl",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "a5bfeb36-d454-47fe-a792-37b61ef2a4fe",
+      "season": 2,
+      "number": 4,
+      "name": "Falske intentioner",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "1744bd75-8dab-4012-8d51-9747bcb74764",
+      "season": 2,
+      "number": 5,
+      "name": "En hemmelig arving",
+      "airdate": "2026-01-13"
+    },
+    {
+      "id": "37656d58-9d89-4f52-93b4-2a28a8393d53",
+      "season": 2,
+      "number": 6,
+      "name": "Afsløringen",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "13f42018-6528-4d90-9f6b-51fe36f49d12",
+      "season": 2,
+      "number": 7,
+      "name": "Husk eller bliv glemt",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "79c3be20-3470-4377-a100-e6969cc398f0",
+      "season": 2,
+      "number": 8,
+      "name": "En trojansk hest",
+      "airdate": "2026-01-20"
+    },
+    {
+      "id": "5af61e13-2d18-4548-80ec-341643a67212",
+      "season": 2,
+      "number": 9,
+      "name": "En ubuden gæst",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "7a59109b-071e-4264-b6e4-094dfebc6db2",
+      "season": 2,
+      "number": 10,
+      "name": "Dobbeltspil",
+      "airdate": "2026-01-22"
+    },
+    {
+      "id": "5718dda3-f7e9-47a2-afa8-b6934a84c0ea",
+      "season": 2,
+      "number": 11,
+      "name": "Fuldt hus",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "380b3c0f-d2d6-44f5-97e5-2b5956f4c6b0",
+      "season": 2,
+      "number": 12,
+      "name": "Slørede alliancer",
+      "airdate": "2026-01-28"
+    },
+    {
+      "id": "b21f59c9-1805-4895-9422-7550168b5e1f",
+      "season": 2,
+      "number": 13,
+      "name": "Styr på tropperne",
+      "airdate": "2026-01-29"
+    },
+    {
+      "id": "3c1898f7-c3db-46d8-a0d9-fc812d7b3b34",
+      "season": 2,
+      "number": 14,
+      "name": "Magten er skrøbelig",
+      "airdate": "2026-02-03"
+    },
+    {
+      "id": "b14355c0-7b18-4a28-b9df-81fa1e5d59be",
+      "season": 2,
+      "number": 15,
+      "name": "Kvit eller dobbelt",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "135826e5-01c9-4529-9640-b150010093ff",
+      "season": 2,
+      "number": 16,
+      "name": "Den blå boks",
+      "airdate": "2026-02-05"
+    },
+    {
+      "id": "95c25f6e-e897-4541-b868-121f8933397b",
+      "season": 2,
+      "number": 17,
+      "name": "Ud af mørket",
+      "airdate": "2026-02-10"
+    },
+    {
+      "id": "47881c0e-0bcc-4a29-bf25-500397c93dd0",
+      "season": 2,
+      "number": 18,
+      "name": "Alle mod alle",
+      "airdate": "2026-02-11"
+    },
+    {
+      "id": "1ba39906-ce6a-40fb-9afd-8562e99817f7",
+      "season": 2,
+      "number": 19,
+      "name": "Sammen i modgang",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "80ce8815-19b7-4208-b098-f40243fef287",
+      "season": 2,
+      "number": 20,
+      "name": "Lykken er lunefuld",
+      "airdate": "2026-02-17"
+    },
+    {
+      "id": "df08540f-540f-437c-be91-811fe04b3dc0",
+      "season": 2,
+      "number": 21,
+      "name": "En værdig modstander",
+      "airdate": "2026-02-18"
+    },
+    {
+      "id": "350092d4-2353-4de3-b52c-1d38f2de9c60",
+      "season": 2,
+      "number": 22,
+      "name": "En dag med magten",
+      "airdate": "2026-02-19"
+    },
+    {
+      "id": "ed8d6dba-91ad-4b9c-9722-c2e72df8df0e",
+      "season": 2,
+      "number": 23,
+      "name": "Alt det vi deler",
+      "airdate": "2026-02-24"
+    },
+    {
+      "id": "363e75a2-2374-4def-899b-adb7f2f6586d",
+      "season": 2,
+      "number": 24,
+      "name": "Gaver på spil",
+      "airdate": "2026-02-25"
+    },
+    {
+      "id": "dff37225-01d0-4597-8139-462aa7a692f4",
+      "season": 2,
+      "number": 25,
+      "name": "De sidste træk",
+      "airdate": "2026-02-26"
+    }
+  ]
+}

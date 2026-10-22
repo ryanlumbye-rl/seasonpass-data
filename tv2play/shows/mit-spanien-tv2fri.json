@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:mit-spanien-tv2fri",
+  "name": "Mit Spanien",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e5edb4ec-ebd4-4b8b-9bb6-418bea507bbd",
+      "season": 1,
+      "number": 1,
+      "name": "Estepona og Ronda",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "6fe920ac-45e0-4969-b3db-cd1bc2fd8ea7",
+      "season": 1,
+      "number": 2,
+      "name": "Ronda og Alameda",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "9d4e9061-4ac6-4230-9370-79fdfba6be4d",
+      "season": 1,
+      "number": 3,
+      "name": "Sevilla",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "b1415273-5bad-4f13-bc7b-10ef54793c62",
+      "season": 1,
+      "number": 4,
+      "name": "Carmona",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "cbb96d23-991e-4029-9afd-0c16ca76ff0f",
+      "season": 1,
+      "number": 5,
+      "name": "Córdoba",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "58755214-f81d-4433-8760-81232883e800",
+      "season": 1,
+      "number": 6,
+      "name": "Sanlúcar de Barrameda og Cádiz",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "c77202ec-bb69-4422-884f-e5bb72c224ce",
+      "season": 2,
+      "number": 1,
+      "name": "Baskerlandet",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "7d40ea6b-c776-4edd-9e5c-2bd4a193434f",
+      "season": 2,
+      "number": 2,
+      "name": "Baskerlandet",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "58175ee2-3094-47a8-b52c-d3f9542de765",
+      "season": 2,
+      "number": 3,
+      "name": "Guernica",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "429525b9-d6e6-4117-bdf3-0412fb38a77f",
+      "season": 2,
+      "number": 4,
+      "name": "Picos de Europa",
+      "airdate": "2016-08-01"
+    },
+    {
+      "id": "0d826ce7-68ba-494d-9070-a7612d3de967",
+      "season": 2,
+      "number": 5,
+      "name": "Galicien",
+      "airdate": "2016-08-01"
+    }
+  ]
+}

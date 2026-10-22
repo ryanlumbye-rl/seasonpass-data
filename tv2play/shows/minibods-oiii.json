@@ -1,0 +1,283 @@
+{
+  "id": "tv2play:minibods-oiii",
+  "name": "Minibods",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5605569b-5836-4fed-8032-03802a0543f2",
+      "season": 1,
+      "number": 1,
+      "name": "Pedalkraft",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "3aec2926-88c2-4df7-b0c0-173bd7041881",
+      "season": 1,
+      "number": 2,
+      "name": "Tålmodighed bærer frugt",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "12e47738-cb18-4c1c-98a4-3a5fa7c84594",
+      "season": 1,
+      "number": 3,
+      "name": "Jeffs rodende ven",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "59e1cb48-efc9-4dba-8404-71c4ad61da9e",
+      "season": 1,
+      "number": 4,
+      "name": "En lyd i natten",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "18ba1c13-cce6-4d0e-aaa7-de1a0b4f172d",
+      "season": 1,
+      "number": 5,
+      "name": "Cupcake-kaos",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "50247011-9af5-421b-aef7-37ff2ffe4f93",
+      "season": 1,
+      "number": 6,
+      "name": "Klækket!",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "c4674df7-8591-497e-945b-b28ff25cdb25",
+      "season": 1,
+      "number": 7,
+      "name": "Maletidsproblemer",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "c01f941f-b8dc-4e55-ae19-b16422ba19aa",
+      "season": 1,
+      "number": 8,
+      "name": "Befri snacken",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "6770004a-130d-41df-aa85-884d181096e3",
+      "season": 1,
+      "number": 9,
+      "name": "Fest-Pogo",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "b1c16265-d394-46c5-bbd2-35486b6ef8bd",
+      "season": 1,
+      "number": 10,
+      "name": "Bubbles hoppeblob",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "4416a512-93ea-42c3-88b2-b483c87562f6",
+      "season": 1,
+      "number": 11,
+      "name": "Min helt",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "7f9d8245-24d7-42cf-97a8-cd5f1c73090b",
+      "season": 1,
+      "number": 12,
+      "name": "Spis dine grøntsager",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "0065f4e4-2670-4571-8900-d54b05e85a67",
+      "season": 1,
+      "number": 13,
+      "name": "Læsetid",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "0ba7de70-f999-4ae0-b41f-efd54d95db11",
+      "season": 1,
+      "number": 14,
+      "name": "Bare rolig og hop",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "24a1ae16-e496-4ac4-b174-b1d211b77962",
+      "season": 1,
+      "number": 15,
+      "name": "For genert til scenen",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "94893996-4041-4a0e-bcd0-7d6e0ea02795",
+      "season": 1,
+      "number": 16,
+      "name": "Bubbles springer",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "a94cd8f6-feeb-45e3-9a54-0563499cadcd",
+      "season": 1,
+      "number": 17,
+      "name": "Frossent isparadis",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "339032f4-13ae-47dd-8f60-a63bd4ef353b",
+      "season": 1,
+      "number": 18,
+      "name": "Bamsepanik",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "ccd1c963-0980-433d-8380-26c7b86dc44e",
+      "season": 1,
+      "number": 19,
+      "name": "Mudret redning",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "c3f60b6b-ea85-41ec-ae37-63a83c8754a0",
+      "season": 1,
+      "number": 20,
+      "name": "Gå efter stjernerne",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "47464aeb-07c8-42f1-8bae-dacb9b356818",
+      "season": 1,
+      "number": 21,
+      "name": "Isen smelter",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "368ee830-c61d-492a-add1-2487fce7e5f1",
+      "season": 1,
+      "number": 22,
+      "name": "Vinder",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "be1fbfad-7db0-44dc-9d6f-6e02dbe6133d",
+      "season": 1,
+      "number": 23,
+      "name": "Du må vente, Lulu!",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "a28b1847-7694-473c-a13f-e74b7c7459b6",
+      "season": 1,
+      "number": 24,
+      "name": "Maleløsning",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "febe445d-eb38-434c-a09b-3f4e8a85bea3",
+      "season": 1,
+      "number": 25,
+      "name": "Snebod",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "0915a3b5-feb9-41d7-a60f-648d842dac5a",
+      "season": 1,
+      "number": 26,
+      "name": "Natteleg",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "082b5422-c9cd-4d12-b829-806e885b6394",
+      "season": 1,
+      "number": 27,
+      "name": "Græskar-gnaske-problemer",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "e7df187c-41d3-439d-b772-7281a86789b6",
+      "season": 1,
+      "number": 28,
+      "name": "123, bøh!",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "52b2e016-e52c-4a41-ae8a-a9a45071be82",
+      "season": 1,
+      "number": 29,
+      "name": "Fodboldproblemer",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "46bd245e-da70-42b8-a123-d0cb4c6e9c26",
+      "season": 1,
+      "number": 30,
+      "name": "Dans med mig",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "ba58f023-52b2-4d8b-a2b9-776f14924699",
+      "season": 1,
+      "number": 31,
+      "name": "Lyseslukkeredderkop",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "c533432f-3cec-48ab-9f72-709231787321",
+      "season": 1,
+      "number": 32,
+      "name": "Byggeklodssammenbrud",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "3ed81952-c3b2-4dec-aa39-c739440c79de",
+      "season": 1,
+      "number": 33,
+      "name": "Snowhoof",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "4582d4fc-2a40-405e-9717-f4a5a82501f0",
+      "season": 1,
+      "number": 34,
+      "name": "Trylleshow-spoiler",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "2be925d2-d4ad-4fb2-afa0-ea1df0e00cdf",
+      "season": 1,
+      "number": 35,
+      "name": "Bod-band",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "1cd74db7-80d1-412a-a6cb-9f48be9582d2",
+      "season": 1,
+      "number": 36,
+      "name": "Tegnedagsulykke",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "3525117c-ba13-4bdf-819e-f30395b520de",
+      "season": 1,
+      "number": 37,
+      "name": "Halloween-slikjagt",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "8af91bda-fd8a-4a33-8921-17797a1c00e9",
+      "season": 1,
+      "number": 38,
+      "name": "Lulus store eventyr",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "a05972c5-7005-4df0-86ac-deb16de28e06",
+      "season": 1,
+      "number": 39,
+      "name": "Sygedagstrick",
+      "airdate": "2024-04-01"
+    }
+  ]
+}

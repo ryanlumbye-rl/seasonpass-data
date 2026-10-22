@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:beier-bygger-have-tv2fri",
+  "name": "Beier bygger have",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "610be09e-6a91-4f5e-b8bd-d12af7cb215f",
+      "season": 1,
+      "number": 1,
+      "name": "Staudebed og kærlighedsblomst",
+      "airdate": "2019-04-16"
+    },
+    {
+      "id": "2beb25a2-ba80-4163-a75b-626ac5c66298",
+      "season": 1,
+      "number": 2,
+      "name": "Drengenes have",
+      "airdate": "2019-04-16"
+    },
+    {
+      "id": "0b69ef37-a093-42ec-917d-3f0f214f858c",
+      "season": 1,
+      "number": 3,
+      "name": "Skur, vildmarksbad og udendørskøkken",
+      "airdate": "2019-04-23"
+    },
+    {
+      "id": "20071290-a185-4871-b6bd-e00016cb2e46",
+      "season": 1,
+      "number": 4,
+      "name": "Altan og havens belysning",
+      "airdate": "2019-04-30"
+    }
+  ]
+}

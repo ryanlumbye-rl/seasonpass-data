@@ -1,0 +1,1081 @@
+{
+  "id": "tv2play:brooklyn-nine-nine-tv2play",
+  "name": "Brooklyn Nine-Nine",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "801887d8-7b49-4f23-95ff-fa813ed042cd",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "b0cd94f2-6da5-4a9e-bd31-8425daaeada9",
+      "season": 1,
+      "number": 2,
+      "name": "The Tagger",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "5474deb0-1bcc-4ee7-9107-8f489e58a444",
+      "season": 1,
+      "number": 3,
+      "name": "The Slump",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "c4489064-ff6d-4baa-925d-a599a9682d29",
+      "season": 1,
+      "number": 4,
+      "name": "M.E. Time",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "891056f0-b6b6-4d94-be16-39ce6d0ebd58",
+      "season": 1,
+      "number": 5,
+      "name": "The Vulture",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "f0906f0d-884c-46ad-8e74-da572bf9a9fc",
+      "season": 1,
+      "number": 6,
+      "name": "Halloween",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "944f51a9-e201-4285-a0e5-3c154850c9e8",
+      "season": 1,
+      "number": 7,
+      "name": "48 Hours",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "5b750e5b-2913-470b-b667-5bab45bc7741",
+      "season": 1,
+      "number": 8,
+      "name": "Old School",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "a69705f8-abcb-4999-b24b-0b14e3e408f6",
+      "season": 1,
+      "number": 9,
+      "name": "Sal's Pizza",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "6d35a9b4-08aa-4efd-baf4-adb77ae24bf9",
+      "season": 1,
+      "number": 10,
+      "name": "Thanksgiving",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "8fefb711-a8d4-4edf-9854-9a52a5ebfe82",
+      "season": 1,
+      "number": 11,
+      "name": "Christmas",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "800d404e-cda4-4560-9f94-92cd7217a9ec",
+      "season": 1,
+      "number": 12,
+      "name": "Pontiac Bandit",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "74b9f90e-3b82-40fb-8422-12c5f197f97c",
+      "season": 1,
+      "number": 13,
+      "name": "The Bet",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2f159cf3-3c0b-4e0e-8b81-1a6502f092c2",
+      "season": 1,
+      "number": 14,
+      "name": "The Ebony Falcon",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "090de226-3b57-4655-9ed1-dfdc63891d0f",
+      "season": 1,
+      "number": 15,
+      "name": "Operation: Broken Feather",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "861ade3a-c2de-43e0-a5fd-4e1edca94178",
+      "season": 1,
+      "number": 16,
+      "name": "The Party",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "a9b3f25b-1da1-4a98-98f8-4242fe06d502",
+      "season": 1,
+      "number": 17,
+      "name": "Full Boyle",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2eaa7dd0-6c95-4675-b679-c11198d40d9d",
+      "season": 1,
+      "number": 18,
+      "name": "The Apartment",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "8ab5f747-c96c-4689-83e1-aa3229722614",
+      "season": 1,
+      "number": 19,
+      "name": "Tactical Village",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "dafb9f9e-a1dd-4cc8-b4de-bf61915b8a46",
+      "season": 1,
+      "number": 20,
+      "name": "Fancy Brudgom",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2e31ff2a-5713-4a77-aaa3-84dd3fb28141",
+      "season": 1,
+      "number": 21,
+      "name": "Unsolvable",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "c8efd7e0-c653-4325-8c26-5663563d53e4",
+      "season": 1,
+      "number": 22,
+      "name": "Charges and Specs",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "de3c5397-c3f5-4702-b5ea-5fc5f1d3942e",
+      "season": 2,
+      "number": 1,
+      "name": "Undercover",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "042b710a-618d-475d-9577-e676350e4940",
+      "season": 2,
+      "number": 2,
+      "name": "Chocolate Milk",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "461c5ac2-0446-438f-91c0-99f9a3ddfbf1",
+      "season": 2,
+      "number": 3,
+      "name": "The Jimmy Jab Games",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "50cf75ed-d3da-48f9-a3f2-dfe26012ecfa",
+      "season": 2,
+      "number": 4,
+      "name": "Halloween II",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "b40306d7-8d1d-4c09-b1f0-b3948cc1cbb8",
+      "season": 2,
+      "number": 5,
+      "name": "The Mole",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "786a8be6-84c7-4fbc-b8d5-f9e4ffc4a47f",
+      "season": 2,
+      "number": 6,
+      "name": "Jake and Sophia",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "9b7a8c0e-a818-41c5-8707-cfabfc4c8f81",
+      "season": 2,
+      "number": 7,
+      "name": "Lockdown",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "555070fc-f41f-41f1-a236-07cc98a45a5d",
+      "season": 2,
+      "number": 8,
+      "name": "USPIS",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "81a1837e-ba10-4552-ac4d-98b2f2b17a07",
+      "season": 2,
+      "number": 9,
+      "name": "The Road Trip",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "c4b5229f-8b75-463f-99cd-4739e546eab0",
+      "season": 2,
+      "number": 10,
+      "name": "The Pontiac Bandit Returns",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "1388d5e0-7c44-469b-98b2-f4a760bd3eee",
+      "season": 2,
+      "number": 11,
+      "name": "Stakeout",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "13e088cd-4807-456f-bd68-229f64577767",
+      "season": 2,
+      "number": 12,
+      "name": "Beach House",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "746bb150-ca35-4032-8008-827e0463fb51",
+      "season": 2,
+      "number": 13,
+      "name": "Payback",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "e2266093-5f88-4043-9393-25403d6fbae2",
+      "season": 2,
+      "number": 14,
+      "name": "Defense Rests",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "0711e703-2207-45f2-9807-3f9532da14eb",
+      "season": 2,
+      "number": 15,
+      "name": "Windbreaker City",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "de483a37-3d4e-43e2-8b9c-cc3839516fd6",
+      "season": 2,
+      "number": 16,
+      "name": "The Wednesday Incident",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "00d9a973-ebec-4da5-912e-9a39e0b26f74",
+      "season": 2,
+      "number": 17,
+      "name": "Boyle-Linetti Wedding",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "999ec112-af39-47df-b9aa-79214f4bcd80",
+      "season": 2,
+      "number": 18,
+      "name": "Captain Peralta",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "f3abfc3e-ec1a-4733-9a10-7d4b39d7187e",
+      "season": 2,
+      "number": 19,
+      "name": "Sabotage",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "8a1d2855-7d35-409c-b2ca-53d1ce74a7a5",
+      "season": 2,
+      "number": 20,
+      "name": "AC/DC",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "30035ae7-2d0c-4699-94e4-b77d210d76ca",
+      "season": 2,
+      "number": 21,
+      "name": "Det. Dave Majors",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "8ffb3905-e78a-405e-873d-11ad12184577",
+      "season": 2,
+      "number": 22,
+      "name": "The Chopper",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "bd8c4599-1cc5-494d-bba7-0e8eacad307a",
+      "season": 2,
+      "number": 23,
+      "name": "Johnny and Dora",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "27966110-cd3d-4851-8231-052dffc127e5",
+      "season": 3,
+      "number": 1,
+      "name": "New Captain",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "a32365e2-16ef-4433-a135-7d99faac085e",
+      "season": 3,
+      "number": 2,
+      "name": "The Funeral",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "38b2d5f2-f6b1-400d-85ba-ce709704e76c",
+      "season": 3,
+      "number": 3,
+      "name": "Boyle's Hunch",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2502ef7d-a718-4a38-8209-f9181289e343",
+      "season": 3,
+      "number": 4,
+      "name": "The Oolong Slayer",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7e1a2eaa-731b-4844-8c91-c5ac8a09d1a4",
+      "season": 3,
+      "number": 5,
+      "name": "Halloween III",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "3bdf98cd-1577-44c7-beb9-d2959afd0f57",
+      "season": 3,
+      "number": 6,
+      "name": "Into the Woods",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "437b39ef-e2c5-47e7-a7da-08ee5bc988eb",
+      "season": 3,
+      "number": 7,
+      "name": "The Mattress",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2c0fdbb3-8988-4cac-91df-024d1ce76442",
+      "season": 3,
+      "number": 8,
+      "name": "Ava",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "6bbacb2b-0def-42a4-a24c-c9b44ecce1a1",
+      "season": 3,
+      "number": 9,
+      "name": "The Swedes",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7439b2ec-3b2e-4091-87f2-4cdb2d2b1f6c",
+      "season": 3,
+      "number": 10,
+      "name": "Yippie Kayak",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7609e2b9-4e07-41fe-bf42-738a0108eadc",
+      "season": 3,
+      "number": 11,
+      "name": "Hostage Situation",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "abe04ae5-5019-4b3f-9733-5020dae4f889",
+      "season": 3,
+      "number": 12,
+      "name": "9 Days",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "e588ecdf-7fc9-4737-b6ae-cdbd3bbd28f4",
+      "season": 3,
+      "number": 13,
+      "name": "The Cruise",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "5b749708-cc17-4765-a1a2-e491819e8295",
+      "season": 3,
+      "number": 14,
+      "name": "Karen Peralta",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7be5e05b-8244-4e85-880a-045ced047306",
+      "season": 3,
+      "number": 15,
+      "name": "The 9-8",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "3b05b70b-5ba2-4707-8505-5df4894ae843",
+      "season": 3,
+      "number": 16,
+      "name": "House Mouses",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "e9707886-8d26-461a-b8c3-72c249465cb6",
+      "season": 3,
+      "number": 17,
+      "name": "Adrian Pimento",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "16092045-c4e0-4d81-88fa-5604e0b8dc1d",
+      "season": 3,
+      "number": 18,
+      "name": "Cheddar",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "3eada891-e358-4597-9ebb-56903efe062d",
+      "season": 3,
+      "number": 19,
+      "name": "Terry Kitties",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "fdccf31a-9f56-4a90-98a6-b4524c21252e",
+      "season": 3,
+      "number": 20,
+      "name": "Paranoia",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "bb8c6365-10c2-4966-b2a2-1df4dedb43d5",
+      "season": 3,
+      "number": 21,
+      "name": "Maximum Security",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "30f5eb06-3603-4101-82cb-b7bbdad733c5",
+      "season": 3,
+      "number": 22,
+      "name": "Bureau",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "9fe8d525-d0bd-4514-9499-4c852f412400",
+      "season": 3,
+      "number": 23,
+      "name": "Greg and Larry",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2ec648ec-675d-4b05-a342-7511515f3ebd",
+      "season": 4,
+      "number": 1,
+      "name": "Coral Palms - del 1",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "3705496b-dfae-45f8-8850-bec9e9e1f3cf",
+      "season": 4,
+      "number": 2,
+      "name": "Coral Palms - del 2",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "e7f817c5-4f70-4ba9-8fac-75244489893a",
+      "season": 4,
+      "number": 3,
+      "name": "Coral Palms - del 3",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "cbe99e81-1ff7-46b4-95b6-4b6b927f039f",
+      "season": 4,
+      "number": 4,
+      "name": "The Night Shift",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "62e89579-a8fc-46fa-b7c3-cb02d364a7a0",
+      "season": 4,
+      "number": 5,
+      "name": "Halloween IV",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "3f6047fc-0a37-4110-84a2-ebeea26f7162",
+      "season": 4,
+      "number": 6,
+      "name": "Monster in the Closet",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "e198320a-1c7a-47fe-8200-5595ff254640",
+      "season": 4,
+      "number": 7,
+      "name": "Mr. Santiago",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "23c4f27f-7c9a-4cec-98b4-0f8856fdc1a5",
+      "season": 4,
+      "number": 8,
+      "name": "Skyfire Cycle",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "b6886702-3579-4e4a-a1af-003af8f78566",
+      "season": 4,
+      "number": 9,
+      "name": "The Overmining",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "da68badd-797b-4478-be4d-5a25d0b02b42",
+      "season": 4,
+      "number": 10,
+      "name": "Captain Latvia",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "0006fb69-f08e-4246-a6f2-4c3623afa4dc",
+      "season": 4,
+      "number": 11,
+      "name": "The Fugitive - del 1",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "8cef12ef-53a3-4d1a-ab17-fb177adb8e3d",
+      "season": 4,
+      "number": 12,
+      "name": "The Fugitive - del 2",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "d14ca7ea-ed1c-4a1c-8b37-d508b0e27e6c",
+      "season": 4,
+      "number": 13,
+      "name": "The Audit",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "f520ce00-3f0b-49d4-a28d-cab163893de7",
+      "season": 4,
+      "number": 14,
+      "name": "Serve and Protect",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "575d78a7-2b14-4617-9157-5fb8b0ae1b70",
+      "season": 4,
+      "number": 15,
+      "name": "The Last Ride",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "0a25a9e2-744e-482b-8342-1f021ae582de",
+      "season": 4,
+      "number": 16,
+      "name": "Moo Moo",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "602b1cdc-da7d-4663-81f6-fd303d73b882",
+      "season": 4,
+      "number": 17,
+      "name": "Cop Con",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "9ce56e9d-2bab-4d10-a2fe-f67dc9452f6b",
+      "season": 4,
+      "number": 18,
+      "name": "Chasing Amy",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "78ca1e86-8109-4b00-b8e3-838c7918144b",
+      "season": 4,
+      "number": 19,
+      "name": "Your Honor",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7a6c4474-5abb-4d27-a9b0-3b98edcf6f84",
+      "season": 4,
+      "number": 20,
+      "name": "The Slaughterhouse",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "d12a2999-c41c-4057-9ea4-668d8e4fe727",
+      "season": 4,
+      "number": 21,
+      "name": "The Bank Job",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "ef76a8ae-f3d2-4e5a-bb1f-927954ff2595",
+      "season": 4,
+      "number": 22,
+      "name": "Crime and Punishment",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "99a8af47-cef1-4ed5-8427-71c1315fc575",
+      "season": 5,
+      "number": 1,
+      "name": "The Big House - del 1",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "a3337556-5781-4fab-8b25-b27aa81e704b",
+      "season": 5,
+      "number": 2,
+      "name": "The Big House - del 2",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "20887e97-9349-4540-8c63-db3bcd34cee4",
+      "season": 5,
+      "number": 3,
+      "name": "Kicks",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "bc344e0a-52f4-410f-9b73-2578072ed3b8",
+      "season": 5,
+      "number": 4,
+      "name": "HalloVeen",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "5266829c-b627-4561-8202-286f4f9f5cc6",
+      "season": 5,
+      "number": 5,
+      "name": "Bad Beat",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "15270533-a2c5-49cb-b35c-f2b4cc5e08ab",
+      "season": 5,
+      "number": 6,
+      "name": "The Venue",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "e0cb3ea1-a610-4a0b-bea7-796967d479e6",
+      "season": 5,
+      "number": 7,
+      "name": "Two Turkeys",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "acca6d12-8396-4887-964f-9422b78ea7af",
+      "season": 5,
+      "number": 8,
+      "name": "Return to Skyfire",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "3a6c04e7-2955-4510-93d2-38393d17b8db",
+      "season": 5,
+      "number": 9,
+      "name": "99",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "be793079-546c-4fb0-9124-10defa7fda51",
+      "season": 5,
+      "number": 10,
+      "name": "Game Night",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "98101113-cd44-4af4-b599-9d19d9179459",
+      "season": 5,
+      "number": 11,
+      "name": "The Favor",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "735b518e-7293-4087-a0fc-0e6f5fd3dfd5",
+      "season": 5,
+      "number": 12,
+      "name": "Safe House",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "ed8e9598-d09c-42f7-9b2c-bca39183a1aa",
+      "season": 5,
+      "number": 13,
+      "name": "The Negotiation",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "e136ac7c-9d45-42f4-a871-05454d587852",
+      "season": 5,
+      "number": 14,
+      "name": "The Box",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "eb988b3f-520b-47c3-9b1a-49832eb1e36f",
+      "season": 5,
+      "number": 15,
+      "name": "The Puzzle Master",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "94cbd695-ec31-4847-93bd-b00fc667164c",
+      "season": 5,
+      "number": 16,
+      "name": "Nutriboom",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "ea62cbf8-f45b-406a-bff4-a47ea4ff0a8b",
+      "season": 5,
+      "number": 17,
+      "name": "DFW",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "11346d6c-573f-4023-bd41-fb440538e470",
+      "season": 5,
+      "number": 18,
+      "name": "Gray Star Mutual",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "1829a74e-7c50-4205-8df8-fd11ba153b49",
+      "season": 5,
+      "number": 19,
+      "name": "Bachelorette Party",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "eca772b8-a1ab-46d7-a04c-846458b9cb09",
+      "season": 5,
+      "number": 20,
+      "name": "Show Me Going",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "e4a9db6f-203f-46e1-8489-ac6c2fc0f9b3",
+      "season": 5,
+      "number": 21,
+      "name": "White Whale",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "5b9c108a-85b3-4405-85e1-643678a864fc",
+      "season": 5,
+      "number": 22,
+      "name": "Jake and Amy",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "89dd9e64-9ece-4ff5-8209-feede701c16f",
+      "season": 6,
+      "number": 1,
+      "name": "Honeymoon",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "1018ea79-7073-46ea-9695-1ec64b9ae873",
+      "season": 6,
+      "number": 2,
+      "name": "Hitchcock and Scully",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "5eb6dba2-a4b5-468b-aba7-053cf76dae2a",
+      "season": 6,
+      "number": 3,
+      "name": "The Tattler",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "adf941b2-c1d5-4946-80fd-a8e06f0bf833",
+      "season": 6,
+      "number": 4,
+      "name": "Four Movements",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "27343605-a3b7-438c-ba10-ce3cbd924545",
+      "season": 6,
+      "number": 5,
+      "name": "A Tale of Two Bandits",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "b5464b0e-b283-4e8f-acc5-7c4f3d368af7",
+      "season": 6,
+      "number": 6,
+      "name": "The Crime Scene",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "9cc1163d-692d-496f-acc7-b4ce0c0866e6",
+      "season": 6,
+      "number": 7,
+      "name": "The Honeypot",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "cb35d3df-5fcf-4b09-bfcd-33e9313bef1f",
+      "season": 6,
+      "number": 8,
+      "name": "He Said, She Said",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "0a879a17-0a23-44b3-8919-3294d212ebf3",
+      "season": 6,
+      "number": 9,
+      "name": "The Golden Child",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "da4f8e1b-2d5b-4eaa-a11c-cc0f4bce733f",
+      "season": 6,
+      "number": 10,
+      "name": "Gintars",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "3551f861-f664-4053-b9d6-da59615e44ff",
+      "season": 6,
+      "number": 11,
+      "name": "The Therapist",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "cd7dca22-00a9-49c3-97f9-a48333612f7a",
+      "season": 6,
+      "number": 12,
+      "name": "Casecation",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2f6f81ea-5ec8-44e0-ba14-a4ce85c6af19",
+      "season": 6,
+      "number": 13,
+      "name": "The Bimbo",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "fdcedc97-7126-4363-9021-19d1d9e18b9b",
+      "season": 6,
+      "number": 14,
+      "name": "Ticking Clocks",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "1249cea9-401a-43fe-8846-a8cad9fffa8f",
+      "season": 6,
+      "number": 15,
+      "name": "Return of the King",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "4a415953-2ff1-4b4a-9cca-c6abe84c5a58",
+      "season": 6,
+      "number": 16,
+      "name": "Cinco de Mayo",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "4ffb55c5-b314-4035-a19e-38383268382c",
+      "season": 6,
+      "number": 17,
+      "name": "Sicko",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "f947c9ab-a366-4bac-8cb6-eaa5ab213c21",
+      "season": 6,
+      "number": 18,
+      "name": "Suicide Squad",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "041aac11-76c6-4fcb-b884-2e150e0198aa",
+      "season": 7,
+      "number": 1,
+      "name": "Manhunter",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "1c1ec75f-929b-448c-a361-a0ee33aef8da",
+      "season": 7,
+      "number": 2,
+      "name": "Captain Kim",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "04bc2657-ccb6-4093-b992-548c1e05553c",
+      "season": 7,
+      "number": 3,
+      "name": "Pimemento",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "c6571eb3-b395-4744-a325-3063a81b4c17",
+      "season": 7,
+      "number": 4,
+      "name": "The Jimmy Jab Games II",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "b32ef8dc-6ebb-47dd-82e1-69adeb13090d",
+      "season": 7,
+      "number": 5,
+      "name": "Debbie",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "27af5a94-4e5d-44e8-a7ea-421450623b7d",
+      "season": 7,
+      "number": 6,
+      "name": "Trying",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "d754f6c0-c03f-4cc3-8571-7cd9c5e63bf5",
+      "season": 7,
+      "number": 7,
+      "name": "Ding Dong",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "bc7de8db-fe83-44d1-b282-b93bd7aad6f5",
+      "season": 7,
+      "number": 8,
+      "name": "The Takeback",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "48984712-d27e-4621-8e2b-b1d2e43a3927",
+      "season": 7,
+      "number": 9,
+      "name": "Dillman",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "700c61d3-e444-4b12-be23-78d357b83270",
+      "season": 7,
+      "number": 10,
+      "name": "Admiral Peralta",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2b64115f-7bf8-4240-a82e-0ab23e5427aa",
+      "season": 7,
+      "number": 11,
+      "name": "Valloweaster",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7fdc833b-862b-46a9-bc4c-6214168679d8",
+      "season": 7,
+      "number": 12,
+      "name": "Ransom",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "db26b56a-560f-4044-9f8f-f502f4b816b9",
+      "season": 7,
+      "number": 13,
+      "name": "Lights Out",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "6c7b77fa-e282-4955-887a-3fc05035632f",
+      "season": 8,
+      "number": 1,
+      "name": "The Good Ones",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "d6b12e04-2165-484a-af45-27095bef7ab8",
+      "season": 8,
+      "number": 2,
+      "name": "The Lake House",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2409cd05-99d9-4ee4-8307-1829f67cdf14",
+      "season": 8,
+      "number": 3,
+      "name": "Blue Flu",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "9fafbea4-37cb-4443-9118-52fa93112132",
+      "season": 8,
+      "number": 4,
+      "name": "Balancing",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "2329a1e7-14c8-4b7c-9c75-974433667e67",
+      "season": 8,
+      "number": 5,
+      "name": "PB&J",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "1cfca13f-dc66-4dbf-85d4-dcaf8adcebdd",
+      "season": 8,
+      "number": 6,
+      "name": "The Set Up",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "01cdbd8f-8947-47ea-9d7c-e92fa5eed6d3",
+      "season": 8,
+      "number": 7,
+      "name": "Game of Boyles",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "28a5f4f4-c49e-4bde-8d59-9398d1f4885c",
+      "season": 8,
+      "number": 8,
+      "name": "Renewal",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7ad9ad17-f27c-49ac-9edf-e4d9526466b6",
+      "season": 8,
+      "number": 9,
+      "name": "The Last Day - del 1",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7ba37130-dc01-4e35-baf9-47ed03c73ea1",
+      "season": 8,
+      "number": 10,
+      "name": "The Last Day - del 2",
+      "airdate": "2026-04-20"
+    }
+  ]
+}

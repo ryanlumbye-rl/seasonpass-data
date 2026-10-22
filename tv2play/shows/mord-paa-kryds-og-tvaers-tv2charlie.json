@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:mord-paa-kryds-og-tvaers-tv2charlie",
+  "name": "Mord på kryds og tværs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "99fe0734-4010-41a2-aa28-184280f3cbc3",
+      "season": 1,
+      "number": 1,
+      "name": "Mystiske krydsord - del 1",
+      "airdate": "2026-01-05"
+    },
+    {
+      "id": "fe81bc4c-685f-4eec-981c-9c01b1a1fd15",
+      "season": 1,
+      "number": 2,
+      "name": "Mystiske krydsord - del 2",
+      "airdate": "2026-01-05"
+    },
+    {
+      "id": "5f251e96-1108-4d1f-b8d1-2c2cb7e21561",
+      "season": 1,
+      "number": 3,
+      "name": "En farlig kæreste - del 1",
+      "airdate": "2026-01-06"
+    },
+    {
+      "id": "ab7cedc2-713f-480a-b3f2-d2d9b7203312",
+      "season": 1,
+      "number": 4,
+      "name": "En farlig kæreste - del 2",
+      "airdate": "2026-01-06"
+    },
+    {
+      "id": "c512fe70-eb62-4129-8b91-e8365312260e",
+      "season": 1,
+      "number": 5,
+      "name": "Afsløringen - del 1",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "f318e102-01e3-4466-82dd-26f7ef0f3fdc",
+      "season": 1,
+      "number": 6,
+      "name": "Afsløringen - del 2",
+      "airdate": "2026-01-07"
+    }
+  ]
+}

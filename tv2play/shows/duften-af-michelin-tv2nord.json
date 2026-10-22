@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:duften-af-michelin-tv2nord",
+  "name": "Duften af Michelin",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "ec3ea27d-ec6b-4601-85dd-a64b3fef631b",
+      "season": 1,
+      "number": 1,
+      "name": "Sulten om at være den bedste",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "81ca1f0a-9185-44b4-b686-d6f239407d88",
+      "season": 1,
+      "number": 2,
+      "name": "Succes på trods",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "d1c16597-34c8-445c-9446-f8c87e244f7e",
+      "season": 1,
+      "number": 3,
+      "name": "Store Michelindag",
+      "airdate": "2025-10-01"
+    }
+  ]
+}

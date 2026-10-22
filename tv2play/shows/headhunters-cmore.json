@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:headhunters-cmore",
+  "name": "Headhunters",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b1ab20ad-f091-42cc-90fa-4326d453618d",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d3d725c2-9c15-4ea8-b837-50a906f82398",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f01a421c-4a8c-4071-aee6-2eaaec61c10c",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "08122360-7dca-47ca-a1a3-47c603f77454",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a2e5e024-5b37-49bb-828e-1e6eeb8b9a1d",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c352a612-b845-4d49-9922-66aa60bbc27c",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

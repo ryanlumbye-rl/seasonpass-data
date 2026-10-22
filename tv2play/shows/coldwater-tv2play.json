@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:coldwater-tv2play",
+  "name": "Coldwater",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4333d773-3a16-48e1-8fa3-f610cc41f62d",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-06-03"
+    },
+    {
+      "id": "a1151fa3-0a42-4b36-b529-cf18bfc9bc81",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-06-03"
+    },
+    {
+      "id": "ff352ad2-74c7-4964-9796-85a0ee4ea527",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-06-03"
+    },
+    {
+      "id": "a7e08578-0932-469e-8d5e-2eaa15cbc8be",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-06-03"
+    },
+    {
+      "id": "11231fb2-70ac-4685-a446-5581942c4aea",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-06-03"
+    },
+    {
+      "id": "5c5cda4f-38d5-461e-8ede-c4310c861913",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-06-03"
+    }
+  ]
+}

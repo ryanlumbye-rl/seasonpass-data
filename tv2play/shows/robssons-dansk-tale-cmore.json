@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:robssons-dansk-tale-cmore",
+  "name": "Robssons (dansk tale)",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "909727b6-57ec-4f4e-a13d-f0bb95bffae6",
+      "season": 1,
+      "number": 1,
+      "name": "Robotterne kommer",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "14cb4401-15c5-4d07-95ee-d4a0883675a7",
+      "season": 1,
+      "number": 2,
+      "name": "Robotter søger arbejde",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a0c8aaac-0cb6-4522-85c1-9c7384070d98",
+      "season": 1,
+      "number": 3,
+      "name": "Robotter har også humoristisk sans",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f92df432-f2cc-4dfc-abd3-74e150f24e9b",
+      "season": 1,
+      "number": 4,
+      "name": "Robotter taler altid sandt - eller...?",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0a834b74-020b-4492-8f4a-7a0bcef1a390",
+      "season": 1,
+      "number": 5,
+      "name": "Kan robotter elske?",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f7289bf6-a72b-4157-8762-90bd8a317bcc",
+      "season": 1,
+      "number": 6,
+      "name": "Det er ikke let at være robot",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e462cf31-95ef-4cd0-96c7-313f67974112",
+      "season": 1,
+      "number": 7,
+      "name": "Kan en robot være jaloux?",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3be48323-e16b-4c4a-a801-000e4929ef20",
+      "season": 1,
+      "number": 8,
+      "name": "Robotter på de sociale medier",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6b06c496-2b96-4f74-a574-0d4f4dd30a7d",
+      "season": 1,
+      "number": 9,
+      "name": "Har robotter tid?",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "988ac9ea-2032-4148-b26d-8f1ad695f565",
+      "season": 1,
+      "number": 10,
+      "name": "Robotvirus",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

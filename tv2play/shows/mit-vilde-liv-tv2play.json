@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:mit-vilde-liv-tv2play",
+  "name": "Mit vilde liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f0b03c88-9290-46c2-ab01-6b08efd8476d",
+      "season": 1,
+      "number": 1,
+      "name": "Far til 164 børn",
+      "airdate": "2026-08-10"
+    },
+    {
+      "id": "64502c2a-46ae-4e1e-9923-8333f9cb5de5",
+      "season": 1,
+      "number": 2,
+      "name": "Totalt klar til dommedag",
+      "airdate": "2026-08-17"
+    },
+    {
+      "id": "1f6f4af3-90ce-4b6d-8a4c-8ff7e4b32c6f",
+      "season": 1,
+      "number": 3,
+      "name": "Besked fra rummet",
+      "airdate": "2026-08-24"
+    },
+    {
+      "id": "2325ac96-3960-491f-a8be-9262e647ea28",
+      "season": 1,
+      "number": 4,
+      "name": "Verdens farligste sport",
+      "airdate": "2026-08-31"
+    }
+  ]
+}

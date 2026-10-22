@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:jul-i-konditoriet-tv2",
+  "name": "Jul i konditoriet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "631d0b23-18b1-49ac-81db-2b3e2c037a58",
+      "season": 1,
+      "number": 1,
+      "name": "Vi glæder os i denne tid",
+      "airdate": "2017-02-06"
+    },
+    {
+      "id": "9416252a-bed6-4866-a124-0446c66089c9",
+      "season": 1,
+      "number": 2,
+      "name": "Sikken voldsom trængsel",
+      "airdate": "2017-12-14"
+    },
+    {
+      "id": "57772b84-653d-4a9a-be52-291f5df2aafb",
+      "season": 1,
+      "number": 3,
+      "name": "Nu er det jul igen",
+      "airdate": "2017-12-21"
+    }
+  ]
+}

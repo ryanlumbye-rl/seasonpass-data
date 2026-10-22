@@ -1,0 +1,185 @@
+{
+  "id": "tv2play:1-doegn-2-hold-3-dyr-tv2",
+  "name": "1 døgn, 2 hold, 3 dyr",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "77916454-373b-4c29-8adf-cdd925c89984",
+      "season": 1,
+      "number": 1,
+      "name": "Hvem finder først de truede dyrearter?",
+      "airdate": "2017-12-05"
+    },
+    {
+      "id": "67783b71-5d63-4f78-9cd7-83a783b306d5",
+      "season": 2,
+      "number": 1,
+      "name": "Hvem finder først dyrene?",
+      "airdate": "2018-07-17"
+    },
+    {
+      "id": "ca44805a-d5f3-48b7-a769-0dbf2be39515",
+      "season": 2,
+      "number": 2,
+      "name": "Hvem finder først dyrene?",
+      "airdate": "2018-07-17"
+    },
+    {
+      "id": "d3077f29-2101-467c-8218-c1fb168152f7",
+      "season": 2,
+      "number": 3,
+      "name": "Hvem finder først dyrene?",
+      "airdate": "2018-07-24"
+    },
+    {
+      "id": "c70f064a-8488-4e93-a8ce-ad5997493b13",
+      "season": 2,
+      "number": 4,
+      "name": "Hvem finder først dyrene?",
+      "airdate": "2018-07-31"
+    },
+    {
+      "id": "306ba07d-bc45-44a1-a796-c05710bbc7ac",
+      "season": 3,
+      "number": 1,
+      "name": "Bornholm",
+      "airdate": "2019-06-17"
+    },
+    {
+      "id": "1c524f0a-6ab8-48ca-9d81-20760c00266b",
+      "season": 3,
+      "number": 2,
+      "name": "Fyn og Jylland",
+      "airdate": "2019-06-17"
+    },
+    {
+      "id": "4b6bcee2-1597-4197-9917-c8ec84f6a899",
+      "season": 3,
+      "number": 3,
+      "name": "Jylland",
+      "airdate": "2019-06-24"
+    },
+    {
+      "id": "b140d620-c620-41a6-a0f8-2f4078b5bedb",
+      "season": 3,
+      "number": 4,
+      "name": "Norge",
+      "airdate": "2019-07-01"
+    },
+    {
+      "id": "cce2f826-041a-48e4-961f-38e6fd320c1d",
+      "season": 3,
+      "number": 5,
+      "name": "Sverige",
+      "airdate": "2019-07-08"
+    },
+    {
+      "id": "78aeccf2-8994-4828-9ba3-173cd90b7fea",
+      "season": 3,
+      "number": 6,
+      "name": "Nordjylland",
+      "airdate": "2019-07-15"
+    },
+    {
+      "id": "1817beb8-44c0-4103-9438-5c84c2e36b89",
+      "season": 3,
+      "number": 7,
+      "name": "I skoven",
+      "airdate": "2019-09-02"
+    },
+    {
+      "id": "d599abff-bb27-4f53-b827-0862533b5805",
+      "season": 4,
+      "number": 1,
+      "name": "Edderkop på menuen",
+      "airdate": "2020-06-30"
+    },
+    {
+      "id": "bdd24ac1-1a26-46f8-bb9c-8bd80b852e7d",
+      "season": 4,
+      "number": 2,
+      "name": "Stålorm, gedde og mus",
+      "airdate": "2020-06-30"
+    },
+    {
+      "id": "99210b55-dc31-4e2f-994b-39aa240a02f5",
+      "season": 4,
+      "number": 3,
+      "name": "Stor vandsalamander, rådyr og østers",
+      "airdate": "2020-07-07"
+    },
+    {
+      "id": "b07ed515-30ed-4062-9335-7637c24b71de",
+      "season": 4,
+      "number": 4,
+      "name": "Vandedderkop, stork og delfin",
+      "airdate": "2020-07-14"
+    },
+    {
+      "id": "508c32b5-7191-4f32-a82f-953c78d76609",
+      "season": 4,
+      "number": 5,
+      "name": "Blodplet, tømmermand, natugle og sort egern",
+      "airdate": "2020-07-21"
+    },
+    {
+      "id": "584ef5bc-b6bc-45cb-b78f-d4698a9bedb8",
+      "season": 4,
+      "number": 6,
+      "name": "Karantænespecial",
+      "airdate": "2020-05-04"
+    },
+    {
+      "id": "edf83c56-fb49-48ef-8414-c80e9120d579",
+      "season": 5,
+      "number": 1,
+      "name": "Jæger, bokser og stjerne",
+      "airdate": "2021-06-22"
+    },
+    {
+      "id": "3fb41539-5c4e-4fc1-bb77-8c51a38d6466",
+      "season": 5,
+      "number": 2,
+      "name": "Fra sommer til vinter",
+      "airdate": "2021-06-22"
+    },
+    {
+      "id": "7add4fb2-c03a-4d3f-b4e2-c00e1e6f37cf",
+      "season": 5,
+      "number": 3,
+      "name": "Våd, træt og grøn",
+      "airdate": "2021-06-29"
+    },
+    {
+      "id": "5ab1bf3e-f850-4a1f-bd92-ec6bccc29e79",
+      "season": 5,
+      "number": 4,
+      "name": "Vild, vildere, vildest",
+      "airdate": "2021-07-06"
+    },
+    {
+      "id": "9a7f661b-6072-46c1-a9be-01998eedc379",
+      "season": 5,
+      "number": 5,
+      "name": "Særlige dyr langt mod nord",
+      "airdate": "2021-07-13"
+    },
+    {
+      "id": "45ec27a5-2b19-4b29-bd14-1549bc48c247",
+      "season": 5,
+      "number": 6,
+      "name": "Fascinerende rovdyr",
+      "airdate": "2021-07-20"
+    },
+    {
+      "id": "9bc6fe71-3a01-464a-ada4-064a1bfb3d66",
+      "season": 5,
+      "number": 7,
+      "name": "Alt er større ned over grænsen",
+      "airdate": "2021-07-27"
+    }
+  ]
+}

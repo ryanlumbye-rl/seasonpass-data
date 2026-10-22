@@ -1,0 +1,500 @@
+{
+  "id": "tv2play:skat-eller-skrammel-tv2fri",
+  "name": "Skat eller skrammel",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "cc7e6674-2e45-4648-8ad9-273faf6ca3f7",
+      "season": 1,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-28"
+    },
+    {
+      "id": "dca52b89-8cf3-45cc-817e-4640e5c240d4",
+      "season": 1,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-28"
+    },
+    {
+      "id": "c6005530-05ea-4795-99cc-648396103466",
+      "season": 1,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-28"
+    },
+    {
+      "id": "c6e07a28-63a8-4b41-aa2a-ef44721da297",
+      "season": 1,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-28"
+    },
+    {
+      "id": "f538fc80-02e2-4b81-a8b2-6ad87b33a6d8",
+      "season": 1,
+      "number": 6,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-28"
+    },
+    {
+      "id": "ef2cd0fa-9c57-4d06-9fa4-02537919933b",
+      "season": 1,
+      "number": 7,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-29"
+    },
+    {
+      "id": "3cdb2528-5715-410b-a9f2-9a5a4c0373e8",
+      "season": 1,
+      "number": 8,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-29"
+    },
+    {
+      "id": "20b4a6e3-fbed-4eef-81be-9a057a080bcc",
+      "season": 1,
+      "number": 9,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-30"
+    },
+    {
+      "id": "8e6ea309-fd6a-444a-ae36-6183e9617a73",
+      "season": 1,
+      "number": 10,
+      "name": "Skattequizzen",
+      "airdate": "2018-11-30"
+    },
+    {
+      "id": "bdf399da-b8ad-4949-8eef-214795dc8ae3",
+      "season": 2,
+      "number": 1,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-03"
+    },
+    {
+      "id": "2b8451f2-7a98-4a82-8e6d-dfc94dde6f42",
+      "season": 2,
+      "number": 2,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-03"
+    },
+    {
+      "id": "e8910abf-8a1b-4898-9cc8-d7a71daa3f20",
+      "season": 2,
+      "number": 3,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-04"
+    },
+    {
+      "id": "ac1ce944-6acc-48ae-af06-8dfd3553fc66",
+      "season": 2,
+      "number": 4,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-04"
+    },
+    {
+      "id": "de1fa2b9-6e2d-4fae-abcd-085acbe64758",
+      "season": 2,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-05"
+    },
+    {
+      "id": "5fafbf0f-bb7e-428d-a857-36d82b9c046f",
+      "season": 2,
+      "number": 6,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-05"
+    },
+    {
+      "id": "021af5cc-cbb7-4a4a-9b2f-8c543747d8d7",
+      "season": 2,
+      "number": 7,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-06"
+    },
+    {
+      "id": "176766f9-cc45-483a-808d-36f3fa6cd3c2",
+      "season": 2,
+      "number": 8,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-06"
+    },
+    {
+      "id": "ac52544e-8bb0-4183-92c3-71f0d9110164",
+      "season": 2,
+      "number": 9,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-07"
+    },
+    {
+      "id": "bdc0b775-0643-4d98-94a0-ddc0d9045896",
+      "season": 2,
+      "number": 10,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-07"
+    },
+    {
+      "id": "f1524055-c3e7-4e10-b02a-2a6a8cc8b511",
+      "season": 3,
+      "number": 1,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-10"
+    },
+    {
+      "id": "86088b36-d3dc-4da0-9e98-73e27066783a",
+      "season": 3,
+      "number": 2,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-10"
+    },
+    {
+      "id": "9e5c41b9-a4a3-4a43-bfc1-4838534073d6",
+      "season": 3,
+      "number": 3,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-11"
+    },
+    {
+      "id": "df1b8a86-7fa1-4713-90ca-ceda6dacb3e4",
+      "season": 3,
+      "number": 4,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-11"
+    },
+    {
+      "id": "ceda5b09-f2f5-4d42-8ec8-0a27f57e3a35",
+      "season": 3,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-12"
+    },
+    {
+      "id": "64da2cb2-47d7-4000-99be-5c75958512cd",
+      "season": 3,
+      "number": 6,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-12"
+    },
+    {
+      "id": "91b89570-01ca-476d-8bbe-4b8071cbfaf9",
+      "season": 3,
+      "number": 7,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-13"
+    },
+    {
+      "id": "be265b79-da92-43cc-a928-c8f0bc9a1ccd",
+      "season": 3,
+      "number": 8,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-13"
+    },
+    {
+      "id": "a9a26722-178a-43fc-97d6-658ec1de79dd",
+      "season": 3,
+      "number": 9,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-14"
+    },
+    {
+      "id": "2e1c8f45-c263-47ff-8526-67eefb058b4b",
+      "season": 3,
+      "number": 10,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-14"
+    },
+    {
+      "id": "f7a34081-bde0-42de-a473-19aeb56285fc",
+      "season": 4,
+      "number": 1,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-17"
+    },
+    {
+      "id": "ee2ac4bf-38ca-4a46-8979-a1961e071821",
+      "season": 4,
+      "number": 2,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-17"
+    },
+    {
+      "id": "70a8f8d9-4d43-4fb3-a0b2-25665d818571",
+      "season": 4,
+      "number": 3,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-18"
+    },
+    {
+      "id": "28f66290-2387-47a0-adc2-5ef4c3b53cb9",
+      "season": 4,
+      "number": 4,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-18"
+    },
+    {
+      "id": "c6b5170e-b6b8-4939-ae5a-40c65c941d6b",
+      "season": 4,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-19"
+    },
+    {
+      "id": "6ef7aa76-65d7-4a9f-bbca-22a9720df6f0",
+      "season": 4,
+      "number": 6,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-19"
+    },
+    {
+      "id": "532cf702-c99f-4d9f-b2a2-db59cdb0985d",
+      "season": 4,
+      "number": 7,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-20"
+    },
+    {
+      "id": "d4b11a1a-8d7e-4752-a006-ce4375296539",
+      "season": 4,
+      "number": 8,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-20"
+    },
+    {
+      "id": "0e1ce9f3-af2c-43ec-b934-a17343bb05d9",
+      "season": 4,
+      "number": 9,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-21"
+    },
+    {
+      "id": "2175677d-b41f-4b34-ba30-0304af4eadc4",
+      "season": 4,
+      "number": 10,
+      "name": "Skattequizzen",
+      "airdate": "2018-12-21"
+    },
+    {
+      "id": "da94943a-37ad-4fd2-9a56-cc33d5c748cc",
+      "season": 4,
+      "number": 11,
+      "name": "Skattequizzen",
+      "airdate": "2019-03-21"
+    },
+    {
+      "id": "7db8885c-46ab-487d-a2b7-38ed74d7ac1d",
+      "season": 4,
+      "number": 12,
+      "name": "Skattequizzen",
+      "airdate": "2019-03-25"
+    },
+    {
+      "id": "77f86245-8242-450d-83ba-99505bfd7af7",
+      "season": 5,
+      "number": 1,
+      "name": "Skattequizzen",
+      "airdate": "2019-03-26"
+    },
+    {
+      "id": "51cd0733-315f-47e9-8d02-9b024815b01b",
+      "season": 5,
+      "number": 2,
+      "name": "Skattequizzen",
+      "airdate": "2019-03-27"
+    },
+    {
+      "id": "a6cc7f3a-9268-4714-a505-69329b103039",
+      "season": 5,
+      "number": 3,
+      "name": "Skattequizzen",
+      "airdate": "2019-03-28"
+    },
+    {
+      "id": "c80c5082-8306-4833-830b-498802a3e840",
+      "season": 5,
+      "number": 4,
+      "name": "Skattequizzen",
+      "airdate": "2019-03-28"
+    },
+    {
+      "id": "2d8e0e56-b40c-463f-8d66-fb81ce7993b7",
+      "season": 5,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2019-03-29"
+    },
+    {
+      "id": "6223d46c-c79a-4f9f-bd71-a0d369161013",
+      "season": 5,
+      "number": 6,
+      "name": "Skattequizzen",
+      "airdate": "2019-04-01"
+    },
+    {
+      "id": "2db0346e-0064-4583-b29d-889ff06d2bc0",
+      "season": 5,
+      "number": 7,
+      "name": "Skattequizzen",
+      "airdate": "2019-04-01"
+    },
+    {
+      "id": "2513feea-ed7f-4fd4-9597-6fa365791ace",
+      "season": 5,
+      "number": 8,
+      "name": "Skattequizzen",
+      "airdate": "2019-04-02"
+    },
+    {
+      "id": "e5677333-1fd7-457d-ab71-4db3ca27aec2",
+      "season": 5,
+      "number": 9,
+      "name": "Skattequizzen",
+      "airdate": "2019-04-02"
+    },
+    {
+      "id": "be35b29f-62c0-4f1d-83da-c18d5674b5fb",
+      "season": 5,
+      "number": 10,
+      "name": "Skattequizzen",
+      "airdate": "2019-04-03"
+    },
+    {
+      "id": "c38de539-cb0b-475f-ad32-5e36773f7ca8",
+      "season": 6,
+      "number": 1,
+      "name": "Skattequizzen",
+      "airdate": "2019-10-06"
+    },
+    {
+      "id": "e116867d-45ba-46c1-a34c-f232b1a447c6",
+      "season": 6,
+      "number": 2,
+      "name": "Skattequizzen",
+      "airdate": "2019-10-13"
+    },
+    {
+      "id": "34757e09-d148-459a-a4a9-8cc7e6fc62e4",
+      "season": 6,
+      "number": 3,
+      "name": "Skattequizzen",
+      "airdate": "2019-10-20"
+    },
+    {
+      "id": "014ca381-9cb3-4cea-8464-2241e8da3ecd",
+      "season": 6,
+      "number": 4,
+      "name": "Skattequizzen",
+      "airdate": "2019-10-27"
+    },
+    {
+      "id": "219c8e1f-9a6d-4510-8fa7-dc48fc427e8e",
+      "season": 6,
+      "number": 5,
+      "name": "Skattequizzen",
+      "airdate": "2019-11-03"
+    },
+    {
+      "id": "7ac0c77e-1cf7-4795-bf33-62768fe862b6",
+      "season": 6,
+      "number": 6,
+      "name": "Skattequizzen",
+      "airdate": "2019-11-10"
+    },
+    {
+      "id": "a46465de-71d2-4bf4-a288-1043ed2ef0a9",
+      "season": 6,
+      "number": 7,
+      "name": "Skattequizzen",
+      "airdate": "2019-11-17"
+    },
+    {
+      "id": "bd10ab01-1a37-452d-bed5-dd12c1bbce18",
+      "season": 6,
+      "number": 8,
+      "name": "Skattequizzen",
+      "airdate": "2019-11-24"
+    },
+    {
+      "id": "eaf12173-2556-49b8-9969-be66ac6cff58",
+      "season": 6,
+      "number": 9,
+      "name": "Skattequizzen",
+      "airdate": "2019-12-01"
+    },
+    {
+      "id": "25027026-e308-48de-b720-c7721dff8582",
+      "season": 6,
+      "number": 10,
+      "name": "Skattequizzen",
+      "airdate": "2019-12-08"
+    },
+    {
+      "id": "d19a7203-d646-47aa-a537-33edcc284f57",
+      "season": 10,
+      "number": 1,
+      "name": "Love is in the Air",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "c58e9268-727c-415e-970b-6c20c8408ba7",
+      "season": 10,
+      "number": 2,
+      "name": "Tv-stjernernes dyst",
+      "airdate": "2026-09-05"
+    },
+    {
+      "id": "4ce0275c-170d-4e22-8d4b-c5585ee4191c",
+      "season": 10,
+      "number": 3,
+      "name": "Teater versus TikTok",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "80b1bc3b-3145-4bbf-992c-555e8caae676",
+      "season": 10,
+      "number": 4,
+      "name": "Livets tunge rygsæk",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "d1e0ae59-1856-4ae3-afd3-5ee241cfb886",
+      "season": 10,
+      "number": 5,
+      "name": "Venskabskampen",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "cef76a18-73f6-4066-9062-28ae8dc90de6",
+      "season": 10,
+      "number": 6,
+      "name": "Juholt, Beckham og Bellman",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "d5f95639-297b-4910-af36-c79d8976cd66",
+      "season": 10,
+      "number": 7,
+      "name": "A-holdet",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "2bbcc074-fdee-4227-8500-ab52f1d5e9ec",
+      "season": 10,
+      "number": 8,
+      "name": "Strategi og følelser",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "7882b711-dec7-4005-baf5-9f38ecd31073",
+      "season": 10,
+      "number": 9,
+      "name": "Kærlighed og katte-griller",
+      "airdate": "2026-10-24"
+    }
+  ]
+}

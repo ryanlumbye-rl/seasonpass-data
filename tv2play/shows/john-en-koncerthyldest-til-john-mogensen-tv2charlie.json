@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:john-en-koncerthyldest-til-john-mogensen-tv2charlie",
+  "name": "JOHN - en koncerthyldest til John Mogensen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "48736a3c-1ee4-49b1-a1ce-d9a0815f709e",
+      "season": 1,
+      "number": 1,
+      "name": "Rasmus Bjerg i en hyldest til John Mogensen - del 1",
+      "airdate": "2019-12-07"
+    },
+    {
+      "id": "c228c544-13b0-4ac3-9d12-b14dff627c5d",
+      "season": 1,
+      "number": 2,
+      "name": "Rasmus Bjerg i en hyldest til John Mogensen - del 2",
+      "airdate": "2019-12-07"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:monstermaling-oiii",
+  "name": "Monstermaling",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f69d768d-c969-4edf-98ac-43fb55a57784",
+      "season": 1,
+      "number": 1,
+      "name": "Rumvæsen fra det ydre rum",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "eafc3163-3e8e-4f3a-be23-3bfff8576c75",
+      "season": 1,
+      "number": 2,
+      "name": "Havets smukkeste skabning, havfruen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f62e2ec8-2c91-4238-8e13-252ee0ed7618",
+      "season": 1,
+      "number": 3,
+      "name": "Sådan bliver du en trold",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "37f88df5-a0ae-4d81-888c-883fe94e2d92",
+      "season": 1,
+      "number": 4,
+      "name": "Fantasitiger",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4a4fd2b6-69de-4886-9339-9fb8eb57ae07",
+      "season": 1,
+      "number": 5,
+      "name": "Zombien kommer!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "251fd06e-1e5c-42f1-be80-5b44e7274b1e",
+      "season": 1,
+      "number": 6,
+      "name": "Halv robot - halv menneske",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4faad44c-354f-4046-ae0b-6d045ded21d7",
+      "season": 1,
+      "number": 7,
+      "name": "Monsteret under min seng",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0fd66770-1967-4a69-ab88-86ca1bbdebcc",
+      "season": 1,
+      "number": 8,
+      "name": "Den fineste sommerfugl",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "122d4877-77f0-4db8-b0d9-266070ec6808",
+      "season": 1,
+      "number": 9,
+      "name": "Magisk enhjørning",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b0890073-7a94-4b05-b492-08c8a7b36e7a",
+      "season": 1,
+      "number": 10,
+      "name": "Yndlingshelten Spiderman",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f93fe542-84a6-433a-ae00-41311734b4ae",
+      "season": 1,
+      "number": 11,
+      "name": "Den sejeste snemand",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "67d3a5fd-0c32-434f-aee4-07dd289ed120",
+      "season": 1,
+      "number": 12,
+      "name": "Pyntet op til jul",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

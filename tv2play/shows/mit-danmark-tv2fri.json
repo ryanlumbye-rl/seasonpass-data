@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:mit-danmark-tv2fri",
+  "name": "Mit Danmark",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3583aa7f-a5ad-4a94-afc3-73d4e1f517f9",
+      "season": 1,
+      "number": 1,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-10-21"
+    },
+    {
+      "id": "462c8437-e0d9-402a-81cc-511ffdd0bb02",
+      "season": 1,
+      "number": 2,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-10-28"
+    },
+    {
+      "id": "f0e6d9cb-3a3e-415d-8b07-3c1b96780775",
+      "season": 1,
+      "number": 3,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-11-04"
+    },
+    {
+      "id": "37158c66-090b-4777-9d68-dfad5d63f58c",
+      "season": 1,
+      "number": 4,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-11-11"
+    },
+    {
+      "id": "7dcaf4af-9e4b-4d62-a1c0-e60257ade8ab",
+      "season": 1,
+      "number": 5,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-11-18"
+    },
+    {
+      "id": "ef803e74-4574-442c-978e-be2dd8b52fb4",
+      "season": 1,
+      "number": 6,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-11-25"
+    },
+    {
+      "id": "403d4b49-3bcf-407e-ae5a-0ff83bf91b5f",
+      "season": 1,
+      "number": 7,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-12-02"
+    },
+    {
+      "id": "d193b87e-b6f4-409e-bedd-b015d1c0fef8",
+      "season": 1,
+      "number": 8,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-12-09"
+    },
+    {
+      "id": "931ca166-becb-4e3e-b1ee-b4fac1b90396",
+      "season": 1,
+      "number": 9,
+      "name": "Nordkaperen vender tilbage",
+      "airdate": "2013-12-16"
+    }
+  ]
+}

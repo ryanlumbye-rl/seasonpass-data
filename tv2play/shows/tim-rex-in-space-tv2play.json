@@ -1,0 +1,136 @@
+{
+  "id": "tv2play:tim-rex-in-space-tv2play",
+  "name": "Tim Rex in Space",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7e3fbf14-31d5-48f0-8a69-7e00bb7f1288",
+      "season": 1,
+      "number": 1,
+      "name": "Stjerneskud",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "0cfb03a0-ed9a-4633-9cb9-df2a84dd06af",
+      "season": 1,
+      "number": 2,
+      "name": "Surfing, rumskib og pizza",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "48b66bd5-018a-4821-b877-040559791914",
+      "season": 1,
+      "number": 3,
+      "name": "Gave",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "f74f7683-4df6-4f06-8c89-51bf91116834",
+      "season": 1,
+      "number": 4,
+      "name": "Raketræs",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "112273c8-fbe1-49b5-81cc-ef871e6eee97",
+      "season": 1,
+      "number": 5,
+      "name": "Støvler",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "942232b3-9d75-4671-8c6c-6dd6f1eb1dda",
+      "season": 1,
+      "number": 6,
+      "name": "Måneko",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "69348d90-53d6-4771-89b2-c22444b364c8",
+      "season": 1,
+      "number": 7,
+      "name": "Rumland",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "57596bdc-4f48-4fcf-abb9-4f42bda2d874",
+      "season": 1,
+      "number": 8,
+      "name": "Skat",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "b5e215da-f644-4c63-b550-4c71f546b867",
+      "season": 1,
+      "number": 9,
+      "name": "Dobbeltaftale",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "4cf498d4-3363-4517-8aff-3aabad128238",
+      "season": 1,
+      "number": 10,
+      "name": "Legetøj",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "661fab1e-74cc-49e7-a929-3020e9bf4a4f",
+      "season": 2,
+      "number": 1,
+      "name": "Udforsker",
+      "airdate": "2026-05-02"
+    },
+    {
+      "id": "c3f7dfbd-ced7-42b9-adbc-ecee2291269e",
+      "season": 2,
+      "number": 2,
+      "name": "Super-far",
+      "airdate": "2026-05-02"
+    },
+    {
+      "id": "547b3787-fe90-4599-8849-6a13f0acfb51",
+      "season": 2,
+      "number": 3,
+      "name": "Strandsøger",
+      "airdate": "2026-05-02"
+    },
+    {
+      "id": "5ad9bae3-40d9-46f3-b683-792ce0209080",
+      "season": 2,
+      "number": 6,
+      "name": "På tur",
+      "airdate": "2026-05-02"
+    },
+    {
+      "id": "24e158f0-2897-4a57-9047-c2022255c341",
+      "season": 2,
+      "number": 7,
+      "name": "Bliv her, bedstemor",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "1b6f394a-b909-4259-9180-a586a3157e3e",
+      "season": 2,
+      "number": 8,
+      "name": "Tim Rex in Space",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "c30f23f2-6321-4999-8e1a-28117ad1aea9",
+      "season": 2,
+      "number": 9,
+      "name": "Tidsmaskinen",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "6f1c48ef-8027-4df0-aaba-0a052f1e9522",
+      "season": 2,
+      "number": 10,
+      "name": "Venner",
+      "airdate": "2026-09-12"
+    }
+  ]
+}

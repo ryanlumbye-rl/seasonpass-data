@@ -1,0 +1,388 @@
+{
+  "id": "tv2play:foerst-til-verdens-ende-tv2",
+  "name": "Først til verdens ende",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "67d5e4f9-d028-40aa-9d37-d338e33104c0",
+      "season": 1,
+      "number": 1,
+      "name": "Første etape - Fra Odense til Venedig",
+      "airdate": "2020-03-31"
+    },
+    {
+      "id": "bcfffc6d-3ab7-4b0e-ad10-df312fcca1ea",
+      "season": 1,
+      "number": 2,
+      "name": "Anden etape - Fra Venedig til Delfi",
+      "airdate": "2020-03-31"
+    },
+    {
+      "id": "80e6248c-1401-4649-860e-1d54d153aab5",
+      "season": 1,
+      "number": 3,
+      "name": "Tredje etape - Fra Delfi til Baku",
+      "airdate": "2020-04-07"
+    },
+    {
+      "id": "b2238d70-93dd-45f6-90b0-a6fac1a5a419",
+      "season": 1,
+      "number": 4,
+      "name": "Fjerde etape - Fra Baku til Tasjkent",
+      "airdate": "2020-04-14"
+    },
+    {
+      "id": "f0939017-d772-40b6-ad01-30006cf39a6b",
+      "season": 1,
+      "number": 5,
+      "name": "Femte etape - Fra Tasjkent til Chengdu",
+      "airdate": "2020-04-21"
+    },
+    {
+      "id": "e828732a-3d62-4206-b411-f8cc90ca0291",
+      "season": 1,
+      "number": 6,
+      "name": "Sjette etape - Fra Chengdu til Ninh Binh",
+      "airdate": "2020-04-28"
+    },
+    {
+      "id": "4e89508f-2dc4-4887-bc3a-597af37abc1b",
+      "season": 1,
+      "number": 7,
+      "name": "Syvende etape - Fra Ninh Binh til Koh Chang",
+      "airdate": "2020-05-05"
+    },
+    {
+      "id": "21fa38c7-6485-43f2-b610-71cdd432f8bc",
+      "season": 1,
+      "number": 8,
+      "name": "Ottende etape - Fra Koh Chang til Singapore",
+      "airdate": "2020-05-19"
+    },
+    {
+      "id": "39129ae0-b46c-46ec-b2da-871d5b2979ef",
+      "season": 2,
+      "number": 1,
+      "name": "Eventyret begynder",
+      "airdate": "2022-04-11"
+    },
+    {
+      "id": "ade575ce-bb84-4039-895b-80d5e07c0def",
+      "season": 2,
+      "number": 2,
+      "name": "Fra Nordkap mod Kyiv",
+      "airdate": "2022-04-11"
+    },
+    {
+      "id": "7f0a226c-93e3-4a48-8121-1cb07e66946d",
+      "season": 2,
+      "number": 3,
+      "name": "Første par forlader konkurrencen",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "828f0b80-c1bc-4ceb-8567-7b8a70043351",
+      "season": 2,
+      "number": 4,
+      "name": "Én besked ændrer alt",
+      "airdate": "2022-04-25"
+    },
+    {
+      "id": "76554204-faaf-48e2-b7a1-96544775638e",
+      "season": 2,
+      "number": 5,
+      "name": "Eventyret genstartes i Amalfi",
+      "airdate": "2022-05-02"
+    },
+    {
+      "id": "cd814fde-5fe7-4dba-82d8-ff8c3a7dc609",
+      "season": 2,
+      "number": 6,
+      "name": "Vejen til Gibraltar",
+      "airdate": "2022-05-09"
+    },
+    {
+      "id": "8f25bbfd-8136-4bca-9834-ac009ded7d05",
+      "season": 2,
+      "number": 7,
+      "name": "Hvem snubler før allersidste etape?",
+      "airdate": "2022-05-16"
+    },
+    {
+      "id": "225cfb9d-1d94-4289-bdb2-22224018c14d",
+      "season": 2,
+      "number": 8,
+      "name": "Fra Portree til København",
+      "airdate": "2022-05-23"
+    },
+    {
+      "id": "ad3c165b-0fef-44d4-8fc5-77d85e6b2c49",
+      "season": 3,
+      "number": 1,
+      "name": "Eventyret begynder i New York",
+      "airdate": "2023-03-13"
+    },
+    {
+      "id": "c7874692-005c-4474-ba5d-2ed4b3063beb",
+      "season": 3,
+      "number": 2,
+      "name": "Fra New Orleans mod Antigua",
+      "airdate": "2023-03-20"
+    },
+    {
+      "id": "d60c4b06-8856-477d-853d-8467acca50d6",
+      "season": 3,
+      "number": 3,
+      "name": "Farvel til første par i Antigua",
+      "airdate": "2023-03-27"
+    },
+    {
+      "id": "61454ffb-fbda-40e1-b5f1-dfffecb98736",
+      "season": 3,
+      "number": 4,
+      "name": "Fem lande krydses - mod Panama City",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "1984d7e8-e787-4e57-98c6-ad27fa1c39f8",
+      "season": 3,
+      "number": 5,
+      "name": "Mod Amazonas i Ecuador",
+      "airdate": "2023-04-10"
+    },
+    {
+      "id": "3c13be56-6e5a-481a-b606-a12c63cacb18",
+      "season": 3,
+      "number": 6,
+      "name": "Ræset mod Tena",
+      "airdate": "2023-04-17"
+    },
+    {
+      "id": "74c3d731-9eea-4caf-ac50-97ec0c979d1d",
+      "season": 3,
+      "number": 7,
+      "name": "Mod ørkenoasen Huacachina",
+      "airdate": "2023-04-24"
+    },
+    {
+      "id": "9a173299-51b8-43a4-a0da-5cd812d21c36",
+      "season": 3,
+      "number": 8,
+      "name": "Andet par forlader konkurrencen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fea107a0-9065-4a71-be49-ffb922b1ef04",
+      "season": 3,
+      "number": 9,
+      "name": "Sidste etape før finalen",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "0e80e690-ba99-4e13-8803-812db5434b6f",
+      "season": 3,
+      "number": 10,
+      "name": "Hvem kommer først til verdens ende?",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "75c5eaac-dd70-42e0-b8d9-3157f9150a58",
+      "season": 4,
+      "number": 1,
+      "name": "Eventyret begynder - rejsen mod Seoul",
+      "airdate": "2024-03-18"
+    },
+    {
+      "id": "b8f97718-ab04-4fef-a0b1-34ada0856601",
+      "season": 4,
+      "number": 2,
+      "name": "Elimineringen truer - fra Seoul mod Xian",
+      "airdate": "2024-03-25"
+    },
+    {
+      "id": "deaa7c70-cb62-4df2-bafe-4f2fede0cddc",
+      "season": 4,
+      "number": 3,
+      "name": "Eliminering i Xian",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "7aa0b913-d3ef-41d2-9d46-915184c08aac",
+      "season": 4,
+      "number": 4,
+      "name": "Mødet med Vietnam - fra Xian mod Hoi An",
+      "airdate": "2024-04-08"
+    },
+    {
+      "id": "6fe93139-f4d1-4b9d-9348-56fefe8160cf",
+      "season": 4,
+      "number": 5,
+      "name": "Et uventet benspænd - fra Hoi An til Chiang Mai",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "811e4564-d719-45a2-b394-341adf34be90",
+      "season": 4,
+      "number": 6,
+      "name": "Ræset i Chiang Mai",
+      "airdate": "2024-04-22"
+    },
+    {
+      "id": "758a30d5-814d-467c-9e3f-fd08e85ffb70",
+      "season": 4,
+      "number": 7,
+      "name": "Endnu en eliminering - Fra Chiang Mai til Kuala Lumpur",
+      "airdate": "2024-04-29"
+    },
+    {
+      "id": "282b32c7-efd3-4be9-bb24-1062ac6223d8",
+      "season": 4,
+      "number": 8,
+      "name": "Andet par forlader konkurrencen",
+      "airdate": "2024-05-06"
+    },
+    {
+      "id": "e9637f56-e3f6-4c06-842f-81f00801143f",
+      "season": 4,
+      "number": 9,
+      "name": "Udfordringer på Sumatra - mod Bogor",
+      "airdate": "2024-05-13"
+    },
+    {
+      "id": "9ce5ea3f-66de-4a34-b883-b3bc65042467",
+      "season": 4,
+      "number": 10,
+      "name": "Hvem kommer først til Bali?",
+      "airdate": "2024-05-20"
+    },
+    {
+      "id": "b62d4cff-9548-43ac-8760-d1d07b6b682b",
+      "season": 5,
+      "number": 1,
+      "name": "Ræset begynder i Grand Canyon",
+      "airdate": "2025-07-14"
+    },
+    {
+      "id": "a682a7b2-7dce-4f2d-968e-2fa195bad5d2",
+      "season": 5,
+      "number": 2,
+      "name": "Elimineringen venter i Seattle",
+      "airdate": "2025-07-21"
+    },
+    {
+      "id": "3e125652-52d3-4055-8513-9497a5348a8b",
+      "season": 5,
+      "number": 3,
+      "name": "Første par forlader konkurrencen",
+      "airdate": "2025-07-28"
+    },
+    {
+      "id": "872eb361-0b3d-42fb-9fa3-214645e25151",
+      "season": 5,
+      "number": 4,
+      "name": "Ræset på Vancouver Island",
+      "airdate": "2025-08-04"
+    },
+    {
+      "id": "e30f0414-4e0a-43fe-9c8e-db8dd21ccd8a",
+      "season": 5,
+      "number": 5,
+      "name": "Fra Rocky Mountains til Trump-land",
+      "airdate": "2025-08-11"
+    },
+    {
+      "id": "495b9dad-5b40-4566-ab33-b3e95cd0d6df",
+      "season": 5,
+      "number": 6,
+      "name": "Et vigtigt valg",
+      "airdate": "2025-08-18"
+    },
+    {
+      "id": "b15a22cf-b5de-4469-8bad-733c1382a0e1",
+      "season": 5,
+      "number": 7,
+      "name": "Eliminering i Québec",
+      "airdate": "2025-08-25"
+    },
+    {
+      "id": "7ccdd959-d3a1-4e79-a6c7-ceb4bab3ad08",
+      "season": 5,
+      "number": 8,
+      "name": "Andet par forlader konkurrencen",
+      "airdate": "2025-09-01"
+    },
+    {
+      "id": "29589ec9-3d6e-4b45-9598-f8dd12b3e53c",
+      "season": 5,
+      "number": 9,
+      "name": "Indhentet før finalen",
+      "airdate": "2025-09-08"
+    },
+    {
+      "id": "94ee1c64-bd17-46ae-98eb-96eea7df2365",
+      "season": 5,
+      "number": 10,
+      "name": "Hvem kommer først til Key West?",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "2d28bd6d-ba3d-4861-bb0a-77ddd377fe33",
+      "season": 6,
+      "number": 1,
+      "name": "Eventyret begynder i Amazonas",
+      "airdate": "2026-02-28"
+    },
+    {
+      "id": "fb6bbf5a-12f4-4b85-aa5b-7d140f50770a",
+      "season": 6,
+      "number": 2,
+      "name": "Hvem kommer først i checkpoint?",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "f679deb5-0b33-4f88-95fd-d9e070382b72",
+      "season": 6,
+      "number": 3,
+      "name": "Alle valg tæller",
+      "airdate": "2026-03-14"
+    },
+    {
+      "id": "7c7217c9-7771-404f-bb56-e92322aa18e3",
+      "season": 6,
+      "number": 4,
+      "name": "Tæt løb mod checkpoint",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "87258c8a-9a21-43ed-b4d2-240d3f09858c",
+      "season": 6,
+      "number": 5,
+      "name": "Kapløb mod São Paulo",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "6b1fd825-4278-444d-93d7-a52afec11bda",
+      "season": 6,
+      "number": 6,
+      "name": "Dødt løb mod Tucumán",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "fddc4b39-6b72-4d38-816d-21642bad0f60",
+      "season": 6,
+      "number": 7,
+      "name": "Menneskejagt i Argentina",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "ec3f9dae-32c6-4ac3-b72c-1621355d0ed4",
+      "season": 6,
+      "number": 8,
+      "name": "Det sidste stræk",
+      "airdate": "2026-04-18"
+    }
+  ]
+}

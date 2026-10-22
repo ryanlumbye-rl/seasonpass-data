@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:mashas-eventyr-oiii",
+  "name": "Mashas eventyr",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d0d1070e-e142-4354-bbcc-a238fd0ccd5b",
+      "season": 1,
+      "number": 1,
+      "name": "Ulven og de syv små gedekid",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "67196edd-cafc-44a6-ae36-9ec643a838f3",
+      "season": 1,
+      "number": 2,
+      "name": "De fortryllede svanegæs",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "3905c911-0f4b-4505-b9c3-a0fd184c5928",
+      "season": 1,
+      "number": 3,
+      "name": "Ræven og kaninen",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "6fdd9cb9-a73d-4d47-9179-95b81a097533",
+      "season": 1,
+      "number": 4,
+      "name": "Den lille Rødhætte",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "446c389f-e142-4709-bdd6-df795bb3cb27",
+      "season": 1,
+      "number": 5,
+      "name": "Fader Frost",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "80827cb9-ad26-4e85-bcb2-a10cd78f728c",
+      "season": 1,
+      "number": 6,
+      "name": "Juletræsfiskeri",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "ba58d30f-2e1a-4fe2-9f6c-5f6931b98bbb",
+      "season": 1,
+      "number": 7,
+      "name": "Toppene og rødderne",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "817747e6-1da6-435c-84eb-fe24e7848d8e",
+      "season": 1,
+      "number": 8,
+      "name": "Prinsen og frøen",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "bac3e87e-521b-42b8-9fa3-de5a2253d334",
+      "season": 1,
+      "number": 9,
+      "name": "Snejomfruen",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "7b107198-0b6c-4d1e-99e0-276fc90014d5",
+      "season": 1,
+      "number": 10,
+      "name": "Tommeliden",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "80b96de2-e338-4af9-8cb9-6e4e75dc1dbc",
+      "season": 1,
+      "number": 11,
+      "name": "Lillebitte Havroshechka",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "3602b6b5-50a1-45f8-ae5c-19fcd391bd8f",
+      "season": 1,
+      "number": 12,
+      "name": "Stråkalven",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "de034bdf-78e4-4b44-870a-ad5fbd505208",
+      "season": 1,
+      "number": 13,
+      "name": "De tre små grise",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "32bd55e7-49e2-48ff-92a6-4dc9dc0777d3",
+      "season": 1,
+      "number": 14,
+      "name": "Den tapre skrædder",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "fcebe44e-a824-4488-9442-123eb6ff4094",
+      "season": 1,
+      "number": 15,
+      "name": "Ali Baba",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "64d3a6d9-2169-4ab6-aba0-d0501dc6409f",
+      "season": 1,
+      "number": 16,
+      "name": "Askepot",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "d03df80c-4d6b-454b-b6ab-0ea55e4255f0",
+      "season": 1,
+      "number": 17,
+      "name": "Kalifstorken",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "1b5c2f20-8aae-48e5-8845-2f44fcb7c645",
+      "season": 1,
+      "number": 18,
+      "name": "Hans og bønnestagen",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "f264be19-6761-437e-bd5d-2f11543f8f75",
+      "season": 1,
+      "number": 19,
+      "name": "Svinedrengen",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "2413d002-76b4-4142-b396-071c2c33d0ea",
+      "season": 1,
+      "number": 20,
+      "name": "Blåskæg",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "9d782d9c-6e04-4f31-b47b-2c8be7be81c0",
+      "season": 1,
+      "number": 21,
+      "name": "Som gedden ønsker",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "ff6755ba-8d7e-4923-b828-28bc94f1c906",
+      "season": 1,
+      "number": 22,
+      "name": "Ræven og kagerullen",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "9fa17c45-340c-49d6-905e-cd4de4e3e8d6",
+      "season": 1,
+      "number": 23,
+      "name": "Øksegrød",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "9a5d5000-a67f-4071-8b6e-740bb2216820",
+      "season": 1,
+      "number": 24,
+      "name": "Tag hen, hvor peberet gror",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "d072d18c-cf3e-4de0-ae2e-ce0e14a8d790",
+      "season": 1,
+      "number": 25,
+      "name": "Den gyldne hane",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "f1be438e-b481-4663-9724-d0d7ed798a53",
+      "season": 1,
+      "number": 26,
+      "name": "Den pukkelryggede hest",
+      "airdate": "2021-01-16"
+    }
+  ]
+}

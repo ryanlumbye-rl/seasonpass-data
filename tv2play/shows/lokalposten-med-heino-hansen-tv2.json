@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:lokalposten-med-heino-hansen-tv2",
+  "name": "Lokalposten med Heino Hansen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7b357fe0-5534-4d93-8102-58bc8e5d79cd",
+      "season": 1,
+      "number": 1,
+      "name": "Dr. Bombays fætter",
+      "airdate": "2021-10-12"
+    },
+    {
+      "id": "837e53b8-7234-4f35-8fa3-433253cb6a87",
+      "season": 1,
+      "number": 2,
+      "name": "Vil du se min mast?",
+      "airdate": "2021-10-19"
+    },
+    {
+      "id": "9e9e9d28-1c89-4a88-8f0c-0069ddbd2243",
+      "season": 1,
+      "number": 3,
+      "name": "Idioter! Ingen nævnt, ingen glemt",
+      "airdate": "2021-10-26"
+    },
+    {
+      "id": "950d9b40-e6c3-4a54-891a-741044c0d1d0",
+      "season": 1,
+      "number": 4,
+      "name": "Bogstav-stjælende veganere",
+      "airdate": "2021-11-02"
+    },
+    {
+      "id": "270fffab-0880-4d54-9408-d1174b0ea740",
+      "season": 1,
+      "number": 5,
+      "name": "Dance-fest, lokalpolitik og 3. divisionshåndbold",
+      "airdate": "2021-11-09"
+    },
+    {
+      "id": "8f8aa7af-0a49-4e6d-89e4-2220dd833f08",
+      "season": 1,
+      "number": 6,
+      "name": "200 nøgne mennesker i Herning",
+      "airdate": "2021-11-23"
+    },
+    {
+      "id": "f310f015-50b6-436e-b752-5d724415cbec",
+      "season": 1,
+      "number": 7,
+      "name": "We're going to Ibiza",
+      "airdate": "2021-11-30"
+    },
+    {
+      "id": "6d2418f4-3e72-4961-abe1-937ec54aae01",
+      "season": 1,
+      "number": 8,
+      "name": "Borgmester lægger sig fladt ned",
+      "airdate": "2021-12-07"
+    }
+  ]
+}

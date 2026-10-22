@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:the-vicar-of-dibley-britbox",
+  "name": "The Vicar of Dibley",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "59064cc1-cdfd-4ac9-830d-a1017db02ab6",
+      "season": 1,
+      "number": 1,
+      "name": "The Arrival",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f7051501-7d3b-43ec-9ef8-89938a4bd41e",
+      "season": 1,
+      "number": 2,
+      "name": "Songs of Praise",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8ec1a122-7367-4a71-804a-c55be27ac9d1",
+      "season": 1,
+      "number": 3,
+      "name": "Community Spirit",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8c498189-780d-4b7a-b230-77597e209a18",
+      "season": 1,
+      "number": 4,
+      "name": "The Window and the Weather",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fddb059e-8e61-4589-ab5e-11553328c82d",
+      "season": 1,
+      "number": 5,
+      "name": "Election",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "18f398c3-cb6a-49f1-9833-091693162623",
+      "season": 1,
+      "number": 6,
+      "name": "Animals",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "edab5a6d-1aa6-4752-beba-94f2eb013dc1",
+      "season": 1,
+      "number": 7,
+      "name": "Easter",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2e6b42f5-1df5-4718-a06e-8fbe13ae5203",
+      "season": 1,
+      "number": 8,
+      "name": "The Christmas Lunch Incident",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "28511de0-28ef-4f55-b0b3-955a11b35716",
+      "season": 2,
+      "number": 1,
+      "name": "Engagement",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "54eebbff-e11c-47d1-a068-1cd7f6bfa1c9",
+      "season": 2,
+      "number": 2,
+      "name": "Dibley Live",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3e815f8f-201f-4f2f-abf0-32120085db4c",
+      "season": 2,
+      "number": 3,
+      "name": "Celebrity Vicar",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1e8b2633-4b75-42bd-864a-5f6c011524a9",
+      "season": 2,
+      "number": 4,
+      "name": "Love and Marriage",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fed1de47-eb7c-4d0d-b69c-8fda8621d743",
+      "season": 3,
+      "number": 1,
+      "name": "Autumn",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bc86ae8c-31c6-49e7-91b0-42f7d84f56d9",
+      "season": 3,
+      "number": 2,
+      "name": "Winter",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "54eae8bc-3872-4a69-8e1a-3130bb0afbd8",
+      "season": 3,
+      "number": 3,
+      "name": "Spring",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "dfb70c88-163d-4366-bd13-754b400d5dd7",
+      "season": 3,
+      "number": 4,
+      "name": "Summer",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

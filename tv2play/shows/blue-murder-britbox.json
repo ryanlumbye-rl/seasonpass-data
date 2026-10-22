@@ -1,0 +1,115 @@
+{
+  "id": "tv2play:blue-murder-britbox",
+  "name": "Blue Murder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "09f7b1bd-dab8-4300-813f-7bddfabf6bdc",
+      "season": 1,
+      "number": 1,
+      "name": "Cry Me a River: Part 1",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "af0eb11f-9367-4f8f-b677-bf6112b12f0d",
+      "season": 1,
+      "number": 2,
+      "name": "Cry Me a River: Part 2",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "3e14826b-a318-4a64-9393-b10edd380e1a",
+      "season": 3,
+      "number": 1,
+      "name": "Steady Eddie",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "1671429e-13ed-4beb-8a88-d94a2d50df94",
+      "season": 3,
+      "number": 2,
+      "name": "Make Believe",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "934e7c56-729f-4450-9622-4a7967c61af1",
+      "season": 3,
+      "number": 3,
+      "name": "The Sparticus Thing",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "d33f6716-dd80-4269-a627-0f22cb83bb36",
+      "season": 3,
+      "number": 4,
+      "name": "In Deep",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "a66a8354-4369-40db-93bf-bb5da77617fc",
+      "season": 4,
+      "number": 1,
+      "name": "Not A Matter of Life and Death",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "569b2b15-5f57-4d31-b363-727dd34d1ab1",
+      "season": 4,
+      "number": 2,
+      "name": "Desperate Measures",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "52a4e4c4-c049-48e6-8245-84307522d97e",
+      "season": 4,
+      "number": 3,
+      "name": "Crisis Management",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "91915bfa-9bc5-43bc-8b24-3fd1f8ae83b2",
+      "season": 5,
+      "number": 1,
+      "name": "Having It All",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "70d08b43-ec8e-41ef-827f-1cc63047b83a",
+      "season": 5,
+      "number": 2,
+      "name": "Inside",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "0c808ce1-e01c-4dfd-81a1-ce7b4bb57c25",
+      "season": 5,
+      "number": 3,
+      "name": "Tooth and Claw",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "8b37afca-9f82-46ff-819d-4ebb6cee8358",
+      "season": 5,
+      "number": 4,
+      "name": "The Charming Man",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "bcd8442c-f726-4736-8cb1-04420aa30264",
+      "season": 5,
+      "number": 5,
+      "name": "Private Sins: Part 1",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "5a667083-9377-4245-a6be-c1ebe6358abc",
+      "season": 5,
+      "number": 6,
+      "name": "Private Sins: Part 2",
+      "airdate": "2025-03-12"
+    }
+  ]
+}

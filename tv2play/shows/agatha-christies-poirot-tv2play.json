@@ -1,0 +1,479 @@
+{
+  "id": "tv2play:agatha-christies-poirot-tv2play",
+  "name": "Agatha Christie's Poirot",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c801be25-547b-412e-89ad-0480c805ccae",
+      "season": 1,
+      "number": 1,
+      "name": "Den forsvundne kokkepige",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "7963f2c4-571c-416c-b42e-36ac6407ad01",
+      "season": 1,
+      "number": 2,
+      "name": "Ingen hørte skuddet",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "6411dfc9-d93d-4e43-84ba-d7c98653eb7a",
+      "season": 1,
+      "number": 3,
+      "name": "Honnette ambitioner",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "17420369-b0da-44e6-93c3-72a0288490b6",
+      "season": 1,
+      "number": 4,
+      "name": "Den opmærksomme servitrice",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "3edf3a9e-d6bb-4d51-a562-94c7cb136683",
+      "season": 1,
+      "number": 5,
+      "name": "Mordet på 3. sal",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "788af72d-99f5-419d-b61f-e0d46ddcfc93",
+      "season": 1,
+      "number": 6,
+      "name": "Den evige trekant",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "a11fa43d-edb3-44eb-84ea-a2a924c91a89",
+      "season": 1,
+      "number": 7,
+      "name": "Mord i Alexandria",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "5e694f58-486d-42af-a57b-07609a659508",
+      "season": 1,
+      "number": 8,
+      "name": "Høg over høg",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "137b2d7c-801e-4eeb-9c80-2a1488deffd5",
+      "season": 1,
+      "number": 9,
+      "name": "Klør konge",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "066cd054-946a-403b-83c0-a17b5756608e",
+      "season": 1,
+      "number": 10,
+      "name": "Drømmen",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "17a2efc7-a76c-423d-a0f3-5dd411984103",
+      "season": 2,
+      "number": 1,
+      "name": "Døden lurer: Del 1",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "563edb08-c908-4d2f-a904-dd85a4051065",
+      "season": 2,
+      "number": 2,
+      "name": "Døden lurer: Del 2",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "4b6bd347-e9c1-4b81-9f01-dfcf02048eb0",
+      "season": 2,
+      "number": 3,
+      "name": "Den tilslørede dame",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "93d316d7-33b2-4374-9c17-47ae39db6038",
+      "season": 2,
+      "number": 4,
+      "name": "Den forsvundne mine",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "c2d246db-55e6-4cf3-a593-48088ceb5c87",
+      "season": 2,
+      "number": 5,
+      "name": "Mysteriet i Cornwall",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "f4c291eb-4fec-40d0-969c-3d594db0c58b",
+      "season": 2,
+      "number": 6,
+      "name": "Mr. Davenheims forsvinden",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "43669387-dad6-4ccd-9e3b-f278981e8447",
+      "season": 2,
+      "number": 7,
+      "name": "Dobbelt synd",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "03381832-0483-4526-9e46-cf78d6d8b7ac",
+      "season": 2,
+      "number": 8,
+      "name": "Den billige lejlighed",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "a80fa1ee-2d1a-4910-aafd-fab0e5db727e",
+      "season": 2,
+      "number": 9,
+      "name": "Den bortførte premierminister",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "c2718eef-7e6c-4088-863f-85ad261be12a",
+      "season": 2,
+      "number": 10,
+      "name": "Vestens stjerne",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "2fd097d4-e850-476e-bbca-9e60c12b6f88",
+      "season": 3,
+      "number": 1,
+      "name": "De låste døre",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "d3bf08cf-8699-4745-a0f2-ab57735ab3c5",
+      "season": 3,
+      "number": 2,
+      "name": "Hvordan er Deres have anlagt?",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "c4d88163-3925-4bfc-8257-cfd133829326",
+      "season": 3,
+      "number": 3,
+      "name": "Det store obligationstyveri",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "2eed7033-f2e8-4e5d-b667-8594f62d632e",
+      "season": 3,
+      "number": 4,
+      "name": "Plymouth-ekspressen",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "a2f21f9b-2d24-453e-b0a0-7e08f7604823",
+      "season": 3,
+      "number": 5,
+      "name": "En hvepserede",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "1d4e49b7-8e05-4020-8c92-cfe696ce21e6",
+      "season": 3,
+      "number": 6,
+      "name": "Tragedien på Marsdon Manor",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "ff8c8091-6feb-4c3d-bad3-b70acf5fddc8",
+      "season": 3,
+      "number": 7,
+      "name": "Dobbelt-indicium",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "ae7160e5-b6f2-41b9-b019-a63b67cffc7e",
+      "season": 3,
+      "number": 8,
+      "name": "Den spanske kiste",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "b4cac988-f8e8-4b69-9699-3c7f3333948b",
+      "season": 3,
+      "number": 9,
+      "name": "Tyveriet af den kongelige rubin",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "db017eee-037d-468e-bd80-b3b95b5840aa",
+      "season": 3,
+      "number": 10,
+      "name": "Harlekin-mysteriet",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "2103a1a3-640d-4694-be5d-73f3c5e4f64e",
+      "season": 3,
+      "number": 11,
+      "name": "Mysteriet i jagthytten",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "5864b06c-a879-4e38-b2a7-4defe8659135",
+      "season": 4,
+      "number": 1,
+      "name": "ABC-mordene",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "a9411f45-ca98-4a6e-bc9c-e400b7189394",
+      "season": 4,
+      "number": 2,
+      "name": "Døden i skyerne",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "8c1701ba-1b80-4225-bee6-eed108249f45",
+      "season": 4,
+      "number": 3,
+      "name": "Fine sko med spænder",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "744133bc-bed2-410e-9482-27339b59c27a",
+      "season": 5,
+      "number": 1,
+      "name": "Eventyret ved den egyptiske kongegrav",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "4c860e7b-014f-4094-a2f5-6cce1e4749a7",
+      "season": 5,
+      "number": 2,
+      "name": "Underhunden",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "7b548efc-d45b-4480-880e-c4db8d7d0eca",
+      "season": 5,
+      "number": 3,
+      "name": "Gule Iris",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "8b35aba3-07d6-46b9-9774-ec7e6f8e45b0",
+      "season": 5,
+      "number": 4,
+      "name": "Det forsvundne testamente",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "eb6ef2c8-0700-432a-a11a-9d40a70276c7",
+      "season": 5,
+      "number": 5,
+      "name": "Den italienske adelsmand",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "61481f12-edfd-4ea0-945e-81412525bee7",
+      "season": 5,
+      "number": 6,
+      "name": "Chokoladeæsken",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "b650f6f0-19d2-44e2-b65b-b4638432191e",
+      "season": 5,
+      "number": 7,
+      "name": "Det knuste spejl",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "0148d7ab-3b9d-4bcf-a804-794601db004e",
+      "season": 5,
+      "number": 8,
+      "name": "Smykketyveriet på Grand Metropolitan",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "54491738-ee40-49bc-8d89-c1fcf97e3518",
+      "season": 6,
+      "number": 1,
+      "name": "Hercule Poirots jul",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "65bb134a-5b58-4098-ae46-00f1763e1c69",
+      "season": 6,
+      "number": 2,
+      "name": "Huset i Hickory Road",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "32e10d2f-dc91-4f6d-a4bb-ffabfaa5bd85",
+      "season": 6,
+      "number": 3,
+      "name": "Liget på golfbanen",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "f4e8084c-22eb-4121-9f6d-00ee56f59046",
+      "season": 6,
+      "number": 4,
+      "name": "Stumt vidne",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "c3a4edb8-5db8-4c6e-a47b-a234b0ba4e9f",
+      "season": 9,
+      "number": 1,
+      "name": "Fem små grise",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "554b1be1-d82d-48b8-be18-353042829b41",
+      "season": 9,
+      "number": 2,
+      "name": "Dyster cypres",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "1db23034-24bd-4c43-9d35-0f224c1fc3cb",
+      "season": 9,
+      "number": 3,
+      "name": "Døden på Nilen",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "30684407-85e1-4492-9814-d60f95560efc",
+      "season": 9,
+      "number": 4,
+      "name": "Hollow-mysteriet",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "18288fd1-259d-4e34-b0fd-8c8284c1e08c",
+      "season": 10,
+      "number": 1,
+      "name": "Mordet i Det blå tog",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "8314d0a1-d231-4d0e-b4c6-30a2126e98d5",
+      "season": 10,
+      "number": 2,
+      "name": "Kortene på bordet",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "ece80617-872d-4d51-943a-ad2d11c3560e",
+      "season": 10,
+      "number": 3,
+      "name": "Barsk begravelse",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "1f8e3cdb-0440-4a50-9bf5-8cd3a8da88f1",
+      "season": 10,
+      "number": 4,
+      "name": "Ebbe og flod",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "d805529f-0d2a-4df7-8733-c7404a7bf539",
+      "season": 11,
+      "number": 1,
+      "name": "Dommen er afsagt",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "c14821af-65db-4609-846c-4d18859ce72a",
+      "season": 11,
+      "number": 2,
+      "name": "Katten i dueslaget",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "18373627-9c1a-416c-b0bc-4133479d8820",
+      "season": 11,
+      "number": 3,
+      "name": "Den tredje pige",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "a957ed5f-8ed8-4818-ba0d-46948d882cf3",
+      "season": 11,
+      "number": 4,
+      "name": "En aftale med døden",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "62314726-b22c-4a80-bca5-39b628733688",
+      "season": 12,
+      "number": 1,
+      "name": "Mord for åbent tæppe",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "85740627-fb90-46d7-9bc6-1686cf536b38",
+      "season": 12,
+      "number": 2,
+      "name": "Det forkerte vidne",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "b40624a4-d454-41e0-a7f6-f7a44513b504",
+      "season": 12,
+      "number": 3,
+      "name": "Mordet i Orientekspressen",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "f476e5fc-bc4e-4d53-b69d-a40ba65b5458",
+      "season": 12,
+      "number": 4,
+      "name": "Viseren peger på mord",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "1c9cd20f-4e9f-4b4e-a753-bf3e45381cc3",
+      "season": 13,
+      "number": 1,
+      "name": "Elefanter glemmer aldrig",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "7364d89d-6a70-48dc-a2a0-74d1bbd4ad7f",
+      "season": 13,
+      "number": 2,
+      "name": "De fire store",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "326951f7-9b41-4f16-b3c6-1a51fcc4c0f4",
+      "season": 13,
+      "number": 3,
+      "name": "Dødens tempel",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "55671ba7-0abb-4d09-b10d-3289cdfb0d03",
+      "season": 13,
+      "number": 4,
+      "name": "Hercules' tolv arbejder",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "2f9daec5-2f83-4b0f-813e-41508d5f3832",
+      "season": 13,
+      "number": 5,
+      "name": "Tæppefald",
+      "airdate": "2026-02-09"
+    }
+  ]
+}

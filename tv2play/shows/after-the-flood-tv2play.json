@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:after-the-flood-tv2play",
+  "name": "After the Flood",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "609c4af9-79c9-480b-add9-57d4d0ee81b6",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "0301e904-679e-48da-9cd4-39ee79bcbca9",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "19d61512-f525-44ca-8f6c-b507877e0ecf",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "d408ef49-078f-4cdf-b1ce-f31f9ad9a76d",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-10-14"
+    }
+  ]
+}

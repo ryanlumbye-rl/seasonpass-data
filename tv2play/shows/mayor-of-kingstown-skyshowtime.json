@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:mayor-of-kingstown-skyshowtime",
+  "name": "Mayor of Kingstown",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9a6e860b-415d-445c-bb99-f5c207a4f2ee",
+      "season": 1,
+      "number": 1,
+      "name": "The Mayor of Kingstown",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "d490fc1b-6aec-4d72-8e36-e00c581053fe",
+      "season": 1,
+      "number": 2,
+      "name": "The End Begins",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "6c76d499-4d50-4f61-8605-e52cac51a2ce",
+      "season": 1,
+      "number": 3,
+      "name": "Simply Murder",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3f013ea4-f88f-4a45-8bac-0e5d3862071d",
+      "season": 1,
+      "number": 4,
+      "name": "The Price",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ce2c2daa-e843-4092-a160-5669d673972f",
+      "season": 1,
+      "number": 5,
+      "name": "Orion",
+      "airdate": "2021-12-06"
+    },
+    {
+      "id": "b9552032-3de8-448a-a91c-0db876b23ffe",
+      "season": 1,
+      "number": 6,
+      "name": "Every Feather",
+      "airdate": "2021-12-13"
+    },
+    {
+      "id": "e70f720f-76c9-43ec-878e-9419a1e71924",
+      "season": 1,
+      "number": 7,
+      "name": "Along Came a Spider",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "650f4a69-7108-4dd6-b70f-e9c94e86728d",
+      "season": 1,
+      "number": 8,
+      "name": "The Devil is Us",
+      "airdate": "2021-12-27"
+    },
+    {
+      "id": "c878c378-85a3-4af4-ad4e-8c13861e7d7c",
+      "season": 1,
+      "number": 9,
+      "name": "The Lie of the Truth",
+      "airdate": "2022-01-03"
+    },
+    {
+      "id": "b685065b-0c21-4b81-b1c3-0ceed5fe3dda",
+      "season": 1,
+      "number": 10,
+      "name": "This Piece of My Soul",
+      "airdate": "2022-01-10"
+    },
+    {
+      "id": "43964331-7de3-4431-b31e-28b357403f91",
+      "season": 2,
+      "number": 1,
+      "name": "Never Missed a Pigeon",
+      "airdate": "2023-01-30"
+    },
+    {
+      "id": "1946b3b6-e512-4e43-9183-999bf5ee521b",
+      "season": 2,
+      "number": 2,
+      "name": "Staring at the Devil",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "d8f5c819-89c8-4b3c-baac-047c89c815ee",
+      "season": 2,
+      "number": 3,
+      "name": "Five at Five",
+      "airdate": "2023-02-13"
+    },
+    {
+      "id": "44726e42-97f1-4038-8047-c667579eab97",
+      "season": 2,
+      "number": 4,
+      "name": "The Pool",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "81578685-458e-4346-997d-89a9083ef021",
+      "season": 2,
+      "number": 5,
+      "name": "Kill Box",
+      "airdate": "2023-02-27"
+    },
+    {
+      "id": "469f879c-a6a9-4656-8b47-ebd344418b7b",
+      "season": 2,
+      "number": 6,
+      "name": "Left with the Nose",
+      "airdate": "2023-03-06"
+    },
+    {
+      "id": "ced9a641-d0a4-48d2-a1ce-84a2ba723c03",
+      "season": 2,
+      "number": 7,
+      "name": "Drones",
+      "airdate": "2023-03-13"
+    },
+    {
+      "id": "5a7d592c-f538-4149-9735-128746288aaf",
+      "season": 2,
+      "number": 8,
+      "name": "Santa Jesus",
+      "airdate": "2023-03-20"
+    },
+    {
+      "id": "cf0ae4a6-01a2-43fd-adb8-1f1e6832e8d1",
+      "season": 2,
+      "number": 9,
+      "name": "Peace in the Valley",
+      "airdate": "2023-03-27"
+    },
+    {
+      "id": "176902f0-4c71-41f5-8196-e351baee8cf5",
+      "season": 2,
+      "number": 10,
+      "name": "Little Green Ant",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "9a4b3beb-942c-46d9-be8d-5aa69337e5e8",
+      "season": 3,
+      "number": 1,
+      "name": "Soldier's Heart",
+      "airdate": "2024-06-06"
+    },
+    {
+      "id": "9fa9e0a0-5050-4eee-9f26-075dbb61ab54",
+      "season": 3,
+      "number": 2,
+      "name": "Guts",
+      "airdate": "2024-06-13"
+    },
+    {
+      "id": "e55711f6-7403-43f3-9307-85e7e02db8c2",
+      "season": 3,
+      "number": 3,
+      "name": "Barbarians at the Gate",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "f877b2f5-2a79-4b6a-ba92-1f381a4f21b3",
+      "season": 3,
+      "number": 4,
+      "name": "Ragdoll",
+      "airdate": "2024-06-27"
+    },
+    {
+      "id": "daabe0b8-81cf-4ade-b369-3187c3b6bc9f",
+      "season": 3,
+      "number": 5,
+      "name": "Iris",
+      "airdate": "2024-07-04"
+    },
+    {
+      "id": "8378f984-94f2-400c-a839-7902831050d8",
+      "season": 3,
+      "number": 6,
+      "name": "Ecotone",
+      "airdate": "2024-07-11"
+    },
+    {
+      "id": "50ad6b97-82f1-4709-b7f3-d889e6b8f562",
+      "season": 3,
+      "number": 7,
+      "name": "Marya Was Here",
+      "airdate": "2024-07-18"
+    },
+    {
+      "id": "adaeccfc-d0d2-48c7-9443-560104efd3cc",
+      "season": 3,
+      "number": 8,
+      "name": "Captain of the Shit Out of Luck",
+      "airdate": "2024-07-25"
+    },
+    {
+      "id": "0dbbd24a-3ec9-4e3a-b5e9-c886d305174b",
+      "season": 3,
+      "number": 9,
+      "name": "Home on the Range",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "de226a2d-e296-471d-a5e9-25393503f2ce",
+      "season": 3,
+      "number": 10,
+      "name": "Comeuppance",
+      "airdate": "2024-08-08"
+    },
+    {
+      "id": "8780a157-fe8e-4a9a-97ea-435500ef763f",
+      "season": 4,
+      "number": 1,
+      "name": "Coming 'Round the Mountain",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "56b074f5-866e-4f4e-bae4-d3d61aa5f407",
+      "season": 4,
+      "number": 2,
+      "name": "Promises to Keep",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "4fa13109-ca9e-4ea3-9dfd-c2c06e55f9ea",
+      "season": 4,
+      "number": 3,
+      "name": "People Who Died",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "3d8125f7-641a-4c38-bc88-1b415ba5c58a",
+      "season": 4,
+      "number": 4,
+      "name": "Sins of Omission",
+      "airdate": "2025-11-20"
+    },
+    {
+      "id": "6da2f2f7-33fc-4642-9f67-2e11cfab5166",
+      "season": 4,
+      "number": 5,
+      "name": "Damned",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "cb8e302c-eb33-4c4d-9467-d5f76559c614",
+      "season": 4,
+      "number": 6,
+      "name": "#081693",
+      "airdate": "2025-12-04"
+    },
+    {
+      "id": "86525148-3afd-4af3-b7b7-7e7cf4b4beba",
+      "season": 4,
+      "number": 7,
+      "name": "My Way",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "ced12020-eb7e-405a-8374-cb69f22b2d2c",
+      "season": 4,
+      "number": 8,
+      "name": "Belleville",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "8d5b702a-de23-4be3-8f70-b5f1f4a46d9c",
+      "season": 4,
+      "number": 9,
+      "name": "Teeth and Tissue",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "d59c3505-1533-42a7-884b-78d13ba9e373",
+      "season": 4,
+      "number": 10,
+      "name": "Belly of the Beast",
+      "airdate": "2026-01-01"
+    }
+  ]
+}

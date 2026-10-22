@@ -1,0 +1,920 @@
+{
+  "id": "tv2play:fader-brown-britbox",
+  "name": "Fader Brown",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5ac6791d-708c-4f06-a099-3303e4112ed4",
+      "season": 1,
+      "number": 1,
+      "name": "The Hammer of God",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "4b69332c-4c03-4651-8f51-08171e25a430",
+      "season": 1,
+      "number": 2,
+      "name": "The Flying Stars",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "c71ca063-7d91-46c6-9b79-ee06ca98805f",
+      "season": 1,
+      "number": 3,
+      "name": "The Wrong Shape",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "45054401-51c8-4e85-ac28-cd8bfbea7395",
+      "season": 1,
+      "number": 4,
+      "name": "The Man in the Tree",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "85720a48-3c94-4c83-b376-fa598e1055ad",
+      "season": 1,
+      "number": 5,
+      "name": "The Eye of Apollo",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "87b6082c-3742-4b72-b492-31e535af3b78",
+      "season": 1,
+      "number": 6,
+      "name": "The Bride of Christ",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "1ba27507-dc13-4a55-970e-bf8805f42cf6",
+      "season": 1,
+      "number": 7,
+      "name": "The Devil's Dust",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "ec7683fb-17e0-44e1-9075-980ca96fb282",
+      "season": 1,
+      "number": 8,
+      "name": "The Face of Death",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "a1b69257-1de2-494f-9cf9-d05345d331fd",
+      "season": 1,
+      "number": 9,
+      "name": "The Mayor and the Magician",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "d47592b4-9fce-4669-83b6-b7869f18f9c7",
+      "season": 1,
+      "number": 10,
+      "name": "The Blue Cross",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "2304cb91-f254-4070-80f0-b1378d6c42ac",
+      "season": 2,
+      "number": 1,
+      "name": "The Ghost in the Machine",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "fccfcfd9-ab7e-4a01-b1c9-60c731b7d658",
+      "season": 2,
+      "number": 2,
+      "name": "Maddest of All",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "387b77ce-4c1a-47ed-bc08-509bb439053d",
+      "season": 2,
+      "number": 3,
+      "name": "The Pride of the Prydes",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "56d548f8-5d6c-4d1e-86c8-065bfe36107b",
+      "season": 2,
+      "number": 4,
+      "name": "The Shadow of the Scaffold",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "8488f52a-65a8-4d4d-99e6-07783b3014fc",
+      "season": 2,
+      "number": 5,
+      "name": "The Mysteries of the Rosary",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "a550edbe-40bc-470a-88ee-8c0e7abbfca4",
+      "season": 2,
+      "number": 6,
+      "name": "The Daughters of Jerusalem",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "6625864b-1a76-419d-8dec-32373d038257",
+      "season": 2,
+      "number": 7,
+      "name": "The Three Tools of Death",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "0800bb29-b922-440b-805f-a97bb0550f2c",
+      "season": 2,
+      "number": 8,
+      "name": "The Prize of Colonel Gerard",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "c85202ea-3561-4960-8fb6-2b5620efc841",
+      "season": 2,
+      "number": 9,
+      "name": "The Grim Reaper",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "4c4c26ad-9991-4725-96ea-adbc04b3c205",
+      "season": 2,
+      "number": 10,
+      "name": "The Laws of Motion",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "cdecda22-5f68-4538-8057-4c9772aa996d",
+      "season": 3,
+      "number": 1,
+      "name": "The Man in the Shadows",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "c751d963-ddd2-4592-a80f-1e6285d20bf1",
+      "season": 3,
+      "number": 2,
+      "name": "The Curse of Amenhotep",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "3460deba-b630-47a3-bb42-23485bd787f0",
+      "season": 3,
+      "number": 3,
+      "name": "The Invisible Man",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "5cfe4e4d-4d8f-40e4-a7ca-e2f27ec37959",
+      "season": 3,
+      "number": 4,
+      "name": "The Sign of the Broken Sword",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "0217de92-9380-4dfe-b3d9-766b12be450f",
+      "season": 3,
+      "number": 5,
+      "name": "The Last Man",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "7ea76b9d-addd-4747-99a3-bc0c79882d70",
+      "season": 3,
+      "number": 6,
+      "name": "The Upcott Fraternity",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "4b6a5ae4-91f9-4b03-8d5b-382c6badfc59",
+      "season": 3,
+      "number": 7,
+      "name": "The Kembleford Boggart",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "c224ee20-cd16-4474-aae3-e9d5c56eddc0",
+      "season": 3,
+      "number": 8,
+      "name": "The Lair of the Libertines",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "8f05cdb7-7295-4578-8aa9-d5d3d1fa441b",
+      "season": 3,
+      "number": 9,
+      "name": "The Truth in the Wine",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "a2b81910-ffd9-4632-b53f-02b8393c29aa",
+      "season": 3,
+      "number": 10,
+      "name": "The Judgement of Man",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "f9779df4-14e3-4008-867e-161df5940ad2",
+      "season": 3,
+      "number": 11,
+      "name": "The Time Machine",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "21474d54-4a67-42e6-99f1-5f9d2a5ff3c2",
+      "season": 3,
+      "number": 12,
+      "name": "The Standing Stones",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "db99d923-bc0c-4b0e-b66c-8be6714c26a5",
+      "season": 3,
+      "number": 13,
+      "name": "The Paradise of Thieves",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "0459fc6f-9e3a-45e0-8c06-a0749dee59ab",
+      "season": 3,
+      "number": 14,
+      "name": "The Deadly Seal",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "a823d7ed-41da-41f0-810e-d9e2da50cffc",
+      "season": 3,
+      "number": 15,
+      "name": "The Owl of Minerva",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "1085b08b-385e-48ff-bbc9-c3b286f267ed",
+      "season": 4,
+      "number": 1,
+      "name": "The Mask of the Demon",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "0f146e0c-ddde-454d-8d42-5e65ddf59772",
+      "season": 4,
+      "number": 2,
+      "name": "The Brewer's Daughter",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "1c62c8c9-28b1-491a-b393-4b7001c5d19f",
+      "season": 4,
+      "number": 3,
+      "name": "The Hangman's Demise",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "eb2273f7-c880-4f59-9a2a-a18de985ad2f",
+      "season": 4,
+      "number": 4,
+      "name": "The Crackpot of the Empire",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "5c19f2e7-90f3-49dc-becd-7e0200fc812e",
+      "season": 4,
+      "number": 5,
+      "name": "The Daughter of Autolycus",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "6de9e834-7502-4c56-af83-c32abfc78ba7",
+      "season": 4,
+      "number": 6,
+      "name": "The Rod of Asclepius",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "e88ab6af-b7f7-4365-9544-4b4f8ceaabc7",
+      "season": 4,
+      "number": 7,
+      "name": "The Missing Man",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "6ba8bbbe-1b69-4bbe-9a3e-87c5c7261e28",
+      "season": 4,
+      "number": 8,
+      "name": "The Resurrectionists",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "25ea45e6-1b41-4bba-972b-72d728c09cb1",
+      "season": 4,
+      "number": 9,
+      "name": "The Sins of the Father",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "29898c9d-b8d9-4706-b503-02e31bfd5168",
+      "season": 4,
+      "number": 10,
+      "name": "The Wrath of Baron Samdi",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "7f984363-662e-4baf-a78b-e45639a97999",
+      "season": 5,
+      "number": 1,
+      "name": "The Star of Jacob",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "49dcc584-3576-4ce5-a9d8-68d50e5ed2b8",
+      "season": 5,
+      "number": 2,
+      "name": "The Labyrinth of the Minotaur",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "8b7926ea-6d2f-4e02-bed5-d8f4e67586ec",
+      "season": 5,
+      "number": 3,
+      "name": "The Eve of St John",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "413fc64c-75d7-4ff0-b28e-21463e747b1a",
+      "season": 5,
+      "number": 4,
+      "name": "The Chedworth Cyclone",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "42dc69dd-dd1c-4c4a-bfb7-a68feab2380a",
+      "season": 5,
+      "number": 5,
+      "name": "The Hand of Lucia",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "8e7b1324-85ad-4c05-a02d-b9e0477b4ff7",
+      "season": 5,
+      "number": 6,
+      "name": "The Eagle and the Daw",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "56698932-79df-455a-a281-769135de545d",
+      "season": 5,
+      "number": 7,
+      "name": "The Smallest of Things",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "fb06da88-2f4d-4009-8dc2-f1f61c7371b1",
+      "season": 5,
+      "number": 8,
+      "name": "The Crimson Feather",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "26747b58-87f9-479c-b56f-c0c624d27669",
+      "season": 5,
+      "number": 9,
+      "name": "The Lepidopterist's Companion",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "305715fb-873b-42b7-97e5-19bcf600cec6",
+      "season": 5,
+      "number": 10,
+      "name": "The Alchemist's Secret",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "8cc5874d-3edd-4352-a434-0714db00f264",
+      "season": 5,
+      "number": 11,
+      "name": "The Sins of Others",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "6bcd372c-0719-47a7-9a0e-4cd7f8c2a5a1",
+      "season": 5,
+      "number": 12,
+      "name": "The Theatre of the Invisible",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "52cead71-a94c-4366-b3aa-02f6efcaf1e9",
+      "season": 5,
+      "number": 13,
+      "name": "The Tanganyika Green",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "a41d47eb-d8c3-4ba4-9838-6a9a5c376698",
+      "season": 5,
+      "number": 14,
+      "name": "The Fire in the Sky",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "bc1fa97b-31d3-42ff-8200-6d8762368a1b",
+      "season": 5,
+      "number": 15,
+      "name": "The Penitent Man",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "4e65f9fe-4b8a-4584-9f9a-9121ecc596f0",
+      "season": 6,
+      "number": 1,
+      "name": "The Tree of Truth",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "7a40b292-19e8-41c1-be75-486fae9b9fc5",
+      "season": 6,
+      "number": 2,
+      "name": "The Jackdaw's Revenge",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "4b1f9f2e-f0e6-430c-a9d2-c1d963a0c530",
+      "season": 6,
+      "number": 3,
+      "name": "The Kembleford Dragon",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "4170a388-cec7-4db5-9d1b-5f30fed06c85",
+      "season": 6,
+      "number": 4,
+      "name": "The Angel of Mercy",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "4559428d-4043-4298-9940-82864c1381c9",
+      "season": 6,
+      "number": 5,
+      "name": "The Face of the Enemy",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "f3818dcd-f7fe-4f41-9d34-797458656029",
+      "season": 6,
+      "number": 6,
+      "name": "The Devil You Know",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "e34ca982-1d0b-470b-8edf-4bff0b76f812",
+      "season": 6,
+      "number": 7,
+      "name": "The Dance of Death",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "b514cbda-e293-46c6-b797-b9be5df94e59",
+      "season": 6,
+      "number": 8,
+      "name": "The Cat of Mastigatus",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "12ab59e6-1e6f-4c2b-95c3-1e29bd3a752d",
+      "season": 6,
+      "number": 9,
+      "name": "The Flower of the Fairway",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "41f7368e-804b-4f05-b5ca-0b33f680d674",
+      "season": 6,
+      "number": 10,
+      "name": "The Two Deaths of Hercule Flambeau",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "f1ad6c67-954d-4b8a-96f6-d757635583c6",
+      "season": 7,
+      "number": 1,
+      "name": "The Great Train Robbery",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "211a8013-1df4-4113-8e42-d7b1ca241204",
+      "season": 7,
+      "number": 2,
+      "name": "The Passing Bell",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "588a17ca-b7a4-4b06-a9f0-6cc3e2caf043",
+      "season": 7,
+      "number": 3,
+      "name": "The Whistle in the Dark",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "d1c3844b-40b7-48f6-8290-e91ffeeb3a9e",
+      "season": 7,
+      "number": 4,
+      "name": "The Demise of the Debutante",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "e1d78ec9-269c-40c0-a2d5-305f20cf5be1",
+      "season": 7,
+      "number": 5,
+      "name": "The Darkest Noon",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "1a3418c3-6459-4f8d-8b24-61de909be772",
+      "season": 7,
+      "number": 6,
+      "name": "The Sacrifice of Tantalus",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "a84f82de-7dff-4326-9a7c-281a37c7e9f6",
+      "season": 7,
+      "number": 7,
+      "name": "The House of God",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "5bebd67b-5600-41b9-a766-9755c3d756ab",
+      "season": 7,
+      "number": 8,
+      "name": "The Blood of the Anarchists",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "86475b0a-3ab7-46b5-8b77-f6c60394dd48",
+      "season": 7,
+      "number": 9,
+      "name": "The Skylark Scandal",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "820b7710-705c-499e-9c88-2659db28d557",
+      "season": 7,
+      "number": 10,
+      "name": "The Honourable Thief",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "e473ae45-7847-463e-9b7d-38a817082794",
+      "season": 8,
+      "number": 1,
+      "name": "The Celestial Choir",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "3b6e6b86-fdeb-4c8c-828f-b8ccadd2c9b4",
+      "season": 8,
+      "number": 2,
+      "name": "The Queen Bee",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "64b1200c-c372-4fb4-bccf-1dc15a862661",
+      "season": 8,
+      "number": 3,
+      "name": "The Scales of Justice",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "f9c359db-0a6c-4831-9248-3fc4ac3b2124",
+      "season": 8,
+      "number": 4,
+      "name": "The Wisdom of the Fool",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "2453155f-2bbf-46c5-a71d-c6ecfe0e646e",
+      "season": 8,
+      "number": 5,
+      "name": "The Folly of Jephthah",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "b2665171-c592-48f4-9a92-850229578d7e",
+      "season": 8,
+      "number": 6,
+      "name": "The Numbers of the Beast",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "635d4130-55e3-465e-aa5d-a18779523b0c",
+      "season": 8,
+      "number": 7,
+      "name": "The River Corrupted",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "2d38521c-bc22-41fd-b8bf-98ba5b0b8fa2",
+      "season": 8,
+      "number": 8,
+      "name": "The Curse of the Aesthetic",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "cefad00e-1682-4641-8dd3-23111671e4ec",
+      "season": 8,
+      "number": 9,
+      "name": "The Fall of the House of St Gardner",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "c7ddcf58-dbc0-437f-89a6-c27a33f209d0",
+      "season": 8,
+      "number": 10,
+      "name": "The Tower of Lost Souls",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "63122d15-e515-4816-aea6-e4e994b052cc",
+      "season": 9,
+      "number": 1,
+      "name": "The Menace of Mephistopheles",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "afaa12fb-ce19-4606-9112-0caff706cde1",
+      "season": 9,
+      "number": 2,
+      "name": "The Viper's Tongue",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "8ad4d07f-c40b-4a4b-b6c4-f5aabd1e1cd2",
+      "season": 9,
+      "number": 3,
+      "name": "The Requiem for the Dead",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "c1bc0dd4-f38c-4a03-97dc-5e5d0ce33c79",
+      "season": 9,
+      "number": 4,
+      "name": "The Children of Kalon",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "0ee57b0c-0e81-4165-8509-59f2539628f5",
+      "season": 9,
+      "number": 5,
+      "name": "The Final Devotion",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "0ed7a8a8-c55f-4667-890c-54790c7245f0",
+      "season": 9,
+      "number": 6,
+      "name": "The New Order",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "05e4a077-1b62-4c5d-80a0-7781b4f91d2e",
+      "season": 9,
+      "number": 7,
+      "name": "The Island of Dreams",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "a023e7d4-1796-4a95-b28d-a7aa9aa858af",
+      "season": 9,
+      "number": 8,
+      "name": "The Wayward Girls",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "7e3367bf-0237-4119-9a8f-2f7c42a00bae",
+      "season": 9,
+      "number": 9,
+      "name": "The Enigma of Antigonish",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "a9d79103-a7de-4de4-80f3-97ac21fcdde4",
+      "season": 9,
+      "number": 10,
+      "name": "The Red Death",
+      "airdate": "2023-09-13"
+    },
+    {
+      "id": "86daf05e-0169-4672-9a37-48d86e27ec6f",
+      "season": 10,
+      "number": 1,
+      "name": "The Winds of Change",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "dc672f8b-a49c-4907-ab9e-adb23893b876",
+      "season": 10,
+      "number": 2,
+      "name": "The Company of Men",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "338dbfbc-6bdb-4b78-9ab4-ca819bcb594b",
+      "season": 10,
+      "number": 3,
+      "name": "The Gardeners of Eden",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "d16f1268-2311-4df8-bb0f-6778d13d8fae",
+      "season": 10,
+      "number": 4,
+      "name": "The Beast of Wedlock",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "cbe2c986-83c5-4b80-a384-95b80d93de0e",
+      "season": 10,
+      "number": 5,
+      "name": "The Hidden Man",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "d86d62fe-4e68-456b-b508-b5672c26cdd1",
+      "season": 10,
+      "number": 6,
+      "name": "The Royal Visit",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "4fc9c901-ff87-44b4-b143-ab83a14e0e5a",
+      "season": 10,
+      "number": 7,
+      "name": "The Show Must Go On",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "cf70f803-5cf4-4add-98d7-f936e304efd5",
+      "season": 10,
+      "number": 8,
+      "name": "The Sands of Time",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "bb14aaac-f095-490f-b836-b5bbb773ed39",
+      "season": 10,
+      "number": 9,
+      "name": "The Wheels of Wrath",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "63097dda-bf32-4fc8-bf9d-af684deb979c",
+      "season": 10,
+      "number": 10,
+      "name": "The Serpent Within",
+      "airdate": "2024-09-18"
+    },
+    {
+      "id": "64ad318d-3973-46cd-b2e5-b2a9b760fd9d",
+      "season": 11,
+      "number": 1,
+      "name": "The Kembleston Olimpicks",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "60f7e760-bb4f-48f9-aa38-d92b35be2174",
+      "season": 11,
+      "number": 2,
+      "name": "The Forensic Nun",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "53f1eb37-5e23-4405-93e1-0c4809da8829",
+      "season": 11,
+      "number": 3,
+      "name": "The Hermit of Hazelnut",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "a36f5597-1119-4cba-ae04-ef07baf782d9",
+      "season": 11,
+      "number": 4,
+      "name": "The Last Supper",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "836250d4-a614-4d1a-a7f1-97695a47e82b",
+      "season": 11,
+      "number": 5,
+      "name": "The Father, The Son",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "36170da6-b339-48d1-9ed7-aeb9e3503db0",
+      "season": 11,
+      "number": 6,
+      "name": "The Quill of Osric",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "39d209eb-3495-403d-af64-65cefef132b1",
+      "season": 11,
+      "number": 7,
+      "name": "The Word of the Condemned",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "c6d73899-45ea-44aa-b6f7-4d6582a830c6",
+      "season": 11,
+      "number": 8,
+      "name": "The Last Tango in Kembleford",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "12c0c819-719e-424a-bd4f-9446f45b2621",
+      "season": 11,
+      "number": 9,
+      "name": "The Dead of Night",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "dbfd11d9-4a4a-486f-95f1-c1c7b5481426",
+      "season": 11,
+      "number": 10,
+      "name": "The Scars of War",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "66acdaea-ce6d-41dc-941e-43f1bccb1e5c",
+      "season": 12,
+      "number": 1,
+      "name": "The Battle of Kembleford",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "9d355f02-8e14-4f48-b72d-209c2d0e1087",
+      "season": 12,
+      "number": 2,
+      "name": "The Kembleston Players",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "83982995-6e80-4143-9217-8df6e110dd3a",
+      "season": 12,
+      "number": 3,
+      "name": "The Horns of Cernunnos",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "3bba521c-e0b6-492a-9e8b-c1cfec32832e",
+      "season": 12,
+      "number": 4,
+      "name": "The Invisible Friends",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "a8add951-9a30-4916-a9d2-2c097172d4db",
+      "season": 12,
+      "number": 5,
+      "name": "The Cup of Calabria",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "dd6adb7a-56ab-436f-ac89-a586c474e72e",
+      "season": 12,
+      "number": 6,
+      "name": "The Lord of the Dance",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "95dcbc00-e231-4605-b5fc-469688f33220",
+      "season": 12,
+      "number": 7,
+      "name": "The Deserving Poor",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "880c1f99-43fe-47da-ad8a-79d26b00afe8",
+      "season": 12,
+      "number": 8,
+      "name": "The Sisters of Aeschylus",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "1a16667a-e55a-45cc-9e66-d4553fa8dc9e",
+      "season": 12,
+      "number": 9,
+      "name": "The Puzzle of Banburismus",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "7e323813-d7d3-4680-92b5-f0231a9883bf",
+      "season": 12,
+      "number": 10,
+      "name": "The Blessing of the Father",
+      "airdate": "2026-07-01"
+    }
+  ]
+}

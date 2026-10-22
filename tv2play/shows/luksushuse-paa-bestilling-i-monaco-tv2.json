@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:luksushuse-paa-bestilling-i-monaco-tv2",
+  "name": "Luksushuse på bestilling - i Monaco",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "78718b5f-f2e6-48bc-b01a-89f47b10352f",
+      "season": 1,
+      "number": 1,
+      "name": "Dyr by",
+      "airdate": "2024-12-09"
+    },
+    {
+      "id": "d11890df-1e42-4ed8-a9c6-1aa4aa7c1f4f",
+      "season": 1,
+      "number": 2,
+      "name": "Tiden går",
+      "airdate": "2024-12-10"
+    }
+  ]
+}

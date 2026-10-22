@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:jungledyret-hugo-oiii",
+  "name": "Jungledyret Hugo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f12dfc75-210b-4006-baaf-2a45c742b19f",
+      "season": 1,
+      "number": 1,
+      "name": "Sydover",
+      "airdate": "2003-08-17"
+    },
+    {
+      "id": "24491722-2158-4722-936e-e2d915ae6ee2",
+      "season": 1,
+      "number": 2,
+      "name": "Kidnappet",
+      "airdate": "2003-08-24"
+    },
+    {
+      "id": "2e297188-4333-4115-a22c-e8ffe7a1e0ea",
+      "season": 1,
+      "number": 3,
+      "name": "Barneleg",
+      "airdate": "2003-09-07"
+    },
+    {
+      "id": "936f6db2-e41b-4703-86ef-936b735791e7",
+      "season": 1,
+      "number": 4,
+      "name": "Milliardærens legetøj",
+      "airdate": "2003-09-14"
+    },
+    {
+      "id": "0ae08941-e12d-4921-b77c-78394e4c6c2a",
+      "season": 1,
+      "number": 5,
+      "name": "Jungleånden",
+      "airdate": "2003-09-21"
+    },
+    {
+      "id": "5eec758a-f7bb-4663-a6f5-9b5a51f52377",
+      "season": 1,
+      "number": 6,
+      "name": "Jungleballade",
+      "airdate": "2003-09-28"
+    },
+    {
+      "id": "f8cd6388-534f-435b-bd58-ce2889969bcf",
+      "season": 1,
+      "number": 7,
+      "name": "Frikadellemytteriet",
+      "airdate": "2003-10-05"
+    },
+    {
+      "id": "f5af9d98-56f0-469c-84fc-d2df5e3449a4",
+      "season": 1,
+      "number": 8,
+      "name": "Baby Hugo",
+      "airdate": "2003-10-12"
+    },
+    {
+      "id": "5bacc1c7-094d-4e50-9cc9-fff2f7c4256c",
+      "season": 1,
+      "number": 9,
+      "name": "Klovne på farten",
+      "airdate": "2003-10-19"
+    },
+    {
+      "id": "04856232-5e83-4090-8566-f69b73a85b4e",
+      "season": 1,
+      "number": 10,
+      "name": "Nordpå",
+      "airdate": "2003-10-26"
+    },
+    {
+      "id": "85a6c1c1-2070-4653-ab59-6cbe72033f0e",
+      "season": 1,
+      "number": 11,
+      "name": "Trolderier",
+      "airdate": "2003-11-09"
+    },
+    {
+      "id": "70e816e0-8376-458b-850c-e32223a127b9",
+      "season": 1,
+      "number": 12,
+      "name": "Nordlys",
+      "airdate": "2003-11-16"
+    },
+    {
+      "id": "27adad3c-3498-4d09-a7b0-99efda5f10ba",
+      "season": 1,
+      "number": 13,
+      "name": "Videnskabens fange",
+      "airdate": "2003-11-23"
+    }
+  ]
+}

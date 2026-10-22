@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:natrytterne-cmore",
+  "name": "Natrytterne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "35d73433-50e4-40bf-89b6-1d1c8a11cedf",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "11f91654-21f3-4850-8c2b-0eb128ff487a",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "788733bb-8a23-43d9-97e1-b5922c26425c",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "905fdd95-7483-4888-a3c6-bea52d059a7b",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "06c349e4-1b9a-4908-80be-41fc5998a35f",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "ffffecdc-606a-40d6-b3d7-c451dd5b6275",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "78d348a5-0294-4eba-83a8-fadd37d7d94c",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "a74519bd-f44e-43d5-9965-0f2c601176fb",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

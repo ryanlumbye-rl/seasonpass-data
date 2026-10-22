@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:til-salg-i-100-aar-tv2",
+  "name": "Til salg i 100 år",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cf6aab89-7d42-4d94-bd91-2d48ad2e435c",
+      "season": 1,
+      "number": 1,
+      "name": "Må den bedste mægler vinde",
+      "airdate": "2023-01-11"
+    },
+    {
+      "id": "dadc3cd7-92f5-45bf-80e1-251beba4ac26",
+      "season": 1,
+      "number": 2,
+      "name": "Miraklet på Lolland",
+      "airdate": "2023-01-11"
+    },
+    {
+      "id": "e47bcdae-b1d9-44a8-9cbd-ee9c80496880",
+      "season": 1,
+      "number": 3,
+      "name": "Umulige bolighandler",
+      "airdate": "2023-01-18"
+    },
+    {
+      "id": "f6cffc57-06c4-4dd3-bd3a-645f3035e169",
+      "season": 1,
+      "number": 4,
+      "name": "Lokalradio og rådne vinduer",
+      "airdate": "2023-01-25"
+    },
+    {
+      "id": "7df0260a-a84f-44e9-a858-bc997166eae3",
+      "season": 1,
+      "number": 5,
+      "name": "Lige ved og næsten",
+      "airdate": "2023-02-01"
+    },
+    {
+      "id": "a5814489-6abe-49b2-9a81-f119f4dc4bef",
+      "season": 1,
+      "number": 6,
+      "name": "Med familie og venners hjælp",
+      "airdate": "2023-02-08"
+    },
+    {
+      "id": "b006dc92-3663-4fb5-b4e6-6b8f0994ad2a",
+      "season": 1,
+      "number": 7,
+      "name": "Et afgørende stik inden finalen",
+      "airdate": "2023-02-15"
+    },
+    {
+      "id": "27e85c79-03fa-4551-8829-a6988022df86",
+      "season": 1,
+      "number": 8,
+      "name": "Afgørelsens time",
+      "airdate": "2023-02-22"
+    },
+    {
+      "id": "de22c43b-4d55-4803-8361-802aeb5d14da",
+      "season": 2,
+      "number": 1,
+      "name": "Jagten på revanche",
+      "airdate": "2025-04-24"
+    },
+    {
+      "id": "74dc13f1-0dc3-4d6c-93a9-1f3697a7c717",
+      "season": 2,
+      "number": 2,
+      "name": "Kongen trækker fra",
+      "airdate": "2025-05-01"
+    },
+    {
+      "id": "3216b52a-0d31-4250-9716-5997708d0dea",
+      "season": 2,
+      "number": 3,
+      "name": "Dobbeltdate i Vestjylland",
+      "airdate": "2025-05-08"
+    },
+    {
+      "id": "3b12d519-6101-49e2-a585-da05f37719c9",
+      "season": 2,
+      "number": 4,
+      "name": "Kirkegård og krybdyr",
+      "airdate": "2025-05-15"
+    },
+    {
+      "id": "7b182e86-1dd9-4335-a17c-6398a518c362",
+      "season": 2,
+      "number": 5,
+      "name": "Går alle veje i Vejen til Augustenborg?",
+      "airdate": "2025-05-22"
+    },
+    {
+      "id": "5fec5a26-ca33-4511-8d00-fc0287f9a70c",
+      "season": 2,
+      "number": 6,
+      "name": "Prispanik og lokal patriotisme",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "a871f747-b60b-488b-b6eb-fea920b750e4",
+      "season": 2,
+      "number": 7,
+      "name": "Skrot eller slot: Optakt til finale",
+      "airdate": "2025-06-05"
+    },
+    {
+      "id": "7dc63ab6-f8a1-40d5-ab71-ada41a8f3d90",
+      "season": 2,
+      "number": 8,
+      "name": "Finalen: Den, der ler sidst",
+      "airdate": "2025-06-12"
+    }
+  ]
+}

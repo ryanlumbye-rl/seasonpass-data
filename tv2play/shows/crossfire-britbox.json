@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:crossfire-britbox",
+  "name": "Crossfire",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ce0ede4c-6644-41a6-a67e-37a65db916eb",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0a4656f0-fae7-4be7-a0e9-9654ab8a24ac",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5c37d035-4825-43e5-ad70-a9ff98e314b8",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

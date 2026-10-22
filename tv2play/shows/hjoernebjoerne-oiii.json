@@ -1,0 +1,556 @@
+{
+  "id": "tv2play:hjoernebjoerne-oiii",
+  "name": "Hjørnebjørne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "829efa0e-addd-41a3-8e1c-e10d32c8cafc",
+      "season": 1,
+      "number": 1,
+      "name": "Ernst Elg bliver væk",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "fac13553-77b4-4892-b868-f07b67e20fbe",
+      "season": 1,
+      "number": 2,
+      "name": "Mille Moskusokse holder fødselsdag",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "846499b0-d023-4d22-ba09-044d5b727069",
+      "season": 1,
+      "number": 3,
+      "name": "Emma Ørn lærer at flyve",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "a37a24e0-a1d6-447f-a441-6792dc318303",
+      "season": 1,
+      "number": 4,
+      "name": "Mogens Myg er sulten",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "7afcbff0-095f-487f-90d4-242be39488b0",
+      "season": 1,
+      "number": 5,
+      "name": "Olrik Ugle hjælper Lulu Los",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "18215770-f9ce-41f7-9e58-ae2d50db1f79",
+      "season": 1,
+      "number": 6,
+      "name": "Buller Bjørn jager vildt",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "6230182d-401f-4e2c-960b-2c21b681e6b7",
+      "season": 1,
+      "number": 7,
+      "name": "Inga Isbjørn vil lege",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "d0d403bf-b440-4a79-b04e-9ba9b7962829",
+      "season": 1,
+      "number": 8,
+      "name": "Isa Ulv vil være alene",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "7e43ad6d-97f9-4209-a1a4-4761603fd15b",
+      "season": 1,
+      "number": 9,
+      "name": "Karma Kanin vil male",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "5ba7e3a8-2704-4958-9468-c5d30bde4a68",
+      "season": 1,
+      "number": 10,
+      "name": "Willy Vildsvin samler agern",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "c4fa251f-59ce-4ce7-912e-ce81bfeece4f",
+      "season": 1,
+      "number": 11,
+      "name": "Lulu Los bliver nattens jæger",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "89fd8c95-01f9-4298-84ee-4b1ee77d823c",
+      "season": 1,
+      "number": 12,
+      "name": "Bennie Bæver samler mad",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "ce8eca51-2e53-4c22-bedb-b6ea59428e25",
+      "season": 1,
+      "number": 13,
+      "name": "Helga Fiskehejre vil lege",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "e1862abb-6a5e-4901-b62d-e92d0f782792",
+      "season": 1,
+      "number": 14,
+      "name": "Simon Spætte hakker huller",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "6b317e74-c38b-4f49-a24f-5914e370e7b7",
+      "season": 1,
+      "number": 15,
+      "name": "Orla Ørred skal flytte",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "0466c205-0ec8-41cb-86c1-f30f9302331c",
+      "season": 1,
+      "number": 16,
+      "name": "Henry Hundestejle vil bestemme",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "5729cf91-af22-4940-b534-f62443609d90",
+      "season": 1,
+      "number": 17,
+      "name": "Freddy Frø vil synge i kor",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "f4ec36af-db81-402c-ab50-7a21856686be",
+      "season": 1,
+      "number": 18,
+      "name": "Eddie Odder skal svømme",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "556f02ab-62c0-4f65-aeb6-feae56ed5f88",
+      "season": 1,
+      "number": 19,
+      "name": "Stine Strandskade og havmågen",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "da4dfcbc-6425-4bd6-93bb-2c2524ee0a75",
+      "season": 1,
+      "number": 20,
+      "name": "Robin Rødkælk på foderbrættet",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "7727f8be-3ac4-4672-93d2-7a0638d5b5f4",
+      "season": 1,
+      "number": 21,
+      "name": "Egon Egern fortæller løgnehistorier",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "8927b835-9b3d-485f-bb9e-55a1757085be",
+      "season": 1,
+      "number": 22,
+      "name": "Fido Fasan bliver drillet",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "51dc8184-998c-4f98-aee1-489fa9ebf878",
+      "season": 1,
+      "number": 23,
+      "name": "Rasmus Ræv snyder",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "0c8e1f88-28d8-4240-b861-5511cda10511",
+      "season": 1,
+      "number": 24,
+      "name": "Holger Hare løber stærkt",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "9e012ca7-dd69-4aa2-81fb-491b93331fc5",
+      "season": 1,
+      "number": 25,
+      "name": "Georg Grævling flytter hjemmefra",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "b7de0425-eb25-4162-b168-700b946de4c9",
+      "season": 1,
+      "number": 26,
+      "name": "Line Lemming og mors fødselsdag",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "6306f29a-81bf-488a-a4a0-7c347075e74e",
+      "season": 2,
+      "number": 1,
+      "name": "Lulu Los er skrupsulten",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "b9c05d9d-6303-4ff1-89e9-8d58ce93557b",
+      "season": 2,
+      "number": 2,
+      "name": "Ernst Elg mod nord",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "2faa0eaa-b455-4ecf-a9fa-a227126a014a",
+      "season": 2,
+      "number": 3,
+      "name": "Emma Ørn ved stranden",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "aa7b88ad-2127-455e-882b-35c42639f39f",
+      "season": 2,
+      "number": 4,
+      "name": "Karma Kanin maler i mosen",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "ea8a10e4-47e8-4b85-87bc-85ad493f625b",
+      "season": 2,
+      "number": 5,
+      "name": "Buller Bjørn og monsteret",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "45b9f606-bd4e-4db7-a10c-49484d893804",
+      "season": 2,
+      "number": 6,
+      "name": "Inga Isbjørn ved stranden",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "f3cd9d1a-dfc7-4c6e-9b03-228ca758e9f4",
+      "season": 2,
+      "number": 7,
+      "name": "Stine Strandskade er barnepige",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "6c20533d-63f6-4e9a-9026-bd1c510d6b95",
+      "season": 2,
+      "number": 8,
+      "name": "Isa Ulv byggerr ede",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "0934f66e-36ef-4f5c-b7e2-14b468f41084",
+      "season": 2,
+      "number": 9,
+      "name": "Willy Vildsvin er voksen",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "78155648-460f-45ba-aeb0-884839e9a2f2",
+      "season": 2,
+      "number": 10,
+      "name": "Holger Hare løber om kap",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "4c65ad4a-625d-47c2-a226-04f6ca9b67e0",
+      "season": 2,
+      "number": 11,
+      "name": "Olrik Ugle er god nok",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "a14adbe4-1208-4974-94c1-e35b3db0c9ee",
+      "season": 2,
+      "number": 12,
+      "name": "Buller Bjørn på camping",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "2ab8cbc9-e9c7-435e-a4cb-286df10a9607",
+      "season": 2,
+      "number": 13,
+      "name": "Ea Egern på picnic",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "09f68bf6-7336-4c77-9d2f-a64d363feeb0",
+      "season": 2,
+      "number": 14,
+      "name": "Mille Moskusokse bruger fantasien",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "0833adf1-3632-4c6c-b1e3-b212cd56d4c7",
+      "season": 2,
+      "number": 15,
+      "name": "Karma Kanin og kusine Klara",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "e45c73b8-b3ed-4b36-9866-c1daa509e522",
+      "season": 2,
+      "number": 16,
+      "name": "Freddy Frø og danseskoene",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "5e0ccc1a-0e40-405c-8c87-b10dea756459",
+      "season": 2,
+      "number": 17,
+      "name": "Georg Grævling vil lege",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "0c0577c7-b89d-449c-b2da-57f1a842c68d",
+      "season": 2,
+      "number": 18,
+      "name": "Helga Fiskehejre leger teater",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "ca01326c-f1b0-4033-a2c5-40389dd4eab1",
+      "season": 2,
+      "number": 19,
+      "name": "Bennie Bæver er en stor dreng",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "ec9066ae-1e5c-489f-a3fe-dd0779d5562d",
+      "season": 2,
+      "number": 20,
+      "name": "Orla Ørred og skibsvraget",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "d2312390-4b32-4033-a5d4-91af72e24225",
+      "season": 2,
+      "number": 21,
+      "name": "Freddy Frø får en kæreste",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "88f92fd6-4363-4f21-a745-5aa66d08e888",
+      "season": 2,
+      "number": 22,
+      "name": "Mogens Myg er en bjørn",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "ac9385f3-677a-42f7-840f-d3c1886c410c",
+      "season": 2,
+      "number": 23,
+      "name": "Ernst Elg til fødselsdag",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "ac3caaf9-3d71-4c5f-aa77-ad0ba164f105",
+      "season": 2,
+      "number": 24,
+      "name": "Inga Isbjørn farer vild",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "2efbc248-ace0-47c3-89aa-3bc8611821c8",
+      "season": 2,
+      "number": 25,
+      "name": "Olrik Ugle bliver klog",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "666b8f18-4d6d-42f1-9853-36ab026d973e",
+      "season": 2,
+      "number": 26,
+      "name": "Fido Fasan og vennerne",
+      "airdate": "2022-09-24"
+    },
+    {
+      "id": "d21cf66e-b7af-4798-af41-a398c7d4b873",
+      "season": 3,
+      "number": 1,
+      "name": "Ernst Elg på eventyr",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "3ff3b7cb-390c-4ae7-8d04-5f736efbfee1",
+      "season": 3,
+      "number": 2,
+      "name": "Fido Fasan får en veninde",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "f667c2ed-a996-4e62-b8e5-ef3e67c6a7bc",
+      "season": 3,
+      "number": 3,
+      "name": "Mogens Myg og sukkerstadset",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "81d443f4-5e6b-4bd0-b7d0-3c0db1168e67",
+      "season": 3,
+      "number": 4,
+      "name": "Karma Kanin på tur",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "8b927e69-0336-46fb-950c-e39345fc7a4b",
+      "season": 3,
+      "number": 5,
+      "name": "Buller Bjørn bliver bange",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "db1d4ad8-f3e4-42ef-98a7-891c38a70503",
+      "season": 3,
+      "number": 6,
+      "name": "Fido Fasan og fødselsdagen",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "4844f3a2-1594-49d9-b88c-7f6cb4321d8e",
+      "season": 3,
+      "number": 7,
+      "name": "Georg Grævling er sur",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "93dae6b3-1949-437a-90dd-650e406ed26a",
+      "season": 3,
+      "number": 8,
+      "name": "Mogens Myg siger undskyld",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "4a3ce37b-68ac-469e-92ca-ba30f6513290",
+      "season": 3,
+      "number": 9,
+      "name": "Buller Bjørn og fætter Balder",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "a8157435-5eda-4c8b-a346-a82d8623ded8",
+      "season": 3,
+      "number": 10,
+      "name": "Mille Moskusokse er ked af det",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "8b4e316e-2e0c-487e-a4c8-ebf13b298e8a",
+      "season": 3,
+      "number": 11,
+      "name": "Freddy Frø savner sin kæreste",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "178a442e-40e3-4939-b4b8-9ad0d7226753",
+      "season": 3,
+      "number": 12,
+      "name": "Mogens Myg får en kæreste",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "d7237233-5dc1-4c6e-bc2c-b2c12f633cc2",
+      "season": 3,
+      "number": 13,
+      "name": "Ernst Elg står på hænder",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "c1d35ebf-e3b9-4761-92cc-f822d4b17cbc",
+      "season": 3,
+      "number": 14,
+      "name": "Isa Ulv og vennerne",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "4c769ead-782a-44d1-8318-7bc3e3d11306",
+      "season": 3,
+      "number": 15,
+      "name": "Lulu Los leger far, mor og børn",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "b69c1c31-0668-4b50-ba51-11ee2b15c0cf",
+      "season": 3,
+      "number": 16,
+      "name": "Ernst Elg og den gamle bus",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "47c9ff49-ed1d-4635-a588-f8ae0097fde3",
+      "season": 3,
+      "number": 17,
+      "name": "Olrik Ugle og vejrudsigten",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "faee471a-cc86-43f6-a5a5-4282bc423e39",
+      "season": 3,
+      "number": 18,
+      "name": "Inga Isbjørn og pingvinerne",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "33d58df4-3e25-4766-b62b-572cd839f89d",
+      "season": 3,
+      "number": 19,
+      "name": "Emma Ørn flyver om kap",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "931e5adb-b9ec-4bd2-9f1e-0c4e6b5d3994",
+      "season": 3,
+      "number": 20,
+      "name": "Helga Fiskehejre keder sig",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "6b002986-bcb8-4d50-bd7c-aaa20531af19",
+      "season": 3,
+      "number": 21,
+      "name": "Fido Fasan og den nye dreng",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "7da4a6ba-488e-4c9c-b0fb-106422c6baef",
+      "season": 3,
+      "number": 22,
+      "name": "Stine Strandskade passer lillebror",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "a84b87ab-f209-4cd0-af27-905ea59ff705",
+      "season": 3,
+      "number": 23,
+      "name": "Eddie Odder på fisketur",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "acad0e53-145d-4f09-9040-fbd84e90a6c6",
+      "season": 3,
+      "number": 24,
+      "name": "Robin Rødkælk og gærdesmutten",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "d850c2e9-707a-45c4-8af4-9876d32e12d1",
+      "season": 3,
+      "number": 25,
+      "name": "Isa Ulv er ensom",
+      "airdate": "2022-10-08"
+    },
+    {
+      "id": "d39e66f4-c9b1-4de4-ad6f-e2e503349441",
+      "season": 3,
+      "number": 26,
+      "name": "Henry Hundestejle bestemmer alt",
+      "airdate": "2022-10-08"
+    }
+  ]
+}

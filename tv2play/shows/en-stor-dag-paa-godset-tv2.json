@@ -1,0 +1,143 @@
+{
+  "id": "tv2play:en-stor-dag-paa-godset-tv2",
+  "name": "En stor dag på godset",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "25a076b2-6c6e-4c2d-86db-58c703a3eeb6",
+      "season": 1,
+      "number": 1,
+      "name": "Tranekær Slot",
+      "airdate": "2016-06-20"
+    },
+    {
+      "id": "3b1ea2ab-d912-4d46-8ac6-30f364568c3c",
+      "season": 1,
+      "number": 2,
+      "name": "Ravnholt - jagtslottet",
+      "airdate": "2016-06-27"
+    },
+    {
+      "id": "da0aa78e-d78d-4445-b935-27980985a74b",
+      "season": 1,
+      "number": 3,
+      "name": "Frederiksdal Gods",
+      "airdate": "2016-07-04"
+    },
+    {
+      "id": "e61a40f5-839b-4cef-bd33-83c2b16b5bfa",
+      "season": 1,
+      "number": 4,
+      "name": "Ledreborg Slot",
+      "airdate": "2016-07-11"
+    },
+    {
+      "id": "d97b1a38-8cc1-4cbb-b489-c32695b6aa9c",
+      "season": 2,
+      "number": 1,
+      "name": "Lungholm Gods",
+      "airdate": "2017-05-22"
+    },
+    {
+      "id": "a5b97d00-a07d-40c5-adc7-b01e4e56e2c2",
+      "season": 2,
+      "number": 2,
+      "name": "Børglum kloster",
+      "airdate": "2017-05-29"
+    },
+    {
+      "id": "94d00dbc-7d72-4daf-ab89-9149a3cbcc03",
+      "season": 2,
+      "number": 3,
+      "name": "Hagenskov Slot",
+      "airdate": "2017-06-05"
+    },
+    {
+      "id": "7a3cf092-59bb-4abd-9476-bd30d2dbb04e",
+      "season": 2,
+      "number": 4,
+      "name": "Sanderumgaard",
+      "airdate": "2017-06-12"
+    },
+    {
+      "id": "3784fe47-5bd8-4f1b-8342-b9c9e25a7842",
+      "season": 2,
+      "number": 5,
+      "name": "Knuthenborg",
+      "airdate": "2017-06-19"
+    },
+    {
+      "id": "4e8c3bc4-1072-4eba-bdad-9cdce9c15b10",
+      "season": 2,
+      "number": 6,
+      "name": "Gavnø Slot",
+      "airdate": "2017-06-26"
+    },
+    {
+      "id": "02fed584-6692-4538-8866-82bb3bb2807e",
+      "season": 2,
+      "number": 8,
+      "name": "Julespecial",
+      "airdate": "2017-12-11"
+    },
+    {
+      "id": "98049b33-d372-4b14-b6d0-4470c1f77e96",
+      "season": 3,
+      "number": 1,
+      "name": "Dragsholm Slot",
+      "airdate": "2018-08-15"
+    },
+    {
+      "id": "db5b39b9-e5ca-4210-bc5b-1a51c2aabf1f",
+      "season": 3,
+      "number": 2,
+      "name": "Grønnessegaard",
+      "airdate": "2018-08-22"
+    },
+    {
+      "id": "1d917aa1-64da-42a5-b5ea-7e08b9e50b3d",
+      "season": 3,
+      "number": 3,
+      "name": "Kragerup",
+      "airdate": "2018-08-29"
+    },
+    {
+      "id": "84d1af81-eeed-4343-a97a-03befbe04239",
+      "season": 3,
+      "number": 4,
+      "name": "Gyldensteen",
+      "airdate": "2018-09-12"
+    },
+    {
+      "id": "40172308-cb73-45e8-bbd2-1c478369d781",
+      "season": 3,
+      "number": 5,
+      "name": "Broholm gods",
+      "airdate": "2018-09-19"
+    },
+    {
+      "id": "ec940aff-3fee-4a09-98ea-168b2ebf4630",
+      "season": 3,
+      "number": 6,
+      "name": "Møllerup Gods",
+      "airdate": "2018-09-26"
+    },
+    {
+      "id": "7a18105f-f96e-4e0d-9918-0e8532773e5e",
+      "season": 3,
+      "number": 7,
+      "name": "Jul på Berleburg Slot",
+      "airdate": "2018-12-11"
+    },
+    {
+      "id": "b0f35c0e-fa5c-47b3-9322-9466aee8882a",
+      "season": 3,
+      "number": 8,
+      "name": "Jul på Ledreborg Slot",
+      "airdate": "2018-12-12"
+    }
+  ]
+}

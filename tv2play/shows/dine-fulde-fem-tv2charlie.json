@@ -1,0 +1,220 @@
+{
+  "id": "tv2play:dine-fulde-fem-tv2charlie",
+  "name": "Dine fulde fem",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6d437eda-04dc-4653-aff6-3db5aeae0584",
+      "season": 1,
+      "number": 1,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-08-16"
+    },
+    {
+      "id": "4777a6b8-75c2-4e7f-9e0b-5456a4d99238",
+      "season": 1,
+      "number": 2,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-08-16"
+    },
+    {
+      "id": "1d781f9c-ea66-487e-bcf1-0b077a3d4ee9",
+      "season": 1,
+      "number": 3,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-08-23"
+    },
+    {
+      "id": "489743b4-981a-4d2b-8127-90596643bde1",
+      "season": 1,
+      "number": 4,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-08-30"
+    },
+    {
+      "id": "4df99d8d-3931-46ee-8d48-86c4cf2bfe99",
+      "season": 1,
+      "number": 5,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-09-06"
+    },
+    {
+      "id": "12c2e084-5ec3-4db9-ab8f-eeeecea8a6ed",
+      "season": 1,
+      "number": 6,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-09-20"
+    },
+    {
+      "id": "b1e242ed-cbf9-455e-9c9c-5f7115d9604c",
+      "season": 1,
+      "number": 7,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-09-27"
+    },
+    {
+      "id": "697554d0-8842-402c-8079-d1b02292e1f7",
+      "season": 1,
+      "number": 8,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-10-04"
+    },
+    {
+      "id": "e5a1d42a-3a1a-4439-a008-89043e193aeb",
+      "season": 1,
+      "number": 9,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-10-11"
+    },
+    {
+      "id": "60cbf36a-bf3f-4db1-bddb-74564ad34c04",
+      "season": 1,
+      "number": 10,
+      "name": "Slip sanserne løs",
+      "airdate": "2020-10-18"
+    },
+    {
+      "id": "fdac3372-0299-41b1-8910-e80b04387310",
+      "season": 2,
+      "number": 1,
+      "name": "Danmarks mest sanselige quizshow",
+      "airdate": "2021-08-21"
+    },
+    {
+      "id": "8b6d6c8e-e793-48db-ae38-347f02f4d338",
+      "season": 2,
+      "number": 2,
+      "name": "Kan du gætte, hvad jeg smasker?",
+      "airdate": "2021-08-21"
+    },
+    {
+      "id": "c47f54c4-6cbc-4de2-9296-72c2d2d9f535",
+      "season": 2,
+      "number": 3,
+      "name": "Vild med sans",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "20119a40-b233-46d8-baa4-289360290e59",
+      "season": 2,
+      "number": 4,
+      "name": "Sit livs sansechok",
+      "airdate": "2021-09-04"
+    },
+    {
+      "id": "edfcdf48-17d7-4743-a3a0-3381992432d4",
+      "season": 2,
+      "number": 5,
+      "name": "Sanselige sportsstjerner",
+      "airdate": "2021-09-11"
+    },
+    {
+      "id": "20cd180f-9ccf-49b3-828f-a848a4cda02a",
+      "season": 2,
+      "number": 6,
+      "name": "Sans og samling",
+      "airdate": "2021-09-18"
+    },
+    {
+      "id": "d7235152-4b4b-4f96-a2a5-bd30a0f6a065",
+      "season": 2,
+      "number": 7,
+      "name": "Bagedyst i studiet",
+      "airdate": "2021-09-25"
+    },
+    {
+      "id": "86d7ef72-dc77-4224-b901-ca697b526449",
+      "season": 2,
+      "number": 8,
+      "name": "Muzak - ja tak!",
+      "airdate": "2021-10-02"
+    },
+    {
+      "id": "c78e16a2-136e-4553-8600-946bb5048234",
+      "season": 2,
+      "number": 9,
+      "name": "Nostalgisk sans",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "17a8664d-b600-4103-bd32-98500af9b5d5",
+      "season": 2,
+      "number": 10,
+      "name": "Sansernes fest",
+      "airdate": "2021-12-05"
+    },
+    {
+      "id": "a53751fd-2357-4a73-bb22-175ca34e4373",
+      "season": 3,
+      "number": 1,
+      "name": "Fuld fart på foderbrættet",
+      "airdate": "2022-03-19"
+    },
+    {
+      "id": "c1f97a0a-767d-4c72-9e5d-d5a9a715e1e8",
+      "season": 3,
+      "number": 2,
+      "name": "Kampen om ægteskabet",
+      "airdate": "2022-03-19"
+    },
+    {
+      "id": "a1956be1-7691-4e5b-bb33-c72cf5a84921",
+      "season": 3,
+      "number": 3,
+      "name": "Fodboldfødder og farlige drinks",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "80ad3b72-ba0e-4954-8044-b087ddc059b2",
+      "season": 3,
+      "number": 4,
+      "name": "Komiske næser på slap line",
+      "airdate": "2022-04-02"
+    },
+    {
+      "id": "ce5fa9e9-9e7f-46eb-bf74-cd50150840c9",
+      "season": 3,
+      "number": 5,
+      "name": "Gud bevare sanserne",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "cd977cf5-b24a-44ba-8d3f-af2a07280b34",
+      "season": 3,
+      "number": 6,
+      "name": "Dyriske konkurrencer",
+      "airdate": "2022-04-16"
+    },
+    {
+      "id": "ff33bd19-752e-4872-bc47-9ac40765509e",
+      "season": 3,
+      "number": 7,
+      "name": "Knockouts og klorvand",
+      "airdate": "2022-04-23"
+    },
+    {
+      "id": "d8766a5c-7182-48f0-a780-d459910f53d8",
+      "season": 3,
+      "number": 8,
+      "name": "Glimmer, grin og Melodi Grand Prix",
+      "airdate": "2022-04-30"
+    },
+    {
+      "id": "54ef8936-33e3-4314-b449-ac0a54711432",
+      "season": 3,
+      "number": 9,
+      "name": "Den store sansedyst",
+      "airdate": "2022-05-07"
+    },
+    {
+      "id": "38e148e4-c5b9-4d55-aec1-9b1754219275",
+      "season": 3,
+      "number": 10,
+      "name": "Ae min arm!",
+      "airdate": "2022-05-14"
+    }
+  ]
+}

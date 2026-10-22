@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:happy-fucking-pride-cmore",
+  "name": "Happy fucking Pride",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4f4c2e2a-2fc8-4dae-b9a7-771b8d37c854",
+      "season": 1,
+      "number": 1,
+      "name": "\"Now or never\"",
+      "airdate": "2024-07-31"
+    },
+    {
+      "id": "4cfb9553-4b4c-4a34-8c08-df7b41b62080",
+      "season": 1,
+      "number": 2,
+      "name": "\"Shock and Awe\"",
+      "airdate": "2024-07-31"
+    },
+    {
+      "id": "e418b153-3e45-4e0d-9546-2f7c0cc7c1cb",
+      "season": 1,
+      "number": 3,
+      "name": "“Load More Guys”",
+      "airdate": "2024-07-31"
+    },
+    {
+      "id": "1dba63a4-4faa-438a-bc96-3e49a8ef0be5",
+      "season": 1,
+      "number": 4,
+      "name": "“Not Today, Satan”",
+      "airdate": "2024-07-31"
+    },
+    {
+      "id": "5c2665cf-45d0-4622-bc77-d92f6d4a47c7",
+      "season": 1,
+      "number": 5,
+      "name": "“Fuck the Pain Away”",
+      "airdate": "2024-07-31"
+    },
+    {
+      "id": "924f4f33-f40b-4bd7-826c-62e064fcdf0d",
+      "season": 1,
+      "number": 6,
+      "name": "“Birds of Paradise”",
+      "airdate": "2024-07-31"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:tomgang-tv2play",
+  "name": "Tomgang",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a62d165b-a2f2-4a9c-976f-0d5dc926ba31",
+      "season": 1,
+      "number": 1,
+      "name": "Pigen overfor",
+      "airdate": "2013-09-01"
+    },
+    {
+      "id": "08226865-1ddc-48fd-8416-5890c57d80c6",
+      "season": 1,
+      "number": 2,
+      "name": "Middag med Mie",
+      "airdate": "2013-09-02"
+    },
+    {
+      "id": "d5a72db2-389c-469f-bdee-5f7c8f7f9dd2",
+      "season": 1,
+      "number": 3,
+      "name": "En tur i sommerhus",
+      "airdate": "2013-09-09"
+    },
+    {
+      "id": "3dd7b20c-26dd-4345-b8bb-7f53cccb03fc",
+      "season": 1,
+      "number": 4,
+      "name": "Storskrald",
+      "airdate": "2013-09-16"
+    },
+    {
+      "id": "624fcacf-eae6-499b-bdd1-405acdf7ceba",
+      "season": 1,
+      "number": 5,
+      "name": "Hele pakken",
+      "airdate": "2013-09-23"
+    },
+    {
+      "id": "3e4d8a94-da6c-4302-969d-734eb5b7f39a",
+      "season": 1,
+      "number": 6,
+      "name": "At fodre hesten",
+      "airdate": "2013-09-30"
+    },
+    {
+      "id": "abfacb0a-d17d-4c23-a64d-f62a6828ea9b",
+      "season": 1,
+      "number": 7,
+      "name": "Komplimenter",
+      "airdate": "2013-10-07"
+    },
+    {
+      "id": "a9b5c109-d0be-4dfc-b825-b782e4671a67",
+      "season": 1,
+      "number": 8,
+      "name": "Frem og tilbage",
+      "airdate": "2013-10-14"
+    },
+    {
+      "id": "94c405c1-0ec9-49fc-aa9a-07d0df0ab5bd",
+      "season": 2,
+      "number": 1,
+      "name": "Bare Bryster",
+      "airdate": "2014-10-13"
+    },
+    {
+      "id": "cd06dfaa-e8b5-40f3-8006-82654b58eb31",
+      "season": 2,
+      "number": 2,
+      "name": "En ordentlig forskrækkelse",
+      "airdate": "2014-10-20"
+    },
+    {
+      "id": "515a28a0-8825-4906-ad56-c235a98757a3",
+      "season": 2,
+      "number": 3,
+      "name": "Mathias, Aslan og Thai",
+      "airdate": "2014-10-27"
+    },
+    {
+      "id": "f8a023cc-36b2-4846-9dd3-8f01faed2963",
+      "season": 2,
+      "number": 4,
+      "name": "Donor Kebab",
+      "airdate": "2014-11-03"
+    },
+    {
+      "id": "488040d1-b56e-454a-933d-b549eed7b792",
+      "season": 2,
+      "number": 5,
+      "name": "Søster Lystig",
+      "airdate": "2014-11-10"
+    },
+    {
+      "id": "b76e0787-170f-4e39-807c-fecc6734fbe3",
+      "season": 2,
+      "number": 6,
+      "name": "Liderlig Buket",
+      "airdate": "2014-11-17"
+    },
+    {
+      "id": "995da861-3dcd-48ba-821e-66966f8e9e7a",
+      "season": 2,
+      "number": 7,
+      "name": "Ludo og Latex",
+      "airdate": "2014-11-24"
+    },
+    {
+      "id": "66bda0cf-64d5-4be3-a5b4-e238717ec16a",
+      "season": 2,
+      "number": 8,
+      "name": "Røvtur",
+      "airdate": "2014-12-01"
+    },
+    {
+      "id": "38ae7c57-996d-4499-ad1d-c75da6eaba64",
+      "season": 3,
+      "number": 1,
+      "name": "Mor-forsøg",
+      "airdate": "2015-10-05"
+    },
+    {
+      "id": "ca8e5452-6ba0-4dd5-9310-97dfbbec6db3",
+      "season": 3,
+      "number": 2,
+      "name": "Løgn med løg på",
+      "airdate": "2015-10-12"
+    },
+    {
+      "id": "4c0192a7-7c2f-4b07-8596-174cd9e48527",
+      "season": 3,
+      "number": 3,
+      "name": "Middag med djævlen",
+      "airdate": "2015-10-19"
+    },
+    {
+      "id": "60e168be-da33-4535-a6ec-0d5827c4bea1",
+      "season": 3,
+      "number": 4,
+      "name": "Agurketid",
+      "airdate": "2015-10-26"
+    },
+    {
+      "id": "b37e522b-6e4a-403d-b1fd-6ecf8df6dd3d",
+      "season": 3,
+      "number": 5,
+      "name": "Modeller eller ej",
+      "airdate": "2015-11-02"
+    },
+    {
+      "id": "be14fabb-4c59-484d-8696-303c810ffdcf",
+      "season": 3,
+      "number": 6,
+      "name": "Best Buddy Day",
+      "airdate": "2015-11-09"
+    },
+    {
+      "id": "e3a165f5-124f-4fe4-aac3-0d48065775df",
+      "season": 3,
+      "number": 7,
+      "name": "Man borer ikke andres huller",
+      "airdate": "2015-11-16"
+    },
+    {
+      "id": "042327da-5387-4856-b624-8d36cad3f468",
+      "season": 3,
+      "number": 8,
+      "name": "På gule plader",
+      "airdate": "2015-11-23"
+    }
+  ]
+}

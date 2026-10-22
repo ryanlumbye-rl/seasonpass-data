@@ -1,0 +1,157 @@
+{
+  "id": "tv2play:geckos-garage-oiii",
+  "name": "Geckos Garage",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "259d0e5f-3e36-4b99-826e-afacb307ec23",
+      "season": 1,
+      "number": 1,
+      "name": "Eventyr i Køretøjsbyen",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "ea722dbd-1757-4b2a-9ff1-41ef8b034d63",
+      "season": 1,
+      "number": 2,
+      "name": "Redninger og vejkantsvidundere",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "23f64dd6-582b-4f6a-8c41-32a9f6234992",
+      "season": 1,
+      "number": 3,
+      "name": "Autohjælpsheltenes fortælling",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "b41d320b-8738-49fe-8320-40b84eb30d76",
+      "season": 1,
+      "number": 4,
+      "name": "Miljøvenlige køretøjer og festlige fornøjelser",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "ad894f63-bf6d-498b-8876-02912f1902d7",
+      "season": 1,
+      "number": 5,
+      "name": "Geckos dynamiske eventyr med lastbiler",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "a9ebb35e-e0aa-4d24-a896-3d53a1ab51f9",
+      "season": 1,
+      "number": 6,
+      "name": "Geckos mekaniske vidundere",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "fe0f90cb-e2f7-4468-874e-4409bea2f4a3",
+      "season": 1,
+      "number": 7,
+      "name": "Geckos ømme eventyr",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "72d1701b-a7c4-4bed-8a9c-de2110ee6ee3",
+      "season": 1,
+      "number": 8,
+      "name": "Geckos eventyr på hjul",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "cb6046b2-0e73-45cc-bee4-d6b4bde77ac0",
+      "season": 2,
+      "number": 1,
+      "name": "Geckos store redningseventyr",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "b70432c6-abf3-46fa-b479-d36999f8b9fd",
+      "season": 2,
+      "number": 2,
+      "name": "Geckos uhyggelige redningsmissioner",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "47aab34a-880d-4d90-96cf-4edf0a95819a",
+      "season": 2,
+      "number": 3,
+      "name": "Geckos heroiske redningsaktioner",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "ce1504de-52ce-493a-a94d-6a9c7324f0b5",
+      "season": 2,
+      "number": 4,
+      "name": "Geckos Garage-eventyr",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "0c31491a-8fdb-463a-942d-373d6bb3643b",
+      "season": 2,
+      "number": 5,
+      "name": "Geckos redningsmandskab",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "a57bd2e5-e82b-4345-a4be-34b1abba8a07",
+      "season": 2,
+      "number": 6,
+      "name": "Geckos sjove løsninger",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "242d0e61-d590-4f3a-8fdf-6bab7d1089a3",
+      "season": 2,
+      "number": 7,
+      "name": "Geckos redningsture",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "e4cb3aed-467a-4dc9-a07f-6861965eba07",
+      "season": 2,
+      "number": 8,
+      "name": "Geckos fantastiske løsninger",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "59e3925f-0aa9-4fd2-861b-bdca1880a805",
+      "season": 2,
+      "number": 9,
+      "name": "Geckos redningsmissioner",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "c171354f-398f-4427-a543-804b2e4c7d23",
+      "season": 2,
+      "number": 10,
+      "name": "Geckos vilde eventyr",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "08427491-c43e-4cd1-8427-e7652e0e3c64",
+      "season": 2,
+      "number": 11,
+      "name": "Geckos sjove løsninger",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "a5a00fbc-c1d8-41d7-b571-6af02b635bf7",
+      "season": 2,
+      "number": 12,
+      "name": "Geckos spændende eventyr",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "472ace95-42fd-4190-b1d4-c397aaa72c23",
+      "season": 2,
+      "number": 13,
+      "name": "Geckos actionfyldte redningsaktioner",
+      "airdate": "2025-07-19"
+    }
+  ]
+}

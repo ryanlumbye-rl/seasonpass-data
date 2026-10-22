@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:reindeer-mafia-cmore",
+  "name": "Reindeer Mafia",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8713590c-a224-4a35-9b55-1f57ec6e275c",
+      "season": 1,
+      "number": 1,
+      "name": "Begravelsen",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "014136ff-74bc-4192-8c68-86a4367ffbd6",
+      "season": 1,
+      "number": 2,
+      "name": "Arven",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "e27b50f1-cab9-42fb-bad7-d9b06a84a8e2",
+      "season": 1,
+      "number": 3,
+      "name": "Gæld",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "4259066b-dd3c-4145-b81a-d5ac5e6f9f99",
+      "season": 1,
+      "number": 4,
+      "name": "Smugling",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "d9f802bb-1c9b-4fec-8063-552f29a1fc2f",
+      "season": 1,
+      "number": 5,
+      "name": "Gemmestedet",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "e3b5f95e-47d4-4d2d-9d19-7a03a6ae2302",
+      "season": 1,
+      "number": 6,
+      "name": "Angreb",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "1a01eae3-43e4-40c0-bf39-4f27b90b699b",
+      "season": 1,
+      "number": 7,
+      "name": "Hvem myrdede Ville Poikkipää?",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "3313f614-08ba-4347-b083-365c628c0215",
+      "season": 1,
+      "number": 8,
+      "name": "Hævn",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

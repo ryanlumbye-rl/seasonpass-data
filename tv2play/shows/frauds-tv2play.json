@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:frauds-tv2play",
+  "name": "Frauds",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "06910f32-6f9e-436c-a9e2-398e02932443",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-03-18"
+    },
+    {
+      "id": "a2496f66-6810-44a5-a454-2e3ca48d53b2",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-03-18"
+    },
+    {
+      "id": "17694641-fa19-43cd-8b01-15c5befd5242",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-03-18"
+    },
+    {
+      "id": "ba7d825f-f808-4336-931c-d42a7d5d2369",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-03-18"
+    },
+    {
+      "id": "db59bdcb-9380-46eb-ac22-edcf6aa58634",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-03-18"
+    },
+    {
+      "id": "58a248f3-52a4-4b8c-9d35-152923479ac2",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-03-18"
+    }
+  ]
+}

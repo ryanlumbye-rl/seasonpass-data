@@ -1,0 +1,374 @@
+{
+  "id": "tv2play:hil-kong-julien-tv2play",
+  "name": "Hil Kong Julien",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "aa48ea89-8153-4bd4-989d-5dfb231f50e3",
+      "season": 1,
+      "number": 1,
+      "name": "Kong Mig",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "43329dea-7c65-4a7e-a527-e22b7f746a04",
+      "season": 1,
+      "number": 2,
+      "name": "Meningsmåling",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "5bb5b1fa-38b2-41a3-9137-1d4503fe0c50",
+      "season": 1,
+      "number": 3,
+      "name": "Ind kommer fanalokaen",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "50608bc5-c13a-49ef-84b7-2ff71a485419",
+      "season": 1,
+      "number": 4,
+      "name": "Tom i hovedet",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "0b8d86e8-ddd3-457a-8315-70123b50a080",
+      "season": 1,
+      "number": 5,
+      "name": "Onkelkongen vender tilbage",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "b8a61d33-2871-4f53-81a2-7674690b639b",
+      "season": 1,
+      "number": 6,
+      "name": "Ferieromantik",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "e4062c55-1965-4a30-9edf-41efafc5dff1",
+      "season": 1,
+      "number": 7,
+      "name": "Blind videnskab",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "675dd380-b273-4b27-99db-019b48f7335a",
+      "season": 1,
+      "number": 8,
+      "name": "Forræderen Mort",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "73c0c29b-5969-4f77-aa00-b24e546bdb62",
+      "season": 1,
+      "number": 9,
+      "name": "Den meget store løgn",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "598f235a-5d3b-4dae-b217-6dc33d95b2ee",
+      "season": 1,
+      "number": 10,
+      "name": "For meget kaffe",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "0181025b-59a0-4b35-aaa6-f33f8d1900bc",
+      "season": 1,
+      "number": 11,
+      "name": "Sød lille foosa",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "cd4ca8d5-6bf3-4d96-a31e-e55f4eae192e",
+      "season": 1,
+      "number": 12,
+      "name": "Ble-mode",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "6bbed408-a29e-40ec-b5ba-87e965495e4d",
+      "season": 1,
+      "number": 13,
+      "name": "Crimson og Kløver",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "56db6907-4957-46c3-bd9c-1c920d14e8e4",
+      "season": 1,
+      "number": 14,
+      "name": "En klog ananas",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "af49e6da-bd06-4f8c-83a9-0a596b1475e2",
+      "season": 1,
+      "number": 15,
+      "name": "Pengenes magt",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "98ed3600-20fe-4dc9-aa07-54cf56ebad97",
+      "season": 1,
+      "number": 16,
+      "name": "Dobbeltgænger",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "eab92d12-8c74-417a-8664-6d57b252c985",
+      "season": 1,
+      "number": 17,
+      "name": "Et kongeligt valg",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "89464540-7271-455b-8e5d-b55ea12991af",
+      "season": 1,
+      "number": 18,
+      "name": "Far Julien",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "0eae7746-ce0c-45dc-8d6b-5cf211470115",
+      "season": 1,
+      "number": 19,
+      "name": "Rob, din røver",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "e9724a71-daea-47eb-8cfe-faa3692068e5",
+      "season": 1,
+      "number": 20,
+      "name": "Manden med jernrumpen",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "a30287eb-1a81-49f9-8632-9ec91b6fb144",
+      "season": 1,
+      "number": 21,
+      "name": "Abeplaneten",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "f75c9d5d-d65f-4233-a452-adac165e2272",
+      "season": 1,
+      "number": 22,
+      "name": "Ingen kan tjene to herrer",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "d94b36fb-5e9e-49cc-a5db-83c1403b02a0",
+      "season": 1,
+      "number": 23,
+      "name": "Kongen, der ville være konge",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "a3262d53-c809-429e-a988-62fd1adf37ae",
+      "season": 1,
+      "number": 24,
+      "name": "Kære Frank, det er mig, Kong Julien",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "c2318223-bf1f-47d5-aa35-bf9c5deb0b91",
+      "season": 1,
+      "number": 25,
+      "name": "Spøgelsesklubben",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "8c099224-34d5-4fa0-bfc8-ab13b737fbfb",
+      "season": 1,
+      "number": 26,
+      "name": "Hvil i fred, Kong Julien",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "1d5e68a8-676d-4a33-ac02-4b6bfcad0a22",
+      "season": 2,
+      "number": 1,
+      "name": "Mango og pirater - del 1",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "9b9308ce-701f-49bb-9644-69524f3ce62a",
+      "season": 2,
+      "number": 2,
+      "name": "Mango og pirater - del 2",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "c3387321-3c75-462f-8007-c98379aee5f0",
+      "season": 2,
+      "number": 3,
+      "name": "En sidste dans",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "4edd51c5-3d38-4797-aafc-5bead120d238",
+      "season": 2,
+      "number": 4,
+      "name": "Som brødre vi dele",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "f507fb84-4f32-4448-98e0-47431370fbee",
+      "season": 2,
+      "number": 5,
+      "name": "Kærlighedshandsken",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "82181345-5090-49f8-aebd-681a755e5788",
+      "season": 2,
+      "number": 6,
+      "name": "Junglelegene",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "05ccd98d-a694-4e35-b9b4-783cafebde50",
+      "season": 2,
+      "number": 7,
+      "name": "Nærkontakt af Mort-grad",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "c1d75506-45cc-44f0-9527-2a28a4d135bf",
+      "season": 2,
+      "number": 8,
+      "name": "Sommerfuglekrigen",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "39d67427-2096-4bd5-97bf-9ccaf2e6297e",
+      "season": 2,
+      "number": 9,
+      "name": "Lemurnation på fastfood",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "067da91a-dd76-48c4-a65d-8496c605d4c0",
+      "season": 2,
+      "number": 10,
+      "name": "Væk fra min græsplæne!",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "69cb98e0-e30e-4d5b-a3bd-dbeea592cba6",
+      "season": 2,
+      "number": 11,
+      "name": "Skolebalshævnen",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "4e39302f-7538-474d-939a-1b91bdb24046",
+      "season": 2,
+      "number": 12,
+      "name": "Kløvers traume",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "2bded11c-9ffc-42cb-bef8-310b803f4f40",
+      "season": 2,
+      "number": 13,
+      "name": "En kongelig grænse",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "ea66dc2b-4bc6-4d73-b004-36b65efb5b37",
+      "season": 2,
+      "number": 14,
+      "name": "Hil Kong Julien-showet",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "5162f8bf-d402-4890-ac5d-9a12b9a85e45",
+      "season": 2,
+      "number": 15,
+      "name": "Hul i hovedet",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "44adab98-325f-4517-8492-2f6720773601",
+      "season": 2,
+      "number": 16,
+      "name": "Den store kunst",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "84d7c9ff-20d2-4330-b900-295cbbb1e773",
+      "season": 2,
+      "number": 17,
+      "name": "Den synkende skude",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "a82e65f0-d3a6-4359-859c-eb26b80f6575",
+      "season": 2,
+      "number": 18,
+      "name": "Junglehanen",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "1c111e91-7c1a-4d70-b3e8-65ba719e883e",
+      "season": 2,
+      "number": 19,
+      "name": "God opførsel i det bedre selskab",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "768a7542-e060-4d09-a3fb-752ee822f34c",
+      "season": 2,
+      "number": 20,
+      "name": "Kongen og fru Mort",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "86275c89-0ba2-465e-942a-9563bceb1657",
+      "season": 2,
+      "number": 21,
+      "name": "Kong Julien superstar!",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "7e4b0259-06f4-4209-a5b8-e274490246a4",
+      "season": 2,
+      "number": 22,
+      "name": "Pas på Pancho",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "62a9b939-f1da-4bb8-a163-7f620c415d51",
+      "season": 2,
+      "number": 23,
+      "name": "Mort den Grusomme",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "868f8700-2816-4173-a505-b223c1c54c22",
+      "season": 2,
+      "number": 24,
+      "name": "En farlig forræder",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "dc9512db-ff41-4adb-b59d-11399dcce72b",
+      "season": 2,
+      "number": 25,
+      "name": "Jeg, Maurice",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "366efc0d-8b5f-445d-8932-45e1a9067c5d",
+      "season": 2,
+      "number": 26,
+      "name": "Dansekonge",
+      "airdate": "2026-09-19"
+    }
+  ]
+}

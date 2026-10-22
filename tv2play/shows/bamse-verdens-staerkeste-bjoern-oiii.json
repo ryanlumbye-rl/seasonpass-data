@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:bamse-verdens-staerkeste-bjoern-oiii",
+  "name": "Bamse, verdens stærkeste bjørn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6b31fc37-6c18-4712-a57f-c99a66c8b4ad",
+      "season": 1,
+      "number": 1,
+      "name": "Skattekortet",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "b47bc11a-5d96-4165-815c-e2eea3229c78",
+      "season": 1,
+      "number": 2,
+      "name": "Skattejagten",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "254d04a4-03f0-4824-a572-56f8a04e3af9",
+      "season": 1,
+      "number": 3,
+      "name": "Vulkanudbruddet",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "c3c1b65a-e5a1-45ac-a0c1-8e2c3a5b5274",
+      "season": 1,
+      "number": 4,
+      "name": "Den sultne drage",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "73277818-1b1b-428e-b9b9-f93e68710535",
+      "season": 1,
+      "number": 5,
+      "name": "Ulven spiser krafthonning",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "615056a2-d9b6-4735-a343-60469fc4879a",
+      "season": 1,
+      "number": 6,
+      "name": "Det flyvende tæppe",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "d76e637a-07d0-4039-958c-d86ce77ddf39",
+      "season": 1,
+      "number": 7,
+      "name": "Troldmanden",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "dac1ad1b-2dbd-44c6-88df-94de9196ecf5",
+      "season": 1,
+      "number": 8,
+      "name": "Det lille æsel",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "fa8fe8f5-7f08-4812-802e-8c646e9403f2",
+      "season": 1,
+      "number": 9,
+      "name": "Det store kapløb",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "c3cb602d-224d-4e97-89e1-080c33cff6ad",
+      "season": 1,
+      "number": 10,
+      "name": "Bamse i Trylleskoven",
+      "airdate": "2016-05-01"
+    }
+  ]
+}

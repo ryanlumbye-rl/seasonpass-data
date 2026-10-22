@@ -1,0 +1,157 @@
+{
+  "id": "tv2play:antiks-oiii",
+  "name": "Antiks",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0f44d8aa-c452-4f45-ba8e-b2194ce42707",
+      "season": 1,
+      "number": 1,
+      "name": "Det går hedt til",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "7655e4c7-8ac3-46d2-a5aa-932f11f18c17",
+      "season": 1,
+      "number": 2,
+      "name": "Fri fantasi",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "07fd398d-c8c0-4de7-ab57-dc473063a520",
+      "season": 1,
+      "number": 3,
+      "name": "Den store kande",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "0819011e-9168-429d-860e-259fa4d11f4c",
+      "season": 1,
+      "number": 4,
+      "name": "Tidsfordriv",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "70e3394f-bcf5-48cb-a75c-08e0f31eb311",
+      "season": 1,
+      "number": 5,
+      "name": "På kanten",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "2b2191c4-bbfd-425e-9350-02dbe7f480ce",
+      "season": 1,
+      "number": 6,
+      "name": "Klisterstads",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "ddfa3e37-45a2-4ccc-9bed-33f18f0de4d6",
+      "season": 1,
+      "number": 7,
+      "name": "Op over begge ører",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "d75d1ed3-9a32-4176-ae4f-3026284cc004",
+      "season": 1,
+      "number": 8,
+      "name": "Ned i sølet",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "bb5bc1f0-6a0a-4899-bd4f-cbbafbda56f6",
+      "season": 1,
+      "number": 9,
+      "name": "Mere flitterstads",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "31f299fe-b29e-4d65-8908-3af8aa86fab3",
+      "season": 1,
+      "number": 10,
+      "name": "Et slag i luften",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "264c0af7-d156-4126-98d3-6f06b4143e7d",
+      "season": 2,
+      "number": 1,
+      "name": "Wrestling-opvisningen",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "abf6f347-098d-433d-b955-b2f64fcd064a",
+      "season": 2,
+      "number": 2,
+      "name": "Antiks’ gåder og vidundere",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "416f3c47-0935-4fda-932c-e19123a5eece",
+      "season": 2,
+      "number": 3,
+      "name": "Kulinariske kunster og søde overraskelser",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "4a584e0c-2cd2-49da-ac8f-c5cdde1f4c41",
+      "season": 2,
+      "number": 4,
+      "name": "Eventyr i Antiksville",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "fd4dee35-f815-49f3-9208-d9cd4b36caff",
+      "season": 2,
+      "number": 5,
+      "name": "Komediekarnevallet",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "2413b3c9-bcff-48d8-8c70-c1bfb0ed9b73",
+      "season": 2,
+      "number": 6,
+      "name": "Fjolleri i det fri",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "918031c7-8e1e-4568-a6a5-32a825ae7704",
+      "season": 2,
+      "number": 7,
+      "name": "Nudelnarrestreger",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "1e071882-f9a5-40f8-be2b-876306709ab9",
+      "season": 2,
+      "number": 8,
+      "name": "Tossetimen",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "b5eff4e2-b146-45c8-bd7f-20d612a70528",
+      "season": 2,
+      "number": 9,
+      "name": "Sportsspektaklet",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "7d907316-9c49-4a7e-bedc-30eca4835ee6",
+      "season": 2,
+      "number": 10,
+      "name": "Spøg og skæmt",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "dddb740f-d207-4453-9453-a6ce6b770a5f",
+      "season": 2,
+      "number": 11,
+      "name": "Summerspas",
+      "airdate": "2024-05-18"
+    }
+  ]
+}

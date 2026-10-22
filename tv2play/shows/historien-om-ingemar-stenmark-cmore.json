@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:historien-om-ingemar-stenmark-cmore",
+  "name": "Historien om Ingemar Stenmark",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "04372e37-da53-41ac-a966-32183eeb8dcf",
+      "season": 1,
+      "number": 1,
+      "name": "Den modvillige verdensstjerne",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3e4caca9-4585-46fa-bea6-ee8d3855ab31",
+      "season": 1,
+      "number": 2,
+      "name": "Nu er Ingemar ikke til at slå",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "910a6749-bd96-463f-8d39-5de99445e635",
+      "season": 1,
+      "number": 3,
+      "name": "Viljen til at stoppe på toppen",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:crime-britbox",
+  "name": "Crime",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "69f7d348-6a2d-4cd9-9011-ab6a3bcc13d3",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-10-18"
+    },
+    {
+      "id": "202d5d49-92ee-4a84-9dc4-cd54717c5746",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-10-18"
+    },
+    {
+      "id": "03a0ddf1-4699-4ac7-bee3-f04195a9c046",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-10-18"
+    },
+    {
+      "id": "e4c7123f-8f4f-4f8a-a0e1-752c44607b11",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-10-18"
+    },
+    {
+      "id": "d4c0725d-06aa-43a3-a4a0-376d6964e09b",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-10-18"
+    },
+    {
+      "id": "c7e58e9c-b962-40ec-933e-7f78d6e33525",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-10-18"
+    }
+  ]
+}

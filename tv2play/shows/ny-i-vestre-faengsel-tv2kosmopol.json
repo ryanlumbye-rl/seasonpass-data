@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:ny-i-vestre-faengsel-tv2kosmopol",
+  "name": "Ny i Vestre Fængsel",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b091091f-45f3-436d-95ff-f2f5c07bfa27",
+      "season": 1,
+      "number": 1,
+      "name": "Den hårde optagelsesprøve",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "53bf9705-80f2-4a2d-875d-228ea1a8cadb",
+      "season": 1,
+      "number": 2,
+      "name": "Første skoledag i fængslet",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "29f3451c-9f9e-474a-b0c1-36e455028140",
+      "season": 1,
+      "number": 3,
+      "name": "Stoffer og stikvåben",
+      "airdate": "2024-10-19"
+    },
+    {
+      "id": "43e75593-5f4d-4009-a30b-37807e551e28",
+      "season": 1,
+      "number": 4,
+      "name": "Knytnæver på skoleskemaet",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "19e95c27-cb7e-4d8d-a143-300656f0f604",
+      "season": 1,
+      "number": 5,
+      "name": "Den afgørende test",
+      "airdate": "2024-11-02"
+    }
+  ]
+}

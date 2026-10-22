@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:paa-job-med-doeden-tv2oestjylland",
+  "name": "På job med døden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a5df10ae-fe5d-4a18-88fb-a522769033ac",
+      "season": 1,
+      "number": 2,
+      "name": "Sebastian brænder de døde",
+      "airdate": "2024-04-01"
+    }
+  ]
+}

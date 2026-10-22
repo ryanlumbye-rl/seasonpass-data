@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:dexter-new-blood-skyshowtime",
+  "name": "Dexter: New Blood",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7930bea2-8c82-4255-a03d-1125542a9858",
+      "season": 1,
+      "number": 1,
+      "name": "Cold Snap",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "42668bbb-47fa-43bc-b309-7b3144691411",
+      "season": 1,
+      "number": 2,
+      "name": "Storm of Fuck",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "13a6475c-faa6-48c8-b830-e6659c9b05a1",
+      "season": 1,
+      "number": 3,
+      "name": "Smoke Signals",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "0d66e8ba-cbae-44bb-9414-b699bc098ebc",
+      "season": 1,
+      "number": 4,
+      "name": "H is for Hero",
+      "airdate": "2021-11-29"
+    },
+    {
+      "id": "de1fdf38-ead1-4306-9971-347a4aaf673a",
+      "season": 1,
+      "number": 5,
+      "name": "Runaway",
+      "airdate": "2021-12-06"
+    },
+    {
+      "id": "27b4a43c-b0c1-4bfa-a175-95ecacbd2bb0",
+      "season": 1,
+      "number": 6,
+      "name": "Too Many Tuna Sandwiches",
+      "airdate": "2021-12-13"
+    },
+    {
+      "id": "c161ce63-f535-48cc-84c9-6d685e911ea6",
+      "season": 1,
+      "number": 7,
+      "name": "Skin of Her Teeth",
+      "airdate": "2021-12-20"
+    },
+    {
+      "id": "8b300a44-cfdf-418b-8a8f-833c430e0e5f",
+      "season": 1,
+      "number": 8,
+      "name": "Big Game",
+      "airdate": "2021-12-27"
+    },
+    {
+      "id": "d2e9c83e-8a83-447e-841f-94192ef8b786",
+      "season": 1,
+      "number": 9,
+      "name": "The Family Business",
+      "airdate": "2022-01-03"
+    },
+    {
+      "id": "014a605b-7abc-42f6-bde3-350dfc3cde10",
+      "season": 1,
+      "number": 10,
+      "name": "Sins of the Father",
+      "airdate": "2022-01-10"
+    }
+  ]
+}

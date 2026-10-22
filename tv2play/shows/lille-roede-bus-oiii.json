@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:lille-roede-bus-oiii",
+  "name": "Lille røde bus",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "94057cbb-34df-4018-ac6a-7e724d5507a7",
+      "season": 1,
+      "number": 38,
+      "name": "Gemmeleg",
+      "airdate": "2023-02-04"
+    },
+    {
+      "id": "14a719ad-7e4b-4732-bfba-9ba057680da8",
+      "season": 1,
+      "number": 39,
+      "name": "Buster og kæmpeisen",
+      "airdate": "2023-02-04"
+    },
+    {
+      "id": "99941ca1-453c-4735-89f3-8dcc97dca72f",
+      "season": 1,
+      "number": 40,
+      "name": "Buster og vennerne trodser bøllen Bandit",
+      "airdate": "2023-02-04"
+    },
+    {
+      "id": "2df05980-84e0-4f2e-bb37-a3b22f04ce67",
+      "season": 1,
+      "number": 41,
+      "name": "Fyrværkeri med familiesjov",
+      "airdate": "2023-02-04"
+    }
+  ]
+}

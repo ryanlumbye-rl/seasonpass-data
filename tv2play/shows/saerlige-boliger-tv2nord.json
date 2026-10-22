@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:saerlige-boliger-tv2nord",
+  "name": "Særlige boliger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bfe38759-a32e-49ed-8286-855f250e1112",
+      "season": 1,
+      "number": 1,
+      "name": "Kunst i parcelhuset",
+      "airdate": "2024-05-19"
+    },
+    {
+      "id": "ee870059-da3c-4c0c-a846-dcbcb50be08f",
+      "season": 1,
+      "number": 2,
+      "name": "Penthouselejlighed med 360 graders udsigtsterrasse",
+      "airdate": "2024-05-26"
+    },
+    {
+      "id": "29dc8064-e425-458f-a5aa-16cb083720a3",
+      "season": 1,
+      "number": 4,
+      "name": "Palævillaen i Hammer Bakker",
+      "airdate": "2024-06-09"
+    },
+    {
+      "id": "b8f0e0c1-313b-49ad-9c5e-6d03f8f97af1",
+      "season": 2,
+      "number": 1,
+      "name": "Luksuriøst landsted",
+      "airdate": "2024-10-13"
+    },
+    {
+      "id": "836ec587-e444-494d-ac4e-36d7fb95303e",
+      "season": 2,
+      "number": 2,
+      "name": "Overdådig herskabslejlighed",
+      "airdate": "2024-10-27"
+    },
+    {
+      "id": "a679fa08-423c-4c81-a74c-9d8fe95de757",
+      "season": 2,
+      "number": 3,
+      "name": "Romantisk villa",
+      "airdate": "2024-11-03"
+    },
+    {
+      "id": "df3898d4-a24b-4532-a9f0-b0c09703f196",
+      "season": 2,
+      "number": 4,
+      "name": "Moderne betonvilla",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "7920ac66-1033-44f2-a553-d8f97dbbd9d1",
+      "season": 3,
+      "number": 1,
+      "name": "Passion, luksus og idyl i landsby",
+      "airdate": "2025-08-10"
+    },
+    {
+      "id": "41905f9a-b670-47a9-85da-7d6f4d705326",
+      "season": 3,
+      "number": 2,
+      "name": "Arkitektens drømmevilla ved fjorden",
+      "airdate": "2025-08-17"
+    },
+    {
+      "id": "217d79fc-1c4d-4ff1-b810-3ad1853044e4",
+      "season": 3,
+      "number": 3,
+      "name": "Glamourøs styling med genbrug",
+      "airdate": "2025-08-24"
+    },
+    {
+      "id": "20c0a036-789e-4701-8beb-aa0eda6678ca",
+      "season": 4,
+      "number": 1,
+      "name": "Store terrasser i 500 m2 villa",
+      "airdate": "2026-02-15"
+    },
+    {
+      "id": "f7864166-b223-45cd-bc77-f0d4fcaf22b1",
+      "season": 4,
+      "number": 2,
+      "name": "Luksuslejlighed i smørhullet",
+      "airdate": "2026-02-22"
+    },
+    {
+      "id": "1cdc4196-739d-4f0a-96cd-cdcef3a4b2a8",
+      "season": 4,
+      "number": 3,
+      "name": "Kunstnerens bolig og legeplads",
+      "airdate": "2026-03-01"
+    }
+  ]
+}

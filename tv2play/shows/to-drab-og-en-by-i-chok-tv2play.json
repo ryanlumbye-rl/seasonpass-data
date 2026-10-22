@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:to-drab-og-en-by-i-chok-tv2play",
+  "name": "To drab og en by i chok",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fae2ee2c-f647-431d-befa-ffab9cf6df55",
+      "season": 1,
+      "number": 1,
+      "name": "Mordene i Liverpool",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "573ac0d5-7354-49a3-bbd4-0a706429e961",
+      "season": 1,
+      "number": 2,
+      "name": "Mød din morder",
+      "airdate": "2025-03-10"
+    },
+    {
+      "id": "7fca878f-d7d5-42ca-9752-9bbab4bfe32b",
+      "season": 1,
+      "number": 3,
+      "name": "Vidnernes mod",
+      "airdate": "2025-03-17"
+    },
+    {
+      "id": "2965d0f4-6116-4375-ba2a-ebb0cddfef6c",
+      "season": 1,
+      "number": 4,
+      "name": "Retfærdighedens vej",
+      "airdate": "2025-03-24"
+    }
+  ]
+}

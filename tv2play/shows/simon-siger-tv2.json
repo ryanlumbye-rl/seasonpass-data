@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:simon-siger-tv2",
+  "name": "Simon siger",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "6123bafc-95a5-4b85-882d-bb7ae47081b3",
+      "season": 1,
+      "number": 1,
+      "name": "TopGunn",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "db46a7c5-1fb1-41d5-bedf-75fae739539c",
+      "season": 1,
+      "number": 2,
+      "name": "Søs Fenger",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "6afa3fe5-2819-42c6-9170-7f1ec60b6e4e",
+      "season": 1,
+      "number": 3,
+      "name": "Kristoffer fra Søn",
+      "airdate": "2026-10-24"
+    }
+  ]
+}

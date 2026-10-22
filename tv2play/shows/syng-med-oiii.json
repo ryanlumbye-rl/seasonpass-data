@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:syng-med-oiii",
+  "name": "Syng med",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2fea65d0-c2c9-4cfe-9269-f3264ca39be4",
+      "season": 1,
+      "number": 1,
+      "name": "Tusindben",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "05453104-09e3-4f63-94b1-2bc9173aca09",
+      "season": 1,
+      "number": 2,
+      "name": "Alfabetsangen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "df1c2eb0-7b01-4565-86b9-28e150b4f4fc",
+      "season": 1,
+      "number": 3,
+      "name": "Puff den magiske drage",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0180429a-d6cc-45d2-8b5a-5c1141a880be",
+      "season": 1,
+      "number": 4,
+      "name": "Tju Bang Chokolademand",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "41982d22-d143-4b87-9930-db3aa40c0492",
+      "season": 1,
+      "number": 5,
+      "name": "Mariehønen Evigglad",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "83d7c774-3034-47f7-9d5f-9ac2876feeed",
+      "season": 1,
+      "number": 6,
+      "name": "Bim bam busse",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4ade554a-e714-418c-91b6-a7f49bf361d4",
+      "season": 1,
+      "number": 7,
+      "name": "Jeg er en papegøje fra Amerika",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d469ae31-443b-4a75-91ee-0c11af10aa9e",
+      "season": 1,
+      "number": 8,
+      "name": "Ti små cyklister",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "118342d1-9af9-4e2f-944c-2b75baf84f94",
+      "season": 1,
+      "number": 9,
+      "name": "Elefantens vuggevise",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

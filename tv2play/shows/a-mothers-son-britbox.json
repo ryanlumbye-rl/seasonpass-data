@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:a-mothers-son-britbox",
+  "name": "A Mother's Son",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "727e5f2a-1ff6-479b-a7fc-54d579219de1",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "114447f0-90c8-46d4-986e-771be0802ff0",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-19"
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "id": "tv2play:miniteve-udeleg-cmore",
+  "name": "Miniteve: Udeleg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f1c321f9-ac6e-4395-8664-3f6b30b35c63",
+      "season": 1,
+      "number": 1,
+      "name": "Bade i sprinkleren",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e9b6af07-9f5a-4ea1-8318-fbe5f4aff936",
+      "season": 1,
+      "number": 2,
+      "name": "Cykle opad og nedad",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5aec223d-2d14-49d8-a0ff-4066ddcc9798",
+      "season": 1,
+      "number": 3,
+      "name": "Gynge",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "318ff17f-fe36-48cf-866d-0ec372bc55e5",
+      "season": 1,
+      "number": 4,
+      "name": "Hop i sneen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "87339f19-b31b-4de3-a0ba-4c336e7f5cef",
+      "season": 1,
+      "number": 5,
+      "name": "Hop og ballade",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "907acee3-6684-4923-ba85-d0a0bb989e80",
+      "season": 1,
+      "number": 6,
+      "name": "Hop i trampolinen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "64a947f9-91c9-4780-b74c-387c6db5eec3",
+      "season": 1,
+      "number": 7,
+      "name": "Klippe græsset",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "ee2c699c-d89c-418c-9c37-de44d1f6fe74",
+      "season": 1,
+      "number": 8,
+      "name": "Klatre i træer",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e1c91544-b115-48b3-8c4f-3c063487439c",
+      "season": 1,
+      "number": 9,
+      "name": "Cykle for oven og for neden",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "a8f385ce-0c95-4ebf-b010-cec127ce8d38",
+      "season": 1,
+      "number": 10,
+      "name": "Sjov på stranden",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c37cccad-4d93-4068-a96a-bc2483ae77ad",
+      "season": 1,
+      "number": 11,
+      "name": "Leg i sandkassen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "3c01589c-64b0-4100-b04e-ebfa97a2a415",
+      "season": 1,
+      "number": 12,
+      "name": "Lang rutsjebane",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4cab8a68-5676-4dc2-a3ce-a81add65d70c",
+      "season": 1,
+      "number": 13,
+      "name": "Min fine blå slæde",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "1e648009-8058-4b5c-a94a-e0c0f71e7994",
+      "season": 1,
+      "number": 14,
+      "name": "Rød rutsjebane",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "9844376d-79f3-4716-8e78-f4bdbdb68b0d",
+      "season": 1,
+      "number": 15,
+      "name": "Rulle ned ad bakken",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d7402440-72df-49a7-b529-8b48bec35c5f",
+      "season": 1,
+      "number": 16,
+      "name": "Rulle rundt i sneen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6b4cf4f6-50b4-41a0-9f17-3e96d1f775e3",
+      "season": 1,
+      "number": 17,
+      "name": "Pas på bakken",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "2475ca9a-b58f-4241-8296-71f279948415",
+      "season": 1,
+      "number": 18,
+      "name": "Skovle sne",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "ba1c066d-97ed-45de-b742-e98d3c37e42d",
+      "season": 1,
+      "number": 19,
+      "name": "Sæbebobler",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b10420c5-f450-4a85-b6c4-ff4cbd143b48",
+      "season": 1,
+      "number": 20,
+      "name": "Se min skygge",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "9c99d3fa-41f5-4943-8067-74ca36cdb776",
+      "season": 1,
+      "number": 21,
+      "name": "Vand i sandkassen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "546d4af2-d7e1-4bb6-8b9f-b61aaa82399a",
+      "season": 1,
+      "number": 22,
+      "name": "Vælte på kælken",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "14b3d78d-1f48-4591-b9f4-f8f89efb5f6f",
+      "season": 1,
+      "number": 23,
+      "name": "Rutsjebanetur med vennerne",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "f82a4dfe-66d9-422e-8855-e65ee1b156cf",
+      "season": 1,
+      "number": 24,
+      "name": "Stå på ski med faldskærm",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "043f11bc-0dec-4972-bd9b-a2f7a3917fc0",
+      "season": 1,
+      "number": 25,
+      "name": "Sneengel",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "a147fcc2-1e2a-4ff1-a16f-2eb986d47c71",
+      "season": 1,
+      "number": 26,
+      "name": "Bade i det store hav",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5449327e-e64f-4303-89e3-454df5a76da3",
+      "season": 1,
+      "number": 27,
+      "name": "Hoppe i trampolin",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c902dfb0-88c8-4edf-9601-d11809a52a01",
+      "season": 1,
+      "number": 28,
+      "name": "Bygge sandslot på stranden",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "78ea818c-3293-4413-87b7-543f3e35b56a",
+      "season": 1,
+      "number": 29,
+      "name": "Tubbyslide",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e3cd78db-2354-4b8e-87c9-b29ed7eeb65f",
+      "season": 1,
+      "number": 30,
+      "name": "På cykeltur med bedstevennen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "bf24aecc-1e87-4e49-af32-e99f3cbb2971",
+      "season": 1,
+      "number": 31,
+      "name": "Lang rutjebane",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e08b66d4-1274-4d25-acc8-10b11ba6d689",
+      "season": 1,
+      "number": 32,
+      "name": "Svævebane",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c3e39661-a81f-447d-8b74-f73e6e6c8682",
+      "season": 1,
+      "number": 33,
+      "name": "Rutjebanetur med mor",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "58d1e529-91ce-47fe-8900-156a2a9b68f2",
+      "season": 1,
+      "number": 34,
+      "name": "Legetraktor",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "46261356-2680-4ba5-94af-8cb0fb784c23",
+      "season": 1,
+      "number": 35,
+      "name": "Køre i legetraktor",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "aca67313-7a22-44e1-9325-9046dcec006d",
+      "season": 1,
+      "number": 36,
+      "name": "Lave snemand",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "eb3db9d4-171f-4437-a2b8-a89c2741ab0c",
+      "season": 1,
+      "number": 37,
+      "name": "Rulle rundt i sneen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "984d3b58-b6e8-4114-be25-71c95ab38227",
+      "season": 1,
+      "number": 38,
+      "name": "Første gang på ski",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "827c14ef-0138-4b5e-8d93-2d035802a452",
+      "season": 1,
+      "number": 39,
+      "name": "Stå på skøjter",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "04034589-d929-4285-8666-3d5cefbf157a",
+      "season": 1,
+      "number": 40,
+      "name": "Frisbee",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5a5e0ac4-24b6-4efe-b600-e99694fe1b71",
+      "season": 1,
+      "number": 41,
+      "name": "Vejrmøller",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "fd04128d-500d-4a86-9466-c7569e35677f",
+      "season": 1,
+      "number": 42,
+      "name": "Hinkeleg",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "889703bc-897d-47c7-a7a5-dd03f3fb9602",
+      "season": 1,
+      "number": 43,
+      "name": "Hoppe i sjippetov",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "7d346645-b21f-4e6c-8342-6a55551a767b",
+      "season": 1,
+      "number": 44,
+      "name": "Klatre i træer",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d0b7300e-da62-4ce5-a12c-e1f4a90b480b",
+      "season": 1,
+      "number": 45,
+      "name": "Kaste sten i søen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "a5e6b450-0302-4439-8a7f-3fa31301443f",
+      "season": 1,
+      "number": 46,
+      "name": "Glidetur i sneen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b816f5d5-2c64-4df5-8dac-1adff33e705f",
+      "season": 1,
+      "number": 47,
+      "name": "Tur på vippen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "743162ba-07b6-4b81-9dda-b0b59dd1b50f",
+      "season": 1,
+      "number": 48,
+      "name": "Gyngetur",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c529f2cb-6a32-4d57-b136-88831a0ab3a6",
+      "season": 1,
+      "number": 49,
+      "name": "Bobslædetur i hallen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "ff6ae691-56d0-4e85-b96f-88a49f6fec0b",
+      "season": 1,
+      "number": 50,
+      "name": "På legepladsen",
+      "airdate": "2024-02-16"
+    }
+  ]
+}

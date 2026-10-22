@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:ten-pound-poms-britbox",
+  "name": "Ten Pound Poms",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "01be243a-a875-43e8-8948-ed9e3cd3e708",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-08-28"
+    },
+    {
+      "id": "7e75c130-f1dd-4b60-a5b4-de0db302cfa9",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-08-28"
+    },
+    {
+      "id": "970caaa2-195c-4905-b753-0a3d1fd3a837",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-08-28"
+    },
+    {
+      "id": "815aa984-b866-45fc-bfd8-ed7e3690802e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-08-28"
+    },
+    {
+      "id": "bb061737-632c-4e90-804c-924eb27a8a15",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-08-28"
+    },
+    {
+      "id": "062db7ab-22ea-4690-824d-a3e6b4915c3a",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-08-28"
+    }
+  ]
+}

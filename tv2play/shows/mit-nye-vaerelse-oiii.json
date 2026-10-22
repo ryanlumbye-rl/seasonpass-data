@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:mit-nye-vaerelse-oiii",
+  "name": "Mit nye værelse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "14e104b5-dd17-46e9-90d5-c5075845f6ed",
+      "season": 1,
+      "number": 1,
+      "name": "Silas - Skaterværelse med gamerhjørne",
+      "airdate": "2021-01-09"
+    },
+    {
+      "id": "523dd38c-555b-44ec-b3bd-a7ae883ec170",
+      "season": 1,
+      "number": 2,
+      "name": "Iris - Harry Potter-værelse med hemmelig hule ",
+      "airdate": "2021-01-09"
+    },
+    {
+      "id": "82e8bc6b-714f-4d8f-8d6c-ac6b457ff099",
+      "season": 1,
+      "number": 3,
+      "name": "Kerim - Med mini-bio og basketbane",
+      "airdate": "2021-01-09"
+    },
+    {
+      "id": "b6dd5c11-844a-4487-9eb6-8e4f824df68c",
+      "season": 1,
+      "number": 4,
+      "name": "Sarah - Kreaværelse med malervæg",
+      "airdate": "2021-01-09"
+    },
+    {
+      "id": "35a62c4c-eac8-4aae-9731-8d30b6cc9401",
+      "season": 1,
+      "number": 5,
+      "name": "Laura - Personlig teenagehule",
+      "airdate": "2021-01-09"
+    },
+    {
+      "id": "9adb9986-b1ac-40c6-8519-a9298aa40455",
+      "season": 1,
+      "number": 6,
+      "name": "Benjamin - Med eget øvelokale og ekstra etage",
+      "airdate": "2021-01-09"
+    },
+    {
+      "id": "c3c2725c-6517-4381-99a8-2e6498ba61ea",
+      "season": 1,
+      "number": 7,
+      "name": "Sarah - Stilet teenageværelse med personlig farve",
+      "airdate": "2021-01-09"
+    },
+    {
+      "id": "1961939a-a61d-48ad-a960-9f8321b5ac90",
+      "season": 1,
+      "number": 8,
+      "name": "Ida - Lavendelfarve og plads til dans",
+      "airdate": "2021-01-09"
+    },
+    {
+      "id": "e62d7d45-8210-4deb-8ece-798e0a3f242e",
+      "season": 2,
+      "number": 1,
+      "name": "Marius - Rollespilsværelse med magisk skrivebord",
+      "airdate": "2022-01-08"
+    },
+    {
+      "id": "c212a9e8-4e50-4fdf-b47c-32364a806686",
+      "season": 2,
+      "number": 2,
+      "name": "Emma - Det vildeste cirkusværelse",
+      "airdate": "2022-01-08"
+    },
+    {
+      "id": "8ee84bf0-57d3-4fd0-89e9-d178785ef029",
+      "season": 2,
+      "number": 3,
+      "name": "Louie - Med shelter indenfor og planter på væggen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "0c3b67bf-50f0-4c73-802d-6f7b0a779abf",
+      "season": 2,
+      "number": 4,
+      "name": "Josefine fra FredensborgJosefine - Ananas overalt!",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "aeb83eaa-9bde-4f4c-a147-36741e6cabff",
+      "season": 2,
+      "number": 5,
+      "name": "Ludvig - Sovehule og dansesalon",
+      "airdate": "2022-01-22"
+    },
+    {
+      "id": "2895767a-9e19-4ed9-9e3f-92bdc259f11d",
+      "season": 2,
+      "number": 6,
+      "name": "Emma - Fodboldværelse med egen tribune",
+      "airdate": "2022-01-22"
+    },
+    {
+      "id": "67f3c171-3003-443a-a023-6d9d4d3cde21",
+      "season": 2,
+      "number": 7,
+      "name": "Viktor - Spejderværelse med plads til gaming",
+      "airdate": "2022-01-29"
+    },
+    {
+      "id": "6fc95138-dda4-48b9-8118-26705587b0a5",
+      "season": 2,
+      "number": 8,
+      "name": "Norah - Danseværelse med pailletvæg",
+      "airdate": "2022-01-29"
+    },
+    {
+      "id": "cfe29e8a-ff16-4ba8-acd4-da9e08ca8c7f",
+      "season": 3,
+      "number": 1,
+      "name": "Toju & Bolu - Fodbolddrengene får et streetværelse",
+      "airdate": "2023-01-14"
+    },
+    {
+      "id": "bd575212-a71d-48ad-8f55-93c2e646aede",
+      "season": 3,
+      "number": 2,
+      "name": "Asta - Med Marvel og plads til kanin ",
+      "airdate": "2023-01-14"
+    },
+    {
+      "id": "b7493831-49d7-4a8c-af22-b7f3240e2cba",
+      "season": 3,
+      "number": 3,
+      "name": "Elliot - Legoværelse uden lillesøster",
+      "airdate": "2023-01-14"
+    },
+    {
+      "id": "b8919484-8f0d-4933-a1a5-cbd10f66832b",
+      "season": 3,
+      "number": 4,
+      "name": "Olivia - Fra fars kontor til teenagedrømmeværelse",
+      "airdate": "2023-01-14"
+    },
+    {
+      "id": "853f88d5-9279-42d8-9547-85e164654f00",
+      "season": 3,
+      "number": 5,
+      "name": "Sophia - Med himmelseng og blomster i loftet",
+      "airdate": "2023-01-14"
+    },
+    {
+      "id": "1547e572-6292-4370-9e63-b5c0d8d56fe7",
+      "season": 3,
+      "number": 6,
+      "name": "Eva - Med træhytte og stamtræ",
+      "airdate": "2023-01-14"
+    },
+    {
+      "id": "131ae745-0283-4787-bc26-65318797bf63",
+      "season": 3,
+      "number": 7,
+      "name": "Marius - Det ultimative gamerværelse",
+      "airdate": "2023-01-14"
+    },
+    {
+      "id": "0ced5bc7-3e48-4a07-b1e6-411777c14613",
+      "season": 3,
+      "number": 8,
+      "name": "Merle - Brøndbyværelse med hule i skabet",
+      "airdate": "2023-01-14"
+    },
+    {
+      "id": "3c387b58-96f3-4888-9513-981f0ace2668",
+      "season": 4,
+      "number": 1,
+      "name": "Olivia - Cool summervibes og eget lydstudie",
+      "airdate": "2024-01-06"
+    },
+    {
+      "id": "0c2372f8-ae52-4ade-b5c2-8252c482f67f",
+      "season": 4,
+      "number": 2,
+      "name": "Magne - Star Wars-værelse med magisk tv",
+      "airdate": "2024-01-13"
+    },
+    {
+      "id": "a67fe115-6b1c-451e-8282-36e5217ebeca",
+      "season": 4,
+      "number": 3,
+      "name": "Silke - Med egen hjemmebiograf og sommerfuglebord",
+      "airdate": "2024-01-20"
+    },
+    {
+      "id": "32bdf619-7515-4369-9593-88db04956d5a",
+      "season": 4,
+      "number": 4,
+      "name": "David - Ferrari-værelse med krystaller",
+      "airdate": "2024-01-27"
+    },
+    {
+      "id": "e1f2353b-f582-4f66-80ae-ff0f8dbe37cf",
+      "season": 4,
+      "number": 5,
+      "name": "Nova & Dicte - Teenageværelse i Copenhagen style",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "6fb8e0a9-75d7-436d-9952-53f3f850a92b",
+      "season": 4,
+      "number": 6,
+      "name": "Yasin - Gamerhule med plads til vennerne",
+      "airdate": "2024-02-10"
+    },
+    {
+      "id": "5fc5c3d8-0c7c-4777-af7b-2e41a0c1d5b0",
+      "season": 4,
+      "number": 7,
+      "name": "Edward - Naturen ind på værelset!",
+      "airdate": "2024-02-17"
+    },
+    {
+      "id": "a45a210d-4928-406a-93b2-6f9461e33513",
+      "season": 4,
+      "number": 8,
+      "name": "Laura - Flowerpower-værelse med plads til fordybelse ",
+      "airdate": "2024-02-24"
+    },
+    {
+      "id": "4911534c-cf06-478f-9af9-e69b2e09ab79",
+      "season": 5,
+      "number": 1,
+      "name": "Vigga - Basket-lampe og graffitiseng",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "13b4a331-c50d-40e7-a61a-4ad75634836c",
+      "season": 5,
+      "number": 2,
+      "name": "Louis - Kreativt værksted og plantelampe",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "7b053a2a-d1bb-4bec-be21-361b7e24ece3",
+      "season": 5,
+      "number": 3,
+      "name": "Aleena - Hollywoodglam og hotel-følelse",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "dd160908-33cf-4f62-886f-1d05a9fc17c9",
+      "season": 5,
+      "number": 4,
+      "name": "Wilma - Japansk stil med gamingstation",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "9b80caf4-eae1-46ee-86db-e80c994a649c",
+      "season": 5,
+      "number": 5,
+      "name": "Andrea - Cheerleaderværelse med plads",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "367b1d84-1d5e-4ad5-a681-ef1b37cfd431",
+      "season": 5,
+      "number": 6,
+      "name": "Olivia - Egen smykkebutik og lysloft",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "2da1a80b-435d-43aa-8585-c78b398c84d8",
+      "season": 5,
+      "number": 7,
+      "name": "Louie - Tottenham-fodboldværelse",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "b34db74f-649f-477b-b170-5fc6df5b969c",
+      "season": 5,
+      "number": 8,
+      "name": "Xander - Teenageværelse i 'New Yorker'-stil",
+      "airdate": "2026-02-07"
+    }
+  ]
+}

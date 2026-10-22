@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:anders-matthesen-shhh-tv2play",
+  "name": "Anders Matthesen - SHHH!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "83517005-f533-4998-b504-e365114be804",
+      "season": 1,
+      "number": 1,
+      "name": "Del 1",
+      "airdate": "2017-09-08"
+    },
+    {
+      "id": "b16f8da0-1b89-44a4-80bb-afac44df84a3",
+      "season": 1,
+      "number": 2,
+      "name": "Del 2",
+      "airdate": "2017-09-08"
+    }
+  ]
+}

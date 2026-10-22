@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:bamse-og-tyvenes-by-oiii",
+  "name": "Bamse og Tyvenes by",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e3ee2b56-bc57-4871-b0d3-ddcf9b75a337",
+      "season": 1,
+      "number": 1,
+      "name": "Oles fødselsdag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1f933364-76cc-4b74-aa2f-8fc3bbe2c9f9",
+      "season": 1,
+      "number": 2,
+      "name": "Rævens plan",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "204d2545-1b9d-4d2d-bdd0-81f16ea4917c",
+      "season": 1,
+      "number": 3,
+      "name": "Hvor er Farmor?",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b0945de9-c1be-413a-a72d-fdcbabc15e85",
+      "season": 1,
+      "number": 4,
+      "name": "Sliktoget",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cedd3c22-e20a-402e-aced-44780fcda8c9",
+      "season": 1,
+      "number": 5,
+      "name": "Den forladte by",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9efa10ea-e983-4d2d-98c0-1ddc05e95efd",
+      "season": 1,
+      "number": 6,
+      "name": "Tyvetogtet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f2b9b8a5-f41a-44dd-8658-02381952d581",
+      "season": 1,
+      "number": 7,
+      "name": "Ulven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ec604053-a970-4d60-b626-17bcce6b3223",
+      "season": 1,
+      "number": 8,
+      "name": "Den sidste krukke",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3fe4c1b8-cca7-46f4-b42a-89faa2677214",
+      "season": 1,
+      "number": 9,
+      "name": "Fanget!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2effd46c-e196-42cd-af1e-6eb13efc7708",
+      "season": 1,
+      "number": 10,
+      "name": "Omvendt krafthonning",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:alle-goer-det-vel-tv2play",
+  "name": "Alle gør det vel?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "db1095ad-9c25-44f7-b42c-91790761be73",
+      "season": 1,
+      "number": 1,
+      "name": "Looksmaxxing",
+      "airdate": "2026-06-09"
+    },
+    {
+      "id": "ee4c89fa-95fd-48b5-8415-c95f7e8fee43",
+      "season": 1,
+      "number": 2,
+      "name": "Botox i provinsen",
+      "airdate": "2026-06-16"
+    },
+    {
+      "id": "4fb36928-7c0a-415e-8374-5ca9f81386ed",
+      "season": 1,
+      "number": 3,
+      "name": "Det nye normale",
+      "airdate": "2026-06-23"
+    }
+  ]
+}

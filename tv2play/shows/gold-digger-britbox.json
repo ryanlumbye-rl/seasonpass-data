@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:gold-digger-britbox",
+  "name": "Gold Digger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ae4d777b-9eab-4958-9c2c-60db623b7563",
+      "season": 1,
+      "number": 1,
+      "name": "Her Boy",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "b38cf06b-c437-41b8-9d19-07ee77c349e7",
+      "season": 1,
+      "number": 2,
+      "name": "Her Daughter",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "ca7f89b5-6aa7-4887-8ef9-39cf6575444d",
+      "season": 1,
+      "number": 3,
+      "name": "Her Rival",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "9de896ae-7027-49cb-a17d-21836a274c93",
+      "season": 1,
+      "number": 4,
+      "name": "Her Husband",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "d13b2528-1afa-489a-a0d3-aeed2cdde6e8",
+      "season": 1,
+      "number": 5,
+      "name": "Her Baby",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "ffafae36-2a6e-4124-b43f-9475eacd8034",
+      "season": 1,
+      "number": 6,
+      "name": "Her Love",
+      "airdate": "2025-02-26"
+    }
+  ]
+}

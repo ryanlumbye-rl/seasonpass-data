@@ -1,0 +1,164 @@
+{
+  "id": "tv2play:hanna-tv2play",
+  "name": "Hanna",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b98ff747-07d8-4cdd-a3cf-cf6d59b07ea9",
+      "season": 1,
+      "number": 1,
+      "name": "Forest",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "5db2109d-6fcd-403d-b2e5-da41d08dd51b",
+      "season": 1,
+      "number": 2,
+      "name": "Friend",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "b6c1885a-1f7f-4426-a024-7c9bd483044c",
+      "season": 1,
+      "number": 3,
+      "name": "City",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "cf226f01-6b5e-4c3b-afbf-e573eb2bcb3c",
+      "season": 1,
+      "number": 4,
+      "name": "Father",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "1c6a525d-f3ab-4975-98e4-66ece0ea267d",
+      "season": 1,
+      "number": 5,
+      "name": "Town",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "101e3539-f5d4-43e4-9cfd-5a43e2496fa3",
+      "season": 1,
+      "number": 6,
+      "name": "Mother",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "d2c08928-b814-4a02-b87b-9038beea01d9",
+      "season": 1,
+      "number": 7,
+      "name": "Road",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "79b8a429-3982-4fa5-96bf-34855730a35d",
+      "season": 1,
+      "number": 8,
+      "name": "Utrax",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "d11cb3f5-eee0-4759-9195-c8aea8dcda91",
+      "season": 2,
+      "number": 1,
+      "name": "Safe",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "6ad4a004-7f7b-44b8-b289-61b0d2f8cdc1",
+      "season": 2,
+      "number": 2,
+      "name": "The Trial",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "11c828a2-2d19-4094-9ff7-58cc9ef14ea3",
+      "season": 2,
+      "number": 3,
+      "name": "To the Meadows",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "8762122c-bbef-4f6f-997f-7a26d7b3558b",
+      "season": 2,
+      "number": 4,
+      "name": "Welcome Mia",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "554d6a50-d5ce-443b-8048-eb992676c195",
+      "season": 2,
+      "number": 5,
+      "name": "A Way to Grieve",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "ef3bdf2b-f2d5-4bb8-b17b-ad6ced1eb26e",
+      "season": 2,
+      "number": 6,
+      "name": "You're with Us Now",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "a38b6325-32ce-49b6-9cce-694331685a13",
+      "season": 2,
+      "number": 7,
+      "name": "Tacitus",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "8e57b3fd-c63e-4155-9570-9bcd50901ff8",
+      "season": 2,
+      "number": 8,
+      "name": "The List",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "6552dd1d-ee17-47b8-989c-e6088ef51a91",
+      "season": 3,
+      "number": 1,
+      "name": "Résistance",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "adf56890-adf2-47ce-83d5-2a9410c206db",
+      "season": 3,
+      "number": 2,
+      "name": "Grape Vines and an Orange Tree",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "57caf1d0-bb1d-44dd-9f15-a54006663e78",
+      "season": 3,
+      "number": 3,
+      "name": "Nadiya",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "cc1424bb-e2df-43c6-af44-bfbbfb0357bf",
+      "season": 3,
+      "number": 4,
+      "name": "Look Me in the Eye",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "b9f53305-9d01-477a-8639-32e706155c79",
+      "season": 3,
+      "number": 5,
+      "name": "Eyeliner",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "534b97bb-a0d7-44c6-9f46-95009b77f81f",
+      "season": 3,
+      "number": 6,
+      "name": "Do Not Sleep",
+      "airdate": "2025-11-24"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:shaolin-tv2",
+  "name": "Shaolin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f2293a36-5975-4591-b674-392f37599e7c",
+      "season": 1,
+      "number": 1,
+      "name": "Jeg er ligeglad med, hvor kendte I er",
+      "airdate": "2024-01-22"
+    },
+    {
+      "id": "bb845ac6-15b1-4fb9-8658-fc3f6005624d",
+      "season": 1,
+      "number": 2,
+      "name": "I er mine kung-fu-børn",
+      "airdate": "2024-01-29"
+    },
+    {
+      "id": "6e918b7d-5399-4a3d-8821-9ebcce136f0e",
+      "season": 1,
+      "number": 3,
+      "name": "Er du doven, dør du",
+      "airdate": "2024-02-05"
+    },
+    {
+      "id": "a2a98a3f-4e72-45ca-9351-79fbae35e5ab",
+      "season": 1,
+      "number": 4,
+      "name": "Det gør mig glad at se folk græde",
+      "airdate": "2024-02-12"
+    },
+    {
+      "id": "39ffd8ad-b88d-4758-a305-6c275636bb53",
+      "season": 1,
+      "number": 5,
+      "name": "Det handler om at finde sin egen vej",
+      "airdate": "2024-02-19"
+    },
+    {
+      "id": "5b5069d1-665a-49d3-ac49-b1bd15d6d75d",
+      "season": 1,
+      "number": 6,
+      "name": "Smerte dræber smerte",
+      "airdate": "2024-02-26"
+    },
+    {
+      "id": "63dfeba5-b5c9-4bec-9e09-203583fafbbe",
+      "season": 1,
+      "number": 7,
+      "name": "Der ligger alle jeres problemer",
+      "airdate": "2024-03-04"
+    },
+    {
+      "id": "75e7fddc-b295-4364-858a-1fd4a233c602",
+      "season": 1,
+      "number": 8,
+      "name": "Jeg er så stolt af dem",
+      "airdate": "2024-03-11"
+    },
+    {
+      "id": "5c93746f-e610-46d7-b5f9-684639913a6b",
+      "season": 2,
+      "number": 1,
+      "name": "Hvis vi dør, dør vi sammen",
+      "airdate": "2025-02-24"
+    },
+    {
+      "id": "a9482525-7e34-411f-9408-40dfd9f12017",
+      "season": 2,
+      "number": 2,
+      "name": "Hvorfor saboterer jeg mig selv?",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "c5e6f7bb-237e-4cf3-8f95-11329cf7ab74",
+      "season": 2,
+      "number": 3,
+      "name": "Alt kommer indefra",
+      "airdate": "2025-03-10"
+    },
+    {
+      "id": "1706f3c5-83a4-4ed1-a1a3-6826ffbfc4fe",
+      "season": 2,
+      "number": 4,
+      "name": "Perfektion findes ikke",
+      "airdate": "2025-03-17"
+    },
+    {
+      "id": "db026653-a717-425e-b3f0-3b43f859ae6e",
+      "season": 2,
+      "number": 5,
+      "name": "Det skal jeg aldrig gøre igen",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "32d6c638-45fa-4229-9908-4765355ed3ed",
+      "season": 2,
+      "number": 6,
+      "name": "Smerte er midlertidig, lidelse er et valg",
+      "airdate": "2025-03-31"
+    },
+    {
+      "id": "7230a898-99a7-42a1-9a19-b2bcbf3c5869",
+      "season": 2,
+      "number": 7,
+      "name": "Omfavn din fortid",
+      "airdate": "2025-04-07"
+    },
+    {
+      "id": "1e084c08-5317-4561-91ff-b2fbe990affe",
+      "season": 2,
+      "number": 8,
+      "name": "Det her er ikke et show!",
+      "airdate": "2025-04-14"
+    }
+  ]
+}

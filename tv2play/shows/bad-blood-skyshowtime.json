@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:bad-blood-skyshowtime",
+  "name": "Bad Blood",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e2d5b979-5ed5-460a-8257-089dce56a367",
+      "season": 1,
+      "number": 1,
+      "name": "Scar Tissue",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "857723bb-eba6-4b3e-be66-33b35e671a99",
+      "season": 1,
+      "number": 2,
+      "name": "Pacifier",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "a11f5cb4-fe66-4bd3-90e1-b098fa5bc9f8",
+      "season": 1,
+      "number": 3,
+      "name": "Feast or Famine",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "8e908fde-d381-4965-99de-8493372c9cc7",
+      "season": 1,
+      "number": 4,
+      "name": "Home Is Where the Gun Is",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "3acc2c4c-5dcf-4082-859b-e8ec82f9ac72",
+      "season": 1,
+      "number": 6,
+      "name": "You Can Never Hold Back Spring",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "3b66c956-669e-4e5b-b680-d6acda615f2e",
+      "season": 2,
+      "number": 1,
+      "name": "Who Are You?",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "3e370971-3554-4994-9fb3-dc4cb9e6385c",
+      "season": 2,
+      "number": 2,
+      "name": "A Grapefruit Worth 20 Million",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "843b7e35-e0d1-4638-9980-b638b499e94f",
+      "season": 2,
+      "number": 3,
+      "name": "Una Vita Per Una Vita",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "aa4e1bf3-b7e2-439b-a328-7ff9c0bcb343",
+      "season": 2,
+      "number": 4,
+      "name": "That Ship Has Sailed",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "90c87d68-8d24-40fd-a00a-eb9c81fbcfbf",
+      "season": 2,
+      "number": 5,
+      "name": "Disruption and Early Sorrow",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "8adbec4b-20ae-4595-aef1-21de94eaa8ee",
+      "season": 2,
+      "number": 6,
+      "name": "What to Do About Valentina",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "50c1bd7b-5fde-4d45-a117-f742b23744c4",
+      "season": 2,
+      "number": 7,
+      "name": "Lupara Cosoleto",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "e59670e8-15b3-4e44-9f7b-657f6196afa5",
+      "season": 2,
+      "number": 8,
+      "name": "Declan's Choice",
+      "airdate": "2025-08-01"
+    }
+  ]
+}

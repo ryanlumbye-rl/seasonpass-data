@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:gennem-naaleoejet-oiii",
+  "name": "Gennem nåleøjet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "65912d6e-72f2-482c-8ce5-3b00439033b3",
+      "season": 1,
+      "number": 1,
+      "name": "Nomi og Loke",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "b4b138ed-8edd-4951-af94-62d26027f8c0",
+      "season": 1,
+      "number": 2,
+      "name": "Alexander Husum og Cornelia Husted",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "7a633cf0-e9a4-4c55-b9d2-0f2b80caf418",
+      "season": 1,
+      "number": 3,
+      "name": "Mathias Helt og Kathrine Abrahamsen",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "beba04ce-93e1-4171-bfda-a4b0f1a3c8ca",
+      "season": 1,
+      "number": 4,
+      "name": "Lissa Paustian og Signe Kragh",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "7aa51b4c-a1a4-4327-9d01-a906346e7737",
+      "season": 1,
+      "number": 5,
+      "name": "Irina Olsen og Victoria Babenko",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "834fb1cd-7676-4e59-874b-bb9b8a71163a",
+      "season": 1,
+      "number": 6,
+      "name": "Emil og Mikkel Trier",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "144c68eb-1358-49e2-baa1-caa4e08d1831",
+      "season": 1,
+      "number": 7,
+      "name": "Jesper Ole Feit og Mette Søndergaard",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "e3045e5c-08ca-48a0-9f23-121705e683f9",
+      "season": 1,
+      "number": 8,
+      "name": "Micki Cheng og Salomon Stampe",
+      "airdate": "2025-10-11"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:kan-man-dele-et-paradis-tv2play",
+  "name": "Kan man dele et paradis?",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-28",
+  "episodes": [
+    {
+      "id": "ec969e24-55cb-4748-ba94-55be02a475ef",
+      "season": 1,
+      "number": 1,
+      "name": "Da hele verden bankede på",
+      "airdate": "2026-10-21"
+    }
+  ]
+}

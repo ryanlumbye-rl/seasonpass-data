@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:deja-vu-med-froekjaer-tv2charlie",
+  "name": "Deja-vu med Frøkjær",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8d3055a5-517e-4f18-a096-e666fde3b4ed",
+      "season": 3,
+      "number": 1,
+      "name": "Med Nikolaj Stokholm, Anette Støvelbæk og Rasmus Botoft",
+      "airdate": "2023-01-23"
+    },
+    {
+      "id": "a60c62fb-9a13-4d3a-9ef2-1f515d451099",
+      "season": 3,
+      "number": 2,
+      "name": "Med Ghita Nørby og Huxi Bach",
+      "airdate": "2023-01-30"
+    },
+    {
+      "id": "9fadeb3f-c2ed-4f79-a55b-5d44863080dd",
+      "season": 3,
+      "number": 3,
+      "name": "Med Mikkel Beha Erichsen og Birthe Kjær",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "a0618404-a60d-4744-87c3-249c9746033d",
+      "season": 3,
+      "number": 4,
+      "name": "Med Anders Breinholt og Søren Rasted",
+      "airdate": "2023-02-27"
+    },
+    {
+      "id": "777c5f7b-d964-44ef-b370-c54324a3a9cb",
+      "season": 3,
+      "number": 5,
+      "name": "Med Britt Bendixen og Nicolaj Kopernikus",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "da86eadc-1d82-4d34-bee6-adb85f0983e7",
+      "season": 3,
+      "number": 6,
+      "name": "Med Jimmy Jørgensen og Linda P.",
+      "airdate": "2023-03-06"
+    },
+    {
+      "id": "6b147279-3147-4dc8-bad5-346d34583a25",
+      "season": 3,
+      "number": 7,
+      "name": "Med Michael Falch og Remee",
+      "airdate": "2023-03-13"
+    },
+    {
+      "id": "fe6fe74c-365e-42ea-8d5e-fc92ae9be9ae",
+      "season": 3,
+      "number": 8,
+      "name": "Med Sara Bro og Niels Hausgaard",
+      "airdate": "2023-03-13"
+    },
+    {
+      "id": "5a8f878c-cde0-46f9-8059-b06910ea399b",
+      "season": 4,
+      "number": 1,
+      "name": "Rasmus Tantholdt og Mille Dinesen",
+      "airdate": "2024-02-05"
+    },
+    {
+      "id": "187ba3d3-b8d1-4e63-8ea3-ffa7021b36e7",
+      "season": 4,
+      "number": 2,
+      "name": "Jarl Friis-Mikkelsen og Christiane Schaumburg-Müller Åxman",
+      "airdate": "2024-02-12"
+    },
+    {
+      "id": "49fb4e9d-0d78-416a-aacf-b1d6655d6c88",
+      "season": 4,
+      "number": 3,
+      "name": "Martin Brygmann og Signe Lindkvist",
+      "airdate": "2024-02-19"
+    },
+    {
+      "id": "6c1e67f4-fc16-4042-9a31-cd0c546c35b6",
+      "season": 4,
+      "number": 4,
+      "name": "Puk Elgaard og Tobias Dybvad",
+      "airdate": "2024-02-26"
+    },
+    {
+      "id": "24382b48-8d77-44cc-b9d3-ce03901d0667",
+      "season": 4,
+      "number": 5,
+      "name": "Andrea Elisabeth Rudolph og Jesper Binzer",
+      "airdate": "2024-03-04"
+    },
+    {
+      "id": "d3175544-74d1-4f56-a30b-34692b7dde85",
+      "season": 4,
+      "number": 6,
+      "name": "Mette Blomsterberg og Christian Fuhlendorff",
+      "airdate": "2024-03-11"
+    },
+    {
+      "id": "01a75f4a-daf3-453c-b46a-14985f5244b1",
+      "season": 4,
+      "number": 7,
+      "name": "Mia Lyhne og Claus Meyer",
+      "airdate": "2024-03-18"
+    },
+    {
+      "id": "d3d9dca4-609a-4beb-8399-e641917f9db4",
+      "season": 4,
+      "number": 8,
+      "name": "Finn Nørbygaard og Jacob Haugaard",
+      "airdate": "2024-03-25"
+    }
+  ]
+}

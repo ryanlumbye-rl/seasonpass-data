@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:ruths-hotel-tv2",
+  "name": "Ruths Hotel",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1b08601a-8d54-4888-a7c4-642691c5d315",
+      "season": 1,
+      "number": 1,
+      "name": "Onsdag i uge 29",
+      "airdate": "2019-10-09"
+    },
+    {
+      "id": "4d1b5306-40b7-4d72-b98c-14b4c8a2a154",
+      "season": 1,
+      "number": 2,
+      "name": "Sankthansaften",
+      "airdate": "2019-10-09"
+    },
+    {
+      "id": "d42f3fb5-4cc7-42b6-a072-01dbd191eac8",
+      "season": 1,
+      "number": 3,
+      "name": "Den store skaldyrsbuffet",
+      "airdate": "2019-10-16"
+    },
+    {
+      "id": "ace5dee2-56bf-492f-8dd4-a3bfe1801f63",
+      "season": 1,
+      "number": 4,
+      "name": "Diskret jul med et tvist af fransk cuisine",
+      "airdate": "2019-12-10"
+    },
+    {
+      "id": "f21750eb-e4a8-4e8f-95c4-2d7c702a6ff3",
+      "season": 2,
+      "number": 1,
+      "name": "Nytårskur",
+      "airdate": "2022-01-04"
+    },
+    {
+      "id": "cc470b21-f8f3-43f1-9e02-da7e4c78247c",
+      "season": 2,
+      "number": 2,
+      "name": "Pinse",
+      "airdate": "2022-01-04"
+    },
+    {
+      "id": "a130b645-6c46-4425-90ad-b3a2fb805218",
+      "season": 2,
+      "number": 3,
+      "name": "Uge 29, version 2.0",
+      "airdate": "2022-01-11"
+    },
+    {
+      "id": "1aba77a3-9a67-469f-ac3f-f0bc37533183",
+      "season": 2,
+      "number": 4,
+      "name": "Skaldyr & Spritz",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "9132a084-5452-4394-943f-c035b5a3e4f5",
+      "season": 2,
+      "number": 5,
+      "name": "Det store bryllup",
+      "airdate": "2022-01-25"
+    },
+    {
+      "id": "1c37f61a-164e-48b4-9eb0-68a5f8ecf304",
+      "season": 3,
+      "number": 1,
+      "name": "Business as usual",
+      "airdate": "2023-03-14"
+    },
+    {
+      "id": "b81a918f-3d02-4203-baf1-5d81bc5b0473",
+      "season": 3,
+      "number": 2,
+      "name": "Vejen til Michelin",
+      "airdate": "2023-03-21"
+    },
+    {
+      "id": "c48122f9-1b4a-4017-893d-93cba521432a",
+      "season": 3,
+      "number": 3,
+      "name": "Velgørende kokkehuer",
+      "airdate": "2023-03-28"
+    },
+    {
+      "id": "be502630-14b3-4b4d-aed4-850e60fb797d",
+      "season": 3,
+      "number": 4,
+      "name": "Efterår",
+      "airdate": "2023-04-04"
+    }
+  ]
+}

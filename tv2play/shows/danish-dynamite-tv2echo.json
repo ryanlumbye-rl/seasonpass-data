@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:danish-dynamite-tv2echo",
+  "name": "Danish Dynamite",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "609db35a-7bd1-4356-b58c-304d6a93aa8e",
+      "season": 3,
+      "number": 7,
+      "name": "We are red, we are white!",
+      "airdate": "2014-05-12"
+    }
+  ]
+}

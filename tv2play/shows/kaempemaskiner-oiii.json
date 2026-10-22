@@ -1,0 +1,528 @@
+{
+  "id": "tv2play:kaempemaskiner-oiii",
+  "name": "Kæmpemaskiner",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b796eefb-af37-4fac-9bef-d55208895f72",
+      "season": 1,
+      "number": 1,
+      "name": "Træfældningsmaskine",
+      "airdate": "2021-01-23"
+    },
+    {
+      "id": "11239d65-4b93-4860-8422-69084ce7992e",
+      "season": 1,
+      "number": 2,
+      "name": "Præpareringsmaskine",
+      "airdate": "2021-01-23"
+    },
+    {
+      "id": "d3a94bfe-bead-46a8-b557-7b36fc9bdf35",
+      "season": 1,
+      "number": 3,
+      "name": "Gummiged",
+      "airdate": "2021-01-23"
+    },
+    {
+      "id": "ff889fda-93d5-416a-bd2a-5f2964cd8aaa",
+      "season": 1,
+      "number": 4,
+      "name": "Betonblander",
+      "airdate": "2021-01-23"
+    },
+    {
+      "id": "a57a2414-b6b6-4582-9ebb-0dbd5a4800ff",
+      "season": 1,
+      "number": 5,
+      "name": "Valsetog",
+      "airdate": "2021-01-23"
+    },
+    {
+      "id": "bf3ed465-8c28-4c07-9952-403bd10bd916",
+      "season": 1,
+      "number": 6,
+      "name": "Gravemaskine",
+      "airdate": "2021-01-23"
+    },
+    {
+      "id": "c72ba1bc-4cd1-4562-9cce-fb2456f784c5",
+      "season": 2,
+      "number": 1,
+      "name": "Lastbil med kran",
+      "airdate": "2021-05-15"
+    },
+    {
+      "id": "b5962f2a-d1a9-41bd-8041-55eaa81eb8bb",
+      "season": 2,
+      "number": 2,
+      "name": "El-skraldebil",
+      "airdate": "2021-05-15"
+    },
+    {
+      "id": "b2fc438b-b7a0-495d-a64b-548651205b7c",
+      "season": 2,
+      "number": 3,
+      "name": "Traktor med plov",
+      "airdate": "2021-05-15"
+    },
+    {
+      "id": "5b4f1ead-f1d1-404d-89aa-c317833db214",
+      "season": 2,
+      "number": 4,
+      "name": "Tunnel borerig",
+      "airdate": "2021-05-15"
+    },
+    {
+      "id": "786f3149-ec8b-4a91-9fb3-ca06a68d7ee1",
+      "season": 2,
+      "number": 5,
+      "name": "Dumper",
+      "airdate": "2021-05-15"
+    },
+    {
+      "id": "4caa679b-3b5f-42fa-814f-d367fa7f5a97",
+      "season": 2,
+      "number": 6,
+      "name": "Sneplov",
+      "airdate": "2021-05-15"
+    },
+    {
+      "id": "3432d3dc-4447-46cb-b6a1-720c28f6606d",
+      "season": 3,
+      "number": 1,
+      "name": "Mejetærsker",
+      "airdate": "2022-05-26"
+    },
+    {
+      "id": "de6815a2-bb81-4f39-ae24-9ee4b26161b3",
+      "season": 3,
+      "number": 2,
+      "name": "Brandbil",
+      "airdate": "2022-05-26"
+    },
+    {
+      "id": "97302d96-d572-441c-9494-88cce8c428ec",
+      "season": 3,
+      "number": 3,
+      "name": "Bulldozer",
+      "airdate": "2022-05-26"
+    },
+    {
+      "id": "08a0a9f4-d137-4738-891e-380362fddcbc",
+      "season": 3,
+      "number": 4,
+      "name": "Kartoffeloptager",
+      "airdate": "2022-05-26"
+    },
+    {
+      "id": "ac79d00d-99b2-498e-a93d-17998579758d",
+      "season": 3,
+      "number": 5,
+      "name": "Vejhøvl",
+      "airdate": "2022-05-26"
+    },
+    {
+      "id": "dd840c84-e432-450d-b1dc-19907f4c8fa8",
+      "season": 3,
+      "number": 6,
+      "name": "Containerkran",
+      "airdate": "2022-05-26"
+    },
+    {
+      "id": "13619c5c-3198-4ee6-8e4c-b6c5c069f16b",
+      "season": 3,
+      "number": 7,
+      "name": "Chipsfabrik",
+      "airdate": "2022-05-26"
+    },
+    {
+      "id": "8bfa7f04-fe91-40f5-8f6f-53d6b3d47284",
+      "season": 4,
+      "number": 1,
+      "name": "Bilpresse",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "ba640bb8-600a-48db-a4b6-9040e1a1566f",
+      "season": 4,
+      "number": 2,
+      "name": "Legetøjsfabrik",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "c4c4dfe7-e5a5-4a83-97c5-c4aa0c1ef4ad",
+      "season": 4,
+      "number": 3,
+      "name": "Helikopter",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "9420ca78-0026-45f4-b2b2-50cf53cf9b91",
+      "season": 4,
+      "number": 4,
+      "name": "Redningsbåd",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "cfd77f7e-600e-490c-9be7-31bf8637d8f3",
+      "season": 4,
+      "number": 5,
+      "name": "Uldfabrik",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "05b4df8a-b794-4b8c-b83b-edcbc100ce6a",
+      "season": 4,
+      "number": 6,
+      "name": "Isfabrik",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "d48b3fa1-083e-472c-b087-6050308d663d",
+      "season": 4,
+      "number": 7,
+      "name": "Stålfabrik",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "84cb2a33-3fdd-4eb9-bdc8-e624ecc906d4",
+      "season": 5,
+      "number": 1,
+      "name": "Landbrugsmaskiner",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "adcdc1de-7368-4289-a9ac-fe524e3f7139",
+      "season": 5,
+      "number": 2,
+      "name": "Såmaskine",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "1f9045b5-e47f-4d28-87fb-c86a38b7ed7f",
+      "season": 5,
+      "number": 3,
+      "name": "Vandingsmaskine",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "b7cbbc90-062d-49a9-ae5a-91d1cc70ccad",
+      "season": 5,
+      "number": 4,
+      "name": "Minilæsser",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "a6a02e5b-c926-4e50-a702-40396b6777b0",
+      "season": 5,
+      "number": 5,
+      "name": "Æggepakkeri",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "f648c364-90e5-455d-80ef-d81e886652a6",
+      "season": 5,
+      "number": 6,
+      "name": "Malkekarrusel",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "06e73768-dd0c-4a20-9d91-bb6b333144ec",
+      "season": 5,
+      "number": 7,
+      "name": "Foderblander",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "fc856869-49fc-45af-ab2d-6ed337535636",
+      "season": 5,
+      "number": 8,
+      "name": "Skårlægger",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "5dccc0ea-6f4b-4390-863e-9bd841bbddb5",
+      "season": 5,
+      "number": 9,
+      "name": "Ballepresser",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "77f23a0b-be97-490a-babc-446fdc712fab",
+      "season": 5,
+      "number": 10,
+      "name": "Gulerodsoptager",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "38b98c54-d39c-481e-ab39-12811e1b9dbf",
+      "season": 5,
+      "number": 11,
+      "name": "Gulerodspakkeri",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "4f11d7af-ac11-413e-b63a-0bbd8c104549",
+      "season": 5,
+      "number": 12,
+      "name": "Gyllevogn",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "531d49ee-4aca-4b78-a54f-fb5fc024b978",
+      "season": 6,
+      "number": 1,
+      "name": "Lokaltog",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "1b82ce77-6a30-4e0d-8deb-d76df8ac8c14",
+      "season": 6,
+      "number": 2,
+      "name": "Blokvogn",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "f4f4cbe5-7638-47bf-98cb-11eda9f2db45",
+      "season": 6,
+      "number": 3,
+      "name": "Færge",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "42e83033-f27c-4097-9798-c37c76a9d367",
+      "season": 6,
+      "number": 4,
+      "name": "Maskinrum",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "229e8f74-d965-451e-b35a-e20c6bf1c54c",
+      "season": 6,
+      "number": 5,
+      "name": "Togværksted",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "97958ba8-0340-4f91-ab11-066c6069ca92",
+      "season": 6,
+      "number": 6,
+      "name": "Forbrændingsanlæg",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "e28b2f08-9ba7-40e0-8da2-759c22d40b76",
+      "season": 6,
+      "number": 7,
+      "name": "Turistbus",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "968d0cee-a732-4e17-ba84-b69ad3ca3d28",
+      "season": 6,
+      "number": 8,
+      "name": "Kommandopost",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "01cb1e31-e655-4480-83fc-dee1be065ac4",
+      "season": 6,
+      "number": 9,
+      "name": "Vandflyver",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "49f35e37-e093-404f-902a-24b98cd47813",
+      "season": 6,
+      "number": 10,
+      "name": "Kranbil",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "1034be56-273a-417e-85a5-c4c83c77d06f",
+      "season": 6,
+      "number": 11,
+      "name": "Elbus",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "2d56d542-8360-4440-ad5e-a14917644aef",
+      "season": 6,
+      "number": 12,
+      "name": "Havnebus",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "e4447d41-7cb4-4116-b7c8-e4c4852e6d6e",
+      "season": 7,
+      "number": 1,
+      "name": "Snescooter",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "5434d36e-ff6e-48b7-aceb-57589c1828c9",
+      "season": 7,
+      "number": 2,
+      "name": "Pistemaskine med trækspil",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "1c196a28-35f5-4373-92f3-f4358e85a9cc",
+      "season": 7,
+      "number": 3,
+      "name": "Med skipatruljen på arbejde",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "a4ff206d-9a98-48a8-a783-0ee84618bcda",
+      "season": 7,
+      "number": 4,
+      "name": "Snekanon",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "3b4ee9d8-2b91-49bf-a384-b469ef223e0a",
+      "season": 7,
+      "number": 5,
+      "name": "Skiløbet",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "572ccc41-f19e-42dc-b9e8-531c3ee11779",
+      "season": 7,
+      "number": 6,
+      "name": "Sneslyngen",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "b49e2872-5b25-43a4-93a9-c9f3c9025ffd",
+      "season": 7,
+      "number": 7,
+      "name": "Bygger skihop",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "d75ee2f2-9234-409e-9286-23e033677361",
+      "season": 7,
+      "number": 8,
+      "name": "Redningsøvelse fra stoleliften",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "fda6ec90-5b89-4b61-8648-4e0b87458f3a",
+      "season": 7,
+      "number": 9,
+      "name": "Stor slibemaskine",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "5475f6df-aebc-41aa-b61c-8232020548a9",
+      "season": 7,
+      "number": 10,
+      "name": "Stoleliften",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "55d3899c-997b-45c8-b698-4998d4700512",
+      "season": 7,
+      "number": 11,
+      "name": "På skiskole",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "016b8dd2-8d5c-4927-aad5-c08c1ca8fe58",
+      "season": 7,
+      "number": 12,
+      "name": "Laver skøjtebane",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "e0cc968f-e2e4-4adb-8111-38fd9728b1a3",
+      "season": 8,
+      "number": 1,
+      "name": "Kap- og geringssav",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "3a142ae6-2e83-4001-a575-ab66dca57623",
+      "season": 8,
+      "number": 2,
+      "name": "Blæseisolering",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "29fbf8f0-8fd6-4417-b63f-a0d3c9708821",
+      "season": 8,
+      "number": 3,
+      "name": "Betonknuser og magnet",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "2d66d8ea-28a7-4a45-945a-dd7d5498284b",
+      "season": 8,
+      "number": 4,
+      "name": "Bjergsprængning",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "cd08f2ab-6f35-4bb3-8d59-6d055463b0e3",
+      "season": 8,
+      "number": 5,
+      "name": "Bygger jernarmering",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "9fd535f1-c912-4c81-b0d5-2dfcb3f51360",
+      "season": 8,
+      "number": 6,
+      "name": "Samler rør",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "f0ba4084-a43a-4726-8ccf-b1fdf4e32950",
+      "season": 8,
+      "number": 7,
+      "name": "River ned og sorterer",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "3ed555d7-2c1c-4992-b1d5-6639ef73e051",
+      "season": 8,
+      "number": 8,
+      "name": "Laver etage med huldække",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "57d0fb0c-9384-4285-be72-48aaea3309a6",
+      "season": 8,
+      "number": 9,
+      "name": "Støber betonvæg",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "33b914c2-5fc4-47b2-bb54-30fdff952384",
+      "season": 8,
+      "number": 10,
+      "name": "Lægger betongulv",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "b28e754b-3182-41f5-951a-bf9e45c2d75b",
+      "season": 8,
+      "number": 11,
+      "name": "Bygger skorsten",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "7ea3efdb-f003-4616-9982-b8e131bc34d1",
+      "season": 8,
+      "number": 12,
+      "name": "Brøndboring",
+      "airdate": "2026-05-23"
+    }
+  ]
+}

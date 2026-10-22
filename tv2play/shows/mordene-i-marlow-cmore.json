@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:mordene-i-marlow-cmore",
+  "name": "Mordene i Marlow",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bb7e5fb1-49ef-45bc-bb5e-4ad626a986d3",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "cb0c8106-d0c9-491e-809e-47fa5496492a",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "acb8e169-e0da-4abc-bb41-4f3fd2801926",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "4c22beed-e5f2-4fb6-ae35-1a713f17af25",
+      "season": 3,
+      "number": 1,
+      "name": "Giftdronningen",
+      "airdate": "2026-07-07"
+    },
+    {
+      "id": "9b0a815e-2aa2-488b-9f66-ae1f094b1917",
+      "season": 3,
+      "number": 2,
+      "name": "Mord i mørket",
+      "airdate": "2026-07-07"
+    },
+    {
+      "id": "f0cbba3f-13ec-4278-a6c4-65245b0c897e",
+      "season": 3,
+      "number": 3,
+      "name": "Appetit på mord",
+      "airdate": "2026-07-07"
+    }
+  ]
+}

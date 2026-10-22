@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:folkets-dom-tv2bornholm",
+  "name": "Folkets dom",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9d01568b-4bbd-4e9d-b1ba-9f41261b580a",
+      "season": 1,
+      "number": 1,
+      "name": "Pigerne",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "993f4a0e-2a0e-4af8-86ca-61b38907a4b8",
+      "season": 1,
+      "number": 2,
+      "name": "Retfærdighedens pris",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "9eb00ec3-513a-4672-a202-40e752156d1a",
+      "season": 1,
+      "number": 3,
+      "name": "Arven",
+      "airdate": "2025-04-27"
+    }
+  ]
+}

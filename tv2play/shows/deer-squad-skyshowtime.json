@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:deer-squad-skyshowtime",
+  "name": "Deer Squad",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e07c0edd-d04f-4765-b36e-ec7946c78131",
+      "season": 1,
+      "number": 3,
+      "name": "Mallemalurt",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "066af2d6-a45c-43cf-bdf0-5e63b41608dc",
+      "season": 1,
+      "number": 5,
+      "name": "Donutpanik",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "1cd332b4-7919-4d15-adb9-dbd863caa58e",
+      "season": 1,
+      "number": 6,
+      "name": "Det stygge, dybe blå",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "2c445902-4b86-48c0-98fa-71653d9cd51f",
+      "season": 1,
+      "number": 9,
+      "name": "Udskifteren",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "791f59fc-3dd7-4184-b547-5e2fa2ad4d7e",
+      "season": 1,
+      "number": 10,
+      "name": "Stål i rummet",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "9a4b8487-2407-440a-ac94-228b5545f574",
+      "season": 1,
+      "number": 18,
+      "name": "Småt er godt",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d742d117-ba80-44db-984a-39b851de1f30",
+      "season": 3,
+      "number": 1,
+      "name": "Det flyvende tårn",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "7dd2f984-f4fb-482b-ac85-d81f350c5c79",
+      "season": 3,
+      "number": 2,
+      "name": "Rumstationsmysteriet",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "51b0f607-4cd1-4708-9f1c-47ace00ac9b1",
+      "season": 3,
+      "number": 3,
+      "name": "Løbsk hamsterbold",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "ea09cff2-06d9-45c9-a8f6-c1cae2438c8f",
+      "season": 3,
+      "number": 4,
+      "name": "Den hemmelige ø",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "ecff8e66-70b5-4429-906f-b55ed0660371",
+      "season": 3,
+      "number": 5,
+      "name": "Styrke-krystallen",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "489793fa-085f-49ea-aec6-d7894f1f611c",
+      "season": 3,
+      "number": 6,
+      "name": "Du er til grin",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "fe7921e6-fee1-411d-bb4a-caab09891480",
+      "season": 3,
+      "number": 7,
+      "name": "Et dybt dyk",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "e18b1b86-2016-47c0-96ec-194fcdbfffb2",
+      "season": 3,
+      "number": 8,
+      "name": "Kaktustrofæet",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "dfbde948-9a0f-408c-9d80-e5ce951eb4f3",
+      "season": 3,
+      "number": 9,
+      "name": "Sandslotskatastrofen",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "e8f8cb3d-df78-492e-95ea-e26a6656ff9f",
+      "season": 3,
+      "number": 10,
+      "name": "Det store brag",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "ab47ef82-66de-486b-8693-52f19808a1e6",
+      "season": 3,
+      "number": 11,
+      "name": "Skatteskib",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "975b3eea-1d20-4811-bb67-43716b5d9b08",
+      "season": 3,
+      "number": 12,
+      "name": "Flagre-power",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "99ed381a-3863-460c-a62f-b3a464bfa1d3",
+      "season": 3,
+      "number": 13,
+      "name": "Pingvin-panik",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "413bcd5b-674f-469c-9482-7d437322a499",
+      "season": 3,
+      "number": 14,
+      "name": "Eventyrslejr",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "657bba98-e8a5-4710-9b1b-2634645db856",
+      "season": 3,
+      "number": 15,
+      "name": "Opfinderblokering",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "f3b56cc3-b330-40c5-b843-435853d213e0",
+      "season": 3,
+      "number": 16,
+      "name": "Dagen uden regler",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "6c6dfb3b-8bfb-458b-9e08-4eb7192c14a1",
+      "season": 3,
+      "number": 17,
+      "name": "Katrine og slimkrokodillerne",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "11ada475-218f-4738-a2b0-ee1397b8078a",
+      "season": 3,
+      "number": 18,
+      "name": "Hvaltid",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "14ff8c49-d66e-431e-8c50-5015d5e13b05",
+      "season": 3,
+      "number": 19,
+      "name": "Monsterforvirring",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "110a1e14-6dfa-4792-b53b-8a9272b7f93b",
+      "season": 3,
+      "number": 20,
+      "name": "Gemmeleg",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "37dc950f-11b2-432a-81f3-458dd585b1ff",
+      "season": 4,
+      "number": 1,
+      "name": "Ud af isen",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "d3aa1c63-668f-4271-af7e-e903eb42b947",
+      "season": 4,
+      "number": 2,
+      "name": "Boller i rummet",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "16c8299f-ae0d-45f3-b0ef-4abfcc521809",
+      "season": 4,
+      "number": 3,
+      "name": "Pingvinproblemer",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "4af59cd1-3c29-40b6-8cbd-cc8714ba6a62",
+      "season": 4,
+      "number": 4,
+      "name": "Dojobot",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "f1a2c53e-c68b-4cae-a42c-21f4f53f9d48",
+      "season": 4,
+      "number": 5,
+      "name": "Stålstyrke",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "0a6a9cbe-eba7-4d0a-a8a7-5eeb45bf98c9",
+      "season": 4,
+      "number": 6,
+      "name": "Slaskestorm",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "f037989d-f7fe-4ad6-bc74-883fd948292a",
+      "season": 4,
+      "number": 7,
+      "name": "Under-nul-ubådens opstigning",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "3bc2ce38-eab5-4283-ba0d-7d234f797532",
+      "season": 4,
+      "number": 8,
+      "name": "Stålmanden Stål",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "da85ba5b-e1d4-4242-84cc-cbf123958860",
+      "season": 4,
+      "number": 9,
+      "name": "Vinteren kommer",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "a4743f60-985d-4713-952d-d73762af885f",
+      "season": 4,
+      "number": 10,
+      "name": "Musikalsk kaos",
+      "airdate": "2026-08-29"
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "id": "tv2play:kiwi-strit-oiii",
+  "name": "Kiwi & Strit",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ab55b4f8-13cf-4a5c-a3d3-51e89c8e73a2",
+      "season": 1,
+      "number": 1,
+      "name": "Cykeltyven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6d89f1a4-44ed-455b-a6e6-9766cc2fdd04",
+      "season": 1,
+      "number": 2,
+      "name": "Fodbold",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2d0a2bdb-35b7-43b9-9a6a-4a889740dca6",
+      "season": 1,
+      "number": 3,
+      "name": "En mystisk kasse",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "217d97bd-583e-4eb8-ada0-96b38683a4ab",
+      "season": 1,
+      "number": 4,
+      "name": "Fætter",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d9b79926-bf99-4ad6-80cd-d23706bbe103",
+      "season": 1,
+      "number": 5,
+      "name": "Lim",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1a96c1e0-84b9-4071-9ef1-9e49132206a9",
+      "season": 1,
+      "number": 6,
+      "name": "Maleri",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bf77d4d6-6ccb-4eea-9ead-b48ecfba207a",
+      "season": 1,
+      "number": 7,
+      "name": "Forårsrengøring",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4603efa9-d39b-4c78-8b8a-c5ab58d33fd2",
+      "season": 1,
+      "number": 8,
+      "name": "Kiwis kæledyr",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "52437d73-aa17-488a-8443-ebad92ec0076",
+      "season": 1,
+      "number": 9,
+      "name": "Vildt skovdyr",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "60c6b779-6d33-45f3-b2d7-f125324d92ce",
+      "season": 1,
+      "number": 10,
+      "name": "Æbletræ",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ef5d4371-f2a2-49a9-918b-dacb6e27973a",
+      "season": 1,
+      "number": 11,
+      "name": "Larmende ko",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ec2ea15f-cd2b-4c36-9b73-ff353b5528a7",
+      "season": 1,
+      "number": 12,
+      "name": "Cykelløb",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "613cce2e-9be8-49bd-949d-e959a3587276",
+      "season": 1,
+      "number": 13,
+      "name": "Nye naboer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "68bc3fee-8976-4b8a-9456-6045b8e5a5f1",
+      "season": 1,
+      "number": 14,
+      "name": "Flyvemaskine",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e72742fd-5b4c-4aca-ab6b-5fdd3c8224a4",
+      "season": 1,
+      "number": 15,
+      "name": "Kage",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "44577ccd-d5a9-4d3a-94eb-3dd639b5f2a7",
+      "season": 1,
+      "number": 16,
+      "name": "Fløjten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7cde77d9-59a0-49ba-b80a-d3af4163ccb5",
+      "season": 1,
+      "number": 17,
+      "name": "Ballon",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cfa322ff-4ef4-4b85-89ab-fe13be855afb",
+      "season": 1,
+      "number": 18,
+      "name": "Fang koen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "aa9b78a9-b7ba-4935-8fee-e417d08d00d1",
+      "season": 1,
+      "number": 19,
+      "name": "Det nye billede",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3b8f6d36-6312-4846-b85f-0df2274d3e61",
+      "season": 1,
+      "number": 20,
+      "name": "Skihop",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0f832658-72f6-4748-af5c-427df34f1405",
+      "season": 1,
+      "number": 21,
+      "name": "Paraplyer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a1d20a5b-8e9c-4fb0-b713-08f791f55944",
+      "season": 1,
+      "number": 22,
+      "name": "Nye venner",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "992110cb-c0ea-45e7-bdf1-99fae599b9ad",
+      "season": 1,
+      "number": 23,
+      "name": "Vaskedag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e8d41d47-edf7-4644-935f-2a990e54d09f",
+      "season": 1,
+      "number": 24,
+      "name": "Solbad",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8531d273-4c2b-4267-9115-9469ed5ad3e8",
+      "season": 1,
+      "number": 25,
+      "name": "Fotoalbummet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "41c84a8b-ba61-44d7-9e1f-bea4f3d7d4bd",
+      "season": 1,
+      "number": 26,
+      "name": "Syg",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "39beee37-176f-458e-89b6-a576a82529eb",
+      "season": 2,
+      "number": 1,
+      "name": "Maler-gadget",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "10e4d6ea-a308-4fa4-9fea-a15f17c1281d",
+      "season": 2,
+      "number": 2,
+      "name": "Kage-kaos",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "8dac4e41-753b-4c29-a0a1-6b81c17f1f95",
+      "season": 2,
+      "number": 3,
+      "name": "Fødselsdagsgaven",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "f6fed5d5-8481-42eb-9bfd-26a306679f31",
+      "season": 2,
+      "number": 4,
+      "name": "Stor appetit",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "85e25cca-3fee-4e24-958d-5b311471c1de",
+      "season": 2,
+      "number": 5,
+      "name": "Fjollede hatte",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "fa4f7943-56e2-4b5d-b284-005451a15db6",
+      "season": 2,
+      "number": 6,
+      "name": "Fast i træet",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "6aec28ab-2638-4e90-b15a-cfbfbc527c32",
+      "season": 2,
+      "number": 7,
+      "name": "Flyvende tønde-udfordring",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "1a6aee56-8f05-48a2-8dcb-c6d0479d51a2",
+      "season": 2,
+      "number": 8,
+      "name": "Det rejsende nys",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "4ab1eb6a-ba93-4be9-a71f-2c8521bd6e20",
+      "season": 2,
+      "number": 9,
+      "name": "Søvngænger",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "b7f85aa8-7b83-414d-b507-3af61893843a",
+      "season": 2,
+      "number": 10,
+      "name": "Hvis æg er det?",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "60c37440-c251-442a-9f5a-6e7376504549",
+      "season": 2,
+      "number": 11,
+      "name": "De klæbrige snegle",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "6615a8f2-2a8f-44ca-8f15-57efd8709a05",
+      "season": 2,
+      "number": 12,
+      "name": "Sjov harmoni",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "0702d5e9-76c6-47ac-81a1-3de3fc23fb13",
+      "season": 2,
+      "number": 13,
+      "name": "Hjem kære hjem",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "8eae0a21-d8ad-46de-b639-3555ab16a90d",
+      "season": 2,
+      "number": 14,
+      "name": "Flyvende uddannelse",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "8309cd2f-a022-4920-81a2-121d67e6adad",
+      "season": 2,
+      "number": 15,
+      "name": "Ensom ven",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "b4e36dc5-8d4b-4a5f-85dc-cd7db2b53bbc",
+      "season": 2,
+      "number": 16,
+      "name": "Den dyrebare diamant",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "57100c6f-cb41-446f-a4c1-4543e4639c79",
+      "season": 2,
+      "number": 17,
+      "name": "Det er hjælpe-dag!",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "c18fd95d-7ec9-4411-ae4e-249a7d5d5d33",
+      "season": 2,
+      "number": 18,
+      "name": "En mundfuld fugle",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "44ac4d61-dc41-4e5d-a179-999eb266afaa",
+      "season": 2,
+      "number": 19,
+      "name": "Spøgeleg",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "e043396b-bf47-42d4-853f-9d7b965760d2",
+      "season": 2,
+      "number": 20,
+      "name": "Nyt fuglehus",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "32f1a1a1-596f-4e42-8fda-0db19b66e127",
+      "season": 2,
+      "number": 21,
+      "name": "Flyet",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "3d6358a5-45c7-468e-b79a-d50fbb9880f6",
+      "season": 2,
+      "number": 22,
+      "name": "Sæbekassebilen",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "5b38bf25-ca92-4e16-9dcd-51c81250809d",
+      "season": 2,
+      "number": 23,
+      "name": "Ønskebrønden",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "de425144-d801-42e6-8c4c-857044ccdd6c",
+      "season": 2,
+      "number": 24,
+      "name": "Pels-trimmedag",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "baf1e6d5-0606-4947-a625-4de94cab2a88",
+      "season": 2,
+      "number": 25,
+      "name": "Skattekortet",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "92a53412-98b5-4842-b5a4-a6a410041668",
+      "season": 2,
+      "number": 26,
+      "name": "Den løbske hat",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "1c3d42e2-3eb9-4d39-a214-f2b696d26fdd",
+      "season": 3,
+      "number": 1,
+      "name": "Sneboldkampen",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "1ceb1fa5-5ece-4843-a78d-180d9ecb3b12",
+      "season": 3,
+      "number": 2,
+      "name": "Ting har ben",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "4c2e4e51-4c9e-45c9-8fb4-b876f1c166a4",
+      "season": 3,
+      "number": 3,
+      "name": "Den fulgte mig hjem",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "cd7737d0-c055-449b-b139-675d1ba03c11",
+      "season": 3,
+      "number": 4,
+      "name": "Mudderpølen",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "24943d8d-f7d8-4aa3-8b5c-97c4e006f452",
+      "season": 3,
+      "number": 5,
+      "name": "Den stjålne fest",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "5d663ddb-4fd7-4a36-9d36-71dd5dcb3d6b",
+      "season": 3,
+      "number": 6,
+      "name": "Juletræ",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "7d313c89-40ef-42c5-8d9b-8f08aeb195d6",
+      "season": 3,
+      "number": 7,
+      "name": "Den fordoblende tryllestav",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "2ee9e6f1-8199-427c-8683-8c876addcf64",
+      "season": 3,
+      "number": 8,
+      "name": "Lad os danse",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "d72d1095-6247-40d8-944b-817555165b93",
+      "season": 3,
+      "number": 9,
+      "name": "Huspassere",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "2c3ca67b-6f45-4346-8e4b-78e29be17dc2",
+      "season": 3,
+      "number": 10,
+      "name": "Søvngænger",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "f6c772fc-1b20-4948-b665-de401bf40d28",
+      "season": 3,
+      "number": 11,
+      "name": "Tag skraldet ud",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "4ca280ef-e94a-4672-91c6-a46d63fad905",
+      "season": 3,
+      "number": 12,
+      "name": "Den smukke sang",
+      "airdate": "2022-11-01"
+    },
+    {
+      "id": "4f287fd7-51f2-4d5d-827a-6b2299f9cd9c",
+      "season": 3,
+      "number": 13,
+      "name": "Ski-overraskelse",
+      "airdate": "2022-11-01"
+    }
+  ]
+}

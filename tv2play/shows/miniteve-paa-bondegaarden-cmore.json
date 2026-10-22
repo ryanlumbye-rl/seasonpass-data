@@ -1,0 +1,346 @@
+{
+  "id": "tv2play:miniteve-paa-bondegaarden-cmore",
+  "name": "Miniteve: På bondegården",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "81e74c50-3b3f-4701-af3a-4a9d2b9bee0b",
+      "season": 1,
+      "number": 1,
+      "name": "Køerne stanger",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "ec19f5d8-56d5-4535-b82d-affd394e7908",
+      "season": 1,
+      "number": 2,
+      "name": "Køer spiser græs",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "a40ea8da-8427-479f-99ab-9d1a6d350cb9",
+      "season": 1,
+      "number": 3,
+      "name": "Geder",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "cc713ae9-2230-43d8-9d67-d72172c80c8d",
+      "season": 1,
+      "number": 4,
+      "name": "Fåret bræger",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "0741b796-c18f-48ce-8f07-016d1b692ade",
+      "season": 1,
+      "number": 5,
+      "name": "Ged",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "9c7bcaf0-f9ca-467c-bb2e-37c2f01d0d39",
+      "season": 1,
+      "number": 6,
+      "name": "Grise spiser og sover",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "54198638-5ed0-4eb5-a822-c000c08cbd4a",
+      "season": 1,
+      "number": 7,
+      "name": "Gris drikker af vandhanen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4a0de9c4-fc69-4051-9ffe-da0ecdeb8b17",
+      "season": 1,
+      "number": 8,
+      "name": "Gris leder efter mad",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5a0895be-b7ac-4a2b-917f-1f1e62b04642",
+      "season": 1,
+      "number": 9,
+      "name": "Grise sover i skyggen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "985d08d5-c583-450c-bc55-537de8e4166d",
+      "season": 1,
+      "number": 10,
+      "name": "Mus",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "1c32ff97-ae00-4e9f-b629-6ce179087390",
+      "season": 1,
+      "number": 11,
+      "name": "Hest drikker vand",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "94c35cea-9518-4f17-9fb5-e47b8ab04262",
+      "season": 1,
+      "number": 12,
+      "name": "Hest spiser",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "27c03215-20e5-429b-bde5-0b458b41a4c6",
+      "season": 1,
+      "number": 13,
+      "name": "Heste",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "a23c5ede-5236-4a40-9df6-90e81e922aa6",
+      "season": 1,
+      "number": 14,
+      "name": "Undulat",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "bc3acf91-38a3-43fb-93df-92851e0ebda1",
+      "season": 1,
+      "number": 15,
+      "name": "Heste kæler",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "2f02c510-3115-493c-ba0a-b02db3cc138f",
+      "season": 1,
+      "number": 16,
+      "name": "Gnavere",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "de80907d-4d81-441a-a408-9053024f2d46",
+      "season": 1,
+      "number": 17,
+      "name": "Køerne danser",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "64299a60-b0db-41ff-a60c-2226b442e395",
+      "season": 1,
+      "number": 18,
+      "name": "Køerne stanger",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e6d0c438-8384-4b4c-b830-a746d644ace5",
+      "season": 1,
+      "number": 19,
+      "name": "Kat sniger sig i græsset",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c0a56e52-04f5-4e29-9aff-a665ccc4ecfd",
+      "season": 1,
+      "number": 20,
+      "name": "Rotte",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5c9a6790-0b4c-4cef-a963-c288b0cc5370",
+      "season": 1,
+      "number": 21,
+      "name": "Lille kat sover i sommervarmen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "50be0c02-2ed0-4e8b-b5db-73e0d945bc14",
+      "season": 1,
+      "number": 22,
+      "name": "Hund bader",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "dea31cda-d5f8-4d41-be70-736c66494384",
+      "season": 1,
+      "number": 23,
+      "name": "Hund henter",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4922d258-a130-4427-90df-a2bfdc65faea",
+      "season": 1,
+      "number": 24,
+      "name": "Hund hopper over forhindring",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "ec82442c-7e5f-4157-88e7-afa4645967e4",
+      "season": 1,
+      "number": 25,
+      "name": "Hunde leger med hinanden",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "27462964-ca70-414b-99c5-e4c9780d1907",
+      "season": 1,
+      "number": 26,
+      "name": "Hund og ejer i tovtrækning",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "0b5ecc7b-32e7-45ce-a1a7-5e79a6c8be24",
+      "season": 1,
+      "number": 27,
+      "name": "Hund giver high five",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b9249a0a-9f51-457c-8768-fdde14c6860b",
+      "season": 1,
+      "number": 28,
+      "name": "Hund drikker",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "beff5703-e3ea-4ddf-b5bb-2d02cd4a16b7",
+      "season": 1,
+      "number": 29,
+      "name": "Tre små ponyer",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "30dc0ced-8c61-45da-b20d-b77be1afa210",
+      "season": 1,
+      "number": 30,
+      "name": "Mejetærsker",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d2a363f1-6b23-4856-acdf-2bed99fd16dc",
+      "season": 1,
+      "number": 31,
+      "name": "Ged",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "116f7f5d-ab55-461f-b737-7f19a64ff3bd",
+      "season": 1,
+      "number": 32,
+      "name": "Gnider næse med min lille pony",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "fd30bc5f-4192-46de-8cee-dfaedba98588",
+      "season": 1,
+      "number": 33,
+      "name": "Kattekilling på eventyr",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6bf5057d-d319-4c92-8f4f-8bd7013ecd5c",
+      "season": 1,
+      "number": 34,
+      "name": "Ridebanespringning",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6b929da9-06f0-4bfc-81ce-fc88a308f77a",
+      "season": 1,
+      "number": 35,
+      "name": "Min fine hest og jeg",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "11c177d9-c2f1-42fa-afe2-eff01f2de4be",
+      "season": 1,
+      "number": 36,
+      "name": "Kanin drikker vand",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "fdb317b2-5650-4b62-b2f7-cb8ffec48397",
+      "season": 1,
+      "number": 37,
+      "name": "Kanin klør sig",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d5e8b9be-bc19-4a72-b866-6741c261dfa2",
+      "season": 1,
+      "number": 38,
+      "name": "Lille hvid kanin æder blade og græs",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d30811e8-c97a-43f1-bca0-7895022284a3",
+      "season": 1,
+      "number": 39,
+      "name": "Høns",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5236a17b-728a-4b0c-9f6f-5cda37306dbf",
+      "season": 1,
+      "number": 40,
+      "name": "Kører traktor",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5b4b6010-2db3-46ab-8c11-26eb085f92c5",
+      "season": 1,
+      "number": 41,
+      "name": "Stor rød traktor klipper græs",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "038951c4-f29b-4d6e-89a9-38cc6983ebc2",
+      "season": 1,
+      "number": 42,
+      "name": "Alle kaniner æder",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "159b52dd-54ab-4b9f-9b8a-459487dd7f6d",
+      "season": 1,
+      "number": 43,
+      "name": "Kæler med min kaninunge",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "7390fc4d-06a9-40e6-88b4-b5293d6b782a",
+      "season": 1,
+      "number": 44,
+      "name": "De sødeste hundehvalpe",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "cfae1288-e42b-48f1-ac03-e051c5ce8805",
+      "season": 1,
+      "number": 45,
+      "name": "Kattekilling",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "92b447d2-db44-4fc4-84fa-16cb88831850",
+      "season": 1,
+      "number": 46,
+      "name": "Kattekillinger",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "244bf1ab-bab8-4e57-8a27-ece30f8e263b",
+      "season": 1,
+      "number": 47,
+      "name": "Gris",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5bee7ee8-9bb0-42d2-a734-5da577ce0691",
+      "season": 1,
+      "number": 48,
+      "name": "Kattemor og killinger",
+      "airdate": "2024-02-16"
+    }
+  ]
+}

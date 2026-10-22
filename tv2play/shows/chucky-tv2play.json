@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:chucky-tv2play",
+  "name": "Chucky",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b0b1dbfb-a85d-4870-b2d0-4231f40b79f4",
+      "season": 3,
+      "number": 1,
+      "name": "Murder at 1600",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "40889d49-8a2b-4576-a06e-59c5a648b863",
+      "season": 3,
+      "number": 2,
+      "name": "Let the Right One In",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "a4c2dc87-9639-4886-960e-cb69a102df4a",
+      "season": 3,
+      "number": 3,
+      "name": "Jennifer's Body",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "5833ce7f-449b-4756-9b44-a81b6943730f",
+      "season": 3,
+      "number": 4,
+      "name": "Dressed to Kill",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "c4d377a4-fe03-4d10-9363-1650539fee3e",
+      "season": 3,
+      "number": 5,
+      "name": "Death Becomes Her",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "33101b07-6993-4caa-be16-5e7f6739e5a0",
+      "season": 3,
+      "number": 6,
+      "name": "Panic Room",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "46a018d2-2965-4ef6-af8f-86d2535a1ce1",
+      "season": 3,
+      "number": 7,
+      "name": "There Will Be Blood",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "2d868307-dc3c-4d2e-9c66-9cc49e28e325",
+      "season": 3,
+      "number": 8,
+      "name": "Final Destination",
+      "airdate": "2026-10-14"
+    }
+  ]
+}

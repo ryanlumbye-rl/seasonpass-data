@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:jagten-paa-norges-farligste-kvinde-tv2play",
+  "name": "Jagten på Norges farligste kvinde",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "55150ffd-1054-426f-8c96-166d941e19f2",
+      "season": 1,
+      "number": 1,
+      "name": "Operation Hotel",
+      "airdate": "2026-04-13"
+    },
+    {
+      "id": "5b0f4bf6-75f9-48c7-8103-9fc6882ba7f4",
+      "season": 1,
+      "number": 2,
+      "name": "Tænk, hvis du er politi?",
+      "airdate": "2026-04-20"
+    }
+  ]
+}

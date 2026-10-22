@@ -1,0 +1,1053 @@
+{
+  "id": "tv2play:franske-droemmeslotte-tv2fri",
+  "name": "Franske drømmeslotte",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f07bde8d-249c-45fd-931e-f501bca7d318",
+      "season": 2,
+      "number": 1,
+      "name": "En ny balsal",
+      "airdate": "2022-03-21"
+    },
+    {
+      "id": "2230dca9-5d0e-4214-87aa-026e43f21a37",
+      "season": 2,
+      "number": 2,
+      "name": "Fra orangeri til receptionsområde",
+      "airdate": "2022-03-21"
+    },
+    {
+      "id": "cf343e98-48d5-472b-a0c6-b8578df914b5",
+      "season": 2,
+      "number": 3,
+      "name": "Kreativitet med børnene",
+      "airdate": "2022-03-22"
+    },
+    {
+      "id": "b0f6011d-686c-4ca4-967a-737551a16d69",
+      "season": 2,
+      "number": 4,
+      "name": "Haveprojekter",
+      "airdate": "2022-03-22"
+    },
+    {
+      "id": "782ee3c0-1a7e-4ef4-aaa5-37655567eae5",
+      "season": 2,
+      "number": 5,
+      "name": "Forsinkelser og pauser",
+      "airdate": "2022-03-23"
+    },
+    {
+      "id": "802777c9-e5ce-4c7d-bbad-ca2d98a6ab86",
+      "season": 2,
+      "number": 6,
+      "name": "Termitter i gulvet",
+      "airdate": "2022-03-23"
+    },
+    {
+      "id": "36f6e3e5-26ce-4636-8657-7bd9a77a4626",
+      "season": 2,
+      "number": 7,
+      "name": "En overdådig seng",
+      "airdate": "2022-03-24"
+    },
+    {
+      "id": "c4bf7cab-dc54-48e2-989f-957e0a1bdfbf",
+      "season": 2,
+      "number": 8,
+      "name": "Fra vinbutik til bryllupslokale",
+      "airdate": "2022-03-24"
+    },
+    {
+      "id": "916e658f-2b5b-4ff5-bfa9-94deefc42d9f",
+      "season": 2,
+      "number": 9,
+      "name": "Dansegulv med lys i",
+      "airdate": "2022-03-25"
+    },
+    {
+      "id": "7d430977-53e0-4233-b6c3-3dfe9ac5078f",
+      "season": 2,
+      "number": 10,
+      "name": "Tænk ud af boksen",
+      "airdate": "2022-03-25"
+    },
+    {
+      "id": "a2647a63-92d6-49a1-86e7-60cbb3d414bb",
+      "season": 2,
+      "number": 11,
+      "name": "Ildsted og havearbejde",
+      "airdate": "2022-03-28"
+    },
+    {
+      "id": "43607bd2-ca3d-4de3-9071-782cc506b2f9",
+      "season": 2,
+      "number": 12,
+      "name": "Galleri og pool",
+      "airdate": "2022-03-28"
+    },
+    {
+      "id": "165ef76b-aaf6-416b-8e8f-2280c4926047",
+      "season": 2,
+      "number": 13,
+      "name": "Porcelænsudstilling",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "6c83fe1c-d9da-46e7-87a4-63530a32ce8c",
+      "season": 2,
+      "number": 14,
+      "name": "Tårnprojekt og træhus",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "05d5bad6-e90d-4f01-b2f5-a949fa194086",
+      "season": 2,
+      "number": 15,
+      "name": "Pool og bryllupsdag",
+      "airdate": "2022-03-30"
+    },
+    {
+      "id": "e833d327-651a-4204-8411-480569befd42",
+      "season": 2,
+      "number": 16,
+      "name": "Fra stald til gæstehus",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "376b0c81-628f-4c0e-82d1-9a8aa896a023",
+      "season": 2,
+      "number": 17,
+      "name": "Den formelle have",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "de2dc9f7-3cbb-4147-b4f4-93e5df20c8ad",
+      "season": 2,
+      "number": 18,
+      "name": "En magisk sti",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "c73dd5f1-ea64-4758-9c96-7b56b3c24f8e",
+      "season": 2,
+      "number": 19,
+      "name": "Yoga-retreat",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "47818c2a-d24f-40c4-8582-88bcedc625fc",
+      "season": 2,
+      "number": 20,
+      "name": "Loppemarked og blomsterfestival",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "70995776-26ca-4fc6-b00a-550206d7a38f",
+      "season": 2,
+      "number": 21,
+      "name": "Vinduesskodder",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "e4a4a435-f74f-4f58-ad5a-6c157bbb63eb",
+      "season": 2,
+      "number": 22,
+      "name": "Familieterrassen",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "a67d8f01-d37c-45e1-9438-ea49dd6dea13",
+      "season": 2,
+      "number": 23,
+      "name": "Antik vinpresser",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "2ca27f3a-34dc-47b5-b267-16509dd05324",
+      "season": 2,
+      "number": 24,
+      "name": "Picnic",
+      "airdate": "2022-06-11"
+    },
+    {
+      "id": "dec31024-5f56-404c-9ea7-93636fb11095",
+      "season": 2,
+      "number": 25,
+      "name": "Broen over voldgraven",
+      "airdate": "2022-06-18"
+    },
+    {
+      "id": "c50785a5-67ba-4457-928a-8f0323e3b5c4",
+      "season": 2,
+      "number": 26,
+      "name": "Festsal og grill",
+      "airdate": "2022-06-18"
+    },
+    {
+      "id": "03674d30-94c8-46fc-aedf-4cac582d6ef5",
+      "season": 2,
+      "number": 27,
+      "name": "Udendørsbar",
+      "airdate": "2022-06-18"
+    },
+    {
+      "id": "1bff8650-9918-4433-bae0-906b6d1a5cf6",
+      "season": 2,
+      "number": 28,
+      "name": "Et boblebad",
+      "airdate": "2022-06-18"
+    },
+    {
+      "id": "75062b3a-a274-4230-9626-98a8ba6911cc",
+      "season": 2,
+      "number": 29,
+      "name": "Et familiefristed",
+      "airdate": "2022-06-18"
+    },
+    {
+      "id": "ed81ea34-a112-4a79-9572-0a7052daa27e",
+      "season": 2,
+      "number": 30,
+      "name": "Den gamle voldgrav",
+      "airdate": "2022-06-18"
+    },
+    {
+      "id": "c0e53cd3-b9d5-44c4-a783-76a2c93104f5",
+      "season": 2,
+      "number": 31,
+      "name": "Væk med værktøjet",
+      "airdate": "2022-11-27"
+    },
+    {
+      "id": "6dde5f51-68a1-422e-aacc-4d3845e74e3e",
+      "season": 2,
+      "number": 32,
+      "name": "Et specielt juleparty",
+      "airdate": "2022-12-04"
+    },
+    {
+      "id": "e7f4fc47-49b6-49c1-a768-fd5f0d3da478",
+      "season": 2,
+      "number": 33,
+      "name": "Juletræ og vinkælder",
+      "airdate": "2022-12-11"
+    },
+    {
+      "id": "3f8efe75-603b-490a-a896-4f9f1a85968c",
+      "season": 2,
+      "number": 34,
+      "name": "Pynt og klokke",
+      "airdate": "2022-12-18"
+    },
+    {
+      "id": "c13798a8-515a-441c-b067-c7b2c858e1dd",
+      "season": 4,
+      "number": 1,
+      "name": "Luksus og kulde",
+      "airdate": "2024-04-21"
+    },
+    {
+      "id": "521e3faa-986d-4fd7-a521-9e2be50bf8eb",
+      "season": 4,
+      "number": 2,
+      "name": "Et ræs mod tiden",
+      "airdate": "2024-04-28"
+    },
+    {
+      "id": "4028a903-1023-42b7-b258-1130e0cc4ef4",
+      "season": 4,
+      "number": 3,
+      "name": "Højt til loftet",
+      "airdate": "2024-04-28"
+    },
+    {
+      "id": "e5cb6115-54bc-48a2-8b78-a810d414ea6d",
+      "season": 4,
+      "number": 4,
+      "name": "Der skal fart på",
+      "airdate": "2024-05-05"
+    },
+    {
+      "id": "d8a0f82f-be1b-4b18-9328-d38b32626a58",
+      "season": 4,
+      "number": 5,
+      "name": "En stor middag",
+      "airdate": "2024-05-05"
+    },
+    {
+      "id": "ced9ba0b-51b7-4249-881e-a3d97df3e54b",
+      "season": 4,
+      "number": 6,
+      "name": "Fra vintønde til spisested",
+      "airdate": "2024-05-05"
+    },
+    {
+      "id": "c5d56122-47ef-41da-9395-a674ff1e0189",
+      "season": 4,
+      "number": 7,
+      "name": "Buede udfordringer",
+      "airdate": "2024-05-12"
+    },
+    {
+      "id": "e61af8aa-3a01-4fec-9f0d-7aa9ffb1a212",
+      "season": 4,
+      "number": 8,
+      "name": "Overraskelser i massevis",
+      "airdate": "2024-05-12"
+    },
+    {
+      "id": "82c7f8e1-9cd4-4ead-ad90-efec40506126",
+      "season": 4,
+      "number": 9,
+      "name": "Fra lade til natklub",
+      "airdate": "2024-05-19"
+    },
+    {
+      "id": "f889cce5-6f5d-4504-9279-80cd30a993c3",
+      "season": 4,
+      "number": 10,
+      "name": "Murstensvægge og insekthoteller",
+      "airdate": "2024-05-19"
+    },
+    {
+      "id": "cde7d038-a031-4679-817a-94725b4439f6",
+      "season": 4,
+      "number": 11,
+      "name": "Nyt i naturen",
+      "airdate": "2024-05-21"
+    },
+    {
+      "id": "98a346c3-9aac-4249-87cf-3b76b8e056cb",
+      "season": 4,
+      "number": 12,
+      "name": "Fra gammelt til smukt",
+      "airdate": "2024-05-21"
+    },
+    {
+      "id": "a9971553-e93a-45e6-8c61-3561fa78953a",
+      "season": 4,
+      "number": 13,
+      "name": "I medgang og modgang",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "fc522d3e-1c13-43db-9792-04b51ba4c43c",
+      "season": 4,
+      "number": 14,
+      "name": "Uenigheder på slottet",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "38a1e194-d7b6-4afc-87f8-eec102b38353",
+      "season": 4,
+      "number": 15,
+      "name": "Drømmehjem eller ej",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "2ae1006a-f54e-49de-b74b-bd49db23f171",
+      "season": 4,
+      "number": 16,
+      "name": "Vand og vindeltrapper",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "ccbd1a2b-de9a-4891-a6b9-15364cb68c5c",
+      "season": 4,
+      "number": 17,
+      "name": "Haveprojekter",
+      "airdate": "2024-05-24"
+    },
+    {
+      "id": "1c378014-c8e0-4127-9e8a-6abd432c7740",
+      "season": 4,
+      "number": 18,
+      "name": "Gæster i massevis",
+      "airdate": "2024-05-24"
+    },
+    {
+      "id": "f52d1a93-4cb9-46d8-b2ef-359e52218b8c",
+      "season": 4,
+      "number": 19,
+      "name": "Køer og bier",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "0193dad3-8583-4b9a-8f6a-3c304ba194c2",
+      "season": 4,
+      "number": 20,
+      "name": "En dag i naturen",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "05c57ff0-6c0f-42f3-a56d-f51062da50c5",
+      "season": 4,
+      "number": 21,
+      "name": "Brandskader og teselskab",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "1d08fe49-0b50-4aff-9393-7c8be6044085",
+      "season": 4,
+      "number": 22,
+      "name": "Fest og farver",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "5d215d40-5bdf-40c9-a65b-2f89417ebe62",
+      "season": 4,
+      "number": 23,
+      "name": "Tovtrækning og tekøkken",
+      "airdate": "2024-05-29"
+    },
+    {
+      "id": "420faacb-817e-48ec-8b9b-24ea2fdfdfe9",
+      "season": 4,
+      "number": 24,
+      "name": "Nok at se til",
+      "airdate": "2024-05-29"
+    },
+    {
+      "id": "044b1f51-c9a2-4676-90a7-fc0fa1b7f291",
+      "season": 4,
+      "number": 25,
+      "name": "Kok, køkken og koldt",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "052368e2-fa57-4c2e-b334-e195df151a0c",
+      "season": 4,
+      "number": 26,
+      "name": "100-års jubilæum",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "9f17e4b5-f361-441e-89a6-b4a32cdca563",
+      "season": 4,
+      "number": 27,
+      "name": "Fødselsdagsfest for mor",
+      "airdate": "2024-05-31"
+    },
+    {
+      "id": "409c458f-ff7d-4ec6-bd61-cb510edfce20",
+      "season": 4,
+      "number": 28,
+      "name": "Bryllupsklokkerne ringer",
+      "airdate": "2024-05-31"
+    },
+    {
+      "id": "7b96bcf5-5920-4012-876f-06201fef4cb7",
+      "season": 4,
+      "number": 29,
+      "name": "Balance og oversvømmelse",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "83b1de95-b814-4ce1-a437-360b43b3cef7",
+      "season": 4,
+      "number": 30,
+      "name": "Den franske drøm",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "58800db9-b209-4097-9c18-353d5c96ce86",
+      "season": 4,
+      "number": 31,
+      "name": "Tid til julefest",
+      "airdate": "2024-06-04"
+    },
+    {
+      "id": "9495a61a-1952-44e2-b5d1-f6cf51024477",
+      "season": 4,
+      "number": 32,
+      "name": "En flyvende slæde",
+      "airdate": "2024-06-04"
+    },
+    {
+      "id": "1eca54d1-79dc-40b3-b5c7-9fac42131c30",
+      "season": 4,
+      "number": 33,
+      "name": "En bæredygtig jul",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "577e0b02-124f-4763-b053-2f11af667dfb",
+      "season": 4,
+      "number": 34,
+      "name": "Jul, jul, jul",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "45faab1c-16bc-4192-b5b2-b893ce7c4ae5",
+      "season": 4,
+      "number": 35,
+      "name": "Jul alle vegne",
+      "airdate": "2024-06-06"
+    },
+    {
+      "id": "c5aa03ca-bff4-4077-9097-47be13049743",
+      "season": 5,
+      "number": 1,
+      "name": "På vej mod en drøm",
+      "airdate": "2025-04-06"
+    },
+    {
+      "id": "a6774810-e112-429e-af23-20d37a270581",
+      "season": 5,
+      "number": 2,
+      "name": "Perfektion på slottet",
+      "airdate": "2025-04-06"
+    },
+    {
+      "id": "aa822830-a92b-4c83-8faf-55d95d4cdca4",
+      "season": 5,
+      "number": 3,
+      "name": "Klar, parat, bryllup",
+      "airdate": "2025-04-13"
+    },
+    {
+      "id": "624a9499-fddf-4956-98a7-646a753f8174",
+      "season": 5,
+      "number": 4,
+      "name": "En unik vinbutik",
+      "airdate": "2025-04-13"
+    },
+    {
+      "id": "dd8fe547-3682-4f60-9c16-ba158cc7fd1f",
+      "season": 5,
+      "number": 5,
+      "name": "Bryllup og BBQ",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "dd0985b9-f3e0-41cf-b044-6d81ef951968",
+      "season": 5,
+      "number": 6,
+      "name": "Et ambitiøst projekt",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "3ff7ea6c-ea66-4509-ae05-f5f5c41c8372",
+      "season": 5,
+      "number": 7,
+      "name": "Gæsterne er på vej",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "33d03c54-c71c-4ecd-a13a-19625e3b57fb",
+      "season": 5,
+      "number": 8,
+      "name": "Findes drømmehjemmet?",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "4728c875-6e85-4e65-a8fe-2512da7b1036",
+      "season": 5,
+      "number": 9,
+      "name": "Nye beboere på slottet",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "d4404568-7921-401d-9a89-331b92c3b803",
+      "season": 5,
+      "number": 10,
+      "name": "En kærlig hånd til facaden",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "ef096090-d2b7-49e2-8aa8-4f61fba0b994",
+      "season": 5,
+      "number": 11,
+      "name": "En historisk vintønde",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "1fd7fcf2-05bc-4a2a-9510-5af9127e5261",
+      "season": 5,
+      "number": 12,
+      "name": "Fødselsdag og forvandlinger",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "b2c1fa8a-c8d4-4844-8c92-1c55e470e93b",
+      "season": 5,
+      "number": 13,
+      "name": "Den store flyttedag",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "536068b8-fcf9-43c7-a42a-f7f741713fa9",
+      "season": 5,
+      "number": 14,
+      "name": "Renovering og de rigtige mål",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "a5e28f5e-a9b3-49f1-840c-27c61f344a62",
+      "season": 5,
+      "number": 15,
+      "name": "Pool, pejs og plantegning",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "b0260074-bd69-4038-9eb1-3199e0b67264",
+      "season": 5,
+      "number": 16,
+      "name": "En deadline i modvind",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "9fef6e90-9a60-4b1b-8b1c-5feebfe4b78e",
+      "season": 5,
+      "number": 17,
+      "name": "Bryllupsfest og byggeplaner",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "70c02956-9341-4e01-877e-f31a5386e6f0",
+      "season": 5,
+      "number": 18,
+      "name": "Loungeområde og træfældning",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "904725c5-112e-4e4e-9ab0-4c61291728d8",
+      "season": 5,
+      "number": 19,
+      "name": "Store udfordringer på slottet",
+      "airdate": "2025-06-08"
+    },
+    {
+      "id": "88534dbd-b087-41c7-b06a-3e4f8bc2ee8f",
+      "season": 5,
+      "number": 20,
+      "name": "Mellem regn og renovering",
+      "airdate": "2025-06-08"
+    },
+    {
+      "id": "f0c5e226-6f6d-47da-bdf1-945be9eb3a88",
+      "season": 5,
+      "number": 21,
+      "name": "Et slot til hele familien",
+      "airdate": "2025-06-15"
+    },
+    {
+      "id": "2c743625-cf19-4a8f-bde6-b8cab77248b7",
+      "season": 5,
+      "number": 22,
+      "name": "Langt fra indflytningsklar",
+      "airdate": "2025-06-15"
+    },
+    {
+      "id": "40dc6d9c-775b-4e4a-b2af-c8e54be631cf",
+      "season": 5,
+      "number": 23,
+      "name": "Fra rod til romantik",
+      "airdate": "2025-06-22"
+    },
+    {
+      "id": "04445fd6-09aa-43dd-9453-eb91b511e1af",
+      "season": 5,
+      "number": 24,
+      "name": "Et fransk familiemåltid",
+      "airdate": "2025-06-22"
+    },
+    {
+      "id": "274836b2-31af-41a4-82ce-71892dfcf1dc",
+      "season": 5,
+      "number": 25,
+      "name": "Bryllup med det hele",
+      "airdate": "2025-06-29"
+    },
+    {
+      "id": "df45b122-b7e4-4a08-af69-aa119756e90b",
+      "season": 5,
+      "number": 26,
+      "name": "Tårnsuite og springvand",
+      "airdate": "2025-06-29"
+    },
+    {
+      "id": "59322ec7-0166-4d30-862b-a06a6942eb50",
+      "season": 5,
+      "number": 27,
+      "name": "Forberedelser på slottet",
+      "airdate": "2025-07-06"
+    },
+    {
+      "id": "99b9dc51-148a-4421-a439-0e0a1f503bcf",
+      "season": 5,
+      "number": 28,
+      "name": "Med støv, stil og swimmingpool",
+      "airdate": "2025-07-06"
+    },
+    {
+      "id": "a5442fc1-dd0f-4953-aca2-a4ca75ec1800",
+      "season": 5,
+      "number": 29,
+      "name": "Fra drøm til virkelighed",
+      "airdate": "2025-07-12"
+    },
+    {
+      "id": "e94cfb0e-9d5a-4673-9cb6-f580f55c84ed",
+      "season": 5,
+      "number": 30,
+      "name": "Åbent hus i haven",
+      "airdate": "2025-07-12"
+    },
+    {
+      "id": "b217f0ea-7042-413b-a320-64ebc495cbd3",
+      "season": 5,
+      "number": 31,
+      "name": "Frankrigs højeste juletræ",
+      "airdate": "2025-11-16"
+    },
+    {
+      "id": "7b3ee5b1-3504-44cc-83e7-fe32f43c7c1b",
+      "season": 5,
+      "number": 32,
+      "name": "Mord og magi à la jul",
+      "airdate": "2025-11-23"
+    },
+    {
+      "id": "1c666fb5-e83e-4753-b2b7-1f83f65f7f24",
+      "season": 5,
+      "number": 33,
+      "name": "Med familien til julefest",
+      "airdate": "2025-11-30"
+    },
+    {
+      "id": "6c295cd8-e072-4348-9b97-beff33c5a1a6",
+      "season": 5,
+      "number": 34,
+      "name": "Travlhed og taditioner",
+      "airdate": "2025-12-07"
+    },
+    {
+      "id": "bb8526ae-12cb-4a58-8d8b-c9cfbc69257c",
+      "season": 5,
+      "number": 35,
+      "name": "Duften af december",
+      "airdate": "2025-12-14"
+    },
+    {
+      "id": "9c5d3531-abc8-4a47-a305-3af139f24366",
+      "season": 6,
+      "number": 1,
+      "name": "Nyt liv i kapellet",
+      "airdate": "2026-03-29"
+    },
+    {
+      "id": "bce0f798-b2ae-43f0-89a6-3ffa9b68e449",
+      "season": 6,
+      "number": 2,
+      "name": "Balance på bjælkerne",
+      "airdate": "2026-04-05"
+    },
+    {
+      "id": "0ee98eb9-83ea-4c0c-909a-d3808708a5de",
+      "season": 6,
+      "number": 3,
+      "name": "En tung opgave",
+      "airdate": "2026-04-12"
+    },
+    {
+      "id": "59265580-9ef3-45f5-8683-1bd03f9890e5",
+      "season": 6,
+      "number": 4,
+      "name": "Imponerende vinkælder",
+      "airdate": "2026-04-19"
+    },
+    {
+      "id": "1a1fb9f5-14b8-48dc-bb0e-be5b6b2a3695",
+      "season": 6,
+      "number": 5,
+      "name": "Den første vinsmagning",
+      "airdate": "2026-04-26"
+    },
+    {
+      "id": "376d3a70-2fbc-4838-98e3-c23405ebacc1",
+      "season": 6,
+      "number": 6,
+      "name": "De første gæster",
+      "airdate": "2026-05-03"
+    },
+    {
+      "id": "8b6043ea-85ef-4fcd-911c-1d73a592f9f8",
+      "season": 6,
+      "number": 7,
+      "name": "Lige lister og skæve gulve",
+      "airdate": "2026-05-10"
+    },
+    {
+      "id": "5d044be0-b8fe-4d29-ab10-4f8343e6d0ff",
+      "season": 6,
+      "number": 8,
+      "name": "Tonsvis af sten",
+      "airdate": "2026-05-10"
+    },
+    {
+      "id": "8f484b92-b173-4c3f-8f35-0874fa714770",
+      "season": 6,
+      "number": 9,
+      "name": "En arkitektonisk facade",
+      "airdate": "2026-05-17"
+    },
+    {
+      "id": "3b6d582f-fd35-4fe6-bd20-dcd6b40639b2",
+      "season": 6,
+      "number": 10,
+      "name": "Mange bolde i luften",
+      "airdate": "2026-05-17"
+    },
+    {
+      "id": "f82a65d1-95b7-4978-a069-779e952b4753",
+      "season": 6,
+      "number": 11,
+      "name": "Et trin ad gangen",
+      "airdate": "2026-05-24"
+    },
+    {
+      "id": "32f6352f-ddbe-46a6-b505-19bdd7fb1569",
+      "season": 6,
+      "number": 12,
+      "name": "Bryllupsforberedelser og badeværelsesbyggeri",
+      "airdate": "2026-05-24"
+    },
+    {
+      "id": "6febc5c7-2b0d-4389-8482-2ab4d3bc020e",
+      "season": 6,
+      "number": 13,
+      "name": "Gør-det-selv-drømmen på prøve",
+      "airdate": "2026-05-31"
+    },
+    {
+      "id": "fdf6dab7-7e66-4297-b7ff-fd4ff5d8f099",
+      "season": 6,
+      "number": 14,
+      "name": "Et risikabelt bryggersprojekt",
+      "airdate": "2026-05-31"
+    },
+    {
+      "id": "a7cdd17a-66f3-443c-a4f0-b82d6cbffbc1",
+      "season": 6,
+      "number": 15,
+      "name": "En royal makeover",
+      "airdate": "2026-06-07"
+    },
+    {
+      "id": "32e5e0d9-73c5-4586-8f04-ccbdcf583f13",
+      "season": 6,
+      "number": 16,
+      "name": "Fuld af overraskelser",
+      "airdate": "2026-06-07"
+    },
+    {
+      "id": "07e8e236-8acc-4470-9f8c-aacce96fea34",
+      "season": 6,
+      "number": 17,
+      "name": "Besøgende på slottet",
+      "airdate": "2026-06-14"
+    },
+    {
+      "id": "1f43be72-7801-4457-acdf-8209881adb64",
+      "season": 6,
+      "number": 18,
+      "name": "Suiten skal på plads",
+      "airdate": "2026-06-14"
+    },
+    {
+      "id": "a7c52c31-e130-4b06-a45b-2647dde6bd38",
+      "season": 6,
+      "number": 19,
+      "name": "Brombærkrat og kaos",
+      "airdate": "2026-06-21"
+    },
+    {
+      "id": "b3c3e78d-0b6d-4e0b-a7bd-162b6767a4db",
+      "season": 6,
+      "number": 20,
+      "name": "Problemer med pergolaen",
+      "airdate": "2026-06-21"
+    },
+    {
+      "id": "e06163c2-8551-481e-93e6-b13131d95710",
+      "season": 6,
+      "number": 21,
+      "name": "En stor forvandling",
+      "airdate": "2026-06-28"
+    },
+    {
+      "id": "cd7871c6-5336-4823-a0a8-952475c34c07",
+      "season": 6,
+      "number": 22,
+      "name": "Vandet stiger",
+      "airdate": "2026-06-28"
+    },
+    {
+      "id": "4601f3df-08bc-490f-b3c5-885bbb6ff00b",
+      "season": 6,
+      "number": 23,
+      "name": "Bryllup og badeværelse",
+      "airdate": "2026-07-05"
+    },
+    {
+      "id": "38d4d9e3-e429-4c2e-9512-f14a22d4b98e",
+      "season": 6,
+      "number": 24,
+      "name": "Naturen truer",
+      "airdate": "2026-07-05"
+    },
+    {
+      "id": "939b4171-451b-4c94-8be6-0193cd3057ce",
+      "season": 6,
+      "number": 25,
+      "name": "Baby på vej",
+      "airdate": "2026-07-12"
+    },
+    {
+      "id": "881bafc6-895f-46bb-952e-5489e190c522",
+      "season": 6,
+      "number": 26,
+      "name": "Fra orangeri til spa",
+      "airdate": "2026-07-12"
+    },
+    {
+      "id": "d7d34a0b-07f3-4196-8618-50a1ada56826",
+      "season": 6,
+      "number": 27,
+      "name": "Farligt altanprojekt",
+      "airdate": "2026-07-19"
+    },
+    {
+      "id": "fbb1704f-909a-4fd2-93fe-d77a908b1b7b",
+      "season": 6,
+      "number": 28,
+      "name": "Hundeshow og høje ambitioner",
+      "airdate": "2026-07-19"
+    },
+    {
+      "id": "f7afdbb0-757b-4c8a-b117-8b430fb740aa",
+      "season": 6,
+      "number": 29,
+      "name": "Problemer med køkkenøen",
+      "airdate": "2026-07-26"
+    },
+    {
+      "id": "752af345-77cf-4f04-a8da-fc58c45569b1",
+      "season": 6,
+      "number": 30,
+      "name": "Altanprojektet fortsætter",
+      "airdate": "2026-07-26"
+    },
+    {
+      "id": "40aefcbd-0fe2-4111-b9fb-d909722b7430",
+      "season": 6,
+      "number": 31,
+      "name": "En kaotisk renovering",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "03594284-b934-45b6-b730-da2a425d7e97",
+      "season": 6,
+      "number": 32,
+      "name": "Haveprojekt på pause",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "e21708d3-e23f-4978-8123-5ed2e892d106",
+      "season": 6,
+      "number": 33,
+      "name": "I kamp mod tiden",
+      "airdate": "2026-08-09"
+    },
+    {
+      "id": "3030649b-785b-4fb7-bebd-73f66af8ff8f",
+      "season": 6,
+      "number": 34,
+      "name": "Ingen tid at spilde",
+      "airdate": "2026-08-09"
+    },
+    {
+      "id": "f39c7ffc-da8b-472c-9329-00cb8376884f",
+      "season": 6,
+      "number": 35,
+      "name": "Før stormen",
+      "airdate": "2026-08-16"
+    },
+    {
+      "id": "c5fc4f20-ebaf-4eaf-a789-bf7c986e7aee",
+      "season": 6,
+      "number": 36,
+      "name": "Terrassedrøm på prøve",
+      "airdate": "2026-08-16"
+    },
+    {
+      "id": "01431967-576c-4658-9332-0d7daae36d9b",
+      "season": 6,
+      "number": 37,
+      "name": "Blomster og beton",
+      "airdate": "2026-08-23"
+    },
+    {
+      "id": "d504e7b5-ab54-4166-a32f-7b435d969761",
+      "season": 6,
+      "number": 38,
+      "name": "Skjulte forhindringer",
+      "airdate": "2026-08-23"
+    },
+    {
+      "id": "fa2ce2b4-9252-4f2b-934f-0451d2e79bba",
+      "season": 6,
+      "number": 39,
+      "name": "Et chokerende fund",
+      "airdate": "2026-08-30"
+    },
+    {
+      "id": "cd0f1dd8-ae25-4090-b1bd-7b19b09d73b8",
+      "season": 6,
+      "number": 40,
+      "name": "Ukrudt og ambitioner",
+      "airdate": "2026-08-30"
+    },
+    {
+      "id": "b74cdf64-1f14-45d2-98ae-2f2bef74e82c",
+      "season": 6,
+      "number": 41,
+      "name": "Et ambisiøst soveværelsesprojekt",
+      "airdate": "2026-09-06"
+    },
+    {
+      "id": "a80f2ee5-fca7-442e-b4fd-4ccab397f86b",
+      "season": 6,
+      "number": 42,
+      "name": "Udendørsprojekter i vente",
+      "airdate": "2026-09-06"
+    },
+    {
+      "id": "e5c9dc54-2473-43e1-81c5-703e623b1c1e",
+      "season": 6,
+      "number": 43,
+      "name": "Tidspres på slottene",
+      "airdate": "2026-09-13"
+    },
+    {
+      "id": "d8b5168b-a907-43ee-bfe2-2245af5cfa3b",
+      "season": 6,
+      "number": 44,
+      "name": "Den store dag",
+      "airdate": "2026-09-13"
+    },
+    {
+      "id": "a975dd02-bc30-4172-ad09-cd3196f3bbee",
+      "season": 6,
+      "number": 45,
+      "name": "Terrassen skal forvandles",
+      "airdate": "2026-09-20"
+    }
+  ]
+}

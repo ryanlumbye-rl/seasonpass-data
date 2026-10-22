@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:shanes-oiiiriginaler-oiii",
+  "name": "Shanes Oiii'riginaler",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c4146890-6832-4215-9248-f98671070c2e",
+      "season": 1,
+      "number": 1,
+      "name": "Adventsmus",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "68f68bdb-a12d-4de4-ad91-546df5a4f67d",
+      "season": 1,
+      "number": 2,
+      "name": "Slikko",
+      "airdate": "2020-12-05"
+    },
+    {
+      "id": "74372429-3a8c-43b9-b33c-4494e1b353b3",
+      "season": 1,
+      "number": 3,
+      "name": "Juleflue",
+      "airdate": "2020-12-12"
+    },
+    {
+      "id": "12c76ea8-5b8b-48b5-aab5-6b2d96138e07",
+      "season": 1,
+      "number": 4,
+      "name": "Servietnisse",
+      "airdate": "2020-12-19"
+    },
+    {
+      "id": "fde64057-d798-49d9-96a3-1589fb90f0bb",
+      "season": 1,
+      "number": 5,
+      "name": "Panda Mie",
+      "airdate": "2021-11-13"
+    },
+    {
+      "id": "4a869361-8c6b-42ab-a7e8-cc94fcdb56ce",
+      "season": 1,
+      "number": 6,
+      "name": "Pernille Pølse",
+      "airdate": "2021-11-13"
+    },
+    {
+      "id": "25e9f40f-0bbf-4393-9970-9ab90bc188ea",
+      "season": 1,
+      "number": 7,
+      "name": "Blækbuks",
+      "airdate": "2021-11-13"
+    },
+    {
+      "id": "a9ecc290-3840-427c-a791-d36652d44891",
+      "season": 1,
+      "number": 8,
+      "name": "Grøngrrrumling",
+      "airdate": "2021-11-13"
+    },
+    {
+      "id": "58d28140-d232-4fdd-ad1e-7e16002c04b7",
+      "season": 1,
+      "number": 9,
+      "name": "Hostekosten",
+      "airdate": "2021-11-13"
+    },
+    {
+      "id": "c0218b82-1633-43db-bf03-9c9583c60e45",
+      "season": 1,
+      "number": 10,
+      "name": "Mulle Børnesød",
+      "airdate": "2021-11-13"
+    }
+  ]
+}

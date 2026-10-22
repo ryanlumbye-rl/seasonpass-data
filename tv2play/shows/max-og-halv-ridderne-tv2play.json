@@ -1,0 +1,157 @@
+{
+  "id": "tv2play:max-og-halv-ridderne-tv2play",
+  "name": "Max og Halv-Ridderne",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "be8462e9-9044-40bf-998d-aef015d521aa",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til Byjovia",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "f380b8f2-9452-4b6d-af1a-aabc812d44b8",
+      "season": 1,
+      "number": 2,
+      "name": "Mød Halv-Ridderne",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "a50b4ddb-3a9b-4919-af9a-2b09c08fd9b7",
+      "season": 1,
+      "number": 3,
+      "name": "Midnatstur",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "64c0644d-d763-42b4-8df7-69e565f285eb",
+      "season": 1,
+      "number": 4,
+      "name": "Hold hovedet koldt",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "aba8d42c-f7ad-47b3-b6a1-9d53b11597a5",
+      "season": 1,
+      "number": 5,
+      "name": "Flugt fra Byjovia",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "2f42b5cd-57e3-4b79-ae75-f8e539bda953",
+      "season": 1,
+      "number": 6,
+      "name": "Troldefortællingen",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "52e1d5d7-8371-4e61-806e-e75e9c406e29",
+      "season": 1,
+      "number": 7,
+      "name": "Vejen vi ikke tog",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "6997b679-fc3b-4bf9-b0f5-9a950e14017c",
+      "season": 1,
+      "number": 8,
+      "name": "De dødes sti",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "ad28a8a0-1651-44ba-bccf-407a0b7816ed",
+      "season": 1,
+      "number": 9,
+      "name": "Modighedsflasken",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "47813589-3554-44f0-8df7-f8efea18ba0b",
+      "season": 1,
+      "number": 10,
+      "name": "Op ad bakke",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "948e19c7-5ba2-4854-bf43-ce7cb1d9a5de",
+      "season": 2,
+      "number": 1,
+      "name": "En drageprofeti",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "4945d1f8-2f2c-44c9-b31c-49231d81811c",
+      "season": 2,
+      "number": 2,
+      "name": "Her er drager",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "bae1b108-b3e7-436f-9cae-85659f1a869a",
+      "season": 2,
+      "number": 3,
+      "name": "Meget modbydelige Millie",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "79c249d5-21a8-48b7-b0a8-7979b0461ae8",
+      "season": 2,
+      "number": 4,
+      "name": "Moser og fjender",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "b5f6e715-0d2f-4a66-a1d3-3e96b0e0ac70",
+      "season": 2,
+      "number": 5,
+      "name": "En ridder mister troen",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "7080e9e3-205e-4289-a517-e560c9265741",
+      "season": 2,
+      "number": 6,
+      "name": "På vej hjem",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "8423d78e-530e-463d-81a1-74f86068597d",
+      "season": 2,
+      "number": 7,
+      "name": "Og sådan går det...",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "676836e7-de8a-434b-9448-e9b32eef657c",
+      "season": 2,
+      "number": 8,
+      "name": "Inden stormen",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "d984ac0c-dd50-4c25-b6e7-322d375075f3",
+      "season": 2,
+      "number": 9,
+      "name": "Slaget om Byjovia",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "3276a422-27ab-4fdb-98e5-69e5f1310a78",
+      "season": 2,
+      "number": 10,
+      "name": "En ægte ridders mod",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "4aba46f5-f24a-40a4-b48d-4fb6ffffcc15",
+      "season": 3,
+      "number": 1,
+      "name": "En rastløs ridder - del 1",
+      "airdate": "2026-10-24"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": "tv2play:britains-got-talent-tv2charlie",
+  "name": "Britain's Got Talent",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "27b4bcc3-1b0f-40bb-a65b-12242279c4d1",
+      "season": 17,
+      "number": 1,
+      "name": "Første audition",
+      "airdate": "2024-08-24"
+    },
+    {
+      "id": "462a5958-1930-42de-b5b9-930d0fadc75e",
+      "season": 17,
+      "number": 2,
+      "name": "Anden audition",
+      "airdate": "2024-08-31"
+    },
+    {
+      "id": "0132125e-60ce-4fa4-84bd-b1369783bfcd",
+      "season": 17,
+      "number": 3,
+      "name": "Tredje audition",
+      "airdate": "2024-09-07"
+    },
+    {
+      "id": "42a967d9-71d3-4a1d-a3ed-4705b3e04a46",
+      "season": 17,
+      "number": 4,
+      "name": "Fjerde audition",
+      "airdate": "2024-09-14"
+    },
+    {
+      "id": "b1bbcffd-2ccd-4382-8962-37712ef2c414",
+      "season": 17,
+      "number": 5,
+      "name": "Femte audition",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "6dda96a9-199b-4b51-b976-f9af6971f760",
+      "season": 17,
+      "number": 6,
+      "name": "Sjette audition",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "770285ae-1edc-4a9a-be78-c31e2cfc44e9",
+      "season": 17,
+      "number": 7,
+      "name": "Syvende audition",
+      "airdate": "2024-10-05"
+    },
+    {
+      "id": "7bc25322-76f3-4537-a535-40a946cf69c0",
+      "season": 17,
+      "number": 8,
+      "name": "Ottende audition",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "544fee70-a0a4-4f9f-8370-3c9a524df263",
+      "season": 17,
+      "number": 9,
+      "name": "Første semifinale",
+      "airdate": "2024-10-19"
+    },
+    {
+      "id": "49892d71-fea6-4c11-97eb-ff78f14197f7",
+      "season": 17,
+      "number": 10,
+      "name": "Anden semifinale",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "d9ac8682-fa1f-46a5-aa9f-6225a4992de7",
+      "season": 17,
+      "number": 11,
+      "name": "Tredje semifinale",
+      "airdate": "2024-11-02"
+    },
+    {
+      "id": "5c553022-2d26-4248-a8e8-faadc8d695d1",
+      "season": 17,
+      "number": 12,
+      "name": "Fjerde semifinale",
+      "airdate": "2024-11-09"
+    },
+    {
+      "id": "98f2ab19-dec8-4a10-91fa-83ee9bd96fce",
+      "season": 17,
+      "number": 13,
+      "name": "Femte semifinale",
+      "airdate": "2024-11-16"
+    },
+    {
+      "id": "886973c5-2ca1-4bbf-a2ce-0f94d3263751",
+      "season": 17,
+      "number": 14,
+      "name": "Finale",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "52fd9a0f-86b2-40e4-8a9b-84f6da9ce538",
+      "season": 18,
+      "number": 1,
+      "name": "Første audition",
+      "airdate": "2025-09-20"
+    },
+    {
+      "id": "4d72ac31-d408-41bc-9107-a0c4e099a377",
+      "season": 18,
+      "number": 2,
+      "name": "Anden audition",
+      "airdate": "2025-09-20"
+    },
+    {
+      "id": "3be1e70b-9e65-475e-be8f-92351c557003",
+      "season": 18,
+      "number": 3,
+      "name": "Tredje audition",
+      "airdate": "2025-09-27"
+    },
+    {
+      "id": "b1d35fa8-475b-4b4b-9b73-dff379e2ba7d",
+      "season": 18,
+      "number": 4,
+      "name": "Fjerde audition",
+      "airdate": "2025-09-27"
+    },
+    {
+      "id": "a119f668-5a56-4904-9807-f4bb95decb75",
+      "season": 18,
+      "number": 5,
+      "name": "Femte audition",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "6d82a3f6-3853-4956-b0ab-c9d2fdfd68aa",
+      "season": 18,
+      "number": 6,
+      "name": "Sjette audition",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "7c27b9c6-fec5-4eaf-b4d3-9d6e0003396d",
+      "season": 18,
+      "number": 7,
+      "name": "Syvende audition",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "a6bc0ef4-3300-4003-bbec-7b01590f4ca4",
+      "season": 18,
+      "number": 8,
+      "name": "Ottende audition",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "9151dc80-f75a-4310-b157-fb97b128a6da",
+      "season": 18,
+      "number": 9,
+      "name": "Første semifinale",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "412d8fc2-9dee-4d08-81ad-7ba8a13c7332",
+      "season": 18,
+      "number": 10,
+      "name": "Anden semifinale",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "5ddb1e15-ac33-4b03-a29c-be4135f28c8b",
+      "season": 18,
+      "number": 11,
+      "name": "Tredje semifinale",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "1f4fd3c7-fa41-496a-ac81-0da5e1a6e8c8",
+      "season": 18,
+      "number": 12,
+      "name": "Fjerde semifinale",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "9d5819b5-d50c-47ad-bcf5-c4cb5adef41e",
+      "season": 18,
+      "number": 13,
+      "name": "Femte semifinale",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "c52d1c55-08c6-4be8-ac9f-f435ace150c1",
+      "season": 18,
+      "number": 14,
+      "name": "Finale",
+      "airdate": "2025-11-22"
+    },
+    {
+      "id": "429132c8-0314-4883-a8f3-273ae3ef327b",
+      "season": 19,
+      "number": 1,
+      "name": "Første audition",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "c4dbc3fa-2932-482d-8061-01d4b1e41a9d",
+      "season": 19,
+      "number": 2,
+      "name": "Anden audition",
+      "airdate": "2026-09-05"
+    },
+    {
+      "id": "f5718ee0-d784-41fd-880c-aabc0e915e6d",
+      "season": 19,
+      "number": 3,
+      "name": "Tredje audition",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "33b8c971-dcbc-4632-b4a3-fbc1ebcac705",
+      "season": 19,
+      "number": 4,
+      "name": "Fjerde audition",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "40017383-53d0-4da7-9c79-a729d097025d",
+      "season": 19,
+      "number": 5,
+      "name": "Femte audition",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "0e11cf2c-2e42-4d90-bde3-3dc7252e325f",
+      "season": 19,
+      "number": 6,
+      "name": "Sjette audition",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "71761442-b34b-4f65-b16b-4bf13063bca1",
+      "season": 19,
+      "number": 7,
+      "name": "Syvende audition",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "71771475-839f-4018-b4ca-4bdef85d9dfe",
+      "season": 19,
+      "number": 8,
+      "name": "Ottende audition",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "1e324ff7-d124-4839-af4d-f8e26ad11fda",
+      "season": 19,
+      "number": 9,
+      "name": "Første semifinale",
+      "airdate": "2026-10-24"
+    }
+  ]
+}

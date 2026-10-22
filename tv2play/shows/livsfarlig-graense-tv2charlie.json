@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:livsfarlig-graense-tv2charlie",
+  "name": "Livsfarlig grænse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d35ee369-060a-4fbc-b43e-5dbfa08b646c",
+      "season": 1,
+      "number": 1,
+      "name": "Dødelig polterabend - del 1",
+      "airdate": "2025-10-07"
+    },
+    {
+      "id": "9b836aec-ce55-45b8-a8bb-f1b5cba3ab76",
+      "season": 1,
+      "number": 2,
+      "name": "Dødelig polterabend - del 2",
+      "airdate": "2025-10-14"
+    },
+    {
+      "id": "dbd2ff7f-a64d-4975-987e-6844114037e8",
+      "season": 1,
+      "number": 3,
+      "name": "Uhyggelig last - del 1",
+      "airdate": "2025-10-21"
+    },
+    {
+      "id": "2837a19f-60d8-42f8-9940-6ea5b494171d",
+      "season": 1,
+      "number": 5,
+      "name": "En usympatisk vinder - del 1",
+      "airdate": "2025-11-04"
+    },
+    {
+      "id": "f513181d-dab7-4b13-8f63-77b10bb28924",
+      "season": 1,
+      "number": 6,
+      "name": "En usympatisk vinder - del 2",
+      "airdate": "2025-11-11"
+    }
+  ]
+}

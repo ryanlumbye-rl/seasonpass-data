@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:sweetpea-skyshowtime",
+  "name": "Sweetpea",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "32d466e3-018d-4582-8966-07e9cee5507c",
+      "season": 1,
+      "number": 1,
+      "name": "Sorry for Your Loss",
+      "airdate": "2025-01-02"
+    },
+    {
+      "id": "13f61f42-5e74-4f81-8329-49e80ebfd611",
+      "season": 1,
+      "number": 2,
+      "name": "This Sort of Thing Needs Some Feminine Energy",
+      "airdate": "2025-01-02"
+    },
+    {
+      "id": "673d1092-20ab-46db-99e0-0284832fc6a9",
+      "season": 1,
+      "number": 3,
+      "name": "Black Spots in the Garage",
+      "airdate": "2025-01-02"
+    },
+    {
+      "id": "c8dbc4ae-1457-49bd-8b6a-19705527c4ec",
+      "season": 1,
+      "number": 4,
+      "name": "Everybody Loves Julia",
+      "airdate": "2025-01-09"
+    },
+    {
+      "id": "e2e9f5bd-dba8-4e80-936f-51a018a6828e",
+      "season": 1,
+      "number": 5,
+      "name": "Someone’s Been a Naughty Girl",
+      "airdate": "2025-01-16"
+    },
+    {
+      "id": "aa56350e-25b7-4da2-b675-dabdee7948c7",
+      "season": 1,
+      "number": 6,
+      "name": "Life 2.0",
+      "airdate": "2025-01-23"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:damnation-tv2play",
+  "name": "Damnation",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8f8872bc-dc0b-47b3-a879-2b4f5fa32fac",
+      "season": 1,
+      "number": 1,
+      "name": "Sam Riley's Body",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "4bc60795-0c8e-4928-a2d2-4e65f9b22448",
+      "season": 1,
+      "number": 2,
+      "name": "Which Side Are You On?",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "a4eae0a3-087e-4d69-92d0-009ff95c7898",
+      "season": 1,
+      "number": 3,
+      "name": "One Penny",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "375b7dcc-d16f-4246-a4a4-801b8ba97c3c",
+      "season": 1,
+      "number": 4,
+      "name": "The Emperor of Ice Cream",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "62635afb-0f23-4042-b16f-3fb696f1308a",
+      "season": 1,
+      "number": 5,
+      "name": "Den of Lost Souls",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "894c1c41-f3aa-46e7-bd5c-19790e6a0356",
+      "season": 1,
+      "number": 6,
+      "name": "In Wyoming Fashion",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "19067892-bbd1-46fb-bb09-c76d7f928735",
+      "season": 1,
+      "number": 7,
+      "name": "A Different Species",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "5f354116-08b0-492b-941a-26894e0990b2",
+      "season": 1,
+      "number": 8,
+      "name": "The Goodness of Men",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "0966bfd8-2197-4120-b26d-e43ed32f926b",
+      "season": 1,
+      "number": 9,
+      "name": "Dark Was the Night, Cold Was the Ground",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "bcf8e439-42a1-47ee-b9a6-b2fbcc34f998",
+      "season": 1,
+      "number": 10,
+      "name": "God's Body",
+      "airdate": "2026-08-12"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:the-lady-tv2play",
+  "name": "The Lady",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0296e5bf-06b1-4a52-8972-d4ab0637fc33",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-03-25"
+    },
+    {
+      "id": "f58798f6-eedd-4961-98a0-1a628c30d0d1",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-03-25"
+    },
+    {
+      "id": "de0cdfa8-8f74-47f7-9256-d893e94dae81",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-03-25"
+    },
+    {
+      "id": "84df51e8-e53c-4b7a-ac36-a85db5499255",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-03-25"
+    }
+  ]
+}

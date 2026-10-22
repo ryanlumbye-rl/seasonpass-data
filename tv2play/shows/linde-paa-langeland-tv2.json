@@ -1,0 +1,297 @@
+{
+  "id": "tv2play:linde-paa-langeland-tv2",
+  "name": "Linde på Langeland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fc62b390-ef78-4f18-b19d-5ebdac6d0ec6",
+      "season": 1,
+      "number": 1,
+      "name": "Langeland, her kommer vi!",
+      "airdate": "2022-04-13"
+    },
+    {
+      "id": "3f37b2aa-fd93-44c1-90c8-b69a8d25dcdb",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad laver en bygherre?",
+      "airdate": "2022-04-13"
+    },
+    {
+      "id": "7afca175-138d-4bf3-b4eb-621613bca613",
+      "season": 1,
+      "number": 3,
+      "name": "Vinduerne kan holde 100 år mere",
+      "airdate": "2022-04-20"
+    },
+    {
+      "id": "24e4d063-7bde-4052-84f5-10f1e0cd6ca8",
+      "season": 1,
+      "number": 4,
+      "name": "Bor her en ugle?",
+      "airdate": "2022-04-27"
+    },
+    {
+      "id": "39480640-e55f-4643-8b73-0f4f4151b31d",
+      "season": 1,
+      "number": 5,
+      "name": "Det er et snedkerkøkken",
+      "airdate": "2022-05-04"
+    },
+    {
+      "id": "5b34f6f1-259f-4e4d-b282-322321eef779",
+      "season": 1,
+      "number": 6,
+      "name": "1-0 over haven",
+      "airdate": "2022-05-11"
+    },
+    {
+      "id": "0b582e57-16ff-41d1-9b7f-d671f35063af",
+      "season": 1,
+      "number": 7,
+      "name": "Badekarret skal være lilla",
+      "airdate": "2022-05-18"
+    },
+    {
+      "id": "c3977c46-5f90-4dea-bf8b-2e75d065f291",
+      "season": 1,
+      "number": 8,
+      "name": "Godt man har taget stearinlys med",
+      "airdate": "2022-05-25"
+    },
+    {
+      "id": "40f081c3-2023-49b5-b691-1a68ae9705bd",
+      "season": 2,
+      "number": 1,
+      "name": "Hvor er bygherre?",
+      "airdate": "2023-04-13"
+    },
+    {
+      "id": "743b265a-7150-4fbf-93b3-a95c68250f80",
+      "season": 2,
+      "number": 2,
+      "name": "En lyserød ninja",
+      "airdate": "2023-04-20"
+    },
+    {
+      "id": "b5f42aed-9892-459e-ad40-6abfc2b31df1",
+      "season": 2,
+      "number": 3,
+      "name": "Det regner i stuen",
+      "airdate": "2023-04-27"
+    },
+    {
+      "id": "08eb0c43-d2ce-43af-91a7-4fe550f4daaa",
+      "season": 2,
+      "number": 4,
+      "name": "En fisk i haven",
+      "airdate": "2023-05-04"
+    },
+    {
+      "id": "bdab66c7-f79d-4ae3-ab57-5388d29e20ee",
+      "season": 2,
+      "number": 5,
+      "name": "En flise på tværs",
+      "airdate": "2023-05-11"
+    },
+    {
+      "id": "6ab7566a-7b65-4373-8f4f-95bb65152da5",
+      "season": 2,
+      "number": 6,
+      "name": "En lort på loftet",
+      "airdate": "2023-05-18"
+    },
+    {
+      "id": "afc16ef2-2c1c-4dd0-9f94-c173c5d6039c",
+      "season": 2,
+      "number": 7,
+      "name": "Årets varmeste dag",
+      "airdate": "2023-05-25"
+    },
+    {
+      "id": "1ad23dd8-090e-44e6-a3e7-05172537cfed",
+      "season": 2,
+      "number": 8,
+      "name": "Så er der frikadellefest",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "3649432f-5425-4a86-abab-08b704c3defe",
+      "season": 2,
+      "number": 9,
+      "name": "Der mangler et lille oomph",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "c6b9c0fd-3fb9-4653-b6c7-fbf9f690a43f",
+      "season": 3,
+      "number": 1,
+      "name": "Det er mig i en kommode",
+      "airdate": "2024-10-21"
+    },
+    {
+      "id": "0d57fa3f-8466-44af-8ce6-14132d222595",
+      "season": 3,
+      "number": 2,
+      "name": "Was ist Das?",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "d975ce48-a98f-4955-9d89-2774195ae643",
+      "season": 3,
+      "number": 3,
+      "name": "Kan man mørtle det?",
+      "airdate": "2024-11-04"
+    },
+    {
+      "id": "79695737-dd16-4c18-9c26-cd80b6c80590",
+      "season": 3,
+      "number": 4,
+      "name": "Mexicanske sildeben",
+      "airdate": "2024-11-11"
+    },
+    {
+      "id": "c5a6a7f7-55a1-4b2b-9b1c-ce709aec5a25",
+      "season": 3,
+      "number": 5,
+      "name": "En blå fuge, tak!",
+      "airdate": "2024-11-18"
+    },
+    {
+      "id": "07221ced-30fe-4ad7-8671-d32e4b30f2dd",
+      "season": 3,
+      "number": 6,
+      "name": "Queen Elizabeth",
+      "airdate": "2024-11-25"
+    },
+    {
+      "id": "ef976bda-9e64-481e-b8ce-abd3c8d6a37d",
+      "season": 3,
+      "number": 7,
+      "name": "En abe i baghaven",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "1bde4042-8847-4dd8-b045-f824dc0bd258",
+      "season": 3,
+      "number": 8,
+      "name": "Hello Kitty-kniv",
+      "airdate": "2024-12-09"
+    },
+    {
+      "id": "e4206fbe-de02-4903-95de-a871d55b3967",
+      "season": 4,
+      "number": 1,
+      "name": "En containerpool?",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "4fb3bcce-053f-4da0-93f9-e09313a00eeb",
+      "season": 4,
+      "number": 2,
+      "name": "Philip! Andersss!",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "d7d09955-556a-4f91-a28b-68073369bc16",
+      "season": 4,
+      "number": 3,
+      "name": "Fransk noir rykker ind",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "e6eacf8c-b42d-4267-9b92-a15156f4877f",
+      "season": 4,
+      "number": 4,
+      "name": "90’ernes comeback",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "33517ae6-687f-4c0d-8c6a-059696f2ec46",
+      "season": 4,
+      "number": 5,
+      "name": "En flise-saga",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "ceb8ec98-48c4-4149-8867-472233a5ddcd",
+      "season": 4,
+      "number": 6,
+      "name": "Hvem har en vandrutsjebane?",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "a7d5a70e-9eb6-4ce4-961e-9e02c2e51d5d",
+      "season": 4,
+      "number": 7,
+      "name": "Følg mig på instagram",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "1aaf4a65-8d86-43cd-8237-5db18dc04664",
+      "season": 4,
+      "number": 8,
+      "name": "Så er der pool party",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "7ee4af0a-21c1-43a7-bcda-6b9eb7ecdc29",
+      "season": 4,
+      "number": 9,
+      "name": "Lange røde rør",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "55902c4e-aa81-487f-bbe3-414a56f3782c",
+      "season": 5,
+      "number": 1,
+      "name": "Støbefeber",
+      "airdate": "2026-07-27"
+    },
+    {
+      "id": "6ffff461-4a5a-4217-8ee0-bd725f566900",
+      "season": 5,
+      "number": 2,
+      "name": "Für Elise",
+      "airdate": "2026-08-03"
+    },
+    {
+      "id": "858a06ea-a4bf-4723-a860-ff57061e0004",
+      "season": 5,
+      "number": 3,
+      "name": "Sofie Lindes nye fyr",
+      "airdate": "2026-08-10"
+    },
+    {
+      "id": "3736fb8b-6834-4c20-98c2-92759102027b",
+      "season": 5,
+      "number": 4,
+      "name": "Skub til taget",
+      "airdate": "2026-08-17"
+    },
+    {
+      "id": "d632c64f-dbcc-47e8-961e-ff8db4195771",
+      "season": 5,
+      "number": 5,
+      "name": "Casa Mariananas",
+      "airdate": "2026-08-24"
+    },
+    {
+      "id": "d7e551c3-4e30-419a-946a-73d4c5a56c21",
+      "season": 5,
+      "number": 6,
+      "name": "Ud med nips",
+      "airdate": "2026-08-31"
+    },
+    {
+      "id": "84401bf7-da6d-4e54-a9f9-02bf2c72519d",
+      "season": 5,
+      "number": 7,
+      "name": "Hva' så Roskilde!",
+      "airdate": "2026-09-07"
+    }
+  ]
+}

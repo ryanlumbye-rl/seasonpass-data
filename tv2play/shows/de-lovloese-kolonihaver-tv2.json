@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:de-lovloese-kolonihaver-tv2",
+  "name": "De lovløse kolonihaver",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "98c0cb1d-0ad3-47e1-9587-b528aee72044",
+      "season": 1,
+      "number": 1,
+      "name": "Lovens lange arm når ikke herud",
+      "airdate": "2026-09-02"
+    },
+    {
+      "id": "6230c19c-2a22-4350-a5ec-833c6310f14f",
+      "season": 1,
+      "number": 2,
+      "name": "Hvem håndhæver reglerne?",
+      "airdate": "2026-09-09"
+    }
+  ]
+}

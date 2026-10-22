@@ -1,0 +1,234 @@
+{
+  "id": "tv2play:insider-tv2",
+  "name": "Insider",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0039b729-468e-4984-84b5-31ce73ef2bb8",
+      "season": 1,
+      "number": 1,
+      "name": "Jeg festede hos Diddy",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "5f324e2e-1762-4ce2-bf04-f49ecc55f882",
+      "season": 1,
+      "number": 2,
+      "name": "Lily Collins og Casper Christensen",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "bcdf634a-f27a-4d22-902b-d6227d5f0667",
+      "season": 1,
+      "number": 3,
+      "name": "I shitstormens øje",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "bfd837ef-567d-4fa7-b43f-3540bcb1d773",
+      "season": 1,
+      "number": 4,
+      "name": "For tyk til tv?",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "0db19ea9-40ea-4fb1-887c-7ef88c70420b",
+      "season": 1,
+      "number": 5,
+      "name": "Hvor går grænsen?",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "95250613-0d9d-42d4-8481-735eeb01282b",
+      "season": 1,
+      "number": 6,
+      "name": "Mand nok til at gøre en forskel",
+      "airdate": "2025-06-08"
+    },
+    {
+      "id": "1d9d7528-3d29-43db-beb3-83cc607c34ab",
+      "season": 2,
+      "number": 1,
+      "name": "Infernal og Svea S.",
+      "airdate": "2025-09-07"
+    },
+    {
+      "id": "6fc4b007-d07f-427a-a8c9-01cca30ef064",
+      "season": 2,
+      "number": 2,
+      "name": "Pilou Asbæk",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "35a19de5-60ea-485b-b04c-82d86066c7e5",
+      "season": 2,
+      "number": 3,
+      "name": "Alex Høgh Andersen",
+      "airdate": "2025-09-21"
+    },
+    {
+      "id": "576c8f6b-416f-4aac-99ca-bc477be9b52e",
+      "season": 2,
+      "number": 4,
+      "name": "Martin Johannes Larsen og Anders Breinholt",
+      "airdate": "2025-09-28"
+    },
+    {
+      "id": "2c479e08-843d-469a-b128-8b1384f48d19",
+      "season": 2,
+      "number": 5,
+      "name": "Coster-Waldau-søstrene og Kristoffer Eriknauer",
+      "airdate": "2025-10-05"
+    },
+    {
+      "id": "2cc6b281-87d9-4498-965e-bd7bbaeb49e5",
+      "season": 3,
+      "number": 1,
+      "name": "Birgitte Hjort Sørensen og Joel Hyrland",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "ab238af9-1863-4f1d-9248-1d41acc3a9ea",
+      "season": 3,
+      "number": 2,
+      "name": "Sanne Salomonsen",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "cf551edb-8bce-489f-8f76-115dcff54049",
+      "season": 3,
+      "number": 3,
+      "name": "Paprika Steen",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "72de44b9-e5d1-448b-abff-cd6c60d6f8f4",
+      "season": 3,
+      "number": 4,
+      "name": "Katherine Diez og Kim Kardashian",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "cc0e25c0-c55e-4002-b765-0deff13628a0",
+      "season": 3,
+      "number": 5,
+      "name": "Martin Hedegaard og castet fra 'Stranger Things'",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "e562face-80e7-49dd-a50e-fbf7a2fd969c",
+      "season": 3,
+      "number": 6,
+      "name": "Bodil Jørgensen og Jared Padalecki",
+      "airdate": "2025-11-22"
+    },
+    {
+      "id": "157f1e87-bd68-4452-a2d9-ed57c0e2a035",
+      "season": 3,
+      "number": 7,
+      "name": "Jesper Binzer",
+      "airdate": "2025-11-29"
+    },
+    {
+      "id": "477eb595-6388-47fa-be85-8eaf5ffdcfbc",
+      "season": 3,
+      "number": 8,
+      "name": "'Vild med dans' ændrede deres liv",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "152f2453-28ed-4884-ba1a-c8faef977d43",
+      "season": 3,
+      "number": 9,
+      "name": "Søren Rasted",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "a112dc2d-d83b-4246-a265-f79cf2858a45",
+      "season": 3,
+      "number": 10,
+      "name": "Märtha Louise og Durek Verrett",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "1bad6bba-dd3a-4217-9b07-da82f53cf619",
+      "season": 4,
+      "number": 1,
+      "name": "Remee S. Jackman og Benjamin Lasnier",
+      "airdate": "2026-01-10"
+    },
+    {
+      "id": "4afe85d0-b1a4-4c4d-9cf1-2b726fdff411",
+      "season": 4,
+      "number": 2,
+      "name": "Anders W. Berthelsen og Lone Scherfig",
+      "airdate": "2026-01-17"
+    },
+    {
+      "id": "4d43ad8e-d6b2-480a-b54e-af3068e43d73",
+      "season": 4,
+      "number": 3,
+      "name": "Jill Liv Nielsen og Philip May",
+      "airdate": "2026-01-24"
+    },
+    {
+      "id": "164180cf-af84-4154-a3dd-949986b5549d",
+      "season": 4,
+      "number": 4,
+      "name": "Katinka og Miss Universe",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "130d9cfe-c349-441f-8bcb-73af1710d594",
+      "season": 4,
+      "number": 5,
+      "name": "Hadi Ka-koush og Bradley Cooper",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "ec08c323-0c49-4adf-8595-0df64d3935e5",
+      "season": 4,
+      "number": 6,
+      "name": "Susse Wold og Cecilie Lassen",
+      "airdate": "2026-02-21"
+    },
+    {
+      "id": "4d4446cc-a00b-43fd-9ae5-16781f6775a1",
+      "season": 4,
+      "number": 7,
+      "name": "'Spillet' reunion",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "9faa701f-4db9-4432-81e5-ee60a1d89ee0",
+      "season": 4,
+      "number": 8,
+      "name": "Ghita Nørby",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "e7b27da4-5d39-464c-95c1-a121e5e410f6",
+      "season": 4,
+      "number": 9,
+      "name": "Peter Mygind",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "92f6ed93-8365-479b-b210-a0f249566462",
+      "season": 4,
+      "number": 10,
+      "name": "Janni Ree og Linse Kessler",
+      "airdate": "2026-03-19"
+    },
+    {
+      "id": "a7976bd9-e24d-4cfb-8100-27a23f9ef0f4",
+      "season": 4,
+      "number": 11,
+      "name": "Sara Blædel, Anna Grue og Stine Bolther",
+      "airdate": "2026-03-26"
+    }
+  ]
+}

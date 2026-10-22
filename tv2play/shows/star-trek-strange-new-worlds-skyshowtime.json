@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:star-trek-strange-new-worlds-skyshowtime",
+  "name": "Star Trek: Strange New Worlds",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b7eb0389-337b-4385-87ae-8b47858f6aa3",
+      "season": 1,
+      "number": 1,
+      "name": "Strange New Worlds",
+      "airdate": "2022-05-06"
+    },
+    {
+      "id": "a47e9af1-2f70-44c1-beb4-f3e92af9ebad",
+      "season": 1,
+      "number": 2,
+      "name": "Children of the Comet",
+      "airdate": "2022-05-13"
+    },
+    {
+      "id": "5e09bfa5-c44f-404d-aa03-112728c9e478",
+      "season": 1,
+      "number": 3,
+      "name": "Ghosts of Illyria",
+      "airdate": "2022-05-20"
+    },
+    {
+      "id": "cfb53b12-d510-4275-9374-2f6ec7c8345c",
+      "season": 1,
+      "number": 4,
+      "name": "Memento Mori",
+      "airdate": "2022-05-27"
+    },
+    {
+      "id": "1e28ecc2-7a3f-45e2-8d11-adc4c8a8c477",
+      "season": 1,
+      "number": 5,
+      "name": "Spock Amok",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "1e1f2d84-a247-4b81-90fa-64b8f86ca2ac",
+      "season": 1,
+      "number": 6,
+      "name": "Lift Us Where Suffering Cannot Reach",
+      "airdate": "2022-06-10"
+    },
+    {
+      "id": "a017187e-3ab4-4377-a028-803d73eafcbb",
+      "season": 1,
+      "number": 7,
+      "name": "The Serene Squall",
+      "airdate": "2022-06-17"
+    },
+    {
+      "id": "d8fcd7cb-1929-405f-9a02-cfd354809357",
+      "season": 1,
+      "number": 8,
+      "name": "The Elysian Kingdom",
+      "airdate": "2022-06-24"
+    },
+    {
+      "id": "d450563b-2590-4316-839f-2b35f4053190",
+      "season": 1,
+      "number": 9,
+      "name": "All Those Who Wander",
+      "airdate": "2022-07-01"
+    },
+    {
+      "id": "e67e6df6-48cd-4de6-a113-98d2bdb2b2b1",
+      "season": 1,
+      "number": 10,
+      "name": "A Quality of Mercy",
+      "airdate": "2022-07-08"
+    },
+    {
+      "id": "b93717be-e172-4d84-ab46-373fe924e4c9",
+      "season": 2,
+      "number": 1,
+      "name": "The Broken Circle",
+      "airdate": "2023-06-16"
+    },
+    {
+      "id": "4c5a3ed0-fb3e-45e3-b5e8-2f19c0595cb9",
+      "season": 2,
+      "number": 2,
+      "name": "Ad Astra per Aspera",
+      "airdate": "2023-06-23"
+    },
+    {
+      "id": "e43587e7-2097-4f42-8c34-42126bef2aff",
+      "season": 2,
+      "number": 3,
+      "name": "Tomorrow and Tomorrow and Tomorrow",
+      "airdate": "2023-06-30"
+    },
+    {
+      "id": "6216a6b1-aafa-4115-8bf8-0460e7a009f4",
+      "season": 2,
+      "number": 4,
+      "name": "Among the Lotus Eaters",
+      "airdate": "2023-07-07"
+    },
+    {
+      "id": "eacdb90f-e6de-4804-810c-c1189e7de201",
+      "season": 2,
+      "number": 5,
+      "name": "Charades",
+      "airdate": "2023-07-14"
+    },
+    {
+      "id": "cc32803d-9c59-463b-919e-8b1338b25ac8",
+      "season": 2,
+      "number": 6,
+      "name": "Lost in Translation",
+      "airdate": "2023-07-21"
+    },
+    {
+      "id": "3933bee9-564c-4d8c-9784-1bfa13096b8d",
+      "season": 2,
+      "number": 7,
+      "name": "Those Old Scientists",
+      "airdate": "2023-07-23"
+    },
+    {
+      "id": "ae2c3d02-66a0-4778-9d4f-17da37528195",
+      "season": 2,
+      "number": 8,
+      "name": "Under the Cloak of War",
+      "airdate": "2023-07-28"
+    },
+    {
+      "id": "7bb02509-ee50-4faf-bd1e-839b9556ea83",
+      "season": 2,
+      "number": 9,
+      "name": "Subspace Rhapsody",
+      "airdate": "2023-08-04"
+    },
+    {
+      "id": "d2bdf2c7-16e2-4b85-8c85-de1d10b1236f",
+      "season": 2,
+      "number": 10,
+      "name": "Hegemony - Part 1",
+      "airdate": "2023-08-11"
+    },
+    {
+      "id": "5d22ab40-5da4-4c3e-9a25-cebe72ba447f",
+      "season": 3,
+      "number": 1,
+      "name": "Hegemony - Part 2",
+      "airdate": "2025-08-04"
+    },
+    {
+      "id": "032e6841-4919-4812-8ad2-ec490578a617",
+      "season": 3,
+      "number": 2,
+      "name": "Wedding Bell Blues",
+      "airdate": "2025-08-04"
+    },
+    {
+      "id": "cd094993-b6b9-413e-9dd0-202cec6e4036",
+      "season": 3,
+      "number": 3,
+      "name": "Shuttle to Kenfori",
+      "airdate": "2025-08-11"
+    },
+    {
+      "id": "eb2ef751-5d38-44ac-8d98-6b82afdde412",
+      "season": 3,
+      "number": 4,
+      "name": "A Space Adventure Hour",
+      "airdate": "2025-08-18"
+    },
+    {
+      "id": "fe9fac45-9810-49fc-bdc4-f0498f241d68",
+      "season": 3,
+      "number": 5,
+      "name": "Through the Lens of Time",
+      "airdate": "2025-08-25"
+    },
+    {
+      "id": "da0884a9-fd2f-4f4a-814e-69209aa1a75d",
+      "season": 3,
+      "number": 6,
+      "name": "The Sehlat Who Ate Its Tail",
+      "airdate": "2025-09-01"
+    },
+    {
+      "id": "90d79896-f28e-4c0f-b706-858e19bf1e78",
+      "season": 3,
+      "number": 7,
+      "name": "What Is Starfleet?",
+      "airdate": "2025-09-08"
+    },
+    {
+      "id": "4fb86c5a-9eda-45b0-998d-6fac8fc2854c",
+      "season": 3,
+      "number": 8,
+      "name": "Four-and-a-Half Vulcans",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "46dd90f3-6ea6-499d-9d21-fd4f9a7afffc",
+      "season": 3,
+      "number": 9,
+      "name": "Terrarium",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "33aacaa8-2386-43f9-91f6-e25a217ae8ea",
+      "season": 3,
+      "number": 10,
+      "name": "New Life and New Civilizations",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "b0fe72f3-12f9-4518-ae7f-99d3fbd5d687",
+      "season": 4,
+      "number": 1,
+      "name": "Valles Marineris",
+      "airdate": "2026-07-24"
+    },
+    {
+      "id": "787e70b6-cecc-4bd7-af33-265b35f214f3",
+      "season": 4,
+      "number": 2,
+      "name": "The Griffin Incident",
+      "airdate": "2026-07-31"
+    },
+    {
+      "id": "dddf2302-5f11-4ffd-854b-af493ed383c6",
+      "season": 4,
+      "number": 3,
+      "name": "Human Best Friend",
+      "airdate": "2026-08-07"
+    },
+    {
+      "id": "6daf6ef2-d0bc-4f0f-811b-fb4cdd8cedcb",
+      "season": 4,
+      "number": 4,
+      "name": "A Case of Chiaroscuro",
+      "airdate": "2026-08-14"
+    },
+    {
+      "id": "e85c25d9-254a-47d5-973e-32b78b11df0a",
+      "season": 4,
+      "number": 5,
+      "name": "Level-Five Transporter Accident",
+      "airdate": "2026-08-21"
+    },
+    {
+      "id": "5a22cfba-7828-48cb-b832-4007c640dd25",
+      "season": 4,
+      "number": 6,
+      "name": "Off-Hour",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "03c65ecf-4d3b-4354-8d52-9c3ddf297098",
+      "season": 4,
+      "number": 7,
+      "name": "Like Chronitons Through the Hourglass",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "bb644043-2f0b-456e-9ca7-3c7fa48e47ea",
+      "season": 4,
+      "number": 8,
+      "name": "Orders of Magnitude",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "5dd6f20d-cb0e-48c1-9e29-d05c04959c9a",
+      "season": 4,
+      "number": 9,
+      "name": "Once La'An a Time",
+      "airdate": "2026-09-18"
+    },
+    {
+      "id": "4960948e-213e-4d1f-97f3-388bf5a2675c",
+      "season": 4,
+      "number": 10,
+      "name": "Tomorrow's Enterprise",
+      "airdate": "2026-09-25"
+    }
+  ]
+}

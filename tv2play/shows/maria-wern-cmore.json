@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:maria-wern-cmore",
+  "name": "Maria Wern",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-11-06",
+  "episodes": [
+    {
+      "id": "9f8a4c01-711a-4e61-b0d8-0aa49bb7f0ed",
+      "season": 7,
+      "number": 1,
+      "name": "Den ild som brænder",
+      "airdate": "2021-08-01"
+    },
+    {
+      "id": "a870c61f-5ec0-4eb4-bd1d-3c0d39f20a55",
+      "season": 7,
+      "number": 2,
+      "name": "Ringe i vandet",
+      "airdate": "2021-08-01"
+    },
+    {
+      "id": "4e0b806d-f21a-4c65-a882-e664ed0a6117",
+      "season": 7,
+      "number": 3,
+      "name": "Hvisken i vinden",
+      "airdate": "2021-08-01"
+    },
+    {
+      "id": "68bfc9a2-7348-4b57-be1d-ef6ce446c7b0",
+      "season": 7,
+      "number": 4,
+      "name": "Til jord skal du atter blive",
+      "airdate": "2021-08-01"
+    },
+    {
+      "id": "d987a88c-f8d1-40d1-aa05-5987ead3ffd9",
+      "season": 9,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "244d35b2-26bc-416b-94b1-81fba9fa6768",
+      "season": 9,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "4f16b961-6206-49f0-bb6c-0e5e13901cd8",
+      "season": 9,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "20efdea0-e9ac-4c7c-8568-b49eaa4d3322",
+      "season": 9,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "017017f1-5123-4f8f-99a8-5e49ed513ff0",
+      "season": 9,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "0a895b16-941b-4fc1-8247-1a0e738f8a56",
+      "season": 9,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "e0834521-b0a8-4c20-af36-a28b75972f31",
+      "season": 9,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1f381586-4a5b-42ff-9e49-b3552f11f715",
+      "season": 9,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-02-14"
+    }
+  ]
+}

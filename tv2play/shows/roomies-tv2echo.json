@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:roomies-tv2echo",
+  "name": "Roomies",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6c4bc1bd-b6e3-4e6f-a733-d80ec864d47f",
+      "season": 2,
+      "number": 1,
+      "name": "Nye piger - nyt drama",
+      "airdate": "2018-11-04"
+    },
+    {
+      "id": "45db8bb4-0fab-46cc-8bed-d8a5121c940e",
+      "season": 2,
+      "number": 2,
+      "name": "Who let the dogs out",
+      "airdate": "2018-11-11"
+    },
+    {
+      "id": "181db405-fc65-417a-8946-4fd4467b6de9",
+      "season": 2,
+      "number": 3,
+      "name": "Ny roomie søges",
+      "airdate": "2018-11-18"
+    },
+    {
+      "id": "a4e8c1a5-1892-4a20-b294-9c13a93fe2fb",
+      "season": 2,
+      "number": 4,
+      "name": "It’s a match",
+      "airdate": "2018-11-25"
+    },
+    {
+      "id": "59afa20f-731d-43a2-8a74-85f8b76df47f",
+      "season": 2,
+      "number": 5,
+      "name": "Ung kærlighed",
+      "airdate": "2018-12-02"
+    },
+    {
+      "id": "856c3945-9742-4e1f-9fb3-86d854e43858",
+      "season": 2,
+      "number": 6,
+      "name": "En ulykke kommer sjældent alene",
+      "airdate": "2018-12-09"
+    },
+    {
+      "id": "939073ae-69af-4ba1-82b7-b112ea6e1d85",
+      "season": 2,
+      "number": 7,
+      "name": "Another day another drama",
+      "airdate": "2018-12-09"
+    },
+    {
+      "id": "2149b1fa-ca33-448a-bb8c-80beb116c95b",
+      "season": 2,
+      "number": 8,
+      "name": "Roomies tager på Smukfest",
+      "airdate": "2018-12-16"
+    },
+    {
+      "id": "da510d90-04f4-4e84-8530-1894094f9249",
+      "season": 2,
+      "number": 9,
+      "name": "Hva' så nu?",
+      "airdate": "2018-12-16"
+    }
+  ]
+}

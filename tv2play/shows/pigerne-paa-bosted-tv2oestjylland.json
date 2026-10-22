@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:pigerne-paa-bosted-tv2oestjylland",
+  "name": "Pigerne på bosted",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d66ffd89-98d3-437c-9967-d5236cedc0bb",
+      "season": 1,
+      "number": 3,
+      "name": "Drømmen om et leverpostejsliv",
+      "airdate": "2024-06-10"
+    }
+  ]
+}

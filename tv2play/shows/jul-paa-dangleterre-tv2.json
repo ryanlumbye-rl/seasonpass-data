@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:jul-paa-dangleterre-tv2",
+  "name": "Jul på d'Angleterre",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7ad7f4ec-94e8-4ba4-ba90-c6b5deccecd0",
+      "season": 1,
+      "number": 1,
+      "name": "Dansk dokumentar",
+      "airdate": "2013-12-12"
+    },
+    {
+      "id": "394b199e-d132-4c25-bb2a-a2025ba694ff",
+      "season": 2,
+      "number": 1,
+      "name": "En julefacade bliver til",
+      "airdate": "2016-12-01"
+    },
+    {
+      "id": "85fd0eb1-342a-4b2b-ac0e-87f0c41ccd90",
+      "season": 2,
+      "number": 2,
+      "name": "En julefacade bliver til",
+      "airdate": "2016-12-08"
+    },
+    {
+      "id": "fc884462-fd7e-44b7-a430-510d0b8ed15d",
+      "season": 3,
+      "number": 1,
+      "name": "En julefacade bliver til",
+      "airdate": "2019-12-17"
+    }
+  ]
+}

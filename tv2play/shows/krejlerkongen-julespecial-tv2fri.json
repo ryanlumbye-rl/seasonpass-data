@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:krejlerkongen-julespecial-tv2fri",
+  "name": "Krejlerkongen - julespecial",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "86310799-0323-4613-99f1-6529cd9c7aa0",
+      "season": 2,
+      "number": 1,
+      "name": "Med Line Kruse og Thomas Hwan",
+      "airdate": "2018-11-26"
+    },
+    {
+      "id": "42cc9270-763b-42c9-850b-c51dd64b297d",
+      "season": 2,
+      "number": 2,
+      "name": "Med Michèle Bellaiche og Carsten Knudsen",
+      "airdate": "2018-11-27"
+    },
+    {
+      "id": "095a14d4-bc12-44d5-b26b-c3e8a7364794",
+      "season": 2,
+      "number": 3,
+      "name": "Med Donald Andersen og Stine Schrøder",
+      "airdate": "2018-11-28"
+    },
+    {
+      "id": "ee09db0c-1fb4-4afb-a35f-5a92804d7547",
+      "season": 2,
+      "number": 4,
+      "name": "Finale",
+      "airdate": "2018-11-29"
+    },
+    {
+      "id": "fb8f862b-80f0-4281-836c-79edd172faca",
+      "season": 2,
+      "number": 5,
+      "name": "Med Finn Nielsen og Trine Gadeberg",
+      "airdate": "2018-12-03"
+    },
+    {
+      "id": "231366aa-c793-498f-98e0-7cd8b37f6888",
+      "season": 2,
+      "number": 6,
+      "name": "Med Pia Rosenbaum og Roger Matthiesen",
+      "airdate": "2018-12-04"
+    },
+    {
+      "id": "c78e4f4e-7818-40d3-9f71-fe05d4662cea",
+      "season": 2,
+      "number": 7,
+      "name": "Med Mia Lyhne og Paw Henriksen",
+      "airdate": "2018-12-05"
+    },
+    {
+      "id": "6351f527-66f2-4065-8d9c-286f01af3bb5",
+      "season": 2,
+      "number": 8,
+      "name": "Med Finn Nielsen og Pia Rosenbaum",
+      "airdate": "2018-12-06"
+    },
+    {
+      "id": "72fd00b5-d833-41c6-ad80-371c5de6d98f",
+      "season": 3,
+      "number": 1,
+      "name": "Med Michael Hasselflug og Donald Andersen",
+      "airdate": "2019-11-25"
+    },
+    {
+      "id": "d524d74c-2445-40d9-b2b1-4cb34e728a54",
+      "season": 3,
+      "number": 2,
+      "name": "Med Claus Holm og Søren Gericke",
+      "airdate": "2019-11-26"
+    },
+    {
+      "id": "c8619537-9001-4b8a-a955-2b865ba869f0",
+      "season": 3,
+      "number": 3,
+      "name": "Med Merete Mærkedahl og Umut Ra Sakarya",
+      "airdate": "2019-11-27"
+    },
+    {
+      "id": "0e86e37a-93fa-4c20-a6cf-5b088dacc28f",
+      "season": 3,
+      "number": 4,
+      "name": "Hvem bliver julekrejlerkonge?",
+      "airdate": "2019-11-28"
+    },
+    {
+      "id": "f2bd4d9d-0613-4b8a-8eba-23a464f253ad",
+      "season": 3,
+      "number": 5,
+      "name": "Med Julie Berthelsen og Bryan Rice",
+      "airdate": "2019-12-02"
+    },
+    {
+      "id": "9454ccc5-23b7-4dc8-bf4d-820b38cb481c",
+      "season": 3,
+      "number": 6,
+      "name": "Med Maria Lucia og Henrik Noél",
+      "airdate": "2019-12-03"
+    },
+    {
+      "id": "3c53d13b-9a28-479a-b207-255d6f189457",
+      "season": 3,
+      "number": 7,
+      "name": "Med Hilda og Keld Heick",
+      "airdate": "2019-12-04"
+    },
+    {
+      "id": "d47aa402-6238-44a5-bb52-72a34d61c695",
+      "season": 3,
+      "number": 8,
+      "name": "Hvem bliver julekrejlerkonge?",
+      "airdate": "2019-12-05"
+    },
+    {
+      "id": "156fab54-69f4-4adc-82ee-4895c335f08d",
+      "season": 4,
+      "number": 1,
+      "name": "Med Ann Hjort og Troels Lyby",
+      "airdate": "2021-11-29"
+    },
+    {
+      "id": "2ab42d54-de53-498b-ba7b-233ce61b112b",
+      "season": 4,
+      "number": 2,
+      "name": "Med Søren Hauch-Fausbøll og Mia Lyhne",
+      "airdate": "2021-11-30"
+    },
+    {
+      "id": "77aebf97-f4b7-4464-843e-7499cf5e50fd",
+      "season": 4,
+      "number": 3,
+      "name": "Med Adam Ild Rohweder og Anne Sofie Espersen",
+      "airdate": "2021-12-01"
+    },
+    {
+      "id": "36234348-c19f-4119-9e7b-72960348b13e",
+      "season": 4,
+      "number": 4,
+      "name": "Ugefinale",
+      "airdate": "2021-12-02"
+    },
+    {
+      "id": "8958cc40-d81b-4887-9068-5d6b34e7c6c5",
+      "season": 4,
+      "number": 5,
+      "name": "Med Laura Bro og Martin Bo Lindsten",
+      "airdate": "2021-12-06"
+    },
+    {
+      "id": "9ad5f18a-6648-4e88-b217-f63700bd9e94",
+      "season": 4,
+      "number": 6,
+      "name": "Med Jens Zacho Böye og Chapper",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "e651ee29-ea72-4983-810a-b8a31bb4548c",
+      "season": 4,
+      "number": 7,
+      "name": "Med Jeanne Boel og Martin Miehe-Renard",
+      "airdate": "2021-12-08"
+    },
+    {
+      "id": "e79a345c-f789-49dd-b619-122bb1235549",
+      "season": 4,
+      "number": 8,
+      "name": "Ugefinale",
+      "airdate": "2021-12-09"
+    }
+  ]
+}

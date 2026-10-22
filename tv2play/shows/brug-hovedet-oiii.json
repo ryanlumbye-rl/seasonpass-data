@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:brug-hovedet-oiii",
+  "name": "Brug hovedet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3d03eef7-393a-4a45-b135-924902bad294",
+      "season": 1,
+      "number": 1,
+      "name": "Helt hul i hovedet",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "eeed569d-be0c-473c-8a2e-7471f5eb1fd6",
+      "season": 1,
+      "number": 2,
+      "name": "Helt uden øjne i hovedet",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "c7d0dcdc-4544-4323-8bc1-5802e203126d",
+      "season": 1,
+      "number": 3,
+      "name": "Helt kort for hovedet",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "88bc2991-f666-4728-b2ab-d319218ea739",
+      "season": 1,
+      "number": 4,
+      "name": "Helt gasblå i hovedet",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "1c258aa3-09d5-4084-bbde-9ffb196b3a1d",
+      "season": 1,
+      "number": 5,
+      "name": "Helt våd i hovedet",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "f7c1709b-9d68-480b-87e1-baa9a4987bca",
+      "season": 1,
+      "number": 6,
+      "name": "Helt hovedkulds",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "3d422854-4d8a-4856-b544-adabe868fede",
+      "season": 1,
+      "number": 7,
+      "name": "Helt på hovedet",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "6aee4f3e-0e5a-49ef-a5cd-c50f8dc21cb4",
+      "season": 1,
+      "number": 8,
+      "name": "Helt vild hovedret",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "fe6e9f56-b829-488b-a23f-0767b9393cc9",
+      "season": 1,
+      "number": 9,
+      "name": "Helt hovedløs",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "d2694cb4-736a-4a6d-8e1a-1477fa5a0c5f",
+      "season": 1,
+      "number": 10,
+      "name": "Helt hen over hovedet",
+      "airdate": "2025-05-29"
+    }
+  ]
+}

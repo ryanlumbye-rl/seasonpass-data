@@ -1,0 +1,535 @@
+{
+  "id": "tv2play:californication-skyshowtime",
+  "name": "Californication",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "eb3dd591-c99f-4a3a-a7b1-8c8dd27da377",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4890d885-8373-4cc7-97da-09f214c1f8ec",
+      "season": 1,
+      "number": 2,
+      "name": "Hell-A Woman",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9d223182-bf15-43ae-9ddf-e2988dc7fc58",
+      "season": 1,
+      "number": 3,
+      "name": "The Whore Of Babylon",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f0050e0b-e676-4d99-b7bc-b5a8172cc0c6",
+      "season": 1,
+      "number": 5,
+      "name": "LOL",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "713a6c44-1691-4036-b63e-dca457fa1802",
+      "season": 1,
+      "number": 6,
+      "name": "Absinthe Makes The Heart Grow Fonder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "13961ee7-06d5-4d1e-b780-dadbcfcbe939",
+      "season": 1,
+      "number": 7,
+      "name": "Girls, Interrupted",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b09e9f76-4232-4bff-94ac-debe6607c351",
+      "season": 1,
+      "number": 8,
+      "name": "California Son",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "53c3ff04-6b59-43f4-960d-4058d8f19f8f",
+      "season": 1,
+      "number": 9,
+      "name": "Filthy Lucre",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a45f98b8-9f2c-436e-98d2-b01509be233f",
+      "season": 1,
+      "number": 10,
+      "name": "The Devil's Threesome",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "30c7b659-e6d3-4b35-96b1-afbc124b444b",
+      "season": 1,
+      "number": 11,
+      "name": "Turn The Page",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2720ec76-b5a2-4bc1-bba4-cb789a8a5701",
+      "season": 1,
+      "number": 12,
+      "name": "The Last Waltz",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "80fb2896-a149-4c78-b898-09119252be36",
+      "season": 2,
+      "number": 1,
+      "name": "Slip of the Tongue",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9aff3726-a7c0-4626-bf5f-0991541605d7",
+      "season": 2,
+      "number": 2,
+      "name": "The Great Ashby",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6f5392d6-c610-4577-bb54-aca95b19f3f8",
+      "season": 2,
+      "number": 3,
+      "name": "No Way To Treat A Lady",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1cf31eb2-a400-40bd-ba1f-cc49f61ebd42",
+      "season": 2,
+      "number": 4,
+      "name": "The Raw & The Cooked",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "22dbc55d-f165-4e28-813c-afcb9a203ab6",
+      "season": 2,
+      "number": 5,
+      "name": "Vaginatown",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "76f06b03-1f70-4e2c-9dd7-4a82e07d717d",
+      "season": 2,
+      "number": 6,
+      "name": "Coke Dick And The First Kick",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7b7511fc-fb95-4dac-98f0-841a8e979766",
+      "season": 2,
+      "number": 7,
+      "name": "In a Lonely Place",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "78e874e3-893c-4c44-b5dd-dfe4fed63a8a",
+      "season": 2,
+      "number": 8,
+      "name": "Going Down And Out In Beverly Hills",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "746064a7-10a2-474b-8b80-2664b805a7bd",
+      "season": 2,
+      "number": 9,
+      "name": "La Ronde",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8a3aef38-1fe7-44eb-909c-552174468848",
+      "season": 2,
+      "number": 10,
+      "name": "In Utero",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "911396a5-fa0e-4eca-a44b-35948a1fd51f",
+      "season": 2,
+      "number": 11,
+      "name": "Blues From Laurel Canyon",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6b0f5f8e-a873-4df4-8d1e-35a0c6cbdc5c",
+      "season": 2,
+      "number": 12,
+      "name": "La Petite Mort",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a4e12c0c-1f44-45bf-b20b-a1cd8148b4ee",
+      "season": 3,
+      "number": 1,
+      "name": "Wish You Were Here",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a49922f1-2354-40ac-ae2f-4de0052412a1",
+      "season": 3,
+      "number": 2,
+      "name": "The Land Of Rape And Honey",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a97abbfb-e26c-4f3d-b25a-0b519fab3b5e",
+      "season": 3,
+      "number": 3,
+      "name": "Verities & Balderdash",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4249290b-02d8-4ca6-bdca-d483f876b65c",
+      "season": 3,
+      "number": 4,
+      "name": "Zoso",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "390d5c38-615e-4525-aa77-b6251f8d931f",
+      "season": 3,
+      "number": 6,
+      "name": "Glass Houses",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2e88d0a7-eb11-4047-a7a3-20584cb0f151",
+      "season": 3,
+      "number": 7,
+      "name": "So Here's The Thing...",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2aff59ff-d698-427f-affb-9319f0df2485",
+      "season": 3,
+      "number": 8,
+      "name": "The Apartment",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5a6af96f-f979-4209-a35f-6f1adb3235b8",
+      "season": 3,
+      "number": 9,
+      "name": "Mr. Bad Example",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3588c5ea-e9c4-4d97-8c20-5673fa7ac422",
+      "season": 3,
+      "number": 10,
+      "name": "Dogtown",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "24f410f2-1744-4c8d-a825-fec426f13c82",
+      "season": 3,
+      "number": 11,
+      "name": "Comings & Goings",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5ac6c059-d33e-4c6b-89b9-1ddc815de4f7",
+      "season": 3,
+      "number": 12,
+      "name": "Mia Culpa",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "719ff8b1-d6c4-476f-bf04-e3414b0b13ce",
+      "season": 4,
+      "number": 1,
+      "name": "Exile On Main Street",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "31e79547-8b43-4a03-82c5-85e81db72b54",
+      "season": 4,
+      "number": 2,
+      "name": "Suicide Solution",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eb828add-d701-4738-807e-0f89aa38d71d",
+      "season": 4,
+      "number": 3,
+      "name": "Home Sweet Home",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c115e0d9-6f08-4a8d-a318-d34c753677c3",
+      "season": 4,
+      "number": 4,
+      "name": "Monkey Business",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "27408ea0-68ac-4abb-8650-788640324954",
+      "season": 4,
+      "number": 5,
+      "name": "Freeze Frame",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ce0fefb4-313d-4af8-b61c-8b5ea9bf2039",
+      "season": 4,
+      "number": 6,
+      "name": "Lawyers, Guns and Money",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6d9741cd-8d26-42e1-a7e8-71c72075e26c",
+      "season": 4,
+      "number": 7,
+      "name": "The Recused",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "49f8df62-8482-4777-a81f-6f3d4deda443",
+      "season": 4,
+      "number": 8,
+      "name": "Lights. Camera. Asshole.",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "45ea0cb4-e5a1-4668-aea6-506b758c3e4e",
+      "season": 4,
+      "number": 9,
+      "name": "Another Perfect Day",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "87011b42-59b9-484a-881e-8446658a7b64",
+      "season": 4,
+      "number": 10,
+      "name": "The Trial",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bbf076cd-1844-44fe-9752-cc3b2614bfde",
+      "season": 4,
+      "number": 11,
+      "name": "The Last Supper",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "92c70dbb-a9fc-40b1-95d2-e4e63b2d7ce0",
+      "season": 5,
+      "number": 1,
+      "name": "JFK -> LAX",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f38fc4f3-1124-4b6e-a7b5-4a6c08423a70",
+      "season": 5,
+      "number": 2,
+      "name": "The Way of The Fist",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "33fd0d1e-944f-4478-a063-c7d05fd2b57d",
+      "season": 5,
+      "number": 3,
+      "name": "Boys & Girls",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "37093887-f55f-4589-8f8e-f460f1dc4037",
+      "season": 5,
+      "number": 4,
+      "name": "Waiting For The Miracle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7cb9d731-818e-49c8-a2a3-cdeb17f7a146",
+      "season": 5,
+      "number": 5,
+      "name": "The Ride Along",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ac2eb1cb-a735-40b8-9fc5-4165ffee831a",
+      "season": 5,
+      "number": 6,
+      "name": "Love Song",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "745172aa-33a5-4dba-9420-ad705502d647",
+      "season": 5,
+      "number": 7,
+      "name": "Here I Go Again",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9cb9f5d8-5aa1-4b0d-9576-b15d221800ee",
+      "season": 5,
+      "number": 9,
+      "name": "At The Movies",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3510a566-f852-4071-a361-3d9842316bd0",
+      "season": 5,
+      "number": 12,
+      "name": "Hell Ain't a Bad Place To Be",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3b6a26dc-862d-46d4-a6de-993f1ec27b21",
+      "season": 6,
+      "number": 1,
+      "name": "The Unforgiven",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e144c0ca-fe5d-4779-b534-30752e06d880",
+      "season": 6,
+      "number": 2,
+      "name": "Quitters",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d1ef950e-a452-4a23-bd5e-58554d403ae2",
+      "season": 6,
+      "number": 4,
+      "name": "Hell Bent for Leather",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "785807b7-8301-4080-8b29-286183db00f2",
+      "season": 6,
+      "number": 5,
+      "name": "Rock and a Hard Place",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bbae57e6-01d6-4fe3-91f6-f4e828a0d197",
+      "season": 6,
+      "number": 6,
+      "name": "In the Clouds",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2e7208db-215d-46e2-afb0-a80f9cf7ffd9",
+      "season": 6,
+      "number": 7,
+      "name": "The Dope Show",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e6443329-962b-4e29-8522-9c70315066e4",
+      "season": 6,
+      "number": 8,
+      "name": "Everybody's a F**king Critic",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "edd3cc40-180c-4f62-9e45-061054390ecb",
+      "season": 6,
+      "number": 9,
+      "name": "Mad Dogs & Englishmen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "361d5847-91c4-4cc1-b3e4-29dff613e770",
+      "season": 6,
+      "number": 10,
+      "name": "Blind Faith",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "81cf4765-a5c4-4e54-83a5-5098af3f6d78",
+      "season": 6,
+      "number": 11,
+      "name": "The Abby",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "479bc882-2f56-4b35-8272-2fa5bfc69366",
+      "season": 6,
+      "number": 12,
+      "name": "I'll Lay My Monsters Down",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d182aaee-8240-41e4-8633-54efe8b843ad",
+      "season": 7,
+      "number": 1,
+      "name": "Levon",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e77ba55a-88a3-4bbe-95a5-dbee5b05ae65",
+      "season": 7,
+      "number": 2,
+      "name": "Julia",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3d0f1d3d-3d79-4088-a1aa-2962480f381d",
+      "season": 7,
+      "number": 3,
+      "name": "Like Father Like Son",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7e7c51dd-42e3-4055-ab13-1edc8abbc054",
+      "season": 7,
+      "number": 5,
+      "name": "Getting the Poison Out",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "93c74099-79b9-4469-88fa-26bba688c5c9",
+      "season": 7,
+      "number": 6,
+      "name": "Kickoff",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3fede3f9-9246-4bdb-9909-89a92fdec74c",
+      "season": 7,
+      "number": 7,
+      "name": "Smile",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "41f3c1de-fdda-4af5-aefd-4f34fa2fc5f9",
+      "season": 7,
+      "number": 8,
+      "name": "30 Minutes or Less",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "86ead4ea-a5cd-46eb-bb6a-ada56c83922b",
+      "season": 7,
+      "number": 9,
+      "name": "Faith, Hope, Love",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c017f4d9-fc48-474d-9ebe-81ddce9f33a2",
+      "season": 7,
+      "number": 11,
+      "name": "Daughter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6cfe0c79-0c20-41f7-986b-dbf77abe7964",
+      "season": 7,
+      "number": 12,
+      "name": "Grace",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

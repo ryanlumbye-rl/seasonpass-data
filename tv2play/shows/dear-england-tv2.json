@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:dear-england-tv2",
+  "name": "Dear England",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0b2289cd-13e0-45ab-a117-6b31478afe7b",
+      "season": 1,
+      "number": 1,
+      "name": "Taberholdet",
+      "airdate": "2026-06-09"
+    },
+    {
+      "id": "1c5c27b2-31d2-466f-8085-4fe59b775801",
+      "season": 1,
+      "number": 2,
+      "name": "Pres på hjemmebanen",
+      "airdate": "2026-06-09"
+    },
+    {
+      "id": "4d1aa7ab-1032-465f-a668-a759003072c8",
+      "season": 1,
+      "number": 3,
+      "name": "Et uventet nederlag",
+      "airdate": "2026-06-09"
+    },
+    {
+      "id": "3e3d6480-b9db-4a20-ba25-fffa2ff35d98",
+      "season": 1,
+      "number": 4,
+      "name": "Sidste chance",
+      "airdate": "2026-06-09"
+    }
+  ]
+}

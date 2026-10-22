@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:kender-du-hende-oiii",
+  "name": "Kender du hende?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "726e80de-a752-42b9-8b45-fed8fc572a90",
+      "season": 1,
+      "number": 1,
+      "name": "Inge Lehmann",
+      "airdate": "2023-03-04"
+    },
+    {
+      "id": "71ded1b8-cc66-4e10-a0cb-b81bb659d20b",
+      "season": 1,
+      "number": 2,
+      "name": "Asta Nielsen",
+      "airdate": "2023-03-04"
+    },
+    {
+      "id": "84098e5e-909e-409e-93ab-975606aa05c0",
+      "season": 1,
+      "number": 3,
+      "name": "Lis Hartel",
+      "airdate": "2023-03-04"
+    },
+    {
+      "id": "a0d11428-a65a-4516-ba07-6e1f37359965",
+      "season": 1,
+      "number": 4,
+      "name": "Nina Bang",
+      "airdate": "2023-03-04"
+    },
+    {
+      "id": "987ccb5c-4aed-4a68-b25c-ad289a2488f4",
+      "season": 1,
+      "number": 5,
+      "name": "Else Marie Pade",
+      "airdate": "2023-03-04"
+    },
+    {
+      "id": "cae8463f-3bb6-4dfd-956d-8299de9f2ce7",
+      "season": 1,
+      "number": 6,
+      "name": "Jenny Kammersgaard",
+      "airdate": "2023-03-04"
+    }
+  ]
+}

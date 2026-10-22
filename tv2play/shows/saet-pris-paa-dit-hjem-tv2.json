@@ -1,0 +1,185 @@
+{
+  "id": "tv2play:saet-pris-paa-dit-hjem-tv2",
+  "name": "Sæt pris på dit hjem",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7064550b-7cbe-4f61-968d-f136d0fbb3ad",
+      "season": 2,
+      "number": 1,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2014-11-25"
+    },
+    {
+      "id": "ff296315-6bcf-4032-8b54-58c74bff8f70",
+      "season": 2,
+      "number": 2,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2014-11-25"
+    },
+    {
+      "id": "6b7d19f2-408d-4eec-8413-f178e9d2dfd4",
+      "season": 2,
+      "number": 3,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2014-11-26"
+    },
+    {
+      "id": "deed38e1-8c65-42fa-835a-4571280e63f7",
+      "season": 2,
+      "number": 4,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2014-11-26"
+    },
+    {
+      "id": "eb6c134c-8b55-4a6d-8e5f-13283bb09f7d",
+      "season": 2,
+      "number": 5,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2014-11-27"
+    },
+    {
+      "id": "c3d28b57-5745-4f12-a4bf-b9d9e8a6282b",
+      "season": 2,
+      "number": 6,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2014-11-27"
+    },
+    {
+      "id": "89d5f7ee-2561-47a7-a1d5-f6ea35d44bda",
+      "season": 2,
+      "number": 7,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2014-11-28"
+    },
+    {
+      "id": "fc0756a0-961a-43fa-b478-6c2a1c7e4b93",
+      "season": 2,
+      "number": 8,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2014-11-28"
+    },
+    {
+      "id": "b89c98e5-6864-47e8-99d0-f7ac28ab1ac9",
+      "season": 3,
+      "number": 1,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2015-12-28"
+    },
+    {
+      "id": "b2d1ec67-3b04-4821-8150-0084979ee00b",
+      "season": 3,
+      "number": 2,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2016-01-04"
+    },
+    {
+      "id": "f3d77954-6739-487e-91d3-6452bfa258ad",
+      "season": 3,
+      "number": 3,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2016-01-18"
+    },
+    {
+      "id": "bd1ca571-88cb-4799-a2c4-2f2627fa6ed8",
+      "season": 3,
+      "number": 4,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2016-01-25"
+    },
+    {
+      "id": "29276394-efc3-4c6a-aae6-c7c084f4e244",
+      "season": 3,
+      "number": 5,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2016-02-01"
+    },
+    {
+      "id": "a1d8714a-dac1-48e3-8126-21732ea94124",
+      "season": 3,
+      "number": 6,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2016-02-08"
+    },
+    {
+      "id": "a8e3251a-15d0-4316-8244-0875c6949aab",
+      "season": 3,
+      "number": 7,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2016-02-15"
+    },
+    {
+      "id": "b5bcafe3-5edf-4fe1-b163-65b9ac9cc7b6",
+      "season": 4,
+      "number": 1,
+      "name": "Jagten på skjulte skatte",
+      "airdate": "2017-01-23"
+    },
+    {
+      "id": "b51d6299-0bd4-4dfc-97c2-f1431146367f",
+      "season": 4,
+      "number": 2,
+      "name": "På jagt i Korsør",
+      "airdate": "2017-01-30"
+    },
+    {
+      "id": "c259d6f8-d8a6-4680-8b21-cc6ba3c19d75",
+      "season": 4,
+      "number": 3,
+      "name": "På jagt i Randers",
+      "airdate": "2017-02-06"
+    },
+    {
+      "id": "97e9024f-bfae-4ab2-9404-d8aafda1c06d",
+      "season": 4,
+      "number": 4,
+      "name": "På jagt i Rødekro",
+      "airdate": "2017-02-13"
+    },
+    {
+      "id": "08912d2a-7e7e-4335-9881-751253f20686",
+      "season": 4,
+      "number": 5,
+      "name": "På jagt i Espergærde",
+      "airdate": "2017-02-20"
+    },
+    {
+      "id": "06d6a083-9d4a-4028-9f54-4cd174fce97b",
+      "season": 4,
+      "number": 6,
+      "name": "På jagt på Bogø",
+      "airdate": "2017-02-27"
+    },
+    {
+      "id": "8a1cc0dc-58a9-4e5d-847d-f27c72e93fa1",
+      "season": 5,
+      "number": 1,
+      "name": "Jagten på skjulte skatte - i Mørke",
+      "airdate": "2017-10-24"
+    },
+    {
+      "id": "2e9adb9e-d83b-44e2-b5ac-fe1c3ac2ef31",
+      "season": 5,
+      "number": 2,
+      "name": "Jagten på skjulte skatte - i Åbenrå",
+      "airdate": "2017-10-31"
+    },
+    {
+      "id": "03ac6408-c1cd-44b8-bdd0-d1767cf02f45",
+      "season": 5,
+      "number": 3,
+      "name": "Jagten på skjulte skatte - i Grindsted",
+      "airdate": "2017-11-07"
+    },
+    {
+      "id": "06696eba-44dd-4cd8-88ae-a32aca8216b0",
+      "season": 5,
+      "number": 4,
+      "name": "Jagten på skjulte skatte - på Østerbro",
+      "airdate": "2017-11-21"
+    }
+  ]
+}

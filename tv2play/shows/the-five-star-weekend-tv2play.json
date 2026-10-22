@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:the-five-star-weekend-tv2play",
+  "name": "The Five Star Weekend",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-11-06",
+  "episodes": [
+    {
+      "id": "72c5f32e-0c5d-42ea-927d-9b4d40325f0f",
+      "season": 1,
+      "number": 1,
+      "name": "Friday: Arrivals",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "490f970a-2e6c-45bb-b94c-c386d771ddea",
+      "season": 1,
+      "number": 2,
+      "name": "Friday Night: Pajama Dance Party",
+      "airdate": "2026-10-16"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:marshals-tv2play",
+  "name": "Marshals",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-23",
+  "episodes": [
+    {
+      "id": "247e7b63-a68c-4cb0-b7a6-ab5816bb39e0",
+      "season": 1,
+      "number": 1,
+      "name": "Piya Wiconi",
+      "airdate": "2026-03-02"
+    },
+    {
+      "id": "9d2c9cbc-48e5-4dff-ac5c-3bcf73c61ba3",
+      "season": 1,
+      "number": 2,
+      "name": "Zone of Death",
+      "airdate": "2026-03-09"
+    },
+    {
+      "id": "c98612be-c4cf-48ad-9bc6-aa5f803b9891",
+      "season": 1,
+      "number": 3,
+      "name": "Road to Nowhere",
+      "airdate": "2026-03-16"
+    },
+    {
+      "id": "6b455452-6d81-451a-9b31-5548077695a1",
+      "season": 1,
+      "number": 4,
+      "name": "The Gathering Storm",
+      "airdate": "2026-03-23"
+    },
+    {
+      "id": "8d381fbf-3c99-4940-b735-51a0d9f95a23",
+      "season": 1,
+      "number": 5,
+      "name": "Lost Girls",
+      "airdate": "2026-03-30"
+    },
+    {
+      "id": "e684cc61-4111-4771-97ee-8e68f6ea9f9e",
+      "season": 1,
+      "number": 6,
+      "name": "Out of the Shadows",
+      "airdate": "2026-04-06"
+    },
+    {
+      "id": "80b539df-fb7c-430c-b360-4150882336f7",
+      "season": 1,
+      "number": 7,
+      "name": "Family Business",
+      "airdate": "2026-04-13"
+    },
+    {
+      "id": "56e3b9b6-7590-4042-8651-d89ad544ffee",
+      "season": 1,
+      "number": 8,
+      "name": "Blowback",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "7d964843-dc36-4071-803d-836cd382d99b",
+      "season": 1,
+      "number": 9,
+      "name": "In Low Places",
+      "airdate": "2026-04-27"
+    },
+    {
+      "id": "a4793479-5bf2-40b7-b4e5-f0cc680f428b",
+      "season": 1,
+      "number": 10,
+      "name": "Playing with Fire",
+      "airdate": "2026-05-04"
+    },
+    {
+      "id": "99502794-77d5-4cc4-8c22-d27c9a4f4637",
+      "season": 1,
+      "number": 11,
+      "name": "On Thin Ice",
+      "airdate": "2026-05-11"
+    },
+    {
+      "id": "69ee3786-5581-4d77-8059-a50c239b4205",
+      "season": 1,
+      "number": 12,
+      "name": "The Devil at Home",
+      "airdate": "2026-05-18"
+    },
+    {
+      "id": "9593caa6-7b18-4797-934b-cedf1c14bc81",
+      "season": 1,
+      "number": 13,
+      "name": "Wolves at the Door",
+      "airdate": "2026-05-25"
+    },
+    {
+      "id": "074f16ea-d14a-4dd3-9dff-fef9b9ee1bcf",
+      "season": 2,
+      "number": 1,
+      "name": "All Hat No Cattle",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "a56aae0c-d291-4bc5-857b-4618e3ab7528",
+      "season": 2,
+      "number": 2,
+      "name": "End of Watch",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "efaf62df-c34e-4610-b35e-7e5cd199628e",
+      "season": 2,
+      "number": 3,
+      "name": "Falling Sky",
+      "airdate": "2026-10-23"
+    }
+  ]
+}

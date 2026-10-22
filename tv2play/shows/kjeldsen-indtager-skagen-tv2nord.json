@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:kjeldsen-indtager-skagen-tv2nord",
+  "name": "Kjeldsen indtager Skagen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "60a6020d-1073-4b18-932d-9baf425fffdb",
+      "season": 1,
+      "number": 1,
+      "name": "Store planer",
+      "airdate": "2024-11-17"
+    },
+    {
+      "id": "9588e266-1b24-40b0-b1f1-fcbec4c1f157",
+      "season": 1,
+      "number": 2,
+      "name": "Dømt i Byretten",
+      "airdate": "2024-11-24"
+    },
+    {
+      "id": "06dd65e6-64b9-4c98-b84d-c2f8d1406c21",
+      "season": 1,
+      "number": 3,
+      "name": "Fra fisker til turisme",
+      "airdate": "2024-11-27"
+    },
+    {
+      "id": "c02c1c8a-b3a1-45bf-9d6d-ea37ab59dd6f",
+      "season": 2,
+      "number": 1,
+      "name": "Vintage Vuitton",
+      "airdate": "2026-02-01"
+    },
+    {
+      "id": "8eb10480-6444-47b5-9697-b1742e42c42c",
+      "season": 2,
+      "number": 2,
+      "name": "Milliardæren med skruemaskinen",
+      "airdate": "2026-02-08"
+    }
+  ]
+}

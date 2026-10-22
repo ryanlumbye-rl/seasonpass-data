@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:luther-britbox",
+  "name": "Luther",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6478567c-068c-46d6-907b-a536f001e2fa",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "a714286b-a8ee-460a-bccd-82d05ef4972d",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "42f900cf-a2ff-46b6-8b8a-7bd7812abad6",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "23a93534-46b6-469b-ba37-8e6339cae7c6",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "1a2f03b7-2de4-4f3f-bc36-709fb0f7bb71",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "0e4044e5-1d80-4998-a125-2a312ee68fd0",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "2a126b4c-9e74-44e0-91ab-dd8659fa2058",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "9e7465ba-6191-4d93-8272-56f46c3cbe23",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "d8a40f21-300d-48a1-a8c3-d29aa77abdfc",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "a09f5002-21b8-4698-bf29-28011a6bda62",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "32fb6b99-2bc3-41b2-9eab-a5c216933928",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "d2311f20-465e-472b-a28a-901e245225f8",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "9ba7e94e-5509-4d13-b993-71b2abb056ef",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "3a2b376e-5b03-40f2-9d51-a96a86c3879b",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "35d34e0c-0e90-46aa-b515-354f07b0e665",
+      "season": 4,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "93a645c0-1d64-4822-9098-47f957743694",
+      "season": 4,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "c282f9d7-fc01-4797-a283-5b462ae37cb7",
+      "season": 5,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "8d555edd-8803-45fd-9d5d-b6f4983e725a",
+      "season": 5,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "540b7014-f2bf-4cf3-a8d7-3a62c5a303ff",
+      "season": 5,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "c61976b9-f1bf-4251-960a-9d829dfc6bf6",
+      "season": 5,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-01-17"
+    }
+  ]
+}

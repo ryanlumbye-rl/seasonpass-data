@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:med-paa-noderne-tv2charlie",
+  "name": "Med på noderne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5a0aed4a-3b38-49b8-ace2-ffebb6d4a09e",
+      "season": 3,
+      "number": 1,
+      "name": "Med Molly Egelind og Mads Vad",
+      "airdate": "2019-02-03"
+    },
+    {
+      "id": "6ee96957-9e47-4b66-b453-13afa4b4fdbe",
+      "season": 3,
+      "number": 2,
+      "name": "Med Bubber og Troels Malling",
+      "airdate": "2019-02-03"
+    },
+    {
+      "id": "e96f7191-e009-4d3a-acf3-ed1eeb40f212",
+      "season": 3,
+      "number": 3,
+      "name": "Med Felix Smith og Claus Elming",
+      "airdate": "2019-02-10"
+    },
+    {
+      "id": "68193512-dc68-41ce-aa0c-5ee30bde75ba",
+      "season": 3,
+      "number": 4,
+      "name": "Shu-bi-dua-special med Jacob Haugaard og Andreas Bo",
+      "airdate": "2019-02-17"
+    },
+    {
+      "id": "6f943854-a7cc-49cb-821e-31527c6a271f",
+      "season": 3,
+      "number": 5,
+      "name": "Med Marie Carmen Koppel og Christian Grau",
+      "airdate": "2019-02-24"
+    },
+    {
+      "id": "88ea6fcd-7c61-409a-aaef-aed15bc78801",
+      "season": 3,
+      "number": 6,
+      "name": "Med Jacob Riising og Brian Mørk",
+      "airdate": "2019-03-03"
+    },
+    {
+      "id": "982b2388-f5b2-484a-998f-cca8a888c47f",
+      "season": 4,
+      "number": 1,
+      "name": "Et studie fyldt med fødte optimister",
+      "airdate": "2019-09-08"
+    },
+    {
+      "id": "6e1826ed-e144-4473-b4a6-f2a629e3a328",
+      "season": 4,
+      "number": 2,
+      "name": "Vi elsker The Beatles",
+      "airdate": "2019-09-08"
+    },
+    {
+      "id": "1356757d-4ccc-4dab-846e-0e4c014e5b97",
+      "season": 4,
+      "number": 3,
+      "name": "To stjerner og to lys på et bord",
+      "airdate": "2019-09-15"
+    },
+    {
+      "id": "567d1bc2-a758-4745-b55f-3d0f7e66399b",
+      "season": 4,
+      "number": 4,
+      "name": "Hvilke fugle flyver over regnbuen?",
+      "airdate": "2019-09-22"
+    },
+    {
+      "id": "6cd8b605-7aea-4a15-8b21-fb7095d2e250",
+      "season": 4,
+      "number": 5,
+      "name": "Vild med noderne",
+      "airdate": "2019-09-29"
+    },
+    {
+      "id": "5927867c-1628-440d-aac7-9cc0206454bb",
+      "season": 4,
+      "number": 6,
+      "name": "Godt nytår fra noderne",
+      "airdate": "2019-12-28"
+    },
+    {
+      "id": "f0e15699-4028-4ef0-9e23-75570a336be1",
+      "season": 5,
+      "number": 1,
+      "name": "Med Michéle Bellaiche og Steen Langeberg",
+      "airdate": "2020-09-19"
+    },
+    {
+      "id": "a2bad5c4-279f-4287-801a-39e076beb92e",
+      "season": 5,
+      "number": 2,
+      "name": "Med Molly Egelind og Jesper Groth",
+      "airdate": "2020-09-19"
+    },
+    {
+      "id": "ead72d0c-0d6f-4973-bbfc-530e1e3bda04",
+      "season": 5,
+      "number": 3,
+      "name": "Med Ellen Hillingsø og Ken Vedsegaard",
+      "airdate": "2020-09-26"
+    },
+    {
+      "id": "658b3f3c-18b6-482f-a0ae-6be0c9e4ba8d",
+      "season": 5,
+      "number": 4,
+      "name": "Med Lars Bom og Andrea Vagn",
+      "airdate": "2020-10-03"
+    },
+    {
+      "id": "9dd69ba5-9b1c-4507-90ed-a8fcf097c9f7",
+      "season": 5,
+      "number": 5,
+      "name": "ABBA-special",
+      "airdate": "2020-10-10"
+    },
+    {
+      "id": "fdef0ff3-f7e3-4a9a-be4f-370813ba2c27",
+      "season": 5,
+      "number": 6,
+      "name": "Med Emil Thorup og Charlotte Fich",
+      "airdate": "2020-10-24"
+    },
+    {
+      "id": "a74c2fa2-ab78-4a0d-89de-ad4f756b8422",
+      "season": 5,
+      "number": 7,
+      "name": "Med Morten Østergaard og Johanne Schmidt Nielsen",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "045eafb7-eafb-4939-a668-f0e48813c178",
+      "season": 5,
+      "number": 8,
+      "name": "EM-special",
+      "airdate": "2020-11-14"
+    }
+  ]
+}

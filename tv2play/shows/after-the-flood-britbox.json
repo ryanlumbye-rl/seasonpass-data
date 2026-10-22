@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:after-the-flood-britbox",
+  "name": "After the Flood",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c1276af0-918e-4b7e-a4a6-05540764aeee",
+      "season": 1,
+      "number": 1,
+      "name": "Underwater",
+      "airdate": "2024-05-13"
+    },
+    {
+      "id": "31bc34d8-a3bf-488d-90e2-f4d4d8ae85ea",
+      "season": 1,
+      "number": 2,
+      "name": "The Arrival",
+      "airdate": "2024-05-13"
+    },
+    {
+      "id": "4ecf6ba4-9962-4b82-9102-c3b4b138b6cc",
+      "season": 1,
+      "number": 3,
+      "name": "Connections",
+      "airdate": "2024-05-20"
+    },
+    {
+      "id": "31f97d98-b949-404a-a636-53f9f098d8b7",
+      "season": 1,
+      "number": 4,
+      "name": "In Too Deep",
+      "airdate": "2024-05-20"
+    },
+    {
+      "id": "f1b0a25d-bc61-4f83-9ba3-303c05a2077e",
+      "season": 1,
+      "number": 5,
+      "name": "Gathering Storm",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "35c9381c-3b01-4084-bf66-3d808609ab91",
+      "season": 1,
+      "number": 6,
+      "name": "Breaking Cover",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "9e2f9515-0309-4471-89c8-3ae5c65e4bad",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "58f9bbad-f016-4dc8-941c-5f57a3feabe0",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-09-16"
+    }
+  ]
+}

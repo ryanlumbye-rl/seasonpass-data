@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:danmarks-dummeste-tv2",
+  "name": "Danmarks dummeste",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "260551cc-f2b5-443d-ad1e-e33347e8ba51",
+      "season": 1,
+      "number": 1,
+      "name": "Jeg er gået i chok",
+      "airdate": "2026-07-18"
+    },
+    {
+      "id": "94b65cec-d0a8-4143-9ebe-1f8aeff578d4",
+      "season": 1,
+      "number": 2,
+      "name": "Literøje",
+      "airdate": "2026-07-25"
+    },
+    {
+      "id": "1807d205-4b4d-4d86-9102-fd08ae79714b",
+      "season": 1,
+      "number": 3,
+      "name": "Ti nu stille",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "11bdc930-d726-4ed1-b9b9-9c8fdaefb79b",
+      "season": 1,
+      "number": 4,
+      "name": "Så kom min hadedag",
+      "airdate": "2026-08-08"
+    },
+    {
+      "id": "45cc997f-b53c-4735-a496-ed3c30135655",
+      "season": 1,
+      "number": 5,
+      "name": "Ikke smide barnet…",
+      "airdate": "2026-08-15"
+    },
+    {
+      "id": "a6928a34-3038-45ee-a264-8cf60019221d",
+      "season": 1,
+      "number": 6,
+      "name": "Danmarks dummeste fod",
+      "airdate": "2026-08-22"
+    },
+    {
+      "id": "ef209e10-7f09-4e7b-8688-178a61c1a2bf",
+      "season": 1,
+      "number": 7,
+      "name": "BUM!",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "0ebc3c19-94ec-4756-8f25-dae44dfb4275",
+      "season": 1,
+      "number": 8,
+      "name": "Danmarks dummeste er…",
+      "airdate": "2026-09-05"
+    }
+  ]
+}

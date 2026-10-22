@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:morran-og-tobias-pengene-eller-livet-tv2play",
+  "name": "Morran og Tobias - pengene eller livet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "42063129-15e2-48f5-84ce-043456d50a75",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "d2be6f53-7f93-4f06-9e2e-1e243e1edc88",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "2c6bdd15-893f-4582-a7af-5b1bc4037eff",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-03-29"
+    },
+    {
+      "id": "616dcd4e-c085-4d9b-9e2c-a848265e4ad1",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-03-29"
+    },
+    {
+      "id": "db1e0ad5-969b-4a79-9878-2715079d2d68",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "3fb1fe55-5d0d-48bd-af96-85318beea665",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "dcd92eb3-e006-44aa-a98a-ad732d7d67ca",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "6b5d7ffb-b692-463b-8082-e6a6ddc2d478",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-04-12"
+    }
+  ]
+}

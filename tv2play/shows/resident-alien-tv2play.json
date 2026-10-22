@@ -1,0 +1,248 @@
+{
+  "id": "tv2play:resident-alien-tv2play",
+  "name": "Resident Alien",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bded4c6c-4f54-490f-b8e0-37076aa6b4a3",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "84bd9d12-cdaa-4814-934a-172ece73722d",
+      "season": 1,
+      "number": 2,
+      "name": "Homesick",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "b256c388-590d-45c4-8288-df31731316e8",
+      "season": 1,
+      "number": 3,
+      "name": "Secrets",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "f845b1e6-a049-4aff-8a98-312b94e40ef2",
+      "season": 1,
+      "number": 4,
+      "name": "Birds of a Feather",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "02e7c720-95d6-41d7-9dfb-269099353e8b",
+      "season": 1,
+      "number": 5,
+      "name": "Love Language",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "85a90540-0274-4fb9-ba88-b5393ddaad46",
+      "season": 1,
+      "number": 6,
+      "name": "Sexy Beast",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "923fed14-b136-4b8e-89ac-97fce480194f",
+      "season": 1,
+      "number": 7,
+      "name": "The Green Glow",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "1fc306d9-c389-4a97-a76d-eed4dcfe7399",
+      "season": 1,
+      "number": 8,
+      "name": "End of the World as We Know It",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "e71d49b9-a50c-4932-9cd3-9a98b65ec60b",
+      "season": 1,
+      "number": 9,
+      "name": "Welcome Aliens",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "49e2f454-5ace-43c1-ada4-5d88940f9d48",
+      "season": 1,
+      "number": 10,
+      "name": "Heroes of Patience",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "f664c4d8-c760-4573-a82d-e9f028800d44",
+      "season": 2,
+      "number": 1,
+      "name": "Old Friends",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "29519620-5f05-4ac6-8878-795f13d50b4a",
+      "season": 2,
+      "number": 2,
+      "name": "The Wire",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "c2c5c103-f4fd-404c-bcbb-b63d40d5dcb4",
+      "season": 2,
+      "number": 3,
+      "name": "Girls’ Night",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "bc3790e3-7afa-48fa-9e60-cfbc6db803fe",
+      "season": 2,
+      "number": 4,
+      "name": "Radio Harry",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "d6aa0a61-0223-47c9-85c3-672400dbb61c",
+      "season": 2,
+      "number": 5,
+      "name": "Family Day",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "b65f3e87-b536-4610-9072-6145ca545cd9",
+      "season": 2,
+      "number": 6,
+      "name": "An Alien in New York",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "b2a34ed5-faba-4cf5-a0b9-f9b86e987401",
+      "season": 2,
+      "number": 7,
+      "name": "Escape from New York",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "aff87733-812b-4f1e-96d0-79d9921de87b",
+      "season": 2,
+      "number": 8,
+      "name": "Alien Dinner Party",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "4163c51d-e21d-4967-a49e-b142a1d7cd30",
+      "season": 2,
+      "number": 9,
+      "name": "Autopsy",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "e62382ef-6525-4ec2-858e-5a0ee1aeaf1d",
+      "season": 2,
+      "number": 10,
+      "name": "The Ghost of Bobby Smallwood",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "4971e786-7bc3-415a-926f-c4fffdfc4867",
+      "season": 2,
+      "number": 11,
+      "name": "The Weight",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "63779023-345c-46d9-a523-6dc35949e4e6",
+      "season": 2,
+      "number": 12,
+      "name": "The Alien Within",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "bd6c9a19-9b16-44c2-81c2-04b401f2a5a6",
+      "season": 2,
+      "number": 13,
+      "name": "Harry, a Parent",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "8ca53c85-3d43-48d3-9fc2-4129af70ec49",
+      "season": 2,
+      "number": 14,
+      "name": "Cat and Mouse",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "61abb834-b472-4338-aea1-1c0f96358efc",
+      "season": 2,
+      "number": 15,
+      "name": "Best of Enemies",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "0080f639-494d-43b1-8528-5bd7d9fa52fc",
+      "season": 2,
+      "number": 16,
+      "name": "I Believe in Aliens",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "9342e3d8-5dac-4777-80a5-b8af6c50f1b7",
+      "season": 3,
+      "number": 1,
+      "name": "Lone Wolf",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "72e50dd1-bf13-4699-a7fd-306f955a89d9",
+      "season": 3,
+      "number": 2,
+      "name": "The Upper Hand",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "4d75dd67-0a3a-4948-bf56-147718064920",
+      "season": 3,
+      "number": 3,
+      "name": "141 Seconds",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "8d048b04-5e1e-42f7-bb13-7f7fc7d29457",
+      "season": 3,
+      "number": 4,
+      "name": "Avian Flu",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "88c45864-f021-47d1-b48c-55ed2aba39f2",
+      "season": 3,
+      "number": 5,
+      "name": "Lovebird",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "31d2dd66-ab78-4d4d-8d3a-4078e7e1d11f",
+      "season": 3,
+      "number": 6,
+      "name": "Bye Bye Birdie",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "fd11bc6f-04ff-4ead-8abd-6251b29d53bb",
+      "season": 3,
+      "number": 7,
+      "name": "Here Comes My Baby",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "bb9b9469-959d-499e-add4-e2671743e6af",
+      "season": 3,
+      "number": 8,
+      "name": "Homecoming",
+      "airdate": "2026-09-09"
+    }
+  ]
+}

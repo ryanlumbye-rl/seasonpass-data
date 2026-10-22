@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:house-tv2play",
+  "name": "House",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a88caf3e-9339-4964-b0e8-0b12b59ee9d2",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "631d2a59-71b5-4002-abf2-065ca40f1166",
+      "season": 3,
+      "number": 1,
+      "name": "Meaning",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "90614db3-9c17-4c51-b8fd-e962b40554f9",
+      "season": 4,
+      "number": 1,
+      "name": "Alone",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

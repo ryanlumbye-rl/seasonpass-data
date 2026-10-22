@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:uformelt-tv2play",
+  "name": "Uformelt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "701304fd-de3f-4a1b-b6d1-ec76bfb3f0e9",
+      "season": 2,
+      "number": 19,
+      "name": "Det, vi kan dele, er det, vi kan hele",
+      "airdate": "2026-08-16"
+    },
+    {
+      "id": "af39d192-5492-4cfb-be6c-7fa539226914",
+      "season": 2,
+      "number": 20,
+      "name": "Smidt ud hjemmefra som 8-årig",
+      "airdate": "2026-08-30"
+    }
+  ]
+}

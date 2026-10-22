@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:kjeldsen-indtager-skagen-tv2play",
+  "name": "Kjeldsen indtager Skagen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9956048d-8f09-4a25-b79a-e7ee345a1c76",
+      "season": 3,
+      "number": 1,
+      "name": "Fra Mercedes til Birthe Kjær",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "dcf272b2-ea6f-441e-93f4-59019dd8e820",
+      "season": 3,
+      "number": 2,
+      "name": "Grand opening",
+      "airdate": "2026-09-23"
+    }
+  ]
+}

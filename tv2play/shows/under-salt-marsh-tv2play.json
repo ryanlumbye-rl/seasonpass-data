@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:under-salt-marsh-tv2play",
+  "name": "Under Salt Marsh",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "be102f3f-6a44-4e51-bf4c-5fd5bc6ad72d",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "16fc000a-64c1-4253-a6b7-cb4149fad7b1",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "6b9e1f93-33ae-48f6-a1ee-15e88715c3a4",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-04-09"
+    },
+    {
+      "id": "ff7137ef-2e8f-425e-96c3-a7e51a7162f5",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-04-16"
+    },
+    {
+      "id": "fec291b7-952d-4af5-b407-7d04b0231086",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-04-23"
+    },
+    {
+      "id": "c013dc60-4e33-494a-901c-33a22c84810e",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-04-30"
+    }
+  ]
+}

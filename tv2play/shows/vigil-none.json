@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:vigil-none",
+  "name": "Vigil",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2348d579-0d3c-4b49-90bc-cc5efd0579ab",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "540f7e42-bc93-4347-a0cd-0574143689fb",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "8a1f60f7-54b7-4d06-8172-860f54035b79",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "91ac01ba-1cc2-4b71-aff1-6871012dfe40",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "5174439c-edfd-4dcb-9231-90a0ed16efb6",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "81adb233-f74c-4790-b1ac-dd3b3b54f25e",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-03-04"
+    }
+  ]
+}

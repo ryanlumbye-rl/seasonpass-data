@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:thomas-og-vennerne-tv2play",
+  "name": "Thomas og vennerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "783f2d70-6f12-43c8-a382-9faa225f11df",
+      "season": 10,
+      "number": 21,
+      "name": "Thomas og fodboldkampen",
+      "airdate": "2010-09-05"
+    },
+    {
+      "id": "f95064cc-48ca-4938-9569-14910f59981a",
+      "season": 10,
+      "number": 22,
+      "name": "De forsvundne togvogne",
+      "airdate": "2010-09-12"
+    },
+    {
+      "id": "c21a9df0-9612-432f-95bb-f185a6d55f14",
+      "season": 10,
+      "number": 23,
+      "name": "Thomas og fødselsdagsgaverne",
+      "airdate": "2010-09-19"
+    },
+    {
+      "id": "9d91d63a-5d9a-4008-bcd6-50433e83e964",
+      "season": 10,
+      "number": 24,
+      "name": "Duncan laver narrestreger",
+      "airdate": "2010-09-26"
+    },
+    {
+      "id": "d85ec35b-2802-48c7-b86a-c1317ec4ca79",
+      "season": 10,
+      "number": 25,
+      "name": "Thomas og skattekisten",
+      "airdate": "2010-10-10"
+    },
+    {
+      "id": "40ac3dae-c4aa-48a0-8fa0-501763b50d6c",
+      "season": 10,
+      "number": 26,
+      "name": "Den grønne kontrollør",
+      "airdate": "2010-10-17"
+    },
+    {
+      "id": "05b04a9c-b40d-4c8e-a02d-b40e677235d0",
+      "season": 10,
+      "number": 27,
+      "name": "James og plakatlokomotivet",
+      "airdate": "2010-10-24"
+    },
+    {
+      "id": "07e9ff5f-5e0d-4e7e-bbd0-128144a4d18c",
+      "season": 10,
+      "number": 28,
+      "name": "Thomas og Skarloeys store udflugt",
+      "airdate": "2010-10-31"
+    }
+  ]
+}

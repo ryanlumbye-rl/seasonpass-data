@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:knutby-cmore",
+  "name": "Knutby",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "73a10234-619d-40e6-99a2-d52ae3609a25",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a569a4bf-5b85-4c7c-94ee-f8fdcd82f3f2",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "344f9f40-b639-480c-859a-5ba4d42393c6",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cec76def-fd02-4548-acb4-e2feb3c31c67",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5cc4ade5-c02b-43bb-97e9-13a7ead8ddb5",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "70e13261-5cf3-4b7f-9133-501c17e4152d",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "99902e58-3986-4c87-a4a7-2f871db4d1d0",
+      "season": 2,
+      "number": 1,
+      "name": "Prøvelsernes tid",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "b56664d3-de2b-45d5-a1ff-784d8ff0301a",
+      "season": 2,
+      "number": 2,
+      "name": "The Rise of Christ",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "d4194621-3297-4b2b-b1b1-baff27112c8a",
+      "season": 2,
+      "number": 3,
+      "name": "Lidelser og begær",
+      "airdate": "2025-02-25"
+    },
+    {
+      "id": "2e19a3d8-888c-4e10-bc9f-d03a06101551",
+      "season": 2,
+      "number": 4,
+      "name": "\"En af jer vil forråde mig\"",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "f937df74-0215-446a-a3f4-2cceaf752de1",
+      "season": 2,
+      "number": 5,
+      "name": "Dødsskyggens dal",
+      "airdate": "2025-03-11"
+    },
+    {
+      "id": "c2a47490-2686-4466-9ea7-d02e9823166b",
+      "season": 2,
+      "number": 6,
+      "name": "Det tabte paradis",
+      "airdate": "2025-03-18"
+    }
+  ]
+}

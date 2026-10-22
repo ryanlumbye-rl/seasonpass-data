@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:11-september-vidne-til-katastrofen-tv2play",
+  "name": "11. september - vidne til katastrofen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3f651adf-617a-46cd-b514-a324500e1b87",
+      "season": 1,
+      "number": 1,
+      "name": "Et ufatteligt mareridt",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "1f3b0be4-622e-42cd-9917-1bea9ab0ed03",
+      "season": 1,
+      "number": 2,
+      "name": "Tragedien fortsætter",
+      "airdate": "2026-09-11"
+    }
+  ]
+}

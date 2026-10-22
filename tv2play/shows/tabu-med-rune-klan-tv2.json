@@ -1,0 +1,136 @@
+{
+  "id": "tv2play:tabu-med-rune-klan-tv2",
+  "name": "Tabu - med Rune Klan",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f9fe7c88-e0d6-4ff2-9dc7-74a2d6d90db9",
+      "season": 1,
+      "number": 1,
+      "name": "De blinde",
+      "airdate": "2021-09-13"
+    },
+    {
+      "id": "a905338f-80f2-472e-8e28-49bf7417c910",
+      "season": 1,
+      "number": 2,
+      "name": "Tourette",
+      "airdate": "2021-09-20"
+    },
+    {
+      "id": "b6b9ed36-9938-49b7-a777-baa2fcbb787b",
+      "season": 1,
+      "number": 3,
+      "name": "De dødeligt syge",
+      "airdate": "2021-09-27"
+    },
+    {
+      "id": "e15ffda4-4203-42ec-8da6-f41e8d047638",
+      "season": 1,
+      "number": 4,
+      "name": "Cerebral parese",
+      "airdate": "2021-10-04"
+    },
+    {
+      "id": "f0f8713c-de45-43a6-a399-8abf0ffcd29f",
+      "season": 1,
+      "number": 5,
+      "name": "De bipolare",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "3b707b4e-ef80-412c-91ac-bacd7ef8ff03",
+      "season": 1,
+      "number": 6,
+      "name": "De døve",
+      "airdate": "2021-10-18"
+    },
+    {
+      "id": "e8c1e1cb-7f86-445d-990f-170fb933fcc3",
+      "season": 3,
+      "number": 1,
+      "name": "De ufrivillige barnløse",
+      "airdate": "2024-09-09"
+    },
+    {
+      "id": "01bc5780-ecad-4f2a-9d79-cd2abda6b32e",
+      "season": 3,
+      "number": 2,
+      "name": "De spilafhængige",
+      "airdate": "2024-09-16"
+    },
+    {
+      "id": "66306e48-cb0d-4bf3-8b7d-fe8442e609c5",
+      "season": 3,
+      "number": 3,
+      "name": "De efterladte",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "7ecfc85b-6c9a-434d-8730-d06ce1f048da",
+      "season": 3,
+      "number": 4,
+      "name": "De talebesværede",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "397a3392-4156-4c8d-bf57-75e4c2566dfa",
+      "season": 3,
+      "number": 5,
+      "name": "De unge ensomme",
+      "airdate": "2024-10-07"
+    },
+    {
+      "id": "65e47706-c0e8-405b-99e7-94aeaafc3d9b",
+      "season": 3,
+      "number": 6,
+      "name": "De hudsygdomsramte",
+      "airdate": "2024-10-14"
+    },
+    {
+      "id": "542d54d8-629b-470d-9476-776b6157661c",
+      "season": 4,
+      "number": 1,
+      "name": "De plastikoperationsafhængige",
+      "airdate": "2026-04-21"
+    },
+    {
+      "id": "914236cb-2f90-4e44-a7eb-9ef3e16f2e8e",
+      "season": 4,
+      "number": 2,
+      "name": "De fødselsdeprimerede",
+      "airdate": "2026-04-28"
+    },
+    {
+      "id": "7344c41b-eca8-48c4-8e47-574dea4142b4",
+      "season": 4,
+      "number": 3,
+      "name": "De alkoholafhængige",
+      "airdate": "2026-05-05"
+    },
+    {
+      "id": "3dcfb0b6-cef2-470a-91b3-8788a5ce7b15",
+      "season": 4,
+      "number": 4,
+      "name": "De autistiske",
+      "airdate": "2026-05-12"
+    },
+    {
+      "id": "9ab0fa0d-96e8-41ae-a78a-1d78e846657f",
+      "season": 4,
+      "number": 5,
+      "name": "De vansirede",
+      "airdate": "2026-05-19"
+    },
+    {
+      "id": "eac550db-8de1-4688-9598-f5cc238cfe3e",
+      "season": 4,
+      "number": 6,
+      "name": "De adopterede",
+      "airdate": "2026-05-26"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "tv2play:trigger-point-cmore",
+  "name": "Trigger Point",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e0e0cfc2-e24a-4d09-a0fc-c48e4c461688",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "5ff1c4b9-dbe3-4f2b-851b-c1996524359a",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "1305cd6b-ba5f-42fa-b472-fc888a1dbaf5",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "5997f169-bae6-43ea-8e8d-382538c18767",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "827c1bf8-5f5e-4250-aaa2-83274f330ff0",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "508de050-aac3-46e5-85d2-98a32fa93f16",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "d230a21d-2fc9-4271-847a-f63ab0798f8c",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "072e9d9b-ff3b-4594-9c3b-ee18a99a939b",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "b0b80134-9193-490a-8e41-6fc85ab90dd6",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "828cbbaf-9556-44f1-a9cf-ad88d2fb34b6",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "f27d9397-1834-4135-bdd1-4c7d50210d2b",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "f4a9a218-5414-4a89-b42b-32a83392c2ab",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "4bfc192f-02a3-42d9-826b-21987f9ae00f",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "0026f2cd-b07d-4595-bcad-63ebdba407c3",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "4bbb1323-65ce-40c5-8771-d38b9fd070f1",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "c354c26e-1eef-4a70-90e2-7b442012dbeb",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "932ce902-1503-4ef3-96be-c367b1e39916",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "8f8dae94-2e37-4754-80f3-93f9e35624a1",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-12-18"
+    }
+  ]
+}

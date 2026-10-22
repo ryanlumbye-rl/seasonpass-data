@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:the-office-uk-britbox",
+  "name": "The Office UK",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5857a4db-2c68-4084-a18e-2391d6c6ff03",
+      "season": 1,
+      "number": 1,
+      "name": "Downsize",
+      "airdate": "2003-10-19"
+    },
+    {
+      "id": "620962b0-5a7e-4ae3-81ef-27d0aa722c76",
+      "season": 1,
+      "number": 2,
+      "name": "Work Experience",
+      "airdate": "2003-10-26"
+    },
+    {
+      "id": "83cd45ac-bcb5-4b1f-9991-f0c634c3ac4a",
+      "season": 1,
+      "number": 3,
+      "name": "The Quiz",
+      "airdate": "2003-11-02"
+    },
+    {
+      "id": "0702b722-6c59-41d1-8a96-061eef7b88f9",
+      "season": 1,
+      "number": 4,
+      "name": "Training",
+      "airdate": "2003-11-09"
+    },
+    {
+      "id": "2bafcf76-2318-41e8-8c79-4db33f422191",
+      "season": 1,
+      "number": 5,
+      "name": "New Girl",
+      "airdate": "2003-11-16"
+    },
+    {
+      "id": "55bd44b4-07e2-4395-a5ca-cf9fbe7644ac",
+      "season": 1,
+      "number": 6,
+      "name": "Judgement",
+      "airdate": "2003-11-23"
+    },
+    {
+      "id": "276106f1-09f7-4cdb-9386-382ccc028fed",
+      "season": 2,
+      "number": 1,
+      "name": "Merger",
+      "airdate": "2003-11-30"
+    },
+    {
+      "id": "a7cdb791-fc9d-4da3-85b4-733180bf4e01",
+      "season": 2,
+      "number": 2,
+      "name": "Appraisals",
+      "airdate": "2004-01-04"
+    },
+    {
+      "id": "55a49c1c-9ab4-4697-870e-7ed57eee334f",
+      "season": 2,
+      "number": 3,
+      "name": "Party",
+      "airdate": "2004-01-11"
+    },
+    {
+      "id": "203ea5ab-4abc-4bc5-a973-538e1bbda4f1",
+      "season": 2,
+      "number": 4,
+      "name": "Motivation",
+      "airdate": "2004-01-18"
+    },
+    {
+      "id": "dcac5ab0-d952-48ee-b1ad-26853647dd6c",
+      "season": 2,
+      "number": 5,
+      "name": "Charity",
+      "airdate": "2004-01-25"
+    },
+    {
+      "id": "b33fc255-0605-4ec6-a5dd-ae4ecb47016c",
+      "season": 2,
+      "number": 6,
+      "name": "Interview",
+      "airdate": "2004-02-08"
+    },
+    {
+      "id": "e9c60d45-c821-488b-8906-912a372df445",
+      "season": 2,
+      "number": 7,
+      "name": "Christmas Special - Part 1",
+      "airdate": "2014-01-26"
+    },
+    {
+      "id": "6fb2e21f-d725-425a-be61-ca3a0784a9c1",
+      "season": 2,
+      "number": 8,
+      "name": "Christmas Special - Part 2",
+      "airdate": "2014-01-26"
+    }
+  ]
+}

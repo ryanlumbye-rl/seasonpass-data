@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:farligt-krydstogt-tv2charlie",
+  "name": "Farligt krydstogt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cb428447-3ea7-4e5f-991b-f32c09c81b92",
+      "season": 1,
+      "number": 1,
+      "name": "La Rochelle",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "4b06e006-63bb-42ff-8682-b04a9af113f4",
+      "season": 1,
+      "number": 2,
+      "name": "Lissabon",
+      "airdate": "2024-03-26"
+    },
+    {
+      "id": "de7996c3-1830-4b4e-94b7-7321970ec527",
+      "season": 1,
+      "number": 3,
+      "name": "Casablanca",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "cd65dd31-f4ef-4e25-9186-8ff303178acc",
+      "season": 1,
+      "number": 4,
+      "name": "Palma",
+      "airdate": "2024-04-09"
+    },
+    {
+      "id": "76f118a5-083a-430b-b088-2e6565f0d778",
+      "season": 1,
+      "number": 5,
+      "name": "Til søs",
+      "airdate": "2024-04-16"
+    },
+    {
+      "id": "606a444c-53e1-4011-b0e6-ddeb2259f23d",
+      "season": 1,
+      "number": 6,
+      "name": "Sicilien",
+      "airdate": "2024-04-23"
+    },
+    {
+      "id": "3519d646-f508-4755-b671-57c188d0b3fe",
+      "season": 1,
+      "number": 7,
+      "name": "Barcelona",
+      "airdate": "2024-04-30"
+    },
+    {
+      "id": "bc442a25-de09-4334-994e-2ce7c13ae08f",
+      "season": 1,
+      "number": 8,
+      "name": "Malta",
+      "airdate": "2024-05-07"
+    },
+    {
+      "id": "8940f795-8fa5-47be-a343-33d3330b59be",
+      "season": 2,
+      "number": 1,
+      "name": "Dubrovnik",
+      "airdate": "2025-04-01"
+    },
+    {
+      "id": "41934294-3f57-422a-b875-99b601b52230",
+      "season": 2,
+      "number": 2,
+      "name": "Rome",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "0a806551-7d17-47f8-ab1f-387d1ce76ef4",
+      "season": 2,
+      "number": 3,
+      "name": "Gran Canaria",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "8374c0b3-7c21-49e5-ab60-98fea29ebce5",
+      "season": 2,
+      "number": 4,
+      "name": "Madeira",
+      "airdate": "2025-04-22"
+    },
+    {
+      "id": "3206ab58-6b83-462a-8197-3dcb18f39cf9",
+      "season": 2,
+      "number": 5,
+      "name": "Gozo",
+      "airdate": "2025-04-29"
+    },
+    {
+      "id": "fb1bb187-8cbb-4ed8-8fed-fbe8b87a950e",
+      "season": 2,
+      "number": 6,
+      "name": "Alexandria",
+      "airdate": "2025-05-06"
+    },
+    {
+      "id": "f313ed8c-cf9f-4d19-a60c-302e76b55174",
+      "season": 2,
+      "number": 7,
+      "name": "Côte d'Azur",
+      "airdate": "2025-05-13"
+    },
+    {
+      "id": "8b27b784-fae7-4cf3-9a2d-ddcf0a8da635",
+      "season": 2,
+      "number": 8,
+      "name": "Athens",
+      "airdate": "2025-05-20"
+    },
+    {
+      "id": "6b31ea16-b6f3-46d2-99f0-83d0c551ec92",
+      "season": 3,
+      "number": 1,
+      "name": "Alicante",
+      "airdate": "2026-07-06"
+    },
+    {
+      "id": "39892827-4a9f-42a2-89e8-3191ae2c29c9",
+      "season": 3,
+      "number": 2,
+      "name": "Cannes",
+      "airdate": "2026-07-06"
+    },
+    {
+      "id": "6de30679-6da4-4dc5-baf4-0291126bd8c1",
+      "season": 3,
+      "number": 3,
+      "name": "Istanbul",
+      "airdate": "2026-07-07"
+    },
+    {
+      "id": "d3a552c4-90ba-4a09-a40d-263d02a9c7ee",
+      "season": 3,
+      "number": 4,
+      "name": "Kreta",
+      "airdate": "2026-07-07"
+    },
+    {
+      "id": "891586ee-6952-471e-9d37-476f3946a1c8",
+      "season": 3,
+      "number": 5,
+      "name": "Kap Verde",
+      "airdate": "2026-07-08"
+    },
+    {
+      "id": "dd4c371f-ad97-435c-b34a-32a93a5fe71e",
+      "season": 3,
+      "number": 6,
+      "name": "Valletta",
+      "airdate": "2026-07-08"
+    },
+    {
+      "id": "8afff740-f6f9-48a8-895d-c6438b893960",
+      "season": 3,
+      "number": 7,
+      "name": "Ibiza",
+      "airdate": "2026-07-09"
+    },
+    {
+      "id": "da9c3986-70b5-4a54-b4a3-58dac429ff95",
+      "season": 3,
+      "number": 8,
+      "name": "Ancona",
+      "airdate": "2026-07-09"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "id": "tv2play:miraculous-oiii",
+  "name": "Miraculous",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b269128e-9556-4249-93ad-f7521cf313c6",
+      "season": 1,
+      "number": 1,
+      "name": "Stormy Weather",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "128dc09f-c47c-4ea6-9227-203feece5e08",
+      "season": 1,
+      "number": 2,
+      "name": "The Evillustrator",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "da360968-cdae-4828-ae10-5d436cfc45ab",
+      "season": 1,
+      "number": 3,
+      "name": "Lady WiFi",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "b0f44c3b-97c3-45c5-b557-6296b04bff2e",
+      "season": 1,
+      "number": 4,
+      "name": "Princess Fragrance",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "cf1ff57d-e3f0-49ad-8304-1e375e017018",
+      "season": 1,
+      "number": 5,
+      "name": "Dark Cupid",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "3f731e72-bb7a-40b1-9472-5898287c2c83",
+      "season": 1,
+      "number": 6,
+      "name": "Mr. Pigeon",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "d6d27a5a-347a-428a-9f38-a17e2180da4e",
+      "season": 1,
+      "number": 7,
+      "name": "Pixelator",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "7be6d03d-e90e-4a49-b855-3090f69b7cdc",
+      "season": 1,
+      "number": 8,
+      "name": "Copycat",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "d8a12a3c-0be0-470b-a31a-8312fa8f7166",
+      "season": 1,
+      "number": 9,
+      "name": "The Bubbler",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "1f1b0425-3fde-4b76-b414-c99a5c5735d3",
+      "season": 1,
+      "number": 10,
+      "name": "Simon says",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "2064ace4-5e78-4ab5-8bd2-85743220597a",
+      "season": 1,
+      "number": 11,
+      "name": "Rogercop",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "70d5f372-2e70-4be5-b984-2b7640a57eb2",
+      "season": 1,
+      "number": 12,
+      "name": "Gamer",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "aef9e6cf-86ff-460c-a469-072722e3b54e",
+      "season": 1,
+      "number": 13,
+      "name": "Animan",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "8203644b-f30c-4814-a623-009dc3b8bdea",
+      "season": 1,
+      "number": 14,
+      "name": "Darkblade",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "96766600-126a-42a8-98af-05c67b714892",
+      "season": 1,
+      "number": 15,
+      "name": "The Pharaoh",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "e93fa867-f2e2-494f-bc1d-cb0aaa5f1278",
+      "season": 1,
+      "number": 16,
+      "name": "Timebreaker",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "9c2df56d-9a63-4614-ae11-3b4fb3af43ad",
+      "season": 1,
+      "number": 17,
+      "name": "Horrificator",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "f038ab77-e420-4a36-a238-142da809a1b1",
+      "season": 1,
+      "number": 18,
+      "name": "The Puppeteer",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "cb34acef-c622-4d60-a0ec-5a1cc9cdf8a0",
+      "season": 1,
+      "number": 19,
+      "name": "The Mime",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "2e52a153-f897-433b-9a3c-40dbf906dd50",
+      "season": 1,
+      "number": 20,
+      "name": "Guitar Villain",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "be02453d-69b4-4b79-a007-c147d12a2e02",
+      "season": 1,
+      "number": 21,
+      "name": "Reflekta",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "32fdf01d-428e-48b4-b44c-6a11eb706383",
+      "season": 1,
+      "number": 22,
+      "name": "Origins: Ladybug & Cat Noir",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "327d5b25-9950-441b-a742-12d989ce5910",
+      "season": 1,
+      "number": 23,
+      "name": "Origins: Stone Heart",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "e872be40-19c7-4534-b690-d034fc94bbb3",
+      "season": 1,
+      "number": 24,
+      "name": "Antibug",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "088da183-a87b-4c96-a0d2-a79c4bb32c79",
+      "season": 1,
+      "number": 25,
+      "name": "Kung Food",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "6e18a001-abc4-4889-9d5b-b4dc226c212f",
+      "season": 1,
+      "number": 26,
+      "name": "Volpina",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "22f48d63-e41e-408b-ae73-ece8b22fdc71",
+      "season": 2,
+      "number": 1,
+      "name": "The Collector",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "0d124728-4bc8-4213-9dd4-a1fe059fcac4",
+      "season": 2,
+      "number": 2,
+      "name": "Prime Queen",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "d2fce280-8e58-469e-b3a5-3dc1fe31661d",
+      "season": 2,
+      "number": 3,
+      "name": "Glaciator",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "c76c4fc9-1111-4d14-a912-3cc85cae8290",
+      "season": 2,
+      "number": 4,
+      "name": "Despair Bear",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "10c398f9-1eef-4aab-a994-d84c592fd457",
+      "season": 2,
+      "number": 5,
+      "name": "Troublemaker",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "8ee3355b-af97-4dd7-a02f-5a9d69f5ac88",
+      "season": 2,
+      "number": 6,
+      "name": "Gigantitan",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "4bd1c96f-a450-47be-8883-2d1c918fdd75",
+      "season": 2,
+      "number": 7,
+      "name": "Riposte",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "51ce8d36-7d36-4da2-8e0d-56b5a67c788f",
+      "season": 2,
+      "number": 8,
+      "name": "Befana",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "af9b8dee-d932-485d-b15d-3d89b5d10b5d",
+      "season": 2,
+      "number": 9,
+      "name": "Frightningale",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "7e7858c7-c64b-48ef-badb-8aa5e43825c6",
+      "season": 2,
+      "number": 10,
+      "name": "Gorizilla",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "8bd3e259-c210-46fb-b859-5558c7ce8626",
+      "season": 2,
+      "number": 11,
+      "name": "Robostus",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "928d047f-654e-43ce-a25a-59beb7a91462",
+      "season": 2,
+      "number": 12,
+      "name": "Sapotis",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "08c56c5a-668e-4f6c-a8fd-265d44be75dd",
+      "season": 2,
+      "number": 13,
+      "name": "The Dark Owl",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "7410f775-3537-4ed5-ab95-6d4afcc8aabf",
+      "season": 2,
+      "number": 14,
+      "name": "Syren",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "7d3f22f4-1fed-48b6-aa48-8f4649eba8c3",
+      "season": 2,
+      "number": 15,
+      "name": "Zombizou",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "19f8410f-7fad-43d6-b15b-a9259a912fa0",
+      "season": 2,
+      "number": 16,
+      "name": "Captain Hardrock",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "de91ff5f-0147-4eaf-b101-d5851c71403a",
+      "season": 2,
+      "number": 17,
+      "name": "Frozer",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "3f6da4f5-78da-4dec-8bac-3366a0592d00",
+      "season": 2,
+      "number": 18,
+      "name": "The Queens' Battle: Style Queen",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "956ba2e4-63bd-4a24-b1db-298bedbfcbd4",
+      "season": 2,
+      "number": 19,
+      "name": "The Queens' Battle: Queen Wasp",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "d6aca61f-a8dc-48e0-b771-51fdeb7ef3c7",
+      "season": 2,
+      "number": 20,
+      "name": "Reverser",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "f44bc0d0-7647-4563-b488-25b620e9ef44",
+      "season": 2,
+      "number": 21,
+      "name": "Anansi",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "c1fb83b7-5f32-4b1e-b15a-93259ad75533",
+      "season": 2,
+      "number": 22,
+      "name": "Malediktator",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "41b2cc58-e94d-4de5-ba31-6e4aa3b8763c",
+      "season": 2,
+      "number": 23,
+      "name": "Sandboy",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "48e1d10b-c444-453e-8fd7-6dbdc0bb6455",
+      "season": 2,
+      "number": 24,
+      "name": "Heroes' Day: Catalyst",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "6e2c254c-139b-4a5b-8c4f-c9b1e4dc2e34",
+      "season": 2,
+      "number": 25,
+      "name": "Heroes' Day: Mayura",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "e2a0fb47-8f4c-4367-ae6c-521b03cd9730",
+      "season": 2,
+      "number": 26,
+      "name": "Santa Claws",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "bc20efc0-ba7b-4dc5-b620-838c5a6b1b87",
+      "season": 3,
+      "number": 1,
+      "name": "Chameleon",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "27245e1d-3f84-4804-9117-50ec668a55e8",
+      "season": 3,
+      "number": 2,
+      "name": "Animaestro",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "51b40963-17e1-4bf8-851c-8e741f18d40a",
+      "season": 3,
+      "number": 3,
+      "name": "Bakerix",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "d4ce1e07-6ac7-4602-8586-1377726b634d",
+      "season": 3,
+      "number": 4,
+      "name": "Backwarder",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "fb24b65f-fc06-47fa-bef5-58d6f43107dd",
+      "season": 3,
+      "number": 5,
+      "name": "Reflekdoll",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "7c92083e-f085-42f2-82ad-d02dfb08816e",
+      "season": 3,
+      "number": 6,
+      "name": "Weredad",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "18db0523-a20e-44e0-aa45-68a44f1f64ab",
+      "season": 3,
+      "number": 7,
+      "name": "Silencer",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "398b82a5-496d-4814-a77d-f212a180acd8",
+      "season": 3,
+      "number": 8,
+      "name": "Onichan",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "8fa6d40d-cc30-428a-adf5-4337872a1c12",
+      "season": 3,
+      "number": 9,
+      "name": "Miraculer",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "9ac18372-41a4-4742-a194-c53ee4862d1f",
+      "season": 3,
+      "number": 10,
+      "name": "Oblivio",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "7d7b911b-7742-48c8-bb23-485a2e61af2a",
+      "season": 3,
+      "number": 11,
+      "name": "Desperada",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "911239c6-216e-41d8-8cc3-2cb107d76cc5",
+      "season": 3,
+      "number": 12,
+      "name": "Chris Master",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "58875081-5ae0-442f-84a4-dd7184ec34a4",
+      "season": 3,
+      "number": 13,
+      "name": "Startrain",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "4d39bac0-a122-496a-bb1f-7c12d527628f",
+      "season": 3,
+      "number": 14,
+      "name": "Kwami buster",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "3deded4c-e4df-44de-8d51-b5cf787c556a",
+      "season": 3,
+      "number": 15,
+      "name": "Feast",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "48ecf323-2e8a-4e8b-b48b-55dfa73c9bc5",
+      "season": 3,
+      "number": 16,
+      "name": "Gamer 2.0",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "8167817e-47b1-4c1b-a8ba-a892b4cb0baf",
+      "season": 3,
+      "number": 17,
+      "name": "Stormy Weather 2",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "794e3edb-7445-457d-a072-c66cda78a3ee",
+      "season": 3,
+      "number": 18,
+      "name": "Ikari Gozen",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "8167133a-e7d2-44e3-ac6b-06b923bbff02",
+      "season": 3,
+      "number": 19,
+      "name": "Timetagger",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "5bef2a55-10f8-43bf-bd66-287839c958d2",
+      "season": 3,
+      "number": 20,
+      "name": "Party Crasher",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "43a488f5-89cb-4dfa-9736-1b9104d81aef",
+      "season": 3,
+      "number": 21,
+      "name": "The Puppeteer 2",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "7c99c4e3-4852-4abf-b5c6-a6634737feec",
+      "season": 3,
+      "number": 22,
+      "name": "Cat Blanc",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "46084717-278f-45e5-a480-92db55c49925",
+      "season": 3,
+      "number": 23,
+      "name": "Félix",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "2508d61d-f3b3-419f-a720-35fce704b00a",
+      "season": 3,
+      "number": 24,
+      "name": "Ladybug",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "c1376a03-0cf1-49a6-9580-6f801741ecfd",
+      "season": 3,
+      "number": 25,
+      "name": "The battle of the Miraculous: Loveater",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "d1c047c3-b5a3-40e2-aa2d-f3e6f881a8ef",
+      "season": 3,
+      "number": 26,
+      "name": "The battle of the Miraculous: Miracle Queen",
+      "airdate": "2024-12-21"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:death-valley-britbox",
+  "name": "Death Valley",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8b0dc375-5a1c-4e11-b075-ae73ac4fe62e",
+      "season": 1,
+      "number": 1,
+      "name": "Tilfældig hævn",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "5780bf8f-8af9-4d51-9912-f326f39aab73",
+      "season": 1,
+      "number": 2,
+      "name": "Farlig vandretur",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "040757b1-4aeb-4c3d-85a0-2d66c0d07bed",
+      "season": 1,
+      "number": 3,
+      "name": "Et sørgeligt bryllup",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "e2795cf8-fefe-4b2d-b598-57c1ff57c22e",
+      "season": 1,
+      "number": 4,
+      "name": "Mord bag scenen",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "7c8c3eb2-22a3-46e3-9693-332b81ab076c",
+      "season": 1,
+      "number": 5,
+      "name": "Den døde detektiv",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "cebec7e5-b29b-4dc1-9729-330ff1120a8c",
+      "season": 1,
+      "number": 6,
+      "name": "Indhentet af fortiden",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "22c04c12-1ec0-412e-8be3-8c0cf5c14f89",
+      "season": 2,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "af9c169a-c680-4868-8596-db7fff910dc7",
+      "season": 2,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "d8989efc-7fcc-4f0a-a74c-ad5f7e9c1f9f",
+      "season": 2,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "b936cb44-5d20-4cd1-9891-b737022e196f",
+      "season": 2,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "847f0efc-3c1d-413e-ae96-874d06823b42",
+      "season": 2,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "4d9bc97f-8cc1-43e3-a7b4-d24184c70bcc",
+      "season": 2,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-08-26"
+    }
+  ]
+}

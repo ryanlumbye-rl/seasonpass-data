@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:lajka-cmore",
+  "name": "LAJKA",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "97e34828-78f1-4c54-9119-d415957b9085",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7d7b49e6-2ff5-43c4-9e2f-ed89989f2566",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "738db893-cd9b-492a-b993-7f7607e68c5f",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "820636b5-65ef-43dd-8e51-e2be83f3c824",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ad4db32d-25dd-44c4-abd5-ae4908cfd186",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3aca17a6-0b01-444a-bb72-1590ce952398",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9ca05f0f-cf87-424c-9344-eae9d3188e7d",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5a8ac7cb-8476-4607-95ac-4fedfa145fe9",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7695db75-a5f4-46a5-9532-8e199593e9d9",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "f4f92cf6-d32f-47d9-bbcd-1c712ef881c0",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "11341000-3845-4a07-ba38-5a6332d34f39",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "8d0c72ae-616a-4ba9-9500-bf1ac99e78c1",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "709d35a9-6b1c-45c4-81e6-cfd04a8c1e41",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "3bc86917-3ae9-4a6f-a7f9-cce5b319784d",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "5f291ac3-9148-4dfa-bd5e-c7380d1c766a",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "1e0e1947-dfb2-46ef-9d17-bc3433910735",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-04-02"
+    }
+  ]
+}

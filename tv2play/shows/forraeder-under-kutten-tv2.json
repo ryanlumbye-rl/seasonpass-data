@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:forraeder-under-kutten-tv2",
+  "name": "Forræder - Under kutten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c7b8999b-29ed-48a0-94f3-079f469af5aa",
+      "season": 3,
+      "number": 1,
+      "name": "Hvem gemmer sig 'Under kutten'?",
+      "airdate": "2026-04-17"
+    },
+    {
+      "id": "83d080a5-b76b-41ac-860d-5fb85a85ac96",
+      "season": 3,
+      "number": 2,
+      "name": "For loyal eller for forræderisk?",
+      "airdate": "2026-04-24"
+    },
+    {
+      "id": "7778fa01-e7c5-43f1-bce0-4325e834d233",
+      "season": 3,
+      "number": 3,
+      "name": "Der har vi ham!",
+      "airdate": "2026-05-01"
+    },
+    {
+      "id": "0cbb5942-530d-40e1-b8f9-4f81f61e3821",
+      "season": 3,
+      "number": 4,
+      "name": "For stille eller for højlydt?",
+      "airdate": "2026-05-08"
+    },
+    {
+      "id": "c85dd1cd-e629-4df1-a09c-c5d0767bc43f",
+      "season": 3,
+      "number": 5,
+      "name": "Hvad er det, jeg har set?",
+      "airdate": "2026-05-15"
+    },
+    {
+      "id": "3b6ee6dc-9af5-4593-a308-67573fd2ee68",
+      "season": 3,
+      "number": 6,
+      "name": "En åben bog, der er svær at læse",
+      "airdate": "2026-05-22"
+    },
+    {
+      "id": "681e28ff-1303-4d19-82f6-20c738ca92f6",
+      "season": 3,
+      "number": 7,
+      "name": "Anden gang er lykkens gang",
+      "airdate": "2026-05-29"
+    },
+    {
+      "id": "28ae9398-3420-44b0-9065-c2334b61cd1b",
+      "season": 3,
+      "number": 8,
+      "name": "Forsoning eller snyd?",
+      "airdate": "2026-06-05"
+    },
+    {
+      "id": "ef670ba7-b584-45a5-be18-b2dfbae1d499",
+      "season": 4,
+      "number": 1,
+      "name": "Drømme kan gå itu",
+      "airdate": "2026-08-07"
+    },
+    {
+      "id": "2b7ab9d2-d222-40d1-9179-be29c3c1d91f",
+      "season": 4,
+      "number": 2,
+      "name": "Fældende beviser?",
+      "airdate": "2026-08-14"
+    },
+    {
+      "id": "d72ab6ee-8854-4107-9717-89b5d3ec9c7a",
+      "season": 4,
+      "number": 3,
+      "name": "Husk dine løgne",
+      "airdate": "2026-08-21"
+    },
+    {
+      "id": "949f81e8-0c2a-473b-b008-11a5cf5d972c",
+      "season": 4,
+      "number": 4,
+      "name": "Movie end",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "b957bed1-34ce-40b7-bacf-d195792c5bfb",
+      "season": 4,
+      "number": 5,
+      "name": "Hvilken krog skal jeg hænge min hat på?",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "7a767888-a962-4a4e-a65f-4af94f466661",
+      "season": 4,
+      "number": 6,
+      "name": "Hvem kan man egentlig stole på?",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "9f458e45-5ce6-43ca-aa01-77b0464984bb",
+      "season": 4,
+      "number": 7,
+      "name": "Hemmelige beskeder",
+      "airdate": "2026-09-18"
+    },
+    {
+      "id": "8fd4e981-e41b-48ac-8e42-4072df49a29c",
+      "season": 4,
+      "number": 8,
+      "name": "Hvem er forræder?",
+      "airdate": "2026-09-25"
+    }
+  ]
+}

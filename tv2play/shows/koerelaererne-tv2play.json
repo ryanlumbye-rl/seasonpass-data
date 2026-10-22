@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:koerelaererne-tv2play",
+  "name": "Kørelærerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "692e7cc0-f15e-444e-a377-83e40a7252b9",
+      "season": 1,
+      "number": 1,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2018-02-26"
+    },
+    {
+      "id": "27811ae7-df28-4afc-bffe-c618fd8dd768",
+      "season": 1,
+      "number": 2,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2018-02-26"
+    },
+    {
+      "id": "ff461e13-f51a-4563-8768-c2a1eab2d3c8",
+      "season": 1,
+      "number": 3,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2018-03-05"
+    },
+    {
+      "id": "a4544438-fdce-4c67-b807-e7059c22d924",
+      "season": 1,
+      "number": 4,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2018-03-12"
+    },
+    {
+      "id": "a6b9fbb7-41ef-4b81-919b-f1f440425c4e",
+      "season": 1,
+      "number": 5,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2018-03-19"
+    },
+    {
+      "id": "57d37381-4697-4f83-a373-83c0ffaef6ad",
+      "season": 1,
+      "number": 6,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2018-03-26"
+    },
+    {
+      "id": "fda909c0-5989-4fa5-b3b1-d8417b60feff",
+      "season": 1,
+      "number": 7,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2018-04-09"
+    },
+    {
+      "id": "e20b572e-2cbd-4791-9a25-2ba4885aa5a3",
+      "season": 1,
+      "number": 8,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2018-04-09"
+    },
+    {
+      "id": "8de50810-590c-4618-9d03-fa2ff5e2bb55",
+      "season": 2,
+      "number": 1,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2019-04-01"
+    },
+    {
+      "id": "a4401709-efc0-4a3f-a178-345f28990f8e",
+      "season": 2,
+      "number": 2,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2019-04-08"
+    },
+    {
+      "id": "b9f0a061-943f-4caa-b21e-42fc6c5316b3",
+      "season": 2,
+      "number": 3,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2019-04-15"
+    },
+    {
+      "id": "0221895a-643b-4228-9e74-00c269e124ab",
+      "season": 2,
+      "number": 4,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2019-04-22"
+    },
+    {
+      "id": "e63155c7-c54d-4a1c-8667-901c719109f0",
+      "season": 2,
+      "number": 5,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2019-04-29"
+    },
+    {
+      "id": "8590374d-799a-435b-94dc-d371389e6d94",
+      "season": 2,
+      "number": 6,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2019-05-06"
+    },
+    {
+      "id": "89df9778-c5d2-45b7-abc7-a0464422e649",
+      "season": 2,
+      "number": 7,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2019-05-13"
+    },
+    {
+      "id": "cf7726e3-4fd3-41a9-bac7-c240c82abb0e",
+      "season": 2,
+      "number": 8,
+      "name": "Aldrig har det været sjovere at tage kørekort!",
+      "airdate": "2019-05-13"
+    }
+  ]
+}

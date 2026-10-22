@@ -1,0 +1,367 @@
+{
+  "id": "tv2play:the-good-place-tv2play",
+  "name": "The Good Place",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "62eb3666-d749-4dd7-8374-2d22de1dc83e",
+      "season": 1,
+      "number": 1,
+      "name": "Everything Is Fine",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "71ab750b-f780-42f1-88f6-21a48133e48b",
+      "season": 1,
+      "number": 2,
+      "name": "Flying",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "65f4bb7d-0bce-44dc-9d5a-cdc31d9ec043",
+      "season": 1,
+      "number": 3,
+      "name": "Tahani Al-Jamil",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "fd4573ab-4f33-4b21-b4a9-5efb3187cb95",
+      "season": 1,
+      "number": 4,
+      "name": "Jason Mendoza",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "512b5295-4f48-4da2-8676-4f029461e798",
+      "season": 1,
+      "number": 5,
+      "name": "Category 55 Emergency Doomsday Crisis",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "34f1786f-f74a-41e6-91fd-ef2070397982",
+      "season": 1,
+      "number": 6,
+      "name": "What We Owe to Each Other",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "84e3c109-12fe-4263-b096-fbea76b2be4f",
+      "season": 1,
+      "number": 7,
+      "name": "The Eternal Shriek",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "10fe50ec-16b3-4a4f-80e5-97c8ab08a691",
+      "season": 1,
+      "number": 8,
+      "name": "Most Improved Player",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "d4d7038e-d480-4a78-b8d6-4c7f8028f8da",
+      "season": 1,
+      "number": 9,
+      "name": "...Someone Like Me as a Member",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "051236c8-b822-4ea7-88ba-517ef0d9df8f",
+      "season": 1,
+      "number": 10,
+      "name": "Chidi's Choice",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "27a89f36-ae07-43d7-aa7d-3c88da5cdf77",
+      "season": 1,
+      "number": 11,
+      "name": "What's My Motivation",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "df12f3ad-fb36-40e8-acdd-17093795d5cf",
+      "season": 1,
+      "number": 12,
+      "name": "Mindy St. Claire",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "5f831899-7145-41fe-809b-433e4d490e01",
+      "season": 1,
+      "number": 13,
+      "name": "Michael's Gambit",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "e68bbe1f-22aa-46d1-9a41-06c71c80cf37",
+      "season": 2,
+      "number": 1,
+      "name": "Everything Is Great!",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "7b3f860b-eb6b-4da4-9a94-b0d6c6d63134",
+      "season": 2,
+      "number": 2,
+      "name": "Dance Dance Resolution",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "ba9e7d87-835a-4836-bc21-e4c0ddff6609",
+      "season": 2,
+      "number": 3,
+      "name": "Team Cockroach",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "5025ed79-46be-42e7-84a0-34813edf1461",
+      "season": 2,
+      "number": 4,
+      "name": "Existential Crisis",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "a6fb7312-cbc5-49f4-adad-198df224c086",
+      "season": 2,
+      "number": 5,
+      "name": "The Trolley Problem",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "d27ec459-9cfa-4291-9dcf-93d5bfdec59d",
+      "season": 2,
+      "number": 6,
+      "name": "Janet and Michael",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "e03c4520-7bf7-4d79-b5a7-9ff23555edee",
+      "season": 2,
+      "number": 7,
+      "name": "Derek",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "5b1b6881-5f92-4de0-874c-d3864131e1cd",
+      "season": 2,
+      "number": 8,
+      "name": "Leap to Faith",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "bc4d6a53-f329-4ae1-a5f8-cb67857ec3f7",
+      "season": 2,
+      "number": 9,
+      "name": "Best Self",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "162c521e-fce3-49b6-b595-377fa7c0d6ec",
+      "season": 2,
+      "number": 10,
+      "name": "Rhonda, Diana, Jake and Trent",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "f2a7ba5d-9e76-4b63-93e4-663e04ca7986",
+      "season": 2,
+      "number": 11,
+      "name": "The Burrito",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "fdb04a80-dc8d-4385-bc92-d22670ed8bff",
+      "season": 2,
+      "number": 12,
+      "name": "Somewhere Else",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "22cb4071-6d41-4996-8639-6fb913332baa",
+      "season": 3,
+      "number": 1,
+      "name": "Everything Is Bonzer! - Del 1",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "67f0851d-b3de-42b2-9034-6dcb633d751e",
+      "season": 3,
+      "number": 2,
+      "name": "Everything Is Bonzer! - Del 2",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "5f036359-83e4-4ff9-b251-bd0509f5b5fd",
+      "season": 3,
+      "number": 3,
+      "name": "The Brainy Bunch",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "87eb630a-ce1e-4531-aa77-9f310998de33",
+      "season": 3,
+      "number": 4,
+      "name": "The Snowplow",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "c3ed3484-2aec-4a57-bb1f-6909a6a3667e",
+      "season": 3,
+      "number": 5,
+      "name": "Jeremy Bearimy",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "f57ae7fe-2ec8-4ae5-9193-e9fbad197bd5",
+      "season": 3,
+      "number": 6,
+      "name": "The Ballad of Donkey Doug",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "373ed44a-b505-4a9c-9840-a1bb31ec4ffa",
+      "season": 3,
+      "number": 7,
+      "name": "A Fractured Inheritance",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "4933f22f-6132-4abb-b8c5-cb8af28b6427",
+      "season": 3,
+      "number": 8,
+      "name": "The Worst Possible Use of Free Will",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "73f2eb63-429e-41db-b34c-2551aebce1c1",
+      "season": 3,
+      "number": 9,
+      "name": "Don't Let the Good Life Pass You By",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "070b0d6d-4938-4c37-8a9a-001e4f6246e6",
+      "season": 3,
+      "number": 10,
+      "name": "Janet(s)",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "fcebfefc-c903-4eaf-ae2f-c6fc84a52a4b",
+      "season": 3,
+      "number": 11,
+      "name": "The Book of Dougs",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "509c3df9-f3ba-4d24-adda-92a8b2df7d9d",
+      "season": 3,
+      "number": 12,
+      "name": "Chidi Sees the Time-Knife",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "e08d3fe2-a74b-4e49-ad9a-4f15265639a3",
+      "season": 3,
+      "number": 13,
+      "name": "Pandemonium",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "6c7078fa-d784-43c9-b574-f17b98977d72",
+      "season": 4,
+      "number": 1,
+      "name": "A Girl From Arizona - Del 1",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "347a137f-6890-485c-b522-06fa5b278466",
+      "season": 4,
+      "number": 2,
+      "name": "A Girl From Arizona - Del 2",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "34695869-53ed-452c-b6b0-11c579f4cac1",
+      "season": 4,
+      "number": 3,
+      "name": "Chillaxing",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "dd9078da-d8d1-4b0a-904e-372807e88787",
+      "season": 4,
+      "number": 4,
+      "name": "Tinker, Tailor, Demon, Spy",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "188f22c9-f8a6-49bd-b95e-b34ad617887b",
+      "season": 4,
+      "number": 5,
+      "name": "Employee of the Bearimy",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "2b0f307f-2cf7-40fe-8c3e-2c9b60a8cdf0",
+      "season": 4,
+      "number": 6,
+      "name": "A Chip Driver Mystery",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "1a074974-492c-4a41-bca7-34ebfce0ff68",
+      "season": 4,
+      "number": 7,
+      "name": "Help Is Other People",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "496a3450-bbe6-4cd0-970c-ba933b1ff2c6",
+      "season": 4,
+      "number": 8,
+      "name": "The Funeral to End All Funerals",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "57ccada3-a0b7-4541-9fd2-a7b785a1b539",
+      "season": 4,
+      "number": 9,
+      "name": "The Answer",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "610270dd-284d-4e12-9384-e09c99441224",
+      "season": 4,
+      "number": 10,
+      "name": "You've Changed, Man",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "6b553a88-f8f8-4b7f-99b7-37bae03ba69b",
+      "season": 4,
+      "number": 11,
+      "name": "Mondays, Am I Right?",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "c456d67a-b57f-4970-bebb-01e9431883eb",
+      "season": 4,
+      "number": 12,
+      "name": "Patty",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "9a9d201f-655f-429b-ad89-60fe58decd2f",
+      "season": 4,
+      "number": 13,
+      "name": "Whenever You're Ready",
+      "airdate": "2026-09-26"
+    }
+  ]
+}

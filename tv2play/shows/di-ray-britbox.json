@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:di-ray-britbox",
+  "name": "DI Ray",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cf1b087a-0f35-4ef2-823d-b61121282991",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "0c05a64a-74ad-4a02-b7be-4b38b58861fe",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "8d1327d9-42e9-469d-bbdd-4a7c4acfaea0",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "ba4de2c7-b72e-439a-a4c8-1561ae90f795",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "9aef9fbe-390f-472d-b99b-ae480d732c52",
+      "season": 2,
+      "number": 1,
+      "name": "Wrong Place",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "cdec6144-9579-472f-88b4-b3fa07343b6f",
+      "season": 2,
+      "number": 2,
+      "name": "Rivals",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "96e53738-fe0a-46e1-b4c0-c263245a3fc0",
+      "season": 2,
+      "number": 3,
+      "name": "The Hunt for Rav",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "8e32e60b-5e8c-4e13-bd93-ce59870851ed",
+      "season": 2,
+      "number": 4,
+      "name": "The Test of Wills",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "70766b6d-867c-48a2-a7d7-0cd422f264a7",
+      "season": 2,
+      "number": 5,
+      "name": "Staying on Top",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "3a9557af-8016-45d5-a84b-16891ab28ce9",
+      "season": 2,
+      "number": 6,
+      "name": "Enemy Within",
+      "airdate": "2024-09-25"
+    }
+  ]
+}

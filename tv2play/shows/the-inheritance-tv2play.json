@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:the-inheritance-tv2play",
+  "name": "The Inheritance",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "85d7e5b0-7166-4699-bebb-aac645eddee1",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "465838aa-3912-4ef9-a030-08eb6075f5fe",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "34938d08-c11d-45e4-bc05-9b63c51fba7c",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "29e312a7-8152-4058-98a8-36f7c8771c1a",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-12-31"
+    }
+  ]
+}

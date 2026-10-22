@@ -1,0 +1,136 @@
+{
+  "id": "tv2play:blindt-spor-britbox",
+  "name": "Blindt spor",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0542ac08-32af-43af-b38f-d3b58dc21017",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4de3af8b-d7ec-42c3-aa6a-84ed73b50393",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "35b55457-97c2-481c-b1b6-da82d5d5b1ae",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cc99a81a-4c90-433a-af15-80b0822df109",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "21f8d6e0-88dd-4d54-ad9a-6846ac3c014b",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "eb4cb6d1-478a-47bb-b850-76e8b3637f33",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "de9c6c5b-7cc3-4b91-a6ab-860d80f1decd",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e919f697-8fec-4e79-9eb0-c467ab81c6a9",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8cdcddba-0241-4305-b625-8e15d5e5c3e1",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9b37c04a-c5d2-472d-8452-168678980254",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cd632707-6abb-47ac-a104-0414216353f2",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c2081fb4-ade2-4d3c-8147-d450951028e2",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "63ef2ee2-44a3-4d6d-b365-57bff4bed4e1",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-04-03"
+    },
+    {
+      "id": "17787f46-b1df-4e65-b9ee-4c172ef74f03",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-04-03"
+    },
+    {
+      "id": "abb4ca20-b8f3-4166-ae24-054190de231b",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-04-03"
+    },
+    {
+      "id": "4551cbff-f71f-47dc-8912-b21b78713dd8",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-04-03"
+    },
+    {
+      "id": "066018a9-12f8-43fb-8f92-54204cdbb127",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-04-03"
+    },
+    {
+      "id": "0789115c-b016-4fb3-8edf-7d411f7aeaf3",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-04-03"
+    }
+  ]
+}

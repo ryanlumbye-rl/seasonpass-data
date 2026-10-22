@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:klar-til-krig-tv2",
+  "name": "Klar til krig?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e7117def-d4c3-40ba-b10e-5649ba0233b3",
+      "season": 1,
+      "number": 1,
+      "name": "Det kan kun gå for langsomt",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "97b284d9-af65-454c-b6de-ee93b025360d",
+      "season": 1,
+      "number": 2,
+      "name": "Det skal min lille dreng ikke",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "653384a1-0aa2-464c-8930-24f49cee011c",
+      "season": 1,
+      "number": 3,
+      "name": "Sammen er vi stærkest",
+      "airdate": "2026-09-30"
+    }
+  ]
+}

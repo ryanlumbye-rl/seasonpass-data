@@ -1,0 +1,185 @@
+{
+  "id": "tv2play:peddersen-findus-cmore",
+  "name": "Peddersen & Findus",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "357abf97-7730-4121-9574-e7cb6f59476d",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a98ed364-005a-41b4-b410-585cefabff0e",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c5185c35-3b75-46c4-8181-8c28976644f1",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8870097c-a158-49dd-97c2-e08697de8874",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d9675fbb-db95-4f44-8bae-01a324eadb8c",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "15b9d208-421b-4e1e-9b2f-14eecd836517",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "02dc15ab-d7a4-4151-a416-4eed81d9760c",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bfb4a13e-208a-4764-8bf6-fd4c2e98c173",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3f4a232c-a99e-4638-9629-34eb8037b222",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "48b57b1e-bbb6-40f4-8a43-3aa6857d6ca6",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "501608a8-56e9-41dd-856c-7066b18676ee",
+      "season": 1,
+      "number": 11,
+      "name": "Episode 11",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "923f4bda-60e8-4d5f-bf81-f0a33d58b1c0",
+      "season": 1,
+      "number": 12,
+      "name": "Episode 12",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b732f205-49b9-4c78-a084-327649dca0c3",
+      "season": 1,
+      "number": 13,
+      "name": "Episode 13",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1e9e7359-7d4c-4e7a-a30b-d970cb5fddc0",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7f1cc3da-d295-448c-9d27-9c9b42fb87b1",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "60849bad-2515-4f3f-8a6a-a460bed701b6",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cc7f307e-336c-4916-976c-086fa4faa637",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "70852dbe-9201-4a5e-b154-69ab7e9e6f42",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "00c9eec2-9394-4179-b2ff-e963ea41579b",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "43ca80b9-daee-4941-89ca-498cdd051167",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "63cc118b-c32c-49ef-9165-d6b396b7cecb",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0fb9f51c-4e8a-4abd-b84a-7e2d049babf3",
+      "season": 2,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "81e5cdb2-28e7-4603-baa1-3291dbf4a8a9",
+      "season": 2,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "16dfd31c-f3a3-4c36-9bae-8a09caa3c6ef",
+      "season": 2,
+      "number": 11,
+      "name": "Episode 11",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b854b3b6-0c75-48b8-83fc-d9aeb7a5984a",
+      "season": 2,
+      "number": 12,
+      "name": "Episode 12",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

@@ -1,0 +1,1060 @@
+{
+  "id": "tv2play:elementary-skyshowtime",
+  "name": "Elementary",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f7581f65-49b1-4d62-9852-11949b98e9a9",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5e29ddb2-8eae-4e9b-9479-1de71864c35f",
+      "season": 1,
+      "number": 2,
+      "name": "While You Were Sleeping",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bcff1eac-312b-4f87-a568-4d5e60ad5648",
+      "season": 1,
+      "number": 3,
+      "name": "Child Predator",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4bd474c1-c557-44cd-844f-e06755f68a6e",
+      "season": 1,
+      "number": 4,
+      "name": "The Rat Race",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "95623231-589e-4116-bdec-19ce3c40f0fb",
+      "season": 1,
+      "number": 5,
+      "name": "Lesser Evils",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5cd158d1-55d4-42bd-8ca0-f9b6b4180982",
+      "season": 1,
+      "number": 6,
+      "name": "Flight Risk",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a1b15533-63c8-4991-8b02-11202dcbd771",
+      "season": 1,
+      "number": 7,
+      "name": "One Way to Get Off",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "11c797a3-f917-4daf-be18-d406a6b4a1dc",
+      "season": 1,
+      "number": 8,
+      "name": "The Long Fuse",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ea01a2f9-9eec-491a-8839-20501fc558f5",
+      "season": 1,
+      "number": 9,
+      "name": "You Do It to Yourself",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1463c9dc-25e8-4c2b-a1ac-3da5161fe200",
+      "season": 1,
+      "number": 10,
+      "name": "The Leviathan",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3d94c9e0-1c7b-4ae1-ac56-854f73db80a9",
+      "season": 1,
+      "number": 11,
+      "name": "Dirty Laundry",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "203fd301-4238-4000-9716-c8c26445d1cd",
+      "season": 1,
+      "number": 12,
+      "name": "M.",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "63b5a348-be38-4c24-8b78-b40072d41fd2",
+      "season": 1,
+      "number": 13,
+      "name": "The Red Team",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "eded39bc-139b-40a0-9f25-219cbcc73b89",
+      "season": 1,
+      "number": 14,
+      "name": "The Deductionist",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "871f1174-4798-4fce-a3a3-28a752503ca5",
+      "season": 1,
+      "number": 15,
+      "name": "A Giant Gun, Filled with Drugs",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a3236cec-0e6f-4573-adff-52401eecac81",
+      "season": 1,
+      "number": 16,
+      "name": "Details",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "43b1487b-4dbd-4dc0-8c60-ab0c7235efc0",
+      "season": 1,
+      "number": 17,
+      "name": "Possibility Two",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d9fb6c3d-b7af-4cca-9188-e8929ddb2132",
+      "season": 1,
+      "number": 18,
+      "name": "Déjà Vu All Over Again",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "050dd774-c126-4bc6-9991-3df231f7f1d4",
+      "season": 1,
+      "number": 19,
+      "name": "Snow Angels",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4550e98c-b690-46fa-825b-8249caa800da",
+      "season": 1,
+      "number": 20,
+      "name": "Dead Man's Switch",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "db6aaaa6-61bd-490e-9509-d906f26bb7df",
+      "season": 1,
+      "number": 21,
+      "name": "A Landmark Story",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c9e76689-a78d-4756-b95e-271e432952ca",
+      "season": 1,
+      "number": 22,
+      "name": "Risk Management",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "05303048-1ad0-44e6-a1fc-5f66fd0ad048",
+      "season": 1,
+      "number": 23,
+      "name": "The Woman",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bf6c36df-f700-4e13-beca-8dcfc8b23e55",
+      "season": 1,
+      "number": 24,
+      "name": "Heroine",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "73a0c493-3301-4928-864e-b9ee74ef9842",
+      "season": 2,
+      "number": 1,
+      "name": "Step Nine",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "178acbca-7106-4ca0-86e4-c4ea17a8ddf6",
+      "season": 2,
+      "number": 2,
+      "name": "Solve for X",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "37ec4004-da82-439c-bb69-6d10391b7066",
+      "season": 2,
+      "number": 3,
+      "name": "We Are Everyone",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "dcfcbada-a9df-431c-a8a6-3618c12fe78b",
+      "season": 2,
+      "number": 4,
+      "name": "Poison Pen",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f8f35055-d1d7-419d-8ea6-44e949d31fc2",
+      "season": 2,
+      "number": 5,
+      "name": "Ancient History",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "974e92b8-f20f-47f2-949f-0e73257fcf9d",
+      "season": 2,
+      "number": 6,
+      "name": "An Unnatural Arrangement",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "98370bd4-1cd4-4b7a-b67c-32c7b3824d36",
+      "season": 2,
+      "number": 7,
+      "name": "The Marchioness",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ec352f01-406a-4407-944c-c2586a274eb4",
+      "season": 2,
+      "number": 8,
+      "name": "Blood Is Thicker",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1e269475-b223-4b1f-ba61-39c5d2ad2dca",
+      "season": 2,
+      "number": 9,
+      "name": "On the Line",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a7b0d644-50d9-4f76-b1e6-a1044eb90c79",
+      "season": 2,
+      "number": 10,
+      "name": "Tremors",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "38b0cc7a-d0ba-4363-88c6-6a041f9fd722",
+      "season": 2,
+      "number": 11,
+      "name": "Internal Audit",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0df87fa9-b6bd-4f10-8ee7-2875413711d3",
+      "season": 2,
+      "number": 12,
+      "name": "The Diabolical Kind",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ac223861-4155-4a7a-8e8a-4d4863d53fbf",
+      "season": 2,
+      "number": 13,
+      "name": "All in the Family",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0605ccb5-ac04-45ee-9280-677a1721548d",
+      "season": 2,
+      "number": 14,
+      "name": "Dead Clade Walking",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "327c63db-463e-46e5-9714-9c366078eb1d",
+      "season": 2,
+      "number": 15,
+      "name": "Corpse de Ballet",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f7c55080-981f-4527-a9d6-17c3c8c609b5",
+      "season": 2,
+      "number": 16,
+      "name": "The One Percent Solution",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "68a1e2d0-a30b-4247-bbef-9c9d9ff1d213",
+      "season": 2,
+      "number": 17,
+      "name": "Ears to You",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "03c997e7-91d2-4588-ac16-df025ecb83d2",
+      "season": 2,
+      "number": 18,
+      "name": "The Hound of the Cancer Cells",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2550ec51-7b8c-46b3-8857-be4fcfeb0928",
+      "season": 2,
+      "number": 19,
+      "name": "The Many Mouths of Andrew Colville",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bff4be27-36e0-41b7-a088-88c0f57d70d4",
+      "season": 2,
+      "number": 20,
+      "name": "No Lack of Void",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8011d9d4-2ccd-42d6-a5b5-f611e0cadd76",
+      "season": 2,
+      "number": 21,
+      "name": "The Man with the Twisted Lip",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "65f2bd25-6f88-4e84-855d-58df20d12b47",
+      "season": 2,
+      "number": 22,
+      "name": "Paint It Black",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5751972f-3695-44b2-b97c-71c4e850cea2",
+      "season": 2,
+      "number": 23,
+      "name": "Art in the Blood",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a38c7945-8c34-480b-95a0-71b18ecc3e2a",
+      "season": 2,
+      "number": 24,
+      "name": "The Grand Experiment",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "841a034d-5ebf-4506-80fd-426e25bbb126",
+      "season": 3,
+      "number": 1,
+      "name": "Enough Nemesis to Go Around",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0d25eb87-db3a-4f55-afd6-1684a40548a7",
+      "season": 3,
+      "number": 2,
+      "name": "The Five Orange Pipz",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "936d0e4e-f2ac-4070-8c29-038c00dcf692",
+      "season": 3,
+      "number": 4,
+      "name": "Bella",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c5bdc4bc-d2d5-4821-80ac-21298edaf055",
+      "season": 3,
+      "number": 7,
+      "name": "The Adventure of the Nutmeg Concoction",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "94161a3f-827a-4d16-8874-176b42e395eb",
+      "season": 3,
+      "number": 8,
+      "name": "End of Watch",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "44043b6c-b930-4081-b939-19a39bef1bbf",
+      "season": 3,
+      "number": 9,
+      "name": "The Eternity Injection",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d0c58547-7721-4b5c-bae3-a038cfa54e11",
+      "season": 3,
+      "number": 11,
+      "name": "The Illustrious Client",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d8f9bc3a-bead-4750-bf28-7ce0f7087667",
+      "season": 3,
+      "number": 12,
+      "name": "The One That Got Away",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b98f3ed2-48c1-44f7-931f-0a7d80ec8af1",
+      "season": 3,
+      "number": 13,
+      "name": "Hemlock",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ca199c86-9c07-463b-893a-9c9e8a25f18d",
+      "season": 3,
+      "number": 14,
+      "name": "The Female of the Species",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c1022242-31c1-4aed-8c5f-fb4837ff3992",
+      "season": 3,
+      "number": 15,
+      "name": "When Your Number's Up",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8ea4df64-57a7-43ca-b2f4-a7b5ed9eed27",
+      "season": 3,
+      "number": 16,
+      "name": "For All You Know",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7e22e84b-834c-4190-b2c7-18f70715cd0b",
+      "season": 3,
+      "number": 17,
+      "name": "T-Bone and the Iceman",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1e73ec7c-e7f2-4292-9854-c6dd2b2b407f",
+      "season": 3,
+      "number": 18,
+      "name": "The View From Olympus",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f90c7517-9255-49d4-bd19-42a74ccad589",
+      "season": 3,
+      "number": 19,
+      "name": "One Watson, One Holmes",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "05b1a6d0-e986-48b7-be69-429276ecacfe",
+      "season": 3,
+      "number": 20,
+      "name": "A Stitch in Time",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "09bb56fe-ad09-4675-aca2-c03e1572cb1c",
+      "season": 3,
+      "number": 21,
+      "name": "Under My Skin",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "62160c02-3c79-4f49-b253-e3abac5b3bbc",
+      "season": 3,
+      "number": 22,
+      "name": "The Best Way Out Is Always Through",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "907ede75-a190-49bb-892f-e795f985a41e",
+      "season": 3,
+      "number": 23,
+      "name": "Absconded",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "971d994c-9adc-4bec-b3d0-61a007bfd09d",
+      "season": 3,
+      "number": 24,
+      "name": "A Controlled Descent",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ab18393a-b6b0-4144-9882-82f94b330b38",
+      "season": 4,
+      "number": 1,
+      "name": "The Past Is Parent",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5618717d-1699-4dfa-8501-3ebd22480ef3",
+      "season": 4,
+      "number": 2,
+      "name": "Evidence of Things Not Seen",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c6e04f74-d6ef-4960-bbf1-f9b288dd4f92",
+      "season": 4,
+      "number": 3,
+      "name": "Tag, You're Me",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f4a96597-bcd2-4d6d-89e4-3064664c1a52",
+      "season": 4,
+      "number": 4,
+      "name": "All My Exes Live in Essex",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3308a383-89c4-45ae-8ef0-bd82b6f0ae88",
+      "season": 4,
+      "number": 5,
+      "name": "The Games Underfoot",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4a5920a6-9c60-4c0d-8c9a-83db60d82c03",
+      "season": 4,
+      "number": 6,
+      "name": "The Cost of Doing Business",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "cb93a2e8-8e4b-436b-be4e-933668f179b8",
+      "season": 4,
+      "number": 7,
+      "name": "Miss Taken",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "37f9115f-90b6-4751-9f27-de80591fa07c",
+      "season": 4,
+      "number": 8,
+      "name": "A Burden of Blood",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "97dc7a79-9e9b-454b-a126-886a292914d9",
+      "season": 4,
+      "number": 9,
+      "name": "Murder Ex Machina",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "65d7a83d-ee37-48fe-8bfa-5b3a7352817c",
+      "season": 4,
+      "number": 10,
+      "name": "Alma Matters",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "81360c25-98fe-46cc-9309-f7b7a294e5c0",
+      "season": 4,
+      "number": 11,
+      "name": "Down Where the Dead Delight",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "476c6bd8-d53d-4c9f-8a79-b8ed87eb7b30",
+      "season": 4,
+      "number": 12,
+      "name": "A View with a Room",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "eede6394-ac84-42cb-a6e9-ecfbe980c494",
+      "season": 4,
+      "number": 13,
+      "name": "A Study in Charlotte",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2351b7eb-082a-4f87-8be6-a63fba986d07",
+      "season": 4,
+      "number": 14,
+      "name": "Who Is That Masked Man",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "43a3cb28-a274-446c-8820-a3f5e15aec66",
+      "season": 4,
+      "number": 15,
+      "name": "Up to Heaven and Down to Hell",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8c53c683-e7c0-4832-a9c0-11a843fc4f0a",
+      "season": 4,
+      "number": 16,
+      "name": "Hounded",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "461de204-9b0c-4c05-9766-0a1b084bbe55",
+      "season": 4,
+      "number": 17,
+      "name": "You've Got Me, Who's Got You?",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e5dcd054-a7ab-410b-80cd-99801115134d",
+      "season": 4,
+      "number": 18,
+      "name": "Ready or Not",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f8d64c96-3c20-4b0f-ab07-7ab343e04a99",
+      "season": 4,
+      "number": 19,
+      "name": "All In",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3fe9e00d-a92f-4bc8-bcca-5a7423fd2829",
+      "season": 4,
+      "number": 20,
+      "name": "Art Imitates Art",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c80c7e4b-49d4-4e82-a728-acce25b3aed0",
+      "season": 4,
+      "number": 21,
+      "name": "Ain't Nothing like the Real Thing",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ac0f1e5e-25be-4fd8-b3d1-0e5135d2e96f",
+      "season": 4,
+      "number": 22,
+      "name": "Turn It Upside Down",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "55fdb728-aadb-4799-a23e-907eef519ec9",
+      "season": 4,
+      "number": 23,
+      "name": "The Invisible Hand",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0609961c-b367-4322-89ca-b30338c78033",
+      "season": 4,
+      "number": 24,
+      "name": "A Difference in Kind",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "87c918e9-82e4-4a6c-9b60-fa933889c78f",
+      "season": 5,
+      "number": 1,
+      "name": "Folie A Deux",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1d23f4cd-c84e-44c6-9dbf-27d160294777",
+      "season": 5,
+      "number": 2,
+      "name": "Worth Several Cities",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "cbd35263-5cc6-41ae-ad31-cde31a8e3f53",
+      "season": 5,
+      "number": 3,
+      "name": "Render, and then Seize Her",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0d0fa97d-5988-4738-bdce-efe39e64c860",
+      "season": 5,
+      "number": 4,
+      "name": "Henny Penny the Sky Is Falling",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "535d18fe-5ec1-4e23-acf2-68471e998a87",
+      "season": 5,
+      "number": 5,
+      "name": "To Catch a Predator Predator",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3818835d-3884-43a8-8fee-9e4ebd90264b",
+      "season": 5,
+      "number": 6,
+      "name": "Ill Tidings",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1b30dd9e-aca5-4227-badc-86559227de34",
+      "season": 5,
+      "number": 7,
+      "name": "Bang Bang Shoot Chute",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e82260fa-9d79-4e3f-a932-d9ffe4a3dbf5",
+      "season": 5,
+      "number": 8,
+      "name": "How the Sausage Is Made",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e7df9287-9318-4360-8d68-a16b67f9f3d6",
+      "season": 5,
+      "number": 9,
+      "name": "It Serves You Right to Suffer",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c3cbba06-a01f-4948-b293-d2d96352c332",
+      "season": 5,
+      "number": 10,
+      "name": "Pick Your Poison",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9cf9e8ce-9dd6-4c2d-8a7f-51f3b23f8859",
+      "season": 5,
+      "number": 11,
+      "name": "Be My Guest",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b417fd7c-1cd4-480a-8248-7141f2db9f98",
+      "season": 5,
+      "number": 12,
+      "name": "Crowned Clown, Downtown Brown",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "877a1080-d20e-4fa9-9407-ebe59002a8c4",
+      "season": 5,
+      "number": 13,
+      "name": "Over a Barrel",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "62688059-1c95-4cd3-907f-376367b5ccdc",
+      "season": 5,
+      "number": 14,
+      "name": "Rekt in Real Life",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bd6e7d8b-2fcc-412d-98b4-8cb1fc8e8bad",
+      "season": 5,
+      "number": 15,
+      "name": "Wrong Side of the Road",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "6eb56bce-d71a-410f-afd8-f6e0e6eb1f0a",
+      "season": 5,
+      "number": 16,
+      "name": "Fidelity",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8a53d187-677e-4131-8e35-be57f5c51172",
+      "season": 5,
+      "number": 17,
+      "name": "The Ballad of Lady Frances",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "94158748-f6e5-4ead-92f0-0a5e98a08f79",
+      "season": 5,
+      "number": 18,
+      "name": "Dead Man's Tale",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9352aa03-75ff-4d37-add5-cf87488eb8cc",
+      "season": 5,
+      "number": 19,
+      "name": "High Heat",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4f7a379c-db3f-4c90-9e07-1fd1dc33328d",
+      "season": 5,
+      "number": 20,
+      "name": "The Art of Sleights and Deception",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "14a76c69-c984-491c-8089-2e196b56c0db",
+      "season": 5,
+      "number": 21,
+      "name": "Fly into a Rage, Make a Bad Landing",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "6ca9378b-fa58-4ce5-b3f9-88b43f3bdcc2",
+      "season": 5,
+      "number": 22,
+      "name": "Moving Targets",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9fd93501-9070-4450-9674-d3e5f1097a04",
+      "season": 5,
+      "number": 23,
+      "name": "Scrambled",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "15177718-53f8-41f6-a694-b5eea7e55c25",
+      "season": 5,
+      "number": 24,
+      "name": "Hurt Me, Hurt You",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4103a217-9207-4abd-9d0a-9bcb646fcf8e",
+      "season": 6,
+      "number": 1,
+      "name": "An Infinite Capacity for Taking Pains",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "21c78fd5-d7bd-4082-bbf8-b5485b503ec8",
+      "season": 6,
+      "number": 2,
+      "name": "Once You've Ruled Out God",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8ec33df8-8e3d-4b52-978b-15f9243b3371",
+      "season": 6,
+      "number": 3,
+      "name": "Pushing Buttons",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4f3ddfc4-4746-4934-8939-fe06b66b8f82",
+      "season": 6,
+      "number": 4,
+      "name": "Our Time Is Up",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b58bc197-9731-4961-bf8f-45c4f89e6539",
+      "season": 6,
+      "number": 5,
+      "name": "Bits and Pieces",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1acf9315-df5a-4f79-9fc1-2bb158d523d1",
+      "season": 6,
+      "number": 6,
+      "name": "Give Me the Finger",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "78d4ec29-d906-47c1-86a7-253590db8038",
+      "season": 6,
+      "number": 7,
+      "name": "Sober Companions",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a3bacc19-f3ea-4f62-8056-399331cefb52",
+      "season": 6,
+      "number": 8,
+      "name": "Sand Trap",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c2b10119-128a-47da-9a6f-76f052c3be13",
+      "season": 6,
+      "number": 9,
+      "name": "Nobody Lives Forever",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "15d05445-3d60-4c3f-9dc4-15af1c6cb5d8",
+      "season": 6,
+      "number": 10,
+      "name": "The Adventure of the Ersatz Sobekneferu",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c910de45-de3f-42d3-ab99-d9a02794b9fa",
+      "season": 6,
+      "number": 11,
+      "name": "You've Come a Long Way, Baby",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "93bdf3ed-a9e7-4e62-bf7a-254625e2d222",
+      "season": 6,
+      "number": 12,
+      "name": "Meet Your Maker",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "26547405-23a4-4b99-9152-7b3a85397ffb",
+      "season": 6,
+      "number": 13,
+      "name": "Breathe",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "01edb821-c6cc-4c72-84f2-2dea72da418a",
+      "season": 6,
+      "number": 14,
+      "name": "Through the Fog",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e4642f1e-a720-4f28-99f0-dfe1abd5823b",
+      "season": 6,
+      "number": 15,
+      "name": "How to Get a Head",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4de0c807-750d-4d35-9c21-b0f8f2983a0d",
+      "season": 6,
+      "number": 16,
+      "name": "Uncanny Valley of the Dolls",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "65ff6c18-761b-49d2-abf7-8c5e7e3eab1d",
+      "season": 6,
+      "number": 17,
+      "name": "The Worms Crawl in, the Worms Crawl Out",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ba1d5a77-7ef3-467f-8e05-53e5c04f1612",
+      "season": 6,
+      "number": 18,
+      "name": "The Visions of Norman P. Horowitz",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "863aea0e-6ce3-4b9b-ba24-61efa67e4047",
+      "season": 6,
+      "number": 19,
+      "name": "The Geek Interpreter",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "603b2984-6cf1-498d-82b6-883b7e9adef6",
+      "season": 6,
+      "number": 20,
+      "name": "Fit to Be Tied",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ad251724-9d29-4e23-95be-5c5ae1988cd7",
+      "season": 6,
+      "number": 21,
+      "name": "Whatever Remains, However Improbable",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e7d8b589-8bb5-4014-be0c-998549f735f4",
+      "season": 7,
+      "number": 1,
+      "name": "The Further Adventures",
+      "airdate": "2020-01-07"
+    },
+    {
+      "id": "0a08633d-bdd2-4c6e-9aaa-6afd50ed7f78",
+      "season": 7,
+      "number": 2,
+      "name": "Gutshot",
+      "airdate": "2020-01-08"
+    },
+    {
+      "id": "e4665745-61c2-4ae8-ae6f-c86d6e708c39",
+      "season": 7,
+      "number": 3,
+      "name": "The Price of Admission",
+      "airdate": "2020-01-09"
+    },
+    {
+      "id": "e44a99e8-8069-4cfc-8d25-d4cad4036f8c",
+      "season": 7,
+      "number": 4,
+      "name": "Red Light, Green Light",
+      "airdate": "2020-01-10"
+    },
+    {
+      "id": "869e4e03-a4b0-444c-aeea-ed87f4702922",
+      "season": 7,
+      "number": 5,
+      "name": "Into The Woods",
+      "airdate": "2020-01-14"
+    },
+    {
+      "id": "0d268678-ae94-4e4f-82a8-12230847b8a3",
+      "season": 7,
+      "number": 6,
+      "name": "Command: Delete",
+      "airdate": "2020-01-15"
+    },
+    {
+      "id": "288f8163-edaa-41d5-a45f-0df640fccd27",
+      "season": 7,
+      "number": 7,
+      "name": "From Russia with Drugs",
+      "airdate": "2020-01-16"
+    },
+    {
+      "id": "b98c21b3-1ef9-4572-96b0-9921dbc28182",
+      "season": 7,
+      "number": 8,
+      "name": "Miss Understood",
+      "airdate": "2020-01-17"
+    },
+    {
+      "id": "42095427-c055-44cf-99fa-884b466e0b8c",
+      "season": 7,
+      "number": 9,
+      "name": "On The Scent",
+      "airdate": "2020-01-21"
+    },
+    {
+      "id": "d93446fd-12fb-4618-9b71-8c1f72e457ce",
+      "season": 7,
+      "number": 10,
+      "name": "The Latest Model",
+      "airdate": "2020-01-22"
+    },
+    {
+      "id": "f902b15d-57aa-4e92-872d-57ba50921606",
+      "season": 7,
+      "number": 11,
+      "name": "Unfriended",
+      "airdate": "2020-01-23"
+    },
+    {
+      "id": "9576af0f-2b7d-403c-80fe-9d628c7f131f",
+      "season": 7,
+      "number": 12,
+      "name": "Reichenbach Falls",
+      "airdate": "2020-01-24"
+    },
+    {
+      "id": "c8ef5755-ae2f-4664-a755-50c38f7c08df",
+      "season": 7,
+      "number": 13,
+      "name": "The Last Bow",
+      "airdate": "2020-01-28"
+    }
+  ]
+}

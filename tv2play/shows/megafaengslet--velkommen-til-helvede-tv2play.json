@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:megafaengslet--velkommen-til-helvede-tv2play",
+  "name": "Megafængslet - velkommen til helvede",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8d0e7bdb-2034-4eea-b25c-da2dc44c2a23",
+      "season": 1,
+      "number": 1,
+      "name": "Bag murene",
+      "airdate": "2026-09-14"
+    },
+    {
+      "id": "e6530462-89b2-4346-8e38-d538a7bc642d",
+      "season": 1,
+      "number": 2,
+      "name": "Magt uden grænser",
+      "airdate": "2026-09-21"
+    }
+  ]
+}

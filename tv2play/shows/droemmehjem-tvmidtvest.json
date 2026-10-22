@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:droemmehjem-tvmidtvest",
+  "name": "Drømmehjem",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a64c079a-3ce8-46a3-8621-739869ab3af6",
+      "season": 4,
+      "number": 1,
+      "name": "Laden som bolig",
+      "airdate": "2023-10-18"
+    },
+    {
+      "id": "681151dd-a1c5-46b5-8bf0-ce0ced28e51b",
+      "season": 4,
+      "number": 2,
+      "name": "Kunstnernes skæve hjem",
+      "airdate": "2023-10-25"
+    },
+    {
+      "id": "93323323-3aa4-4465-a733-c2ba0d997fa4",
+      "season": 4,
+      "number": 3,
+      "name": "Plads til en umage flok",
+      "airdate": "2023-11-01"
+    },
+    {
+      "id": "e95e8887-e44d-4f9d-a113-93d397f3aac8",
+      "season": 4,
+      "number": 4,
+      "name": "Boliger med religiøse rødder",
+      "airdate": "2023-11-08"
+    }
+  ]
+}

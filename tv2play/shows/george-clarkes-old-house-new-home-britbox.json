@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:george-clarkes-old-house-new-home-britbox",
+  "name": "George Clarke's Old House, New Home",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b4c15d65-79a1-4936-a460-06466581b3e7",
+      "season": 5,
+      "number": 1,
+      "name": "Ackworth & Chiswick",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "b11cda35-a5bb-4c5b-bbe2-5b819f741fa7",
+      "season": 5,
+      "number": 2,
+      "name": "Yorkshire & Buckinghamshire",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "a948d19b-1cf3-4040-b3bc-dd724751f3ed",
+      "season": 5,
+      "number": 3,
+      "name": "Yorkshire and Peak District",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

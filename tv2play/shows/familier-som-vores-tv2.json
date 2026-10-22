@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:familier-som-vores-tv2",
+  "name": "Familier som vores",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "293e02e1-944c-47a1-a6db-289a7ace9d9b",
+      "season": 1,
+      "number": 1,
+      "name": "Sig nærmer tiden",
+      "airdate": "2024-10-20"
+    },
+    {
+      "id": "f6356f9a-38cd-4347-a5cd-2bde4608cab3",
+      "season": 1,
+      "number": 2,
+      "name": "Fårene skilles fra bukkene",
+      "airdate": "2024-10-27"
+    },
+    {
+      "id": "4baf0631-37cd-41fd-8c29-51defd81b94f",
+      "season": 1,
+      "number": 3,
+      "name": "Stå, engle, på vagt",
+      "airdate": "2024-11-03"
+    },
+    {
+      "id": "a05e4993-11fd-4ee5-8fa4-9f8c9a2494ca",
+      "season": 1,
+      "number": 4,
+      "name": "Farvel, Danmark",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "d319b4df-80cd-4022-9515-8fdf1af3c841",
+      "season": 1,
+      "number": 5,
+      "name": "Over alle grænser",
+      "airdate": "2024-11-17"
+    },
+    {
+      "id": "adbe6182-4c86-4e8c-a8eb-e94f1e2cc340",
+      "season": 1,
+      "number": 6,
+      "name": "Alt, hvad der sker under himlen",
+      "airdate": "2024-11-24"
+    },
+    {
+      "id": "409017f1-9be6-44d3-bd7b-9e8c992d6553",
+      "season": 1,
+      "number": 7,
+      "name": "Jeg gør alting nyt",
+      "airdate": "2024-12-01"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:lynley-britbox",
+  "name": "Lynley",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "523d20e8-4fa4-44fa-b024-dba543adf4ee",
+      "season": 1,
+      "number": 1,
+      "name": "A Place of Hiding",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "92956f1f-3336-423e-b7e1-1444795379c9",
+      "season": 1,
+      "number": 2,
+      "name": "This Body of Death",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "a6b9490a-37f5-4671-9c88-7ec8a692f98f",
+      "season": 1,
+      "number": 3,
+      "name": "Careless in Red",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "055558a6-a2f7-4fab-85af-710a7207f864",
+      "season": 1,
+      "number": 4,
+      "name": "With No One as a Witness",
+      "airdate": "2025-10-01"
+    }
+  ]
+}

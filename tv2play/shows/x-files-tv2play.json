@@ -1,0 +1,857 @@
+{
+  "id": "tv2play:x-files-tv2play",
+  "name": "X-Files",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "67283fb0-1600-48fd-9df9-9343761160a0",
+      "season": 5,
+      "number": 1,
+      "name": "Redux - Part Two",
+      "airdate": "1998-02-10"
+    },
+    {
+      "id": "fe3655e5-351c-42b4-820e-550123be1624",
+      "season": 5,
+      "number": 2,
+      "name": "Redux II - Part Three",
+      "airdate": "1998-02-17"
+    },
+    {
+      "id": "9c0860e5-4805-4402-8e3a-3a1dfd0fec28",
+      "season": 5,
+      "number": 3,
+      "name": "Unusual Suspects",
+      "airdate": "1998-03-17"
+    },
+    {
+      "id": "59937a80-b5e2-41d3-baae-2938353eb696",
+      "season": 5,
+      "number": 4,
+      "name": "Detour",
+      "airdate": "1998-03-24"
+    },
+    {
+      "id": "a5085cd3-e9ef-4d77-8cac-e1fa10a741c5",
+      "season": 5,
+      "number": 5,
+      "name": "The Post-Modern Prometheus",
+      "airdate": "1998-03-31"
+    },
+    {
+      "id": "6545af52-5c69-48a5-8ff0-4a3b1d2ca03c",
+      "season": 5,
+      "number": 6,
+      "name": "Christmas Carol - Part One",
+      "airdate": "1998-04-07"
+    },
+    {
+      "id": "3592f294-285e-4742-a7cb-4ff6643e8e78",
+      "season": 5,
+      "number": 7,
+      "name": "Emily - Part Two",
+      "airdate": "1998-04-14"
+    },
+    {
+      "id": "902352e5-6d6b-4d44-80cd-4c9b6992e27f",
+      "season": 5,
+      "number": 8,
+      "name": "Kitsunegari",
+      "airdate": "1998-04-21"
+    },
+    {
+      "id": "dca6df95-bf1e-41a3-8b42-c6f134f98eb6",
+      "season": 5,
+      "number": 9,
+      "name": "Schizogeny",
+      "airdate": "1998-04-28"
+    },
+    {
+      "id": "f52a50be-34af-45a4-bc0e-4d1d5ebcbfd0",
+      "season": 5,
+      "number": 10,
+      "name": "Chinga",
+      "airdate": "1998-05-05"
+    },
+    {
+      "id": "0a5f6db3-d476-4c5f-a84d-b616eeee6629",
+      "season": 5,
+      "number": 11,
+      "name": "Kill Switch",
+      "airdate": "1998-05-12"
+    },
+    {
+      "id": "f40150fd-2caa-471f-9942-2fddcbe3498f",
+      "season": 5,
+      "number": 12,
+      "name": "Bad Blood",
+      "airdate": "1998-05-19"
+    },
+    {
+      "id": "6446cc26-8277-4c71-abd9-f96dd3b2111e",
+      "season": 5,
+      "number": 13,
+      "name": "Patient X - Part One",
+      "airdate": "1998-06-02"
+    },
+    {
+      "id": "b93049b5-67f6-4515-9a77-1a25b2cafdff",
+      "season": 5,
+      "number": 14,
+      "name": "The Red and the Black - Part Two",
+      "airdate": "1998-06-09"
+    },
+    {
+      "id": "892d7332-f4e0-41b1-9092-8778bde9e284",
+      "season": 5,
+      "number": 15,
+      "name": "Travelers",
+      "airdate": "1998-08-21"
+    },
+    {
+      "id": "75370c21-d88c-4f01-a776-bf5fb6abb715",
+      "season": 5,
+      "number": 16,
+      "name": "Mind's Eye",
+      "airdate": "1998-08-21"
+    },
+    {
+      "id": "be81bc69-0932-4a86-af5d-d7c4fe8dc5c5",
+      "season": 5,
+      "number": 17,
+      "name": "All Souls",
+      "airdate": "1998-08-22"
+    },
+    {
+      "id": "aac43976-9204-4b02-b715-b1a2d5c5dd75",
+      "season": 5,
+      "number": 18,
+      "name": "The Pine Bluff Variant",
+      "airdate": "1998-08-22"
+    },
+    {
+      "id": "6add3e39-5cd7-4af1-8470-c0483dfead4a",
+      "season": 5,
+      "number": 19,
+      "name": "Folie a Deux",
+      "airdate": "1998-08-22"
+    },
+    {
+      "id": "b952317d-8cd4-4b88-97a7-f4769686c05e",
+      "season": 5,
+      "number": 20,
+      "name": "The End",
+      "airdate": "1998-08-22"
+    },
+    {
+      "id": "534d2ea8-4734-4532-abbd-f445dc0d3ee4",
+      "season": 6,
+      "number": 1,
+      "name": "The Beginning",
+      "airdate": "1999-03-18"
+    },
+    {
+      "id": "866c061f-0f88-4477-9f60-466ca71cdee3",
+      "season": 6,
+      "number": 2,
+      "name": "Drive",
+      "airdate": "1999-03-23"
+    },
+    {
+      "id": "3f7531cf-a182-4074-9cd8-c3303555a1f0",
+      "season": 6,
+      "number": 3,
+      "name": "Triangle",
+      "airdate": "1999-03-30"
+    },
+    {
+      "id": "64f835a7-4ffc-4c65-8a09-66c8522786f6",
+      "season": 6,
+      "number": 4,
+      "name": "Dreamland - Part One",
+      "airdate": "1999-04-13"
+    },
+    {
+      "id": "9fc572db-9dc1-49b8-bf37-60f02bb3d17c",
+      "season": 6,
+      "number": 5,
+      "name": "Dreamland - Part Two",
+      "airdate": "1999-04-20"
+    },
+    {
+      "id": "8c0261d7-adb6-4bdd-947d-85db4beb074e",
+      "season": 6,
+      "number": 6,
+      "name": "How The Ghosts Stole Christmas",
+      "airdate": "1999-04-27"
+    },
+    {
+      "id": "efd1ea5f-71d6-4c8b-aa0d-8b0f430b2c04",
+      "season": 6,
+      "number": 7,
+      "name": "Terms of Endearment",
+      "airdate": "1999-05-04"
+    },
+    {
+      "id": "a8cb4180-f2c6-439e-88de-e1a345b3e876",
+      "season": 6,
+      "number": 8,
+      "name": "The Rain King",
+      "airdate": "1999-05-11"
+    },
+    {
+      "id": "2353b6f8-bd00-42d3-a835-2e236221078d",
+      "season": 6,
+      "number": 9,
+      "name": "S. R. 819",
+      "airdate": "1999-05-18"
+    },
+    {
+      "id": "930a73b7-d73a-4234-aab3-9951c5261be2",
+      "season": 6,
+      "number": 10,
+      "name": "Tithonus",
+      "airdate": "1999-05-25"
+    },
+    {
+      "id": "0c430a39-5037-4dde-942a-9286d82fda28",
+      "season": 6,
+      "number": 11,
+      "name": "Two Fathers - Part One",
+      "airdate": "1999-06-01"
+    },
+    {
+      "id": "097c9fbb-c886-484b-8aaa-609f12ee8eb9",
+      "season": 6,
+      "number": 12,
+      "name": "One Son - Part Two",
+      "airdate": "1999-06-08"
+    },
+    {
+      "id": "5a01d939-21e7-4bc7-996a-8b269123f71c",
+      "season": 6,
+      "number": 13,
+      "name": "Aqua Mala",
+      "airdate": "1999-09-14"
+    },
+    {
+      "id": "953d1e8e-0bc8-4fd4-92cc-8352a601756a",
+      "season": 6,
+      "number": 14,
+      "name": "Monday",
+      "airdate": "1999-09-21"
+    },
+    {
+      "id": "34bd2a28-23f5-4800-912f-d90f312c176b",
+      "season": 6,
+      "number": 15,
+      "name": "Arcadia",
+      "airdate": "1999-09-28"
+    },
+    {
+      "id": "5012b124-0194-4068-98b8-4c9a007b99f0",
+      "season": 6,
+      "number": 16,
+      "name": "Alpha",
+      "airdate": "1999-10-05"
+    },
+    {
+      "id": "56f8aff1-32ca-477b-9e86-2beb064fc8b7",
+      "season": 6,
+      "number": 17,
+      "name": "Trevor",
+      "airdate": "1999-10-12"
+    },
+    {
+      "id": "608a0c17-f970-4fcd-aeac-dbdafb314675",
+      "season": 6,
+      "number": 18,
+      "name": "Milagro",
+      "airdate": "1999-10-19"
+    },
+    {
+      "id": "144e479b-6a2d-40dc-a507-6c5c4af32aba",
+      "season": 6,
+      "number": 19,
+      "name": "The Unnatural",
+      "airdate": "1999-10-26"
+    },
+    {
+      "id": "05957966-063d-4efb-bac5-78eadd75cdc6",
+      "season": 6,
+      "number": 20,
+      "name": "Three of a Kind",
+      "airdate": "1999-11-02"
+    },
+    {
+      "id": "be33a2f9-2d46-4976-9382-bcbe97765efd",
+      "season": 6,
+      "number": 21,
+      "name": "Field Trip",
+      "airdate": "1999-11-09"
+    },
+    {
+      "id": "b7462eb6-a328-455a-a9dc-a3fe08ae8249",
+      "season": 6,
+      "number": 22,
+      "name": "Biogenesis - Part One",
+      "airdate": "1999-11-16"
+    },
+    {
+      "id": "97f5612c-02ce-48d0-9c5c-55c405134004",
+      "season": 7,
+      "number": 1,
+      "name": "The Sixth Extinction - Part Two",
+      "airdate": "2000-03-21"
+    },
+    {
+      "id": "8ad12365-8465-49cd-ae51-25e25afaf44d",
+      "season": 7,
+      "number": 2,
+      "name": "The Sixth Extinction II: Amor Fati - Part Three",
+      "airdate": "2000-03-28"
+    },
+    {
+      "id": "0ca36e39-23d8-4b8d-a07b-48396f59ceb4",
+      "season": 7,
+      "number": 3,
+      "name": "Hungry",
+      "airdate": "2000-04-04"
+    },
+    {
+      "id": "980b096e-cabc-4fb2-a1ca-bfc75442818c",
+      "season": 7,
+      "number": 4,
+      "name": "Millennium",
+      "airdate": "2000-04-11"
+    },
+    {
+      "id": "df4aa148-e7c7-4ace-9b2c-1250d5a4761c",
+      "season": 7,
+      "number": 5,
+      "name": "Rush",
+      "airdate": "2000-04-18"
+    },
+    {
+      "id": "84555c34-3744-49e8-b48d-36a8a57c5871",
+      "season": 7,
+      "number": 6,
+      "name": "The Goldberg Variation",
+      "airdate": "2000-04-25"
+    },
+    {
+      "id": "804c0b33-ac9a-4661-94b5-8aac4b3d9947",
+      "season": 7,
+      "number": 7,
+      "name": "Orison",
+      "airdate": "2000-05-02"
+    },
+    {
+      "id": "38c04b2d-15e1-44e7-bb97-3ce0283ef1cc",
+      "season": 7,
+      "number": 8,
+      "name": "The Amazing Maleeni",
+      "airdate": "2000-05-09"
+    },
+    {
+      "id": "2cb50791-3bd1-4cb2-b957-3733e8402f8a",
+      "season": 7,
+      "number": 9,
+      "name": "Signs and Wonders",
+      "airdate": "2000-05-23"
+    },
+    {
+      "id": "e672fd37-79ed-4bf5-821c-96bc887c54d8",
+      "season": 7,
+      "number": 10,
+      "name": "Sein Und Zeit - Part One",
+      "airdate": "2000-05-30"
+    },
+    {
+      "id": "21d00526-0da8-4b8b-aef0-15334a78106d",
+      "season": 7,
+      "number": 11,
+      "name": "Closure - Part Two",
+      "airdate": "2000-06-06"
+    },
+    {
+      "id": "f00c5f81-0143-4350-a022-04032d585095",
+      "season": 7,
+      "number": 12,
+      "name": "X-COPS",
+      "airdate": "2000-09-26"
+    },
+    {
+      "id": "738e822d-c3da-433a-9138-53d3956f4846",
+      "season": 7,
+      "number": 13,
+      "name": "First Person Shooter",
+      "airdate": "2000-10-03"
+    },
+    {
+      "id": "1695df1f-23bb-4075-b5e3-6176a1c2a7a9",
+      "season": 7,
+      "number": 14,
+      "name": "Theef",
+      "airdate": "2000-10-10"
+    },
+    {
+      "id": "bbb76793-8dcd-4480-b19b-da05e4da091e",
+      "season": 7,
+      "number": 15,
+      "name": "En Ami",
+      "airdate": "2000-10-17"
+    },
+    {
+      "id": "317dd356-4079-4166-ac9a-03897e0a0e83",
+      "season": 7,
+      "number": 16,
+      "name": "Chimera",
+      "airdate": "2000-10-24"
+    },
+    {
+      "id": "84981ca0-2c56-47b0-a2f2-c6acf3b9c7ee",
+      "season": 7,
+      "number": 17,
+      "name": "All Things",
+      "airdate": "2000-10-31"
+    },
+    {
+      "id": "f8727b43-ae35-4419-9436-cfbd385a79b6",
+      "season": 7,
+      "number": 18,
+      "name": "Brand X",
+      "airdate": "2000-11-21"
+    },
+    {
+      "id": "f621b86e-b20f-47f7-9be5-18eb922f7531",
+      "season": 7,
+      "number": 19,
+      "name": "Hollywood A.D.",
+      "airdate": "2000-11-28"
+    },
+    {
+      "id": "9e77ad19-fcac-4c94-aa79-13f5dda8c653",
+      "season": 7,
+      "number": 20,
+      "name": "Fight Club",
+      "airdate": "2000-12-05"
+    },
+    {
+      "id": "a5177f37-bfd3-4bde-9944-4228a60da9e2",
+      "season": 7,
+      "number": 21,
+      "name": "Je Souhaite",
+      "airdate": "2000-12-11"
+    },
+    {
+      "id": "bef4a545-b30e-467b-9131-406ff84ec749",
+      "season": 7,
+      "number": 22,
+      "name": "Requiem",
+      "airdate": "2000-12-18"
+    },
+    {
+      "id": "32383328-47a0-4272-a81f-ae5dd76c4774",
+      "season": 8,
+      "number": 1,
+      "name": "Within - Part One",
+      "airdate": "2001-07-31"
+    },
+    {
+      "id": "3af780bd-7b81-4a0f-9642-26c9f78fade0",
+      "season": 8,
+      "number": 2,
+      "name": "Without - Part Two",
+      "airdate": "2001-08-07"
+    },
+    {
+      "id": "1707b0fa-f673-4c0d-ba66-f025bf056667",
+      "season": 8,
+      "number": 3,
+      "name": "Patience",
+      "airdate": "2001-08-14"
+    },
+    {
+      "id": "006cdadf-d997-4bc3-9b89-545d7dfbaad5",
+      "season": 8,
+      "number": 4,
+      "name": "Roadrunners",
+      "airdate": "2001-08-21"
+    },
+    {
+      "id": "c0100a3b-7dd6-4549-8b91-418e250de60b",
+      "season": 8,
+      "number": 5,
+      "name": "Invocation",
+      "airdate": "2001-08-28"
+    },
+    {
+      "id": "0f198361-9fc0-4467-afaf-ef9dca3de4a2",
+      "season": 8,
+      "number": 6,
+      "name": "Redrum",
+      "airdate": "2001-09-03"
+    },
+    {
+      "id": "0ae6d81a-0244-4d2a-b659-9fa3dedc1013",
+      "season": 8,
+      "number": 7,
+      "name": "Via Negativa",
+      "airdate": "2001-09-10"
+    },
+    {
+      "id": "cb9e0247-6410-473b-8d9d-d868bbb92cca",
+      "season": 8,
+      "number": 8,
+      "name": "Surekill",
+      "airdate": "2001-09-17"
+    },
+    {
+      "id": "d92f90fe-3c49-46c4-ad62-844345a5e830",
+      "season": 8,
+      "number": 9,
+      "name": "Salvage",
+      "airdate": "2001-09-24"
+    },
+    {
+      "id": "0afb1230-9919-470f-ac6c-97605040cb65",
+      "season": 8,
+      "number": 10,
+      "name": "Badlaa",
+      "airdate": "2001-10-01"
+    },
+    {
+      "id": "30cafc77-b826-4bd6-b195-53f3425747dc",
+      "season": 8,
+      "number": 11,
+      "name": "The Gift",
+      "airdate": "2001-10-08"
+    },
+    {
+      "id": "ae2a343e-de5d-4e73-8a6b-f663e37f6678",
+      "season": 8,
+      "number": 12,
+      "name": "Medusa",
+      "airdate": "2001-10-15"
+    },
+    {
+      "id": "c068e023-0597-4f2d-bbaa-18ffc424c923",
+      "season": 8,
+      "number": 13,
+      "name": "Per Manum",
+      "airdate": "2001-10-22"
+    },
+    {
+      "id": "cc45b462-e26e-4c03-aaf0-cd9ecade445f",
+      "season": 8,
+      "number": 14,
+      "name": "This is Not Happening - Part One",
+      "airdate": "2002-01-09"
+    },
+    {
+      "id": "50482bd6-8bcb-4c50-afb6-39e0872e98d5",
+      "season": 8,
+      "number": 15,
+      "name": "DeadAlive - Part Two",
+      "airdate": "2002-01-16"
+    },
+    {
+      "id": "10fa2604-36e3-4aff-a9b5-22ebb3f6beaa",
+      "season": 8,
+      "number": 16,
+      "name": "Three Words",
+      "airdate": "2002-01-23"
+    },
+    {
+      "id": "cc0ce6c8-c49a-4067-ad6b-33f79cdc9853",
+      "season": 8,
+      "number": 17,
+      "name": "Empedocles",
+      "airdate": "2002-02-27"
+    },
+    {
+      "id": "ab05043d-93ca-444c-b3c9-6a576a42ed37",
+      "season": 8,
+      "number": 18,
+      "name": "Vienen",
+      "airdate": "2002-03-06"
+    },
+    {
+      "id": "38878035-eedf-4fc4-a7d4-d6e8748c8aaf",
+      "season": 8,
+      "number": 19,
+      "name": "Alone",
+      "airdate": "2002-03-13"
+    },
+    {
+      "id": "e0d6ea3f-952d-441b-9e1f-d1bbc0b797d0",
+      "season": 8,
+      "number": 20,
+      "name": "Essence - Part One",
+      "airdate": "2002-03-20"
+    },
+    {
+      "id": "943b4de9-d3fb-4d5d-bf55-845da3172327",
+      "season": 8,
+      "number": 21,
+      "name": "Existence - Part Two",
+      "airdate": "2002-04-03"
+    },
+    {
+      "id": "1c903d75-bc2e-4663-a78b-62e15a82c956",
+      "season": 9,
+      "number": 1,
+      "name": "Nothing Important Happened Today - Part One",
+      "airdate": "2002-04-10"
+    },
+    {
+      "id": "d2f8a729-6f62-43a5-84b8-7a5c6dc13ab2",
+      "season": 9,
+      "number": 2,
+      "name": "Nothing Important Happened Today II - Part Two",
+      "airdate": "2002-04-17"
+    },
+    {
+      "id": "fcaa2e3b-6f16-4c60-98b7-59fdfdcd9bbe",
+      "season": 9,
+      "number": 3,
+      "name": "Dæmonicus",
+      "airdate": "2002-04-24"
+    },
+    {
+      "id": "3a75d4aa-57bf-4bce-8139-f5064f4740d1",
+      "season": 9,
+      "number": 4,
+      "name": "4-D",
+      "airdate": "2002-05-01"
+    },
+    {
+      "id": "50298e9a-680e-4651-9f65-04c18a0664e2",
+      "season": 9,
+      "number": 5,
+      "name": "Lord of the Flies",
+      "airdate": "2002-05-08"
+    },
+    {
+      "id": "15524be6-7e51-4e7c-b30d-8177999a02c8",
+      "season": 9,
+      "number": 6,
+      "name": "Trust No 1",
+      "airdate": "2002-05-15"
+    },
+    {
+      "id": "d513cad9-0563-4d08-b4b0-64293a064943",
+      "season": 9,
+      "number": 7,
+      "name": "John Doe",
+      "airdate": "2003-02-04"
+    },
+    {
+      "id": "56776167-3a02-4230-8d96-e44a230510ca",
+      "season": 9,
+      "number": 8,
+      "name": "Hellbound",
+      "airdate": "2003-02-11"
+    },
+    {
+      "id": "ba5edb05-8d31-4b98-8ea8-055f643150e5",
+      "season": 9,
+      "number": 9,
+      "name": "Provenance - Part One",
+      "airdate": "2003-02-18"
+    },
+    {
+      "id": "e1a73c56-9ee5-49de-8d27-64c5a73fe714",
+      "season": 9,
+      "number": 10,
+      "name": "Providence - Part Two",
+      "airdate": "2003-02-25"
+    },
+    {
+      "id": "ab89076f-f0a8-4735-bcfc-b272de74aa46",
+      "season": 9,
+      "number": 11,
+      "name": "Audrey Pauley",
+      "airdate": "2003-03-04"
+    },
+    {
+      "id": "8957260d-bad0-4d50-ad72-d51a2f6202be",
+      "season": 9,
+      "number": 12,
+      "name": "Underneath",
+      "airdate": "2003-03-11"
+    },
+    {
+      "id": "0f677637-bb94-4d0f-9ad8-e00bd959f601",
+      "season": 9,
+      "number": 13,
+      "name": "Improbable",
+      "airdate": "2003-03-18"
+    },
+    {
+      "id": "08782b3a-fe6e-4f2a-a9e7-9c24a72cafac",
+      "season": 9,
+      "number": 14,
+      "name": "Scary Monsters",
+      "airdate": "2003-03-26"
+    },
+    {
+      "id": "ee4934db-1a50-41b0-9a87-ef11cdf6bdcf",
+      "season": 9,
+      "number": 15,
+      "name": "Jump the Shark",
+      "airdate": "2003-04-01"
+    },
+    {
+      "id": "d8b95ed5-2f9a-4b02-9aa7-3f2b2efe2057",
+      "season": 9,
+      "number": 16,
+      "name": "William",
+      "airdate": "2003-04-08"
+    },
+    {
+      "id": "38ff1f5c-562a-4eaf-9bb0-2c35a9760793",
+      "season": 9,
+      "number": 17,
+      "name": "Release",
+      "airdate": "2003-04-15"
+    },
+    {
+      "id": "4fd5defa-e98c-452b-84d1-64de7b2017d1",
+      "season": 9,
+      "number": 18,
+      "name": "Sunshine Days",
+      "airdate": "2003-04-22"
+    },
+    {
+      "id": "db8d63fb-da4a-4566-bc4c-bca40c3cc275",
+      "season": 9,
+      "number": 19,
+      "name": "The Truth - Part One",
+      "airdate": "2003-04-29"
+    },
+    {
+      "id": "3bce162a-699b-4405-91cd-aba54811de38",
+      "season": 9,
+      "number": 20,
+      "name": "The Truth - Part Two",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "6110e7a7-b431-4812-872d-c0610526bae9",
+      "season": 10,
+      "number": 1,
+      "name": "My Struggle",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "703528e0-cf0c-4ea9-bce2-3fbb1c9a4759",
+      "season": 10,
+      "number": 2,
+      "name": "Founder's Mutation",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "e346f895-44b1-4953-9529-7f315791987b",
+      "season": 10,
+      "number": 3,
+      "name": "Mulder and Scully Meet the Were-Monster",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "0b06555f-2ad3-4a1e-9f0c-712afceb65a3",
+      "season": 10,
+      "number": 4,
+      "name": "Home Again",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "76c62ea0-74e8-459d-93ae-6717dbc958dd",
+      "season": 10,
+      "number": 5,
+      "name": "Babylon",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "1fe9c0b4-e607-4f00-848c-6ea76130bea5",
+      "season": 10,
+      "number": 6,
+      "name": "My Struggle II",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "e8e1ba61-d356-4c34-bb3f-df0e49bebbf8",
+      "season": 11,
+      "number": 1,
+      "name": "My Struggle III",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "856822be-dc6c-43f7-ad0e-fc1a9e63b50f",
+      "season": 11,
+      "number": 2,
+      "name": "This",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "2685fac2-a7ef-4875-8a19-20f8d13f4e26",
+      "season": 11,
+      "number": 3,
+      "name": "Plus One",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "2498043d-fd33-4cb8-b163-9f0f4100c7c4",
+      "season": 11,
+      "number": 4,
+      "name": "The Lost Art of Forehead Sweat",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "21f071cb-e4ff-409b-a19b-f07a3e790083",
+      "season": 11,
+      "number": 5,
+      "name": "Ghouli",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "f9989089-b2b3-4fbb-97a8-6066e610271f",
+      "season": 11,
+      "number": 6,
+      "name": "Kitten",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "45af03a7-aa64-45d2-b98a-fe3c7a88bb4e",
+      "season": 11,
+      "number": 7,
+      "name": "Rm9sbG93ZXJz",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "fb228a22-1b91-4db7-8a28-97fcb8828ff0",
+      "season": 11,
+      "number": 8,
+      "name": "Familiar",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "8db88054-37e6-4a95-916f-ef7209cef488",
+      "season": 11,
+      "number": 9,
+      "name": "Nothing Lasts Forever",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "800fc761-1125-4010-8821-7b050acedfca",
+      "season": 11,
+      "number": 10,
+      "name": "My Struggle IV",
+      "airdate": "2026-10-10"
+    }
+  ]
+}

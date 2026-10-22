@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:the-undeclared-war-tv2play",
+  "name": "The Undeclared War",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "07ec46cd-f487-41dc-a648-4d529e746be3",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "f685fd08-5136-401d-8a19-b9e8c8c4a8da",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "5e45cdc7-61c7-476f-981b-fff0afd25b28",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "38d3f2a8-375f-40d1-853b-b0102627e408",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-08-20"
+    },
+    {
+      "id": "db36baf5-dbc6-4d00-82ac-38b85aa30fc6",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-08-27"
+    },
+    {
+      "id": "3b384a3b-72be-4364-9d14-d372c0b74b89",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-09-03"
+    }
+  ]
+}

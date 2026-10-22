@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:fedt-mand-tur-tv2nord",
+  "name": "Fedt mand - tur!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0a51d4f6-8b66-4c1f-b037-e736238b3f15",
+      "season": 1,
+      "number": 1,
+      "name": "Knaldperlen og Dolken er tilbage",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "da727c23-2e0b-4eaf-a25b-bd239b47e560",
+      "season": 1,
+      "number": 3,
+      "name": "Dolken på hjemmebane",
+      "airdate": "2024-06-28"
+    },
+    {
+      "id": "53474fc5-b9e1-406f-81fc-f957d8136c94",
+      "season": 1,
+      "number": 4,
+      "name": "Knaldperlen bliver syg",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "e440da43-5afe-4ad6-bbb6-54b28e5866c1",
+      "season": 1,
+      "number": 5,
+      "name": "Knaldperlen på hjemmebane",
+      "airdate": "2024-07-12"
+    },
+    {
+      "id": "301c147b-cf08-4797-9c37-e595d086d259",
+      "season": 1,
+      "number": 6,
+      "name": "Nu med spa",
+      "airdate": "2024-07-19"
+    }
+  ]
+}

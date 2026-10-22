@@ -1,0 +1,640 @@
+{
+  "id": "tv2play:knight-rider-skyshowtime",
+  "name": "Knight Rider",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "69c38022-072c-4a03-8b09-29275378ca87",
+      "season": 1,
+      "number": 1,
+      "name": "Knight of the Phoenix - Del 1",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "d6d0f304-fa69-4a7c-bb4c-a15ee63f526d",
+      "season": 1,
+      "number": 2,
+      "name": "Knight of the Phoenix - Del 2",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "7b67fdb2-2575-4f3b-bab1-a300c8cc82d0",
+      "season": 1,
+      "number": 3,
+      "name": "Deadly Maneuvers",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "87148695-98f1-4fd0-972f-24762264e437",
+      "season": 1,
+      "number": 4,
+      "name": "Good Day at White Rock",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "37d83dbe-287a-4be7-b912-a508eb24cc4d",
+      "season": 1,
+      "number": 5,
+      "name": "Slammin' Sammy's Stunt Show Spectacular",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "9b3443d4-9219-4fe4-b355-4635b1ab7e59",
+      "season": 1,
+      "number": 6,
+      "name": "Just My Bill",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "ca0a157b-92d4-4a42-a1f5-8b9003648ea3",
+      "season": 1,
+      "number": 7,
+      "name": "Not a Drop to Drink",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "6072f27d-9ef4-4a29-9694-2fdea337f251",
+      "season": 1,
+      "number": 8,
+      "name": "No Big Thing",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "16946d84-c2e7-4aee-803a-99828d679e2c",
+      "season": 1,
+      "number": 9,
+      "name": "Trust Doesn't Rust",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "8e8b44e3-0c44-471e-9239-b49f1dacb27e",
+      "season": 1,
+      "number": 10,
+      "name": "Inside Out",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "c4013e47-1a8c-45a6-9f3f-df3d9e275882",
+      "season": 1,
+      "number": 11,
+      "name": "The Final Verdict",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "c53cd76a-12e9-44de-bf36-8facd665966b",
+      "season": 1,
+      "number": 12,
+      "name": "Plush Ride",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "9a886892-1814-416c-ab09-6b91f503b730",
+      "season": 1,
+      "number": 13,
+      "name": "Forget Me Not",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "f8fb50f0-5d2f-41b1-ac4c-6780c6fbf05a",
+      "season": 1,
+      "number": 14,
+      "name": "Hearts of Stone",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "04d1aeb2-a1e3-4347-b750-8a01d4528e3e",
+      "season": 1,
+      "number": 15,
+      "name": "Give Me Liberty ... or Give Me Death",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "7b61957d-17e0-4865-9d0c-f4e32d6a2a1b",
+      "season": 1,
+      "number": 16,
+      "name": "The Topaz Connection",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "bb2c7588-27f1-4618-b26a-f9c3c20e3983",
+      "season": 1,
+      "number": 17,
+      "name": "A Nice, Indecent Little Town",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "007a4409-e8ea-4ca1-a0b7-6fd605de412a",
+      "season": 1,
+      "number": 18,
+      "name": "Chariot of Gold",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "3c2cdf4f-66b9-4741-aa5f-c16d5c204c67",
+      "season": 1,
+      "number": 19,
+      "name": "White Bird",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "9d7338f4-1eda-4006-a6d8-24d89d03de8c",
+      "season": 1,
+      "number": 20,
+      "name": "Knight Moves",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "75e7c51b-4c27-4a10-91c4-8bf120f8caa1",
+      "season": 1,
+      "number": 21,
+      "name": "Nobody Does It Better",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "635d1fb9-f327-4d26-81e1-e3368c2cb3c4",
+      "season": 1,
+      "number": 22,
+      "name": "Short Notice",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "a4676683-c442-4b93-b821-fce41c055079",
+      "season": 2,
+      "number": 1,
+      "name": "Goliath - Part 1",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "391920ec-204c-43dd-b6b3-9cf5ab42d519",
+      "season": 2,
+      "number": 2,
+      "name": "Goliath - Part 2",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "81f1d0b3-2712-4de6-9a4b-b159a7956b84",
+      "season": 2,
+      "number": 3,
+      "name": "Brother's Keeper",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "6fa39d54-7d53-4f3c-98bf-618041dba0ee",
+      "season": 2,
+      "number": 4,
+      "name": "Merchants of Death",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "e12d9892-9d80-45f1-8fe2-7fe712ed701f",
+      "season": 2,
+      "number": 5,
+      "name": "Blind Spot",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "68e48c04-5363-46db-82f8-14d7baf9bfd9",
+      "season": 2,
+      "number": 6,
+      "name": "Return to Cadiz",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "a53a83ac-2ee8-47bc-a935-28ee5fa67811",
+      "season": 2,
+      "number": 7,
+      "name": "K.I.T.T. the Cat",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "2ec216d0-2739-445d-9143-886ccabe5582",
+      "season": 2,
+      "number": 8,
+      "name": "Custom K.I.T.T.",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "8a8506e8-df79-4acb-817d-6b952e6bb29d",
+      "season": 2,
+      "number": 9,
+      "name": "Soul Survivor",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "785dfadf-8df7-4bd0-81bf-64c54ff9f9ee",
+      "season": 2,
+      "number": 10,
+      "name": "Ring of Fire",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "1861f827-070f-4879-aedb-4d3f6f47cd90",
+      "season": 2,
+      "number": 11,
+      "name": "Knightmares",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "73052393-fdcc-4095-84ec-e3d3257dcd25",
+      "season": 2,
+      "number": 12,
+      "name": "Silent Knight",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "f29e98e1-3c83-40ab-a01c-4c9f100415e8",
+      "season": 2,
+      "number": 13,
+      "name": "Knight Shining Armor",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "dc3ec698-a0c7-48b9-bc84-312c920f5487",
+      "season": 2,
+      "number": 14,
+      "name": "Diamonds Aren't Girls",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "e4902a75-7497-48b8-bb39-4be0f8b10d2b",
+      "season": 2,
+      "number": 15,
+      "name": "White-Line Warriors",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "9f0d2e85-030b-42b9-9bad-10e17634c7fa",
+      "season": 2,
+      "number": 16,
+      "name": "Race for Life",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "b106d934-36b8-4ab0-a1b5-1bf514310e6d",
+      "season": 2,
+      "number": 17,
+      "name": "Speed Demons",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "6d0054d6-6e80-4188-9673-d4cf6285ec12",
+      "season": 2,
+      "number": 18,
+      "name": "Goliath Returns - Part 1",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "2daab75b-8edd-484f-82c8-b7689256e345",
+      "season": 2,
+      "number": 19,
+      "name": "Goliath Returns - Part 2",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "2c5f9dfb-1a8c-4f78-adce-6fda856f61ca",
+      "season": 2,
+      "number": 20,
+      "name": "A Good Knight's Work",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "5589e7b7-d708-488b-a6e5-de93245ae721",
+      "season": 2,
+      "number": 21,
+      "name": "Mouth of the Snake - Part 1",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "1c5aefee-ef91-46a5-aaf5-5142f1530112",
+      "season": 2,
+      "number": 22,
+      "name": "Mouth of the Snake - Part 2",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "28cd3563-2a16-4c3c-ae88-fc5a84ce9c44",
+      "season": 2,
+      "number": 23,
+      "name": "Let It Be Me",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "6fcb51ea-b796-4a61-990f-dac255ec3127",
+      "season": 2,
+      "number": 24,
+      "name": "Big Iron",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "4267029b-8844-4e30-8992-649c9cf658c0",
+      "season": 3,
+      "number": 1,
+      "name": "Knight of the Drones - Part 1",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "47e1edf7-ae59-4bd4-abae-c5a8c99ccf46",
+      "season": 3,
+      "number": 2,
+      "name": "Knight of the Drones - Part 2",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "6f958704-5906-4ed5-9092-7216487a6fe1",
+      "season": 3,
+      "number": 3,
+      "name": "Ice Bandits",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "a48b67bd-30af-410d-a898-de62284f6d8f",
+      "season": 3,
+      "number": 4,
+      "name": "Knights of the Fast Lane",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "b18785af-b3fb-480b-b976-dbfcc3c10b5b",
+      "season": 3,
+      "number": 5,
+      "name": "Halloween Knight",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "6d2fcb90-29cb-4924-b817-eec982b9b095",
+      "season": 3,
+      "number": 6,
+      "name": "K.I.T.T. vs. K.A.R.R.",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "c6dd9b79-b10c-489e-b5e9-3edcc2fd154f",
+      "season": 3,
+      "number": 7,
+      "name": "The Rotten Apples",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "a0494d82-00aa-40ff-9fd9-b26d8888bfbb",
+      "season": 3,
+      "number": 8,
+      "name": "Knight in Disgrace",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "f42a7395-e36a-46e9-a84e-12ef9772b777",
+      "season": 3,
+      "number": 9,
+      "name": "Dead of Knight",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "c4ed00da-4677-4e61-a982-0ce6f7b99b74",
+      "season": 3,
+      "number": 10,
+      "name": "Lost Knight",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "cb806af8-b4c3-47d4-88cb-59a5b135e4ca",
+      "season": 3,
+      "number": 11,
+      "name": "Knight of the Chameleon",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "33585a8d-39a7-4fb8-ab69-88abe38a29dd",
+      "season": 3,
+      "number": 12,
+      "name": "Custom Made Killer",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "48e193f4-1098-4a20-a1de-d780ed0577be",
+      "season": 3,
+      "number": 13,
+      "name": "Knight by a Nose",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "e0bb2c8f-5843-4080-a1b1-8f76d8e264c9",
+      "season": 3,
+      "number": 14,
+      "name": "Junk Yard Dog",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "f0245064-4109-4366-82e0-f25111283d74",
+      "season": 3,
+      "number": 15,
+      "name": "Buy Out",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "bedbee54-b2fd-4364-8894-f1ead9b94599",
+      "season": 3,
+      "number": 16,
+      "name": "Knightlines",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "14046a92-c606-437a-8d08-a286e388d958",
+      "season": 3,
+      "number": 17,
+      "name": "The Nineteenth Hole",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "a15126fd-fa24-451a-a250-ea2f45bac94e",
+      "season": 3,
+      "number": 18,
+      "name": "Knight and Knerd",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "65aaa794-9ae2-424f-8fa7-b208ef8430bf",
+      "season": 3,
+      "number": 19,
+      "name": "Ten Wheel Trouble",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "0fde1bf4-fa28-4700-aea7-4edc09544859",
+      "season": 3,
+      "number": 20,
+      "name": "Knight in Retreat",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "c9b260a0-c2d5-46c6-8e40-93a2be290d90",
+      "season": 3,
+      "number": 21,
+      "name": "Knight Strike",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "8db5134e-bf2f-4652-b64a-5f5c02219537",
+      "season": 3,
+      "number": 22,
+      "name": "Circus Knights",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "dfa2dd11-59cf-4258-abdf-3a82e92fc25d",
+      "season": 4,
+      "number": 1,
+      "name": "Knight of the Juggernaut - Part 1",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "54bf0946-4338-47f2-8456-4e6e59337a29",
+      "season": 4,
+      "number": 2,
+      "name": "Knight of the Juggernaut - Part 2",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "144122b1-bb0c-4000-a087-42d0eccee552",
+      "season": 4,
+      "number": 3,
+      "name": "Kittnap",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "8b1a3869-3c5f-4f00-b612-1032b2935c77",
+      "season": 4,
+      "number": 4,
+      "name": "Sky Knight",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "1d6e7a52-83a9-41a2-945a-e5352ad2e4b9",
+      "season": 4,
+      "number": 5,
+      "name": "Burial Ground",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "f34984e3-7d21-4f99-ab8c-fca87aff9bec",
+      "season": 4,
+      "number": 6,
+      "name": "The Wrong Crowd",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "be6f6692-5e80-4d1d-927b-125bd81091a1",
+      "season": 4,
+      "number": 7,
+      "name": "Knight Sting",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "0ea002df-9abb-48c3-8ef6-c4539fa51526",
+      "season": 4,
+      "number": 8,
+      "name": "Many Happy Returns",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "c425f65c-4be7-4ca3-9354-9d222fe67f93",
+      "season": 4,
+      "number": 9,
+      "name": "Knight Racer",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "0a3b4a84-6262-4959-aaa7-758f36d28ade",
+      "season": 4,
+      "number": 10,
+      "name": "Knight Behind Bars",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "e83792fe-cbee-4f5a-9e06-17bc3bd735f3",
+      "season": 4,
+      "number": 11,
+      "name": "Knight Song",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "02fa4ffd-22df-42ff-8e11-6b1522adad0f",
+      "season": 4,
+      "number": 12,
+      "name": "The Scent of Roses",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "84eccd0e-1464-48ff-a80a-51903f1d2fe1",
+      "season": 4,
+      "number": 13,
+      "name": "Killer K.I.T.T.",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "ac2d2a0e-b2b8-42de-b54b-d5f2532e405a",
+      "season": 4,
+      "number": 14,
+      "name": "Out Of The Woods",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "5b5eed52-96f6-4f34-9aff-7a8ea0fddbe6",
+      "season": 4,
+      "number": 15,
+      "name": "Deadly Knightshade",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "c3edb1de-4db3-46a8-b9b3-1471af51fadf",
+      "season": 4,
+      "number": 16,
+      "name": "Redemption of a Champion",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "07ae9ca0-81d1-43d5-8450-d847a9291d58",
+      "season": 4,
+      "number": 17,
+      "name": "Knight of a Thousand Devils",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "0cc6dd45-755a-4461-832a-10b7cc0b1cca",
+      "season": 4,
+      "number": 18,
+      "name": "Hills of Fire",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "69e4a7c5-5f68-46af-8901-f3cf4396520c",
+      "season": 4,
+      "number": 19,
+      "name": "Knight Flight-Freedom",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "021ee57c-7355-4d56-a36a-86b535c4c4a4",
+      "season": 4,
+      "number": 20,
+      "name": "Fright Knight",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "a5c2dedd-59d9-4677-9d70-c78e0eabc058",
+      "season": 4,
+      "number": 21,
+      "name": "Knight of Rising Sun",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "4d495456-cc6d-46cc-a3c6-995b4097acdc",
+      "season": 4,
+      "number": 22,
+      "name": "Voodoo Knight",
+      "airdate": "2026-08-25"
+    }
+  ]
+}

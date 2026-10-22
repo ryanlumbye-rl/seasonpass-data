@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:saa-koerer-bussen-tv2",
+  "name": "Så kører bussen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3d5cd57c-7704-4726-adc0-83bfe7a92a6a",
+      "season": 1,
+      "number": 1,
+      "name": "100 grader og ny stil",
+      "airdate": "2026-10-15"
+    }
+  ]
+}

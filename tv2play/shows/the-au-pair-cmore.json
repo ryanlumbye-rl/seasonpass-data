@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:the-au-pair-cmore",
+  "name": "The Au Pair",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "446d59ef-9903-4522-be69-9df90f95446a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "29c2ff94-4e52-46a2-a8b4-c860aa0313d5",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "f6d877ed-9bcb-48f8-8af8-df2b69bab315",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "84df65f2-e465-46ed-a4e7-5f2817439413",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-02-12"
+    }
+  ]
+}

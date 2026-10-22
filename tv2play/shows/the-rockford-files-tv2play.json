@@ -1,0 +1,185 @@
+{
+  "id": "tv2play:the-rockford-files-tv2play",
+  "name": "The Rockford Files",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "feae5291-4d65-4256-adaf-89aaaa90a825",
+      "season": 1,
+      "number": 1,
+      "name": "Backlash of the Hunter - Del 1",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "b6186e03-5dff-4927-8c1e-3dd77aca0f6e",
+      "season": 1,
+      "number": 2,
+      "name": "Backlash of the Hunter - Del 2",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "7516c11d-3aaf-4ca6-98d2-102a980846e4",
+      "season": 1,
+      "number": 3,
+      "name": "The Kirkoff Case",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "80195a14-fe52-4bdd-95c6-e5dafbf56d83",
+      "season": 1,
+      "number": 4,
+      "name": "The Dark and Bloody Ground",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "ff43f1da-80c9-4914-9174-9d24ae298d07",
+      "season": 1,
+      "number": 5,
+      "name": "The Countess",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "f68d3790-03ba-4b70-85eb-0fff94b846d1",
+      "season": 1,
+      "number": 6,
+      "name": "Exit Prentiss Carr",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "3317f37b-15e0-4bc5-ab7e-e75ba365e51f",
+      "season": 1,
+      "number": 7,
+      "name": "Tall Woman in Red Wagon",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "f30eb3ca-82fb-4712-b63c-cc3ad72619ab",
+      "season": 1,
+      "number": 8,
+      "name": "This Case Is Closed - Del 1",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "afcc8cba-34c9-45e6-a3bc-b8d77017bb3e",
+      "season": 1,
+      "number": 9,
+      "name": "This Case Is Closed - Del 2",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "419b7b9a-3014-4ad9-a7ff-1cb9560a15ef",
+      "season": 1,
+      "number": 10,
+      "name": "The Big Ripoff",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "6c359339-6418-4fa2-bfab-4857a607690b",
+      "season": 1,
+      "number": 11,
+      "name": "Find Me If You Can",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "fa9b7c91-ddfa-4a3d-9e4a-4b6a8db9a2f3",
+      "season": 1,
+      "number": 12,
+      "name": "In Pursuit of Carol Thorne",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "7da53948-f967-45b5-bd90-52568f1118be",
+      "season": 1,
+      "number": 13,
+      "name": "The Dexter Crisis",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "ad3f8387-c247-4292-9414-2600b2571136",
+      "season": 1,
+      "number": 14,
+      "name": "Caledonia, It's Worth a Fortune!",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "f8cd7525-d974-4baf-8c15-246b65d32dcc",
+      "season": 1,
+      "number": 15,
+      "name": "Profit and Loss - Del 1",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "2ffb9159-ba3e-42b6-a862-a88441f478db",
+      "season": 1,
+      "number": 16,
+      "name": "Profit and Loss - Del 2",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "3de4b24d-921b-4b56-9cf2-f89520ed2b0a",
+      "season": 1,
+      "number": 17,
+      "name": "Aura Lee, Farewell",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "2f7e0a9e-1ebb-4e8a-82b1-bc3ae23a2562",
+      "season": 1,
+      "number": 18,
+      "name": "Sleight of Hand",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "2057fb43-1caf-4ca0-9ec0-8970f2e626c5",
+      "season": 1,
+      "number": 19,
+      "name": "Counter Gambit",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "4f3f57b3-9412-4b6d-a87b-cd2f24bfb9cc",
+      "season": 1,
+      "number": 20,
+      "name": "Claire",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "510d65bd-977b-4a3d-bd08-e2d54fbc34a4",
+      "season": 1,
+      "number": 21,
+      "name": "Say Goodbye to Jennifer",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "533fab8e-451a-4e0a-9be7-08bff63adbbf",
+      "season": 1,
+      "number": 22,
+      "name": "Charlie Harris at Large",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "dc225e0c-bff9-4af2-ba6e-a820786e5515",
+      "season": 1,
+      "number": 23,
+      "name": "The Four Pound Brick",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "e135425f-7f3a-4330-bc9f-833131477572",
+      "season": 1,
+      "number": 24,
+      "name": "Just by Accident",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "23575391-c032-4ccb-afef-8fa6639f8ef1",
+      "season": 1,
+      "number": 25,
+      "name": "Roundabout",
+      "airdate": "2023-10-08"
+    }
+  ]
+}

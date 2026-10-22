@@ -1,0 +1,318 @@
+{
+  "id": "tv2play:x-factor-tv2",
+  "name": "X Factor",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "63ceabd1-a51d-4aea-90df-98b4192a3761",
+      "season": 2025,
+      "number": 1,
+      "name": "Første audition",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "11cd5215-c57f-4833-a2a7-84e61853ce13",
+      "season": 2025,
+      "number": 2,
+      "name": "Anden audition",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "20fa6fc2-3175-4317-bce4-5db54ac8b29b",
+      "season": 2025,
+      "number": 3,
+      "name": "Tredje audition",
+      "airdate": "2025-01-10"
+    },
+    {
+      "id": "e48c3a6a-3cde-4ff8-afd3-925d080c9231",
+      "season": 2025,
+      "number": 4,
+      "name": "Første '6 Chair Challenge'",
+      "airdate": "2025-01-17"
+    },
+    {
+      "id": "7b66d471-4675-4871-9532-0d615e83dddd",
+      "season": 2025,
+      "number": 5,
+      "name": "Anden '6 Chair Challenge'",
+      "airdate": "2025-01-24"
+    },
+    {
+      "id": "79e2bdb6-6bdd-4ac7-afa0-e8a068ef2da8",
+      "season": 2025,
+      "number": 6,
+      "name": "Tredje '6 Chair Challenge'",
+      "airdate": "2025-01-31"
+    },
+    {
+      "id": "abd84269-c7a2-4072-a907-82805a785615",
+      "season": 2025,
+      "number": 7,
+      "name": "Bootcamp - del 1",
+      "airdate": "2025-02-07"
+    },
+    {
+      "id": "d8cebe51-06aa-4e16-ba43-f7126e62bbd5",
+      "season": 2025,
+      "number": 8,
+      "name": "Bootcamp - del 2",
+      "airdate": "2025-02-14"
+    },
+    {
+      "id": "f250d75c-b3ba-46cd-8916-4569b33c8f4e",
+      "season": 2025,
+      "number": 9,
+      "name": "Første liveshow",
+      "airdate": "2025-02-21"
+    },
+    {
+      "id": "a863e0a5-78f4-4460-852d-bda523c4196d",
+      "season": 2025,
+      "number": 10,
+      "name": "Første afgørelse",
+      "airdate": "2025-02-21"
+    },
+    {
+      "id": "fa030d64-a678-4ce2-bae6-4efde16abf57",
+      "season": 2025,
+      "number": 11,
+      "name": "Andet liveshow",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "4c64884e-0123-4e3e-a3d1-622b57ce6bd9",
+      "season": 2025,
+      "number": 12,
+      "name": "Anden afgørelse",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "3c49cc62-3cc2-4e30-89ac-1cc799919a43",
+      "season": 2025,
+      "number": 13,
+      "name": "Tredje liveshow",
+      "airdate": "2025-03-07"
+    },
+    {
+      "id": "43680f7d-690b-462b-907e-50b8f7d3d781",
+      "season": 2025,
+      "number": 14,
+      "name": "Tredje afgørelse",
+      "airdate": "2025-03-07"
+    },
+    {
+      "id": "03c5b8dd-8386-4cdd-884c-5db9b2f975e4",
+      "season": 2025,
+      "number": 15,
+      "name": "Fjerde liveshow",
+      "airdate": "2025-03-14"
+    },
+    {
+      "id": "87369b91-fcbe-4e62-b529-6b691a987d67",
+      "season": 2025,
+      "number": 16,
+      "name": "Fjerde afgørelse",
+      "airdate": "2025-03-14"
+    },
+    {
+      "id": "a292daea-d444-4bdb-9853-e1df960eb236",
+      "season": 2025,
+      "number": 17,
+      "name": "Femte liveshow",
+      "airdate": "2025-03-21"
+    },
+    {
+      "id": "c685ba48-2ef5-4b83-b089-1865281ce5dc",
+      "season": 2025,
+      "number": 18,
+      "name": "Femte afgørelse",
+      "airdate": "2025-03-21"
+    },
+    {
+      "id": "fadd9cc8-0fbc-47e7-ba9a-aa7f33e222b3",
+      "season": 2025,
+      "number": 19,
+      "name": "Semifinale",
+      "airdate": "2025-03-28"
+    },
+    {
+      "id": "0799dd76-4f41-46b9-8ef6-e854adfde1ab",
+      "season": 2025,
+      "number": 20,
+      "name": "Hvem er videre til finalen?",
+      "airdate": "2025-03-28"
+    },
+    {
+      "id": "3d308356-2bb5-45a6-9cf2-58d35408bf81",
+      "season": 2025,
+      "number": 21,
+      "name": "Finalen",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "5c3f065c-d645-4804-a933-59fc6e426469",
+      "season": 2025,
+      "number": 22,
+      "name": "Afgørelsen",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "1bd4852f-5d8c-4cf1-8798-092f3fc8f92f",
+      "season": 2026,
+      "number": 1,
+      "name": "Første audition",
+      "airdate": "2026-01-01"
+    },
+    {
+      "id": "916f46ca-c7e7-4917-b9d5-7efa0f84c5a5",
+      "season": 2026,
+      "number": 2,
+      "name": "Anden audition",
+      "airdate": "2026-01-09"
+    },
+    {
+      "id": "1c31129a-c6b4-4248-8554-d27ce2d47a8a",
+      "season": 2026,
+      "number": 3,
+      "name": "Tredje audition",
+      "airdate": "2026-01-16"
+    },
+    {
+      "id": "4f6860b2-3b3a-4620-882c-2fdbec9cff8d",
+      "season": 2026,
+      "number": 4,
+      "name": "Første 'Six Chair Challenge'",
+      "airdate": "2026-01-23"
+    },
+    {
+      "id": "49b95b39-4cf9-4102-be44-b19292f4e368",
+      "season": 2026,
+      "number": 5,
+      "name": "Anden ‘Six Chair Challenge’",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "858ca799-46a5-4fe8-8a00-0b49a27f0b64",
+      "season": 2026,
+      "number": 6,
+      "name": "Tredje ’Six Chair Challenge’",
+      "airdate": "2026-02-06"
+    },
+    {
+      "id": "d8c9a03f-c3c7-44ac-b80d-37eefa32af81",
+      "season": 2026,
+      "number": 7,
+      "name": "Bootcamp - del 1",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "cf67b931-11c2-4ce7-bce5-dc59a47dd64d",
+      "season": 2026,
+      "number": 8,
+      "name": "Den endelige udvælgelse",
+      "airdate": "2026-02-20"
+    },
+    {
+      "id": "1ecaa5aa-f39f-4332-ad24-b81da7d5a7a4",
+      "season": 2026,
+      "number": 9,
+      "name": "Første liveshow",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "8478af3a-3db0-4630-813a-8ba6c46f4262",
+      "season": 2026,
+      "number": 10,
+      "name": "Afgørelsen",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "bef871f6-352c-4a18-b444-9b797dc33a14",
+      "season": 2026,
+      "number": 11,
+      "name": "Andet liveshow",
+      "airdate": "2026-03-06"
+    },
+    {
+      "id": "4b42f0b5-d828-49d5-ae6e-fb2602c39890",
+      "season": 2026,
+      "number": 12,
+      "name": "Afgørelsen",
+      "airdate": "2026-03-06"
+    },
+    {
+      "id": "89ff199d-1348-4ea8-abb5-eeb41d7a3881",
+      "season": 2026,
+      "number": 13,
+      "name": "Tredje liveshow",
+      "airdate": "2026-03-13"
+    },
+    {
+      "id": "78a2c9c3-983a-499f-9d64-ce4dc4ef717d",
+      "season": 2026,
+      "number": 14,
+      "name": "Afgørelsen",
+      "airdate": "2026-03-13"
+    },
+    {
+      "id": "b7647d80-6c19-4632-b42e-b87aefd2fb11",
+      "season": 2026,
+      "number": 15,
+      "name": "Fjerde liveshow",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "a9ccdc36-ee8c-4f47-810d-7d9013c7acec",
+      "season": 2026,
+      "number": 16,
+      "name": "Afgørelsen",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "f1b0ff02-e918-449a-8c9e-04e597e4a812",
+      "season": 2026,
+      "number": 17,
+      "name": "Femte liveshow",
+      "airdate": "2026-03-27"
+    },
+    {
+      "id": "e0a428eb-b642-4d47-a21a-7950c589c7c1",
+      "season": 2026,
+      "number": 18,
+      "name": "Afgørelsen",
+      "airdate": "2026-03-27"
+    },
+    {
+      "id": "af552807-d9ec-4f2f-9301-89879e9c100d",
+      "season": 2026,
+      "number": 19,
+      "name": "Semifinale",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "ec6a61ca-d3e2-44a2-a43e-6a3c11fb3908",
+      "season": 2026,
+      "number": 20,
+      "name": "Afgørelsen",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "42748989-c4a7-4a00-b3d2-dca3ae828eef",
+      "season": 2026,
+      "number": 21,
+      "name": "Finalen",
+      "airdate": "2026-04-10"
+    },
+    {
+      "id": "11d7f9e9-0bea-41c0-b43d-28e0be5677d6",
+      "season": 2026,
+      "number": 22,
+      "name": "Afgørelsen",
+      "airdate": "2026-04-10"
+    }
+  ]
+}

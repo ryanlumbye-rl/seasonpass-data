@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:london-kills-britbox",
+  "name": "London Kills",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "677bbcc4-0523-4ae9-9849-2ce24b08aa17",
+      "season": 1,
+      "number": 1,
+      "name": "The Politician's Son",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "c4c5d291-201a-43ad-a55d-1b2766c81428",
+      "season": 1,
+      "number": 2,
+      "name": "Stag Night",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "65021605-0239-4b7c-ad02-8d3073755808",
+      "season": 1,
+      "number": 3,
+      "name": "Blood Lines",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "fba7218a-cab2-4aab-bf12-d30ac7056e8a",
+      "season": 1,
+      "number": 4,
+      "name": "Sex Games",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "711fb2ef-218c-44b4-9c80-5d8f0fb7461a",
+      "season": 1,
+      "number": 5,
+      "name": "Connected",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "72503546-399b-4da9-987a-3a24938872cf",
+      "season": 2,
+      "number": 1,
+      "name": "The Dark",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "692891f4-e490-4c90-a093-4eb03a01ad4b",
+      "season": 2,
+      "number": 2,
+      "name": "The Ultimate Price",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "ce8ae2d9-c773-4f91-b2a0-470924606936",
+      "season": 2,
+      "number": 3,
+      "name": "Family Affairs",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "f4c96a88-a058-4a12-8ffc-fb6117dd2ec8",
+      "season": 2,
+      "number": 4,
+      "name": "Turf Wars",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "4f23cce0-ef06-483b-a907-56645ce11dc5",
+      "season": 2,
+      "number": 5,
+      "name": "Captive",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "2df5055d-6226-4849-bc85-e5f91bc35168",
+      "season": 3,
+      "number": 1,
+      "name": "Grace",
+      "airdate": "2024-04-10"
+    },
+    {
+      "id": "60dd860a-6f21-45f2-9f38-3ff08dafde48",
+      "season": 3,
+      "number": 2,
+      "name": "Cyber Bully",
+      "airdate": "2024-04-10"
+    },
+    {
+      "id": "ea6ade2b-8d98-4ae9-b461-9c955bbf41bc",
+      "season": 3,
+      "number": 3,
+      "name": "Blood",
+      "airdate": "2024-04-10"
+    },
+    {
+      "id": "f247920b-3d09-4e6b-8507-ba2e056949d8",
+      "season": 3,
+      "number": 4,
+      "name": "Control Freak",
+      "airdate": "2024-04-10"
+    },
+    {
+      "id": "dcc978df-bb73-43d4-8b50-cb4b415491ce",
+      "season": 3,
+      "number": 5,
+      "name": "Crossing the Line",
+      "airdate": "2024-04-10"
+    },
+    {
+      "id": "925498d4-031b-4070-960a-ce82d436e32b",
+      "season": 4,
+      "number": 1,
+      "name": "Wake-Up Call",
+      "airdate": "2025-01-22"
+    },
+    {
+      "id": "1c6307de-ac10-41ac-acb4-02ceeb2fe5c1",
+      "season": 4,
+      "number": 2,
+      "name": "Fall Out",
+      "airdate": "2025-01-22"
+    },
+    {
+      "id": "f51d78a7-35b1-41f3-9c4e-3a73042234b8",
+      "season": 4,
+      "number": 3,
+      "name": "Old Wounds",
+      "airdate": "2025-01-22"
+    },
+    {
+      "id": "1bca2648-d368-4e6b-aa89-ce829a8fe2c1",
+      "season": 4,
+      "number": 4,
+      "name": "Amnesia",
+      "airdate": "2025-01-22"
+    },
+    {
+      "id": "373a0f47-0e09-44c0-990f-cbf5cfd47b88",
+      "season": 4,
+      "number": 5,
+      "name": "Vendetta",
+      "airdate": "2025-01-22"
+    }
+  ]
+}

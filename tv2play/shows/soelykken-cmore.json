@@ -1,0 +1,234 @@
+{
+  "id": "tv2play:soelykken-cmore",
+  "name": "Sølykken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5615af88-1aab-4bd2-801c-58855c59e70f",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6d1375e3-5d50-4ba0-85fe-b7290c12acbd",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8ff9d9d1-eac7-4988-b7db-c15186db791f",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a1d4c039-7935-43fb-968a-bfd4770aa0e3",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "eee4697a-fa69-463b-924a-c5ff86f9c544",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "53d85c16-fb48-4246-81d5-531021dcb0af",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c35a534e-6d9e-44fe-b7ac-3a4f44473a57",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f9ae2663-0da5-4814-a3b6-a923e4ea7771",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4a81ca73-2316-4f36-b20d-11fe99703a48",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3315983c-1090-4d7d-8146-7f9ccbb68e34",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "44209cec-07d0-468b-9018-f56e9172b6e6",
+      "season": 2,
+      "number": 1,
+      "name": "Det nye Sølykken",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "faf7bd8f-7f0a-4967-b34d-141faba433cd",
+      "season": 2,
+      "number": 2,
+      "name": "Madkrigen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e30d7b0c-bdd5-41f3-9920-1b75faf70baa",
+      "season": 2,
+      "number": 3,
+      "name": "Bror dygtig",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "56b65656-8f7c-439c-b032-96d0952042f3",
+      "season": 2,
+      "number": 4,
+      "name": "Sølykkens samlere",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fdb27c57-dbb9-487d-bc16-e0bd5655b86f",
+      "season": 2,
+      "number": 5,
+      "name": "Den grønne bølge",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d5161627-fee2-4a97-9058-caaa012dc368",
+      "season": 2,
+      "number": 6,
+      "name": "Delt glæde er dobbelt glæde",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "69d7fc28-fc12-40e6-a6cd-cebe240ee32d",
+      "season": 2,
+      "number": 7,
+      "name": "Klara & Rille 3.0",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9a31ae45-16b1-41fc-a894-a6725feebf9f",
+      "season": 2,
+      "number": 8,
+      "name": "Fødslen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ffd238be-de17-4352-a887-219eaaca18e4",
+      "season": 3,
+      "number": 1,
+      "name": "Arven",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d8920554-61eb-434d-b598-19bcb7c03b90",
+      "season": 3,
+      "number": 2,
+      "name": "Købe båd",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "238b2a35-3053-4063-a6a6-1c36d30e5274",
+      "season": 3,
+      "number": 3,
+      "name": "Teenagebesøg",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e7fab0f7-6681-44dd-a1f2-dc2ccc6108ac",
+      "season": 3,
+      "number": 4,
+      "name": "Barb was here",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e35c91bf-cba0-4867-a0ad-ec6cf1412f2d",
+      "season": 3,
+      "number": 5,
+      "name": "Carpe ferie",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6a77624e-6902-4eda-ad3e-f41d004c3cf2",
+      "season": 3,
+      "number": 6,
+      "name": "Efterårslukningen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a3ac3fba-e36c-47d6-8b96-801ab3312736",
+      "season": 4,
+      "number": 1,
+      "name": "En stor nyhed",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "33c2f5e3-f284-499f-bde6-6d2242f5b6a5",
+      "season": 4,
+      "number": 2,
+      "name": "Lily tager en IQ-test",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "f6dc855e-43f4-4a8c-9b0c-624f302c7eaa",
+      "season": 4,
+      "number": 3,
+      "name": "Den nye nabo",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "a4d42205-2141-4f6e-8c98-7645bb31da75",
+      "season": 4,
+      "number": 4,
+      "name": "Som far, som søn",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "7ebdaea8-680d-4243-bfda-23a865e5137e",
+      "season": 4,
+      "number": 5,
+      "name": "Er Berndt dement?",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "1b9ebae4-360d-48cb-a42c-490ca182c5d4",
+      "season": 4,
+      "number": 6,
+      "name": "Ruths venner",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "b21c74ad-b8f8-4655-a651-d29b159ea6fc",
+      "season": 4,
+      "number": 7,
+      "name": "Klara og katastrofetankerne",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "2dee6705-1ecb-41ea-91b0-b9cd509e1d3a",
+      "season": 4,
+      "number": 8,
+      "name": "Strandet",
+      "airdate": "2023-06-05"
+    }
+  ]
+}

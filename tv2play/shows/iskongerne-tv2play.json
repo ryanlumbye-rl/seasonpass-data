@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:iskongerne-tv2play",
+  "name": "Iskongerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b76d81c2-d43f-4d0f-ab96-afefb9871b91",
+      "season": 1,
+      "number": 1,
+      "name": "Leif og Lindhardt",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "009f6bd0-63a3-4f81-a426-31243d916c64",
+      "season": 1,
+      "number": 2,
+      "name": "Særlige isbiler og 007",
+      "airdate": "2026-08-08"
+    }
+  ]
+}

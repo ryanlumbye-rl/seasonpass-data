@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:paa-patrulje-i-paradis-tv2",
+  "name": "På patrulje i paradis",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c73fa901-9651-4c09-abb1-098c4750fe0c",
+      "season": 1,
+      "number": 1,
+      "name": "Populær festival",
+      "airdate": "2026-01-05"
+    },
+    {
+      "id": "4f9b21c3-8c49-4c04-8e92-0b977a9ba52a",
+      "season": 1,
+      "number": 2,
+      "name": "Stoffer i bagagen",
+      "airdate": "2026-01-06"
+    },
+    {
+      "id": "b8f7c88d-06ed-4cd2-9254-a8cd17f90b4d",
+      "season": 1,
+      "number": 3,
+      "name": "Den ulovlige opdrætter",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "7844068b-d658-4fd2-abf1-e8ac1903c97e",
+      "season": 1,
+      "number": 4,
+      "name": "Hård træning",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "362bfdc6-b235-4afd-b0ad-7f4325a58ef4",
+      "season": 1,
+      "number": 5,
+      "name": "En travl dag",
+      "airdate": "2026-01-12"
+    },
+    {
+      "id": "1707028f-c839-4f6f-bc58-dadaa43530ed",
+      "season": 1,
+      "number": 6,
+      "name": "Under overfladen",
+      "airdate": "2026-01-13"
+    },
+    {
+      "id": "90d8a979-964b-4b60-86ce-008a4f6b4274",
+      "season": 1,
+      "number": 7,
+      "name": "Motorcykeltyve på spil",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "059aecd2-92bb-4c72-9e6a-efd865e52521",
+      "season": 1,
+      "number": 8,
+      "name": "Ulovlige stoffer",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "c71d602f-7e14-41c0-8239-3dd4524cc0a9",
+      "season": 1,
+      "number": 9,
+      "name": "Politimotorcykel i problemer",
+      "airdate": "2026-01-19"
+    },
+    {
+      "id": "35c6a19f-c14e-4437-bf27-bf1b967660fc",
+      "season": 1,
+      "number": 10,
+      "name": "En genstridig besætter",
+      "airdate": "2026-01-20"
+    },
+    {
+      "id": "f2a26a7b-d603-427b-af85-b271ff16076f",
+      "season": 1,
+      "number": 11,
+      "name": "Bermudas største fest",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "983d51ba-fd29-43e2-ae11-6f47794f8927",
+      "season": 1,
+      "number": 12,
+      "name": "Knallerter i uheld",
+      "airdate": "2026-01-22"
+    },
+    {
+      "id": "eb3032f7-175c-45ec-aa4f-c1debac064f2",
+      "season": 1,
+      "number": 13,
+      "name": "En elektrisk cykel",
+      "airdate": "2026-01-26"
+    },
+    {
+      "id": "d35e2feb-3aee-47a5-9fd6-0c8d300d3cd2",
+      "season": 1,
+      "number": 14,
+      "name": "I et dilemma",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "ac45b9f6-85cf-45e8-baef-bc84e7742bc5",
+      "season": 1,
+      "number": 15,
+      "name": "En langfingret tyv",
+      "airdate": "2026-01-28"
+    },
+    {
+      "id": "81f41d9c-11c2-4c89-8d86-7d81f657e3f4",
+      "season": 1,
+      "number": 16,
+      "name": "Paradisiske Bermuda",
+      "airdate": "2026-01-29"
+    }
+  ]
+}

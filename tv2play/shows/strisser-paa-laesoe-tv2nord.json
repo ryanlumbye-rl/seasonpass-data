@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:strisser-paa-laesoe-tv2nord",
+  "name": "Strisser på Læsø",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4f329dd2-8dff-4d6b-98fa-fb91877c97eb",
+      "season": 1,
+      "number": 1,
+      "name": "De kalder mig 'Pistol Peter'",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "de1a4289-4133-463d-849d-256f2c173a3b",
+      "season": 1,
+      "number": 2,
+      "name": "Fra rækkehus i Rødovre til landliv på Læsø",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "b076daca-c3ab-4110-a354-5fccffa629b9",
+      "season": 2,
+      "number": 1,
+      "name": "Den besværlige familiedrøm",
+      "airdate": "2024-01-07"
+    },
+    {
+      "id": "e5b02f39-7899-43a3-a8d4-ddaa654cc2f3",
+      "season": 2,
+      "number": 2,
+      "name": "Den moderne betjent",
+      "airdate": "2024-01-14"
+    }
+  ]
+}

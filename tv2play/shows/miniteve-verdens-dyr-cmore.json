@@ -1,0 +1,528 @@
+{
+  "id": "tv2play:miniteve-verdens-dyr-cmore",
+  "name": "Miniteve: Verdens dyr",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3a02860a-3bd0-4983-9274-b0d25864f2c9",
+      "season": 1,
+      "number": 1,
+      "name": "Abe klatrer op og ned",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "242788bf-c6db-4da5-ab9c-0ee80720cea4",
+      "season": 1,
+      "number": 2,
+      "name": "Abe svinger sig i et reb",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d3dc4e0f-ad40-485f-945f-23d856f9a578",
+      "season": 1,
+      "number": 3,
+      "name": "Abe svinger sig i et træ",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "0c7ab5cc-6826-4aac-96ed-3bd6dc3b05c6",
+      "season": 1,
+      "number": 4,
+      "name": "Abe vil åbne en taske",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "37815a37-5897-413f-8f11-3da044dbf7bc",
+      "season": 1,
+      "number": 5,
+      "name": "Aber larmer i træet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "55a038ad-4b22-4a63-a9fb-32025131d74c",
+      "season": 1,
+      "number": 6,
+      "name": "Aber får mad",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "09f3a905-d5cd-49fb-963e-51e54448e53d",
+      "season": 1,
+      "number": 7,
+      "name": "Gorilla spiser banan",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "bd1bef5d-629c-4472-a78f-66d4908c5c90",
+      "season": 1,
+      "number": 8,
+      "name": "Ilder skriger",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "03219448-ff2f-49dc-aff4-60e24f99700e",
+      "season": 1,
+      "number": 9,
+      "name": "Yakokse",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "27de55ba-9f8f-4035-907b-70bd214dfb12",
+      "season": 1,
+      "number": 10,
+      "name": "Kamel lægger sig til at sove",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "464fcbaf-70f1-44ea-a045-f888d71c2f51",
+      "season": 1,
+      "number": 11,
+      "name": "Kamel spiser",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b32e99e6-2f3a-488d-a2a0-c324b7d273d9",
+      "season": 1,
+      "number": 12,
+      "name": "Kameler kigger ind i kameraet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "209084ed-9be1-4e22-9696-77c8e13fcc6f",
+      "season": 1,
+      "number": 13,
+      "name": "Slange",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d1308f13-1e4c-405d-ab49-f3605ba3df16",
+      "season": 1,
+      "number": 14,
+      "name": "Pingviner",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4f3895b9-caad-46dc-9d6e-2218caf5c6b7",
+      "season": 1,
+      "number": 15,
+      "name": "Skildpadde",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c74a6134-7e58-459a-81b6-54c2f8e0fdb7",
+      "season": 1,
+      "number": 16,
+      "name": "Skildpadde spiser",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "3619a31e-2c14-4dcd-af96-197ea0a0b6f4",
+      "season": 1,
+      "number": 17,
+      "name": "Episode 16",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "2782baf9-8885-49f2-bf49-a77b2d8f39bc",
+      "season": 1,
+      "number": 18,
+      "name": "Episode 17",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "1e1b04c5-ecf8-4062-9927-ddf7d12e39a3",
+      "season": 1,
+      "number": 19,
+      "name": "Palmer",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4abeb210-96d1-41bf-91fe-0833f753a0e1",
+      "season": 1,
+      "number": 20,
+      "name": "Kødædende blomst spiser insekt",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c8e8f6d5-f63a-41e5-a6d8-d84b725613b4",
+      "season": 1,
+      "number": 21,
+      "name": "Strudse spiser",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b96a1950-8205-4b52-bb8c-74bc5108f886",
+      "season": 1,
+      "number": 22,
+      "name": "Lille skildpadde",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "f11495ee-0460-4767-a911-7f71d6be40c7",
+      "season": 1,
+      "number": 23,
+      "name": "Firben",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "9d59897e-b5e2-4ba0-832f-0c0c6fd8df12",
+      "season": 1,
+      "number": 24,
+      "name": "Dyr på savannen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "0ede2d6d-3743-4914-b620-886c6d7e5a32",
+      "season": 1,
+      "number": 25,
+      "name": "Giraffamilie",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c2ff7dab-b4b2-4922-9033-ab42eb33bc86",
+      "season": 1,
+      "number": 26,
+      "name": "Zebra ruller rundt i græsset",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "a540a9ec-b206-4fe8-a9cf-0180b94a0a21",
+      "season": 1,
+      "number": 27,
+      "name": "Elefant danser",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "977b1b49-4259-4bec-ad91-031a89437bb2",
+      "season": 1,
+      "number": 28,
+      "name": "Elefant går en tur",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e7888427-adbc-4470-96bb-b267fadc0437",
+      "season": 1,
+      "number": 29,
+      "name": "Elefant løfter foden",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "99da28d7-b611-4737-a6c7-3c30d5e85685",
+      "season": 1,
+      "number": 30,
+      "name": "Elefant nyser",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "72b4e679-c0c6-4604-996b-ad90f397ffed",
+      "season": 1,
+      "number": 31,
+      "name": "Elefant samler mad op med snablen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "69330282-4c40-4fdc-898c-b08d459db2a9",
+      "season": 1,
+      "number": 32,
+      "name": "Elefant spiser græs",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6f7bc50a-5211-4ede-89e8-198bc8fe57f0",
+      "season": 1,
+      "number": 33,
+      "name": "Tre elefanter",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "57e38f61-0cc4-4e1d-91f9-3b9dcc6536fc",
+      "season": 1,
+      "number": 34,
+      "name": "Han fodrer krokodillerne",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "f4128492-3653-485a-bdc0-d10f21c4ad85",
+      "season": 1,
+      "number": 35,
+      "name": "Krokodille i regnen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "9145a8fa-773a-4c48-b346-3fa2bddd6dc2",
+      "season": 1,
+      "number": 36,
+      "name": "Krokodillens tænder",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "701a2aa8-4725-498e-8402-1875c5577130",
+      "season": 1,
+      "number": 37,
+      "name": "Episode 36",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "7ddc9048-4b20-47fa-ba5f-59b3e34ea31b",
+      "season": 1,
+      "number": 38,
+      "name": "Løven sover",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b3adac82-28d0-4850-886c-8462f82b16d3",
+      "season": 1,
+      "number": 39,
+      "name": "Tiger svømmer i vandet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "bda678a6-1ae5-40ca-8049-655e6fc0951b",
+      "season": 1,
+      "number": 40,
+      "name": "Tiger jager i vandet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "31361943-2f54-46dc-aa59-3f1666d5e549",
+      "season": 1,
+      "number": 41,
+      "name": "Tiger leder efter mad",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "35aff95f-eb4b-4cd4-bf9c-ec629907bd78",
+      "season": 1,
+      "number": 42,
+      "name": "Tiger med skarpe tænder",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b15ded7b-3e45-4807-aa5d-a2938cbe9d3a",
+      "season": 1,
+      "number": 43,
+      "name": "Episode 42",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "416f8f72-a7d8-4e8b-a803-d18edf582e6f",
+      "season": 1,
+      "number": 44,
+      "name": "Sortbjørn svaler sig i vandet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5e588f97-7144-4649-a64f-173808168500",
+      "season": 1,
+      "number": 45,
+      "name": "Storke",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "62b0caed-a2d7-4768-8624-518071172d17",
+      "season": 1,
+      "number": 46,
+      "name": "Lamaer bliver fodret",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "70bac65d-c5c6-4431-8e6a-5dc0103c7a15",
+      "season": 1,
+      "number": 47,
+      "name": "Rød papegøje",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e0e79968-5f89-4a8c-98ce-265d770c1bb6",
+      "season": 1,
+      "number": 48,
+      "name": "Påfugl",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "751ea3c2-5fe4-48fd-9639-e669d5303b7e",
+      "season": 1,
+      "number": 49,
+      "name": "Gibbonaber leger i træet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "792cec18-0c50-4f07-85ab-8bb82e90972a",
+      "season": 1,
+      "number": 50,
+      "name": "Klap det lille æselføl",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "db5a3141-641b-4ed5-a537-42bac3e2490e",
+      "season": 1,
+      "number": 51,
+      "name": "Masser af æsler",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "90d150a1-b0ea-45f5-911e-592cd9c3eb14",
+      "season": 1,
+      "number": 52,
+      "name": "Antilope",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "96dab949-8866-433c-9a95-b92334761f4f",
+      "season": 1,
+      "number": 53,
+      "name": "Giraffer kigger på jeep, der kører på savannen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "00f6f0bc-0ec1-45f4-a1ee-dc31f7e4018f",
+      "season": 1,
+      "number": 54,
+      "name": "Masser af giraffer",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "0f180839-ba0b-4e60-8d15-648e1d7ce10b",
+      "season": 1,
+      "number": 55,
+      "name": "Præriehunde",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "23d90a72-e125-43be-b0b7-f9f362516150",
+      "season": 1,
+      "number": 56,
+      "name": "Polarulve",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "a0c7d99f-1fa3-46ab-b797-368d2c21438e",
+      "season": 1,
+      "number": 57,
+      "name": "Næsehorn æder",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b510c99a-46a1-4a9a-a37d-1ca9ec652185",
+      "season": 1,
+      "number": 58,
+      "name": "Løve vandrer frem og tilbage",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6d0b703f-fdec-46c1-a5c0-5b108dccc5a8",
+      "season": 1,
+      "number": 59,
+      "name": "Bydue",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "06cf7c57-9592-4503-b130-8252009485b6",
+      "season": 1,
+      "number": 60,
+      "name": "Slange",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "7e55030c-d015-4bca-8cf3-c1ef090d8fa4",
+      "season": 1,
+      "number": 61,
+      "name": "Næsehorn",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "514ed1da-815e-479d-acf1-4aac301b5b0e",
+      "season": 1,
+      "number": 62,
+      "name": "Rød panda",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "46be7b5a-1b9e-4a86-a26b-8c9a788dff84",
+      "season": 1,
+      "number": 63,
+      "name": "Zebraer",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e1fd8668-e77d-4671-ae85-f3e886226a24",
+      "season": 1,
+      "number": 64,
+      "name": "Krokodille",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6ab288ad-f485-4100-b52f-631dd860c3f9",
+      "season": 1,
+      "number": 65,
+      "name": "Abe",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "82d7cc2c-6ae9-4798-b43f-56b4769df528",
+      "season": 1,
+      "number": 66,
+      "name": "Kattedyr",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "9ecbf8b1-9e18-48cd-96b6-6c023afe64b8",
+      "season": 1,
+      "number": 67,
+      "name": "Lemur",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6b60079b-ac1d-465d-8fdd-8bdb99ace8bc",
+      "season": 1,
+      "number": 68,
+      "name": "Kameler",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "62a0b0b5-90b4-46e5-9ea4-953171e6b6e1",
+      "season": 1,
+      "number": 69,
+      "name": "Abe",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c2b314d1-6f1a-475d-90cd-4cfa8a361aca",
+      "season": 1,
+      "number": 70,
+      "name": "Struds",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "ae2c0ba9-fe25-4295-945e-98900ebd1588",
+      "season": 1,
+      "number": 71,
+      "name": "Næsehorn",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "56046222-10f8-44db-ae70-0d7bed28f199",
+      "season": 1,
+      "number": 72,
+      "name": "Aber",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "82c4322a-d69f-4f5f-9313-bcd12ab1cacd",
+      "season": 1,
+      "number": 73,
+      "name": "Kattedyr",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d4639fae-bf2f-4aa5-a475-ff1efe93095b",
+      "season": 1,
+      "number": 74,
+      "name": "Flagermus",
+      "airdate": "2024-02-16"
+    }
+  ]
+}

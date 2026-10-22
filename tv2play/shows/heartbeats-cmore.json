@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:heartbeats-cmore",
+  "name": "Heartbeats",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "af995a5d-1845-411e-83b7-024706f45223",
+      "season": 1,
+      "number": 1,
+      "name": "Du",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3494f952-5d8d-4398-b3ef-cf7fbcc94bc9",
+      "season": 1,
+      "number": 2,
+      "name": "tænker på dig hele tiden",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f611a980-10dc-4cbc-99cb-eeea72f16edd",
+      "season": 1,
+      "number": 3,
+      "name": "hey, skal vi ses",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6d52c8f9-063c-4167-a8c7-08d91f84575d",
+      "season": 1,
+      "number": 4,
+      "name": "status quo",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0ccbc80f-04ce-463d-b433-7dc39288ab14",
+      "season": 1,
+      "number": 5,
+      "name": "glem mig ikke",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "47c623a2-67b7-4fd8-b481-5a8c15115dad",
+      "season": 1,
+      "number": 6,
+      "name": "vi",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e73e31ee-c851-4b5b-b113-cb43057ee26c",
+      "season": 1,
+      "number": 7,
+      "name": "undskyld",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3720f16f-d462-4fa1-bb98-bf7ff8bdb0dd",
+      "season": 1,
+      "number": 8,
+      "name": "der har nok aldrig været noget \"os\"",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f5f842e4-093e-4f6e-bf6c-5bd36b5c6f89",
+      "season": 2,
+      "number": 1,
+      "name": "indflytning",
+      "airdate": "2023-11-17"
+    },
+    {
+      "id": "38a20d2e-ccbb-4b57-8812-37f60d509ba2",
+      "season": 2,
+      "number": 2,
+      "name": "du kender mig jo",
+      "airdate": "2023-11-17"
+    },
+    {
+      "id": "7366ed47-effd-4307-9abe-3bea2f150bed",
+      "season": 2,
+      "number": 3,
+      "name": "fødselsdag",
+      "airdate": "2023-11-24"
+    },
+    {
+      "id": "bd3ebdcc-1e18-44bd-98e6-45660f615e73",
+      "season": 2,
+      "number": 4,
+      "name": "spise pizza",
+      "airdate": "2023-11-24"
+    },
+    {
+      "id": "0e5a4250-9e03-4f23-9235-ccad59bd7ff1",
+      "season": 2,
+      "number": 5,
+      "name": "du var kørt",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "7664701d-ce4d-4f2b-b7c2-0afd024225e2",
+      "season": 2,
+      "number": 6,
+      "name": "grimme chinos",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "4b4d2a08-51a8-4071-b6df-892976d35ad2",
+      "season": 2,
+      "number": 7,
+      "name": "varm toast",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "b66455e9-a1d7-4dbe-8067-29df1b54bd21",
+      "season": 2,
+      "number": 8,
+      "name": "I skal have brug for mig",
+      "airdate": "2023-12-08"
+    }
+  ]
+}

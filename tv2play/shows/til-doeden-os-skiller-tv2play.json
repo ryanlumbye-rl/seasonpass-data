@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:til-doeden-os-skiller-tv2play",
+  "name": "Til døden os skiller",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2247c6e8-fe19-42a4-a524-5adb43a83af8",
+      "season": 1,
+      "number": 1,
+      "name": "Mistænkt for mord",
+      "airdate": "2026-07-17"
+    },
+    {
+      "id": "98867664-dcc1-4a94-894d-6097ff5c2820",
+      "season": 1,
+      "number": 2,
+      "name": "Offer eller gerningsmand",
+      "airdate": "2026-07-17"
+    },
+    {
+      "id": "ae0caa5c-1664-490f-bf47-e00a8d793d0d",
+      "season": 1,
+      "number": 3,
+      "name": "Begrav og kom videre",
+      "airdate": "2026-07-24"
+    },
+    {
+      "id": "208f0610-9143-456e-a82d-3112d407600f",
+      "season": 1,
+      "number": 4,
+      "name": "Gamle synder",
+      "airdate": "2026-07-31"
+    },
+    {
+      "id": "c0116954-7695-40e8-bbc7-f892761bbb04",
+      "season": 1,
+      "number": 5,
+      "name": "Uden for rimelig tvivl",
+      "airdate": "2026-08-07"
+    },
+    {
+      "id": "59b8c97a-cb1f-4b33-b92c-d7d53276cf7d",
+      "season": 1,
+      "number": 6,
+      "name": "Dømt på forhånd",
+      "airdate": "2026-08-14"
+    }
+  ]
+}

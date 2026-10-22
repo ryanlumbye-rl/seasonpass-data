@@ -1,0 +1,584 @@
+{
+  "id": "tv2play:ray-donovan-skyshowtime",
+  "name": "Ray Donovan",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2e2763e7-9b69-4518-95e2-a8d948f72bf9",
+      "season": 1,
+      "number": 1,
+      "name": "The Bag or the Bat",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3b594504-3fdd-4647-9f0a-27a8c7bdc9d0",
+      "season": 1,
+      "number": 2,
+      "name": "A Mouth is a Mouth",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7d21eccd-cb9a-4075-856b-4851619b8a94",
+      "season": 1,
+      "number": 3,
+      "name": "Twerk",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6560fff3-787a-47bb-9236-0d0126409a48",
+      "season": 1,
+      "number": 4,
+      "name": "Black Cadillac",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1cfe03f3-0875-41e0-9b57-fac2d734e55a",
+      "season": 1,
+      "number": 5,
+      "name": "The Golem",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1fdfa5bd-c197-4e75-a1c7-d3a33017b517",
+      "season": 1,
+      "number": 6,
+      "name": "Housewarming",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a4d5d81f-a46d-40e9-8a60-75c31a962af6",
+      "season": 1,
+      "number": 7,
+      "name": "New Birthday",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8efe8152-3dc1-4c1c-a02a-e34326072e40",
+      "season": 1,
+      "number": 8,
+      "name": "Bridget",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "450eea10-7fc5-4ba0-8c46-492c48ed098e",
+      "season": 1,
+      "number": 9,
+      "name": "Road Trip",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1161c500-0269-43e5-92d2-9a4e2848eb8f",
+      "season": 1,
+      "number": 10,
+      "name": "Fite Nite",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e2603203-4745-401e-bc37-b58e7ea83a8f",
+      "season": 1,
+      "number": 11,
+      "name": "Bucky Fuckin' Dent",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c76a0a8d-862d-4e8a-a31b-d574eed2cd3c",
+      "season": 1,
+      "number": 12,
+      "name": "Same Exactly",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2965b012-1464-4d2e-9d4b-4d51889b923f",
+      "season": 2,
+      "number": 1,
+      "name": "Yo Soy Capitán",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fe88ddba-143c-4a38-8a73-3faf022ff6e1",
+      "season": 2,
+      "number": 2,
+      "name": "Uber Ray",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0de9d74e-28c5-403f-bde4-0afde488f174",
+      "season": 2,
+      "number": 3,
+      "name": "Gem and Loan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4f69ae17-aeff-47f8-8929-eae62a2c4860",
+      "season": 2,
+      "number": 4,
+      "name": "S U C K",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0a33de12-2d74-4970-85c2-6a8d96a4ceff",
+      "season": 2,
+      "number": 5,
+      "name": "Irish Spring",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f09e89c3-8942-4518-aa86-d434964dfc7d",
+      "season": 2,
+      "number": 6,
+      "name": "Viagra",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aec1e852-cc40-47c4-8834-8df742a43cf2",
+      "season": 2,
+      "number": 7,
+      "name": "Walk This Way",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "15144e74-0a6b-4adb-8150-65be4fb849f7",
+      "season": 2,
+      "number": 8,
+      "name": "Sunny",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "64ccd113-d3b9-4de8-83df-3226fa2ebb44",
+      "season": 2,
+      "number": 9,
+      "name": "Snowflake",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "79d16214-8d10-41aa-a309-35ae791e502a",
+      "season": 2,
+      "number": 10,
+      "name": "Volcheck",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e46bf1d0-3ad0-47ee-979e-efe859137cdb",
+      "season": 2,
+      "number": 11,
+      "name": "Rodef",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "59bbc5d5-7ea3-4b69-b6d8-0d8415cda416",
+      "season": 2,
+      "number": 12,
+      "name": "The Captain",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "03f49284-b203-4a7e-a83e-1223fad08b3e",
+      "season": 3,
+      "number": 1,
+      "name": "The Kalamazoo",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e7dfb310-fc29-461e-abc8-1d8db9bb3eaf",
+      "season": 3,
+      "number": 2,
+      "name": "Ding",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "71d1b3be-d03a-4168-8170-5b1355156fed",
+      "season": 3,
+      "number": 3,
+      "name": "Come and Knock on Our Door",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a64dab8a-5b70-4508-8d75-923c27539df3",
+      "season": 3,
+      "number": 4,
+      "name": "Breakfast Of Champions",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "38f68c54-4cf0-48c6-b8a0-43aea440f7a2",
+      "season": 3,
+      "number": 5,
+      "name": "Handshake Deal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dfd3a0f5-3be8-4f8d-b069-109d7c7a8637",
+      "season": 3,
+      "number": 6,
+      "name": "Swing Vote",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f748dd59-2137-44df-9d7c-5eb6669f126a",
+      "season": 3,
+      "number": 7,
+      "name": "All Must Be Loved",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dc0a6d31-5008-44a8-9550-2458159e7b6a",
+      "season": 3,
+      "number": 8,
+      "name": "Tulip",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0da85800-919f-441c-8d43-b8d479053c3c",
+      "season": 3,
+      "number": 9,
+      "name": "The Octopus",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2304084c-3cf1-47f2-b159-170c29e4aee1",
+      "season": 3,
+      "number": 10,
+      "name": "One Night In Yerevan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "81aa32ca-ccdb-4e35-9eee-85e162134e49",
+      "season": 3,
+      "number": 11,
+      "name": "Poker",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ff471a68-88eb-41bb-9238-3471ed1d3a00",
+      "season": 3,
+      "number": 12,
+      "name": "Exsuscito",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e5de8a49-df3c-4991-8413-dc262221fbe8",
+      "season": 4,
+      "number": 1,
+      "name": "Girl, With Guitar",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e3791c38-abdf-4a95-93ae-93d2beaf834f",
+      "season": 4,
+      "number": 2,
+      "name": "Marisol",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4de92cda-94cf-46f7-bdfc-922263bdcac5",
+      "season": 4,
+      "number": 3,
+      "name": "Little Bill Primm's Big Green Horseshoe",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8f3707e2-11ce-4cf3-a2f9-2a688f26efdf",
+      "season": 4,
+      "number": 4,
+      "name": "Federal Boobie Inspector",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "840f21b7-3dc6-41c7-9c9b-5f7d3297dc1a",
+      "season": 4,
+      "number": 5,
+      "name": "Get Even Before Leavin'",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fcd5592b-c612-4407-9a83-ea3d0e541866",
+      "season": 4,
+      "number": 6,
+      "name": "Fish and Bird",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "067c31f6-276b-4a26-992c-191f129286a8",
+      "season": 4,
+      "number": 7,
+      "name": "Norman Saves the World",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4d733914-d26a-4748-a89c-9b5cea76013d",
+      "season": 4,
+      "number": 8,
+      "name": "The Texan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b6cc297a-b84c-49a9-881d-b1c7aa4b3665",
+      "season": 4,
+      "number": 9,
+      "name": "Goodbye, Beautiful",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3004e0a5-cc78-4bc1-82aa-bb4242285229",
+      "season": 4,
+      "number": 10,
+      "name": "Lake Hollywood",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "776a0891-7b83-4783-8a49-1123876140a1",
+      "season": 4,
+      "number": 11,
+      "name": "Chinese Algebra",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "161a5c11-7af9-433f-8517-0a2e6cf0fea5",
+      "season": 4,
+      "number": 12,
+      "name": "Rattus Rattus",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "18d0427d-1661-48f5-b88d-be9651438dcf",
+      "season": 5,
+      "number": 1,
+      "name": "Abby",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4aff60a2-9806-4e40-8159-4aaef197319d",
+      "season": 5,
+      "number": 2,
+      "name": "Las Vegas",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "58c73bed-2c1b-4647-a63e-5af7ba322830",
+      "season": 5,
+      "number": 3,
+      "name": "Dogwalker",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "113a0a08-bfe9-4d9d-9102-207b5cdc2fc0",
+      "season": 5,
+      "number": 4,
+      "name": "Sold",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c0802c19-cd8f-4ca9-8afd-e093734fb240",
+      "season": 5,
+      "number": 5,
+      "name": "Shabbos Goy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c1c2f319-d320-469f-8b8b-b4cb98fa629f",
+      "season": 5,
+      "number": 6,
+      "name": "Shelley Duvall",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f1d0a7f4-a950-44b5-92c0-119c5e798331",
+      "season": 5,
+      "number": 7,
+      "name": "If I Should Fall from Grace with God",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0a72f97c-e3cb-434f-a5a1-efdc683646c2",
+      "season": 5,
+      "number": 8,
+      "name": "Horses",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7012b07a-5066-498f-acf2-060890ebe206",
+      "season": 5,
+      "number": 9,
+      "name": "Mister Lucky",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eb084ebd-ac7e-49d2-81e9-be11acb9c070",
+      "season": 5,
+      "number": 10,
+      "name": "Bob the Builder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ba04ce7c-1768-4ca4-9ab1-21c967a8fc2c",
+      "season": 5,
+      "number": 11,
+      "name": "Michael",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eb8b2779-d31b-4731-9577-8a4b007cb817",
+      "season": 5,
+      "number": 12,
+      "name": "Time Takes a Cigarette",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d18dbe68-6188-4e6e-a1a6-4efc2190a8c7",
+      "season": 6,
+      "number": 1,
+      "name": "Staten Island, Part One",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b9de8efb-6213-48ba-89e4-d3e7870da497",
+      "season": 6,
+      "number": 2,
+      "name": "Staten Island, Part Two",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8cc44e2e-f357-4900-9c33-6dd9530a0894",
+      "season": 6,
+      "number": 3,
+      "name": "He Be Tight. He Be Mean.",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d82d9077-d675-490e-b931-65deed4fae60",
+      "season": 6,
+      "number": 4,
+      "name": "Pudge",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7e75e999-7572-4641-b8a3-acace2310b79",
+      "season": 6,
+      "number": 5,
+      "name": "Ellis Island",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7bbd1e42-879b-4e1e-8d2e-66c4e94bfe2a",
+      "season": 6,
+      "number": 6,
+      "name": "A Girl Named Maria",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c85e7f12-e727-40a0-bfab-92c8abe5d6ed",
+      "season": 6,
+      "number": 7,
+      "name": "The 1-3-2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e428f9f9-e700-43bf-bcf3-002a822e84d7",
+      "season": 6,
+      "number": 8,
+      "name": "Who Once Was Dead",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ba3e785a-94b4-4e72-9591-aaeadf6b5720",
+      "season": 6,
+      "number": 9,
+      "name": "Dream On",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "460ac7bd-4e62-43e8-8b74-e1d4ace15145",
+      "season": 6,
+      "number": 10,
+      "name": "Baby",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "64b06df4-0194-477a-ab4d-2691181b0f18",
+      "season": 6,
+      "number": 11,
+      "name": "Never Gonna Give You Up",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3899259d-dcc2-48f2-a0c1-03c50fb2935f",
+      "season": 6,
+      "number": 12,
+      "name": "The Dead",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1c910ffb-d2d8-4c43-9e21-8c64d2aa6170",
+      "season": 7,
+      "number": 1,
+      "name": "Faith. Hope. Love. Luck.",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6d597daa-40cd-4dc9-a4b4-64ac6b654061",
+      "season": 7,
+      "number": 2,
+      "name": "A Good Man is Hard to Find",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d804b96d-d472-42cd-8595-0cecc8615d0c",
+      "season": 7,
+      "number": 3,
+      "name": "Family Pictures",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4972536e-de0f-4346-ac87-41f1f6ebfcd1",
+      "season": 7,
+      "number": 4,
+      "name": "Hispes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4f294cf9-d8e2-4415-986c-00acae91676d",
+      "season": 7,
+      "number": 5,
+      "name": "An Irish Lullaby",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a54a2e67-67af-43e4-92a0-2d80a2ba9300",
+      "season": 7,
+      "number": 6,
+      "name": "Inside Guy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d11a3167-7040-4654-a295-69366dca4f8e",
+      "season": 7,
+      "number": 7,
+      "name": "The Transfer Agent",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d378d377-d998-4dca-86b9-18287d388253",
+      "season": 7,
+      "number": 8,
+      "name": "Passport and a Gun",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8fb756f2-2459-40c6-8c0c-9199fd71431b",
+      "season": 7,
+      "number": 9,
+      "name": "Bugs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c58ed1de-dcdd-41bc-ab24-92bd2e1cdbcf",
+      "season": 7,
+      "number": 10,
+      "name": "You'll Never Walk Alone",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

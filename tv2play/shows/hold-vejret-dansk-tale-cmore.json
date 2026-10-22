@@ -1,0 +1,115 @@
+{
+  "id": "tv2play:hold-vejret-dansk-tale-cmore",
+  "name": "Hold vejret! (dansk tale)",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "393d13e8-2320-4eca-b0c6-981ad3eb400b",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til Warfen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d8d48dd9-0bb5-47ec-b7c2-bbf8294a8ef6",
+      "season": 1,
+      "number": 2,
+      "name": "Skæbnens ironi",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8907ba26-71af-4cba-8629-161f01ad7b6c",
+      "season": 1,
+      "number": 3,
+      "name": "En lidt for gammel flamme",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7ce78615-a678-458f-bf3a-11f6f3bb0c0a",
+      "season": 1,
+      "number": 4,
+      "name": "Du tænker kun på dig selv!",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a60b5262-a4b6-4f4d-825e-6f64fd2e9b74",
+      "season": 1,
+      "number": 5,
+      "name": "Sandhed eller konsekvens",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bd7fbfdf-3e40-4a0a-a37c-72c308803740",
+      "season": 1,
+      "number": 6,
+      "name": "Den bedste tømmermandskur",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b767f372-b57b-444a-a53d-e3c76e3a834c",
+      "season": 1,
+      "number": 7,
+      "name": "Kan hun lide mig?",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "037d9b26-f64d-4927-8278-3b345d7f9d52",
+      "season": 1,
+      "number": 8,
+      "name": "Spøgeri#creepy",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1f481844-ec83-4dd1-ad2c-29fc08b5048a",
+      "season": 1,
+      "number": 9,
+      "name": "Hvem kan du bedst lide?",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ce0e44c6-3f30-4e77-8364-8c371d2b7afb",
+      "season": 1,
+      "number": 10,
+      "name": "Dårlig stemning",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "21edeb24-13f2-4877-8ce3-756334baef3e",
+      "season": 1,
+      "number": 11,
+      "name": "Hunger Games",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3785ce51-a6a1-4f7b-89de-9c8f1881ace5",
+      "season": 1,
+      "number": 12,
+      "name": "Gør det for Lo!",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "44a3d33e-addd-433a-99c7-20f80dc58a26",
+      "season": 1,
+      "number": 13,
+      "name": "Fuck lederne!",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0542dcd7-a683-4a2c-a067-764cfdaf1eb6",
+      "season": 1,
+      "number": 14,
+      "name": "Vi dræber dragen!",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "04eb48be-7b18-4d88-b053-e27bc9d67e87",
+      "season": 1,
+      "number": 15,
+      "name": "Team Bearclaw!",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

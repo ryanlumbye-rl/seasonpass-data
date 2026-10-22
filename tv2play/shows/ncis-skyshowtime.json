@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:ncis-skyshowtime",
+  "name": "NCIS",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "656d9ad7-8c45-4753-b631-48140ecf0d1f",
+      "season": 10,
+      "number": 1,
+      "name": "Extreme Prejudice",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "2c1af40e-5afd-49ed-93c9-4479562d4b20",
+      "season": 10,
+      "number": 2,
+      "name": "Recovery",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "b25bea0e-1df5-4371-94d3-5a6b2fdc421a",
+      "season": 10,
+      "number": 3,
+      "name": "Phoenix",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "1747b6a4-7e65-45f4-9200-c521c572b4e0",
+      "season": 10,
+      "number": 4,
+      "name": "Lost at Sea",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "84639f4c-7b69-4e95-9342-77747cba9e73",
+      "season": 10,
+      "number": 5,
+      "name": "The Namesake",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "46ac679e-c98d-418a-9866-a5e6b403de02",
+      "season": 10,
+      "number": 6,
+      "name": "Shell Shock - Part 1",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "09572673-dcb3-471d-8189-76f3418490fb",
+      "season": 10,
+      "number": 7,
+      "name": "Shell Shock - Part 2",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "838a6b92-ab28-47d9-9ff0-c424c9d2094e",
+      "season": 10,
+      "number": 8,
+      "name": "Gone",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "26165c4d-a04d-484b-8a6e-52a2552ec887",
+      "season": 10,
+      "number": 9,
+      "name": "Devil's Trifecta",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "dc8f4d68-4044-4a47-b514-cb4d48f08c3c",
+      "season": 10,
+      "number": 10,
+      "name": "You Better Watch Out",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "43c795e9-08a0-445e-bf3b-0a5c20f2f047",
+      "season": 10,
+      "number": 11,
+      "name": "Shabbat Shalom",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "a2f2b7b0-0e39-4c77-98e0-65e88ae2b159",
+      "season": 10,
+      "number": 12,
+      "name": "Shiva",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "cbe4d13a-09c8-48e9-b40b-e7330a466da5",
+      "season": 10,
+      "number": 13,
+      "name": "Hit and Run",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "06225a12-0a11-41ad-814b-e266f9b73443",
+      "season": 10,
+      "number": 14,
+      "name": "Canary",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "7cedd31e-c243-48e5-b6c2-fd9c84d01b8d",
+      "season": 10,
+      "number": 15,
+      "name": "Hereafter",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "86d6a2db-c187-4fda-9698-a0868ee8dd21",
+      "season": 10,
+      "number": 16,
+      "name": "Detour",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "2b459f4b-99d8-4d35-b536-a117c794bd46",
+      "season": 10,
+      "number": 17,
+      "name": "Prime Suspect",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "577b2d75-6628-41a7-b9c7-6f7e84020cd6",
+      "season": 10,
+      "number": 18,
+      "name": "Seek",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "12198c9a-f650-4fd3-b1c5-cc1885a486ab",
+      "season": 10,
+      "number": 19,
+      "name": "Squall",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "61490024-cf83-47de-8323-5d3d53120ff6",
+      "season": 10,
+      "number": 20,
+      "name": "Chasing Ghosts",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "cc1b5673-e466-4445-8534-b49f470a6040",
+      "season": 10,
+      "number": 21,
+      "name": "Berlin",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "136f1da8-0284-4068-9a05-45057ba22f67",
+      "season": 10,
+      "number": 22,
+      "name": "Revenge",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "84f0f7a5-d9d9-43e9-b56d-95179c4491b1",
+      "season": 10,
+      "number": 23,
+      "name": "Double Blind",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "8554b91b-2f98-43d3-a45d-3c5b5412cc51",
+      "season": 10,
+      "number": 24,
+      "name": "Damned If You Do",
+      "airdate": "2025-12-23"
+    }
+  ]
+}

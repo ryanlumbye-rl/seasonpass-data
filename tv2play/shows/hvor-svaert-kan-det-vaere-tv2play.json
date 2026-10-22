@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:hvor-svaert-kan-det-vaere-tv2play",
+  "name": "Hvor svært kan det være?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5843cf02-07f7-4614-a727-5cdefba707fd",
+      "season": 1,
+      "number": 1,
+      "name": "Emil skal overleve 24 timer i Forsvaret (1:2)",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "372696cd-8dd4-4498-984c-ef570670f702",
+      "season": 1,
+      "number": 2,
+      "name": "En nat i minus 10 grader og mudder til halsen (2:2)",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "978eb7e0-441e-4ff5-874f-de1c3f2b9726",
+      "season": 1,
+      "number": 3,
+      "name": "Stenhårde bokseskuldre og damehænder",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "c3d94bf1-e323-4d13-9dc2-5c29502c0d24",
+      "season": 1,
+      "number": 4,
+      "name": "Stikflammer og en 80 kilo tung dukke",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "8a2737fa-9f84-4ce9-a4f3-5903b979e08a",
+      "season": 1,
+      "number": 5,
+      "name": "Niks pille - der er milliarder på spil",
+      "airdate": "2026-06-25"
+    }
+  ]
+}

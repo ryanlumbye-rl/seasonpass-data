@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:naesten-voksen-tv2",
+  "name": "Næsten voksen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "862076eb-cb0e-44e8-991f-1e88e70272aa",
+      "season": 1,
+      "number": 1,
+      "name": "Puttefester og body count",
+      "airdate": "2026-03-18"
+    },
+    {
+      "id": "4ae6d2bf-ddf3-4e13-95ef-4bb2a20253f0",
+      "season": 1,
+      "number": 2,
+      "name": "Blush blindness og fuck me eyes",
+      "airdate": "2026-03-25"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:stonehouse-britbox",
+  "name": "Stonehouse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fb2c6d64-39a5-42cc-8a14-0981cc3224aa",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2ae80084-1634-4995-ac36-835b72e70815",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bfe421b6-ac3f-4061-8bbe-1410e71dd4a4",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

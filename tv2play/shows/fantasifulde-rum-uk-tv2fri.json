@@ -1,0 +1,157 @@
+{
+  "id": "tv2play:fantasifulde-rum-uk-tv2fri",
+  "name": "Fantasifulde rum UK",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b927ece0-549a-4184-869c-2c05df5f3a5e",
+      "season": 11,
+      "number": 1,
+      "name": "Nye eventyr for eksperten",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "0fafe2fa-2a5c-47e6-b8e8-ebdf4e0cd8ae",
+      "season": 11,
+      "number": 2,
+      "name": "Fra svævende byggeri til mikrohjem",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "178c9c34-2f71-468e-b91e-cbca8c67bfd9",
+      "season": 11,
+      "number": 3,
+      "name": "Kreative løsninger for familien",
+      "airdate": "2024-10-18"
+    },
+    {
+      "id": "4f1fe517-b2bb-4dd3-998a-749f60ec8fd3",
+      "season": 11,
+      "number": 4,
+      "name": "Inspirerende projekter",
+      "airdate": "2024-10-18"
+    },
+    {
+      "id": "7b61824f-17e2-423d-b204-7a898cf40077",
+      "season": 11,
+      "number": 5,
+      "name": "Camping med plads til alle",
+      "airdate": "2024-10-25"
+    },
+    {
+      "id": "caa48ba1-92a3-4c0d-8d19-cf1b4b117f97",
+      "season": 11,
+      "number": 6,
+      "name": "En grønnere fremtid",
+      "airdate": "2024-10-25"
+    },
+    {
+      "id": "47cbe284-85cf-4673-8641-6d908e93cae9",
+      "season": 11,
+      "number": 7,
+      "name": "Det rigtige design og perfekte detaljer",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "87deaa1a-c11d-49fa-a5b6-113af6e3fef2",
+      "season": 11,
+      "number": 8,
+      "name": "Kronen sættes på værket",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "86b4def7-a4dc-46aa-bbc1-d16000c57250",
+      "season": 12,
+      "number": 1,
+      "name": "Et moderne vikingehus",
+      "airdate": "2024-08-02"
+    },
+    {
+      "id": "4db409b7-25da-4699-8b30-c0525bfb6414",
+      "season": 12,
+      "number": 2,
+      "name": "Klædt i skaller",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "0440ccaf-5910-47a6-863d-51567151ec16",
+      "season": 12,
+      "number": 3,
+      "name": "Passion for biler",
+      "airdate": "2024-08-16"
+    },
+    {
+      "id": "9e605976-07a2-4627-a356-167b6512fece",
+      "season": 12,
+      "number": 4,
+      "name": "En skandinavisk vision",
+      "airdate": "2024-08-23"
+    },
+    {
+      "id": "a187ef21-2994-4435-ade5-0a1cdd51d3ae",
+      "season": 12,
+      "number": 5,
+      "name": "Glamping i skoven",
+      "airdate": "2024-08-30"
+    },
+    {
+      "id": "def53495-182d-4d8a-ae0a-988b9804412e",
+      "season": 12,
+      "number": 6,
+      "name": "Over trætoppene",
+      "airdate": "2024-09-06"
+    },
+    {
+      "id": "62c3040a-eaac-4c65-8efc-b3bdff294743",
+      "season": 12,
+      "number": 7,
+      "name": "Et industrielt hotelværelse",
+      "airdate": "2024-09-13"
+    },
+    {
+      "id": "f2014e58-7cf7-4280-bd45-5f9e23413f0a",
+      "season": 12,
+      "number": 8,
+      "name": "Fra drøm til virkelighed",
+      "airdate": "2024-09-20"
+    },
+    {
+      "id": "9cdff776-4119-49d5-b499-a98a6b0399ab",
+      "season": 13,
+      "number": 1,
+      "name": "Træhuse i Portugal",
+      "airdate": "2025-08-22"
+    },
+    {
+      "id": "34caffe7-9887-4a92-ac20-dcbc82d4051d",
+      "season": 13,
+      "number": 2,
+      "name": "Med historisk inspiration",
+      "airdate": "2025-08-29"
+    },
+    {
+      "id": "ff06315e-721f-4f14-b1e5-045a5275d986",
+      "season": 13,
+      "number": 3,
+      "name": "Når gammelt møder nyt",
+      "airdate": "2025-09-05"
+    },
+    {
+      "id": "92e0b60c-488a-494a-a48d-aaf642a13fa3",
+      "season": 13,
+      "number": 4,
+      "name": "En cupcakes arkitektur",
+      "airdate": "2025-09-12"
+    },
+    {
+      "id": "2ac6aac0-77bc-4390-ac69-d87aa165cac3",
+      "season": 13,
+      "number": 5,
+      "name": "Kreative kvadratmeter",
+      "airdate": "2025-09-19"
+    }
+  ]
+}

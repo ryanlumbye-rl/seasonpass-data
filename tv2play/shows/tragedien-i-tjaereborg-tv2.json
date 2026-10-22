@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:tragedien-i-tjaereborg-tv2",
+  "name": "Tragedien i Tjæreborg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "725f3af0-186b-4c2f-bf3b-91e0de46a0c8",
+      "season": 1,
+      "number": 1,
+      "name": "Død under voldsom anholdelse",
+      "airdate": "2024-01-24"
+    },
+    {
+      "id": "f107f8c5-fe3a-45d5-a3b2-c1e00ff9b0fa",
+      "season": 1,
+      "number": 2,
+      "name": "Hvordan døde Lukasz?",
+      "airdate": "2024-01-31"
+    },
+    {
+      "id": "1dcbf463-3d26-4448-870b-7a32acb92cd2",
+      "season": 1,
+      "number": 3,
+      "name": "Et afgørende vidne",
+      "airdate": "2024-02-07"
+    },
+    {
+      "id": "166bdf05-631d-49c4-8be8-ca9380e85983",
+      "season": 1,
+      "number": 4,
+      "name": "Nye oplysninger",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "6af0f417-1e3e-469d-a9d6-3d23675cedc7",
+      "season": 1,
+      "number": 5,
+      "name": "Dødsårsagen",
+      "airdate": "2025-12-04"
+    }
+  ]
+}

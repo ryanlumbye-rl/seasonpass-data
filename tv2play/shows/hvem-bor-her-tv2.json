@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:hvem-bor-her-tv2",
+  "name": "Hvem bor her?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "93d86f88-bb09-4b6e-8e10-b96e6367e35c",
+      "season": 1,
+      "number": 1,
+      "name": "Sjælland",
+      "airdate": "2018-04-24"
+    },
+    {
+      "id": "448623bc-c980-4146-853e-1cc9df3f8f09",
+      "season": 1,
+      "number": 2,
+      "name": "Fyn",
+      "airdate": "2018-04-24"
+    },
+    {
+      "id": "ad0b8951-bdb5-4a3d-9593-15c157ef1a64",
+      "season": 1,
+      "number": 3,
+      "name": "København",
+      "airdate": "2018-05-01"
+    },
+    {
+      "id": "867086a0-1b98-49d5-a901-49cf4b3bbe01",
+      "season": 1,
+      "number": 4,
+      "name": "Storkøbenhavn",
+      "airdate": "2018-05-15"
+    },
+    {
+      "id": "8d8d2526-66e3-4229-bc0c-9029857264ec",
+      "season": 1,
+      "number": 5,
+      "name": "Nordsjælland",
+      "airdate": "2018-05-22"
+    },
+    {
+      "id": "51ce463e-f552-4cd0-8203-f21b50956450",
+      "season": 1,
+      "number": 6,
+      "name": "Jylland",
+      "airdate": "2018-05-22"
+    },
+    {
+      "id": "203bb5c3-81f5-49b4-8d8b-3665242e26c2",
+      "season": 2,
+      "number": 1,
+      "name": "Sjælland",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "7d8d452d-0281-40c7-b169-878fc9b0acac",
+      "season": 2,
+      "number": 2,
+      "name": "Jylland og Fyn",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "5e4b189b-f2bb-4e49-814e-66db57762df0",
+      "season": 2,
+      "number": 3,
+      "name": "København & Frederiksberg",
+      "airdate": "2019-02-26"
+    },
+    {
+      "id": "eb27283d-4b1f-4e31-9e12-38863d4bed06",
+      "season": 2,
+      "number": 4,
+      "name": "Jylland",
+      "airdate": "2019-03-05"
+    },
+    {
+      "id": "92d16c2e-d23f-4122-9e70-6b520ffee87b",
+      "season": 2,
+      "number": 5,
+      "name": "Sjælland",
+      "airdate": "2019-03-12"
+    },
+    {
+      "id": "32b902ad-232f-4426-a101-6a9206ac0149",
+      "season": 2,
+      "number": 6,
+      "name": "Fyn",
+      "airdate": "2019-03-19"
+    },
+    {
+      "id": "b7a064a7-1356-4ca5-ad5e-6773eb550efa",
+      "season": 2,
+      "number": 7,
+      "name": "Jylland",
+      "airdate": "2019-03-26"
+    },
+    {
+      "id": "06b796d0-089a-4ce1-ac5b-52d7ed9d0423",
+      "season": 2,
+      "number": 8,
+      "name": "København",
+      "airdate": "2019-04-02"
+    }
+  ]
+}

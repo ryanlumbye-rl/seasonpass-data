@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:alfons-aaberg-oiii",
+  "name": "Alfons Åberg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1e40eba5-7065-4aae-911a-21dd59135ce2",
+      "season": 1,
+      "number": 1,
+      "name": "Usynligt med Alfons Åberg",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "da5f6df0-1c6e-47e0-a3ea-633e50c2504d",
+      "season": 1,
+      "number": 2,
+      "name": "Alfons Åberg siger nej!",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "95e88582-fe72-4c89-8465-cb5b4610eddb",
+      "season": 1,
+      "number": 3,
+      "name": "Mere monster, Alfons",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "15794691-05d8-4cd9-9477-efc3572aadb4",
+      "season": 1,
+      "number": 4,
+      "name": "Alfons med supersækken",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "4754fac8-2190-4d23-89c0-b8b044f3c5e8",
+      "season": 1,
+      "number": 5,
+      "name": "Flyv, sagde Alfons Åberg",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "d3c9ab86-d1dd-4b11-8fb9-e1bcdfdce753",
+      "season": 1,
+      "number": 6,
+      "name": "Hurra for Alfons Åbergs far",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "70a17444-70cc-4d32-a7c4-fb806f992c5c",
+      "season": 1,
+      "number": 7,
+      "name": "Hvem griner sidst, sagde Alfons' far",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "74cc2a34-01c0-4ece-8b89-c22d62d5343b",
+      "season": 1,
+      "number": 8,
+      "name": "Hvor langt når Alfons?",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "71c57a34-b46c-45c0-a3d9-87a1454ef611",
+      "season": 1,
+      "number": 9,
+      "name": "Alfons og Hamdis soldaterfar",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "69a13313-f48b-44aa-b1e0-220bff66d82c",
+      "season": 1,
+      "number": 10,
+      "name": "Alfons leger Einstein",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "a00e06c4-88b4-48ec-a675-3d7306c1b2e1",
+      "season": 1,
+      "number": 11,
+      "name": "Hvem snører Alfons?",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "ae70bffc-d7dc-4bbb-ab6c-ca4a03618547",
+      "season": 1,
+      "number": 12,
+      "name": "Alfons ved de voksnes bord",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "f3a94457-cd53-454d-83bd-2dd2977540b3",
+      "season": 1,
+      "number": 13,
+      "name": "Var Alfons modig?",
+      "airdate": "2016-06-01"
+    }
+  ]
+}

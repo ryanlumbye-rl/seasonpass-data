@@ -1,0 +1,157 @@
+{
+  "id": "tv2play:miniteve-maskiner-cmore",
+  "name": "Miniteve: Maskiner",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "48b1d5d8-e56a-46be-93f0-38937d47e36f",
+      "season": 1,
+      "number": 1,
+      "name": "Ladbil tømmer ladet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "11b8ec82-49a7-4828-9a36-1724b368480a",
+      "season": 1,
+      "number": 2,
+      "name": "Gaffeltruck løfter container",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "855b9a23-8848-4fbc-8b7c-81a0a9c01b52",
+      "season": 1,
+      "number": 3,
+      "name": "Gravko",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "f5e8b257-751b-4da9-82c0-3f171895c887",
+      "season": 1,
+      "number": 4,
+      "name": "Gravko graver sand",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "53fe89ac-9519-4646-a908-dc63704bea8d",
+      "season": 1,
+      "number": 5,
+      "name": "Gravko flytter store sten",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "73f9fb8b-702d-462c-a7a0-cac040e24da3",
+      "season": 1,
+      "number": 6,
+      "name": "Gravko kører på vejen",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "07f5e620-6934-43d0-85b7-9190fb36bb05",
+      "season": 1,
+      "number": 7,
+      "name": "Kæmpestor gravko",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4c6ad7bd-db0e-4d3a-b698-61c824d86f7c",
+      "season": 1,
+      "number": 8,
+      "name": "Gravko graver sand",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d832d88f-b79e-44f1-9ebe-9f030b9c59bb",
+      "season": 1,
+      "number": 9,
+      "name": "Lastbil stiller container",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "dd83dce7-8997-410d-aed5-0e549cfb387f",
+      "season": 1,
+      "number": 10,
+      "name": "Lille gravko kører rundt og graver i jorden",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "3c27cf93-bae5-41e5-8f54-3a1179e6d911",
+      "season": 1,
+      "number": 11,
+      "name": "Lille gul gravko",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d7597106-6273-474d-ab42-e256668c8b1e",
+      "season": 1,
+      "number": 12,
+      "name": "Løftekran",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6289faa4-3336-4b4a-8e10-2683d3ca4cde",
+      "season": 1,
+      "number": 13,
+      "name": "Orange gravko",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "2c599b1c-fb30-4187-a9a9-e347b175d8df",
+      "season": 1,
+      "number": 14,
+      "name": "Robotplæneklipper",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "fbe5ac05-6c3e-4f32-9b09-5ce1f3d9f8ff",
+      "season": 1,
+      "number": 15,
+      "name": "Stor gravko",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d9582e95-9de5-4a21-b8a3-814c43cbecb0",
+      "season": 1,
+      "number": 16,
+      "name": "Stor gravko løfter lille gravko",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "b389a58f-a1de-4a1e-93a3-a71701327f9c",
+      "season": 1,
+      "number": 17,
+      "name": "Fælde et træ med motorsaven",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "becfc3c3-e33e-4546-946d-017af5976b66",
+      "season": 1,
+      "number": 18,
+      "name": "Vindenergi",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "7b31ed28-f3ab-4ecf-9c23-4df298d2b2ce",
+      "season": 1,
+      "number": 19,
+      "name": "Rulletrappe",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4d41d920-75ee-462f-ab60-6960fc9d5b26",
+      "season": 1,
+      "number": 20,
+      "name": "Sakselift",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "55ffb69b-f75f-4e3d-9879-daa6014a0910",
+      "season": 1,
+      "number": 21,
+      "name": "Græsklipper",
+      "airdate": "2024-02-16"
+    }
+  ]
+}

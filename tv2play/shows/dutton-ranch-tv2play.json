@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:dutton-ranch-tv2play",
+  "name": "Dutton Ranch",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e3618421-d05c-4224-b998-500974861589",
+      "season": 1,
+      "number": 1,
+      "name": "The Untold Want",
+      "airdate": "2026-05-22"
+    },
+    {
+      "id": "2ae9775a-9153-4b27-8f6c-d8aa4451e198",
+      "season": 1,
+      "number": 2,
+      "name": "Earn Another Day",
+      "airdate": "2026-05-22"
+    },
+    {
+      "id": "2b18a546-2a9a-4d37-99fd-1397381540e5",
+      "season": 1,
+      "number": 3,
+      "name": "Act of God Business",
+      "airdate": "2026-05-29"
+    },
+    {
+      "id": "c7d783d4-113e-4904-ab50-667ace708c91",
+      "season": 1,
+      "number": 4,
+      "name": "Start with a Bullet",
+      "airdate": "2026-06-05"
+    },
+    {
+      "id": "363a2d78-6abb-43e5-aee3-c9f0f3393120",
+      "season": 1,
+      "number": 5,
+      "name": "Peaceful Find Peace",
+      "airdate": "2026-06-12"
+    },
+    {
+      "id": "bedff3a3-aef6-46be-ac0a-2c800ac2a53f",
+      "season": 1,
+      "number": 6,
+      "name": "A Cowboy Saint",
+      "airdate": "2026-06-19"
+    },
+    {
+      "id": "b54bc6bc-b7a5-4a44-827c-cbc6a6de9751",
+      "season": 1,
+      "number": 7,
+      "name": "Den of Sin",
+      "airdate": "2026-06-26"
+    },
+    {
+      "id": "171a304b-c443-4250-95cb-911aeb734179",
+      "season": 1,
+      "number": 8,
+      "name": "Whiskey Limits",
+      "airdate": "2026-07-03"
+    },
+    {
+      "id": "9d67830a-bd73-4075-824f-3210f70bfd0e",
+      "season": 1,
+      "number": 9,
+      "name": "El Padrino",
+      "airdate": "2026-07-10"
+    }
+  ]
+}

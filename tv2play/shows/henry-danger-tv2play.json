@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:henry-danger-tv2play",
+  "name": "Henry Danger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "764e82f1-9276-4da0-b28f-7bc09c0363bd",
+      "season": 5,
+      "number": 27,
+      "name": "Synlige Brad",
+      "airdate": "2023-03-15"
+    }
+  ]
+}

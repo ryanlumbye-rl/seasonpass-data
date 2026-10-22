@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:martins-tivoli-tv2play",
+  "name": "Martins tivoli",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2eeec2fb-0c59-403a-bfd6-7608a53a4c54",
+      "season": 1,
+      "number": 1,
+      "name": "Tivoli i blodet",
+      "airdate": "2026-01-16"
+    },
+    {
+      "id": "3c4d4d35-5c0a-4620-97dc-5545fdbd5ba8",
+      "season": 1,
+      "number": 2,
+      "name": "Et råb om hjælp",
+      "airdate": "2026-01-23"
+    }
+  ]
+}

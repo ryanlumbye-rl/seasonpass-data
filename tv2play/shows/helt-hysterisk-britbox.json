@@ -1,0 +1,248 @@
+{
+  "id": "tv2play:helt-hysterisk-britbox",
+  "name": "Helt hysterisk",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bc20c3d5-6c48-4fe6-bf56-379b11140305",
+      "season": 1,
+      "number": 1,
+      "name": "Fashion",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1a265734-6a22-4f01-9262-fa3b05664dc4",
+      "season": 1,
+      "number": 2,
+      "name": "Fat",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "131de456-51cb-41d0-aea4-48b18397d72b",
+      "season": 1,
+      "number": 3,
+      "name": "France",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8b4065d6-3729-423e-82a6-fb176cd485e3",
+      "season": 1,
+      "number": 4,
+      "name": "Iso Tank",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "08ff42a2-e9c0-40f8-a07c-837221168d60",
+      "season": 1,
+      "number": 5,
+      "name": "Birthday",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "546c1731-4a2d-486c-9783-54649ace4fae",
+      "season": 1,
+      "number": 6,
+      "name": "Magazine",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ad7c9064-878a-44f6-84c1-a93de5348280",
+      "season": 2,
+      "number": 1,
+      "name": "Hospital",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c859f7e0-4f49-4f36-9d8f-4c16287a0cfe",
+      "season": 2,
+      "number": 2,
+      "name": "Death",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1324cf05-631d-4a19-adfe-0f0c13c1ec5c",
+      "season": 2,
+      "number": 3,
+      "name": "Morocco",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6e7278a1-9e96-49de-8e28-a4a727408cee",
+      "season": 2,
+      "number": 4,
+      "name": "New Best Friend",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4326fa1c-c857-4bda-91c6-270c48ad262e",
+      "season": 2,
+      "number": 5,
+      "name": "Poor",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7de8ca48-3637-4c1e-ab86-b9b69b9e2207",
+      "season": 2,
+      "number": 6,
+      "name": "Birth",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c9908982-7136-48d5-91a5-dae8e681fe26",
+      "season": 3,
+      "number": 1,
+      "name": "Door Handle",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b860dc77-6172-4f44-a8f4-fa6114ac7a8a",
+      "season": 3,
+      "number": 2,
+      "name": "Happy New Year",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f1ddef55-5329-41f5-8ad0-260c6b977a6c",
+      "season": 3,
+      "number": 3,
+      "name": "Sex",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3a8b9bd1-d905-4396-9060-dbfaa323a16d",
+      "season": 3,
+      "number": 4,
+      "name": "Jealous",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3276870f-51d4-485d-87dd-ddcb76d8643a",
+      "season": 3,
+      "number": 5,
+      "name": "Fear",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d40a7709-8a79-4f9d-bc53-0086616ec493",
+      "season": 3,
+      "number": 6,
+      "name": "The End",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "27c90f3d-62a7-4f69-929f-b9793b886099",
+      "season": 4,
+      "number": 1,
+      "name": "Parralox",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3da0eb2f-65ef-4099-96f5-f1fc041b3153",
+      "season": 4,
+      "number": 2,
+      "name": "Fish Farm",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e4a1b506-ed9c-44f7-87e8-2994095ee78f",
+      "season": 4,
+      "number": 3,
+      "name": "Paris",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "79f92d49-9a79-4d4a-a7b8-0d599a41f380",
+      "season": 4,
+      "number": 4,
+      "name": "Donkey",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "75a9614c-3d8a-4ca0-8d01-1e6862d78fc1",
+      "season": 4,
+      "number": 5,
+      "name": "Small Opening",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a6792380-ea1e-436c-802f-2b99f0b5e896",
+      "season": 4,
+      "number": 6,
+      "name": "Menopause",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f9fae53e-7fbb-4857-bb52-7371c57c0e69",
+      "season": 4,
+      "number": 7,
+      "name": "Gay",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b80b9893-a988-43e9-839c-d769fe7288c4",
+      "season": 5,
+      "number": 1,
+      "name": "Cleanin'",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1f5ee182-3ffa-4f50-b058-1219960474ba",
+      "season": 5,
+      "number": 2,
+      "name": "Book Clubbin'",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6e38d580-52c6-4d22-8098-e3cd5097d06c",
+      "season": 5,
+      "number": 3,
+      "name": "Panickin'",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9da62bd1-5e6e-4f3d-8007-7cb3a815e52e",
+      "season": 5,
+      "number": 4,
+      "name": "Huntin' Shootin' Fishin'",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f1ef7c8a-c62a-48f7-b100-4e800c93c864",
+      "season": 5,
+      "number": 5,
+      "name": "Birthin'",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2aa9239d-2d2b-49b3-a32d-b010632a3928",
+      "season": 5,
+      "number": 6,
+      "name": "Schmoozin'",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0dee3eb0-da62-4c6b-8451-80d150a3ba19",
+      "season": 5,
+      "number": 7,
+      "name": "Exploitin'",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "51383fed-a748-4667-942c-779238ad9db5",
+      "season": 5,
+      "number": 8,
+      "name": "Cold Turkey",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "20fe4753-8168-449c-ad3a-b8dc573c6fc3",
+      "season": 5,
+      "number": 9,
+      "name": "White Box",
+      "airdate": "2023-11-29"
+    }
+  ]
+}

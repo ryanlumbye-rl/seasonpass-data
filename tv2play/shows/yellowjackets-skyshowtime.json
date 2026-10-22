@@ -1,0 +1,213 @@
+{
+  "id": "tv2play:yellowjackets-skyshowtime",
+  "name": "Yellowjackets",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9492e159-bc2a-4b2e-baf5-cd82cbfb0109",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "b75b13e4-177a-4304-85f3-c29a6a7c3de5",
+      "season": 1,
+      "number": 2,
+      "name": "F Sharp",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "eafd30e1-4a5d-41b0-b964-5f04dee82ce6",
+      "season": 1,
+      "number": 3,
+      "name": "The Dollhouse",
+      "airdate": "2021-11-29"
+    },
+    {
+      "id": "d27066c1-85f0-4fa3-868e-34a1a2445c1e",
+      "season": 1,
+      "number": 4,
+      "name": "Bear Down",
+      "airdate": "2021-12-06"
+    },
+    {
+      "id": "cbb16584-9366-434f-a410-2d3d00e681b1",
+      "season": 1,
+      "number": 5,
+      "name": "Blood Hive",
+      "airdate": "2021-12-13"
+    },
+    {
+      "id": "d0d14a46-be24-4315-8db4-a80d7c21883a",
+      "season": 1,
+      "number": 6,
+      "name": "Saints",
+      "airdate": "2021-12-20"
+    },
+    {
+      "id": "ad86fcc4-0166-4293-841e-24af9a0a6d54",
+      "season": 1,
+      "number": 7,
+      "name": "No Compass",
+      "airdate": "2021-12-27"
+    },
+    {
+      "id": "73bf8143-cfd9-4b1a-b831-977286c1c51a",
+      "season": 1,
+      "number": 8,
+      "name": "Flight of the Bumblebee",
+      "airdate": "2022-01-03"
+    },
+    {
+      "id": "b6ab72ed-2f11-458a-a143-4a24ece85681",
+      "season": 1,
+      "number": 9,
+      "name": "Doomcoming",
+      "airdate": "2022-01-10"
+    },
+    {
+      "id": "56d3a88b-39a7-4440-80da-31ac450cb58d",
+      "season": 1,
+      "number": 10,
+      "name": "Sic Transit Gloria Mundi",
+      "airdate": "2022-01-17"
+    },
+    {
+      "id": "247048dd-ef60-4b6a-bd16-ffbe029f449d",
+      "season": 2,
+      "number": 1,
+      "name": "Friends, Romans, Countrymen",
+      "airdate": "2023-03-25"
+    },
+    {
+      "id": "feb5e2cf-379a-4971-b424-eccf522f06b3",
+      "season": 2,
+      "number": 2,
+      "name": "Edible Complex",
+      "airdate": "2023-04-01"
+    },
+    {
+      "id": "4153583b-5756-4ee8-be6d-52e0a3032bac",
+      "season": 2,
+      "number": 3,
+      "name": "Digestif",
+      "airdate": "2023-04-08"
+    },
+    {
+      "id": "b68ee55f-8f15-4b35-81e0-36e91f285ef9",
+      "season": 2,
+      "number": 4,
+      "name": "Old Wounds",
+      "airdate": "2023-04-15"
+    },
+    {
+      "id": "d7c20ecb-5f62-47e7-ae15-171456bb08c7",
+      "season": 2,
+      "number": 5,
+      "name": "Two Truths and a Lie",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "e2d0254f-89de-4f6a-9748-6117e3b957a8",
+      "season": 2,
+      "number": 6,
+      "name": "Qui",
+      "airdate": "2023-05-06"
+    },
+    {
+      "id": "ba3cb14f-0808-4b15-a30f-009154aca21e",
+      "season": 2,
+      "number": 7,
+      "name": "Burial",
+      "airdate": "2023-05-13"
+    },
+    {
+      "id": "55172073-aa65-44b1-bbcd-e1caddfd4ea2",
+      "season": 2,
+      "number": 8,
+      "name": "It Chooses",
+      "airdate": "2023-05-20"
+    },
+    {
+      "id": "f1e7deba-5639-4a35-a792-298b250e222e",
+      "season": 2,
+      "number": 9,
+      "name": "Storytelling",
+      "airdate": "2023-05-27"
+    },
+    {
+      "id": "9b60a3e5-28a5-4fdc-b63f-348060b49b2b",
+      "season": 3,
+      "number": 1,
+      "name": "It Girl",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "03ed198b-24f6-46cd-bea6-c22dbc662466",
+      "season": 3,
+      "number": 2,
+      "name": "Dislocation",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "44dd1172-c3ad-41f8-94c8-3c3973f08886",
+      "season": 3,
+      "number": 3,
+      "name": "Them's the Brakes",
+      "airdate": "2025-03-06"
+    },
+    {
+      "id": "2972d504-24fe-42d1-9db5-381c527db08e",
+      "season": 3,
+      "number": 4,
+      "name": "12 Angry Girls and 1 Drunk Travis",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "3bd1f5fb-998c-4764-b5e5-4377c3841db1",
+      "season": 3,
+      "number": 5,
+      "name": "Did Tai Do That?",
+      "airdate": "2025-03-20"
+    },
+    {
+      "id": "50205248-ee7b-49fb-838f-c78822cbd27c",
+      "season": 3,
+      "number": 6,
+      "name": "Thanksgiving (Canada)",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "aa5ebef8-4887-491a-8e3e-50a2703b7871",
+      "season": 3,
+      "number": 7,
+      "name": "Croak",
+      "airdate": "2025-04-03"
+    },
+    {
+      "id": "0e966bab-6508-4871-9620-9617e56111c1",
+      "season": 3,
+      "number": 8,
+      "name": "A Normal, Boring Life",
+      "airdate": "2025-04-10"
+    },
+    {
+      "id": "af09d3d6-5b29-43eb-9df3-8f7ebd79132f",
+      "season": 3,
+      "number": 9,
+      "name": "How the Story Ends",
+      "airdate": "2025-04-17"
+    },
+    {
+      "id": "e594ff38-848d-4611-b934-291761925385",
+      "season": 3,
+      "number": 10,
+      "name": "Full Circle",
+      "airdate": "2025-04-24"
+    }
+  ]
+}

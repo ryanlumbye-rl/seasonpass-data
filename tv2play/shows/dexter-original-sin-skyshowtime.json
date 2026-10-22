@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:dexter-original-sin-skyshowtime",
+  "name": "Dexter: Original Sin",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6ea1d37c-8254-48ef-bc12-33109f9a078f",
+      "season": 1,
+      "number": 1,
+      "name": "And in the beginning…",
+      "airdate": "2025-01-30"
+    },
+    {
+      "id": "ff766e86-9db4-4c52-9a90-a2c0c502e1ca",
+      "season": 1,
+      "number": 2,
+      "name": "Kid in a Candy Store",
+      "airdate": "2025-01-30"
+    },
+    {
+      "id": "6f43329e-4cb9-4a65-9d86-cb5cd266fcb4",
+      "season": 1,
+      "number": 3,
+      "name": "Miami Vice",
+      "airdate": "2025-01-30"
+    },
+    {
+      "id": "0ceb38ba-d015-406d-bf8d-fe50bd2da8ab",
+      "season": 1,
+      "number": 4,
+      "name": "Fender bender",
+      "airdate": "2025-02-06"
+    },
+    {
+      "id": "c9f10742-dadd-459b-ad04-3cafb2f5da9c",
+      "season": 1,
+      "number": 5,
+      "name": "F is for Fuck-Up",
+      "airdate": "2025-02-13"
+    },
+    {
+      "id": "f6ca1778-0150-49c1-a605-70e6cf94235d",
+      "season": 1,
+      "number": 6,
+      "name": "The Joy of Killing",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "302367ca-fe6a-4335-bb38-4be707a9817a",
+      "season": 1,
+      "number": 7,
+      "name": "The Big Bad Body Problem",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "90c76143-a823-4639-80d4-c2c97e7d5f55",
+      "season": 1,
+      "number": 8,
+      "name": "Business and Pleasure",
+      "airdate": "2025-03-06"
+    },
+    {
+      "id": "d5c9e69c-217e-41a4-a203-01db8eff9ba6",
+      "season": 1,
+      "number": 9,
+      "name": "Blood Drive",
+      "airdate": "2025-03-13"
+    },
+    {
+      "id": "927d920e-ecf2-4207-8ad5-0140916ae6df",
+      "season": 1,
+      "number": 10,
+      "name": "Code Blues",
+      "airdate": "2025-03-20"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:grethes-jul-tv2",
+  "name": "Grethes jul",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0347e516-a683-4427-8b2c-4138dc537408",
+      "season": 1,
+      "number": 1,
+      "name": "Pletter - alt kan fjernes",
+      "airdate": "2020-11-29"
+    },
+    {
+      "id": "306ac188-2fd7-46ed-9074-9171038509d9",
+      "season": 1,
+      "number": 2,
+      "name": "Karen prøver lykken",
+      "airdate": "2020-12-06"
+    },
+    {
+      "id": "820b772c-d3b9-4c60-8a4f-666e74d0b8fa",
+      "season": 1,
+      "number": 3,
+      "name": "Victor løber af sporet",
+      "airdate": "2020-12-13"
+    },
+    {
+      "id": "e9ffe61f-3e82-40da-bc3a-6005f0bdbf8a",
+      "season": 1,
+      "number": 4,
+      "name": "Henrik holder vejret",
+      "airdate": "2020-12-20"
+    }
+  ]
+}

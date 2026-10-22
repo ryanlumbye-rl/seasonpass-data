@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:anders-matthesen-tal-for-dig-selv-tv2echo",
+  "name": "Anders Matthesen - Tal for dig selv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "043cee28-d51a-4b54-8651-2593761dafb5",
+      "season": 1,
+      "number": 1,
+      "name": "Den lyse del",
+      "airdate": "2006-04-13"
+    },
+    {
+      "id": "3619e57b-b102-4dd3-bdc8-6f13f56b7dd9",
+      "season": 1,
+      "number": 2,
+      "name": "Den mørke del",
+      "airdate": "2006-04-14"
+    }
+  ]
+}

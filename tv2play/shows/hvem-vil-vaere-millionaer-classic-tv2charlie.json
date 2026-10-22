@@ -1,0 +1,1452 @@
+{
+  "id": "tv2play:hvem-vil-vaere-millionaer-classic-tv2charlie",
+  "name": "Hvem vil være millionær? Classic",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a2eb1564-a664-4ff8-a9cf-9bcb19d34672",
+      "season": 15,
+      "number": 1,
+      "name": "Den hemmelige millionær",
+      "airdate": "2008-09-01"
+    },
+    {
+      "id": "4e468ed8-d977-4ec9-a65c-cb303f852e8b",
+      "season": 15,
+      "number": 2,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2008-09-08"
+    },
+    {
+      "id": "18458bc1-2344-4a4f-bd26-19ee8fd28e2c",
+      "season": 15,
+      "number": 3,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2008-09-15"
+    },
+    {
+      "id": "10592094-d0e0-4011-8765-b1250db23be5",
+      "season": 15,
+      "number": 4,
+      "name": "Fodboldfan Fight Night - del 1",
+      "airdate": "2008-09-22"
+    },
+    {
+      "id": "919c2f78-1341-4060-aa50-62240de6f208",
+      "season": 15,
+      "number": 5,
+      "name": "Fodboldfan Fight Night - del 2",
+      "airdate": "2008-09-29"
+    },
+    {
+      "id": "1a5394c8-11d6-4b46-b0cc-0732d22e7daa",
+      "season": 15,
+      "number": 6,
+      "name": "Mig og min helt - del 1",
+      "airdate": "2008-10-20"
+    },
+    {
+      "id": "8458024d-e3ac-455e-b9ae-39686e0acca0",
+      "season": 15,
+      "number": 7,
+      "name": "Mig og min helt - del 2",
+      "airdate": "2008-10-27"
+    },
+    {
+      "id": "3f567322-acea-4876-b152-dd6af3ae4da6",
+      "season": 16,
+      "number": 1,
+      "name": "Vild med dans - del 1",
+      "airdate": "2009-01-26"
+    },
+    {
+      "id": "e428d15b-fe16-42aa-be6f-1a4686796651",
+      "season": 16,
+      "number": 2,
+      "name": "Vild med dans - del 2",
+      "airdate": "2009-02-02"
+    },
+    {
+      "id": "3a41abbe-6fbd-46e6-a941-dd441f9f80fa",
+      "season": 16,
+      "number": 3,
+      "name": "Dating - del 1",
+      "airdate": "2009-02-09"
+    },
+    {
+      "id": "67d92a68-1a85-42c5-93a1-a0e2612160f4",
+      "season": 16,
+      "number": 4,
+      "name": "Dating - del 2",
+      "airdate": "2009-02-16"
+    },
+    {
+      "id": "12d261ec-8630-4885-a790-ef37646915dc",
+      "season": 16,
+      "number": 5,
+      "name": "Mig og junior - del 1",
+      "airdate": "2009-02-23"
+    },
+    {
+      "id": "078b5edb-daa2-4f63-8511-8e673fd664c7",
+      "season": 16,
+      "number": 6,
+      "name": "Mig og junior - del 2",
+      "airdate": "2009-03-02"
+    },
+    {
+      "id": "b665783b-a8ad-45b3-a6d3-2d19cd38b5af",
+      "season": 16,
+      "number": 7,
+      "name": "Mig og junior - del 3",
+      "airdate": "2009-03-09"
+    },
+    {
+      "id": "8b67fdc9-d2d8-42a6-a3a6-5e4ed6dde363",
+      "season": 16,
+      "number": 8,
+      "name": "Mig og min højgravide - del 1",
+      "airdate": "2009-03-16"
+    },
+    {
+      "id": "e1ce1da1-3649-4647-8dfc-90e0e5bcee00",
+      "season": 16,
+      "number": 9,
+      "name": "Mig og min højgravide - del 2",
+      "airdate": "2009-03-23"
+    },
+    {
+      "id": "192f9a77-910e-4aa0-a320-c02d5228ac51",
+      "season": 16,
+      "number": 10,
+      "name": "Mig og mit idol - del 1",
+      "airdate": "2009-03-30"
+    },
+    {
+      "id": "85ace37b-2b64-43d3-9ab3-ae113d72c339",
+      "season": 16,
+      "number": 11,
+      "name": "Mig og mit idol - del 2",
+      "airdate": "2009-04-06"
+    },
+    {
+      "id": "561e550f-c615-44b6-bee7-2dfa0863ce92",
+      "season": 16,
+      "number": 12,
+      "name": "Mig og mit idol - del 3",
+      "airdate": "2009-04-13"
+    },
+    {
+      "id": "780599a9-a3c6-4961-a84b-199c0af2e2b6",
+      "season": 16,
+      "number": 13,
+      "name": "Mig og mit idol - del 4",
+      "airdate": "2009-04-20"
+    },
+    {
+      "id": "675ade4a-e617-4022-9134-d82aabe80d57",
+      "season": 16,
+      "number": 14,
+      "name": "Mig og min bonusfamilie - del 1",
+      "airdate": "2009-04-27"
+    },
+    {
+      "id": "7d0d8c93-f88b-4065-b61a-bfd846932096",
+      "season": 16,
+      "number": 15,
+      "name": "Mig og min bonusfamilie - del 2",
+      "airdate": "2009-05-04"
+    },
+    {
+      "id": "45ee71ee-0290-4b99-974e-f7617655efb8",
+      "season": 16,
+      "number": 16,
+      "name": "Mig og min bedste",
+      "airdate": "2008-03-20"
+    },
+    {
+      "id": "525fb12d-d534-4155-a2a5-1f7dbbe70f7b",
+      "season": 16,
+      "number": 17,
+      "name": "Mig og min nabo",
+      "airdate": "2008-06-05"
+    },
+    {
+      "id": "7271de11-6cb3-4d4e-b86a-f9dac5e80179",
+      "season": 16,
+      "number": 18,
+      "name": "Mig og min eks - del 2",
+      "airdate": "2008-05-22"
+    },
+    {
+      "id": "d7d1f010-34fe-40ef-a052-d2b37efd591c",
+      "season": 16,
+      "number": 19,
+      "name": "Mig og min eks - del 1",
+      "airdate": "2008-05-15"
+    },
+    {
+      "id": "be5bfbbe-5c56-427e-8f63-5477d3f47da7",
+      "season": 16,
+      "number": 20,
+      "name": "Mig og mine forældre - del 2",
+      "airdate": "2008-05-01"
+    },
+    {
+      "id": "d1e238b0-02aa-4050-b2b3-78a10ab99c47",
+      "season": 16,
+      "number": 21,
+      "name": "Mig og mine forældre - del 1",
+      "airdate": "2008-04-24"
+    },
+    {
+      "id": "c20f53da-17cd-4a06-8c3c-f02fb6876ba0",
+      "season": 16,
+      "number": 22,
+      "name": "Mig og min date - del 1",
+      "airdate": "2008-08-18"
+    },
+    {
+      "id": "53b3df16-fb5c-4c07-93b4-9926099a74e3",
+      "season": 17,
+      "number": 1,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2009-08-17"
+    },
+    {
+      "id": "2a228628-2904-4b41-ac35-ca02cae01a5b",
+      "season": 17,
+      "number": 2,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2009-08-24"
+    },
+    {
+      "id": "62602881-9693-4a32-b792-8a571baf09d0",
+      "season": 17,
+      "number": 3,
+      "name": "I den gode sags tjeneste - del 3",
+      "airdate": "2009-08-31"
+    },
+    {
+      "id": "9c2270ec-444a-4799-9b2d-828dfcb20da2",
+      "season": 17,
+      "number": 4,
+      "name": "I den gode sags tjeneste - del 4",
+      "airdate": "2009-09-07"
+    },
+    {
+      "id": "62338979-a40e-4986-9c14-926475e8df07",
+      "season": 17,
+      "number": 5,
+      "name": "Mig og min allerbedste ven - del 1",
+      "airdate": "2009-09-14"
+    },
+    {
+      "id": "f5afa030-836b-4e9d-ac64-3d7f8ae28301",
+      "season": 17,
+      "number": 6,
+      "name": "Mig og min allerbedste ven - del 2",
+      "airdate": "2009-09-21"
+    },
+    {
+      "id": "5056e045-60f5-4098-a80a-9f9890f4f64d",
+      "season": 17,
+      "number": 7,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2009-09-28"
+    },
+    {
+      "id": "fd553391-4d8a-4cca-828c-a24a43502b1a",
+      "season": 17,
+      "number": 8,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2009-10-05"
+    },
+    {
+      "id": "5ed52e07-0838-4ba5-b2bf-8b6a48b2626d",
+      "season": 17,
+      "number": 9,
+      "name": "Alle mod alle - del 1",
+      "airdate": "2009-10-12"
+    },
+    {
+      "id": "4d52362f-5bba-4ea4-907a-bc165350d387",
+      "season": 17,
+      "number": 10,
+      "name": "Alle mod alle - del 2",
+      "airdate": "2009-10-19"
+    },
+    {
+      "id": "9de6a21f-56f3-4e29-914c-796bfd84dd98",
+      "season": 17,
+      "number": 11,
+      "name": "Mig og min familie - del 1",
+      "airdate": "2009-10-26"
+    },
+    {
+      "id": "1d2f168f-a5ae-4cee-b4bb-65aa7732b3d2",
+      "season": 17,
+      "number": 12,
+      "name": "Mig og min familie - del 2",
+      "airdate": "2009-11-02"
+    },
+    {
+      "id": "7372000f-2fa9-429f-9e63-dbc42dcacf4c",
+      "season": 18,
+      "number": 1,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2009-12-14"
+    },
+    {
+      "id": "83450320-1a4b-4b7e-bad2-8bf2adfeb89d",
+      "season": 18,
+      "number": 2,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2009-12-21"
+    },
+    {
+      "id": "b7cbab38-c8fb-4e7d-a5ef-0bb03a73d176",
+      "season": 18,
+      "number": 3,
+      "name": "Mig og min facebookven - del 1",
+      "airdate": "2009-11-23"
+    },
+    {
+      "id": "e1c1fa46-026a-4742-bb53-a3e57989afeb",
+      "season": 18,
+      "number": 4,
+      "name": "Mig og min facebookven - del 2",
+      "airdate": "2009-11-30"
+    },
+    {
+      "id": "9af8141b-8bd3-4aeb-8e97-ed168cd59bd2",
+      "season": 18,
+      "number": 5,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2010-01-11"
+    },
+    {
+      "id": "bd3f4bce-c035-4e61-a5a8-c8edf7d7b0db",
+      "season": 18,
+      "number": 6,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2010-01-18"
+    },
+    {
+      "id": "969b36b6-fabd-4e22-a01a-70036802db77",
+      "season": 18,
+      "number": 7,
+      "name": "Vores ven har fortjent det - del 1",
+      "airdate": "2010-02-01"
+    },
+    {
+      "id": "60eb052d-3037-4af5-85c2-9bdbd3bd86ef",
+      "season": 18,
+      "number": 8,
+      "name": "Vores ven har fortjent det - del 2",
+      "airdate": "2010-02-08"
+    },
+    {
+      "id": "ab244f7b-f0f5-46a2-ab16-a0e56662f8ed",
+      "season": 18,
+      "number": 9,
+      "name": "Dating-special - del 1",
+      "airdate": "2010-02-15"
+    },
+    {
+      "id": "7ec70764-016d-4466-a4cc-cd1be0528bd3",
+      "season": 18,
+      "number": 10,
+      "name": "Dating-special - del 2",
+      "airdate": "2010-02-22"
+    },
+    {
+      "id": "3dde62b1-cf23-4088-8b5b-27949cf9192f",
+      "season": 18,
+      "number": 11,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2010-03-01"
+    },
+    {
+      "id": "6d6d0613-f16f-4190-b5c8-b1162f90af30",
+      "season": 18,
+      "number": 12,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2010-03-08"
+    },
+    {
+      "id": "0414c88b-635b-4df5-934d-b90f9ec3075e",
+      "season": 18,
+      "number": 13,
+      "name": "I den gode sags tjeneste - del 3",
+      "airdate": "2010-03-15"
+    },
+    {
+      "id": "ebf26446-9379-41a5-a951-ab6c1f02aa5d",
+      "season": 19,
+      "number": 1,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2010-09-06"
+    },
+    {
+      "id": "ef7771a2-e751-4450-bf5a-5ae6a2e4dec1",
+      "season": 19,
+      "number": 2,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2010-09-13"
+    },
+    {
+      "id": "3dc22f21-784a-4907-8ce6-e3148bb7212d",
+      "season": 19,
+      "number": 3,
+      "name": "I den gode sags tjeneste - del 3",
+      "airdate": "2010-09-20"
+    },
+    {
+      "id": "d24ebe24-1b47-4e79-a108-773d32a6478e",
+      "season": 19,
+      "number": 4,
+      "name": "I den gode sags tjeneste - del 4",
+      "airdate": "2010-10-04"
+    },
+    {
+      "id": "a88ca42a-4315-4eac-8440-31534318a6a2",
+      "season": 19,
+      "number": 5,
+      "name": "I den gode sags tjeneste - del 5",
+      "airdate": "2010-10-11"
+    },
+    {
+      "id": "dc6c3051-d7a8-48d0-930d-882875b3cf5f",
+      "season": 19,
+      "number": 6,
+      "name": "Studerende - del 1",
+      "airdate": "2010-10-18"
+    },
+    {
+      "id": "f8546e8b-acc8-45bd-aa72-e3c97b94f709",
+      "season": 19,
+      "number": 7,
+      "name": "Studerende - del 2",
+      "airdate": "2010-10-25"
+    },
+    {
+      "id": "18ffd5e8-97e1-43a5-a478-d00cb2301986",
+      "season": 19,
+      "number": 8,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2010-11-01"
+    },
+    {
+      "id": "3cdb1580-028e-4a29-9bb2-96a341648e3f",
+      "season": 19,
+      "number": 9,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2010-11-08"
+    },
+    {
+      "id": "baa686ae-1731-40c8-ba93-e668ebb3dfb5",
+      "season": 19,
+      "number": 10,
+      "name": "I den gode sags tjeneste - del 3",
+      "airdate": "2010-12-20"
+    },
+    {
+      "id": "cf975052-0219-4826-8c29-038c1048798b",
+      "season": 19,
+      "number": 11,
+      "name": "I den gode sags tjeneste - del 4",
+      "airdate": "2011-01-03"
+    },
+    {
+      "id": "368bf1bd-a699-4d7e-86c5-03d336469057",
+      "season": 19,
+      "number": 12,
+      "name": "I den gode sags tjeneste - del 5",
+      "airdate": "2011-01-10"
+    },
+    {
+      "id": "2f2ac3ff-d617-4725-b147-78dacdb1b681",
+      "season": 19,
+      "number": 13,
+      "name": "Dating-special - del 1",
+      "airdate": "2011-01-24"
+    },
+    {
+      "id": "77cc81f5-42d6-4d84-a5d5-a33007afc028",
+      "season": 19,
+      "number": 14,
+      "name": "Dating-special - del 2",
+      "airdate": "2011-01-31"
+    },
+    {
+      "id": "a40d08c1-fbdb-40b4-934e-207d9324eee9",
+      "season": 19,
+      "number": 15,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2011-02-07"
+    },
+    {
+      "id": "624dd7d7-a485-42bc-bfc9-8410b4c65899",
+      "season": 19,
+      "number": 16,
+      "name": "Bonderøve og byrotter - del 1",
+      "airdate": "2011-02-14"
+    },
+    {
+      "id": "183453b7-1ede-44b4-9c31-80a7d4edb291",
+      "season": 19,
+      "number": 17,
+      "name": "Bonderøve og byrotter - del 2",
+      "airdate": "2011-02-21"
+    },
+    {
+      "id": "81d28e18-354b-4283-8230-02bc81a155f6",
+      "season": 19,
+      "number": 18,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2011-02-28"
+    },
+    {
+      "id": "058843bf-d67e-4e2c-9e32-a54f09be5d8e",
+      "season": 19,
+      "number": 19,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2011-03-07"
+    },
+    {
+      "id": "4e1c1242-0a2c-4f19-ae5e-88a40f4aa2cb",
+      "season": 19,
+      "number": 20,
+      "name": "I den gode sags tjeneste - del 3",
+      "airdate": "2011-03-14"
+    },
+    {
+      "id": "433c99dc-e17c-43bd-b2b2-dce162bd20b5",
+      "season": 19,
+      "number": 21,
+      "name": "Dating-special - del 1",
+      "airdate": "2011-09-19"
+    },
+    {
+      "id": "916c3240-9355-4550-bbcc-69da08bc0c97",
+      "season": 19,
+      "number": 22,
+      "name": "Dating-special - del 2",
+      "airdate": "2011-10-03"
+    },
+    {
+      "id": "01d15826-6053-47ec-ad3f-64113ee3edd0",
+      "season": 19,
+      "number": 23,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2011-09-26"
+    },
+    {
+      "id": "5c7b82e2-a027-439d-ab30-6df67348b61e",
+      "season": 19,
+      "number": 24,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2011-10-10"
+    },
+    {
+      "id": "61f48578-5d23-43ee-ba2f-2a405bb94412",
+      "season": 19,
+      "number": 25,
+      "name": "I den gode sags tjeneste - del 3",
+      "airdate": "2011-10-17"
+    },
+    {
+      "id": "fb500dff-f44f-4ed1-83bb-d12d493c7927",
+      "season": 19,
+      "number": 26,
+      "name": "I den gode sags tjeneste - del 4",
+      "airdate": "2011-10-24"
+    },
+    {
+      "id": "c536658c-a8f7-4d1e-93d3-e66c0c481ea8",
+      "season": 20,
+      "number": 1,
+      "name": "I rødt & blåt - del 1",
+      "airdate": "2011-08-29"
+    },
+    {
+      "id": "a30db69d-245e-40ea-bb20-9fc8e182bc03",
+      "season": 20,
+      "number": 2,
+      "name": "I rødt & blåt - del 2",
+      "airdate": "2011-09-05"
+    },
+    {
+      "id": "b8ffc86d-20a7-46a5-a2e3-373dd948309e",
+      "season": 20,
+      "number": 3,
+      "name": "I rødt & blåt - del 3",
+      "airdate": "2011-09-12"
+    },
+    {
+      "id": "d7f4ceb8-9dbe-45e5-b92d-7a69b90a310b",
+      "season": 20,
+      "number": 4,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2011-10-31"
+    },
+    {
+      "id": "7f98edcf-093b-4bc0-9443-c033c2e3b44b",
+      "season": 20,
+      "number": 5,
+      "name": "Julespecial",
+      "airdate": "2011-12-26"
+    },
+    {
+      "id": "0b787ce9-3639-4bc4-af78-0232a13993ad",
+      "season": 20,
+      "number": 6,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2012-01-20"
+    },
+    {
+      "id": "52857b30-6524-436d-958a-4f50a1a2f739",
+      "season": 20,
+      "number": 7,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2012-02-13"
+    },
+    {
+      "id": "7e5c474b-ceec-415e-b168-6733c7a0c7f0",
+      "season": 20,
+      "number": 8,
+      "name": "Dating-special - del 1",
+      "airdate": "2012-02-20"
+    },
+    {
+      "id": "784e3b86-80c6-4738-99a7-3d7d9cc5aeba",
+      "season": 20,
+      "number": 9,
+      "name": "Dating-special - del 2",
+      "airdate": "2012-02-27"
+    },
+    {
+      "id": "19849880-e300-4e83-9752-398759c164f9",
+      "season": 20,
+      "number": 10,
+      "name": "Quiznørderne kommer! - del 1",
+      "airdate": "2012-03-05"
+    },
+    {
+      "id": "637bd327-a241-46e3-bc02-11441928acb2",
+      "season": 20,
+      "number": 11,
+      "name": "Quiznørderne kommer! - del 2",
+      "airdate": "2012-03-12"
+    },
+    {
+      "id": "a59ad212-0cc8-478f-b8a0-a95e91afb200",
+      "season": 20,
+      "number": 12,
+      "name": "Flytter hjemmefra - del 2",
+      "airdate": "2012-03-26"
+    },
+    {
+      "id": "3447c29a-1178-4569-b7c3-decc5d5a18d0",
+      "season": 20,
+      "number": 13,
+      "name": "Du har fortjent det - del 1",
+      "airdate": "2012-04-07"
+    },
+    {
+      "id": "e02aba95-3225-4a19-a2fa-d1d2e6e2af74",
+      "season": 20,
+      "number": 14,
+      "name": "Du har fortjent det - del 2",
+      "airdate": "2012-04-21"
+    },
+    {
+      "id": "719671d2-6e8e-41c0-90d3-2c89f80d7ab2",
+      "season": 20,
+      "number": 15,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2012-04-02"
+    },
+    {
+      "id": "9dfe4460-b693-4d9b-ac36-2067c895d2f2",
+      "season": 20,
+      "number": 16,
+      "name": "I ottende måned - del 1",
+      "airdate": "2012-04-28"
+    },
+    {
+      "id": "b2eaa70f-6f9b-49a6-9b6d-8ca01297adde",
+      "season": 20,
+      "number": 17,
+      "name": "I ottende måned - del 2",
+      "airdate": "2012-05-05"
+    },
+    {
+      "id": "ba3b12c6-a2a6-4f48-9af8-73523b1283e1",
+      "season": 20,
+      "number": 18,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2012-05-12"
+    },
+    {
+      "id": "89d41bd8-cf55-4c7d-bcd4-81c6905681b9",
+      "season": 20,
+      "number": 19,
+      "name": "I den gods sags tjeneste - del 2",
+      "airdate": "2012-05-19"
+    },
+    {
+      "id": "d04dbe20-f97b-4714-942b-9d795d69f9b9",
+      "season": 20,
+      "number": 20,
+      "name": "Mig og mit band - del 1",
+      "airdate": "2012-05-26"
+    },
+    {
+      "id": "bbf45726-17bb-4fc6-99f5-b05815eeb579",
+      "season": 20,
+      "number": 21,
+      "name": "Mig og mit band - del 2",
+      "airdate": "2012-06-02"
+    },
+    {
+      "id": "3b8c4ffe-22fe-4833-afa6-959aaf7d69ec",
+      "season": 21,
+      "number": 1,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2012-06-04"
+    },
+    {
+      "id": "956731e9-d357-4ad1-b127-6dea3458d709",
+      "season": 21,
+      "number": 2,
+      "name": "Bedste og barnebarn - del 1",
+      "airdate": "2012-08-27"
+    },
+    {
+      "id": "a1484cda-5c87-4d68-b70c-3be44bbdd4c8",
+      "season": 21,
+      "number": 3,
+      "name": "Bedste og barnebarn - del 2",
+      "airdate": "2012-09-03"
+    },
+    {
+      "id": "c3866484-3137-4518-8f8c-e233b86e949d",
+      "season": 21,
+      "number": 4,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2012-09-10"
+    },
+    {
+      "id": "74b01e4f-f362-4f4c-aff9-3e16e0ad79e1",
+      "season": 21,
+      "number": 5,
+      "name": "Mig og mit band - del 1",
+      "airdate": "2012-09-17"
+    },
+    {
+      "id": "f3e33b29-ef0c-43f9-abff-b62605a1abca",
+      "season": 21,
+      "number": 6,
+      "name": "Mig og mit band - del 2",
+      "airdate": "2012-09-24"
+    },
+    {
+      "id": "12e75b09-6fbb-4848-b13b-2c7a93306393",
+      "season": 21,
+      "number": 7,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2012-10-15"
+    },
+    {
+      "id": "96913e84-76a8-4c15-a815-602614a629d0",
+      "season": 21,
+      "number": 8,
+      "name": "Korrespondenterne",
+      "airdate": "2012-10-29"
+    },
+    {
+      "id": "c9793d75-9c22-409c-ae52-e6a5b455b25c",
+      "season": 21,
+      "number": 9,
+      "name": "Knæk Cancer",
+      "airdate": "2012-10-22"
+    },
+    {
+      "id": "4ca03737-4580-4e58-92c1-f7dce4adf7b8",
+      "season": 21,
+      "number": 10,
+      "name": "Korrespondenterne",
+      "airdate": "2012-11-05"
+    },
+    {
+      "id": "bf188d18-27e4-41ab-9906-aec23882119c",
+      "season": 21,
+      "number": 11,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2012-10-08"
+    },
+    {
+      "id": "8f152368-a95f-4bc5-9e23-4d5d12561dc8",
+      "season": 21,
+      "number": 12,
+      "name": "Julespecial",
+      "airdate": "2012-12-17"
+    },
+    {
+      "id": "39267183-628a-470c-a951-690076e3c4be",
+      "season": 21,
+      "number": 13,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2013-04-05"
+    },
+    {
+      "id": "7ab6dfc0-a206-4605-bd66-95da25c8458a",
+      "season": 21,
+      "number": 14,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2013-05-17"
+    },
+    {
+      "id": "dc8aeff3-7d0a-4af3-8b68-c64ba9cc89d5",
+      "season": 21,
+      "number": 15,
+      "name": "Ekstremsport",
+      "airdate": "2013-04-12"
+    },
+    {
+      "id": "3a4d4ca4-d5f8-4049-a633-5dd7e2129943",
+      "season": 21,
+      "number": 16,
+      "name": "Ekstremsport",
+      "airdate": "2013-04-19"
+    },
+    {
+      "id": "b46f5291-f368-4002-82b4-6a6369e5bda4",
+      "season": 21,
+      "number": 17,
+      "name": "Dating-special - del 1",
+      "airdate": "2013-05-03"
+    },
+    {
+      "id": "880200b6-d435-43d1-8c10-85154b84ebb7",
+      "season": 21,
+      "number": 18,
+      "name": "Dating-special - del 2",
+      "airdate": "2013-05-10"
+    },
+    {
+      "id": "a50824a5-abd6-493d-82e5-4a4472ceed96",
+      "season": 21,
+      "number": 19,
+      "name": "Studerende - del 1",
+      "airdate": "2013-05-24"
+    },
+    {
+      "id": "b63d8d85-633e-4fee-9309-2fd3997d7193",
+      "season": 21,
+      "number": 20,
+      "name": "Studerende - del 2",
+      "airdate": "2013-05-31"
+    },
+    {
+      "id": "a7e90bb6-326a-46d2-95e9-bb9eb00083c8",
+      "season": 21,
+      "number": 21,
+      "name": "I den gode sags tjeneste - del 1",
+      "airdate": "2013-08-12"
+    },
+    {
+      "id": "6b126209-1927-4573-951b-508f547af7a6",
+      "season": 21,
+      "number": 22,
+      "name": "I den gode sags tjeneste - del 2",
+      "airdate": "2013-08-19"
+    },
+    {
+      "id": "984eebb3-757c-4390-a1d7-c460777962bc",
+      "season": 21,
+      "number": 23,
+      "name": "I den gode sags tjeneste - del 3",
+      "airdate": "2013-08-26"
+    },
+    {
+      "id": "c8c6aae1-d5d8-49f7-996d-5f4f4b5132bc",
+      "season": 21,
+      "number": 24,
+      "name": "I den gode sags tjeneste - del 4",
+      "airdate": "2013-09-02"
+    },
+    {
+      "id": "3e00c7a6-fb37-457d-af68-4008734ab028",
+      "season": 22,
+      "number": 1,
+      "name": "I niende måned",
+      "airdate": "2013-09-09"
+    },
+    {
+      "id": "066eb603-523a-4613-9ab3-8772b8148f7a",
+      "season": 22,
+      "number": 2,
+      "name": "I niende måned",
+      "airdate": "2013-09-16"
+    },
+    {
+      "id": "7093ff09-6a15-4adf-8807-343ead14dd18",
+      "season": 22,
+      "number": 3,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2013-09-23"
+    },
+    {
+      "id": "a3244c3c-67df-4b09-b542-a1bbcc1d01e6",
+      "season": 22,
+      "number": 4,
+      "name": "Fødselsdagsspecial",
+      "airdate": "2013-09-30"
+    },
+    {
+      "id": "9d8ec84f-c567-4b23-8522-63253cf5c5c4",
+      "season": 23,
+      "number": 1,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2013-10-07"
+    },
+    {
+      "id": "70235173-f101-409e-802d-bdcdaae62b1c",
+      "season": 23,
+      "number": 2,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2013-10-21"
+    },
+    {
+      "id": "9df62545-ed1c-4bf0-89a1-afe4bae556e9",
+      "season": 23,
+      "number": 3,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2013-10-28"
+    },
+    {
+      "id": "73cb5d56-d505-411a-8c54-5ef83e5c0574",
+      "season": 23,
+      "number": 4,
+      "name": "Tvillingerne og Julemanden",
+      "airdate": "2013-12-27"
+    },
+    {
+      "id": "d77893d9-35a2-43dc-8e91-2cbc21e2db5f",
+      "season": 23,
+      "number": 5,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-02-17"
+    },
+    {
+      "id": "3ebfa2ff-f078-49ac-83be-e8652d3f4292",
+      "season": 23,
+      "number": 6,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-02-24"
+    },
+    {
+      "id": "6ce629ec-fbb2-4d33-9913-e718f5c78afe",
+      "season": 23,
+      "number": 7,
+      "name": "Fodboldfans",
+      "airdate": "2014-03-03"
+    },
+    {
+      "id": "654370f7-3d75-4e0a-be1f-c6005f4e168e",
+      "season": 23,
+      "number": 8,
+      "name": "Fodboldfans",
+      "airdate": "2014-03-10"
+    },
+    {
+      "id": "0323ce41-8e7c-4e94-ac08-51528a0162b4",
+      "season": 23,
+      "number": 9,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-03-17"
+    },
+    {
+      "id": "214f7770-906d-4c15-a6fb-2989ab63810b",
+      "season": 23,
+      "number": 10,
+      "name": "Dating",
+      "airdate": "2014-03-24"
+    },
+    {
+      "id": "e21a0ff4-ff04-4e5c-bd07-ad94003a9b60",
+      "season": 23,
+      "number": 11,
+      "name": "Dating",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "87c48f85-edcc-471a-9abe-03b7da706933",
+      "season": 23,
+      "number": 12,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-04-07"
+    },
+    {
+      "id": "0f2db906-156d-479c-91ec-338469c920de",
+      "season": 23,
+      "number": 13,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-04-14"
+    },
+    {
+      "id": "ee88b42e-4e17-4945-aece-2410ac0724d0",
+      "season": 23,
+      "number": 14,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-04-21"
+    },
+    {
+      "id": "2ab4914d-7e58-4701-b752-7940d134c62e",
+      "season": 23,
+      "number": 16,
+      "name": "Mig og Bedste",
+      "airdate": "2014-05-05"
+    },
+    {
+      "id": "cb32d004-d44d-41ab-b7c8-cc49f32581c5",
+      "season": 23,
+      "number": 17,
+      "name": "Mig og Bedste",
+      "airdate": "2014-05-12"
+    },
+    {
+      "id": "2296bc2b-e2f1-4896-ac00-6617f9bbfdde",
+      "season": 23,
+      "number": 18,
+      "name": "Tvillinger",
+      "airdate": "2014-08-25"
+    },
+    {
+      "id": "114cb2fd-8984-4f11-be0e-a155809e0789",
+      "season": 23,
+      "number": 19,
+      "name": "Tvillinger",
+      "airdate": "2014-09-01"
+    },
+    {
+      "id": "d1225da0-e06c-4ce4-ac1e-770ede7908cd",
+      "season": 23,
+      "number": 20,
+      "name": "Tvillinger",
+      "airdate": "2014-09-08"
+    },
+    {
+      "id": "b20c165d-9388-4941-a12d-9edbecc711b9",
+      "season": 23,
+      "number": 21,
+      "name": "Bonderøve og byrotter",
+      "airdate": "2014-10-06"
+    },
+    {
+      "id": "f60065b9-7a8e-4ca2-b4e8-d2f4d9d64fe1",
+      "season": 23,
+      "number": 22,
+      "name": "Bonderøve og byrotter",
+      "airdate": "2014-10-13"
+    },
+    {
+      "id": "3c02b101-8f18-4586-a234-c8b5289ae8f5",
+      "season": 23,
+      "number": 23,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-08-04"
+    },
+    {
+      "id": "3f94555d-a187-4d2c-8c85-1d9114bdd33e",
+      "season": 23,
+      "number": 24,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-08-11"
+    },
+    {
+      "id": "1f19b6ed-f9cb-4208-ab76-2c68a377e698",
+      "season": 23,
+      "number": 25,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2014-08-18"
+    },
+    {
+      "id": "19ca1225-5824-4f4b-98f0-c77fbbe88ac1",
+      "season": 24,
+      "number": 1,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2014-09-15"
+    },
+    {
+      "id": "ebce6caf-104c-4b3f-abb9-4892fc317f54",
+      "season": 24,
+      "number": 2,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2014-09-22"
+    },
+    {
+      "id": "e53624be-4f52-44a6-beb2-59d0dbe9ce7e",
+      "season": 24,
+      "number": 3,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2014-09-29"
+    },
+    {
+      "id": "3652d131-fbd8-45de-a4cf-5569a5fa5324",
+      "season": 24,
+      "number": 5,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2014-12-27"
+    },
+    {
+      "id": "d2e70937-a63b-4fb7-95fd-aad3fe38a726",
+      "season": 24,
+      "number": 6,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-02-22"
+    },
+    {
+      "id": "f4e2c0f7-fa1b-46b3-85f9-0423f0145efd",
+      "season": 24,
+      "number": 7,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-03-01"
+    },
+    {
+      "id": "77d75adc-950c-42d2-b3a1-ba3b1975008a",
+      "season": 24,
+      "number": 8,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-03-08"
+    },
+    {
+      "id": "fea2893b-45da-4bac-9cc4-3a1a86323e94",
+      "season": 24,
+      "number": 9,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-03-15"
+    },
+    {
+      "id": "73ea909a-0f0e-4f55-be6f-73552ae3bcb9",
+      "season": 24,
+      "number": 10,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-03-22"
+    },
+    {
+      "id": "85ab67c9-612b-478d-a63e-44d9b2d5a3ea",
+      "season": 24,
+      "number": 11,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-03-29"
+    },
+    {
+      "id": "93f51165-1f28-4c9c-8b1a-e2ca4267a4bc",
+      "season": 24,
+      "number": 12,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-04-05"
+    },
+    {
+      "id": "11fda3da-b05d-430a-8193-3785908ec495",
+      "season": 24,
+      "number": 13,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-04-12"
+    },
+    {
+      "id": "4874f823-eda2-4fd6-9a57-fe3d8ce5bfe1",
+      "season": 24,
+      "number": 14,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-04-26"
+    },
+    {
+      "id": "2e6e5b8d-829e-407a-be8a-81bb680e1bd2",
+      "season": 24,
+      "number": 15,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-05-03"
+    },
+    {
+      "id": "43f38612-498f-482d-88d3-54ea1f67f56f",
+      "season": 24,
+      "number": 16,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-06-01"
+    },
+    {
+      "id": "9552adf6-c831-4426-9035-253fee3506ba",
+      "season": 24,
+      "number": 17,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-06-08"
+    },
+    {
+      "id": "ad6df208-d021-4d7f-8afc-58a05f874193",
+      "season": 24,
+      "number": 18,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-10-25"
+    },
+    {
+      "id": "3d36bd69-90f0-4fe2-bd7f-2dcd37d96435",
+      "season": 24,
+      "number": 19,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-11-01"
+    },
+    {
+      "id": "21ac4b60-bb25-4c21-8301-1fba648d3d59",
+      "season": 24,
+      "number": 20,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2016-03-20"
+    },
+    {
+      "id": "3f1db357-86fe-4107-95dc-a16b045b3fc0",
+      "season": 24,
+      "number": 21,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2016-03-27"
+    },
+    {
+      "id": "ea729cf5-cb7d-4b9e-9e49-c1557b6bc10b",
+      "season": 24,
+      "number": 22,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-12-24"
+    },
+    {
+      "id": "91a66e20-46e7-49fb-8844-2a21ff13b85e",
+      "season": 24,
+      "number": 23,
+      "name": "Hvem vil være millionær? Classic",
+      "airdate": "2015-04-19"
+    },
+    {
+      "id": "a8873a48-6cf8-4d09-87d0-9457d00a5d29",
+      "season": 25,
+      "number": 1,
+      "name": "Knæk Cancer-udgave",
+      "airdate": "2015-10-18"
+    },
+    {
+      "id": "70d7f7b0-07e7-4386-87ab-dd5119ac5200",
+      "season": 25,
+      "number": 2,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2015-11-22"
+    },
+    {
+      "id": "3a66cd2e-2ae6-429f-81e9-102051e84a21",
+      "season": 25,
+      "number": 3,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "3612833f-4fc2-4863-b44a-634c7b1a47af",
+      "season": 25,
+      "number": 4,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2015-12-27"
+    },
+    {
+      "id": "26ebd623-c3e5-4878-97ee-e767331fccf9",
+      "season": 25,
+      "number": 5,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-03-06"
+    },
+    {
+      "id": "f1fad9ce-1531-4e3f-b4ca-f98607cd110c",
+      "season": 25,
+      "number": 6,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-03-13"
+    },
+    {
+      "id": "582ded36-9b28-4f4d-a887-470c58985a79",
+      "season": 25,
+      "number": 7,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-04-03"
+    },
+    {
+      "id": "21bed09e-f55e-4bdd-9a82-64d30ac4bf50",
+      "season": 25,
+      "number": 8,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-04-17"
+    },
+    {
+      "id": "a4e953bf-84e4-4a60-8a13-62b7505825b0",
+      "season": 25,
+      "number": 9,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-04-24"
+    },
+    {
+      "id": "f4410157-3391-4835-adc3-7400911fe06c",
+      "season": 25,
+      "number": 10,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "3186b1a8-a83d-4764-a6ea-d089e27accc1",
+      "season": 25,
+      "number": 11,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-05-08"
+    },
+    {
+      "id": "a4a8657b-d595-4b8f-8311-b455abc0a337",
+      "season": 25,
+      "number": 12,
+      "name": "Dating",
+      "airdate": "2016-05-15"
+    },
+    {
+      "id": "35e42fc5-e7d5-4328-b138-f909c49723b9",
+      "season": 25,
+      "number": 13,
+      "name": "Dating",
+      "airdate": "2016-05-22"
+    },
+    {
+      "id": "b2fcab5e-4da2-4e99-8fe5-d641309a344f",
+      "season": 25,
+      "number": 14,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-12-30"
+    },
+    {
+      "id": "c4910ef1-f39a-444d-9eaa-be05b62576b5",
+      "season": 25,
+      "number": 15,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2017-12-31"
+    },
+    {
+      "id": "7c57bfaf-4cb4-46b7-90fb-68979f8e8a83",
+      "season": 25,
+      "number": 16,
+      "name": "Mig og min nabo",
+      "airdate": "2017-04-09"
+    },
+    {
+      "id": "faf28777-cc45-4c88-950f-0add583d52fe",
+      "season": 25,
+      "number": 17,
+      "name": "Mig og min nabo",
+      "airdate": "2017-04-16"
+    },
+    {
+      "id": "fd05501c-9cfd-4584-b929-2001ee9c8f58",
+      "season": 25,
+      "number": 18,
+      "name": "Dating",
+      "airdate": "2017-04-23"
+    },
+    {
+      "id": "4357c9b6-08bf-4d9e-938e-43364fe9cbbb",
+      "season": 25,
+      "number": 19,
+      "name": "Dating",
+      "airdate": "2017-04-30"
+    },
+    {
+      "id": "4bae4579-76fc-466b-83f9-6882eff81c44",
+      "season": 25,
+      "number": 20,
+      "name": "I den god sags tjeneste",
+      "airdate": "2017-10-22"
+    },
+    {
+      "id": "769572d8-af92-4db3-8fdb-a32ff59e3a4b",
+      "season": 25,
+      "number": 21,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2017-03-26"
+    },
+    {
+      "id": "ce3bad71-8c4e-44be-a595-d4d799743c91",
+      "season": 26,
+      "number": 1,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2016-10-23"
+    },
+    {
+      "id": "478851e8-d97b-4218-8c24-b49f08be18f4",
+      "season": 26,
+      "number": 2,
+      "name": "Mig og min fritid",
+      "airdate": "2017-11-19"
+    },
+    {
+      "id": "50a5bda1-cff9-47eb-a44e-cd68bec58c83",
+      "season": 26,
+      "number": 3,
+      "name": "Mig og min fritid",
+      "airdate": "2017-11-26"
+    },
+    {
+      "id": "5f28a30c-f12e-4d02-be64-b54ed6b9660a",
+      "season": 26,
+      "number": 4,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2018-06-03"
+    },
+    {
+      "id": "4872ca1e-c870-409c-ba88-0385c7d195ec",
+      "season": 26,
+      "number": 5,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2018-01-07"
+    },
+    {
+      "id": "b1073cc7-3806-4b23-ac8c-c9bf919f8ec3",
+      "season": 26,
+      "number": 6,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2018-01-14"
+    },
+    {
+      "id": "57cb82d4-3692-4553-9b56-87d3ae5b6404",
+      "season": 26,
+      "number": 7,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2018-02-04"
+    },
+    {
+      "id": "eb6adfa1-8157-4e0e-a4d0-675e7c9b4b07",
+      "season": 26,
+      "number": 8,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2018-02-11"
+    },
+    {
+      "id": "24cd703e-6976-4f49-983a-fa79366e5a87",
+      "season": 26,
+      "number": 9,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2018-05-06"
+    },
+    {
+      "id": "3ee8d77e-bebd-45dd-a0a3-f184479a33f0",
+      "season": 26,
+      "number": 10,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2018-05-27"
+    }
+  ]
+}

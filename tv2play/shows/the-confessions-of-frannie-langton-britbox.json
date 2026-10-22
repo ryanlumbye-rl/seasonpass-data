@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:the-confessions-of-frannie-langton-britbox",
+  "name": "The Confessions of Frannie Langton",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "15707307-e0c5-4ac8-aee0-6de444a47ee0",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "aaeb9854-ef05-442e-8b0b-239fdeb2185f",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "39ddaa36-3d19-4403-bfbb-5e6c59f39146",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "69ff7be9-b68e-4b93-96a3-0958fbc14a8a",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

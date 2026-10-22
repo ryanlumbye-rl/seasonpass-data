@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:brandmand-sam-tv2play",
+  "name": "Brandmand Sam",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0e362490-f47b-4471-a5e7-c66e738d20e2",
+      "season": 8,
+      "number": 1,
+      "name": "Kunde nummer én million!",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "049107fb-8498-444b-beb1-37e1f828af18",
+      "season": 8,
+      "number": 2,
+      "name": "Jupiter på afveje",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "94e3b53f-4148-4bce-969e-4d4f4c12f00e",
+      "season": 8,
+      "number": 3,
+      "name": "Det kolde gys",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "c082c80a-6880-41e4-b8f5-fe0658eb08c8",
+      "season": 8,
+      "number": 4,
+      "name": "Boyce træder til",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "c7fb7b1c-94e6-4851-a7cc-59513a576ee2",
+      "season": 8,
+      "number": 5,
+      "name": "Koncert med Elvis",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "a969b9c4-d618-4c3a-a668-68458e12295b",
+      "season": 8,
+      "number": 6,
+      "name": "Mandy til søs",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "e68369d9-4d3a-41b8-802a-f8959a824112",
+      "season": 8,
+      "number": 7,
+      "name": "Marsvinets Store Flugt",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "cc38a9f6-8dea-486e-8c7b-d67e02065323",
+      "season": 8,
+      "number": 8,
+      "name": "Isbjørnen fra Pontypandy",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "608a3798-988c-4aa6-b13d-3d840f33ba3b",
+      "season": 8,
+      "number": 9,
+      "name": "Vildt vandtårn",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "64c0b141-5a78-42b3-a6af-42a9158535f5",
+      "season": 8,
+      "number": 10,
+      "name": "Mandys bjerg",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "cea71709-8584-42a8-a37f-0cbc71382d0f",
+      "season": 8,
+      "number": 11,
+      "name": "Det løbske tog",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "c7565b0d-2024-44d0-8dfe-409af9babf41",
+      "season": 8,
+      "number": 12,
+      "name": "Pontypandyness-uhyret!",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "bf50db9e-ad1d-48e4-a179-6a699c0aff38",
+      "season": 8,
+      "number": 13,
+      "name": "Katastrofale Dilys",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "5724bb01-9008-4d8d-9784-79febc33aedc",
+      "season": 8,
+      "number": 14,
+      "name": "Iskold i Pontypandy",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "0a841079-0d37-4881-bcc8-ba5067730a0e",
+      "season": 8,
+      "number": 15,
+      "name": "Normans Halloween-høst",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "b8ee6d2c-3701-4bef-b0f5-607e7c0dd158",
+      "season": 8,
+      "number": 16,
+      "name": "Charlies store fangst",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "7386325c-446b-40c1-81eb-fd37200ec782",
+      "season": 8,
+      "number": 17,
+      "name": "Bessie redder dagen",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "621a061a-e7bf-41d2-b2ce-ef4cf1079c11",
+      "season": 8,
+      "number": 18,
+      "name": "Snebolden ruller",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "48ad8697-dfc2-4ee4-8d00-4f3f7817bf1f",
+      "season": 8,
+      "number": 19,
+      "name": "Bjergets konge",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "c1f43ea2-cf68-4685-974b-33fb5e7e4f13",
+      "season": 8,
+      "number": 20,
+      "name": "Fanget fyrtårnet",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "9a1ff00c-a37f-4f92-9afc-25c2c48270a9",
+      "season": 8,
+      "number": 21,
+      "name": "Flotte lys",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "01faebde-0b36-430d-a95c-c8fc3baf7ee4",
+      "season": 8,
+      "number": 22,
+      "name": "Dameaften",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "3ff30e71-4d9e-4ffa-bf3f-c688189e1f48",
+      "season": 8,
+      "number": 23,
+      "name": "Ildhjulet",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "8f650cc9-cf6f-40b1-b0cc-497c38610f95",
+      "season": 8,
+      "number": 24,
+      "name": "Snu som en ræv",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "3aaf88e0-7c56-44c2-a162-278b15a98a63",
+      "season": 8,
+      "number": 25,
+      "name": "Den forsvundne Lily",
+      "airdate": "2018-07-01"
+    },
+    {
+      "id": "e862c736-a653-4673-ab86-5e486fb60bfe",
+      "season": 8,
+      "number": 26,
+      "name": "Himmellanterner",
+      "airdate": "2018-07-01"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:the-good-wife-tv2play",
+  "name": "The Good Wife",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "322b9ec5-6d1c-4985-8892-6b41afc6868b",
+      "season": 3,
+      "number": 17,
+      "name": "Long Way Home",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

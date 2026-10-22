@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:ingen-panik-tv2",
+  "name": "Ingen panik",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e25b6116-59bb-4aa2-b647-627af223e28b",
+      "season": 1,
+      "number": 1,
+      "name": "En hilsen fra det ydre rum",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "2ab8b7a5-443b-43e2-bdc1-c35d05a929b5",
+      "season": 1,
+      "number": 2,
+      "name": "Hvem har røvet banken?",
+      "airdate": "2026-05-02"
+    },
+    {
+      "id": "a91152a7-b7bd-4b83-8f2d-21767e803600",
+      "season": 1,
+      "number": 3,
+      "name": "Hvem fanden er Allan John?",
+      "airdate": "2026-05-09"
+    },
+    {
+      "id": "5de53d21-aa9b-4d2a-bf64-68277f86d287",
+      "season": 1,
+      "number": 4,
+      "name": "I taber kampen 4-0",
+      "airdate": "2026-05-16"
+    },
+    {
+      "id": "10b446fd-8e17-4f95-97eb-f95caa036dcc",
+      "season": 1,
+      "number": 5,
+      "name": "Til pressemøde i Statsministeriet",
+      "airdate": "2026-05-23"
+    },
+    {
+      "id": "69af23db-5e14-4f77-ab07-efdde63d5508",
+      "season": 1,
+      "number": 6,
+      "name": "Fire uduelige superhelte",
+      "airdate": "2026-05-30"
+    },
+    {
+      "id": "f7b9c84e-d968-42fe-a0f1-8451638b7cdb",
+      "season": 1,
+      "number": 7,
+      "name": "Hvem mon kommer i himlen?",
+      "airdate": "2026-06-06"
+    },
+    {
+      "id": "613c977f-0889-443a-b9dc-f728d3580ca0",
+      "season": 1,
+      "number": 8,
+      "name": "Et meget højt hoved",
+      "airdate": "2026-06-13"
+    }
+  ]
+}

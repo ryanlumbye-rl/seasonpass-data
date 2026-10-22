@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:patrick-stjerne-show-tv2play",
+  "name": "Patrick Stjerne Show",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "779c43a3-95ef-49ea-8b2f-2c091bd6238a",
+      "season": 4,
+      "number": 13,
+      "name": "Terror på bånd",
+      "airdate": "2026-10-31"
+    }
+  ]
+}

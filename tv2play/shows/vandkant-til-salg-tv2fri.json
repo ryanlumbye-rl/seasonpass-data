@@ -1,0 +1,332 @@
+{
+  "id": "tv2play:vandkant-til-salg-tv2fri",
+  "name": "Vandkant til salg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b178cdc2-fe99-4b23-a0e7-e020c1140754",
+      "season": 1,
+      "number": 1,
+      "name": "En trainee på afveje",
+      "airdate": "2020-02-05"
+    },
+    {
+      "id": "a2ce29ae-d426-4791-abe2-49edc1658968",
+      "season": 1,
+      "number": 2,
+      "name": "En god dag",
+      "airdate": "2020-02-05"
+    },
+    {
+      "id": "2128f4b2-f397-4c1c-ad41-1e383f96b441",
+      "season": 1,
+      "number": 3,
+      "name": "Fars fede ferie",
+      "airdate": "2020-02-12"
+    },
+    {
+      "id": "893fbf38-f324-426a-8b77-621689da3d06",
+      "season": 1,
+      "number": 4,
+      "name": "En villa til 65 millioner",
+      "airdate": "2020-02-19"
+    },
+    {
+      "id": "1e0785fe-23f8-4d4b-b1d0-49fb388f41b8",
+      "season": 1,
+      "number": 5,
+      "name": "Hugorme på grunden",
+      "airdate": "2020-02-26"
+    },
+    {
+      "id": "1c8b66e0-0945-4f19-9343-b94721a01d9a",
+      "season": 2,
+      "number": 1,
+      "name": "En stor edderkop",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "1e3cd7ce-ab1d-4421-a722-b1c0455862c5",
+      "season": 2,
+      "number": 2,
+      "name": "Elbæk-parret på boligjagt",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "a53b790d-3a20-490c-b6ac-f49b5affded8",
+      "season": 2,
+      "number": 3,
+      "name": "En fiskehandler i Korsør",
+      "airdate": "2021-02-10"
+    },
+    {
+      "id": "78bc0948-52bd-46a3-a4f4-7c561e90b9a8",
+      "season": 2,
+      "number": 4,
+      "name": "En liebhaverdrøm i maven",
+      "airdate": "2021-02-17"
+    },
+    {
+      "id": "ae38e2fa-57a1-48ea-bec9-cfc58a165b95",
+      "season": 2,
+      "number": 5,
+      "name": "En mangroveskov på Lolland",
+      "airdate": "2021-02-24"
+    },
+    {
+      "id": "d1230dce-8942-4149-a2b1-6ae123c9631b",
+      "season": 2,
+      "number": 6,
+      "name": "Den vildeste villa",
+      "airdate": "2021-03-03"
+    },
+    {
+      "id": "4995934c-4286-42c4-9e1c-53164bab9733",
+      "season": 3,
+      "number": 1,
+      "name": "Danmarks dyreste villa",
+      "airdate": "2022-03-02"
+    },
+    {
+      "id": "35e94fa0-23c3-4311-8456-0210907b9eb7",
+      "season": 3,
+      "number": 2,
+      "name": "Skagens vidunderlige klitter",
+      "airdate": "2022-03-02"
+    },
+    {
+      "id": "3b55a9e5-e874-4ba0-8fc8-34aa38032148",
+      "season": 3,
+      "number": 3,
+      "name": "At bo midt i vandet",
+      "airdate": "2022-03-09"
+    },
+    {
+      "id": "590ea7c7-3cc5-46e6-98c5-04c3450956cf",
+      "season": 3,
+      "number": 4,
+      "name": "En legesyg hundehvalp",
+      "airdate": "2022-03-16"
+    },
+    {
+      "id": "324f0b1c-484e-4606-ac18-4946dd7bf98d",
+      "season": 3,
+      "number": 5,
+      "name": "Gammel åndssvageanstalt",
+      "airdate": "2022-03-23"
+    },
+    {
+      "id": "983a443a-b05c-4c40-8fd2-55d9b813c3d3",
+      "season": 3,
+      "number": 6,
+      "name": "Aalborgs dyreste område",
+      "airdate": "2022-03-30"
+    },
+    {
+      "id": "540f07ba-1194-4de8-9111-db1c11c4ffbc",
+      "season": 3,
+      "number": 7,
+      "name": "Vand til alle sider",
+      "airdate": "2022-04-06"
+    },
+    {
+      "id": "a612b27c-e662-4ded-87f9-6577b4917145",
+      "season": 4,
+      "number": 1,
+      "name": "Rekorddyrt hus ved Roskilde Fjord",
+      "airdate": "2023-03-21"
+    },
+    {
+      "id": "115dadb7-2d11-43a1-9848-3badf267affa",
+      "season": 4,
+      "number": 2,
+      "name": "Nordjyllands højeste og dyreste penthouse",
+      "airdate": "2023-03-28"
+    },
+    {
+      "id": "69a5aacc-3f72-458b-9fd2-fe7d6223e822",
+      "season": 4,
+      "number": 3,
+      "name": "14 palævinduer ud til søerne i Kbh.",
+      "airdate": "2023-04-04"
+    },
+    {
+      "id": "0b5b7225-524d-4eb0-a9bc-ca3314f4fe0c",
+      "season": 4,
+      "number": 4,
+      "name": "En kæmpestor feriekoloni til salg",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "f107ebaa-1a5f-409a-bb50-a092c70338c3",
+      "season": 4,
+      "number": 5,
+      "name": "Naboens strandvejsvilla",
+      "airdate": "2023-04-18"
+    },
+    {
+      "id": "7804b976-3b30-41a4-9043-e4cf78da65ff",
+      "season": 4,
+      "number": 6,
+      "name": "Vidunderligt sommerhus i Veddinge Bakker",
+      "airdate": "2023-04-25"
+    },
+    {
+      "id": "358afbdc-528b-4a49-9eff-97f1b54d6704",
+      "season": 4,
+      "number": 7,
+      "name": "Jonnas store reception",
+      "airdate": "2023-05-02"
+    },
+    {
+      "id": "31ca704e-064b-44a1-8b36-61cf1ebf26e4",
+      "season": 5,
+      "number": 1,
+      "name": "Idyllisk sommerhus ved Vejle Fjord",
+      "airdate": "2024-03-12"
+    },
+    {
+      "id": "e59758d9-0276-4567-a1a3-5f6d93822fa2",
+      "season": 5,
+      "number": 2,
+      "name": "Et Arne Jacobsen sommerhus i Tisvilde",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "33cba65a-9670-4f16-8972-547197ec5e16",
+      "season": 5,
+      "number": 3,
+      "name": "Den, der har grisen, bestemmer prisen",
+      "airdate": "2024-03-26"
+    },
+    {
+      "id": "896136d5-12ed-44c6-a647-4692729f65e8",
+      "season": 5,
+      "number": 4,
+      "name": "En moderne bobåd i Aalborg",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "8aa274ed-9604-418f-9e59-d8f72c5f1f39",
+      "season": 5,
+      "number": 5,
+      "name": "Arkitekttegnet mesterværk i Gilleleje",
+      "airdate": "2024-04-09"
+    },
+    {
+      "id": "dad747d4-4abe-41c0-bd0b-ffd5afc3c644",
+      "season": 5,
+      "number": 6,
+      "name": "Dronningen af Brejning",
+      "airdate": "2024-04-16"
+    },
+    {
+      "id": "004ffb59-af7e-47fa-882f-b6f6179a9420",
+      "season": 5,
+      "number": 7,
+      "name": "Farmand hjælper med at sælge vandkant",
+      "airdate": "2024-04-23"
+    },
+    {
+      "id": "79954775-16a7-4c0f-85e8-41357b34203d",
+      "season": 6,
+      "number": 1,
+      "name": "Liebhaverhus til 42 millioner",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "91d2faa0-6749-4afb-95d9-e86a56938431",
+      "season": 6,
+      "number": 2,
+      "name": "Jonna og baronessens hus",
+      "airdate": "2025-03-10"
+    },
+    {
+      "id": "948410c4-d8b8-495d-9948-7a7f2f160957",
+      "season": 6,
+      "number": 3,
+      "name": "Havnefest i Espergæde",
+      "airdate": "2025-03-17"
+    },
+    {
+      "id": "070248e9-fc47-4e10-b415-ce1d179d188f",
+      "season": 6,
+      "number": 4,
+      "name": "Liebhaverhus og cementstøberi",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "7f44d4f4-5ecf-4beb-80db-cd7cf4d18444",
+      "season": 6,
+      "number": 5,
+      "name": "Adam åbner kontor i smilets by",
+      "airdate": "2025-03-31"
+    },
+    {
+      "id": "231df8fd-75c5-48df-a6ff-bcb3d7235682",
+      "season": 6,
+      "number": 6,
+      "name": "Bevaringsværdigt hus på Falster",
+      "airdate": "2025-04-07"
+    },
+    {
+      "id": "33f6b090-46ec-4776-b700-a6c54c4fea7c",
+      "season": 6,
+      "number": 7,
+      "name": "Alle elsker Jonna",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "b2c61ae7-4fad-40bc-bc2c-67c10e43bd0f",
+      "season": 7,
+      "number": 1,
+      "name": "Dorthe Kollos hus på Enø",
+      "airdate": "2026-04-29"
+    },
+    {
+      "id": "98496199-474e-4f7e-b03d-297cc2c25f9c",
+      "season": 7,
+      "number": 2,
+      "name": "New Yorker-bolig på Falster",
+      "airdate": "2026-05-06"
+    },
+    {
+      "id": "b49b4129-52ba-440d-9d45-482e6ececf0c",
+      "season": 7,
+      "number": 3,
+      "name": "Jonna og grev Ingolfs sommerhus",
+      "airdate": "2026-05-13"
+    },
+    {
+      "id": "99bc1b98-cba8-461a-bb2a-2c874249f15e",
+      "season": 7,
+      "number": 4,
+      "name": "24 kvadrameter til 3,5 millioner på Aarhus Ø",
+      "airdate": "2026-05-20"
+    },
+    {
+      "id": "7121372b-77c6-4faa-a128-0689383ca7f2",
+      "season": 7,
+      "number": 5,
+      "name": "I H.C. Andersens fodspor",
+      "airdate": "2026-05-27"
+    },
+    {
+      "id": "26743038-74c1-4ba5-a86c-54a1521a8b3b",
+      "season": 7,
+      "number": 6,
+      "name": "Strandhotel i Ebeltoft",
+      "airdate": "2026-06-03"
+    },
+    {
+      "id": "0bec6d6c-874b-46a8-b5fa-e3edae5b4174",
+      "season": 7,
+      "number": 7,
+      "name": "Louisiana-inspireret luksusvilla",
+      "airdate": "2026-06-10"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:maend-mad-kaerlighed-tv2fri",
+  "name": "Mænd, mad & kærlighed",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "113c85cd-c1f2-42ca-8582-196d27dd3c13",
+      "season": 1,
+      "number": 1,
+      "name": "Landmand Ole svinger kødgryderne",
+      "airdate": "2018-10-23"
+    },
+    {
+      "id": "9ff6c8f7-1481-4fe7-839b-2f3ac05730eb",
+      "season": 1,
+      "number": 2,
+      "name": "Landmand Morten smelter Dianas hjerte",
+      "airdate": "2018-10-23"
+    },
+    {
+      "id": "7c15a419-f68d-40a9-86b0-99732785ebd6",
+      "season": 1,
+      "number": 3,
+      "name": "Landmand Claus med store bøffer - og bearnaise",
+      "airdate": "2018-10-23"
+    },
+    {
+      "id": "9267be60-447f-4cbe-a276-abf4d1a7b90f",
+      "season": 1,
+      "number": 4,
+      "name": "Landmand Nichlas overrasker en HELT specielt dame",
+      "airdate": "2018-10-30"
+    },
+    {
+      "id": "08386dc3-4ce9-40b8-b7aa-3543d419321f",
+      "season": 1,
+      "number": 5,
+      "name": "Landmand Ole smører smukke Sigrid",
+      "airdate": "2018-11-06"
+    },
+    {
+      "id": "2f0ad134-27f1-4dfd-9783-91fccb2ba2ab",
+      "season": 1,
+      "number": 6,
+      "name": "Landmanden Danni laver sprød and til smuk kvinde",
+      "airdate": "2018-11-13"
+    },
+    {
+      "id": "39ccc57c-6714-4bbc-b364-7d4df58f0b7d",
+      "season": 1,
+      "number": 7,
+      "name": "Landmand Michaels scoreret til Vibeke",
+      "airdate": "2018-11-13"
+    },
+    {
+      "id": "baad20f8-fc70-4978-9cef-610e53b58e60",
+      "season": 2,
+      "number": 1,
+      "name": "Landmand Jørgen forfører Kirsten med sin pighvar",
+      "airdate": "2019-08-20"
+    },
+    {
+      "id": "c2f04d72-5971-480e-9223-62d10e453d07",
+      "season": 2,
+      "number": 2,
+      "name": "Dennis scorer hos kæresten uden kød",
+      "airdate": "2019-08-20"
+    },
+    {
+      "id": "0a188672-406c-4fbb-8a08-bcae29e85709",
+      "season": 2,
+      "number": 3,
+      "name": "Niels laver en scoremiddag, der kan skille vandene",
+      "airdate": "2019-08-27"
+    },
+    {
+      "id": "08a4a2b8-3ab6-47ac-a413-967dbb392a21",
+      "season": 2,
+      "number": 4,
+      "name": "Kan man score med en god pølse?",
+      "airdate": "2019-09-03"
+    },
+    {
+      "id": "31ba0c2a-4dff-4cfc-a711-eb45f689b135",
+      "season": 2,
+      "number": 5,
+      "name": "En romantisk ret venter",
+      "airdate": "2019-09-10"
+    },
+    {
+      "id": "648b627f-2ff1-4fc9-9110-019565999d8a",
+      "season": 2,
+      "number": 6,
+      "name": "Anders charmerer en latinamerikansk skønhed",
+      "airdate": "2019-09-17"
+    },
+    {
+      "id": "eb9bff05-d710-44e1-af4f-27d28b41f193",
+      "season": 2,
+      "number": 7,
+      "name": "Blind date på menuen",
+      "airdate": "2019-09-24"
+    }
+  ]
+}

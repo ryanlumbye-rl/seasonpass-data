@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:herlige-haver-none",
+  "name": "Herlige haver",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "11727f4b-49ac-45e6-bcf5-12757caa61c1",
+      "season": 1,
+      "number": 1,
+      "name": "Familiehaven med rådne dyr",
+      "airdate": "2026-03-29"
+    },
+    {
+      "id": "8be99499-6e45-4427-bfe1-048d45e0d21d",
+      "season": 1,
+      "number": 2,
+      "name": "Gittes have blev hendes redning",
+      "airdate": "2026-04-05"
+    },
+    {
+      "id": "c55cf035-07a2-4824-b69e-d73fc4f4a3fc",
+      "season": 1,
+      "number": 3,
+      "name": "Stejl byhave med roser i træerne",
+      "airdate": "2026-04-12"
+    }
+  ]
+}

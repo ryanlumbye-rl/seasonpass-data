@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:hotel-savoy-femstjernet-luksus-tv2",
+  "name": "Hotel Savoy - femstjernet luksus",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "860bfe0e-2a58-4f5a-a9f2-b05f493cb530",
+      "season": 1,
+      "number": 1,
+      "name": "Uforudsete udfordringer",
+      "airdate": "2021-04-29"
+    },
+    {
+      "id": "fee68faa-c72a-40d8-a2f4-be4b95229f73",
+      "season": 1,
+      "number": 2,
+      "name": "Valentinsdag med hjertebanken",
+      "airdate": "2021-04-29"
+    },
+    {
+      "id": "7a9a99c0-c857-4f40-a15a-3e45ed68d1fd",
+      "season": 1,
+      "number": 3,
+      "name": "Diskretion og silkelagner",
+      "airdate": "2021-04-29"
+    },
+    {
+      "id": "daa8d79b-b39a-4e1e-ad3f-aab5143de785",
+      "season": 1,
+      "number": 4,
+      "name": "Gallafesten før coronaen",
+      "airdate": "2021-04-29"
+    },
+    {
+      "id": "52bebe02-99aa-4dae-bc95-58131b272cd4",
+      "season": 1,
+      "number": 5,
+      "name": "Julespecial",
+      "airdate": "2021-12-04"
+    },
+    {
+      "id": "b7e1e671-fdd8-4e95-a0e0-3e861741cb77",
+      "season": 2,
+      "number": 5,
+      "name": "Glædelig jul",
+      "airdate": "2022-08-01"
+    }
+  ]
+}

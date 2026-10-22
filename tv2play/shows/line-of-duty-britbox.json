@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:line-of-duty-britbox",
+  "name": "Line of Duty",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bb9fbc5c-9101-4aa6-9b96-13f240aa4258",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "642a9705-ee40-4623-b47a-a3307b2cc9b7",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0365033c-a7f5-45e0-93b9-4d438b1560dc",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "df2676f6-b9ed-4201-bf2d-149b211f8563",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "19713de4-b654-4bd7-a628-4f95c8e161c7",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "aea616d9-578b-45ec-a9db-084e6fba0483",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "00406ac9-cf21-4a73-8033-ffd745ea3813",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b46a66ae-24c5-4c44-b3ac-55adc4adc46d",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "28478663-b666-4aef-a0dc-f297eb968cf4",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4c9ee42c-7973-4231-b1d2-6e7f4079763e",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b3a1057d-0ce3-4434-a7ff-f56b3b7c9644",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d9d4c675-20d2-417c-bf57-f5e3e1f606eb",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c6686481-16c1-4de1-ba0f-9d83024a7f88",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9acf57c3-0431-470f-a2ec-b97810af4865",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6e6a17d6-4365-47e0-b6be-bc6465e20301",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ef22c300-ca82-4d62-87f9-b6da953390a7",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1c58d703-9f2b-4580-8f5d-66dc985428be",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1905103b-48a4-4151-b60c-4aee8f08e31c",
+      "season": 4,
+      "number": 1,
+      "name": "In the Shadow of the Truth",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "11019991-6963-4851-a586-54880e716d7e",
+      "season": 4,
+      "number": 2,
+      "name": "Who Sows the Wind",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1fbfa943-bc9e-4164-9271-824df47a4490",
+      "season": 4,
+      "number": 3,
+      "name": "In the Trap",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4331639a-b8f8-47cf-9e64-701c0da55e18",
+      "season": 4,
+      "number": 4,
+      "name": "Moral Superiority",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f453cf7b-5794-4fb4-a797-696f9bcf36aa",
+      "season": 4,
+      "number": 5,
+      "name": "Lying Nest",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cd08031d-f150-44eb-80f4-cfb709fc3e87",
+      "season": 4,
+      "number": 6,
+      "name": "Royal Hunting Ground",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "477a774f-f3b9-49f9-b8dc-b68b13a2ba8d",
+      "season": 5,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8254b1fe-7ac3-446b-a451-cf488e7c3c44",
+      "season": 5,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1c79b326-98db-47d6-bff4-c22a677fd6c0",
+      "season": 5,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ea1ada09-876c-4720-b7e9-880d8f06aa39",
+      "season": 5,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c7ff1f4e-73ec-4b28-95bd-f08212b404e3",
+      "season": 5,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0af53119-42c8-4589-8877-50f52316da84",
+      "season": 5,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "bb37fdf3-4fa9-4d2a-9d3d-ac778248caa2",
+      "season": 6,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "60e1858e-ea02-47ee-b1c6-09884fe1e4b9",
+      "season": 6,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8ec7bc35-70f4-4227-9f34-6f16ce2ecb7e",
+      "season": 6,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "189ef4eb-e572-4882-abde-093334d3d19c",
+      "season": 6,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a806058a-bb63-4a93-b4ae-06ad3d8f2faf",
+      "season": 6,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a4250c81-da1a-4de5-97d7-346d2bd8a47f",
+      "season": 6,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6a34dc42-88da-42c0-a901-9948708ae7d9",
+      "season": 6,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

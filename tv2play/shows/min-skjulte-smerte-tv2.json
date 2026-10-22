@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:min-skjulte-smerte-tv2",
+  "name": "Min skjulte smerte",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "356f797a-b42a-484c-b563-2375b17e3891",
+      "season": 1,
+      "number": 1,
+      "name": "Der er noget i mig, der er i udu",
+      "airdate": "2022-09-28"
+    },
+    {
+      "id": "5c91f763-6ef4-4c94-833b-9bce48e0692d",
+      "season": 1,
+      "number": 2,
+      "name": "Du slipper aldrig for angst",
+      "airdate": "2022-09-29"
+    },
+    {
+      "id": "2635c50d-248f-47b5-bee8-1828a8086d90",
+      "season": 1,
+      "number": 3,
+      "name": "Tag mig, som jeg er",
+      "airdate": "2022-09-29"
+    }
+  ]
+}

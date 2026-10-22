@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:traces-britbox",
+  "name": "Traces",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e056a1d1-fd48-49c5-829b-67b113d93b05",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-03-20"
+    },
+    {
+      "id": "630855b7-55e4-47bb-9eaa-8d700742f1d0",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-03-20"
+    },
+    {
+      "id": "28857ecc-ec15-4289-877c-aa4c18e02bf8",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-03-20"
+    },
+    {
+      "id": "001693bd-9dfd-49c3-981a-6445224dd6b8",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-03-20"
+    },
+    {
+      "id": "ca5300b9-4f55-43b6-b3fb-b4e40bb60b96",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-03-20"
+    },
+    {
+      "id": "2f163414-907d-4726-89ed-429972f2e1c0",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-03-20"
+    }
+  ]
+}

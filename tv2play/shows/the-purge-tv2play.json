@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:the-purge-tv2play",
+  "name": "The Purge",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "33e9a85f-3135-4940-a085-9b5eaf81384b",
+      "season": 1,
+      "number": 1,
+      "name": "What Is America?",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "e02fb5de-879f-4f0d-b166-01f72f7b8d27",
+      "season": 1,
+      "number": 2,
+      "name": "Take What's Yours",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "20cdbe40-731e-4519-877a-3cd31579a972",
+      "season": 1,
+      "number": 3,
+      "name": "The Urge to Purge",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "e482b7cb-ca60-4f17-b40d-b4f47cf81fb6",
+      "season": 1,
+      "number": 4,
+      "name": "Release the Beast",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "dc76aba0-92f7-4ce4-99fd-98cb3cd80b20",
+      "season": 1,
+      "number": 5,
+      "name": "Rise Up",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "a51df2b4-1d83-48e0-82cd-db0f92f5bdfd",
+      "season": 1,
+      "number": 6,
+      "name": "The Forgotten",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "43d763c4-87c1-424a-9dab-acfd4dc5f048",
+      "season": 1,
+      "number": 7,
+      "name": "Lovely Dark and Deep",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "2cda8622-bc54-4c13-ba48-0c4990d13e9d",
+      "season": 1,
+      "number": 8,
+      "name": "The Giving Time Is Here",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "83d71f91-532d-4645-a06f-65fc4072f3c2",
+      "season": 1,
+      "number": 9,
+      "name": "I Will Participate",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "df7a4ba9-7aaf-4446-b038-c9c62579797a",
+      "season": 1,
+      "number": 10,
+      "name": "A Nation Reborn",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "ef84ddcb-0f8e-4b1c-9eec-df3c20588266",
+      "season": 2,
+      "number": 1,
+      "name": "This Is Not a Test",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "fc9f68a2-39db-4923-9e70-62be7eec861e",
+      "season": 2,
+      "number": 2,
+      "name": "Everything Is Fine",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "1271a960-0e89-4dfd-9acd-ae34b5a7e115",
+      "season": 2,
+      "number": 3,
+      "name": "Blindspots",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "0261e95c-12a5-4d53-b361-dc3439b74346",
+      "season": 2,
+      "number": 4,
+      "name": "Grief Box",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "35915a97-9ae1-4ad3-abe2-162d4cf34798",
+      "season": 2,
+      "number": 5,
+      "name": "House of Mirrors",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "edb8d5d6-a2f6-4037-a1af-4e34c37ef73c",
+      "season": 2,
+      "number": 6,
+      "name": "Happy Holidays",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "a9c6e191-7209-4dc9-be15-bea483a3dfb4",
+      "season": 2,
+      "number": 7,
+      "name": "Should I Stay or Should I Go",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "341d2534-ba13-4774-bfc5-764659c024e0",
+      "season": 2,
+      "number": 8,
+      "name": "Before the Sirens",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "dbb6441b-0d58-482d-be84-90b892da1e48",
+      "season": 2,
+      "number": 9,
+      "name": "Hail Mary",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "b51b2f82-a7ef-4297-afec-fdfd30395082",
+      "season": 2,
+      "number": 10,
+      "name": "7:01am",
+      "airdate": "2026-10-13"
+    }
+  ]
+}

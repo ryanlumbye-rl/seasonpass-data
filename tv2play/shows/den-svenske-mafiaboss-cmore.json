@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:den-svenske-mafiaboss-cmore",
+  "name": "Den svenske mafiaboss",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "66c9f737-04c3-414b-a3e7-a2d752105413",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "27988dc1-9318-425e-a59f-fb253065477f",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "14c1c92b-0dec-46cd-86a5-d3b15f87ac32",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

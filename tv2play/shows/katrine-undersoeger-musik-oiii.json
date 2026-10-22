@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:katrine-undersoeger-musik-oiii",
+  "name": "Katrine undersøger - musik",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c1cca708-d609-4425-a910-1e488998ddcc",
+      "season": 1,
+      "number": 1,
+      "name": "Blæst - musikvideo",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "49971940-72b0-43e7-924e-8b76f8b489b9",
+      "season": 1,
+      "number": 2,
+      "name": "Lyd - musikvideo",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "b8cb9036-6d43-44d1-898d-72d30708d08f",
+      "season": 1,
+      "number": 3,
+      "name": "Regnbue - musikvideo",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "c0fa0773-c6c2-45c7-9f12-d492dad542a0",
+      "season": 1,
+      "number": 4,
+      "name": "Sten - musikvideo",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "d4d53c7a-edeb-4b3d-ab29-13e12bd499b9",
+      "season": 1,
+      "number": 5,
+      "name": "Flyde og synke - musikvideo",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "070504da-17a8-416d-8a4a-d725ce3edf06",
+      "season": 1,
+      "number": 6,
+      "name": "Ild - musikvideo",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "93d6c1c9-9522-41cb-a752-da1d35db5fe8",
+      "season": 1,
+      "number": 7,
+      "name": "Vand - musikvideo",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "2cac412b-889c-439d-98d7-681850715fe7",
+      "season": 1,
+      "number": 8,
+      "name": "Sæbebobler - musikvideo",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "aa803877-8dc7-42ec-b9c1-b114e4cb2c8b",
+      "season": 1,
+      "number": 9,
+      "name": "Titelsang",
+      "airdate": "2024-09-21"
+    }
+  ]
+}

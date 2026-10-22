@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:stormester-en-chance-til-tv2",
+  "name": "Stormester - en chance til",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "14e04e76-6518-4466-ac5c-f103c01fcc46",
+      "season": 1,
+      "number": 1,
+      "name": "Taberne er tilbage!",
+      "airdate": "2024-03-16"
+    },
+    {
+      "id": "24e703b6-b885-4aba-a513-d1dc3208e351",
+      "season": 1,
+      "number": 2,
+      "name": "Leverpostejsportrættet",
+      "airdate": "2024-03-23"
+    },
+    {
+      "id": "d52262d0-cfc1-4319-a532-828a84276148",
+      "season": 1,
+      "number": 3,
+      "name": "Næseabe",
+      "airdate": "2024-03-30"
+    },
+    {
+      "id": "9478fc4a-ec56-460a-bba7-a230c7327a87",
+      "season": 1,
+      "number": 4,
+      "name": "Asparges",
+      "airdate": "2024-04-06"
+    }
+  ]
+}

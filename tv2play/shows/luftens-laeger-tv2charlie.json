@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:luftens-laeger-tv2charlie",
+  "name": "Luftens læger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1c6a2e43-400e-4fdd-af19-fa31c5884edc",
+      "season": 1,
+      "number": 1,
+      "name": "Den nye læge",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "1eeda276-c23d-4864-bd16-e5ed28c67d54",
+      "season": 1,
+      "number": 2,
+      "name": "Fødsel i ødemarken",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "edbd176e-1562-4e68-8c9e-a5f6fce5578c",
+      "season": 1,
+      "number": 3,
+      "name": "En dreng forsvinder",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "5504d42b-c42c-4aa9-ad1c-3c3e1a0bcac0",
+      "season": 1,
+      "number": 4,
+      "name": "Stormen",
+      "airdate": "2025-11-20"
+    },
+    {
+      "id": "44152a0f-b7ea-4e5c-8b3a-2c5d57bb5b88",
+      "season": 1,
+      "number": 5,
+      "name": "Patienterne slår fra sig",
+      "airdate": "2025-11-21"
+    },
+    {
+      "id": "4c572e1c-dbbe-4a89-9009-02e085392e9b",
+      "season": 1,
+      "number": 6,
+      "name": "Selvmordstruet",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "2839c785-c592-4f66-951b-f0e6a6b592d8",
+      "season": 1,
+      "number": 7,
+      "name": "Fanget under jorden",
+      "airdate": "2025-11-25"
+    },
+    {
+      "id": "2ec192e7-7284-48db-9695-45c710f4fe3c",
+      "season": 1,
+      "number": 8,
+      "name": "Livstruende tilstand",
+      "airdate": "2025-11-26"
+    },
+    {
+      "id": "0a04ceca-d2d9-4044-b330-6e68716e52c7",
+      "season": 2,
+      "number": 1,
+      "name": "Blodigt trafikuheld",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "c6f7a5b5-99cf-43bc-8c91-98db76271b9e",
+      "season": 2,
+      "number": 2,
+      "name": "En vild hemmelighed",
+      "airdate": "2025-11-28"
+    },
+    {
+      "id": "a7fcf59f-ec61-4dfe-b9e6-32b79e0792a0",
+      "season": 2,
+      "number": 3,
+      "name": "Et mystisk tilfælde",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "b956ca02-6576-46a2-b7f9-00272d11567d",
+      "season": 2,
+      "number": 4,
+      "name": "Den forsvundne patient",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "8b8efd8c-7cde-4f98-aa10-45c68ba2364b",
+      "season": 2,
+      "number": 5,
+      "name": "Farlig smitte",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "5ac125e8-64e1-42c2-8042-c78b7f9d04fa",
+      "season": 2,
+      "number": 6,
+      "name": "En kamp mod uret",
+      "airdate": "2025-12-04"
+    },
+    {
+      "id": "fd55b4c7-ec49-4b2b-ae90-a650ced3fcd7",
+      "season": 2,
+      "number": 7,
+      "name": "Farlig fest",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "a51cb0ac-9416-4ac8-9c2c-347a2338d24d",
+      "season": 2,
+      "number": 8,
+      "name": "Katastrofe på åbent hav",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "f613da18-2580-49d8-abe9-6b7b6e57aaed",
+      "season": 3,
+      "number": 1,
+      "name": "Holdet samles igen",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "ae72974d-2f46-40cf-98f7-6425a2ea84ad",
+      "season": 3,
+      "number": 2,
+      "name": "Usikker diagnose",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "869dc899-f1b7-41e4-b056-c79c4ccbec6a",
+      "season": 3,
+      "number": 3,
+      "name": "Et pinligt tilfælde",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "8c727d90-bdcf-4ddd-84d3-6cfef1886fb0",
+      "season": 3,
+      "number": 4,
+      "name": "Dødshjælp",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "e521f735-a7fd-4d6e-b3fd-453bf4d1ba22",
+      "season": 3,
+      "number": 5,
+      "name": "Julen er ikke stille",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "6838f282-00a4-4f8e-afbe-1e381d1d528f",
+      "season": 3,
+      "number": 6,
+      "name": "Tilbage til jorden",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "4d5b18da-42b8-4972-b28f-d373321f7162",
+      "season": 3,
+      "number": 7,
+      "name": "Farlig konfrontation",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "d461e7bd-0548-43ee-b218-2bbff9ded812",
+      "season": 3,
+      "number": 8,
+      "name": "Pligten fremfor alt",
+      "airdate": "2025-12-18"
+    }
+  ]
+}

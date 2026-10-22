@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:agatha-christie-det-foerste-skridt-mod-mord-tv2charlie",
+  "name": "Agatha Christie: Det første skridt mod mord",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ba4e4ab0-1cb5-43e1-93a0-d84ccde63de9",
+      "season": 1,
+      "number": 1,
+      "name": "Gull's Point",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "dad563fc-2004-49eb-a214-db5793ccf1d3",
+      "season": 1,
+      "number": 2,
+      "name": "En dødbringende middag",
+      "airdate": "2025-08-22"
+    },
+    {
+      "id": "fdd84b5a-5235-4b4a-ace0-045c7d99a457",
+      "season": 1,
+      "number": 3,
+      "name": "Hemmelighedernes labyrint",
+      "airdate": "2025-08-29"
+    }
+  ]
+}

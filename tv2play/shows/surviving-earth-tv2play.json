@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:surviving-earth-tv2play",
+  "name": "Surviving Earth",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "16d6d260-27f9-4970-9738-d53723e8fefe",
+      "season": 1,
+      "number": 1,
+      "name": "Da Jorden brændte",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "58eb32d6-f37d-484e-8e07-5f0642520825",
+      "season": 1,
+      "number": 2,
+      "name": "Da klimaet forandrede sig",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "ae146c73-c3ce-4b7d-ba86-4129c83b08e7",
+      "season": 1,
+      "number": 3,
+      "name": "Da asteroiden ramte",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "ac15d384-6a22-429f-9325-03ff692900e2",
+      "season": 1,
+      "number": 4,
+      "name": "Da havene døde",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "3461f1b5-3e84-4063-b9e6-7f6a17825f24",
+      "season": 1,
+      "number": 5,
+      "name": "Da skovene kollapsede",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "a4eae65b-72c4-4632-9224-441ac281eb5b",
+      "season": 1,
+      "number": 6,
+      "name": "Da havene trak sig tilbage",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "d26b553b-d71e-4c46-be51-54185781148e",
+      "season": 1,
+      "number": 7,
+      "name": "Da kontinenterne kolliderede",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "77d7115a-bc93-4cd6-bedb-45e9736ef97a",
+      "season": 1,
+      "number": 8,
+      "name": "Den store oversvømmelse",
+      "airdate": "2026-08-02"
+    }
+  ]
+}

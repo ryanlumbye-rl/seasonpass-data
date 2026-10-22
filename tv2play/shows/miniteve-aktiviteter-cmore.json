@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:miniteve-aktiviteter-cmore",
+  "name": "Miniteve: Aktiviteter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9555485a-61f0-4ab5-b2bf-c289c727045b",
+      "season": 1,
+      "number": 2,
+      "name": "På opdagelse i legeland",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "70dc51fc-476a-457d-99ad-3f09633ac498",
+      "season": 1,
+      "number": 3,
+      "name": "Fodbold",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "2c028d6b-341f-44f1-8eb8-eb2ab487b6e7",
+      "season": 1,
+      "number": 4,
+      "name": "Grimasser",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "5add6288-a361-4252-b25a-b4da58a61316",
+      "season": 1,
+      "number": 5,
+      "name": "Træk trækvognen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1999496e-dbc1-4e4c-a525-ca1250aa4c85",
+      "season": 1,
+      "number": 6,
+      "name": "I puderummet",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "d53e50b5-8334-413f-b2be-246a6c2c9515",
+      "season": 1,
+      "number": 7,
+      "name": "Kaste med bold",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "342fed60-cbeb-4869-b042-a1a6aa174850",
+      "season": 1,
+      "number": 8,
+      "name": "Bage peberkager",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "e0217996-4481-49f1-b604-d59afa3a28f7",
+      "season": 1,
+      "number": 9,
+      "name": "Dans i børnehaven",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1d1faa5e-1bdb-421b-a4a4-ac9fbd4ca951",
+      "season": 1,
+      "number": 10,
+      "name": "Tegne og lægge puslespil",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "07f680f2-8b2c-49ff-b42a-11fbea81b097",
+      "season": 1,
+      "number": 11,
+      "name": "Dreje rundt",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "325668e7-c8db-4f52-b673-0fed08a20f5f",
+      "season": 1,
+      "number": 12,
+      "name": "Sove med sutteflasken i munden",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "0bac768a-cc44-4349-bab7-f1e5290bedc6",
+      "season": 1,
+      "number": 13,
+      "name": "Baby får mad af mor",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "96be567d-5748-430b-ba3e-edd8c35e78e4",
+      "season": 1,
+      "number": 14,
+      "name": "Boldhav",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "447487af-4e73-4367-90dc-ebefca5932d3",
+      "season": 1,
+      "number": 15,
+      "name": "Boldkunst med fødderne",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "e95e75f8-0f62-4f7f-85d5-504582726e8d",
+      "season": 1,
+      "number": 16,
+      "name": "Boldkunst med hovedet",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1a2b0370-bc90-49a3-b103-21da7ff6631b",
+      "season": 1,
+      "number": 17,
+      "name": "Boldkunst siddende",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "f5423198-4202-4b5c-bb98-b7272b99ca3c",
+      "season": 1,
+      "number": 18,
+      "name": "Boldkunst liggende",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "cb375f0c-331a-41ee-b1e4-393f535019d6",
+      "season": 1,
+      "number": 19,
+      "name": "Jonglere med bolde",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "69f914a7-4c76-44fc-9133-9bdd2a58f620",
+      "season": 1,
+      "number": 20,
+      "name": "Jonglere med kegler",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "3167d31d-4574-4bd3-96d7-14c8abdf2569",
+      "season": 1,
+      "number": 21,
+      "name": "Bygge med klodser",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "6e4e823d-8d05-43a5-a2fe-5491f128cd32",
+      "season": 1,
+      "number": 22,
+      "name": "Cykle på ét hjul",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "f5db7eff-d4de-46f1-86c4-0d7b13adbd52",
+      "season": 1,
+      "number": 23,
+      "name": "Indedørs bandy",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "bfdaa277-9d3e-468f-b20d-e4ef165bc708",
+      "season": 1,
+      "number": 24,
+      "name": "Hamre",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "28226e70-3200-4c26-a068-397c1238141d",
+      "season": 1,
+      "number": 25,
+      "name": "Save",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "07cd91c1-511d-442a-8e34-866a6274f432",
+      "season": 1,
+      "number": 26,
+      "name": "Åbne pakke",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "c55c33f3-6d5f-47e7-8976-fe54d110f1cc",
+      "season": 1,
+      "number": 27,
+      "name": "Støvsuge",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "050163be-49b5-48dd-924f-23ec9271b969",
+      "season": 1,
+      "number": 28,
+      "name": "Legeplads",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "8ced1895-4568-4d38-85ce-bb88abcd7dab",
+      "season": 1,
+      "number": 29,
+      "name": "Male med fingerfarve",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "e16f469e-1d6b-41f6-bb4c-35bddbdc71b5",
+      "season": 1,
+      "number": 30,
+      "name": "Børste tænder",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "a68cbca9-ebae-4f6b-bc1e-98fdfc76a57c",
+      "season": 1,
+      "number": 31,
+      "name": "Leg med balloner",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "7ed0d2f5-b65f-4e75-8a0f-95d0814fd32f",
+      "season": 1,
+      "number": 32,
+      "name": "Grine",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "902e0452-2d5b-4d96-b474-541876ce796d",
+      "season": 1,
+      "number": 33,
+      "name": "Legeland",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "ad06fbc4-3b56-434c-a7e1-f8166507936d",
+      "season": 1,
+      "number": 34,
+      "name": "Legeland",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "7c97bc85-682d-422a-9f12-eca07cb67879",
+      "season": 1,
+      "number": 35,
+      "name": "Byggeklodser",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "ea0a5179-013f-48cb-877e-c2e0c6d8499e",
+      "season": 1,
+      "number": 36,
+      "name": "Rutsjebane",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1cdd5aba-ad39-4c0d-9e10-54169fe6ca01",
+      "season": 1,
+      "number": 37,
+      "name": "Byggeleg",
+      "airdate": "2024-02-14"
+    }
+  ]
+}

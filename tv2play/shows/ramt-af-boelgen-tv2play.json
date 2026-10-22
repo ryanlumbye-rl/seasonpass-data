@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:ramt-af-boelgen-tv2play",
+  "name": "Ramt af Bølgen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0256512f-7e57-445d-97ba-de4511a772d9",
+      "season": 1,
+      "number": 1,
+      "name": "Pioneren",
+      "airdate": "2026-05-31"
+    },
+    {
+      "id": "94a4f051-0a05-4e96-9414-3b47653758e0",
+      "season": 1,
+      "number": 2,
+      "name": "Landmanden",
+      "airdate": "2026-05-31"
+    },
+    {
+      "id": "465e2925-013a-42c5-ad76-e7248f8a98cb",
+      "season": 1,
+      "number": 3,
+      "name": "Hestepensionen",
+      "airdate": "2026-05-31"
+    },
+    {
+      "id": "a0e1610d-2d53-403b-a0d8-21e41710a522",
+      "season": 1,
+      "number": 4,
+      "name": "Skovejeren",
+      "airdate": "2026-05-31"
+    }
+  ]
+}

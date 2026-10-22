@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:sussi-uden-leo-tv2nord",
+  "name": "Sussi uden Leo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d0e1b7ee-ebd5-46b0-9dff-7361e49dbb6d",
+      "season": 1,
+      "number": 1,
+      "name": "Leo går bort",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "f5ef7496-3b06-4e4b-838f-eeaf2c12fb52",
+      "season": 1,
+      "number": 2,
+      "name": "Sussi er alene",
+      "airdate": "2023-06-02"
+    },
+    {
+      "id": "05a5d6c2-4e60-4f99-a088-b834f6b5aabe",
+      "season": 1,
+      "number": 3,
+      "name": "Bisættelsen",
+      "airdate": "2023-06-09"
+    },
+    {
+      "id": "04fa12b6-d5e4-4ce9-8e7b-dadcf41126aa",
+      "season": 1,
+      "number": 4,
+      "name": "Sussi og drengene",
+      "airdate": "2023-06-16"
+    },
+    {
+      "id": "822320d0-5a43-45cf-972f-a62b83f5b5a4",
+      "season": 2,
+      "number": 1,
+      "name": "Et nyt kapitel",
+      "airdate": "2024-04-19"
+    },
+    {
+      "id": "873818ee-243e-4366-8681-818870be289f",
+      "season": 2,
+      "number": 2,
+      "name": "Smilende Sussi",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "a88ffdd7-bd7d-4d5b-93e9-dd81f3644768",
+      "season": 2,
+      "number": 3,
+      "name": "Pølser og flæskestegssandwich",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "0db1a562-123c-4c83-9dea-912ee719fc8d",
+      "season": 2,
+      "number": 4,
+      "name": "Verdens ældste entertainer",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "13b73c60-8ceb-44ee-b25c-30af7d98f73f",
+      "season": 2,
+      "number": 5,
+      "name": "Nu med ny hvalp",
+      "airdate": "2024-05-11"
+    },
+    {
+      "id": "1814138d-d16e-4fec-9b56-38c7670021f4",
+      "season": 3,
+      "number": 1,
+      "name": "Vundet i væddemål",
+      "airdate": "2025-06-15"
+    },
+    {
+      "id": "63dc00c0-4630-4fa3-a191-2da0e859966c",
+      "season": 3,
+      "number": 2,
+      "name": "Nytår på klosteret",
+      "airdate": "2025-06-22"
+    },
+    {
+      "id": "b019f48f-9fa7-43eb-a250-7a883c851096",
+      "season": 3,
+      "number": 3,
+      "name": "Steen på udebane",
+      "airdate": "2025-06-29"
+    },
+    {
+      "id": "14f1fc04-a1df-457e-8fe3-a961d70623cb",
+      "season": 3,
+      "number": 4,
+      "name": "Det store bryllup",
+      "airdate": "2025-07-06"
+    }
+  ]
+}

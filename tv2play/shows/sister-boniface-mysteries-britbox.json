@@ -1,0 +1,213 @@
+{
+  "id": "tv2play:sister-boniface-mysteries-britbox",
+  "name": "Sister Boniface Mysteries",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b7a07e03-95bf-446a-978c-0350b7a70508",
+      "season": 1,
+      "number": 1,
+      "name": "Unnatural Causes",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "36686823-20a7-46c4-87e3-d9e42098b086",
+      "season": 1,
+      "number": 2,
+      "name": "Lights, Camera, Murder!",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "9c174e3c-66c6-4500-a901-e28fd8ca2a21",
+      "season": 1,
+      "number": 3,
+      "name": "Love and Other Puzzles",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "b74cec78-90be-42a1-8d44-ee71138fae07",
+      "season": 1,
+      "number": 4,
+      "name": "My Brother's Keeper",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "617a16d2-a504-4289-bc81-5c3fa1723210",
+      "season": 1,
+      "number": 5,
+      "name": "Scoop",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "b719c8f6-011e-4b53-a3ba-86cde9553d85",
+      "season": 1,
+      "number": 6,
+      "name": "Song for the Dead",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "a5314064-67ae-4bfd-b186-4b4ffcae617e",
+      "season": 1,
+      "number": 7,
+      "name": "Dem Bones",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "0183b8f1-7d51-4d64-89cb-4a3260cecea1",
+      "season": 1,
+      "number": 8,
+      "name": "Queen of the Kitchen",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "633eb840-7385-461a-b91b-c36a5d10846e",
+      "season": 1,
+      "number": 9,
+      "name": "Sister Town",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "e18b678a-9c60-42c1-b57c-112a27c092f5",
+      "season": 1,
+      "number": 10,
+      "name": "Crimes and Miss Demeanours",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "625ce28b-8ec9-47c4-8e27-0a0922f8a06d",
+      "season": 2,
+      "number": 1,
+      "name": "Don't Try This At Home",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "9a86e320-7781-4ef2-bf2e-3a7ae0a4ed05",
+      "season": 2,
+      "number": 2,
+      "name": "The Shadow Of Baron Battenburg",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "0ce70bf5-5cf1-4ebc-a985-765286acd15b",
+      "season": 2,
+      "number": 3,
+      "name": "The It Girl",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "6bd131cc-ce79-4b21-a1e5-0bc834f12c3f",
+      "season": 2,
+      "number": 4,
+      "name": "The Book of Shadows",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "197001a7-48ec-4b17-a60e-23b3b4d49265",
+      "season": 2,
+      "number": 5,
+      "name": "St. George's Defence",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "f86eba90-aff0-4edf-a1ca-fe5d1be6d046",
+      "season": 2,
+      "number": 6,
+      "name": "A Tight Squeeze",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "ea209019-1528-4098-8dfa-bf879ecfa288",
+      "season": 2,
+      "number": 7,
+      "name": "Stiff Competition",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "38cf6119-1481-48b5-aa01-49df2bd5970e",
+      "season": 2,
+      "number": 8,
+      "name": "Dead Air",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "303c6e2a-8902-4cbf-adc8-5b0eacbb795a",
+      "season": 2,
+      "number": 9,
+      "name": "Stage Fright",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "4d9b6865-7f0a-4d23-9036-6d60ba9d1395",
+      "season": 2,
+      "number": 10,
+      "name": "Good Samaritan",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "a00c8db7-995d-4703-addf-90db64b6f26b",
+      "season": 3,
+      "number": 1,
+      "name": "Christmas Special 2023",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "eea1f16d-d462-4813-a145-e1b8a63a67b1",
+      "season": 3,
+      "number": 2,
+      "name": "Never Too Deadly to Die",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "de346418-0e96-483f-a687-7a17bb786c6c",
+      "season": 3,
+      "number": 3,
+      "name": "The House of Misfit Dolls",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "4025132c-338a-4e4b-8323-de4788a8ceb9",
+      "season": 3,
+      "number": 4,
+      "name": "Professor Y",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "dde894c8-7f93-4688-948e-46cf2bc6d66d",
+      "season": 3,
+      "number": 5,
+      "name": "A Fragrant Scandal",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "fdf17624-da6f-4cc2-bd11-d606965e6411",
+      "season": 3,
+      "number": 6,
+      "name": "How to Murder a Tune",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "5e3f06f4-7a19-4788-9e0f-db9db0c902ec",
+      "season": 3,
+      "number": 7,
+      "name": "It's Just Not Cricket",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "8b42b563-ae11-4b7c-8bc1-40129c87c985",
+      "season": 3,
+      "number": 8,
+      "name": "A Beautiful World",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "5fbafc64-3727-42c9-b8d9-a999848096a8",
+      "season": 3,
+      "number": 9,
+      "name": "Toast to the Newly Dead",
+      "airdate": "2025-07-16"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:top-dog-cmore",
+  "name": "Top Dog",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a1999d53-8378-4abe-8740-116d4d2fee86",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-29"
+    },
+    {
+      "id": "d89e1aab-5202-4b06-bebc-c95007895dc6",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-29"
+    },
+    {
+      "id": "d14fe6f2-c9bb-49fb-92bd-b834cd9b9e79",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-29"
+    },
+    {
+      "id": "f1ced65e-217d-48da-84f9-3444aba5f624",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-06-12"
+    },
+    {
+      "id": "953ad6e8-dd61-4403-b01e-6fbeccc59a87",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-06-12"
+    },
+    {
+      "id": "badaefcd-da2c-4532-b096-008f57d62335",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-07-05"
+    }
+  ]
+}

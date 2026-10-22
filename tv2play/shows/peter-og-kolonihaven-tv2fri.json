@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:peter-og-kolonihaven-tv2fri",
+  "name": "Peter og kolonihaven",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "64e45f63-05bf-4d17-b705-ce19b04634ab",
+      "season": 1,
+      "number": 1,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-03-06"
+    },
+    {
+      "id": "ae4e209c-fbad-4bba-b489-f26eed45a55b",
+      "season": 1,
+      "number": 2,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-03-13"
+    },
+    {
+      "id": "a02a1c0f-a60e-4e91-9126-bc9adcd9d661",
+      "season": 1,
+      "number": 3,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-03-20"
+    },
+    {
+      "id": "457e6b52-67dd-4e98-bbe8-c78faa55faab",
+      "season": 1,
+      "number": 4,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-03-27"
+    },
+    {
+      "id": "5bb5ca13-f1aa-48ae-95bd-4a7da424e7a8",
+      "season": 1,
+      "number": 5,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-04-03"
+    },
+    {
+      "id": "c9a338dc-21d7-4277-8338-48620e248ad6",
+      "season": 1,
+      "number": 6,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-04-10"
+    },
+    {
+      "id": "bb51be70-5e2f-483c-9b89-961728be689e",
+      "season": 1,
+      "number": 7,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-04-17"
+    },
+    {
+      "id": "7538a972-a913-4fd3-a260-54255c0fb22d",
+      "season": 1,
+      "number": 8,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-04-24"
+    },
+    {
+      "id": "bf2f2ff6-9049-4d2b-9ed9-9588c0830585",
+      "season": 1,
+      "number": 9,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-05-01"
+    },
+    {
+      "id": "849d1f63-ecfc-4fd3-a8df-ecaebf5b4ce1",
+      "season": 1,
+      "number": 10,
+      "name": "Fra flyd til fryd på tre måneder",
+      "airdate": "2014-05-08"
+    }
+  ]
+}

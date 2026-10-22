@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:madame-blanc-antik-og-mord-tv2charlie",
+  "name": "Madame Blanc - antik og mord",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ef5522f0-6f2c-4592-8b51-37a98a914bf8",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-02-06"
+    },
+    {
+      "id": "bf6a0cc5-8c4d-48f3-87d6-8798827e99c8",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-02-13"
+    },
+    {
+      "id": "9aa9fdd1-34a7-4ff4-9590-a9c407ed493f",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-02-20"
+    },
+    {
+      "id": "73c0a7f5-e170-438c-8032-6a935697a68c",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-02-27"
+    },
+    {
+      "id": "40e3019b-83c6-42ec-962f-52e22f48834e",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-03-05"
+    },
+    {
+      "id": "e07919c7-c558-45a1-b157-677944f8dea0",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-03-12"
+    },
+    {
+      "id": "85ec03e0-89bc-416b-ac7f-471b6e5b3797",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-11"
+    },
+    {
+      "id": "15883a6b-061a-4719-b7dd-4ebc8f33e468",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "e7c18035-09e4-46ad-bf4f-2513cfe65ffa",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-02-25"
+    },
+    {
+      "id": "bf19d7ee-a2ce-4507-8efc-afcc6981a102",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "696cfcd0-866f-465f-8f29-bd8887042341",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-03-11"
+    },
+    {
+      "id": "f40ab6c5-fc67-4497-a65f-3588ae1bc7b3",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "e8c31f4b-3ef0-4440-ba10-1350ae35ab46",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-03-25"
+    },
+    {
+      "id": "9ba32991-bb74-4f9c-9f4c-bfce3197f5ad",
+      "season": 3,
+      "number": 1,
+      "name": "Julespecial",
+      "airdate": "2025-06-30"
+    },
+    {
+      "id": "87e5044f-b773-43fe-9782-88a64680cc73",
+      "season": 3,
+      "number": 2,
+      "name": "Havet",
+      "airdate": "2025-07-01"
+    },
+    {
+      "id": "c1cc54e3-3c11-472e-8f05-7f213b7a91ff",
+      "season": 3,
+      "number": 3,
+      "name": "Duellen",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "8ffd8f3d-049b-443e-9b51-b049fcf291fa",
+      "season": 3,
+      "number": 4,
+      "name": "Sjakalen",
+      "airdate": "2025-07-03"
+    },
+    {
+      "id": "a03884c9-6934-45f5-9faa-60c08f7ae1b5",
+      "season": 3,
+      "number": 5,
+      "name": "Mode",
+      "airdate": "2025-07-08"
+    },
+    {
+      "id": "d1500e1e-b613-437c-a8d8-269ca70399db",
+      "season": 3,
+      "number": 6,
+      "name": "Kidnappet",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "fe65042d-cde9-415b-8996-c4868e81cfe1",
+      "season": 3,
+      "number": 7,
+      "name": "Vinduer",
+      "airdate": "2025-07-10"
+    }
+  ]
+}

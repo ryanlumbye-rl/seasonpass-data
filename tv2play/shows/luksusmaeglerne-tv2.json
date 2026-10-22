@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:luksusmaeglerne-tv2",
+  "name": "Luksusmæglerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f1b76606-3ece-419b-823b-09997547ad28",
+      "season": 1,
+      "number": 1,
+      "name": "Direktørvilla til 40 millioner pund",
+      "airdate": "2022-07-06"
+    },
+    {
+      "id": "e865b599-ad06-4843-9aaf-596ece763b7f",
+      "season": 1,
+      "number": 2,
+      "name": "Et kæmpe palæ",
+      "airdate": "2022-07-06"
+    },
+    {
+      "id": "b66f6a3e-7e99-4865-8de5-534237f92043",
+      "season": 1,
+      "number": 3,
+      "name": "En villa på milliardærvej",
+      "airdate": "2022-07-13"
+    },
+    {
+      "id": "772faccd-8fe5-4c47-8edf-e2981a80f464",
+      "season": 1,
+      "number": 4,
+      "name": "En fantastisk filmejendom",
+      "airdate": "2022-07-20"
+    },
+    {
+      "id": "88b788b1-8f01-4c2d-bf04-0918088bd51b",
+      "season": 1,
+      "number": 5,
+      "name": "Strandvilla på Barbados",
+      "airdate": "2022-07-27"
+    },
+    {
+      "id": "7209896b-8ed9-42ac-8c24-5ff2239c6112",
+      "season": 3,
+      "number": 1,
+      "name": "Luksuriøs penthouse",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "53e94351-9e0b-453d-b4d7-d2ee111421fd",
+      "season": 3,
+      "number": 2,
+      "name": "Dobbelt salær",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "27b6dbd4-0c7b-4ee4-ac78-0dab390f19ef",
+      "season": 3,
+      "number": 3,
+      "name": "Imponerende landejendom",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "8b76beca-6b84-456b-85bb-d5b5e972d848",
+      "season": 3,
+      "number": 4,
+      "name": "Familiehus til ni millioner pund",
+      "airdate": "2025-08-29"
+    },
+    {
+      "id": "bc524c3f-5f6a-4e82-ac07-158fc9929616",
+      "season": 3,
+      "number": 5,
+      "name": "Palæet ved Park Lane",
+      "airdate": "2025-09-01"
+    },
+    {
+      "id": "ecad4f7d-83b0-4d2b-824a-8c7a5a7b637c",
+      "season": 3,
+      "number": 6,
+      "name": "Eget pladestudie",
+      "airdate": "2025-09-02"
+    },
+    {
+      "id": "2ffde6be-61ff-4e93-86a7-777139455d14",
+      "season": 3,
+      "number": 7,
+      "name": "En indbringende renovering",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "aae12142-12a4-4801-a0c6-51a9a94f160f",
+      "season": 3,
+      "number": 8,
+      "name": "Indendørs spa og imponerende udsigt",
+      "airdate": "2025-09-04"
+    }
+  ]
+}

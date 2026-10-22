@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:belgravia-the-next-chapter-tv2play",
+  "name": "Belgravia: The Next Chapter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c4f7dcd4-b95b-4325-b560-3292d29ddd85",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "fb6ddc97-ec0d-4649-9b51-a8e2f58c2095",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "93fadaa1-966e-4449-906b-e9da909f97e0",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "4d7c0c32-8f49-44e9-9819-e041cc4a89d0",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "1545abfa-ec36-4c96-8dd1-85562114bd7f",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "17e0e1d4-c0b6-41a5-8430-817d58ff3e9b",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "f855c09b-c990-4c65-bdfd-8550d307e10a",
+      "season": 1,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "13845c7f-ef6d-498c-a0de-1c9239d7a8f5",
+      "season": 1,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2026-08-13"
+    }
+  ]
+}

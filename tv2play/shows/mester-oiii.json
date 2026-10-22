@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:mester-oiii",
+  "name": "Mester",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5f0ba3d8-646e-4cb9-80c4-315fd210f2e0",
+      "season": 1,
+      "number": 1,
+      "name": "Mester flytter ind",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "a8f59779-8760-4eff-ab09-0fcae075ad62",
+      "season": 1,
+      "number": 2,
+      "name": "Et hundeliv",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "b0053375-bacb-42f9-8f80-20ae7ad3b485",
+      "season": 1,
+      "number": 3,
+      "name": "Aben og skildpadden",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "cb405e5a-5b7f-4b35-8168-aa627fb06249",
+      "season": 1,
+      "number": 4,
+      "name": "En ven på besøg",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "917cfa81-7bc1-4d2a-8816-973742314244",
+      "season": 1,
+      "number": 5,
+      "name": "Katteballade",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "12ceacf5-1854-4eb0-a750-b75def9850eb",
+      "season": 1,
+      "number": 6,
+      "name": "Mester er forelsket",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "d4569ba8-3ff4-43b1-8b0b-8731dd6b1fb4",
+      "season": 1,
+      "number": 7,
+      "name": "Mesters hvalpe",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "70674f12-0e75-4ed4-b8e8-f4c892c55402",
+      "season": 1,
+      "number": 8,
+      "name": "Mester som kat",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "7666146e-85f1-41ba-9d0f-084e5b263af8",
+      "season": 1,
+      "number": 9,
+      "name": "Den forsigtige mand",
+      "airdate": "2022-07-16"
+    },
+    {
+      "id": "d8571422-607e-4854-9911-659fcaa840c4",
+      "season": 1,
+      "number": 10,
+      "name": "Dagens helt",
+      "airdate": "2022-07-16"
+    }
+  ]
+}

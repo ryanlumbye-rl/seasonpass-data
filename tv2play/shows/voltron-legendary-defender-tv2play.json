@@ -1,0 +1,556 @@
+{
+  "id": "tv2play:voltron-legendary-defender-tv2play",
+  "name": "Voltron: Legendary Defender",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d902a1c1-e4ff-4cdf-8019-22155f1547a1",
+      "season": 1,
+      "number": 1,
+      "name": "Den nye alliance",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "074b74b0-43ef-4428-927d-92e58a5cbd29",
+      "season": 1,
+      "number": 2,
+      "name": "Fra en svunden tid",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "3a222afb-5da9-4b48-a5bf-101eb4aa586c",
+      "season": 1,
+      "number": 3,
+      "name": "Universets forsvarere",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "95800545-e7c5-451c-92df-0c18e73a1941",
+      "season": 1,
+      "number": 4,
+      "name": "Samarbejde nødvendigt",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "85ba2b6b-f4c3-4a84-bf59-9c45fc5b3ff4",
+      "season": 1,
+      "number": 5,
+      "name": "Gladiatoren vender tilbage",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "648b007e-f83b-4d33-97a2-8b44bba87a05",
+      "season": 1,
+      "number": 6,
+      "name": "Løveslottets fald",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "b620637c-5ba9-4661-8cef-482ed4c9ac6e",
+      "season": 1,
+      "number": 7,
+      "name": "Balmeras tårer",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "e5f42e84-0880-454f-acbe-4b630891833e",
+      "season": 1,
+      "number": 8,
+      "name": "På flugt",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "881406f4-a380-4040-bd22-0e796676b1e8",
+      "season": 1,
+      "number": 9,
+      "name": "Tilbage til Balmera",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "4f7a6bd7-bcbb-425a-8529-e0273736791b",
+      "season": 1,
+      "number": 10,
+      "name": "Genfødsel",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "74c74b88-2cc2-4261-8816-aea513452719",
+      "season": 1,
+      "number": 11,
+      "name": "Farlig krystal",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "e0cb41b7-93cc-474c-ab0b-b12da71b2c9a",
+      "season": 1,
+      "number": 12,
+      "name": "Indsamling og udvinding",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "4449440b-3bac-4f15-bde9-fcc9cc1dd231",
+      "season": 1,
+      "number": 13,
+      "name": "Den sorte paladiner",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "73345bfa-4186-417c-9b6d-520ca427e0bf",
+      "season": 1,
+      "number": 14,
+      "name": "Tværs gennem universet",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "36241991-9721-4969-adc0-3c91077d61d5",
+      "season": 1,
+      "number": 15,
+      "name": "Dybder",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "182bf5f9-612f-4838-be36-183f4101aa37",
+      "season": 1,
+      "number": 16,
+      "name": "Shiros flugt",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "40fe0b7f-b55e-4133-923a-0c652aef5cbf",
+      "season": 1,
+      "number": 17,
+      "name": "At gøre Cube grønnere",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "819c038c-5bc6-4f8c-8c0d-8768538157a8",
+      "season": 1,
+      "number": 18,
+      "name": "Stormens øje",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "84adc003-ab9f-44d9-ae52-864c43bac2e4",
+      "season": 1,
+      "number": 19,
+      "name": "Taujeers Ark",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "6d38f0e4-1cdb-4092-bc1b-31066c57d9e4",
+      "season": 1,
+      "number": 20,
+      "name": "Indkøbscenter i rummet",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "93bdad59-475d-4626-8a4b-36c5da084118",
+      "season": 1,
+      "number": 21,
+      "name": "Marmoras klinge",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "e009c202-6257-475f-98bf-b99fea6613aa",
+      "season": 1,
+      "number": 22,
+      "name": "Weblums bug",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "39141bec-af0a-473a-b8a1-cd60340d40f2",
+      "season": 1,
+      "number": 23,
+      "name": "Flugten fra Beta Traz",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "3435d78b-91b1-4746-9d05-743afd54b83e",
+      "season": 1,
+      "number": 24,
+      "name": "Hold dig i live",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "7d38dd0d-384d-4d1b-94b2-971ba3e6d550",
+      "season": 1,
+      "number": 25,
+      "name": "De bedste planer",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "bd140227-8b5b-4ea6-aafe-bb79ac65d70f",
+      "season": 1,
+      "number": 26,
+      "name": "Blackout",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "005a2278-feb8-4f2e-92a8-6f2e060d93be",
+      "season": 2,
+      "number": 1,
+      "name": "Vagtskifte",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "c85183c7-122e-48d3-91f8-f0d4e70de4d5",
+      "season": 2,
+      "number": 2,
+      "name": "Den røde paladin",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "b5c636a9-fa2e-4757-81fb-ce3c309ed8b3",
+      "season": 2,
+      "number": 3,
+      "name": "Den jagede",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "d0508e3f-11d9-4178-8aae-40147d303ad8",
+      "season": 2,
+      "number": 4,
+      "name": "Hul i himlen",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "e6b7cc0c-e602-4909-9095-c4cf7e3d4689",
+      "season": 2,
+      "number": 5,
+      "name": "Rejsen",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "4853a5f2-62db-4c50-826f-49b3815511b5",
+      "season": 2,
+      "number": 6,
+      "name": "I halen på en komet",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "9d00faf8-06d4-4af2-9e95-fc10ccf3d498",
+      "season": 2,
+      "number": 7,
+      "name": "Legenden begynder",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "f9c45888-51dd-4ae1-a79c-90c801ef6931",
+      "season": 2,
+      "number": 8,
+      "name": "Æreskodeks",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "0480489e-4c0e-4eea-8f1f-72300aeeeda7",
+      "season": 2,
+      "number": 9,
+      "name": "Genforening",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "e511b139-6c69-41e5-bf49-45629be07c6b",
+      "season": 2,
+      "number": 10,
+      "name": "Det sorte sted",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "7c60bf3c-1ca8-4cdc-92a8-79b494fa6430",
+      "season": 2,
+      "number": 11,
+      "name": "Voltron-showet",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "74cbc1f8-59db-4d09-afb4-85931a5eb8e3",
+      "season": 2,
+      "number": 12,
+      "name": "Offensiv",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "734d1314-b21c-4be5-993c-d0b06bca2473",
+      "season": 2,
+      "number": 13,
+      "name": "En ny forsvarer",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "088f5176-509a-4d8b-b484-aeb0990a14e0",
+      "season": 2,
+      "number": 14,
+      "name": "Fangen",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "ea4310f7-b962-4ad4-aee8-998b6715a9d9",
+      "season": 2,
+      "number": 15,
+      "name": "Blodduel",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "70124406-cd2d-4634-ac17-a70efb1df4f5",
+      "season": 2,
+      "number": 16,
+      "name": "Postmortem",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "3fa2fb10-0aef-411f-88a7-aa88dc16f5f9",
+      "season": 2,
+      "number": 17,
+      "name": "Kral Zera",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "5c46fbb7-661b-4811-8c45-5b83914dffe0",
+      "season": 2,
+      "number": 18,
+      "name": "Blodlinjer",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "8404dd8e-954d-440d-b94a-d78f07a9fc74",
+      "season": 2,
+      "number": 19,
+      "name": "Den hvide løve",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "0e086414-5dd9-46d3-a485-e36b195010e1",
+      "season": 2,
+      "number": 20,
+      "name": "Omega-skjoldet",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "8f5960d6-9da3-48ba-9ab9-3f77dea18f0c",
+      "season": 2,
+      "number": 21,
+      "name": "På en knivsæg",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "384ac8fe-d769-4e77-b821-287d93dbca58",
+      "season": 2,
+      "number": 22,
+      "name": "Monstre og Mana",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "fb76e6fa-af01-4cbe-9a8f-7da8e86b0b13",
+      "season": 2,
+      "number": 23,
+      "name": "Kolonien",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "9ae7d65a-d75d-44ca-b70b-8fb9a668a03a",
+      "season": 2,
+      "number": 24,
+      "name": "De sorte paladiner",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "11901665-0909-4e15-8e3f-f7c8756b1163",
+      "season": 2,
+      "number": 25,
+      "name": "Alle gode ting",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "95f788fe-4212-4f97-b345-03d846075196",
+      "season": 2,
+      "number": 26,
+      "name": "Alle universers beskytter",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "0e7da506-2037-4f02-87bc-093d21b6d08e",
+      "season": 3,
+      "number": 1,
+      "name": "Et lille eventyr",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "cc83e813-504d-4a47-8fdc-d190cf2dfb39",
+      "season": 3,
+      "number": 2,
+      "name": "Vejen hjem",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "0eb47394-b89a-4d78-b72d-9a30d55a80d3",
+      "season": 3,
+      "number": 3,
+      "name": "Vejen frem",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "1369396f-ec9f-416a-be6d-799fc21bf263",
+      "season": 3,
+      "number": 4,
+      "name": "Fejden!",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "80031c99-f63d-44a0-be9e-9c8945397eae",
+      "season": 3,
+      "number": 5,
+      "name": "Ruinerne",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "33b60a13-865f-4756-a974-8921004150e8",
+      "season": 3,
+      "number": 6,
+      "name": "Den indre rejse",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "856fcc73-650f-436b-9eb2-576a379f298f",
+      "season": 3,
+      "number": 7,
+      "name": "Den sidste kamp - del 1",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "eb1c1915-fec9-47f3-b586-9ef641185874",
+      "season": 3,
+      "number": 8,
+      "name": "Den sidste kamp - del 2",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "6290824a-335a-4d7d-8a8a-63652cbb8c29",
+      "season": 3,
+      "number": 9,
+      "name": "Kend din fjende",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "f7905726-17b3-4534-8673-e74b95e68a04",
+      "season": 3,
+      "number": 10,
+      "name": "Løvens hjerte",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "04ca1fef-d8d7-45e9-897c-b3e27e9d8c08",
+      "season": 3,
+      "number": 11,
+      "name": "Ildprøve",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "f61239f9-8461-45b3-81c0-69d65f6dd4a2",
+      "season": 3,
+      "number": 12,
+      "name": "Løvestolt - del 1",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "32edc207-d01c-4fc2-b3b5-a4c6c8a1c28c",
+      "season": 3,
+      "number": 13,
+      "name": "Løvestolt - del 2",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "76785977-61af-401b-9b9d-9e7e9b8e63e8",
+      "season": 3,
+      "number": 14,
+      "name": "Opsendelsesdato",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "63aade36-d2ba-4fa7-bcab-a6a36c605948",
+      "season": 3,
+      "number": 15,
+      "name": "Skygger",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "afbd293c-2de4-4379-beed-1fbb4adcff12",
+      "season": 3,
+      "number": 16,
+      "name": "Fangens dilemma",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "cd0dc77b-f436-4428-94d3-de3d47aac6d5",
+      "season": 3,
+      "number": 17,
+      "name": "Kampskader",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "ac53af7d-f483-41c7-98b8-aa16bea34829",
+      "season": 3,
+      "number": 18,
+      "name": "Skyldfølelsen",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "04c15a52-ba7a-4294-b9d9-7a1925c65418",
+      "season": 3,
+      "number": 19,
+      "name": "Skabelsen",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "7536c640-8612-4c62-b913-ac3a2edebe51",
+      "season": 3,
+      "number": 20,
+      "name": "Dag 47",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "154d61f9-b321-4967-ac53-f2cfeb8a575e",
+      "season": 3,
+      "number": 21,
+      "name": "Festen",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "898f031b-dcb7-4ee9-8221-cf9586d3ac94",
+      "season": 3,
+      "number": 22,
+      "name": "Lysets riddere - del 1",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "9b3b3205-69f4-42a7-b02e-8aeefdb37aac",
+      "season": 3,
+      "number": 23,
+      "name": "Lysets riddere - del 2",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "0a3c8bc8-79b2-4ba1-bd68-4426ef61367f",
+      "season": 3,
+      "number": 24,
+      "name": "Ukendte egne",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "32ac371f-aaa4-44e5-9880-f4c20f0fa114",
+      "season": 3,
+      "number": 25,
+      "name": "Zenith",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "b84dcd02-eaf1-4d2c-b413-d16e6c0e9e79",
+      "season": 3,
+      "number": 26,
+      "name": "Enden er begyndelsen",
+      "airdate": "2026-10-10"
+    }
+  ]
+}

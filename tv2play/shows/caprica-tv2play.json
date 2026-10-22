@@ -1,0 +1,143 @@
+{
+  "id": "tv2play:caprica-tv2play",
+  "name": "Caprica",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e30fd1ad-7a2d-4775-92af-4fff9972a795",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot - Del 1",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "c12d57e1-9de4-436b-85fb-385583620a2f",
+      "season": 1,
+      "number": 2,
+      "name": "Pilot - Del 2",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "7df1577d-2090-4bff-813b-ade62333880d",
+      "season": 1,
+      "number": 3,
+      "name": "Rebirth",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "f4e61f83-fd1b-45a7-bd9a-bbeebbf9e68b",
+      "season": 1,
+      "number": 4,
+      "name": "The Reins of a Waterfall",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "ac3b0c24-6d60-46cb-81d1-eaf3f07c7788",
+      "season": 1,
+      "number": 5,
+      "name": "Gravedancing",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "acf8a10f-e1de-42fb-8f41-e5fbe28cb14a",
+      "season": 1,
+      "number": 6,
+      "name": "There Is Another Sky",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "6761115e-b681-40d2-a414-57830eaf8016",
+      "season": 1,
+      "number": 7,
+      "name": "Know Thy Enemy",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "a4f91e64-20d5-467f-ba47-d7645ed8446f",
+      "season": 1,
+      "number": 8,
+      "name": "The Imperfections of Memory",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "92b86d2a-3cbd-48d2-8645-1dbed8f8c289",
+      "season": 1,
+      "number": 9,
+      "name": "Ghosts in the Machine",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "d6800016-1511-46f7-a4cb-3fd435f4092e",
+      "season": 1,
+      "number": 10,
+      "name": "End of Line",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "6d309658-7422-4c1e-8dac-e9097f3ac9db",
+      "season": 1,
+      "number": 11,
+      "name": "Unvanquished",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "da926c1b-dc67-41ab-b3a7-1100e9fa87d4",
+      "season": 1,
+      "number": 12,
+      "name": "Retribution",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "42516bae-761c-45d2-8340-0b6cf5a9009c",
+      "season": 1,
+      "number": 13,
+      "name": "Things We Lock Away",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "abc86101-2307-45f6-955b-2f8f9ac8b91e",
+      "season": 1,
+      "number": 14,
+      "name": "False Labor",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "06ddb335-741b-428e-a7ff-e726f2aa7d82",
+      "season": 1,
+      "number": 15,
+      "name": "Blowback",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "06c7eba8-12f8-4754-ade6-b570f6e0128f",
+      "season": 1,
+      "number": 16,
+      "name": "The Dirteaters",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "369fe002-4988-48b0-8def-dda2bdc2c271",
+      "season": 1,
+      "number": 17,
+      "name": "The Heavens Will Rise",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "1f1bb80b-c48f-477f-861b-a18c0d8e2f0b",
+      "season": 1,
+      "number": 18,
+      "name": "Here Be Dragons",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "742f9a62-590b-44b9-8393-70fa600f0567",
+      "season": 1,
+      "number": 19,
+      "name": "Apotheosis",
+      "airdate": "2026-09-10"
+    }
+  ]
+}

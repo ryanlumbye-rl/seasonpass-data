@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:spoerg-baeltetasken-oiii",
+  "name": "Spørg bæltetasken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "713eab85-d1ef-442d-8a1f-66234761320d",
+      "season": 1,
+      "number": 1,
+      "name": "Tisser i vandet",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "b2247575-6db1-41c0-a465-e00cba9f1ea0",
+      "season": 1,
+      "number": 2,
+      "name": "Mors prutter",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "34ed22c2-2f87-4972-b838-cab1443df93a",
+      "season": 1,
+      "number": 3,
+      "name": "Jeg keder mig",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "f964f673-5f69-4107-be09-6610f4fc05f3",
+      "season": 1,
+      "number": 4,
+      "name": "Engelsklærer Jørgen",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "786c5510-350b-49f1-8d0a-03d732194e3e",
+      "season": 1,
+      "number": 5,
+      "name": "Fortnite crash",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "7d8af36e-d13f-4b88-878b-14aa98d375d0",
+      "season": 1,
+      "number": 6,
+      "name": "Forældre",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "72f9b4dd-de5d-49b5-b7fb-e9a8aabd0d64",
+      "season": 1,
+      "number": 7,
+      "name": "Preben",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "f796f3f6-ba82-4279-adf0-dba53757552e",
+      "season": 1,
+      "number": 8,
+      "name": "Bestik med slik",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "b6c673f0-ed7d-4518-9932-19b260dbd41d",
+      "season": 1,
+      "number": 10,
+      "name": "Sveder meget",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "4f9184c1-fbf1-40cd-a304-ee832dd39a52",
+      "season": 1,
+      "number": 11,
+      "name": "Ny lillebror",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "e68a8d47-0fb0-4393-b8f3-caf64df1b9cf",
+      "season": 1,
+      "number": 12,
+      "name": "B!#*?%!",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "5e8b6ba3-8f67-4b2d-8aba-16cf7d22b74b",
+      "season": 1,
+      "number": 13,
+      "name": "Monster",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "1eba556c-5d84-4226-ba44-3c25f9b0099d",
+      "season": 1,
+      "number": 14,
+      "name": "Pinlig ven",
+      "airdate": "2021-01-16"
+    }
+  ]
+}

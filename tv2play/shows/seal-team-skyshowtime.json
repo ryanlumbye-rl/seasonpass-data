@@ -1,0 +1,549 @@
+{
+  "id": "tv2play:seal-team-skyshowtime",
+  "name": "SEAL Team",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bfae09df-5e5f-4adb-9e1e-c3ad524474a4",
+      "season": 1,
+      "number": 1,
+      "name": "Tip of the Spear",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "86b4d637-a64f-465e-9646-6ab60ae10119",
+      "season": 1,
+      "number": 2,
+      "name": "Other Lives",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "87ff6614-1f76-4622-bb35-4f8d68b4f739",
+      "season": 1,
+      "number": 3,
+      "name": "Boarding Party",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ca1bdfff-a9b8-49c8-badc-ea8bab09fdd3",
+      "season": 1,
+      "number": 4,
+      "name": "Ghosts of Christmas Future",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "628cef26-2086-4eb0-9d49-9836b8f50c2e",
+      "season": 1,
+      "number": 5,
+      "name": "Collapse",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a1b69c3d-e7b5-423f-bf8d-6c063efcbcc0",
+      "season": 1,
+      "number": 6,
+      "name": "The Spinning Wheel",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "17f0ff78-bb90-47fd-8c8b-ec286ded0c0f",
+      "season": 1,
+      "number": 7,
+      "name": "Borderlines",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3975f3d1-9bbc-46d3-aece-bb4e6faa664f",
+      "season": 1,
+      "number": 8,
+      "name": "The Exchange",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4f716c37-d63c-4dba-b5a1-de6cfb5d027c",
+      "season": 1,
+      "number": 9,
+      "name": "Rolling Dark",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "48f3b0ae-0a47-473e-bb89-8532b4e1cdcf",
+      "season": 1,
+      "number": 10,
+      "name": "Pattern of Life",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4c0e619e-34e4-4c20-9e26-1a64289547b2",
+      "season": 1,
+      "number": 11,
+      "name": "Containment",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f8baf749-e3ee-4217-a88f-176b81b63149",
+      "season": 1,
+      "number": 12,
+      "name": "The Upside Down",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "10fc0fcc-5e8a-4607-b87c-c129413fb170",
+      "season": 1,
+      "number": 13,
+      "name": "Getaway Day",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "00e3b04c-b624-4b80-8ddf-6c3927458144",
+      "season": 1,
+      "number": 14,
+      "name": "Call Out",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "eab0a8df-b8de-4e66-8440-84a9e3e714a7",
+      "season": 1,
+      "number": 15,
+      "name": "No Man's Land",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "311c562d-d3ec-4c07-a0bb-62b3cc40f637",
+      "season": 1,
+      "number": 16,
+      "name": "Never Get Out of the Boat",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d221f907-a21a-4d18-8d44-fe60a4d927f2",
+      "season": 1,
+      "number": 17,
+      "name": "In Name Only",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c243a852-a61e-42ee-967a-079cdff5588b",
+      "season": 1,
+      "number": 18,
+      "name": "Credible Threat",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ee5b720d-c14a-42ef-b916-cb9c99fa0845",
+      "season": 1,
+      "number": 19,
+      "name": "Takedown",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "46becc32-0ca9-445d-b9de-ee8f88b71b52",
+      "season": 1,
+      "number": 20,
+      "name": "Enemy of My Enemy",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "89b0a0f2-40a6-4cfe-a472-1e853f340b3e",
+      "season": 1,
+      "number": 21,
+      "name": "The Graveyard of Empires",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1a49db3d-eb45-49b6-b305-e86634431f92",
+      "season": 1,
+      "number": 22,
+      "name": "The Cost of Doing Business",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "feeb0692-1760-4f3f-bde5-fbe49d0a8a5f",
+      "season": 2,
+      "number": 1,
+      "name": "Fracture",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "80c87d58-b4f5-4af2-aa45-f337a67ef60b",
+      "season": 2,
+      "number": 2,
+      "name": "Never Say Die",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "32515b53-6fba-4f35-81e7-65335b7130ef",
+      "season": 2,
+      "number": 3,
+      "name": "The Worst of Conditions",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "688c7826-209c-4310-826e-984dd6550fb1",
+      "season": 2,
+      "number": 4,
+      "name": "All That Matters",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "183ecfaf-e001-4098-b1f5-af885f26d843",
+      "season": 2,
+      "number": 5,
+      "name": "Say Again Your Last",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "6b80324c-4f31-4403-9a0c-af056b37838c",
+      "season": 2,
+      "number": 6,
+      "name": "Hold What You Got",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "20402c72-5ee8-48d3-9b25-1afd16352a15",
+      "season": 2,
+      "number": 7,
+      "name": "Outside the Wire",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "52119be0-70a4-493c-8e3e-3b4e5cbe0090",
+      "season": 2,
+      "number": 8,
+      "name": "Parallax",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "fbd1e0d3-fd47-48ec-b50e-0ef3219dc402",
+      "season": 2,
+      "number": 9,
+      "name": "Santa Muerte",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "38ad1ff8-d4c2-4b42-8d67-f0ee102c9060",
+      "season": 2,
+      "number": 10,
+      "name": "Prisoner's Dilemma",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "9ba1194b-5313-46bf-8f37-e2227c174f60",
+      "season": 2,
+      "number": 11,
+      "name": "Backwards in High Heels",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "f460a77e-12f7-448e-979d-39ae3bf83d7f",
+      "season": 2,
+      "number": 12,
+      "name": "Things Not Seen",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "eb04a060-9bd0-4788-930d-098bc1b8dd40",
+      "season": 2,
+      "number": 13,
+      "name": "Time to Shine",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "9d1743a3-8000-42bb-bdd1-1c38a1a3ea83",
+      "season": 2,
+      "number": 14,
+      "name": "What Appears to Be",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "2bd9c228-9cf9-4891-8b1a-e3a2a2ca7be4",
+      "season": 2,
+      "number": 15,
+      "name": "You Only Die Once",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "81fb664d-1226-4e1e-ba63-5ebf7ba3ef8f",
+      "season": 2,
+      "number": 16,
+      "name": "Dirt, Dirt, Gucci",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "546f8fb6-b2e5-4609-8e95-1d4bd0e18d37",
+      "season": 2,
+      "number": 17,
+      "name": "Paradise Lost",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "e1b07ef6-db55-4bfb-92df-a41e08dab349",
+      "season": 2,
+      "number": 18,
+      "name": "Payback",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "333aabcc-1b85-496a-a2ce-f86b1c2abf68",
+      "season": 2,
+      "number": 19,
+      "name": "Medicate and Isolate",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "03d50536-16e5-4e2f-8139-f5da5131303d",
+      "season": 2,
+      "number": 20,
+      "name": "Rock Bottom",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "d94b1eb4-43d5-45b5-b3a5-dababcf7c094",
+      "season": 2,
+      "number": 21,
+      "name": "My Life for Yours",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "ac11c4dd-2e35-4f19-8c23-bebf84cf5d19",
+      "season": 2,
+      "number": 22,
+      "name": "Never Out of the Fight",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "20fbd9f4-0e51-44b9-8514-c90817fff88c",
+      "season": 3,
+      "number": 1,
+      "name": "Welcome to the Refuge",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "d8456a8f-4ca3-4cd3-b416-1d76ce0d178c",
+      "season": 3,
+      "number": 2,
+      "name": "Ignore and Override",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "72ee5f1d-61d1-4321-a19f-1a92a4f33e75",
+      "season": 3,
+      "number": 3,
+      "name": "Theory and Methodology",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "df0ce3c7-c6e0-4fc0-870f-3d7b2c13d59d",
+      "season": 3,
+      "number": 4,
+      "name": "The Strength of the Wolf",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "7f2761c9-3596-436b-81cf-efb9a8b47858",
+      "season": 3,
+      "number": 5,
+      "name": "All Along the Watchtower - del 1",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "2a86f2a2-264b-44a1-aefe-35bcd4f19d7e",
+      "season": 3,
+      "number": 6,
+      "name": "All Along the Watchtower -del 2",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "318f81ed-aabe-4426-900c-09f856c8e245",
+      "season": 3,
+      "number": 7,
+      "name": "The Ones You Can't See",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "cd270295-45ac-4f02-9922-857ebcafcf7d",
+      "season": 3,
+      "number": 8,
+      "name": "Danger Crossing",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "f6b5070d-40dd-4551-a4b1-0d1541266604",
+      "season": 3,
+      "number": 10,
+      "name": "Unbecoming an Officer",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "b33ffab3-aba2-4c0d-bb33-de413f62c2ec",
+      "season": 3,
+      "number": 11,
+      "name": "Siege Protocol - del 1",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "92198f98-4478-4c75-a7e6-ba95fd013ad6",
+      "season": 3,
+      "number": 12,
+      "name": "Siege Protocol - del 2",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "7a11396d-0aff-4dc3-ae4d-753b4cb6d454",
+      "season": 3,
+      "number": 13,
+      "name": "Fog of War",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "96f902c4-e139-430c-8f2a-16296314c50c",
+      "season": 3,
+      "number": 15,
+      "name": "Rules of Engagement",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "1a901a7c-9b3c-4cf1-8a7d-c17b888ed856",
+      "season": 3,
+      "number": 17,
+      "name": "Drawdown",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "4457b7d9-c7a1-4b6f-8bbf-11886725bd2b",
+      "season": 3,
+      "number": 18,
+      "name": "Edge of Nowhere",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "d1893ae8-b956-4293-ad99-f8e2e0049b66",
+      "season": 3,
+      "number": 19,
+      "name": "In the Blind",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "cdab63d5-da18-47f9-99fd-835fb4908597",
+      "season": 3,
+      "number": 20,
+      "name": "No Choice in Duty",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "7e1cb43a-8fb4-4812-bcc7-020eecc1afc1",
+      "season": 4,
+      "number": 1,
+      "name": "God of War",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "93b16903-b70f-4a9a-b97c-9ead3e75948b",
+      "season": 4,
+      "number": 2,
+      "name": "Forever War",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "ee4552c1-9ab1-4a4a-ae42-cb061132c3d4",
+      "season": 4,
+      "number": 3,
+      "name": "The New Normal",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "657bc714-afef-4ff3-87a9-775eba3ca492",
+      "season": 4,
+      "number": 4,
+      "name": "Shockwave",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "25d81e3a-cfe1-48bd-8fad-ce22f8f83222",
+      "season": 4,
+      "number": 5,
+      "name": "The Carrot or the Stick",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "fc484e59-4521-4a9c-bf4d-8729df07f659",
+      "season": 4,
+      "number": 6,
+      "name": "Horror Has a Face",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "264b2068-9f2d-4923-a17e-bb24cfcdc118",
+      "season": 4,
+      "number": 7,
+      "name": "All In",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "6bed175b-b4a5-46f4-8849-55f9b11428b7",
+      "season": 4,
+      "number": 8,
+      "name": "Cover for Action",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "0471463e-deb9-405b-b843-effd5bb12bb3",
+      "season": 4,
+      "number": 9,
+      "name": "Reckoning",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "177ce5ce-fafb-408d-8148-a3590bdafff6",
+      "season": 4,
+      "number": 10,
+      "name": "A Question of Honor",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "4073acf9-e009-4033-9541-a0243e6846fd",
+      "season": 4,
+      "number": 11,
+      "name": "Limits of Loyalty",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "d89a3a57-e711-43c5-9b38-5c2b054cbe50",
+      "season": 4,
+      "number": 12,
+      "name": "Rearview Mirror",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "777fad34-d0fa-4b9d-939f-152e7868a8ae",
+      "season": 4,
+      "number": 13,
+      "name": "Do No Harm",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "b95f4bc4-576f-47f9-8d6a-2e94ecb8df5e",
+      "season": 4,
+      "number": 14,
+      "name": "Hollow at the Core",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "2b7a26ce-e6f1-4f16-b7b0-56d178ad55bc",
+      "season": 4,
+      "number": 15,
+      "name": "Nightmare of My Choice",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "34facaae-8f65-4147-a28d-33a0a2ffc311",
+      "season": 4,
+      "number": 16,
+      "name": "One Life to Live",
+      "airdate": "2025-02-18"
+    }
+  ]
+}

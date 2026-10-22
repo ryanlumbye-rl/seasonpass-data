@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:stokholmsyndromet-tv2play",
+  "name": "Stokholmsyndromet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1306a0d1-5220-40ed-8730-5eafc804e53b",
+      "season": 1,
+      "number": 1,
+      "name": "Den store troldmand Stokkepickles",
+      "airdate": "2020-09-07"
+    },
+    {
+      "id": "74a0db53-5439-424c-8257-3cab05089016",
+      "season": 1,
+      "number": 2,
+      "name": "Fjern dine fedtede tilrettelæggerfingre!",
+      "airdate": "2020-09-07"
+    },
+    {
+      "id": "929b9fda-f8af-47cf-8419-f329c9b4aa65",
+      "season": 1,
+      "number": 3,
+      "name": "Får du aldrig snask på håndtaget?",
+      "airdate": "2020-09-14"
+    },
+    {
+      "id": "e131d531-c5cf-4341-b49c-d00b01a422e7",
+      "season": 1,
+      "number": 4,
+      "name": "Don Stokholm",
+      "airdate": "2020-09-21"
+    },
+    {
+      "id": "3a134095-a50f-4451-925c-def18ca7c76e",
+      "season": 1,
+      "number": 5,
+      "name": "Er du min far?",
+      "airdate": "2020-09-28"
+    },
+    {
+      "id": "bad73f8e-f67e-4602-a101-86d5752fee42",
+      "season": 1,
+      "number": 6,
+      "name": "Kaffe, bajere og bitter",
+      "airdate": "2020-10-05"
+    }
+  ]
+}

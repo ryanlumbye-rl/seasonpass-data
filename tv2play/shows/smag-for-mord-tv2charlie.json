@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:smag-for-mord-tv2charlie",
+  "name": "Smag for mord",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "473d23da-8252-4269-a9b8-008a9daa435c",
+      "season": 1,
+      "number": 1,
+      "name": "Nyt sted og gamle vaner",
+      "airdate": "2026-04-07"
+    },
+    {
+      "id": "6151ddeb-08a3-40ee-9ed1-8df020f5a499",
+      "season": 1,
+      "number": 2,
+      "name": "Opskrift på det perfekte drab",
+      "airdate": "2026-04-14"
+    },
+    {
+      "id": "541e673e-43e7-4026-9f5f-b130b5669f19",
+      "season": 1,
+      "number": 3,
+      "name": "Skinnet bedrager",
+      "airdate": "2026-04-21"
+    },
+    {
+      "id": "3077ef6f-c43a-44d4-a801-b63b25b61752",
+      "season": 1,
+      "number": 4,
+      "name": "Presset af mafiaen",
+      "airdate": "2026-04-28"
+    },
+    {
+      "id": "58d47b00-256b-4419-ba03-b376fbbcf3df",
+      "season": 1,
+      "number": 5,
+      "name": "Den forkerte filmstjerne",
+      "airdate": "2026-05-05"
+    },
+    {
+      "id": "f2d4df17-36b0-4e94-983d-f1a622578031",
+      "season": 1,
+      "number": 6,
+      "name": "Hvad hajen gemte",
+      "airdate": "2026-05-12"
+    }
+  ]
+}

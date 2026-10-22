@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:ulla-ingemann-tv2",
+  "name": "Ulla & Ingemann",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e59c9a56-63c3-493f-a16d-2cba49249b35",
+      "season": 1,
+      "number": 1,
+      "name": "Krig og fred",
+      "airdate": "2023-01-25"
+    },
+    {
+      "id": "71341913-c833-410e-9232-58e77d4780bb",
+      "season": 1,
+      "number": 2,
+      "name": "Bureaukraterne og anarkisterne",
+      "airdate": "2023-01-25"
+    },
+    {
+      "id": "001041cb-5867-4910-8df6-cae6a7fd55a8",
+      "season": 1,
+      "number": 3,
+      "name": "Iltre italienere og ivrige irere",
+      "airdate": "2023-02-01"
+    },
+    {
+      "id": "53f0b2f6-23cd-4854-bbcb-584ab9caef9c",
+      "season": 1,
+      "number": 4,
+      "name": "I diktaturets skygge",
+      "airdate": "2023-02-08"
+    },
+    {
+      "id": "3589cfd2-3962-45b5-ac3f-7a05f6b3cdb6",
+      "season": 1,
+      "number": 5,
+      "name": "Kaotiske grækere og lykkelige finner",
+      "airdate": "2023-02-15"
+    },
+    {
+      "id": "db402982-2891-47d5-bf7f-7232e96b9605",
+      "season": 1,
+      "number": 6,
+      "name": "Balkans krudttønde og baltisk oprør",
+      "airdate": "2023-02-22"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:the-widower-britbox",
+  "name": "The Widower",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "723e0488-ed74-4959-ac95-c3c66f762e92",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-23"
+    },
+    {
+      "id": "a3a7aca3-48c8-4053-9c4c-2cae1ee61db8",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-23"
+    },
+    {
+      "id": "44ed194c-4c3b-4db1-8a8d-573a06f6d3a5",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-04-23"
+    }
+  ]
+}

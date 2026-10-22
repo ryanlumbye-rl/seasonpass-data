@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:jagtkvinderne-tv2play",
+  "name": "Jagtkvinderne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7fbed4a7-9bef-4de2-b9aa-a20575f043e8",
+      "season": 1,
+      "number": 1,
+      "name": "Forberedelsen",
+      "airdate": "2026-05-15"
+    },
+    {
+      "id": "c529f86e-e6b0-45bc-8b65-20be0c83bc65",
+      "season": 1,
+      "number": 2,
+      "name": "Bukkejagten",
+      "airdate": "2026-05-22"
+    },
+    {
+      "id": "5f789d51-018c-42f7-8ed8-ff2a6f45863a",
+      "season": 1,
+      "number": 3,
+      "name": "Bukkepral",
+      "airdate": "2026-05-29"
+    },
+    {
+      "id": "a8d87815-723c-42f2-a89e-cd2bf9a15b00",
+      "season": 2,
+      "number": 1,
+      "name": "Fællesjagt",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "75c4edaf-3c80-4b6d-8d3e-f76b4d277527",
+      "season": 2,
+      "number": 2,
+      "name": "Jagten går i arv",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "15be12f8-e213-47f4-855d-37a8a3df4900",
+      "season": 2,
+      "number": 3,
+      "name": "Julejagt",
+      "airdate": "2026-10-14"
+    }
+  ]
+}

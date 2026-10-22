@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:beliggenhed-beliggenhed-beliggenhed-sommerhuse-tv2",
+  "name": "Beliggenhed, beliggenhed, beliggenhed - sommerhuse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "76fbb531-f15c-4cbc-ba39-db36ed39eda8",
+      "season": 1,
+      "number": 1,
+      "name": "Rørvig og det sydfynske øhav",
+      "airdate": "2020-05-27"
+    },
+    {
+      "id": "eb00bd2f-6386-41a1-8d94-3f32f3c9a13b",
+      "season": 1,
+      "number": 2,
+      "name": "Djursland og på Bornholm",
+      "airdate": "2020-06-03"
+    },
+    {
+      "id": "1704e950-3d9c-406a-b75e-aa24ad9eeff9",
+      "season": 1,
+      "number": 3,
+      "name": "Langeland, Tåsinge og på Falster",
+      "airdate": "2020-06-17"
+    },
+    {
+      "id": "5365b55a-7aa9-4a9f-9621-01504a9fe98d",
+      "season": 2,
+      "number": 1,
+      "name": "I Odsherred og på Falster og Sydsjælland",
+      "airdate": "2021-06-02"
+    },
+    {
+      "id": "10d70e80-f016-462d-845c-2526e6ad2287",
+      "season": 2,
+      "number": 2,
+      "name": "Nordsjælland og Jylland",
+      "airdate": "2021-06-02"
+    },
+    {
+      "id": "a4e8ba66-6e1b-439b-90e5-678e13287bf7",
+      "season": 2,
+      "number": 3,
+      "name": "Odsherred og Vesterhavet",
+      "airdate": "2021-06-09"
+    },
+    {
+      "id": "a77e111d-d344-496b-b881-301d5d60a912",
+      "season": 3,
+      "number": 1,
+      "name": "Nordjylland og på Sjælland",
+      "airdate": "2022-06-29"
+    },
+    {
+      "id": "c3571dd7-9828-4f87-a403-92026d253c8f",
+      "season": 3,
+      "number": 2,
+      "name": "Sjælland og de brofaste øer",
+      "airdate": "2022-07-06"
+    },
+    {
+      "id": "0efb3183-f7f5-4f63-876c-5cfe5dd146f0",
+      "season": 3,
+      "number": 3,
+      "name": "Sjælland og i Jylland",
+      "airdate": "2022-07-13"
+    },
+    {
+      "id": "cd2d327b-49bb-46fb-9c68-77b3e1a479d8",
+      "season": 4,
+      "number": 1,
+      "name": "Odsherred og på Djursland",
+      "airdate": "2024-07-08"
+    },
+    {
+      "id": "efd2cc54-4031-4d99-b004-011d8632e2d4",
+      "season": 4,
+      "number": 2,
+      "name": "Vesterhavet, Djursland og Roskilde Fjord",
+      "airdate": "2024-07-15"
+    }
+  ]
+}

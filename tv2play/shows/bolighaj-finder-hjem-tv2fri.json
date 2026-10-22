@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:bolighaj-finder-hjem-tv2fri",
+  "name": "Bolighaj finder hjem",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d504eb46-ecc4-437e-8b62-a0fc2cc8d3f4",
+      "season": 1,
+      "number": 1,
+      "name": "I cykelafstand fra Tivoli",
+      "airdate": "2023-02-14"
+    },
+    {
+      "id": "9c4c8432-7bd3-4dfd-82b8-245c52161c01",
+      "season": 1,
+      "number": 2,
+      "name": "Totalrenovering i Greve",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "87b3e1b3-ef37-4ae3-b4e1-494d2bd98f6b",
+      "season": 1,
+      "number": 3,
+      "name": "Fra bageri til bolig i Brønshøj",
+      "airdate": "2023-02-28"
+    },
+    {
+      "id": "968f06c9-22c1-4b9e-8929-c1ed3545c887",
+      "season": 1,
+      "number": 4,
+      "name": "En nemmere hverdag i Køge",
+      "airdate": "2023-03-07"
+    },
+    {
+      "id": "d8edecd1-df64-457a-9d21-9f3daaeb1bb8",
+      "season": 1,
+      "number": 5,
+      "name": "Boligkaos i Allerød",
+      "airdate": "2023-03-14"
+    },
+    {
+      "id": "50ecd566-708a-426a-8ef5-d078b5a32b50",
+      "season": 1,
+      "number": 6,
+      "name": "Aarhus frem for alt",
+      "airdate": "2023-03-21"
+    },
+    {
+      "id": "ee31ef9b-125b-4fbb-be53-81e4f72f17c0",
+      "season": 2,
+      "number": 1,
+      "name": "Totalrenovering mod alle odds",
+      "airdate": "2025-08-12"
+    },
+    {
+      "id": "fef11d34-90f6-415c-9404-808e3dda82db",
+      "season": 2,
+      "number": 2,
+      "name": "Boligdrøm med motorvej og flytrafik",
+      "airdate": "2025-08-19"
+    },
+    {
+      "id": "72e3e610-19d3-4db1-98c0-fd62c260f093",
+      "season": 2,
+      "number": 3,
+      "name": "Forstad eller storby - hvilket hus vinder?",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "14854bac-612b-4364-a375-f818a9134eb1",
+      "season": 2,
+      "number": 4,
+      "name": "70'er-drøm i Aarhus",
+      "airdate": "2025-09-02"
+    },
+    {
+      "id": "75de033b-202b-4671-b373-07839f55afdf",
+      "season": 2,
+      "number": 5,
+      "name": "Amatører jagter håndværkertilbud",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "67192615-4a0f-4e4e-a2e2-31d4f7629322",
+      "season": 2,
+      "number": 6,
+      "name": "Fra teenageværelse til lejlighed i Odense",
+      "airdate": "2025-09-16"
+    }
+  ]
+}
