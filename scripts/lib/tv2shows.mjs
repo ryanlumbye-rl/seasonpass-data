@@ -62,3 +62,66 @@ export function buildTv2Shows(found, meta) {
   }
   return { index, shows, images };
 }
+
+/**
+ * Samme serie under to adresser: 'alfa-tv2echo' og 'alfa-tv2play'. Ryan (22-10-2026): kun
+ * -tv2play-udgaven skal findes i appen. Men i 71 af 80 målte par har kanal-udgaven afsnit,
+ * -tv2play ikke har (Alene sammen: 1 mod 31), så afsnittene samles under -tv2play i stedet for
+ * at kanal-udgaven smides væk. Serier hører sammen, når alt før sidste bindestreg er ens.
+ */
+export function canonicalSlugs(slugs) {
+  const all = new Set(slugs);
+  const out = new Map();
+  for (const slug of all) {
+    const base = slug.slice(0, slug.lastIndexOf('-'));
+    out.set(slug, all.has(`${base}-tv2play`) ? `${base}-tv2play` : slug);
+  }
+  return out;
+}
+
+/**
+ * Saml alle serie-filer efter canonicalSlugs. Resultatet:
+ * - shows: den samlede serie under -tv2play-sluggen, og for hver kanal-udgave en kopi med sit
+ *   eget id — så den, der allerede følger 'alfa-tv2echo', beholder alle afsnit.
+ * - index og images: kun de samlede serier, så søgningen viser hver serie én gang.
+ * Samme afsnit (sæson + nummer) tælles én gang; -tv2play-udgavens afsnit vinder.
+ */
+export function consolidate(showsBySlug, canon) {
+  const groups = new Map();
+  for (const slug of Object.keys(showsBySlug).sort()) {
+    const c = canon.get(slug) ?? slug;
+    if (!groups.has(c)) groups.set(c, []);
+    groups.get(c).push(slug);
+  }
+  const shows = {};
+  const index = {};
+  const images = {};
+  for (const [c, members] of [...groups.entries()].sort(([a], [b]) => a.localeCompare(b))) {
+    const parts = [c, ...members.filter((m) => m !== c).sort()].map((m) => showsBySlug[m]).filter(Boolean);
+    const head = parts[0];
+    const byKey = new Map();
+    for (const p of parts) for (const e of p.episodes ?? []) {
+      const key = `${e.season}x${e.number}`;
+      if (!byKey.has(key)) byKey.set(key, e);
+    }
+    const nexts = parts.map((p) => p.next).filter(Boolean).sort();
+    const first = (field) => parts.map((p) => p[field]).find((v) => v != null) ?? null;
+    const merged = {
+      ...head,
+      id: `tv2play:${c}`,
+      name: head.name,
+      service: parts.some((p) => p.service === 'skyshowtime') ? 'skyshowtime' : head.service ?? serviceForSlug(c),
+      tmdbId: first('tmdbId'),
+      next: nexts[0] ?? null,
+      status: nexts.length ? 'Running' : head.status,
+      description: first('description'),
+      image: first('image'),
+      episodes: [...byKey.values()].sort((a, b) => a.season - b.season || a.number - b.number),
+    };
+    shows[c] = merged;
+    for (const m of members) if (m !== c) shows[m] = { ...merged, id: `tv2play:${m}` };
+    index[c] = [merged.name, merged.tmdbId];
+    if (merged.image) images[c] = merged.image;
+  }
+  return { shows, index, images };
+}
