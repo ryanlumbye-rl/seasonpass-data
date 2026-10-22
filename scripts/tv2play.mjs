@@ -20,10 +20,16 @@ import { readJson } from './lib/io.mjs';
 const UA = 'SeasonPass-data/1.0 (+https://github.com/ryanlumbye-rl/seasonpass-data)';
 const INDEX = 'https://play.tv2.dk/vp_sitemaps/sitemap-index.xml.gz';
 const PAUSE = 500;
-// Omkring en halv time ved 500 ms pause pr. forespørgsel. Kataloget er langt
-// større (~1.600 ukortlagte serier), så budgettet er med vilje en brøkdel —
-// bagkataloget fyldes op over mange kørsler, uden at nogen venter på det.
-const FETCH_BUDGET = 3000;
+// Kørslen 21-10-2026 nåede omkring ét afsnit i sekundet, så 15.000 er cirka
+// fire timer. Med ~27.000 afsnit i kataloget er det fyldt op på to nætter;
+// derefter henter changedSince kun nattens ændringer, og en kørsel tager minutter.
+// Nyeste lastmod tages først, så aktive serier kommer før bagkataloget.
+const FETCH_BUDGET = 15000;
+// Rammer workflowets timeout-minutes, dræbes kørslen, før tilstanden skrives,
+// og hele nattens hentning er tabt. Derfor stopper løkken selv i god tid og
+// gemmer det, den nåede. Skal ligge et godt stykke under timeout-minutes (330):
+// serieforsiderne og skrivningen kommer bagefter.
+const FETCH_DEADLINE_MS = 270 * 60 * 1000;
 const DRY = process.argv.includes('--dry-run');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -37,6 +43,7 @@ async function get(url, { gzip = false } = {}) {
 }
 
 async function main() {
+  const started = Date.now();
   const mapping = readJson('mappings/tv2play.json', {});
   const state = readJson('state/tv2play-lastmod.json', {});
   const overrides = readJson('overrides.json', { version: 1, shows: {} });
@@ -110,11 +117,15 @@ async function main() {
   console.log(`ukortlagte, understøttede afsnit: ${supportedUnmapped.length}, heraf taget af budgettet: ${unmappedTodo.length}`);
 
   const found2 = [];
-  // En kørsel under fuldt budget tager omkring en halv time, og loggen skriver
+  // En kørsel under fuldt budget tager timer, og loggen skriver
   // ellers kun, når noget går galt. En tavs kørsel kan ikke skelnes fra en død
   // kørsel, så den melder fremdrift undervejs.
   const PROGRESS_EVERY = 250;
   for (const [i, e] of unmappedTodo.entries()) {
+    if (Date.now() - started > FETCH_DEADLINE_MS) {
+      console.log(`  deadline nået efter ${i} af ${unmappedTodo.length} afsnit — resten tages næste kørsel`);
+      break;
+    }
     await sleep(PAUSE);
     try {
       const episode = extractEpisode(await get(e.loc));

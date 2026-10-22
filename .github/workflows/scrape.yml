@@ -15,10 +15,10 @@ jobs:
     # 19-10-2026, og en kørsel, der knækker af sig selv, er svær at kende fra
     # en knækket kilde. Løft den bevidst, når du selv har lyst.
     runs-on: ubuntu-24.04
-    # 3.000 hentninger à 500 ms pause er omkring en halv time. Standardgrænsen
-    # (360 minutter for et selvstændigt repo, men langt lavere for et, der
-    # arver org-indstillinger) må ikke kunne ramme en langsom kørsel midt i.
-    timeout-minutes: 60
+    # 15.000 hentninger tager omkring fire timer. Scraperen stopper selv efter
+    # 270 minutter (FETCH_DEADLINE_MS) og gemmer det, den nåede; de 60 minutter
+    # herover er til serieforsider og skrivning. GitHub tillader højst 360.
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -60,7 +60,7 @@ jobs:
             og skal ind i `mappings/tv2play.json`, før de kommer med.
 
             **TV 2 Play-udgivelsen** (`tv2play/`): ${{ steps.scrape.outputs.shows }} serier bygget eller
-            opdateret denne kørsel, under hentebudgettet på 3.000 afsnit. Uforståede hints: ${{ steps.scrape.outputs.unparsed }} stk.
+            opdateret denne kørsel, under hentebudgettet (se kørslens log for antal). Uforståede hints: ${{ steps.scrape.outputs.unparsed }} stk.
             (se `tv2play/unparsed-hints.json`).
 
             De første kørsler tilføjer mange filer under `tv2play/shows/` — det er ventet (budgettet
