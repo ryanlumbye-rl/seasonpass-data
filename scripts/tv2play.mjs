@@ -12,7 +12,7 @@ import { assertSitemapHealth, changedSince, dueThisRun, episodeUrls, parseSitema
 import { extractEpisode, extractSeries } from './lib/jsonld.mjs';
 import { extractHint, parseHint } from './lib/hint.mjs';
 import { isSupported } from './lib/scope.mjs';
-import { buildTv2Shows } from './lib/tv2shows.mjs';
+import { buildTv2Shows, canonicalSlugs, consolidate } from './lib/tv2shows.mjs';
 import { buildEntries, buildUnmatched } from './lib/build.mjs';
 import { canonicalJSON, mergeOverrides } from './lib/merge.mjs';
 import { readJson } from './lib/io.mjs';
@@ -166,7 +166,7 @@ async function main() {
     }
   }
 
-  const { index: newIndex, shows: newShows, images: newImages } = buildTv2Shows(found2, meta);
+  const { shows: newShows } = buildTv2Shows(found2, meta);
 
   // Opsamling: serie-filer fra før billede og beskrivelse kom med, og som denne kørsel
   // ikke allerede har rørt. Et hentet svar uden billede gemmes som null, så serien ikke
@@ -179,7 +179,6 @@ async function main() {
     await sleep(PAUSE);
     try {
       backfill[slug] = extractSeries(await get(`https://play.tv2.dk/serie/${slug}`));
-      if (backfill[slug].image) newImages[slug] = backfill[slug].image;
     } catch (err) {
       // 404: serien er fjernet fra TV 2 Play (fx Clarkson's Farm, 22-10-2026). Det er et svar,
       // ikke en fejl — gem null, så den ikke hentes igen hver nat.
@@ -197,8 +196,6 @@ async function main() {
   // overrides.json/mergeOverrides ovenfor — ellers sletter hver kørsel det,
   // den forrige fandt.
   const existingIndexFile = readJson('tv2play/index.json', { version: 1, updated: '', shows: {} });
-  const mergedIndex = { ...existingIndexFile.shows, ...newIndex };
-  const indexFile = { version: 1, updated: today, shows: mergedIndex, images: { ...(existingIndexFile.images ?? {}), ...newImages } };
 
   const mergedShowFiles = {};
   for (const [slug, show] of Object.entries(newShows)) {
@@ -208,6 +205,20 @@ async function main() {
   for (const [slug, art] of Object.entries(backfill)) {
     mergedShowFiles[slug] = { ...readJson(`tv2play/shows/${slug}.json`, {}), description: art.description, image: art.image };
   }
+
+  // Samme serie under to adresser (alfa-tv2echo + alfa-tv2play) samles under -tv2play,
+  // og indekset bygges forfra ud fra de samlede serier — se consolidate. Derfor læses alle
+  // serie-filer, ikke kun dem, denne kørsel rørte: en kanal-udgave fra en tidligere nat skal
+  // også foldes ind.
+  const allShows = {};
+  for (const slug of built) allShows[slug] = readJson(`tv2play/shows/${slug}.json`, null);
+  Object.assign(allShows, mergedShowFiles);
+  for (const slug of Object.keys(allShows)) if (!allShows[slug]) delete allShows[slug];
+  const canon = canonicalSlugs([...new Set([...supportedUnmapped.map((e) => e.slug), ...Object.keys(allShows)])]);
+  const { shows: consolidated, index: newIndexAll, images: newImagesAll } = consolidate(allShows, canon);
+  const variants = Object.keys(consolidated).filter((slug) => canon.get(slug) !== slug).length;
+  console.log(`TV 2 Play-varianter foldet ind under -tv2play: ${variants}`);
+  const indexFile = { version: 1, updated: today, shows: newIndexAll, images: newImagesAll };
 
   const existingHintsFile = readJson('tv2play/unparsed-hints.json', { version: 1, updated: '', hints: {} });
   const mergedHints = { ...existingHintsFile.hints };
@@ -250,8 +261,8 @@ async function main() {
     console.log('tv2play/index.json: ingen ændringer, skriver ikke');
   }
 
-  if (Object.keys(mergedShowFiles).length) mkdirSync('tv2play/shows', { recursive: true });
-  for (const [slug, show] of Object.entries(mergedShowFiles)) {
+  if (Object.keys(consolidated).length) mkdirSync('tv2play/shows', { recursive: true });
+  for (const [slug, show] of Object.entries(consolidated)) {
     const existingShow = readJson(`tv2play/shows/${slug}.json`, null);
     if (canonicalJSON(existingShow) === canonicalJSON(show)) continue;
     writeFileSync(`tv2play/shows/${slug}.json`, `${JSON.stringify(show, null, 2)}\n`);
