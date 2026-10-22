@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:katrine-undersoeger-oiii",
+  "name": "Katrine undersøger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ecfda850-5f5f-46fd-adaa-0175235d094f",
+      "season": 1,
+      "number": 1,
+      "name": "Blæst",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "97c8c254-544d-4deb-9b82-4bc1aaf6fda3",
+      "season": 1,
+      "number": 2,
+      "name": "Lyd",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "573b04c5-fbf5-4bed-b926-17ebee9367d3",
+      "season": 1,
+      "number": 3,
+      "name": "Regnbue",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "ab446c0d-190b-475b-a285-7a23273d4bef",
+      "season": 1,
+      "number": 4,
+      "name": "Sten",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "64af3fa0-eca0-48d8-8d11-d7fe5703ae14",
+      "season": 1,
+      "number": 5,
+      "name": "Flyde og synke",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "a8242f3f-4c2f-44e0-be9a-1cac40caf45d",
+      "season": 1,
+      "number": 6,
+      "name": "Ild",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "e0368175-e224-4cdc-b856-4662f506c83a",
+      "season": 1,
+      "number": 7,
+      "name": "Vand",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "4f021111-256b-4901-92fa-409cbbb3a76b",
+      "season": 1,
+      "number": 8,
+      "name": "Sæbebobler",
+      "airdate": "2024-09-21"
+    }
+  ]
+}

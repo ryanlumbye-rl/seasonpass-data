@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:en-saerlig-slags-tvmidtvest",
+  "name": "En særlig slags",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-24",
+  "episodes": [
+    {
+      "id": "52f9672d-35d2-45ae-b04c-8883dbcfcc9a",
+      "season": 1,
+      "number": 1,
+      "name": "Muldvarpmanden fra Grønbjerg",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "d32c123f-85e4-407e-a439-08670644d75a",
+      "season": 1,
+      "number": 2,
+      "name": "Kirstine fra Lemvig",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "761c5d84-4e20-4561-ae4b-592f5ebbd3b0",
+      "season": 1,
+      "number": 3,
+      "name": "Metalforkæmperen fra Skive",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "385f2532-350e-4bb9-9f39-8508be5bd877",
+      "season": 1,
+      "number": 4,
+      "name": "Bilinspektøren fra Sunds",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "83d5ed81-2a5e-43a1-a644-e7bd0900a55f",
+      "season": 1,
+      "number": 5,
+      "name": "Allan fra æ hav",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "90e9ec2b-61c4-41b5-97db-c0e3edbaf15a",
+      "season": 2,
+      "number": 1,
+      "name": "Smeden fra Ringkøbing",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "4ef7806e-ec4b-4d3a-a47d-eaed7f02625a",
+      "season": 2,
+      "number": 2,
+      "name": "Fodboldtræneren fra Snejbjerg",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "3c0d3166-463d-4f12-8c4b-9af63867d151",
+      "season": 2,
+      "number": 3,
+      "name": "Lystfiskerparret fra Engesvang",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "148da877-6e80-4779-b4dd-d8ddd05313f1",
+      "season": 2,
+      "number": 4,
+      "name": "Strøm i værkstedet",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "b41b657e-8380-4f99-844b-4176fff05f2f",
+      "season": 2,
+      "number": 5,
+      "name": "Møbelpolsteren fra Håsum",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "5ab34318-2ba3-41cd-8052-3dff5c756086",
+      "season": 2,
+      "number": 6,
+      "name": "Den selvgjorte fra Vildbjerg",
+      "airdate": "2025-12-19"
+    }
+  ]
+}

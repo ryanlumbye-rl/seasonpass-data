@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:mord-mellem-linjerne-tv2charlie",
+  "name": "Mord mellem linjerne",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-27",
+  "episodes": [
+    {
+      "id": "8f8d0694-1830-45e2-8392-15f312757369",
+      "season": 1,
+      "number": 1,
+      "name": "Et umage makkerpar",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "791644ec-d16b-4143-9a6f-7ec3cf6fbeb1",
+      "season": 1,
+      "number": 2,
+      "name": "Blodigt bryllup",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "00a89bf9-f8ff-47f9-b4f7-f043d5e5b2bf",
+      "season": 1,
+      "number": 3,
+      "name": "Inspiration til drab",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "2b2922a3-db3c-48c6-b357-7e93125ef4bf",
+      "season": 1,
+      "number": 4,
+      "name": "Afsløringen",
+      "airdate": "2026-10-27"
+    }
+  ]
+}

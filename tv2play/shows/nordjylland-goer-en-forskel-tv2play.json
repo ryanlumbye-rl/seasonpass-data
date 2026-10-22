@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:nordjylland-goer-en-forskel-tv2play",
+  "name": "Nordjylland gør en forskel",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "35c9b2bc-2a42-469a-9fb5-129448b90432",
+      "season": 1,
+      "number": 1,
+      "name": "10-døgnsløbet",
+      "airdate": "2026-08-15"
+    },
+    {
+      "id": "08192433-fabb-49f0-a84f-52d392daf12d",
+      "season": 1,
+      "number": 2,
+      "name": "Åbning",
+      "airdate": "2026-08-20"
+    },
+    {
+      "id": "5b86501f-f6a1-416f-b982-58ad89d5b51f",
+      "season": 1,
+      "number": 3,
+      "name": "Dag 1",
+      "airdate": "2026-08-20"
+    },
+    {
+      "id": "fb488628-91e8-47b1-adc1-14118840ea7f",
+      "season": 1,
+      "number": 4,
+      "name": "Dag 2",
+      "airdate": "2026-08-21"
+    },
+    {
+      "id": "dcd7c489-46bf-4d32-9af0-ff7df216622e",
+      "season": 1,
+      "number": 5,
+      "name": "Dag 3",
+      "airdate": "2026-08-22"
+    },
+    {
+      "id": "10e6e094-9c8d-41cd-92ac-6398074bc49d",
+      "season": 1,
+      "number": 6,
+      "name": "Dag 4",
+      "airdate": "2026-08-23"
+    },
+    {
+      "id": "dd778cd4-d1d1-4151-adeb-b98ac57f26d8",
+      "season": 1,
+      "number": 7,
+      "name": "Dag 5",
+      "airdate": "2026-08-24"
+    },
+    {
+      "id": "2f4e4b63-cd0f-4bf2-a647-c711372b06ca",
+      "season": 1,
+      "number": 8,
+      "name": "Dag 6",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "291898d7-3bb5-4ea3-93d9-7223de83a371",
+      "season": 1,
+      "number": 9,
+      "name": "Dag 7",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "7f6df38d-7975-4a61-967f-5e7efb8ab49e",
+      "season": 1,
+      "number": 10,
+      "name": "Dag 8",
+      "airdate": "2026-08-27"
+    },
+    {
+      "id": "51c3e7de-4ec1-444e-a2d4-1779d4e1dd43",
+      "season": 1,
+      "number": 11,
+      "name": "Dag 9",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "6de389c5-cd8a-4b16-8ae3-252e24d728b6",
+      "season": 1,
+      "number": 12,
+      "name": "Dag 10",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "bc23e423-84c0-40df-bf31-f183a04e8a0c",
+      "season": 1,
+      "number": 13,
+      "name": "Afslutning",
+      "airdate": "2026-08-30"
+    },
+    {
+      "id": "fc324681-3c4e-4d5a-9a6e-db7edf0d2d88",
+      "season": 1,
+      "number": 14,
+      "name": "Millioner og verdensrekorder!",
+      "airdate": "2026-08-31"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:fear-factor-tv2echo",
+  "name": "Fear Factor",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1d070d88-ea1b-4701-8d94-c8e7db63bfa4",
+      "season": 1,
+      "number": 1,
+      "name": "Hvem tør (ikke)?",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "b6ec5277-bbea-4817-b0fd-59d98ab1af3e",
+      "season": 1,
+      "number": 2,
+      "name": "Flyv, kør og løb for livet",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "7961e1ec-db57-4d9b-adce-9a407001ff60",
+      "season": 1,
+      "number": 3,
+      "name": "Når helvedet fryser over",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "a6fb221a-dbc2-499b-a89e-830a0f7cc019",
+      "season": 1,
+      "number": 4,
+      "name": "Frygt på hjul og panik i boksen",
+      "airdate": "2026-01-10"
+    },
+    {
+      "id": "5c65bf15-2bd0-4c0a-9bc5-6d88e4664a25",
+      "season": 1,
+      "number": 5,
+      "name": "Pinligt og klamt",
+      "airdate": "2026-01-17"
+    },
+    {
+      "id": "55b0390c-ba1b-48c1-a7a5-8bcc5190615e",
+      "season": 1,
+      "number": 6,
+      "name": "Fastlåst blindebuk",
+      "airdate": "2026-01-24"
+    },
+    {
+      "id": "aaaa3d34-0ac2-4b5d-8187-92b5c40c01cd",
+      "season": 1,
+      "number": 7,
+      "name": "Fælden klapper og blodet strømmer",
+      "airdate": "2026-01-31"
+    },
+    {
+      "id": "50db21bd-a694-463f-8b5e-6c8e1a539fc9",
+      "season": 1,
+      "number": 8,
+      "name": "Af jord er du kommet",
+      "airdate": "2026-02-07"
+    }
+  ]
+}

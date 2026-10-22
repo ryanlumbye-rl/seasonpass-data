@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:oerkenens-soenner-tv2charlie",
+  "name": "Ørkenens sønner",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d4395bfd-4ac8-43b3-a55b-497941f234dd",
+      "season": 1997,
+      "number": 1,
+      "name": "Gå aldrig tilbage til en fuser - del 1",
+      "airdate": "2022-05-21"
+    },
+    {
+      "id": "251c9e97-8052-49fb-8ea3-8c6fcdea74e3",
+      "season": 1997,
+      "number": 2,
+      "name": "Gå aldrig tilbage til en fuser - del 2",
+      "airdate": "2022-05-21"
+    },
+    {
+      "id": "2992b23c-58ac-4284-948b-5ff554da65ac",
+      "season": 2001,
+      "number": 1,
+      "name": "En storm i et glas vand - del 1",
+      "airdate": "2022-05-07"
+    },
+    {
+      "id": "4762133c-fdf4-4af2-84c6-779941460f7e",
+      "season": 2001,
+      "number": 2,
+      "name": "En storm i et glas vand - del 2",
+      "airdate": "2022-05-07"
+    },
+    {
+      "id": "00df431a-6cfa-4f3b-a446-b3bd595695d1",
+      "season": 2004,
+      "number": 1,
+      "name": "Et skud i tågen - del 1",
+      "airdate": "2022-04-30"
+    },
+    {
+      "id": "5a4c2d6c-93a4-4a5c-8ee8-e66f5d7fc3f6",
+      "season": 2004,
+      "number": 2,
+      "name": "Et skud i tågen - del 2",
+      "airdate": "2022-04-30"
+    },
+    {
+      "id": "1f0eb400-5cd1-46e9-8b3e-b258d0a7ab0d",
+      "season": 2007,
+      "number": 1,
+      "name": "En sang fra de varme lande - del 1",
+      "airdate": "2022-04-23"
+    },
+    {
+      "id": "5f4b326d-8e8c-4275-85bd-121558bad655",
+      "season": 2007,
+      "number": 2,
+      "name": "En sang fra de varme lande - del 2",
+      "airdate": "2022-04-23"
+    },
+    {
+      "id": "35c02b1b-aa30-4e04-955d-ddc01599b8d6",
+      "season": 2011,
+      "number": 1,
+      "name": "Varm Luft i Canal Grande - del 1",
+      "airdate": "2022-04-16"
+    },
+    {
+      "id": "00293e9a-b46b-4828-8001-38e0298ea763",
+      "season": 2011,
+      "number": 2,
+      "name": "Varm Luft i Canal Grande - del 2",
+      "airdate": "2022-04-16"
+    },
+    {
+      "id": "e28eca20-01bc-4932-a714-ae11f05c5ba3",
+      "season": 2015,
+      "number": 1,
+      "name": "Een gang til for prins Knud - del 1",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "5c9beab0-e289-4e71-886c-62c80fb1d93a",
+      "season": 2015,
+      "number": 2,
+      "name": "Een gang til for prins Knud - del 2",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "8d809418-45c6-4b59-b10f-97e7b79c9f65",
+      "season": 2024,
+      "number": 1,
+      "name": "Fingeren på Pølsen - del 1",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "29290e85-9377-453e-9c36-21a831f3a560",
+      "season": 2024,
+      "number": 2,
+      "name": "Fingeren på Pølsen - del 2",
+      "airdate": "2025-05-10"
+    }
+  ]
+}

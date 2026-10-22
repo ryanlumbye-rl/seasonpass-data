@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:bs-ulvene-i-skotland-tvmidtvest",
+  "name": "BS & ulvene i Skotland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c87d6ddf-f8d8-406a-b850-d644f4f2c09b",
+      "season": 1,
+      "number": 1,
+      "name": "Vildmarken",
+      "airdate": "2024-01-25"
+    },
+    {
+      "id": "41481318-7756-4758-becf-f698fe4e18ff",
+      "season": 1,
+      "number": 2,
+      "name": "Jagten",
+      "airdate": "2024-01-25"
+    },
+    {
+      "id": "887b324e-066e-4de0-a743-fba08652b45a",
+      "season": 1,
+      "number": 3,
+      "name": "Bjerget",
+      "airdate": "2024-01-25"
+    }
+  ]
+}

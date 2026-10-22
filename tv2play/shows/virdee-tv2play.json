@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:virdee-tv2play",
+  "name": "Virdee",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "87629c36-93d6-45f0-bd59-1baa899f2e09",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "1d2ef7fe-299c-44ac-90d5-26060766bfa3",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "4ea8cfa0-9e0d-425b-8eaa-0e9ecd4ab689",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "aa74ced2-34f6-49e1-89ac-96a0d535350e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "8d20e07f-b4b3-4fe5-917d-2331ce772ef8",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "6fbd3bb5-7d9f-4190-befb-2d3f204a41d1",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-12-17"
+    }
+  ]
+}

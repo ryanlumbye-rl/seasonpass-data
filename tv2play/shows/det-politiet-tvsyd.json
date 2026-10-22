@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:det-politiet-tvsyd",
+  "name": "Det’ politiet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "88b4e609-0552-4c91-b6cc-97e824b488de",
+      "season": 1,
+      "number": 1,
+      "name": "Fuld pedal og strandbøder",
+      "airdate": "2023-10-02"
+    },
+    {
+      "id": "851c37a5-a316-4815-9c65-ce3e313c6083",
+      "season": 1,
+      "number": 2,
+      "name": "Klappen går ned på Fanø",
+      "airdate": "2023-10-02"
+    },
+    {
+      "id": "911f7c40-ad63-47d9-9365-62083eb9d6aa",
+      "season": 1,
+      "number": 3,
+      "name": "Tørke og ældgamle traditioner",
+      "airdate": "2023-10-09"
+    },
+    {
+      "id": "3385061e-55b4-46a9-8171-9b3668014e61",
+      "season": 1,
+      "number": 4,
+      "name": "Knogler på stranden",
+      "airdate": "2023-10-16"
+    },
+    {
+      "id": "c8175701-56a2-465d-906e-2715ae0600d0",
+      "season": 1,
+      "number": 5,
+      "name": "Udsatte unge og fartbøder",
+      "airdate": "2023-10-23"
+    },
+    {
+      "id": "5792a960-1a3b-4cda-b475-54abfcd77340",
+      "season": 1,
+      "number": 6,
+      "name": "Knivstik på åben gade",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "5cf6f20b-66f4-4e51-a1dd-100bf8f60930",
+      "season": 1,
+      "number": 7,
+      "name": "Fodboldfest og macheter",
+      "airdate": "2023-11-06"
+    },
+    {
+      "id": "8bccc6d5-62d6-4148-bd39-124a67041f4f",
+      "season": 1,
+      "number": 8,
+      "name": "Nabostrid og misbrug",
+      "airdate": "2023-11-13"
+    },
+    {
+      "id": "77b32412-e2aa-4b8b-863e-b1fa4af76a3c",
+      "season": 1,
+      "number": 9,
+      "name": "Mystiske Sten og blå mandag",
+      "airdate": "2023-11-20"
+    }
+  ]
+}

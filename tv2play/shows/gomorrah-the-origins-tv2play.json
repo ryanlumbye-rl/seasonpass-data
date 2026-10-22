@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:gomorrah-the-origins-tv2play",
+  "name": "Gomorrah: The Origins",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "302591a1-c107-48f9-ab18-411946c78082",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "7b94040a-913e-44d1-b8c8-ca8ae7f0dc72",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "dc4e61de-b78e-4e4f-93c5-2ef3fb39de24",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "1115693f-edde-4d4a-bdeb-2445f9db9012",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "c6e1382c-3700-4cd4-9edf-8fb6c321f308",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "7f025609-5a22-4d00-ac19-e2c4db36bf08",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-04-01"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:better-britbox",
+  "name": "Better",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b47529cf-886a-4edb-ad41-55ebc2e26f89",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "4f7be235-3c55-4d4e-8a3a-98812f2f4d68",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "d1f524da-f977-40dd-8a77-e5f803254533",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "fb9d49c3-a2f7-4019-9301-386a51856e42",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "0796b01f-5398-4806-8390-a91717237d8d",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-09-20"
+    }
+  ]
+}

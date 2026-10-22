@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:perfekte-steder-tv2echo",
+  "name": "Perfekte steder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "323992d1-7f59-4542-88fd-7af2501369be",
+      "season": 1,
+      "number": 1,
+      "name": "\"Jeg skal ikke have en kæreste\"",
+      "airdate": "2017-10-03"
+    },
+    {
+      "id": "6ec4142b-e233-49cd-92fc-56fe4c4dc508",
+      "season": 1,
+      "number": 2,
+      "name": "\"Hvad sker der her?\"",
+      "airdate": "2017-10-10"
+    },
+    {
+      "id": "761773de-56ca-4f6e-8f34-95e611b683c5",
+      "season": 1,
+      "number": 3,
+      "name": "\"I er så cute\"",
+      "airdate": "2017-10-17"
+    },
+    {
+      "id": "3755b8a8-f6d7-4d46-b9c1-9e8546333f32",
+      "season": 1,
+      "number": 4,
+      "name": "\"Vi skal på safari\"",
+      "airdate": "2017-10-24"
+    },
+    {
+      "id": "1ce56c0f-1ab3-489d-bc3a-6586fed4a60a",
+      "season": 1,
+      "number": 5,
+      "name": "\"Så er der ikke noget at gøre\"",
+      "airdate": "2017-10-31"
+    },
+    {
+      "id": "0eeb21c5-7fcc-48c6-bc19-70608c696035",
+      "season": 1,
+      "number": 6,
+      "name": "\"Du skal ikke tvivle på os!\"",
+      "airdate": "2017-11-07"
+    },
+    {
+      "id": "35e46823-6688-4f26-9767-fe83ea5acd12",
+      "season": 1,
+      "number": 7,
+      "name": "\"Jeg har gjort noget dumt\"",
+      "airdate": "2017-11-14"
+    },
+    {
+      "id": "9c608500-1044-4fbb-b359-d3e244dfc51f",
+      "season": 1,
+      "number": 8,
+      "name": "\"Hvad venter du på?\"",
+      "airdate": "2017-11-21"
+    },
+    {
+      "id": "5bd350b6-c97f-4d97-a4e6-71abdcbbd152",
+      "season": 2,
+      "number": 1,
+      "name": "\"Resten af livet?\"",
+      "airdate": "2018-04-23"
+    },
+    {
+      "id": "aac3ae1b-ff61-4aa0-9ff8-76742fcfbe33",
+      "season": 2,
+      "number": 2,
+      "name": "\"Vi connectede ikke\"",
+      "airdate": "2018-04-30"
+    },
+    {
+      "id": "3c64c3dd-fa5f-4bfe-8a96-e1b7e02304c2",
+      "season": 2,
+      "number": 3,
+      "name": "\"Sådan en aften\"",
+      "airdate": "2018-05-07"
+    },
+    {
+      "id": "2fd79664-f2b6-40f0-913f-27690380d955",
+      "season": 2,
+      "number": 4,
+      "name": "\"Varmt\"",
+      "airdate": "2018-05-14"
+    },
+    {
+      "id": "ced3b4e7-1ac0-4b5c-9f1f-1572d1500553",
+      "season": 2,
+      "number": 5,
+      "name": "\"Jeppe eller hvad fuck de hedder\"",
+      "airdate": "2018-05-21"
+    },
+    {
+      "id": "618fc133-a8a2-4b1a-95d9-0a6d2fe3e7b5",
+      "season": 2,
+      "number": 6,
+      "name": "\"Kommer du?\"",
+      "airdate": "2018-05-28"
+    },
+    {
+      "id": "8485b889-df81-4393-9cc3-59e141da01aa",
+      "season": 3,
+      "number": 1,
+      "name": "\"Manden i mit liv\"",
+      "airdate": "2019-05-27"
+    },
+    {
+      "id": "4b852958-635d-4dd9-9ffd-b7c2758f9568",
+      "season": 3,
+      "number": 2,
+      "name": "\"Tror du, de er kærester?\"",
+      "airdate": "2019-06-03"
+    },
+    {
+      "id": "1b180079-bc78-47ad-b4fb-71e2377df02f",
+      "season": 3,
+      "number": 3,
+      "name": "\"Hjælp dig selv\"",
+      "airdate": "2019-06-10"
+    },
+    {
+      "id": "dba96bea-7987-42e8-9361-07b60ef67944",
+      "season": 3,
+      "number": 4,
+      "name": "Pausen",
+      "airdate": "2019-06-17"
+    },
+    {
+      "id": "203ede9a-0e73-458e-88a6-9b4860a0d380",
+      "season": 3,
+      "number": 5,
+      "name": "\"Jeg er lige her\"",
+      "airdate": "2019-06-24"
+    },
+    {
+      "id": "76a18ce1-4ba4-4dd0-90d9-7ae0a1c9d3f7",
+      "season": 3,
+      "number": 6,
+      "name": "\"Ind til benet\"",
+      "airdate": "2019-06-24"
+    }
+  ]
+}

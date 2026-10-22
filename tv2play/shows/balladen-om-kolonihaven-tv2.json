@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:balladen-om-kolonihaven-tv2",
+  "name": "Balladen om kolonihaven",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "719c7362-921f-4caa-b8d9-4f71eece7702",
+      "season": 1,
+      "number": 1,
+      "name": "Første vers",
+      "airdate": "2023-07-25"
+    },
+    {
+      "id": "e3adfc51-0b8f-4376-ae72-ea32e7f8b465",
+      "season": 1,
+      "number": 2,
+      "name": "Andet vers",
+      "airdate": "2023-07-25"
+    },
+    {
+      "id": "37d8c9b0-1c44-4dc6-8e22-cd5a58629455",
+      "season": 1,
+      "number": 3,
+      "name": "Tredje vers",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "712f755a-373d-4df8-b130-b7332ca5cf03",
+      "season": 1,
+      "number": 4,
+      "name": "Fjerde og sidste vers",
+      "airdate": "2023-08-08"
+    },
+    {
+      "id": "663c2628-afb1-438f-8086-4c4864106bd4",
+      "season": 2,
+      "number": 1,
+      "name": "Femte vers",
+      "airdate": "2024-11-05"
+    },
+    {
+      "id": "81ae3c6f-b266-4089-9e59-8b9bc0a15697",
+      "season": 2,
+      "number": 2,
+      "name": "Sjette vers",
+      "airdate": "2024-11-12"
+    },
+    {
+      "id": "01c10d0a-a583-4a9f-8f97-8bc56a2d9e1c",
+      "season": 2,
+      "number": 3,
+      "name": "Syvende vers",
+      "airdate": "2024-11-19"
+    },
+    {
+      "id": "deea845c-c8c6-4e5b-81eb-cbda05eb4d5f",
+      "season": 2,
+      "number": 4,
+      "name": "Ottende og sidste vers",
+      "airdate": "2024-11-26"
+    }
+  ]
+}

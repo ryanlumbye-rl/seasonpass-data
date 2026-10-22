@@ -1,0 +1,682 @@
+{
+  "id": "tv2play:dexter-skyshowtime",
+  "name": "Dexter",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "50d8fb27-f4c8-4504-8943-8937e43d4705",
+      "season": 1,
+      "number": 1,
+      "name": "Dexter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "73e57cfa-0fc8-4851-8397-135249cb3f18",
+      "season": 1,
+      "number": 2,
+      "name": "Crocodile",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5c977cf2-584f-42ff-80ac-b1b566a60c67",
+      "season": 1,
+      "number": 3,
+      "name": "Popping Cherry",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b08bde8d-d956-4653-9124-390674b3a555",
+      "season": 1,
+      "number": 4,
+      "name": "Let's Give The Boy A Hand",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5462b268-aa93-4b0a-9319-1fa7042ec804",
+      "season": 1,
+      "number": 5,
+      "name": "Love American Style",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1c2483fc-c95f-40f9-890b-ebf91e5f0b16",
+      "season": 1,
+      "number": 6,
+      "name": "Return To Sender",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "215c83e6-e119-47e6-b123-2bcc50ed5658",
+      "season": 1,
+      "number": 7,
+      "name": "Circle of Friends",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2c40d25f-6a50-438a-91ba-d693a520e530",
+      "season": 1,
+      "number": 8,
+      "name": "Shrink Wrap",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "af214ad3-fa7f-4722-ba52-bc41455552ee",
+      "season": 1,
+      "number": 9,
+      "name": "Father Knows Best",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dd5f7ec7-8056-4ba8-83fb-c8a74b6bd0b0",
+      "season": 1,
+      "number": 10,
+      "name": "Seeing Red",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a94b9e7b-fb7f-4005-8244-eea0ce0007a8",
+      "season": 1,
+      "number": 11,
+      "name": "Truth Be Told",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "048d8b3b-3a11-4db2-ae8a-c6f4cf797939",
+      "season": 1,
+      "number": 12,
+      "name": "Born Free",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aab79e0d-6c6c-48eb-bf15-5d1ba48d2d5a",
+      "season": 2,
+      "number": 1,
+      "name": "It's Alive",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0196b486-7e02-4b9e-92f1-2a88ecc272fe",
+      "season": 2,
+      "number": 2,
+      "name": "Waiting To Exhale",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5a5e2760-d316-4bad-91b5-a6cb3c0940f2",
+      "season": 2,
+      "number": 3,
+      "name": "An Inconvenient Lie",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7ad8b0c2-1632-4cb9-ba0a-c380d9bae44e",
+      "season": 2,
+      "number": 4,
+      "name": "See-Through",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "125fe315-d0fd-4edd-b911-f984fed88661",
+      "season": 2,
+      "number": 5,
+      "name": "The Dark Defender",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fee7bd9b-3878-4a00-87f6-7d43b7d093dd",
+      "season": 2,
+      "number": 6,
+      "name": "Dex, Lies and Videotape",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c55ae6b6-f9a2-4223-a592-2f7f54d91e09",
+      "season": 2,
+      "number": 7,
+      "name": "That Night, A Forest Grew",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "59fb8f58-1078-49c4-8626-26c9c2827581",
+      "season": 2,
+      "number": 8,
+      "name": "Morning Comes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2b39e776-2445-481d-8178-e5df0327c410",
+      "season": 2,
+      "number": 9,
+      "name": "Resistance Is Futile",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "208d4d75-faeb-4106-9f11-d621e13e366e",
+      "season": 2,
+      "number": 10,
+      "name": "There's Something About Harry",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9dd5db6b-cbd6-4622-830c-6ff0b2415808",
+      "season": 2,
+      "number": 11,
+      "name": "Left Turn Ahead",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "59fe9c4b-5f26-4938-a5d5-dfb864137ab5",
+      "season": 2,
+      "number": 12,
+      "name": "The British Invasion",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "151d959b-4a4f-4e3d-81dd-a4e8a56c5654",
+      "season": 3,
+      "number": 1,
+      "name": "Our Father",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "efbede52-605c-4a21-8edf-d0b99d8a950e",
+      "season": 3,
+      "number": 2,
+      "name": "Finding Freebo",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c92610ee-7b90-4ac0-87ff-c5e0341f67cb",
+      "season": 3,
+      "number": 3,
+      "name": "The Lion Sleeps Tonight",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e241e3fb-43df-46f5-bd9b-6c011be421b1",
+      "season": 3,
+      "number": 4,
+      "name": "All In The Family",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b15551eb-bb42-44e3-9f27-427216cb9cba",
+      "season": 3,
+      "number": 5,
+      "name": "Turning Biminese",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d883641-40fd-404a-b26d-eca2ae1bd3d3",
+      "season": 3,
+      "number": 6,
+      "name": "Si Se Puede",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a60bda75-7a03-43d8-8437-b4e9e4a25148",
+      "season": 3,
+      "number": 7,
+      "name": "Easy As Pie",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4e545806-d8ed-480f-9c2d-8c2742c0bcc5",
+      "season": 3,
+      "number": 8,
+      "name": "The Damage A Man Can Do",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "79dddb7e-0dd1-409d-9b4c-4dee75c8272a",
+      "season": 3,
+      "number": 9,
+      "name": "About Last Night",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f0da3272-22d6-42c9-b500-b5fcbcbe6013",
+      "season": 3,
+      "number": 10,
+      "name": "Go Your Own Way",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2ef42a03-593b-45d4-a9f2-953771485c10",
+      "season": 3,
+      "number": 11,
+      "name": "I Had A Dream",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "85619ac7-0c36-4203-a6a1-94e497a2602c",
+      "season": 3,
+      "number": 12,
+      "name": "Do You Take Dexter Morgan?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e1d4011b-48d0-45d9-a657-4d83b67f2d84",
+      "season": 4,
+      "number": 1,
+      "name": "Living The Dream",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ef01043c-8498-46b8-9d2b-1d1b067d5c5e",
+      "season": 4,
+      "number": 2,
+      "name": "Remains To Be Seen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bbcbbeca-35a7-4a75-bde1-f05c7d4fbd1b",
+      "season": 4,
+      "number": 3,
+      "name": "Blinded By The Light",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3e784eda-3670-42b3-86ec-817cbbe56eba",
+      "season": 4,
+      "number": 4,
+      "name": "Dex Takes A Holiday",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d000ffcf-f777-4ed2-ad26-ab354486adc5",
+      "season": 4,
+      "number": 5,
+      "name": "Dirty Harry",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eaea51c9-d96e-415a-b90d-057e306eb6da",
+      "season": 4,
+      "number": 6,
+      "name": "If I Had A Hammer",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "afdaa524-f792-44f0-be9a-78835e80a373",
+      "season": 4,
+      "number": 7,
+      "name": "Slack Tide",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e43ee4ab-354d-4f4b-9894-2bc998d48390",
+      "season": 4,
+      "number": 8,
+      "name": "Road Kill",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e570c95f-e85e-4f86-bad2-495078760c6b",
+      "season": 4,
+      "number": 9,
+      "name": "Hungry Man",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aecaca2a-5b6e-4daf-97dd-b63241715f12",
+      "season": 4,
+      "number": 10,
+      "name": "Lost Boys",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "db82af63-14ca-4faf-a2de-25f937990a58",
+      "season": 4,
+      "number": 11,
+      "name": "Hello, Dexter Morgan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "576345ca-96ed-4363-9ac3-13fd090c312a",
+      "season": 4,
+      "number": 12,
+      "name": "The Getaway",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ce910418-6f93-4747-8c3e-20189e2bcadc",
+      "season": 5,
+      "number": 1,
+      "name": "My Bad",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3c4e62a4-4e99-40db-8533-e1dbfe10ec07",
+      "season": 5,
+      "number": 2,
+      "name": "Hello Bandit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ab773542-d59c-4c7f-beac-d94e516f45a5",
+      "season": 5,
+      "number": 3,
+      "name": "Practically Perfect",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cef934e0-0ccf-49af-be45-21315c1228b0",
+      "season": 5,
+      "number": 4,
+      "name": "Beauty and the Beast",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "24483915-3183-4ac2-8666-6542dd33af15",
+      "season": 5,
+      "number": 5,
+      "name": "First Blood",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3bc6f50d-b91e-413c-933a-197963fa77fc",
+      "season": 5,
+      "number": 6,
+      "name": "Everything Is Illuminated",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "91f7c1a3-fcff-4b31-bb87-1de899bf5d52",
+      "season": 5,
+      "number": 7,
+      "name": "Circle Us",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e21b24ae-444b-498d-abb0-eec9b855bdeb",
+      "season": 5,
+      "number": 8,
+      "name": "Take It!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "21bf172e-02b5-46fd-a1ae-6e0aac163b83",
+      "season": 5,
+      "number": 9,
+      "name": "Teenage Wasteland",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "108bbd79-165e-4a82-b1b6-5dc1c10da4c7",
+      "season": 5,
+      "number": 10,
+      "name": "In The Beginning",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "39460f53-f5d7-466d-9a43-f29372023f61",
+      "season": 5,
+      "number": 11,
+      "name": "Hop A Freighter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "60b9dbbe-dae6-4818-a005-7d502544a051",
+      "season": 5,
+      "number": 12,
+      "name": "The Big One",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0d01f277-ac5b-4ff4-9090-b4f7148a1544",
+      "season": 6,
+      "number": 1,
+      "name": "Those Kinds of Things",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5876b402-da5c-489b-8bc8-01cf603b3aee",
+      "season": 6,
+      "number": 2,
+      "name": "One Upon a Time",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c80ff479-9c40-4976-84b5-0db20d8b3e47",
+      "season": 6,
+      "number": 3,
+      "name": "Smokey and the Bandit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aaed7b9e-a4a1-4172-a948-72cdc9805483",
+      "season": 6,
+      "number": 4,
+      "name": "A Horse of a Different Color",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "72cc81de-b98e-406e-859b-8628bc4d648e",
+      "season": 6,
+      "number": 5,
+      "name": "The Angel of Death",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2e3c3586-f6fe-4642-affc-0a1463516db2",
+      "season": 6,
+      "number": 6,
+      "name": "Just Let Go",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "467763cd-810c-4c96-acb7-e57b271ca224",
+      "season": 6,
+      "number": 7,
+      "name": "Nebraska",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "29ece709-1603-43ee-8c5f-1d5e5189989d",
+      "season": 6,
+      "number": 8,
+      "name": "Sin of Omission",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bfc6653d-6970-457e-8d57-ced238879a2c",
+      "season": 6,
+      "number": 9,
+      "name": "Get Gellar",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "771d9398-0327-4f1e-89b6-bc25c6d6260b",
+      "season": 6,
+      "number": 10,
+      "name": "Ricochet Rabbit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "83764cb0-69b4-436b-81b2-43b2356481c5",
+      "season": 6,
+      "number": 11,
+      "name": "Talk to the Hand",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1a11bee0-b78f-4cef-bd9c-289b5709d543",
+      "season": 6,
+      "number": 12,
+      "name": "This is the Way the World Ends",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b2dbce5f-b7ca-4110-abc0-11306e41dbad",
+      "season": 7,
+      "number": 1,
+      "name": "Are You...?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3604f527-c574-4c63-b453-4ffe77579452",
+      "season": 7,
+      "number": 2,
+      "name": "Sunshine and Frosty Swirl",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f63836ad-0807-4d39-90f8-fbe010c69d8c",
+      "season": 7,
+      "number": 3,
+      "name": "Buck The System",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "17ff7241-6e88-47b8-a6de-c458551d747f",
+      "season": 7,
+      "number": 4,
+      "name": "Run",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8670b694-dcc6-4657-a192-6e1537b08479",
+      "season": 7,
+      "number": 5,
+      "name": "Swim Deep",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "721a9cf9-cdbc-4e02-b7c3-173baaca1cfc",
+      "season": 7,
+      "number": 6,
+      "name": "Do the Wrong Thing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aa863fd3-51dd-4324-a9e4-bc11f62cacf5",
+      "season": 7,
+      "number": 7,
+      "name": "Chemistry",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "94deddbf-f02c-4d31-a4a9-936022e897ed",
+      "season": 7,
+      "number": 8,
+      "name": "Argentina",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "11866e64-cba8-4137-9242-901f7ab15ff0",
+      "season": 7,
+      "number": 9,
+      "name": "Helter Skelter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5fe89ad7-bc66-425a-bfe0-094e507d6fd2",
+      "season": 7,
+      "number": 10,
+      "name": "The Dark... Whatever",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c064923c-ec31-45b7-b6cb-4705bf75729a",
+      "season": 7,
+      "number": 11,
+      "name": "Do You See What I See?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5024fdb6-7a51-4001-92d7-dce7ee501ad6",
+      "season": 7,
+      "number": 12,
+      "name": "Surprise, Motherfucker!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1dfc25f4-e227-4e3e-b714-9e0dfa2925bd",
+      "season": 8,
+      "number": 1,
+      "name": "A Beautiful Day",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "098501a3-032c-48d9-b579-c5c87b43f53e",
+      "season": 8,
+      "number": 2,
+      "name": "Every Silver Lining...",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "08c3a4a8-924e-4ecf-95e4-1cbc79fd9c62",
+      "season": 8,
+      "number": 3,
+      "name": "What's Eating Dexter Morgan?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "286dd64e-ca34-4b11-867b-3664377c920a",
+      "season": 8,
+      "number": 4,
+      "name": "Scar Tissue",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "973aed6d-af27-4b96-93e2-f51dca9586a3",
+      "season": 8,
+      "number": 5,
+      "name": "This Little Piggy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ec44c78b-0d5a-4ca9-a00a-627561f2a796",
+      "season": 8,
+      "number": 6,
+      "name": "A Little Reflection",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6d88b198-845d-46f6-ba6e-bdb36c2f3649",
+      "season": 8,
+      "number": 7,
+      "name": "Dress Code",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "69bdc020-44f4-489b-b742-cf7893609622",
+      "season": 8,
+      "number": 8,
+      "name": "Are We There Yet?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a9936302-2544-4e54-82dd-29baed078c6d",
+      "season": 8,
+      "number": 9,
+      "name": "Make Your Own Kind of Music",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3923918c-78d4-4e5a-8ae0-d3fa1d785cf1",
+      "season": 8,
+      "number": 10,
+      "name": "Goodbye Miami",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8a5cbe9a-af01-4119-9ae4-973246a4b43f",
+      "season": 8,
+      "number": 11,
+      "name": "Monkey in a Box",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c8655c02-f796-4fdf-bcc2-ee153fe6d813",
+      "season": 8,
+      "number": 12,
+      "name": "Remember the Monsters?",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

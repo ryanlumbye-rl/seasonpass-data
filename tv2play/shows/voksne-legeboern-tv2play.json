@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:voksne-legeboern-tv2play",
+  "name": "Voksne legebørn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "67931eac-72fe-490d-85cb-7e9118356825",
+      "season": 1,
+      "number": 1,
+      "name": "Helt vild med Pokémon",
+      "airdate": "2026-06-12"
+    },
+    {
+      "id": "6de8985a-63b6-4a72-8487-3f40bb6f5822",
+      "season": 1,
+      "number": 2,
+      "name": "Helt vild med legetøjsfigurer",
+      "airdate": "2026-06-12"
+    },
+    {
+      "id": "1f0353d6-7068-4427-9e4e-8f64f5f91786",
+      "season": 1,
+      "number": 3,
+      "name": "Helt vild med rollespil",
+      "airdate": "2026-06-12"
+    },
+    {
+      "id": "e5d4e51d-4516-4785-b57c-d3f9ebf33d93",
+      "season": 1,
+      "number": 4,
+      "name": "Helt vild med at lege",
+      "airdate": "2026-06-12"
+    }
+  ]
+}

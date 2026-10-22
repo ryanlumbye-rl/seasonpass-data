@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:herlige-haver-tv2play",
+  "name": "Herlige haver",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a959c9ef-3a01-47f2-bea2-eda4d16f1682",
+      "season": 2,
+      "number": 1,
+      "name": "Nybyggerhave til tusindvis af kroner",
+      "airdate": "2026-09-06"
+    },
+    {
+      "id": "47973df1-1575-4705-9715-5374e60e0c16",
+      "season": 2,
+      "number": 2,
+      "name": "Sten her, der og alle vegne",
+      "airdate": "2026-09-20"
+    },
+    {
+      "id": "d161d46f-4b0b-4be7-a3f7-9422fe1e0c0e",
+      "season": 2,
+      "number": 3,
+      "name": "Med stjålne blomster fra berømt have",
+      "airdate": "2026-09-27"
+    }
+  ]
+}

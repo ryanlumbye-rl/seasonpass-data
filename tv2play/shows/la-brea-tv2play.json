@@ -1,0 +1,220 @@
+{
+  "id": "tv2play:la-brea-tv2play",
+  "name": "La Brea",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a4fe5c49-6b99-487e-b05c-27136c4ec173",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "fc2a8a33-d212-409b-9690-a24b12da1452",
+      "season": 1,
+      "number": 2,
+      "name": "Day Two",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "480338ad-d793-4a56-9e02-9eb036dd65cb",
+      "season": 1,
+      "number": 3,
+      "name": "The Hunt",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "8f3a4f1a-b49e-43d9-85e6-075e95454cd7",
+      "season": 1,
+      "number": 4,
+      "name": "The New Arrival",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "eb02d946-8021-485c-a1f1-bdf2a9014076",
+      "season": 1,
+      "number": 5,
+      "name": "The Fort",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "21ecf79e-3648-41ca-8fda-0deeb75af00c",
+      "season": 1,
+      "number": 6,
+      "name": "The Way Home",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "6db2ce70-0670-409c-80da-5fc6a2fb75e1",
+      "season": 1,
+      "number": 7,
+      "name": "The Storm",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "e766c9c8-00db-42f2-ac15-3cafdc93a9a6",
+      "season": 1,
+      "number": 8,
+      "name": "Origins",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "0ed6c647-83b4-4225-a6df-579f919b0fd7",
+      "season": 1,
+      "number": 9,
+      "name": "Fathers and Sons",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "e9a626e4-4ff9-429b-a8ef-83f11efc0130",
+      "season": 1,
+      "number": 10,
+      "name": "Topanga",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "d31965c6-75da-482d-9e06-18503af5eca9",
+      "season": 2,
+      "number": 1,
+      "name": "The Next Day",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "d271b763-21b3-413d-bcfa-fd9e9bfaad0a",
+      "season": 2,
+      "number": 2,
+      "name": "The Cave",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "3c0dcbb5-db7b-4b83-9685-9690e109d974",
+      "season": 2,
+      "number": 3,
+      "name": "The Great Escape",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "89137fde-1c65-4961-9a6f-0992ce031294",
+      "season": 2,
+      "number": 4,
+      "name": "The Fog",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "a091afb0-80f4-4764-a81c-245544353470",
+      "season": 2,
+      "number": 5,
+      "name": "The Heist",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "600b0a1c-3588-4a3f-aba9-22f6a8fe10a1",
+      "season": 2,
+      "number": 6,
+      "name": "Lazarus",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "c8daa899-cbc4-49c3-8abd-4b1c8d8483ba",
+      "season": 2,
+      "number": 7,
+      "name": "1988",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "c8bd4b08-a0ae-467b-bb83-75c7125e9f7d",
+      "season": 2,
+      "number": 8,
+      "name": "Stampede",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "7b9a970b-181d-45e2-9564-e1babb7d8dc9",
+      "season": 2,
+      "number": 9,
+      "name": "Murder in the Clearing",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "efb87d5a-70e7-4c8f-8127-0d4c4b4554a3",
+      "season": 2,
+      "number": 10,
+      "name": "The Return",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "0e54e024-2ae2-4209-885d-4dc7fb6f8680",
+      "season": 2,
+      "number": 11,
+      "name": "The Wedding",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "d1f07e73-99bd-4565-b3ea-67edc94b7211",
+      "season": 2,
+      "number": 12,
+      "name": "The Swarm",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "3b4950cc-6c44-47c8-922e-db7fc30c40a8",
+      "season": 2,
+      "number": 13,
+      "name": "The Journey - Part 1",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "3cf5f9cd-0dc9-46b4-9fc6-8f98c4d28a9c",
+      "season": 2,
+      "number": 14,
+      "name": "The Journey - Part 2",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "dab579c6-91cf-4e72-a791-aff9cdaeb34e",
+      "season": 3,
+      "number": 1,
+      "name": "Sierra",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "877e57b8-4768-4865-83d9-1ec56c7a70ec",
+      "season": 3,
+      "number": 2,
+      "name": "Don't Look Up",
+      "airdate": "2027-01-01"
+    },
+    {
+      "id": "784cc3d7-c2d4-4c75-9254-235f2615401a",
+      "season": 3,
+      "number": 3,
+      "name": "Maya",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "85d08eeb-557b-4442-bbd1-15c1e597a9a6",
+      "season": 3,
+      "number": 4,
+      "name": "Fire Storm",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "012ba421-5969-4156-ab3e-20051a4c7913",
+      "season": 3,
+      "number": 5,
+      "name": "The Road Home - Part 1",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "86fd7abe-6073-44f3-b08d-895a8545ffb7",
+      "season": 3,
+      "number": 6,
+      "name": "The Road Home - Part 2",
+      "airdate": "2027-01-01"
+    }
+  ]
+}

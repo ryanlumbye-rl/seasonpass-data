@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:den-sidste-breddegrad-tv2",
+  "name": "Den sidste breddegrad",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6d375a78-d398-4c11-8659-ba671b0a2aea",
+      "season": 1,
+      "number": 1,
+      "name": "Et nyt eventyr",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "83b4c970-bfc1-425e-b064-6354fafda9f9",
+      "season": 1,
+      "number": 2,
+      "name": "Den svære beslutning",
+      "airdate": "2023-02-13"
+    },
+    {
+      "id": "ff4cdfc2-f048-483c-8175-f38977145027",
+      "season": 1,
+      "number": 3,
+      "name": "Generalprøven",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "401f67c8-251e-4529-bf56-7c2b30b7f591",
+      "season": 1,
+      "number": 4,
+      "name": "Eventyret begynder",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "5522d98a-d028-4fb6-a9bb-4328d64765b8",
+      "season": 1,
+      "number": 5,
+      "name": "Sammen over isen",
+      "airdate": "2023-02-27"
+    },
+    {
+      "id": "cce09184-a7f7-40dc-9630-66309a40a5d8",
+      "season": 1,
+      "number": 6,
+      "name": "Mod målet",
+      "airdate": "2023-03-06"
+    }
+  ]
+}

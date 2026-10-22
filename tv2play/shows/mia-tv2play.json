@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:mia-tv2play",
+  "name": "M.I.A.",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "216d9752-5cca-4b93-9d15-7cadf6240a5b",
+      "season": 1,
+      "number": 1,
+      "name": "Revenge",
+      "airdate": "2026-09-03"
+    },
+    {
+      "id": "95598090-c3ca-4737-b5ee-ab6dd2e693ac",
+      "season": 1,
+      "number": 2,
+      "name": "Orphans",
+      "airdate": "2026-09-03"
+    },
+    {
+      "id": "c414b1d6-0cbb-4f86-88d7-c4a262243352",
+      "season": 1,
+      "number": 3,
+      "name": "American Immigrant",
+      "airdate": "2026-09-03"
+    },
+    {
+      "id": "dfb019e2-1812-476d-b6b4-4a2d14dfd319",
+      "season": 1,
+      "number": 4,
+      "name": "Can't Hardly Carlito",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "ee90f687-ff91-4464-bdf3-7300bfc48171",
+      "season": 1,
+      "number": 5,
+      "name": "Faultlines",
+      "airdate": "2026-09-17"
+    },
+    {
+      "id": "facc6df2-7dad-49da-a2ad-f5bb8f48af3e",
+      "season": 1,
+      "number": 6,
+      "name": "Original Sin",
+      "airdate": "2026-09-24"
+    },
+    {
+      "id": "4d199d02-e4ba-4d1c-91b7-9eaf38798152",
+      "season": 1,
+      "number": 7,
+      "name": "Hammer Drop",
+      "airdate": "2026-10-01"
+    },
+    {
+      "id": "3bbc37eb-9c71-4f34-b703-01de2380d12d",
+      "season": 1,
+      "number": 8,
+      "name": "Heart Matters",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "26e952b0-fb39-45be-b56c-6ceb58b9715f",
+      "season": 1,
+      "number": 9,
+      "name": "Aperture",
+      "airdate": "2026-10-15"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:kryb-og-krudtugler-oiii",
+  "name": "Kryb og krudtugler",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d020b098-1862-4dcd-83bb-2f11a8c769da",
+      "season": 1,
+      "number": 1,
+      "name": "Løvfrø - Eskild og Arthur",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "2574dfd3-169a-45af-b442-dc35608a4458",
+      "season": 1,
+      "number": 2,
+      "name": "Husedderkop - Scarlett og Emilie",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "501a0fc5-84aa-4439-b25e-220e344fdd5e",
+      "season": 1,
+      "number": 3,
+      "name": "Tangnål - Rasmus og Valdemar",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "b8e2129e-953c-4877-b6fe-434c2a21fa09",
+      "season": 1,
+      "number": 4,
+      "name": "Snog - Hans Lui og Veronica",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "673b5ad4-4c14-4c64-91be-c9cbf795323b",
+      "season": 1,
+      "number": 5,
+      "name": "Den store vandsalamander - Alfred og Jonas",
+      "airdate": "2021-10-24"
+    },
+    {
+      "id": "8f995b7c-f0a2-4624-a18f-0b029cb09ed0",
+      "season": 1,
+      "number": 6,
+      "name": "Carabus-løbebille - Teo og Lili",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "a4dcd0d7-3a2d-4a4e-bed3-f64df16911a4",
+      "season": 1,
+      "number": 7,
+      "name": "Markfirben - Eigil og Stine",
+      "airdate": "2021-10-24"
+    },
+    {
+      "id": "f62ebd10-773b-4da7-a8fc-250670a6db8d",
+      "season": 1,
+      "number": 8,
+      "name": "Den lakrøde møgbille - Bastian og Neil",
+      "airdate": "2021-10-16"
+    }
+  ]
+}

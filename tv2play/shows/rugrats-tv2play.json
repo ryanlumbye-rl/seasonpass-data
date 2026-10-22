@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:rugrats-tv2play",
+  "name": "Rugrats",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "98530876-9f0d-4f8f-a953-59a6615a301d",
+      "season": 3,
+      "number": 1,
+      "name": "Tigereventyr",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "9b3d40b4-99df-4b01-af0f-5a484108c9b6",
+      "season": 3,
+      "number": 2,
+      "name": "Bogorm",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "bbadb769-b3c1-44c0-85ad-873b5bfd79c9",
+      "season": 3,
+      "number": 3,
+      "name": "Mudderby",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "3602a57c-189e-40ba-8644-c4653f3502ec",
+      "season": 3,
+      "number": 4,
+      "name": "Flødeisbjerget",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "dfaa41da-8b6e-4c71-95d9-a7f782adabdc",
+      "season": 3,
+      "number": 5,
+      "name": "Ørkenturen",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "b29da09a-e39e-4c92-ae1f-7941c6f8ce36",
+      "season": 3,
+      "number": 6,
+      "name": "En vild dukke",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "023baf60-21eb-4fd9-9088-75c57cb8a7bd",
+      "season": 3,
+      "number": 7,
+      "name": "Skovvenner",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "10519d33-810c-432a-a1e8-22dc65323fcd",
+      "season": 3,
+      "number": 8,
+      "name": "Trehjulsdrengen",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "b3ba5f1a-76dc-4178-be12-f6a4c5731dc6",
+      "season": 3,
+      "number": 9,
+      "name": "Nytår på glat is",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "c69d2931-ebaf-44aa-b1ac-b05c5b1f0927",
+      "season": 3,
+      "number": 10,
+      "name": "Blomsterpige",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "78bcf6f8-24ed-4214-9da5-32f9053cce98",
+      "season": 3,
+      "number": 11,
+      "name": "Legetøjskisten",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "1d27ff21-29fd-48a2-94af-f27e36ea32ce",
+      "season": 3,
+      "number": 12,
+      "name": "Middagsgæsten",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "9771535d-3b10-4825-9d5a-e578c362fdc6",
+      "season": 3,
+      "number": 13,
+      "name": "Den store kagedag - del 1",
+      "airdate": "2026-09-19"
+    },
+    {
+      "id": "858e8156-cd92-49da-9013-ee568cd2f2d7",
+      "season": 3,
+      "number": 14,
+      "name": "Den store kagedag - del 2",
+      "airdate": "2026-09-19"
+    }
+  ]
+}

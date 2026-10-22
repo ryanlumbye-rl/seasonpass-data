@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:the-lazarus-project-tv2play",
+  "name": "The Lazarus Project",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0db1dfb9-fd25-4cca-bc87-4c11ea017a2d",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "cbf43a51-29ca-49c9-a4b2-e6586012c926",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "fba60981-3b2c-45c6-9afb-138a8d7fcc43",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "31b43de3-d301-407c-ad5e-3e21afbd4260",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "3a61dc9f-a7c4-4995-a60d-ea41f4c0b3fb",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "bb1ab9dc-a3a8-4e81-a32c-0b81214b4f03",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "d0b8d48e-dbb6-4d30-997a-e6c302471b43",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "46120c7f-e248-4c2d-90e5-69b479c8563b",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-12-01"
+    }
+  ]
+}

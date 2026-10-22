@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:feltet-usa-tv2charlie",
+  "name": "Feltet USA",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "543b9130-e7a4-43f3-a011-62d097b0e935",
+      "season": 1,
+      "number": 1,
+      "name": "Lad duellen begynde",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "890042f8-bde0-48b3-bc79-9f66c99829e9",
+      "season": 1,
+      "number": 2,
+      "name": "Det har vi ventet på",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "c3ee7ddb-ade6-4199-b5e1-bf7897eabae2",
+      "season": 1,
+      "number": 3,
+      "name": "En sand gyser",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "c4f5d0e5-fe0f-4eef-97db-b88eb0afb41d",
+      "season": 1,
+      "number": 4,
+      "name": "Alt kan ændre sig",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "7219992c-6fa2-4e67-b83a-2d7c381bed65",
+      "season": 1,
+      "number": 5,
+      "name": "Det spidser til",
+      "airdate": "2026-04-18"
+    },
+    {
+      "id": "68b3ba6a-e2a5-4edc-94ad-8708ee1ce130",
+      "season": 1,
+      "number": 6,
+      "name": "En rutineret spiller",
+      "airdate": "2026-04-18"
+    },
+    {
+      "id": "88d59329-dd2a-483a-b9ed-ce2d6a9af18d",
+      "season": 1,
+      "number": 7,
+      "name": "Ude af konkurrencen",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "006a7578-1cd6-4690-89a4-6de284122987",
+      "season": 1,
+      "number": 8,
+      "name": "Gulvets konger",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "30c2980d-30dc-4efb-bebd-a3a42635b0a9",
+      "season": 1,
+      "number": 9,
+      "name": "Èt skridt fra sejren",
+      "airdate": "2026-05-02"
+    },
+    {
+      "id": "2bbbcea1-e34a-42e4-a7ad-41e37ef6f979",
+      "season": 1,
+      "number": 10,
+      "name": "Den sidste duel",
+      "airdate": "2026-05-02"
+    }
+  ]
+}

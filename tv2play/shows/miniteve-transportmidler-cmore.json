@@ -1,0 +1,353 @@
+{
+  "id": "tv2play:miniteve-transportmidler-cmore",
+  "name": "Miniteve: Transportmidler",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "28d35bd1-e28c-4993-9b4d-7704fe20789a",
+      "season": 1,
+      "number": 1,
+      "name": "Bus kører ud fra busparkeringen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "024c0711-18ef-46f4-a4e6-53f15df443f1",
+      "season": 1,
+      "number": 2,
+      "name": "Buschaufføren kører i den røde bus",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "27378e8b-4629-450e-849c-5685769a3538",
+      "season": 1,
+      "number": 3,
+      "name": "Bussen bliver vasket i vaskehallen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "254e1c1b-8d99-4026-aa4b-98cd195654f4",
+      "season": 1,
+      "number": 4,
+      "name": "Bådehavn",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "c0188bb9-3c96-42a4-913b-82c7ac33fd6c",
+      "season": 1,
+      "number": 5,
+      "name": "Grøn bus",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "fc17b70c-863c-4d79-96fd-1aabf6f305ad",
+      "season": 1,
+      "number": 6,
+      "name": "Stor gummiged løfter sten",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "7f9fe9ee-9bd3-480f-b01f-d7ff1e9fae39",
+      "season": 1,
+      "number": 7,
+      "name": "Mekaniker reparerer hejst bus",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "d92a92b8-8b9a-49a2-88a9-f64e43e48d4b",
+      "season": 1,
+      "number": 8,
+      "name": "Mange busser holder på parkeringspladsen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "00182f02-a457-4fb8-a13f-fda63f6a6932",
+      "season": 1,
+      "number": 9,
+      "name": "Pendlertog forlader stationen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "2e229680-6c1c-41de-ade6-3c2a3705ac8e",
+      "season": 1,
+      "number": 10,
+      "name": "Radiostyret bil",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "ec0bda37-b50c-4752-b10c-89e35fa44a4c",
+      "season": 1,
+      "number": 11,
+      "name": "Sporvogn",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "c4e39760-8c63-4b0f-9d2e-5eeb42f23e99",
+      "season": 1,
+      "number": 12,
+      "name": "Stor båd, fartøj",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1429eed9-6ce4-49a9-a7be-0c6b7a4f55ce",
+      "season": 1,
+      "number": 13,
+      "name": "Brandvæsenet får alarm",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "ac6e924f-706f-4656-b1f5-a4a837d46ac3",
+      "season": 1,
+      "number": 14,
+      "name": "Brandmand tager arbejdstøjet på",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "63c34e19-df8d-43c3-b942-47aa72c4d3e7",
+      "season": 1,
+      "number": 15,
+      "name": "Brandmand klatrer højt op på brandstigen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "256ee49f-0488-4c98-ab5f-e91f916eae21",
+      "season": 1,
+      "number": 16,
+      "name": "Lille Ludvig vasker brandbilen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "083357c3-c42e-450f-9c6b-fd5485c4b92a",
+      "season": 1,
+      "number": 17,
+      "name": "Lille Ludvig vasker brandbilen (uden tale)",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1bba7914-5b93-4bf3-a49f-e4590a7c4a18",
+      "season": 1,
+      "number": 18,
+      "name": "Politiet slår sirenen til",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "4d32e8db-3d62-434e-ad3e-814baef7a1bf",
+      "season": 1,
+      "number": 19,
+      "name": "Politibilen bliver vasket i vaskehallen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "a38674b2-0c70-411c-861f-56967a98a6e1",
+      "season": 1,
+      "number": 20,
+      "name": "Politiet kører i politibiler",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "34ea03d5-c7bc-4558-9efa-c7bd55b2aeef",
+      "season": 1,
+      "number": 21,
+      "name": "Cementbil",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "ecb7e22d-e262-4272-b746-5416030ccb31",
+      "season": 1,
+      "number": 22,
+      "name": "Cementbilen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "168b74f8-c980-47a2-afe5-494c685571cf",
+      "season": 1,
+      "number": 23,
+      "name": "Lastbil med anhænger",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "fae98b62-c03e-4983-8780-5deee37fc442",
+      "season": 1,
+      "number": 24,
+      "name": "Lastbil tømmer ladet",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "123e40e9-d44d-4c42-a375-ec5896c13c92",
+      "season": 1,
+      "number": 25,
+      "name": "Små og store lastbiler kører fra borde",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "5868db9c-ac3c-4e6a-9188-16268a30bcbb",
+      "season": 1,
+      "number": 26,
+      "name": "Lille sneplov på isen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "47a50a04-6de6-4401-b149-9c29a61126c5",
+      "season": 1,
+      "number": 27,
+      "name": "Sneploven pløjer sne",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "79f15b16-c690-4c82-bbfb-17ec48827cbc",
+      "season": 1,
+      "number": 28,
+      "name": "Skraldebilen henter skrald",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "8ef4ceca-e788-42e8-bbc4-d8c9929449a4",
+      "season": 1,
+      "number": 29,
+      "name": "Skraldebilen tømmer glas",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "683ebce2-d15c-4da8-b90f-de38f9a7d675",
+      "season": 1,
+      "number": 30,
+      "name": "Skraldebil, gravemaskine, gummiged, affaldskværn",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "ce58fc28-46f8-4401-abcb-d2a085f8c966",
+      "season": 1,
+      "number": 31,
+      "name": "Stor skraldebil tømmer skraldespand",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "fad7ed27-7f6b-4c0d-a77e-6e7f6394c625",
+      "season": 1,
+      "number": 32,
+      "name": "Traktor med lang anhænger",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "5b8278ff-9e37-4bc7-a492-8cce0f6f46a4",
+      "season": 1,
+      "number": 33,
+      "name": "To skraldebiler tømmer affald på lossepladsen",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "2ae8739a-fd61-4a86-8b08-588d8e5ec0bc",
+      "season": 1,
+      "number": 34,
+      "name": "Transportmidler",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "099e125c-44fe-4ff2-8c8b-abc967ea5daf",
+      "season": 1,
+      "number": 35,
+      "name": "Fodgængerfelt",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "ba4b3922-f37e-49e0-bd6c-f715b15e70bd",
+      "season": 1,
+      "number": 36,
+      "name": "Rød sneplov",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "46f8ec29-ba58-4f95-8df6-77c23c6f5856",
+      "season": 1,
+      "number": 37,
+      "name": "Sneplov",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "88c8e546-4364-4ff4-bd7b-fa6f0cf8ff36",
+      "season": 1,
+      "number": 38,
+      "name": "I flyet og i cockpittet",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "d720191f-99db-4a97-8a4d-6fd32da902f3",
+      "season": 1,
+      "number": 39,
+      "name": "Propelfly",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1a926ac0-d2ee-4734-94c6-7d114707df03",
+      "season": 1,
+      "number": 40,
+      "name": "Jetfly",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "9da19b64-f545-4c37-b0cc-bb19b7f2fdec",
+      "season": 1,
+      "number": 41,
+      "name": "Fly letter",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "914e6af0-ed39-40e9-9c94-8f28c2b58bf2",
+      "season": 1,
+      "number": 42,
+      "name": "Firehjulstrækker",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "e2c4a10b-419f-420f-9f33-18998c6ca357",
+      "season": 1,
+      "number": 43,
+      "name": "Dumper læsser grus af",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "d2c7471e-5f1d-4505-9d42-f256436aac30",
+      "season": 1,
+      "number": 44,
+      "name": "Gravko fjerner asfalt",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "8ec792a6-e8db-46f8-a0aa-618eb7e7ad8f",
+      "season": 1,
+      "number": 45,
+      "name": "Gummiged læsser grus på en dumper",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "6c2b8b8e-9eb3-4828-a7c6-2518e7f7ea80",
+      "season": 1,
+      "number": 46,
+      "name": "Gravko med klo løfter store sten",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "c1a0f1f2-0e8d-4139-af4c-acbc208d7ed5",
+      "season": 1,
+      "number": 47,
+      "name": "Lægge asfalt",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "86483a98-8134-454d-94f7-c32cb7fc28de",
+      "season": 1,
+      "number": 48,
+      "name": "Minigraver graver småsten",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "13212abd-a1a1-4472-bc7d-b4d12e973759",
+      "season": 1,
+      "number": 49,
+      "name": "Stor gravko på larvefødder graver",
+      "airdate": "2024-02-14"
+    }
+  ]
+}

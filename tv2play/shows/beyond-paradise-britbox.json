@@ -1,0 +1,199 @@
+{
+  "id": "tv2play:beyond-paradise-britbox",
+  "name": "Beyond Paradise",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4c0ae7b0-ede0-47a6-a5c1-9fe23e0cd8f3",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "b7861d38-8a02-44bb-b9bc-4d903874add0",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "5f43f1e5-ed62-4b10-b6ec-3a698dfec4fe",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "3c78f1d5-b148-43dc-abe2-d96dc3dc31ca",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "f4b5fa4a-57fc-4e9e-be95-94a6aa61d02d",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "06e33966-9e8a-4ad9-ad10-c3d54be5ddfb",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "422a63e4-ff07-4d6c-84e5-4527a2da8649",
+      "season": 1,
+      "number": 7,
+      "name": "Christmas Special 2023",
+      "airdate": "2023-12-22"
+    },
+    {
+      "id": "2b6a0b2b-3895-45b8-9a7e-e47f94bcfa01",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "7098081b-7987-4060-b21a-d8c1c99294d3",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "648b431c-3833-43fc-89b2-88b442d88559",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-05-01"
+    },
+    {
+      "id": "d8784907-0253-4f93-a396-477c646300ee",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-05-01"
+    },
+    {
+      "id": "bc439376-3cd9-4888-ae54-dea62939d5d3",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "d51f47ad-f56f-4af2-a3d8-29634490a374",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "40883827-6ba2-410e-b891-c8e4634a7efa",
+      "season": 2,
+      "number": 7,
+      "name": "Christmas Special 2024",
+      "airdate": "2024-12-24"
+    },
+    {
+      "id": "8b0cab98-0b66-4c30-a62b-34dc181a9fda",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-16"
+    },
+    {
+      "id": "e9bd0f84-33e8-4245-874b-122849606a5f",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-16"
+    },
+    {
+      "id": "1b6ddc90-92eb-4577-a9dd-260d96228c7e",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-04-23"
+    },
+    {
+      "id": "4d043e29-53f6-41eb-952b-3a854ee6a0a8",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-04-30"
+    },
+    {
+      "id": "ea917e91-4c98-414a-b8ef-ff4d239bb8e8",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-05-07"
+    },
+    {
+      "id": "c9659b60-0488-42a5-a097-c864136c7940",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-05-14"
+    },
+    {
+      "id": "5847f6d0-fed4-4108-9e95-76caeda3d7ed",
+      "season": 3,
+      "number": 7,
+      "name": "Christmas Special 2025",
+      "airdate": "2025-12-24"
+    },
+    {
+      "id": "6f537ae3-c8e9-46da-81e7-296f0c7300c4",
+      "season": 4,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-05-20"
+    },
+    {
+      "id": "88b7c915-de7f-4242-956c-897f03ed3bac",
+      "season": 4,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-05-20"
+    },
+    {
+      "id": "a9491541-c001-4c4c-9238-d9e3b09358ce",
+      "season": 4,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-05-20"
+    },
+    {
+      "id": "2d3d00df-0ac7-4c70-a6fa-f64ab8dc6cd1",
+      "season": 4,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-05-20"
+    },
+    {
+      "id": "6441393d-f959-4566-a49b-9cd2de6d3df5",
+      "season": 4,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-05-20"
+    },
+    {
+      "id": "8c581401-a6a0-4012-8fd2-03118a84af69",
+      "season": 4,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-05-20"
+    }
+  ]
+}

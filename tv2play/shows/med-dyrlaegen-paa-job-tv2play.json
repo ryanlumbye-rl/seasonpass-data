@@ -1,0 +1,129 @@
+{
+  "id": "tv2play:med-dyrlaegen-paa-job-tv2play",
+  "name": "Med dyrlægen på job",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ab75e533-4112-4f9a-9ca1-085523899821",
+      "season": 1,
+      "number": 1,
+      "name": "Øgle i hamskifte",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "507b2abf-ea1e-4bae-ae47-ffb1d53fcf45",
+      "season": 1,
+      "number": 2,
+      "name": "Puddelhund på svømmetur",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "01f61ebc-9717-4539-9776-5e6dc9f1287d",
+      "season": 1,
+      "number": 3,
+      "name": "Hundehvalpe klar til nye hjem",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "72ddce26-dad0-4a0a-8f75-aaa6a10303de",
+      "season": 1,
+      "number": 4,
+      "name": "Kat som steriliseres",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "c956c7c3-654d-45d8-b889-b49aa2262c70",
+      "season": 1,
+      "number": 5,
+      "name": "Slangen vil ikke spise",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "462774a4-3140-48e2-981f-4f82ff71814e",
+      "season": 1,
+      "number": 6,
+      "name": "Er hesten drægtig?",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "4d496846-de66-4380-8500-6133bf7e0157",
+      "season": 1,
+      "number": 7,
+      "name": "Kat, som klør sig i øret",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "0d58414e-b024-49a8-a176-2a97c5680401",
+      "season": 1,
+      "number": 8,
+      "name": "Kan fugle få lus?",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "4fbba403-8db4-464c-b7e8-b4afbd13a6cb",
+      "season": 1,
+      "number": 9,
+      "name": "Ko med ondt i maven",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "a6ce6c4b-47b0-41ce-858f-bec3afc10df6",
+      "season": 1,
+      "number": 10,
+      "name": "Slange med lungebetændelse",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "31bc49c3-f02c-4084-9a0b-2701d77ee569",
+      "season": 1,
+      "number": 11,
+      "name": "En kanin med lange negle",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "4c0ff3ea-6a68-4e22-9cc7-efcf52f451b2",
+      "season": 1,
+      "number": 12,
+      "name": "Alpaka med vinterdepression",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "42d761ac-6fe1-4c31-b7b6-814f30c20d2a",
+      "season": 1,
+      "number": 13,
+      "name": "Jagthund til tjek",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "d5021bd5-296b-4138-8f88-f9703b356a9f",
+      "season": 1,
+      "number": 14,
+      "name": "Killinger født ude",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "0f49513b-c7c4-4d57-a979-ed762bf9c6d7",
+      "season": 1,
+      "number": 15,
+      "name": "Får med skadet ben",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "352abef9-1b6d-4028-aa42-2f0a62d266c5",
+      "season": 1,
+      "number": 16,
+      "name": "Hund med dårlig ånde",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "b78b32ca-cb2a-4e61-8aac-744502a8cd60",
+      "season": 1,
+      "number": 17,
+      "name": "Familiehund med stort hjerte",
+      "airdate": "2026-10-10"
+    }
+  ]
+}

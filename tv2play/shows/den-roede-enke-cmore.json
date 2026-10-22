@@ -1,0 +1,164 @@
+{
+  "id": "tv2play:den-roede-enke-cmore",
+  "name": "Den røde enke",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "53c7f39e-3db6-4ce0-ab72-97bebeb708f2",
+      "season": 5,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d87ac85b-c2d4-4a90-8a26-72302f301548",
+      "season": 5,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e89938a0-d218-4f78-9876-b1592635c5b5",
+      "season": 5,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "113bd699-75db-4b25-8c1e-5513417759cd",
+      "season": 5,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "728b5fff-fcc6-4fc8-8762-22c8e7678a6f",
+      "season": 5,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "28a7b662-2100-4acd-91b4-64a9df010493",
+      "season": 5,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5ad28136-6a2c-446e-82b5-e577813d31f1",
+      "season": 6,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8a4de6ac-2732-465c-af29-bc5ec845ce9b",
+      "season": 6,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "84203cc7-c7c7-43c2-a30d-08ed0cdcb2b3",
+      "season": 6,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5c8a6845-d221-411e-acdd-2e73cb24d4d3",
+      "season": 6,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-08-29"
+    },
+    {
+      "id": "33dba595-6f59-4e6e-b681-438e4b280544",
+      "season": 6,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-08-29"
+    },
+    {
+      "id": "489e05b3-2ce8-4aef-a0dc-a613c4dcac0b",
+      "season": 6,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2785d7b1-58fb-4f8d-aa85-d287f738cf90",
+      "season": 7,
+      "number": 1,
+      "name": "Mindestunden",
+      "airdate": "2024-10-18"
+    },
+    {
+      "id": "e3f9bb17-7319-48f4-87b5-21785a60eebb",
+      "season": 7,
+      "number": 2,
+      "name": "Italien",
+      "airdate": "2024-10-25"
+    },
+    {
+      "id": "6d1265d4-b777-4939-acbb-eeb4a33e188f",
+      "season": 7,
+      "number": 3,
+      "name": "Guldet",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "0c04f5fc-7a14-4529-be00-13314d6a30c5",
+      "season": 7,
+      "number": 4,
+      "name": "Kuppet",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "bcb31d51-d7b6-4d12-95b3-48726a282e93",
+      "season": 7,
+      "number": 5,
+      "name": "Antagonisten",
+      "airdate": "2024-11-15"
+    },
+    {
+      "id": "f0bf2735-2c6b-4aac-b254-2d3f1379cd33",
+      "season": 7,
+      "number": 6,
+      "name": "Blokering",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "d559f723-1814-4344-af02-3122795580e1",
+      "season": 7,
+      "number": 7,
+      "name": "Lokkemad",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "4d5ebb79-2b2d-41df-bb5e-8ce6314e6bde",
+      "season": 7,
+      "number": 8,
+      "name": "Kidnappet",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "b985862a-0266-4739-b030-deb3ddb5cdd7",
+      "season": 7,
+      "number": 9,
+      "name": "Køer på græs",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "b5b2cd0e-6a5c-4a18-a59d-6126365dd4bd",
+      "season": 7,
+      "number": 10,
+      "name": "Farvel",
+      "airdate": "2025-10-01"
+    }
+  ]
+}

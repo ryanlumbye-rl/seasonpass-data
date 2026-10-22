@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:100-knive-tv2",
+  "name": "100 knive",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-23",
+  "episodes": [
+    {
+      "id": "1604728f-807e-48b4-a7be-9af8257659a4",
+      "season": 1,
+      "number": 1,
+      "name": "100 kokke, 100 drømme - en brutal start",
+      "airdate": "2026-10-02"
+    },
+    {
+      "id": "a7dc4508-4780-4760-b720-faae8c1c18c7",
+      "season": 1,
+      "number": 2,
+      "name": "Kampen om de 28 stole",
+      "airdate": "2026-10-09"
+    },
+    {
+      "id": "9a57b189-01ed-46c5-95f5-591f3941ee8a",
+      "season": 1,
+      "number": 3,
+      "name": "Lederskabets ilddåb",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "3e366d48-6919-4c1d-9a28-3c126d8dd0a3",
+      "season": 1,
+      "number": 4,
+      "name": "Mytteri og pølsemageri",
+      "airdate": "2026-10-23"
+    }
+  ]
+}

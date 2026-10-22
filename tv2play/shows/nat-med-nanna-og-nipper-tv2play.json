@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:nat-med-nanna-og-nipper-tv2play",
+  "name": "Nat med Nanna og Nipper",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e3eb5141-51d0-4182-beb5-6c82d21c4f09",
+      "season": 1,
+      "number": 1,
+      "name": "Franske hotdogs til morgenmad",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "ebbb979f-6dd4-4f80-8d92-f908e9468500",
+      "season": 1,
+      "number": 2,
+      "name": "Vegetarburger til soldater",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "b647ab0f-9b44-49ec-a197-57bc2bae92cf",
+      "season": 1,
+      "number": 3,
+      "name": "Lort og lagkage",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "c020ed91-e1c0-4893-9448-a0a7ccde6353",
+      "season": 1,
+      "number": 4,
+      "name": "Fødselsdag og tørre fisk",
+      "airdate": "2026-06-22"
+    }
+  ]
+}

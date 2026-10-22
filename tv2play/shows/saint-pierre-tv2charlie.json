@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:saint-pierre-tv2charlie",
+  "name": "Saint Pierre",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-27",
+  "episodes": [
+    {
+      "id": "e26d5f94-d17d-4e80-8247-ff9d39c6b3d7",
+      "season": 1,
+      "number": 1,
+      "name": "Naturlig død",
+      "airdate": "2026-07-27"
+    },
+    {
+      "id": "25dfbaf2-2964-47fd-acf6-211f965ab95e",
+      "season": 1,
+      "number": 2,
+      "name": "Jaget vildt",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "0011870a-d8b1-4371-91fa-b0ae17f19527",
+      "season": 1,
+      "number": 3,
+      "name": "Penge redder ikke alt",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "e71cbb8f-11e6-4e1d-8c64-af27fdfdbf2f",
+      "season": 1,
+      "number": 4,
+      "name": "Bankrøver på flugt",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "3c349a79-8031-4480-8bce-07fe52419bd4",
+      "season": 1,
+      "number": 5,
+      "name": "En usædvanlig grav",
+      "airdate": "2026-08-03"
+    },
+    {
+      "id": "67561277-9b64-406d-aa47-71a672a691fe",
+      "season": 1,
+      "number": 6,
+      "name": "Mistænkt under beskyttelse",
+      "airdate": "2026-08-04"
+    },
+    {
+      "id": "86b65b5d-375c-4913-bf0c-31cfceec9a15",
+      "season": 1,
+      "number": 7,
+      "name": "Farlig landing",
+      "airdate": "2026-08-05"
+    },
+    {
+      "id": "2ab928b6-dabb-4a16-ba23-c963e4faf475",
+      "season": 1,
+      "number": 8,
+      "name": "Hævet over loven",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "e0d5d764-2290-42a9-80f2-fda3b6f5bfcc",
+      "season": 1,
+      "number": 9,
+      "name": "Internt kaos",
+      "airdate": "2026-08-10"
+    },
+    {
+      "id": "0b44fa17-5508-4eca-98f7-6f12c1f4eabe",
+      "season": 1,
+      "number": 10,
+      "name": "Reddet af et mord",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "1e43bcf4-4951-493c-a8ad-3c75b79c448a",
+      "season": 2,
+      "number": 1,
+      "name": "En morder vender tilbage",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "59d3b95e-f0d9-4333-8d9d-1dd064513327",
+      "season": 2,
+      "number": 2,
+      "name": "Undercover",
+      "airdate": "2026-09-01"
+    },
+    {
+      "id": "c3bf8587-93b5-4a64-aeaf-af943264775d",
+      "season": 2,
+      "number": 3,
+      "name": "Det sidste dyk",
+      "airdate": "2026-09-08"
+    },
+    {
+      "id": "cee04534-3e74-4e56-9667-f42a8fd0657e",
+      "season": 2,
+      "number": 4,
+      "name": "Et oplagt offer",
+      "airdate": "2026-09-15"
+    },
+    {
+      "id": "d31ad28d-feb5-4e99-8870-a110f5ddc4b3",
+      "season": 2,
+      "number": 5,
+      "name": "Død igen",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "7ccd7a42-b127-471a-9268-cd1fabc7e78f",
+      "season": 2,
+      "number": 6,
+      "name": "Biltyven",
+      "airdate": "2026-09-29"
+    },
+    {
+      "id": "eab09737-8c0e-4c59-9fc3-584a19466aae",
+      "season": 2,
+      "number": 7,
+      "name": "Farlig forælder",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "8c0c323b-e537-4221-874c-246c08c275f4",
+      "season": 2,
+      "number": 8,
+      "name": "Klassens mørke hemmelighed",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "b42867f3-9e6b-4e5b-9c2c-1f1839a37cd7",
+      "season": 2,
+      "number": 9,
+      "name": "Smuglerne",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "a910dc72-2aa1-422a-af6a-268b0e3e716b",
+      "season": 2,
+      "number": 10,
+      "name": "Nedtælling til katastrofe",
+      "airdate": "2026-10-27"
+    }
+  ]
+}

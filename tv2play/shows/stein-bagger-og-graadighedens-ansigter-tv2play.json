@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:stein-bagger-og-graadighedens-ansigter-tv2play",
+  "name": "Stein Bagger og grådighedens ansigter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "daa8b575-1e17-4222-8e15-ac7f464e7500",
+      "season": 1,
+      "number": 1,
+      "name": "Vejen til det gode selskab",
+      "airdate": "2026-02-22"
+    },
+    {
+      "id": "22a7da38-d37f-4601-8f11-fdcafbe16b54",
+      "season": 1,
+      "number": 2,
+      "name": "Del og hersk",
+      "airdate": "2026-03-01"
+    },
+    {
+      "id": "3c305f82-4708-4312-abb5-3d896a97ce38",
+      "season": 1,
+      "number": 3,
+      "name": "Sammenbruddet",
+      "airdate": "2026-03-08"
+    }
+  ]
+}

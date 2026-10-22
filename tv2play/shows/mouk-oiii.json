@@ -1,0 +1,444 @@
+{
+  "id": "tv2play:mouk-oiii",
+  "name": "Mouk",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "67da0c5a-2823-412d-9977-f6dfa0f55a86",
+      "season": 1,
+      "number": 1,
+      "name": "Lykkearmbåndet",
+      "airdate": "2013-01-05"
+    },
+    {
+      "id": "d5748150-866e-4b7f-aee1-d16cef6d7f4f",
+      "season": 1,
+      "number": 2,
+      "name": "Ørkenarkæologerne",
+      "airdate": "2013-01-06"
+    },
+    {
+      "id": "bd3b4c3e-ec00-4b01-b5a5-7ad402e00552",
+      "season": 1,
+      "number": 3,
+      "name": "Hastelevering!",
+      "airdate": "2013-01-12"
+    },
+    {
+      "id": "5f8f0f71-b32f-4a9b-ac66-082fad9a11f7",
+      "season": 1,
+      "number": 4,
+      "name": "Stenkæmper",
+      "airdate": "2013-01-12"
+    },
+    {
+      "id": "42a2f2a6-959d-4e08-9ca5-b4b30408f3ca",
+      "season": 1,
+      "number": 5,
+      "name": "Fødselsdagsgaven",
+      "airdate": "2013-01-13"
+    },
+    {
+      "id": "63d11555-35bc-403e-a565-16b936cfdd3e",
+      "season": 1,
+      "number": 6,
+      "name": "En hjælpende hånd",
+      "airdate": "2013-01-13"
+    },
+    {
+      "id": "38bb7817-a57b-481a-a21b-a7707c5c51aa",
+      "season": 1,
+      "number": 7,
+      "name": "Skildpaddetid",
+      "airdate": "2013-01-19"
+    },
+    {
+      "id": "28c0d96e-2b94-47d0-b5ca-576cd07794a8",
+      "season": 1,
+      "number": 8,
+      "name": "Hov, bussen kørte!",
+      "airdate": "2013-01-20"
+    },
+    {
+      "id": "127fafe1-4ebd-4ce7-8aec-f23c2d5a5cce",
+      "season": 1,
+      "number": 9,
+      "name": "Den store bådtur",
+      "airdate": "2013-01-26"
+    },
+    {
+      "id": "b7e169c1-22fe-4e76-b4d2-dee1c0a45004",
+      "season": 1,
+      "number": 10,
+      "name": "Småt er smukt",
+      "airdate": "2013-01-27"
+    },
+    {
+      "id": "d52f420d-9112-4f5d-b680-e3ce85b7cb47",
+      "season": 1,
+      "number": 11,
+      "name": "Pinden, der gik sin vej",
+      "airdate": "2013-02-02"
+    },
+    {
+      "id": "4da3bfc0-19fa-4b4a-8a76-ef3c6e3acaaa",
+      "season": 1,
+      "number": 12,
+      "name": "I rismarkerne",
+      "airdate": "2013-02-02"
+    },
+    {
+      "id": "467e8988-43f5-4f0b-8df3-4a48bb612f91",
+      "season": 1,
+      "number": 13,
+      "name": "Mistet forbindelsen",
+      "airdate": "2013-02-03"
+    },
+    {
+      "id": "928afe15-cf18-40be-9bb5-ea61a34a9692",
+      "season": 1,
+      "number": 14,
+      "name": "Holi",
+      "airdate": "2013-02-03"
+    },
+    {
+      "id": "d198f1d7-d803-42e0-b255-0be3b75a39c6",
+      "season": 1,
+      "number": 15,
+      "name": "Mål!",
+      "airdate": "2013-02-09"
+    },
+    {
+      "id": "12cf6688-17cc-4008-ac03-f359d49209fa",
+      "season": 1,
+      "number": 16,
+      "name": "Jagten på Yetien",
+      "airdate": "2013-02-09"
+    },
+    {
+      "id": "12364905-c818-48da-af37-d0befd1324da",
+      "season": 1,
+      "number": 17,
+      "name": "Så god som ny!",
+      "airdate": "2013-02-10"
+    },
+    {
+      "id": "9fdaf70b-cac3-4b24-a83b-425f5109efaf",
+      "season": 1,
+      "number": 18,
+      "name": "Cykelløbet",
+      "airdate": "2013-02-10"
+    },
+    {
+      "id": "b24a9057-0482-4eb5-a3ef-c32d6d103e73",
+      "season": 1,
+      "number": 19,
+      "name": "Viva la Pinata!",
+      "airdate": "2013-02-16"
+    },
+    {
+      "id": "a46d3ae9-0a5e-433d-ac55-fce45b10b3c1",
+      "season": 1,
+      "number": 20,
+      "name": "Den lyserøde delfin",
+      "airdate": "2013-02-16"
+    },
+    {
+      "id": "85feac8c-0748-4967-8a2b-30842b312177",
+      "season": 1,
+      "number": 21,
+      "name": "På jagt efter rensdyret",
+      "airdate": "2013-02-17"
+    },
+    {
+      "id": "47ecc731-8985-42c4-8b24-2f52650fa415",
+      "season": 1,
+      "number": 22,
+      "name": "Man skal ikke skue en kaktus på tornene",
+      "airdate": "2013-02-17"
+    },
+    {
+      "id": "768c86ca-421f-4869-ab8f-f5486daea626",
+      "season": 1,
+      "number": 23,
+      "name": "Kom og mal min elefant",
+      "airdate": "2013-02-23"
+    },
+    {
+      "id": "3d6582d0-30e8-448a-b71a-b4e91e390797",
+      "season": 1,
+      "number": 24,
+      "name": "I en stjernetåge",
+      "airdate": "2013-02-23"
+    },
+    {
+      "id": "1b647830-1695-4651-b310-a64ef393dd43",
+      "season": 1,
+      "number": 25,
+      "name": "Yeehaw, cowboy!",
+      "airdate": "2013-02-24"
+    },
+    {
+      "id": "7c2923a2-370d-432b-9359-ef8ce6623a5f",
+      "season": 1,
+      "number": 26,
+      "name": "Den indiske vase",
+      "airdate": "2013-02-24"
+    },
+    {
+      "id": "c5c7a93e-c2b9-499a-948d-2955b41e309a",
+      "season": 1,
+      "number": 27,
+      "name": "Skattejagten",
+      "airdate": "2013-03-02"
+    },
+    {
+      "id": "2f7dfe12-4aec-4755-9d0d-5a09c90cb12a",
+      "season": 1,
+      "number": 28,
+      "name": "Over trækronerne",
+      "airdate": "2013-03-02"
+    },
+    {
+      "id": "c7fc6dfc-e8da-4c12-a403-e239af0f9573",
+      "season": 1,
+      "number": 29,
+      "name": "Baobab-caféen",
+      "airdate": "2013-03-03"
+    },
+    {
+      "id": "11066b0b-31f4-4103-983b-58806b6fb3bc",
+      "season": 1,
+      "number": 30,
+      "name": "Kunsten at malke en yakokse",
+      "airdate": "2013-03-03"
+    },
+    {
+      "id": "e1c070be-070d-4603-9fd8-ba240bdd78c3",
+      "season": 1,
+      "number": 31,
+      "name": "Lækker ahornsirup!",
+      "airdate": "2013-03-09"
+    },
+    {
+      "id": "c5c5555d-240d-4fb5-b89a-8175bab6b552",
+      "season": 1,
+      "number": 32,
+      "name": "En tur på Nilen",
+      "airdate": "2013-03-09"
+    },
+    {
+      "id": "5c9377bc-e5e6-44de-9332-043d61bc7e86",
+      "season": 1,
+      "number": 33,
+      "name": "Wallabierne rocker ud",
+      "airdate": "2013-03-10"
+    },
+    {
+      "id": "0e831303-21aa-49dc-a693-a6ac23950e91",
+      "season": 1,
+      "number": 34,
+      "name": "Kæmpetegninger",
+      "airdate": "2013-03-10"
+    },
+    {
+      "id": "bdcd1138-159f-49c4-8d0d-a43f9340af38",
+      "season": 1,
+      "number": 35,
+      "name": "Skyfangeren",
+      "airdate": "2013-03-16"
+    },
+    {
+      "id": "0726f920-1b0b-4922-8fda-5165aca137fd",
+      "season": 1,
+      "number": 36,
+      "name": "En besked til dig",
+      "airdate": "2013-03-16"
+    },
+    {
+      "id": "dc80c7cd-cfc6-47ed-b1c3-4992aee3b0b0",
+      "season": 1,
+      "number": 37,
+      "name": "Lille fisk vokser op",
+      "airdate": "2013-03-17"
+    },
+    {
+      "id": "0b90c2ae-d405-485f-840b-9a26b17054d7",
+      "season": 1,
+      "number": 38,
+      "name": "Robot på fri fod",
+      "airdate": "2013-03-17"
+    },
+    {
+      "id": "c16b7ebe-3801-4364-9033-5a0ebeff7e06",
+      "season": 1,
+      "number": 39,
+      "name": "Fuglesang",
+      "airdate": "2013-03-23"
+    },
+    {
+      "id": "30d71a62-f522-4699-a979-33a9d9841df1",
+      "season": 1,
+      "number": 40,
+      "name": "Dinosaursporet",
+      "airdate": "2013-03-23"
+    },
+    {
+      "id": "f1144b63-8849-405e-b9a9-f0b20abb9b8f",
+      "season": 1,
+      "number": 41,
+      "name": "Bambusplantagen",
+      "airdate": "2013-03-24"
+    },
+    {
+      "id": "f8d0d8a9-fbe7-40f2-b3b2-9bab328f468f",
+      "season": 1,
+      "number": 42,
+      "name": "Hanami",
+      "airdate": "2013-03-24"
+    },
+    {
+      "id": "00b6ab81-f1a5-431f-b945-b069d299d8fa",
+      "season": 1,
+      "number": 43,
+      "name": "Stjerneskud",
+      "airdate": "2013-03-30"
+    },
+    {
+      "id": "075fe1ac-d2ce-4e82-a9e6-e7f63b7cf30a",
+      "season": 1,
+      "number": 44,
+      "name": "Wallabierne filmer",
+      "airdate": "2013-03-30"
+    },
+    {
+      "id": "3a94d219-04d3-4ceb-9014-793d7ebe1ee5",
+      "season": 1,
+      "number": 45,
+      "name": "Marionetmestrene",
+      "airdate": "2013-03-31"
+    },
+    {
+      "id": "a91b61a9-5227-4b51-ac50-0ea16cabb1b6",
+      "season": 1,
+      "number": 46,
+      "name": "Bossa Nova",
+      "airdate": "2013-03-31"
+    },
+    {
+      "id": "b21a2375-3d25-45ae-8297-972b702dd7c9",
+      "season": 1,
+      "number": 47,
+      "name": "Rickshaw",
+      "airdate": "2013-04-06"
+    },
+    {
+      "id": "86838be8-63b0-4545-a432-e93cd538b677",
+      "season": 1,
+      "number": 48,
+      "name": "Jul under varmere himmelstrøg",
+      "airdate": "2013-04-06"
+    },
+    {
+      "id": "b7b0a9c3-a3ea-4e94-805b-bac7887dac94",
+      "season": 1,
+      "number": 49,
+      "name": "Soukoverraskelsen",
+      "airdate": "2013-04-07"
+    },
+    {
+      "id": "bd2f4f66-1733-4883-9cda-20506fed7201",
+      "season": 1,
+      "number": 50,
+      "name": "Instrumenter vokser faktisk på træerne!",
+      "airdate": "2013-04-07"
+    },
+    {
+      "id": "3215c4a0-b0f6-4b99-a80a-9696fe6e4598",
+      "season": 1,
+      "number": 51,
+      "name": "Nordlyset",
+      "airdate": "2013-04-13"
+    },
+    {
+      "id": "24b8de89-27af-4a18-b81a-bf6d829c0306",
+      "season": 1,
+      "number": 52,
+      "name": "Papegøjefjeren",
+      "airdate": "2013-04-13"
+    },
+    {
+      "id": "ebb539c6-abe1-4201-9dfa-4b71bd80ca3d",
+      "season": 1,
+      "number": 53,
+      "name": "Fuglejagten",
+      "airdate": "2013-04-14"
+    },
+    {
+      "id": "668b7d86-7bbe-4b7d-ab48-0bb65cffbbe6",
+      "season": 1,
+      "number": 54,
+      "name": "En glemsom dag",
+      "airdate": "2013-04-14"
+    },
+    {
+      "id": "5f861570-e19e-4cbf-8ca4-fee17dc01e05",
+      "season": 1,
+      "number": 55,
+      "name": "Den tohjulede helt",
+      "airdate": "2013-04-20"
+    },
+    {
+      "id": "00b4102a-9328-4f04-b83a-f716eaa810ce",
+      "season": 1,
+      "number": 56,
+      "name": "Vindmølle",
+      "airdate": "2013-04-20"
+    },
+    {
+      "id": "fbd130d0-c4e1-437e-82df-3ce2a79ebf46",
+      "season": 1,
+      "number": 57,
+      "name": "Ishockey",
+      "airdate": "2013-04-21"
+    },
+    {
+      "id": "f55f0f51-396f-40ec-aaab-58bd85ce5949",
+      "season": 1,
+      "number": 58,
+      "name": "Kabuki",
+      "airdate": "2013-04-21"
+    },
+    {
+      "id": "0083212a-a851-47fb-9bf6-8def3d4cd43b",
+      "season": 1,
+      "number": 59,
+      "name": "Pottemageri",
+      "airdate": "2013-04-27"
+    },
+    {
+      "id": "de6cc36b-f6ff-4391-a3bb-1f53cc13dabe",
+      "season": 1,
+      "number": 60,
+      "name": "Landsbyfestivalen",
+      "airdate": "2013-04-27"
+    },
+    {
+      "id": "1018d7d4-0fe7-45c7-9081-e8b115de2814",
+      "season": 1,
+      "number": 61,
+      "name": "Byttehandlen",
+      "airdate": "2013-04-28"
+    },
+    {
+      "id": "573add9f-a5cb-44f5-af8f-7e0e3cc6ee84",
+      "season": 1,
+      "number": 62,
+      "name": "Fløjtesproget",
+      "airdate": "2013-04-28"
+    }
+  ]
+}

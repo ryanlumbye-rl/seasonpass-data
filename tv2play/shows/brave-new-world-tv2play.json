@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:brave-new-world-tv2play",
+  "name": "Brave New World",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "88123c5d-8253-4b91-92b9-46088f8ddace",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "9f1ef770-c9e7-42c9-bb93-1ec32c43773f",
+      "season": 1,
+      "number": 2,
+      "name": "Want and Consequence",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "6bf2e35a-c2a6-42ed-8ce5-b0907090fe3f",
+      "season": 1,
+      "number": 3,
+      "name": "Everybody Happy Now!",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "9d5fdbe0-4fba-4cf4-aa83-cc79e428b11a",
+      "season": 1,
+      "number": 4,
+      "name": "Swallow",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "97c2a4fd-5a1c-41e2-b91d-ade6a645f6c0",
+      "season": 1,
+      "number": 5,
+      "name": "Firefall",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "0b242fda-4d3f-49ab-b802-85c2a9663b83",
+      "season": 1,
+      "number": 6,
+      "name": "In the Dirt",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "6705b8e5-e895-4a22-b132-039dc38433ce",
+      "season": 1,
+      "number": 7,
+      "name": "Monogamy and Futility - del 1",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "2c1a5bb0-8363-4650-a5dd-79415d5a925d",
+      "season": 1,
+      "number": 8,
+      "name": "Monogamy and Futility - del 2",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "bc3cd1c4-6da7-4217-9fe2-0161d3433752",
+      "season": 1,
+      "number": 9,
+      "name": "Soma Red",
+      "airdate": "2026-09-22"
+    }
+  ]
+}

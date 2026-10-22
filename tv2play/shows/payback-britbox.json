@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:payback-britbox",
+  "name": "Payback",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9ad607e6-bdb4-4706-83db-2b912627617c",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-11-15"
+    },
+    {
+      "id": "dd4de4b6-c999-4808-bc2f-3e286f33065d",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-11-15"
+    },
+    {
+      "id": "b451cae1-14ae-4073-99db-d7dfe56589f7",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-11-15"
+    },
+    {
+      "id": "25c8302c-9580-429a-99c1-7dbc6f31e1fb",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-11-15"
+    },
+    {
+      "id": "8f0bc471-e9c6-4521-8039-121ae9f4058a",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-11-15"
+    },
+    {
+      "id": "5892c123-5b55-499a-9d88-44d6e7010b75",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-11-15"
+    }
+  ]
+}

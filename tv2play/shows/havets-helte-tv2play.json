@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:havets-helte-tv2play",
+  "name": "Havets helte",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9d3ddb96-6df3-4342-a648-a823ebdf8419",
+      "season": 1,
+      "number": 1,
+      "name": "Muslinger med kemi",
+      "airdate": "2025-12-29"
+    },
+    {
+      "id": "ce715c59-12e2-4809-8618-ef3a87f0996c",
+      "season": 1,
+      "number": 2,
+      "name": "Dykker ved spildevandsledning",
+      "airdate": "2025-12-29"
+    },
+    {
+      "id": "1742a95b-2115-475b-a21f-d7e4e23e9834",
+      "season": 1,
+      "number": 3,
+      "name": "Mudder på havbunden",
+      "airdate": "2025-12-29"
+    }
+  ]
+}

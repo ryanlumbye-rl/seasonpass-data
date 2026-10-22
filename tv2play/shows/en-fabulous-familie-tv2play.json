@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:en-fabulous-familie-tv2play",
+  "name": "En fabulous familie",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2e5c8468-30f6-41aa-9391-caa392a087d8",
+      "season": 1,
+      "number": 1,
+      "name": "Et kaotisk kollektiv",
+      "airdate": "2019-03-18"
+    },
+    {
+      "id": "06ec42bd-5aef-470b-a7d8-b633c2b7216f",
+      "season": 1,
+      "number": 2,
+      "name": "Baby bingo",
+      "airdate": "2019-03-18"
+    },
+    {
+      "id": "cbbf75af-3b34-47ed-b9c6-76f23a033864",
+      "season": 1,
+      "number": 3,
+      "name": "Ikke bare en udklædning",
+      "airdate": "2019-03-25"
+    },
+    {
+      "id": "91a0348b-1f56-4d9a-ad34-166d4dadc07c",
+      "season": 1,
+      "number": 4,
+      "name": "Plejebarnet",
+      "airdate": "2019-04-01"
+    },
+    {
+      "id": "b924892d-4438-4778-a545-a3698b466730",
+      "season": 1,
+      "number": 5,
+      "name": "En ny queen og et stort problem",
+      "airdate": "2019-04-08"
+    },
+    {
+      "id": "9b121a9d-3e91-45a6-8fc9-ac8c5f0fc5da",
+      "season": 1,
+      "number": 6,
+      "name": "Dronning af detentionen",
+      "airdate": "2019-04-15"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:karla-har-fire-foraeldre-tv2kosmopol",
+  "name": "Karla har fire forældre",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1939132b-8514-4b35-9a25-93c70bcfd557",
+      "season": 1,
+      "number": 1,
+      "name": "Karlas far",
+      "airdate": "2023-09-22"
+    },
+    {
+      "id": "edd789b3-6087-47af-aedb-d131a6a55e0d",
+      "season": 1,
+      "number": 2,
+      "name": "Karlas mødre",
+      "airdate": "2023-09-22"
+    },
+    {
+      "id": "0e078be9-d58e-4890-aa4f-7fff4e16dc7a",
+      "season": 1,
+      "number": 3,
+      "name": "Karla på Christiansborg",
+      "airdate": "2023-09-22"
+    },
+    {
+      "id": "c502d294-2a9b-47c5-84c6-9ceaf265db83",
+      "season": 1,
+      "number": 4,
+      "name": "Karlas pride",
+      "airdate": "2023-09-22"
+    }
+  ]
+}

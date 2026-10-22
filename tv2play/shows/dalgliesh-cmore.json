@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:dalgliesh-cmore",
+  "name": "Dalgliesh",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "997e4d49-a153-429b-8565-7e0c0793f1f5",
+      "season": 3,
+      "number": 1,
+      "name": "Gejstlig død",
+      "airdate": "2024-12-29"
+    },
+    {
+      "id": "74205d46-7d0f-4392-9a13-07f8b8816922",
+      "season": 3,
+      "number": 2,
+      "name": "Dæk ansigtet til",
+      "airdate": "2024-12-29"
+    },
+    {
+      "id": "4b359d80-3b11-4444-b926-3baf6e6428d6",
+      "season": 3,
+      "number": 3,
+      "name": "List og længsler",
+      "airdate": "2024-12-29"
+    }
+  ]
+}

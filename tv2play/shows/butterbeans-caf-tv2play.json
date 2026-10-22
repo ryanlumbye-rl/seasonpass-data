@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:butterbeans-caf-tv2play",
+  "name": "Butterbeans café",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2961b9ad-186e-4ac5-ace6-656aea7fdf93",
+      "season": 1,
+      "number": 5,
+      "name": "Den lækreste vogn!",
+      "airdate": "2022-01-15"
+    }
+  ]
+}

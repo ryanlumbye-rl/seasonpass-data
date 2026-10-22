@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:puk-bygger-om-med-kaerlighed-og-knofedt-tv2fri",
+  "name": "Puk bygger om - med kærlighed og knofedt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b2210285-2807-480b-b5c9-9545c6303cfd",
+      "season": 1,
+      "number": 1,
+      "name": "Farvel Lothar - goddag byggerod",
+      "airdate": "2022-08-23"
+    },
+    {
+      "id": "dc848f95-56bd-415e-bc22-1a0249bf29d0",
+      "season": 1,
+      "number": 2,
+      "name": "Pengene fosser ud",
+      "airdate": "2022-08-23"
+    },
+    {
+      "id": "27d22c35-c7c8-40b1-b5ab-d7c6c92401c6",
+      "season": 1,
+      "number": 3,
+      "name": "Jagten på den helt rigtige toiletdør",
+      "airdate": "2022-08-30"
+    },
+    {
+      "id": "3276ae20-d2e2-411b-9abf-1b62bc383a9f",
+      "season": 1,
+      "number": 4,
+      "name": "Det blå toilet",
+      "airdate": "2022-09-06"
+    },
+    {
+      "id": "4f81d6a1-3538-4af8-95fa-ebe6a73cb759",
+      "season": 1,
+      "number": 5,
+      "name": "Hurra for terrassen",
+      "airdate": "2022-09-13"
+    },
+    {
+      "id": "f80ee492-75d2-4292-af6d-51e24ad78b1c",
+      "season": 1,
+      "number": 6,
+      "name": "Lothar kommer hjem",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

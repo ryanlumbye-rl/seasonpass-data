@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:menneskekender-tv2play",
+  "name": "Menneskekender",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2006ac66-d6ce-43f1-91d8-fb26af420c8b",
+      "season": 1,
+      "number": 1,
+      "name": "Hvor mange har du knaldet med?",
+      "airdate": "2018-11-10"
+    },
+    {
+      "id": "d2ecc329-2e84-4faf-80ad-8d3fa326e840",
+      "season": 1,
+      "number": 2,
+      "name": "Hvor tit onanerer du?",
+      "airdate": "2018-11-10"
+    },
+    {
+      "id": "a579265d-acd5-4225-a746-4c9a87307215",
+      "season": 1,
+      "number": 3,
+      "name": "Har du en kuffert med sexlegetøj?",
+      "airdate": "2018-11-17"
+    },
+    {
+      "id": "dc07272c-7e57-431d-9daa-cb3b4b21807d",
+      "season": 1,
+      "number": 4,
+      "name": "Bruger du sexlegetøj?",
+      "airdate": "2018-11-24"
+    },
+    {
+      "id": "692457b1-2557-4646-9c9b-38bb307d2151",
+      "season": 1,
+      "number": 5,
+      "name": "Kan du genkende en terrorist?",
+      "airdate": "2018-12-01"
+    },
+    {
+      "id": "cb951c28-4435-4bd2-84f0-2f667d505994",
+      "season": 1,
+      "number": 6,
+      "name": "Hvordan kender man en vaginalmassør?",
+      "airdate": "2018-12-09"
+    },
+    {
+      "id": "d932cc35-bf42-400b-8a36-a581a11b60dc",
+      "season": 1,
+      "number": 7,
+      "name": "Har direktører sexlegetøj?",
+      "airdate": "2018-12-15"
+    },
+    {
+      "id": "61dae4b2-e2ae-4d2f-8157-c63cb2330ed4",
+      "season": 1,
+      "number": 8,
+      "name": "Tør du streake på et plejehjem?",
+      "airdate": "2018-12-16"
+    },
+    {
+      "id": "a2db67b3-2f4e-4d9e-a605-7c1c20e588ae",
+      "season": 2,
+      "number": 1,
+      "name": "Hvem har skidt i en potteplante på en bytur?",
+      "airdate": "2020-01-27"
+    },
+    {
+      "id": "6869c7e0-3d1b-4186-be94-db0d30592b37",
+      "season": 2,
+      "number": 2,
+      "name": "Hvem ved alt om dinosaurer og Celine Dion?",
+      "airdate": "2020-01-27"
+    },
+    {
+      "id": "da3d6edc-3e37-4bee-bf72-196d8c1b9826",
+      "season": 2,
+      "number": 3,
+      "name": "Kender du typen, der klipper bumser af sine venner?",
+      "airdate": "2020-02-03"
+    },
+    {
+      "id": "1e09b1bb-3bdf-4bf5-99b1-693a3518dd60",
+      "season": 2,
+      "number": 4,
+      "name": "Hvilken type har kroge hængende i loftet?",
+      "airdate": "2020-02-10"
+    },
+    {
+      "id": "904ba22e-e7c4-457b-a70a-796bc642e08c",
+      "season": 2,
+      "number": 5,
+      "name": "Hvem er typen, der har sex i tivoli?",
+      "airdate": "2020-02-17"
+    },
+    {
+      "id": "0661686a-ed40-4cd8-bf40-4048b3338022",
+      "season": 2,
+      "number": 6,
+      "name": "Hvem har fået en færge til at vende rundt?",
+      "airdate": "2020-02-24"
+    },
+    {
+      "id": "76627f0b-285b-4c6f-a0e9-de71b1a8b1a5",
+      "season": 2,
+      "number": 7,
+      "name": "Hvem tror på heksekunst?",
+      "airdate": "2020-03-02"
+    },
+    {
+      "id": "b6263ee7-ab9b-444a-a71d-aeae24ef2cfe",
+      "season": 2,
+      "number": 8,
+      "name": "Kender du typen, der er for vild til Ung Rejs?",
+      "airdate": "2020-03-09"
+    },
+    {
+      "id": "5f609408-f5f7-4c91-b78f-56809fba325f",
+      "season": 3,
+      "number": 1,
+      "name": "Alle stjæler!",
+      "airdate": "2021-02-01"
+    },
+    {
+      "id": "51cb35a9-88e6-4d4e-b572-519bab40179f",
+      "season": 3,
+      "number": 2,
+      "name": "En quickie med vandflyveren",
+      "airdate": "2021-02-01"
+    },
+    {
+      "id": "4d14c1b3-d7b7-43a3-ac33-4695d6bb7c01",
+      "season": 3,
+      "number": 3,
+      "name": "Biospanden",
+      "airdate": "2021-02-08"
+    },
+    {
+      "id": "e96b00f6-21a9-48e3-8a8e-843be0d1ea9f",
+      "season": 3,
+      "number": 4,
+      "name": "Det store paropgør",
+      "airdate": "2021-02-15"
+    },
+    {
+      "id": "464ad56e-8bcd-4b0b-b091-7cac65f54b39",
+      "season": 3,
+      "number": 5,
+      "name": "Viva Las Vegas",
+      "airdate": "2021-02-22"
+    },
+    {
+      "id": "cd960916-a629-43b8-ade2-f188b4c2afc4",
+      "season": 3,
+      "number": 6,
+      "name": "Slangefrygt og busonani",
+      "airdate": "2021-03-01"
+    },
+    {
+      "id": "0ad9b566-2f40-4bd6-8635-ec924f0de94e",
+      "season": 3,
+      "number": 7,
+      "name": "Hvem skider på Instagram?",
+      "airdate": "2021-03-08"
+    },
+    {
+      "id": "8f120ba7-2033-4fb3-a43f-c39e8f97503e",
+      "season": 3,
+      "number": 8,
+      "name": "Ayahuasca Happens",
+      "airdate": "2021-03-15"
+    },
+    {
+      "id": "8895f1b7-9f07-4371-9b6b-4ce4abc5b34b",
+      "season": 3,
+      "number": 9,
+      "name": "Flash Norton",
+      "airdate": "2021-03-22"
+    },
+    {
+      "id": "91933591-89b2-4441-8cbd-0e03b40db92a",
+      "season": 3,
+      "number": 10,
+      "name": "En underbuksesamling og højlydt sex",
+      "airdate": "2021-03-29"
+    }
+  ]
+}

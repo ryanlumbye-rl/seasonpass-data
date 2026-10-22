@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:shakespeare-og-hathaway-tv2play",
+  "name": "Shakespeare og Hathaway",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b825f1e8-297f-4b23-ac28-5e2b4d7f2f26",
+      "season": 5,
+      "number": 1,
+      "name": "Such a Mad Marriage Never Was Before",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "08974e93-6ddd-4acb-a868-1355e91b5711",
+      "season": 5,
+      "number": 2,
+      "name": "The Heavenly Harness’d Team",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "48dc0304-4302-4a16-99c2-83159c6e98a4",
+      "season": 5,
+      "number": 3,
+      "name": "Destruction, Blood, and Massacre",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "b69a4c33-4b44-4790-9096-1263cd77e91f",
+      "season": 5,
+      "number": 4,
+      "name": "A Dark House",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "4ab39501-8527-4c71-973e-48a0bf230866",
+      "season": 5,
+      "number": 5,
+      "name": "The Endeavour of this Present Breath",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "59e6715e-69c5-4bf9-bb24-f8b4d7831a82",
+      "season": 5,
+      "number": 6,
+      "name": "As I Have Seen a Swan",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "99589ccf-0ac8-40af-ab8f-2da8bb8ff825",
+      "season": 5,
+      "number": 7,
+      "name": "An Honest Fellow",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "2134422a-3dec-4dfe-9429-dd8bfbc876f5",
+      "season": 5,
+      "number": 8,
+      "name": "A Rose by Any Other Name",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "ba3bb055-4dbc-4868-b7cd-d639a7885374",
+      "season": 5,
+      "number": 9,
+      "name": "The Evil That Men Do",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "4380acf3-2cf1-4bf1-a373-ade49d6c99a7",
+      "season": 5,
+      "number": 10,
+      "name": "The Quality of Mercy",
+      "airdate": "2026-01-07"
+    }
+  ]
+}

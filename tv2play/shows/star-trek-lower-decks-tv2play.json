@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:star-trek-lower-decks-tv2play",
+  "name": "Star Trek: Lower Decks",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f713d676-389b-4c09-8714-8b7df3535877",
+      "season": 1,
+      "number": 3,
+      "name": "Temporal Edict",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "b96c6856-dcc5-439f-8b5e-0cf0cb66d05d",
+      "season": 1,
+      "number": 4,
+      "name": "Moist Vessel",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "3fd6e57b-fe6d-412f-b6e6-ab5be635a01d",
+      "season": 1,
+      "number": 8,
+      "name": "Veritas",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "e4557feb-1aa5-46d8-884d-9b3e670567f1",
+      "season": 1,
+      "number": 9,
+      "name": "Crisis Point",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "99e2e046-e6c1-4562-a599-e961512c28f2",
+      "season": 2,
+      "number": 1,
+      "name": "Strange Energies",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "709c0e99-8fea-42c3-82ed-f514a0d1ce46",
+      "season": 2,
+      "number": 5,
+      "name": "An Embarrassment of Dooplers",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "685863ff-9265-4ecf-9df6-8f4de8a68ba2",
+      "season": 2,
+      "number": 7,
+      "name": "Where Pleasant Fountains Lie",
+      "airdate": "2025-07-30"
+    }
+  ]
+}

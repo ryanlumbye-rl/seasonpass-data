@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:the-red-king-britbox",
+  "name": "The Red King",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b4cfb501-648c-4850-9331-d45d844693e7",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-06-18"
+    },
+    {
+      "id": "84e3063e-31f9-4292-8800-e56a799edcaf",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-06-18"
+    },
+    {
+      "id": "be105d26-5ca8-4f09-935c-4dfb3a1a10da",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-06-18"
+    },
+    {
+      "id": "57e03bb8-16a0-4888-b302-878319b72551",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-06-18"
+    },
+    {
+      "id": "44d66c98-6f9e-4c1d-9764-10a64b37f412",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-06-18"
+    },
+    {
+      "id": "cc894662-a68f-4bed-af8f-69a308e7d63b",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-06-18"
+    }
+  ]
+}

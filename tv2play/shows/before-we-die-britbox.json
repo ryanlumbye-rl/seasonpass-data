@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:before-we-die-britbox",
+  "name": "Before We Die",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "109fa7e9-cacc-4dcb-b732-54c1ced64958",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-08-22"
+    },
+    {
+      "id": "d1314490-964b-4cd3-891e-c27bba1df01b",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-08-22"
+    },
+    {
+      "id": "a5ec860a-7a89-44ac-90be-6bef041ba743",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-08-22"
+    },
+    {
+      "id": "799b4425-a612-4e7d-9ed9-892a9cbc5a39",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-08-22"
+    },
+    {
+      "id": "813c87e3-1862-4a56-a079-fcd40389e3e7",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-08-22"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:star-trek-lower-decks-skyshowtime",
+  "name": "Star Trek: Lower Decks",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "59c070d8-edb8-4f4d-a446-b8ca2112cc67",
+      "season": 1,
+      "number": 1,
+      "name": "Second Contact",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "e85e7370-b0eb-470b-936d-27cfef620eb4",
+      "season": 1,
+      "number": 2,
+      "name": "Envoys",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "389e3bdb-d191-415c-97c2-3152df9eeca6",
+      "season": 1,
+      "number": 5,
+      "name": "Cupid's Errant Arrow",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "76701f45-cb9b-4052-9274-dcc4acbc5e0b",
+      "season": 1,
+      "number": 6,
+      "name": "Terminal Provocations",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "3a8adff8-c594-4e24-bc63-44c7dbdaba61",
+      "season": 1,
+      "number": 7,
+      "name": "Much Ado About Boimler",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "a9d3913d-83f5-4c6f-ab76-141c4b11cdc9",
+      "season": 1,
+      "number": 10,
+      "name": "No Small Parts",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "d6c1e5bd-ccc7-49e6-9ee9-5ef179eab45d",
+      "season": 2,
+      "number": 2,
+      "name": "Kayshon, His Eyes Open",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "91fbc33f-45eb-45aa-a13c-101f0365a407",
+      "season": 2,
+      "number": 3,
+      "name": "We'll Always Have Tom Paris",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "cd67be07-d902-4b30-9685-edf1e4d46279",
+      "season": 2,
+      "number": 4,
+      "name": "Mugato, Gumato",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "83a8f5ec-6c6a-441b-9851-09df1eb22833",
+      "season": 2,
+      "number": 6,
+      "name": "The Spy Humongous",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "efd7c7c4-b3cd-4a48-9559-5e04bd59249f",
+      "season": 2,
+      "number": 8,
+      "name": "I, Excretus",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "0062839c-613c-4afb-9cf2-d75354502611",
+      "season": 2,
+      "number": 9,
+      "name": "Wej Duj",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "73c47626-f569-468b-ba01-3ef7e87c2688",
+      "season": 2,
+      "number": 10,
+      "name": "First Contact",
+      "airdate": "2025-07-30"
+    }
+  ]
+}

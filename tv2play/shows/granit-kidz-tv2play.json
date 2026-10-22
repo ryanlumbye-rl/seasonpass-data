@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:granit-kidz-tv2play",
+  "name": "Granit Kidz",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3f3e3e6c-29e7-43f3-b76c-affc74e420c1",
+      "season": 1,
+      "number": 1,
+      "name": "Holdet",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "792d69dd-d4d5-4947-8702-d9e74b10c4b7",
+      "season": 1,
+      "number": 2,
+      "name": "Spillerne",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "14ff5896-b565-4755-baab-9c8bf1cb78aa",
+      "season": 1,
+      "number": 3,
+      "name": "Familierne",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "f56a3f80-640e-4963-8362-2a19e474e8d9",
+      "season": 1,
+      "number": 4,
+      "name": "Trænerne",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "f155585a-dd06-46d7-a582-f4e433d2328c",
+      "season": 1,
+      "number": 5,
+      "name": "Lykkecup",
+      "airdate": "2026-06-22"
+    }
+  ]
+}

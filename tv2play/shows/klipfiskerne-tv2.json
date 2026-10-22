@@ -1,0 +1,409 @@
+{
+  "id": "tv2play:klipfiskerne-tv2",
+  "name": "Klipfiskerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0a0823e0-9030-48ca-9eb1-8028029c40ca",
+      "season": 1,
+      "number": 1,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-03-09"
+    },
+    {
+      "id": "e187a59d-7bd6-42fc-a4bc-f99eee89e203",
+      "season": 1,
+      "number": 2,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-03-16"
+    },
+    {
+      "id": "b9bfaa6a-df9b-48d2-a69b-06237bd6399a",
+      "season": 1,
+      "number": 3,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-03-23"
+    },
+    {
+      "id": "68630d13-a1dc-4f22-9b13-bf681be2960f",
+      "season": 1,
+      "number": 4,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-03-30"
+    },
+    {
+      "id": "23c4cdc6-787b-433b-ae7c-1b174c620652",
+      "season": 1,
+      "number": 5,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-04-06"
+    },
+    {
+      "id": "ec8708c8-e44e-4622-882c-3d1d53f598bc",
+      "season": 1,
+      "number": 6,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-04-13"
+    },
+    {
+      "id": "2a42732d-8cb0-4510-b44c-cf9913c21fe0",
+      "season": 1,
+      "number": 7,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-04-20"
+    },
+    {
+      "id": "afae0ab2-541c-4dcf-b09e-4879c0eed618",
+      "season": 1,
+      "number": 8,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-04-27"
+    },
+    {
+      "id": "3d2e0ef1-5de0-4b23-8e29-3daeee32b92d",
+      "season": 1,
+      "number": 9,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-05-04"
+    },
+    {
+      "id": "e7ac46b6-85d8-43ce-bb14-2ca1fd691975",
+      "season": 1,
+      "number": 10,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-05-11"
+    },
+    {
+      "id": "54a8e2fa-c67e-4986-b9d4-ab7179c8debb",
+      "season": 1,
+      "number": 11,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-05-18"
+    },
+    {
+      "id": "d26ced72-bf16-42c7-a856-9af4e48de8fa",
+      "season": 1,
+      "number": 12,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-05-25"
+    },
+    {
+      "id": "17b2bf65-b8a7-4621-a2f7-77de0f30ed98",
+      "season": 1,
+      "number": 13,
+      "name": "Familiequiz med bid i",
+      "airdate": "2013-06-01"
+    },
+    {
+      "id": "71350a49-20f9-4078-b96a-bd0c3fd7d119",
+      "season": 3,
+      "number": 1,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-03-27"
+    },
+    {
+      "id": "3d4c0e09-a056-4df4-8533-07e0e8b2fd69",
+      "season": 3,
+      "number": 2,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-04-03"
+    },
+    {
+      "id": "353f97a2-578f-463d-a737-b4a6872e01f2",
+      "season": 3,
+      "number": 3,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-04-10"
+    },
+    {
+      "id": "6b50bead-4f13-4c5d-92b7-19543c0510d7",
+      "season": 3,
+      "number": 4,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-04-17"
+    },
+    {
+      "id": "ef253600-c8e7-4a3c-ae76-62f686b4b06c",
+      "season": 3,
+      "number": 5,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-05-01"
+    },
+    {
+      "id": "0f06579e-710d-4a3e-bff4-228a2ae74f2b",
+      "season": 3,
+      "number": 6,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-05-08"
+    },
+    {
+      "id": "5e746e5c-0192-40d2-ab8e-a2f121716c17",
+      "season": 3,
+      "number": 7,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-05-15"
+    },
+    {
+      "id": "638592c4-3a74-4c8f-bb8a-248b05686696",
+      "season": 3,
+      "number": 8,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-05-22"
+    },
+    {
+      "id": "e971836a-1dd7-4d6f-9b00-221a2b723c29",
+      "season": 3,
+      "number": 9,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-05-29"
+    },
+    {
+      "id": "9e653f2b-4e78-4697-bd84-1a5e24f0c345",
+      "season": 3,
+      "number": 10,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-06-05"
+    },
+    {
+      "id": "d8a9d146-93d7-422b-98cd-05bf43230c96",
+      "season": 4,
+      "number": 1,
+      "name": "Familiequiz med bid i",
+      "airdate": "2015-12-25"
+    },
+    {
+      "id": "7a2a4385-c40e-4083-8e4b-7231a276831e",
+      "season": 4,
+      "number": 2,
+      "name": "Familiequiz med bid i",
+      "airdate": "2016-04-08"
+    },
+    {
+      "id": "61ed045b-a8ca-4fc0-855f-bcd52a1662ba",
+      "season": 4,
+      "number": 3,
+      "name": "Familiequiz med bid i",
+      "airdate": "2016-04-15"
+    },
+    {
+      "id": "54b4fc0b-a935-46ee-85e2-604d6501ed83",
+      "season": 4,
+      "number": 4,
+      "name": "Familiequiz med bid i",
+      "airdate": "2016-04-22"
+    },
+    {
+      "id": "47b636ff-1580-4958-985c-61f5e3715340",
+      "season": 4,
+      "number": 5,
+      "name": "Familiequiz med bid i",
+      "airdate": "2016-04-29"
+    },
+    {
+      "id": "3b4c2ef5-90f7-4a23-bdb6-d3617a678e0d",
+      "season": 4,
+      "number": 6,
+      "name": "Familiequiz med bid i",
+      "airdate": "2016-05-06"
+    },
+    {
+      "id": "554748e2-afa1-4436-8b45-43d7675b2c17",
+      "season": 4,
+      "number": 8,
+      "name": "Familiequiz med bid i",
+      "airdate": "2016-05-20"
+    },
+    {
+      "id": "5b3359e1-8744-48f1-bca2-f07be4f791f9",
+      "season": 4,
+      "number": 9,
+      "name": "Familiequiz med bid i",
+      "airdate": "2016-05-27"
+    },
+    {
+      "id": "6e3c863f-6d8e-4bc6-ad8b-d03ef2efb1c8",
+      "season": 4,
+      "number": 10,
+      "name": "Familiequiz med bid i",
+      "airdate": "2016-06-10"
+    },
+    {
+      "id": "a8fc5083-0c45-4ca8-8d04-1c382c6d1577",
+      "season": 4,
+      "number": 11,
+      "name": "Julespecial",
+      "airdate": "2016-12-27"
+    },
+    {
+      "id": "b8d9796e-9ae4-4af7-ad64-162b0e11a421",
+      "season": 7,
+      "number": 1,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-01-01"
+    },
+    {
+      "id": "21b7a207-b9f2-4784-9d83-68389027abbb",
+      "season": 7,
+      "number": 2,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-01-05"
+    },
+    {
+      "id": "62200291-61ea-4120-996b-42f029e044dc",
+      "season": 7,
+      "number": 3,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-01-12"
+    },
+    {
+      "id": "6c288e53-42d4-4a9b-8214-2575d9cd7000",
+      "season": 7,
+      "number": 4,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-01-19"
+    },
+    {
+      "id": "31918d2b-8788-4926-a723-901918dfd7c3",
+      "season": 7,
+      "number": 5,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-01-26"
+    },
+    {
+      "id": "63f09469-95ca-4497-9aab-6dd77c9604bb",
+      "season": 7,
+      "number": 6,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-02-02"
+    },
+    {
+      "id": "7201b3b9-7d69-4399-be4d-b37d2a3bcf1a",
+      "season": 7,
+      "number": 7,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-02-09"
+    },
+    {
+      "id": "46eef8ec-aea8-49c6-8276-2e3e08558f30",
+      "season": 7,
+      "number": 8,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-02-16"
+    },
+    {
+      "id": "7a8f2b35-a898-4f69-b3a4-dbfd7d12229e",
+      "season": 7,
+      "number": 9,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-02-23"
+    },
+    {
+      "id": "9d7e9fd4-fccc-4d1b-a285-5cda990e76eb",
+      "season": 7,
+      "number": 10,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-03-02"
+    },
+    {
+      "id": "b224c665-60e0-4398-bef0-efbe5366a3fc",
+      "season": 7,
+      "number": 11,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-03-09"
+    },
+    {
+      "id": "659d8bf3-d129-42cf-b5d9-410df1cbc557",
+      "season": 7,
+      "number": 12,
+      "name": "Familiequiz med bid i",
+      "airdate": "2019-03-16"
+    },
+    {
+      "id": "13436b10-e34c-48a5-81b6-6ebb09eed7c3",
+      "season": 8,
+      "number": 1,
+      "name": "Lyvende robotter og fiktive fugle",
+      "airdate": "2020-09-19"
+    },
+    {
+      "id": "65893e52-b06f-4fe8-8e4b-aaa307f04c6e",
+      "season": 8,
+      "number": 2,
+      "name": "Klip-clairvoyance og burgerparasol",
+      "airdate": "2020-09-19"
+    },
+    {
+      "id": "e292afb6-ad56-4439-83c0-de72c8ab268a",
+      "season": 8,
+      "number": 3,
+      "name": "Den topløse kropstrommeslager",
+      "airdate": "2020-09-26"
+    },
+    {
+      "id": "69f7067c-1ead-4a98-8b3e-270cca128bba",
+      "season": 8,
+      "number": 4,
+      "name": "Den med Fyn og artiskokker",
+      "airdate": "2020-10-03"
+    },
+    {
+      "id": "60755a03-1b26-4c87-aaed-83ba84cfb4e5",
+      "season": 8,
+      "number": 5,
+      "name": "Museet for moderne internet",
+      "airdate": "2020-10-10"
+    },
+    {
+      "id": "2698834a-2ef0-4075-bbff-00497400ea59",
+      "season": 8,
+      "number": 6,
+      "name": "UTODMBT3000 vs. Krøltop & Skal",
+      "airdate": "2020-10-17"
+    },
+    {
+      "id": "6aabbd8b-8b3c-4f65-a16a-29b414f740d5",
+      "season": 8,
+      "number": 7,
+      "name": "Mussepodcast og rave i Belgien",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "b5b3c8ab-e750-41e6-bc51-5e200c7eb98e",
+      "season": 8,
+      "number": 8,
+      "name": "Rævegrin og fitnessbolde",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "bd279c3a-d0e0-4b05-b7b0-74bfd1e27179",
+      "season": 8,
+      "number": 9,
+      "name": "Den store revanche!",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "e26ace0b-f281-4cf4-b89e-723fc1d47ece",
+      "season": 8,
+      "number": 10,
+      "name": "Irriterende holdnavne",
+      "airdate": "2020-11-21"
+    },
+    {
+      "id": "c0f4ec51-ad8e-4043-8118-ce7eae561f13",
+      "season": 8,
+      "number": 11,
+      "name": "Heinos favoritklip",
+      "airdate": "2020-12-26"
+    },
+    {
+      "id": "b770efed-8bdb-4b1f-9bb2-67d57d369f6f",
+      "season": 8,
+      "number": 12,
+      "name": "Danmarks sjoveste seerklip",
+      "airdate": "2020-12-26"
+    }
+  ]
+}

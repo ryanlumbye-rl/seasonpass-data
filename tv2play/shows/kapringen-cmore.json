@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:kapringen-cmore",
+  "name": "Kapringen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "beed3bec-46f3-49fb-a55d-9ee99e988a30",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9e6cc36b-9457-410c-af8f-f2466af69dd0",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "aa09f12c-e2dd-41b3-8df3-26d96508316f",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4ed6114a-6e70-492f-b1bd-eb34df32ba90",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "81e39756-9f9a-4f0b-8816-4cc8629ea0c7",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "18837f3a-ccb2-4376-aecd-4e72fc2811a6",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

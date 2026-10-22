@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:ad-oiii",
+  "name": "AD?!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f6b00a5f-bf21-46ab-96a4-3f91fa76babc",
+      "season": 1,
+      "number": 1,
+      "name": "Et lorteproblem",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "4f3f1dc4-3d09-495d-898a-ad0c4f412857",
+      "season": 1,
+      "number": 2,
+      "name": "Bøvseduellen",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "93cf0469-3894-4558-a99c-d6a9b1f06a70",
+      "season": 1,
+      "number": 3,
+      "name": "Slip fisen fri",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "d395c0ba-57a2-44b6-b2c9-7172f539a771",
+      "season": 1,
+      "number": 4,
+      "name": "Tissepanik",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "01d1ceec-073f-4d88-bd82-4d4d3abcebeb",
+      "season": 1,
+      "number": 5,
+      "name": "Snask i ørerne",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "b362aa65-6f4f-4e0c-9743-69d66cc8a279",
+      "season": 1,
+      "number": 6,
+      "name": "Stinkende tæer",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "0c7fb95f-ce30-493f-b44a-7ffc01c8557c",
+      "season": 1,
+      "number": 7,
+      "name": "Snot i spandevis",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "a715c216-f1d0-4d3a-bed1-7c022b4ef153",
+      "season": 1,
+      "number": 8,
+      "name": "Mundvand i massevis",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "9000eda9-be76-487d-9cee-f0c2ec4e6486",
+      "season": 1,
+      "number": 9,
+      "name": "Bange for blod",
+      "airdate": "2023-04-22"
+    },
+    {
+      "id": "81b0ff20-9b25-4a52-a49f-588d38c8bdd3",
+      "season": 1,
+      "number": 10,
+      "name": "Nuller i navlen",
+      "airdate": "2023-04-22"
+    }
+  ]
+}

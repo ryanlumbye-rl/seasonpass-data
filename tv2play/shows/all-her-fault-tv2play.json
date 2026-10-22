@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:all-her-fault-tv2play",
+  "name": "All Her Fault",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6fce77f3-a757-4c10-8bfa-8424e001e141",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "bd911d43-4a97-4247-9d55-30ee5aa52412",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "f9119b7d-bc28-4616-a1c7-a8567b7aaa21",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "d08f9e5b-362d-49d5-9255-3e200b1a6776",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-12-29"
+    },
+    {
+      "id": "2ef9cea7-7b35-474e-8e9b-84e16f0e0c79",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-01-05"
+    },
+    {
+      "id": "31319976-54ab-4e7a-b1b9-96f716d3eae0",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-01-12"
+    },
+    {
+      "id": "8dc587dd-e84e-4a65-96b9-cf0f8f74adaf",
+      "season": 1,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2026-01-19"
+    },
+    {
+      "id": "62d3ba5c-d21a-44f7-8edc-f48eecfa59f5",
+      "season": 1,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2026-01-26"
+    }
+  ]
+}

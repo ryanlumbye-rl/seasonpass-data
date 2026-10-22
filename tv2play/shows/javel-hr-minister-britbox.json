@@ -1,0 +1,164 @@
+{
+  "id": "tv2play:javel-hr-minister-britbox",
+  "name": "Javel, hr. minister",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "588d3323-379d-4d1a-8d6b-963b19eac845",
+      "season": 1,
+      "number": 1,
+      "name": "Open Government",
+      "airdate": "2005-10-05"
+    },
+    {
+      "id": "267a8369-55cc-4153-aeb1-ac29a9693e1c",
+      "season": 1,
+      "number": 2,
+      "name": "The Official Visit",
+      "airdate": "2005-10-12"
+    },
+    {
+      "id": "019e9fb9-8bf6-48a9-9ab4-269e3dd71580",
+      "season": 1,
+      "number": 3,
+      "name": "The Economy Drive",
+      "airdate": "2005-10-19"
+    },
+    {
+      "id": "21e171fc-54e9-4339-a053-5d2ef55854fd",
+      "season": 1,
+      "number": 4,
+      "name": "Big Brother",
+      "airdate": "2005-10-26"
+    },
+    {
+      "id": "fba66d20-cafc-4055-853d-ec9bacbdd1ea",
+      "season": 1,
+      "number": 5,
+      "name": "The Writing on the Wall",
+      "airdate": "2005-11-02"
+    },
+    {
+      "id": "43f35eb5-3410-48ed-bcf9-72b9367efa1b",
+      "season": 1,
+      "number": 6,
+      "name": "The Right to Know",
+      "airdate": "2005-11-16"
+    },
+    {
+      "id": "b7c45f31-1b52-47cb-bf7e-bb812ee4a72d",
+      "season": 1,
+      "number": 7,
+      "name": "Jobs for the Boys",
+      "airdate": "2005-11-23"
+    },
+    {
+      "id": "8e781803-defa-4be8-a3c1-a9d8ed80f6c6",
+      "season": 2,
+      "number": 1,
+      "name": "The Compassionate Society",
+      "airdate": "2005-11-30"
+    },
+    {
+      "id": "15cc15be-c0c0-412c-8bc4-96473a355fb8",
+      "season": 2,
+      "number": 2,
+      "name": "Doing the Hounours",
+      "airdate": "2005-12-09"
+    },
+    {
+      "id": "8e62f315-2e64-4a17-a653-000813d96fa1",
+      "season": 2,
+      "number": 3,
+      "name": "The Death List",
+      "airdate": "2005-12-16"
+    },
+    {
+      "id": "c376f9d1-f3fd-422a-afd4-c2d73b95abfb",
+      "season": 2,
+      "number": 4,
+      "name": "The Greasy Pole",
+      "airdate": "2006-01-17"
+    },
+    {
+      "id": "535b7fae-f6ef-4fa5-897d-f08e25770b52",
+      "season": 2,
+      "number": 5,
+      "name": "The Devil You Know",
+      "airdate": "2006-01-22"
+    },
+    {
+      "id": "a1eea8f9-79df-4ccb-9cc2-e79207d5a8d0",
+      "season": 2,
+      "number": 6,
+      "name": "The Quality of Life",
+      "airdate": "2006-01-24"
+    },
+    {
+      "id": "06bb7db0-2121-4abf-8379-5b1f0bf0292d",
+      "season": 2,
+      "number": 7,
+      "name": "A Question of Loyalty",
+      "airdate": "2006-01-31"
+    },
+    {
+      "id": "e6362a43-6cdb-4ba4-930b-a39df7ce69a6",
+      "season": 3,
+      "number": 1,
+      "name": "Equal Opportunities",
+      "airdate": "2006-02-07"
+    },
+    {
+      "id": "8c1f577a-e03b-4d9e-b1ae-667a8f691934",
+      "season": 3,
+      "number": 2,
+      "name": "The Challenge",
+      "airdate": "2006-02-14"
+    },
+    {
+      "id": "faa2bdc8-59e3-406f-9a10-7336c60688f6",
+      "season": 3,
+      "number": 3,
+      "name": "Skeleton in the Cupboard",
+      "airdate": "2006-02-21"
+    },
+    {
+      "id": "e3ab3eb4-826d-4975-9ce8-b2266655d2c6",
+      "season": 3,
+      "number": 4,
+      "name": "The Moral Dimension",
+      "airdate": "2006-06-08"
+    },
+    {
+      "id": "c8edd236-13ac-471e-a964-87a4c63235f8",
+      "season": 3,
+      "number": 5,
+      "name": "The Bed of Nails",
+      "airdate": "2006-06-15"
+    },
+    {
+      "id": "969da1fc-9032-43dd-9b99-a3e7ff8ba56d",
+      "season": 3,
+      "number": 6,
+      "name": "The Whisky Priest",
+      "airdate": "2006-06-22"
+    },
+    {
+      "id": "84a6f70e-c9be-44ec-9d1a-e6ff373bd535",
+      "season": 3,
+      "number": 7,
+      "name": "The Middle-Class Rip-Off",
+      "airdate": "2006-06-29"
+    },
+    {
+      "id": "c87f04bc-d828-4990-9e22-6f74819803d3",
+      "season": 3,
+      "number": 8,
+      "name": "Party Games",
+      "airdate": "2023-11-29"
+    }
+  ]
+}

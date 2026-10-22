@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:lellobee-city-farm-oiii",
+  "name": "Lellobee City Farm",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "82eebde0-2504-4ed8-bf4e-865215a72a22",
+      "season": 1,
+      "number": 1,
+      "name": "Ingen monstre er bange for mørket",
+      "airdate": "2023-01-21"
+    },
+    {
+      "id": "6a989cc3-c31d-414a-9218-017e574a5dae",
+      "season": 1,
+      "number": 2,
+      "name": "Slik eller ballade",
+      "airdate": "2023-01-21"
+    },
+    {
+      "id": "bd1fe1c2-9d24-49b8-8fce-f5da4016d6d3",
+      "season": 1,
+      "number": 3,
+      "name": "Et lykkeligt sted",
+      "airdate": "2023-01-21"
+    },
+    {
+      "id": "99019382-e349-4e7d-961f-90876209d370",
+      "season": 1,
+      "number": 4,
+      "name": "Mæh mæh, sorte lam",
+      "airdate": "2023-01-21"
+    },
+    {
+      "id": "8cefdbfd-28a8-4473-a332-c1e9918a1186",
+      "season": 1,
+      "number": 5,
+      "name": "Plaskesang",
+      "airdate": "2023-01-21"
+    },
+    {
+      "id": "86c2771f-d01f-48d8-b571-5426c8abbe33",
+      "season": 1,
+      "number": 6,
+      "name": "Ella, Ella, ja, postbud",
+      "airdate": "2023-01-21"
+    },
+    {
+      "id": "a4157538-da90-42fc-b8c2-a5e997b83573",
+      "season": 2,
+      "number": 1,
+      "name": "Landlivets harmoni",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "2f695a23-b6cc-42d8-9317-fd0e3b2a0d71",
+      "season": 2,
+      "number": 2,
+      "name": "Årstidernes fejringer og eventyr",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "78b90c91-7571-4fd6-ab0d-1c19c79145a9",
+      "season": 2,
+      "number": 3,
+      "name": "Særlige dage på farmen",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "f20d2d57-1b82-415c-a264-d3fcc68a56a4",
+      "season": 2,
+      "number": 4,
+      "name": "Sommerplask og sjov",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "c2139e38-2dde-433d-88a1-52c4ac7309c4",
+      "season": 2,
+      "number": 5,
+      "name": "Finurlige melodier og dans",
+      "airdate": "2024-05-18"
+    }
+  ]
+}

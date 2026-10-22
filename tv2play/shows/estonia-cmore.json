@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:estonia-cmore",
+  "name": "Estonia",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "383be03f-0e70-47df-ae89-61b6aecf26ce",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-10-15"
+    },
+    {
+      "id": "dd7c5a37-0832-41ba-bf8f-55a40289826e",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-10-15"
+    },
+    {
+      "id": "16a83663-cbb5-4aff-9bad-17ab598dc1f9",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-10-22"
+    },
+    {
+      "id": "a921ebed-58a8-457f-992e-ce6a9343606c",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-10-29"
+    },
+    {
+      "id": "92e16115-1958-40c0-92d9-e079d8e175bd",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-11-05"
+    },
+    {
+      "id": "90b8c72f-9650-4f2d-9b2a-67bb91f55543",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-11-12"
+    },
+    {
+      "id": "94a721a3-624e-45ea-b0ae-44d418916519",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-11-19"
+    },
+    {
+      "id": "82512b54-af7b-45e8-b335-95e192a6a0fd",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-11-26"
+    }
+  ]
+}

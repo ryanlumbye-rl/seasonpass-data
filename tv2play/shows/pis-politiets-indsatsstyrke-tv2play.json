@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:pis-politiets-indsatsstyrke-tv2play",
+  "name": "P.I.S. - Politiets IndsatsStyrke",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2f6b219d-4c87-48c6-852b-04c14a01025c",
+      "season": 1,
+      "number": 1,
+      "name": "Order to Go!",
+      "airdate": "2000-10-15"
+    },
+    {
+      "id": "bfbdf7ed-d967-4e43-9341-29b79bf89393",
+      "season": 1,
+      "number": 2,
+      "name": "Stakeout Takeout",
+      "airdate": "2000-10-25"
+    },
+    {
+      "id": "0e7645de-2e07-499a-bb05-61c02ca7e197",
+      "season": 1,
+      "number": 3,
+      "name": "Bang!",
+      "airdate": "2000-11-01"
+    },
+    {
+      "id": "0d5e94e6-338d-44fe-aff6-19a9a655e16c",
+      "season": 1,
+      "number": 4,
+      "name": "Hassan",
+      "airdate": "2000-11-08"
+    },
+    {
+      "id": "3e7cf310-39d8-4a9e-9d32-01ae8cfe3d90",
+      "season": 1,
+      "number": 5,
+      "name": "Bodyguards",
+      "airdate": "2000-11-15"
+    },
+    {
+      "id": "9c460811-c347-404d-91ab-84e1ff0df925",
+      "season": 1,
+      "number": 6,
+      "name": "Mediehalløj",
+      "airdate": "2000-11-22"
+    },
+    {
+      "id": "fc96a292-6fb1-4c14-a7d3-c9b8f010688d",
+      "season": 2,
+      "number": 1,
+      "name": "John vender hjem",
+      "airdate": "2001-11-01"
+    },
+    {
+      "id": "5f198aec-4285-4c85-b598-0a92d81ccc17",
+      "season": 2,
+      "number": 2,
+      "name": "Svetlana",
+      "airdate": "2001-11-08"
+    },
+    {
+      "id": "738010f4-2008-4e1c-abc4-0f1a4779567c",
+      "season": 2,
+      "number": 3,
+      "name": "Nina Must Die!",
+      "airdate": "2001-11-15"
+    },
+    {
+      "id": "83736027-8c71-4aa2-9347-83e7286af160",
+      "season": 2,
+      "number": 4,
+      "name": "Kød er mord!",
+      "airdate": "2001-11-22"
+    },
+    {
+      "id": "39bcff19-561e-42ab-ad54-5892e7b245a4",
+      "season": 2,
+      "number": 5,
+      "name": "Bjarnes store dag",
+      "airdate": "2001-11-29"
+    },
+    {
+      "id": "47cbf2c6-da14-4f79-a75b-63bce877ebc7",
+      "season": 2,
+      "number": 6,
+      "name": "Friendly Fire",
+      "airdate": "2001-12-06"
+    },
+    {
+      "id": "69591092-211a-4818-a495-cce0df364c91",
+      "season": 2,
+      "number": 7,
+      "name": "Friendly Fire",
+      "airdate": "2001-12-13"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:droemmeslot-paa-hoejkant-tv2fri",
+  "name": "Drømmeslot på højkant",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "68f504e9-b7f9-41d4-8e08-82f55d4e2bbd",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til Frankrig",
+      "airdate": "2026-07-20"
+    },
+    {
+      "id": "3deaba20-0464-41cc-b010-1a7ec8bd0777",
+      "season": 1,
+      "number": 2,
+      "name": "Første par ude",
+      "airdate": "2026-07-21"
+    },
+    {
+      "id": "7d2492b3-e4c5-4a8a-ac0b-e130c6626650",
+      "season": 1,
+      "number": 3,
+      "name": "Nervepirrende test",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "997b1b35-33ad-46d9-bb5e-cbb3f18cee22",
+      "season": 1,
+      "number": 4,
+      "name": "Farvel til Frankrig",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "ba25f542-05ee-436b-993d-122eaf99a827",
+      "season": 1,
+      "number": 5,
+      "name": "Kampen om finalepladsen",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "9932dbba-8bdd-4123-aaca-69bac36eded8",
+      "season": 1,
+      "number": 6,
+      "name": "Andet heat",
+      "airdate": "2026-07-27"
+    },
+    {
+      "id": "77fca07a-6b7b-4dba-8ecd-bfe43719a2d7",
+      "season": 1,
+      "number": 7,
+      "name": "Et par forlader Frankrig",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "67d29e67-f1b4-4457-9ba0-3babf8a67726",
+      "season": 1,
+      "number": 8,
+      "name": "Hårdt arbejde",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "73adb92a-d771-4fb7-a281-d6e5843e1859",
+      "season": 1,
+      "number": 9,
+      "name": "Slået på målstregen",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "c3d032a3-43ae-49f4-82c4-1ac7d7776092",
+      "season": 1,
+      "number": 10,
+      "name": "Hvem bliver finaleklar?",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "d76fb1c2-3c8d-4b18-82f6-4b1ebdac0c31",
+      "season": 1,
+      "number": 11,
+      "name": "Samarbejde på prøve",
+      "airdate": "2026-08-03"
+    },
+    {
+      "id": "6a63f61b-c54a-4ffb-bb77-4b9218f9d2de",
+      "season": 1,
+      "number": 12,
+      "name": "Farvel til drømmen",
+      "airdate": "2026-08-04"
+    },
+    {
+      "id": "0b83c9c3-1dee-4c72-816a-09e284fbd6a8",
+      "season": 1,
+      "number": 13,
+      "name": "Bøger og byggestøv",
+      "airdate": "2026-08-05"
+    },
+    {
+      "id": "8954888d-843c-4c38-8416-0fa36872321b",
+      "season": 1,
+      "number": 14,
+      "name": "Au revoir!",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "053f4944-8ab8-412d-9765-72963fce4155",
+      "season": 1,
+      "number": 15,
+      "name": "Et finaleklart par",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "f8cfd3e4-e548-427c-a07f-7e64aa3884de",
+      "season": 1,
+      "number": 16,
+      "name": "Finaleugen begynder",
+      "airdate": "2026-08-10"
+    },
+    {
+      "id": "2f216361-b94e-4cb6-a8aa-d1b3d9f85605",
+      "season": 1,
+      "number": 17,
+      "name": "Tre par bliver til to",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "c597a1a4-ed1f-40f7-9b60-9d0e7dc4f733",
+      "season": 1,
+      "number": 18,
+      "name": "En drøm forude",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "974911b7-a625-4829-bbdf-3923a4fc8711",
+      "season": 1,
+      "number": 19,
+      "name": "En overraskelse",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "4be03c97-23cc-45dc-a840-146a0709d596",
+      "season": 1,
+      "number": 20,
+      "name": "Slottets nye ejere",
+      "airdate": "2026-08-13"
+    }
+  ]
+}

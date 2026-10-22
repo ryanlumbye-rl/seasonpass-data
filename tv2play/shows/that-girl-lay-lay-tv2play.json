@@ -1,0 +1,164 @@
+{
+  "id": "tv2play:that-girl-lay-lay-tv2play",
+  "name": "That Girl Lay Lay",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2ba5eef2-4e31-4727-b07e-e7b8bde98988",
+      "season": 2,
+      "number": 1,
+      "name": "Ain't That a Glitch - del 1",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "7c85c670-ee2d-4bd5-9f5d-cb6e0cb79be6",
+      "season": 2,
+      "number": 2,
+      "name": "Ain't That a Glitch - del 2",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "b9c56c9d-2b6f-4eef-acef-e9698e0901ce",
+      "season": 2,
+      "number": 3,
+      "name": "The Burger Games",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "e950c882-a2dd-45bf-8fd8-ba9fa4ac1e48",
+      "season": 2,
+      "number": 4,
+      "name": "Lay Lay's Beauty Shop Day Day",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "85e83264-c056-4095-99ee-96e888a5e27b",
+      "season": 2,
+      "number": 5,
+      "name": "Lay Lay Gets a Pet Pet",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "18226cc4-3921-4b97-a88d-34585bf186de",
+      "season": 2,
+      "number": 6,
+      "name": "Bars",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "af899537-4c3b-481f-89f1-b48fff229b8a",
+      "season": 2,
+      "number": 7,
+      "name": "Fami-Lay-Lay Reunion",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "1e8d3f6c-4198-4640-bb45-237da66644ae",
+      "season": 2,
+      "number": 8,
+      "name": "Freaky Fri-Day-Day",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "202e316f-26d1-4631-b555-5d0ce8edc462",
+      "season": 2,
+      "number": 9,
+      "name": "Lay Lay's Line Line Dance Dance",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "2d0a5642-cbd3-46d1-a6a3-b9afb3dabc8f",
+      "season": 2,
+      "number": 10,
+      "name": "Dylan and Rebecca's Cleve-Land-Land Adventure",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "dce874bd-940b-4f5a-8e90-6c40ebcfbfa9",
+      "season": 2,
+      "number": 11,
+      "name": "The App Came Back",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "f9703485-9c6d-4946-89a5-dfbfe879af50",
+      "season": 2,
+      "number": 12,
+      "name": "Lay Lay's Par-Tay-Tay",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "e71a5de2-5287-4772-810b-543cce5f5f26",
+      "season": 2,
+      "number": 13,
+      "name": "How Zelda Got Her Groove Back Back",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "5c13b923-957c-4a8c-b2fd-ce567295415e",
+      "season": 2,
+      "number": 14,
+      "name": "Beastie Pie",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "48eb1866-6432-4c1a-b591-e79d6b02e255",
+      "season": 2,
+      "number": 15,
+      "name": "Bringing Down the House House",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "263a475d-4d15-47cb-8ca3-d04258d2055a",
+      "season": 2,
+      "number": 16,
+      "name": "Sorori-Tay-Tay",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "19351a25-b302-4d70-a4e1-13dfc27bfba4",
+      "season": 2,
+      "number": 17,
+      "name": "The Packer Packer Bowl",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "53670877-fc46-46b4-9787-c45c7687fca8",
+      "season": 2,
+      "number": 18,
+      "name": "Bring It On",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "37b63464-0b1b-4f4e-b910-50519ecafe44",
+      "season": 2,
+      "number": 19,
+      "name": "Lay Lay's Little Little",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "41d92ffd-6581-46f1-b0b4-7ca05c6d256e",
+      "season": 2,
+      "number": 20,
+      "name": "Judge Lay Lay",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "71a5a234-80bf-4695-a7eb-cfe1b1f6207b",
+      "season": 2,
+      "number": 22,
+      "name": "Lay Lay Gets Ready to Rumble Rumble",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "7204468e-5a47-4fa3-82fe-b576af41d5bd",
+      "season": 2,
+      "number": 23,
+      "name": "Ask Away-Way with Lay Lay",
+      "airdate": "2026-07-30"
+    }
+  ]
+}

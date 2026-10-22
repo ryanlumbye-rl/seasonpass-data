@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:black-work-britbox",
+  "name": "Black Work",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b6d11d6f-7d27-4c5a-a835-143fca801e8a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "22c83262-4f0a-4496-b024-15604d11bbbb",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "c1a34954-b7f8-437b-8bcb-705a624a3ba8",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-03-05"
+    }
+  ]
+}

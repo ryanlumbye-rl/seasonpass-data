@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:americas-got-talent-tv2",
+  "name": "America's Got Talent",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fe63c9c5-238c-47e6-beea-26ea0426a3c1",
+      "season": 19,
+      "number": 1,
+      "name": "Første audition",
+      "airdate": "2025-02-07"
+    },
+    {
+      "id": "24d3b4bd-cbb4-4244-8dce-d851d2d23e52",
+      "season": 19,
+      "number": 2,
+      "name": "Anden audition",
+      "airdate": "2025-02-14"
+    },
+    {
+      "id": "31bb35cb-45ca-419a-bd64-47c8dd90a83b",
+      "season": 19,
+      "number": 3,
+      "name": "Tredje audition",
+      "airdate": "2025-02-21"
+    },
+    {
+      "id": "ee60b47e-cdee-4832-9831-271c4bf21ddd",
+      "season": 19,
+      "number": 4,
+      "name": "Fjerde audition",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "8536e456-007b-435d-abe2-2c974851bc24",
+      "season": 19,
+      "number": 5,
+      "name": "Femte audition",
+      "airdate": "2025-03-07"
+    },
+    {
+      "id": "a6f79778-6f36-4ab9-b37c-12de2942ff60",
+      "season": 19,
+      "number": 6,
+      "name": "Sjette audition",
+      "airdate": "2025-03-14"
+    },
+    {
+      "id": "6f221bf3-9933-4d82-aa27-c3a1cb88328c",
+      "season": 19,
+      "number": 7,
+      "name": "Syvende audition",
+      "airdate": "2025-03-21"
+    },
+    {
+      "id": "ea6e509d-d028-4431-b95e-e36701add674",
+      "season": 19,
+      "number": 8,
+      "name": "Sidste audition",
+      "airdate": "2025-03-28"
+    },
+    {
+      "id": "0b8bca8a-639b-4497-a8be-67cbacedf9a6",
+      "season": 19,
+      "number": 9,
+      "name": "Første liveshow",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "7f6a2155-36d8-41ae-85bf-963ae51e36b7",
+      "season": 19,
+      "number": 10,
+      "name": "Afgørelsen",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "a24a0c71-9705-484d-9c65-a33959a7ed04",
+      "season": 19,
+      "number": 11,
+      "name": "Andet liveshow",
+      "airdate": "2025-04-11"
+    },
+    {
+      "id": "2ab9db1a-00f8-4e0c-b298-125338bd08c3",
+      "season": 19,
+      "number": 12,
+      "name": "Afgørelsen",
+      "airdate": "2025-04-11"
+    },
+    {
+      "id": "6dc76bcd-d8ce-4d1a-8d06-3115852555e1",
+      "season": 19,
+      "number": 13,
+      "name": "Tredje liveshow",
+      "airdate": "2025-04-18"
+    },
+    {
+      "id": "b0327be9-8e3d-4fa2-a76a-e985c3a38d71",
+      "season": 19,
+      "number": 14,
+      "name": "Afgørelsen",
+      "airdate": "2025-04-18"
+    },
+    {
+      "id": "3aecbb71-ca22-4b60-89a3-7d2bcd402853",
+      "season": 19,
+      "number": 15,
+      "name": "Fjerde liveshow",
+      "airdate": "2025-04-25"
+    },
+    {
+      "id": "94c9d597-7cac-411a-9842-459c0e90e4d4",
+      "season": 19,
+      "number": 16,
+      "name": "Afgørelsen",
+      "airdate": "2025-04-25"
+    },
+    {
+      "id": "1512796d-88ed-4085-a553-a3e295235a94",
+      "season": 19,
+      "number": 17,
+      "name": "Femte liveshow",
+      "airdate": "2025-05-02"
+    },
+    {
+      "id": "5a776fca-d584-48da-a97f-b672d29c7b01",
+      "season": 19,
+      "number": 18,
+      "name": "Afgørelsen",
+      "airdate": "2025-05-02"
+    },
+    {
+      "id": "09039567-6602-4d79-b70e-ffb73b6b423c",
+      "season": 19,
+      "number": 19,
+      "name": "Finale",
+      "airdate": "2025-05-09"
+    },
+    {
+      "id": "727c87b0-2e8f-4776-80b4-3936a883401b",
+      "season": 19,
+      "number": 20,
+      "name": "Afgørelsen",
+      "airdate": "2025-05-16"
+    }
+  ]
+}

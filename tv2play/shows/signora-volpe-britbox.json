@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:signora-volpe-britbox",
+  "name": "Signora Volpe",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3018b0f3-0475-40bc-859a-0e6822270256",
+      "season": 1,
+      "number": 1,
+      "name": "An Anxious Aunt",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a9f9919b-6f63-41da-ae82-6f4660b58cf3",
+      "season": 1,
+      "number": 2,
+      "name": "Secrets and Sacrifies",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "41754ba5-34a7-404e-ab24-6e9b41547799",
+      "season": 1,
+      "number": 3,
+      "name": "Treachery and Truffels",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "37d06b63-a10e-4cf2-9115-ac84512dd3a0",
+      "season": 2,
+      "number": 1,
+      "name": "A Debt of Honour",
+      "airdate": "2024-09-11"
+    },
+    {
+      "id": "c8da9a3c-25a8-47ac-9f71-5804761c18af",
+      "season": 2,
+      "number": 2,
+      "name": "A Deadly Net",
+      "airdate": "2024-09-11"
+    },
+    {
+      "id": "dff1d1ca-ab5d-4b16-bd15-b72e2c7bc688",
+      "season": 2,
+      "number": 3,
+      "name": "Death of a Ghost",
+      "airdate": "2024-09-11"
+    }
+  ]
+}

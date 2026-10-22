@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:olly-lea-oiii",
+  "name": "Olly & Lea",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "871fb4ea-6fd3-4d08-b9db-1c8f29429e93",
+      "season": 1,
+      "number": 1,
+      "name": "Jeg kan ikke sove uden min...",
+      "airdate": "2021-05-10"
+    },
+    {
+      "id": "9d1c9131-0a68-4a08-8bf6-cb4a4bcba354",
+      "season": 1,
+      "number": 2,
+      "name": "På hovedet i seng",
+      "airdate": "2021-05-11"
+    },
+    {
+      "id": "44568cb8-e31e-4d58-a71c-e493699968c1",
+      "season": 1,
+      "number": 3,
+      "name": "Hvad laver du, når jeg sover?",
+      "airdate": "2021-05-12"
+    },
+    {
+      "id": "2cb9f88f-1457-406c-9d18-62903478e125",
+      "season": 1,
+      "number": 4,
+      "name": "Lea, ved du hvad?",
+      "airdate": "2021-05-17"
+    },
+    {
+      "id": "476f2f0a-5893-4b67-8d65-129c48058354",
+      "season": 1,
+      "number": 5,
+      "name": "Jeg skal bare liiige...",
+      "airdate": "2021-05-18"
+    },
+    {
+      "id": "6144df1c-d25f-4449-9186-a74e619d1446",
+      "season": 1,
+      "number": 6,
+      "name": "Monstret under sengen",
+      "airdate": "2021-05-19"
+    },
+    {
+      "id": "92444b51-f5f0-4b3c-af40-183c8fae4e0e",
+      "season": 1,
+      "number": 7,
+      "name": "Olly & Leas Godnatsang",
+      "airdate": "2021-05-10"
+    }
+  ]
+}

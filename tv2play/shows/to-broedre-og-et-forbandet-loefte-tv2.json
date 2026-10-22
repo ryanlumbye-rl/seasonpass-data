@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:to-broedre-og-et-forbandet-loefte-tv2",
+  "name": "To brødre og et forbandet løfte",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c6e57a55-7d12-43b2-83c8-1f2decc72f43",
+      "season": 1,
+      "number": 1,
+      "name": "Manden, der ikke kunne dø",
+      "airdate": "2026-08-05"
+    },
+    {
+      "id": "b197c8de-3516-4ea9-8988-c70b73b14a84",
+      "season": 1,
+      "number": 2,
+      "name": "De afsluttende ord",
+      "airdate": "2026-08-12"
+    }
+  ]
+}

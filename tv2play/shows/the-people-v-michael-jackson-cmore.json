@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:the-people-v-michael-jackson-cmore",
+  "name": "The People V. Michael Jackson",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "99440aaf-dea2-454a-9608-7349f60415f4",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "5a615d7d-6ad7-41cc-8d7a-ea55033800d5",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-08"
+    }
+  ]
+}

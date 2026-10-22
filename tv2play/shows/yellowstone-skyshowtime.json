@@ -1,0 +1,381 @@
+{
+  "id": "tv2play:yellowstone-skyshowtime",
+  "name": "Yellowstone",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ec5973d2-c87d-4dab-8a3d-419ae0541c17",
+      "season": 1,
+      "number": 1,
+      "name": "Daybreak",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "377a21a3-0aec-415b-9cff-79bfc88466fa",
+      "season": 1,
+      "number": 2,
+      "name": "Kill the Messenger",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "51aaa7aa-4007-4593-a756-50cbd51f5328",
+      "season": 1,
+      "number": 3,
+      "name": "No Good Horses",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2d947976-9189-4c85-b71c-60ceca9529db",
+      "season": 1,
+      "number": 4,
+      "name": "The Long Black Train",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3c1f4375-cc2d-4100-9aa4-ee1ef4d51f4b",
+      "season": 1,
+      "number": 5,
+      "name": "Coming home",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f2e37c20-3431-4ba7-bf7d-290771e22648",
+      "season": 1,
+      "number": 6,
+      "name": "The Remembering",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f5c369e2-468a-44b1-8cb3-27e09ed438ed",
+      "season": 1,
+      "number": 7,
+      "name": "A Monster is Among Us",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "85293a29-7fa5-441f-9820-7c20c8d9e343",
+      "season": 1,
+      "number": 8,
+      "name": "The Unravelling Part I",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "368acf0b-be07-4dba-8e6f-53b4af43c157",
+      "season": 1,
+      "number": 9,
+      "name": "The Unravelling, Part 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1b53c49a-2b01-41c3-b3e2-b143ee079e51",
+      "season": 2,
+      "number": 1,
+      "name": "A Thundering",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "afa86ab1-0afd-47f6-b2aa-3431d9621982",
+      "season": 2,
+      "number": 2,
+      "name": "New Beginnings",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6e6ca775-4832-4274-9140-98491cc12571",
+      "season": 2,
+      "number": 3,
+      "name": "The Reek of Desperation",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "34685412-548b-4139-a557-1bda443d8be5",
+      "season": 2,
+      "number": 4,
+      "name": "Only Devils left",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9936741b-dd76-4004-9cf8-826a8302c944",
+      "season": 2,
+      "number": 5,
+      "name": "Touching Your Enemy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0b498bfb-7433-4cf0-91d7-32e8653e8b71",
+      "season": 2,
+      "number": 6,
+      "name": "Blood The Boy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d44b13c8-5e9e-48c6-abf9-13ea12dfb1cf",
+      "season": 2,
+      "number": 7,
+      "name": "Resurrection Day",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b4d246e0-a5ba-471e-a57e-011cba952a5d",
+      "season": 2,
+      "number": 8,
+      "name": "Behind Us Only",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "06b24e12-c4fa-479d-a515-0869e6242aad",
+      "season": 2,
+      "number": 9,
+      "name": "Enemies by Monday",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "16f4cf4e-9bfc-4023-868a-b4d2e340f97c",
+      "season": 2,
+      "number": 10,
+      "name": "Sins of the Father",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0875e220-d8fe-418e-b1a1-077ac0564c3f",
+      "season": 3,
+      "number": 1,
+      "name": "You're the Indian now",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5a4ab766-8390-4e98-868a-5ce42512b91e",
+      "season": 3,
+      "number": 2,
+      "name": "Freight Trains and Monsters",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "106f2b06-51b1-48d0-bc06-558cb2598786",
+      "season": 3,
+      "number": 3,
+      "name": "An Acceptable Surrender",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5aca922f-d4eb-4108-9c54-76d0ee6a055f",
+      "season": 3,
+      "number": 4,
+      "name": "Going Back to Cell",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "661622e2-07e8-4152-8d6e-a6d89c9320c3",
+      "season": 3,
+      "number": 5,
+      "name": "Cowboys and Dreamers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2ee9ec61-6ad2-4e62-b3d5-258cd56908d5",
+      "season": 3,
+      "number": 6,
+      "name": "All for Nothing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "036abcee-51b3-4ac3-8c23-cc52e02f791a",
+      "season": 3,
+      "number": 7,
+      "name": "The Beating",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d5d59ad0-43d2-4457-b5ac-cd5d45dd8393",
+      "season": 3,
+      "number": 8,
+      "name": "I Killed a Man Today",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c94e3c98-1f94-4f3c-b8d6-9b588caff9cc",
+      "season": 3,
+      "number": 9,
+      "name": "Meaner Than Evil",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c252d07f-e285-4663-969d-ae00819e2b71",
+      "season": 3,
+      "number": 10,
+      "name": "The World is Purple",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b84a36e1-e863-4136-b8e2-84209bd81e03",
+      "season": 4,
+      "number": 1,
+      "name": "Half The Money",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "48c5d9f8-4a9a-4ad3-ad9d-650fed70c2d1",
+      "season": 4,
+      "number": 2,
+      "name": "Phantom Pain",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "fc139ab8-1964-4880-b7b1-a5be33d2fe6a",
+      "season": 4,
+      "number": 3,
+      "name": "All I See Is You",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "cadcce1f-7c71-4795-a8a0-ff7c918e364c",
+      "season": 4,
+      "number": 4,
+      "name": "Winning or Learning",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "bedcff0e-ae26-4f4c-ad87-9b96cb802a8c",
+      "season": 4,
+      "number": 5,
+      "name": "Under A Blanket of Red",
+      "airdate": "2021-11-29"
+    },
+    {
+      "id": "91a54b50-6e19-4c08-bc85-302e5b09e6b6",
+      "season": 4,
+      "number": 6,
+      "name": "I Want to Be Him",
+      "airdate": "2021-12-06"
+    },
+    {
+      "id": "5cca1370-3f73-45f7-b10a-278abac1f0e6",
+      "season": 4,
+      "number": 7,
+      "name": "Keep The Wolves Close",
+      "airdate": "2021-12-13"
+    },
+    {
+      "id": "89c93722-9295-473f-b291-01d8caeaad78",
+      "season": 4,
+      "number": 8,
+      "name": "No Kindness for the Coward",
+      "airdate": "2021-12-20"
+    },
+    {
+      "id": "ea47dee6-9106-45d1-bc83-fb6e36b9c980",
+      "season": 4,
+      "number": 9,
+      "name": "No Such Thing As Fair",
+      "airdate": "2021-12-27"
+    },
+    {
+      "id": "b68f3ac2-c62e-4a43-9746-8b5d3b7adb28",
+      "season": 4,
+      "number": 10,
+      "name": "Grass On The Streets",
+      "airdate": "2022-01-03"
+    },
+    {
+      "id": "856cd828-c092-4be5-8b05-d07690c083a2",
+      "season": 5,
+      "number": 1,
+      "name": "One Hundred Years is Nothing",
+      "airdate": "2022-11-14"
+    },
+    {
+      "id": "fda01708-6e6f-43d8-9829-7f1cbb1f1d48",
+      "season": 5,
+      "number": 2,
+      "name": "The Sting of Wisdom",
+      "airdate": "2022-11-14"
+    },
+    {
+      "id": "16b432f9-2f0c-4bb3-a3c8-70bf7cca3d5b",
+      "season": 5,
+      "number": 3,
+      "name": "Tall Drink of Water",
+      "airdate": "2022-11-21"
+    },
+    {
+      "id": "91b8a2f2-6833-4a59-a566-e31a1baa9ac1",
+      "season": 5,
+      "number": 4,
+      "name": "Horses in Heaven",
+      "airdate": "2022-11-28"
+    },
+    {
+      "id": "ab70e688-83e2-4244-be43-e4c23493595c",
+      "season": 5,
+      "number": 5,
+      "name": "Watch ’em Ride Away",
+      "airdate": "2022-12-05"
+    },
+    {
+      "id": "2771abe0-1059-498a-b256-cca36cd748bc",
+      "season": 5,
+      "number": 6,
+      "name": "Cigarettes, Whiskey, a Meadow and Fog",
+      "airdate": "2022-12-12"
+    },
+    {
+      "id": "10bd9a71-d6cc-434c-8fbf-6c8b6381bad0",
+      "season": 5,
+      "number": 7,
+      "name": "The Dream Is Not Me",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "c0052012-47e4-4d86-a725-55e5c609e440",
+      "season": 5,
+      "number": 8,
+      "name": "A Knife and No Coin",
+      "airdate": "2023-01-02"
+    },
+    {
+      "id": "b7d3fdef-1793-4b21-bac9-acca58585853",
+      "season": 5,
+      "number": 9,
+      "name": "Desire Is All You Need",
+      "airdate": "2024-11-14"
+    },
+    {
+      "id": "c5b8bbd0-a19e-455b-be6d-96f35860227d",
+      "season": 5,
+      "number": 10,
+      "name": "The Apocalypse of Change",
+      "airdate": "2024-11-21"
+    },
+    {
+      "id": "7d43b5bb-cbee-4245-90dc-acb243b68582",
+      "season": 5,
+      "number": 11,
+      "name": "Three Fifty-Three",
+      "airdate": "2024-11-28"
+    },
+    {
+      "id": "f63cdb1c-34a0-4e67-a8af-f370a6474532",
+      "season": 5,
+      "number": 12,
+      "name": "Counting Coup",
+      "airdate": "2024-12-05"
+    },
+    {
+      "id": "89a5b2dc-9778-4797-9dd7-af060e8fd57e",
+      "season": 5,
+      "number": 13,
+      "name": "Give the World Away",
+      "airdate": "2024-12-12"
+    },
+    {
+      "id": "dbc7edc0-ac15-4f88-bd8a-dfb91cf43411",
+      "season": 5,
+      "number": 14,
+      "name": "Life Is a Promise",
+      "airdate": "2024-12-19"
+    }
+  ]
+}

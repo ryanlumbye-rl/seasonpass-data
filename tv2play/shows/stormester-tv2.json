@@ -1,0 +1,591 @@
+{
+  "id": "tv2play:stormester-tv2",
+  "name": "Stormester",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f7fb6b6f-ece6-4399-ba1b-7eefdaf6c08d",
+      "season": 1,
+      "number": 1,
+      "name": "Det allerførste afsnit",
+      "airdate": "2018-08-18"
+    },
+    {
+      "id": "56728f5e-a40f-4be3-a09d-72c2f53fa979",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad er en snekke?",
+      "airdate": "2018-08-18"
+    },
+    {
+      "id": "c92f9b95-7b5b-406f-a48f-672c6c7c6f0a",
+      "season": 1,
+      "number": 3,
+      "name": "Den russiske dame",
+      "airdate": "2018-08-18"
+    },
+    {
+      "id": "9dc8b137-bae0-45ee-ab4c-66ea3eced861",
+      "season": 1,
+      "number": 4,
+      "name": "Cæsar!",
+      "airdate": "2018-08-18"
+    },
+    {
+      "id": "466ece2a-e012-4256-9184-909b53d95e89",
+      "season": 1,
+      "number": 5,
+      "name": "Julie, du er diskvalificeret!",
+      "airdate": "2018-08-18"
+    },
+    {
+      "id": "4c6611bf-166f-4ffe-9bd5-ef2cf3b14a7b",
+      "season": 1,
+      "number": 6,
+      "name": "Ruben vinder hotdogkonkurrence",
+      "airdate": "2018-08-18"
+    },
+    {
+      "id": "37531473-7d7f-4834-bbaa-6b1623426694",
+      "season": 1,
+      "number": 7,
+      "name": "Camouflér dig på et billede",
+      "airdate": "2018-08-18"
+    },
+    {
+      "id": "f0c23bdf-f5b1-4a1a-8b25-024f5c444231",
+      "season": 1,
+      "number": 8,
+      "name": "Den store finale",
+      "airdate": "2018-08-18"
+    },
+    {
+      "id": "d47d2339-b8c3-460b-8073-22ba84d71a03",
+      "season": 2,
+      "number": 1,
+      "name": "Kondom i flammer",
+      "airdate": "2019-04-19"
+    },
+    {
+      "id": "a3e702e0-b770-4079-a331-44e4bb20f499",
+      "season": 2,
+      "number": 2,
+      "name": "Ikke uden samtykke",
+      "airdate": "2019-04-19"
+    },
+    {
+      "id": "c336fece-2c8e-4aad-8ecd-cbb6abe6f56c",
+      "season": 2,
+      "number": 3,
+      "name": "Hvad gør kontakten?",
+      "airdate": "2019-04-26"
+    },
+    {
+      "id": "954707ac-394a-4fa7-ab92-da4be140b74c",
+      "season": 2,
+      "number": 4,
+      "name": "Regnbuer i mørke",
+      "airdate": "2019-05-03"
+    },
+    {
+      "id": "4ed75f78-88a5-4121-bb0d-82fb69b07ff5",
+      "season": 2,
+      "number": 5,
+      "name": "At klappe med to fødder",
+      "airdate": "2019-05-10"
+    },
+    {
+      "id": "1b661c66-d7a7-497f-801d-96d1660b14f7",
+      "season": 2,
+      "number": 6,
+      "name": "Frugtpandaer",
+      "airdate": "2019-05-17"
+    },
+    {
+      "id": "b3fa22b3-9e22-4f1e-a8d4-9d75d0ca05b7",
+      "season": 2,
+      "number": 7,
+      "name": "En spiselig maske",
+      "airdate": "2019-05-24"
+    },
+    {
+      "id": "f83d1879-1e42-47d6-b3c6-28d821297815",
+      "season": 2,
+      "number": 8,
+      "name": "Julespecial",
+      "airdate": "2019-12-26"
+    },
+    {
+      "id": "c7776c7d-5128-4036-8cc7-a3029987cf52",
+      "season": 3,
+      "number": 1,
+      "name": "Undskyld Mark",
+      "airdate": "2020-05-29"
+    },
+    {
+      "id": "48cd72be-512a-41f1-9951-8118db6e32c0",
+      "season": 3,
+      "number": 2,
+      "name": "Den bedste cliffhanger",
+      "airdate": "2020-05-29"
+    },
+    {
+      "id": "dc9504a0-884c-46ea-81fb-29b75d777bc3",
+      "season": 3,
+      "number": 3,
+      "name": "50 forskellige ting",
+      "airdate": "2020-06-05"
+    },
+    {
+      "id": "5602a363-5bba-41f9-893d-76feda16bae7",
+      "season": 3,
+      "number": 4,
+      "name": "Heino laver Rundetårn",
+      "airdate": "2020-06-12"
+    },
+    {
+      "id": "5f3de5c3-d5dd-4f82-a30a-fd792a4027f1",
+      "season": 3,
+      "number": 5,
+      "name": "Kom i døgnrapporten?",
+      "airdate": "2020-06-19"
+    },
+    {
+      "id": "942bc7ea-4b2a-4000-967c-a427fe07ca7d",
+      "season": 3,
+      "number": 6,
+      "name": "Vulkaner i udbrud",
+      "airdate": "2020-06-26"
+    },
+    {
+      "id": "dcac92a5-0e95-44bb-b8e2-390a22b35f5d",
+      "season": 3,
+      "number": 7,
+      "name": "En svedig finale",
+      "airdate": "2020-07-03"
+    },
+    {
+      "id": "eae90da3-017b-4195-b401-26aef36d710f",
+      "season": 3,
+      "number": 8,
+      "name": "Glædelig jul",
+      "airdate": "2020-12-27"
+    },
+    {
+      "id": "1673e2db-aea0-4ce0-8714-ec1cbd7a68b7",
+      "season": 4,
+      "number": 1,
+      "name": "Kan man bage Taj Mahal?",
+      "airdate": "2021-02-20"
+    },
+    {
+      "id": "22b98ac8-0e0d-4f47-a358-fa69d09bb49d",
+      "season": 4,
+      "number": 2,
+      "name": "11 point",
+      "airdate": "2021-02-20"
+    },
+    {
+      "id": "7f3db6e6-b6e0-4370-b96e-af73d4abaa8f",
+      "season": 4,
+      "number": 3,
+      "name": "En rigtig tåreperser",
+      "airdate": "2021-02-27"
+    },
+    {
+      "id": "3c014085-cb11-4920-b0ba-04667adae1d1",
+      "season": 4,
+      "number": 4,
+      "name": "Helt ind i sindet",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "941b4b00-104f-470d-a6fe-49d599777eb9",
+      "season": 4,
+      "number": 5,
+      "name": "Æg og beton",
+      "airdate": "2021-03-13"
+    },
+    {
+      "id": "a2049429-4655-40c8-80c9-1cda1e7d44d9",
+      "season": 4,
+      "number": 6,
+      "name": "Er det Mona Lisa?",
+      "airdate": "2021-03-20"
+    },
+    {
+      "id": "5f35fe3e-f27c-455f-82b2-92640b8e68b8",
+      "season": 4,
+      "number": 7,
+      "name": "En eksplosiv finale",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "739c6bbc-81a2-4b21-a51a-0ec08b834547",
+      "season": 4,
+      "number": 8,
+      "name": "Julespecial",
+      "airdate": "2021-12-28"
+    },
+    {
+      "id": "350524dd-a205-4b7f-a3c9-aefc4e8a5c1d",
+      "season": 5,
+      "number": 1,
+      "name": "Hvem fa'en har en telefax?",
+      "airdate": "2021-09-25"
+    },
+    {
+      "id": "7817dc9e-931a-4c1b-94d4-baa95f0dbdea",
+      "season": 5,
+      "number": 2,
+      "name": "Pepe",
+      "airdate": "2021-09-25"
+    },
+    {
+      "id": "8d39682f-3e08-41cc-bc33-fb05fcebdc43",
+      "season": 5,
+      "number": 3,
+      "name": "Smaragdbrylluppet",
+      "airdate": "2021-10-02"
+    },
+    {
+      "id": "b0ebd771-f59f-48a4-8868-51a6cb55979e",
+      "season": 5,
+      "number": 4,
+      "name": "Det perfekte gemmested",
+      "airdate": "2021-10-09"
+    },
+    {
+      "id": "326a6ead-3cb8-4fee-a621-bf0857a3f214",
+      "season": 5,
+      "number": 5,
+      "name": "Frikadeller og panering",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "5d58d656-b0d3-4e5d-9833-4adb2830e6de",
+      "season": 5,
+      "number": 6,
+      "name": "Gulerødder og pattedyr",
+      "airdate": "2021-10-23"
+    },
+    {
+      "id": "96917e41-3958-4908-b496-4f178ccf7664",
+      "season": 5,
+      "number": 7,
+      "name": "1-2-3-hat",
+      "airdate": "2021-10-30"
+    },
+    {
+      "id": "74f81a44-3b3a-41c8-8608-56e0f7dccdc8",
+      "season": 5,
+      "number": 8,
+      "name": "Hvad er en fadøl?",
+      "airdate": "2021-11-06"
+    },
+    {
+      "id": "faf9efb8-067c-48a1-9053-2966164d049e",
+      "season": 6,
+      "number": 1,
+      "name": "En ægte ørehænger",
+      "airdate": "2022-11-05"
+    },
+    {
+      "id": "005c0dda-59b4-44bf-a1af-1069769b81bb",
+      "season": 6,
+      "number": 2,
+      "name": "Hvor er auberginerne?",
+      "airdate": "2022-11-05"
+    },
+    {
+      "id": "fecfba41-960f-4d40-9806-43a6c7eece85",
+      "season": 6,
+      "number": 3,
+      "name": "Marianne Soltyr",
+      "airdate": "2022-11-12"
+    },
+    {
+      "id": "84982d7e-37bd-4e72-a4b7-ef8c96766d73",
+      "season": 6,
+      "number": 4,
+      "name": "Hvem er svenskeren?",
+      "airdate": "2022-11-19"
+    },
+    {
+      "id": "6799cac1-7b8e-4e05-bb0b-2ef42adba39c",
+      "season": 6,
+      "number": 5,
+      "name": "En ny Simon",
+      "airdate": "2022-11-26"
+    },
+    {
+      "id": "9024a742-5403-4446-a55b-8e7902422e94",
+      "season": 6,
+      "number": 6,
+      "name": "Det store forsvindingsnummer",
+      "airdate": "2022-12-03"
+    },
+    {
+      "id": "32ea64a4-ff8e-4e50-8dfc-135a2a320f69",
+      "season": 6,
+      "number": 7,
+      "name": "En seværdig finale",
+      "airdate": "2022-12-10"
+    },
+    {
+      "id": "16639360-a7d3-4210-bfdd-44c5795448e0",
+      "season": 6,
+      "number": 8,
+      "name": "Et forbavsende juleprogram",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "a522198f-e15e-4173-ac63-7149ab7d228d",
+      "season": 7,
+      "number": 1,
+      "name": "Et uimodståeligt frieri",
+      "airdate": "2023-06-09"
+    },
+    {
+      "id": "e4a67d4f-36b1-4faa-9ba0-2e42b2eb695d",
+      "season": 7,
+      "number": 2,
+      "name": "Jesper Oles pølser",
+      "airdate": "2023-06-16"
+    },
+    {
+      "id": "53ef56a4-f8d0-4685-82fc-a9e099af495a",
+      "season": 7,
+      "number": 3,
+      "name": "Gåsehud",
+      "airdate": "2023-06-23"
+    },
+    {
+      "id": "b7761a11-99b1-485c-8dff-e813fd297610",
+      "season": 7,
+      "number": 4,
+      "name": "Hvad laver løgneren?",
+      "airdate": "2023-06-30"
+    },
+    {
+      "id": "570f2ff9-bbf5-448d-a918-99ef93331137",
+      "season": 7,
+      "number": 5,
+      "name": "Kålmesteren",
+      "airdate": "2023-07-07"
+    },
+    {
+      "id": "e68ac9a1-f0e9-4ea5-9a16-58bab56fcea2",
+      "season": 7,
+      "number": 6,
+      "name": "Rutsjebaner og padder",
+      "airdate": "2023-07-14"
+    },
+    {
+      "id": "e53c4aec-51f3-4b11-bab6-f4438dc0032b",
+      "season": 7,
+      "number": 7,
+      "name": "Eddike og afsløringer",
+      "airdate": "2023-07-21"
+    },
+    {
+      "id": "8e4abad5-15ea-4efa-9add-cf683f37046e",
+      "season": 7,
+      "number": 8,
+      "name": "En vovet jul",
+      "airdate": "2023-12-25"
+    },
+    {
+      "id": "0b760b16-1b13-4e2e-b858-6e02389bfeb3",
+      "season": 8,
+      "number": 1,
+      "name": "Heks",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "db28c353-2cdf-431a-acdf-4502facfc990",
+      "season": 8,
+      "number": 2,
+      "name": "Verdens sødeste fætter",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "082aad78-f7bc-45ad-a2fc-e65791eaea82",
+      "season": 8,
+      "number": 3,
+      "name": "Carsten ringer til en låsesmed",
+      "airdate": "2024-06-21"
+    },
+    {
+      "id": "2043a447-f79e-4a7a-8393-737947382d27",
+      "season": 8,
+      "number": 4,
+      "name": "Det tager et år",
+      "airdate": "2024-06-28"
+    },
+    {
+      "id": "713e7b4d-05f9-421d-8564-0d9b177fc74e",
+      "season": 8,
+      "number": 5,
+      "name": "For nogen er armhulehår eksotisk",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "f9a7f981-e470-41ca-a285-f4b8926da204",
+      "season": 8,
+      "number": 6,
+      "name": "Kartoflen i bestemt ental",
+      "airdate": "2024-07-12"
+    },
+    {
+      "id": "17a4ab95-5775-438a-b9c1-363126b1da6f",
+      "season": 8,
+      "number": 7,
+      "name": "Linje-3 ligner ettaller",
+      "airdate": "2024-07-19"
+    },
+    {
+      "id": "f693ed1a-1bd1-4c6a-92ee-96be67e51726",
+      "season": 8,
+      "number": 8,
+      "name": "Crispy Christmas",
+      "airdate": "2024-12-25"
+    },
+    {
+      "id": "3f39c129-a6ea-499c-b9e0-7a7bcb58448f",
+      "season": 8,
+      "number": 10,
+      "name": "Nytårstaffel",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "c2049d49-587c-432f-bbae-f70c98964853",
+      "season": 9,
+      "number": 1,
+      "name": "Den store grimme tæppemand",
+      "airdate": "2025-06-06"
+    },
+    {
+      "id": "085e6924-4757-4d56-8bbe-acc491919c45",
+      "season": 9,
+      "number": 2,
+      "name": "Ferskvandsfisk",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "d10e847e-9001-4d2f-861b-a7bade55416c",
+      "season": 9,
+      "number": 3,
+      "name": "Citronfromage",
+      "airdate": "2025-06-20"
+    },
+    {
+      "id": "255e07a1-ea4b-4434-963d-013724912f3d",
+      "season": 9,
+      "number": 4,
+      "name": "David fra kommunen",
+      "airdate": "2025-06-27"
+    },
+    {
+      "id": "8d04cf26-6343-4397-8657-5cb1e26e139b",
+      "season": 9,
+      "number": 5,
+      "name": "Laksko",
+      "airdate": "2025-07-04"
+    },
+    {
+      "id": "1633d8e3-8ac0-473b-b601-321399e46864",
+      "season": 9,
+      "number": 6,
+      "name": "Det er Svend Gehrs, der kommenterer",
+      "airdate": "2025-07-11"
+    },
+    {
+      "id": "1bec0615-40f1-4d52-ae26-f6d2cc0c4290",
+      "season": 9,
+      "number": 7,
+      "name": "Peberfrugten",
+      "airdate": "2025-07-18"
+    },
+    {
+      "id": "94aed8b2-abf8-4a1b-8ccc-a3c6352c1aa2",
+      "season": 9,
+      "number": 8,
+      "name": "Hullet med det lille røde flag",
+      "airdate": "2025-07-25"
+    },
+    {
+      "id": "2785e72a-725d-4602-be75-d4b509624ca4",
+      "season": 9,
+      "number": 9,
+      "name": "Narrehumor",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "6735402e-7028-4296-a2ae-d051a7360f33",
+      "season": 9,
+      "number": 10,
+      "name": "Ringenes hejre",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "985d4a04-9860-4b9b-bf50-f64cdd1a4746",
+      "season": 10,
+      "number": 1,
+      "name": "Qornflakes",
+      "airdate": "2026-06-12"
+    },
+    {
+      "id": "179d891f-5465-4415-a8b1-1462318d9657",
+      "season": 10,
+      "number": 2,
+      "name": "Hurtigste taber",
+      "airdate": "2026-06-19"
+    },
+    {
+      "id": "478bbadf-004f-4c28-ae99-6eacd6d91df4",
+      "season": 10,
+      "number": 3,
+      "name": "Den sorte ugle",
+      "airdate": "2026-06-26"
+    },
+    {
+      "id": "58fc9abb-f715-443b-b687-e3414fb0efc0",
+      "season": 10,
+      "number": 4,
+      "name": "Kørekort til din mor",
+      "airdate": "2026-07-03"
+    },
+    {
+      "id": "52a7e7a6-6f64-4ad1-87fc-2695c918b136",
+      "season": 10,
+      "number": 5,
+      "name": "Den fjerde vej",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "fbeff444-7adf-4e58-8663-9bb7dd8880cf",
+      "season": 10,
+      "number": 6,
+      "name": "Lyskejuice",
+      "airdate": "2026-07-17"
+    },
+    {
+      "id": "c957a3dd-9696-40ce-88eb-2605bf31ab97",
+      "season": 10,
+      "number": 7,
+      "name": "Lugten af skam",
+      "airdate": "2026-07-24"
+    },
+    {
+      "id": "7fd11acf-9771-4a3e-890e-7372237aa1de",
+      "season": 10,
+      "number": 8,
+      "name": "Sten, saks, papir, fuck",
+      "airdate": "2026-07-31"
+    }
+  ]
+}

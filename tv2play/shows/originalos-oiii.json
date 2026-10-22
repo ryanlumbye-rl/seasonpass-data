@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:originalos-oiii",
+  "name": "Originalos?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "24b8bd19-c780-4f42-a616-5853456bb26c",
+      "season": 1,
+      "number": 1,
+      "name": "34 år før hjulet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2ba2862f-6638-4108-bc75-3bc19ed442b2",
+      "season": 1,
+      "number": 2,
+      "name": "21007 år før fodbold",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c70bc2cb-2f96-4373-a60e-5f38d7ce0cb6",
+      "season": 1,
+      "number": 3,
+      "name": "22405 år før vand på flaske",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bd308557-ed65-4a9e-b556-f76c4f84f2df",
+      "season": 1,
+      "number": 4,
+      "name": "23506 år før tændstikker",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "abbabe09-647e-4ed6-98e8-4a21a16271af",
+      "season": 1,
+      "number": 5,
+      "name": "102 år før bue og pil",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f5133ffe-23cb-4487-bd96-da33af6f8223",
+      "season": 1,
+      "number": 6,
+      "name": "25019 år før musik",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7029e6fa-ffb9-482a-ad17-155ce3cbb2dc",
+      "season": 1,
+      "number": 7,
+      "name": "28314 år før reklame",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2e1687cb-a620-4b36-918a-4a46e68c86d3",
+      "season": 1,
+      "number": 8,
+      "name": "26103 år før fitness",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a3fcdeb0-61da-4e91-adc8-544b9e6ab894",
+      "season": 1,
+      "number": 9,
+      "name": "23111 år før dating",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "162de1dc-20bb-467a-8b99-5980f84d11fa",
+      "season": 1,
+      "number": 10,
+      "name": "29412 år før stort og lille skyl",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "fb85148d-c6df-43b8-91c4-53d4982d5d6d",
+      "season": 1,
+      "number": 11,
+      "name": "19964 år før den dybe tallerken",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3c0562d4-517d-43f2-9922-5ee92594a20b",
+      "season": 1,
+      "number": 12,
+      "name": "29416 år før familielægen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "93208e72-623f-4c75-b121-b6885497ae86",
+      "season": 1,
+      "number": 13,
+      "name": "? år før sund fornuft",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9639dc4e-611a-4954-bcb6-0acbef86676c",
+      "season": 1,
+      "number": 14,
+      "name": "20614 år før billigt skidt",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0be6376c-539f-4686-b3a1-c460ac8ffc6c",
+      "season": 1,
+      "number": 15,
+      "name": "21145 år før naboer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cb81664b-9c69-477e-8c19-b47755288be0",
+      "season": 1,
+      "number": 16,
+      "name": "18816 år før barberen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "10d215e0-18e6-4cfc-a00d-fc59fe15b070",
+      "season": 1,
+      "number": 17,
+      "name": "20517 år før demokrati",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1a3baca3-6acd-4d28-8869-be1b81ed31c9",
+      "season": 1,
+      "number": 18,
+      "name": "23819 år før dykning",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ef1844a9-9162-4067-ae47-9d83a32983ee",
+      "season": 1,
+      "number": 19,
+      "name": "21420 år før dans",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "daff6f8a-8777-4878-ac08-19ffa4e7568b",
+      "season": 1,
+      "number": 20,
+      "name": "20321 år før trafik",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "57328923-4de3-4942-b9c9-7634e690be8d",
+      "season": 1,
+      "number": 21,
+      "name": "26103 år før drivhuseffekten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b3de4119-b11d-4626-9f5e-6f50e77ccd56",
+      "season": 1,
+      "number": 22,
+      "name": "21023 år før flyvemaskinen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7530bf7a-51b2-4a34-9d14-dd39d51ba1b4",
+      "season": 1,
+      "number": 23,
+      "name": "27326 år før færgen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "aecd5a04-a54c-4e4c-8d7d-f65c011cd7b7",
+      "season": 1,
+      "number": 24,
+      "name": "22228 år før musikvideo",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5c63dff0-30a8-4bba-8c2d-5188a049a80a",
+      "season": 1,
+      "number": 25,
+      "name": "24729 år før nattero",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8c2fde3c-48fa-41bd-b3db-e96d5ad5a507",
+      "season": 1,
+      "number": 26,
+      "name": "24130 år før overtro",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

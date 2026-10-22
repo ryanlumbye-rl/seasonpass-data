@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:kurs-mod-nord-tv2",
+  "name": "Kurs mod nord",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2f97d54a-8fec-4b8e-aeef-43f604a37de7",
+      "season": 1,
+      "number": 1,
+      "name": "Store drømme koster hårdt arbejde, sved og tårer",
+      "airdate": "2019-04-22"
+    },
+    {
+      "id": "e3f82175-f807-4fab-b222-bf0df424de5f",
+      "season": 1,
+      "number": 2,
+      "name": "Hele familien i kolde farvande",
+      "airdate": "2019-04-22"
+    },
+    {
+      "id": "cd480eda-b169-4d99-9432-a9c973e78bec",
+      "season": 1,
+      "number": 3,
+      "name": "Hårdt vejr og klimaforandringer",
+      "airdate": "2019-04-29"
+    },
+    {
+      "id": "c2ab3646-0daa-4de4-9029-9ee77479b5c3",
+      "season": 1,
+      "number": 4,
+      "name": "Jagten på hvaler",
+      "airdate": "2019-05-06"
+    },
+    {
+      "id": "ce81c167-7fe8-49da-b866-92d26da59e30",
+      "season": 1,
+      "number": 5,
+      "name": "På ski i Finnmark med solen i ryggen",
+      "airdate": "2019-11-06"
+    },
+    {
+      "id": "323c7b9b-716d-4fba-a9d5-202e824c1c89",
+      "season": 1,
+      "number": 6,
+      "name": "De tre brødre dykker under isen",
+      "airdate": "2019-11-06"
+    },
+    {
+      "id": "790ae0ba-eb3d-45d5-90bc-af77f2a9db7c",
+      "season": 1,
+      "number": 7,
+      "name": "Mikkel og Theis stævner ud fra Tromsø",
+      "airdate": "2019-11-13"
+    },
+    {
+      "id": "b6776260-1eee-443a-83e2-c9410d673b31",
+      "season": 1,
+      "number": 8,
+      "name": "Fuldt hus ombord på Wallenberg",
+      "airdate": "2019-11-20"
+    },
+    {
+      "id": "b63ea5a3-a2dc-451e-8322-20217ff02f1e",
+      "season": 1,
+      "number": 9,
+      "name": "Hvidhvaler i sigte",
+      "airdate": "2019-11-27"
+    },
+    {
+      "id": "c1dfdbbf-d2a6-4163-a012-5e8e1b1dc8ac",
+      "season": 1,
+      "number": 10,
+      "name": "Under en heldig stjerne",
+      "airdate": "2019-12-11"
+    }
+  ]
+}

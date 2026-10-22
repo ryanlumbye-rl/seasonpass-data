@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:trolderi-oiii",
+  "name": "Trolderi",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "471e97a7-16b2-4f67-94b8-b481951947e6",
+      "season": 1,
+      "number": 1,
+      "name": "En stank af sæbe",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "59f5b386-e010-4d95-a474-4a70f4e6203a",
+      "season": 1,
+      "number": 2,
+      "name": "Den vilde jagt",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "9162362b-3d9a-4ad9-a0db-f1b11678e52a",
+      "season": 1,
+      "number": 3,
+      "name": "Stenenes herre",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "7bd2db59-e0a3-49bf-90f4-667d1fe5b6ef",
+      "season": 1,
+      "number": 4,
+      "name": "Prinsessen",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "d6411660-f940-47b7-9ca1-0f7893228b57",
+      "season": 1,
+      "number": 5,
+      "name": "Babysitterne",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "667e1af8-006e-4dcc-a252-180dcc962447",
+      "season": 1,
+      "number": 6,
+      "name": "Huldras hævn",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "597d2b81-1040-4756-8a89-d3c0f14cb806",
+      "season": 1,
+      "number": 7,
+      "name": "Landmandsliv",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "62bd198a-1420-4d4e-a862-27927d54dfce",
+      "season": 1,
+      "number": 8,
+      "name": "I naturens favn",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "dc66519d-62e3-480b-b727-db6265a58296",
+      "season": 1,
+      "number": 9,
+      "name": "Var dig for ulven!",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "259fa0d5-4932-4841-8e5c-a8a293ec9a07",
+      "season": 1,
+      "number": 10,
+      "name": "Kys havfruen",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "c6270f0d-1f5f-41d3-9379-7870b8b7cdc6",
+      "season": 1,
+      "number": 11,
+      "name": "En ost med fut i",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "42b309a3-d347-4bea-aa9c-4bb4e75b268d",
+      "season": 1,
+      "number": 12,
+      "name": "En storm i et glas troldebryg",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "e46c4803-0dca-48e2-9c9b-7318729ce339",
+      "season": 1,
+      "number": 13,
+      "name": "En kold fisk",
+      "airdate": "2016-11-01"
+    },
+    {
+      "id": "8e4c252e-6b3d-48ca-b0c7-ba87a5bc0fe9",
+      "season": 1,
+      "number": 14,
+      "name": "På dybt vand",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6889df55-a120-48a7-af5f-17cea7237d9f",
+      "season": 1,
+      "number": 15,
+      "name": "Troldkvindens ønske",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "dfef1ba1-c049-44d9-8d9e-ea19501b6785",
+      "season": 1,
+      "number": 16,
+      "name": "Troldemors byttehandel",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7a5e9e6b-70fb-41ed-8081-85cd30aeb3f6",
+      "season": 1,
+      "number": 17,
+      "name": "Tryllestaven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3b5eab65-75f6-42cf-9a7a-feef22b14ada",
+      "season": 1,
+      "number": 18,
+      "name": "Huldras mareridt",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8c672ab2-6137-49d3-ba31-0c2dec09798c",
+      "season": 1,
+      "number": 19,
+      "name": "Mosekonen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "87d23e12-ed8f-424f-9f8c-192a194b1c65",
+      "season": 1,
+      "number": 20,
+      "name": "Tre ønsker",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b312e4b7-65e1-468a-b729-9a484b8c320a",
+      "season": 1,
+      "number": 21,
+      "name": "Trolderi",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "93dcceab-adea-416f-a745-fea1be1c9642",
+      "season": 1,
+      "number": 22,
+      "name": "Forår i luften",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d9a87c96-54e6-49bd-aa52-8d53d6c9bf3d",
+      "season": 1,
+      "number": 23,
+      "name": "Drageånde",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "24764781-a679-400c-8888-5cf054049967",
+      "season": 1,
+      "number": 24,
+      "name": "Professoren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "638a7214-17de-4e37-9746-acb65f496953",
+      "season": 1,
+      "number": 25,
+      "name": "Solsyg",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "33d6e544-4c0f-47b8-896d-54fb969a5a04",
+      "season": 1,
+      "number": 26,
+      "name": "Den ubudne gæst",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

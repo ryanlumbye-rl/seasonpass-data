@@ -1,0 +1,304 @@
+{
+  "id": "tv2play:sygeplejeskolen-tv2charlie",
+  "name": "Sygeplejeskolen",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-25",
+  "episodes": [
+    {
+      "id": "47cb65f5-7c75-4752-a138-39e17e0b291c",
+      "season": 1,
+      "number": 1,
+      "name": "Nye tider",
+      "airdate": "2018-10-15"
+    },
+    {
+      "id": "73857ffc-db78-416b-a106-63aa9fc11818",
+      "season": 1,
+      "number": 2,
+      "name": "Sandhedens time",
+      "airdate": "2018-10-21"
+    },
+    {
+      "id": "b52b562f-63b1-48d9-9282-27fe6112311e",
+      "season": 1,
+      "number": 3,
+      "name": "Polio",
+      "airdate": "2018-10-28"
+    },
+    {
+      "id": "f49334d7-4ea1-47f8-9c2e-b2cc5a681071",
+      "season": 1,
+      "number": 4,
+      "name": "Hemmeligheder",
+      "airdate": "2018-11-04"
+    },
+    {
+      "id": "517a48fd-7d52-4967-af48-1f057bf27373",
+      "season": 1,
+      "number": 5,
+      "name": "Liv og død",
+      "airdate": "2018-11-11"
+    },
+    {
+      "id": "8c3b363b-64ee-4ca6-a3fe-35133b850308",
+      "season": 1,
+      "number": 6,
+      "name": "Eksamen",
+      "airdate": "2018-11-18"
+    },
+    {
+      "id": "e90123f0-7d96-41bd-8b48-7be54ebc54be",
+      "season": 2,
+      "number": 1,
+      "name": "Særbehandling",
+      "airdate": "2019-03-11"
+    },
+    {
+      "id": "578954a7-4b3b-4725-9947-bf5ac82dcbb8",
+      "season": 2,
+      "number": 2,
+      "name": "Afsked",
+      "airdate": "2019-03-17"
+    },
+    {
+      "id": "f6e9092e-70c5-44e6-af4b-b14545837053",
+      "season": 2,
+      "number": 3,
+      "name": "Synd og skam",
+      "airdate": "2019-03-24"
+    },
+    {
+      "id": "59420f7e-e00e-49df-acba-eacadb7a8065",
+      "season": 2,
+      "number": 4,
+      "name": "Mørke minder",
+      "airdate": "2019-03-31"
+    },
+    {
+      "id": "89d985eb-d7e4-4298-b861-6f8c475cfe45",
+      "season": 2,
+      "number": 5,
+      "name": "Et uventet gensyn",
+      "airdate": "2019-04-07"
+    },
+    {
+      "id": "ba2b9565-e225-4f97-b888-6acb6eed2e95",
+      "season": 2,
+      "number": 6,
+      "name": "Store beslutninger",
+      "airdate": "2019-04-14"
+    },
+    {
+      "id": "fb80b2f9-182d-4d06-a43e-eecd8ffc6d61",
+      "season": 3,
+      "number": 1,
+      "name": "Hemmelige breve",
+      "airdate": "2020-10-26"
+    },
+    {
+      "id": "685e7d50-d845-4eff-ae8e-0c9b47634d2a",
+      "season": 3,
+      "number": 2,
+      "name": "Vilde piger",
+      "airdate": "2020-11-01"
+    },
+    {
+      "id": "a5431ace-7ac3-44ed-8553-95b3232986c5",
+      "season": 3,
+      "number": 3,
+      "name": "Det store valg",
+      "airdate": "2020-11-08"
+    },
+    {
+      "id": "2d5a6093-1461-4b11-adaf-d60be48f8d1d",
+      "season": 3,
+      "number": 4,
+      "name": "Bestikkelse",
+      "airdate": "2020-11-15"
+    },
+    {
+      "id": "cf0230ca-c0d2-4505-ae09-831dac510719",
+      "season": 3,
+      "number": 5,
+      "name": "På dybt vand",
+      "airdate": "2020-11-22"
+    },
+    {
+      "id": "a62cc6e9-60e1-4593-9620-b3f4ef1aa674",
+      "season": 3,
+      "number": 6,
+      "name": "Kold tyrker",
+      "airdate": "2020-11-29"
+    },
+    {
+      "id": "d29a6515-b1da-4db9-973b-934b1febb286",
+      "season": 4,
+      "number": 1,
+      "name": "Søster Elisabeth",
+      "airdate": "2021-09-26"
+    },
+    {
+      "id": "afc1093e-61a3-43e8-9fab-8b7584aa6292",
+      "season": 4,
+      "number": 2,
+      "name": "Dem og os",
+      "airdate": "2021-09-26"
+    },
+    {
+      "id": "81759e0a-4f18-48c3-8a00-8f99bd68f056",
+      "season": 4,
+      "number": 3,
+      "name": "Under pres",
+      "airdate": "2021-10-03"
+    },
+    {
+      "id": "f2448c30-f033-4ed1-8326-e73b9e9e242c",
+      "season": 4,
+      "number": 4,
+      "name": "Løgnen",
+      "airdate": "2021-10-10"
+    },
+    {
+      "id": "e626ae14-a832-4272-b0d0-4af3d21005d7",
+      "season": 4,
+      "number": 5,
+      "name": "Knockout",
+      "airdate": "2021-10-17"
+    },
+    {
+      "id": "80b45c84-4a70-492d-8a51-7991ac32d37a",
+      "season": 4,
+      "number": 6,
+      "name": "Det hvide snit",
+      "airdate": "2021-10-24"
+    },
+    {
+      "id": "7ce04970-2f08-49b4-b90d-1cae77cb0ae0",
+      "season": 5,
+      "number": 1,
+      "name": "Miraklet",
+      "airdate": "2022-09-25"
+    },
+    {
+      "id": "8534813b-d0c1-4949-b365-1f3eb98040cf",
+      "season": 5,
+      "number": 2,
+      "name": "Farlige stråler",
+      "airdate": "2022-10-02"
+    },
+    {
+      "id": "2c4433e2-7103-4a96-a925-9bea778d1696",
+      "season": 5,
+      "number": 3,
+      "name": "Amerikanerpigen",
+      "airdate": "2022-10-09"
+    },
+    {
+      "id": "0b6941a2-aec8-4fe2-82ef-34534d853f4b",
+      "season": 5,
+      "number": 4,
+      "name": "Blind tro",
+      "airdate": "2022-10-16"
+    },
+    {
+      "id": "fd8ad530-248d-4caf-8852-fd0578fdeb3a",
+      "season": 5,
+      "number": 5,
+      "name": "På afveje",
+      "airdate": "2022-10-23"
+    },
+    {
+      "id": "687a90bd-49d0-4241-b341-33cdbe55461b",
+      "season": 5,
+      "number": 6,
+      "name": "Fatal fejl",
+      "airdate": "2022-10-30"
+    },
+    {
+      "id": "f9f79eb8-d110-4c50-921a-0afdfa351a9b",
+      "season": 6,
+      "number": 1,
+      "name": "Chokbølge",
+      "airdate": "2024-09-08"
+    },
+    {
+      "id": "670f5adb-f355-496e-9c8c-5d46d07a0777",
+      "season": 6,
+      "number": 2,
+      "name": "Fortidens skygge",
+      "airdate": "2024-09-15"
+    },
+    {
+      "id": "61559aa0-1c3e-46ee-b2a7-654f6929d470",
+      "season": 6,
+      "number": 3,
+      "name": "En bjørnetjeneste",
+      "airdate": "2024-09-22"
+    },
+    {
+      "id": "0e2d30b5-b7fb-46fb-b4f1-12f93b6b685a",
+      "season": 6,
+      "number": 4,
+      "name": "Revner i facaden",
+      "airdate": "2024-09-29"
+    },
+    {
+      "id": "74078657-e718-45f2-8b23-d9f9fd09debc",
+      "season": 6,
+      "number": 5,
+      "name": "Fra asken til ilden",
+      "airdate": "2024-10-06"
+    },
+    {
+      "id": "0fa5d619-4cc3-4472-95da-f2666393ac27",
+      "season": 6,
+      "number": 6,
+      "name": "Rotter på loftet",
+      "airdate": "2024-10-13"
+    },
+    {
+      "id": "a7139794-0a15-4e77-b8f5-7cede4155a96",
+      "season": 7,
+      "number": 1,
+      "name": "Anklaget",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "73dc0e96-6343-4fc1-8cdf-ab120b043b09",
+      "season": 7,
+      "number": 2,
+      "name": "Tro, håb og kærlighed",
+      "airdate": "2025-09-21"
+    },
+    {
+      "id": "e7034ce8-363e-4a32-b00c-682288185220",
+      "season": 7,
+      "number": 3,
+      "name": "Skjulte motiver",
+      "airdate": "2025-09-28"
+    },
+    {
+      "id": "fe4054df-e776-4427-85a1-0a4f4bf57d32",
+      "season": 7,
+      "number": 4,
+      "name": "Med livet på spil",
+      "airdate": "2025-10-05"
+    },
+    {
+      "id": "80591380-cc4d-4535-8ecf-36adbc119f42",
+      "season": 7,
+      "number": 5,
+      "name": "Farlige fordomme",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "9450a88e-7b81-46de-beb9-d9754d7605b7",
+      "season": 7,
+      "number": 6,
+      "name": "Før klokkerne ringer",
+      "airdate": "2025-10-19"
+    }
+  ]
+}

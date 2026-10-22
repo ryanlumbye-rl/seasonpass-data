@@ -1,0 +1,297 @@
+{
+  "id": "tv2play:warehouse-13-tv2play",
+  "name": "Warehouse 13",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7771e0ed-f473-4be0-9e3a-f7877a615b5f",
+      "season": 1,
+      "number": 9,
+      "name": "Duped",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "5780048b-890f-41bc-9eca-95b131986da0",
+      "season": 1,
+      "number": 13,
+      "name": "MacPherson",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "94b145e6-37d6-4d2c-8662-e2f92369e415",
+      "season": 3,
+      "number": 1,
+      "name": "The New Guy",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "167caa24-40db-4f5d-a0dc-88328a270a8b",
+      "season": 3,
+      "number": 2,
+      "name": "Trials",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "0e7992c9-c5ea-45df-99aa-88e89c80198b",
+      "season": 3,
+      "number": 3,
+      "name": "Love Sick",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "e5f646bf-64a3-4174-8154-81cd94b4a227",
+      "season": 3,
+      "number": 4,
+      "name": "Queen for a Day",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "56cf63b3-b6c2-41d4-aff6-2b2726eb0237",
+      "season": 3,
+      "number": 5,
+      "name": "3...2...1...",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "93f1986f-aca0-4126-9022-27116a7c1359",
+      "season": 3,
+      "number": 6,
+      "name": "Don't Hate the Player",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "4cb80823-f21f-4fde-a767-8fa5b821aebc",
+      "season": 3,
+      "number": 7,
+      "name": "Past Imperfect",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "439fc34d-65ae-4254-a543-839823cf29f8",
+      "season": 3,
+      "number": 8,
+      "name": "The 40th Floor",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "e426ab85-089a-4157-aed6-a2757a58f120",
+      "season": 3,
+      "number": 9,
+      "name": "Shadows",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "f1544a77-72a1-4d26-a7f7-667768546827",
+      "season": 3,
+      "number": 10,
+      "name": "Insatiable",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "5ba260a9-940a-437d-a240-1bd115c4b87c",
+      "season": 3,
+      "number": 11,
+      "name": "Emily Lake",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "71cb1ade-0d5a-40b9-a86e-bbb9f2c65a19",
+      "season": 3,
+      "number": 12,
+      "name": "Stand",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "c5daf120-1214-4a73-99c9-e88ffea0192e",
+      "season": 3,
+      "number": 13,
+      "name": "The Greatest Gift",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "5ea515ca-9e02-4910-b053-27c52ef5cda9",
+      "season": 4,
+      "number": 1,
+      "name": "A New Hope",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "953f2d9e-d63f-4a26-b33a-6a3e2f4db0bb",
+      "season": 4,
+      "number": 2,
+      "name": "An Evil Within",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "f20a33be-27a7-4637-90d1-c6d94115909e",
+      "season": 4,
+      "number": 3,
+      "name": "Personal Effects",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "bd3e7719-7247-4636-8bd9-64ba46af9a7e",
+      "season": 4,
+      "number": 4,
+      "name": "There's Always a Downside",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "27ed6f86-b75a-4ad3-b7ab-bd931234f3e1",
+      "season": 4,
+      "number": 5,
+      "name": "No Pain, No Gain",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "2dcbaab1-5073-45e5-9f51-287372e7a772",
+      "season": 4,
+      "number": 6,
+      "name": "Fractures",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "04c72aba-5c69-4461-ad41-e0566b417466",
+      "season": 4,
+      "number": 7,
+      "name": "Endless Wonder",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "9dd3af23-7b31-4ac3-bad0-08055e55d2a9",
+      "season": 4,
+      "number": 8,
+      "name": "Second Chance",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "1c84ed27-1155-4037-a350-8450c0c21800",
+      "season": 4,
+      "number": 9,
+      "name": "The Ones You Love",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "7f57cea5-0f7d-4aed-9a78-1d973efffa29",
+      "season": 4,
+      "number": 10,
+      "name": "We All Fall Down",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "58e08b58-8ad8-430f-b68b-46230a5a971a",
+      "season": 4,
+      "number": 11,
+      "name": "The Living and the Dead",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "ffb57950-2531-41f3-aa1c-e326d72faff2",
+      "season": 4,
+      "number": 12,
+      "name": "Parks & Rehabilitation",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "e485401f-5c64-46ca-a02f-23b553a9dbed",
+      "season": 4,
+      "number": 13,
+      "name": "The Big Snag",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "9851e343-7bfd-4088-b388-49c265d33174",
+      "season": 4,
+      "number": 14,
+      "name": "The Sky's the Limit",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "6eea6bdc-ef2d-4842-af3b-73b5631771dd",
+      "season": 4,
+      "number": 15,
+      "name": "Instinct",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "29890164-22db-4f1d-9397-6e88158652d8",
+      "season": 4,
+      "number": 16,
+      "name": "Runaway",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "64cf1641-006b-4126-84d7-97b71040ef93",
+      "season": 4,
+      "number": 17,
+      "name": "What Matters Most",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "5dd0f31c-fa81-48be-8de9-0712c16e6ba1",
+      "season": 4,
+      "number": 18,
+      "name": "Lost & Found",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "fcf1f278-5863-4ebe-9e1b-b59045d837cc",
+      "season": 4,
+      "number": 19,
+      "name": "All the Time in the World",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "913321f7-eb51-4b8a-b15e-89ef971816d0",
+      "season": 4,
+      "number": 20,
+      "name": "The Truth Hurts",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "033289ea-7728-47e5-a08e-5e61a584fe19",
+      "season": 5,
+      "number": 1,
+      "name": "Endless Terror",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "a4895ed2-9536-4e74-baab-d30cc4cf03c7",
+      "season": 5,
+      "number": 2,
+      "name": "Secret Service",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "5e036e45-3c3b-4e7e-95c5-c3243a6260a7",
+      "season": 5,
+      "number": 3,
+      "name": "A Faire to Remember",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "b96d5e76-560e-436d-89ac-81aa15cf0f40",
+      "season": 5,
+      "number": 4,
+      "name": "Savage Seduction",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "5f1c3451-6bdb-4f52-968f-d55ccdc38d6a",
+      "season": 5,
+      "number": 5,
+      "name": "Cangku Shisi",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "0f017a75-031e-4c84-9a08-185120586d6c",
+      "season": 5,
+      "number": 6,
+      "name": "Endless",
+      "airdate": "2026-07-28"
+    }
+  ]
+}

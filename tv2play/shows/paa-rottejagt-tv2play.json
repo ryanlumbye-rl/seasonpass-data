@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:paa-rottejagt-tv2play",
+  "name": "På rottejagt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c1bb2f5b-6945-4f99-bf69-32e2521fd06e",
+      "season": 1,
+      "number": 1,
+      "name": "Halløj i hønsegården",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "0ee4a79e-3d21-4fef-a0e3-64bb3a3a9970",
+      "season": 1,
+      "number": 2,
+      "name": "En sag for hunden Holger",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "48d623c9-25d8-4fdd-8ddb-e9f295b0e58f",
+      "season": 1,
+      "number": 3,
+      "name": "Kriblelyde i brusenichen",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "14185d36-1cb2-486a-b920-9576fced3c4b",
+      "season": 1,
+      "number": 4,
+      "name": "Åben buffet i skraldet",
+      "airdate": "2026-04-02"
+    }
+  ]
+}

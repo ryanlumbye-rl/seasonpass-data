@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:hvad-heinos-fatter-goer-tv2",
+  "name": "Hvad Heinos fatter gør",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f0e34671-aab5-4c61-a779-832e42828f0e",
+      "season": 1,
+      "number": 1,
+      "name": "Bukser fra Meyer rimer på plejer",
+      "airdate": "2021-03-23"
+    },
+    {
+      "id": "b536fbaa-a2c5-499a-ad3e-4ca30e33069d",
+      "season": 1,
+      "number": 2,
+      "name": "Weekendophold uden indkøbsvogn",
+      "airdate": "2021-03-23"
+    },
+    {
+      "id": "e030eb71-ae95-470a-8c76-bce6a56fa345",
+      "season": 1,
+      "number": 3,
+      "name": "Baristaen fra Næstved",
+      "airdate": "2021-03-30"
+    },
+    {
+      "id": "44864bfa-b686-4cda-a63f-c491c2edf4e4",
+      "season": 1,
+      "number": 4,
+      "name": "Fra buffet til Michelin",
+      "airdate": "2021-04-06"
+    },
+    {
+      "id": "305a262e-5353-49c8-b195-29dda6a5a3e2",
+      "season": 1,
+      "number": 5,
+      "name": "Revy, stand-up og Escape Room",
+      "airdate": "2021-04-13"
+    },
+    {
+      "id": "2b4f415b-6c84-42d4-af02-5397a2c25d7d",
+      "season": 1,
+      "number": 6,
+      "name": "Et slag Else",
+      "airdate": "2021-04-20"
+    }
+  ]
+}

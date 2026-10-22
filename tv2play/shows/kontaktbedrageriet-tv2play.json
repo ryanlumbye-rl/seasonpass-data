@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:kontaktbedrageriet-tv2play",
+  "name": "Kontaktbedrageriet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3748642a-eb75-4d54-81c0-b0725e4ad6ed",
+      "season": 1,
+      "number": 1,
+      "name": "Operation Kollegiet",
+      "airdate": "2026-09-15"
+    },
+    {
+      "id": "60702c4c-4970-4a64-8349-feb0a42e6d09",
+      "season": 1,
+      "number": 2,
+      "name": "Når svindlerne ringer",
+      "airdate": "2026-09-15"
+    }
+  ]
+}

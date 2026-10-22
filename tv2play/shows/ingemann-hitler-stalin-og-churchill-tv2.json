@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:ingemann-hitler-stalin-og-churchill-tv2",
+  "name": "Ingemann - Hitler, Stalin og Churchill",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "16731f35-3862-4a1a-af04-612a7f3cc629",
+      "season": 1,
+      "number": 1,
+      "name": "Mor er den bedste i verden",
+      "airdate": "2022-12-07"
+    },
+    {
+      "id": "3e57bb59-c0c1-4a92-b862-50e4662ce35e",
+      "season": 1,
+      "number": 2,
+      "name": "I fars skygge",
+      "airdate": "2022-12-07"
+    },
+    {
+      "id": "c93d2faa-49f9-4a39-90ba-5038b55e4f9b",
+      "season": 1,
+      "number": 3,
+      "name": "På egne ben",
+      "airdate": "2022-12-01"
+    },
+    {
+      "id": "62393de9-c75c-4179-8f65-753d574ef1bd",
+      "season": 1,
+      "number": 4,
+      "name": "Jagten på magten",
+      "airdate": "2022-12-01"
+    },
+    {
+      "id": "01aa4713-d91a-4cf3-a1b3-060882fcdff3",
+      "season": 1,
+      "number": 5,
+      "name": "Ondskab",
+      "airdate": "2022-12-01"
+    },
+    {
+      "id": "a6c97313-68d8-414d-905c-c1f342003da8",
+      "season": 1,
+      "number": 6,
+      "name": "Konfrontation",
+      "airdate": "2022-12-01"
+    }
+  ]
+}

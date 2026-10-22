@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:the-night-caller-tv2play",
+  "name": "The Night Caller",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d5ab657c-2118-4921-8ac7-ec2563a69aa1",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-02-18"
+    },
+    {
+      "id": "9d3c79d9-ff67-4364-840a-1ada357da322",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-02-18"
+    },
+    {
+      "id": "7e387ae7-0e7c-44ce-a421-9daf4f78163d",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-02-18"
+    },
+    {
+      "id": "1c17e7ba-805b-4820-bb8c-b76cbb1c1077",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-02-18"
+    }
+  ]
+}

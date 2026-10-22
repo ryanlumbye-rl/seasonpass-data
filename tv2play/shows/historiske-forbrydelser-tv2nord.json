@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:historiske-forbrydelser-tv2nord",
+  "name": "Historiske forbrydelser",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "19a5baff-06df-45b4-9d39-f7f7fa1e8491",
+      "season": 1,
+      "number": 1,
+      "name": "Kunsttyveriet på Voergaard",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "55cc60bb-7813-43b8-ab7e-281d470c5f41",
+      "season": 1,
+      "number": 2,
+      "name": "Det næsten perfekte mord",
+      "airdate": "2023-10-03"
+    },
+    {
+      "id": "9e3de839-bf86-4f7b-b9ac-516db01fbf02",
+      "season": 1,
+      "number": 3,
+      "name": "Banegårdsdrabet",
+      "airdate": "2023-10-17"
+    },
+    {
+      "id": "9e005aab-9001-4d73-8eee-cd2be291876e",
+      "season": 2,
+      "number": 1,
+      "name": "Bordelbranden i Vejgaard",
+      "airdate": "2024-09-12"
+    },
+    {
+      "id": "2c1a1235-ba10-44f1-8569-168df3b03ea6",
+      "season": 2,
+      "number": 2,
+      "name": "Flammer over Fjerritslev",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "9eab146f-1c8c-4775-93eb-c822169204db",
+      "season": 2,
+      "number": 3,
+      "name": "Smuglersagen i Ålbæk",
+      "airdate": "2024-09-26"
+    },
+    {
+      "id": "c984e33b-87bf-4dc0-940f-fcb03ecf3f70",
+      "season": 2,
+      "number": 4,
+      "name": "Mordet i Suldrup",
+      "airdate": "2024-10-03"
+    }
+  ]
+}

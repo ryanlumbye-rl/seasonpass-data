@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:de-forsvundne-faedre-tv2",
+  "name": "De forsvundne fædre",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2b17ea9d-898b-4fb6-921c-f9189fb0b1d3",
+      "season": 1,
+      "number": 1,
+      "name": "Hvor er min far?",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "c7fe4a3b-222b-4b98-ab9c-0f1ed3069af9",
+      "season": 1,
+      "number": 2,
+      "name": "Vil min far se mig igen?",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "55451f7a-91d8-46ad-ad95-5f9c2dfafbdc",
+      "season": 1,
+      "number": 3,
+      "name": "Hvem af de fire er min far?",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "695e6d83-2bfb-4fe5-9f1e-6c8b51a9bd80",
+      "season": 1,
+      "number": 4,
+      "name": "Han efterlod mig hos en syg mor",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "d5a4fc41-52a9-428e-883e-0f9006422e27",
+      "season": 2,
+      "number": 1,
+      "name": "Den ukendte fisker (1)",
+      "airdate": "2024-02-20"
+    },
+    {
+      "id": "b1b0458e-a45d-469e-a5b8-9938facf48ca",
+      "season": 2,
+      "number": 2,
+      "name": "Den ukendte fisker (2) - Det afgørende møde",
+      "airdate": "2024-02-27"
+    },
+    {
+      "id": "7b495286-89e6-43b5-81ea-e78f1784044e",
+      "season": 2,
+      "number": 3,
+      "name": "Hvorfor forlod du mig?",
+      "airdate": "2024-03-05"
+    },
+    {
+      "id": "624a8070-1093-4e67-8ad5-0ddabab06bc3",
+      "season": 2,
+      "number": 4,
+      "name": "Affæren på Mallorca",
+      "airdate": "2024-03-12"
+    },
+    {
+      "id": "224fb409-95ca-4885-bfef-2bf600ff24fa",
+      "season": 2,
+      "number": 5,
+      "name": "Den brutale sandhed",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "2a633a7f-9695-43bd-b55b-2a5489e7ceb3",
+      "season": 3,
+      "number": 1,
+      "name": "Simone: Franskmanden der forsvandt",
+      "airdate": "2026-04-07"
+    },
+    {
+      "id": "bd9355a8-9660-4057-b751-dd580820608d",
+      "season": 3,
+      "number": 2,
+      "name": "Ole: Den charmerende trommeslager",
+      "airdate": "2026-04-14"
+    },
+    {
+      "id": "0c0a38aa-d468-4104-a28a-dc6c99c6bd3b",
+      "season": 3,
+      "number": 3,
+      "name": "Martin: Manden der smuttede",
+      "airdate": "2026-04-21"
+    },
+    {
+      "id": "65d9fe39-b448-4529-af66-c7f857c9f0a6",
+      "season": 3,
+      "number": 4,
+      "name": "Jesper: Englænderen, der tog hjem",
+      "airdate": "2026-04-28"
+    },
+    {
+      "id": "814af89d-8ba5-4f93-9f4c-3ecabe115725",
+      "season": 3,
+      "number": 5,
+      "name": "Maria: Ferieflirten",
+      "airdate": "2026-05-05"
+    }
+  ]
+}

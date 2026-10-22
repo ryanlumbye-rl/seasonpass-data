@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:krychowiak-one-step-from-the-top-tv2play",
+  "name": "Krychowiak: One Step from the Top",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "92f783f6-260f-4c1c-8ea5-252211902310",
+      "season": 1,
+      "number": 1,
+      "name": "It Started with a Bet",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "07dee87e-fc2b-47f4-8f67-580fc7a50607",
+      "season": 1,
+      "number": 2,
+      "name": "Grzegorz from Seville",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "dac14166-61a1-4535-8fba-197e63f02a4a",
+      "season": 1,
+      "number": 3,
+      "name": "The Fashion for Criticism",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "f4ac516b-daf2-4c4f-a7f3-0347bdf04900",
+      "season": 1,
+      "number": 4,
+      "name": "I’m Done Here",
+      "airdate": "2025-11-27"
+    }
+  ]
+}

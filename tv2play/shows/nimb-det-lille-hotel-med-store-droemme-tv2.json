@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:nimb-det-lille-hotel-med-store-droemme-tv2",
+  "name": "NIMB - det lille hotel med store drømme",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ef0bb2f6-c36d-4622-b999-223d0d840573",
+      "season": 1,
+      "number": 1,
+      "name": "Et luksushotel i verdensklasse",
+      "airdate": "2018-11-18"
+    },
+    {
+      "id": "3af08d98-77ae-4970-88b7-fca4340aabc8",
+      "season": 1,
+      "number": 2,
+      "name": "Et luksushotel i verdensklasse",
+      "airdate": "2018-11-18"
+    },
+    {
+      "id": "6ea85902-6881-4d2a-9df9-92e3448a0b0a",
+      "season": 1,
+      "number": 3,
+      "name": "Et luksushotel i verdensklasse",
+      "airdate": "2018-11-25"
+    },
+    {
+      "id": "7693ecaa-1342-4731-bc65-6d24e4a46fd4",
+      "season": 1,
+      "number": 4,
+      "name": "Et luksushotel i verdensklasse",
+      "airdate": "2018-12-02"
+    }
+  ]
+}

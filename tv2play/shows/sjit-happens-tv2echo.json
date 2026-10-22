@@ -1,0 +1,360 @@
+{
+  "id": "tv2play:sjit-happens-tv2echo",
+  "name": "SJIT Happens",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3e93f67f-728f-4017-b585-1ab375dd8dc4",
+      "season": 1,
+      "number": 1,
+      "name": "Ane flytter ind",
+      "airdate": "2012-09-09"
+    },
+    {
+      "id": "3b716d0a-670a-4306-b4c5-3d29ca589c44",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg vil ha' en rapper",
+      "airdate": "2013-09-01"
+    },
+    {
+      "id": "d52ac6b6-f4b3-461f-9b92-89ad1004807c",
+      "season": 1,
+      "number": 3,
+      "name": "Til kollegiefest",
+      "airdate": "2013-09-02"
+    },
+    {
+      "id": "f78508aa-279d-4f73-8245-d7b3f2a2d88a",
+      "season": 1,
+      "number": 4,
+      "name": "Studiegruppen",
+      "airdate": "2013-09-09"
+    },
+    {
+      "id": "c1555f15-e8d9-4637-b24c-a0b6c04e5429",
+      "season": 1,
+      "number": 5,
+      "name": "Emils MILF",
+      "airdate": "2013-09-16"
+    },
+    {
+      "id": "9053e153-037b-49f7-9319-39aa41e14cdb",
+      "season": 1,
+      "number": 6,
+      "name": "Anes date",
+      "airdate": "2013-09-23"
+    },
+    {
+      "id": "dd8c2c2d-f066-42b4-8cde-d2648bb892d5",
+      "season": 1,
+      "number": 7,
+      "name": "Ølands Fødselsdag",
+      "airdate": "2013-09-30"
+    },
+    {
+      "id": "123887aa-a988-426f-b287-4023a1f71d84",
+      "season": 1,
+      "number": 8,
+      "name": "Svin- og snaps-aften",
+      "airdate": "2013-10-07"
+    },
+    {
+      "id": "78a56304-01a3-42d8-acc0-df2d4afedd9a",
+      "season": 1,
+      "number": 9,
+      "name": "Ølands fætter",
+      "airdate": "2013-10-14"
+    },
+    {
+      "id": "f45c8947-c80b-4d79-8312-3d984be10c43",
+      "season": 1,
+      "number": 10,
+      "name": "Årtiets væddemål",
+      "airdate": "2013-10-21"
+    },
+    {
+      "id": "5868bb0e-92eb-420e-b83e-502d91c7e5c4",
+      "season": 2,
+      "number": 1,
+      "name": "Desperate midler",
+      "airdate": "2014-02-03"
+    },
+    {
+      "id": "08ce3507-b746-4283-9b89-879880233807",
+      "season": 2,
+      "number": 2,
+      "name": "Skype-sex",
+      "airdate": "2014-02-10"
+    },
+    {
+      "id": "f41f1016-0008-4439-88af-df37b31cb58b",
+      "season": 2,
+      "number": 3,
+      "name": "Vanvittige planer",
+      "airdate": "2014-02-17"
+    },
+    {
+      "id": "b543ce6c-8171-4fb9-9c45-4204205fdd98",
+      "season": 2,
+      "number": 4,
+      "name": "Klamhedskurven",
+      "airdate": "2014-02-24"
+    },
+    {
+      "id": "a59fb3ae-8b66-45c7-936a-0dd7f2c5f4f8",
+      "season": 2,
+      "number": 5,
+      "name": "Stalkeren",
+      "airdate": "2014-03-03"
+    },
+    {
+      "id": "d3851d2a-534c-4773-b2c2-6fb5f60cd630",
+      "season": 2,
+      "number": 6,
+      "name": "Pokeraften og wellness-tur",
+      "airdate": "2014-03-10"
+    },
+    {
+      "id": "9e960b49-0149-4278-8e14-cd41dc625430",
+      "season": 2,
+      "number": 7,
+      "name": "På dybt vand",
+      "airdate": "2014-03-17"
+    },
+    {
+      "id": "c330346e-63d8-4f2b-a433-5797f82c314a",
+      "season": 2,
+      "number": 8,
+      "name": "Blodets bånd",
+      "airdate": "2014-03-24"
+    },
+    {
+      "id": "3c629d01-1f91-4497-bf61-05f7658f4e99",
+      "season": 2,
+      "number": 9,
+      "name": "Alt har en pris",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "cba10cdd-36dc-4ac9-92de-330f32eb6926",
+      "season": 2,
+      "number": 10,
+      "name": "Nytårsaften",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "37504787-f0a9-4dee-a088-20b4acf05e91",
+      "season": 3,
+      "number": 1,
+      "name": "Den nye pige",
+      "airdate": "2015-01-26"
+    },
+    {
+      "id": "1010c98f-0e2b-400c-b8c8-fbb4ce2fa240",
+      "season": 3,
+      "number": 2,
+      "name": "Udstillingen",
+      "airdate": "2015-01-26"
+    },
+    {
+      "id": "fd9ea191-b932-4b1f-bb7b-1d090359776d",
+      "season": 3,
+      "number": 3,
+      "name": "Kæresteaften",
+      "airdate": "2015-02-02"
+    },
+    {
+      "id": "d433e0d6-cc55-4733-bd07-7508ffa93b9c",
+      "season": 3,
+      "number": 4,
+      "name": "Strandturen",
+      "airdate": "2015-02-09"
+    },
+    {
+      "id": "76a87080-3f4e-4b63-bf0b-6b6182138a1f",
+      "season": 3,
+      "number": 5,
+      "name": "Syg bytur",
+      "airdate": "2015-02-16"
+    },
+    {
+      "id": "e7e38493-217a-405e-a300-2439c5bbc8a5",
+      "season": 3,
+      "number": 6,
+      "name": "Emils fødselsdag",
+      "airdate": "2015-02-23"
+    },
+    {
+      "id": "dcdbb6c2-3d26-4bf8-83f9-48151f047fba",
+      "season": 3,
+      "number": 7,
+      "name": "Overraskelsen",
+      "airdate": "2015-03-02"
+    },
+    {
+      "id": "3330012a-8fcd-419b-8205-b2b2e341ca9a",
+      "season": 3,
+      "number": 8,
+      "name": "Sex eller ej",
+      "airdate": "2015-03-09"
+    },
+    {
+      "id": "19529e05-c730-41bc-992b-b1a242487398",
+      "season": 3,
+      "number": 9,
+      "name": "Nødudgangen",
+      "airdate": "2015-03-16"
+    },
+    {
+      "id": "7406fd2f-1d68-4a2f-a827-2e0bf2c133c2",
+      "season": 3,
+      "number": 10,
+      "name": "Gravid?",
+      "airdate": "2015-03-16"
+    },
+    {
+      "id": "b8837efa-2c2b-4568-a85d-8dccb9bf26c1",
+      "season": 4,
+      "number": 1,
+      "name": "Egypten alt inklusiv - del 1",
+      "airdate": "2016-01-01"
+    },
+    {
+      "id": "299b15b8-e12d-4f38-a5a1-1a4ebc0e7896",
+      "season": 4,
+      "number": 2,
+      "name": "Egypten alt inklusiv - del 2",
+      "airdate": "2016-01-01"
+    },
+    {
+      "id": "a21b3877-6590-48a1-a50c-3a0cd1b18cb5",
+      "season": 4,
+      "number": 3,
+      "name": "Olau flytter ud",
+      "airdate": "2016-02-01"
+    },
+    {
+      "id": "d7ab1811-a89b-464c-a0c9-6b5ae4b33de1",
+      "season": 4,
+      "number": 4,
+      "name": "En ny roommate",
+      "airdate": "2016-02-08"
+    },
+    {
+      "id": "7b9615ca-db3b-4672-ae94-88663b98e0c4",
+      "season": 4,
+      "number": 5,
+      "name": "Anes dates",
+      "airdate": "2016-02-15"
+    },
+    {
+      "id": "05ee0c53-7fc2-46d2-a823-3b3bb1fac07a",
+      "season": 4,
+      "number": 6,
+      "name": "Stand up for Emil",
+      "airdate": "2016-02-22"
+    },
+    {
+      "id": "85cbb12d-7113-40db-83b8-9c0bc70e0ed2",
+      "season": 4,
+      "number": 7,
+      "name": "Piger ingen adgang",
+      "airdate": "2016-02-29"
+    },
+    {
+      "id": "e2ff1d56-44ac-46e2-89fa-5a5bdb3412cc",
+      "season": 4,
+      "number": 8,
+      "name": "Svampetrip",
+      "airdate": "2016-03-07"
+    },
+    {
+      "id": "e2e9d7f8-2093-42ba-8981-6be0dcb68191",
+      "season": 4,
+      "number": 9,
+      "name": "Gammel gæld",
+      "airdate": "2016-03-14"
+    },
+    {
+      "id": "cbb10acb-2357-4e7c-a9ce-29962b1a21f2",
+      "season": 4,
+      "number": 10,
+      "name": "Alt for fuld",
+      "airdate": "2016-03-21"
+    },
+    {
+      "id": "c4e02b65-ba59-4e1c-9fc9-046efcd2068a",
+      "season": 5,
+      "number": 1,
+      "name": "Mads bliver gift",
+      "airdate": "2017-01-23"
+    },
+    {
+      "id": "20f00d7a-5135-4045-8465-8f01beb13837",
+      "season": 5,
+      "number": 2,
+      "name": "Rød løber",
+      "airdate": "2017-01-30"
+    },
+    {
+      "id": "d3e16d40-ae48-4c22-b9b3-96c5ff93898c",
+      "season": 5,
+      "number": 3,
+      "name": "Utroskab?",
+      "airdate": "2017-02-06"
+    },
+    {
+      "id": "0a1f822d-505b-499e-959a-2de282bf4e6f",
+      "season": 5,
+      "number": 4,
+      "name": "Rebound",
+      "airdate": "2017-02-13"
+    },
+    {
+      "id": "0d6c753f-0d17-4423-ad2e-87fa80d5cdde",
+      "season": 5,
+      "number": 5,
+      "name": "Ødegårdsturen",
+      "airdate": "2017-02-20"
+    },
+    {
+      "id": "6cd8d29c-7d0b-4e91-890d-ed60a484a0e5",
+      "season": 5,
+      "number": 6,
+      "name": "Frieriet",
+      "airdate": "2017-02-27"
+    },
+    {
+      "id": "242acbc2-4b30-473d-94dd-224b0d63f6c7",
+      "season": 5,
+      "number": 7,
+      "name": "Polterabend",
+      "airdate": "2017-03-06"
+    },
+    {
+      "id": "4e2fabd7-7117-4521-ab6c-8c7643521b79",
+      "season": 5,
+      "number": 8,
+      "name": "Babylykke",
+      "airdate": "2017-03-13"
+    },
+    {
+      "id": "98767b44-612c-4fb1-8494-8496ed14bfe4",
+      "season": 5,
+      "number": 9,
+      "name": "Brylluppet - del 1",
+      "airdate": "2017-03-20"
+    },
+    {
+      "id": "a5c082ae-0c86-492c-ac12-2593fc90ff53",
+      "season": 5,
+      "number": 10,
+      "name": "Brylluppet - del 2",
+      "airdate": "2017-03-20"
+    }
+  ]
+}

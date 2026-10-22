@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:kollegiet-cmore",
+  "name": "Kollegiet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d55760d9-3d3f-4ca3-bb3c-c4884eda3cf2",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "114f2c58-8623-420b-925d-01207defd5da",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "ba2a8a77-753a-41b5-b4c3-07b68e1a81cd",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "d4d61938-b87a-422b-8b0b-96570b54bdf6",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "2183e091-503a-4ef4-bba1-0a94b9d807db",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "08c9149d-8ce1-4ee9-8ca6-7eb2d4aafedb",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "7f610bd5-7605-422c-a18d-8fecb0b54ab8",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "b7fa23f6-90eb-4a6d-9562-201e3043ed00",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

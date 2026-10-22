@@ -1,0 +1,612 @@
+{
+  "id": "tv2play:motorvejspatruljen-tv2",
+  "name": "Motorvejspatruljen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fdf71740-032f-4188-ad26-bed045e9c85e",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-06-06"
+    },
+    {
+      "id": "2dd37184-9cab-4269-95a5-33fb9f34cd8b",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "940e0a23-9bab-4b64-9d5e-039d6c7f198a",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "3480515e-ce99-4ceb-a85b-eb15941f2abe",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-06-11"
+    },
+    {
+      "id": "ab148585-38fc-48c7-8959-518235c2534f",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-06-12"
+    },
+    {
+      "id": "3e7c10f2-cfe0-484c-8364-8001db191d78",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-06-13"
+    },
+    {
+      "id": "fb3fda67-fbb0-46fe-b8cd-59683f07103b",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "5973854d-b77c-4d5d-b75b-42eda4bf88c4",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-06-17"
+    },
+    {
+      "id": "b85aaaf2-1b02-4047-9b66-a658835e04c1",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "36c0622b-8ceb-4081-a339-8ed1daecc0fb",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "ba0a7aeb-9ac6-4931-9042-b3719d4cf6ec",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-06-21"
+    },
+    {
+      "id": "4ff2080d-7b51-47f7-a57e-58346bbb3640",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-06-24"
+    },
+    {
+      "id": "97efbc6d-6a20-4341-a690-35c50007c228",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-06-25"
+    },
+    {
+      "id": "767046b8-19f1-4819-bc9f-b59c1bbc8036",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-06-26"
+    },
+    {
+      "id": "77e75d61-653c-4b45-9799-f04c90627e43",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-06-27"
+    },
+    {
+      "id": "2dc10f20-fa7e-486b-9ae6-0a9c1546fb05",
+      "season": 2,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2024-06-28"
+    },
+    {
+      "id": "d45ebd47-cc11-408b-88b5-7455ad44a969",
+      "season": 2,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2024-06-28"
+    },
+    {
+      "id": "c2d31344-fa57-42fb-aba0-d0590621325e",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "6e8aa323-3928-407b-a9ba-d42a1e04fd10",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-03"
+    },
+    {
+      "id": "9f252c48-7dd7-42d0-a92f-024efab00f60",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "3a3b5622-0e33-40b1-b885-14c789b41d88",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-04-07"
+    },
+    {
+      "id": "93d40f3f-89e7-40fa-8dad-d939fbb01819",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "21097b7d-f50c-44fe-9fc6-147fdf8effb8",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-04-09"
+    },
+    {
+      "id": "228d0fb7-1c53-4e32-b4c6-ae8ddf99060a",
+      "season": 3,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-04-10"
+    },
+    {
+      "id": "1081ae35-0910-426d-8a28-107a6dda73af",
+      "season": 3,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-04-11"
+    },
+    {
+      "id": "2d1b846a-475f-41eb-808c-7bec7ba62b4a",
+      "season": 3,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "1a5270d0-4f51-48c8-b357-6989e0c1755f",
+      "season": 3,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "b2fcef44-1628-4032-9bde-53acc81619f4",
+      "season": 4,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-16"
+    },
+    {
+      "id": "98e0db27-1f50-469d-bf4c-38ffcb8622cc",
+      "season": 4,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-17"
+    },
+    {
+      "id": "8ac7b9a5-ea42-460a-ab60-da63e6fcd6fb",
+      "season": 4,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-04-18"
+    },
+    {
+      "id": "04733a01-2dae-4b1f-82ca-fd0d8978f21d",
+      "season": 4,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-04-21"
+    },
+    {
+      "id": "028e0fac-0827-48ad-97c1-1a5ce2e20af4",
+      "season": 4,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-04-22"
+    },
+    {
+      "id": "4677a4ad-7430-4b4d-a7d0-ad722c1760a1",
+      "season": 4,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-04-24"
+    },
+    {
+      "id": "8a95283a-3372-4f05-b67e-2d8e59ad4c95",
+      "season": 4,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-04-25"
+    },
+    {
+      "id": "dcbf84b3-e319-4c8e-82c1-4912f9418ed7",
+      "season": 5,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-28"
+    },
+    {
+      "id": "57049b6d-2243-40aa-aa9c-00b5bdc67172",
+      "season": 5,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-29"
+    },
+    {
+      "id": "a6097b68-a24c-42c7-90f7-8e86f8d5b1f8",
+      "season": 5,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-04-30"
+    },
+    {
+      "id": "33f94fd3-15c1-476f-8020-5e15917b4a7d",
+      "season": 5,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-05-01"
+    },
+    {
+      "id": "db3a8ddb-ad8f-42e5-aec5-7bbc2c900470",
+      "season": 5,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-05-02"
+    },
+    {
+      "id": "12573f2f-c242-47f8-bf25-d74b849a7d76",
+      "season": 5,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-05-05"
+    },
+    {
+      "id": "1f587d43-d009-4694-b938-aacad4631a9a",
+      "season": 5,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-05-06"
+    },
+    {
+      "id": "f64eadeb-3d58-4f19-bd1a-74a60752b897",
+      "season": 5,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-05-07"
+    },
+    {
+      "id": "1a5a1122-ded5-487a-b1a4-3d9f260e3191",
+      "season": 5,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2025-05-08"
+    },
+    {
+      "id": "cf717e2d-0725-4a40-9fb7-80ade64f5406",
+      "season": 5,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2025-05-09"
+    },
+    {
+      "id": "e0ed6d07-e32e-442a-a075-8bd4a337c8da",
+      "season": 6,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "4e50e068-7b59-4a4f-945a-2da0122257cf",
+      "season": 6,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-05-13"
+    },
+    {
+      "id": "02271fcb-1c12-42d5-bf65-71fd470f31c7",
+      "season": 6,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-05-14"
+    },
+    {
+      "id": "136cae47-9101-4f2c-948d-34eb6dff404d",
+      "season": 6,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-05-15"
+    },
+    {
+      "id": "6c50da2d-f124-474b-98df-bd8e46a3bf86",
+      "season": 6,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-05-16"
+    },
+    {
+      "id": "19242d56-da92-470d-a497-af8971184294",
+      "season": 6,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-05-19"
+    },
+    {
+      "id": "08af5e06-1396-413b-8634-1b5cff99d908",
+      "season": 6,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-05-20"
+    },
+    {
+      "id": "ee98eb80-66f5-4e35-b725-6f7fee68aa2e",
+      "season": 6,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-05-21"
+    },
+    {
+      "id": "18491be6-004f-45f9-bf59-fe3059834569",
+      "season": 6,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2025-05-22"
+    },
+    {
+      "id": "82581240-9f42-42bd-bbbf-60f9d5cce4a2",
+      "season": 6,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2025-05-23"
+    },
+    {
+      "id": "0d296df8-354a-480b-99bf-7791558a656e",
+      "season": 7,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-11-25"
+    },
+    {
+      "id": "68366be6-4ee7-4ecc-81cd-efb6d71f4746",
+      "season": 7,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-11-26"
+    },
+    {
+      "id": "80a39d17-4823-40f9-a37e-cd567fa82293",
+      "season": 7,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "74b02d88-3fd8-4493-8ca7-5898c24424d2",
+      "season": 7,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "66642c92-a35a-4913-b551-3ec64f4e8a83",
+      "season": 7,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "e14a89c4-d993-4810-930c-202caf8b3b52",
+      "season": 7,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "c5887b3d-6c7d-49a7-93d4-cda102c4d59a",
+      "season": 7,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-12-04"
+    },
+    {
+      "id": "ce4bc62d-d79f-47cb-9796-b3c6c950c7e1",
+      "season": 7,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "a5e233be-3432-431a-8325-0ac9aa8cb2ea",
+      "season": 7,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "8e8512ee-1838-4002-8d00-ade616fde082",
+      "season": 7,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "cfa564a0-e4c8-4fb6-8b97-698f0a2ffba4",
+      "season": 7,
+      "number": 11,
+      "name": "Episode 11",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "cc09d761-0fde-4bbf-aa87-eea37bc5c08e",
+      "season": 7,
+      "number": 12,
+      "name": "Episode 12",
+      "airdate": "2025-12-14"
+    },
+    {
+      "id": "10b5334f-d9bc-4d00-9f1c-5c87f34b7e52",
+      "season": 8,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "c7806250-5125-4bbd-80ff-ee7cd48462d1",
+      "season": 8,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-08-19"
+    },
+    {
+      "id": "9a19c8af-f0b0-4367-ae27-7fb79a280530",
+      "season": 8,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-08-20"
+    },
+    {
+      "id": "845f278b-133f-43a0-b152-2dbee37159bd",
+      "season": 8,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-08-21"
+    },
+    {
+      "id": "26eb0ea6-329d-4122-8c7f-fc3c9ea03ed3",
+      "season": 8,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-08-24"
+    },
+    {
+      "id": "82b0e217-e2b5-4532-a498-bb6712d71422",
+      "season": 8,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "340fcbcb-7ea9-43a4-9142-2aa7f8b29628",
+      "season": 8,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "4c5c268f-4cdf-4d98-9d36-e19ef3a09ebc",
+      "season": 8,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2026-08-27"
+    },
+    {
+      "id": "0b73540d-8433-4be9-a36e-c19169ee4a29",
+      "season": 8,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "3377babb-83f4-4a18-866a-8b53b96f6bb1",
+      "season": 8,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2026-08-31"
+    },
+    {
+      "id": "bfbdffb0-8918-4d1e-af7d-b0f546697792",
+      "season": 9,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-09-01"
+    },
+    {
+      "id": "436a9a2a-ab43-488e-bb43-9e847bf6a4d2",
+      "season": 9,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-09-02"
+    },
+    {
+      "id": "bae81708-b3e5-4a3e-b550-4b2fba20736a",
+      "season": 9,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-09-03"
+    },
+    {
+      "id": "41c671b3-373a-4758-bb13-10e1c36834af",
+      "season": 9,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "4fd2af39-b72b-4045-a60c-45e947aa6bf5",
+      "season": 9,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-09-07"
+    },
+    {
+      "id": "32dcca37-4c3f-48cb-8af3-6a5b80479c65",
+      "season": 9,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-09-08"
+    },
+    {
+      "id": "4359e028-a69a-47e6-98f9-f67e6143cb76",
+      "season": 9,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "1d5b9669-4abb-47f5-bb59-eccb3edebeef",
+      "season": 9,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "2e2c8a54-dcc1-4348-98e2-69280615a620",
+      "season": 9,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2026-09-14"
+    },
+    {
+      "id": "0e03559d-8599-449a-a46b-3900dad36366",
+      "season": 9,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2026-09-15"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:hacks-tv2play",
+  "name": "Hacks",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "45045cb9-cdd5-4d01-8cbd-37925aec135d",
+      "season": 2,
+      "number": 5,
+      "name": "Retired",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "bd10608e-7dcf-4c1c-ba7b-61103114a161",
+      "season": 2,
+      "number": 7,
+      "name": "On the Market",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "18b009f8-bdd3-4ec2-be09-52800bd71f70",
+      "season": 3,
+      "number": 1,
+      "name": "Just for Laughs",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "be3edc0c-3005-4fba-936a-1da8358e2a65",
+      "season": 3,
+      "number": 2,
+      "name": "Better Late",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "92edc562-10f9-4483-b974-31470d749cf8",
+      "season": 3,
+      "number": 3,
+      "name": "The Roast of Deborah Vance",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "12499f86-8169-485f-ab69-23919bc6da1e",
+      "season": 3,
+      "number": 4,
+      "name": "Join the Club",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "fc854a52-b9cd-4da7-b1dd-087e77687867",
+      "season": 3,
+      "number": 5,
+      "name": "One Day",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "18b51995-5f69-47a0-a5aa-6f4690abef10",
+      "season": 3,
+      "number": 6,
+      "name": "Par for the Course",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "5c1e19c6-621a-4574-aeb7-394e42dd02c9",
+      "season": 3,
+      "number": 7,
+      "name": "The Deborah Vance Christmas Spectacular",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "6dd5c610-a4b7-4bd9-9f28-15fe3d0e3212",
+      "season": 3,
+      "number": 8,
+      "name": "Yes, And",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "3ec52cf1-fef3-4481-9c29-25a6a01bb90a",
+      "season": 3,
+      "number": 9,
+      "name": "Bulletproof",
+      "airdate": "2026-07-22"
+    }
+  ]
+}

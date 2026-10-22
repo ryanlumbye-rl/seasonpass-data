@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:stateless-tv2play",
+  "name": "Stateless",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "adad474d-95b9-48a0-a67a-6db56857b789",
+      "season": 1,
+      "number": 1,
+      "name": "The Circumstances in Which They Come…",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "08f4798a-06fc-4a4c-803a-a4bc58d01b23",
+      "season": 1,
+      "number": 2,
+      "name": "Incognita",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "3b4c50c2-742c-4ef0-b35e-7a8af3aea0d2",
+      "season": 1,
+      "number": 3,
+      "name": "The Right Thing",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "c88da28d-4d0a-4af4-9e34-56f3b0c6c7d5",
+      "season": 1,
+      "number": 4,
+      "name": "Run Sofie Run",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "a3ac6219-46fd-44bf-b612-a526acf5c054",
+      "season": 1,
+      "number": 5,
+      "name": "Panis Angelicus",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "221ac4b9-e369-476d-9365-581fe3358e3f",
+      "season": 1,
+      "number": 6,
+      "name": "The Seventh Circle",
+      "airdate": "2026-09-28"
+    }
+  ]
+}

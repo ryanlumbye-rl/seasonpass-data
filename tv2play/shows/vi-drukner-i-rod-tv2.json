@@ -1,0 +1,269 @@
+{
+  "id": "tv2play:vi-drukner-i-rod-tv2",
+  "name": "Vi drukner i rod",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4608d222-6c7e-4270-89c5-9db291462d4a",
+      "season": 1,
+      "number": 1,
+      "name": "Én ulykke kommer sjældent alene",
+      "airdate": "2022-07-04"
+    },
+    {
+      "id": "bed90ac4-fc2d-4d79-acf8-e3ec483b7f18",
+      "season": 1,
+      "number": 2,
+      "name": "Farvel til drømmene?",
+      "airdate": "2022-07-04"
+    },
+    {
+      "id": "1c9bf931-5820-4ec6-b289-5d92b8c35226",
+      "season": 1,
+      "number": 3,
+      "name": "Med helbredet som indsats",
+      "airdate": "2022-07-11"
+    },
+    {
+      "id": "fd64450a-4ac5-4f87-b027-a5cf55be8b1d",
+      "season": 1,
+      "number": 4,
+      "name": "Bjerge af usorteret vasketøj",
+      "airdate": "2022-07-18"
+    },
+    {
+      "id": "b61d67d8-fd00-4e22-bb65-63696c575f6b",
+      "season": 1,
+      "number": 5,
+      "name": "Sygdommen ud af vores liv",
+      "airdate": "2022-07-25"
+    },
+    {
+      "id": "2dcb4839-4512-443a-a459-10498f80d77f",
+      "season": 1,
+      "number": 6,
+      "name": "Etværelses kunstnerhjem",
+      "airdate": "2022-08-01"
+    },
+    {
+      "id": "bd7c54cd-701f-4bc0-97de-2fb1e13a4435",
+      "season": 1,
+      "number": 7,
+      "name": "Babyboom og byggeprojekter",
+      "airdate": "2022-08-08"
+    },
+    {
+      "id": "5f9e3730-de8b-4b9c-beb5-b2c3312002ef",
+      "season": 1,
+      "number": 8,
+      "name": "For børnenes skyld",
+      "airdate": "2022-08-15"
+    },
+    {
+      "id": "f137f99b-d511-48b2-912f-26b282a4acf7",
+      "season": 2,
+      "number": 1,
+      "name": "Konstant dårlig samvittighed",
+      "airdate": "2023-06-26"
+    },
+    {
+      "id": "cb9ba9c7-bdc4-499b-a5f8-f667bc67b8e9",
+      "season": 2,
+      "number": 2,
+      "name": "Hvordan rydder man op?",
+      "airdate": "2023-07-03"
+    },
+    {
+      "id": "d2ec0eee-79a3-44be-8740-5b39a53adcb6",
+      "season": 2,
+      "number": 3,
+      "name": "Et hjem fyldt med minder",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "005a66c2-89a3-4f20-9c66-8962e38bd1c5",
+      "season": 2,
+      "number": 4,
+      "name": "Børnene fylder alt",
+      "airdate": "2023-07-17"
+    },
+    {
+      "id": "101e9db9-a845-47fa-8ecf-97fa8b03c78f",
+      "season": 2,
+      "number": 5,
+      "name": "Kreaprojekter og vasketøj",
+      "airdate": "2023-07-24"
+    },
+    {
+      "id": "35f99226-ec99-4283-bc4c-43353d21b8dd",
+      "season": 2,
+      "number": 6,
+      "name": "Ingen gæster i flere år",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "857aa722-291b-4bc9-8c40-fc8f5086bba7",
+      "season": 2,
+      "number": 7,
+      "name": "Fest, farver og musikkaos",
+      "airdate": "2023-08-07"
+    },
+    {
+      "id": "cb0d8b36-06fe-4480-be5e-8f6ba29d196b",
+      "season": 2,
+      "number": 8,
+      "name": "Legetøj har overtaget huset",
+      "airdate": "2023-08-14"
+    },
+    {
+      "id": "ab5de014-9d6e-47be-a15f-6c84b8a62217",
+      "season": 3,
+      "number": 1,
+      "name": "Fra børneværelse til teenageafdeling",
+      "airdate": "2024-07-04"
+    },
+    {
+      "id": "7abe15f9-e01f-4554-952d-51416b3be0af",
+      "season": 3,
+      "number": 2,
+      "name": "Skjuler rodet for gæster",
+      "airdate": "2024-07-11"
+    },
+    {
+      "id": "4ac21140-ff54-44a5-99e5-18a7c1107507",
+      "season": 3,
+      "number": 3,
+      "name": "Når hobbyer fylder hele huset",
+      "airdate": "2024-07-18"
+    },
+    {
+      "id": "ef020c29-5ae8-4db7-bac5-3946bcf80209",
+      "season": 3,
+      "number": 4,
+      "name": "221 flyttekasser på 56 kvadratmeter",
+      "airdate": "2024-07-25"
+    },
+    {
+      "id": "cb355ab4-c74e-4d52-bb4d-b47c4caec0c6",
+      "season": 3,
+      "number": 5,
+      "name": "Hverdagsrod og vasketøj",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "e5b407f7-b19e-45fb-bab7-6115e9f13ea0",
+      "season": 4,
+      "number": 1,
+      "name": "En sti gennem rodet",
+      "airdate": "2025-05-19"
+    },
+    {
+      "id": "0f5c88d5-5eae-45bd-b7b5-5a25bd7e88ff",
+      "season": 4,
+      "number": 2,
+      "name": "Hverdagsrod og vinbutikker",
+      "airdate": "2025-05-26"
+    },
+    {
+      "id": "59c6e0da-6c4f-42c5-89b4-d24b3d122ddd",
+      "season": 4,
+      "number": 3,
+      "name": "Nissen flytter ikke med",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "c84fd4d6-ddc8-4c60-8783-152937246fbd",
+      "season": 4,
+      "number": 4,
+      "name": "Fire børn på ét værelse",
+      "airdate": "2025-06-09"
+    },
+    {
+      "id": "b98ffaa3-ff6e-4c60-92fe-c3ab6096900d",
+      "season": 4,
+      "number": 5,
+      "name": "Når leg fylder alt",
+      "airdate": "2025-06-16"
+    },
+    {
+      "id": "e2061c3b-15d6-42cb-ab07-53d83880550d",
+      "season": 4,
+      "number": 6,
+      "name": "Drømmen om langbordsmiddage",
+      "airdate": "2025-06-23"
+    },
+    {
+      "id": "ea7a8603-a0a4-4fd9-8a4d-62bae6d32646",
+      "season": 4,
+      "number": 7,
+      "name": "Flytning før fødslen",
+      "airdate": "2025-06-30"
+    },
+    {
+      "id": "cc80067d-2595-4c49-9dbe-e25cef66cd57",
+      "season": 4,
+      "number": 8,
+      "name": "Far skal finde fodfæste",
+      "airdate": "2025-07-07"
+    },
+    {
+      "id": "4f868031-394e-4ee3-9f70-4f87140f94e4",
+      "season": 5,
+      "number": 1,
+      "name": "Alene med fire",
+      "airdate": "2026-06-01"
+    },
+    {
+      "id": "14bd9db5-280d-4ff6-974f-903ece85702a",
+      "season": 5,
+      "number": 2,
+      "name": "Når systemet ikke passer",
+      "airdate": "2026-06-08"
+    },
+    {
+      "id": "95fd3901-87f7-4942-aac5-e98542bc53f9",
+      "season": 5,
+      "number": 3,
+      "name": "Når familien ikke længere kommer",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "4b49b5aa-6436-4790-aac7-4fd27d41e020",
+      "season": 5,
+      "number": 4,
+      "name": "En rodet kærlighedsaffære",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "ea1390fc-a35e-4b88-9e45-57f22c6b1841",
+      "season": 5,
+      "number": 5,
+      "name": "Drømmen om familien",
+      "airdate": "2026-06-29"
+    },
+    {
+      "id": "f595a531-c015-4170-8e9b-03ea1d312248",
+      "season": 5,
+      "number": 6,
+      "name": "Når samlearven fylder",
+      "airdate": "2026-07-06"
+    },
+    {
+      "id": "fa0b4e9b-9036-4465-87e2-c24c29206312",
+      "season": 5,
+      "number": 7,
+      "name": "Når hjælperen selv får hjælp",
+      "airdate": "2026-07-13"
+    },
+    {
+      "id": "86dd24f9-2d5f-4dd6-abad-ec763e89fc3d",
+      "season": 5,
+      "number": 8,
+      "name": "Når parforholdet drukner i rod",
+      "airdate": "2026-07-20"
+    }
+  ]
+}

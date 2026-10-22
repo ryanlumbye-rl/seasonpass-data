@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:hjaelp-vi-har-koebt-en-bondegaard-tv2fri",
+  "name": "Hjælp, vi har købt en bondegård!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3bb70380-3042-4ce8-abc4-cf7b9f0df57f",
+      "season": 1,
+      "number": 1,
+      "name": "Hvad har vi gjort?",
+      "airdate": "2025-04-06"
+    },
+    {
+      "id": "abfb74d5-9ad5-4218-8b12-7c351d1605c8",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg har købt 1000 meter træværk",
+      "airdate": "2025-04-13"
+    },
+    {
+      "id": "3e74af27-25b6-4caf-af93-a4e4365301af",
+      "season": 1,
+      "number": 3,
+      "name": "Fårene stikker af",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "23731ec3-121b-4e5d-b017-5568697f4767",
+      "season": 1,
+      "number": 4,
+      "name": "Munden for fuld?",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "86788df5-70e8-4a38-b771-c1dc98a51bdd",
+      "season": 1,
+      "number": 5,
+      "name": "Sug i maven",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "8af38e25-933d-41f7-a1ab-5d5dad544e02",
+      "season": 1,
+      "number": 6,
+      "name": "Nu er han ude, og han skal hedde...",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "55fad875-2c1a-4672-8942-42a225ae105a",
+      "season": 1,
+      "number": 7,
+      "name": "En skovejer tager en pause",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "34991a9e-787c-4125-b7fc-879a6bd38b95",
+      "season": 1,
+      "number": 8,
+      "name": "Vi klarede det hele!",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "79b906b0-e5e3-4955-9348-dc3503d02680",
+      "season": 2,
+      "number": 1,
+      "name": "Jeg må bygge et drivhus!",
+      "airdate": "2025-07-24"
+    },
+    {
+      "id": "a65cd66a-26cb-48cc-9953-7499bc197ac0",
+      "season": 2,
+      "number": 2,
+      "name": "Liv og glade dage på gården",
+      "airdate": "2025-07-31"
+    },
+    {
+      "id": "89296870-9e14-4001-8e3c-38774f16d18b",
+      "season": 2,
+      "number": 3,
+      "name": "Hvad tænkte jeg på?",
+      "airdate": "2025-08-07"
+    },
+    {
+      "id": "2b2fb07a-cf60-44fb-bf95-bf48fe1a3241",
+      "season": 2,
+      "number": 4,
+      "name": "Honning og muddervægge",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "45d1bc76-99ab-4aa0-b781-d65919bb53f0",
+      "season": 2,
+      "number": 5,
+      "name": "Livet på landet",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "504ad365-b845-4afd-a3c7-c3c6c36335bb",
+      "season": 2,
+      "number": 6,
+      "name": "Børnenes have",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "69e47ea0-54ff-4bb0-a67a-cea2b990dea5",
+      "season": 2,
+      "number": 7,
+      "name": "Indretningsdrømme",
+      "airdate": "2025-09-04"
+    },
+    {
+      "id": "49e18cc8-d4c9-46f3-b746-003241f75129",
+      "season": 2,
+      "number": 8,
+      "name": "Sommerens afslutning",
+      "airdate": "2025-09-11"
+    },
+    {
+      "id": "5520eb84-e456-4e20-8a71-68d61ea8d947",
+      "season": 3,
+      "number": 1,
+      "name": "Bare en lillebitte fejl",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "bec62b28-d94e-45a0-b57d-81519dd029a0",
+      "season": 3,
+      "number": 2,
+      "name": "Jeg er en rigtig cowboy!",
+      "airdate": "2026-02-19"
+    },
+    {
+      "id": "3a65e9d2-3772-4966-85fe-a717bfe5a4b9",
+      "season": 3,
+      "number": 3,
+      "name": "Björn har været på besøg",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "583f6353-4d32-46d1-b4fd-372706d7d3a5",
+      "season": 3,
+      "number": 4,
+      "name": "Hindbær i haven hitter",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "1f4d7543-febd-4ece-be10-be2756967219",
+      "season": 3,
+      "number": 5,
+      "name": "Det kan umuligt være min fejl",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "91fcab25-72c6-41fd-8ff2-b83bfefe4f55",
+      "season": 3,
+      "number": 6,
+      "name": "Et godt råd: involver ikke børnene",
+      "airdate": "2026-03-19"
+    },
+    {
+      "id": "ebbd8029-300a-45a8-8d5d-ab8e464b555b",
+      "season": 3,
+      "number": 7,
+      "name": "Måske Sveriges største græskar",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "58c2c3b3-2b82-4b00-bfac-beda784b9e47",
+      "season": 3,
+      "number": 8,
+      "name": "Det startede med en vandtrappe",
+      "airdate": "2026-03-26"
+    }
+  ]
+}

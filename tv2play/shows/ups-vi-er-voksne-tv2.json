@@ -1,0 +1,171 @@
+{
+  "id": "tv2play:ups-vi-er-voksne-tv2",
+  "name": "Ups, vi er voksne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "91055350-97f5-4905-9684-efafd04b58c3",
+      "season": 1,
+      "number": 1,
+      "name": "Min mor skal ikke bestemme det hele",
+      "airdate": "2023-02-23"
+    },
+    {
+      "id": "5d98995a-f24b-4c74-9e7f-981bdfd7fac8",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg må ikke pjække fra arbejde",
+      "airdate": "2023-02-23"
+    },
+    {
+      "id": "bd11dca6-faf1-4f00-ad75-b6bd1dad2c41",
+      "season": 1,
+      "number": 3,
+      "name": "Det er bare mine øjne, der tårer",
+      "airdate": "2023-03-02"
+    },
+    {
+      "id": "92259eb4-eb71-4c6a-ac78-4c05ef8b6edc",
+      "season": 1,
+      "number": 4,
+      "name": "Jeg må ikke drikke øl",
+      "airdate": "2023-03-09"
+    },
+    {
+      "id": "340dfa7d-5394-40c2-89ec-9898a292f956",
+      "season": 1,
+      "number": 5,
+      "name": "Jeg skal ud at score",
+      "airdate": "2023-03-16"
+    },
+    {
+      "id": "e45e31dd-3988-4f74-80ea-a407e5316df9",
+      "season": 1,
+      "number": 6,
+      "name": "Jeg venter på hende",
+      "airdate": "2023-03-23"
+    },
+    {
+      "id": "ea50e8e1-d65b-4130-b256-8985d19b76cd",
+      "season": 2,
+      "number": 1,
+      "name": "Det skal man jo, når man er kærester",
+      "airdate": "2024-04-10"
+    },
+    {
+      "id": "2caa5492-de1e-4522-b1a1-b63d6153823e",
+      "season": 2,
+      "number": 2,
+      "name": "Ferie, ferie, ferie",
+      "airdate": "2024-04-17"
+    },
+    {
+      "id": "ad690774-12b8-42d6-a187-ccd412d9bcab",
+      "season": 2,
+      "number": 3,
+      "name": "Jeg hader trapper",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "4eb6bb8e-f5f4-435d-a5e5-29d5250d8e10",
+      "season": 2,
+      "number": 4,
+      "name": "Den store dag",
+      "airdate": "2024-05-01"
+    },
+    {
+      "id": "426c36c5-2172-445e-b6bd-d0ac0b2c04f1",
+      "season": 2,
+      "number": 5,
+      "name": "Endelig voksen nok",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "a109f586-9ce5-4478-8ac2-695c876c0f3c",
+      "season": 2,
+      "number": 6,
+      "name": "Drømmenes basar",
+      "airdate": "2024-05-15"
+    },
+    {
+      "id": "72041411-c4db-4042-8024-ff7be508ef66",
+      "season": 3,
+      "number": 1,
+      "name": "Så skal vi slappe af!",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "a4757c40-7473-461e-9d3a-c53ef180ff8a",
+      "season": 3,
+      "number": 2,
+      "name": "Endelig er der fest",
+      "airdate": "2025-04-09"
+    },
+    {
+      "id": "6a78ef23-7d94-4adb-90a1-a13ff3a66a7e",
+      "season": 3,
+      "number": 3,
+      "name": "Farmor ved bedst",
+      "airdate": "2025-04-16"
+    },
+    {
+      "id": "5f2f720f-bc65-47cc-ab08-3010960c6e12",
+      "season": 3,
+      "number": 4,
+      "name": "Growling på Oslobåden",
+      "airdate": "2025-04-23"
+    },
+    {
+      "id": "b4b5c09d-8312-4911-b0c7-f4a4c04390a4",
+      "season": 3,
+      "number": 5,
+      "name": "Hvad siger du?",
+      "airdate": "2025-04-30"
+    },
+    {
+      "id": "5599b5d9-4f2b-471e-b9d1-7727d5884ba8",
+      "season": 3,
+      "number": 6,
+      "name": "Drømmen om en medalje",
+      "airdate": "2025-05-07"
+    },
+    {
+      "id": "253f46fe-13b9-4031-a011-fbd755524d73",
+      "season": 4,
+      "number": 1,
+      "name": "Premierenerver",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "12c9adf1-7264-46b2-afbc-fd5a5e04e669",
+      "season": 4,
+      "number": 2,
+      "name": "Kærligheden blomstrer",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "4021614d-a31f-4350-a733-5eafbe0ee2df",
+      "season": 4,
+      "number": 3,
+      "name": "Nye begyndelser",
+      "airdate": "2026-07-08"
+    },
+    {
+      "id": "2466a096-dd38-4041-868b-577292b54373",
+      "season": 4,
+      "number": 4,
+      "name": "Tænk, hvis ingen dukker op",
+      "airdate": "2026-07-15"
+    },
+    {
+      "id": "70bf2e99-77c6-43bd-93f7-6361c0d68183",
+      "season": 4,
+      "number": 5,
+      "name": "Sne, sang og skænderier",
+      "airdate": "2026-07-22"
+    }
+  ]
+}

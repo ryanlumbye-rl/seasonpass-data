@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:alene-sammen-tv2play",
+  "name": "Alene sammen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "efbd6a48-dcce-4eb2-a948-ad71dd27c678",
+      "season": 1,
+      "number": 8,
+      "name": "Den svære beslutning",
+      "airdate": "2020-12-03"
+    }
+  ]
+}

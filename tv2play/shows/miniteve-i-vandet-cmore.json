@@ -1,0 +1,255 @@
+{
+  "id": "tv2play:miniteve-i-vandet-cmore",
+  "name": "Miniteve: I vandet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fac783c2-fc88-4e59-a00d-483a1a64d56a",
+      "season": 1,
+      "number": 1,
+      "name": "Blårøde fisk",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "1bd3f478-d82c-4d8b-a7d4-976d48b648b5",
+      "season": 1,
+      "number": 2,
+      "name": "Dansende sæler",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "81fe58ca-3f57-40c9-9f19-7a0c36a130a9",
+      "season": 1,
+      "number": 3,
+      "name": "Dansende delfiner",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "004a78c9-c318-4c9b-b774-4c01b939c404",
+      "season": 1,
+      "number": 4,
+      "name": "Delfiner laver kunster",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "510b8b85-c808-4bb8-99b3-884d7b2bda18",
+      "season": 1,
+      "number": 5,
+      "name": "Delfiner laver flere kunster",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "f816d4a7-faee-405c-a1d7-5b1a9f333ca4",
+      "season": 1,
+      "number": 6,
+      "name": "Delfiner hopper",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "821136c7-3e68-4e7e-99be-fce1abfcd022",
+      "season": 1,
+      "number": 7,
+      "name": "Fisk",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "08131314-fd51-4fb7-8c1f-bddb176faccd",
+      "season": 1,
+      "number": 8,
+      "name": "Fisk i akvarium",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "0b23ae7f-5fe6-4c08-a045-b8726b4c7952",
+      "season": 1,
+      "number": 9,
+      "name": "Hajer",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "17711bc9-99ed-4fba-b819-3000a7f3a8d0",
+      "season": 1,
+      "number": 10,
+      "name": "Hajer sammen med fisk",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "492778ff-4509-43b1-9263-ee24da9bd8ef",
+      "season": 1,
+      "number": 11,
+      "name": "Find Nemo-fisk",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4c12a049-7cea-4ffe-8a4b-2e6b9830c74c",
+      "season": 1,
+      "number": 12,
+      "name": "Piratfisk",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "68f0061b-2bda-430d-af0f-749a66d038ce",
+      "season": 1,
+      "number": 13,
+      "name": "Rokke laver kunster i vandet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "53796d42-229a-438a-becc-31bd5eeadcdf",
+      "season": 1,
+      "number": 14,
+      "name": "Store fisk",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "ae683f92-178f-4fa4-bb97-06af1fb20899",
+      "season": 1,
+      "number": 15,
+      "name": "Sæler under vandet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "2d7dc363-257a-44b9-8202-89273238bfda",
+      "season": 1,
+      "number": 16,
+      "name": "Se, vi rider på delfiner",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "7e5f73e1-2de7-40b9-92e3-288dd36dde22",
+      "season": 1,
+      "number": 17,
+      "name": "Høje bølger i Middelhavet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "8cc59536-4b8c-441d-831e-a72b2cc704e9",
+      "season": 1,
+      "number": 18,
+      "name": "Sejlbåde på det blå hav",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5f2f39e6-519d-45f0-9286-3f0286578567",
+      "season": 1,
+      "number": 19,
+      "name": "And stikker hovedet i vandet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "6af0c35a-4799-494b-bb3a-3e2f170962ef",
+      "season": 1,
+      "number": 20,
+      "name": "Måge flyver og lander på lygtepæl",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "f746704f-ab6d-4ee4-a1e0-853fa3d46de6",
+      "season": 1,
+      "number": 21,
+      "name": "Isbjørnen bader",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d34154d4-6280-43b1-b56a-7f1877a56665",
+      "season": 1,
+      "number": 22,
+      "name": "Fodre ænder",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "637cf5af-60ab-4b5c-b353-76c5506cac50",
+      "season": 1,
+      "number": 23,
+      "name": "Sildemåge i vandet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "00f8f191-9249-479f-ba08-3954ffe9fd98",
+      "season": 1,
+      "number": 24,
+      "name": "Svanemor med sine unger",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "2d21a673-739b-4f40-982c-e8536362ce91",
+      "season": 1,
+      "number": 25,
+      "name": "Flodhest",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "2fd2b995-f54f-47d9-803a-3e23f16267a0",
+      "season": 1,
+      "number": 26,
+      "name": "Frø svømmer",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "4dfcea43-17a6-46e3-b9df-a0dd38157a1c",
+      "season": 1,
+      "number": 27,
+      "name": "Pjaske i vandpytter",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "85dbdef3-43e1-4107-9d50-c986e27250f4",
+      "season": 1,
+      "number": 28,
+      "name": "Regn i havet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "13fa3e7c-026c-4ddb-bd7d-a479b4e15d35",
+      "season": 1,
+      "number": 29,
+      "name": "Bølger i havet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "e438aa11-81d7-43c0-bfaa-fa39bdfd536d",
+      "season": 1,
+      "number": 30,
+      "name": "Måge flyver over havet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "f6260f6a-8f61-49d6-a002-71d0734168d2",
+      "season": 1,
+      "number": 31,
+      "name": "Pelikan flakser i vandet",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "2e17faf3-99f5-483b-ad14-feda7e00103e",
+      "season": 1,
+      "number": 32,
+      "name": "Slange snor sig i vandkanten",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "8152e371-f06a-41ac-910e-25ef5c2b02b2",
+      "season": 1,
+      "number": 33,
+      "name": "Sumpskildpadder",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "1a6b8125-2e85-4ba0-9d0c-70bc4c200c60",
+      "season": 1,
+      "number": 34,
+      "name": "Farverig frø",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "18ea2505-2ded-4b0f-a9c5-94f38b03aa74",
+      "season": 1,
+      "number": 35,
+      "name": "Dragefisk",
+      "airdate": "2024-02-16"
+    }
+  ]
+}

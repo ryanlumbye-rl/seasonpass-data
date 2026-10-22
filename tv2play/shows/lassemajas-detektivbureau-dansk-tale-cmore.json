@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:lassemajas-detektivbureau-dansk-tale-cmore",
+  "name": "LasseMajas Detektivbureau (dansk tale)",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bf567be9-df9f-40d6-8294-8f62d2f5a7b4",
+      "season": 1,
+      "number": 1,
+      "name": "Brandmandmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3a1af3bc-b368-496a-a738-e5904c05bf6f",
+      "season": 1,
+      "number": 2,
+      "name": "Skolemysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d3a0fe90-ea87-491c-9fd2-81455fddc06b",
+      "season": 1,
+      "number": 3,
+      "name": "Modemysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "411b05a7-3f11-4974-8581-a86e86f2930b",
+      "season": 1,
+      "number": 4,
+      "name": "Kirkemysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a161d69a-4dba-4b46-a1cc-7ea6d708172c",
+      "season": 1,
+      "number": 5,
+      "name": "Hospitalsmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "99b784b4-e791-4de6-b371-1a8155b1ab85",
+      "season": 1,
+      "number": 6,
+      "name": "Kærlighedsmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7f3bf256-376c-4da9-82da-51bd6f55fb17",
+      "season": 2,
+      "number": 1,
+      "name": "Svømmehalsmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c4795096-9b4b-4bb6-8839-412d03288bc7",
+      "season": 2,
+      "number": 2,
+      "name": "Hotelmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c8385c62-78ca-4a28-87d0-2510a4efb0e6",
+      "season": 2,
+      "number": 3,
+      "name": "Detektivmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f25f85aa-16cf-4df7-a7a7-c434edb54cb7",
+      "season": 2,
+      "number": 4,
+      "name": "Avismysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0cc0d8b1-bed0-4b73-ae52-a759efd52370",
+      "season": 2,
+      "number": 5,
+      "name": "Fødselsdagsmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "090acff0-7c6f-489d-9c21-9ee7f6c15fc1",
+      "season": 2,
+      "number": 6,
+      "name": "Fængselsmysteriet",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

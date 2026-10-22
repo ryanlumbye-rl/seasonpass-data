@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:strisser-paa-samsoe-tv2",
+  "name": "Strisser på Samsø",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8bf98b2c-a36c-4468-af73-9a3b98c3df40",
+      "season": 1,
+      "number": 1,
+      "name": "En ven af familien",
+      "airdate": "1997-02-17"
+    },
+    {
+      "id": "5d68d376-d6e1-48b6-8ef1-790ed7d55b8a",
+      "season": 1,
+      "number": 2,
+      "name": "Jomfrufødsel",
+      "airdate": "1997-02-24"
+    },
+    {
+      "id": "f8da6ff0-cbea-4a59-a86a-3a927496de2b",
+      "season": 1,
+      "number": 3,
+      "name": "Kikkertsyn",
+      "airdate": "1997-03-03"
+    },
+    {
+      "id": "8fc3ec88-97f9-474a-82e0-8d7555749022",
+      "season": 1,
+      "number": 4,
+      "name": "Besøg fra Bruxelles",
+      "airdate": "1997-03-10"
+    },
+    {
+      "id": "158f5ba3-4f92-420c-aee3-663447bc0370",
+      "season": 1,
+      "number": 5,
+      "name": "Den sjove mand",
+      "airdate": "1997-03-17"
+    },
+    {
+      "id": "26030aee-75c5-4ac3-bec3-00a22ee31076",
+      "season": 1,
+      "number": 6,
+      "name": "Rebet",
+      "airdate": "1997-03-24"
+    },
+    {
+      "id": "c14ebe3a-c760-472d-af53-ef62d35e89ae",
+      "season": 2,
+      "number": 1,
+      "name": "Til døden jer skiller",
+      "airdate": "1998-10-17"
+    },
+    {
+      "id": "fb6dd170-790e-4d5d-bd2f-bef0fa50d350",
+      "season": 2,
+      "number": 2,
+      "name": "Malerens muse",
+      "airdate": "1998-10-24"
+    },
+    {
+      "id": "245183a4-bde5-4c12-9859-769338c18df6",
+      "season": 2,
+      "number": 3,
+      "name": "På havets bund",
+      "airdate": "1998-10-31"
+    },
+    {
+      "id": "8845ba38-abc0-4811-a45a-197242554944",
+      "season": 2,
+      "number": 4,
+      "name": "Skæbneloddet",
+      "airdate": "1998-11-07"
+    },
+    {
+      "id": "4577b610-bc70-47c4-ba4c-f83202019c9e",
+      "season": 2,
+      "number": 5,
+      "name": "Blodets bånd",
+      "airdate": "1998-11-14"
+    },
+    {
+      "id": "f42dcfd1-2b98-4de7-88d9-2fab3d94cbeb",
+      "season": 2,
+      "number": 6,
+      "name": "Vi vil fred her til lands",
+      "airdate": "1998-11-21"
+    }
+  ]
+}

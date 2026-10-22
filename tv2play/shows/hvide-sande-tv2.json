@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:hvide-sande-tv2",
+  "name": "Hvide Sande",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e7895191-ab7a-4043-bcb4-50f0dba1648c",
+      "season": 1,
+      "number": 1,
+      "name": "Varm velkomst",
+      "airdate": "2021-05-03"
+    },
+    {
+      "id": "d3597355-0eca-406a-8a51-4ad92a5992d9",
+      "season": 1,
+      "number": 2,
+      "name": "Vidnet",
+      "airdate": "2021-05-03"
+    },
+    {
+      "id": "21265692-a8f0-435b-a1d3-dbe8378e829e",
+      "season": 1,
+      "number": 3,
+      "name": "Kærlighedens væg",
+      "airdate": "2021-05-09"
+    },
+    {
+      "id": "37de0fee-1ef7-4164-959f-430f7f275770",
+      "season": 1,
+      "number": 4,
+      "name": "Natteravnen",
+      "airdate": "2021-05-16"
+    },
+    {
+      "id": "417186d6-325b-43d7-aeba-24f4d74c0bd1",
+      "season": 1,
+      "number": 5,
+      "name": "Fortidens spøgelser",
+      "airdate": "2021-05-23"
+    },
+    {
+      "id": "bf82e53a-53b1-4c0c-bf88-c6146e359a82",
+      "season": 1,
+      "number": 6,
+      "name": "Nazi-kortet",
+      "airdate": "2021-06-07"
+    },
+    {
+      "id": "e943078b-a662-47d6-b843-3ef81ac2d62b",
+      "season": 1,
+      "number": 7,
+      "name": "Under overfladen",
+      "airdate": "2021-06-06"
+    },
+    {
+      "id": "5778702f-25b6-4b27-a45d-cc44db0296ca",
+      "season": 1,
+      "number": 8,
+      "name": "En god by",
+      "airdate": "2021-06-13"
+    },
+    {
+      "id": "db0b8a44-b2a4-4542-b600-499b2bde32ec",
+      "season": 2,
+      "number": 1,
+      "name": "Manden i poolen",
+      "airdate": "2025-03-23"
+    },
+    {
+      "id": "52b69b9e-0cd8-4f33-8595-5fef620a874b",
+      "season": 2,
+      "number": 2,
+      "name": "Skibsdrengen",
+      "airdate": "2025-03-30"
+    },
+    {
+      "id": "8eef5223-3d5a-400b-9e55-46a99128bf9c",
+      "season": 2,
+      "number": 3,
+      "name": "Den manglende time",
+      "airdate": "2025-04-06"
+    },
+    {
+      "id": "025f0cfd-57c5-41ed-a595-0badd6896244",
+      "season": 2,
+      "number": 4,
+      "name": "Den levende fortid",
+      "airdate": "2025-04-13"
+    },
+    {
+      "id": "2fa5c9a7-f894-4ad9-986d-cd7f49d6e421",
+      "season": 2,
+      "number": 5,
+      "name": "Ocean West",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "bd0d299e-6c1f-4e99-ac34-c2ff10586281",
+      "season": 2,
+      "number": 6,
+      "name": "Den sidste sag",
+      "airdate": "2025-04-27"
+    }
+  ]
+}

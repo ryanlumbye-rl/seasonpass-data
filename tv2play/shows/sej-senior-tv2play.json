@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:sej-senior-tv2play",
+  "name": "Sej senior",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "60dc9279-4465-4046-9f78-fa2ef3e83d23",
+      "season": 1,
+      "number": 1,
+      "name": "Knud Vomb",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "026217d3-a511-43bd-80df-6786dda77e22",
+      "season": 1,
+      "number": 2,
+      "name": "Joan Andersen",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "e7556f49-5eb0-4c48-9e37-f628f25b6450",
+      "season": 1,
+      "number": 3,
+      "name": "Miriam Asvarisch",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "d4417cc4-859f-40d4-a2c7-6a90e9658082",
+      "season": 1,
+      "number": 4,
+      "name": "Holger Pii",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "4d417970-6904-434b-8617-ddad5fa4e41c",
+      "season": 1,
+      "number": 5,
+      "name": "Lis Borring",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "2810df54-5ba5-4423-9bc8-169cfbc46740",
+      "season": 1,
+      "number": 6,
+      "name": "Knud Erik Thomsen",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "ee162a0a-24d4-4341-891c-6e5d34a4e6d6",
+      "season": 1,
+      "number": 7,
+      "name": "Jørgen Marcussen",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "ae48f08f-5eff-4dd8-a160-b1b86545ad80",
+      "season": 1,
+      "number": 8,
+      "name": "Grete Rømer",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "92d5338d-555d-4559-9866-d5bd15059499",
+      "season": 1,
+      "number": 9,
+      "name": "Per Gøsta Auene Jacobsen",
+      "airdate": "2025-12-30"
+    }
+  ]
+}

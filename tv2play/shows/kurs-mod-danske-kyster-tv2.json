@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:kurs-mod-danske-kyster-tv2",
+  "name": "Kurs mod danske kyster",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "30ac4539-8793-4a00-b848-e32c71f77369",
+      "season": 1,
+      "number": 1,
+      "name": "Costa del Danmark",
+      "airdate": "2020-07-16"
+    },
+    {
+      "id": "ed9e510e-599b-4719-877a-fd65e0dd2de6",
+      "season": 1,
+      "number": 2,
+      "name": "Undervandsjagt - og en fynsk delfin",
+      "airdate": "2020-07-16"
+    },
+    {
+      "id": "c3d398c6-0b1b-4afe-883f-8e64bee28e66",
+      "season": 1,
+      "number": 3,
+      "name": "Dyk og lokal vin",
+      "airdate": "2020-07-23"
+    },
+    {
+      "id": "e3f06e62-0424-4359-b124-16fee0403c0f",
+      "season": 1,
+      "number": 4,
+      "name": "Ildsjæle, isbrydere og østers",
+      "airdate": "2020-07-30"
+    },
+    {
+      "id": "21b4281b-eb5d-4b40-9869-5c7365995009",
+      "season": 1,
+      "number": 5,
+      "name": "På togt med Kronprinsen",
+      "airdate": "2020-08-13"
+    },
+    {
+      "id": "8bb2f119-906d-42a1-9675-90e6e38e1928",
+      "season": 2,
+      "number": 1,
+      "name": "Wallenberg på toppen",
+      "airdate": "2021-07-19"
+    },
+    {
+      "id": "1e701b5e-04c9-4f6e-94ef-3237eaa12c82",
+      "season": 2,
+      "number": 2,
+      "name": "Drama under overfladen",
+      "airdate": "2021-07-26"
+    },
+    {
+      "id": "c380e6bb-a6a2-46f2-8ed5-6f3d52a0c323",
+      "season": 2,
+      "number": 3,
+      "name": "Blæst i Hvide Sande",
+      "airdate": "2021-08-02"
+    },
+    {
+      "id": "a1b50a93-1c70-4798-959b-ca369f377431",
+      "season": 2,
+      "number": 4,
+      "name": "Redningshelikopteren og Helgoland",
+      "airdate": "2021-08-09"
+    },
+    {
+      "id": "c98b0028-d9e8-4bd8-a959-746e3784f54b",
+      "season": 2,
+      "number": 5,
+      "name": "Fra Gedser til Møn",
+      "airdate": "2021-08-16"
+    },
+    {
+      "id": "ee59e049-8156-4c7a-8ddb-157b13791bd7",
+      "season": 2,
+      "number": 6,
+      "name": "Møn og Bornholm",
+      "airdate": "2021-08-23"
+    },
+    {
+      "id": "ee5e60ad-5240-4a2a-9183-7cbc25b144db",
+      "season": 2,
+      "number": 7,
+      "name": "Bornholm og Christiansø",
+      "airdate": "2021-08-30"
+    }
+  ]
+}

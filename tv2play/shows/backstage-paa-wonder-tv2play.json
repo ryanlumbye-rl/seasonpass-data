@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:backstage-paa-wonder-tv2play",
+  "name": "Backstage på Wonder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e1169913-c184-4b03-9413-4421d00a76a9",
+      "season": 1,
+      "number": 1,
+      "name": "Sofie1998",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "cdba0ae0-2bba-4228-8fa2-811feb2449d5",
+      "season": 1,
+      "number": 2,
+      "name": "Berg",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "22f943bc-0b27-49b9-8c64-5118f7c587d6",
+      "season": 1,
+      "number": 3,
+      "name": "TV-2",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "ff4c856f-997f-4bc2-803e-752a538616ec",
+      "season": 1,
+      "number": 4,
+      "name": "Søn",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "7590a83a-9b0d-49e6-8488-c882dc04b1a0",
+      "season": 1,
+      "number": 5,
+      "name": "Gobs",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "de77978e-b2de-4741-af27-a2486610c959",
+      "season": 1,
+      "number": 6,
+      "name": "Patina",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "472b55ab-4a0f-43a1-9827-28e274176cbe",
+      "season": 1,
+      "number": 7,
+      "name": "Dizzy Mizz Lizzy",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "67ced92a-2320-4485-9eae-5731aa9f32fd",
+      "season": 1,
+      "number": 8,
+      "name": "Infernal",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "0035920b-5f2f-4419-872e-c725ad1e389a",
+      "season": 1,
+      "number": 9,
+      "name": "Dodo & The Dodos",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "3b0ceea4-b27e-4775-abe0-3bf43d6a86e4",
+      "season": 1,
+      "number": 10,
+      "name": "Saveus",
+      "airdate": "2026-09-04"
+    }
+  ]
+}

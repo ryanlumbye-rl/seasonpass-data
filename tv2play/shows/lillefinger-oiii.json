@@ -1,0 +1,374 @@
+{
+  "id": "tv2play:lillefinger-oiii",
+  "name": "Lillefinger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c3b608cc-c806-447b-bc73-71b2dc2536c2",
+      "season": 1,
+      "number": 1,
+      "name": "Myren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9fe52f44-2c47-4154-9334-90fa33d19ad8",
+      "season": 1,
+      "number": 2,
+      "name": "Marmelademad",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0f330334-115e-48dd-8337-04b1fff95ee4",
+      "season": 1,
+      "number": 3,
+      "name": "Kortspillet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "22dd3c1e-5048-42c4-b59c-d715cd7ae59b",
+      "season": 1,
+      "number": 4,
+      "name": "Verdens ende",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e3c5f571-050b-41b9-8d78-503bb6541206",
+      "season": 1,
+      "number": 5,
+      "name": "Den døde bi",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "168779db-033d-40b3-9783-911ddb0c7c46",
+      "season": 1,
+      "number": 6,
+      "name": "Myrens fløjte",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cd4f15d9-70e2-4ef1-9f3b-398f4e9223d3",
+      "season": 1,
+      "number": 7,
+      "name": "Gemmeleg",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "13c3224b-8307-4edf-abc2-f6284bd580f9",
+      "season": 1,
+      "number": 8,
+      "name": "Skyer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4fb95eae-0050-40fe-9683-d0ed0005df74",
+      "season": 1,
+      "number": 9,
+      "name": "Pølsemaden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4c3938ad-3c79-4944-8cc1-941b23013998",
+      "season": 1,
+      "number": 10,
+      "name": "Søvngænger",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2135c63c-792d-4085-86d2-4d6994843eb2",
+      "season": 1,
+      "number": 11,
+      "name": "Dragen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3ca949d7-19d2-4554-8e4b-1145850b31f9",
+      "season": 1,
+      "number": 12,
+      "name": "Kaninungen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0dff3458-bf9a-472e-8533-277a2dc6b105",
+      "season": 1,
+      "number": 13,
+      "name": "Spøgelserne i huset",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7b5f20b5-aa6b-4f2e-a76a-72c5e472328f",
+      "season": 1,
+      "number": 14,
+      "name": "Træet i huset",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6c3a90f8-54d1-470a-a17e-f26411018b45",
+      "season": 1,
+      "number": 15,
+      "name": "Feber",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "fe9fbcdf-385f-4b3b-a24c-2042a2581df6",
+      "season": 1,
+      "number": 16,
+      "name": "Det store træ",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "23f6543a-693b-459c-beb9-649f06e04977",
+      "season": 1,
+      "number": 17,
+      "name": "Boldspillet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e31bb243-220f-470d-b68e-1b88424a1dec",
+      "season": 1,
+      "number": 18,
+      "name": "Myrens nye hus",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "237f7955-5917-4430-828a-7dac94cfe4b6",
+      "season": 1,
+      "number": 19,
+      "name": "Snemanden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "26b63652-c3c3-4cb7-bab3-0a83c10f3abf",
+      "season": 1,
+      "number": 20,
+      "name": "Krybbespillet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2620a59e-d8c2-44b6-9471-dcd5596b42db",
+      "season": 1,
+      "number": 21,
+      "name": "Gaven til Myren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "94ed182f-1458-402c-9e82-aa7b96971857",
+      "season": 1,
+      "number": 22,
+      "name": "På ski",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e34dbd91-a1d1-49e7-8324-46250f8d02fd",
+      "season": 1,
+      "number": 23,
+      "name": "Myrens små søskende",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "27615bc6-5875-478d-b20c-e6bb83707f6e",
+      "season": 1,
+      "number": 24,
+      "name": "For lille",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "829d4e41-76c9-4f44-be24-b04cf8856ab6",
+      "season": 1,
+      "number": 25,
+      "name": "Månen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "27464b6b-5e74-4ea7-bfc7-40384193dc97",
+      "season": 1,
+      "number": 26,
+      "name": "Havet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "64456b1d-e72d-45b2-9ab0-f2e922201ae0",
+      "season": 1,
+      "number": 27,
+      "name": "Hulen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "707c924d-634d-48ef-b792-2a3aebacd72e",
+      "season": 1,
+      "number": 28,
+      "name": "Myrens fly",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f9ced598-62e2-49a5-949c-1f004bfc6e58",
+      "season": 1,
+      "number": 29,
+      "name": "Huske-gemmeleg",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e2557631-7c6c-4e72-a73c-30fba4671ad4",
+      "season": 1,
+      "number": 30,
+      "name": "Klippesprækken",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "34289dda-3424-44c2-8a84-36da20b9f0e1",
+      "season": 1,
+      "number": 31,
+      "name": "Kongen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1c448c90-1691-4010-858f-300279ab05db",
+      "season": 1,
+      "number": 32,
+      "name": "Ødeskoven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5228e3d6-ec07-4285-806d-13a2b2d76f95",
+      "season": 1,
+      "number": 33,
+      "name": "Sommertrolddom",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3076c1bf-5274-4bbe-bde2-c6e317abe3a6",
+      "season": 1,
+      "number": 34,
+      "name": "Tågen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9a4e7491-4a16-4018-848c-d7e7fccaa8cb",
+      "season": 1,
+      "number": 35,
+      "name": "Stormfuld dag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f47f5e1f-a510-4217-b42b-5fee96b08200",
+      "season": 1,
+      "number": 36,
+      "name": "Undskyld!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4baf437d-ee9c-4f94-96b3-0bad534809d6",
+      "season": 1,
+      "number": 37,
+      "name": "Det uhyggelige",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e5c85b91-0531-4939-a2a4-c24d21d945ae",
+      "season": 1,
+      "number": 38,
+      "name": "Den skæve kasse",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "91a59dc7-762b-436b-b9ba-c1312adfc5a4",
+      "season": 1,
+      "number": 39,
+      "name": "Alene i verden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d1efb554-a895-43e6-b08e-5bd92941dc59",
+      "season": 1,
+      "number": 40,
+      "name": "På glatis",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "065f024d-eb5f-4d9b-9e84-df4b26303296",
+      "season": 1,
+      "number": 41,
+      "name": "Det frosne dyr",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "16b9e7eb-b738-4cd6-a4b3-1ffee347aa63",
+      "season": 1,
+      "number": 42,
+      "name": "Hvid, kold vinter",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "445e06b3-4c18-437a-8af1-bb3926e5efc3",
+      "season": 1,
+      "number": 43,
+      "name": "Min bedste ven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8b16cc19-8d9a-4a20-bef1-2d8c5b1e0432",
+      "season": 1,
+      "number": 44,
+      "name": "Lillebror",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e5a19754-71e4-457c-9435-d1f5ca00c246",
+      "season": 1,
+      "number": 45,
+      "name": "Det gamle år",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "806df6c5-8102-4840-9e05-5adcb436383d",
+      "season": 1,
+      "number": 46,
+      "name": "Konkurrencen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2bade336-f3fb-4334-9c80-2ccf2bbde3d5",
+      "season": 1,
+      "number": 47,
+      "name": "Påskeægget",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e6f46962-6fe4-4221-bbcf-dede4f61f034",
+      "season": 1,
+      "number": 48,
+      "name": "Lille sky",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d33aa756-dc54-42ed-a708-872aa91f82eb",
+      "season": 1,
+      "number": 49,
+      "name": "Hjælp, jeg falder!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "96264932-0c55-407f-80c2-45a4961d83de",
+      "season": 1,
+      "number": 50,
+      "name": "Marmeladetyven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "86332bc2-922e-4383-9034-cddb1c1622dc",
+      "season": 1,
+      "number": 51,
+      "name": "Hindbærret",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bcc15cd9-b79d-4724-9306-0d3e49092d24",
+      "season": 1,
+      "number": 52,
+      "name": "Fødselsdagen",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:the-act-tv2play",
+  "name": "The Act",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "aafd1e14-baa9-4b3b-8809-d453ad9705c9",
+      "season": 1,
+      "number": 1,
+      "name": "La Maison du Bon Rêve",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "230a355b-d628-472b-b424-ff53afcd5751",
+      "season": 1,
+      "number": 2,
+      "name": "Teeth",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "06543fbe-e166-4e3d-8efd-48aef7a8bb4b",
+      "season": 1,
+      "number": 3,
+      "name": "Two Wolverines",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "e497934e-ac99-42c4-bd8e-cad1560ede5c",
+      "season": 1,
+      "number": 4,
+      "name": "Stay Inside",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "4e92e77e-2bfb-47ba-8e0f-c0bb68bf074f",
+      "season": 1,
+      "number": 5,
+      "name": "Plan B",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "2c4be69c-90df-43b0-a010-0f17c327816e",
+      "season": 1,
+      "number": 6,
+      "name": "A Whole New World",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "5b90363e-4e94-46ef-8e8c-07cca17d741d",
+      "season": 1,
+      "number": 7,
+      "name": "Bonnie & Clyde",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "fec26e88-789c-4253-9031-28563e7754f6",
+      "season": 1,
+      "number": 8,
+      "name": "Free",
+      "airdate": "2026-08-11"
+    }
+  ]
+}

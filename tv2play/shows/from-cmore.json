@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:from-cmore",
+  "name": "From",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "836190d2-c6a2-44a1-be0a-6a171447eaa1",
+      "season": 1,
+      "number": 1,
+      "name": "Long Day's Journey Into Night",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "a952d2f4-e2f0-4aa9-b9fc-d2cdb89ef70e",
+      "season": 1,
+      "number": 2,
+      "name": "The Way Things Are Now",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "a4a6a145-02a0-4693-b861-3662174db24c",
+      "season": 1,
+      "number": 3,
+      "name": "Choosing Day",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "e4ef22b2-39e0-425d-94e9-7618b12fb97a",
+      "season": 1,
+      "number": 4,
+      "name": "A Rock And A Farway",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "cd6280d1-f3c7-4873-b784-6655d90721cc",
+      "season": 1,
+      "number": 5,
+      "name": "Silhouettes",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "36a4ba72-afc8-4928-b49d-97a8edd2365e",
+      "season": 1,
+      "number": 6,
+      "name": "Book 74",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "2cc6fe42-b339-40c3-b6fa-99d7fb1721ba",
+      "season": 1,
+      "number": 7,
+      "name": "All Good Things...",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "432ddfa0-8ad0-46a9-b3e5-fc002477ccf0",
+      "season": 1,
+      "number": 8,
+      "name": "Broken Windows, Open Doors",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "132c5fbb-2fd4-4f03-a686-f52a5a139936",
+      "season": 1,
+      "number": 9,
+      "name": "Into The Woods",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "44f2aafa-27b4-4822-a8f3-c3ebfb3295ad",
+      "season": 1,
+      "number": 10,
+      "name": "Oh, The Places We'll Go",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "cead2928-b099-4a8d-a7a8-cf499c01dfad",
+      "season": 2,
+      "number": 1,
+      "name": "Strangers in a Strange Land",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "ed803f18-2fed-4484-a742-d00c30aaf670",
+      "season": 2,
+      "number": 2,
+      "name": "The Kindness of Strangers",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "c88deaf6-8db8-4514-aab0-e7afa3f570bc",
+      "season": 2,
+      "number": 3,
+      "name": "Tether",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "5adc494d-b7df-45e5-955e-7624570b46cf",
+      "season": 2,
+      "number": 4,
+      "name": "This Way Gone",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "a67a9a45-864a-41d5-8ac4-8aa3b9635539",
+      "season": 2,
+      "number": 5,
+      "name": "Lullaby",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "efe9ff17-7f92-4832-950e-489eb1fa6d37",
+      "season": 2,
+      "number": 6,
+      "name": "Pas de Deux",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "b55e87ab-6e84-46fa-bf80-d903ef115fdb",
+      "season": 2,
+      "number": 7,
+      "name": "Belly of the Beast",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "306ac2f5-a5e4-4f3c-8f3e-03920a0e6b61",
+      "season": 2,
+      "number": 8,
+      "name": "Forest for the Trees",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "a6395a5d-0193-4062-a35d-0cb1797a8928",
+      "season": 2,
+      "number": 9,
+      "name": "Ball of Magic Fire",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "be2b3a59-5a0a-4250-a9ea-db83a77e66ce",
+      "season": 2,
+      "number": 10,
+      "name": "Once Upon a Time?",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "33758725-900b-4f2d-a885-d557f24d4d24",
+      "season": 3,
+      "number": 1,
+      "name": "Shatter",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "e665f67d-5f87-4a4a-a048-936da42b649c",
+      "season": 3,
+      "number": 2,
+      "name": "When we go",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "1eccf4f2-11eb-48dc-9214-53cfa47cc940",
+      "season": 3,
+      "number": 3,
+      "name": "Mouse trap",
+      "airdate": "2024-10-07"
+    },
+    {
+      "id": "1e8bc91f-7373-4244-bfbf-c799a5102603",
+      "season": 3,
+      "number": 4,
+      "name": "There and back again",
+      "airdate": "2024-10-14"
+    },
+    {
+      "id": "d014bd4b-94c9-48b0-bcc3-0313932aa43c",
+      "season": 3,
+      "number": 5,
+      "name": "The light of day",
+      "airdate": "2024-10-21"
+    },
+    {
+      "id": "75b5b99e-ab33-46e3-a7ab-52b8b6b9b6a9",
+      "season": 3,
+      "number": 6,
+      "name": "Scar tissue",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "b0dfee4b-0dd8-4cd8-a749-412068d36590",
+      "season": 3,
+      "number": 7,
+      "name": "These fragile lives",
+      "airdate": "2024-11-04"
+    },
+    {
+      "id": "cbf3d430-fa85-4f07-8af7-6666052925ed",
+      "season": 3,
+      "number": 8,
+      "name": "Thresholds",
+      "airdate": "2024-11-11"
+    },
+    {
+      "id": "3f3d4a06-136f-48a0-8db2-79168441ce61",
+      "season": 3,
+      "number": 9,
+      "name": "Revelations - del 1",
+      "airdate": "2024-11-18"
+    },
+    {
+      "id": "6769146c-ebee-4e0a-83bf-035237a736b3",
+      "season": 3,
+      "number": 10,
+      "name": "Revelations - del 2",
+      "airdate": "2024-11-25"
+    },
+    {
+      "id": "8d580996-47b3-4b75-b82c-33bb5d874d0c",
+      "season": 4,
+      "number": 1,
+      "name": "The Arrival",
+      "airdate": "2026-04-20"
+    },
+    {
+      "id": "5d3f7dda-4439-4c58-8f1f-3daffdcd57e6",
+      "season": 4,
+      "number": 2,
+      "name": "Fray",
+      "airdate": "2026-04-27"
+    },
+    {
+      "id": "780cb837-c038-4fb8-afec-3672197feff8",
+      "season": 4,
+      "number": 3,
+      "name": "Merrily We Go",
+      "airdate": "2026-05-04"
+    },
+    {
+      "id": "a49b904d-f90a-407a-842b-edebb82a5c94",
+      "season": 4,
+      "number": 4,
+      "name": "Of Myths and Monsters",
+      "airdate": "2026-05-11"
+    },
+    {
+      "id": "5780191d-0812-4b32-865d-eaa56f03acca",
+      "season": 4,
+      "number": 5,
+      "name": "What A Long Strange Trip It's Been",
+      "airdate": "2026-05-18"
+    },
+    {
+      "id": "c265d97e-bb69-4c7f-a707-e9a457a0222d",
+      "season": 4,
+      "number": 6,
+      "name": "The Heart Is A Lonely Hunter",
+      "airdate": "2026-06-01"
+    },
+    {
+      "id": "e852f340-0613-4f26-8fc6-c75b44dd7443",
+      "season": 4,
+      "number": 7,
+      "name": "Best Laid Plans",
+      "airdate": "2026-06-09"
+    },
+    {
+      "id": "80fe94fe-59cd-4600-aec4-8bb8f6a4e8d6",
+      "season": 4,
+      "number": 8,
+      "name": "Heavy is the Head",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "1098f28b-5365-436d-ab8b-6e1812543436",
+      "season": 4,
+      "number": 9,
+      "name": "The Calm Before",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "5b684df8-18d8-4ddb-83fa-06b484464b7d",
+      "season": 4,
+      "number": 10,
+      "name": "If a Tree Falls in the Forest",
+      "airdate": "2026-06-29"
+    }
+  ]
+}

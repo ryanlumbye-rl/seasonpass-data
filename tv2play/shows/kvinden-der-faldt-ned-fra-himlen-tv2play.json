@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:kvinden-der-faldt-ned-fra-himlen-tv2play",
+  "name": "Kvinden der faldt ned fra himlen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "569737f7-af2b-40bb-8bd7-1ff47e2b0f58",
+      "season": 1,
+      "number": 1,
+      "name": "Farligt fald",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "436992a0-9763-4b47-877b-7ed35c036cbc",
+      "season": 1,
+      "number": 2,
+      "name": "Mand på fri fod",
+      "airdate": "2024-07-14"
+    },
+    {
+      "id": "904c8ab4-85c2-4bcf-966b-7ca8635631d8",
+      "season": 1,
+      "number": 3,
+      "name": "Manipulationens mester",
+      "airdate": "2024-07-21"
+    }
+  ]
+}

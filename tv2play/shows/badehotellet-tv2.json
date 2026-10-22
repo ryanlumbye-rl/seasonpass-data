@@ -1,0 +1,458 @@
+{
+  "id": "tv2play:badehotellet-tv2",
+  "name": "Badehotellet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0ca8ce1e-222d-403e-a669-acd871abc819",
+      "season": 1,
+      "number": 1,
+      "name": "En sommer ved Vesterhavet",
+      "airdate": "2013-12-30"
+    },
+    {
+      "id": "189a1e3e-395b-4110-8be0-2b2de3cdc465",
+      "season": 1,
+      "number": 2,
+      "name": "Herrebesøg",
+      "airdate": "2014-01-06"
+    },
+    {
+      "id": "b683087a-0368-4a47-a4c3-ff38cfec10a5",
+      "season": 1,
+      "number": 3,
+      "name": "Fatale følger",
+      "airdate": "2014-01-13"
+    },
+    {
+      "id": "391ade80-3f82-4e16-9a3f-4711e09dd043",
+      "season": 1,
+      "number": 4,
+      "name": "Stormen raser",
+      "airdate": "2014-01-27"
+    },
+    {
+      "id": "5c014ee6-4d36-41cf-bcbe-4a82f9fc7eb5",
+      "season": 1,
+      "number": 5,
+      "name": "Eventyr i sommernatten",
+      "airdate": "2014-02-03"
+    },
+    {
+      "id": "92a8e2c5-ba68-4b09-ba5a-a616365787a3",
+      "season": 1,
+      "number": 6,
+      "name": "Slutningen på sæsonen",
+      "airdate": "2014-02-10"
+    },
+    {
+      "id": "d32c60e4-65c1-4332-b519-58d1d9e771a5",
+      "season": 2,
+      "number": 1,
+      "name": "Amandas valg",
+      "airdate": "2015-01-05"
+    },
+    {
+      "id": "ed9657dd-a11e-4b2e-9976-5a880914e141",
+      "season": 2,
+      "number": 2,
+      "name": "Den store fest",
+      "airdate": "2015-01-12"
+    },
+    {
+      "id": "445cb39f-e667-4383-8cc5-ea5c754166ef",
+      "season": 2,
+      "number": 3,
+      "name": "Sønnen fra Amerika",
+      "airdate": "2015-01-26"
+    },
+    {
+      "id": "eece995e-35c9-49a7-8f4a-94dfa4366061",
+      "season": 2,
+      "number": 4,
+      "name": "Kærlighed",
+      "airdate": "2015-02-02"
+    },
+    {
+      "id": "5b368ace-ae1c-4c55-b65d-76a581f788cc",
+      "season": 2,
+      "number": 5,
+      "name": "Salgsaftalen",
+      "airdate": "2015-02-09"
+    },
+    {
+      "id": "1bbd7d42-db37-48cb-a7cb-5744b1fe6b91",
+      "season": 2,
+      "number": 6,
+      "name": "Sandhedens time",
+      "airdate": "2015-02-16"
+    },
+    {
+      "id": "0aa77337-213f-4b9f-9f0f-2ab53eee21f6",
+      "season": 2,
+      "number": 7,
+      "name": "Stormen",
+      "airdate": "2015-02-23"
+    },
+    {
+      "id": "6b65bbdf-cc8c-4b7a-b804-836a1f24491b",
+      "season": 3,
+      "number": 1,
+      "name": "Amandas gæster",
+      "airdate": "2015-12-21"
+    },
+    {
+      "id": "8c005648-3204-4b00-a289-eaaaf4b68704",
+      "season": 3,
+      "number": 2,
+      "name": "Vagabonden",
+      "airdate": "2015-12-28"
+    },
+    {
+      "id": "a6ac745a-4967-44a6-9f11-acbb51372b63",
+      "season": 3,
+      "number": 3,
+      "name": "Fru Madsens smykker",
+      "airdate": "2016-01-04"
+    },
+    {
+      "id": "58c248de-81b5-40a7-a990-f94cb1b663af",
+      "season": 3,
+      "number": 4,
+      "name": "Strandvaskeren",
+      "airdate": "2016-01-18"
+    },
+    {
+      "id": "177f3554-9f02-4321-a819-74f6e34ba0b4",
+      "season": 3,
+      "number": 5,
+      "name": "Stauning",
+      "airdate": "2016-01-25"
+    },
+    {
+      "id": "ca4eed7a-e325-4074-b2c6-c30a0ae61883",
+      "season": 3,
+      "number": 6,
+      "name": "Kortene på bordet",
+      "airdate": "2016-02-01"
+    },
+    {
+      "id": "6a91b4e4-c508-452e-aed3-6aeb9becab5a",
+      "season": 3,
+      "number": 7,
+      "name": "Fodspor fra havet",
+      "airdate": "2016-02-08"
+    },
+    {
+      "id": "bd3fe39d-2645-4b81-8505-3f927da70172",
+      "season": 4,
+      "number": 1,
+      "name": "Midsommernatten",
+      "airdate": "2017-01-01"
+    },
+    {
+      "id": "8eeba8e3-49cb-41cc-b37f-c26588b63291",
+      "season": 4,
+      "number": 2,
+      "name": "Weyses forbandelse",
+      "airdate": "2017-01-01"
+    },
+    {
+      "id": "f86aa52c-3200-4399-b4ee-520213a58945",
+      "season": 4,
+      "number": 3,
+      "name": "Et galehus",
+      "airdate": "2017-01-01"
+    },
+    {
+      "id": "bf442e82-3a10-4bce-98fa-e7365a72010a",
+      "season": 4,
+      "number": 4,
+      "name": "Feriebarnet",
+      "airdate": "2017-01-01"
+    },
+    {
+      "id": "d8450abb-3b28-40f8-a035-8a0c94c7d085",
+      "season": 4,
+      "number": 5,
+      "name": "Ikke lutter lagkage",
+      "airdate": "2017-01-01"
+    },
+    {
+      "id": "3945a45d-a931-42c7-b48f-3c2db537e246",
+      "season": 4,
+      "number": 6,
+      "name": "Skybrud",
+      "airdate": "2017-01-01"
+    },
+    {
+      "id": "752d47d3-bccc-4ff9-9510-fd4dc55b8cc3",
+      "season": 4,
+      "number": 7,
+      "name": "Til salg",
+      "airdate": "2017-01-01"
+    },
+    {
+      "id": "7d1d0601-20e9-432b-b3b9-1316fe7f383b",
+      "season": 5,
+      "number": 1,
+      "name": "De nye gæster",
+      "airdate": "2018-02-12"
+    },
+    {
+      "id": "60d76a86-c1f0-4df2-af30-2ab73825594e",
+      "season": 5,
+      "number": 2,
+      "name": "Anes hemmelighed",
+      "airdate": "2018-02-12"
+    },
+    {
+      "id": "4d768a6e-a260-41a0-ad87-6f29706098c7",
+      "season": 5,
+      "number": 3,
+      "name": "Alle mine længsler",
+      "airdate": "2018-02-19"
+    },
+    {
+      "id": "eaa4419f-b994-4ae8-9f60-672cdef7d631",
+      "season": 5,
+      "number": 4,
+      "name": "Hugormen",
+      "airdate": "2018-02-26"
+    },
+    {
+      "id": "0eaf264e-5df4-4cdd-89e0-f2db5975389d",
+      "season": 5,
+      "number": 5,
+      "name": "Besøg sydfra",
+      "airdate": "2018-03-05"
+    },
+    {
+      "id": "6d452da6-5f03-4f39-81a5-63039f0b7c30",
+      "season": 5,
+      "number": 6,
+      "name": "En kærlighedshistorie",
+      "airdate": "2018-03-12"
+    },
+    {
+      "id": "ea43370a-7976-43f5-bdc1-5f97fd0ba6e2",
+      "season": 6,
+      "number": 1,
+      "name": "Velkommen hjem",
+      "airdate": "2019-01-28"
+    },
+    {
+      "id": "df281a76-ceaf-49f9-baa0-3023f7c4d4b1",
+      "season": 6,
+      "number": 2,
+      "name": "En lykkelig barndom",
+      "airdate": "2019-01-28"
+    },
+    {
+      "id": "52ef43f8-3f83-44f4-998f-66d721754b7b",
+      "season": 6,
+      "number": 3,
+      "name": "Den fremmede",
+      "airdate": "2019-02-04"
+    },
+    {
+      "id": "88c0e02e-5478-4498-900e-c67c4116a6f9",
+      "season": 6,
+      "number": 4,
+      "name": "Nye planer",
+      "airdate": "2019-02-11"
+    },
+    {
+      "id": "b139670e-96b4-4d73-8152-19e5bea86dd7",
+      "season": 6,
+      "number": 5,
+      "name": "Soldaten",
+      "airdate": "2019-02-18"
+    },
+    {
+      "id": "06d6423f-439c-4476-bd14-bf8aced6d2e4",
+      "season": 6,
+      "number": 6,
+      "name": "En ny begyndelse",
+      "airdate": "2019-02-25"
+    },
+    {
+      "id": "01ad7ced-d339-4f62-a0e8-498081baf8ff",
+      "season": 7,
+      "number": 1,
+      "name": "Ingen tyskere her",
+      "airdate": "2020-01-27"
+    },
+    {
+      "id": "98d5a789-fd4c-4715-970d-1f705ff456b7",
+      "season": 7,
+      "number": 2,
+      "name": "Samarbejde",
+      "airdate": "2020-01-27"
+    },
+    {
+      "id": "4a02cf26-8f9f-4c19-a8cd-8e577011df49",
+      "season": 7,
+      "number": 3,
+      "name": "Sommer, See und Sonnenschein",
+      "airdate": "2020-02-02"
+    },
+    {
+      "id": "fecf3b01-998c-413f-9230-8926bb34c0b0",
+      "season": 7,
+      "number": 4,
+      "name": "Alsang og hærværk",
+      "airdate": "2020-02-09"
+    },
+    {
+      "id": "abcf0891-42d8-49c6-a231-d1160dd6229c",
+      "season": 7,
+      "number": 5,
+      "name": "En herre fra København",
+      "airdate": "2020-02-16"
+    },
+    {
+      "id": "0d8cf4d0-67cd-4182-83a5-3437f35fab02",
+      "season": 7,
+      "number": 6,
+      "name": "Besat",
+      "airdate": "2020-02-23"
+    },
+    {
+      "id": "8a142b74-5a7b-41bf-8d40-59de3e1f6c3d",
+      "season": 8,
+      "number": 1,
+      "name": "Det taler vi ikke om",
+      "airdate": "2021-02-01"
+    },
+    {
+      "id": "20913b9d-ae0b-40a2-88aa-531b4a8e5787",
+      "season": 8,
+      "number": 2,
+      "name": "Chokolade og flødeskum",
+      "airdate": "2021-02-01"
+    },
+    {
+      "id": "f90c907a-56b7-443b-9e56-c089e9938011",
+      "season": 8,
+      "number": 3,
+      "name": "Brevet",
+      "airdate": "2021-02-07"
+    },
+    {
+      "id": "e92119fd-89f6-4b75-929a-1f04115dbca5",
+      "season": 8,
+      "number": 4,
+      "name": "Noget for noget",
+      "airdate": "2021-02-14"
+    },
+    {
+      "id": "26ff85bb-157c-410a-875d-5dd2297c812c",
+      "season": 8,
+      "number": 5,
+      "name": "Søminen",
+      "airdate": "2021-02-21"
+    },
+    {
+      "id": "fa9f67bc-c9f2-47c6-b417-35719bd7b5bb",
+      "season": 9,
+      "number": 1,
+      "name": "It's been a long, long time",
+      "airdate": "2022-02-06"
+    },
+    {
+      "id": "73be48a2-a339-414d-9306-6d51dacaff69",
+      "season": 9,
+      "number": 2,
+      "name": "Frida",
+      "airdate": "2022-02-06"
+    },
+    {
+      "id": "284200e7-0923-4ee6-9e91-51373670c9cd",
+      "season": 9,
+      "number": 3,
+      "name": "Dametur",
+      "airdate": "2022-02-13"
+    },
+    {
+      "id": "98a4fa2a-9a51-4a36-9673-1f2f84eb7476",
+      "season": 9,
+      "number": 4,
+      "name": "Weyse får nok",
+      "airdate": "2022-02-20"
+    },
+    {
+      "id": "5ee2d63f-adac-4013-b188-92c8caa00d59",
+      "season": 9,
+      "number": 5,
+      "name": "Afsked og gensyn",
+      "airdate": "2022-02-27"
+    },
+    {
+      "id": "46d94e5d-89e8-4a04-977f-165c9f908fb3",
+      "season": 10,
+      "number": 1,
+      "name": "Hjemve",
+      "airdate": "2024-03-03"
+    },
+    {
+      "id": "a7f86f78-43cb-40be-93ba-4986c24dafba",
+      "season": 10,
+      "number": 2,
+      "name": "No business like showbusiness",
+      "airdate": "2024-03-10"
+    },
+    {
+      "id": "cdcbe66d-cd41-4f02-bd8a-f82be959ef42",
+      "season": 10,
+      "number": 3,
+      "name": "Hemmeligheder",
+      "airdate": "2024-03-17"
+    },
+    {
+      "id": "bb3563a8-de3d-4470-8afd-3ec1e9707105",
+      "season": 10,
+      "number": 4,
+      "name": "Regn, regn, regn",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "b740d1b7-1b42-4753-bf33-140cf54cfdc5",
+      "season": 10,
+      "number": 5,
+      "name": "Modstand og håb",
+      "airdate": "2024-03-31"
+    },
+    {
+      "id": "1c8c9f97-02a3-438b-af6e-49ef683a8971",
+      "season": 10,
+      "number": 6,
+      "name": "Køb, salg og Rosita",
+      "airdate": "2024-04-07"
+    },
+    {
+      "id": "1d619b7e-8d49-438c-bff4-c6e31875091e",
+      "season": 10,
+      "number": 7,
+      "name": "Small changes",
+      "airdate": "2024-04-14"
+    },
+    {
+      "id": "baa7fae6-1b71-4629-8d45-c494a1fffcd2",
+      "season": 10,
+      "number": 8,
+      "name": "If you want the rainbow",
+      "airdate": "2024-04-21"
+    },
+    {
+      "id": "150a8790-79c5-4d43-8ddf-e489bb8a0e67",
+      "season": 10,
+      "number": 9,
+      "name": "At komme hjem",
+      "airdate": "2024-04-28"
+    }
+  ]
+}

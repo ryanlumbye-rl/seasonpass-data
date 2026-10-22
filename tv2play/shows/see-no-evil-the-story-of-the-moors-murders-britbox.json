@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:see-no-evil-the-story-of-the-moors-murders-britbox",
+  "name": "See No Evil: The Story of the Moors Murders",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a38c5779-283a-44ae-818b-94897010a0c8",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-09"
+    },
+    {
+      "id": "dc7320dd-5c16-41e8-942f-72cc80a64b0f",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-09"
+    }
+  ]
+}

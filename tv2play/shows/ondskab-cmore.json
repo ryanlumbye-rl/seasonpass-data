@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:ondskab-cmore",
+  "name": "Ondskab",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c8016a19-1af5-453b-adc9-afd9f5afc134",
+      "season": 1,
+      "number": 1,
+      "name": "Ny start",
+      "airdate": "2023-11-02"
+    },
+    {
+      "id": "7ed9e976-1a61-46fe-abc0-159175547e32",
+      "season": 1,
+      "number": 2,
+      "name": "Sammenstød",
+      "airdate": "2023-11-02"
+    },
+    {
+      "id": "26bb0c12-a8b6-41cc-8240-19317db27d80",
+      "season": 1,
+      "number": 3,
+      "name": "Magtkamp",
+      "airdate": "2023-11-09"
+    },
+    {
+      "id": "1999e831-0a5b-4b13-ab41-cb5e218d6fd9",
+      "season": 1,
+      "number": 4,
+      "name": "Balancegang",
+      "airdate": "2023-11-16"
+    },
+    {
+      "id": "a5b44a9b-ed19-43b7-b46e-fef18a1b46ed",
+      "season": 1,
+      "number": 5,
+      "name": "Mesterskab",
+      "airdate": "2023-11-23"
+    },
+    {
+      "id": "f0344380-4414-4c20-b32a-fabace8877f8",
+      "season": 1,
+      "number": 6,
+      "name": "Finale",
+      "airdate": "2023-11-30"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:until-i-kill-you-britbox",
+  "name": "Until I Kill You",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5d990caa-263d-4690-bb66-6bbab89a855b",
+      "season": 1,
+      "number": 1,
+      "name": "Love",
+      "airdate": "2024-11-13"
+    },
+    {
+      "id": "d5f4d7a2-a531-45ef-a808-843b4553072d",
+      "season": 1,
+      "number": 2,
+      "name": "Hate",
+      "airdate": "2024-11-20"
+    },
+    {
+      "id": "de2df3d7-d193-490c-a2c2-b5331cdb746c",
+      "season": 1,
+      "number": 3,
+      "name": "Healing",
+      "airdate": "2024-11-27"
+    },
+    {
+      "id": "8e8e4f95-ea1d-47fa-8c00-eb574e37e41f",
+      "season": 1,
+      "number": 4,
+      "name": "Justice",
+      "airdate": "2024-12-04"
+    }
+  ]
+}

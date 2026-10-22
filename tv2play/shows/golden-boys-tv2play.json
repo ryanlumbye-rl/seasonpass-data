@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:golden-boys-tv2play",
+  "name": "Golden Boys",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "95c58938-c664-439b-8417-9afaec30987e",
+      "season": 1,
+      "number": 1,
+      "name": "En ny plan",
+      "airdate": "2026-05-01"
+    },
+    {
+      "id": "8dcff2e9-c1ff-4e77-8d7d-b90ef28aed64",
+      "season": 1,
+      "number": 2,
+      "name": "Tyveriet",
+      "airdate": "2026-05-01"
+    },
+    {
+      "id": "d9cb136d-b70e-4387-8cb7-3fa470586980",
+      "season": 1,
+      "number": 3,
+      "name": "Artiklen",
+      "airdate": "2026-05-08"
+    },
+    {
+      "id": "f70e5670-bb6a-463d-84da-29465f691bae",
+      "season": 1,
+      "number": 4,
+      "name": "På dybt vand",
+      "airdate": "2026-05-15"
+    }
+  ]
+}

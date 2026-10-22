@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:sebastians-sidste-rejse-tv2play",
+  "name": "Sebastians sidste rejse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d2293bd8-c6e1-46d6-b68b-a2dd26d1a2fa",
+      "season": 1,
+      "number": 1,
+      "name": "Et år tilbage",
+      "airdate": "2026-08-09"
+    },
+    {
+      "id": "3ed5a763-7d2a-43a2-ab94-c1506334f5f3",
+      "season": 1,
+      "number": 2,
+      "name": "Trance i Zanzibar",
+      "airdate": "2026-08-16"
+    },
+    {
+      "id": "b4c7e7fe-530b-4e21-b979-60badad57b4a",
+      "season": 1,
+      "number": 3,
+      "name": "Sort magi i Rumænien",
+      "airdate": "2026-08-23"
+    },
+    {
+      "id": "7f8f8254-7327-411c-be49-ef36465edcfe",
+      "season": 1,
+      "number": 4,
+      "name": "Et håndtag til kisten",
+      "airdate": "2026-08-30"
+    },
+    {
+      "id": "64427ea8-4d65-4f0e-a119-b6b960d35785",
+      "season": 1,
+      "number": 5,
+      "name": "Land i sigte",
+      "airdate": "2026-09-06"
+    }
+  ]
+}

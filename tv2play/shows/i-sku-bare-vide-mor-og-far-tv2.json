@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:i-sku-bare-vide-mor-og-far-tv2",
+  "name": "I sku’ bare vide, mor og far",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-27",
+  "episodes": [
+    {
+      "id": "bd220c7d-3d35-461c-8cad-38c8d23b4d27",
+      "season": 1,
+      "number": 1,
+      "name": "Christians knude i maven",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "575fa325-b76c-4e31-ad48-bac55778c32f",
+      "season": 1,
+      "number": 2,
+      "name": "Lauras hemmelige håb",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "07863afe-e621-43bd-83d9-c7629b90d431",
+      "season": 1,
+      "number": 3,
+      "name": "Alicas dårlige samvittighed",
+      "airdate": "2026-10-27"
+    }
+  ]
+}

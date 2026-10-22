@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:i-haven-med-anja-tv2fri",
+  "name": "I haven med Anja",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "45a6a296-6dae-4ae0-a482-70035bc9ff37",
+      "season": 1,
+      "number": 1,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-04"
+    },
+    {
+      "id": "151dbeb9-9049-4552-8df6-529c912bf5d2",
+      "season": 1,
+      "number": 2,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-05"
+    },
+    {
+      "id": "ebf87c3c-3e1c-4d76-a1cf-93373d5c737e",
+      "season": 1,
+      "number": 3,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-06"
+    },
+    {
+      "id": "9701b522-5819-43e0-9721-5857e41c7279",
+      "season": 1,
+      "number": 4,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-07"
+    },
+    {
+      "id": "e70a2139-003d-48e2-8ac2-1451ce3f7bb8",
+      "season": 1,
+      "number": 5,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-11"
+    },
+    {
+      "id": "01c43b44-7cd5-4420-80d7-7631ee2db70a",
+      "season": 1,
+      "number": 6,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-12"
+    },
+    {
+      "id": "858f84a9-a42e-4eaa-b715-c899f06fad9b",
+      "season": 1,
+      "number": 7,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-13"
+    },
+    {
+      "id": "cba07508-c32b-4c79-bf6d-490b1e70cc14",
+      "season": 1,
+      "number": 8,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-14"
+    },
+    {
+      "id": "226666db-bd3b-4da3-9bc8-591c58c9c833",
+      "season": 1,
+      "number": 9,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-18"
+    },
+    {
+      "id": "483304fe-6bb3-42dd-852b-cd82cda4ee4d",
+      "season": 1,
+      "number": 10,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-19"
+    },
+    {
+      "id": "07e33e3a-71f2-41ff-8292-c08b5f733f42",
+      "season": 1,
+      "number": 11,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-20"
+    },
+    {
+      "id": "0214cd14-4d58-4721-866f-c045c3b40981",
+      "season": 1,
+      "number": 12,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-21"
+    },
+    {
+      "id": "cbc8ab74-7235-4a4f-bafd-14133b1af0dc",
+      "season": 1,
+      "number": 13,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-25"
+    },
+    {
+      "id": "b060066b-8d08-4c7a-b49c-a87b746a7978",
+      "season": 1,
+      "number": 14,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-26"
+    },
+    {
+      "id": "ab64596f-02a1-44e6-b3c0-2440ee4ae12f",
+      "season": 1,
+      "number": 15,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-27"
+    },
+    {
+      "id": "871414ef-4f81-4610-aabb-f6927ac8c04a",
+      "season": 1,
+      "number": 16,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-05-28"
+    },
+    {
+      "id": "53d5dd9e-ceee-4a46-a40f-81cc6994b171",
+      "season": 1,
+      "number": 17,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-06-01"
+    },
+    {
+      "id": "21ca5f63-d595-450d-a569-231e9fdbe744",
+      "season": 1,
+      "number": 18,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-06-02"
+    },
+    {
+      "id": "6d3d2d92-a008-4e88-accc-b4f58a18421d",
+      "season": 1,
+      "number": 19,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-06-03"
+    },
+    {
+      "id": "cc743da3-def4-4c23-a0c0-2f8987e3fa77",
+      "season": 1,
+      "number": 20,
+      "name": "Tips og tricks til haven",
+      "airdate": "2015-06-04"
+    }
+  ]
+}

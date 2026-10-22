@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:du-maa-ikke-blive-for-dansk-tv2",
+  "name": "Du må ikke blive for dansk",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9e8a9bc0-2908-480e-99ea-01490063978c",
+      "season": 1,
+      "number": 1,
+      "name": "Forsvundet sporløst",
+      "airdate": "2026-08-19"
+    },
+    {
+      "id": "b44ff3ce-4bc3-4873-aa95-86857119d7a6",
+      "season": 1,
+      "number": 2,
+      "name": "Kender han sandheden om Hawras forsvinden?",
+      "airdate": "2026-08-19"
+    }
+  ]
+}

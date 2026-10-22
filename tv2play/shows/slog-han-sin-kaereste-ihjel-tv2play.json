@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:slog-han-sin-kaereste-ihjel-tv2play",
+  "name": "Slog han sin kæreste ihjel?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "63068bba-6153-4b84-b150-d6a86d17f8eb",
+      "season": 1,
+      "number": 1,
+      "name": "Drabet på Shetlandsøerne",
+      "airdate": "2026-07-20"
+    },
+    {
+      "id": "949ef935-573a-4ea5-aa5a-8576338144a7",
+      "season": 1,
+      "number": 2,
+      "name": "I vidneskranken",
+      "airdate": "2026-07-20"
+    }
+  ]
+}

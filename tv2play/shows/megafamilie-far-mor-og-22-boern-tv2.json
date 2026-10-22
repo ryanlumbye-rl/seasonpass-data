@@ -1,0 +1,269 @@
+{
+  "id": "tv2play:megafamilie-far-mor-og-22-boern-tv2",
+  "name": "Megafamilie - far, mor og 22 børn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "01cbd1be-8678-4737-b936-23db1cc09b00",
+      "season": 1,
+      "number": 1,
+      "name": "21 børn og en ny på vej",
+      "airdate": "2021-07-20"
+    },
+    {
+      "id": "6aef3406-7689-4bbe-ac8e-4a1862591bd5",
+      "season": 1,
+      "number": 2,
+      "name": "En helt ny skolestart",
+      "airdate": "2021-07-20"
+    },
+    {
+      "id": "cc6992e9-7529-4cbf-a743-d808282bfee1",
+      "season": 1,
+      "number": 3,
+      "name": "Babyshower",
+      "airdate": "2021-07-27"
+    },
+    {
+      "id": "8ede9ce4-a169-4125-95ce-9a3a9a516282",
+      "season": 1,
+      "number": 4,
+      "name": "Teenage-kaos",
+      "airdate": "2021-08-03"
+    },
+    {
+      "id": "3a65910e-68fc-465e-87f0-cc996757e298",
+      "season": 2,
+      "number": 1,
+      "name": "Store planer",
+      "airdate": "2022-04-04"
+    },
+    {
+      "id": "6f4fef92-5a6e-4de4-b21c-118e380797e6",
+      "season": 2,
+      "number": 2,
+      "name": "Er 22 børn nok?",
+      "airdate": "2022-04-04"
+    },
+    {
+      "id": "a1585d7b-a6e0-4d1b-90a4-3b5fed08fddf",
+      "season": 2,
+      "number": 3,
+      "name": "Ud på tur",
+      "airdate": "2022-04-11"
+    },
+    {
+      "id": "7b6e2a6e-79da-4a0a-a000-2a82f727b280",
+      "season": 2,
+      "number": 4,
+      "name": "Ude godt, hjemme bedst",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "8aa7d73b-7b31-43f5-8478-bbc02de1040e",
+      "season": 2,
+      "number": 5,
+      "name": "Dobbeltbarnedåb",
+      "airdate": "2022-04-25"
+    },
+    {
+      "id": "3f367cb2-f0a9-4d9a-873d-e274c4597fc1",
+      "season": 2,
+      "number": 6,
+      "name": "Tærte-battle",
+      "airdate": "2022-05-02"
+    },
+    {
+      "id": "c5e060aa-3a39-476c-b6ba-ee7f9311ba7e",
+      "season": 2,
+      "number": 7,
+      "name": "Hvor er Hallie og Phoebe?",
+      "airdate": "2022-05-09"
+    },
+    {
+      "id": "53cf63a3-7429-4091-9998-5af5f1eba0a7",
+      "season": 2,
+      "number": 8,
+      "name": "En stor chance",
+      "airdate": "2022-05-16"
+    },
+    {
+      "id": "564c7f76-c0d6-469d-aa83-5f0e0acde378",
+      "season": 2,
+      "number": 9,
+      "name": "Masser af nyheder",
+      "airdate": "2022-05-23"
+    },
+    {
+      "id": "ee52dd16-d4f4-4dc4-aa8f-eafd0e79c6a7",
+      "season": 2,
+      "number": 10,
+      "name": "Jul i Finland",
+      "airdate": "2022-05-30"
+    },
+    {
+      "id": "e85564bc-0b5f-472e-bde4-99e410188172",
+      "season": 4,
+      "number": 1,
+      "name": "Jul",
+      "airdate": "2024-02-22"
+    },
+    {
+      "id": "d87132ec-2d13-4901-8d08-f97b1b0c1193",
+      "season": 4,
+      "number": 2,
+      "name": "Alt på spil",
+      "airdate": "2024-02-29"
+    },
+    {
+      "id": "28dd67f7-2fca-4450-98ff-e27d56ad6e4f",
+      "season": 4,
+      "number": 3,
+      "name": "En ny begyndelse",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "5006ce0b-9ab2-455f-8065-9d38209fc8a6",
+      "season": 4,
+      "number": 4,
+      "name": "Kræftens grimme ansigt",
+      "airdate": "2024-03-14"
+    },
+    {
+      "id": "b142d393-c1a3-440a-a110-f144cea28b75",
+      "season": 4,
+      "number": 5,
+      "name": "Parproblemer",
+      "airdate": "2024-03-21"
+    },
+    {
+      "id": "d7b365a7-8251-4b20-80ff-f5a7587e0000",
+      "season": 4,
+      "number": 6,
+      "name": "Opdragelse på spil",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "ad93985c-9571-4a91-a26f-3a0a915dfcf1",
+      "season": 5,
+      "number": 1,
+      "name": "Ikke efter planen",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "021684b8-9867-4944-ad63-cfda13580f15",
+      "season": 5,
+      "number": 2,
+      "name": "Midtvejskrise",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "61ead619-eea0-44c7-90a8-cc2b85202a6a",
+      "season": 5,
+      "number": 3,
+      "name": "Pigetur til Amsterdam",
+      "airdate": "2024-11-04"
+    },
+    {
+      "id": "3cc57acb-4233-474e-882d-a976b1c432e4",
+      "season": 5,
+      "number": 4,
+      "name": "Frygt i familien",
+      "airdate": "2024-11-05"
+    },
+    {
+      "id": "659ca783-7adf-47a1-b5a6-526389651d8b",
+      "season": 5,
+      "number": 5,
+      "name": "En vigtig operation",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "60437795-c87e-47ea-a7bc-d28690fdc0c2",
+      "season": 5,
+      "number": 6,
+      "name": "En svær beslutning",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "adcb3e42-8289-479e-b7bb-5d535060484e",
+      "season": 6,
+      "number": 1,
+      "name": "Det store bryllup - del 1",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "0443134f-b554-4294-a11f-94b347c79b36",
+      "season": 6,
+      "number": 2,
+      "name": "Det store bryllup - del 2",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "7f0210e7-a598-400e-88ab-2f4902beee15",
+      "season": 6,
+      "number": 3,
+      "name": "Katies baby",
+      "airdate": "2025-12-04"
+    },
+    {
+      "id": "26027569-d3c1-494f-b911-731ab9d30755",
+      "season": 6,
+      "number": 4,
+      "name": "Stilhed før storm",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "acac91b9-a116-4e37-bd65-6ec679a7fcbc",
+      "season": 6,
+      "number": 5,
+      "name": "Jagten på mor",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "f14224da-44d7-4453-80ab-fc56d6ded8eb",
+      "season": 7,
+      "number": 1,
+      "name": "Familien Walkers",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "1cb4bc1a-5f00-444c-9bbd-6e938bda9424",
+      "season": 7,
+      "number": 2,
+      "name": "Når fuglene flyver fra reden",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "41eb7ea9-876a-4e93-8890-427a45f9e306",
+      "season": 7,
+      "number": 3,
+      "name": "Chloe",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "42c9e24e-0298-4a4a-b167-cb6c61dd29d2",
+      "season": 7,
+      "number": 4,
+      "name": "Fuldend min familie",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "bbb71da4-a834-4daa-81d5-6dde78f7900a",
+      "season": 7,
+      "number": 5,
+      "name": "50 og stadig skøn",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "f342c07d-e48f-4108-8d77-04972a6cbd68",
+      "season": 7,
+      "number": 6,
+      "name": "Vild weekend",
+      "airdate": "2025-12-18"
+    }
+  ]
+}

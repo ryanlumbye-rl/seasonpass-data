@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:sygeplejeskolen-tv2play",
+  "name": "Sygeplejeskolen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ef875eb1-940e-4f32-966a-c5c196edac6f",
+      "season": 8,
+      "number": 1,
+      "name": "Knuste drømme",
+      "airdate": "2026-10-25"
+    }
+  ]
+}

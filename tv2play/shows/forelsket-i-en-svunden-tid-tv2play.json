@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:forelsket-i-en-svunden-tid-tv2play",
+  "name": "Forelsket i en svunden tid",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6f8239da-266a-4d8c-a725-fd7aea2ed603",
+      "season": 1,
+      "number": 1,
+      "name": "Historien bliver levende",
+      "airdate": "2026-10-05"
+    },
+    {
+      "id": "0820e170-b67c-47be-8810-feffc62277c1",
+      "season": 1,
+      "number": 2,
+      "name": "De første pionerer",
+      "airdate": "2026-10-12"
+    },
+    {
+      "id": "5a0bc6b7-da1c-40af-acc7-3865c6cf4d8d",
+      "season": 1,
+      "number": 3,
+      "name": "Middelalderen som levebrød",
+      "airdate": "2026-10-19"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:livet-ovre-tv2bornholm",
+  "name": "Livet ovre",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "889b1c07-fa95-4ffd-9d82-d051c6acd6fd",
+      "season": 1,
+      "number": 1,
+      "name": "Fra Svaneke til Vesterbro",
+      "airdate": "2025-07-04"
+    },
+    {
+      "id": "685d2834-b722-440b-9f99-d20e471f0c8f",
+      "season": 1,
+      "number": 2,
+      "name": "Fra Allinge til Christianshavn",
+      "airdate": "2025-07-04"
+    },
+    {
+      "id": "621d53d2-368b-4a39-b62e-61b93cbcb6cd",
+      "season": 1,
+      "number": 3,
+      "name": "Fra Rønne til Vesterbro",
+      "airdate": "2025-07-04"
+    },
+    {
+      "id": "3e9e7b9c-b886-4dea-b8cf-c07b09ec91d4",
+      "season": 1,
+      "number": 4,
+      "name": "Fra Rønne til Christianshavn",
+      "airdate": "2025-07-04"
+    },
+    {
+      "id": "1012387e-5523-42bf-b92f-e1c2945b0a07",
+      "season": 1,
+      "number": 5,
+      "name": "Fra Svaneke til Frederiksberg",
+      "airdate": "2025-07-04"
+    }
+  ]
+}

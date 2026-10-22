@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:still-waters-tv2play",
+  "name": "Still Waters",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c331dee1-b316-4507-8236-83107dfabc61",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "1a9e48e0-2c0d-49a3-847e-9746f6dd9720",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "4f973901-ac82-4a5f-b843-c7e2eefa4f15",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "2ccdf42b-fd26-45b9-9c69-b99accea871e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "c2e6f574-7ae3-4030-afce-f7d3121b08fc",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "b966742b-caa0-42ad-b67a-336c1e55db63",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-11-12"
+    }
+  ]
+}

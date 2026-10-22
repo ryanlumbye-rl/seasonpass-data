@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:kirstens-vilde-aar-tv2play",
+  "name": "Kirstens vilde år",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ec2773d7-8e39-4112-bb6b-d3d695d1381a",
+      "season": 1,
+      "number": 1,
+      "name": "Danmarks ældste humørbombe",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "89225faf-2818-4406-9ced-4d6293be1637",
+      "season": 1,
+      "number": 2,
+      "name": "Danmarks ældste slår verdensrekord",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "a1913288-5ae9-4194-9e4f-d0a7d93e3443",
+      "season": 1,
+      "number": 3,
+      "name": "Danmarks ældste kan mere end du tror",
+      "airdate": "2026-09-27"
+    }
+  ]
+}

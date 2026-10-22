@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:tabitas-tattoo-cmore",
+  "name": "Tabitas Tattoo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9ddf06f4-7874-4c36-ab39-86f6c8d27fba",
+      "season": 1,
+      "number": 1,
+      "name": "Lad en kvinde leve",
+      "airdate": "2024-09-13"
+    },
+    {
+      "id": "60644420-c492-410e-855e-cb00508402d1",
+      "season": 1,
+      "number": 2,
+      "name": "At vælge glæde?",
+      "airdate": "2024-09-13"
+    },
+    {
+      "id": "c7698f51-556a-4a11-bd90-e4a7e90d5947",
+      "season": 1,
+      "number": 3,
+      "name": "\"Ægget er hønens menstruation\"",
+      "airdate": "2024-09-13"
+    },
+    {
+      "id": "e3d10f4a-9a3e-4e3f-a886-1a905ffeb420",
+      "season": 1,
+      "number": 4,
+      "name": "Druk og stående tisseri",
+      "airdate": "2024-09-20"
+    },
+    {
+      "id": "7d26c9ba-b825-4e31-a215-bc4fda4e62b1",
+      "season": 1,
+      "number": 5,
+      "name": "Det, man giver ud, får man tilbage",
+      "airdate": "2024-09-20"
+    },
+    {
+      "id": "016b7bc3-2d01-4ab7-9bdd-51a50048d0d6",
+      "season": 1,
+      "number": 6,
+      "name": "Fem jägershots og en begravelse",
+      "airdate": "2024-09-20"
+    }
+  ]
+}

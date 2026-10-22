@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:a-ghost-story-for-christmas-britbox",
+  "name": "A Ghost Story for Christmas",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d74fea80-9d9f-4a42-a73e-e17d95334932",
+      "season": 1,
+      "number": 1,
+      "name": "Count Magnus",
+      "airdate": "2025-10-24"
+    },
+    {
+      "id": "30aea617-7a9c-4014-a003-86d42636436f",
+      "season": 1,
+      "number": 2,
+      "name": "Lot No. 249",
+      "airdate": "2025-10-24"
+    },
+    {
+      "id": "b1613818-ca18-455e-80e1-927b50be7655",
+      "season": 1,
+      "number": 3,
+      "name": "Woman of Stone",
+      "airdate": "2025-10-24"
+    }
+  ]
+}

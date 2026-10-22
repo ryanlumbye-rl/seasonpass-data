@@ -1,0 +1,115 @@
+{
+  "id": "tv2play:1923-skyshowtime",
+  "name": "1923",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "42be2a6f-0da7-46ef-b1be-add8020d8136",
+      "season": 1,
+      "number": 1,
+      "name": "1923",
+      "airdate": "2023-01-16"
+    },
+    {
+      "id": "bee3705b-d7d1-4a5a-a8a1-f02d84ae9e02",
+      "season": 1,
+      "number": 2,
+      "name": "Nature's Empty Throne",
+      "airdate": "2023-01-23"
+    },
+    {
+      "id": "f07dcbb1-8022-4834-8a1e-5ced551bc5f9",
+      "season": 1,
+      "number": 3,
+      "name": "The War Has Come Home",
+      "airdate": "2023-01-30"
+    },
+    {
+      "id": "5985c8fa-ea1b-403d-b218-7e187a916fb9",
+      "season": 1,
+      "number": 4,
+      "name": "War and the Turquoise Tide",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "4d3f6a33-88b3-4170-8f36-319b03ef5f9d",
+      "season": 1,
+      "number": 5,
+      "name": "Ghost of Zebrina",
+      "airdate": "2023-02-13"
+    },
+    {
+      "id": "9ea97f49-6dea-4618-acb8-bdde5899eba0",
+      "season": 1,
+      "number": 6,
+      "name": "One Ocean Closer to Destiny",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "d3ebae30-7e65-4813-b453-645030eef9f1",
+      "season": 1,
+      "number": 7,
+      "name": "The Rule of Five Hundred",
+      "airdate": "2023-02-27"
+    },
+    {
+      "id": "bed08961-faaa-41fb-b7e8-c136062e88d5",
+      "season": 1,
+      "number": 8,
+      "name": "Nothing Left to Lose",
+      "airdate": "2023-03-06"
+    },
+    {
+      "id": "e03c9a94-4ef3-4364-9535-d2b31c60b0be",
+      "season": 2,
+      "number": 1,
+      "name": "The Killing Season",
+      "airdate": "2025-03-10"
+    },
+    {
+      "id": "6d7bb379-6d58-40ba-85bc-d77b6d357ad8",
+      "season": 2,
+      "number": 2,
+      "name": "The Rapist Is Winter",
+      "airdate": "2025-03-17"
+    },
+    {
+      "id": "18b95f75-8dc5-41e9-854a-5bf0705dbd85",
+      "season": 2,
+      "number": 3,
+      "name": "Wrap Thee in Terror",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "cd491e81-ccf7-4b58-a2ce-e4fa26cec228",
+      "season": 2,
+      "number": 4,
+      "name": "Journey the Rivers of Iron",
+      "airdate": "2025-03-31"
+    },
+    {
+      "id": "b31da3c2-8a0b-467c-a3b6-16ddfb51b1c8",
+      "season": 2,
+      "number": 5,
+      "name": "Only Gunshots to Guide Us",
+      "airdate": "2025-04-07"
+    },
+    {
+      "id": "9919d6cf-3a82-47ce-95c8-969eb40bcd9f",
+      "season": 2,
+      "number": 6,
+      "name": "The Mountain Teeth of Monsters",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "07c927a7-039f-4803-a92d-9b5620136bcb",
+      "season": 2,
+      "number": 7,
+      "name": "A Dream and a Memory",
+      "airdate": "2025-04-21"
+    }
+  ]
+}

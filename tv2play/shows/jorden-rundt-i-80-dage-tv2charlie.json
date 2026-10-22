@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:jorden-rundt-i-80-dage-tv2charlie",
+  "name": "Jorden rundt i 80 dage",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a6d1a97f-39b3-4cc7-9d14-ffb62a90a4ca",
+      "season": 1,
+      "number": 1,
+      "name": "Væddemålet",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "a9ac9ebe-08ca-4fb1-9739-ea514b009bce",
+      "season": 1,
+      "number": 2,
+      "name": "Toget fra Firenze",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "72953132-cd25-49b3-bdb1-aa016481be7d",
+      "season": 1,
+      "number": 3,
+      "name": "Fortabt i ørkenen",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "ffa0ec46-658a-453f-8001-f1e6cf02b054",
+      "season": 1,
+      "number": 4,
+      "name": "Desertøren",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "c801e610-a01f-49ab-b0c0-b361607fbd48",
+      "season": 1,
+      "number": 5,
+      "name": "En tur i fængsel",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "da720aea-8d8c-4c8d-b37c-9cc59c965904",
+      "season": 1,
+      "number": 6,
+      "name": "Strandet på en øde ø",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "3edbe1f4-7cff-4889-9546-1ea0109b0a36",
+      "season": 1,
+      "number": 7,
+      "name": "Fangetransport",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "edfac5d6-e5dd-43a1-a080-10176639b360",
+      "season": 1,
+      "number": 8,
+      "name": "Det mystiske postkort",
+      "airdate": "2025-12-25"
+    }
+  ]
+}

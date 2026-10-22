@@ -1,0 +1,171 @@
+{
+  "id": "tv2play:mord-ved-soeen-tv2charlie",
+  "name": "Mord ved søen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "22fa05e6-30e8-4f6b-8c25-230893ef9069",
+      "season": 1,
+      "number": 1,
+      "name": "Den keltiske forbindelse",
+      "airdate": "2024-11-30"
+    },
+    {
+      "id": "46da6734-6ecf-4a30-bcf0-4162c0733967",
+      "season": 1,
+      "number": 2,
+      "name": "Det bliver i familien",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "420e4fae-9e56-4198-b86b-fc7bb7624111",
+      "season": 1,
+      "number": 3,
+      "name": "Søvngænger",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "b6f82aac-a6c0-4849-a6d4-41c081d1865d",
+      "season": 1,
+      "number": 4,
+      "name": "Til døden os skiller",
+      "airdate": "2024-12-08"
+    },
+    {
+      "id": "dfdfbf71-a135-4e18-9198-cc4c24520332",
+      "season": 1,
+      "number": 5,
+      "name": "Pigen der forsvandt",
+      "airdate": "2024-12-08"
+    },
+    {
+      "id": "480a61ba-51b5-4d2e-8656-402af2db9038",
+      "season": 1,
+      "number": 6,
+      "name": "Fortidens synder vender tilbage",
+      "airdate": "2024-12-14"
+    },
+    {
+      "id": "fad5099a-49d7-42e0-981b-1dd7847e313d",
+      "season": 1,
+      "number": 7,
+      "name": "Det fjerde offer",
+      "airdate": "2024-12-14"
+    },
+    {
+      "id": "b471d192-ede1-4f52-a886-7811f45a5570",
+      "season": 1,
+      "number": 8,
+      "name": "I den mørke skov",
+      "airdate": "2024-12-15"
+    },
+    {
+      "id": "842446ab-ca7b-4f2f-b3d8-aca209e7700e",
+      "season": 1,
+      "number": 9,
+      "name": "Den døde havfrue",
+      "airdate": "2024-12-15"
+    },
+    {
+      "id": "5d3a289d-5964-474f-a2b2-fa5b5fde7ad6",
+      "season": 1,
+      "number": 10,
+      "name": "En farlig skat",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "c7113933-23b2-427b-8d55-c484b1dc4aa3",
+      "season": 1,
+      "number": 11,
+      "name": "Et overraskende mordforsøg",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "d45fde9e-323d-481c-ba1e-80b6d21e6374",
+      "season": 1,
+      "number": 12,
+      "name": "Den glemte forbandelse",
+      "airdate": "2024-12-22"
+    },
+    {
+      "id": "4663781c-0151-425d-a80a-bc07e3e6ad42",
+      "season": 1,
+      "number": 13,
+      "name": "Babyen i kurven",
+      "airdate": "2024-12-22"
+    },
+    {
+      "id": "07b49183-2373-4e6b-8fc2-71f2843a3e4c",
+      "season": 1,
+      "number": 14,
+      "name": "Så hun et mord?",
+      "airdate": "2025-01-04"
+    },
+    {
+      "id": "19d74f67-69fb-4031-9298-d72dc14e7306",
+      "season": 1,
+      "number": 15,
+      "name": "Ulven kommer",
+      "airdate": "2025-01-05"
+    },
+    {
+      "id": "d44c2590-67a7-4b8a-94b9-a43c55355e4e",
+      "season": 1,
+      "number": 16,
+      "name": "Gudernes hævn",
+      "airdate": "2025-01-11"
+    },
+    {
+      "id": "e4b33ea1-a3b6-480a-b125-35cd4f398c33",
+      "season": 1,
+      "number": 17,
+      "name": "Nattens dæmoner",
+      "airdate": "2025-01-12"
+    },
+    {
+      "id": "543b32ce-5685-4ccb-9955-36c8f423fa04",
+      "season": 1,
+      "number": 18,
+      "name": "Dykker eller dræber",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "46f40a84-4192-4618-9d5b-dd929bc8e20e",
+      "season": 1,
+      "number": 19,
+      "name": "En trussel fra fortiden",
+      "airdate": "2025-01-19"
+    },
+    {
+      "id": "1eaa0213-6f45-4e6d-80ef-2ac003374f81",
+      "season": 1,
+      "number": 20,
+      "name": "En katastrofal kidnapning",
+      "airdate": "2025-10-24"
+    },
+    {
+      "id": "8042fa4d-0656-4de6-a87b-19f8d0e6ac23",
+      "season": 1,
+      "number": 21,
+      "name": "En forfatters død",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "ddb7de7b-a130-41a8-b34b-54959d0215c6",
+      "season": 1,
+      "number": 22,
+      "name": "Spøgelsesskibet",
+      "airdate": "2026-01-04"
+    },
+    {
+      "id": "593f4d80-f4f0-4f72-8473-ffc579d5e43f",
+      "season": 1,
+      "number": 23,
+      "name": "Dødelig jalousi",
+      "airdate": "2026-01-10"
+    }
+  ]
+}

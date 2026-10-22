@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:three-little-birds-britbox",
+  "name": "Three Little Birds",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "af7f2ca2-0302-4e78-a49b-ca9c317a5116",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-02-01"
+    },
+    {
+      "id": "0a86a860-b36a-4a9d-8172-3b3ddca88b05",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-02-01"
+    },
+    {
+      "id": "e9483fcf-00b0-4d8e-b04c-9a019120f6da",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-02-01"
+    },
+    {
+      "id": "d11229c7-c999-40da-8b15-f207a39054d8",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-02-08"
+    },
+    {
+      "id": "20c7f35d-47ef-49ea-b521-da31669d3f13",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-02-08"
+    },
+    {
+      "id": "f77af565-d7ba-404e-bddf-87e16f9598a7",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-02-08"
+    }
+  ]
+}

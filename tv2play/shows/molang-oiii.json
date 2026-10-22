@@ -1,0 +1,738 @@
+{
+  "id": "tv2play:molang-oiii",
+  "name": "Molang",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "14e1c2e5-415b-4b2e-ae57-fa4cc1f70a8a",
+      "season": 3,
+      "number": 1,
+      "name": "Instruktionerne",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "207658be-8327-4396-b6d3-3c6ac797239a",
+      "season": 3,
+      "number": 2,
+      "name": "Rockbandet",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "f6819774-8819-4e1b-8145-46df64b4a636",
+      "season": 3,
+      "number": 3,
+      "name": "Buddene",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "830d7a2c-4639-4d73-a985-98341833f97a",
+      "season": 3,
+      "number": 4,
+      "name": "Brandmænd!",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "e79f5443-c9da-456c-92de-2417ee92467e",
+      "season": 3,
+      "number": 5,
+      "name": "Julemanden",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "d2e6e518-13e8-4319-a911-b1f0476f66ec",
+      "season": 3,
+      "number": 6,
+      "name": "Kassen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "47733d4c-25d4-4b53-ad14-ef4ebe7aaa23",
+      "season": 3,
+      "number": 7,
+      "name": "Muldyret",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "1b48b590-e68c-4d02-9ccd-1035763af900",
+      "season": 3,
+      "number": 8,
+      "name": "Den magiske lampe",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "e5aa0a04-74f7-4111-bf11-3bb254a574fb",
+      "season": 3,
+      "number": 9,
+      "name": "Yetien",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "b2427b15-5a93-4cb2-8348-22fab75f8ca9",
+      "season": 3,
+      "number": 10,
+      "name": "I Tivoli",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "4e6b5cc4-41fa-4220-b892-03fe6d8f8f16",
+      "season": 3,
+      "number": 11,
+      "name": "Redningen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "b5411e32-1168-4157-aeb9-bed51a4f1458",
+      "season": 3,
+      "number": 12,
+      "name": "Detektiverne",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "f1e9ddcf-a636-4293-b6bc-416ceba3528a",
+      "season": 3,
+      "number": 13,
+      "name": "Super-Molang",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "a63edb52-ab84-4e9c-8782-c6e141278ed1",
+      "season": 3,
+      "number": 14,
+      "name": "Koret",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "2ac3b67e-0dac-4010-9839-103dacebb0be",
+      "season": 3,
+      "number": 15,
+      "name": "Spøgelset",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "9d36f03f-430b-4b42-92b7-618443c2485b",
+      "season": 3,
+      "number": 16,
+      "name": "Påskeæggene",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "3f0208af-20b7-4d85-98ed-b8b781a6da28",
+      "season": 3,
+      "number": 17,
+      "name": "Rumvæsnet",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "afadd23f-cbb9-42e0-ad97-903fbf6192db",
+      "season": 3,
+      "number": 18,
+      "name": "Stilhed!",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "167211db-21b3-4c3e-afa7-32589753da90",
+      "season": 3,
+      "number": 19,
+      "name": "Topmodel",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "a784e34a-2370-4f6c-a053-71f00317a1cb",
+      "season": 3,
+      "number": 20,
+      "name": "Rumvennerne",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "53dfd762-6b93-42bc-82fd-bfbbb0e19714",
+      "season": 3,
+      "number": 21,
+      "name": "Ridderen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "78a63337-4cfe-4ef7-ba08-4901c1aa9557",
+      "season": 3,
+      "number": 22,
+      "name": "En ny ven",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "a05a4278-c1b1-4d14-9156-88ed6f227d3e",
+      "season": 3,
+      "number": 23,
+      "name": "Det hjemsøgte hus",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "c0045b1c-8965-4732-bcb5-c2991407823d",
+      "season": 3,
+      "number": 24,
+      "name": "Hvalen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "e288ac07-d7d2-4e6b-92f2-3c80ae0ba5a8",
+      "season": 3,
+      "number": 25,
+      "name": "Skateboardmesteren",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "8c5df19b-4f9e-46da-85dd-2941334f4beb",
+      "season": 3,
+      "number": 26,
+      "name": "Huen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "9b30d7ac-f6cf-47dd-88d6-ec4f27aca669",
+      "season": 3,
+      "number": 27,
+      "name": "Mega-Piu Piu",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "274a5471-a5e7-4d65-807c-febb9280d62e",
+      "season": 3,
+      "number": 28,
+      "name": "Livvagterne",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "adbde6fd-2a48-4cb4-89d3-88f48486d33c",
+      "season": 3,
+      "number": 29,
+      "name": "Edderkoppen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "7ddb07b7-9fb9-437f-a71f-92c3b83c3bcb",
+      "season": 3,
+      "number": 30,
+      "name": "Frøen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "66c6de9f-e447-400e-9b40-546f1a87e63b",
+      "season": 3,
+      "number": 31,
+      "name": "Electro-Molang",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "80ed0e37-f0e2-4158-be73-edd966b544a4",
+      "season": 3,
+      "number": 32,
+      "name": "Pas på",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "c31d82d9-b7a0-4315-81f9-b523d7203c96",
+      "season": 3,
+      "number": 33,
+      "name": "Kondoren",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "3f9ec0a1-8115-4145-ab59-69539e3fd1a6",
+      "season": 3,
+      "number": 34,
+      "name": "Skuespiller-Molang",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "efb964c3-e191-436f-9299-9cb195812d65",
+      "season": 3,
+      "number": 35,
+      "name": "Mini-Molang",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "8d2b94e6-bc68-43fa-a7e6-34157c95b04c",
+      "season": 3,
+      "number": 36,
+      "name": "Dragen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "03a879b8-bedd-43c1-b8a3-ca611ab024dd",
+      "season": 3,
+      "number": 37,
+      "name": "Nisserne",
+      "airdate": "2024-04-14"
+    },
+    {
+      "id": "301d3eb5-be7f-469a-9804-ce166102a587",
+      "season": 3,
+      "number": 38,
+      "name": "Kosteskaftet",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "3443bce5-729f-435b-829c-b79b8ac1baca",
+      "season": 3,
+      "number": 39,
+      "name": "Stormen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "8f59a75c-0674-47f9-878f-344addaddee8",
+      "season": 3,
+      "number": 40,
+      "name": "Pandaen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "8fcb200b-9a0e-4ee8-bb39-a2a252eeb98e",
+      "season": 3,
+      "number": 41,
+      "name": "Det flyvende tæppe",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "1b2322c2-5ae1-4d06-affb-725891a82cc4",
+      "season": 3,
+      "number": 42,
+      "name": "Skildpadden",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "d825dac3-8d06-45ad-a614-0517a2a7b194",
+      "season": 3,
+      "number": 43,
+      "name": "Sandskulpturen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "c1901aec-cb2b-4e41-b983-8895ee831f38",
+      "season": 3,
+      "number": 44,
+      "name": "Ud i det vilde",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "7d081009-ffa7-415f-aef5-5ba8733240bd",
+      "season": 3,
+      "number": 45,
+      "name": "Troldmandens lærlinge",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "0338fb82-1bc7-4ee3-b263-85b529e49e6a",
+      "season": 3,
+      "number": 46,
+      "name": "Huskyen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "c1662e57-1430-483d-9870-43759f8964ce",
+      "season": 3,
+      "number": 47,
+      "name": "Skovens kald",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "2ee95b05-c2ad-4f1a-92c2-49449d747f2b",
+      "season": 3,
+      "number": 48,
+      "name": "Fugleungen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "ac36d284-d3cf-483a-adc3-27dcf6f9d088",
+      "season": 3,
+      "number": 49,
+      "name": "Danserne",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "18be9e14-d2e8-4f02-8653-ca18f7405299",
+      "season": 3,
+      "number": 50,
+      "name": "Sweateren",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "eb845717-2e86-4766-90fa-c76eaed99060",
+      "season": 3,
+      "number": 51,
+      "name": "Konkurrencen",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "e54395ba-91c5-496b-b1db-b24a3aa34915",
+      "season": 3,
+      "number": 52,
+      "name": "Den lange rejse",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "f9b96030-636c-449a-9088-9b93e9d547fa",
+      "season": 4,
+      "number": 1,
+      "name": "I ly",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "3f4e1719-f809-46c1-a311-910a5af2c6cb",
+      "season": 4,
+      "number": 2,
+      "name": "Den nye verden",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "ff53e2e2-a70d-41e0-b670-d57af1030afa",
+      "season": 4,
+      "number": 3,
+      "name": "Turneringen",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "4563b1d9-67b4-4c3b-b15b-bda0d6b82aa5",
+      "season": 4,
+      "number": 4,
+      "name": "Parykken",
+      "airdate": "2024-06-04"
+    },
+    {
+      "id": "d1680093-868f-4a77-bb3b-d9310f0804ad",
+      "season": 4,
+      "number": 5,
+      "name": "Bærrene",
+      "airdate": "2024-06-04"
+    },
+    {
+      "id": "317d2131-1d4f-4620-931c-29e44cb206e1",
+      "season": 4,
+      "number": 6,
+      "name": "Duen",
+      "airdate": "2024-06-04"
+    },
+    {
+      "id": "d932e56a-dacb-4c91-adb9-68cfe3d89d97",
+      "season": 4,
+      "number": 7,
+      "name": "Eliksiren",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "06e0bf65-b626-4d24-ab67-0789a247ffa2",
+      "season": 4,
+      "number": 8,
+      "name": "Kirsebærrene",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "9c94d20d-3f41-47ed-afcc-66c83d436c54",
+      "season": 4,
+      "number": 9,
+      "name": "Haven i Versailles",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "a3f2b2b1-914c-46da-b37b-45c376a81222",
+      "season": 4,
+      "number": 10,
+      "name": "Sabeltandskillingen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "4cb5286f-f4c5-44e5-ab18-4058f968b52f",
+      "season": 4,
+      "number": 11,
+      "name": "Stridsvognsløbet",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "c9761d3d-ecf4-4b6b-8b39-c5af14e9b760",
+      "season": 4,
+      "number": 12,
+      "name": "Floden",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "4338410d-b7b5-4f1b-8d56-8fcb3fefd2b5",
+      "season": 4,
+      "number": 13,
+      "name": "Varmluftballonen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "e4f38528-0e9f-41e3-ad81-81e094c07454",
+      "season": 4,
+      "number": 14,
+      "name": "Riddere og dragen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "b0809d7d-5e4e-4f63-92ab-93195b1fdd22",
+      "season": 4,
+      "number": 15,
+      "name": "Excalibur",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "1e60f987-9232-4c3a-b1d2-a0ad2234261c",
+      "season": 4,
+      "number": 16,
+      "name": "Kyklopen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "e976bf7f-cf8f-4f1f-8003-0ae1c0033f21",
+      "season": 4,
+      "number": 17,
+      "name": "Duften",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "32e704e3-d4fd-4501-a845-5240390f06e2",
+      "season": 4,
+      "number": 18,
+      "name": "Krydstogtet",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "57ef8e22-7741-4879-b3df-9103967de84f",
+      "season": 4,
+      "number": 19,
+      "name": "Kongen keder sig",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "960aedfc-5a4f-4b67-91e3-462c224f6333",
+      "season": 4,
+      "number": 20,
+      "name": "Kongens halskæde",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "c6edd3de-37f6-4473-8576-664d63cafea2",
+      "season": 4,
+      "number": 21,
+      "name": "Cyklen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "0011bea6-5bae-41ee-bc8d-8cc538bf2800",
+      "season": 4,
+      "number": 22,
+      "name": "Musketerer",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "57c6e9bb-1e8b-471c-93ea-a816648a879d",
+      "season": 4,
+      "number": 23,
+      "name": "Gåsen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "06d909f8-8a8a-4fb6-8d83-ea07bf54fb0b",
+      "season": 4,
+      "number": 24,
+      "name": "Vaskedag",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "0d9b31b4-f2a3-4e2c-a700-3f7b4a572868",
+      "season": 4,
+      "number": 25,
+      "name": "Sangfuglen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "d93b4ae8-9719-44e9-aa40-b9aeb630980a",
+      "season": 4,
+      "number": 26,
+      "name": "Drømmejob",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "36383cb2-260a-497e-add6-b5dfd726e061",
+      "season": 4,
+      "number": 27,
+      "name": "Bukke og neje",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "2bc36104-f99b-4551-a02c-0e6d463d3fcb",
+      "season": 4,
+      "number": 28,
+      "name": "Labyrinten",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "d253c2cf-dbe9-4574-be77-afdacd051b1d",
+      "season": 4,
+      "number": 29,
+      "name": "Pegasus",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "049bf73f-5369-4be0-96eb-bbcb74fe4a6b",
+      "season": 4,
+      "number": 30,
+      "name": "Fotografering",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "09322b71-a158-4c71-b76d-8b4811ba3e2e",
+      "season": 4,
+      "number": 31,
+      "name": "Alle farverne",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "0e70606b-4d0f-45d4-bb59-6bb688c34b6d",
+      "season": 4,
+      "number": 32,
+      "name": "Ild",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "38405e63-a1c4-43e3-86e7-3bbfcf706413",
+      "season": 4,
+      "number": 33,
+      "name": "Luftakrobatik",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "c943ccc9-a6c0-4da9-9527-d78d2799037d",
+      "season": 4,
+      "number": 34,
+      "name": "Luftspionerer",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "030816e5-b083-4e58-a82f-fa4b58577967",
+      "season": 4,
+      "number": 35,
+      "name": "Samuraierne",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "af994582-489e-4dad-83c2-0e31f9187b96",
+      "season": 4,
+      "number": 36,
+      "name": "Musikerne",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "6d30d544-2158-405a-bd07-995c222f6543",
+      "season": 4,
+      "number": 37,
+      "name": "Cirkusspil",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "69a4f645-ef36-4c33-ae55-0f946ebcc2a2",
+      "season": 4,
+      "number": 38,
+      "name": "Havfruerne",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "709ed3a2-5c3d-4371-8a5c-eefd4abf18be",
+      "season": 4,
+      "number": 39,
+      "name": "Træægget",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "7abad3e9-47fb-4853-8dc4-1f44c305ae93",
+      "season": 4,
+      "number": 40,
+      "name": "Rosen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "5cfd590f-b51c-4498-bb75-52f690e1feff",
+      "season": 4,
+      "number": 41,
+      "name": "Skatteøen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "808f62f1-5b14-4cc2-82fe-0eb9fafad76d",
+      "season": 4,
+      "number": 42,
+      "name": "Enhjørningen",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "9217a5a0-0818-4f17-9343-2f1051bf8b52",
+      "season": 4,
+      "number": 43,
+      "name": "Mariachi",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "0ad716cf-f6c0-44b7-b3d8-dfe455852212",
+      "season": 4,
+      "number": 44,
+      "name": "Kong Molang",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "912b7ff2-430c-4f0d-9366-2aa01844c839",
+      "season": 4,
+      "number": 45,
+      "name": "Loch Ness",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "88e146be-5b0c-484b-84bf-9614015da8be",
+      "season": 4,
+      "number": 46,
+      "name": "Titanic",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "ac7ffb71-cfe5-43d5-919e-2506df8a66f1",
+      "season": 4,
+      "number": 47,
+      "name": "Et stort hjerte",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "fad6e99c-8788-4fb6-9a0d-9f93506c8ef0",
+      "season": 4,
+      "number": 48,
+      "name": "Zero",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "78654cf4-f793-4c33-831b-7ac93d90fcc8",
+      "season": 4,
+      "number": 49,
+      "name": "Vikingerne",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "53f09340-394c-4b12-a00c-f4d2257dcec0",
+      "season": 4,
+      "number": 50,
+      "name": "Trolden",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "c44d71b9-3e27-46a9-b2fb-262c5cf365aa",
+      "season": 4,
+      "number": 51,
+      "name": "Besøget",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "38365fbb-3aaf-45a0-99d8-3d49ed5d4354",
+      "season": 4,
+      "number": 52,
+      "name": "Herkules",
+      "airdate": "2024-06-05"
+    }
+  ]
+}

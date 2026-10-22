@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:muflon-mysteriet-paa-fur-tv2play",
+  "name": "Muflon Mysteriet på Fur",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "85dfcf4a-059c-4f7f-b928-742f42b77c36",
+      "season": 1,
+      "number": 1,
+      "name": "Den blinde mand",
+      "airdate": "2026-05-10"
+    },
+    {
+      "id": "20e308cf-c7cf-476c-b3c8-6e434ef2bd83",
+      "season": 1,
+      "number": 2,
+      "name": "Ding Dong Muflon",
+      "airdate": "2026-05-10"
+    },
+    {
+      "id": "64ff282f-0a8e-4c3f-b19e-046ef103c0af",
+      "season": 1,
+      "number": 3,
+      "name": "Er det naboen?",
+      "airdate": "2026-05-10"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:15-days-britbox",
+  "name": "15 Days",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0e83ab95-b785-4337-b5b1-dea26c2397dc",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "22c46399-431a-4edd-9e12-5f1f2e5c4a81",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "e9db4323-38eb-4158-b30a-8b5847132464",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "4f14eb7d-c909-4b3f-9f26-40529a249b30",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-02-05"
+    }
+  ]
+}

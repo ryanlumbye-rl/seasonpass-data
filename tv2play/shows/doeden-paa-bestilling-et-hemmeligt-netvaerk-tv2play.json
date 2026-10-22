@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:doeden-paa-bestilling-et-hemmeligt-netvaerk-tv2play",
+  "name": "Døden på bestilling - et hemmeligt netværk",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e69110b1-bfce-46cf-9827-d41e50435ca7",
+      "season": 1,
+      "number": 1,
+      "name": "På sporet af en dødsengel",
+      "airdate": "2026-02-23"
+    },
+    {
+      "id": "bd92428a-1f63-481e-bc3e-5ba03b3a4bbf",
+      "season": 1,
+      "number": 2,
+      "name": "De mystiske dødsfald",
+      "airdate": "2026-03-02"
+    },
+    {
+      "id": "d222a195-fb99-429a-b9af-1a4b52384fda",
+      "season": 1,
+      "number": 3,
+      "name": "Manden med den røde kuffert",
+      "airdate": "2026-03-09"
+    }
+  ]
+}

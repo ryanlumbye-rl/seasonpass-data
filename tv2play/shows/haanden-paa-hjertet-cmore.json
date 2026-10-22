@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:haanden-paa-hjertet-cmore",
+  "name": "Hånden på hjertet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fe59b2ec-8997-48d0-9762-f3a993615786",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "5876d3b9-fe27-4420-b55b-f892b6c96e74",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "dd251cf1-9bf2-4d77-acc7-8c7fa2b6d0c2",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "6bd02167-2d15-4d76-8db8-1f735cd97696",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "1b6286a0-963a-4e24-9751-84d5b2e4a967",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "e3c976f1-a51b-4f86-8c0b-f5c1b4d96065",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

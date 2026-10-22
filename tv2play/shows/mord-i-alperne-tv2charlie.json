@@ -1,0 +1,486 @@
+{
+  "id": "tv2play:mord-i-alperne-tv2charlie",
+  "name": "Mord i Alperne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b276e035-45f4-409e-a1b6-cc26cd403d72",
+      "season": 1,
+      "number": 1,
+      "name": "Den gamle mand fra bjerget",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "d995607b-dac9-4cad-ad0b-08ac79c45e58",
+      "season": 1,
+      "number": 2,
+      "name": "Synd i Alperne",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "b2ce470b-e4e8-4136-97b3-3f4e47755bb1",
+      "season": 1,
+      "number": 3,
+      "name": "Den døde mand fra bobslædebanen",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "a0e14202-cdc6-4280-9bdb-5e98171248c8",
+      "season": 1,
+      "number": 4,
+      "name": "Kold kalkule eller kærlighed",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "39599b96-4cc7-469f-a95f-c8be20d0eb74",
+      "season": 1,
+      "number": 5,
+      "name": "Ecksteins forbandelse",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "fcfe7141-4dcf-4ef8-bfcd-2b9c87d1828e",
+      "season": 1,
+      "number": 6,
+      "name": "Inkognito",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "4245dfdb-1952-44f0-9e6f-284456cf742c",
+      "season": 1,
+      "number": 7,
+      "name": "Familiebånd",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "2149e463-6331-4a03-81fb-fed0634443ff",
+      "season": 1,
+      "number": 8,
+      "name": "Fiskeren i Königssee",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "24c29df6-fd0c-4fe6-b311-eb06592231e4",
+      "season": 2,
+      "number": 1,
+      "name": "Jambo",
+      "airdate": "2021-11-03"
+    },
+    {
+      "id": "9da0dff4-9751-485a-8a90-6e221fc5cf91",
+      "season": 2,
+      "number": 2,
+      "name": "Løvemødre",
+      "airdate": "2021-11-04"
+    },
+    {
+      "id": "b62e4c59-59b6-41f7-ade7-7e41ffa1fbf9",
+      "season": 2,
+      "number": 3,
+      "name": "Skinnet bedrager",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "fd8464d0-1da5-4c14-8670-73803717b5ee",
+      "season": 2,
+      "number": 4,
+      "name": "Nouvelle Cuisine",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "6c318bce-a975-42c3-8b04-cfe201b977a5",
+      "season": 2,
+      "number": 5,
+      "name": "Afslag",
+      "airdate": "2021-11-09"
+    },
+    {
+      "id": "964cc91e-de37-4ec9-9ccb-f43979b89e7b",
+      "season": 2,
+      "number": 6,
+      "name": "Den elegante kvinde",
+      "airdate": "2021-11-10"
+    },
+    {
+      "id": "4d986149-252a-4edb-8692-42058e7fd1aa",
+      "season": 2,
+      "number": 7,
+      "name": "Nye tider",
+      "airdate": "2021-11-11"
+    },
+    {
+      "id": "0bd2fab2-12cd-4e93-9f1b-745672bf9eb3",
+      "season": 2,
+      "number": 8,
+      "name": "Krystaller skinner for evigt",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "88c01b12-58cf-4a33-814b-591fa8bf5dd6",
+      "season": 2,
+      "number": 9,
+      "name": "En stensikker forretning",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "a2ec20b8-ced2-4c9d-9187-f3c489e0df88",
+      "season": 2,
+      "number": 10,
+      "name": "Julemænd om sommeren",
+      "airdate": "2021-11-16"
+    },
+    {
+      "id": "cb36cb80-f182-4cc1-83d9-85db05db1aa7",
+      "season": 2,
+      "number": 11,
+      "name": "Viva La Musica",
+      "airdate": "2021-11-17"
+    },
+    {
+      "id": "54c79b36-697a-4f6f-b663-371ae1498f8d",
+      "season": 2,
+      "number": 12,
+      "name": "Kong Watzmann",
+      "airdate": "2021-11-18"
+    },
+    {
+      "id": "49fb150d-5aca-4d8b-8763-fcef188fb47a",
+      "season": 2,
+      "number": 13,
+      "name": "Hvor der handles, der spildes",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "b764c47a-5e21-4891-89c4-46e608e25e70",
+      "season": 2,
+      "number": 14,
+      "name": "Styrtet i døden",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "516f0bb8-924e-4ea0-a2d2-7d1fcfb94472",
+      "season": 2,
+      "number": 15,
+      "name": "Den sidste ridetur",
+      "airdate": "2021-11-23"
+    },
+    {
+      "id": "0befb6b0-cfff-4df2-9d11-bc7f64503d0b",
+      "season": 2,
+      "number": 16,
+      "name": "Solhverv",
+      "airdate": "2021-11-24"
+    },
+    {
+      "id": "925f019b-a4c1-4bbd-b263-f9c5b7a78466",
+      "season": 3,
+      "number": 1,
+      "name": "To fædre",
+      "airdate": "2022-08-18"
+    },
+    {
+      "id": "46bd4c23-290c-41ee-863f-7df7d3960dda",
+      "season": 3,
+      "number": 2,
+      "name": "En brandfarlig sag",
+      "airdate": "2022-08-19"
+    },
+    {
+      "id": "56e183a6-feb8-4c3a-9bf8-97db9bfd4cd1",
+      "season": 3,
+      "number": 3,
+      "name": "Den døde fisker",
+      "airdate": "2022-08-24"
+    },
+    {
+      "id": "085d8de9-41cb-413c-886e-6de43f39b7cc",
+      "season": 3,
+      "number": 4,
+      "name": "Et dræbende skud",
+      "airdate": "2022-08-25"
+    },
+    {
+      "id": "401fce15-f3ae-4a10-a0ba-1e3924e8ba4e",
+      "season": 3,
+      "number": 5,
+      "name": "Farlig viden",
+      "airdate": "2023-08-29"
+    },
+    {
+      "id": "664467db-9679-49cf-a408-2d0397522f92",
+      "season": 3,
+      "number": 6,
+      "name": "Den døde bager",
+      "airdate": "2023-08-30"
+    },
+    {
+      "id": "f56eff2c-92a3-4571-81cc-3c9968b1c3e2",
+      "season": 3,
+      "number": 7,
+      "name": "Giftig bryllupskage",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "1986f291-f999-4c35-8813-af7ef3075e10",
+      "season": 3,
+      "number": 8,
+      "name": "En hund efter mord",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "26d2c038-534f-43e8-a1ab-4d91df22ce2a",
+      "season": 3,
+      "number": 9,
+      "name": "Alt for skønheden",
+      "airdate": "2023-09-04"
+    },
+    {
+      "id": "d5f355b0-a274-40ed-9e05-fd1352719306",
+      "season": 3,
+      "number": 10,
+      "name": "Bitter hævn",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "642c13a0-bbc2-4542-a88f-faf19c6c69b5",
+      "season": 3,
+      "number": 11,
+      "name": "Frit fald",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "5bd04fb7-bd96-4b52-b8bc-d4e7a869c8fa",
+      "season": 3,
+      "number": 12,
+      "name": "Skovens hemmelighed",
+      "airdate": "2023-09-07"
+    },
+    {
+      "id": "14c67c19-4dc5-4569-9343-e4e49a0d2e1f",
+      "season": 4,
+      "number": 1,
+      "name": "Hjemløs",
+      "airdate": "2025-10-14"
+    },
+    {
+      "id": "02067b9e-4e62-44e9-9cea-785ebe7f45c3",
+      "season": 4,
+      "number": 2,
+      "name": "En dårlig nabo",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "8e777e4c-11c2-44a7-92b0-7815fb6ed614",
+      "season": 4,
+      "number": 3,
+      "name": "Modellens fejltrin",
+      "airdate": "2025-10-16"
+    },
+    {
+      "id": "9389d3c6-e82b-4c30-9995-8387678e24d6",
+      "season": 4,
+      "number": 4,
+      "name": "Død to gange",
+      "airdate": "2025-10-17"
+    },
+    {
+      "id": "8aed9ea7-1966-4720-8b28-73312479249a",
+      "season": 4,
+      "number": 5,
+      "name": "Det forkerte offer",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "ec1a56f4-ad66-4bc3-9ab2-6d1e5269ea07",
+      "season": 4,
+      "number": 6,
+      "name": "Borgmesterens endeligt",
+      "airdate": "2025-10-21"
+    },
+    {
+      "id": "643dbfb6-9b98-48ac-9b66-cb1c44abf98e",
+      "season": 4,
+      "number": 7,
+      "name": "Farlig ambition",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "f344776c-9469-440c-b76d-0fa0c99e57a1",
+      "season": 4,
+      "number": 8,
+      "name": "Dødsannoncen kom for tidlig",
+      "airdate": "2025-10-23"
+    },
+    {
+      "id": "e0772214-998c-4a16-8f84-11771026b71b",
+      "season": 4,
+      "number": 9,
+      "name": "Den sidste flyrejse",
+      "airdate": "2025-10-24"
+    },
+    {
+      "id": "873e712c-983a-41a6-84b1-70639840e485",
+      "season": 4,
+      "number": 10,
+      "name": "En lokal helt",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "614e5d92-1918-40b3-88d4-dab26a8bb4fa",
+      "season": 4,
+      "number": 11,
+      "name": "Forgiftet",
+      "airdate": "2025-10-28"
+    },
+    {
+      "id": "3c1477e6-2095-4485-9f1d-61a852e9d090",
+      "season": 4,
+      "number": 12,
+      "name": "Rovfuglens pris",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "f91a1572-a80d-4630-838b-4a186bd658d3",
+      "season": 5,
+      "number": 1,
+      "name": "Bankrøver med hemmeligheder",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "60bbee3e-237c-4653-8ceb-b69f780b8560",
+      "season": 5,
+      "number": 2,
+      "name": "Fanget i uvejr",
+      "airdate": "2025-10-31"
+    },
+    {
+      "id": "f4f4f030-d0dd-4940-b72d-c4b1ad575b0f",
+      "season": 5,
+      "number": 3,
+      "name": "Tragisk tæppefald",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "d3fe7709-152d-4d31-bcbb-fcf28de07fc1",
+      "season": 5,
+      "number": 4,
+      "name": "Den upopulære stenhugger",
+      "airdate": "2025-11-04"
+    },
+    {
+      "id": "bfa69547-2320-4f0f-9076-1e4897e2755c",
+      "season": 5,
+      "number": 5,
+      "name": "Festen slutter med mord",
+      "airdate": "2025-11-05"
+    },
+    {
+      "id": "06b062bc-599e-4ace-8436-60328e023062",
+      "season": 5,
+      "number": 6,
+      "name": "Blod i sneen",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "c03c512b-985a-4f07-821a-a4b3587dec6e",
+      "season": 5,
+      "number": 7,
+      "name": "Overfald på gaden",
+      "airdate": "2025-11-07"
+    },
+    {
+      "id": "e39da487-f67f-4590-9055-879cf299b082",
+      "season": 5,
+      "number": 8,
+      "name": "Blindt raseri",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "05e9618f-e38b-43d5-b90e-06b0e03746d3",
+      "season": 5,
+      "number": 9,
+      "name": "Skovens hemmeligheder",
+      "airdate": "2025-11-11"
+    },
+    {
+      "id": "bdcce2cc-bab4-416f-a430-8ea72d25b345",
+      "season": 5,
+      "number": 10,
+      "name": "Hvad isen gemte",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "b4db6deb-c888-495a-a53c-bfe08759e33d",
+      "season": 5,
+      "number": 11,
+      "name": "Hvem førte kniven?",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "b158eae5-a2f3-4c69-a1e0-a4c378230ded",
+      "season": 5,
+      "number": 12,
+      "name": "Moderne tider",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "c106161c-645a-4971-bbfd-831bc817b567",
+      "season": 6,
+      "number": 1,
+      "name": "Søstrenes skjulte konflikt",
+      "airdate": "2026-07-09"
+    },
+    {
+      "id": "e7ace6c5-057b-40dd-a15c-d5057f2f4a61",
+      "season": 6,
+      "number": 2,
+      "name": "Bønder græder ikke",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "0863fd53-285a-4e59-b547-c355e759502a",
+      "season": 6,
+      "number": 3,
+      "name": "Den døde bedemand",
+      "airdate": "2026-07-13"
+    },
+    {
+      "id": "ac165656-d2c1-4b06-a5b0-4e53c1433fae",
+      "season": 6,
+      "number": 4,
+      "name": "En mors kærlighed",
+      "airdate": "2026-07-14"
+    },
+    {
+      "id": "9382c5d9-ea93-4f7c-bea2-5f0ebb5b3939",
+      "season": 6,
+      "number": 5,
+      "name": "Mystiske budskaber",
+      "airdate": "2026-07-15"
+    },
+    {
+      "id": "57485861-35a9-47c1-a0ab-3a59cab97712",
+      "season": 6,
+      "number": 6,
+      "name": "Et ensomt hjerte",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "2ce4079d-27d2-467b-a4d5-e6fa87c1d40c",
+      "season": 6,
+      "number": 7,
+      "name": "Den højeste pris",
+      "airdate": "2026-07-17"
+    },
+    {
+      "id": "b952ec0e-2a61-4001-af8b-9da59cf88ff6",
+      "season": 6,
+      "number": 8,
+      "name": "Plejehjemmets hemmelighed",
+      "airdate": "2026-07-20"
+    }
+  ]
+}

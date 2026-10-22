@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:ludwig-krydsordsdetektiven-tv2play",
+  "name": "Ludwig - Krydsordsdetektiven",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "de3b47eb-a6c8-4ae4-bdb6-5f827aca6c9a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "a0df82a6-b8ff-402c-a3be-0cfea0654842",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "f40e3fd8-3e18-4048-9dcc-22b2501f1201",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "1ec67b0b-ad79-41b0-b43e-6794f9bf98ff",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "b8b1d3b2-dcbe-4b0a-8870-d8d69c127b5e",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "7664a855-7128-4262-84e4-e178a156fb02",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-01-21"
+    }
+  ]
+}

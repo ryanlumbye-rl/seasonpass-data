@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:gangs-of-london-skyshowtime",
+  "name": "Gangs of London",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6024b9b4-e142-4f25-bd56-2b080bd8f874",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "70a18c7d-7ca1-4e85-a999-7d2cc942571c",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "10c535e1-8af3-49f9-8888-95e7e70dc8ed",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "61ff4aa7-f624-4547-a70b-6fbf73f633c0",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "99fcf8f1-b7a5-4f14-984d-a05229a52514",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3f9df6f6-1c96-4294-a60f-c9993ac9ef2f",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "88b0332d-4c4d-4e60-8b2f-08aa8099c7c0",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e9289615-a518-4e1a-83d9-5a9185ce8e3c",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "fdaacc56-6920-4773-b90e-356e62aeca02",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "6e70d6ce-1997-4394-82fd-90af0f81bb8e",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "68385238-32e9-4879-a5ca-395befd45a01",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "34f77ae2-7b53-47b4-b815-e372155d838a",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "ecb3626b-023e-488c-bfad-23412b2c2625",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "9092909b-45bd-4d7c-b248-fa91bb6ffdf1",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "db7ac2eb-1cc0-4980-834c-3d8cdde9f822",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "db5fdaa6-755c-46d4-a5b2-003b440b2a4c",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "6ee49e85-c4e1-4be6-b0ca-658b07173a6e",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "423174b5-fe60-40f8-a90f-d3ae128f2b07",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-07-07"
+    },
+    {
+      "id": "3f5d1a7e-78cd-42bd-b969-13efafacce02",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "c0d8cf40-1c34-4451-a9f6-106b5e410c29",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "e1417471-b741-46f9-a258-fb9aeac3fa33",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-04-21"
+    },
+    {
+      "id": "2b5e40a7-5b4e-4606-8e3c-e3f122ae7669",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-04-28"
+    },
+    {
+      "id": "cd1e2c36-8599-41b1-8213-3bd29d74cd03",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-05-05"
+    },
+    {
+      "id": "c10b1914-af03-4f1e-9dc2-9a946c4a7975",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "7b547909-6d6e-467e-9be6-baa790ce41d5",
+      "season": 3,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-05-19"
+    },
+    {
+      "id": "86b07bf0-b2b1-4420-a1e5-a1eae9004e45",
+      "season": 3,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-05-26"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "tv2play:kristian-tv2play",
+  "name": "Kristian",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bf3b213e-ce78-4d1c-9b22-03432e34a153",
+      "season": 1,
+      "number": 1,
+      "name": "Net-dating",
+      "airdate": "2009-11-16"
+    },
+    {
+      "id": "21a44a59-d985-4bf2-9d91-7ca444bde808",
+      "season": 1,
+      "number": 2,
+      "name": "Broderen",
+      "airdate": "2009-11-23"
+    },
+    {
+      "id": "2cf56b3c-0e53-46da-b8a8-8f719c72f694",
+      "season": 1,
+      "number": 3,
+      "name": "Reunion",
+      "airdate": "2009-11-30"
+    },
+    {
+      "id": "79f9252a-75cf-47d8-9b0e-dfe6c3300e6b",
+      "season": 1,
+      "number": 4,
+      "name": "Daddy",
+      "airdate": "2009-12-07"
+    },
+    {
+      "id": "6acf77bd-c288-4445-b674-eb50ea99847f",
+      "season": 1,
+      "number": 5,
+      "name": "Sekten",
+      "airdate": "2009-12-14"
+    },
+    {
+      "id": "7715b7e3-7dca-4fcc-937f-3537228acac8",
+      "season": 1,
+      "number": 6,
+      "name": "Coke",
+      "airdate": "2010-03-01"
+    },
+    {
+      "id": "c9224979-385c-4fb2-9e05-958df4499a0f",
+      "season": 1,
+      "number": 7,
+      "name": "Fyn",
+      "airdate": "2010-03-08"
+    },
+    {
+      "id": "6ffff24e-3ccc-461b-b85d-ef4d0cceb740",
+      "season": 1,
+      "number": 8,
+      "name": "Bryllup",
+      "airdate": "2010-03-15"
+    },
+    {
+      "id": "a8679df7-a9e2-4c51-b835-3c75b7081990",
+      "season": 1,
+      "number": 9,
+      "name": "Bro's before Ho's",
+      "airdate": "2010-03-22"
+    },
+    {
+      "id": "8f3bacf2-be5b-49ff-a3fb-e9b8d34170aa",
+      "season": 1,
+      "number": 10,
+      "name": "Far",
+      "airdate": "2010-03-29"
+    },
+    {
+      "id": "c2e8349f-7b8f-40e4-bb1e-3bec6855f7a2",
+      "season": 2,
+      "number": 1,
+      "name": "Tæsk og bank",
+      "airdate": "2011-10-29"
+    },
+    {
+      "id": "55d0c4cf-6c34-45e0-9f7e-19d241f0a494",
+      "season": 2,
+      "number": 2,
+      "name": "Åh nej, ikke en død dværg",
+      "airdate": "2011-11-05"
+    },
+    {
+      "id": "3df9b7a2-4509-4679-a085-906d689ce684",
+      "season": 2,
+      "number": 3,
+      "name": "Au pair med fordele",
+      "airdate": "2011-11-12"
+    },
+    {
+      "id": "06410b79-8952-4cee-9d48-d8d031d378e9",
+      "season": 2,
+      "number": 4,
+      "name": "Kunsttyv eller gidseltager",
+      "airdate": "2011-11-19"
+    },
+    {
+      "id": "85179a4a-c16b-404f-91bd-aba5712c0d28",
+      "season": 2,
+      "number": 5,
+      "name": "Kongen af Kolding",
+      "airdate": "2011-11-26"
+    },
+    {
+      "id": "4794c2b1-65fd-42a0-83f4-d2f3d6ce4283",
+      "season": 2,
+      "number": 6,
+      "name": "Marrokansk brandert",
+      "airdate": "2011-12-03"
+    },
+    {
+      "id": "3cc298f1-f69f-4bd2-b0f3-75ed2833e083",
+      "season": 2,
+      "number": 7,
+      "name": "The Return of the Line",
+      "airdate": "2011-12-10"
+    },
+    {
+      "id": "0ebd4f3b-83ce-4c85-9732-a09ee663cc2e",
+      "season": 2,
+      "number": 8,
+      "name": "Mad, våben og nødhjælp",
+      "airdate": "2011-12-17"
+    }
+  ]
+}

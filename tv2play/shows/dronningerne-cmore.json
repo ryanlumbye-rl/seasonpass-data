@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:dronningerne-cmore",
+  "name": "Dronningerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1d28ac67-5264-4a62-a40a-0cb82ec18151",
+      "season": 1,
+      "number": 1,
+      "name": "Dronningen fra gaden",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7cd935b6-2bc9-4534-a069-e1a54a944d92",
+      "season": 1,
+      "number": 2,
+      "name": "Dronningen, der kunne gøre, som hun ville",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a5067a9c-d109-4a08-8d91-3bf6dcc66733",
+      "season": 1,
+      "number": 3,
+      "name": "Dronning af stormagten Sverige",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "655c4876-6214-4b9f-9c1e-4b38d5f4cf23",
+      "season": 1,
+      "number": 4,
+      "name": "Dronningen, som ville være i centrum",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e5c57cda-cddd-41aa-8cb6-3c86ef7d2969",
+      "season": 1,
+      "number": 5,
+      "name": "Den ufrivillige dronning",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e36ca967-5cec-4564-97ae-e9a3dc734089",
+      "season": 1,
+      "number": 6,
+      "name": "Den modvillige dronning",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7f0cd30c-344c-48b0-8c3b-6bd1e7e33ff0",
+      "season": 1,
+      "number": 7,
+      "name": "Dronningen, som ville være elsket",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fd35fd70-7034-4586-8434-737b84a1f6e1",
+      "season": 1,
+      "number": 8,
+      "name": "Dronningen, som levede et dobbeltliv",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:naeste-bjergetape-tv2fri",
+  "name": "Næste Bjergetape",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-27",
+  "episodes": [
+    {
+      "id": "9ff2491d-96ff-49f6-b43e-be09a8546f3c",
+      "season": 1,
+      "number": 1,
+      "name": "Spredning i feltet",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "4c5c8168-138f-455c-bf6d-3d1ce8a139d2",
+      "season": 1,
+      "number": 2,
+      "name": "Ny holdopstilling",
+      "airdate": "2026-10-13"
+    },
+    {
+      "id": "fffc1c54-acc8-4bdc-a337-66d3890c9187",
+      "season": 1,
+      "number": 3,
+      "name": "Lang vej hjem",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "fbd88a95-3408-4af4-a5f8-bf749fb78eae",
+      "season": 1,
+      "number": 4,
+      "name": "Børn i udbrud",
+      "airdate": "2026-10-27"
+    }
+  ]
+}

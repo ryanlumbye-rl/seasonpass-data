@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:the-thief-his-wife-and-the-canoe-britbox",
+  "name": "The Thief, His Wife and the Canoe",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bea191b9-ca26-4a59-a14f-e6d56f402793",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "1d6066ff-7c43-4d11-8684-5c9f8dabd5b4",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "41bff780-2ac1-4c97-b34f-975b289514e4",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "52740532-bf24-49d5-b976-b683ce1385e1",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

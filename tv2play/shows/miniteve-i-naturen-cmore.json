@@ -1,0 +1,325 @@
+{
+  "id": "tv2play:miniteve-i-naturen-cmore",
+  "name": "Miniteve: I naturen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "be7130fe-a625-488c-9270-e8c19efc7a64",
+      "season": 1,
+      "number": 1,
+      "name": "Bjørn gaber",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "add5a908-c00a-40fd-a00b-8559f82d400a",
+      "season": 1,
+      "number": 2,
+      "name": "Fugl",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "b1c7b158-e74d-4fe8-91aa-cb24777e40fc",
+      "season": 1,
+      "number": 3,
+      "name": "Harer leger",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "86603714-90e4-4570-9573-983ad88838fc",
+      "season": 1,
+      "number": 4,
+      "name": "Pindsvin i buskene",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "a40c4124-3fdf-47c1-a352-613ab3899d49",
+      "season": 1,
+      "number": 5,
+      "name": "Hjort på toilet",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "20bf52e2-7fc0-4368-bf37-443143e38b94",
+      "season": 1,
+      "number": 6,
+      "name": "Hjort med stort gevir",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "f36bd394-7f05-459d-9036-336a966779ab",
+      "season": 1,
+      "number": 7,
+      "name": "Tudse",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "569bbb86-5d73-4d42-8b6e-b6b9f6ef0e58",
+      "season": 1,
+      "number": 8,
+      "name": "Ulv",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "7488bbdc-43c6-4ab8-911c-afc6c7524710",
+      "season": 1,
+      "number": 9,
+      "name": "Hjorteunge besørger",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "5e92c020-1474-4448-a0ee-361ec8b561c7",
+      "season": 1,
+      "number": 10,
+      "name": "Elg i haven",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "d27b4136-5c6f-41d4-956c-fc9c2d92fad0",
+      "season": 1,
+      "number": 11,
+      "name": "Elg med stort gevir",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "1ca5181b-5b50-4dc9-9875-7a0c48425b03",
+      "season": 1,
+      "number": 12,
+      "name": "Vildsvin",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "5c2b2775-c3c6-404d-abd4-3f44d9885994",
+      "season": 1,
+      "number": 13,
+      "name": "Jærv",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "abc6e76f-d68c-47f2-a7d0-10ca6078352c",
+      "season": 1,
+      "number": 14,
+      "name": "Sommerfugle i buske",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "f9adfd9f-4673-4f6e-8d62-5445ea270909",
+      "season": 1,
+      "number": 15,
+      "name": "Frø hopper i græsset",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "a370b2af-e43a-4ef9-84f2-94f9184a88d6",
+      "season": 1,
+      "number": 16,
+      "name": "Humlebi",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "efa318b7-c5ad-4884-a9ba-bfa64db5ef5f",
+      "season": 1,
+      "number": 17,
+      "name": "Larve",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "b09f22c5-1280-4ed4-a21e-28af25182b41",
+      "season": 1,
+      "number": 18,
+      "name": "Myrer",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "b3c252ed-11f8-4462-aeab-4d423046d512",
+      "season": 1,
+      "number": 19,
+      "name": "Mariehøne",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "393cb169-7945-45c7-9c59-efa333599fe0",
+      "season": 1,
+      "number": 20,
+      "name": "Regnorm",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "4cf9dda6-e33d-438e-a85b-6397cf45ebc9",
+      "season": 1,
+      "number": 21,
+      "name": "Tusindben",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "afd4674c-a8b9-404b-8f1f-6fef7c0612ac",
+      "season": 1,
+      "number": 22,
+      "name": "Blomster",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "cc631491-2f77-48f9-9ca8-010cef0f3e42",
+      "season": 1,
+      "number": 23,
+      "name": "Myretue",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "3910a301-9f03-4219-bef1-5403e7b929d1",
+      "season": 1,
+      "number": 24,
+      "name": "Tudser gemmer sig under sten",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "510e028b-64cd-4eab-871b-1f4b66ad9641",
+      "season": 1,
+      "number": 25,
+      "name": "Skovsnegl",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "12d1a5b2-a93f-4339-84cd-062403f943b0",
+      "season": 1,
+      "number": 26,
+      "name": "Snegl i bevægelse",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "874bd6ca-a3c9-4914-ad97-d12eb41e5853",
+      "season": 1,
+      "number": 27,
+      "name": "Svane flyver",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "9e027b19-1605-4a54-81ab-b7115d92f0ae",
+      "season": 1,
+      "number": 28,
+      "name": "Musvåge flyver hen til pige",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "b5d8992e-0bb2-4c7a-9868-1156ed98c3f9",
+      "season": 1,
+      "number": 29,
+      "name": "Hveps vil ind i sit bo",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "c41b4bd7-01f8-4dbb-bdd0-3b65ab5598dd",
+      "season": 1,
+      "number": 30,
+      "name": "Fuldmåne",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "68fad42d-10d7-4b60-a12f-4316d2178a36",
+      "season": 1,
+      "number": 31,
+      "name": "Efterår",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "a752c3de-a744-425c-9c93-c345ae2dde93",
+      "season": 1,
+      "number": 32,
+      "name": "Sky",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "f7c045c4-2b7d-48e9-90c6-e12f5ddb8f53",
+      "season": 1,
+      "number": 33,
+      "name": "Nej, se det sner!",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "043c7c5f-8294-40d8-8870-21494601cdb6",
+      "season": 1,
+      "number": 34,
+      "name": "Regn",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "f832c24f-6967-4f0c-b9f2-1cb9fb119e55",
+      "season": 1,
+      "number": 35,
+      "name": "Regnbue",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "6472f688-9e1c-4ba5-9bd2-e2738511a7a7",
+      "season": 1,
+      "number": 36,
+      "name": "Forår",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "c4f57db9-442b-40e6-bfd6-f0b06c3e07bf",
+      "season": 1,
+      "number": 37,
+      "name": "Store snefnug",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "3489adc4-4613-44ab-bcc3-c4c88e426a74",
+      "season": 1,
+      "number": 38,
+      "name": "Snefnug",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "4dfd0df5-e8d9-44b4-80e8-32e2f043a1ee",
+      "season": 1,
+      "number": 39,
+      "name": "Bjørne",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "4c938008-7180-41a0-a9c6-241952c66196",
+      "season": 1,
+      "number": 40,
+      "name": "Badende bjørn",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "76b15e24-2cf6-4137-be62-b0f3c9446d07",
+      "season": 1,
+      "number": 41,
+      "name": "Ulve drikker vand",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "05290896-7dd8-4f56-b857-5cb1d721f6c0",
+      "season": 1,
+      "number": 42,
+      "name": "Skoven",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "7016a2dc-f40a-4ca0-ab58-4a6c7802d4e3",
+      "season": 1,
+      "number": 43,
+      "name": "Hagl",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "d74657f8-4a7f-4add-bee1-96c165bd7a94",
+      "season": 1,
+      "number": 44,
+      "name": "Lille larve kravler",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "3b2985e0-f89e-4807-9d9d-1ad46ca1ce88",
+      "season": 1,
+      "number": 45,
+      "name": "Bjørneunge",
+      "airdate": "2024-02-14"
+    }
+  ]
+}

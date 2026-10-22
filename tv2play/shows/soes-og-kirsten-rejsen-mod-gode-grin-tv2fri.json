@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:soes-og-kirsten-rejsen-mod-gode-grin-tv2fri",
+  "name": "Søs og Kirsten - rejsen mod gode grin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "48cb352b-5bf8-487e-ac46-ba1c7965c64a",
+      "season": 1,
+      "number": 1,
+      "name": "Turen går til Finland",
+      "airdate": "2018-02-12"
+    },
+    {
+      "id": "6c26919c-ae3f-41d1-876c-41903e6c7911",
+      "season": 1,
+      "number": 2,
+      "name": "Turen går til Japan",
+      "airdate": "2018-02-12"
+    },
+    {
+      "id": "7138c05c-c35e-4521-b590-b3fd9d340a22",
+      "season": 1,
+      "number": 3,
+      "name": "Turen går til Skotland",
+      "airdate": "2018-02-19"
+    },
+    {
+      "id": "741bddf6-bc54-4129-8f8c-f52b2641fd99",
+      "season": 1,
+      "number": 4,
+      "name": "Turen går til Vietnam",
+      "airdate": "2018-02-26"
+    },
+    {
+      "id": "915b673f-3119-4c62-b0a9-216ac4e71e77",
+      "season": 1,
+      "number": 5,
+      "name": "Turen går til Brasilien",
+      "airdate": "2018-03-05"
+    },
+    {
+      "id": "756479ed-41cb-4be4-b06a-714664caa9e0",
+      "season": 1,
+      "number": 6,
+      "name": "Turen går til Israel",
+      "airdate": "2018-03-12"
+    },
+    {
+      "id": "12bd8562-bcfc-4108-8db4-14ca21a0e0d5",
+      "season": 2,
+      "number": 1,
+      "name": "Turen går til Østrig",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "19216c90-ac19-436a-86d5-ccae858349d8",
+      "season": 2,
+      "number": 2,
+      "name": "Turen går til Mexico",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "8c41b7b5-b8df-482d-85cb-8be432627cfb",
+      "season": 2,
+      "number": 3,
+      "name": "Turen går til Spanien",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "13ed571e-6d0e-4b63-a162-7ad6b8bb7928",
+      "season": 2,
+      "number": 4,
+      "name": "Turen går til Wales",
+      "airdate": "2019-03-01"
+    },
+    {
+      "id": "cf635292-d11a-4242-b08e-c41b05f8ba9d",
+      "season": 2,
+      "number": 5,
+      "name": "Turen går til Tanzania",
+      "airdate": "2019-03-08"
+    },
+    {
+      "id": "91cc489a-b2e6-4ed4-b521-32e2080cff6a",
+      "season": 2,
+      "number": 6,
+      "name": "Turen går til Tyrkiet",
+      "airdate": "2019-03-08"
+    }
+  ]
+}

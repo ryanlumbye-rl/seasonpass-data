@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:i-haelene-paa-en-svindler-tv2",
+  "name": "I hælene på en svindler",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e0973a5a-c426-4456-b7aa-74cfb309a75b",
+      "season": 1,
+      "number": 1,
+      "name": "En kvinde flytter til byen",
+      "airdate": "2024-07-29"
+    },
+    {
+      "id": "77795d1b-4af6-4bb9-b32e-c135dac3210a",
+      "season": 1,
+      "number": 2,
+      "name": "Et nyt offer",
+      "airdate": "2024-08-05"
+    },
+    {
+      "id": "e10553e5-bd67-425c-9c4b-8054f0df5db0",
+      "season": 1,
+      "number": 3,
+      "name": "Den svenske millionær",
+      "airdate": "2024-08-12"
+    },
+    {
+      "id": "b95255d9-027c-4d0c-b2b7-78fc1b7131f4",
+      "season": 1,
+      "number": 4,
+      "name": "Lykkes det at møde kvinden?",
+      "airdate": "2024-08-19"
+    },
+    {
+      "id": "1f3c01ca-381b-4fcf-979a-0567440d512b",
+      "season": 2,
+      "number": 1,
+      "name": "Forført af en fighter",
+      "airdate": "2026-02-25"
+    },
+    {
+      "id": "9a866aed-8d5a-46e9-9a24-79cc91503c6f",
+      "season": 2,
+      "number": 2,
+      "name": "Konfrontation med en livvagt",
+      "airdate": "2026-03-04"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:skoenhedsdronning-paa-svindlerjagt-tv2play",
+  "name": "Skønhedsdronning på svindlerjagt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bda34cd3-df8b-4f19-865e-6c29b18c7432",
+      "season": 1,
+      "number": 1,
+      "name": "Der er noget ved ham…",
+      "airdate": "2026-04-16"
+    },
+    {
+      "id": "c2f77e1f-e3f4-4df0-b6da-b909996076d6",
+      "season": 1,
+      "number": 2,
+      "name": "At fange en svindler",
+      "airdate": "2026-04-16"
+    },
+    {
+      "id": "6284a8be-474f-464f-954a-b3b4c6501b33",
+      "season": 1,
+      "number": 3,
+      "name": "Motiv søges",
+      "airdate": "2026-04-16"
+    }
+  ]
+}

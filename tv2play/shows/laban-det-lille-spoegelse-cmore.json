@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:laban-det-lille-spoegelse-cmore",
+  "name": "Laban - Det lille spøgelse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2779f727-0e6a-48c7-90ed-e27377aca7ac",
+      "season": 1,
+      "number": 1,
+      "name": "Det spøger på slottet",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "39a1dfff-fa65-4568-8b6e-bc0dea424a1c",
+      "season": 1,
+      "number": 2,
+      "name": "Monsterlyd",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "aaf72d2a-8905-4aa1-bbe0-7a8176a7e4c1",
+      "season": 1,
+      "number": 3,
+      "name": "Egen plads",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "02b424e2-7be3-4312-9703-b938fa421361",
+      "season": 1,
+      "number": 4,
+      "name": "Hjælp til den mørkerædde",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "4cde65f9-cdfc-4f55-a0eb-3a7cde148646",
+      "season": 1,
+      "number": 5,
+      "name": "Kælderrummet",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "d6d72465-0fe9-471c-9a28-72de04a7708f",
+      "season": 1,
+      "number": 6,
+      "name": "Den frygtelige slutning",
+      "airdate": "2026-07-10"
+    }
+  ]
+}

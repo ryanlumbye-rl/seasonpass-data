@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "shows": {
     "24-timer-paa-skadestuen-tv2": [
       "24 timer på skadestuen",
@@ -328,6 +328,2894 @@
     ],
     "vild-indretning-ved-verdens-ende-tv2fri": [
       "Vild indretning ved verdens ende",
+      null
+    ],
+    "1-doegn-2-hold-3-dyr-tv2": [
+      "1 døgn, 2 hold, 3 dyr",
+      null
+    ],
+    "100-knive-tv2": [
+      "100 knive",
+      null
+    ],
+    "11-september-vidne-til-katastrofen-tv2play": [
+      "11. september - vidne til katastrofen",
+      null
+    ],
+    "15-days-britbox": [
+      "15 Days",
+      null
+    ],
+    "1883-skyshowtime": [
+      "1883",
+      null
+    ],
+    "1923-skyshowtime": [
+      "1923",
+      null
+    ],
+    "24-stjerners-julikalender-tv2echo": [
+      "24 stjerners julikalender",
+      null
+    ],
+    "a-discovery-of-witches-skyshowtime": [
+      "A Discovery of Witches",
+      null
+    ],
+    "a-ghost-story-for-christmas-britbox": [
+      "A Ghost Story for Christmas",
+      null
+    ],
+    "a-mothers-son-britbox": [
+      "A Mother's Son",
+      null
+    ],
+    "aandenoed-tv2play": [
+      "Åndenød",
+      null
+    ],
+    "aargang-20-tv2": [
+      "Årgang 20",
+      null
+    ],
+    "aarhus-airport-tv2play": [
+      "Aarhus Airport",
+      null
+    ],
+    "aces-the-atp-no1-club-tv2play": [
+      "Aces: The ATP No.1 Club",
+      null
+    ],
+    "ad-oiii": [
+      "AD?!",
+      null
+    ],
+    "after-the-flood-britbox": [
+      "After the Flood",
+      null
+    ],
+    "after-the-flood-tv2play": [
+      "After the Flood",
+      null
+    ],
+    "agatha-christie-det-foerste-skridt-mod-mord-tv2charlie": [
+      "Agatha Christie: Det første skridt mod mord",
+      null
+    ],
+    "agatha-christies-hjerson-cmore": [
+      "Agatha Christies Hjerson",
+      null
+    ],
+    "agatha-christies-poirot-none": [
+      "Agatha Christie's Poirot",
+      null
+    ],
+    "agatha-christies-poirot-tv2play": [
+      "Agatha Christie's Poirot",
+      null
+    ],
+    "agatha-christies-tommy-tuppence-tv2play": [
+      "Agatha Christie's Tommy & Tuppence",
+      null
+    ],
+    "alene-sammen-tv2echo": [
+      "Alene sammen",
+      null
+    ],
+    "alene-sammen-tv2play": [
+      "Alene sammen",
+      null
+    ],
+    "alfons-aaberg-oiii": [
+      "Alfons Åberg",
+      null
+    ],
+    "all-exclusive-tv2echo": [
+      "All Exclusive",
+      null
+    ],
+    "all-her-fault-tv2play": [
+      "All Her Fault",
+      null
+    ],
+    "alle-goer-det-vel-tv2play": [
+      "Alle gør det vel?",
+      null
+    ],
+    "ambulancen-liv-eller-doed-tv2": [
+      "Ambulancen - liv eller død",
+      null
+    ],
+    "americas-got-talent-tv2": [
+      "America's Got Talent",
+      null
+    ],
+    "anders-matthesen-anden-25-none": [
+      "Anders Matthesen - Anden 25",
+      null
+    ],
+    "anders-matthesen-shhh-tv2play": [
+      "Anders Matthesen - SHHH!",
+      null
+    ],
+    "anders-matthesen-tal-for-dig-selv-tv2echo": [
+      "Anders Matthesen - Tal for dig selv",
+      null
+    ],
+    "antiks-oiii": [
+      "Antiks",
+      null
+    ],
+    "any-human-heart-tv2play": [
+      "Any Human Heart",
+      null
+    ],
+    "archie-britbox": [
+      "Archie",
+      null
+    ],
+    "auktionshuset-tv2fri": [
+      "Auktionshuset",
+      null
+    ],
+    "avatar-seven-havens-none": [
+      "Avatar: Seven Havens",
+      null
+    ],
+    "bachelor-sverige-tv2echo": [
+      "Bachelor Sverige",
+      null
+    ],
+    "bachelorette-tv2echo": [
+      "Bachelorette",
+      null
+    ],
+    "backstage-paa-wonder-tv2play": [
+      "Backstage på Wonder",
+      null
+    ],
+    "backstrom-cmore": [
+      "Bäckström",
+      null
+    ],
+    "backyardigans-oiii": [
+      "Backyardigans",
+      null
+    ],
+    "bad-blood-skyshowtime": [
+      "Bad Blood",
+      null
+    ],
+    "bad-blood-tv2play": [
+      "Bad Blood",
+      null
+    ],
+    "badehotellet-et-kig-bag-kulissen-tv2": [
+      "Badehotellet - et kig bag kulissen",
+      null
+    ],
+    "badehotellet-tv2": [
+      "Badehotellet",
+      null
+    ],
+    "bafta-film-awards-britbox": [
+      "BAFTA Film Awards",
+      null
+    ],
+    "bag-om-kandidaten-tv2bornholm": [
+      "Bag om kandidaten",
+      null
+    ],
+    "balladen-om-kolonihaven-tv2": [
+      "Balladen om kolonihaven",
+      null
+    ],
+    "bamse-og-heksens-datter-oiii": [
+      "Bamse og heksens datter",
+      null
+    ],
+    "bamse-og-tyvenes-by-oiii": [
+      "Bamse og Tyvenes by",
+      null
+    ],
+    "bamse-verdens-staerkeste-bjoern-oiii": [
+      "Bamse, verdens stærkeste bjørn",
+      null
+    ],
+    "before-we-die-britbox": [
+      "Before We Die",
+      null
+    ],
+    "beier-bygger-have-tv2fri": [
+      "Beier bygger have",
+      null
+    ],
+    "belgravia-skyshowtime": [
+      "Belgravia",
+      null
+    ],
+    "belgravia-the-next-chapter-tv2play": [
+      "Belgravia: The Next Chapter",
+      null
+    ],
+    "beliggenhed-beliggenhed-beliggenhed-sommerhuse-tv2": [
+      "Beliggenhed, beliggenhed, beliggenhed - sommerhuse",
+      null
+    ],
+    "benzinbroedre-gammelt-venskab-ruster-aldrig-tv2": [
+      "Benzinbrødre - gammelt venskab ruster aldrig",
+      null
+    ],
+    "benzinbroedre-gammelt-venskab-ruster-ikke-tv2": [
+      "Benzinbrødre - gammelt venskab ruster aldrig",
+      null
+    ],
+    "bert-dansk-tale-cmore": [
+      "Bert (dansk tale)",
+      null
+    ],
+    "bertil-baeltetasken-oiii": [
+      "Bertil & Bæltetasken",
+      null
+    ],
+    "better-britbox": [
+      "Better",
+      null
+    ],
+    "beyond-paradise-britbox": [
+      "Beyond Paradise",
+      null
+    ],
+    "billions-skyshowtime": [
+      "Billions",
+      null
+    ],
+    "bing-tv2play": [
+      "Bing",
+      null
+    ],
+    "bjergets-helte-tv2charlie": [
+      "Bjergets helte",
+      null
+    ],
+    "bjerglaegen-tv2charlie": [
+      "Bjerglægen",
+      null
+    ],
+    "black-work-britbox": [
+      "Black Work",
+      null
+    ],
+    "blindt-spor-britbox": [
+      "Blindt spor",
+      null
+    ],
+    "blippi-wonders-oiii": [
+      "Blippi Wonders",
+      null
+    ],
+    "blue-murder-britbox": [
+      "Blue Murder",
+      null
+    ],
+    "bo-bedre-billigt-tv2kosmopol": [
+      "Bo bedre billigt",
+      null
+    ],
+    "boksen-tv2": [
+      "Boksen",
+      null
+    ],
+    "bolighaj-finder-hjem-tv2fri": [
+      "Bolighaj finder hjem",
+      null
+    ],
+    "bornholms-bedste-boligsalg-tv2play": [
+      "Bornholms bedste boligsalg",
+      null
+    ],
+    "brandmand-sam-tv2play": [
+      "Brandmand Sam",
+      null
+    ],
+    "brave-new-world-tv2play": [
+      "Brave New World",
+      null
+    ],
+    "brilliant-minds-cmore": [
+      "Brilliant Minds",
+      null
+    ],
+    "britains-got-talent-tv2charlie": [
+      "Britain's Got Talent",
+      null
+    ],
+    "brooklyn-nine-nine-tv2play": [
+      "Brooklyn Nine-Nine",
+      null
+    ],
+    "brug-hovedet-oiii": [
+      "Brug hovedet",
+      null
+    ],
+    "bs-ulvene-i-skotland-tvmidtvest": [
+      "BS & ulvene i Skotland",
+      null
+    ],
+    "bs-ulvene-til-soes-tvmidtvest": [
+      "BS & ulvene til søs",
+      null
+    ],
+    "butterbeans-caf-tv2play": [
+      "Butterbeans café",
+      null
+    ],
+    "californication-skyshowtime": [
+      "Californication",
+      null
+    ],
+    "californication-tv2play": [
+      "Californication",
+      null
+    ],
+    "caprica-tv2play": [
+      "Caprica",
+      null
+    ],
+    "chucky-tv2play": [
+      "Chucky",
+      null
+    ],
+    "cleaning-up-britbox": [
+      "Cleaning Up",
+      null
+    ],
+    "cocomelon-oiii": [
+      "Cocomelon",
+      null
+    ],
+    "coldwater-tv2play": [
+      "Coldwater",
+      null
+    ],
+    "columbo-1988-tv2play": [
+      "Columbo (1988)",
+      null
+    ],
+    "columbo-tv2play": [
+      "Columbo",
+      null
+    ],
+    "confessions-of-a-serial-killer-levi-bellfield-tv2play": [
+      "Confessions of a Serial Killer: Levi Bellfield",
+      null
+    ],
+    "couples-therapy-skyshowtime": [
+      "Couples Therapy",
+      null
+    ],
+    "crime-britbox": [
+      "Crime",
+      null
+    ],
+    "crossfire-britbox": [
+      "Crossfire",
+      null
+    ],
+    "dalgliesh-cmore": [
+      "Dalgliesh",
+      null
+    ],
+    "damnation-tv2play": [
+      "Damnation",
+      null
+    ],
+    "danish-dynamite-tv2echo": [
+      "Danish Dynamite",
+      null
+    ],
+    "danmarks-dejligste-badehoteller-tv2": [
+      "Danmarks dejligste badehoteller",
+      null
+    ],
+    "danmarks-dejligste-slotshoteller-tv2": [
+      "Danmarks dejligste slotshoteller",
+      null
+    ],
+    "danmarks-dummeste-tv2": [
+      "Danmarks dummeste",
+      null
+    ],
+    "dark-heart-britbox": [
+      "Dark Heart",
+      null
+    ],
+    "date-mig-noegen-uk-tv2echo": [
+      "Date mig nøgen UK",
+      null
+    ],
+    "de-bedste-aar-tv2echo": [
+      "De bedste år",
+      null
+    ],
+    "de-forsvundne-faedre-tv2": [
+      "De forsvundne fædre",
+      null
+    ],
+    "de-lovloese-kolonihaver-tv2": [
+      "De lovløse kolonihaver",
+      null
+    ],
+    "de-sjaeldne-danskere-tv2": [
+      "De sjældne danskere",
+      null
+    ],
+    "dear-england-tv2": [
+      "Dear England",
+      null
+    ],
+    "death-valley-britbox": [
+      "Death Valley",
+      null
+    ],
+    "deer-squad-skyshowtime": [
+      "Deer Squad",
+      null
+    ],
+    "deja-vu-med-froekjaer-tv2charlie": [
+      "Deja-vu med Frøkjær",
+      null
+    ],
+    "den-bedste-tid-tv2charlie": [
+      "Den bedste tid",
+      null
+    ],
+    "den-falske-politikommissaer-tv2": [
+      "Den falske politikommissær",
+      null
+    ],
+    "den-grimme-aelling-og-mig-oiii": [
+      "Den grimme ælling og mig",
+      null
+    ],
+    "den-roede-enke-cmore": [
+      "Den røde enke",
+      null
+    ],
+    "den-sidste-breddegrad-tv2": [
+      "Den sidste breddegrad",
+      null
+    ],
+    "den-sorte-snog-britbox": [
+      "Den sorte snog",
+      null
+    ],
+    "den-svenske-mafiaboss-cmore": [
+      "Den svenske mafiaboss",
+      null
+    ],
+    "det-politiet-tvsyd": [
+      "Det’ politiet",
+      null
+    ],
+    "det-roder-tv2fri": [
+      "Det roder",
+      null
+    ],
+    "det-rullende-auktionshus-tv2fri": [
+      "Det rullende auktionshus",
+      null
+    ],
+    "dexter-new-blood-skyshowtime": [
+      "Dexter: New Blood",
+      null
+    ],
+    "dexter-original-sin-skyshowtime": [
+      "Dexter: Original Sin",
+      null
+    ],
+    "dexter-resurrection-skyshowtime": [
+      "Dexter: Resurrection",
+      null
+    ],
+    "dexter-skyshowtime": [
+      "Dexter",
+      null
+    ],
+    "di-ray-britbox": [
+      "DI Ray",
+      null
+    ],
+    "dicte-tv2": [
+      "Dicte",
+      null
+    ],
+    "dine-fulde-fem-tv2charlie": [
+      "Dine fulde fem",
+      null
+    ],
+    "dino-deluxe-cmore": [
+      "Dino Deluxe",
+      null
+    ],
+    "dirty-john-tv2play": [
+      "Dirty John",
+      null
+    ],
+    "doc-martin-byens-bedste-laege-tv2charlie": [
+      "Doc Martin - byens bedste læge",
+      null
+    ],
+    "doc-martin-tv2charlie": [
+      "Doc Martin",
+      null
+    ],
+    "doeden-paa-bestilling-et-hemmeligt-netvaerk-tv2play": [
+      "Døden på bestilling - et hemmeligt netværk",
+      null
+    ],
+    "doelle-for-evigt-tv2oest": [
+      "Dølle for evigt",
+      null
+    ],
+    "doktrinen-cmore": [
+      "Doktrinen",
+      null
+    ],
+    "dr-death-skyshowtime-skyshowtime": [
+      "Dr. Death",
+      null
+    ],
+    "dracula-tv2play": [
+      "Dracula",
+      null
+    ],
+    "drager-de-ni-riger-skyshowtime": [
+      "Drager: De ni riger",
+      null
+    ],
+    "drager-redningsrytterne-himlens-helte-skyshowtime": [
+      "Drager - Redningsrytterne: Himlens Helte",
+      null
+    ],
+    "dragerytterne-fra-bersaerkoeen-tv2play": [
+      "Dragerytterne fra Bersærkøen",
+      null
+    ],
+    "droemmehjem-tvmidtvest": [
+      "Drømmehjem",
+      null
+    ],
+    "droemmehotellet-paa-den-lille-oe-tv2fri": [
+      "Drømmehotellet på den lille ø",
+      null
+    ],
+    "droemmen-om-112-tv2play": [
+      "Drømmen om 112",
+      null
+    ],
+    "droemmeslot-paa-hoejkant-tv2fri": [
+      "Drømmeslot på højkant",
+      null
+    ],
+    "dronningerne-cmore": [
+      "Dronningerne",
+      null
+    ],
+    "du-maa-ikke-blive-for-dansk-tv2": [
+      "Du må ikke blive for dansk",
+      null
+    ],
+    "duften-af-michelin-tv2nord": [
+      "Duften af Michelin",
+      null
+    ],
+    "duften-af-michelin-tv2play": [
+      "Duften af Michelin",
+      null
+    ],
+    "dukkehospitalet-oiii": [
+      "Dukkehospitalet",
+      null
+    ],
+    "dutton-ranch-tv2play": [
+      "Dutton Ranch",
+      null
+    ],
+    "dybvaaaaad-tv2play": [
+      "Dybvaaaaad",
+      null
+    ],
+    "dyr-i-byr-oiii": [
+      "Dyr i by'r",
+      null
+    ],
+    "efterforskningen-tv2play": [
+      "Efterforskningen",
+      null
+    ],
+    "elementary-skyshowtime": [
+      "Elementary",
+      null
+    ],
+    "emil-skruer-ned-tv2": [
+      "Emil skruer ned",
+      null
+    ],
+    "emils-spiselige-have-tv2play": [
+      "Emils spiselige have",
+      null
+    ],
+    "emma-en-kvindes-kamp-tv2charlie": [
+      "Emma - en kvindes kamp",
+      null
+    ],
+    "en-fabulous-familie-tv2play": [
+      "En fabulous familie",
+      null
+    ],
+    "en-haabefuld-ungdom-none": [
+      "En håbefuld ungdom",
+      null
+    ],
+    "en-have-i-gave-tv2fri": [
+      "En have i gave",
+      null
+    ],
+    "en-morder-iblandt-os-drabet-paa-emilie-meng-tv2oest": [
+      "En morder iblandt os - drabet på Emilie Meng",
+      null
+    ],
+    "en-saerlig-slags-tvmidtvest": [
+      "En særlig slags",
+      null
+    ],
+    "en-stor-dag-paa-godset-tv2": [
+      "En stor dag på godset",
+      null
+    ],
+    "er-der-nogen-tv2nord": [
+      "Er der nogen?",
+      null
+    ],
+    "estonia-cmore": [
+      "Estonia",
+      null
+    ],
+    "et-andet-liv-none": [
+      "Et andet liv",
+      null
+    ],
+    "et-rigtigt-fucking-arbejde-tv2play": [
+      "Et rigtigt fucking arbejde",
+      null
+    ],
+    "extras-britbox": [
+      "Extras",
+      null
+    ],
+    "eyewitness-tv2play": [
+      "Eyewitness",
+      null
+    ],
+    "f-for-faar-tv2play": [
+      "F for får",
+      null
+    ],
+    "fader-brown-britbox": [
+      "Fader Brown",
+      null
+    ],
+    "faellessang-paa-charlie-tv2charlie": [
+      "Fællessang på Charlie",
+      null
+    ],
+    "fake-patient-cmore": [
+      "Fake Patient",
+      null
+    ],
+    "falcn-britbox": [
+      "Falcón",
+      null
+    ],
+    "familier-som-vores-tv2": [
+      "Familier som vores",
+      null
+    ],
+    "fanget-som-gambler-tv2": [
+      "Fanget som gambler",
+      null
+    ],
+    "fantasifulde-rum-uk-tv2fri": [
+      "Fantasifulde rum UK",
+      null
+    ],
+    "farligt-krydstogt-tv2charlie": [
+      "Farligt krydstogt",
+      null
+    ],
+    "fars-fede-faellessang-tv2play": [
+      "Fars fede fællessang",
+      null
+    ],
+    "fartblind-cmore": [
+      "Fartblind",
+      null
+    ],
+    "fbi-skyshowtime": [
+      "FBI",
+      null
+    ],
+    "fbi-tv2play": [
+      "FBI",
+      null
+    ],
+    "fear-factor-tv2echo": [
+      "Fear Factor",
+      null
+    ],
+    "fearless-britbox": [
+      "Fearless",
+      null
+    ],
+    "fedt-mand-tur-tv2nord": [
+      "Fedt mand - tur!",
+      null
+    ],
+    "feltet-danmarks-stoerste-quizkamp-tv2charlie": [
+      "Feltet - Danmarks største quizkamp",
+      null
+    ],
+    "feltet-usa-tv2charlie": [
+      "Feltet USA",
+      null
+    ],
+    "finders-keepers-britbox": [
+      "Finders Keepers",
+      null
+    ],
+    "fint-skal-det-vaere-britbox-britbox": [
+      "Fint skal det være",
+      null
+    ],
+    "foerst-til-verdens-ende-tv2": [
+      "Først til verdens ende",
+      null
+    ],
+    "folkets-dom-tv2bornholm": [
+      "Folkets dom",
+      null
+    ],
+    "fordi-vi-har-lyst-tv2echo": [
+      "Fordi vi har lyst",
+      null
+    ],
+    "forelsket-i-en-svunden-tid-tv2play": [
+      "Forelsket i en svunden tid",
+      null
+    ],
+    "forliset-tv2play": [
+      "Forliset",
+      null
+    ],
+    "formanden-tv2play": [
+      "Formanden",
+      null
+    ],
+    "fornuft-og-foelelse-tv2play": [
+      "Fornuft og følelse",
+      null
+    ],
+    "forraeder-tv2": [
+      "Forræder",
+      null
+    ],
+    "forraeder-ukendt-grund-tv2echo": [
+      "Forræder - Ukendt grund",
+      null
+    ],
+    "forraeder-under-kutten-tv2": [
+      "Forræder - Under kutten",
+      null
+    ],
+    "fotovognen-tv2": [
+      "Fotovognen",
+      null
+    ],
+    "fra-1-vaerelses-til-strandvejsvilla-tv2": [
+      "Fra 1-værelses til strandvejsvilla",
+      null
+    ],
+    "fra-klaphat-til-klassefest-oiii": [
+      "Fra klaphat til klassefest",
+      null
+    ],
+    "franske-droemmeslotte-tv2fri": [
+      "Franske drømmeslotte",
+      null
+    ],
+    "frauds-tv2play": [
+      "Frauds",
+      null
+    ],
+    "freia-tv2play": [
+      "Freia",
+      null
+    ],
+    "friday-night-lights-tv2play": [
+      "Friday Night Lights",
+      null
+    ],
+    "from-cmore": [
+      "From",
+      null
+    ],
+    "gangs-of-london-skyshowtime": [
+      "Gangs of London",
+      null
+    ],
+    "geckos-garage-oiii": [
+      "Geckos Garage",
+      null
+    ],
+    "gennem-naaleoejet-oiii": [
+      "Gennem nåleøjet",
+      null
+    ],
+    "george-clarkes-old-house-new-home-britbox": [
+      "George Clarke's Old House, New Home",
+      null
+    ],
+    "ghosts-britbox": [
+      "Ghosts",
+      null
+    ],
+    "ghosts-tv2play": [
+      "Ghosts",
+      null
+    ],
+    "gift-med-en-loegn-tv2": [
+      "Gift med en løgn",
+      null
+    ],
+    "gilmore-girls-tv2play": [
+      "Gilmore Girls",
+      null
+    ],
+    "glukosegudindens-guide-til-sundhed-tv2": [
+      "Glukosegudindens guide til sundhed",
+      null
+    ],
+    "gold-digger-britbox": [
+      "Gold Digger",
+      null
+    ],
+    "golden-bachelor-usa-tv2charlie": [
+      "Golden Bachelor USA",
+      null
+    ],
+    "golden-boys-tv2play": [
+      "Golden Boys",
+      null
+    ],
+    "gomorrah-the-origins-tv2play": [
+      "Gomorrah: The Origins",
+      null
+    ],
+    "gomorrah-tv2play": [
+      "Gomorrah",
+      null
+    ],
+    "grace-britbox": [
+      "Grace",
+      null
+    ],
+    "granit-kidz-tv2play": [
+      "Granit Kidz",
+      null
+    ],
+    "graverne-tv2": [
+      "Graverne",
+      null
+    ],
+    "grethes-jul-tv2": [
+      "Grethes jul",
+      null
+    ],
+    "gutterne-paa-kutterne-tv2": [
+      "Gutterne på kutterne",
+      null
+    ],
+    "haanden-paa-hjertet-cmore": [
+      "Hånden på hjertet",
+      null
+    ],
+    "hacks-tv2play": [
+      "Hacks",
+      null
+    ],
+    "halo-skyshowtime": [
+      "Halo",
+      null
+    ],
+    "hamilton-cmore": [
+      "Hamilton",
+      null
+    ],
+    "han-hun-og-droemmeslottet-tv2fri": [
+      "Han, hun og drømmeslottet",
+      null
+    ],
+    "han-hun-og-droemmeslottet-ud-i-det-blaa-tv2fri": [
+      "Han, hun og drømmeslottet - ud i det blå",
+      null
+    ],
+    "hanna-tv2play": [
+      "Hanna",
+      null
+    ],
+    "happy-fucking-pride-cmore": [
+      "Happy fucking Pride",
+      null
+    ],
+    "harlots-britbox": [
+      "Harlots",
+      null
+    ],
+    "havet-bestaar-af-draaber-tv2play": [
+      "Havet består af dråber",
+      null
+    ],
+    "havets-helte-tv2play": [
+      "Havets helte",
+      null
+    ],
+    "havnen-der-aldrig-sover-tv2": [
+      "Havnen der aldrig sover",
+      null
+    ],
+    "hc-andersens-eventyr-oiii": [
+      "H.C. Andersens eventyr",
+      null
+    ],
+    "headhunters-cmore": [
+      "Headhunters",
+      null
+    ],
+    "heartbeats-cmore": [
+      "Heartbeats",
+      null
+    ],
+    "heder-tv2play": [
+      "Heder",
+      null
+    ],
+    "hellas-have-tv2fri": [
+      "Hellas have",
+      null
+    ],
+    "helt-hysterisk-britbox": [
+      "Helt hysterisk",
+      null
+    ],
+    "helt-sin-egen-tv2play": [
+      "Helt sin egen",
+      null
+    ],
+    "henry-danger-skyshowtime": [
+      "Henry Danger",
+      null
+    ],
+    "henry-danger-tv2play": [
+      "Henry Danger",
+      null
+    ],
+    "herlige-haver-none": [
+      "Herlige haver",
+      null
+    ],
+    "herlige-haver-tv2play": [
+      "Herlige haver",
+      null
+    ],
+    "hil-kong-julien-tv2play": [
+      "Hil Kong Julien",
+      null
+    ],
+    "historien-om-ingemar-stenmark-cmore": [
+      "Historien om Ingemar Stenmark",
+      null
+    ],
+    "historiske-forbrydelser-tv2nord": [
+      "Historiske forbrydelser",
+      null
+    ],
+    "hjaelp-vi-har-koebt-en-bondegaard-tv2fri": [
+      "Hjælp, vi har købt en bondegård!",
+      null
+    ],
+    "hjem-til-gaarden-tv2": [
+      "Hjem til gården",
+      null
+    ],
+    "hjemlig-nemlig-tv2fri": [
+      "Hjemlig nemlig",
+      null
+    ],
+    "hjemme-hos-ernst-tv2fri": [
+      "Hjemme hos Ernst",
+      null
+    ],
+    "hjoernebjoerne-oiii": [
+      "Hjørnebjørne",
+      null
+    ],
+    "hjoerring-revyen-tv2charlie": [
+      "Hjørring Revyen",
+      null
+    ],
+    "hoejs-hus-skyshowtime": [
+      "Højs hus",
+      null
+    ],
+    "hoejs-hus-tv2play": [
+      "Højs hus",
+      null
+    ],
+    "hold-vejret-cmore": [
+      "Hold vejret",
+      null
+    ],
+    "hold-vejret-dansk-tale-cmore": [
+      "Hold vejret! (dansk tale)",
+      null
+    ],
+    "hope-street-britbox": [
+      "Hope Street",
+      null
+    ],
+    "hos-hans-tv2charlie": [
+      "Hos Hans",
+      null
+    ],
+    "hotel-savoy-femstjernet-luksus-tv2": [
+      "Hotel Savoy - femstjernet luksus",
+      null
+    ],
+    "house-tv2play": [
+      "House",
+      null
+    ],
+    "hvad-heinos-fatter-goer-tv2": [
+      "Hvad Heinos fatter gør",
+      null
+    ],
+    "hvem-bor-her-tv2": [
+      "Hvem bor her?",
+      null
+    ],
+    "hvem-byder-bedst-julespecial-tv2fri": [
+      "Hvem byder bedst - julespecial",
+      null
+    ],
+    "hvem-byder-bedst-tv2fri": [
+      "Hvem byder bedst?",
+      null
+    ],
+    "hvem-fanden-vil-vaere-landmand-tv2play": [
+      "Hvem fanden vil være landmand?",
+      null
+    ],
+    "hvem-vil-vaere-millionaer-classic-tv2charlie": [
+      "Hvem vil være millionær? Classic",
+      null
+    ],
+    "hvem-vil-vaere-millionaer-tv2charlie": [
+      "Hvem vil være millionær?",
+      null
+    ],
+    "hvide-sande-tv2": [
+      "Hvide Sande",
+      null
+    ],
+    "hvor-solen-altid-skinner-tv2play": [
+      "Hvor solen altid skinner",
+      null
+    ],
+    "hvor-svaert-kan-det-vaere-tv2play": [
+      "Hvor svært kan det være?",
+      null
+    ],
+    "i-den-soede-juletid-tv2": [
+      "I den søde juletid",
+      null
+    ],
+    "i-haelene-paa-en-svindler-tv2": [
+      "I hælene på en svindler",
+      null
+    ],
+    "i-haven-med-anja-tv2fri": [
+      "I haven med Anja",
+      null
+    ],
+    "i-sku-bare-vide-mor-og-far-tv2": [
+      "I sku’ bare vide, mor og far",
+      null
+    ],
+    "ingemann-fyn-lolland-falster-tv2": [
+      "Ingemann, Fyn & Lolland-Falster",
+      null
+    ],
+    "ingemann-hitler-stalin-og-churchill-tv2": [
+      "Ingemann - Hitler, Stalin og Churchill",
+      null
+    ],
+    "ingemann-og-besaettelsen-tv2": [
+      "Ingemann og besættelsen",
+      null
+    ],
+    "ingemann-og-bornholm-tv2": [
+      "Ingemann og Bornholm",
+      null
+    ],
+    "ingemann-og-faeroeerne-tv2": [
+      "Ingemann og Færøerne",
+      null
+    ],
+    "ingemann-og-vestkysten-tv2": [
+      "Ingemann og Vestkysten",
+      null
+    ],
+    "ingen-panik-tv2": [
+      "Ingen panik",
+      null
+    ],
+    "insider-tv2": [
+      "Insider",
+      null
+    ],
+    "inspector-morse-tv2charlie": [
+      "Inspector Morse",
+      null
+    ],
+    "irina-i-stykker-tv2echo": [
+      "Irina i stykker",
+      null
+    ],
+    "iskongerne-tv2play": [
+      "Iskongerne",
+      null
+    ],
+    "jaegerne-cmore": [
+      "Jægerne",
+      null
+    ],
+    "jagten-paa-den-skjulte-by-tv2": [
+      "Jagten på den skjulte by",
+      null
+    ],
+    "jagten-paa-norges-farligste-kvinde-tv2play": [
+      "Jagten på Norges farligste kvinde",
+      null
+    ],
+    "jagtkvinderne-tv2play": [
+      "Jagtkvinderne",
+      null
+    ],
+    "jan-er-talentloes-tv2play": [
+      "Jan er talentløs",
+      null
+    ],
+    "javel-hr-minister-britbox": [
+      "Javel, hr. minister",
+      null
+    ],
+    "javel-hr-statsminister-britbox": [
+      "Javel, hr. statsminister",
+      null
+    ],
+    "jjs-dyretid-oiii": [
+      "JJ's dyretid",
+      null
+    ],
+    "jo-faerre-jo-bedre-tv2": [
+      "Jo færre jo bedre",
+      null
+    ],
+    "jo-faerre-jo-bedre-tv2charlie": [
+      "Jo færre jo bedre",
+      null
+    ],
+    "john-en-koncerthyldest-til-john-mogensen-tv2charlie": [
+      "JOHN - en koncerthyldest til John Mogensen",
+      null
+    ],
+    "jordemoderen-britbox": [
+      "Jordemoderen",
+      null
+    ],
+    "jorden-rundt-i-80-dage-tv2charlie": [
+      "Jorden rundt i 80 dage",
+      null
+    ],
+    "jul-i-konditoriet-tv2": [
+      "Jul i konditoriet",
+      null
+    ],
+    "jul-i-tivoli-tv2": [
+      "Jul i Tivoli",
+      null
+    ],
+    "jul-med-ernst-tv2fri": [
+      "Jul med Ernst",
+      null
+    ],
+    "jul-paa-alpehotellet-tv2fri": [
+      "Jul på alpehotellet",
+      null
+    ],
+    "jul-paa-dangleterre-tv2": [
+      "Jul på d'Angleterre",
+      null
+    ],
+    "jul-paa-herregaarden-tv2fri": [
+      "Jul på herregården",
+      null
+    ],
+    "jul-paa-hindsgavl-tv2fri": [
+      "Jul på Hindsgavl",
+      null
+    ],
+    "jungledyret-hugo-oiii": [
+      "Jungledyret Hugo",
+      null
+    ],
+    "kaempemaskiner-oiii": [
+      "Kæmpemaskiner",
+      null
+    ],
+    "kaempemaskiner-slikfabrikken-oiii": [
+      "Kæmpemaskiner - Slikfabrikken",
+      null
+    ],
+    "kaerester-med-landsholdet-tv2echo": [
+      "Kærester med landsholdet",
+      null
+    ],
+    "kamikaze-skyshowtime": [
+      "Kamikaze",
+      null
+    ],
+    "kan-man-dele-et-paradis-tv2play": [
+      "Kan man dele et paradis?",
+      null
+    ],
+    "kapringen-cmore": [
+      "Kapringen",
+      null
+    ],
+    "kaptajn-underhylers-store-eventyr-tv2play": [
+      "Kaptajn Underhylers store eventyr",
+      null
+    ],
+    "karkurit-cmore": [
+      "Karkurit",
+      null
+    ],
+    "karla-har-fire-foraeldre-tv2kosmopol": [
+      "Karla har fire forældre",
+      null
+    ],
+    "kate-pigen-der-blev-prinsesse-tv2charlie": [
+      "Kate - pigen der blev prinsesse",
+      null
+    ],
+    "katrine-undersoeger-musik-oiii": [
+      "Katrine undersøger - musik",
+      null
+    ],
+    "katrine-undersoeger-oiii": [
+      "Katrine undersøger",
+      null
+    ],
+    "keld-og-hilda-haand-i-haand-tv2charlie": [
+      "Keld og Hilda hånd i hånd",
+      null
+    ],
+    "kender-du-hende-oiii": [
+      "Kender du hende?",
+      null
+    ],
+    "kilden-til-kaerlighed-tv2fri": [
+      "Kilden til kærlighed",
+      null
+    ],
+    "king-tv2play": [
+      "King",
+      null
+    ],
+    "kirstens-vilde-aar-tv2play": [
+      "Kirstens vilde år",
+      null
+    ],
+    "kiwi-strit-oiii": [
+      "Kiwi & Strit",
+      null
+    ],
+    "kjeldsen-indtager-skagen-tv2nord": [
+      "Kjeldsen indtager Skagen",
+      null
+    ],
+    "kjeldsen-indtager-skagen-tv2play": [
+      "Kjeldsen indtager Skagen",
+      null
+    ],
+    "klar-med-svar-tv2charlie": [
+      "Klar med svar",
+      null
+    ],
+    "klar-til-krig-tv2": [
+      "Klar til krig?",
+      null
+    ],
+    "klar-til-krig-tv2play": [
+      "Klar til krig",
+      null
+    ],
+    "klar-til-krise-tv2play": [
+      "Klar til krise",
+      null
+    ],
+    "klipfiskerne-tv2": [
+      "Klipfiskerne",
+      null
+    ],
+    "klovn-tv2play": [
+      "Klovn",
+      null
+    ],
+    "knight-rider-skyshowtime": [
+      "Knight Rider",
+      null
+    ],
+    "knutby-cmore": [
+      "Knutby",
+      null
+    ],
+    "koerelaererne-tv2play": [
+      "Kørelærerne",
+      null
+    ],
+    "kollegiet-cmore": [
+      "Kollegiet",
+      null
+    ],
+    "kommissaer-bancroft-britbox": [
+      "Kommissær Bancroft",
+      null
+    ],
+    "kondrup-ka-os-tv2nord": [
+      "Kondrup Ka’ Os’",
+      null
+    ],
+    "konflikt-tv2": [
+      "Konflikt",
+      null
+    ],
+    "kontaktbedrageriet-tv2play": [
+      "Kontaktbedrageriet",
+      null
+    ],
+    "kreaklubben-oiii": [
+      "Kreaklubben",
+      null
+    ],
+    "krejlerkongen-julespecial-tv2fri": [
+      "Krejlerkongen - julespecial",
+      null
+    ],
+    "kriminalkommissaer-barnaby-britbox": [
+      "Kriminalkommissær Barnaby",
+      null
+    ],
+    "kristian-tv2play": [
+      "Kristian",
+      null
+    ],
+    "kryb-og-krudtugler-oiii": [
+      "Kryb og krudtugler",
+      null
+    ],
+    "krychowiak-one-step-from-the-top-tv2play": [
+      "Krychowiak: One Step from the Top",
+      null
+    ],
+    "kurs-mod-danske-kyster-tv2": [
+      "Kurs mod danske kyster",
+      null
+    ],
+    "kurs-mod-nord-tv2": [
+      "Kurs mod nord",
+      null
+    ],
+    "kvinden-der-faldt-ned-fra-himlen-tv2play": [
+      "Kvinden der faldt ned fra himlen",
+      null
+    ],
+    "la-brea-tv2play": [
+      "La Brea",
+      null
+    ],
+    "laban-det-lille-spoegelse-cmore": [
+      "Laban - Det lille spøgelse",
+      null
+    ],
+    "laban-det-lille-spoegelse-oiii": [
+      "Laban det lille spøgelse",
+      null
+    ],
+    "lajka-cmore": [
+      "LAJKA",
+      null
+    ],
+    "lassemajas-detektivbureau-cmore": [
+      "LasseMajas Detektivbureau",
+      null
+    ],
+    "lassemajas-detektivbureau-dansk-tale-cmore": [
+      "LasseMajas Detektivbureau (dansk tale)",
+      null
+    ],
+    "law-order-special-victims-unit-tv2play": [
+      "Law & Order: Special Victims Unit",
+      null
+    ],
+    "lellobee-city-farm-oiii": [
+      "Lellobee City Farm",
+      null
+    ],
+    "liebhaverne-tv2": [
+      "Liebhaverne",
+      null
+    ],
+    "ligas-tv2play": [
+      "Ligas",
+      null
+    ],
+    "lille-prinsesse-oiii": [
+      "Lille prinsesse",
+      null
+    ],
+    "lille-roede-bus-oiii": [
+      "Lille røde bus",
+      null
+    ],
+    "lillefinger-oiii": [
+      "Lillefinger",
+      null
+    ],
+    "lillemand-tv2play": [
+      "Lillemand",
+      null
+    ],
+    "linde-paa-langeland-i-julehumoer-tv2": [
+      "Linde på Langeland - i julehumør",
+      null
+    ],
+    "linde-paa-langeland-tv2": [
+      "Linde på Langeland",
+      null
+    ],
+    "line-of-duty-britbox": [
+      "Line of Duty",
+      null
+    ],
+    "lioness-skyshowtime": [
+      "Lioness",
+      null
+    ],
+    "lioness-tv2play": [
+      "Lioness",
+      null
+    ],
+    "little-charmers-oiii": [
+      "Little Charmers",
+      null
+    ],
+    "livet-ovre-tv2bornholm": [
+      "Livet ovre",
+      null
+    ],
+    "livet-paa-herregaarden-tv2fri": [
+      "Livet på herregården",
+      null
+    ],
+    "livet-paa-luksushotellet-tv2fri": [
+      "Livet på luksushotellet",
+      null
+    ],
+    "livsfarlig-graense-tv2charlie": [
+      "Livsfarlig grænse",
+      null
+    ],
+    "lokalposten-med-heino-hansen-tv2": [
+      "Lokalposten med Heino Hansen",
+      null
+    ],
+    "london-kills-britbox": [
+      "London Kills",
+      null
+    ],
+    "loppe-deluxe-tv2fri": [
+      "Loppe Deluxe",
+      null
+    ],
+    "louie-oiii": [
+      "Louie",
+      null
+    ],
+    "ludwig-krydsordsdetektiven-tv2play": [
+      "Ludwig - Krydsordsdetektiven",
+      null
+    ],
+    "luftens-laeger-tv2charlie": [
+      "Luftens læger",
+      null
+    ],
+    "luksushuse-paa-bestilling-i-monaco-tv2": [
+      "Luksushuse på bestilling - i Monaco",
+      null
+    ],
+    "luksusmaeglerne-tv2": [
+      "Luksusmæglerne",
+      null
+    ],
+    "luther-britbox": [
+      "Luther",
+      null
+    ],
+    "lyckoviken-skyshowtime": [
+      "Lyckoviken",
+      null
+    ],
+    "lynley-britbox": [
+      "Lynley",
+      null
+    ],
+    "madame-blanc-antik-og-mord-tv2charlie": [
+      "Madame Blanc - antik og mord",
+      null
+    ],
+    "made-in-finland-cmore": [
+      "Made in Finland",
+      null
+    ],
+    "maend-mad-kaerlighed-tv2fri": [
+      "Mænd, mad & kærlighed",
+      null
+    ],
+    "magnus-myggen-oiii": [
+      "Magnus & Myggen",
+      null
+    ],
+    "magpie-murders-none": [
+      "Magpie Murders",
+      null
+    ],
+    "magpie-murders-tv2play": [
+      "Magpie Murders",
+      null
+    ],
+    "maigret-tv2charlie": [
+      "Maigret",
+      null
+    ],
+    "make-it-at-market-britbox": [
+      "Make it at Market",
+      null
+    ],
+    "maria-wern-cmore": [
+      "Maria Wern",
+      null
+    ],
+    "maria-wern-tv2play": [
+      "Maria Wern",
+      null
+    ],
+    "marshals-tv2play": [
+      "Marshals",
+      null
+    ],
+    "martins-tivoli-tv2play": [
+      "Martins tivoli",
+      null
+    ],
+    "masha-og-bjoernen-oiii": [
+      "Masha og bjørnen",
+      null
+    ],
+    "mashas-eventyr-oiii": [
+      "Mashas eventyr",
+      null
+    ],
+    "mashas-uhyggelige-eventyr-oiii": [
+      "Mashas uhyggelige eventyr",
+      null
+    ],
+    "max-og-halv-ridderne-tv2play": [
+      "Max og Halv-Ridderne",
+      null
+    ],
+    "mayor-of-kingstown-skyshowtime": [
+      "Mayor of Kingstown",
+      null
+    ],
+    "med-dyrlaegen-paa-job-tv2play": [
+      "Med dyrlægen på job",
+      null
+    ],
+    "med-paa-noderne-tv2charlie": [
+      "Med på noderne",
+      null
+    ],
+    "mega-ulaekkert-oiii": [
+      "Mega (u)lækkert",
+      null
+    ],
+    "megafaengslet--velkommen-til-helvede-tv2play": [
+      "Megafængslet - velkommen til helvede",
+      null
+    ],
+    "megafamilie-far-mor-og-22-boern-tv2": [
+      "Megafamilie - far, mor og 22 børn",
+      null
+    ],
+    "megafamilie-mor-far-og-16-boern-tv2": [
+      "Megafamilie - mor, far og 16 børn",
+      null
+    ],
+    "megafamilierne-tv2": [
+      "Megafamilierne",
+      null
+    ],
+    "menneskekender-tv2play": [
+      "Menneskekender",
+      null
+    ],
+    "mester-oiii": [
+      "Mester",
+      null
+    ],
+    "mia-tv2play": [
+      "M.I.A.",
+      null
+    ],
+    "min-skjulte-smerte-tv2": [
+      "Min skjulte smerte",
+      null
+    ],
+    "min-tro-tv2play": [
+      "Min tro",
+      null
+    ],
+    "mini-oiii-oiii": [
+      "Mini Oiii",
+      null
+    ],
+    "minibods-oiii": [
+      "Minibods",
+      null
+    ],
+    "miniteve-aktiviteter-cmore": [
+      "Miniteve: Aktiviteter",
+      null
+    ],
+    "miniteve-i-naturen-cmore": [
+      "Miniteve: I naturen",
+      null
+    ],
+    "miniteve-i-vandet-cmore": [
+      "Miniteve: I vandet",
+      null
+    ],
+    "miniteve-maskiner-cmore": [
+      "Miniteve: Maskiner",
+      null
+    ],
+    "miniteve-musikinstrumenter-cmore": [
+      "Miniteve: Musikinstrumenter",
+      null
+    ],
+    "miniteve-paa-bondegaarden-cmore": [
+      "Miniteve: På bondegården",
+      null
+    ],
+    "miniteve-transportmidler-cmore": [
+      "Miniteve: Transportmidler",
+      null
+    ],
+    "miniteve-udeleg-cmore": [
+      "Miniteve: Udeleg",
+      null
+    ],
+    "miniteve-verdens-dyr-cmore": [
+      "Miniteve: Verdens dyr",
+      null
+    ],
+    "mira-og-marie-oiii": [
+      "Mira og Marie",
+      null
+    ],
+    "miraculous-oiii": [
+      "Miraculous",
+      null
+    ],
+    "mit-danmark-tv2fri": [
+      "Mit Danmark",
+      null
+    ],
+    "mit-frankrig-tv2fri": [
+      "Mit Frankrig",
+      null
+    ],
+    "mit-nye-vaerelse-oiii": [
+      "Mit nye værelse",
+      null
+    ],
+    "mit-spanien-tv2fri": [
+      "Mit Spanien",
+      null
+    ],
+    "mit-vilde-liv-tv2play": [
+      "Mit vilde liv",
+      null
+    ],
+    "modig-og-havfruen-oiii": [
+      "Modig og havfruen",
+      null
+    ],
+    "molang-oiii": [
+      "Molang",
+      null
+    ],
+    "monstermaling-oiii": [
+      "Monstermaling",
+      null
+    ],
+    "mord-i-alperne-tv2charlie": [
+      "Mord i Alperne",
+      null
+    ],
+    "mord-i-auckland-tv2charlie": [
+      "Mord i Auckland",
+      null
+    ],
+    "mord-i-melbourne-tv2charlie": [
+      "Mord i Melbourne",
+      null
+    ],
+    "mord-i-skaergaarden-cmore": [
+      "Mord i Skærgården",
+      null
+    ],
+    "mord-mellem-linjerne-tv2charlie": [
+      "Mord mellem linjerne",
+      null
+    ],
+    "mord-paa-kryds-og-tvaers-tv2charlie": [
+      "Mord på kryds og tværs",
+      null
+    ],
+    "mord-under-misteltenen-tv2charlie": [
+      "Mord under misteltenen",
+      null
+    ],
+    "mord-ved-soeen-tv2charlie": [
+      "Mord ved søen",
+      null
+    ],
+    "mordene-i-marlow-cmore": [
+      "Mordene i Marlow",
+      null
+    ],
+    "morran-og-tobias-pengene-eller-livet-tv2play": [
+      "Morran og Tobias - pengene eller livet",
+      null
+    ],
+    "mors-drenge-tv2": [
+      "Mors drenge",
+      null
+    ],
+    "motorvejspatruljen-tv2": [
+      "Motorvejspatruljen",
+      null
+    ],
+    "mouk-oiii": [
+      "Mouk",
+      null
+    ],
+    "mr-bates-vs-the-post-office-britbox": [
+      "Mr. Bates vs. The Post Office",
+      null
+    ],
+    "mr-robot-skyshowtime": [
+      "Mr. Robot",
+      null
+    ],
+    "muflon-mysteriet-paa-fur-tv2play": [
+      "Muflon Mysteriet på Fur",
+      null
+    ],
+    "mumitroldene-none": [
+      "Mumitroldene",
+      null
+    ],
+    "mxima-en-royal-romance-tv2charlie": [
+      "Máxima - en royal romance",
+      null
+    ],
+    "naeste-bjergetape-tv2fri": [
+      "Næste Bjergetape",
+      null
+    ],
+    "naesten-voksen-tv2": [
+      "Næsten voksen",
+      null
+    ],
+    "nat-med-nanna-og-nipper-tv2play": [
+      "Nat med Nanna og Nipper",
+      null
+    ],
+    "natholdet-tv2": [
+      "Natholdet",
+      null
+    ],
+    "natrytterne-cmore": [
+      "Natrytterne",
+      null
+    ],
+    "ncis-skyshowtime": [
+      "NCIS",
+      null
+    ],
+    "nepobaby-tv2play": [
+      "Nepobaby",
+      null
+    ],
+    "nick-og-det-nye-liv-tv2nord": [
+      "Nick og det nye liv",
+      null
+    ],
+    "nikolai-tv2echo": [
+      "Nikolai",
+      null
+    ],
+    "nimb-det-lille-hotel-med-store-droemme-tv2": [
+      "NIMB - det lille hotel med store drømme",
+      null
+    ],
+    "noeglen-til-succes-tv2echo": [
+      "Nøglen til succes",
+      null
+    ],
+    "noergaards-netfix-tv2play": [
+      "Nørgaards netfix",
+      null
+    ],
+    "nordjylland-goer-en-forskel-tv2play": [
+      "Nordjylland gør en forskel",
+      null
+    ],
+    "north-shore-britbox": [
+      "North Shore",
+      null
+    ],
+    "ny-i-vestre-faengsel-tv2kosmopol": [
+      "Ny i Vestre Fængsel",
+      null
+    ],
+    "ny-jul-paa-det-gamle-gods-tv2fri": [
+      "Ny jul på det gamle gods",
+      null
+    ],
+    "nye-roedder-tv2play": [
+      "Nye rødder",
+      null
+    ],
+    "obituary-britbox": [
+      "Obituary",
+      null
+    ],
+    "oddbods-oiii": [
+      "Oddbods",
+      null
+    ],
+    "oeens-hemmeligheder-tv2charlie": [
+      "Øens hemmeligheder",
+      null
+    ],
+    "oerkenens-soenner-tv2charlie": [
+      "Ørkenens sønner",
+      null
+    ],
+    "oiii-dyrene-oiii": [
+      "Oiii-dyrene",
+      null
+    ],
+    "oiii-gaarden-tv2play": [
+      "Oiii-Gården",
+      null
+    ],
+    "olly-lea-oiii": [
+      "Olly & Lea",
+      null
+    ],
+    "olly-og-hjernehjelmen-oiii": [
+      "Olly og Hjernehjelmen",
+      null
+    ],
+    "olsen-banden-for-altid-tv2": [
+      "Olsen-banden for altid",
+      null
+    ],
+    "ondskab-cmore": [
+      "Ondskab",
+      null
+    ],
+    "only-fools-and-horses-britbox": [
+      "Only Fools and Horses",
+      null
+    ],
+    "ordet-er-mit-tv2charlie": [
+      "Ordet er mit",
+      null
+    ],
+    "originalos-oiii": [
+      "Originalos?",
+      null
+    ],
+    "our-mutual-friend-britbox": [
+      "Our Mutual Friend",
+      null
+    ],
+    "paa-besoeg-tv2play": [
+      "På besøg",
+      null
+    ],
+    "paa-job-med-doeden-tv2oestjylland": [
+      "På job med døden",
+      null
+    ],
+    "paa-job-med-doeden-tv2play": [
+      "På job med døden",
+      null
+    ],
+    "paa-patrulje-i-paradis-tv2": [
+      "På patrulje i paradis",
+      null
+    ],
+    "paa-rottejagt-tv2play": [
+      "På rottejagt",
+      null
+    ],
+    "paa-tvaers-af-danmark-tv2fri": [
+      "På tværs af Danmark",
+      null
+    ],
+    "padeldroemme-cmore": [
+      "Padeldrømme",
+      null
+    ],
+    "palles-far-oiii": [
+      "Palles far",
+      null
+    ],
+    "passenger-britbox": [
+      "Passenger",
+      null
+    ],
+    "patrick-stjerne-show-skyshowtime": [
+      "Patrick Stjerne Show",
+      null
+    ],
+    "patrick-stjerne-show-tv2play": [
+      "Patrick Stjerne Show",
+      null
+    ],
+    "payback-britbox": [
+      "Payback",
+      null
+    ],
+    "pd-james-the-murder-room-tv2play": [
+      "P.D. James: The Murder Room",
+      null
+    ],
+    "peddersen-findus-cmore": [
+      "Peddersen & Findus",
+      null
+    ],
+    "perfekte-steder-tv2echo": [
+      "Perfekte steder",
+      null
+    ],
+    "peter-og-kolonihaven-tv2fri": [
+      "Peter og kolonihaven",
+      null
+    ],
+    "pigerne-paa-bosted-tv2oestjylland": [
+      "Pigerne på bosted",
+      null
+    ],
+    "pigerne-paa-bosted-tv2play": [
+      "Pigerne på bosted",
+      null
+    ],
+    "pionek-tv2play": [
+      "Pionek",
+      null
+    ],
+    "pis-politiets-indsatsstyrke-tv2play": [
+      "P.I.S. - Politiets IndsatsStyrke",
+      null
+    ],
+    "pitch-perfect-bumper-in-berlin-tv2play": [
+      "Pitch Perfect - Bumper in Berlin",
+      null
+    ],
+    "plonsters-oiii": [
+      "Plonsters",
+      null
+    ],
+    "portraet-af-linie-3-tv2charlie": [
+      "Portræt af Linie 3",
+      null
+    ],
+    "possession-tv2play": [
+      "Possession",
+      null
+    ],
+    "problemet-med-maggie-cole-britbox": [
+      "Problemet med Maggie Cole",
+      null
+    ],
+    "puk-bygger-om-med-kaerlighed-og-knofedt-tv2fri": [
+      "Puk bygger om - med kærlighed og knofedt",
+      null
+    ],
+    "pyramidernes-hemmeligheder-tv2charlie": [
+      "Pyramidernes hemmeligheder",
+      null
+    ],
+    "raedslernes-labyrint-tv2play": [
+      "Rædslernes labyrint",
+      null
+    ],
+    "ramt-af-boelgen-tv2play": [
+      "Ramt af Bølgen",
+      null
+    ],
+    "rasmus-klump-oiii": [
+      "Rasmus Klump",
+      null
+    ],
+    "ray-donovan-skyshowtime": [
+      "Ray Donovan",
+      null
+    ],
+    "reddet-tv2": [
+      "Reddet",
+      null
+    ],
+    "reindeer-mafia-cmore": [
+      "Reindeer Mafia",
+      null
+    ],
+    "rejseholdet-jagten-paa-en-morder-tv2": [
+      "Rejseholdet - jagten på en morder",
+      null
+    ],
+    "resident-alien-tv2play": [
+      "Resident Alien",
+      null
+    ],
+    "ridley-britbox": [
+      "Ridley",
+      null
+    ],
+    "rig-paa-sex-tv2echo": [
+      "Rig på sex",
+      null
+    ],
+    "robssons-dansk-tale-cmore": [
+      "Robssons (dansk tale)",
+      null
+    ],
+    "roomies-london-calling-tv2echo": [
+      "Roomies - London Calling",
+      null
+    ],
+    "roomies-tv2echo": [
+      "Roomies",
+      null
+    ],
+    "rubble-og-co-tv2play": [
+      "Rubble og Co.",
+      null
+    ],
+    "ruben-soeltoft-ting-fra-min-mund-tv2echo": [
+      "Ruben Søltoft - Ting fra min mund",
+      null
+    ],
+    "rugrats-tv2play": [
+      "Rugrats",
+      null
+    ],
+    "rungsted-4ever-tv2play": [
+      "Rungsted 4ever",
+      null
+    ],
+    "ruths-hotel-tv2": [
+      "Ruths Hotel",
+      null
+    ],
+    "saa-koerer-bussen-tv2": [
+      "Så kører bussen",
+      null
+    ],
+    "saerlige-boliger-tv2nord": [
+      "Særlige boliger",
+      null
+    ],
+    "saerlige-sommerhuse-tv2nord": [
+      "Særlige sommerhuse",
+      null
+    ],
+    "saet-pris-paa-danmark-tv2fri": [
+      "Sæt pris på Danmark",
+      null
+    ],
+    "saet-pris-paa-dit-hjem-tv2": [
+      "Sæt pris på dit hjem",
+      null
+    ],
+    "saint-pierre-tv2charlie": [
+      "Saint Pierre",
+      null
+    ],
+    "sandheden-cmore": [
+      "Sandheden",
+      null
+    ],
+    "se-hva-jeg-kan-oiii": [
+      "Se hva jeg kan",
+      null
+    ],
+    "seal-team-skyshowtime": [
+      "SEAL Team",
+      null
+    ],
+    "sebastians-sidste-rejse-tv2play": [
+      "Sebastians sidste rejse",
+      null
+    ],
+    "see-no-evil-the-story-of-the-moors-murders-britbox": [
+      "See No Evil: The Story of the Moors Murders",
+      null
+    ],
+    "sej-senior-tv2play": [
+      "Sej senior",
+      null
+    ],
+    "seniorsex-tv2nord": [
+      "Seniorsex",
+      null
+    ],
+    "shades-of-blue-tv2play": [
+      "Shades Of Blue",
+      null
+    ],
+    "shakespeare-og-hathaway-tv2play": [
+      "Shakespeare og Hathaway",
+      null
+    ],
+    "shanes-oiiiriginaler-oiii": [
+      "Shanes Oiii'riginaler",
+      null
+    ],
+    "shaolin-tv2": [
+      "Shaolin",
+      null
+    ],
+    "sherwood-britbox": [
+      "Sherwood",
+      null
+    ],
+    "shetland-britbox": [
+      "Shetland",
+      null
+    ],
+    "showbiz-familier-tv2charlie": [
+      "Showbiz familier",
+      null
+    ],
+    "signora-volpe-britbox": [
+      "Signora Volpe",
+      null
+    ],
+    "silent-witness-tv2play": [
+      "Silent Witness",
+      null
+    ],
+    "silvia-mit-liv-som-dronning-tv2charlie": [
+      "Silvia - mit liv som dronning",
+      null
+    ],
+    "simon-og-fuglene-paa-grenen-tv2play": [
+      "Simon og fuglene på grenen",
+      null
+    ],
+    "simon-siger-tv2": [
+      "Simon siger",
+      null
+    ],
+    "sister-boniface-mysteries-britbox": [
+      "Sister Boniface Mysteries",
+      null
+    ],
+    "six-four-britbox": [
+      "Six Four",
+      null
+    ],
+    "sjakalen-skyshowtime": [
+      "Sjakalen",
+      null
+    ],
+    "sjit-happens-tv2echo": [
+      "SJIT Happens",
+      null
+    ],
+    "skat-eller-skrammel-tv2fri": [
+      "Skat eller skrammel",
+      null
+    ],
+    "skoenhedsdronning-paa-svindlerjagt-tv2play": [
+      "Skønhedsdronning på svindlerjagt",
+      null
+    ],
+    "skyggesiden-amagermanden-tv2": [
+      "Skyggesiden - Amagermanden",
+      null
+    ],
+    "slikbyggerne-oiii": [
+      "Slikbyggerne",
+      null
+    ],
+    "slikbyggerne-tv2play": [
+      "Slikbyggerne",
+      null
+    ],
+    "slog-han-sin-kaereste-ihjel-tv2play": [
+      "Slog han sin kæreste ihjel?",
+      null
+    ],
+    "slog-jeg-min-lillebror-ihjel-tv2play": [
+      "Slog jeg min lillebror ihjel?",
+      null
+    ],
+    "smag-for-mord-tv2charlie": [
+      "Smag for mord",
+      null
+    ],
+    "snydt-af-kaerligheden-tv2play": [
+      "Snydt af kærligheden",
+      null
+    ],
+    "soelykken-cmore": [
+      "Sølykken",
+      null
+    ],
+    "soelykkens-jul-cmore": [
+      "Sølykkens jul",
+      null
+    ],
+    "soes-og-kirsten-rejsen-mod-gode-grin-tv2fri": [
+      "Søs og Kirsten - rejsen mod gode grin",
+      null
+    ],
+    "soestrene-hoss-cmore": [
+      "Søstrene Hoss",
+      null
+    ],
+    "sol-over-gudhjem-tv-2-bornholm-tv2bornholm": [
+      "Sol over Gudhjem",
+      null
+    ],
+    "solsidan-cmore": [
+      "Solsidan",
+      null
+    ],
+    "sommer-med-ernst-tv2fri": [
+      "Sommer med Ernst",
+      null
+    ],
+    "sommerdroemme-tv2": [
+      "Sommerdrømme",
+      null
+    ],
+    "spillet-tv2echo": [
+      "Spillet",
+      null
+    ],
+    "spoerg-baeltetasken-oiii": [
+      "Spørg bæltetasken",
+      null
+    ],
+    "spoerg-charlie-jul-tv2charlie": [
+      "Spørg Charlie - jul",
+      null
+    ],
+    "spoerg-charlie-tv2charlie": [
+      "Spørg Charlie",
+      null
+    ],
+    "star-trek-discovery-skyshowtime": [
+      "Star Trek: Discovery",
+      null
+    ],
+    "star-trek-enterprise-skyshowtime": [
+      "Star Trek: Enterprise",
+      null
+    ],
+    "star-trek-enterprise-tv2play": [
+      "Star Trek: Enterprise",
+      null
+    ],
+    "star-trek-lower-decks-skyshowtime": [
+      "Star Trek: Lower Decks",
+      null
+    ],
+    "star-trek-lower-decks-tv2play": [
+      "Star Trek: Lower Decks",
+      null
+    ],
+    "star-trek-picard-skyshowtime": [
+      "Star Trek: Picard",
+      null
+    ],
+    "star-trek-strange-new-worlds-skyshowtime": [
+      "Star Trek: Strange New Worlds",
+      null
+    ],
+    "stateless-tv2play": [
+      "Stateless",
+      null
+    ],
+    "stein-bagger-og-graadighedens-ansigter-tv2play": [
+      "Stein Bagger og grådighedens ansigter",
+      null
+    ],
+    "sten-saks-papir-skyshowtime": [
+      "Sten, saks, papir",
+      null
+    ],
+    "sten-saks-papir-tv2play": [
+      "Sten, saks, papir",
+      null
+    ],
+    "still-waters-tv2play": [
+      "Still Waters",
+      null
+    ],
+    "stokholmsyndromet-tv2play": [
+      "Stokholmsyndromet",
+      null
+    ],
+    "stolthed-og-fordom-tv2play": [
+      "Stolthed og fordom",
+      null
+    ],
+    "stonehouse-britbox": [
+      "Stonehouse",
+      null
+    ],
+    "stormester-en-chance-til-tv2": [
+      "Stormester - en chance til",
+      null
+    ],
+    "stormester-tv2": [
+      "Stormester",
+      null
+    ],
+    "stormester-vindernes-vinder-tv2": [
+      "Stormester - vindernes vinder",
+      null
+    ],
+    "strisser-paa-laesoe-tv2nord": [
+      "Strisser på Læsø",
+      null
+    ],
+    "strisser-paa-samsoe-tv2": [
+      "Strisser på Samsø",
+      null
+    ],
+    "suits-skyshowtime": [
+      "Suits",
+      null
+    ],
+    "sukkerchok-tv2fri": [
+      "Sukkerchok",
+      null
+    ],
+    "super-duper-bunny-league-tv2play": [
+      "Super Duper Bunny League",
+      null
+    ],
+    "surviving-earth-tv2play": [
+      "Surviving Earth",
+      null
+    ],
+    "sussi-uden-leo-tv2nord": [
+      "Sussi uden Leo",
+      null
+    ],
+    "svampebob-firkant-skyshowtime": [
+      "SvampeBob Firkant",
+      null
+    ],
+    "sweetpea-skyshowtime": [
+      "Sweetpea",
+      null
+    ],
+    "sygeplejeskolen-tv2charlie": [
+      "Sygeplejeskolen",
+      null
+    ],
+    "sygeplejeskolen-tv2play": [
+      "Sygeplejeskolen",
+      null
+    ],
+    "syng-det-oiii": [
+      "Syng det!",
+      null
+    ],
+    "syng-med-oiii": [
+      "Syng med",
+      null
+    ],
+    "tabitas-tattoo-cmore": [
+      "Tabitas Tattoo",
+      null
+    ],
+    "tabu-med-rune-klan-tv2": [
+      "Tabu - med Rune Klan",
+      null
+    ],
+    "ted-skyshowtime": [
+      "Ted",
+      null
+    ],
+    "ten-pound-poms-britbox": [
+      "Ten Pound Poms",
+      null
+    ],
+    "that-girl-lay-lay-tv2play": [
+      "That Girl Lay Lay",
+      null
+    ],
+    "the-act-tv2play": [
+      "The Act",
+      null
+    ],
+    "the-agency-tv2play": [
+      "The Agency",
+      null
+    ],
+    "the-au-pair-cmore": [
+      "The Au Pair",
+      null
+    ],
+    "the-borgias-skyshowtime": [
+      "The Borgias",
+      null
+    ],
+    "the-borgias-tv2play": [
+      "The Borgias",
+      null
+    ],
+    "the-cleaner-britbox": [
+      "The Cleaner",
+      null
+    ],
+    "the-confessions-of-frannie-langton-britbox": [
+      "The Confessions of Frannie Langton",
+      null
+    ],
+    "the-five-star-weekend-tv2play": [
+      "The Five Star Weekend",
+      null
+    ],
+    "the-good-place-tv2play": [
+      "The Good Place",
+      null
+    ],
+    "the-good-wife-tv2play": [
+      "The Good Wife",
+      null
+    ],
+    "the-graham-norton-show-britbox": [
+      "The Graham Norton Show",
+      null
+    ],
+    "the-hunting-party-cmore": [
+      "The Hunting Party",
+      null
+    ],
+    "the-inheritance-tv2play": [
+      "The Inheritance",
+      null
+    ],
+    "the-lady-tv2play": [
+      "The Lady",
+      null
+    ],
+    "the-lazarus-project-skyshowtime": [
+      "The Lazarus Project",
+      null
+    ],
+    "the-lazarus-project-tv2play": [
+      "The Lazarus Project",
+      null
+    ],
+    "the-legend-of-korra-skyshowtime": [
+      "The Legend Of Korra",
+      null
+    ],
+    "the-legend-of-korra-tv2play": [
+      "The Legend Of Korra",
+      null
+    ],
+    "the-light-in-the-hall-britbox": [
+      "The Light in the Hall",
+      null
+    ],
+    "the-madison-none": [
+      "The Madison",
+      null
+    ],
+    "the-midwich-cuckoos-tv2play": [
+      "The Midwich Cuckoos",
+      null
+    ],
+    "the-moorside-britbox": [
+      "The Moorside",
+      null
+    ],
+    "the-night-caller-tv2play": [
+      "The Night Caller",
+      null
+    ],
+    "the-office-skyshowtime": [
+      "The Office",
+      null
+    ],
+    "the-office-uk-britbox": [
+      "The Office UK",
+      null
+    ],
+    "the-paper-skyshowtime": [
+      "The Paper",
+      null
+    ],
+    "the-paper-tv2play": [
+      "The Paper",
+      null
+    ],
+    "the-people-v-michael-jackson-cmore": [
+      "The People V. Michael Jackson",
+      null
+    ],
+    "the-purge-tv2play": [
+      "The Purge",
+      null
+    ],
+    "the-rainmaker-tv2play": [
+      "The Rainmaker",
+      null
+    ],
+    "the-red-king-britbox": [
+      "The Red King",
+      null
+    ],
+    "the-rockford-files-tv2play": [
+      "The Rockford Files",
+      null
+    ],
+    "the-thief-his-wife-and-the-canoe-britbox": [
+      "The Thief, His Wife and the Canoe",
+      null
+    ],
+    "the-tribute-tv2play": [
+      "The Tribute",
+      null
+    ],
+    "the-undeclared-war-tv2play": [
+      "The Undeclared War",
+      null
+    ],
+    "the-vicar-of-dibley-britbox": [
+      "The Vicar of Dibley",
+      null
+    ],
+    "the-widower-britbox": [
+      "The Widower",
+      null
+    ],
+    "thomas-og-vennerne-tv2play": [
+      "Thomas og vennerne",
+      null
+    ],
+    "three-little-birds-britbox": [
+      "Three Little Birds",
+      null
+    ],
+    "til-doeden-os-skiller-tv2play": [
+      "Til døden os skiller",
+      null
+    ],
+    "til-salg-i-100-aar-tv2": [
+      "Til salg i 100 år",
+      null
+    ],
+    "tilbage-til-skolen-tv2play": [
+      "Tilbage til skolen",
+      null
+    ],
+    "tim-rex-in-space-tv2play": [
+      "Tim Rex in Space",
+      null
+    ],
+    "tjernobyl-midt-i-katastrofen-tv2play": [
+      "Tjernobyl - midt i katastrofen",
+      null
+    ],
+    "to-broedre-og-et-forbandet-loefte-tv2": [
+      "To brødre og et forbandet løfte",
+      null
+    ],
+    "to-drab-og-en-by-i-chok-tv2play": [
+      "To drab og en by i chok",
+      null
+    ],
+    "tomgang-tv2play": [
+      "Tomgang",
+      null
+    ],
+    "top-dog-cmore": [
+      "Top Dog",
+      null
+    ],
+    "totally-spies-oiii": [
+      "Totally Spies",
+      null
+    ],
+    "traces-britbox": [
+      "Traces",
+      null
+    ],
+    "tragedien-i-tjaereborg-tv2": [
+      "Tragedien i Tjæreborg",
+      null
+    ],
+    "travels-with-agatha-christie-sir-david-suchet-tv2play": [
+      "Travels with Agatha Christie & Sir David Suchet",
+      null
+    ],
+    "trigger-point-cmore": [
+      "Trigger Point",
+      null
+    ],
+    "trolderi-oiii": [
+      "Trolderi",
+      null
+    ],
+    "ture-sventon-jagten-paa-ungdommens-kilde-cmore": [
+      "Ture Sventon & jagten på Ungdommens kilde",
+      null
+    ],
+    "tut-tv2play": [
+      "Tut",
+      null
+    ],
+    "udenrigsministeren-tv2": [
+      "Udenrigsministeren",
+      null
+    ],
+    "uforglemt-britbox": [
+      "Uforglemt",
+      null
+    ],
+    "uformelt-tv2play": [
+      "Uformelt",
+      null
+    ],
+    "ulla-ingemann-tv2": [
+      "Ulla & Ingemann",
+      null
+    ],
+    "ulvesommer-cmore": [
+      "Ulvesommer",
+      null
+    ],
+    "under-salt-marsh-tv2play": [
+      "Under Salt Marsh",
+      null
+    ],
+    "unge-morse-britbox": [
+      "Unge Morse",
+      null
+    ],
+    "until-i-kill-you-britbox": [
+      "Until I Kill You",
+      null
+    ],
+    "ups-vi-er-voksne-tv2": [
+      "Ups, vi er voksne",
+      null
+    ],
+    "vaerkstedet-uk-special-tv2fri": [
+      "Værkstedet UK - special",
+      null
+    ],
+    "vandborgs-vilde-boligdroemme-tv2nord": [
+      "Vandborgs vilde boligdrømme",
+      null
+    ],
+    "vandkant-til-salg-tv2fri": [
+      "Vandkant til salg",
+      null
+    ],
+    "vanity-fair-britbox": [
+      "Vanity Fair",
+      null
+    ],
+    "vera-britbox": [
+      "Vera",
+      null
+    ],
+    "verden-som-laereplads-tv2play": [
+      "Verden som læreplads",
+      null
+    ],
+    "veronika-skyshowtime": [
+      "Veronika",
+      null
+    ],
+    "vi-drukner-i-rod-tv2": [
+      "Vi drukner i rod",
+      null
+    ],
+    "vi-drukner-i-rod-uk-tv2fri": [
+      "Vi drukner i rod UK",
+      null
+    ],
+    "vi-fixer-det-tv2play": [
+      "Vi fixer det",
+      null
+    ],
+    "vi-har-sgu-koebt-en-bodega-tv2play": [
+      "Vi har sgu købt en bodega",
+      null
+    ],
+    "vi-kommer-med-fred-tv2play": [
+      "Vi kommer med fred",
+      null
+    ],
+    "vigil-none": [
+      "Vigil",
+      null
+    ],
+    "vild-med-dyr-oiii": [
+      "Vild med dyr",
+      null
+    ],
+    "vilde-unger-oiii": [
+      "Vilde unger",
+      null
+    ],
+    "vincent-britbox": [
+      "Vincent",
+      null
+    ],
+    "virdee-tv2play": [
+      "Virdee",
+      null
+    ],
+    "voksne-legeboern-tv2play": [
+      "Voksne legebørn",
+      null
+    ],
+    "voksne-mennesker-cmore": [
+      "Voksne mennesker",
+      null
+    ],
+    "voldsomt-vejr-tv2": [
+      "Voldsomt vejr",
+      null
+    ],
+    "voltron-legendary-defender-tv2play": [
+      "Voltron: Legendary Defender",
+      null
+    ],
+    "vores-jord-tv2": [
+      "Vores jord",
+      null
+    ],
+    "warehouse-13-tv2play": [
+      "Warehouse 13",
+      null
+    ],
+    "x-factor-tv2": [
+      "X Factor",
+      null
+    ],
+    "x-files-none": [
+      "X-Files",
+      null
+    ],
+    "x-files-tv2play": [
+      "X-Files",
+      null
+    ],
+    "yellowjackets-skyshowtime": [
+      "Yellowjackets",
+      null
+    ],
+    "yellowstone-skyshowtime": [
+      "Yellowstone",
+      null
+    ],
+    "young-rock-tv2play": [
+      "Young Rock",
+      null
+    ],
+    "yvonnes-rasteplads-tv2oest": [
+      "Yvonnes rasteplads",
+      null
+    ],
+    "yvonnes-rasteplads-tv2play": [
+      "Yvonnes rasteplads",
+      null
+    ],
+    "zoo-oiii": [
+      "Zoo",
+      null
+    ],
+    "zulu-hk-tv2play": [
+      "Zulu HK",
+      null
+    ],
+    "zulu-kvaegraes-tv2play": [
+      "Zulu Kvægræs",
       null
     ]
   }

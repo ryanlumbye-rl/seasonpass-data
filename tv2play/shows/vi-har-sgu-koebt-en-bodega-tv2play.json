@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:vi-har-sgu-koebt-en-bodega-tv2play",
+  "name": "Vi har sgu købt en bodega",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "71065cf2-ebb8-4d7c-9582-592346bfe3ab",
+      "season": 1,
+      "number": 1,
+      "name": "Den store åbningsfest",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "2d5dbe03-dc97-4c54-91f1-cdca9ecff723",
+      "season": 1,
+      "number": 2,
+      "name": "Farlig fornyelse",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "29174aab-c8e6-41b2-9c6e-eace1e15e841",
+      "season": 1,
+      "number": 3,
+      "name": "En virkelig dårlig idé?",
+      "airdate": "2026-09-29"
+    }
+  ]
+}

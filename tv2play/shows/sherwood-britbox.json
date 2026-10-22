@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:sherwood-britbox",
+  "name": "Sherwood",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "747b70cf-6377-4ef4-861b-7d352b585389",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "96ead710-d3f6-4890-bf90-4f0893f10ffa",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "2334bd8a-dac8-445b-ade3-5313fecf30ad",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "72883b0e-614f-4215-b7fd-2ea4b04d146f",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "1ccedfb1-d80d-4941-b5b8-cd185fabbfbf",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "9369640a-4563-4407-860a-21c9555b3e01",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-12-20"
+    }
+  ]
+}

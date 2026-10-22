@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:jan-er-talentloes-tv2play",
+  "name": "Jan er talentløs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f3b748e5-f524-4a7b-9ea4-38775796e943",
+      "season": 1,
+      "number": 1,
+      "name": "God til dårlige beslutninger",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "d206ed8f-26ad-495a-8592-75fc3df778de",
+      "season": 1,
+      "number": 2,
+      "name": "Reddet af Gud",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "d8d19276-059a-4dc7-ad2b-6ada31cbb8b3",
+      "season": 1,
+      "number": 3,
+      "name": "Galleriet åbner",
+      "airdate": "2026-08-25"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:linde-paa-langeland-i-julehumoer-tv2",
+  "name": "Linde på Langeland - i julehumør",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "14a5d25d-bcc8-4b5b-8edb-545be784dd79",
+      "season": 1,
+      "number": 1,
+      "name": "Julen varer lige fra påske",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "00e6be65-a3db-4a64-8965-2039c1a72097",
+      "season": 1,
+      "number": 2,
+      "name": "Flotte farver - labre larver",
+      "airdate": "2023-12-06"
+    },
+    {
+      "id": "88f9f4ac-ef3a-4c96-b99a-7ad943ee439a",
+      "season": 1,
+      "number": 3,
+      "name": "Flag med flag på",
+      "airdate": "2023-12-13"
+    },
+    {
+      "id": "761a63b5-67a4-4663-911d-bfe70416e6d2",
+      "season": 2,
+      "number": 1,
+      "name": "Heja Sverige!",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "353a17b0-7af2-41c8-9cee-4478c353cb5a",
+      "season": 2,
+      "number": 2,
+      "name": "En jule-dromedar",
+      "airdate": "2025-12-08"
+    }
+  ]
+}

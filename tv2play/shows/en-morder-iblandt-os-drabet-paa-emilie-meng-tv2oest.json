@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:en-morder-iblandt-os-drabet-paa-emilie-meng-tv2oest",
+  "name": "En morder iblandt os - drabet på Emilie Meng",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "886d4771-7b4e-4c34-a13e-11faa951cd91",
+      "season": 1,
+      "number": 1,
+      "name": "Forsvundet i sommernatten",
+      "airdate": "2023-10-12"
+    },
+    {
+      "id": "6f1b6650-cdc3-4a0c-92c1-ee53cf9efa37",
+      "season": 1,
+      "number": 2,
+      "name": "Håbet forsvinder",
+      "airdate": "2023-10-19"
+    },
+    {
+      "id": "17c042a6-d6fc-467d-a508-398681c0466a",
+      "season": 1,
+      "number": 3,
+      "name": "En by i sorg",
+      "airdate": "2023-10-26"
+    },
+    {
+      "id": "dca30d7e-994f-434f-82d8-3b0ca846f74e",
+      "season": 1,
+      "number": 4,
+      "name": "Den lyse bil",
+      "airdate": "2023-11-02"
+    },
+    {
+      "id": "53a7c762-a6c6-4882-bc92-77a96cf3076e",
+      "season": 1,
+      "number": 5,
+      "name": "På vildspor",
+      "airdate": "2023-11-09"
+    },
+    {
+      "id": "37dce099-6cf1-4182-b5ba-93eda7da8bc7",
+      "season": 1,
+      "number": 6,
+      "name": "Kidnapningen",
+      "airdate": "2023-11-16"
+    },
+    {
+      "id": "2b8a685b-37da-4b44-8b82-94800c58ec75",
+      "season": 1,
+      "number": 7,
+      "name": "Tapen i kufferten",
+      "airdate": "2024-09-26"
+    },
+    {
+      "id": "7f30c214-e690-48bf-a688-ffd38b05c2a9",
+      "season": 1,
+      "number": 8,
+      "name": "På fri fod",
+      "airdate": "2024-09-26"
+    },
+    {
+      "id": "4ac54fd7-2917-4f90-8b3b-c1dc7201c2de",
+      "season": 1,
+      "number": 9,
+      "name": "Perverteret og farlig",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "f70e2090-71e4-4233-8bc0-d779d7984f72",
+      "season": 1,
+      "number": 10,
+      "name": "Dommen",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "8d3a9f80-0dd6-4158-a6a7-66674363b200",
+      "season": 1,
+      "number": 11,
+      "name": "I hovedet på en morder",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "cc7099e1-763c-41d2-acd5-6451dda043d0",
+      "season": 1,
+      "number": 12,
+      "name": "Politiets bekendelser",
+      "airdate": "2026-02-03"
+    }
+  ]
+}

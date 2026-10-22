@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:paa-tvaers-af-danmark-tv2fri",
+  "name": "På tværs af Danmark",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8f4d64e7-02c3-4ba4-9c14-f10494ea4f38",
+      "season": 1,
+      "number": 1,
+      "name": "Skagen",
+      "airdate": "2020-09-15"
+    },
+    {
+      "id": "5e8575e8-027b-4193-819f-1ccea4a8fce1",
+      "season": 1,
+      "number": 2,
+      "name": "Helsingør",
+      "airdate": "2020-09-15"
+    },
+    {
+      "id": "7126805a-81bf-48a3-953c-ed591a9a6a6c",
+      "season": 1,
+      "number": 3,
+      "name": "Køge",
+      "airdate": "2020-09-22"
+    },
+    {
+      "id": "119c83db-fae8-4f9b-9a57-9dba94f0024e",
+      "season": 1,
+      "number": 4,
+      "name": "Kerteminde",
+      "airdate": "2020-09-29"
+    },
+    {
+      "id": "f57f335c-7198-4851-8a2d-b75cef479f2c",
+      "season": 1,
+      "number": 5,
+      "name": "Bornholm",
+      "airdate": "2020-10-06"
+    },
+    {
+      "id": "f555f101-8394-48e4-8371-de4c8784dcf1",
+      "season": 1,
+      "number": 6,
+      "name": "Faxe",
+      "airdate": "2020-10-13"
+    },
+    {
+      "id": "c369c115-7c42-4f9b-a38d-2de6b1a3ad1b",
+      "season": 1,
+      "number": 7,
+      "name": "Ribe",
+      "airdate": "2020-10-20"
+    },
+    {
+      "id": "27907755-8df2-4ab2-a038-ca545d9c002a",
+      "season": 1,
+      "number": 8,
+      "name": "Rebild",
+      "airdate": "2020-10-27"
+    },
+    {
+      "id": "691977c9-2cb1-4e28-bb67-87ee19d9b936",
+      "season": 2,
+      "number": 1,
+      "name": "På tværs af Kalundborg",
+      "airdate": "2022-04-20"
+    },
+    {
+      "id": "3c5ce6df-a513-4676-8107-41f09e65a374",
+      "season": 2,
+      "number": 2,
+      "name": "På tværs af Faaborg",
+      "airdate": "2022-04-20"
+    },
+    {
+      "id": "0b03b7e7-2c0c-4f9f-b602-96c5d66cf993",
+      "season": 2,
+      "number": 3,
+      "name": "På tværs af Roskilde",
+      "airdate": "2022-04-27"
+    },
+    {
+      "id": "231c5497-51b0-4aaa-80ae-2a22eb8ff461",
+      "season": 2,
+      "number": 4,
+      "name": "På tværs af Silkeborg",
+      "airdate": "2022-05-04"
+    },
+    {
+      "id": "9494015e-3182-497a-b354-b63b76fa68b9",
+      "season": 2,
+      "number": 5,
+      "name": "På tværs af Horsens",
+      "airdate": "2022-05-11"
+    },
+    {
+      "id": "d392e233-57cb-45ef-a42c-fedd17eba8df",
+      "season": 2,
+      "number": 6,
+      "name": "På tværs af Guldborgsund",
+      "airdate": "2022-05-18"
+    },
+    {
+      "id": "02419bbb-f1ec-48f9-91cc-8ac65b60b485",
+      "season": 2,
+      "number": 7,
+      "name": "På tværs af Esbjerg",
+      "airdate": "2022-05-25"
+    },
+    {
+      "id": "958d75f2-7222-463f-9821-0470f7c6cf7d",
+      "season": 2,
+      "number": 8,
+      "name": "På tværs af Aalborg",
+      "airdate": "2022-06-01"
+    }
+  ]
+}

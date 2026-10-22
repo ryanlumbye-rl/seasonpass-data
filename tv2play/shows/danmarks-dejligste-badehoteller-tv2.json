@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:danmarks-dejligste-badehoteller-tv2",
+  "name": "Danmarks dejligste badehoteller",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "614836df-f4c7-464b-aaa6-bcb0773ea2cc",
+      "season": 1,
+      "number": 1,
+      "name": "Brøndums Hotel og Helenekilde Badehotel",
+      "airdate": "2014-03-24"
+    },
+    {
+      "id": "13d042e3-f8e5-41cb-8fd5-ff4fe2a80719",
+      "season": 1,
+      "number": 2,
+      "name": "Stammershalle Badehotel og Pension Vestergade 44",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "bf47d864-749f-4992-9ead-be09c177643e",
+      "season": 1,
+      "number": 3,
+      "name": "Ballebro Færgekro og Klithjem Badehotel",
+      "airdate": "2014-04-07"
+    },
+    {
+      "id": "3029a593-15dc-49bb-8458-37c4e5c01d7b",
+      "season": 1,
+      "number": 4,
+      "name": "Henne Mølle Å og Vejle Fjord",
+      "airdate": "2014-04-14"
+    },
+    {
+      "id": "3e83bb1c-9a28-4ad7-9f6b-a7852d7b6ac7",
+      "season": 1,
+      "number": 5,
+      "name": "Det lille Sommerhotel og Hornbækhus",
+      "airdate": "2014-04-21"
+    },
+    {
+      "id": "1ee92526-2a6a-4b3c-bc9c-b52b68fdcf2c",
+      "season": 1,
+      "number": 6,
+      "name": "Ruths Hotel og Melsted Badehotel",
+      "airdate": "2014-04-28"
+    },
+    {
+      "id": "0c2b1721-f37a-4a4a-8996-f71b6ae8ff95",
+      "season": 1,
+      "number": 7,
+      "name": "Molskroen og Hjorts Hotel",
+      "airdate": "2014-05-05"
+    },
+    {
+      "id": "0d9de5e0-f098-4d7a-9c88-b3e97ab87755",
+      "season": 1,
+      "number": 8,
+      "name": "Lønstruphus & Gilleleje Badehotel",
+      "airdate": "2014-05-12"
+    }
+  ]
+}

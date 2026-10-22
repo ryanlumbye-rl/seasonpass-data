@@ -1,0 +1,269 @@
+{
+  "id": "tv2play:young-rock-tv2play",
+  "name": "Young Rock",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c8c9e37a-2f2b-4bb8-992a-d08525ee3943",
+      "season": 1,
+      "number": 1,
+      "name": "Working the Gimmick",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "2ab24139-c743-44c5-8c87-07a6dd73c6c2",
+      "season": 1,
+      "number": 2,
+      "name": "On the Road Again",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "92fa2214-4132-47d7-a5ae-fa9419670795",
+      "season": 1,
+      "number": 3,
+      "name": "Forward Together",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "e4da22f6-f8ea-498e-a273-add1e2bc98d1",
+      "season": 1,
+      "number": 4,
+      "name": "Check Your Head",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "ab43bb6b-a006-41b1-973e-ae2310cc8e19",
+      "season": 1,
+      "number": 5,
+      "name": "Don't Go Breaking My Heart",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "e3bbb7a1-b901-4e0f-965f-bab9553972ec",
+      "season": 1,
+      "number": 6,
+      "name": "My Day with Andre",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "7be84ad9-d753-439f-b965-3e175da6fcab",
+      "season": 1,
+      "number": 7,
+      "name": "Johnson & Hopkins",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "8a6a45ab-2f2f-4bdb-bba3-6874f4b65209",
+      "season": 1,
+      "number": 8,
+      "name": "My Baby Only Drinks the Good Stuff",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "b8df7d20-41ee-48f8-abaf-60747ef64da5",
+      "season": 1,
+      "number": 9,
+      "name": "A Lady Named Star Search",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "959db407-a6ff-423f-99de-3d3765ceab39",
+      "season": 1,
+      "number": 10,
+      "name": "Good vs. Great",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "4e05c70e-f14f-4d1a-be68-9545d64c445c",
+      "season": 1,
+      "number": 11,
+      "name": "Election Day",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "4af33c0c-13e7-4377-b5df-fe5f81dbeda6",
+      "season": 2,
+      "number": 1,
+      "name": "Christmas Peril",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "148f48a1-796a-470d-87c0-fe981c10ee6f",
+      "season": 2,
+      "number": 2,
+      "name": "Unprecedented Fatherhood",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "684bdf5b-0130-46b8-b565-709a00cba95d",
+      "season": 2,
+      "number": 3,
+      "name": "Seven Bucks",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "a9ba3a48-70ad-478b-b036-abb0481bacc1",
+      "season": 2,
+      "number": 4,
+      "name": "In Your Blood",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "eca9592f-7cb7-444a-a283-0744eef714be",
+      "season": 2,
+      "number": 5,
+      "name": "In the Dark",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "3ccde3cf-6e06-4e86-bce5-a0d57d532967",
+      "season": 2,
+      "number": 6,
+      "name": "What Business?",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "a1ca1910-0b0e-435e-9934-20aa9ac26d63",
+      "season": 2,
+      "number": 7,
+      "name": "Kiss and Release",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "f53c46f2-19ab-44d7-9903-5e05a7c0909e",
+      "season": 2,
+      "number": 8,
+      "name": "An Understanding",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "3400d0a0-fc7d-43bf-a772-d1ad1085fc34",
+      "season": 2,
+      "number": 9,
+      "name": "Corpus Christi",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "7c47ff80-4588-4ee6-a2bc-e6bc5b6e9eaa",
+      "season": 2,
+      "number": 10,
+      "name": "Backyard Brawl-B-Q",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "96c095dd-8d24-45f8-a91a-3035fedb87a2",
+      "season": 2,
+      "number": 11,
+      "name": "Rocky's Code",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "9edaeb75-86e2-4a02-8923-7eb59f973b93",
+      "season": 2,
+      "number": 12,
+      "name": "You Gotta Get Down to Get Up",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "968fac29-d4df-4efa-a0d8-409aecdd103d",
+      "season": 2,
+      "number": 13,
+      "name": "Let the People Decide",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "3f428c26-9237-4177-9d06-8dcdc235ef89",
+      "season": 3,
+      "number": 1,
+      "name": "The People Need You",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "c6180253-f959-4015-9a29-d3ce562d0a55",
+      "season": 3,
+      "number": 2,
+      "name": "Rocky Sucks",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "3409ed56-0ed6-4256-aaf1-04c867b64135",
+      "season": 3,
+      "number": 3,
+      "name": "On the Ropes",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "40a0cc76-cecd-4945-a58f-7f6ad076a9a5",
+      "season": 3,
+      "number": 4,
+      "name": "Night of the Chi-Chi's",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "6477bbed-dec1-4b40-a026-64e0c1ecc4e2",
+      "season": 3,
+      "number": 5,
+      "name": "Five Days",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "2a94409d-6394-41f3-94c3-e2a0adb59754",
+      "season": 3,
+      "number": 6,
+      "name": "Dwanta Claus",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "faa23115-7497-45aa-ace1-67935dc1591e",
+      "season": 3,
+      "number": 7,
+      "name": "World Pacific Wrestling",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "06635b0e-5593-4716-8250-c44bd54dc8c0",
+      "season": 3,
+      "number": 8,
+      "name": "Going Heavy",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "98add2b7-ef58-4ebe-a87d-86f42a3d00a2",
+      "season": 3,
+      "number": 9,
+      "name": "It All Goes Back to Childhood",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "0414e7c3-f5df-4f92-b54b-c6c62647a25b",
+      "season": 3,
+      "number": 10,
+      "name": "Once Upon a Time In...",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "cbcdf420-6c1e-4868-9e7e-769adaea3b92",
+      "season": 3,
+      "number": 11,
+      "name": "Know Your Role",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "be6e8127-924f-473d-bc15-eb1b2d9cd7b9",
+      "season": 3,
+      "number": 12,
+      "name": "Chest to Chest",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "c5a10eee-2e61-40a9-af41-60e9273f1b7a",
+      "season": 3,
+      "number": 13,
+      "name": "False Ceilings",
+      "airdate": "2026-07-23"
+    }
+  ]
+}

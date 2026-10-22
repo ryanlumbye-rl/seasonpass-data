@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:cleaning-up-britbox",
+  "name": "Cleaning Up",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c7c5fa46-ba40-4ca6-9173-43ebd5266975",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "4784eddf-91b3-4a95-a5fd-ac1792da131a",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "d96af4a2-ef69-4e93-b48e-9ef11a01c05d",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "a9e23545-ec2c-4550-bffc-c6ad6d483637",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "41f96675-15dd-4c1c-83fe-63a362ec83c3",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "283f1088-7156-401e-8168-470cb1916045",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-02-05"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:mira-og-marie-oiii",
+  "name": "Mira og Marie",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "12d87ad0-5dd4-49c1-8294-6d5bfff12d04",
+      "season": 1,
+      "number": 1,
+      "name": "Jordbærdronningens lagkagefest",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "230d8df4-2b3c-4c56-9492-b8cedf94d783",
+      "season": 1,
+      "number": 2,
+      "name": "Huledyr i stjernenatten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a07abf96-49a2-406d-989e-8d67f754d030",
+      "season": 1,
+      "number": 3,
+      "name": "En bjørn til gemme",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "decf43a5-3c10-4beb-a693-e819ba80f29a",
+      "season": 1,
+      "number": 4,
+      "name": "En dum regnvejrsdag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "57446a58-a80f-47f7-82c8-a6ed53707d38",
+      "season": 1,
+      "number": 5,
+      "name": "Bare en drøm",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e16cc97e-d6aa-447c-a171-666188dfa616",
+      "season": 1,
+      "number": 6,
+      "name": "Jagten på sneglelandet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bb9c6677-c5c3-4d86-bf57-3ee162cd0060",
+      "season": 1,
+      "number": 7,
+      "name": "Fe-problemer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c53bb109-837d-4892-aa30-c30c1328a5df",
+      "season": 1,
+      "number": 8,
+      "name": "Den frække flue",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "edfdd3b1-9de0-43c4-a51e-da94515671af",
+      "season": 1,
+      "number": 9,
+      "name": "Guldsmedejagten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a0584241-0920-40ab-bcc4-1ffb97aecf5e",
+      "season": 1,
+      "number": 10,
+      "name": "Hvalens sang",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "66179175-f9fb-455c-9f9c-98b12f966fcf",
+      "season": 1,
+      "number": 11,
+      "name": "Himmelkatten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a90897d8-f3f3-4e64-a49c-b777e361107c",
+      "season": 1,
+      "number": 12,
+      "name": "Måne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c9e23dd1-3bf0-4af0-9ec8-d0c9fd0eb6eb",
+      "season": 1,
+      "number": 13,
+      "name": "Bjørnen, der ville være med",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

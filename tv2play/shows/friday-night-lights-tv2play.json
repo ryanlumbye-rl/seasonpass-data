@@ -1,0 +1,542 @@
+{
+  "id": "tv2play:friday-night-lights-tv2play",
+  "name": "Friday Night Lights",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "756bb2d5-e224-4641-9b2c-8dce77f1ac74",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "2c7117a4-ffd7-4660-80bf-cf76e975afc1",
+      "season": 1,
+      "number": 2,
+      "name": "Eyes Wide Open",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "664bc41c-f96a-4065-92a0-b8f335ef5207",
+      "season": 1,
+      "number": 3,
+      "name": "Wind Sprints",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "8dd5a2a8-1fe0-45a1-994d-59b30af5f21b",
+      "season": 1,
+      "number": 4,
+      "name": "Who’s Your Daddy?",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "72bb42d7-7a51-421a-8955-cb03306703ca",
+      "season": 1,
+      "number": 5,
+      "name": "Git’er Done",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "dd3ce4a4-de69-4063-b3df-576bb067d4f6",
+      "season": 1,
+      "number": 6,
+      "name": "El Accidente",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "7df34df9-a13a-4626-a6c3-29c855410dde",
+      "season": 1,
+      "number": 7,
+      "name": "Homecoming",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "df5ae98f-2d19-41db-a48c-d3792549cf11",
+      "season": 1,
+      "number": 8,
+      "name": "Crossing the Line",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "a5a28cea-8c88-4637-a046-67dc309b7067",
+      "season": 1,
+      "number": 9,
+      "name": "Full Hearts",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "d2fa0d8d-7f45-4097-b50d-3ebc744e0bb3",
+      "season": 1,
+      "number": 10,
+      "name": "It's Different for Girls",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "41ec2e64-967b-4e61-bc28-77dcea015de7",
+      "season": 1,
+      "number": 11,
+      "name": "Nevermind",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "4a6c7cb8-5679-4581-9c3b-61bba9dbdf9a",
+      "season": 1,
+      "number": 12,
+      "name": "What to Do While You’re Waiting",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "4466401b-0c63-42ed-af60-4535d9396883",
+      "season": 1,
+      "number": 13,
+      "name": "Little Girl I Wanna Marry You",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "eeec61a9-3ac8-4aca-a9c9-53e4144b4b83",
+      "season": 1,
+      "number": 14,
+      "name": "Upping the Ante",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "8613a40a-3af4-406a-807e-9f53ddbda7bc",
+      "season": 1,
+      "number": 15,
+      "name": "Blinders",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "925df479-e317-41a3-ae74-f6c3c7fe2d6d",
+      "season": 1,
+      "number": 16,
+      "name": "Black Eyes and Broken Hearts",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "6b65ffe7-5446-4a81-bb51-4860d0ebc7f8",
+      "season": 1,
+      "number": 17,
+      "name": "I Think We Should Have Sex",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "05406af3-1bd4-435f-b4a3-e3fc48e0ba45",
+      "season": 1,
+      "number": 18,
+      "name": "Extended Families",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "742f2a47-dd3d-497d-8c63-1d392ee5d77e",
+      "season": 1,
+      "number": 19,
+      "name": "Ch-Ch-Ch-Ch-Changes",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "e65683d1-98cf-4dd0-9fe7-749bfedb0e9c",
+      "season": 1,
+      "number": 20,
+      "name": "Mud Bowl",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "c6c65649-d85f-4117-a87f-a8f206b13d84",
+      "season": 1,
+      "number": 21,
+      "name": "Best Laid Plans",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "2481ff54-37df-461f-a83f-b429b834cb0a",
+      "season": 1,
+      "number": 22,
+      "name": "State",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "9e51c436-8b06-4ed3-b319-cf8832261a78",
+      "season": 2,
+      "number": 1,
+      "name": "Last Days of Summer",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "deaa5dcb-c5be-474f-9a25-d3d0453a9178",
+      "season": 2,
+      "number": 2,
+      "name": "Bad Ideas",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "a43ecc6f-9ae7-4423-9c89-1effc6195311",
+      "season": 2,
+      "number": 3,
+      "name": "Are You Ready for Friday Night?",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "0d7c9060-1794-49ae-b3b3-a0f9cdad50ed",
+      "season": 2,
+      "number": 4,
+      "name": "Backfire",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "e3414114-85f4-4520-a95d-57721bc1350d",
+      "season": 2,
+      "number": 5,
+      "name": "Let’s Get It On",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "3301ad18-4fc7-4c63-aeec-212dbf076e51",
+      "season": 2,
+      "number": 6,
+      "name": "How Did I Get Here?",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "5507cfed-b4ba-400b-835f-8fb56c3990cb",
+      "season": 2,
+      "number": 7,
+      "name": "Pantherama!",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "9e770e25-1f11-40ba-b984-f96173143dfb",
+      "season": 2,
+      "number": 8,
+      "name": "Seeing Other People",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "7b70d32c-f4ca-463d-b06a-db663b3c1fe5",
+      "season": 2,
+      "number": 9,
+      "name": "The Confession",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "09b825c5-1f0d-4abd-8f6b-fe5c5e3ab2a7",
+      "season": 2,
+      "number": 10,
+      "name": "There Goes the Neighborhood",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "f2cb1602-38ef-4f3f-afef-b78901bfdba1",
+      "season": 2,
+      "number": 11,
+      "name": "Jumping the Gun",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "b9dc9993-245e-432a-a36d-11b4570b1a6f",
+      "season": 2,
+      "number": 12,
+      "name": "Who Do You Think You Are?",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "e790bf46-87fa-4e12-8a9e-e672cf8272ad",
+      "season": 2,
+      "number": 13,
+      "name": "Humble Pie",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "978654d2-9329-4908-8317-42d646595db4",
+      "season": 2,
+      "number": 14,
+      "name": "Leave No One Behind",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "cb73c261-7bfb-45f4-b219-d894b85ddf7e",
+      "season": 2,
+      "number": 15,
+      "name": "May the Best Man Win",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "292ff5f1-2d4d-49ab-9397-154ea1ab3436",
+      "season": 3,
+      "number": 1,
+      "name": "I Knew You When",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "0cd7ec6f-0713-464c-9f31-6f0cfa9b98de",
+      "season": 3,
+      "number": 2,
+      "name": "Tami Knows Best",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "0b79d724-60fc-4af1-b5d3-de3596a801fd",
+      "season": 3,
+      "number": 3,
+      "name": "How the Other Half Live",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "c9448508-be87-48fe-b846-43326be9e2ec",
+      "season": 3,
+      "number": 4,
+      "name": "Hello, Goodbye",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "cbc9fc90-d399-4101-bff7-0aad4512b466",
+      "season": 3,
+      "number": 5,
+      "name": "Every Rose Has Its Thorn",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "aee2c0c3-f814-459c-b865-7bb9f000277f",
+      "season": 3,
+      "number": 6,
+      "name": "It Ain't Easy Being J.D. Mccoy",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "6c545ddf-b7d7-4424-bd6e-a860169fc050",
+      "season": 3,
+      "number": 7,
+      "name": "Keeping Up Appearances",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "5080ebfa-7d0e-4a89-aaac-4cb6c1212332",
+      "season": 3,
+      "number": 8,
+      "name": "New York, New York",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "b54f3d2d-c221-45d0-a35f-0c433f09976f",
+      "season": 3,
+      "number": 9,
+      "name": "Game of the Week",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "a830b893-9de0-40f1-9565-62544de21c9d",
+      "season": 3,
+      "number": 10,
+      "name": "The Giving Tree",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "17755c51-98ec-40be-b325-0143d8baf606",
+      "season": 3,
+      "number": 11,
+      "name": "A Hard Rain's Gonna Fall",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "fb2832cd-738f-407d-b638-68702eb78f83",
+      "season": 3,
+      "number": 12,
+      "name": "Underdogs",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "818c85a3-3091-4fe9-92af-3b5565f18636",
+      "season": 3,
+      "number": 13,
+      "name": "Tomorrow Blues",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "636ad1d0-6c15-434e-b8c5-6ac70c0065cf",
+      "season": 4,
+      "number": 1,
+      "name": "East of Dillon",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "c196d4d5-81c1-40a4-91dd-c79e4d90e6fe",
+      "season": 4,
+      "number": 2,
+      "name": "After the Fall",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "bd5328ec-24b6-430d-94de-1f5adfe4d804",
+      "season": 4,
+      "number": 3,
+      "name": "In the Skin of a Lion",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "7005995f-f7b0-459e-b45b-d4716fa71756",
+      "season": 4,
+      "number": 4,
+      "name": "A Sort of Homecoming",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "4a20ce63-4404-4ee6-a69c-87cd8034bf3b",
+      "season": 4,
+      "number": 5,
+      "name": "The Son",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "08b26915-030e-48a9-aa5c-86f4fcf993be",
+      "season": 4,
+      "number": 6,
+      "name": "Stay",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "044bd14f-291f-45a1-9f34-8c80e3cb77a2",
+      "season": 4,
+      "number": 7,
+      "name": "In the Bag",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "b9d28d45-c156-42ea-88ba-288af3a56aeb",
+      "season": 4,
+      "number": 8,
+      "name": "Toilet Bowl",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "1b6ee447-a885-47d0-870d-4ed1c058c9c1",
+      "season": 4,
+      "number": 9,
+      "name": "The Lights in Carroll Park",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "0488bd3b-f2e5-43fb-8428-1f5c6e7982e8",
+      "season": 4,
+      "number": 10,
+      "name": "I Can't",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "6a98f3a9-759a-4009-9496-2ccb3ecca53b",
+      "season": 4,
+      "number": 11,
+      "name": "Injury List",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "87f0bedd-933b-402d-af1c-7e799dacdc0e",
+      "season": 4,
+      "number": 12,
+      "name": "Laboring",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "6a0a34c8-bbfe-4cde-ab7e-3406319bc9da",
+      "season": 4,
+      "number": 13,
+      "name": "Thanksgiving",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "edabcc6d-fbb7-4fa6-ba5e-d16a60687be1",
+      "season": 5,
+      "number": 1,
+      "name": "Expectations",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "d0179c75-9d6c-4290-a977-4e71b4d19914",
+      "season": 5,
+      "number": 2,
+      "name": "On the Outside Looking In",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "4f7374c4-294a-4f0e-90e0-ab845b19a562",
+      "season": 5,
+      "number": 3,
+      "name": "The Right Hand of the Father",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "8801af3c-d88e-4ef4-9cb5-1345a999d2bf",
+      "season": 5,
+      "number": 4,
+      "name": "Keep Looking",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "01250553-634a-434e-befa-b55cf352a300",
+      "season": 5,
+      "number": 5,
+      "name": "Kingdom",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "dc29be99-240e-43ca-9adb-48e6732c39c7",
+      "season": 5,
+      "number": 6,
+      "name": "Swerve",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "5fa41e17-f3f3-4a54-8a6a-3fd8d12c3363",
+      "season": 5,
+      "number": 7,
+      "name": "Perfect Record",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "d0ff6e5b-a6d5-464e-9138-0ddda3514808",
+      "season": 5,
+      "number": 8,
+      "name": "Fracture",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "b32570b1-4d9f-4789-8804-fa7f07294499",
+      "season": 5,
+      "number": 9,
+      "name": "Gut Check",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "ba91bdb8-947b-42c1-97d5-8906c4af8f55",
+      "season": 5,
+      "number": 10,
+      "name": "Don’t Go",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "a575f022-51f0-4171-997a-d983fc5e5b49",
+      "season": 5,
+      "number": 11,
+      "name": "The March",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "811d1311-6e92-4c17-a684-028c9d23e78c",
+      "season": 5,
+      "number": 12,
+      "name": "Texas Whatever",
+      "airdate": "2026-08-18"
+    },
+    {
+      "id": "cae9545c-5c96-4bc6-ad79-5ec588d295f1",
+      "season": 5,
+      "number": 13,
+      "name": "Always",
+      "airdate": "2026-08-18"
+    }
+  ]
+}

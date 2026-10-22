@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:fint-skal-det-vaere-britbox-britbox",
+  "name": "Fint skal det være",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b1cc8ab6-5368-4143-a65b-db4b8aa63ac2",
+      "season": 1,
+      "number": 1,
+      "name": "Daddy's Accident",
+      "airdate": "2007-01-29"
+    },
+    {
+      "id": "30f6cfbe-5835-48da-893f-6acebc75bc7e",
+      "season": 1,
+      "number": 2,
+      "name": "The New Car",
+      "airdate": "2007-01-30"
+    },
+    {
+      "id": "b94bb7a9-0136-4dee-8448-985fa2637955",
+      "season": 1,
+      "number": 3,
+      "name": "Stately Home",
+      "airdate": "2007-01-31"
+    },
+    {
+      "id": "80e4a464-1031-4154-b729-7dff4d385397",
+      "season": 1,
+      "number": 4,
+      "name": "The Charity Shop",
+      "airdate": "2007-02-01"
+    },
+    {
+      "id": "c4efcddd-01c8-4c0a-910d-39919b5e1e79",
+      "season": 1,
+      "number": 5,
+      "name": "Daisy's Toyboy",
+      "airdate": "2007-02-05"
+    },
+    {
+      "id": "74dcddbe-ba97-4ac5-b21e-5136966f6b10",
+      "season": 1,
+      "number": 6,
+      "name": "The Christening",
+      "airdate": "2007-02-06"
+    },
+    {
+      "id": "2c7cf16f-cc08-45e5-a70b-94ae008a4845",
+      "season": 2,
+      "number": 1,
+      "name": "A Strange Man",
+      "airdate": "2007-02-07"
+    },
+    {
+      "id": "00c049ff-8432-493a-9b44-e82e7153a7f3",
+      "season": 2,
+      "number": 2,
+      "name": "Driving Mrs. Fortescue",
+      "airdate": "2007-02-08"
+    },
+    {
+      "id": "1831a158-c79c-48a4-8c3b-a8acc1d74d9c",
+      "season": 2,
+      "number": 3,
+      "name": "The Candlelight Supper",
+      "airdate": "2007-02-12"
+    },
+    {
+      "id": "175b139f-ede3-48f5-9add-f72e721d658c",
+      "season": 2,
+      "number": 4,
+      "name": "Hyacinth Tees Off",
+      "airdate": "2007-02-13"
+    },
+    {
+      "id": "00176125-d40d-48b9-82ab-ef091d01d58c",
+      "season": 2,
+      "number": 5,
+      "name": "Problems with Relatives",
+      "airdate": "2007-02-14"
+    },
+    {
+      "id": "52684626-bb02-4460-a269-6a76b109d5bf",
+      "season": 2,
+      "number": 6,
+      "name": "Onslow's Birthday",
+      "airdate": "2007-02-15"
+    },
+    {
+      "id": "5a098424-31c2-4cb4-b473-5958d4c3c84c",
+      "season": 2,
+      "number": 7,
+      "name": "Singing for Emmet",
+      "airdate": "2007-02-19"
+    },
+    {
+      "id": "3b7c2a77-e5ea-4313-9c76-9c8259c2a44a",
+      "season": 2,
+      "number": 8,
+      "name": "The Toy Store",
+      "airdate": "2007-02-20"
+    },
+    {
+      "id": "72ecdab3-1563-4e3c-9015-01cdbf904e8a",
+      "season": 2,
+      "number": 9,
+      "name": "The Three-Piece Suite",
+      "airdate": "2007-02-21"
+    },
+    {
+      "id": "c67a309c-08c3-4ab0-8696-81aeb35c12e8",
+      "season": 2,
+      "number": 10,
+      "name": "A Picnic For Daddy",
+      "airdate": "2007-02-22"
+    },
+    {
+      "id": "819ad752-8e44-428f-b5ac-d0937672e68d",
+      "season": 3,
+      "number": 1,
+      "name": "Early Retirement",
+      "airdate": "2007-02-26"
+    },
+    {
+      "id": "9683ace9-f2cf-45ff-aac0-a9dfcc46f34e",
+      "season": 3,
+      "number": 2,
+      "name": "Iron Age Remains",
+      "airdate": "2007-02-27"
+    },
+    {
+      "id": "5e8f2a87-3675-47c1-a848-33a971530b1b",
+      "season": 3,
+      "number": 3,
+      "name": "Violet's Country Cottage",
+      "airdate": "2007-02-28"
+    },
+    {
+      "id": "45e5b4ec-7fde-455e-8ddb-74f2f9a177aa",
+      "season": 3,
+      "number": 4,
+      "name": "How to Go on Holiday Without Really Trying",
+      "airdate": "2007-03-01"
+    },
+    {
+      "id": "22920f51-d3d2-4e34-ae1a-408def546da3",
+      "season": 3,
+      "number": 5,
+      "name": "Richard's New Hobby",
+      "airdate": "2007-03-05"
+    },
+    {
+      "id": "58c7ee1f-1ee3-4776-b034-22394acd4deb",
+      "season": 3,
+      "number": 6,
+      "name": "The Art Exhibition",
+      "airdate": "2007-03-06"
+    },
+    {
+      "id": "ebee3253-365c-48e2-af49-7a4f69ebf395",
+      "season": 3,
+      "number": 7,
+      "name": "What to Wear When Yachting",
+      "airdate": "2007-03-07"
+    },
+    {
+      "id": "43ecf3cd-c081-4ca2-b923-5f76db32b2e8",
+      "season": 4,
+      "number": 1,
+      "name": "A Job for Richard",
+      "airdate": "2007-03-08"
+    },
+    {
+      "id": "6a621d95-24a1-4079-8ac9-57b5367f6d65",
+      "season": 4,
+      "number": 2,
+      "name": "Country Retreat",
+      "airdate": "2007-03-12"
+    },
+    {
+      "id": "279b184f-e9f2-4156-a163-4fcf0e0f8eff",
+      "season": 4,
+      "number": 3,
+      "name": "A Celebrity for the Barbecue",
+      "airdate": "2007-03-13"
+    },
+    {
+      "id": "291e0aee-fba5-467e-aa20-0ff805f99090",
+      "season": 4,
+      "number": 4,
+      "name": "The Commodore",
+      "airdate": "2007-03-14"
+    },
+    {
+      "id": "dcf9e061-51fe-45c2-8946-b5a9ca394e46",
+      "season": 4,
+      "number": 5,
+      "name": "Looking at Properties",
+      "airdate": "2007-03-15"
+    },
+    {
+      "id": "5d65096e-46fd-41b8-900e-570d60aa1bba",
+      "season": 4,
+      "number": 6,
+      "name": "Please Mind Your Head",
+      "airdate": "2007-03-19"
+    },
+    {
+      "id": "5ef791d1-7f29-42c4-b6c1-1198a1f2e906",
+      "season": 4,
+      "number": 7,
+      "name": "Let There Be Light",
+      "airdate": "2007-03-20"
+    },
+    {
+      "id": "49334c94-c275-4bf1-aa65-d33b8decdf5e",
+      "season": 5,
+      "number": 1,
+      "name": "The Senior Citizens' Outing",
+      "airdate": "2007-03-21"
+    },
+    {
+      "id": "e0839dab-6ae5-4cc1-a152-a4f9cbc0de61",
+      "season": 5,
+      "number": 2,
+      "name": "The Mayor's Fancy Dress Ball",
+      "airdate": "2007-03-22"
+    },
+    {
+      "id": "b6857f92-25cc-4cf4-b145-c5508ae0d006",
+      "season": 5,
+      "number": 3,
+      "name": "Hyacinth is Alarmed",
+      "airdate": "2007-03-26"
+    },
+    {
+      "id": "1be82c8f-51af-4bfb-b632-bf23bcf169e0",
+      "season": 5,
+      "number": 4,
+      "name": "A Riverside Picnic",
+      "airdate": "2007-03-27"
+    },
+    {
+      "id": "fd1a3935-fc81-4d05-b4da-2adba81eee59",
+      "season": 5,
+      "number": 5,
+      "name": "Skis",
+      "airdate": "2007-03-28"
+    },
+    {
+      "id": "f9af9649-6623-4b54-a45e-1bce3d06b4bc",
+      "season": 5,
+      "number": 6,
+      "name": "The Country House Sale",
+      "airdate": "2007-03-29"
+    },
+    {
+      "id": "59eedf4c-0245-4cfb-b1eb-84563ecb6e5f",
+      "season": 5,
+      "number": 7,
+      "name": "The Boy Friend",
+      "airdate": "2007-04-02"
+    },
+    {
+      "id": "dbae57f9-c925-4632-bb8a-50f81f833267",
+      "season": 5,
+      "number": 8,
+      "name": "The Barbecue at Violet's",
+      "airdate": "2007-04-03"
+    },
+    {
+      "id": "9f825032-63b3-4241-a48c-6ee77986e664",
+      "season": 5,
+      "number": 9,
+      "name": "The Rolls Royce",
+      "airdate": "2007-04-04"
+    },
+    {
+      "id": "3a645a00-6d69-42c4-8ac0-cc42a87addb4",
+      "season": 5,
+      "number": 10,
+      "name": "The Hostess",
+      "airdate": "2007-04-05"
+    }
+  ]
+}

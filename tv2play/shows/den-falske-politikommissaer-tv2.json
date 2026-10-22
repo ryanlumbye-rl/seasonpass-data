@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:den-falske-politikommissaer-tv2",
+  "name": "Den falske politikommissær",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ca4f0f60-6a29-4df3-a21f-cda09f0d0985",
+      "season": 1,
+      "number": 1,
+      "name": "En svindler på linjen",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "5bf2cd75-8959-4e8b-9e84-b85a84d038b3",
+      "season": 1,
+      "number": 2,
+      "name": "De tror, jeg hedder Aksel Ravn",
+      "airdate": "2025-12-09"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:graverne-tv2",
+  "name": "Graverne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9a9553bf-21f1-4852-80c8-4a0df171b5c3",
+      "season": 1,
+      "number": 1,
+      "name": "Et mystisk tip",
+      "airdate": "2024-07-28"
+    },
+    {
+      "id": "0e531ddb-1783-4ad0-983b-3e61cbd439d8",
+      "season": 1,
+      "number": 2,
+      "name": "Det hemmelige fængsel",
+      "airdate": "2024-08-05"
+    },
+    {
+      "id": "61173668-107a-4f10-a073-c4d6657b00a4",
+      "season": 1,
+      "number": 3,
+      "name": "Muldvarpen",
+      "airdate": "2024-08-12"
+    },
+    {
+      "id": "b90c3899-6298-41b1-b0db-c38b670a2ffb",
+      "season": 1,
+      "number": 4,
+      "name": "Et bizart besøg",
+      "airdate": "2024-08-19"
+    },
+    {
+      "id": "ec4b1fa8-c8c0-47f8-a4b7-4b57f2dd82cf",
+      "season": 1,
+      "number": 5,
+      "name": "Skjulte mønstre",
+      "airdate": "2024-08-26"
+    },
+    {
+      "id": "10060b8c-4a41-498a-a7a5-93ee73383b24",
+      "season": 1,
+      "number": 6,
+      "name": "Alt eller intet",
+      "airdate": "2024-09-02"
+    }
+  ]
+}

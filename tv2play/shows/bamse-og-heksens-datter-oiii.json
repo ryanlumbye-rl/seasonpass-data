@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:bamse-og-heksens-datter-oiii",
+  "name": "Bamse og heksens datter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1434282d-58b7-412e-8a60-51339c599642",
+      "season": 1,
+      "number": 1,
+      "name": "På skovtur",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "dd95f6c5-8d3d-45d1-bd57-6276b40ead1b",
+      "season": 1,
+      "number": 2,
+      "name": "Ny pige i klassen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6544d3b2-a593-4dd3-94fb-ef64586d2e80",
+      "season": 1,
+      "number": 3,
+      "name": "Guldet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7b084ea2-173f-43da-b7b4-cd7365573129",
+      "season": 1,
+      "number": 4,
+      "name": "Hatiora",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c14ebd07-d12f-49da-a9d2-91ae473bc2bd",
+      "season": 1,
+      "number": 5,
+      "name": "Planen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b694032a-39b7-4452-9e78-b1816624d06c",
+      "season": 1,
+      "number": 6,
+      "name": "Forhekset",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cf9c78ca-45cb-4dd2-8b69-11ce3521c4ec",
+      "season": 1,
+      "number": 7,
+      "name": "Ikke give op",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5ecffab1-6e18-403c-a48a-3428800de0be",
+      "season": 1,
+      "number": 8,
+      "name": "Alle er klar",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "52571812-723f-4a1b-9616-c26ddc64f18c",
+      "season": 1,
+      "number": 9,
+      "name": "Skynd jer!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3ecdb48a-fc1e-488a-b832-c338abf5ba0b",
+      "season": 1,
+      "number": 10,
+      "name": "Hvordan skal det hele ikke ende?",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

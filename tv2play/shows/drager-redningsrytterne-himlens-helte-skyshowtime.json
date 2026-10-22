@@ -1,0 +1,171 @@
+{
+  "id": "tv2play:drager-redningsrytterne-himlens-helte-skyshowtime",
+  "name": "Drager - Redningsrytterne: Himlens Helte",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "698e4833-1045-4221-b9fa-4110bc0e1f19",
+      "season": 1,
+      "number": 1,
+      "name": "Lederløs",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "cdef3206-de21-475c-8165-5de6a244317e",
+      "season": 1,
+      "number": 2,
+      "name": "Krystalklar",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "16c543eb-3638-4933-8f40-872f3a2d8fae",
+      "season": 1,
+      "number": 3,
+      "name": "Sådan mødte jeg din Summer",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "df6d450e-bbd3-4e9d-b803-0fa6aad39c48",
+      "season": 1,
+      "number": 4,
+      "name": "Snusen rundt",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "aa1591dd-d966-49a7-8dc0-8a1bf05d3656",
+      "season": 1,
+      "number": 6,
+      "name": "Jagten på den sunkne by",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "bdbdddc0-dd06-4be2-84f7-0d7c0eaef120",
+      "season": 1,
+      "number": 7,
+      "name": "Teamwork er magisk",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "98dc8c6d-14ca-4257-800a-08d205369053",
+      "season": 1,
+      "number": 8,
+      "name": "Den utrolige Bøvs",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "b8c1552a-a288-433d-a881-17189899f035",
+      "season": 1,
+      "number": 9,
+      "name": "Stinkvingens flugt",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "9d6d54aa-b43f-4e3b-90af-ff1fa5b4c7c1",
+      "season": 1,
+      "number": 10,
+      "name": "Det store får",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "a0c9437f-07d6-4be7-b05c-d42c893c0f73",
+      "season": 1,
+      "number": 11,
+      "name": "Redningsracere",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "675786f1-18aa-4201-af93-c28f94f18c6e",
+      "season": 1,
+      "number": 12,
+      "name": "En dag uden drager",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "e0d47201-d1d1-4f97-a385-219614258c53",
+      "season": 1,
+      "number": 13,
+      "name": "Oppustningsstyrken vågner",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "a961d36b-ad0d-4108-bdce-59b4d9f27843",
+      "season": 1,
+      "number": 14,
+      "name": "Tilbage til den sunkne by",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "2dcdca2c-4735-4956-8f64-2224b7de52b9",
+      "season": 1,
+      "number": 15,
+      "name": "Min dragevagt",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "2013dd67-652b-4114-a691-f7073952ad4d",
+      "season": 1,
+      "number": 16,
+      "name": "Gludge-tastisk rejse",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "a9961496-44df-4d70-839c-507d9eea25a4",
+      "season": 1,
+      "number": 17,
+      "name": "Drage uden vand",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "b70a3bc4-d651-40b4-a428-e42d6fc79d5e",
+      "season": 1,
+      "number": 18,
+      "name": "Rededag",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "fe7e99bb-eb52-486e-b717-25d50400b66e",
+      "season": 1,
+      "number": 19,
+      "name": "Metal-Magnus",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "8a94a38e-3f7a-4e47-bb1d-dacf7ad556cd",
+      "season": 1,
+      "number": 20,
+      "name": "Tre problemer tirsdag",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "04d3984d-05b9-4e51-a652-daa0302813d0",
+      "season": 1,
+      "number": 21,
+      "name": "Hvor er Waldondo?",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "cf2a498a-deed-4cdf-a198-fc7ddaf28110",
+      "season": 1,
+      "number": 22,
+      "name": "De største showdrager",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "a0685c55-e9df-4225-9a6a-31bb6732aa96",
+      "season": 1,
+      "number": 23,
+      "name": "Kopi-drager",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "b4b1474a-009d-4d9a-881a-fe27f768ce9e",
+      "season": 1,
+      "number": 24,
+      "name": "Hvem er du?",
+      "airdate": "2025-11-01"
+    }
+  ]
+}

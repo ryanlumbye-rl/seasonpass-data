@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:north-shore-britbox",
+  "name": "North Shore",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cd2d9515-c640-4e0e-bb87-eb7e0561adf2",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "3c322749-248d-4c7c-8f96-2256c7258896",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "5ed9bd67-ea42-48d1-90ed-1a08739267e1",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "f5a62d9b-4f96-4fbf-9b3c-153828aa2e39",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "e774c7e3-7119-4321-afe2-e3f15171752b",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "716509d7-ce1e-4fee-bc9c-7d71d0df6d19",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-10-15"
+    }
+  ]
+}

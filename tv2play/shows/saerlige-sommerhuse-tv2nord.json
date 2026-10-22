@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:saerlige-sommerhuse-tv2nord",
+  "name": "Særlige sommerhuse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "09ff0539-e9b8-4b58-be0f-47e30319c0e0",
+      "season": 1,
+      "number": 1,
+      "name": "Badehoteldrøm i Hals",
+      "airdate": "2023-09-03"
+    },
+    {
+      "id": "0c6a2a9f-a3bb-4aef-8a02-9a7bbfd6795c",
+      "season": 1,
+      "number": 2,
+      "name": "Træhuset i Kettrup Bjerge",
+      "airdate": "2023-09-08"
+    },
+    {
+      "id": "a2a2d5d9-47d2-4b3a-9e15-800da279f6d7",
+      "season": 1,
+      "number": 3,
+      "name": "Det Bette Skæve Hus i Lønstrup",
+      "airdate": "2023-09-15"
+    },
+    {
+      "id": "1dc8b2de-8e53-4ba3-830b-e92d307c122d",
+      "season": 1,
+      "number": 4,
+      "name": "Selvbyggerhuset i Nørlev",
+      "airdate": "2023-09-22"
+    },
+    {
+      "id": "646054e5-5e1d-42cc-96cb-a43499a54f53",
+      "season": 1,
+      "number": 5,
+      "name": "Farverigt 70'er hus i Tversted",
+      "airdate": "2023-09-29"
+    }
+  ]
+}

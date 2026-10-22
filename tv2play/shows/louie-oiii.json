@@ -1,0 +1,556 @@
+{
+  "id": "tv2play:louie-oiii",
+  "name": "Louie",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "aefdf384-f8d9-4720-bfdf-3b4160d48226",
+      "season": 1,
+      "number": 1,
+      "name": "Louie, tegn et hus",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "e50f32d4-057a-41f3-ab51-806314d2d301",
+      "season": 1,
+      "number": 2,
+      "name": "Louie, tegn en snegl",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "2a2ab67e-faec-4b5f-92ca-ed99d7e5e4bf",
+      "season": 1,
+      "number": 3,
+      "name": "Louie, tegn en kamel",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "940aa334-1ae4-44a3-99f7-8d9e1dd6ab51",
+      "season": 1,
+      "number": 4,
+      "name": "Louie, tegn en hund",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "46d36a10-e97b-4c90-9521-154a4accb823",
+      "season": 1,
+      "number": 5,
+      "name": "Louie, tegn en blomst",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "8d73f945-349a-443b-8752-1b73f530a5d8",
+      "season": 1,
+      "number": 6,
+      "name": "Louie, tegn et næsehorn",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "87bc013f-a33d-4f8d-a0f3-90ed305ebf25",
+      "season": 1,
+      "number": 7,
+      "name": "Louie, tegn en pingvin",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "0ea1c35a-feb5-4682-b565-0660c44f3099",
+      "season": 1,
+      "number": 8,
+      "name": "Louie, tegn en delfin",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "f8626c72-3ff1-4bac-9291-0608adba83a4",
+      "season": 1,
+      "number": 9,
+      "name": "Louie, tegn en bil",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "b6b460bb-dfd1-42b9-836d-92586767dff4",
+      "season": 1,
+      "number": 10,
+      "name": "Louie, tegn en båd",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "3adc267e-b554-421a-959c-5e74ee37a6e4",
+      "season": 1,
+      "number": 11,
+      "name": "Louie, tegn en drage",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "d90d00fd-20d8-4099-a224-9087c2f91e56",
+      "season": 1,
+      "number": 12,
+      "name": "Louie, tegn en robot",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "d988e83e-9f84-4d60-9007-79d6c704e962",
+      "season": 1,
+      "number": 13,
+      "name": "Louie, tegn en raket",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "974c4887-8a07-4855-b29c-c985a78d5564",
+      "season": 1,
+      "number": 14,
+      "name": "Louie, tegn en struds",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "e11c7b45-f3c2-4df1-bf34-638d722fd14c",
+      "season": 1,
+      "number": 15,
+      "name": "Louie, tegn en krokodille",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "e9121315-14d5-44bb-ad26-af06870800a6",
+      "season": 1,
+      "number": 16,
+      "name": "Louie, tegn et får",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "9d66ba43-f875-4f90-a78d-616d4f4c43e8",
+      "season": 1,
+      "number": 17,
+      "name": "Louie, tegn en hest",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "c757b520-2c8e-479f-9cbe-a9dfa1065c3a",
+      "season": 1,
+      "number": 18,
+      "name": "Louie, tegn en rutsjebane",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "a93b2ada-f75f-4cca-925a-a030263d9b8e",
+      "season": 1,
+      "number": 19,
+      "name": "Louie, tegn en flyvemaskine",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "e11d4f7d-2a71-40af-85a4-b39a008084b7",
+      "season": 1,
+      "number": 20,
+      "name": "Louie, tegn en ko",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "3b49f6be-4056-483e-85f3-8b93196e9231",
+      "season": 1,
+      "number": 21,
+      "name": "Louie, tegn en kamæleon",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "c2df94e5-e5bf-4142-b1c1-97e73704e204",
+      "season": 1,
+      "number": 22,
+      "name": "Louie, tegn en kænguru",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "2a55bf73-f66e-4eed-87ed-955552194b1e",
+      "season": 1,
+      "number": 23,
+      "name": "Louie, tegn en elefant",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "64be6c9f-1a2a-40d1-b665-d919338fa06a",
+      "season": 1,
+      "number": 24,
+      "name": "Louie, tegn en luftballon",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "fb96cfa3-8424-409e-85b6-c4faae0ee615",
+      "season": 1,
+      "number": 25,
+      "name": "Louie, tegn en brandbil",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "27d22a9a-5665-4719-aa65-f44acefba953",
+      "season": 1,
+      "number": 26,
+      "name": "Louie, tegn en bæver",
+      "airdate": "2021-01-30"
+    },
+    {
+      "id": "39488caf-0940-4489-aa9f-fa1af75cf30a",
+      "season": 1,
+      "number": 27,
+      "name": "Louie, tegn en frø",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "2b3931f9-52ea-4e70-8808-28292704fd59",
+      "season": 1,
+      "number": 28,
+      "name": "Louie, tegn et egern",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "dd957e96-de79-478d-aee6-34fbaf1db5de",
+      "season": 1,
+      "number": 29,
+      "name": "Louie, tegn et træ",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "c794e659-d141-4f6e-96d8-4c4fd66e4d52",
+      "season": 1,
+      "number": 30,
+      "name": "Louie, tegn en kage",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "46be0799-9c4e-409f-a550-c601a671f56b",
+      "season": 1,
+      "number": 31,
+      "name": "Louie, tegn et slot",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "6a81bee0-fd06-48a0-9461-07270d686ae6",
+      "season": 1,
+      "number": 32,
+      "name": "Louie, tegn en løve",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "4c5dff77-b715-4d51-b2b4-943186f3501a",
+      "season": 1,
+      "number": 33,
+      "name": "Louie, tegn en søløve",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "75509a77-d2fd-4ab8-b7f2-df0f89dea64c",
+      "season": 1,
+      "number": 34,
+      "name": "Louie, tegn en pelikan",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "1602ec3c-1465-47df-8049-9c514759ac3b",
+      "season": 1,
+      "number": 35,
+      "name": "Louie, tegn et klaver",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "f7dad379-34bc-48e5-9a03-1a7dc1829381",
+      "season": 1,
+      "number": 36,
+      "name": "Louie, tegn et rensdyr",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "00eea8f1-8480-4374-a306-8d83f560316f",
+      "season": 1,
+      "number": 37,
+      "name": "Louie, tegn en abe",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "c5ce287c-de59-4e44-bf0d-2f4fdba02265",
+      "season": 1,
+      "number": 38,
+      "name": "Louie, tegn en traktor",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "21152e1e-38b6-4d71-8e24-31714c08f93d",
+      "season": 1,
+      "number": 39,
+      "name": "Louie, tegn et tog",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "03c81d7c-a256-4a4c-b401-4204f61322c6",
+      "season": 1,
+      "number": 40,
+      "name": "Louie, tegn en sommerfugl",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "c3f6283c-6586-4bc7-ac14-4430de8ae9c8",
+      "season": 1,
+      "number": 41,
+      "name": "Louie, tegn en gris",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "26925ef5-a539-4fb2-9a8b-efc0dff96a1d",
+      "season": 1,
+      "number": 42,
+      "name": "Louie, tegn en kranvogn",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "c7406bd2-d9cb-4b65-a9cf-e54f73569c29",
+      "season": 1,
+      "number": 43,
+      "name": "Louie, tegn et fugleskræmsel",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "920d09df-2450-4388-ab4f-65142fe7d44f",
+      "season": 1,
+      "number": 44,
+      "name": "Louie, tegn en papegøje",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "1f1c438a-9646-4dd5-bd81-53864cc01cbb",
+      "season": 1,
+      "number": 45,
+      "name": "Louie, tegn en giraf",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "5ffae657-7167-4ea9-af48-12e16c4417c1",
+      "season": 1,
+      "number": 46,
+      "name": "Louie, tegn en flodhest",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "dae7c8b8-a0e4-4cd6-bccb-b86cdc5041c4",
+      "season": 1,
+      "number": 47,
+      "name": "Louie, tegn et fyrtårn",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "144e201f-b140-4b19-a02a-4e2a6482643e",
+      "season": 1,
+      "number": 48,
+      "name": "Louie, tegn en kælk",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "0d679e0a-3fef-42e0-9f72-53ecbe1e547e",
+      "season": 1,
+      "number": 49,
+      "name": "Louie, tegn en mus",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "1f2b6ff5-4231-4408-9373-5e285ecbb230",
+      "season": 1,
+      "number": 50,
+      "name": "Louie, tegn en kran",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "6728811a-c520-430c-afe9-befc7d340b7e",
+      "season": 1,
+      "number": 51,
+      "name": "Louie, tegn en ubåd",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "5f8f4849-a274-4158-9a4f-a58192c3e55c",
+      "season": 1,
+      "number": 52,
+      "name": "Louie, tegn en koala",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "73fa1f88-ed84-4548-b839-23b7dc7a10c9",
+      "season": 1,
+      "number": 53,
+      "name": "Louie, tegn en ulv",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "fae741be-828c-47af-8d81-a3b0e9c09b92",
+      "season": 1,
+      "number": 54,
+      "name": "Louie, tegn en ugle",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "59395e7c-1041-4b5c-8581-69406240f9c1",
+      "season": 1,
+      "number": 55,
+      "name": "Louie, tegn en hval",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "331ad848-7181-4a19-9bc4-d37d14071146",
+      "season": 1,
+      "number": 56,
+      "name": "Louie, tegn en krabbe",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "d2e10bd0-843a-4a3e-8cfd-edab2eb9e7c2",
+      "season": 1,
+      "number": 57,
+      "name": "Louie, tegn en ufo",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "eced779b-5493-4e8f-98d7-ceeeb614f1cd",
+      "season": 1,
+      "number": 58,
+      "name": "Louie, tegn en helikopter",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "6f8cf7fa-0b94-431d-802c-aee0bb53677a",
+      "season": 1,
+      "number": 59,
+      "name": "Louie, tegn en trillebør",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "4fa3c71a-2d3a-4dd7-8802-bce6de6a782a",
+      "season": 1,
+      "number": 60,
+      "name": "Louie, tegn en karrusel",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "29571592-ff49-40a1-9485-063aabfd1d42",
+      "season": 1,
+      "number": 61,
+      "name": "Louie, tegn en sneplov",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "0680576c-5233-45c4-b3e5-1231c2c8ff03",
+      "season": 1,
+      "number": 62,
+      "name": "Louie, tegn en blæksprutte",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "0340d84b-1890-4977-b960-7481deb8bac7",
+      "season": 1,
+      "number": 63,
+      "name": "Louie, tegn en stenbuk",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "dc3d65bd-92c8-4aad-b024-250db3619b31",
+      "season": 1,
+      "number": 64,
+      "name": "Louie, tegn en dinosaur",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "ec3d0a45-e7f6-46d3-9d53-7f976e41b62f",
+      "season": 1,
+      "number": 65,
+      "name": "Louie, tegn en flamingo",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "37635a94-42a6-4c2b-b71f-18b9d69f07ac",
+      "season": 1,
+      "number": 66,
+      "name": "Louie, tegn et sørøverskib",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "aaf2dbeb-282a-4ba4-9b64-77b7cc195122",
+      "season": 1,
+      "number": 67,
+      "name": "Louie, tegn en afskyelig snemand",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "bff3e661-276b-4730-96d2-279d06afa936",
+      "season": 1,
+      "number": 68,
+      "name": "Louie, tegn en gepard",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "90fcd417-83c1-4fcd-983c-f44c96195e43",
+      "season": 1,
+      "number": 69,
+      "name": "Louie, tegn en bjørn",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "310d0e0f-c1b0-443e-b1d2-6f4c12510279",
+      "season": 1,
+      "number": 70,
+      "name": "Louie, tegn en mammut",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "d9bc6ae6-5bd1-43c0-ae26-ca5bcea3bbd8",
+      "season": 1,
+      "number": 71,
+      "name": "Louie, tegn en karet",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "1de04140-1741-4138-9e0a-eebb34664ba2",
+      "season": 1,
+      "number": 72,
+      "name": "Louie, tegn en diligence til mig",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "3c9fc930-305e-4132-9204-2c41a97f572f",
+      "season": 1,
+      "number": 73,
+      "name": "Louie, tegn en stork",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "5f29f3bd-3ed8-4af6-bdb8-1cf62c00dcef",
+      "season": 1,
+      "number": 74,
+      "name": "Louie, tegn en kat",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "89c58ff7-f39e-468d-8386-30148477bdc9",
+      "season": 1,
+      "number": 75,
+      "name": "Louie, tegn en ilder",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "698db257-55e3-44cc-b51e-137f148ee0e7",
+      "season": 1,
+      "number": 76,
+      "name": "Louie, tegn en muldvarp",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "59697ee9-ab77-4c62-8d88-68233f42656b",
+      "season": 1,
+      "number": 77,
+      "name": "Louie, tegn et spøgelse",
+      "airdate": "2021-05-29"
+    },
+    {
+      "id": "d0e6d603-c4f4-4416-ae68-47aa807874e0",
+      "season": 1,
+      "number": 78,
+      "name": "Louie, tegn en heks",
+      "airdate": "2021-05-29"
+    }
+  ]
+}

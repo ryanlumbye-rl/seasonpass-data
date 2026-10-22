@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:portraet-af-linie-3-tv2charlie",
+  "name": "Portræt af Linie 3",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d7205172-1146-406f-ab6f-9c7e63900577",
+      "season": 1,
+      "number": 1,
+      "name": "Hvor det hele startede",
+      "airdate": "2024-12-12"
+    },
+    {
+      "id": "f9cc73fd-8b8d-4501-817d-bb5ac65b204d",
+      "season": 1,
+      "number": 2,
+      "name": "På vej til USA",
+      "airdate": "2024-12-12"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "id": "tv2play:rasmus-klump-oiii",
+  "name": "Rasmus Klump",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ecb2eee7-516f-48b0-9689-2425b333ba35",
+      "season": 1,
+      "number": 1,
+      "name": "Rasmus Klump på skattejagt",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "9f0215d0-a7b2-415c-bdcf-e0b395d595a2",
+      "season": 1,
+      "number": 2,
+      "name": "Rasmus Klump som bjergbestiger",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "a019795d-61e0-4925-bdda-d8f3acf29de7",
+      "season": 1,
+      "number": 3,
+      "name": "Rasmus Klump i undervandsbåd",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "26199253-a76d-4f8d-93c5-03bf5821e06d",
+      "season": 1,
+      "number": 4,
+      "name": "Rasmus Klump på jagt efter en Møjsengøjser",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "081d72fc-d19a-48ca-b5df-5b199241e986",
+      "season": 1,
+      "number": 5,
+      "name": "Rasmus Klump og pandekagetyven",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "9ce330ca-8b11-496c-b860-c418f1fa6290",
+      "season": 1,
+      "number": 6,
+      "name": "Rasmus Klump ved Ækvator",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "7db9b952-7a4d-437e-9735-07dbc3f942c1",
+      "season": 1,
+      "number": 7,
+      "name": "Rasmus Klump i Pingonesien",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "b03de49f-eb16-4804-a51b-5ed374f1b807",
+      "season": 1,
+      "number": 8,
+      "name": "Rasmus Klump i hjuldamper",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "1892372a-7d4f-476a-bc5f-649ce0c1f315",
+      "season": 1,
+      "number": 9,
+      "name": "Rasmus Klump som dykker",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "2e10472f-ffbf-486a-9ac4-81d6f793735b",
+      "season": 1,
+      "number": 10,
+      "name": "Rasmus Klump i Pyramiderne",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "cb1c048e-4628-4f3d-a1f8-61acf7a263d2",
+      "season": 1,
+      "number": 11,
+      "name": "Den flyvende krokodille",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "50dba32b-b63b-4352-849b-0c077d5dc314",
+      "season": 1,
+      "number": 12,
+      "name": "Rasmus Klump på ski",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "960b590a-60bc-4751-b587-f28e464bb3e1",
+      "season": 1,
+      "number": 13,
+      "name": "Flodhesten med tandpine",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "92a1403d-2082-496f-80a9-cd71ecd2e982",
+      "season": 1,
+      "number": 14,
+      "name": "Rasmus Klump i luften",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "2c3cc7af-e73a-480a-b801-d74fef8ff6e3",
+      "season": 1,
+      "number": 15,
+      "name": "Den herreløse pakke",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "9f3e67d3-7638-40ab-83f8-69268b46d7d5",
+      "season": 1,
+      "number": 16,
+      "name": "Rasmus Klump på Nordpolen",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "b92f3a81-fe53-4673-af2e-11acd07aacde",
+      "season": 1,
+      "number": 17,
+      "name": "Dinosaurus-ægget",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "61ba4be8-983b-4b9b-8f25-94d7d71dbfb0",
+      "season": 1,
+      "number": 18,
+      "name": "Rasmus Klump og Futkarl",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "a3d356d1-d4a9-4fa2-ae5c-9f4ad1e8196f",
+      "season": 1,
+      "number": 19,
+      "name": "Rasmus Klump ved verdens ende",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "a6e50235-e528-4a78-a206-f39e045ff182",
+      "season": 1,
+      "number": 20,
+      "name": "Rasmus Klump som mekaniker",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "08b2fc15-aa2e-46db-bf82-1f75ab7ca6fa",
+      "season": 1,
+      "number": 21,
+      "name": "Rasmus Klump i Kina",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "3a5c8378-6927-4ca1-bca4-63dd14de0190",
+      "season": 1,
+      "number": 22,
+      "name": "Det flyvende badekar",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "85f1d2aa-654b-4f40-b639-aad8765dd641",
+      "season": 1,
+      "number": 23,
+      "name": "Rasmus Klump møder Ursula",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "fa089794-321a-4926-a1ab-d1bf07314e83",
+      "season": 1,
+      "number": 24,
+      "name": "Rasmus Klump på skovtur",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "d8ba304e-bdef-4e96-aa5e-49d470585ef7",
+      "season": 1,
+      "number": 25,
+      "name": "Rasmus Klump bygger hus",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "39ea1c19-ce4b-491e-8b4e-d853d0e36962",
+      "season": 1,
+      "number": 26,
+      "name": "Rasmus Klump i helikopter",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "20c5a59a-8260-46bf-8612-cec8800b6c40",
+      "season": 2,
+      "number": 1,
+      "name": "Den nærsynede brilleslange",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "1ed6017a-e005-4a4d-a5d9-f203e18a551c",
+      "season": 2,
+      "number": 2,
+      "name": "Rasmus Klump i fyrtårnet",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "bc1669fd-754f-4510-97bc-59a0286358a3",
+      "season": 2,
+      "number": 3,
+      "name": "Rasmus Klump i Kaktuslunden",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "dc49186a-874e-4d79-9263-dbf7410a1b90",
+      "season": 2,
+      "number": 4,
+      "name": "Mary i tørdok",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "73289317-5b09-4fcd-aa39-620710d7ee60",
+      "season": 2,
+      "number": 5,
+      "name": "Rasmus Klump og tubaen",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "429af1e9-7d97-443a-895c-20565916de60",
+      "season": 2,
+      "number": 6,
+      "name": "Rasmus Klump passer børn",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "3508e1e7-6870-4c50-badc-dd9658ea84e5",
+      "season": 2,
+      "number": 7,
+      "name": "Rasmus Klump på skøjter",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "45109df5-827a-444b-8470-f1943aa93241",
+      "season": 2,
+      "number": 8,
+      "name": "Rasmus Klump i Troldeskoven",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "d027cca3-43c8-488d-a1c3-46a1cf871c2f",
+      "season": 2,
+      "number": 9,
+      "name": "Spøgeri på slottet",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "e20a8333-6f55-4fd8-a1a4-227cde0f57f0",
+      "season": 2,
+      "number": 10,
+      "name": "Rasmus Klump farer vild",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "5ed624fc-cb5c-4478-ae56-c073505b3e7d",
+      "season": 2,
+      "number": 11,
+      "name": "Rasmus Klump og fortidsplanten",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "4c18ed5f-e05b-4acd-82a5-b9ff8bd760ce",
+      "season": 2,
+      "number": 12,
+      "name": "Toer med styrmænd",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "4f427309-2c75-4b9d-acfc-fd83c9d9e520",
+      "season": 2,
+      "number": 13,
+      "name": "Rasmus Klump høster kokosnødder",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "63fb6ae3-f797-4978-b60e-3c78b3fe55e4",
+      "season": 2,
+      "number": 14,
+      "name": "Rasmus Klump i det vilde vesten",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "1a2841ea-22a9-4e47-b7de-f87cbd48299d",
+      "season": 2,
+      "number": 15,
+      "name": "De blinde passagerer",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "5f34de44-dcac-4b86-a60b-9e05babe3445",
+      "season": 2,
+      "number": 16,
+      "name": "Vandrutsjebanen",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "8b9e922c-b4d1-44c3-bd9d-bdb0e1da656a",
+      "season": 2,
+      "number": 17,
+      "name": "Rasmus Klump på Robinson Crusoes ø",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "c4cd6407-fbfc-43dd-9b8b-cb90dc41595a",
+      "season": 2,
+      "number": 18,
+      "name": "Rasmus Klump på svømmetur",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "ccd9785e-a984-4c77-ada9-ee6c73a943b2",
+      "season": 2,
+      "number": 19,
+      "name": "To både af en tønde",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "d64740af-c2c2-48f2-a820-9a6113e420ce",
+      "season": 2,
+      "number": 20,
+      "name": "Rasmus Klump blandt hattesvingere",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "f5a3ba88-0438-41c3-9b7c-96a5ac917c8b",
+      "season": 2,
+      "number": 21,
+      "name": "Fætter Pluk",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "2dc34862-e29c-491d-b685-a6c1d5a0b209",
+      "season": 2,
+      "number": 22,
+      "name": "Rasmus Klump og Doktor Knalle",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "f84295d8-3e10-4bea-b02a-917da31ca6a8",
+      "season": 2,
+      "number": 23,
+      "name": "De gådefulde tegninger",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "b9e2e144-97df-4ecb-8b52-e0434e62ed55",
+      "season": 2,
+      "number": 24,
+      "name": "Rasmus Klump i urskoven",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "b51b4a1a-1ee7-47a5-bdcd-e8e4fe9293f2",
+      "season": 2,
+      "number": 25,
+      "name": "Rasmus Klump hos grovsmeden",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "702f9636-72d5-490b-8423-10c285c9ebec",
+      "season": 2,
+      "number": 26,
+      "name": "Rasmus Klump redder juleposten",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "8609b1eb-9db3-4b87-ae90-f77ff3649457",
+      "season": 3,
+      "number": 1,
+      "name": "Rasmus Klump bygger skib",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bf56e52a-7a3e-41c4-98cd-aa64cc7a555a",
+      "season": 3,
+      "number": 2,
+      "name": "Rasmus Klump møder Ursula",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "026f5eff-4ddc-4b99-9635-b23098afed90",
+      "season": 3,
+      "number": 3,
+      "name": "Luftens akrobater",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "33c979b4-1e1b-4786-8500-093390944422",
+      "season": 3,
+      "number": 4,
+      "name": "Næsten klar til ræs",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "fc6eee0c-76a7-4429-8b8c-67f5cd5ecc81",
+      "season": 3,
+      "number": 5,
+      "name": "Så skal der bare festes!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "55cb7fda-3520-4899-beee-421dc35877dd",
+      "season": 3,
+      "number": 6,
+      "name": "Mågernes konge",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1e8768ae-9e99-44c0-bcae-40148cb193df",
+      "season": 3,
+      "number": 7,
+      "name": "Nordlys",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5124b1be-8762-4771-ac6e-faf5aff58a95",
+      "season": 3,
+      "number": 8,
+      "name": "Dæmningseksperten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "27e320de-df3a-4315-9772-1acfdc4c1666",
+      "season": 3,
+      "number": 9,
+      "name": "Bjergbestigerne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e38e706a-36e4-4c79-99ff-ed23176d03f4",
+      "season": 3,
+      "number": 10,
+      "name": "Svinemiklen gør rent",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4dbed8b2-e375-4194-81b5-0df72a436e05",
+      "season": 3,
+      "number": 11,
+      "name": "Pandekagedetektiven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "90cdb1df-638d-434e-a464-9a63f97e6691",
+      "season": 3,
+      "number": 12,
+      "name": "På sporet!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cb83919c-a44b-44ad-8261-a0e80964c4e7",
+      "season": 3,
+      "number": 13,
+      "name": "Ækvators vogter",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c9975d54-fc88-4637-8cf2-6d5bd84b8ad4",
+      "season": 3,
+      "number": 14,
+      "name": "Ikke til at stoppe",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0ed17310-b6bf-4371-ab93-2e1203e16eb1",
+      "season": 3,
+      "number": 15,
+      "name": "Larmeorkesteret",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "23cb086c-31b9-43b1-9e39-0b81b79e4d14",
+      "season": 3,
+      "number": 16,
+      "name": "I Pingonesien",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "86e816b4-b4b9-4f59-b59f-128e18ec543b",
+      "season": 3,
+      "number": 17,
+      "name": "Claus og fuglen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "707d4afe-b362-480b-9ced-9cbcc82d4b6c",
+      "season": 3,
+      "number": 18,
+      "name": "Troldejægerne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c62ac28e-607d-4e6a-b8c6-33a1f73d4b02",
+      "season": 3,
+      "number": 19,
+      "name": "Den flyvende høne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0a3bb6e4-eb3b-43e0-a892-a43a429f6d2e",
+      "season": 3,
+      "number": 20,
+      "name": "Det er ren magi",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4a6d7c64-5f8f-42cf-904a-8f1f23ea6605",
+      "season": 3,
+      "number": 21,
+      "name": "Ubådsspionerne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ddbeda84-7a8a-4067-bec1-a3ed105c3637",
+      "season": 3,
+      "number": 22,
+      "name": "Hovedpudebanden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a703347b-4b9a-469a-b750-fd3e5283665f",
+      "season": 3,
+      "number": 23,
+      "name": "Den tørstige mumie",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "baa024bc-4fca-42a7-929f-1f694b89169b",
+      "season": 3,
+      "number": 24,
+      "name": "Pingo og Lammelil",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c7b3dceb-734c-4f74-9ab9-af2dd40ec27c",
+      "season": 3,
+      "number": 25,
+      "name": "Tyvene på slottet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "fd2ab552-b1a5-4305-a5a7-6c0132075f74",
+      "season": 3,
+      "number": 26,
+      "name": "Nytårsfesten",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

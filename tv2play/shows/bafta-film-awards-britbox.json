@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:bafta-film-awards-britbox",
+  "name": "BAFTA Film Awards",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a55f7668-e933-404d-b5e3-5b8c4de3987b",
+      "season": 2025,
+      "number": 1,
+      "name": "Red Carpet",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "0f4c8143-fb30-4a5b-9276-9d4bdc3ff2e7",
+      "season": 2025,
+      "number": 2,
+      "name": "Awards Ceremony",
+      "airdate": "2025-02-18"
+    }
+  ]
+}

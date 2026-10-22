@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:blippi-wonders-oiii",
+  "name": "Blippi Wonders",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "972811a1-f486-4e88-9a4a-94537a6da4aa",
+      "season": 1,
+      "number": 1,
+      "name": "Sandslot",
+      "airdate": "2022-12-27"
+    },
+    {
+      "id": "dc86ccec-47ba-4c6f-93e7-86a993a49c31",
+      "season": 1,
+      "number": 2,
+      "name": "Honning",
+      "airdate": "2022-12-27"
+    },
+    {
+      "id": "ed136fed-8094-446c-9ea3-e7074afaf2b4",
+      "season": 1,
+      "number": 3,
+      "name": "Panda",
+      "airdate": "2022-12-27"
+    },
+    {
+      "id": "7f4be108-dc8f-4993-859f-06584cb387e1",
+      "season": 1,
+      "number": 4,
+      "name": "Frugt og grønt",
+      "airdate": "2022-12-27"
+    },
+    {
+      "id": "3f6c5f19-28b2-4ed7-8599-ba44d5ad74c7",
+      "season": 1,
+      "number": 5,
+      "name": "Fuglerede",
+      "airdate": "2022-12-27"
+    },
+    {
+      "id": "9141628e-2416-4897-b006-b31804e4f272",
+      "season": 1,
+      "number": 6,
+      "name": "Første bil",
+      "airdate": "2022-12-27"
+    },
+    {
+      "id": "11e38705-357f-442c-b4d4-cdee3747cd02",
+      "season": 2,
+      "number": 1,
+      "name": "Eventyr i naturen",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "cd282784-fb15-41c9-8a7c-08c4b999c3f1",
+      "season": 2,
+      "number": 2,
+      "name": "Højoktansspænding",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "4949a5f3-7c0f-4375-a397-f5ea2cc81d4d",
+      "season": 2,
+      "number": 3,
+      "name": "Kulinariske og dyreoverraskelser",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "884f4744-188f-4057-95bc-df16405c2124",
+      "season": 2,
+      "number": 4,
+      "name": "En blanding af vidundere",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "acec7744-cd59-4b05-992a-7a49d70e5175",
+      "season": 2,
+      "number": 5,
+      "name": "En vidunderlig rejse",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "a9336066-1297-4063-9019-2fb78abeb44a",
+      "season": 2,
+      "number": 6,
+      "name": "Uhyggelige eventyr og overraskelser",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "876dc80d-0bed-445e-a1ab-0dfb0fbb8e41",
+      "season": 2,
+      "number": 7,
+      "name": "Udforskning af det usædvanlige",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "7ae70978-144e-4dc3-a83b-18d38eb9e145",
+      "season": 2,
+      "number": 8,
+      "name": "Muntre eventyr og julemagi",
+      "airdate": "2024-06-15"
+    }
+  ]
+}

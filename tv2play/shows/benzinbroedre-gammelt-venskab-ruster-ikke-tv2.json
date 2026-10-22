@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:benzinbroedre-gammelt-venskab-ruster-ikke-tv2",
+  "name": "Benzinbrødre - gammelt venskab ruster aldrig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cb007013-ec2f-45e4-8c73-12febc73e3ff",
+      "season": 1,
+      "number": 2,
+      "name": "Et rigtigt venskab",
+      "airdate": "2026-10-19"
+    }
+  ]
+}

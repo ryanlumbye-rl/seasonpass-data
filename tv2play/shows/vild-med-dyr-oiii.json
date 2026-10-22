@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:vild-med-dyr-oiii",
+  "name": "Vild med dyr",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3fd8f387-34bb-41a8-b94e-641f80c2916b",
+      "season": 1,
+      "number": 1,
+      "name": "... og særligt fåret Gertrud",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "4f4054fc-f764-4d88-b42b-de2bf2c05dd4",
+      "season": 1,
+      "number": 2,
+      "name": "... og særligt griseungerne",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "4ba1d6b1-50c1-4280-891d-887521b25e7d",
+      "season": 1,
+      "number": 3,
+      "name": "... og særligt heste",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "7e1e8fed-4248-4128-991e-472654b505f7",
+      "season": 1,
+      "number": 4,
+      "name": "... og særligt hunde",
+      "airdate": "2025-10-11"
+    }
+  ]
+}

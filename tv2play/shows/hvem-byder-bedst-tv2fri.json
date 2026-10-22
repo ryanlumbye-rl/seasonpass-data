@@ -1,0 +1,409 @@
+{
+  "id": "tv2play:hvem-byder-bedst-tv2fri",
+  "name": "Hvem byder bedst?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ae7d7b40-577b-410e-a1d0-f49b371bbcd2",
+      "season": 1,
+      "number": 1,
+      "name": "Gasolin og guldrammer",
+      "airdate": "2020-03-24"
+    },
+    {
+      "id": "38cf2290-18ee-4489-99dc-e29c39a534d8",
+      "season": 1,
+      "number": 2,
+      "name": "Veteranbil og FDB-stole",
+      "airdate": "2020-03-24"
+    },
+    {
+      "id": "baf178a1-7d0b-4f49-a1f0-c08490a85d2f",
+      "season": 1,
+      "number": 3,
+      "name": "Tre meget forskellige stole",
+      "airdate": "2020-03-31"
+    },
+    {
+      "id": "0cd67827-dfb4-46ee-8d24-83a93dab3a19",
+      "season": 1,
+      "number": 4,
+      "name": "En halv giraf og Formel 1-køredragt",
+      "airdate": "2020-04-07"
+    },
+    {
+      "id": "5c644ba7-558c-446c-987b-5ad45b1b694d",
+      "season": 1,
+      "number": 5,
+      "name": "Puch Maxi og Kay Bojesen",
+      "airdate": "2020-04-14"
+    },
+    {
+      "id": "cb032659-0f4a-4356-8e5d-1b9de4fadce6",
+      "season": 1,
+      "number": 6,
+      "name": "Xylofon og Louis Poulsen",
+      "airdate": "2020-04-21"
+    },
+    {
+      "id": "f10a66b6-5962-4ea7-93a9-b05aab4b63e1",
+      "season": 1,
+      "number": 7,
+      "name": "Rolex og Cobra-maleri",
+      "airdate": "2020-04-28"
+    },
+    {
+      "id": "e2afd41f-5e17-4367-bcb3-85f2b41ff863",
+      "season": 1,
+      "number": 8,
+      "name": "Mike Tyson og Arne Jacobsen",
+      "airdate": "2020-05-05"
+    },
+    {
+      "id": "66d2b094-fcfe-476b-8fa1-74447b9f7dac",
+      "season": 2,
+      "number": 1,
+      "name": "Velo Solex og Kurt Trampedach",
+      "airdate": "2021-03-17"
+    },
+    {
+      "id": "e3f5e8a5-756d-40a4-9337-60c3d683c0b1",
+      "season": 2,
+      "number": 2,
+      "name": "Morris Minor og Georg Jensen",
+      "airdate": "2021-03-17"
+    },
+    {
+      "id": "2c74a87d-7064-40dd-be69-f61a47f308ba",
+      "season": 2,
+      "number": 3,
+      "name": "Filmplakat og Frederik Næblerød",
+      "airdate": "2021-03-24"
+    },
+    {
+      "id": "1a5cc491-ba99-4f62-b6ae-27e11c740d79",
+      "season": 2,
+      "number": 4,
+      "name": "VM 1986 og Bjørn Wiinblad",
+      "airdate": "2021-03-31"
+    },
+    {
+      "id": "21014840-5157-4e01-9c7d-5bd5be6dcc56",
+      "season": 2,
+      "number": 5,
+      "name": "Rolling Stones og Grønland",
+      "airdate": "2021-04-07"
+    },
+    {
+      "id": "55bffd81-80f5-4840-9c27-daaf6e4229db",
+      "season": 2,
+      "number": 6,
+      "name": "Harley Davidson og Anders And",
+      "airdate": "2021-04-14"
+    },
+    {
+      "id": "ae2f2fda-0e93-4bea-96b2-9484d2ecfeb0",
+      "season": 2,
+      "number": 7,
+      "name": "Wegner og Rickshaw",
+      "airdate": "2021-04-21"
+    },
+    {
+      "id": "78981dc9-2e3b-4eaa-b255-42218510444f",
+      "season": 2,
+      "number": 8,
+      "name": "Ib Spang Olsen og Grethe Jalk",
+      "airdate": "2021-04-28"
+    },
+    {
+      "id": "e71f6795-87fd-4e10-ac3c-aa67705fe6bd",
+      "season": 3,
+      "number": 1,
+      "name": "Rav og en Louis Vuitton-kuffert",
+      "airdate": "2022-03-01"
+    },
+    {
+      "id": "b00aeadb-5650-47b3-bcd8-7865f1063d7a",
+      "season": 3,
+      "number": 2,
+      "name": "Kujahn Blask-maleri og et hajtandsæt",
+      "airdate": "2022-03-01"
+    },
+    {
+      "id": "f4411b04-6d00-457a-a906-f16aa9074c57",
+      "season": 3,
+      "number": 3,
+      "name": "Lego og et Hans Scherfig-litografi",
+      "airdate": "2022-03-08"
+    },
+    {
+      "id": "5feb88b4-31a4-40d0-aebc-88d9d5c8fdf8",
+      "season": 3,
+      "number": 4,
+      "name": "Færøsk kunst og en lyserød hat",
+      "airdate": "2022-03-15"
+    },
+    {
+      "id": "8f60cd53-842b-4d89-9533-60583c0f8417",
+      "season": 3,
+      "number": 5,
+      "name": "Hans J. Wegner og tjekkisk design",
+      "airdate": "2022-03-22"
+    },
+    {
+      "id": "ea2519c9-0461-4ee5-ad59-f2266fbd8bf1",
+      "season": 3,
+      "number": 6,
+      "name": "Saltolampe og en vintage Barbiedukke",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "52f1277e-0a16-4a53-9c72-9ff67a19b505",
+      "season": 3,
+      "number": 7,
+      "name": "Mogens Andersen og en rød elefant",
+      "airdate": "2022-04-05"
+    },
+    {
+      "id": "d1f42056-b9b5-4632-83ee-f3234b0fe86c",
+      "season": 3,
+      "number": 8,
+      "name": "Brev fra Helga Ancher og kinesisk skål",
+      "airdate": "2022-04-12"
+    },
+    {
+      "id": "7442e14e-8ee6-4af2-8c5d-e884fe33fda5",
+      "season": 4,
+      "number": 4,
+      "name": "Børge Mogensen-hattehylde og franske kasser",
+      "airdate": "2023-04-26"
+    },
+    {
+      "id": "78e11427-a239-4fff-9540-039219fb606d",
+      "season": 4,
+      "number": 7,
+      "name": "En Goggomobil og Trampedach",
+      "airdate": "2023-05-17"
+    },
+    {
+      "id": "103b49cf-f01e-4b3c-be8c-d500817b81c1",
+      "season": 4,
+      "number": 8,
+      "name": "Poul Kjærholm-stol og Salto-keramik",
+      "airdate": "2023-05-24"
+    },
+    {
+      "id": "8c30d8d5-de95-4b45-b8bc-fe2fda5dc06f",
+      "season": 5,
+      "number": 1,
+      "name": "Wegner-påfuglestol og Salto-vase",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "16196a5a-fdd5-4173-9c04-8240143b8d8f",
+      "season": 5,
+      "number": 2,
+      "name": "Peter Brandes-maleri og Wegner-stol",
+      "airdate": "2024-10-02"
+    },
+    {
+      "id": "5c90ba0d-36c9-45c8-8d03-182ba7a0e0d7",
+      "season": 5,
+      "number": 3,
+      "name": "Arne Jacobsen-sofabord og Børge Mogensen-stole",
+      "airdate": "2024-10-09"
+    },
+    {
+      "id": "608e8d2c-8acd-4575-883c-d6fdd54cd847",
+      "season": 5,
+      "number": 4,
+      "name": "Salto-vase og Bamsestol",
+      "airdate": "2024-10-16"
+    },
+    {
+      "id": "f8bce232-2f6b-45e8-bb1c-36373c679775",
+      "season": 5,
+      "number": 5,
+      "name": "Hoptimist og Preben Hornung-maleri",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "6b131035-7bf1-4c84-a634-502a3126b202",
+      "season": 5,
+      "number": 6,
+      "name": "Salto-vase og Kurt Trampedach",
+      "airdate": "2024-10-30"
+    },
+    {
+      "id": "57985856-ad13-489f-870e-98e14205d949",
+      "season": 5,
+      "number": 7,
+      "name": "Rauschenberg-plakat og Fabricius/Kastholm-stol",
+      "airdate": "2024-11-06"
+    },
+    {
+      "id": "36f72a54-ed3b-4f74-96d1-95624717424e",
+      "season": 5,
+      "number": 8,
+      "name": "Ruth Smith-maleri og PH-pullerter",
+      "airdate": "2024-11-13"
+    },
+    {
+      "id": "dec27673-eb89-4ce9-8902-3c213059426d",
+      "season": 5,
+      "number": 9,
+      "name": "Julekugler, IKEA og Finn Juhl",
+      "airdate": "2024-11-20"
+    },
+    {
+      "id": "3198e081-d740-42e3-b8c1-afef62d747ae",
+      "season": 5,
+      "number": 10,
+      "name": "Tivoli-lampe og Alvar Alto-tevogn",
+      "airdate": "2024-11-27"
+    },
+    {
+      "id": "97f82b78-fdde-4c13-9624-f573c4138037",
+      "season": 6,
+      "number": 1,
+      "name": "Scherfig og Wegner",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "6efc5efd-1b6d-45b1-bdc6-024cc527ca8b",
+      "season": 6,
+      "number": 2,
+      "name": "Asger Jorn og Løvig",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "a1c77b34-fb8d-4b48-9e45-10de7088f58e",
+      "season": 6,
+      "number": 3,
+      "name": "Vase og katte",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "c04f7e25-98b8-4620-9e37-d8a46e2ae0a2",
+      "season": 6,
+      "number": 4,
+      "name": "Rude og Bojesen",
+      "airdate": "2025-10-08"
+    },
+    {
+      "id": "dc5f3456-b5d6-411c-aac0-25fc3860595e",
+      "season": 6,
+      "number": 5,
+      "name": "Salto og Peter Brandes",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "f19ad3f2-46df-427b-8b3a-ce2e9d925813",
+      "season": 6,
+      "number": 6,
+      "name": "Weiss og Saxbo",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "80d5dc09-dd50-426f-9a67-5cefd55511da",
+      "season": 6,
+      "number": 7,
+      "name": "Italiensk væglampe og franske plakater",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "8c7186a1-827a-4617-9d73-08279a0fd959",
+      "season": 6,
+      "number": 8,
+      "name": "Arne Bang og den spanske stol",
+      "airdate": "2025-11-05"
+    },
+    {
+      "id": "afccca23-7f9c-4fb1-9c87-a43b7c26c012",
+      "season": 6,
+      "number": 9,
+      "name": "Retrolamper og vinglas",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "13a535c5-143a-4c8e-bd5b-931430074499",
+      "season": 6,
+      "number": 10,
+      "name": "Christiania-kunst og historisk klokke",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "b950a79e-6577-438d-8646-3ecc15d82382",
+      "season": 7,
+      "number": 1,
+      "name": "Tandemcykel og 20 engelske damehatte",
+      "airdate": "2026-08-20"
+    },
+    {
+      "id": "18c6089c-c498-4a6f-ac18-dc7d0aa8da12",
+      "season": 7,
+      "number": 2,
+      "name": "Julehjerter og et hjemmelavet dukketeater",
+      "airdate": "2026-08-27"
+    },
+    {
+      "id": "b52d2d0e-8604-41bb-aec1-9fedce4498fc",
+      "season": 7,
+      "number": 3,
+      "name": "Salto-krig og en boxerhund i keramik",
+      "airdate": "2026-09-03"
+    },
+    {
+      "id": "aca45ffd-78ef-45d7-9674-264cd6d42d53",
+      "season": 7,
+      "number": 4,
+      "name": "Arne Bang-skåle og en spillemaskine",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "55984bbe-1291-4529-8330-bfa9b70152aa",
+      "season": 7,
+      "number": 5,
+      "name": "George Jensen og Frederiks største fan",
+      "airdate": "2026-09-17"
+    },
+    {
+      "id": "ce31bdf8-c03a-40b3-8c88-e6cb00eac389",
+      "season": 7,
+      "number": 6,
+      "name": "Børge Mogensen-stol og en lille gravhund",
+      "airdate": "2026-09-24"
+    },
+    {
+      "id": "1d4c8270-c717-4b0e-b380-00f6ab2fdd86",
+      "season": 7,
+      "number": 7,
+      "name": "PH Koglen og Irma-pigen",
+      "airdate": "2026-10-01"
+    },
+    {
+      "id": "3ea44d23-7929-4fb0-a34b-f8ef03df022c",
+      "season": 7,
+      "number": 8,
+      "name": "Asger Jorn og en hjemmebygget kanon",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "c5d11fbc-2cb0-448c-a275-1f61092445c4",
+      "season": 7,
+      "number": 9,
+      "name": "PH-lamper og en sjælden Verner Panton-stol",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "6a6db585-61ab-4640-b473-b47e0409673d",
+      "season": 7,
+      "number": 10,
+      "name": "Franske antikviteter",
+      "airdate": "2026-10-22"
+    }
+  ]
+}

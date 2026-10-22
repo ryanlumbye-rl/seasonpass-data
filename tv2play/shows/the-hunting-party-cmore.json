@@ -1,0 +1,171 @@
+{
+  "id": "tv2play:the-hunting-party-cmore",
+  "name": "The Hunting Party",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "dcb966cd-df57-42f1-aedf-2f8ff2186041",
+      "season": 1,
+      "number": 1,
+      "name": "Richard Harris",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "e26844ce-25ce-49aa-9009-0889be2cab94",
+      "season": 1,
+      "number": 2,
+      "name": "Clayton Jessup",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "db1e4c6f-7ef1-49e8-8f2a-637485c229eb",
+      "season": 1,
+      "number": 3,
+      "name": "Lowe",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "aedfc77d-79d5-497d-b7ec-580fb705102d",
+      "season": 1,
+      "number": 4,
+      "name": "Doctor Ezekiel Malak",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "e7ea9ddd-764d-4c3f-b200-62fffc5e7862",
+      "season": 1,
+      "number": 5,
+      "name": "Roy Barber",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "931d36a5-1d06-4769-9f03-272583cd1b42",
+      "season": 1,
+      "number": 6,
+      "name": "Arlo Brandt",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "95eb752b-46a9-45c1-9a7a-60c16d7dcf26",
+      "season": 1,
+      "number": 7,
+      "name": "Mark Marsden",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "92b644c2-3f74-43e5-b7bd-769af453ed43",
+      "season": 1,
+      "number": 8,
+      "name": "Denise Glenn",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "9b4d7b44-58ce-47a6-aebb-b34e9060d036",
+      "season": 1,
+      "number": 9,
+      "name": "Tom Beecher",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "f9c7dd1e-5ef4-4fd1-acd3-e46efed5633b",
+      "season": 1,
+      "number": 10,
+      "name": "Jenna Wells",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "ee9cecb2-5604-4c08-b34b-b70768dd8dd1",
+      "season": 2,
+      "number": 1,
+      "name": "Ron Simms",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "d7160318-0673-44e1-975e-fc4937095cdb",
+      "season": 2,
+      "number": 2,
+      "name": "Adrian Gallo",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "8f15da24-9550-471f-8ef3-6d861509318b",
+      "season": 2,
+      "number": 3,
+      "name": "Zack Lang",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "c672a766-74dd-44b3-a9e9-79eebdbb7e73",
+      "season": 2,
+      "number": 4,
+      "name": "Amanda Weiss",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "85592a9e-d03e-428c-b28e-b9426c7b940f",
+      "season": 2,
+      "number": 5,
+      "name": "Noah Cyrus",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "74212240-29d0-4348-b3a1-877b3a3440d0",
+      "season": 2,
+      "number": 6,
+      "name": "Lou Kaplan",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "5de5d998-ee19-4392-83b5-5871466d300b",
+      "season": 2,
+      "number": 7,
+      "name": "Sidney Fairfax",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "bbc7305d-d153-42a2-a2c6-94225aed7ed1",
+      "season": 2,
+      "number": 8,
+      "name": "Elliot Carr",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "7acba78c-4dd7-45d7-9a8b-dfd7ad52e1ba",
+      "season": 2,
+      "number": 9,
+      "name": "Collette Akins",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "e9c3215b-7b62-4609-be19-9c80fc00961a",
+      "season": 2,
+      "number": 10,
+      "name": "Byron May",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "729fec5a-1dbb-4780-9fcb-d552b501083d",
+      "season": 2,
+      "number": 11,
+      "name": "Dylan Myles",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "f1fb0a88-6827-47fa-950a-b5e07ca697a6",
+      "season": 2,
+      "number": 12,
+      "name": "Nancy Albright",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "1e1b27c6-dc7d-4043-9512-c9f54f640fb3",
+      "season": 2,
+      "number": 13,
+      "name": "Xander Wax",
+      "airdate": "2026-07-02"
+    }
+  ]
+}

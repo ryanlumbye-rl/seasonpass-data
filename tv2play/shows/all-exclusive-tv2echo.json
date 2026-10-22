@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:all-exclusive-tv2echo",
+  "name": "All Exclusive",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "777009f7-cceb-4ce1-8746-7aedcc16f1fa",
+      "season": 1,
+      "number": 1,
+      "name": "Iben Hjejle",
+      "airdate": "2025-08-31"
+    },
+    {
+      "id": "0ae288ee-6b83-45c9-8738-90cdd69781fb",
+      "season": 1,
+      "number": 2,
+      "name": "Sofie Linde",
+      "airdate": "2025-09-07"
+    },
+    {
+      "id": "7bccf2bc-2710-407f-a344-48f86804dfcf",
+      "season": 1,
+      "number": 3,
+      "name": "Helle Thorning-Schmidt",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "73d1c021-9f9c-4764-9baf-65e307c6e781",
+      "season": 1,
+      "number": 4,
+      "name": "Medina",
+      "airdate": "2025-09-21"
+    },
+    {
+      "id": "92d43e13-441a-4ac0-a500-038602261488",
+      "season": 2,
+      "number": 1,
+      "name": "Thomas Helmig",
+      "airdate": "2025-09-28"
+    },
+    {
+      "id": "8cb917dc-87f0-4938-8d66-199a429e6cee",
+      "season": 2,
+      "number": 2,
+      "name": "Paprika Steen",
+      "airdate": "2025-10-05"
+    },
+    {
+      "id": "fd86f9c7-7ecc-49d8-a6f2-a8ec116a2792",
+      "season": 2,
+      "number": 3,
+      "name": "Kasper Schmeichel",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "6e505774-ae83-4de1-9828-70c648490a66",
+      "season": 2,
+      "number": 4,
+      "name": "Ulrich Thomsen",
+      "airdate": "2025-10-19"
+    }
+  ]
+}

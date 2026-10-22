@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:agatha-christies-poirot-none",
+  "name": "Agatha Christie's Poirot",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3d56a33c-b3e1-477f-928f-43f17593f5d9",
+      "season": 7,
+      "number": 1,
+      "name": "Mordet på Roger Ackroyd",
+      "airdate": "2026-02-10"
+    },
+    {
+      "id": "67258db1-b0b3-4189-af32-ecd67d99955c",
+      "season": 7,
+      "number": 2,
+      "name": "Tretten til bords",
+      "airdate": "2026-02-10"
+    },
+    {
+      "id": "1730df4d-b2a6-41e2-a90d-af069993eb63",
+      "season": 8,
+      "number": 1,
+      "name": "Mord i solen",
+      "airdate": "2026-02-10"
+    },
+    {
+      "id": "4e7ce2de-961d-4cf4-927a-075ff1cb997f",
+      "season": 8,
+      "number": 2,
+      "name": "Mord i ørkenen",
+      "airdate": "2026-02-10"
+    }
+  ]
+}

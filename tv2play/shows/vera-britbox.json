@@ -1,0 +1,402 @@
+{
+  "id": "tv2play:vera-britbox",
+  "name": "Vera",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9668ed67-0b5c-48ad-aa70-07120d3b273d",
+      "season": 1,
+      "number": 1,
+      "name": "Hidden Depths",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "68ad4546-cfed-4b2b-bbce-bbc5557c2013",
+      "season": 1,
+      "number": 2,
+      "name": "Telling Tales",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "60901b44-6226-4d82-8395-3566cdc8c8f0",
+      "season": 1,
+      "number": 3,
+      "name": "The Crow Trap",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f96280d0-f6a7-420f-92c3-c3322b99f8e2",
+      "season": 1,
+      "number": 4,
+      "name": "Little Lazarus",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d879f91e-df78-4b2b-84e1-4b8a0579cdba",
+      "season": 2,
+      "number": 1,
+      "name": "The Ghost Position",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "aa70b826-fffa-4db1-9918-bb233d68ad65",
+      "season": 2,
+      "number": 2,
+      "name": "Silent Voices",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "039fb1d9-92cc-466b-82e9-d477925aa3f0",
+      "season": 2,
+      "number": 3,
+      "name": "A Certain Samaritan",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "779d28e3-dda1-4cf4-926e-43b30cb61b69",
+      "season": 2,
+      "number": 4,
+      "name": "Sundancers",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9cf256e4-76cc-4919-b3f6-aeccf2fc19b4",
+      "season": 3,
+      "number": 1,
+      "name": "Castles in the Air",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "01252131-7196-437d-b685-650f70959a14",
+      "season": 3,
+      "number": 2,
+      "name": "Poster Child",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "41b645f0-9d0a-427a-8c10-5488fbd8ed1c",
+      "season": 3,
+      "number": 3,
+      "name": "Young Gods",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ecb06e5f-2a06-449e-8cb1-784fd5f9358a",
+      "season": 3,
+      "number": 4,
+      "name": "Prodigal Son",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d2b89467-0611-409f-97d0-f1b5b9d14278",
+      "season": 4,
+      "number": 1,
+      "name": "On Harbour Street",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f5ba4b3c-0c5b-48be-bb09-5dcab8134026",
+      "season": 4,
+      "number": 2,
+      "name": "Protected",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6f72b447-6dc5-4280-a884-9aea48886322",
+      "season": 4,
+      "number": 3,
+      "name": "The Deer Hunters",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3adef6e3-9bae-4722-a48d-edc56cb7dcbc",
+      "season": 4,
+      "number": 4,
+      "name": "Death of a Family Man",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d93bc3a9-936c-47e9-afa2-32b4bbb3c8dc",
+      "season": 5,
+      "number": 1,
+      "name": "Changing Tides",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9dff9ecd-69e5-414a-b116-ee57741523c1",
+      "season": 5,
+      "number": 2,
+      "name": "Old Wounds",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "133defd8-4346-4f5e-acf7-78b464a67e19",
+      "season": 5,
+      "number": 3,
+      "name": "Muddy Waters",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3c3f8205-55a6-4b53-b409-4506f3c11e7e",
+      "season": 5,
+      "number": 4,
+      "name": "Shadows in the Sky",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "eca450b1-df0d-4f3c-996c-c5c20974badc",
+      "season": 6,
+      "number": 1,
+      "name": "Dark Road",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4184f233-5636-4437-a15d-f46803abaaac",
+      "season": 6,
+      "number": 2,
+      "name": "Tuesday's Child",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3774d7c5-91a0-43ae-8492-b929d89f4aec",
+      "season": 6,
+      "number": 3,
+      "name": "The Moth Catcher",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "478ac198-8030-4d40-9cd2-96fdcf585447",
+      "season": 6,
+      "number": 4,
+      "name": "The Sea Glass",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3ad0a411-48f9-4fa1-91ce-002ce55de163",
+      "season": 7,
+      "number": 1,
+      "name": "Natural Selection",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "accd91e7-6863-458c-be0b-115cbef5b60a",
+      "season": 7,
+      "number": 2,
+      "name": "Dark Angel",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7bdc2a8a-eeb2-46ab-8aa5-f252a9293825",
+      "season": 7,
+      "number": 3,
+      "name": "Broken Promise",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "79668fbf-2161-4cdb-bf6c-dacef0d63771",
+      "season": 7,
+      "number": 4,
+      "name": "The Blanket Mire",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e34f5791-5acc-4c5a-8ccf-80ce71e24d44",
+      "season": 8,
+      "number": 1,
+      "name": "Blood and Bone",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "971a378e-80ce-4fe4-bc12-2cc5f302adbc",
+      "season": 8,
+      "number": 2,
+      "name": "Black Ice",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "914f3f94-b261-4e92-922a-31fb9ccd5f35",
+      "season": 8,
+      "number": 3,
+      "name": "Home",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4afe9ee6-b5d5-4ef0-923f-f1f8d263c073",
+      "season": 8,
+      "number": 4,
+      "name": "Darkwater",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "63bf78d7-44b6-4f2e-ada0-14b44ce751cc",
+      "season": 9,
+      "number": 1,
+      "name": "Blind Spot",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a22d45ee-ffa1-42ea-8925-a96d427de263",
+      "season": 9,
+      "number": 2,
+      "name": "Cuckoo",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c157fb27-045c-4948-bc11-68ee60304c17",
+      "season": 9,
+      "number": 3,
+      "name": "Cold River",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0b0d7d79-3abd-41f4-b0cd-b422552289e0",
+      "season": 9,
+      "number": 4,
+      "name": "The Seagull",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "17bb3cf9-0011-4243-813a-1f3dbbef0ba8",
+      "season": 10,
+      "number": 1,
+      "name": "Blood Will Tell",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "66769963-5db7-418a-a845-6683dd1529e1",
+      "season": 10,
+      "number": 2,
+      "name": "Parent Not Expecting",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6bb54dd2-eac2-4055-87f0-e8827e600df9",
+      "season": 10,
+      "number": 3,
+      "name": "Dirty",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7de8a3cf-5c58-49a5-a141-68201e341477",
+      "season": 10,
+      "number": 4,
+      "name": "The Escape Turn",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "66f4ec67-1462-4fe0-83ce-8c732e85764e",
+      "season": 11,
+      "number": 1,
+      "name": "Witness",
+      "airdate": "2023-06-07"
+    },
+    {
+      "id": "0e46a015-6080-4035-a1e2-7a6ef39eeb3e",
+      "season": 11,
+      "number": 2,
+      "name": "Recovery",
+      "airdate": "2023-06-07"
+    },
+    {
+      "id": "1ffb4b2b-f393-49a9-b5e2-2b1711778ac1",
+      "season": 11,
+      "number": 3,
+      "name": "Tyger, Tyger",
+      "airdate": "2023-06-07"
+    },
+    {
+      "id": "6017eeca-a708-4cd2-b903-736f6f378b20",
+      "season": 11,
+      "number": 4,
+      "name": "As the Crow Flies",
+      "airdate": "2023-06-07"
+    },
+    {
+      "id": "b6f1d025-910a-421c-8c80-b75b60ad218b",
+      "season": 11,
+      "number": 5,
+      "name": "Vital Signs",
+      "airdate": "2023-06-07"
+    },
+    {
+      "id": "06fbc050-01a2-4eb3-bf82-68bdf6d794c4",
+      "season": 11,
+      "number": 6,
+      "name": "The Way the Wind Blows",
+      "airdate": "2023-06-07"
+    },
+    {
+      "id": "8d99819a-62bf-49d3-a64f-d809b7d6dd54",
+      "season": 12,
+      "number": 1,
+      "name": "Against the Tide",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "a96fdc06-f035-497e-8944-286265b0dcc8",
+      "season": 12,
+      "number": 2,
+      "name": "For the Grace of God",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "c7f70ef8-5db3-4b65-8bc1-a4baeb44c6ea",
+      "season": 12,
+      "number": 3,
+      "name": "Blue",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "b7398473-553c-4b11-96b5-7386c1eb96d7",
+      "season": 12,
+      "number": 4,
+      "name": "The Darkest Evening",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "8378923b-3638-418a-b046-f43b3587d6c2",
+      "season": 12,
+      "number": 5,
+      "name": "The Rising Tide",
+      "airdate": "2024-11-27"
+    },
+    {
+      "id": "c6a21075-137f-4839-9c78-ad3ae996a4d7",
+      "season": 13,
+      "number": 1,
+      "name": "Fast Love",
+      "airdate": "2025-05-21"
+    },
+    {
+      "id": "42742cd5-e923-4ab1-bcf4-a8071de3e8a9",
+      "season": 13,
+      "number": 2,
+      "name": "Tender",
+      "airdate": "2025-05-21"
+    },
+    {
+      "id": "f1d1f73f-dfcd-4b1a-9174-1e007d24709a",
+      "season": 13,
+      "number": 3,
+      "name": "Salt and Vinegar",
+      "airdate": "2025-05-21"
+    },
+    {
+      "id": "c895e59f-1aa4-4cf8-9826-fc654ef1d889",
+      "season": 14,
+      "number": 1,
+      "name": "Inside",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "ceaf0ef9-198d-49f6-a9a8-2e179799ba05",
+      "season": 14,
+      "number": 2,
+      "name": "The Dark Wives",
+      "airdate": "2026-04-01"
+    }
+  ]
+}

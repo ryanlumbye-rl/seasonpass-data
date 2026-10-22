@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:efterforskningen-tv2play",
+  "name": "Efterforskningen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f30678bf-2da1-444b-947b-bf389dfcbfe0",
+      "season": 1,
+      "number": 1,
+      "name": "Dag 1",
+      "airdate": "2020-09-28"
+    },
+    {
+      "id": "76e59bb9-e7ef-40be-8de7-142b1975aed5",
+      "season": 1,
+      "number": 2,
+      "name": "Det vi ved, og det vi antager",
+      "airdate": "2020-09-28"
+    },
+    {
+      "id": "b7c22775-f0f7-4863-bb7b-be834b70fdc4",
+      "season": 1,
+      "number": 3,
+      "name": "Jagten",
+      "airdate": "2020-10-04"
+    },
+    {
+      "id": "e4e098b0-6bb2-4b7e-9e7d-3ae7b111aa28",
+      "season": 1,
+      "number": 4,
+      "name": "1280 meter",
+      "airdate": "2020-10-11"
+    },
+    {
+      "id": "e9b3d91b-5891-45f5-adc6-31d365d3dc12",
+      "season": 1,
+      "number": 5,
+      "name": "Et helt menneske",
+      "airdate": "2020-10-18"
+    },
+    {
+      "id": "f3192c22-bc27-4705-80a1-d752ca325212",
+      "season": 1,
+      "number": 6,
+      "name": "In dubio pro reo",
+      "airdate": "2020-10-25"
+    }
+  ]
+}

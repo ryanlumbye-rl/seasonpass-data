@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:ridley-britbox",
+  "name": "Ridley",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "90e1fa30-3998-444b-9f81-f1168501b34f",
+      "season": 1,
+      "number": 1,
+      "name": "The Peaceful Garden",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "8f9cf253-e779-4963-8f65-84e092af836a",
+      "season": 1,
+      "number": 2,
+      "name": "Hospitality",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "45e6b5ed-c259-4a3a-b0b7-f209c8831232",
+      "season": 1,
+      "number": 3,
+      "name": "Swansong",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "1ee2a239-d53b-4ba8-bbf3-d63adce9c9b8",
+      "season": 1,
+      "number": 4,
+      "name": "The Numbered Days",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "af78d723-d1cb-4d1b-9024-cac512338306",
+      "season": 2,
+      "number": 1,
+      "name": "A Sleeping Tiger",
+      "airdate": "2024-12-18"
+    },
+    {
+      "id": "27ac2d71-e421-4a9e-a4ab-2b86d5f89a51",
+      "season": 2,
+      "number": 2,
+      "name": "The Hollow Tree",
+      "airdate": "2024-12-18"
+    },
+    {
+      "id": "23454da6-60e4-4e8d-bf21-6da920818154",
+      "season": 2,
+      "number": 3,
+      "name": "Fool For Love",
+      "airdate": "2024-12-18"
+    },
+    {
+      "id": "a0b1889e-3905-40a7-ba90-c8e2e9e3b1ba",
+      "season": 2,
+      "number": 4,
+      "name": "The Memory Jar",
+      "airdate": "2024-12-18"
+    }
+  ]
+}

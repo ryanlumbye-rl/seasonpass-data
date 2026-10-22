@@ -1,0 +1,227 @@
+{
+  "id": "tv2play:hc-andersens-eventyr-oiii",
+  "name": "H.C. Andersens eventyr",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d569a048-22af-4b39-bfa6-836c777e97aa",
+      "season": 1,
+      "number": 1,
+      "name": "Kejserens nye klæder",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c42a5b30-4ee8-4075-a7cc-e99c0b998859",
+      "season": 1,
+      "number": 2,
+      "name": "Rejsekammeraten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "318d7515-3fd7-4a59-9589-2430557f731e",
+      "season": 1,
+      "number": 3,
+      "name": "Den lille havfrue",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0fcdbab1-5938-4655-80de-c9ed1bc022cf",
+      "season": 1,
+      "number": 4,
+      "name": "Snemanden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "84ce6628-3210-47d8-aea7-3fbafe20cb8d",
+      "season": 1,
+      "number": 5,
+      "name": "Springfyrene",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7e135a15-8e2d-4f9b-b811-97c5864c68f3",
+      "season": 1,
+      "number": 6,
+      "name": "Nattergalen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "61295e32-3eb3-406e-aeab-5feb2374e752",
+      "season": 1,
+      "number": 7,
+      "name": "Kærestefolkene",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2c01b96a-a7fc-4122-a46b-8a7daa17751b",
+      "season": 1,
+      "number": 8,
+      "name": "Den gamle gadelygte",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "928d1498-6f91-40ee-96ab-76fcdc035467",
+      "season": 1,
+      "number": 9,
+      "name": "Fyrtøjet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "13ac43cb-5a60-4d36-b4eb-f1f0daef8792",
+      "season": 1,
+      "number": 10,
+      "name": "Guldskat",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e9559db8-1101-49b0-bbc8-0fe1e890f1e0",
+      "season": 1,
+      "number": 11,
+      "name": "Den lille Idas blomster",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8b22f767-2d37-47e0-b58c-2088c1c88c73",
+      "season": 1,
+      "number": 12,
+      "name": "Prinsessen på ærten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7d5c3c51-50da-46c4-b0e5-a5b8a82ad7d1",
+      "season": 1,
+      "number": 13,
+      "name": "Grantræet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1598800e-6de0-4cc5-b88c-1daaacfe236d",
+      "season": 2,
+      "number": 1,
+      "name": "Den grimme ælling",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "037af9db-5f85-431a-806b-d30517c6cd6d",
+      "season": 2,
+      "number": 2,
+      "name": "De vilde svaner",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c086328e-5d3c-490e-9e28-9210ad52bb77",
+      "season": 2,
+      "number": 3,
+      "name": "Den standhaftige tinsoldat",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6091473d-e14d-4e56-8cd5-6c8617552a42",
+      "season": 2,
+      "number": 4,
+      "name": "Skarnbassen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "499ec010-6667-48a0-b84a-011cb1b58b55",
+      "season": 2,
+      "number": 5,
+      "name": "Svinedrengen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2e9afaf9-323d-4f3a-bd85-017f35abc341",
+      "season": 2,
+      "number": 6,
+      "name": "Loppen og Professoren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7c59d5bf-287c-4d40-b30a-377cfa97ad8e",
+      "season": 2,
+      "number": 7,
+      "name": "Hvad fatter gør, det er altid det rigtige",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3a6ba2a5-6dd6-4da0-a7b4-8b6d492fa9ef",
+      "season": 2,
+      "number": 8,
+      "name": "Tommelise",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b92f3bd5-5edc-4799-88e0-629989243314",
+      "season": 2,
+      "number": 9,
+      "name": "Flaskehalsen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9624d595-1a35-4c37-81cf-51baef26737a",
+      "season": 2,
+      "number": 10,
+      "name": "Gartneren og Herskabet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "042e6413-bcb6-400f-a636-80c3e31ed295",
+      "season": 2,
+      "number": 11,
+      "name": "Suppe på en pølsepind",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9cf6b8ea-bbf0-4862-8479-e63511c30a14",
+      "season": 2,
+      "number": 12,
+      "name": "Det er ganske vist",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "97a7f32a-1238-4364-ba92-db4546fd8982",
+      "season": 2,
+      "number": 13,
+      "name": "Ole Lukøje",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0cbd3a9d-56d0-441c-88fe-e174ee6f640a",
+      "season": 2,
+      "number": 14,
+      "name": "Den flyvende kuffert",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cebbb9fd-db98-4c69-a9aa-f062974d65bc",
+      "season": 2,
+      "number": 15,
+      "name": "Klods-Hans",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "690bd728-95bc-4046-8201-7ab78f81997e",
+      "season": 2,
+      "number": 16,
+      "name": "Lykkens galocher",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5302c7f3-8cd4-44e4-b92a-ef0bf82e72d9",
+      "season": 2,
+      "number": 17,
+      "name": "Snedronningen - del 1",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "dd308ce4-f771-4fcd-a7c7-1ed6e2750e81",
+      "season": 2,
+      "number": 18,
+      "name": "Snedronningen - del 2",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

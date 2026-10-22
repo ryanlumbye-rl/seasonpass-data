@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:finders-keepers-britbox",
+  "name": "Finders Keepers",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ecd56044-beae-4c95-9c68-59dcf022c4a9",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-05-28"
+    },
+    {
+      "id": "2e0c1356-68a0-40ee-a837-e9c2d1b675a0",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-05-28"
+    },
+    {
+      "id": "d4ecab45-1e5d-48e1-835c-72ac18b30fae",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-05-28"
+    },
+    {
+      "id": "6c97da19-b992-444b-bd65-3f09e459c774",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-05-28"
+    }
+  ]
+}

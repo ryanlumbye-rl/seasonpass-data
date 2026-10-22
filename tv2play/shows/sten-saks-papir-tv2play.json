@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:sten-saks-papir-tv2play",
+  "name": "Sten, saks, papir",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4774cb21-a204-4942-966b-352a92250fc2",
+      "season": 2,
+      "number": 1,
+      "name": "Franz Rul og Atraxes' forsvundne regnbuehotpants",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "a606f30c-0d90-429a-aea9-5d40a9f7c187",
+      "season": 2,
+      "number": 2,
+      "name": "Papir og Blyant fortæller en vittighed",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "b619af84-8158-4655-9db1-15a912e9ce96",
+      "season": 2,
+      "number": 3,
+      "name": "Søren",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "ec621878-0aee-41b5-a564-240ecefd7eec",
+      "season": 2,
+      "number": 4,
+      "name": "Papir starter på en eliteskole",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "4bb85250-58c3-41ef-9dde-e9d9c7a01aaf",
+      "season": 2,
+      "number": 5,
+      "name": "Origami-robotten",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "80d0cac2-f2cd-4ea5-afc5-485f5a2e1f67",
+      "season": 2,
+      "number": 6,
+      "name": "Den gode konkurrence",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "9a023988-b288-4298-b9fa-7d5185b777d8",
+      "season": 2,
+      "number": 7,
+      "name": "Papir tager telefonerne",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "5bda4620-8f67-4f94-b474-58ac3d897bd6",
+      "season": 2,
+      "number": 8,
+      "name": "Saks er en god dreng",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "10b7d658-76c5-4b0c-88e9-3530135d240b",
+      "season": 2,
+      "number": 9,
+      "name": "Moonami 12",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "fc88c3f5-2323-41a4-ac25-a1ff5f9d7017",
+      "season": 2,
+      "number": 10,
+      "name": "Superskurken Saks",
+      "airdate": "2026-10-17"
+    }
+  ]
+}

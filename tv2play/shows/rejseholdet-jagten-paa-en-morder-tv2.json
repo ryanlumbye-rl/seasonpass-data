@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:rejseholdet-jagten-paa-en-morder-tv2",
+  "name": "Rejseholdet - jagten på en morder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "48c5edaa-83b2-4d54-807d-06059c616904",
+      "season": 1,
+      "number": 1,
+      "name": "Hvorfor skulle Tonni dø?",
+      "airdate": "2018-01-11"
+    },
+    {
+      "id": "8de5f691-be16-4686-8e3f-518914793df1",
+      "season": 1,
+      "number": 2,
+      "name": "Drabet på Joachim",
+      "airdate": "2018-01-11"
+    },
+    {
+      "id": "74e50120-6cc6-4b6a-af21-82d055f4e1f7",
+      "season": 1,
+      "number": 3,
+      "name": "Kvinden, der forsvandt",
+      "airdate": "2018-01-18"
+    },
+    {
+      "id": "4d916e23-6cd4-479a-9482-d39420549165",
+      "season": 1,
+      "number": 4,
+      "name": "Det tilfældige offer",
+      "airdate": "2018-01-25"
+    },
+    {
+      "id": "24ba7772-8c3c-4229-97f7-78d506ba752f",
+      "season": 2,
+      "number": 1,
+      "name": "Lejemordet på kreditchefen",
+      "airdate": "2020-02-13"
+    },
+    {
+      "id": "7e903877-72f6-40bc-9b30-fc40d8aaf405",
+      "season": 2,
+      "number": 2,
+      "name": "Drabet på millionæren",
+      "airdate": "2020-02-13"
+    },
+    {
+      "id": "f686d8e9-4c41-41aa-845b-be692edc7572",
+      "season": 2,
+      "number": 3,
+      "name": "Det mishandlede lig",
+      "airdate": "2020-02-20"
+    },
+    {
+      "id": "af9f2253-6846-4fe3-93e1-79ce0a6f7180",
+      "season": 2,
+      "number": 4,
+      "name": "Liget i laden",
+      "airdate": "2020-03-05"
+    }
+  ]
+}

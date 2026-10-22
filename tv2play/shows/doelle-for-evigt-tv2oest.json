@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:doelle-for-evigt-tv2oest",
+  "name": "Dølle for evigt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "22045292-2a25-4f76-881d-7be6bb0bcdb4",
+      "season": 1,
+      "number": 1,
+      "name": "Dølle åbner",
+      "airdate": "2024-09-13"
+    },
+    {
+      "id": "3bf96387-a77c-49e4-b508-fa65d88c65a2",
+      "season": 1,
+      "number": 2,
+      "name": "Den store dag",
+      "airdate": "2024-09-20"
+    },
+    {
+      "id": "14b5d4ad-ecf7-4e76-af5b-3156538f5ebd",
+      "season": 1,
+      "number": 3,
+      "name": "Skybrud og våd damefest",
+      "airdate": "2024-09-27"
+    },
+    {
+      "id": "8248b6a1-e3b5-44d2-847c-43f3f9562865",
+      "season": 1,
+      "number": 4,
+      "name": "Ses vi til næste år?",
+      "airdate": "2024-10-04"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "tv2play:inspector-morse-tv2charlie",
+  "name": "Inspector Morse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e4a24b3a-e554-4ced-80a0-050c5b3e8644",
+      "season": 1,
+      "number": 1,
+      "name": "The Dead Of Jericho",
+      "airdate": "2026-01-09"
+    },
+    {
+      "id": "8c40e6fc-83ac-4bf1-a963-2a9023ed3469",
+      "season": 1,
+      "number": 2,
+      "name": "The Silent World of Nicholas Quinn",
+      "airdate": "2026-01-16"
+    },
+    {
+      "id": "171753fb-28d7-4ba9-a18e-9263d7a28d81",
+      "season": 1,
+      "number": 3,
+      "name": "Service Of All The Dead",
+      "airdate": "2026-01-23"
+    },
+    {
+      "id": "70da9035-3d9f-48c8-be43-e09535661383",
+      "season": 2,
+      "number": 1,
+      "name": "The Wolvercote Tongue",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "af35bf7b-b47b-4fe6-8700-0db258e6f2f3",
+      "season": 2,
+      "number": 2,
+      "name": "Last Seen Wearing",
+      "airdate": "2026-02-06"
+    },
+    {
+      "id": "7bdb8acb-1265-4fc8-8da9-f23ee79f20bd",
+      "season": 2,
+      "number": 3,
+      "name": "The Settling Of The Sun",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "2c9bdb2d-3927-4b0b-b5db-b191d6e28c56",
+      "season": 2,
+      "number": 4,
+      "name": "Last Bus To Woodstock",
+      "airdate": "2026-02-20"
+    },
+    {
+      "id": "64530216-dd3a-4db3-8ce7-8d775380d2b0",
+      "season": 3,
+      "number": 1,
+      "name": "The Ghost In The Machine",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "a236ef47-7362-429c-b574-c127b1846173",
+      "season": 3,
+      "number": 2,
+      "name": "The Last Enemy",
+      "airdate": "2026-03-06"
+    },
+    {
+      "id": "e24d8a56-404d-4c44-a559-ad229465f5e3",
+      "season": 3,
+      "number": 3,
+      "name": "Deceived By Flight",
+      "airdate": "2026-03-13"
+    },
+    {
+      "id": "cb11aa73-929f-4eaf-b522-5af37323264f",
+      "season": 3,
+      "number": 4,
+      "name": "The Secret Of Bay 5b",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "47877e04-13a0-4506-971a-2175a2e6fb4f",
+      "season": 4,
+      "number": 1,
+      "name": "Infernal Serpent",
+      "airdate": "2026-03-27"
+    },
+    {
+      "id": "b6c9509f-d06a-4c5f-b309-44db49c2f08c",
+      "season": 4,
+      "number": 2,
+      "name": "The Sins Of The Fathers",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "49c47d14-b35d-4ba9-a6f8-4e83780cd9a8",
+      "season": 4,
+      "number": 3,
+      "name": "Driven To Distraction",
+      "airdate": "2026-04-10"
+    },
+    {
+      "id": "331d5e29-21cf-4b33-b64a-605249a02364",
+      "season": 4,
+      "number": 4,
+      "name": "Masonic Mysteries",
+      "airdate": "2026-04-17"
+    },
+    {
+      "id": "db18b55d-e054-4220-b052-a08b98471190",
+      "season": 5,
+      "number": 1,
+      "name": "Second time around",
+      "airdate": "2026-04-24"
+    },
+    {
+      "id": "2a45ef78-1aad-4616-b8ad-a8d9c26d20bf",
+      "season": 5,
+      "number": 2,
+      "name": "Fat chance",
+      "airdate": "2026-05-01"
+    },
+    {
+      "id": "14b3dbca-c4ae-4731-a148-4f109c1cbfdc",
+      "season": 5,
+      "number": 3,
+      "name": "Who Killed Harry Field?",
+      "airdate": "2026-05-08"
+    },
+    {
+      "id": "632380c0-0797-46f6-9eaa-a8e1827ffa8e",
+      "season": 5,
+      "number": 4,
+      "name": "Greeks Bearing Gifts",
+      "airdate": "2026-05-15"
+    },
+    {
+      "id": "25c25916-c2f7-48f5-99f9-1e87d0507c43",
+      "season": 5,
+      "number": 5,
+      "name": "Promised Land",
+      "airdate": "2026-05-22"
+    },
+    {
+      "id": "bad76b13-b1d4-4f7e-a1d8-b6ad6ae3b72c",
+      "season": 6,
+      "number": 1,
+      "name": "Dead on Time",
+      "airdate": "2026-05-29"
+    },
+    {
+      "id": "738551af-9f19-4a90-92e1-9d8872ca23a5",
+      "season": 6,
+      "number": 2,
+      "name": "Happy Families",
+      "airdate": "2026-06-05"
+    },
+    {
+      "id": "dc894799-2905-46ab-bc11-71b145ec23fc",
+      "season": 6,
+      "number": 3,
+      "name": "The Death Of The Self",
+      "airdate": "2026-06-12"
+    },
+    {
+      "id": "f272949e-b96c-43dc-be69-70f5ff21328d",
+      "season": 6,
+      "number": 4,
+      "name": "Absolute Conviction",
+      "airdate": "2026-06-19"
+    },
+    {
+      "id": "ebd34f5a-42d6-40ae-acd2-556c9fb22eaa",
+      "season": 6,
+      "number": 5,
+      "name": "Cherubim And Seraphim",
+      "airdate": "2026-06-26"
+    },
+    {
+      "id": "ee0ebbe8-5018-450e-b295-7ff4dfc20ce1",
+      "season": 7,
+      "number": 1,
+      "name": "Deadly Slumber",
+      "airdate": "2026-07-03"
+    },
+    {
+      "id": "eecc743e-5e86-4503-876d-50907b27ad8e",
+      "season": 7,
+      "number": 2,
+      "name": "The Day Of The Devil",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "4b5ccd8b-bf72-4ddc-815b-0267b3950cbc",
+      "season": 7,
+      "number": 3,
+      "name": "Twilight Of The Gods",
+      "airdate": "2026-07-17"
+    },
+    {
+      "id": "4d6ee3e4-33d3-4e60-8b85-f227253f777b",
+      "season": 8,
+      "number": 1,
+      "name": "The Way Through the Woods",
+      "airdate": "2026-07-24"
+    },
+    {
+      "id": "5ad295f7-21a8-4972-853a-d999f8640908",
+      "season": 8,
+      "number": 2,
+      "name": "The Daughters Of Cain",
+      "airdate": "2026-07-31"
+    },
+    {
+      "id": "5052663a-9fb3-433b-9cdc-76b0785d99ca",
+      "season": 8,
+      "number": 3,
+      "name": "Death Is Now My Neighbour",
+      "airdate": "2026-08-07"
+    },
+    {
+      "id": "bc827c89-4539-4d7a-ac99-064dc36cb0fb",
+      "season": 8,
+      "number": 4,
+      "name": "The Wench Is Dead",
+      "airdate": "2026-08-14"
+    },
+    {
+      "id": "f4450823-f4de-4b9d-84c4-e282bb552519",
+      "season": 8,
+      "number": 5,
+      "name": "The Remorseful Day",
+      "airdate": "2026-08-21"
+    }
+  ]
+}

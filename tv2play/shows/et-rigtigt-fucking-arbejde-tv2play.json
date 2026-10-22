@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:et-rigtigt-fucking-arbejde-tv2play",
+  "name": "Et rigtigt fucking arbejde",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0c68e580-257b-431f-80e3-0c672ae1ab7a",
+      "season": 1,
+      "number": 1,
+      "name": "Kom med ind i skurvognen",
+      "airdate": "2018-10-08"
+    },
+    {
+      "id": "3fb4938a-b566-4b80-8895-0601cc103402",
+      "season": 1,
+      "number": 2,
+      "name": "Kom med ind i skurvognen",
+      "airdate": "2018-10-08"
+    },
+    {
+      "id": "3cb78933-687c-4012-810d-18e77f30cd12",
+      "season": 1,
+      "number": 3,
+      "name": "Kom med ind i skurvognen",
+      "airdate": "2018-10-15"
+    },
+    {
+      "id": "a51038b3-0356-45ba-b5a7-919e01a6a28d",
+      "season": 1,
+      "number": 4,
+      "name": "Kom med ind i skurvognen",
+      "airdate": "2018-10-22"
+    },
+    {
+      "id": "16081363-6d39-4109-a973-599ac7925c73",
+      "season": 1,
+      "number": 5,
+      "name": "Kom med ind i skurvognen",
+      "airdate": "2018-10-29"
+    },
+    {
+      "id": "d84eae05-76b7-45bd-94eb-e90cf8fd5ab0",
+      "season": 1,
+      "number": 6,
+      "name": "Kom med ind i skurvognen",
+      "airdate": "2018-11-05"
+    },
+    {
+      "id": "e65cfb50-1172-44d6-b14c-1773375de40b",
+      "season": 1,
+      "number": 7,
+      "name": "Kom med ind i skurvognen",
+      "airdate": "2018-11-12"
+    },
+    {
+      "id": "86041c2b-ba91-449d-a7be-b1e8006a7d7c",
+      "season": 1,
+      "number": 8,
+      "name": "Kom med ind i skurvognen",
+      "airdate": "2018-11-19"
+    }
+  ]
+}

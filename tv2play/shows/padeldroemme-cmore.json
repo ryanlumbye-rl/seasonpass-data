@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:padeldroemme-cmore",
+  "name": "Padeldrømme",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bff708bc-4eb6-43fe-a675-0e8c1070def9",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8d8480e9-a3a7-493b-80a8-b8747db78a0d",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e8aaaee8-8785-44d5-8301-59414e9c60fd",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "224534bf-7ab8-499c-a9fd-a19089b6be6e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "abeedc62-491c-4cf8-ad22-d7b81d4b28d7",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3186b79a-5b23-4f68-982e-f02dfcc15031",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

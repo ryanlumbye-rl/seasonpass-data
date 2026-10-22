@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:the-legend-of-korra-tv2play",
+  "name": "The Legend Of Korra",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a61c9f84-b42e-4e55-acbc-9d960ba1c700",
+      "season": 3,
+      "number": 13,
+      "name": "Den Røde Lotus' gift",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "05c3b097-7ac1-4397-b75a-54df807d45f3",
+      "season": 4,
+      "number": 1,
+      "name": "Efter alle disse år",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "55eaecdc-d599-4692-a76d-bd7d0356e002",
+      "season": 4,
+      "number": 2,
+      "name": "Korra alene i Verden",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "b2cf1c8d-d393-49f1-8fd9-c5eb826ddd66",
+      "season": 4,
+      "number": 3,
+      "name": "Kroningen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "7d51fd64-473b-40a8-8756-3381674e5e66",
+      "season": 4,
+      "number": 4,
+      "name": "Kaldet",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "4c3cdda3-0418-4441-8556-9abdd0e5bc45",
+      "season": 4,
+      "number": 5,
+      "name": "Fjenden står for døren",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "b2b1626e-ee50-48c8-b98c-371216d44f90",
+      "season": 4,
+      "number": 6,
+      "name": "Kampen om Zaofu",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "aa6952cc-b784-40bf-949e-774beb311417",
+      "season": 4,
+      "number": 7,
+      "name": "Genforening",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d8391434-8869-4a90-bcd1-79e15c50e1da",
+      "season": 4,
+      "number": 8,
+      "name": "Erindringer",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "1a63e094-85e9-47de-ba9f-2740b5e7b29c",
+      "season": 4,
+      "number": 11,
+      "name": "Kuviras udspil",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "28a0e113-f29a-4116-bb67-80322b9de523",
+      "season": 4,
+      "number": 12,
+      "name": "Kolossens dag",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "aacad81e-762d-45f6-b7c8-022024fe36c9",
+      "season": 4,
+      "number": 13,
+      "name": "Sidste indsats",
+      "airdate": "2023-02-21"
+    }
+  ]
+}

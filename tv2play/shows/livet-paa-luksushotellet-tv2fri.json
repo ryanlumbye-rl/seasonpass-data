@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:livet-paa-luksushotellet-tv2fri",
+  "name": "Livet på luksushotellet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "18bbf583-d9b2-4e54-b406-282221008ca0",
+      "season": 1,
+      "number": 1,
+      "name": "Et glimt af hverdagen",
+      "airdate": "2025-08-10"
+    },
+    {
+      "id": "4a276c09-d678-4fa7-aecd-3287880921a0",
+      "season": 1,
+      "number": 2,
+      "name": "Føl dig hjemme",
+      "airdate": "2025-08-17"
+    },
+    {
+      "id": "d5fba6bc-2de6-4fae-a7fb-60a8f260be07",
+      "season": 1,
+      "number": 3,
+      "name": "Romantik i luften",
+      "airdate": "2025-08-24"
+    },
+    {
+      "id": "0cedede4-be91-4a1f-bbc1-30cda49cd988",
+      "season": 1,
+      "number": 4,
+      "name": "Nerver på menuen",
+      "airdate": "2025-08-31"
+    },
+    {
+      "id": "fdd7f3a4-170b-4e66-9167-3e82c1379945",
+      "season": 1,
+      "number": 5,
+      "name": "Jul på hotellet",
+      "airdate": "2025-11-16"
+    }
+  ]
+}

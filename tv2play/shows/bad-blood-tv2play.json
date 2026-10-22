@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:bad-blood-tv2play",
+  "name": "Bad Blood",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a93b2312-8b0c-4297-8e3f-d8deccb948b7",
+      "season": 1,
+      "number": 5,
+      "name": "When You Got Nothin'…",
+      "airdate": "2025-08-01"
+    }
+  ]
+}

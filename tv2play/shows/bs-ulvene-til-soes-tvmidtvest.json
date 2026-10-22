@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:bs-ulvene-til-soes-tvmidtvest",
+  "name": "BS & ulvene til søs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "40f8b62e-66eb-4415-aa3f-aad81d526eac",
+      "season": 1,
+      "number": 1,
+      "name": "Hvor er rygraden",
+      "airdate": "2024-07-16"
+    },
+    {
+      "id": "3de1fdbe-2c7d-4c48-8189-30d9e4d15bab",
+      "season": 1,
+      "number": 2,
+      "name": "Svøm drenge!",
+      "airdate": "2024-07-17"
+    }
+  ]
+}

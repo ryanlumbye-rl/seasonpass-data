@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:den-grimme-aelling-og-mig-oiii",
+  "name": "Den grimme ælling og mig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "54ccc8e4-8efe-41dd-b6a8-72033d510270",
+      "season": 1,
+      "number": 1,
+      "name": "Første skoledag",
+      "airdate": "2005-11-20"
+    },
+    {
+      "id": "205aef79-cccb-4d94-88ef-fae35a9b78f2",
+      "season": 1,
+      "number": 2,
+      "name": "Det svier i familien",
+      "airdate": "2005-11-27"
+    },
+    {
+      "id": "b39c0312-6ead-464f-a6e6-e0ff27ef1094",
+      "season": 1,
+      "number": 3,
+      "name": "Kornfede tider",
+      "airdate": "2005-12-04"
+    },
+    {
+      "id": "7a3db306-b101-4939-83a4-1de296904218",
+      "season": 1,
+      "number": 4,
+      "name": "Gift med Pip",
+      "airdate": "2005-12-11"
+    },
+    {
+      "id": "8bddeca2-eaf0-40e5-b7d3-2f5bd910d9d3",
+      "season": 1,
+      "number": 5,
+      "name": "Lærenemme Rotto",
+      "airdate": "2005-12-18"
+    },
+    {
+      "id": "33725767-1638-4072-a0a8-d3c40c0cf26f",
+      "season": 1,
+      "number": 6,
+      "name": "Fuglekrigen",
+      "airdate": "2006-01-08"
+    },
+    {
+      "id": "6aa19997-5884-4c16-a533-ebe4d0a29e2c",
+      "season": 1,
+      "number": 7,
+      "name": "Radio Rotto",
+      "airdate": "2006-01-15"
+    },
+    {
+      "id": "65aeaf45-9c2d-4d21-9404-5de5b90b71e6",
+      "season": 1,
+      "number": 8,
+      "name": "Op på fars toupé",
+      "airdate": "2006-01-22"
+    },
+    {
+      "id": "7abed233-8fab-4b1a-bf09-08ea2086e5ec",
+      "season": 1,
+      "number": 9,
+      "name": "Flyvende farmand",
+      "airdate": "2006-01-29"
+    },
+    {
+      "id": "1d614051-a947-459f-a6a7-ae32c302d76c",
+      "season": 1,
+      "number": 10,
+      "name": "Skru ned for hanen",
+      "airdate": "2006-02-05"
+    },
+    {
+      "id": "85926b68-691e-4885-bf3c-2f7927aa86e3",
+      "season": 1,
+      "number": 11,
+      "name": "Hypnose",
+      "airdate": "2006-02-12"
+    },
+    {
+      "id": "0fb80836-ba49-4e60-9630-bce7a7a072d5",
+      "season": 1,
+      "number": 12,
+      "name": "En sjov fætter",
+      "airdate": "2006-02-19"
+    },
+    {
+      "id": "3149c4cb-13d1-4548-b180-986bf133851e",
+      "season": 1,
+      "number": 13,
+      "name": "Maskotten",
+      "airdate": "2006-02-26"
+    },
+    {
+      "id": "5ae32452-740f-4c10-bd16-942d166ebc04",
+      "season": 1,
+      "number": 14,
+      "name": "Sus i snydepelsen",
+      "airdate": "2006-03-05"
+    },
+    {
+      "id": "05ce5d3b-e5f4-4bb4-a2bc-6b0ef0842c81",
+      "season": 1,
+      "number": 15,
+      "name": "Ringbæreren Rotto",
+      "airdate": "2006-03-12"
+    },
+    {
+      "id": "03c0806b-cbb5-460d-aa04-551c7400ceca",
+      "season": 1,
+      "number": 16,
+      "name": "Suppehøns og superhelte",
+      "airdate": "2006-03-19"
+    },
+    {
+      "id": "9ec60cad-48ba-4f8f-8879-20d5fd427e77",
+      "season": 1,
+      "number": 17,
+      "name": "En søvnig affære",
+      "airdate": "2006-03-26"
+    },
+    {
+      "id": "8b421184-f788-4cd7-ade8-b6202eb44400",
+      "season": 1,
+      "number": 18,
+      "name": "Det store nys",
+      "airdate": "2006-04-02"
+    },
+    {
+      "id": "f2ad59d2-7493-4d2d-8ff1-5a36ce5ab117",
+      "season": 1,
+      "number": 19,
+      "name": "Jagten på det forsvundne æg",
+      "airdate": "2006-04-09"
+    },
+    {
+      "id": "a82fac60-b1be-458f-ac9e-8b4a899cf751",
+      "season": 1,
+      "number": 20,
+      "name": "Ægget falder ikke langt fra hønen",
+      "airdate": "2006-04-16"
+    },
+    {
+      "id": "54aa50dc-23f4-4862-bea1-23f8cd69fcfe",
+      "season": 1,
+      "number": 21,
+      "name": "Slangernes herre",
+      "airdate": "2006-04-23"
+    },
+    {
+      "id": "2e1070c8-0f60-41c9-92d9-77dfb0a5558b",
+      "season": 1,
+      "number": 22,
+      "name": "Loppetjansen",
+      "airdate": "2006-04-30"
+    },
+    {
+      "id": "cf618799-fa9d-4ecb-be52-2659394492d1",
+      "season": 1,
+      "number": 23,
+      "name": "Borgmesterens nye klæder",
+      "airdate": "2006-05-07"
+    },
+    {
+      "id": "eb8bc1d2-8ee0-4dd0-bef1-b24354290cd4",
+      "season": 1,
+      "number": 24,
+      "name": "Tændrør og tandpine",
+      "airdate": "2006-05-14"
+    },
+    {
+      "id": "d8b46f40-2085-455c-b23b-4230038f99c4",
+      "season": 1,
+      "number": 25,
+      "name": "Magi i luften",
+      "airdate": "2006-05-21"
+    },
+    {
+      "id": "59fd3643-822d-4388-be35-e2d32bc7d04a",
+      "season": 1,
+      "number": 26,
+      "name": "Den store skattejagt",
+      "airdate": "2006-05-28"
+    }
+  ]
+}

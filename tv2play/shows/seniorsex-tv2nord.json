@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:seniorsex-tv2nord",
+  "name": "Seniorsex",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e5bbe0b4-d08d-4ade-a4ed-90bfca839d09",
+      "season": 1,
+      "number": 1,
+      "name": "Sussi savnede sex",
+      "airdate": "2024-03-17"
+    },
+    {
+      "id": "ae07c288-a5fe-403d-870c-01056c283e53",
+      "season": 1,
+      "number": 2,
+      "name": "Svend Erik fik rejsningen tilbage",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "356b9964-a0ca-440b-aa58-a07f4cf27ac0",
+      "season": 1,
+      "number": 3,
+      "name": "Helenes sexlyst forsvandt",
+      "airdate": "2024-03-31"
+    },
+    {
+      "id": "8a60c3a6-be89-41b4-9461-ee56a68118af",
+      "season": 1,
+      "number": 4,
+      "name": "Sex med hjælp",
+      "airdate": "2024-04-07"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:doc-martin-byens-bedste-laege-tv2charlie",
+  "name": "Doc Martin - byens bedste læge",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-28",
+  "episodes": [
+    {
+      "id": "3564408d-74eb-48b1-ad3d-b4ae1fd70aa6",
+      "season": 1,
+      "number": 6,
+      "name": "Farlige blåbær",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "e16b86ee-0c99-400d-b998-912de3805e6a",
+      "season": 1,
+      "number": 7,
+      "name": "Bange for blod",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "c09e6887-acb6-4b1b-99f8-11b75a56b701",
+      "season": 1,
+      "number": 8,
+      "name": "Liget i mosen",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "34531430-9069-4ef7-9edb-cd04afaaf093",
+      "season": 1,
+      "number": 9,
+      "name": "Farmand på besøg",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "0aea14b8-f608-49ef-88ee-ae09263a16b5",
+      "season": 1,
+      "number": 10,
+      "name": "Huset er giftigt",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "c9b75507-d06f-42ec-9c6f-53dc4f33a479",
+      "season": 1,
+      "number": 11,
+      "name": "Byen lukkes ned",
+      "airdate": "2026-10-28"
+    }
+  ]
+}

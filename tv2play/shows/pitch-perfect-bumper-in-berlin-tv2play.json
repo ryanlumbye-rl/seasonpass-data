@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:pitch-perfect-bumper-in-berlin-tv2play",
+  "name": "Pitch Perfect - Bumper in Berlin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "77dc9fdb-6117-405c-873d-a06aaa37213d",
+      "season": 1,
+      "number": 1,
+      "name": "Backpfeifengesicht",
+      "airdate": "2022-12-01"
+    },
+    {
+      "id": "2e8889d4-3387-4dec-9633-00728dc0af0a",
+      "season": 1,
+      "number": 2,
+      "name": "Torschlusspanik",
+      "airdate": "2022-12-01"
+    },
+    {
+      "id": "374159ab-3177-4295-9922-ebde717cb66a",
+      "season": 1,
+      "number": 3,
+      "name": "Verschlimmbessern",
+      "airdate": "2022-12-01"
+    },
+    {
+      "id": "12299954-8966-4cc1-a4b5-d5cf681dbbac",
+      "season": 1,
+      "number": 4,
+      "name": "Streicheleinheit",
+      "airdate": "2022-12-08"
+    },
+    {
+      "id": "b3115458-bea5-47af-8835-f12e04a8bb2a",
+      "season": 1,
+      "number": 5,
+      "name": "Mutterseelenallein",
+      "airdate": "2022-12-15"
+    },
+    {
+      "id": "39c3fba0-f651-4b21-bac0-01c152fbe56d",
+      "season": 1,
+      "number": 6,
+      "name": "Lebensabschnittspartner",
+      "airdate": "2022-12-22"
+    }
+  ]
+}

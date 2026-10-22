@@ -1,0 +1,815 @@
+{
+  "id": "tv2play:dybvaaaaad-tv2play",
+  "name": "Dybvaaaaad",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ecf6f939-b7f0-41c1-855a-866627e8d40f",
+      "season": 3,
+      "number": 1,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-09-02"
+    },
+    {
+      "id": "dd494ec8-4563-45fb-86a5-2e60d4e0dec0",
+      "season": 3,
+      "number": 2,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-09-09"
+    },
+    {
+      "id": "ea242f07-768a-4e4e-b896-899a1bff5d2d",
+      "season": 3,
+      "number": 3,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-09-16"
+    },
+    {
+      "id": "40bc4f45-44e2-4663-a411-7ae581b950df",
+      "season": 3,
+      "number": 4,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-09-23"
+    },
+    {
+      "id": "40616c6b-6d4d-4b8d-8e73-4af0174256c6",
+      "season": 3,
+      "number": 5,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-09-30"
+    },
+    {
+      "id": "257ff4f4-1919-41f6-a1e1-3fc8f316c671",
+      "season": 3,
+      "number": 6,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-10-07"
+    },
+    {
+      "id": "176f0a11-f9fe-474d-aae2-5c285513ce68",
+      "season": 3,
+      "number": 7,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-10-14"
+    },
+    {
+      "id": "6732fc57-1ae2-4771-a6c2-a1ed0d768fc3",
+      "season": 3,
+      "number": 8,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-10-21"
+    },
+    {
+      "id": "dda508a3-63dd-4b7f-bde6-a44c1903faec",
+      "season": 3,
+      "number": 9,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-10-28"
+    },
+    {
+      "id": "e8823a8e-321f-4030-93bf-220295e4a2df",
+      "season": 3,
+      "number": 10,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2013-11-04"
+    },
+    {
+      "id": "a0bed2a3-1d70-401f-8e70-7bc7e76041f8",
+      "season": 4,
+      "number": 1,
+      "name": "I Val Thorens",
+      "airdate": "2014-02-03"
+    },
+    {
+      "id": "6f6d879b-6df2-4ddf-ab43-50a13f8ffeb7",
+      "season": 4,
+      "number": 2,
+      "name": "I Dybvad",
+      "airdate": "2014-02-10"
+    },
+    {
+      "id": "c0ff510b-13df-47f6-b6d0-dc04c4f9fe64",
+      "season": 4,
+      "number": 3,
+      "name": "I Svendborg",
+      "airdate": "2014-02-17"
+    },
+    {
+      "id": "cfd2b321-d23f-4a85-a128-36073f45092b",
+      "season": 4,
+      "number": 4,
+      "name": "I Aalborg",
+      "airdate": "2014-02-24"
+    },
+    {
+      "id": "2e119c6b-e1d6-4c76-952c-0b1078d827bc",
+      "season": 4,
+      "number": 5,
+      "name": "I Aarhus",
+      "airdate": "2014-03-03"
+    },
+    {
+      "id": "61a06d2d-6d00-4092-a489-18d2906e7f6d",
+      "season": 4,
+      "number": 6,
+      "name": "I Holbæk",
+      "airdate": "2014-03-10"
+    },
+    {
+      "id": "8070b6a0-b0d2-45df-9f0b-7501a056bf1d",
+      "season": 4,
+      "number": 7,
+      "name": "I Horsens",
+      "airdate": "2014-03-17"
+    },
+    {
+      "id": "084cb3c5-a8c8-4c96-aff6-212c8784e0c1",
+      "season": 4,
+      "number": 8,
+      "name": "I Vejle",
+      "airdate": "2014-03-24"
+    },
+    {
+      "id": "194adb25-98fe-4f4e-9926-7f5e9373e16c",
+      "season": 4,
+      "number": 9,
+      "name": "I Odense",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "d87a42b1-64e5-4222-9584-255fac9d5dff",
+      "season": 4,
+      "number": 10,
+      "name": "I Viborg",
+      "airdate": "2014-04-07"
+    },
+    {
+      "id": "fcb169bf-778a-4626-89e0-237ee9979440",
+      "season": 4,
+      "number": 11,
+      "name": "I Nykøbing Falster",
+      "airdate": "2014-04-14"
+    },
+    {
+      "id": "6fb0b29c-12fe-44fb-8fc7-7371038922a9",
+      "season": 4,
+      "number": 12,
+      "name": "I København",
+      "airdate": "2014-04-21"
+    },
+    {
+      "id": "144245ad-836b-4ea1-983d-4dc4da9d9b48",
+      "season": 5,
+      "number": 1,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-09-01"
+    },
+    {
+      "id": "2ac2db6e-a95f-4ea8-955d-b8fea90989b9",
+      "season": 5,
+      "number": 2,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-09-08"
+    },
+    {
+      "id": "eed75b67-c9a9-4cd1-8263-77d729ec5310",
+      "season": 5,
+      "number": 3,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-09-15"
+    },
+    {
+      "id": "58ef4b97-221f-4e22-905b-15ff54d394a9",
+      "season": 5,
+      "number": 4,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-09-22"
+    },
+    {
+      "id": "278e7193-38dc-42e2-ac93-68af4f7da8ab",
+      "season": 5,
+      "number": 5,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-09-29"
+    },
+    {
+      "id": "850ed471-9182-4aed-97ad-455a428f5598",
+      "season": 5,
+      "number": 6,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-09-29"
+    },
+    {
+      "id": "0750975b-3468-403b-a640-51fd1f831cc0",
+      "season": 5,
+      "number": 7,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-10-06"
+    },
+    {
+      "id": "90023bed-e742-461e-90c3-ca4555ffb5e0",
+      "season": 5,
+      "number": 8,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-10-13"
+    },
+    {
+      "id": "4043187c-0e8a-47fc-a67c-2d2e7891e510",
+      "season": 5,
+      "number": 9,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-10-20"
+    },
+    {
+      "id": "8c7d31cf-dac8-4e56-8be4-77f66afa2930",
+      "season": 5,
+      "number": 10,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-10-27"
+    },
+    {
+      "id": "524fceaf-be58-4d14-a14f-4c53449239af",
+      "season": 5,
+      "number": 11,
+      "name": "Dit ugentlige reality-tjek",
+      "airdate": "2014-11-03"
+    },
+    {
+      "id": "909ca7a2-e84c-46e1-9bc0-78a99cb6a983",
+      "season": 6,
+      "number": 1,
+      "name": "Han er tilbage!!",
+      "airdate": "2015-08-24"
+    },
+    {
+      "id": "4fc93845-093f-46ec-91f4-1a8536f1aa03",
+      "season": 6,
+      "number": 2,
+      "name": "\"Har du smagt på dig selv?\"",
+      "airdate": "2015-08-31"
+    },
+    {
+      "id": "204cf20b-ad1d-4dd6-a462-a674849b427f",
+      "season": 6,
+      "number": 3,
+      "name": "\"Jeg har kun store sedler\"",
+      "airdate": "2015-09-07"
+    },
+    {
+      "id": "1cd2b2cd-7e75-4291-8936-d6ba2a6c22c5",
+      "season": 6,
+      "number": 4,
+      "name": "Tobias viser hud",
+      "airdate": "2015-09-14"
+    },
+    {
+      "id": "b5b3b274-f7a7-44dd-864a-89de705fbab7",
+      "season": 6,
+      "number": 5,
+      "name": "\"Kan du fortælle en vittighed?\"",
+      "airdate": "2015-09-21"
+    },
+    {
+      "id": "8241ae76-9c81-4f40-a408-8e43dc4477e0",
+      "season": 6,
+      "number": 6,
+      "name": "\"Det er ham med alle de dårlige vittigheder!\"",
+      "airdate": "2015-09-28"
+    },
+    {
+      "id": "66673e7f-3c11-4c31-b43b-1658abf8425e",
+      "season": 6,
+      "number": 7,
+      "name": "Giver tørre tæsk varme venskaber?",
+      "airdate": "2015-10-05"
+    },
+    {
+      "id": "faf8e245-6191-483b-8a45-8b824708888c",
+      "season": 6,
+      "number": 8,
+      "name": "\"Og nu: en vox-pop!\"",
+      "airdate": "2015-10-12"
+    },
+    {
+      "id": "634646e4-9a8c-4265-953f-7f2a3ae479bc",
+      "season": 6,
+      "number": 9,
+      "name": "Hvor svært kan det være at finde Stein Bagger?!?",
+      "airdate": "2015-10-19"
+    },
+    {
+      "id": "d9b14c9c-5af7-4510-bb2c-44daecc50ba8",
+      "season": 6,
+      "number": 10,
+      "name": "En strikket penis til hverdagsbrug",
+      "airdate": "2015-10-26"
+    },
+    {
+      "id": "072fa4d6-fd9d-4c22-871d-a5b6ea2f65c4",
+      "season": 6,
+      "number": 11,
+      "name": "\"Jeg vasker aldrig mit tøj\"",
+      "airdate": "2015-11-02"
+    },
+    {
+      "id": "a94c5626-94e1-4b52-bfdf-91755ed95de3",
+      "season": 6,
+      "number": 12,
+      "name": "Dybvad holder, hvad han lover!",
+      "airdate": "2015-11-09"
+    },
+    {
+      "id": "1097c04e-66a0-40e6-9997-0194ff081d96",
+      "season": 7,
+      "number": 1,
+      "name": "På tour i hele kongeriget: Ørsted",
+      "airdate": "2016-08-29"
+    },
+    {
+      "id": "9b0adda4-c17a-4773-864b-6a447d169250",
+      "season": 7,
+      "number": 2,
+      "name": "På tour i hele kongeriget: Kolding",
+      "airdate": "2016-09-05"
+    },
+    {
+      "id": "5ffa8e0d-83ef-48af-8820-7759faec925c",
+      "season": 7,
+      "number": 3,
+      "name": "På tour i hele kongeriget: København",
+      "airdate": "2016-09-12"
+    },
+    {
+      "id": "23bd9c44-e9ac-43f5-ab6c-c60acd395b41",
+      "season": 7,
+      "number": 4,
+      "name": "På tour i hele kongeriget: Thorshavn",
+      "airdate": "2016-09-19"
+    },
+    {
+      "id": "74b8ada4-a924-487b-aebf-77df5bf8626c",
+      "season": 7,
+      "number": 5,
+      "name": "På tour i hele kongeriget: Thisted",
+      "airdate": "2016-09-26"
+    },
+    {
+      "id": "7961d68f-012b-46df-932d-0874a58fca1f",
+      "season": 7,
+      "number": 6,
+      "name": "På tour i hele kongeriget: Odense",
+      "airdate": "2016-10-03"
+    },
+    {
+      "id": "7f1b6fd7-672e-4727-9f75-2abf02ec1036",
+      "season": 7,
+      "number": 7,
+      "name": "På tour i hele kongeriget: Rødovre",
+      "airdate": "2016-10-10"
+    },
+    {
+      "id": "9aa05dbf-d3db-4afa-9d0e-4613f8fcd492",
+      "season": 7,
+      "number": 8,
+      "name": "På tour i hele kongeriget: Aalborg",
+      "airdate": "2016-10-17"
+    },
+    {
+      "id": "1571beb8-ce08-4e19-9bbb-fe374e61e28d",
+      "season": 7,
+      "number": 9,
+      "name": "På tour i hele kongeriget: Aarhus",
+      "airdate": "2016-10-24"
+    },
+    {
+      "id": "b1a069a2-a0fd-4f7b-b878-276c78f33075",
+      "season": 7,
+      "number": 10,
+      "name": "På tour i hele kongeriget: Nuuk",
+      "airdate": "2016-10-31"
+    },
+    {
+      "id": "45a77495-119d-46ea-9b6d-d6a6b7bff6e9",
+      "season": 8,
+      "number": 1,
+      "name": "I København",
+      "airdate": "2017-09-11"
+    },
+    {
+      "id": "f2487cb6-972e-4e00-afb0-6edf10b95815",
+      "season": 8,
+      "number": 2,
+      "name": "I Ballerup",
+      "airdate": "2017-09-18"
+    },
+    {
+      "id": "ef155cad-db98-4014-ba34-04af679cf443",
+      "season": 8,
+      "number": 3,
+      "name": "I Herning",
+      "airdate": "2017-09-25"
+    },
+    {
+      "id": "883c2ee2-a544-4ae0-a5ef-5b593d12e67b",
+      "season": 8,
+      "number": 4,
+      "name": "I Horsens",
+      "airdate": "2017-10-02"
+    },
+    {
+      "id": "1f18b092-4bec-46a9-a517-8436efa0f1c8",
+      "season": 8,
+      "number": 5,
+      "name": "I Odense",
+      "airdate": "2017-10-09"
+    },
+    {
+      "id": "2cbf9b8d-0008-48b1-b24d-8519a923f002",
+      "season": 8,
+      "number": 6,
+      "name": "I Toftlund",
+      "airdate": "2017-10-16"
+    },
+    {
+      "id": "ba2ab88c-fd6c-4a07-918a-22db69319510",
+      "season": 8,
+      "number": 7,
+      "name": "I Kolding",
+      "airdate": "2017-10-23"
+    },
+    {
+      "id": "40950f8a-f322-4d70-b9b9-912e5027df60",
+      "season": 8,
+      "number": 8,
+      "name": "I Aarhus",
+      "airdate": "2017-10-30"
+    },
+    {
+      "id": "855fb9e7-41fb-4d75-946a-e51a2cb65377",
+      "season": 8,
+      "number": 9,
+      "name": "I Holstebro",
+      "airdate": "2017-11-06"
+    },
+    {
+      "id": "ab64feb2-5a57-4032-8ae9-171d8dc9b3e1",
+      "season": 8,
+      "number": 10,
+      "name": "I Skive",
+      "airdate": "2017-11-13"
+    },
+    {
+      "id": "ac8f620d-5a57-4dd5-92ce-2fde32808db0",
+      "season": 8,
+      "number": 11,
+      "name": "I Slagelse",
+      "airdate": "2017-11-20"
+    },
+    {
+      "id": "17855791-ba7d-47f9-b1be-a5300ad1d599",
+      "season": 8,
+      "number": 12,
+      "name": "I Vejle",
+      "airdate": "2017-11-27"
+    },
+    {
+      "id": "e137649f-a01b-4497-b434-27e2ba0463b9",
+      "season": 8,
+      "number": 13,
+      "name": "Reality Awards Special 2.0",
+      "airdate": "2017-02-20"
+    },
+    {
+      "id": "5adfe2a4-eb5f-49d0-a174-fb48d5e57062",
+      "season": 9,
+      "number": 1,
+      "name": "I København",
+      "airdate": "2018-09-10"
+    },
+    {
+      "id": "5200f2ac-a75a-42bf-af21-c0efb63a1109",
+      "season": 9,
+      "number": 2,
+      "name": "I Esbjerg",
+      "airdate": "2018-09-17"
+    },
+    {
+      "id": "26a12433-3e05-425e-9e81-eb8228dc9e70",
+      "season": 9,
+      "number": 3,
+      "name": "I Odense",
+      "airdate": "2018-09-24"
+    },
+    {
+      "id": "0a6c0fec-8b6d-47d3-83c5-ae2285f0efe3",
+      "season": 9,
+      "number": 4,
+      "name": "I Thisted",
+      "airdate": "2018-10-01"
+    },
+    {
+      "id": "e5f5771e-ee7c-44c7-ad1e-6d07a6e01a21",
+      "season": 9,
+      "number": 5,
+      "name": "I Slagelse",
+      "airdate": "2018-10-08"
+    },
+    {
+      "id": "eda1694e-c36d-4b60-a797-fd877b6f7f08",
+      "season": 9,
+      "number": 6,
+      "name": "I Køge",
+      "airdate": "2018-10-15"
+    },
+    {
+      "id": "91eba5e4-1d08-4c4d-8b9f-8b146f864786",
+      "season": 9,
+      "number": 7,
+      "name": "I Ballerup",
+      "airdate": "2018-10-22"
+    },
+    {
+      "id": "788a2112-0846-4ecd-a532-8a038c7db523",
+      "season": 9,
+      "number": 8,
+      "name": "I Nykøbing Falster",
+      "airdate": "2018-10-29"
+    },
+    {
+      "id": "9057a61f-0a75-4a01-93ce-bb131e44fcc8",
+      "season": 9,
+      "number": 9,
+      "name": "I Rødovre",
+      "airdate": "2018-11-05"
+    },
+    {
+      "id": "0295b874-51fa-4ad8-a16d-6f5ce8f4daa5",
+      "season": 9,
+      "number": 10,
+      "name": "I Sønderborg",
+      "airdate": "2018-11-12"
+    },
+    {
+      "id": "badb0c1f-0753-40d8-a635-96a091c64a42",
+      "season": 9,
+      "number": 11,
+      "name": "I Viborg",
+      "airdate": "2018-11-19"
+    },
+    {
+      "id": "8ef932ad-3222-48b2-80b5-3ebd93698ea3",
+      "season": 9,
+      "number": 12,
+      "name": "Afsnit 100 - I Aarhus",
+      "airdate": "2018-11-26"
+    },
+    {
+      "id": "d74862d2-e452-4803-ae4f-b83fedb73ced",
+      "season": 10,
+      "number": 1,
+      "name": "I København",
+      "airdate": "2019-09-09"
+    },
+    {
+      "id": "8439431f-8d02-4db1-8b20-3c6212f5a574",
+      "season": 10,
+      "number": 2,
+      "name": "I Slagelse",
+      "airdate": "2019-09-16"
+    },
+    {
+      "id": "13b25d28-ea39-449c-93a4-8bbfc0de65ea",
+      "season": 10,
+      "number": 3,
+      "name": "I Silkeborg",
+      "airdate": "2019-09-23"
+    },
+    {
+      "id": "e24f2f0d-a536-4bdf-af70-d791a68693aa",
+      "season": 10,
+      "number": 4,
+      "name": "I Greve",
+      "airdate": "2019-09-30"
+    },
+    {
+      "id": "25f9e5d7-926e-4964-952a-0e0984f0a9a6",
+      "season": 10,
+      "number": 5,
+      "name": "I Odense",
+      "airdate": "2019-10-07"
+    },
+    {
+      "id": "4c310cd2-a868-4edb-9504-7b800ba694ff",
+      "season": 10,
+      "number": 6,
+      "name": "I Randers",
+      "airdate": "2019-10-14"
+    },
+    {
+      "id": "86273e41-243e-4d6a-b931-3278520a2af7",
+      "season": 10,
+      "number": 7,
+      "name": "I Århus",
+      "airdate": "2019-10-21"
+    },
+    {
+      "id": "08c6d927-387a-4865-a2e1-e45d9ec35862",
+      "season": 10,
+      "number": 8,
+      "name": "I Næstved",
+      "airdate": "2019-10-28"
+    },
+    {
+      "id": "87b9f1b7-3c10-4571-96a4-951d1e2b4866",
+      "season": 10,
+      "number": 9,
+      "name": "I Nykøbing Falster",
+      "airdate": "2019-11-04"
+    },
+    {
+      "id": "217f4b90-7a25-4bec-9088-3c123c93ca9d",
+      "season": 10,
+      "number": 10,
+      "name": "I Tønder",
+      "airdate": "2019-11-11"
+    },
+    {
+      "id": "10b81150-b6af-470e-872a-c8ca7d056103",
+      "season": 10,
+      "number": 11,
+      "name": "I Esbjerg",
+      "airdate": "2019-11-18"
+    },
+    {
+      "id": "a962fcd7-66b7-4b97-b04f-7773ffbbdc72",
+      "season": 10,
+      "number": 12,
+      "name": "I Aalborg",
+      "airdate": "2019-11-25"
+    },
+    {
+      "id": "3c3a9803-74de-4fa6-b24a-8ec08e35df9b",
+      "season": 11,
+      "number": 1,
+      "name": "I København",
+      "airdate": "2020-09-07"
+    },
+    {
+      "id": "a1badb93-a22f-487c-9e19-20b14c93250e",
+      "season": 11,
+      "number": 2,
+      "name": "I Herning",
+      "airdate": "2020-09-14"
+    },
+    {
+      "id": "3c6f72bc-520d-4a04-9d01-d77b2815f9c2",
+      "season": 11,
+      "number": 4,
+      "name": "I Rødovre",
+      "airdate": "2020-09-28"
+    },
+    {
+      "id": "acb9685d-4482-4ae6-8a67-0e4f703bef4c",
+      "season": 11,
+      "number": 5,
+      "name": "I Esbjerg",
+      "airdate": "2020-10-05"
+    },
+    {
+      "id": "f9436ac6-c4c5-42a8-b84d-5fadcc7fc1ab",
+      "season": 11,
+      "number": 6,
+      "name": "I Greve",
+      "airdate": "2020-10-12"
+    },
+    {
+      "id": "3e522101-22f2-439d-8d38-d2d9af7593de",
+      "season": 11,
+      "number": 7,
+      "name": "I Kolding",
+      "airdate": "2020-10-19"
+    },
+    {
+      "id": "15a0643e-55ba-471e-9a4a-6acaf48535f5",
+      "season": 11,
+      "number": 8,
+      "name": "I Næstved",
+      "airdate": "2020-10-26"
+    },
+    {
+      "id": "f4b8ccc8-ca4b-4eb1-8e2f-8e0272bb7be3",
+      "season": 11,
+      "number": 9,
+      "name": "I Skanderborg",
+      "airdate": "2020-11-02"
+    },
+    {
+      "id": "c5af2163-91b6-4209-9cb6-efb4ba939d32",
+      "season": 11,
+      "number": 10,
+      "name": "I Aarhus",
+      "airdate": "2020-11-09"
+    },
+    {
+      "id": "8c9fce14-6035-452d-9791-0bdeca91c4d6",
+      "season": 11,
+      "number": 11,
+      "name": "I Odense",
+      "airdate": "2020-11-16"
+    },
+    {
+      "id": "31f72ea5-af1d-4546-a05e-d1e277795073",
+      "season": 11,
+      "number": 12,
+      "name": "I Silkeborg",
+      "airdate": "2020-11-23"
+    },
+    {
+      "id": "52461ed3-1385-47c7-ba6b-5fc70ad94d44",
+      "season": 13,
+      "number": 1,
+      "name": "I Næstved",
+      "airdate": "2022-09-05"
+    },
+    {
+      "id": "45ff9245-67f1-4f31-924a-ad763041c292",
+      "season": 13,
+      "number": 2,
+      "name": "I Aalborg",
+      "airdate": "2022-09-12"
+    },
+    {
+      "id": "d2984a11-470e-4fb1-9bdf-2a90970cbe25",
+      "season": 13,
+      "number": 3,
+      "name": "I Odense",
+      "airdate": "2022-09-19"
+    },
+    {
+      "id": "829c22fb-1ca2-469e-b744-7ddd5bcf4ee8",
+      "season": 13,
+      "number": 4,
+      "name": "I Ringsted",
+      "airdate": "2022-09-26"
+    },
+    {
+      "id": "226c8efc-d421-4657-bc3d-e8b3774f646c",
+      "season": 13,
+      "number": 5,
+      "name": "I Slagelse",
+      "airdate": "2022-10-03"
+    },
+    {
+      "id": "d235be7e-c97a-4c80-9632-2d9d5bae6293",
+      "season": 13,
+      "number": 6,
+      "name": "I Albertslund",
+      "airdate": "2022-10-10"
+    },
+    {
+      "id": "5235cab6-617a-43a8-a2de-85469dc37304",
+      "season": 13,
+      "number": 7,
+      "name": "I Horsens",
+      "airdate": "2022-10-17"
+    },
+    {
+      "id": "429b54b2-4838-41f3-846c-9b16de91d846",
+      "season": 13,
+      "number": 8,
+      "name": "Fra Greve",
+      "airdate": "2022-10-24"
+    },
+    {
+      "id": "8e9fe83f-45d0-48a1-b1bf-c8936f8e3848",
+      "season": 13,
+      "number": 9,
+      "name": "Fra Esbjerg",
+      "airdate": "2022-10-31"
+    },
+    {
+      "id": "6da1b3f3-aa15-4a95-a2f0-9df19edc8a09",
+      "season": 13,
+      "number": 10,
+      "name": "Fra Sønderborg",
+      "airdate": "2022-11-07"
+    },
+    {
+      "id": "b7c7e3e7-e00d-43dd-9f3a-1b2dbfd46f91",
+      "season": 13,
+      "number": 11,
+      "name": "Fra Skive",
+      "airdate": "2022-11-14"
+    },
+    {
+      "id": "d6f2dc28-878b-4537-abf8-a43433d06427",
+      "season": 13,
+      "number": 12,
+      "name": "Fra Århus",
+      "airdate": "2022-11-21"
+    }
+  ]
+}

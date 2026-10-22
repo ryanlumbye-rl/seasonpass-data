@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:bag-om-kandidaten-tv2bornholm",
+  "name": "Bag om kandidaten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "72f3744b-a5f6-4da4-9e19-114614d3ad15",
+      "season": 1,
+      "number": 2,
+      "name": "Bag om Frederik Tolstrup",
+      "airdate": "2025-10-06"
+    }
+  ]
+}

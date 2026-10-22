@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:extras-britbox",
+  "name": "Extras",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b0e85cc5-dbe9-46d6-b356-307082f29803",
+      "season": 1,
+      "number": 1,
+      "name": "Ben Stiller",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "313a9006-bd89-475e-92d5-9090eda0e87e",
+      "season": 1,
+      "number": 2,
+      "name": "Ross Kemp",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "88f82084-4f3c-4534-a488-cceafe33b455",
+      "season": 1,
+      "number": 3,
+      "name": "Kate Winslet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5d99a9c0-75f1-455a-ab9a-cb0315337874",
+      "season": 1,
+      "number": 4,
+      "name": "Les Dennis",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3a1e8aba-259f-4766-8d3e-910a5c5c4f55",
+      "season": 1,
+      "number": 5,
+      "name": "Samuel L. Jackson",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b4e5e0d3-a470-4f43-803b-dc19774d8427",
+      "season": 1,
+      "number": 6,
+      "name": "Patrick Stewart",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cfa0cfa8-e7dd-4909-8f2e-3fccd39603e6",
+      "season": 2,
+      "number": 1,
+      "name": "Orlando Bloom",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6215f0f1-707d-47b4-a81b-3ca9f23e3eaf",
+      "season": 2,
+      "number": 2,
+      "name": "David Bowie",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "78ee3a8b-8c47-4334-bcf6-02149b7d73f7",
+      "season": 2,
+      "number": 3,
+      "name": "Daniel Radcliffe and Diania Rigg",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a1f1fba7-3afc-4899-aa6a-63f0cd6cfa52",
+      "season": 2,
+      "number": 4,
+      "name": "Chris Martin",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "eaf49580-cc1a-479d-934b-d5786f99a06d",
+      "season": 2,
+      "number": 5,
+      "name": "Sir Ian McKellen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "318285ee-cb6c-4e75-b640-df8bf801709f",
+      "season": 2,
+      "number": 6,
+      "name": "Jonathan Ross",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

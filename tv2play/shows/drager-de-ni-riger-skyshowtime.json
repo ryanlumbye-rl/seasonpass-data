@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:drager-de-ni-riger-skyshowtime",
+  "name": "Drager: De ni riger",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3a0a8907-640b-4b8f-8e35-a2b0caeb4fc1",
+      "season": 1,
+      "number": 1,
+      "name": "Første flyvefærd - del 1",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "89855bcc-68d5-4d7b-bc47-24c8c50495b6",
+      "season": 1,
+      "number": 2,
+      "name": "Første flyvefærd - del 2",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "372cad7b-2410-49ca-af64-cb7af18954b7",
+      "season": 1,
+      "number": 3,
+      "name": "En verden fuld af drager",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "bce5748c-9718-47de-94bd-7d02db499d7a",
+      "season": 1,
+      "number": 4,
+      "name": "Drageklubben",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "663ef21a-25db-42cc-80d8-517f7f7c982b",
+      "season": 1,
+      "number": 5,
+      "name": "Fjerpryd",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "09e2e882-e44e-4921-863c-2ef5aa0675d3",
+      "season": 1,
+      "number": 6,
+      "name": "Stensplitteren",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "f00353c2-3a87-43c6-823b-65871c52caf5",
+      "season": 1,
+      "number": 7,
+      "name": "Den falske enhjørning",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "e95ef859-4c8e-4d89-ad9c-ef0b4dbe0aba",
+      "season": 1,
+      "number": 8,
+      "name": "Magma-sprutteren",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "9c582a22-c769-4223-a9ee-eb038b34ad2c",
+      "season": 1,
+      "number": 9,
+      "name": "De udøde drager",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "08af2479-3cd8-43f1-ac4c-e5b36efd3242",
+      "season": 1,
+      "number": 10,
+      "name": "Skovbranden",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "2afb016b-f230-4c13-b516-f3c4d5556fd2",
+      "season": 1,
+      "number": 11,
+      "name": "Spindelvævet",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "7919b30e-78ad-4a69-bbad-d09136735c51",
+      "season": 1,
+      "number": 12,
+      "name": "Følg lynet - del 1",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "87790cf1-f4e0-4954-99b3-3ddd86e5765d",
+      "season": 1,
+      "number": 13,
+      "name": "Følg lynet - del 2",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "5f1f3cd1-d245-4738-9153-d2f95a5eb8cf",
+      "season": 1,
+      "number": 14,
+      "name": "Sky ilden",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "d0288685-b855-44f8-adf8-75dc43a6c47d",
+      "season": 1,
+      "number": 15,
+      "name": "I tykt og tyndt",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "757a4811-e6f6-40b5-b04a-ed9a9337a374",
+      "season": 1,
+      "number": 16,
+      "name": "Tom ilddragerede",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "9af6e6b6-030a-4013-997f-3152bb7488fe",
+      "season": 1,
+      "number": 17,
+      "name": "Dr. Katastrofe",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "29bcfbdf-94eb-40d6-9167-7eab5919c9cb",
+      "season": 1,
+      "number": 18,
+      "name": "Det flyver i familien",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "838a7868-e60e-47ca-92ed-c44caffce884",
+      "season": 1,
+      "number": 19,
+      "name": "Magmaen bryder overfladen",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "7d9f7208-5dec-440c-8f2d-2fcbedcb4895",
+      "season": 1,
+      "number": 20,
+      "name": "Himmelfaklen",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "b88d13bf-f265-489c-a501-57dad3797f3c",
+      "season": 1,
+      "number": 21,
+      "name": "Koldstart",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "1ed00af7-e6f2-4321-8fc9-5c1a6b0f607c",
+      "season": 1,
+      "number": 22,
+      "name": "Ukendt territorium",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "76e913d8-f35a-4da6-91f5-277c64e9fffb",
+      "season": 1,
+      "number": 23,
+      "name": "Rejsen til Snekanien",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "83608ef6-e022-433d-840a-341d1452f9f1",
+      "season": 1,
+      "number": 24,
+      "name": "Afledningsmanøvren",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "512e90d8-ad88-4adf-abdf-e368e5f82365",
+      "season": 1,
+      "number": 25,
+      "name": "Lyndragerne - del 1",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "b33564c7-75d6-40b8-83e4-5d65c4c795b2",
+      "season": 1,
+      "number": 26,
+      "name": "Lyndragerne - del 2",
+      "airdate": "2025-11-01"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:lassemajas-detektivbureau-cmore",
+  "name": "LasseMajas Detektivbureau",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "beace3bc-b8ea-4dd6-b8fc-3893d888582d",
+      "season": 2,
+      "number": 1,
+      "name": "Svømmehalsmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ef630b42-a696-47de-a19e-d622fb1b8c2e",
+      "season": 2,
+      "number": 2,
+      "name": "Hotelmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "beca9dbf-12d3-4136-84c3-955836172b3b",
+      "season": 2,
+      "number": 3,
+      "name": "Detektivmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1fa8afb5-4285-4eda-ba73-df343c7ba588",
+      "season": 2,
+      "number": 4,
+      "name": "Avismysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "92f795cf-4a2c-4ac4-82a0-7e146027972f",
+      "season": 2,
+      "number": 5,
+      "name": "Fødselsdagsmysteriet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "38aa9ea4-592e-4fc5-9ea2-ba4d1750a92a",
+      "season": 2,
+      "number": 6,
+      "name": "Fængselsmysteriet",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:sjakalen-skyshowtime",
+  "name": "Sjakalen",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b772645b-a7ac-40e7-a12f-fe83c43cf8fd",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "a270b333-1578-4d80-8ba5-b4b0f55951b8",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "a9b4e5e2-25d7-488e-b624-504281a20432",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "6fb46032-7860-4168-ac5e-a9a42ea495cd",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-12-13"
+    },
+    {
+      "id": "a4f30d51-068b-44ed-9c75-584e350b6985",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-12-20"
+    },
+    {
+      "id": "e9a83a45-b21b-401c-b2a1-f1730a8cb2fc",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "feadbe1b-99df-488f-95ee-7349f761bb39",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "2f9a39da-d69c-42d0-9c97-b1203db84ee4",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-01-10"
+    },
+    {
+      "id": "eae430b1-09be-416f-af81-95452ebd1715",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2025-01-17"
+    },
+    {
+      "id": "2a522b2e-867d-4c47-aac7-85b01ee3a3c7",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2025-01-24"
+    }
+  ]
+}

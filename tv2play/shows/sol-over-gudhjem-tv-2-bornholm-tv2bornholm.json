@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:sol-over-gudhjem-tv-2-bornholm-tv2bornholm",
+  "name": "Sol over Gudhjem",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "32be3d41-b2e2-4f69-a4d0-8bf74b3a4bea",
+      "season": 2026,
+      "number": 1,
+      "name": "Dessertkonkurrencen",
+      "airdate": "2026-06-19"
+    },
+    {
+      "id": "8d4ee033-97f7-4933-be9f-d4c8250f6f98",
+      "season": 2026,
+      "number": 2,
+      "name": "Kokkekonkurrencen",
+      "airdate": "2026-06-20"
+    }
+  ]
+}

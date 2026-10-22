@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:archie-britbox",
+  "name": "Archie",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8d81ef36-2d0e-4fab-a659-759724ffb549",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-12-07"
+    },
+    {
+      "id": "8ec63dfe-1b62-460d-9442-5d7b20a5392d",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-12-07"
+    },
+    {
+      "id": "1c88c703-d0de-4662-8981-2138c82a867a",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "2673a915-f61e-45d3-a076-41ce6d96d04f",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-12-14"
+    }
+  ]
+}

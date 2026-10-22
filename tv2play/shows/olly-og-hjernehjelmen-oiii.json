@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:olly-og-hjernehjelmen-oiii",
+  "name": "Olly og Hjernehjelmen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0b441c5b-0c75-4fc0-b24c-65622ad37f88",
+      "season": 1,
+      "number": 1,
+      "name": "Den tabte ost",
+      "airdate": "2022-08-27"
+    },
+    {
+      "id": "04c1d1ef-c23f-4b6e-9ee2-e8b40997bc2a",
+      "season": 1,
+      "number": 2,
+      "name": "Hotdogvennerne",
+      "airdate": "2022-08-27"
+    },
+    {
+      "id": "66b713ec-5d80-4aa2-b604-12a06cecfac5",
+      "season": 1,
+      "number": 3,
+      "name": "Monsterhygge",
+      "airdate": "2022-08-27"
+    },
+    {
+      "id": "2dc39d85-2e56-448b-a23a-d3084b2df02e",
+      "season": 1,
+      "number": 4,
+      "name": "DM i gråd",
+      "airdate": "2022-08-27"
+    },
+    {
+      "id": "da9b6ada-9385-4eb9-b7eb-fa8f7713576e",
+      "season": 1,
+      "number": 5,
+      "name": "Skræmmebutikken",
+      "airdate": "2022-08-27"
+    },
+    {
+      "id": "99e21e49-d465-47ee-93b4-13a8d3b821b6",
+      "season": 1,
+      "number": 6,
+      "name": "Den hvide hest",
+      "airdate": "2022-08-27"
+    }
+  ]
+}

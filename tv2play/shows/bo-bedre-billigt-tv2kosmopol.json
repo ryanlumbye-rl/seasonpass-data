@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:bo-bedre-billigt-tv2kosmopol",
+  "name": "Bo bedre billigt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e173b9fb-001b-4150-a5ec-bec4d27e8d56",
+      "season": 1,
+      "number": 1,
+      "name": "Kollegieværelset",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "4146ce23-d5e2-4f18-86eb-2fcbb4259860",
+      "season": 1,
+      "number": 2,
+      "name": "Hotelstemning i soveværelset",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "0a3ff771-769f-423d-8616-9c6612a03b64",
+      "season": 1,
+      "number": 3,
+      "name": "Containerboligen",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "9ff7ca66-71c3-4a1b-9e38-574cc6d75b90",
+      "season": 1,
+      "number": 4,
+      "name": "Den multifunktionelle stue",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "a85949b2-5017-466c-bacb-c47670816603",
+      "season": 1,
+      "number": 5,
+      "name": "Kollektivets fællesrum",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "2d1b528b-e7ff-4d60-b356-61765ba259a6",
+      "season": 2,
+      "number": 1,
+      "name": "Kæresten tilkalder hjælp",
+      "airdate": "2026-01-18"
+    },
+    {
+      "id": "c62cda5e-21c9-4cd7-a38a-1cad578bb51e",
+      "season": 2,
+      "number": 2,
+      "name": "Mangler alt",
+      "airdate": "2026-01-18"
+    },
+    {
+      "id": "27969df1-36df-44da-bf11-a891e062d460",
+      "season": 2,
+      "number": 3,
+      "name": "Drukner i køkkenudstyr",
+      "airdate": "2026-01-18"
+    },
+    {
+      "id": "da30e1c1-0caa-4e15-b02d-6f22b5c226a3",
+      "season": 2,
+      "number": 4,
+      "name": "Tøj i kasser og poser",
+      "airdate": "2026-01-18"
+    }
+  ]
+}

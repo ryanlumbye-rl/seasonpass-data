@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:californication-tv2play",
+  "name": "Californication",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0148ef17-a527-4955-9399-83514de23e03",
+      "season": 1,
+      "number": 4,
+      "name": "Fear And Loathing At The Fundraiser",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:grace-britbox",
+  "name": "Grace",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "881229a2-447a-43b0-80bd-eb5d1d447e5d",
+      "season": 1,
+      "number": 1,
+      "name": "Død simpelt",
+      "airdate": "2025-05-07"
+    },
+    {
+      "id": "46d34970-591b-4ab6-adba-4d54b3e5d74b",
+      "season": 1,
+      "number": 2,
+      "name": "Ser godt ud død",
+      "airdate": "2025-05-07"
+    },
+    {
+      "id": "17ecbe5b-e84e-4191-894b-3110b217c5d4",
+      "season": 2,
+      "number": 1,
+      "name": "Langt fra død",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "4f6e1100-43fc-4d7a-84f9-f56feea632a0",
+      "season": 2,
+      "number": 2,
+      "name": "Hellere død end levende",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "3be79593-e386-4913-9b89-cfc75756a378",
+      "season": 2,
+      "number": 3,
+      "name": "Den enes død",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "dc6ef63e-80cd-4048-9bb5-1e7adde1c8a1",
+      "season": 3,
+      "number": 1,
+      "name": "Dead Like You",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "913e7910-0098-4d2a-a220-f954b1c05b54",
+      "season": 3,
+      "number": 2,
+      "name": "Dead Man's Grip",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "94bb5d98-cedd-41dd-b7ce-3a8d6a6bb77a",
+      "season": 3,
+      "number": 3,
+      "name": "Not Dead Yet",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "3045b41a-3bbe-4c9a-bfac-c499180c920b",
+      "season": 4,
+      "number": 1,
+      "name": "Dead Man's Time",
+      "airdate": "2025-11-26"
+    },
+    {
+      "id": "7a00c1b9-5da9-4ccd-a702-272047f2eb19",
+      "season": 4,
+      "number": 2,
+      "name": "Want You Dead",
+      "airdate": "2025-11-26"
+    },
+    {
+      "id": "313111e3-4c81-4f88-936e-c22f9aee4245",
+      "season": 4,
+      "number": 3,
+      "name": "You Are Dead",
+      "airdate": "2025-11-26"
+    },
+    {
+      "id": "fa310649-287d-4f74-b066-d153b7d0a544",
+      "season": 4,
+      "number": 4,
+      "name": "Love You Dead",
+      "airdate": "2025-11-26"
+    },
+    {
+      "id": "faee469f-9793-48cf-9622-cfb892856150",
+      "season": 5,
+      "number": 1,
+      "name": "Dead If You Don't",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "f1ee5c41-d8d5-4e98-b2d6-a5af41712c93",
+      "season": 5,
+      "number": 2,
+      "name": "Dead at First Sight",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "5e039775-8ad8-4b6e-b872-e559fa6dd37c",
+      "season": 5,
+      "number": 3,
+      "name": "Need You Dead",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "f930ccfa-9faa-4d2d-b6e4-8e96775491fd",
+      "season": 5,
+      "number": 4,
+      "name": "Find Them Dead",
+      "airdate": "2026-08-12"
+    }
+  ]
+}

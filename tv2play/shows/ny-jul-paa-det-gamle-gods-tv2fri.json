@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:ny-jul-paa-det-gamle-gods-tv2fri",
+  "name": "Ny jul på det gamle gods",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "389bab45-ce09-4dff-b6d9-e4a13bc8e9eb",
+      "season": 1,
+      "number": 1,
+      "name": "Al begyndelse er svær",
+      "airdate": "2025-11-25"
+    },
+    {
+      "id": "9749b65a-cb7b-4671-9d3e-445583e7ddec",
+      "season": 1,
+      "number": 2,
+      "name": "I mors fodspor",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "7014e380-144f-43c6-a34f-45cdc26c0149",
+      "season": 1,
+      "number": 3,
+      "name": "Man må forny for at bevare",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "428a9a41-b6d9-4db5-bd4f-14849d6e05a4",
+      "season": 1,
+      "number": 4,
+      "name": "Vil julefreden sænke sig?",
+      "airdate": "2025-12-16"
+    }
+  ]
+}

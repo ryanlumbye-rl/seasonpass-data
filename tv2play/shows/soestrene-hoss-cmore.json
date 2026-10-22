@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:soestrene-hoss-cmore",
+  "name": "Søstrene Hoss",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4584168a-6609-4937-9906-679474de7aa6",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "9370ee20-56f5-4946-b656-5840ce36eaf6",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "1bff84d5-177c-4ce3-a062-201911f9aadf",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "f31fc8c0-c6f3-4e8d-be1e-bf2eed5e2ef9",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "5da491a4-8bb0-48db-8197-7076f345b0bd",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "377b56e0-f9b8-49c8-b41d-23f697a9b88d",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "7efea5ac-4f2c-47b4-80a5-8ee80267ea0d",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "100fade0-338e-4f61-ad95-3c95d321abeb",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "b2058302-7856-4fd3-92d4-74275b6ac9d9",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "b5efe1f9-c76e-4f7c-adaf-e523aaf9d7cf",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-07-10"
+    }
+  ]
+}

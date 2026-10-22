@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:ingemann-og-bornholm-tv2",
+  "name": "Ingemann og Bornholm",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b20d406a-c4ae-44a2-9447-0e6c2b11df47",
+      "season": 1,
+      "number": 1,
+      "name": "Fra Rønne til Allinge",
+      "airdate": "2022-06-20"
+    },
+    {
+      "id": "ff1434fa-356c-4212-b5ef-c00ebd6406ea",
+      "season": 1,
+      "number": 2,
+      "name": "På åndelig rejse og sommerfuglejagt",
+      "airdate": "2022-06-20"
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "id": "tv2play:klovn-tv2play",
+  "name": "Klovn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fc02c611-32e2-4bdf-b5b8-bbc4a9fedae2",
+      "season": 1,
+      "number": 1,
+      "name": "5-årsdagen",
+      "airdate": "2005-02-07"
+    },
+    {
+      "id": "3a8a91c4-914d-495d-9993-19a307a1d76a",
+      "season": 1,
+      "number": 2,
+      "name": "De nye danskere",
+      "airdate": "2005-02-14"
+    },
+    {
+      "id": "2db1ff6a-567a-4eac-ae43-d7b53f2703f7",
+      "season": 1,
+      "number": 3,
+      "name": "Hushovmesteren",
+      "airdate": "2005-02-21"
+    },
+    {
+      "id": "fe0f1ede-44a9-4182-a3ee-429d1c24b607",
+      "season": 1,
+      "number": 4,
+      "name": "Dalai Lama",
+      "airdate": "2005-02-28"
+    },
+    {
+      "id": "0220983a-2991-416d-a318-c19fafaa85e0",
+      "season": 1,
+      "number": 5,
+      "name": "Godfather of drugs",
+      "airdate": "2005-03-07"
+    },
+    {
+      "id": "8ec455c6-3db9-43bb-bfdf-e00d35e1a3e7",
+      "season": 1,
+      "number": 6,
+      "name": "Løft ikke hunden",
+      "airdate": "2005-03-14"
+    },
+    {
+      "id": "c37da4bc-41f4-4bb5-bdf2-abaa2392807d",
+      "season": 1,
+      "number": 7,
+      "name": "Fars sidste ønske",
+      "airdate": "2005-03-21"
+    },
+    {
+      "id": "cd5f50f6-5709-43e7-b05f-eae647043483",
+      "season": 1,
+      "number": 8,
+      "name": "Str. 44",
+      "airdate": "2005-03-28"
+    },
+    {
+      "id": "4326ae3d-a915-46ab-b8c2-94a89ae22b0c",
+      "season": 1,
+      "number": 9,
+      "name": "Årstiderne",
+      "airdate": "2005-04-04"
+    },
+    {
+      "id": "8c00fd63-1cb0-4887-9c70-484ff0345481",
+      "season": 1,
+      "number": 10,
+      "name": "Farvel igen mor",
+      "airdate": "2005-04-11"
+    },
+    {
+      "id": "863a304d-8990-4add-b6d6-045a499accce",
+      "season": 2,
+      "number": 1,
+      "name": "Casa Tua",
+      "airdate": "2005-09-12"
+    },
+    {
+      "id": "e9b03eab-94bf-41c5-96e0-f2810c25d720",
+      "season": 2,
+      "number": 2,
+      "name": "Bye Bye Bodil",
+      "airdate": "2005-09-19"
+    },
+    {
+      "id": "5166c0c5-deb4-4e6a-891f-f61001a5d61b",
+      "season": 2,
+      "number": 3,
+      "name": "Don Ø-affæren",
+      "airdate": "2005-09-26"
+    },
+    {
+      "id": "987b5847-0cdb-4d6c-87d2-030cfa84344e",
+      "season": 2,
+      "number": 4,
+      "name": "Thors øje",
+      "airdate": "2005-10-03"
+    },
+    {
+      "id": "dff7e431-d787-4ff2-b7e9-8aabd54e7a37",
+      "season": 2,
+      "number": 5,
+      "name": "Kgl. Hofnar",
+      "airdate": "2005-10-10"
+    },
+    {
+      "id": "df3aee7c-af73-4382-9c45-84c2491e99cc",
+      "season": 2,
+      "number": 6,
+      "name": "It's a jungle down there",
+      "airdate": "2005-10-17"
+    },
+    {
+      "id": "fd077df7-f050-4cb4-9096-98d778ab7bc1",
+      "season": 2,
+      "number": 7,
+      "name": "Ambassadøren",
+      "airdate": "2005-10-24"
+    },
+    {
+      "id": "9f6d78d9-832e-48ad-96dd-f427d80449b9",
+      "season": 2,
+      "number": 8,
+      "name": "Carøes barnedåb",
+      "airdate": "2005-10-31"
+    },
+    {
+      "id": "b3751d88-9674-4c69-998c-bf6b0700deb9",
+      "season": 2,
+      "number": 9,
+      "name": "Irma-pigen",
+      "airdate": "2005-11-07"
+    },
+    {
+      "id": "eaf5597f-2c21-487c-8617-56eb8c9d5b8c",
+      "season": 2,
+      "number": 10,
+      "name": "Franks fede ferie",
+      "airdate": "2005-11-14"
+    },
+    {
+      "id": "3f58c410-7d7e-498c-bd7f-167344452642",
+      "season": 3,
+      "number": 1,
+      "name": "Rosé-forbandelsen",
+      "airdate": "2006-03-06"
+    },
+    {
+      "id": "10f21edd-4ec5-4cdf-8fec-0e293d480ef2",
+      "season": 3,
+      "number": 2,
+      "name": "London Kashmir",
+      "airdate": "2006-03-13"
+    },
+    {
+      "id": "3ef2074a-af01-43ce-83b9-61b37293433d",
+      "season": 3,
+      "number": 3,
+      "name": "Pepino og Pepito",
+      "airdate": "2006-03-20"
+    },
+    {
+      "id": "5bb04f2b-0c0e-4dad-800b-b7628d40988d",
+      "season": 3,
+      "number": 4,
+      "name": "Nina kære Nina",
+      "airdate": "2006-03-27"
+    },
+    {
+      "id": "99443127-6213-4d7f-833e-66ee570c8b72",
+      "season": 3,
+      "number": 5,
+      "name": "100 dage i Forum",
+      "airdate": "2006-04-03"
+    },
+    {
+      "id": "3fad8c54-d387-4073-9258-8c4e6b703e1e",
+      "season": 3,
+      "number": 6,
+      "name": "Biggie Blackie",
+      "airdate": "2006-04-10"
+    },
+    {
+      "id": "a43270f6-13f7-412d-954c-87dd57f21a4d",
+      "season": 3,
+      "number": 7,
+      "name": "Længe leve demokratiet",
+      "airdate": "2006-04-17"
+    },
+    {
+      "id": "587d3151-ee28-4700-82af-c2399094dc6b",
+      "season": 3,
+      "number": 8,
+      "name": "Bøssernes Kennedy",
+      "airdate": "2006-04-24"
+    },
+    {
+      "id": "86831c19-1305-4e5c-822f-b6c58337c16c",
+      "season": 3,
+      "number": 9,
+      "name": "En revisor-smølfe-CD",
+      "airdate": "2006-05-01"
+    },
+    {
+      "id": "de30e08c-3b15-4d8d-b6be-f68e791e9828",
+      "season": 3,
+      "number": 10,
+      "name": "God jul, Frank",
+      "airdate": "2006-05-08"
+    },
+    {
+      "id": "d8ca38f7-cf8a-4579-8afa-d8326299d06d",
+      "season": 4,
+      "number": 1,
+      "name": "Unge hjerter",
+      "airdate": "2006-09-11"
+    },
+    {
+      "id": "8e654e5d-81c6-4dfc-882d-176ad0298e24",
+      "season": 4,
+      "number": 2,
+      "name": "Hjem til far",
+      "airdate": "2006-09-18"
+    },
+    {
+      "id": "4ae70c0d-974a-4b43-960e-ba0564ee1070",
+      "season": 4,
+      "number": 3,
+      "name": "Sankt Hans",
+      "airdate": "2006-09-25"
+    },
+    {
+      "id": "28f6bafc-8ff1-4f88-99ee-2e9b7789004a",
+      "season": 4,
+      "number": 4,
+      "name": "Bornholm",
+      "airdate": "2006-10-02"
+    },
+    {
+      "id": "603510fb-02a2-4212-aec8-2ec91978971e",
+      "season": 4,
+      "number": 5,
+      "name": "Aben Ditmark",
+      "airdate": "2006-10-09"
+    },
+    {
+      "id": "ed0444d3-c3cb-41de-86b7-84484963853f",
+      "season": 4,
+      "number": 6,
+      "name": "Jarlens død",
+      "airdate": "2006-10-16"
+    },
+    {
+      "id": "467a68ac-4761-481d-af40-0e30c86da726",
+      "season": 4,
+      "number": 7,
+      "name": "Piverts Polterabend",
+      "airdate": "2006-10-23"
+    },
+    {
+      "id": "f71677aa-b2af-4fe9-ad97-9e343f53edb2",
+      "season": 4,
+      "number": 8,
+      "name": "Hejsan Sverige",
+      "airdate": "2006-11-06"
+    },
+    {
+      "id": "ab0ade2e-a4b5-4f01-afdb-85e65a67b974",
+      "season": 4,
+      "number": 9,
+      "name": "Tango for tre",
+      "airdate": "2006-11-13"
+    },
+    {
+      "id": "ebe4eed4-e20b-4705-90e2-b539b6d386b0",
+      "season": 4,
+      "number": 10,
+      "name": "Ups",
+      "airdate": "2006-11-20"
+    },
+    {
+      "id": "f65e648d-b86b-4062-9c6d-9f875662f8cc",
+      "season": 5,
+      "number": 1,
+      "name": "Mamma Mia",
+      "airdate": "2008-03-03"
+    },
+    {
+      "id": "e52fa955-a9ca-4439-b65e-2438979ea1f4",
+      "season": 5,
+      "number": 2,
+      "name": "Mere ost Christian Braad Thomsen?",
+      "airdate": "2008-03-10"
+    },
+    {
+      "id": "e845c0ac-b922-43d2-b411-e27c2892445e",
+      "season": 5,
+      "number": 3,
+      "name": "White House potential",
+      "airdate": "2008-03-17"
+    },
+    {
+      "id": "095b29b6-7ae3-47de-877a-a884a05504fd",
+      "season": 5,
+      "number": 4,
+      "name": "Tak for svaneæg",
+      "airdate": "2008-03-24"
+    },
+    {
+      "id": "40c16223-2880-4da3-84ff-3ad06f632acc",
+      "season": 5,
+      "number": 5,
+      "name": "Den japanske have",
+      "airdate": "2008-03-31"
+    },
+    {
+      "id": "e22f6d69-debc-493c-a43f-602768a1583d",
+      "season": 5,
+      "number": 6,
+      "name": "Troldmanden fra Frederiksberg",
+      "airdate": "2008-04-07"
+    },
+    {
+      "id": "d0cb9bf2-bb77-470e-9b94-b6e8f13cfab9",
+      "season": 5,
+      "number": 7,
+      "name": "Hør nu efter Frank",
+      "airdate": "2008-04-14"
+    },
+    {
+      "id": "ed0b0b5f-387f-436a-9090-86ca6f3bea6c",
+      "season": 5,
+      "number": 8,
+      "name": "Tillykke Frank",
+      "airdate": "2008-04-21"
+    },
+    {
+      "id": "d579fec5-9161-431d-bca6-5ce12fd88d01",
+      "season": 5,
+      "number": 9,
+      "name": "Drys fra muffedissen",
+      "airdate": "2008-04-28"
+    },
+    {
+      "id": "764b0ac5-a6fc-4692-9514-3180b0ffb590",
+      "season": 5,
+      "number": 10,
+      "name": "Surprise Mia",
+      "airdate": "2008-05-05"
+    },
+    {
+      "id": "3a83ca2e-c62b-4b00-9917-654e15b0a005",
+      "season": 6,
+      "number": 1,
+      "name": "Guffeliguf",
+      "airdate": "2009-02-23"
+    },
+    {
+      "id": "a6e92b47-e565-47da-a070-cb3a8e55c228",
+      "season": 6,
+      "number": 2,
+      "name": "Shut Up",
+      "airdate": "2009-03-02"
+    },
+    {
+      "id": "e656e3f3-efbe-4596-b51b-e942d8d1f109",
+      "season": 6,
+      "number": 3,
+      "name": "Sivsko og ægget",
+      "airdate": "2009-03-09"
+    },
+    {
+      "id": "d4797f00-ef94-47c0-8093-a5a18d796673",
+      "season": 6,
+      "number": 4,
+      "name": "Fru af og til",
+      "airdate": "2009-03-16"
+    },
+    {
+      "id": "8441d62b-4def-4d59-9849-a9877241b59c",
+      "season": 6,
+      "number": 5,
+      "name": "Monsieur le boss",
+      "airdate": "2009-03-23"
+    },
+    {
+      "id": "e9e414d4-4921-4680-8ad1-debbe1469501",
+      "season": 6,
+      "number": 6,
+      "name": "Bedragsholm slot",
+      "airdate": "2009-03-30"
+    },
+    {
+      "id": "84e740af-1f9c-4c06-9fd3-6d5f09d2fa42",
+      "season": 6,
+      "number": 7,
+      "name": "Bispebjergtricket",
+      "airdate": "2009-04-06"
+    },
+    {
+      "id": "f2fe6956-25f7-411f-9b46-40aaccc729f1",
+      "season": 6,
+      "number": 8,
+      "name": "Et knus for et krus",
+      "airdate": "2009-04-13"
+    },
+    {
+      "id": "2adb65b4-f7be-4cf2-83c2-e65f5316577c",
+      "season": 6,
+      "number": 9,
+      "name": "Dilettanterne",
+      "airdate": "2009-04-20"
+    },
+    {
+      "id": "486a72d0-22eb-42dd-bbfd-9cfe2b01617e",
+      "season": 6,
+      "number": 10,
+      "name": "Falsk lorte alarm",
+      "airdate": "2009-04-27"
+    },
+    {
+      "id": "4060f8b0-3d67-461d-a7d7-164860e50517",
+      "season": 7,
+      "number": 1,
+      "name": "Det muslimske klaver",
+      "airdate": "2018-08-12"
+    },
+    {
+      "id": "bb329bf0-694b-41d5-b3ff-c61613b8ccd0",
+      "season": 7,
+      "number": 2,
+      "name": "Baked Alaska",
+      "airdate": "2018-08-13"
+    },
+    {
+      "id": "be143a21-1fd4-44bd-8530-a53f6e9e60de",
+      "season": 7,
+      "number": 3,
+      "name": "#Metoo",
+      "airdate": "2018-08-20"
+    },
+    {
+      "id": "51f2db12-5531-4c65-b343-975a4a69aaa6",
+      "season": 7,
+      "number": 4,
+      "name": "Slikræven",
+      "airdate": "2018-08-27"
+    },
+    {
+      "id": "98c68959-2fe0-4fca-ba46-6ef43841e748",
+      "season": 7,
+      "number": 5,
+      "name": "Tipo Napoli",
+      "airdate": "2018-09-03"
+    },
+    {
+      "id": "6d348295-1594-4b15-97b1-66d0479f6daa",
+      "season": 7,
+      "number": 6,
+      "name": "Kender Du Typen",
+      "airdate": "2018-09-10"
+    },
+    {
+      "id": "4508f8ae-500e-4bd1-a03f-e4616d768f2f",
+      "season": 7,
+      "number": 7,
+      "name": "Dobbelt dip",
+      "airdate": "2018-09-17"
+    },
+    {
+      "id": "9d64b999-83e4-4f1a-961e-95138c1a6c14",
+      "season": 7,
+      "number": 8,
+      "name": "Hvil i fred Mia",
+      "airdate": "2018-09-24"
+    },
+    {
+      "id": "51391953-d200-4f06-a84a-7aa050f814b2",
+      "season": 7,
+      "number": 9,
+      "name": "Mias måne",
+      "airdate": "2018-10-01"
+    },
+    {
+      "id": "d03bea17-586f-4fb8-a02b-81f73e6711be",
+      "season": 7,
+      "number": 10,
+      "name": "B.S. Skalaen",
+      "airdate": "2018-10-08"
+    },
+    {
+      "id": "2adeacd2-a6df-4fc4-ac84-7d1aad667375",
+      "season": 8,
+      "number": 1,
+      "name": "Spild af Pingus",
+      "airdate": "2021-06-06"
+    },
+    {
+      "id": "b71681d5-7150-4e23-8f90-c0189502e276",
+      "season": 8,
+      "number": 2,
+      "name": "Frank the Prank",
+      "airdate": "2021-06-06"
+    },
+    {
+      "id": "40b42aab-abf4-4ecc-89f8-3bce9f482ddd",
+      "season": 8,
+      "number": 3,
+      "name": "Min bedste ven",
+      "airdate": "2021-06-13"
+    },
+    {
+      "id": "79570a04-aab3-44c0-9ae0-a83b05c3f697",
+      "season": 8,
+      "number": 4,
+      "name": "Balling vs Bahs",
+      "airdate": "2021-06-20"
+    },
+    {
+      "id": "8fc4d152-1d1b-4b44-8aa9-4bf8c917317b",
+      "season": 8,
+      "number": 5,
+      "name": "Det gamle testamente",
+      "airdate": "2021-10-16"
+    },
+    {
+      "id": "a5ee4f2c-2520-4b66-b9a8-f51addb89996",
+      "season": 8,
+      "number": 6,
+      "name": "Falsk Pykker-alarm",
+      "airdate": "2021-07-04"
+    },
+    {
+      "id": "cac339c8-e0a1-4167-bff8-4a14a5337cde",
+      "season": 8,
+      "number": 7,
+      "name": "Forstanderen",
+      "airdate": "2021-07-11"
+    },
+    {
+      "id": "33a360d0-3ab4-478d-ae99-306e871985bd",
+      "season": 8,
+      "number": 8,
+      "name": "Dr. Strangelove",
+      "airdate": "2021-07-18"
+    },
+    {
+      "id": "96d17dbf-d8b1-4010-bebb-d71f1bade83a",
+      "season": 9,
+      "number": 1,
+      "name": "De røde bukser",
+      "airdate": "2022-07-17"
+    },
+    {
+      "id": "0956a4bb-502c-47a1-8d22-4edc9cb53e8f",
+      "season": 9,
+      "number": 2,
+      "name": "Frederiksberg-flisen",
+      "airdate": "2022-07-24"
+    },
+    {
+      "id": "ffef873a-e91e-45d8-9c98-e0ee6c26ff44",
+      "season": 9,
+      "number": 3,
+      "name": "Et portræt af en tennisklub",
+      "airdate": "2022-07-31"
+    },
+    {
+      "id": "e9651af4-fd86-4ee3-9620-7e6132013e91",
+      "season": 9,
+      "number": 4,
+      "name": "Alter ego",
+      "airdate": "2022-08-07"
+    },
+    {
+      "id": "347b5bd8-f82d-45bc-a268-03a2a2eba317",
+      "season": 9,
+      "number": 5,
+      "name": "Darwins kontor",
+      "airdate": "2022-08-14"
+    },
+    {
+      "id": "9b7274aa-3abb-4fb7-9919-c200e4c70970",
+      "season": 9,
+      "number": 6,
+      "name": "Folkemødet",
+      "airdate": "2022-08-21"
+    },
+    {
+      "id": "7b150d2f-6602-41ff-a0a5-a288724f3e70",
+      "season": 9,
+      "number": 7,
+      "name": "Mias fede ferie",
+      "airdate": "2022-08-28"
+    },
+    {
+      "id": "31098801-2ad4-4071-ba6a-2f759ed51a80",
+      "season": 9,
+      "number": 8,
+      "name": "Venstretricket",
+      "airdate": "2022-09-04"
+    },
+    {
+      "id": "9a8dd99d-f559-4093-8647-bc2f46981e43",
+      "season": 10,
+      "number": 1,
+      "name": "Vågekoner",
+      "airdate": "2025-07-20"
+    },
+    {
+      "id": "5190f2f2-44d6-4fa7-9612-3bcd165a5db7",
+      "season": 10,
+      "number": 2,
+      "name": "Frederikshvile",
+      "airdate": "2025-07-27"
+    },
+    {
+      "id": "0a82bca9-280b-4c99-8b84-ae86f2269e52",
+      "season": 10,
+      "number": 3,
+      "name": "Nøgen og forladt",
+      "airdate": "2025-08-03"
+    },
+    {
+      "id": "0b02032c-d419-47a7-965a-3c4b7d3e3799",
+      "season": 10,
+      "number": 4,
+      "name": "En natpadde",
+      "airdate": "2025-08-10"
+    },
+    {
+      "id": "dc596231-1110-4510-bc56-b091b8673444",
+      "season": 10,
+      "number": 5,
+      "name": "Åleruse-metoden",
+      "airdate": "2025-08-17"
+    },
+    {
+      "id": "d5c3df17-2335-4b83-a6ef-d639defebf67",
+      "season": 10,
+      "number": 6,
+      "name": "Det sårede dyr på savannen",
+      "airdate": "2025-08-24"
+    },
+    {
+      "id": "a169b4c3-515e-4ec7-831b-0e74ddb9b217",
+      "season": 10,
+      "number": 7,
+      "name": "Russerne kommer",
+      "airdate": "2025-08-31"
+    },
+    {
+      "id": "4aa631b4-54e0-4bb0-9ebc-e05f25a303fb",
+      "season": 10,
+      "number": 8,
+      "name": "Kransekagernes Willy Wonka",
+      "airdate": "2025-09-07"
+    },
+    {
+      "id": "e42bbbd0-44d2-4de7-9085-c543cd1841c0",
+      "season": 11,
+      "number": 1,
+      "name": "Ohayo Majbritt",
+      "airdate": "2026-07-19"
+    },
+    {
+      "id": "cef0b30b-6669-48a5-9e7c-f5c6ba27b25f",
+      "season": 11,
+      "number": 2,
+      "name": "Picaldis omelet",
+      "airdate": "2026-07-26"
+    },
+    {
+      "id": "95a35596-a863-43b5-8f74-040212867a63",
+      "season": 11,
+      "number": 3,
+      "name": "Grand Hotel 1995",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "b38dcf87-f5f6-4141-a489-59d335d46f53",
+      "season": 11,
+      "number": 4,
+      "name": "Yellowstone",
+      "airdate": "2026-08-09"
+    },
+    {
+      "id": "be9d2449-2b3a-41ee-8b96-ee15c183a673",
+      "season": 11,
+      "number": 5,
+      "name": "Pia Mia",
+      "airdate": "2026-08-16"
+    },
+    {
+      "id": "62470b8f-5d9a-4a02-9996-848a3f28442c",
+      "season": 11,
+      "number": 6,
+      "name": "Nissemor og hr. Pindsvin",
+      "airdate": "2026-08-23"
+    },
+    {
+      "id": "e6055a27-38fa-42a2-bc62-8a79d9050f5c",
+      "season": 11,
+      "number": 7,
+      "name": "Klokkeren fra Frederiksberg",
+      "airdate": "2026-08-30"
+    },
+    {
+      "id": "d9d43d97-7ce4-4411-adeb-6a932759cf42",
+      "season": 11,
+      "number": 8,
+      "name": "Well done London",
+      "airdate": "2026-09-06"
+    }
+  ]
+}

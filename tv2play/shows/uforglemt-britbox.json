@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:uforglemt-britbox",
+  "name": "Uforglemt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1cbaf8c0-c820-4ef1-9eca-1e4285ae01ec",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c884f2c5-ab54-4739-bd78-285d24d57710",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "db2bd09e-3952-4b43-b0c0-064102ee16e2",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "581d7314-9a7d-4256-84e7-8ffbe8eccb7d",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "47993b51-d7cc-4c1b-8367-346fd163b07a",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5598c5ac-1715-4eaf-8e9c-167c6af85141",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "99a86dd9-264f-44ac-ba94-2a4ce2ef9bea",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "41616288-9e46-4ea6-bfd3-9d06f7752f7a",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "961f3afc-8941-40aa-b504-5f91383effb6",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a391d7b2-b2c3-4dd7-b9a6-b4916b8ca9c2",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "82045471-8f96-414b-8c9f-9b0fcfb6c5d3",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1cc1bce1-6b84-4b00-9621-08b4bc182356",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fc5c5cfa-ea2e-47c1-bd17-f6a1dcf0ba65",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "88808ac7-a243-4eb1-ab48-44bc5f23c9d3",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "204dd770-b808-48cc-815f-b394159be6c7",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "767ca989-1de0-497f-903c-51225d2c3dc2",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5884d19c-c8f7-45e5-b8d2-314d3714f3bb",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "80f38e9b-09ef-4d05-8584-6a194bc5cfad",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0f127a23-8e48-42cd-bc66-776c60839f35",
+      "season": 4,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2fb227b6-65d9-4d80-9253-fd8ada93f413",
+      "season": 4,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4edc1c6d-39db-4b99-8a95-2aa8baf0d014",
+      "season": 4,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0bb941b7-c85f-4f68-b289-c3e81230407f",
+      "season": 4,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e8698ae6-001f-4558-a0f7-5aafd1608122",
+      "season": 4,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "db068424-79f5-4c1c-bcb1-b1a0e688d45d",
+      "season": 4,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e35a23a0-98c1-4bc3-b9f4-4a34a5f176bd",
+      "season": 5,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "2fbf2c26-d900-419d-bf85-4130090aeb4b",
+      "season": 5,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "34d264a9-c6d1-4f94-8938-1f8ae5fe711e",
+      "season": 5,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "c3189a7b-4ff1-4d89-8f4d-29bde3e65377",
+      "season": 5,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "0da75ba8-13cc-4cc9-8d9a-317e7e43f2c7",
+      "season": 5,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "c2d493e9-6ad4-4447-b753-4dd0cd04d2cb",
+      "season": 5,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "e002ad72-c2ca-498c-bbb2-4e8164d85753",
+      "season": 6,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-05-06"
+    },
+    {
+      "id": "6e1c2a43-1793-43a7-a1b2-76372e99a8d3",
+      "season": 6,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-05-06"
+    },
+    {
+      "id": "8907ab43-66ca-4e5b-9700-6ea6222d86cd",
+      "season": 6,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-05-06"
+    },
+    {
+      "id": "66144eb3-052d-4985-ba2b-f589b46c667d",
+      "season": 6,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-05-06"
+    },
+    {
+      "id": "1d338638-94aa-4f6e-91ee-ab4cb53ce937",
+      "season": 6,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-05-06"
+    },
+    {
+      "id": "f93fec64-c99d-4ced-81a4-18708c230b7a",
+      "season": 6,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-05-06"
+    }
+  ]
+}

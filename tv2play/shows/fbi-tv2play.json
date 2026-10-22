@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:fbi-tv2play",
+  "name": "FBI",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1b4db18f-264a-4aa7-845e-e223803792d3",
+      "season": 3,
+      "number": 14,
+      "name": "Trigger Effect",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

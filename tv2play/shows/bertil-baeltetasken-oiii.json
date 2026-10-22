@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:bertil-baeltetasken-oiii",
+  "name": "Bertil & Bæltetasken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "72f81cbd-05c2-4352-bc3e-81aaf40668a5",
+      "season": 1,
+      "number": 1,
+      "name": "Første skoledag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "47fc35e1-981d-4ff4-9f7c-323a77a5f367",
+      "season": 1,
+      "number": 2,
+      "name": "Blokfløjten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3be2bc4a-30e1-4cb4-bd37-ded977a5e29f",
+      "season": 1,
+      "number": 3,
+      "name": "Høvdingen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "20e7ec4d-7476-43f3-8a57-bf3b84b2915d",
+      "season": 1,
+      "number": 4,
+      "name": "Bangebuks",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "52ad41fb-6263-4695-ba65-bfc105cf6260",
+      "season": 1,
+      "number": 5,
+      "name": "Klassebilledet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a5b85c2d-eaa5-4892-9af8-77cf232cb201",
+      "season": 1,
+      "number": 6,
+      "name": "Fifa",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a3d52a07-9bbb-4952-a599-03544895bd35",
+      "season": 1,
+      "number": 7,
+      "name": "Vulkanen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "210a4c42-c33a-4e72-94b2-31df77069641",
+      "season": 1,
+      "number": 8,
+      "name": "Klasseturen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8d98358a-7c5d-44a8-ba25-98cd2ae6e7e6",
+      "season": 1,
+      "number": 9,
+      "name": "Den nye bæltetaske",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f1215336-1c7d-4c4e-b8b7-835447f377b2",
+      "season": 1,
+      "number": 10,
+      "name": "Legeaftalen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d08e10f0-3ba9-4276-9c13-551d4318473f",
+      "season": 1,
+      "number": 11,
+      "name": "Noras fødselsdag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "645ff019-a4f3-420e-bba5-4337bd340205",
+      "season": 1,
+      "number": 12,
+      "name": "Spejder",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7d9e293a-1c36-4e39-a8d8-1c164564228b",
+      "season": 1,
+      "number": 13,
+      "name": "Kærestebrevet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a76d5c88-033b-499c-9741-3cd9f06b6df1",
+      "season": 1,
+      "number": 14,
+      "name": "Forårskoncerten",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

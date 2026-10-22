@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:magnus-myggen-oiii",
+  "name": "Magnus & Myggen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ed0ad05d-bba8-44a8-bd8c-f8bc7147c816",
+      "season": 1,
+      "number": 1,
+      "name": "En tør fornøjelse",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "e74c27e4-905e-460d-b185-73bd25d4958e",
+      "season": 1,
+      "number": 2,
+      "name": "Dronning ønskes",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "f63899fd-0311-4b96-82c9-4fe1230ff178",
+      "season": 1,
+      "number": 3,
+      "name": "Den etbenede Humpesaurus",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "c1e00ad5-34a8-42dd-9357-3723db9fe6be",
+      "season": 1,
+      "number": 4,
+      "name": "Hallofonen",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "dd18b366-6550-4e24-ba83-d02ef7aa1838",
+      "season": 1,
+      "number": 5,
+      "name": "Den gamle vandmølle",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "8f82374c-0b57-43bc-9249-170356fb256e",
+      "season": 1,
+      "number": 6,
+      "name": "Kalle Kanin gør oprør",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "b1bb7d65-6f76-4cad-bf61-b06e585df497",
+      "season": 1,
+      "number": 7,
+      "name": "Paradis Arken",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "52cdf745-8360-4941-84c7-a29cc61a40d7",
+      "season": 1,
+      "number": 8,
+      "name": "Søvnbringerne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d9c0cd03-aae5-432d-ad5b-803bc7e44b05",
+      "season": 1,
+      "number": 9,
+      "name": "Snemuldvarpen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1168c7c0-50be-4ec5-a0a1-5000d721a58a",
+      "season": 1,
+      "number": 10,
+      "name": "Talentkonkurrencen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "800a8118-ceb3-40c3-81ce-fd3d33e09261",
+      "season": 1,
+      "number": 11,
+      "name": "Frode Flagermus' fødselsdag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8223d148-542a-4d03-93ba-020542859c93",
+      "season": 1,
+      "number": 12,
+      "name": "Paradis Park-luskeren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "29c03c0a-5bf2-4aec-89f5-2c1bd42a3264",
+      "season": 1,
+      "number": 13,
+      "name": "Fungys familieformue",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7e3802ec-2bac-4dbb-bb52-7470d20cdf98",
+      "season": 1,
+      "number": 14,
+      "name": "Den store byttedag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "47b9044f-e1c8-41de-95f1-ac01f2fc3acb",
+      "season": 1,
+      "number": 15,
+      "name": "Den mægtige Muhko",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "659d7adb-68d7-4fa5-ac92-69779324ed86",
+      "season": 1,
+      "number": 16,
+      "name": "Galopperende smittesnue",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3eb9329c-c7ba-4437-9c49-cb97b1aa9303",
+      "season": 1,
+      "number": 17,
+      "name": "Lossepladsløbet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5a4b7c73-b006-4e01-aabc-3fa045e5c388",
+      "season": 1,
+      "number": 18,
+      "name": "Hvor er blomsterne blevet af?",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "46ec95f8-5e24-4cb9-a2ed-dbe678bb4b5b",
+      "season": 1,
+      "number": 19,
+      "name": "Jodlefri zone",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3d49e8e7-1f1d-4bf6-95eb-531385b426e0",
+      "season": 1,
+      "number": 20,
+      "name": "Spøgelseshuset",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ea95511c-1c2d-4df1-81f1-a68a993a8bae",
+      "season": 1,
+      "number": 21,
+      "name": "En bibeskæftigelse",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9ca91daa-c455-44aa-92c6-1f33141606d3",
+      "season": 1,
+      "number": 22,
+      "name": "Guldfeber",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f8cfc6ac-6e08-4473-948c-5ac7834f238c",
+      "season": 1,
+      "number": 23,
+      "name": "Tidskapslen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "975f59d2-0499-4d89-b60b-4cc3d5c9c982",
+      "season": 1,
+      "number": 24,
+      "name": "Råddensmat",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "fe329392-94d6-46d8-87a5-9db558c5afca",
+      "season": 1,
+      "number": 25,
+      "name": "De gode gerningers dag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a124715e-99df-4236-a784-7052e7ed950b",
+      "season": 1,
+      "number": 26,
+      "name": "Fest i den gamle vandmølle",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

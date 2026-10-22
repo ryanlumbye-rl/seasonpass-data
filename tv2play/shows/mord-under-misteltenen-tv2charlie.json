@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:mord-under-misteltenen-tv2charlie",
+  "name": "Mord under misteltenen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2675b063-3bdd-4bc8-91fd-d8b7e3219cb2",
+      "season": 1,
+      "number": 1,
+      "name": "En giftig julekage",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "aedd9f64-2817-447b-94a5-91eaae572b21",
+      "season": 1,
+      "number": 2,
+      "name": "Farlige falske toner",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "7a79269b-296f-454a-b9ad-95630b696540",
+      "season": 1,
+      "number": 3,
+      "name": "Boghandlerens hemmeligheder",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "31bf2428-f850-448d-b2bd-1226ee1c1a66",
+      "season": 2,
+      "number": 1,
+      "name": "Et skæbnesvangert træk",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "858cd07e-1ee7-4d57-a4e0-8bbad7fc795f",
+      "season": 2,
+      "number": 2,
+      "name": "Hvad maleriet gemte",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "d445dfef-981e-48cd-96fc-90bcf15fb3a0",
+      "season": 2,
+      "number": 3,
+      "name": "Det sidste julemåltid",
+      "airdate": "2025-12-22"
+    }
+  ]
+}

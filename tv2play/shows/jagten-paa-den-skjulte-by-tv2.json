@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:jagten-paa-den-skjulte-by-tv2",
+  "name": "Jagten på den skjulte by",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "30aecd88-276e-4390-b117-fc3e50ff4a08",
+      "season": 1,
+      "number": 1,
+      "name": "Det mystiske bjerg",
+      "airdate": "2020-01-28"
+    },
+    {
+      "id": "fc7d3dd1-f98f-48eb-a0d3-faa8d8f959d6",
+      "season": 1,
+      "number": 2,
+      "name": "Kæledyr til aftensmad",
+      "airdate": "2020-01-28"
+    },
+    {
+      "id": "ff3549a0-839b-4092-92b2-f9f557888b63",
+      "season": 1,
+      "number": 3,
+      "name": "Den hemmelige sti",
+      "airdate": "2020-02-04"
+    },
+    {
+      "id": "edb1ba93-385f-4255-9c93-3b39fc06d462",
+      "season": 1,
+      "number": 4,
+      "name": "Det store fund",
+      "airdate": "2020-02-11"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:min-tro-tv2play",
+  "name": "Min tro",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8e011a81-23d6-4487-a453-acbdbaaf2246",
+      "season": 1,
+      "number": 1,
+      "name": "Cecilie Gubi",
+      "airdate": "2026-04-10"
+    },
+    {
+      "id": "dfb390c0-8079-4682-ac45-cfbfda7bfcb5",
+      "season": 1,
+      "number": 2,
+      "name": "Mads og Maria Dalgaard",
+      "airdate": "2026-04-10"
+    }
+  ]
+}

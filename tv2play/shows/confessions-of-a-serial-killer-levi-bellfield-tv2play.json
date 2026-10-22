@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:confessions-of-a-serial-killer-levi-bellfield-tv2play",
+  "name": "Confessions of a Serial Killer: Levi Bellfield",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d24695aa-4456-4871-88b2-19e14f426230",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "9fb86139-8171-4e7a-a33b-5b64c3fb1633",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "ba63b441-0bcf-4bfb-9918-c074814855a5",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-09-09"
+    }
+  ]
+}

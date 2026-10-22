@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:1883-skyshowtime",
+  "name": "1883",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a4acecb3-9cc2-4678-8b65-3cd83926b50b",
+      "season": 1,
+      "number": 1,
+      "name": "1883",
+      "airdate": "2022-01-10"
+    },
+    {
+      "id": "f069db91-67d6-4e16-98c4-989c0d0b0108",
+      "season": 1,
+      "number": 2,
+      "name": "Behind Us, A Cliff",
+      "airdate": "2022-01-10"
+    },
+    {
+      "id": "58ae1214-c488-4934-9212-703193055b5a",
+      "season": 1,
+      "number": 3,
+      "name": "River",
+      "airdate": "2022-01-17"
+    },
+    {
+      "id": "9006dd6f-2aee-4036-a9a9-53b80f979bbd",
+      "season": 1,
+      "number": 4,
+      "name": "The Crossing",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "27d148fb-c197-4993-828a-f45020edd599",
+      "season": 1,
+      "number": 5,
+      "name": "The Fangs of Freedom",
+      "airdate": "2022-01-31"
+    },
+    {
+      "id": "61cfa83d-8b4d-4b1a-b940-b83e9bcd1cae",
+      "season": 1,
+      "number": 6,
+      "name": "Boring The Devil",
+      "airdate": "2022-02-07"
+    },
+    {
+      "id": "cac71ba8-59f7-47fe-9efa-a7e8cbd697ca",
+      "season": 1,
+      "number": 7,
+      "name": "Lightning Yellow Hair",
+      "airdate": "2022-02-14"
+    },
+    {
+      "id": "a504deb5-4f4c-42c3-87b8-a3b1fe558a35",
+      "season": 1,
+      "number": 8,
+      "name": "The Weep of Surrender",
+      "airdate": "2022-02-21"
+    },
+    {
+      "id": "0c826d37-4ab7-45d8-bd00-d4630e39d64c",
+      "season": 1,
+      "number": 9,
+      "name": "Racing Clouds",
+      "airdate": "2022-02-28"
+    },
+    {
+      "id": "66eb1ae9-2798-48e7-bc69-ddb26c932c5a",
+      "season": 1,
+      "number": 10,
+      "name": "This Is Not Your Heaven",
+      "airdate": "2022-03-07"
+    },
+    {
+      "id": "ba92ae19-2f52-46e0-8387-c6811368eab0",
+      "season": 1,
+      "number": 11,
+      "name": "1883: The Road West",
+      "airdate": "2022-03-14"
+    }
+  ]
+}

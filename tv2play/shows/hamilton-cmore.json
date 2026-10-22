@@ -1,0 +1,136 @@
+{
+  "id": "tv2play:hamilton-cmore",
+  "name": "Hamilton",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "913b0d66-6487-461a-b9c6-414458f929d1",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "7bcc6560-b798-4ac8-a98f-322960303893",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "52c913c5-6d7e-4e4e-a93e-1e0e867eb1e4",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b4ae7903-df7e-46bd-8ea7-29c8bd43f0f3",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c9c6796c-7e03-4e4f-a8ca-5b2fc1aeb856",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9e44581e-bd67-44c5-ab56-caea57f84467",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3551f61f-8d73-485b-a93e-db1ad5a1d709",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c946da67-a571-4ce1-a666-eb2044c6ee41",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f2f35df9-a4c5-48aa-8e95-9cd32bf5e497",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "85332860-423f-4bdb-a05f-cd93f2380948",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cf05734f-afbd-45e0-ac0b-a434c946ff9a",
+      "season": 2,
+      "number": 1,
+      "name": "Reset, 1. del.",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "48b6ba05-dd66-4ccc-adea-73bfa5f561f7",
+      "season": 2,
+      "number": 2,
+      "name": "Reset, 2. del.",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fdf857d6-3c82-48a9-8258-01c244de3f8c",
+      "season": 2,
+      "number": 3,
+      "name": "Need To Know, 1. del.",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5af90b5e-6ffc-4c1e-ba60-b855e5374f7d",
+      "season": 2,
+      "number": 4,
+      "name": "Need To Know, 2. del.",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "17aa3fd7-f6da-45b1-b30c-8b324390563a",
+      "season": 2,
+      "number": 5,
+      "name": "Shadow World, 1. del.",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "83d13ff9-9d09-4f64-97c9-4815a99dd7dd",
+      "season": 2,
+      "number": 6,
+      "name": "Shadow World, 2. del.",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f1422374-fffc-454d-8437-ff6091d799ff",
+      "season": 2,
+      "number": 7,
+      "name": "The Reckoning, 1. del.",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "62ad854d-ed06-47c1-9715-202df8dcbf35",
+      "season": 2,
+      "number": 8,
+      "name": "The Reckoning, 2. del.",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "tv2play:law-order-special-victims-unit-tv2play",
+  "name": "Law & Order: Special Victims Unit",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "284f57a2-79d0-4f03-a07c-999d87b9c05c",
+      "season": 22,
+      "number": 1,
+      "name": "Guardians and Gladiators",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "2c9cac5b-cafa-4887-852c-3b8552282844",
+      "season": 22,
+      "number": 2,
+      "name": "Ballad of Dwight and Irena",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "2f7d84ed-344d-4820-b754-53dc2185e210",
+      "season": 22,
+      "number": 3,
+      "name": "Remember Me in Quarantine",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "9bc95a72-1d94-4e25-92a8-cd2dcae454e8",
+      "season": 22,
+      "number": 4,
+      "name": "Sightless in a Savage Land",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "496dd9ba-8d8a-4b3f-a34e-64449f93cef6",
+      "season": 22,
+      "number": 5,
+      "name": "Turn Me on Take Me Private",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "5550303e-7263-4ca7-8cdb-950fa8c8d32f",
+      "season": 22,
+      "number": 6,
+      "name": "The Long Arm of the Witness",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "99bddf6c-b1e4-4010-a1a9-f5cf48278299",
+      "season": 22,
+      "number": 7,
+      "name": "Hunt, Trap, Rape and Release",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "f4931b98-54e8-4387-bf5b-0c09b25042df",
+      "season": 22,
+      "number": 8,
+      "name": "The Only Way Out Is Through",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "01a2b409-3ca5-419a-8ab3-405254351f52",
+      "season": 22,
+      "number": 9,
+      "name": "Return of the Prodigal Son",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "7dd35fb1-86e8-4c95-b4d3-1a3c9a734027",
+      "season": 22,
+      "number": 10,
+      "name": "Welcome to the Pedo Motel",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "f834dae1-cdc5-4f7e-b6cb-160657452b6f",
+      "season": 22,
+      "number": 11,
+      "name": "Our Words Will Not Be Heard",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "faf2ac2e-2da6-4ccd-b793-f94403fd3dd1",
+      "season": 22,
+      "number": 12,
+      "name": "In the Year We All Fell Down",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "6d733674-8361-45da-8ed4-0e92ff70f24c",
+      "season": 22,
+      "number": 13,
+      "name": "Trick-Rolled at the Moulin",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "0de38947-61bf-4bfc-b519-a65ab22767de",
+      "season": 22,
+      "number": 14,
+      "name": "Post-Graduate Psychopath",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "122a14a2-b855-4d7e-813a-b53bb7ed0ff2",
+      "season": 22,
+      "number": 15,
+      "name": "What Can Happen in the Dark",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "4c742da3-97bb-4b45-b54d-7cc6a86146ea",
+      "season": 22,
+      "number": 16,
+      "name": "Wolves in Sheep's Clothing",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "a1f1d807-6f61-4e5a-be0c-c832faa6f5b8",
+      "season": 25,
+      "number": 1,
+      "name": "Tunnel Blind",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "3989bc6a-7ba0-4b41-b4ae-55427debfdb4",
+      "season": 25,
+      "number": 2,
+      "name": "Truth Embargo",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "0e3507e4-f2e1-48da-90b3-b77573280faf",
+      "season": 25,
+      "number": 3,
+      "name": "The Punch List",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "d8a4aff2-b37e-4040-9337-2884ad68199d",
+      "season": 25,
+      "number": 4,
+      "name": "Duty to Report",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "b6193000-dfaf-4613-8633-e8e665c46d4b",
+      "season": 25,
+      "number": 5,
+      "name": "Zone Rouge",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "df0b3693-cbac-422a-9168-0514e5cf16c0",
+      "season": 25,
+      "number": 6,
+      "name": "Carousel",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "824e1a6a-f60a-4126-82da-2d3dfc7488e3",
+      "season": 25,
+      "number": 7,
+      "name": "Probability of Doom",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "1ca09e6b-72b0-447b-88db-8f32647d546b",
+      "season": 25,
+      "number": 8,
+      "name": "Third Man Syndrome",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "f88dfaf4-0ee3-42c3-b215-500ff7e6ad45",
+      "season": 25,
+      "number": 9,
+      "name": "Children of Wolves",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "bfbffb57-9a39-4187-804e-e019f5f7616f",
+      "season": 25,
+      "number": 10,
+      "name": "Combat Fatigue",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "efdfe2d1-1042-49e8-ad7a-61abb34bce1c",
+      "season": 25,
+      "number": 11,
+      "name": "Prima Nocta",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "5d024632-677c-43e4-9696-03b432d11bcd",
+      "season": 25,
+      "number": 12,
+      "name": "Marauder",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "0e39fde9-0e67-4ad3-b50f-d14783f34ba5",
+      "season": 25,
+      "number": 13,
+      "name": "Duty to Hope",
+      "airdate": "2026-09-23"
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "id": "tv2play:hjemlig-nemlig-tv2fri",
+  "name": "Hjemlig nemlig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0c4a5f46-4576-47ac-99ab-235c9238202a",
+      "season": 7,
+      "number": 1,
+      "name": "Drømmerum på kajen",
+      "airdate": "2014-02-20"
+    },
+    {
+      "id": "d3557bf9-f40b-44cc-87a1-ab75331587a4",
+      "season": 7,
+      "number": 2,
+      "name": "Garderobe til begær",
+      "airdate": "2014-02-21"
+    },
+    {
+      "id": "6a523744-c046-4ebc-9826-a39ccd8931bc",
+      "season": 7,
+      "number": 3,
+      "name": "Eksklusiv terrasse",
+      "airdate": "2014-02-22"
+    },
+    {
+      "id": "587990e5-26e2-4e3e-8e55-f25edb3e1737",
+      "season": 7,
+      "number": 4,
+      "name": "Det hvide køkken",
+      "airdate": "2014-02-23"
+    },
+    {
+      "id": "200d5cb7-cac7-49d5-b017-82024a1627e5",
+      "season": 7,
+      "number": 5,
+      "name": "Baghave",
+      "airdate": "2014-02-24"
+    },
+    {
+      "id": "ae055ce1-4a67-4513-9d53-a237db6a4d54",
+      "season": 7,
+      "number": 6,
+      "name": "Hytte",
+      "airdate": "2014-02-25"
+    },
+    {
+      "id": "8b205af6-f662-4624-8faf-4b42ba44131c",
+      "season": 7,
+      "number": 7,
+      "name": "Rumligt køkken",
+      "airdate": "2014-02-26"
+    },
+    {
+      "id": "5290fcb0-2c33-4908-ada1-bc49fe018b10",
+      "season": 7,
+      "number": 8,
+      "name": "Hobbyrum",
+      "airdate": "2014-02-27"
+    },
+    {
+      "id": "b273f6de-e785-4b2d-9ada-e1ea5d082bde",
+      "season": 8,
+      "number": 1,
+      "name": "Alversund køkken",
+      "airdate": "2014-02-28"
+    },
+    {
+      "id": "f069868f-67c8-4fb4-a09f-8dfa47b22a03",
+      "season": 8,
+      "number": 2,
+      "name": "Et hyggeligt hjem",
+      "airdate": "2014-03-01"
+    },
+    {
+      "id": "75f7d2cd-6968-418b-a0f1-9e82ff00694f",
+      "season": 8,
+      "number": 3,
+      "name": "Et lille hus i Sandviken",
+      "airdate": "2014-03-02"
+    },
+    {
+      "id": "04f10c42-ddab-4ee5-a768-9a46654e3cff",
+      "season": 8,
+      "number": 4,
+      "name": "Terasse i Nedrelia",
+      "airdate": "2014-03-03"
+    },
+    {
+      "id": "3f090174-cf66-489f-9c2b-dfdac7efd0f6",
+      "season": 8,
+      "number": 5,
+      "name": "Hardangerveien stue",
+      "airdate": "2014-03-04"
+    },
+    {
+      "id": "d878bb52-72d8-409a-80de-1fa703941923",
+      "season": 8,
+      "number": 6,
+      "name": "Bønes terasse og flisekunst",
+      "airdate": "2014-03-05"
+    },
+    {
+      "id": "a544e682-b7e6-4352-ad57-a22364e27a3c",
+      "season": 8,
+      "number": 7,
+      "name": "Soveværelse og garderobe",
+      "airdate": "2014-03-06"
+    },
+    {
+      "id": "c6ff622b-8a94-4ceb-a6b2-73b479733fa4",
+      "season": 8,
+      "number": 8,
+      "name": "Hyllestad landsted",
+      "airdate": "2014-03-07"
+    },
+    {
+      "id": "ebb1c31a-7b1b-489a-a37d-09954d35d491",
+      "season": 9,
+      "number": 1,
+      "name": "Et hjemligt hjem",
+      "airdate": "2014-03-08"
+    },
+    {
+      "id": "26df48d3-3836-4695-81d3-08aca2c14048",
+      "season": 9,
+      "number": 2,
+      "name": "Et hjem på landet",
+      "airdate": "2014-03-09"
+    },
+    {
+      "id": "87280e3f-2cb4-4e4c-baf3-629e6d269ab1",
+      "season": 9,
+      "number": 3,
+      "name": "Kælderen på Kirkevej",
+      "airdate": "2014-03-10"
+    },
+    {
+      "id": "41bd7c5c-e957-4a8a-8151-af424898bb31",
+      "season": 9,
+      "number": 4,
+      "name": "Rækkehusstue i Eldsbakkane",
+      "airdate": "2014-03-11"
+    },
+    {
+      "id": "af50d4d1-b8ff-4b50-af46-4b6982513c66",
+      "season": 9,
+      "number": 5,
+      "name": "Gårdhave",
+      "airdate": "2014-03-12"
+    },
+    {
+      "id": "a47fd0d2-3db0-4d77-a815-741a6e39b282",
+      "season": 9,
+      "number": 6,
+      "name": "Køkken",
+      "airdate": "2014-03-13"
+    },
+    {
+      "id": "415ceb2b-00c8-41d5-a193-5cdf5c3d59ea",
+      "season": 9,
+      "number": 7,
+      "name": "Rækkehushave",
+      "airdate": "2014-03-14"
+    },
+    {
+      "id": "86ab18bd-b6c2-437b-95aa-67ab7fa93ee0",
+      "season": 9,
+      "number": 8,
+      "name": "Et hyggehjem",
+      "airdate": "2014-03-15"
+    },
+    {
+      "id": "20319e0b-05ce-447e-9e4e-bd7821f8988d",
+      "season": 10,
+      "number": 1,
+      "name": "Hængende spisebord",
+      "airdate": "2014-10-02"
+    },
+    {
+      "id": "d3d0b03b-4015-448d-a26e-22bdb962f1d0",
+      "season": 10,
+      "number": 2,
+      "name": "Fra mørkt loft til lys bolig",
+      "airdate": "2014-10-03"
+    },
+    {
+      "id": "d9123e01-025a-4a6d-b594-7803f172be9f",
+      "season": 10,
+      "number": 3,
+      "name": "Ud på terrassen",
+      "airdate": "2014-10-06"
+    },
+    {
+      "id": "b3ca4ace-6497-495a-9c8f-98b9e45a2b50",
+      "season": 10,
+      "number": 4,
+      "name": "Fra bondestue til familierum",
+      "airdate": "2014-10-07"
+    },
+    {
+      "id": "8ce34510-5202-4bb4-b89e-464a3f9a2539",
+      "season": 10,
+      "number": 5,
+      "name": "Hjælp til storfamilie",
+      "airdate": "2014-10-08"
+    },
+    {
+      "id": "d51062ff-007b-4a92-9681-69b4ef6faef9",
+      "season": 10,
+      "number": 6,
+      "name": "Forårsløft til baghaven",
+      "airdate": "2014-10-09"
+    },
+    {
+      "id": "3d204d36-cc86-451b-be7b-be47e7ab9a80",
+      "season": 10,
+      "number": 7,
+      "name": "Hus fra 60'erne",
+      "airdate": "2014-10-10"
+    },
+    {
+      "id": "d725e0ff-e8ed-484f-9957-6fa62f091d9d",
+      "season": 10,
+      "number": 8,
+      "name": "Sæsonfinale",
+      "airdate": "2014-10-11"
+    },
+    {
+      "id": "15b64857-1b39-4528-ad07-b8116e1bcb39",
+      "season": 11,
+      "number": 1,
+      "name": "Hjælp til stuen",
+      "airdate": "2016-10-19"
+    },
+    {
+      "id": "244301f4-60f9-4d18-855f-9e6f85dbb132",
+      "season": 11,
+      "number": 2,
+      "name": "Brændeovn og gæsteværelse",
+      "airdate": "2016-10-19"
+    },
+    {
+      "id": "4474c38b-8c36-4266-93b4-7f39537c4352",
+      "season": 11,
+      "number": 3,
+      "name": "Kærlig hånd til barndomshjemmet",
+      "airdate": "2016-10-20"
+    },
+    {
+      "id": "312bb41d-0aa7-4705-aef6-49e00c7b36dc",
+      "season": 11,
+      "number": 4,
+      "name": "Fra fabrik til hjem",
+      "airdate": "2016-10-20"
+    },
+    {
+      "id": "21d04f37-d030-4bf2-a87c-69311fa20d1e",
+      "season": 11,
+      "number": 5,
+      "name": "Ud i det blå",
+      "airdate": "2016-10-21"
+    },
+    {
+      "id": "a30a85f5-26c2-496c-958c-b1bc93e95be4",
+      "season": 11,
+      "number": 6,
+      "name": "Massiv køkkenrenovering",
+      "airdate": "2016-10-21"
+    },
+    {
+      "id": "3365a2b7-c2f3-45d5-aca4-bc0380b99afe",
+      "season": 11,
+      "number": 7,
+      "name": "Frie hænder",
+      "airdate": "2016-10-24"
+    },
+    {
+      "id": "f2c763b7-f80a-48a0-8d65-053e6d7209a2",
+      "season": 11,
+      "number": 8,
+      "name": "Et kig på køkkenet",
+      "airdate": "2016-10-24"
+    },
+    {
+      "id": "f626d413-dba4-485f-b3b1-a6f1e55ab1f2",
+      "season": 11,
+      "number": 9,
+      "name": "Fra slidt baghave til dejlig byhave",
+      "airdate": "2016-10-25"
+    },
+    {
+      "id": "a8ea8be2-0309-4897-9fab-e115852ab7d0",
+      "season": 11,
+      "number": 10,
+      "name": "Hjælp til gammelt hus",
+      "airdate": "2016-10-25"
+    },
+    {
+      "id": "065f6ad0-4794-43b4-9e17-2bb1a8afd037",
+      "season": 11,
+      "number": 11,
+      "name": "Personlighed i nybyggeriet",
+      "airdate": "2016-10-26"
+    },
+    {
+      "id": "f5986dda-63d3-46d2-8643-f07918905bed",
+      "season": 11,
+      "number": 12,
+      "name": "Sæsonfinale",
+      "airdate": "2016-10-26"
+    },
+    {
+      "id": "171f2d5e-2b60-484e-8d2d-44210b3782e6",
+      "season": 16,
+      "number": 1,
+      "name": "Nyt hjem til en flygtningefamilie",
+      "airdate": "2018-02-01"
+    },
+    {
+      "id": "eff768c1-cb00-47a6-a4a6-475d1a2972d3",
+      "season": 16,
+      "number": 2,
+      "name": "Fra 50'er skrot til moderne lejlighed",
+      "airdate": "2018-02-01"
+    },
+    {
+      "id": "594198b1-bb42-493e-80b3-502a55cddcac",
+      "season": 16,
+      "number": 3,
+      "name": "Skab en familielejlighed på få kvadratmeter",
+      "airdate": "2018-02-01"
+    },
+    {
+      "id": "4fad5c6c-4583-4196-bce7-aed52fb278f7",
+      "season": 16,
+      "number": 4,
+      "name": "Ingen skal bo kedeligt",
+      "airdate": "2018-02-02"
+    },
+    {
+      "id": "d7d18484-bcac-4394-9177-0f5874d42dc9",
+      "season": 16,
+      "number": 5,
+      "name": "Nu skal køkkenet sminkes",
+      "airdate": "2018-02-02"
+    },
+    {
+      "id": "b31f4a42-5b49-4acd-ac26-ca480f0f1d51",
+      "season": 16,
+      "number": 6,
+      "name": "Genfødsel af stuen",
+      "airdate": "2018-02-02"
+    },
+    {
+      "id": "a47821fc-7071-4b42-a155-433e5ceb89f8",
+      "season": 16,
+      "number": 7,
+      "name": "Loftrum bliver frisket op",
+      "airdate": "2018-02-05"
+    },
+    {
+      "id": "03a45e39-c1bc-4938-a5ed-c226ec124465",
+      "season": 16,
+      "number": 8,
+      "name": "Overfyldt hus med et lille køkken",
+      "airdate": "2018-02-05"
+    },
+    {
+      "id": "d545bc61-c150-40f9-b5de-edc1b84e48c1",
+      "season": 17,
+      "number": 1,
+      "name": "Fra gammel til moderne stue",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "10fa2953-f4f2-4ad3-ba71-158727415804",
+      "season": 17,
+      "number": 2,
+      "name": "Sommerhus i et med naturen",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "8321135e-45b1-4970-9ea4-3541b8b3fa6b",
+      "season": 17,
+      "number": 3,
+      "name": "Nyt dejligt udeområde",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "41897e19-7838-42e0-862c-6a07a6e5c275",
+      "season": 17,
+      "number": 4,
+      "name": "Et køkken med plads til hele familien",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "4f7b49ab-6585-48bf-ad31-6e484dee4eb5",
+      "season": 17,
+      "number": 5,
+      "name": "Nyt køkken i stuen",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "bf2e9d60-692d-497f-be75-09b040130e6d",
+      "season": 17,
+      "number": 6,
+      "name": "Et rum fyldt med vinduer",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "081c0f60-92c8-4705-92bf-18ff1fdee347",
+      "season": 17,
+      "number": 7,
+      "name": "Fra upraktisk loftrum til soveværelse",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "efae3671-d4ac-4001-83c9-495440c77f41",
+      "season": 17,
+      "number": 8,
+      "name": "Krog i haven bliver til havestue",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "a0fd3819-9418-492c-a563-b8024161bc3f",
+      "season": 17,
+      "number": 9,
+      "name": "Drømmen om et samtalekøkken",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "d95b48d7-0550-4415-8129-7fc8bf431c85",
+      "season": 17,
+      "number": 10,
+      "name": "Fra kedeligt kælderrum til mandehule",
+      "airdate": "2018-06-01"
+    },
+    {
+      "id": "03d2d2b9-22e4-4571-81e7-3a8371ac813f",
+      "season": 20,
+      "number": 1,
+      "name": "Et tapetseret loft",
+      "airdate": "2021-06-22"
+    },
+    {
+      "id": "f20d7eb0-f4d0-4ec8-9478-3dcc00e5fd12",
+      "season": 20,
+      "number": 2,
+      "name": "En ny planløsning",
+      "airdate": "2021-06-22"
+    },
+    {
+      "id": "87737da0-0bd7-4a34-8d29-c10c66848885",
+      "season": 20,
+      "number": 3,
+      "name": "Bambus for alle pengene",
+      "airdate": "2021-06-23"
+    },
+    {
+      "id": "34e6c331-a036-4378-a993-255ccb9a4629",
+      "season": 20,
+      "number": 4,
+      "name": "En rummelig spisestue",
+      "airdate": "2021-06-23"
+    },
+    {
+      "id": "41645c09-de73-46c4-b4c0-aeadf9647395",
+      "season": 20,
+      "number": 5,
+      "name": "Åbent køkken eller ej?",
+      "airdate": "2021-06-24"
+    },
+    {
+      "id": "63ddf746-a8e4-480f-a9bd-58ae216055a1",
+      "season": 20,
+      "number": 6,
+      "name": "Et ægte sommerparadis",
+      "airdate": "2021-06-24"
+    },
+    {
+      "id": "113f88f2-0898-4703-a88d-6b7eb11f4713",
+      "season": 20,
+      "number": 7,
+      "name": "Gammelt panel får nyt liv",
+      "airdate": "2021-06-25"
+    },
+    {
+      "id": "18bd5e91-0923-4768-a838-b7c9be56cb38",
+      "season": 20,
+      "number": 8,
+      "name": "Arbejderbolig med masser af historie",
+      "airdate": "2021-06-25"
+    },
+    {
+      "id": "a7e3cf4c-3f8f-4128-a49e-2f9efac4bf11",
+      "season": 20,
+      "number": 9,
+      "name": "Fra fortid til nutid",
+      "airdate": "2021-06-28"
+    },
+    {
+      "id": "b09afcf0-d284-4a06-ba5b-20ed1747f19b",
+      "season": 20,
+      "number": 10,
+      "name": "Landlig idyl",
+      "airdate": "2021-06-28"
+    },
+    {
+      "id": "654584a0-6663-4cfd-87c5-20ebf1106431",
+      "season": 20,
+      "number": 11,
+      "name": "Grønt er skønt",
+      "airdate": "2021-06-29"
+    },
+    {
+      "id": "08580077-547d-43bd-a7bc-3f1f4a30e402",
+      "season": 20,
+      "number": 12,
+      "name": "En hyggekrog i stuen",
+      "airdate": "2021-06-29"
+    }
+  ]
+}

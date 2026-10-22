@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:de-bedste-aar-tv2echo",
+  "name": "De bedste år",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ea31918d-e014-4a8a-a5cf-a8c1848a33b7",
+      "season": 1,
+      "number": 1,
+      "name": "Er vi pressede?",
+      "airdate": "2024-09-27"
+    },
+    {
+      "id": "a1e6fcac-ec13-49da-b8fc-e4276bde77b8",
+      "season": 1,
+      "number": 2,
+      "name": "Vi kan stadig",
+      "airdate": "2024-10-04"
+    },
+    {
+      "id": "f8ee0f30-dcc0-4865-8dbf-deedba0bd5d8",
+      "season": 1,
+      "number": 3,
+      "name": "Underskud",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "5cd3fcd6-ed82-4cf6-8acf-c803859347bc",
+      "season": 1,
+      "number": 4,
+      "name": "Hjemmehotel",
+      "airdate": "2024-10-18"
+    },
+    {
+      "id": "fa7de5bb-8f21-4d06-89c9-fcbf10f317e0",
+      "season": 1,
+      "number": 5,
+      "name": "Mathias' fødselsdag",
+      "airdate": "2024-10-25"
+    },
+    {
+      "id": "4f7e147a-c7b8-467d-b3d2-661237925ebe",
+      "season": 1,
+      "number": 6,
+      "name": "Farvel til Momme",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "46234511-b4dc-4bc0-9bcb-9bf29422fa64",
+      "season": 1,
+      "number": 7,
+      "name": "Nye muligheder",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "a98cd410-736f-4b3a-a786-9699e9209c69",
+      "season": 1,
+      "number": 8,
+      "name": "Forlovelsesfest",
+      "airdate": "2024-11-15"
+    },
+    {
+      "id": "6ea25775-2bff-4161-a92f-dbc6cf49c8e5",
+      "season": 2,
+      "number": 1,
+      "name": "Chamul og guddommelig kammusling",
+      "airdate": "2026-05-24"
+    },
+    {
+      "id": "7970e864-a67c-4341-857d-6c1681c7a42d",
+      "season": 2,
+      "number": 2,
+      "name": "Bajsel",
+      "airdate": "2026-05-31"
+    },
+    {
+      "id": "c22922ea-9958-477b-b1bd-afa02ad1bc7e",
+      "season": 2,
+      "number": 3,
+      "name": "Karma redder vores ryg",
+      "airdate": "2026-06-07"
+    },
+    {
+      "id": "a2958e16-710f-495f-844c-3feba0fa5979",
+      "season": 2,
+      "number": 4,
+      "name": "Fernet Branca og lussinger",
+      "airdate": "2026-06-14"
+    },
+    {
+      "id": "2d8c132f-b32d-45b8-8cc0-9ba5cc79b561",
+      "season": 2,
+      "number": 5,
+      "name": "Skoleteater",
+      "airdate": "2026-06-21"
+    },
+    {
+      "id": "ec5dd409-5069-4d7b-a35e-21cd5e8a2a92",
+      "season": 2,
+      "number": 6,
+      "name": "En ny stil",
+      "airdate": "2026-06-28"
+    },
+    {
+      "id": "d54629b1-2e19-4b10-ac45-e764aa89ddd6",
+      "season": 2,
+      "number": 7,
+      "name": "Halloween",
+      "airdate": "2026-07-05"
+    },
+    {
+      "id": "95feb265-5494-46b6-b555-20b4b372c149",
+      "season": 2,
+      "number": 8,
+      "name": "Aronn Diddy",
+      "airdate": "2026-07-12"
+    }
+  ]
+}

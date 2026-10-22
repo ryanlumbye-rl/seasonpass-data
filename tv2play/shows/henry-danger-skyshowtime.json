@@ -1,0 +1,885 @@
+{
+  "id": "tv2play:henry-danger-skyshowtime",
+  "name": "Henry Danger",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a109eff8-10df-4458-b584-6c9db17e48cc",
+      "season": 1,
+      "number": 1,
+      "name": "Faren Begynder - del 1",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "73945b70-1e2c-4025-98d3-322b1d070484",
+      "season": 1,
+      "number": 2,
+      "name": "Faren Begynder - del 2",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "deeb7fec-bf4a-478f-a8e9-4419990e3693",
+      "season": 1,
+      "number": 3,
+      "name": "Mere Fare, Flere Problemer",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "c59565e1-228f-4fef-ab1a-ee7f88b5be20",
+      "season": 1,
+      "number": 4,
+      "name": "Hemmeligheden Slipper ud",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "52a8c2b0-39d5-43fb-b761-67774fdccfaa",
+      "season": 1,
+      "number": 5,
+      "name": "Tårer fra den Lystige Bille",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "31f48a20-b764-42b1-8f89-c0a2ae9abeb7",
+      "season": 1,
+      "number": 6,
+      "name": "Vikaren",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "2c860a11-ee9c-4c16-b6d0-2c30b035daec",
+      "season": 1,
+      "number": 7,
+      "name": "Fare-Jasper",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "df4458c2-1920-40d7-b1c9-9fd305ce21a7",
+      "season": 1,
+      "number": 8,
+      "name": "Månestenen",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "277740f1-caf8-4064-af9d-76b7b8e3d658",
+      "season": 1,
+      "number": 9,
+      "name": "Den Faldne Fødselsdagspige",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "b2be256f-5a15-44d4-bef0-b3608b540ddc",
+      "season": 1,
+      "number": 10,
+      "name": "En Lidt For God Spiller",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "fdd7ea35-9702-448f-8cd2-4a9f6e302591",
+      "season": 1,
+      "number": 11,
+      "name": "Henry Menneskebæst",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "9bf1a4df-e5e7-4e4d-9956-9241d96579bf",
+      "season": 1,
+      "number": 12,
+      "name": "Usynlige Brad",
+      "airdate": "2022-03-12"
+    },
+    {
+      "id": "ea688ca2-9696-4d7d-8be8-6812fba5d81d",
+      "season": 1,
+      "number": 13,
+      "name": "Afsløreren",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "d9a7934c-02d2-42e9-b6da-3fb81d7a6fdc",
+      "season": 1,
+      "number": 14,
+      "name": "Præmietyveri",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "836f1b5f-ad13-419c-acfb-67b19d385801",
+      "season": 1,
+      "number": 15,
+      "name": "Supervulkanen",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "d06913e5-8070-4e65-a82d-6861f4f44c00",
+      "season": 1,
+      "number": 16,
+      "name": "Vold & Valentinsdag",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "eac59ada-0d67-4bd8-855e-52f0822201e0",
+      "season": 1,
+      "number": 17,
+      "name": "Fanget i Kælderen",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "47fa1de4-88c5-4dfb-8e17-29708b451248",
+      "season": 1,
+      "number": 18,
+      "name": "Elevatorkysset",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "17dc07e0-ad7b-49cc-aab4-30816cc5a7f7",
+      "season": 1,
+      "number": 19,
+      "name": "Manden i huset",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "53d9d017-a63d-4ba9-9f7b-af92dee02b34",
+      "season": 1,
+      "number": 20,
+      "name": "Drømmefangerne",
+      "airdate": "2022-03-26"
+    },
+    {
+      "id": "b4a79270-319d-4d1d-b88f-738273e688cf",
+      "season": 1,
+      "number": 21,
+      "name": "Superhelt i stuearrest",
+      "airdate": "2022-04-05"
+    },
+    {
+      "id": "d5e4266b-860f-49b9-89ae-2301ca1060d4",
+      "season": 1,
+      "number": 22,
+      "name": "Kaptajn Klovn",
+      "airdate": "2022-04-05"
+    },
+    {
+      "id": "fb5832b0-c92a-4b1a-b114-2b87161907d5",
+      "season": 1,
+      "number": 23,
+      "name": "Spandefælden",
+      "airdate": "2022-04-05"
+    },
+    {
+      "id": "a1d8f7c6-6977-4827-a197-e014ad3bbae7",
+      "season": 1,
+      "number": 24,
+      "name": "Henry og den slemme pige, del 1",
+      "airdate": "2022-04-05"
+    },
+    {
+      "id": "2ac6e1c2-72a9-423e-abe0-22ce2ec02e80",
+      "season": 1,
+      "number": 25,
+      "name": "Henry og den slemme pige, del 2",
+      "airdate": "2022-04-05"
+    },
+    {
+      "id": "2547308f-83f2-4aa5-8d70-19250c73dac4",
+      "season": 1,
+      "number": 26,
+      "name": "Jaspers virkelige kæreste",
+      "airdate": "2022-04-05"
+    },
+    {
+      "id": "51393156-c96f-4b06-9084-d00003d212fe",
+      "season": 2,
+      "number": 1,
+      "name": "Rytmerne Fortsætter",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "a2c3dd41-a859-4941-a220-00ac56689674",
+      "season": 2,
+      "number": 2,
+      "name": "Én Henry, tre Piger: Første del",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "96ff9c25-8efe-49b8-915b-134e617f08c8",
+      "season": 2,
+      "number": 3,
+      "name": "En Henry, tre Piger: Anden Del",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "64b5e982-098e-49f4-8d16-61da362aa2d1",
+      "season": 2,
+      "number": 4,
+      "name": "Henry og Sortspætterne",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "ed65ab21-9cc7-4a00-9993-0a24a48cb5df",
+      "season": 2,
+      "number": 5,
+      "name": "Kaptajn Mand: på Ferie",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "92cb452d-d264-4e74-979c-60d480e1f2be",
+      "season": 2,
+      "number": 6,
+      "name": "Tidsnarreren",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "f5dc9c44-a9c3-4f95-acb9-38a33619c3e9",
+      "season": 2,
+      "number": 7,
+      "name": "Den Hemmelige Bøf",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "5099702c-7e34-416a-ace1-ba38120df51f",
+      "season": 2,
+      "number": 8,
+      "name": "Misundelige Henry",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "96d7aa9b-27b3-4e03-9aab-1ee41fe511d7",
+      "season": 2,
+      "number": 9,
+      "name": "Julefaren",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "f285780c-bff2-4ad6-9ce1-99c57ca8dc48",
+      "season": 2,
+      "number": 10,
+      "name": "Uforgængelige Henry - 1. del",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "c58165eb-c318-4f1f-9f39-98f8a96c7de4",
+      "season": 2,
+      "number": 11,
+      "name": "Uforgængelige Henry - 2. del",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "1c0de670-a8b3-45c4-8d3d-3d3fafb42342",
+      "season": 2,
+      "number": 12,
+      "name": "SMS, Løgne og Video",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "75b94cb0-8546-437a-bf05-b180b9437cc7",
+      "season": 2,
+      "number": 13,
+      "name": "Det omvendte univers",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "25dfdbec-2d7e-4f22-9bf4-a02cf9598c20",
+      "season": 2,
+      "number": 14,
+      "name": "Fare og torden - 1. del",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "2cf3e89e-0dc9-444a-bdbb-35ebb12d155f",
+      "season": 2,
+      "number": 15,
+      "name": "Fare og torden - 2. del",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "04cf5fb4-fbf3-4bd0-bb5c-858583e474db",
+      "season": 2,
+      "number": 16,
+      "name": "Tvillinge-Henryer",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "21654728-7133-4d7c-b6af-fe61993d6ff8",
+      "season": 2,
+      "number": 17,
+      "name": "Gravalvorligt",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "88c60ec0-5072-4932-8ff5-c164ea51dc99",
+      "season": 2,
+      "number": 18,
+      "name": "Voldkopper",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "8b50e8a7-e72f-431d-831d-e264a709ebdd",
+      "season": 2,
+      "number": 19,
+      "name": "Jeg kender din hemmelighed",
+      "airdate": "2022-06-28"
+    },
+    {
+      "id": "920cedaa-4a66-4122-ac66-57668f91711f",
+      "season": 3,
+      "number": 1,
+      "name": "En Fiñata Fuld af Dødbringende Bier",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "fa67e616-83fe-4ff1-aa48-6613671ad331",
+      "season": 3,
+      "number": 2,
+      "name": "Bagværk med Bagtanker",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "e6ba88e7-d62d-4b6b-adc1-98078dd6726c",
+      "season": 3,
+      "number": 3,
+      "name": "Skrigemaskinen",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "467a417e-f9cc-4f15-83aa-b36ddab85dd2",
+      "season": 3,
+      "number": 4,
+      "name": "Frittlesproblemet",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "df2ba2eb-c5b1-48ff-895d-537ce7fddafa",
+      "season": 3,
+      "number": 5,
+      "name": "Slikmund",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "92fa4159-b1ba-411b-969c-e31e8c4e0054",
+      "season": 3,
+      "number": 6,
+      "name": "Årsprøve",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "dc271ad2-cbc6-432a-8e04-bfe08222081e",
+      "season": 3,
+      "number": 7,
+      "name": "Timens Kraft, Første Del",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "217cbb88-3acf-44bf-9d2f-f210122025b9",
+      "season": 3,
+      "number": 9,
+      "name": "Jam-Session",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "65a67513-c64f-44bd-b91e-d5c3c5ab0056",
+      "season": 3,
+      "number": 10,
+      "name": "Grønne Fingre",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "69fc5056-76f8-4987-8abb-bb3c7a80bfb0",
+      "season": 3,
+      "number": 11,
+      "name": "Duk og Kast-drengen",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "0dfef078-8711-4557-96e6-35dfdbfbb7cc",
+      "season": 3,
+      "number": 12,
+      "name": "Ruminvasion, Første del",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "cce41072-91fd-42bf-8cbc-e1c296ca0a96",
+      "season": 3,
+      "number": 13,
+      "name": "Ruminvasion, Anden del",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "d878cfa8-5497-4ee5-9751-c7a1bbb97e6a",
+      "season": 3,
+      "number": 14,
+      "name": "Dobbeltdate",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "760ec799-2264-4451-bfcc-1e160f0c894c",
+      "season": 3,
+      "number": 15,
+      "name": "Flyvetilladelse",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "1c9a8db5-1017-4c18-afad-30e47a82418d",
+      "season": 3,
+      "number": 16,
+      "name": "Swellview har Talent",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "a881362f-c849-4121-ad8c-1e708cb26b43",
+      "season": 3,
+      "number": 17,
+      "name": "Fanget i to Huller",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "ee11f44f-0aff-4dfc-a97e-154f33e184c2",
+      "season": 3,
+      "number": 18,
+      "name": "Dommedagsballonerne",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "a60a0e10-d5c9-4420-9a6f-1977a4ac60ca",
+      "season": 3,
+      "number": 19,
+      "name": "Direkte Farlig, Første del",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "f3a4b598-bc4a-46ec-91ed-492d359c8ab9",
+      "season": 3,
+      "number": 20,
+      "name": "Direkte Farlig, Anden del",
+      "airdate": "2022-08-02"
+    },
+    {
+      "id": "639df5c3-280e-4afd-895c-e9d474eb0f76",
+      "season": 4,
+      "number": 1,
+      "name": "Farespillet - del 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "dacb5313-bb9c-4e1a-9589-c7b5da9e6471",
+      "season": 4,
+      "number": 2,
+      "name": "Farespillet - del 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "547dad08-d34f-4f4f-b978-900064a5d8b9",
+      "season": 4,
+      "number": 3,
+      "name": "Farespillet - del 3",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ed6e7b35-192e-4ecf-95da-036ded41e339",
+      "season": 4,
+      "number": 4,
+      "name": "Sygt nok",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "9d293706-85ff-4cb5-905d-0916a0a194a1",
+      "season": 4,
+      "number": 5,
+      "name": "Bøllebank på gangen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "7d7f93c1-de51-476a-b1b1-5458b4b9c7dc",
+      "season": 4,
+      "number": 6,
+      "name": "Sten-udfordringen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "4cd3c89b-8067-4d84-989f-e480b794cf3c",
+      "season": 4,
+      "number": 7,
+      "name": "Tilbage til faren - del 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "7fa6ac79-152f-42c0-98ca-c6916698504d",
+      "season": 4,
+      "number": 8,
+      "name": "Tilbage til faren - del 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "863499af-23e7-481f-aced-7b9d6db37d4f",
+      "season": 4,
+      "number": 9,
+      "name": "Gummiand",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "f8d1c9fc-a9bf-448a-9c49-d29acdd098ac",
+      "season": 4,
+      "number": 10,
+      "name": "Budgetnedskæringer",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "3babe3d9-cf08-455c-9795-787ffc1c02cb",
+      "season": 4,
+      "number": 11,
+      "name": "Nye begyndelser",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ee787de4-6019-4901-897f-340735b46a3d",
+      "season": 4,
+      "number": 12,
+      "name": "På tur",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "8a1ae85d-e943-4a7b-bc6b-de9a1aa8d11a",
+      "season": 4,
+      "number": 13,
+      "name": "Tommelkrigen - del 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "11706588-2973-42ff-b766-9d56cf25a1eb",
+      "season": 4,
+      "number": 14,
+      "name": "Lørdagsaftens løgne",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "67afaf1e-9a25-4b4e-b7d0-e610fb93a500",
+      "season": 4,
+      "number": 15,
+      "name": "Henrys sprøde problem",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "3b892c90-9fbd-488e-a0ee-fa51f42eb95d",
+      "season": 4,
+      "number": 16,
+      "name": "Tumlingeinvasion",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a5bb7ef4-1df7-4647-9ebe-c94bf743785b",
+      "season": 4,
+      "number": 17,
+      "name": "Juvelerne er til Heather",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a7c859ac-b11c-45ca-8707-a35596981b11",
+      "season": 4,
+      "number": 18,
+      "name": "En \"mød-sød\" forelskelse",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "1253fa3c-e327-45c2-8251-225fcee50944",
+      "season": 4,
+      "number": 19,
+      "name": "Stavekonkurrencen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b79b989c-de9d-45cd-9ded-d0d80e643726",
+      "season": 4,
+      "number": 20,
+      "name": "Kaptajn Mankini",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ce45dc6c-ff76-407e-86b1-fcba3793057d",
+      "season": 4,
+      "number": 21,
+      "name": "Tommelkrigen - del 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "f0f8f298-7766-43dc-8ca4-271b46a2fbc7",
+      "season": 4,
+      "number": 22,
+      "name": "Op ad trapperne",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c8662d3a-ffa2-40d7-98f1-047c53c5e5c1",
+      "season": 5,
+      "number": 1,
+      "name": "Slaskegas",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "05663f61-8ebf-4b96-87d9-198050dea96a",
+      "season": 5,
+      "number": 2,
+      "name": "Farlige ting",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ad1dee65-6cce-4dc6-9e61-5c7fee1701e4",
+      "season": 5,
+      "number": 3,
+      "name": "Henrys fødselsdag",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "4a3c18d4-d73a-4777-a516-fe588425ae7b",
+      "season": 5,
+      "number": 4,
+      "name": "Fløjtende Susie",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "aac0bc8e-1cb2-4f48-abcf-99b0661d9661",
+      "season": 5,
+      "number": 5,
+      "name": "Den store kaktusmesse",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "92e57d4f-7bb4-49e6-9318-ad7810c7a3ac",
+      "season": 5,
+      "number": 6,
+      "name": "Kraftløs - Første del: En ny ondskab",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "97a31230-ec91-40ff-aa98-f1ade84b1007",
+      "season": 5,
+      "number": 7,
+      "name": "Kraftløs - Anden del: Et nyt mærke",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "cbc5f279-95bc-43db-96cf-af3eb19c5059",
+      "season": 5,
+      "number": 8,
+      "name": "Kraftløs - Tredje del: En ny helt",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b31087fe-326d-451f-bf8d-9e8c7fadccc5",
+      "season": 5,
+      "number": 9,
+      "name": "Ridderbesøg",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "7b9b880b-2961-4cc7-a7fd-4dc273330633",
+      "season": 5,
+      "number": 10,
+      "name": "Farlig som en brækket arm",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "f663d1fd-0fb7-4ee4-bb09-0783597ffa65",
+      "season": 5,
+      "number": 11,
+      "name": "Det store fugletyveri",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "d63fbc1f-2e6f-476b-ad44-df97dd4e350e",
+      "season": 5,
+      "number": 12,
+      "name": "Hele familien Bilsky",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "8be8dc5b-9fad-4851-851e-135bc449239b",
+      "season": 5,
+      "number": 13,
+      "name": "Hemmeligt rum",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b062ef7d-5965-42b7-9ff2-8bb232c044bb",
+      "season": 5,
+      "number": 14,
+      "name": "Min middag med Bigfoot",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "3af123bb-2698-4b1e-ae0d-3ceffcbcdd75",
+      "season": 5,
+      "number": 15,
+      "name": "Charlotte spøger",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2c10490e-15a8-484a-a9d4-f55a73894ed1",
+      "season": 5,
+      "number": 16,
+      "name": "Jeg drømmer om fare",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "1210eb71-e0ce-4e8e-97ee-0d49a5de7e24",
+      "season": 5,
+      "number": 17,
+      "name": "Muldvarpefolket",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "4dd173ab-4afb-449d-8702-3d901e5846cc",
+      "season": 5,
+      "number": 18,
+      "name": "Kærlighedsbits",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "72af1802-108d-4d9a-81de-6649eae732b5",
+      "season": 5,
+      "number": 19,
+      "name": "Dobbelt fare",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c2174ed7-2282-470c-a39d-0a362e801a9b",
+      "season": 5,
+      "number": 20,
+      "name": "Massagestol",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "eb5a7464-35d9-4cca-957d-bfedf2251111",
+      "season": 5,
+      "number": 21,
+      "name": "Musicallen: Del 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "69a7aade-1742-4efd-8edb-04c26fe7ccab",
+      "season": 5,
+      "number": 22,
+      "name": "Musicallen: Del 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "909c3251-f508-4c1a-b89a-3e59fd646dad",
+      "season": 5,
+      "number": 23,
+      "name": "Historien om to gange Piper",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a69fe6e8-713f-4538-9256-242ef527d00a",
+      "season": 5,
+      "number": 24,
+      "name": "Søsterbøvl: Del 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "0cb69569-fe1d-43e4-ba90-bc013d4743f7",
+      "season": 5,
+      "number": 25,
+      "name": "Søsterbøvl: Del 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "112ba68b-07a6-4f78-a112-39de54c38d7a",
+      "season": 5,
+      "number": 26,
+      "name": "Kaptajn Mor",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "9decefe0-5cb0-4deb-a8eb-c768556e52b8",
+      "season": 5,
+      "number": 28,
+      "name": "Historietank",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2b2a114e-8ad0-41ff-a1af-671bdb2819a0",
+      "season": 5,
+      "number": 29,
+      "name": "Højtidstæsk",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "5fdca2a0-2948-4d5c-8009-e91c11e9d136",
+      "season": 5,
+      "number": 30,
+      "name": "Misundelsesmuren",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "d8693ef8-2ad7-4c95-a270-59aafc49a608",
+      "season": 5,
+      "number": 31,
+      "name": "Hr. Flinkofyr",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "acc7e790-7b75-457f-92b3-88d08385ca7e",
+      "season": 5,
+      "number": 32,
+      "name": "Theranos sko",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ec7c0435-da13-4d68-b40d-b973f37afd2b",
+      "season": 5,
+      "number": 33,
+      "name": "Dobbeltkamp",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "1ab8daeb-51a5-4815-9c6d-3b64d80dc46c",
+      "season": 5,
+      "number": 34,
+      "name": "En huledate",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "34d96763-388b-4fe9-93ae-baf49ccb481f",
+      "season": 5,
+      "number": 35,
+      "name": "Telefonernes kamp",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "0bb0201e-392e-47b2-b85b-e9fb68842d60",
+      "season": 5,
+      "number": 36,
+      "name": "Escape Room",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "560c8157-2d70-47a1-9a85-40f4e964ea15",
+      "season": 5,
+      "number": 37,
+      "name": "Begyndelsen på enden",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "1343c1a0-3872-4d31-836b-d366c91f6849",
+      "season": 5,
+      "number": 38,
+      "name": "Kaptajn Drex",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "aebf2f09-2f88-4a73-bdc8-0f0009b39fb7",
+      "season": 5,
+      "number": 39,
+      "name": "Faredrengens skæbne: Del 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "da322ccf-6a0d-4296-a63e-d7e0d8dc6920",
+      "season": 5,
+      "number": 40,
+      "name": "Faredrengens skæbne: Del 2",
+      "airdate": "2023-03-15"
+    }
+  ]
+}

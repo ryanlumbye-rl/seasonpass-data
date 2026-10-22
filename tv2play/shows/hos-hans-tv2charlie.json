@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:hos-hans-tv2charlie",
+  "name": "Hos Hans",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8fe0f58e-651c-48c2-a0b9-7fa7cfd4b266",
+      "season": 2,
+      "number": 1,
+      "name": "Med Mikkel Kessler, Michael Maze, Anne Louise Hassing og Lars Hjortshøj",
+      "airdate": "2019-09-16"
+    },
+    {
+      "id": "e22b23b8-f259-4af8-889a-11fc9c829c7d",
+      "season": 2,
+      "number": 2,
+      "name": "Med Andreas Bo, Janni Pedersen og Birthe Kjær",
+      "airdate": "2019-09-16"
+    },
+    {
+      "id": "f8fce905-8f1c-4804-a3be-fa5ad82832dd",
+      "season": 2,
+      "number": 3,
+      "name": "Medina, Nicolas Bro, Nikolaj Lie Kaas",
+      "airdate": "2019-09-23"
+    },
+    {
+      "id": "fc5160f8-e895-4e62-8db3-9647b641722f",
+      "season": 2,
+      "number": 4,
+      "name": "Lærke Winther, Thomas Skov og Nikolaj Koppel",
+      "airdate": "2019-09-30"
+    },
+    {
+      "id": "bf31ef28-edf7-49f0-b368-c98508cd0e73",
+      "season": 2,
+      "number": 5,
+      "name": "Mikkel Beha Erichsen, Jonatan Spang og Christian Tafdrup",
+      "airdate": "2019-10-07"
+    },
+    {
+      "id": "445a3992-a95f-49cb-bacf-0ce007c09ce2",
+      "season": 2,
+      "number": 6,
+      "name": "Lina Rafn, Sebastian Klein og Søren Huss",
+      "airdate": "2019-10-14"
+    },
+    {
+      "id": "8e30080c-b2f7-4851-b408-c426c4b3cb64",
+      "season": 2,
+      "number": 7,
+      "name": "Sanne Salomonsen, Susse Wold, Christian Mørk og Huxi Bach",
+      "airdate": "2019-10-21"
+    },
+    {
+      "id": "858a17ac-fa52-4e83-a7be-58124d0c88fa",
+      "season": 2,
+      "number": 8,
+      "name": "Jens Jørn Spottag, Peter Lund Madsen og Thomas Warberg",
+      "airdate": "2019-10-28"
+    },
+    {
+      "id": "f29e20b1-9c75-4dbd-b193-4ca17eb37151",
+      "season": 2,
+      "number": 9,
+      "name": "Mette Frederiksen, Rune Klan og Preben Kristensen",
+      "airdate": "2019-11-04"
+    },
+    {
+      "id": "cad1ae72-2512-46f5-914d-d5c5eb7d7b82",
+      "season": 2,
+      "number": 10,
+      "name": "Lis Sørensen, Ole Henriksen og Rane Willerslev",
+      "airdate": "2019-11-11"
+    }
+  ]
+}

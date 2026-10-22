@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:reddet-tv2",
+  "name": "Reddet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "395fdc43-43e2-4116-a049-0d54c357b983",
+      "season": 3,
+      "number": 1,
+      "name": "I skal finde min mand",
+      "airdate": "2025-05-28"
+    },
+    {
+      "id": "564746da-0784-4ac9-8832-11542c21b846",
+      "season": 3,
+      "number": 2,
+      "name": "Bevægelse i terrænet",
+      "airdate": "2025-05-28"
+    },
+    {
+      "id": "71b5ee54-09d8-4e76-a0ab-440e135637b1",
+      "season": 3,
+      "number": 3,
+      "name": "Mayday i mørket",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "50b810f0-a475-4449-8119-7d4db0e4c56b",
+      "season": 3,
+      "number": 4,
+      "name": "Redningsaktion i isnende kulde",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "35f98505-cbb7-41e5-b968-b16c9b3824f8",
+      "season": 3,
+      "number": 5,
+      "name": "Levende begravet",
+      "airdate": "2025-05-30"
+    },
+    {
+      "id": "e94bbf8e-f6ce-4ed3-84b5-434ca8176da8",
+      "season": 3,
+      "number": 6,
+      "name": "Nød i nærheden",
+      "airdate": "2025-05-30"
+    },
+    {
+      "id": "98b19661-7488-41ff-95f0-9fbb8b5d73d5",
+      "season": 3,
+      "number": 7,
+      "name": "De udvalgte",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "fed3e7ef-2b5d-406a-a800-2a85fe7dc6a5",
+      "season": 3,
+      "number": 8,
+      "name": "Jordskredet i Vistdalen",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "fbc31d24-b76a-4326-af5c-2aa794e71e53",
+      "season": 3,
+      "number": 9,
+      "name": "Fanget i jordmasserne",
+      "airdate": "2025-06-03"
+    },
+    {
+      "id": "f2251c82-08b0-47ca-8283-27104e78ba44",
+      "season": 3,
+      "number": 10,
+      "name": "Travl påske",
+      "airdate": "2025-06-03"
+    },
+    {
+      "id": "cde7313e-be7e-46e4-8c1d-db4b6e2c3445",
+      "season": 3,
+      "number": 11,
+      "name": "Snescooterulykke på Svalbard",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "4b14acf2-cac9-43fc-8079-b4a0b920674c",
+      "season": 3,
+      "number": 12,
+      "name": "Et fejltrin",
+      "airdate": "2025-06-04"
+    },
+    {
+      "id": "d96a71f9-9ba9-430f-ab93-7adddca90bf6",
+      "season": 4,
+      "number": 1,
+      "name": "Når redningsmanden må reddes",
+      "airdate": "2026-04-24"
+    },
+    {
+      "id": "2a9b1404-c215-4344-afbd-7554b8e853fe",
+      "season": 4,
+      "number": 2,
+      "name": "Det er en af vores egne",
+      "airdate": "2026-04-24"
+    },
+    {
+      "id": "1530e343-a63e-4c5f-aea3-093e0ccc4459",
+      "season": 4,
+      "number": 3,
+      "name": "Fanget i mørket",
+      "airdate": "2026-04-27"
+    },
+    {
+      "id": "f5307f0f-98e2-4fb5-87d7-129b063f3022",
+      "season": 4,
+      "number": 4,
+      "name": "På vildspor",
+      "airdate": "2026-04-28"
+    },
+    {
+      "id": "aeb2065d-22b0-4bba-a3c5-8c38e8882587",
+      "season": 4,
+      "number": 5,
+      "name": "En dårlig mavefornemmelse",
+      "airdate": "2026-04-28"
+    },
+    {
+      "id": "48e5840e-a0e4-4e59-956d-305067727b31",
+      "season": 4,
+      "number": 6,
+      "name": "Kritiske minutter",
+      "airdate": "2026-04-28"
+    },
+    {
+      "id": "eb281aeb-cb89-4555-9f5d-02619e42b088",
+      "season": 4,
+      "number": 7,
+      "name": "Hold fast",
+      "airdate": "2026-04-29"
+    },
+    {
+      "id": "b99d827e-ad60-4053-9312-a2a3435a54ca",
+      "season": 4,
+      "number": 8,
+      "name": "Trollveggen",
+      "airdate": "2026-04-29"
+    },
+    {
+      "id": "3eb77053-907f-40b0-b89a-044430a44523",
+      "season": 4,
+      "number": 9,
+      "name": "Hjertestop i sneen",
+      "airdate": "2026-04-30"
+    },
+    {
+      "id": "543cde26-90cd-4f12-b2d4-8bd6fcc0c627",
+      "season": 4,
+      "number": 10,
+      "name": "Uudholdelige smerter",
+      "airdate": "2026-04-30"
+    },
+    {
+      "id": "34814d84-dcf4-4800-a9c5-dd051128e23c",
+      "season": 4,
+      "number": 11,
+      "name": "Alvorligt skadet til søs",
+      "airdate": "2026-05-01"
+    },
+    {
+      "id": "09f1b9d4-e758-4492-a4f7-83d9c6349da8",
+      "season": 4,
+      "number": 12,
+      "name": "I nød uden dækning",
+      "airdate": "2026-05-01"
+    }
+  ]
+}

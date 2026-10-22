@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:klar-til-krig-tv2play",
+  "name": "Klar til krig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c71aa5be-1719-49d2-a3d1-085eb31f1585",
+      "season": 1,
+      "number": 1,
+      "name": "Hæren",
+      "airdate": "2026-06-07"
+    },
+    {
+      "id": "0715cc63-c12f-4c3d-ab89-a28f817b5cbc",
+      "season": 1,
+      "number": 2,
+      "name": "Flyvevåbnet",
+      "airdate": "2026-06-14"
+    },
+    {
+      "id": "6f827cb8-95d7-4920-9de7-24d2e66d75d8",
+      "season": 1,
+      "number": 3,
+      "name": "Søværnet",
+      "airdate": "2026-06-21"
+    }
+  ]
+}

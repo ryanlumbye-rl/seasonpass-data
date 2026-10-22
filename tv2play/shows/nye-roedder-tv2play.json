@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:nye-roedder-tv2play",
+  "name": "Nye rødder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "05378352-f59d-4d4d-92aa-e49bf2233a3e",
+      "season": 1,
+      "number": 1,
+      "name": "João Møller",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "9c7fa445-3be2-4650-9b23-7420a81712cc",
+      "season": 1,
+      "number": 2,
+      "name": "David Christensen",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "d6386f4d-c9fb-40ba-8661-c60365281124",
+      "season": 1,
+      "number": 3,
+      "name": "Friedemann Albrecht",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "75390028-5dd1-4206-a415-184bb048784a",
+      "season": 1,
+      "number": 4,
+      "name": "Gosia Hojka",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "b664d4b5-ff9f-4643-ac48-437a624ae187",
+      "season": 1,
+      "number": 5,
+      "name": "In Kyong Lee",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "a88da2e9-cdcf-4a2e-b7a2-31e0d7a8b875",
+      "season": 1,
+      "number": 6,
+      "name": "Mathias Kjærgaard",
+      "airdate": "2026-09-10"
+    }
+  ]
+}

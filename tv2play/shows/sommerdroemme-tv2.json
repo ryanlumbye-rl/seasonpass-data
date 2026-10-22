@@ -1,0 +1,346 @@
+{
+  "id": "tv2play:sommerdroemme-tv2",
+  "name": "Sommerdrømme",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1d086ec1-db23-43ab-bcfe-2393c299a6b7",
+      "season": 1,
+      "number": 1,
+      "name": "Et rum til sommerdrømme - soveværelset",
+      "airdate": "2020-04-01"
+    },
+    {
+      "id": "f63ed826-72c7-4491-9bbd-ef1e3e61ed87",
+      "season": 1,
+      "number": 2,
+      "name": "Terrasse er lig med travlhed",
+      "airdate": "2020-04-01"
+    },
+    {
+      "id": "87ecc357-420a-435a-b0e1-a05fcf3c93cf",
+      "season": 1,
+      "number": 3,
+      "name": "Tørretider og skæve fliser - badeværelse",
+      "airdate": "2020-04-08"
+    },
+    {
+      "id": "8b5638fe-7041-4ebc-8e34-fe3504544540",
+      "season": 1,
+      "number": 4,
+      "name": "Hyggens højborg - stuen",
+      "airdate": "2020-04-15"
+    },
+    {
+      "id": "3cabbc70-6ae6-42e6-8e5b-6e0c085fb477",
+      "season": 1,
+      "number": 5,
+      "name": "Husets hjerterum - køkkenalrum",
+      "airdate": "2020-04-22"
+    },
+    {
+      "id": "b3c30cc8-9290-4666-99e5-bc5377475011",
+      "season": 1,
+      "number": 6,
+      "name": "Dobbelt op på kreativiteten - to værelser",
+      "airdate": "2020-04-29"
+    },
+    {
+      "id": "e5bf0a19-faf6-4730-8951-eccb145c8342",
+      "season": 1,
+      "number": 7,
+      "name": "Ude godt, hjemme bedst - uderum",
+      "airdate": "2020-05-06"
+    },
+    {
+      "id": "5b0f26dc-7945-4351-ad1b-a96242873471",
+      "season": 1,
+      "number": 8,
+      "name": "Et sommerhus til to mio. kr.",
+      "airdate": "2020-05-20"
+    },
+    {
+      "id": "d2afcc90-dc97-494f-b8a5-76e5e50367ec",
+      "season": 2,
+      "number": 1,
+      "name": "Soveværelset",
+      "airdate": "2021-04-07"
+    },
+    {
+      "id": "49b771b3-6097-47c2-99fc-0dcfde9f4769",
+      "season": 2,
+      "number": 2,
+      "name": "Badeværelset",
+      "airdate": "2021-04-07"
+    },
+    {
+      "id": "c444ac38-e5dd-4ac7-b760-06eb6f0593b5",
+      "season": 2,
+      "number": 3,
+      "name": "Terrassen",
+      "airdate": "2021-04-14"
+    },
+    {
+      "id": "b702ff75-6a2c-4890-905e-d6677bd322f6",
+      "season": 2,
+      "number": 4,
+      "name": "Stue og entré",
+      "airdate": "2021-04-21"
+    },
+    {
+      "id": "368d8628-b461-4d1d-b10f-4639d7e55664",
+      "season": 2,
+      "number": 5,
+      "name": "Køkkenalrum",
+      "airdate": "2021-04-28"
+    },
+    {
+      "id": "89e78759-90e3-4e96-ba19-872d4e3dc854",
+      "season": 2,
+      "number": 6,
+      "name": "To værelser",
+      "airdate": "2021-05-05"
+    },
+    {
+      "id": "717a88f2-1928-47fc-859f-2c9758efdfcf",
+      "season": 2,
+      "number": 7,
+      "name": "Uderummet",
+      "airdate": "2021-05-12"
+    },
+    {
+      "id": "b3e3755f-9b65-4d78-bb4c-270c58a827f4",
+      "season": 2,
+      "number": 8,
+      "name": "Og vinderne er…",
+      "airdate": "2021-05-19"
+    },
+    {
+      "id": "ec3de149-dbd2-465b-bc0a-e6cdd9a47a2c",
+      "season": 3,
+      "number": 1,
+      "name": "Soveværelset",
+      "airdate": "2022-03-23"
+    },
+    {
+      "id": "05449f20-2eba-46a0-8498-6b5c6198a7ac",
+      "season": 3,
+      "number": 2,
+      "name": "Terrassen",
+      "airdate": "2022-03-23"
+    },
+    {
+      "id": "4a42f821-95a7-41cf-8d8c-260145dfe469",
+      "season": 3,
+      "number": 3,
+      "name": "Badeværelset",
+      "airdate": "2022-03-30"
+    },
+    {
+      "id": "5d54015a-7230-457c-b4c3-d56d63d50976",
+      "season": 3,
+      "number": 4,
+      "name": "Stue, alkove og entré",
+      "airdate": "2022-04-06"
+    },
+    {
+      "id": "12389f3f-f561-4a27-88c1-4420a3bb6dce",
+      "season": 3,
+      "number": 5,
+      "name": "Køkkenalrum",
+      "airdate": "2022-04-13"
+    },
+    {
+      "id": "f9427aa8-c812-46b0-b9ef-0c5ff4b9cb1e",
+      "season": 3,
+      "number": 6,
+      "name": "To ekstra værelser",
+      "airdate": "2022-04-20"
+    },
+    {
+      "id": "e0f112f2-75dc-4579-9760-851de3185b7f",
+      "season": 3,
+      "number": 7,
+      "name": "Uderum",
+      "airdate": "2022-04-27"
+    },
+    {
+      "id": "3e92b4d3-ab89-479e-a18f-2753bd67286c",
+      "season": 3,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2022-05-04"
+    },
+    {
+      "id": "a91636f8-1901-4e02-857c-f2b9da0d90ff",
+      "season": 4,
+      "number": 1,
+      "name": "Soveværelset",
+      "airdate": "2023-03-01"
+    },
+    {
+      "id": "d4262c8a-674b-4ce2-b58c-d8cac3522ce4",
+      "season": 4,
+      "number": 2,
+      "name": "Terrassen",
+      "airdate": "2023-03-08"
+    },
+    {
+      "id": "7135fe46-2768-4623-9bb2-f816a5c43218",
+      "season": 4,
+      "number": 3,
+      "name": "Badeværelset",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "26894295-c101-472c-90a5-8e26d522ca6d",
+      "season": 4,
+      "number": 4,
+      "name": "Stuen og entreen",
+      "airdate": "2023-03-22"
+    },
+    {
+      "id": "11039605-61b6-49b3-b164-d09022360b23",
+      "season": 4,
+      "number": 5,
+      "name": "Køkkenet",
+      "airdate": "2023-03-29"
+    },
+    {
+      "id": "0b4bb4e4-7775-4a67-a303-bd6bc4f9140d",
+      "season": 4,
+      "number": 6,
+      "name": "Værelserne",
+      "airdate": "2023-04-05"
+    },
+    {
+      "id": "23cf4034-8f85-44ee-b98c-8905ec65406d",
+      "season": 4,
+      "number": 7,
+      "name": "Uderummet",
+      "airdate": "2023-04-12"
+    },
+    {
+      "id": "a257cbb5-3596-45ca-b6be-b9317f9be7a8",
+      "season": 4,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2023-04-19"
+    },
+    {
+      "id": "63bc5134-4e00-4d97-9a81-797b3098fa72",
+      "season": 5,
+      "number": 1,
+      "name": "Soveværelset",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "6a7d0eae-e4e4-4444-a1a6-b88c8655f5e1",
+      "season": 5,
+      "number": 2,
+      "name": "Terrassen",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "0e538941-a508-491c-9298-9008d5e1c268",
+      "season": 5,
+      "number": 3,
+      "name": "Badeværelset og entreen",
+      "airdate": "2024-05-02"
+    },
+    {
+      "id": "cdabe336-fa41-4e01-bd71-a57f895c113e",
+      "season": 5,
+      "number": 4,
+      "name": "Hobbyrummet",
+      "airdate": "2024-05-09"
+    },
+    {
+      "id": "73f3bbfc-0cd9-48e2-80c6-d2aefaf5058d",
+      "season": 5,
+      "number": 5,
+      "name": "Køkken-alrummet",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "f7af4db4-a346-4bd6-9ddf-bfdfcc739df9",
+      "season": 5,
+      "number": 6,
+      "name": "Stuen og værelset",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "2c6b3a5c-a85c-4359-998d-3daa5ba9a55d",
+      "season": 5,
+      "number": 7,
+      "name": "Uderummet",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "62b95108-fff4-42da-b288-a4c410add58c",
+      "season": 5,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2024-06-06"
+    },
+    {
+      "id": "3b055dbb-b308-469d-aef8-32e3fc347a15",
+      "season": 6,
+      "number": 1,
+      "name": "Husauktionen og soveværelset",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "c83d9c44-903a-42d0-a401-0895f3619628",
+      "season": 6,
+      "number": 2,
+      "name": "Køkkenet",
+      "airdate": "2026-03-11"
+    },
+    {
+      "id": "a15a9fd0-a5ba-4151-af9d-5edafe04b3c7",
+      "season": 6,
+      "number": 3,
+      "name": "Uderummet",
+      "airdate": "2026-03-18"
+    },
+    {
+      "id": "86589521-bc3d-430b-a97a-5fc8c7846835",
+      "season": 6,
+      "number": 4,
+      "name": "Badeværelset",
+      "airdate": "2026-03-25"
+    },
+    {
+      "id": "7fda72cd-c8b9-4ec8-8c04-80e11edc7948",
+      "season": 6,
+      "number": 5,
+      "name": "Værelserne",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "ad3b1e14-2bd4-437d-a176-3170ec00f5a9",
+      "season": 6,
+      "number": 6,
+      "name": "Stuen",
+      "airdate": "2026-04-08"
+    },
+    {
+      "id": "d28252e2-ff83-492d-b914-5fe464c7c844",
+      "season": 6,
+      "number": 7,
+      "name": "Haven",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "52be62f0-f496-4883-8501-a13a64fad115",
+      "season": 6,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2026-04-22"
+    }
+  ]
+}

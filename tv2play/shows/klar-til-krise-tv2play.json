@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:klar-til-krise-tv2play",
+  "name": "Klar til krise",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0a52c02f-4d79-4de4-9301-288ab6e49574",
+      "season": 1,
+      "number": 1,
+      "name": "Massebegravelser og prepping",
+      "airdate": "2026-04-13"
+    },
+    {
+      "id": "6bfdbc53-21a7-4341-84b6-822e94530877",
+      "season": 1,
+      "number": 2,
+      "name": "Alarmklokker og kriseplaner",
+      "airdate": "2026-04-13"
+    },
+    {
+      "id": "4c25e878-ab30-450a-8970-388bcd6833f5",
+      "season": 1,
+      "number": 3,
+      "name": "Dåsevand og overlevelse",
+      "airdate": "2026-04-13"
+    }
+  ]
+}

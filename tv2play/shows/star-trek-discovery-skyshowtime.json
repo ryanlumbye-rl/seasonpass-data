@@ -1,0 +1,465 @@
+{
+  "id": "tv2play:star-trek-discovery-skyshowtime",
+  "name": "Star Trek: Discovery",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "81921c57-ab1e-4c97-a514-27d7a9f11d79",
+      "season": 1,
+      "number": 1,
+      "name": "The Vulcan Hello",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "31850735-6b77-4261-bee6-173200f95a96",
+      "season": 1,
+      "number": 2,
+      "name": "Battle at the Binary Stars",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "6c1f32f2-b5ae-4db7-b961-5732624678f7",
+      "season": 1,
+      "number": 3,
+      "name": "Context Is For Kings",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "a9722cae-5796-4504-a663-44655f88975b",
+      "season": 1,
+      "number": 4,
+      "name": "The Butcher's Knife Cares Not for the Lamb's Cry",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "fc34d227-2a77-40d8-b8fc-71a3abad9f47",
+      "season": 1,
+      "number": 5,
+      "name": "Choose Your Pain",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "d976f6d4-7209-40f1-bef8-3248df6ca38a",
+      "season": 1,
+      "number": 6,
+      "name": "Lethe",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "14051b52-fec7-4f40-a2c6-37738c1a0d9f",
+      "season": 1,
+      "number": 7,
+      "name": "Magic to Make the Sanest Man Go Mad",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "1f7cf2bb-67f9-45fa-9ba6-5e20ca231919",
+      "season": 1,
+      "number": 8,
+      "name": "Si Vis Pacem, Para Bellum",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "f91bad69-efdb-420d-92e7-b1240a346142",
+      "season": 1,
+      "number": 9,
+      "name": "Into the Forest I Go",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "5e58f147-9961-4bb2-afba-d16bdfa410da",
+      "season": 1,
+      "number": 10,
+      "name": "Despite Yourself",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "2992cabb-d59d-455d-9d42-cb62d0da7234",
+      "season": 1,
+      "number": 11,
+      "name": "The Wolf Inside",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "45bde868-a5ad-4943-9552-0c62fd4471dd",
+      "season": 1,
+      "number": 12,
+      "name": "Vaulting Ambition",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "dd256be5-09b7-44a2-9eab-e5278c754fb0",
+      "season": 1,
+      "number": 13,
+      "name": "What's Past Is Prologue",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "9187bed5-9ed4-4187-9a40-5c0883bc487c",
+      "season": 1,
+      "number": 14,
+      "name": "The War Without, the War Within",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "7486abcc-2369-4773-ac81-83ace3270682",
+      "season": 1,
+      "number": 15,
+      "name": "Will You Take My Hand?",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "b99e9c42-8f97-4ecd-bc89-b9c9ac9f2896",
+      "season": 2,
+      "number": 1,
+      "name": "Brother",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "315d4054-381e-4234-b1f8-441df75baa23",
+      "season": 2,
+      "number": 2,
+      "name": "New Eden",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "d56cbc54-29cf-430e-a345-8431bae493ba",
+      "season": 2,
+      "number": 3,
+      "name": "Point of Light",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "2508c70a-75a1-4b44-b457-2e6a1cbb17be",
+      "season": 2,
+      "number": 4,
+      "name": "An Obol for Charon",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "b59c7a89-8390-4736-9484-142583edfecd",
+      "season": 2,
+      "number": 5,
+      "name": "Saints of Imperfection",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "dff6e1f5-c01a-46f4-a5ee-2b87a55c547a",
+      "season": 2,
+      "number": 6,
+      "name": "The Sound of Thunder",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "9623af28-1ec5-46a9-97b2-c9d52c36f7fb",
+      "season": 2,
+      "number": 7,
+      "name": "Light and Shadows",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "6667008e-dae7-4408-85a7-4140c7273ac3",
+      "season": 2,
+      "number": 8,
+      "name": "If Memory Serves",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "bb5ebddb-7132-446f-a384-0eebf6c4fc80",
+      "season": 2,
+      "number": 9,
+      "name": "Project Daedalus",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "1284788d-2a66-44d6-867e-a0c20e71c3fb",
+      "season": 2,
+      "number": 10,
+      "name": "The Red Angel",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "ea2c6ae6-cb81-4fb3-93fb-09d40720e5a3",
+      "season": 2,
+      "number": 11,
+      "name": "Perpetual Infinity",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "d47ada63-2117-4bf2-b79c-50873493090b",
+      "season": 2,
+      "number": 12,
+      "name": "Through the Valley of Shadows",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "07909837-9a41-4bca-9f3e-0f658e9c6792",
+      "season": 2,
+      "number": 13,
+      "name": "Such Sweet Sorrow, Part 1",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "04394fc0-2597-4216-80f6-c0bb33c65935",
+      "season": 2,
+      "number": 14,
+      "name": "Such Sweet Sorrow, Part 2",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "9542f483-ded4-4c77-9915-7d38b2c8f0ab",
+      "season": 3,
+      "number": 1,
+      "name": "That Hope is You, Part 1",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "fe5f1c3f-79e4-4446-95e7-fd72be7c0b31",
+      "season": 3,
+      "number": 2,
+      "name": "Far From Home",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "68b322a7-90dc-4e4e-a112-cf47d40a7c92",
+      "season": 3,
+      "number": 3,
+      "name": "People of Earth",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "e522f3db-3e3d-43f3-82bb-72443ae5d667",
+      "season": 3,
+      "number": 4,
+      "name": "Forget Me Not",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "e8c081e2-d8cc-4a0c-83ad-0941075a685a",
+      "season": 3,
+      "number": 5,
+      "name": "Die Trying",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "4ee647f7-a7a3-4d2d-982f-4e3e0c3fd629",
+      "season": 3,
+      "number": 6,
+      "name": "Scavengers",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "3a086f99-4a24-4ba0-a963-514640ddef26",
+      "season": 3,
+      "number": 7,
+      "name": "Unification III",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "15e6829e-7b37-43fe-8527-8e64633b662b",
+      "season": 3,
+      "number": 8,
+      "name": "The Sanctuary",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "df8c60f4-0ee3-4986-8b19-f02e99e348e7",
+      "season": 3,
+      "number": 9,
+      "name": "Terra Firma, Part 1",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "38c4d5e0-0739-43da-b362-5dbf2a557598",
+      "season": 3,
+      "number": 10,
+      "name": "Terra Firma, Part 2",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "9834de13-ec3b-4fb6-b477-e7a7c10b5565",
+      "season": 3,
+      "number": 11,
+      "name": "Su'Kal",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "ddeecb34-259a-4450-9a9b-8c7096450b6f",
+      "season": 3,
+      "number": 12,
+      "name": "There is a Tide...",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "26eee0d0-3175-4501-b4a4-72606ee6c233",
+      "season": 3,
+      "number": 13,
+      "name": "That Hope is You, Part 2",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "02ab810a-0701-4500-be3b-01778622a5b5",
+      "season": 4,
+      "number": 1,
+      "name": "Kobayashi Maru",
+      "airdate": "2021-11-26"
+    },
+    {
+      "id": "3356122a-ce45-4fb4-9c23-adfb8f6819aa",
+      "season": 4,
+      "number": 2,
+      "name": "Anomaly",
+      "airdate": "2021-11-26"
+    },
+    {
+      "id": "dcab0d13-d3ff-4bfd-bcb6-dbbd434e1594",
+      "season": 4,
+      "number": 3,
+      "name": "Choose to Live",
+      "airdate": "2021-12-03"
+    },
+    {
+      "id": "a8df4e3a-755d-4ebd-a782-754433a86d9c",
+      "season": 4,
+      "number": 4,
+      "name": "All Is Possible",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "b4d4ecd7-c8d2-454b-bbbd-9d10acbfe344",
+      "season": 4,
+      "number": 5,
+      "name": "The Examples",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "cf1f1927-e98b-464e-a852-b701f4295d92",
+      "season": 4,
+      "number": 6,
+      "name": "Stormy Weather",
+      "airdate": "2021-12-24"
+    },
+    {
+      "id": "ba62aa90-08da-496c-88bf-a0c7781c79bf",
+      "season": 4,
+      "number": 7,
+      "name": "...But to Connect",
+      "airdate": "2021-12-31"
+    },
+    {
+      "id": "a68a49d5-47e1-442e-96a6-1ea19152363e",
+      "season": 4,
+      "number": 8,
+      "name": "All In",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "33a7a746-798f-442a-9dd2-657e7fcb6fff",
+      "season": 4,
+      "number": 9,
+      "name": "Rubicon",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "9e4e6a04-f4a7-467a-a592-0b703792268e",
+      "season": 4,
+      "number": 10,
+      "name": "The Galactic Barrier",
+      "airdate": "2022-02-25"
+    },
+    {
+      "id": "4082a793-9bf4-4a6e-abbc-b59deed69c28",
+      "season": 4,
+      "number": 11,
+      "name": "Rosetta",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "87258551-cae5-4b97-8a14-d08e65f43ca3",
+      "season": 4,
+      "number": 12,
+      "name": "Species Ten-C",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "e3f851ab-d494-41ce-9b3d-5181cdc37fe8",
+      "season": 4,
+      "number": 13,
+      "name": "Coming Home",
+      "airdate": "2022-03-18"
+    },
+    {
+      "id": "7258171d-ff7c-4dcd-bf20-6c6b1f9950dd",
+      "season": 5,
+      "number": 1,
+      "name": "Red Directive",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "c168d96c-3bba-4911-9ef3-88823af8099f",
+      "season": 5,
+      "number": 2,
+      "name": "Under the Twin Moons",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "fd2b1349-2824-41d0-89ed-551ddc623be7",
+      "season": 5,
+      "number": 3,
+      "name": "Jinaal",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "dd1b9450-c2b5-4c3d-87cc-25cba7cdfedc",
+      "season": 5,
+      "number": 4,
+      "name": "Face the Strange",
+      "airdate": "2024-04-19"
+    },
+    {
+      "id": "cf0008ad-10d0-4109-b42e-840d0783afdd",
+      "season": 5,
+      "number": 5,
+      "name": "Mirrors",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "3fed0284-fab8-4245-88a7-68c7fb4b81e1",
+      "season": 5,
+      "number": 6,
+      "name": "Whistlespeak",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "6883be11-0260-4d1e-8b9d-598507a131a7",
+      "season": 5,
+      "number": 7,
+      "name": "Erigah",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "46ca9341-11d0-45c1-9294-3ae907a444ed",
+      "season": 5,
+      "number": 8,
+      "name": "Labryinths",
+      "airdate": "2024-05-17"
+    },
+    {
+      "id": "a77779b0-b08f-4c3a-b73a-e5e88e9ff9f1",
+      "season": 5,
+      "number": 9,
+      "name": "Lagrange Point",
+      "airdate": "2024-05-24"
+    },
+    {
+      "id": "00ed6ba5-9657-412e-bf55-b4332268379b",
+      "season": 5,
+      "number": 10,
+      "name": "Life, Itself",
+      "airdate": "2024-05-31"
+    }
+  ]
+}

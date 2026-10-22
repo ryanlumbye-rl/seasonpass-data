@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:agatha-christies-hjerson-cmore",
+  "name": "Agatha Christies Hjerson",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "131817a0-1b08-436f-9988-6a8f14ccc118",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0baee133-50bb-40cd-89bd-9d9262fefa73",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "18c0e088-aebd-4641-acc9-2eaf9f5f732e",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2ac075ee-02ad-450d-92d6-312a19089ea9",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b164d98f-1e39-4859-8834-34a94a5d495d",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "86c0898c-258c-463b-aa1f-383b909fe6bd",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4ae66e80-2e0a-452f-b9f2-9109a4713509",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e207e79a-814e-44e4-8611-ba16f6578069",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

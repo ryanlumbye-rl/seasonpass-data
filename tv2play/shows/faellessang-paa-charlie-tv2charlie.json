@@ -1,0 +1,150 @@
+{
+  "id": "tv2play:faellessang-paa-charlie-tv2charlie",
+  "name": "Fællessang på Charlie",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4f0428cf-4aa7-4b68-b41a-9c305c7763c6",
+      "season": 8,
+      "number": 1,
+      "name": "Bryan Rice og Keld & Hilda",
+      "airdate": "2015-08-08"
+    },
+    {
+      "id": "136d65f0-bbdd-4089-9213-9bbd29654dec",
+      "season": 8,
+      "number": 2,
+      "name": "Peter Belli og Basim",
+      "airdate": "2015-08-15"
+    },
+    {
+      "id": "e328ed5b-5d3e-4535-aaab-cfef86bbe8d0",
+      "season": 8,
+      "number": 3,
+      "name": "Johnny Hansen og Bjørn \"Okay\" Hansen",
+      "airdate": "2015-08-22"
+    },
+    {
+      "id": "d907799c-70ad-470f-9d45-151d64a0faeb",
+      "season": 8,
+      "number": 4,
+      "name": "Nice Little Penguins og Lise Haavick",
+      "airdate": "2015-08-29"
+    },
+    {
+      "id": "0f0e1d11-b67a-449c-9b96-f5bf5959eac4",
+      "season": 8,
+      "number": 5,
+      "name": "Michael Hardinger og Brødrene Olsen",
+      "airdate": "2015-09-05"
+    },
+    {
+      "id": "43913cec-0c9e-4fe4-9c90-b19370a298a3",
+      "season": 8,
+      "number": 6,
+      "name": "Pernille Højmark og Dieters",
+      "airdate": "2015-09-12"
+    },
+    {
+      "id": "8ab361be-3a58-42c7-9a5e-bbf6f5f8ae94",
+      "season": 8,
+      "number": 7,
+      "name": "Bjørn Tidmand, Souvenirs og Gry",
+      "airdate": "2015-09-19"
+    },
+    {
+      "id": "0f081fa3-4c2a-4b49-9d23-7eeff3522270",
+      "season": 8,
+      "number": 8,
+      "name": "Birthe Kjær og Peter Viskende",
+      "airdate": "2015-09-26"
+    },
+    {
+      "id": "92e33dbc-d07a-4f62-a951-f2c5b6f28a6b",
+      "season": 8,
+      "number": 9,
+      "name": "Nadia Stein og Allan Mortensen",
+      "airdate": "2015-10-03"
+    },
+    {
+      "id": "e0a364a5-5709-4cb0-8de5-a222e8deb37f",
+      "season": 8,
+      "number": 10,
+      "name": "På Slaget 12, Bobo Moreno og Henrik Lauenberg",
+      "airdate": "2015-10-10"
+    },
+    {
+      "id": "66567c65-a486-4a0c-aa98-2f7e28d8892f",
+      "season": 9,
+      "number": 1,
+      "name": "Fra torvet i Horsens",
+      "airdate": "2016-09-03"
+    },
+    {
+      "id": "c26d50c9-2812-413d-979e-32eaf6303d9a",
+      "season": 9,
+      "number": 2,
+      "name": "Fra Frederiksberg rådhusplads",
+      "airdate": "2016-09-10"
+    },
+    {
+      "id": "261c2549-1e25-4e0a-b986-4a163b6f6468",
+      "season": 9,
+      "number": 3,
+      "name": "Fra Bispetorvet i Aarhus",
+      "airdate": "2016-09-17"
+    },
+    {
+      "id": "acc82998-34e9-423a-b5a8-b56be52c943a",
+      "season": 9,
+      "number": 4,
+      "name": "Fra Frederiksberg rådhusplads",
+      "airdate": "2016-09-24"
+    },
+    {
+      "id": "3f561b92-fb8b-45bd-bb20-c93b2a982448",
+      "season": 9,
+      "number": 5,
+      "name": "Fra torvet i Horsens",
+      "airdate": "2016-10-01"
+    },
+    {
+      "id": "0d444b31-09f3-43e4-b920-fe1f5ba3b1ed",
+      "season": 9,
+      "number": 6,
+      "name": "Fra torvet i Nyborg",
+      "airdate": "2016-10-08"
+    },
+    {
+      "id": "4c7770c5-cd77-488d-8e37-76968aed33e6",
+      "season": 9,
+      "number": 7,
+      "name": "Fra torvet i Nyborg",
+      "airdate": "2016-10-15"
+    },
+    {
+      "id": "2e5c48aa-c315-4f50-bbdb-e94893ae8e2d",
+      "season": 9,
+      "number": 8,
+      "name": "Fra Bispetorv i Aarhus",
+      "airdate": "2016-10-22"
+    },
+    {
+      "id": "6e4428d6-f257-4c43-b0ee-258686322570",
+      "season": 9,
+      "number": 9,
+      "name": "Fra torvet i Nyborg",
+      "airdate": "2016-10-30"
+    },
+    {
+      "id": "a895144b-1d61-4362-b5e2-d05ab65718e9",
+      "season": 9,
+      "number": 10,
+      "name": "Det bedste fra 2016",
+      "airdate": "2016-11-05"
+    }
+  ]
+}

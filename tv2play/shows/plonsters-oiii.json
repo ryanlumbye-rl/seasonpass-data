@@ -1,0 +1,374 @@
+{
+  "id": "tv2play:plonsters-oiii",
+  "name": "Plonsters",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f89b8bc5-5250-4eec-a1b0-d4039efb11bc",
+      "season": 1,
+      "number": 1,
+      "name": "På en øde ø",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "e42050d2-615e-4a64-83c1-68f124687e53",
+      "season": 1,
+      "number": 2,
+      "name": "I sneen",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "b71e28ea-2f66-48fd-8640-b32d05ee5e34",
+      "season": 1,
+      "number": 3,
+      "name": "I haven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2972a6bc-f148-4172-8ea9-ece2112414bc",
+      "season": 1,
+      "number": 4,
+      "name": "På fisketur",
+      "airdate": "2016-05-01"
+    },
+    {
+      "id": "8036e7d8-76ea-4d4a-b80d-8369a8f8a00c",
+      "season": 1,
+      "number": 5,
+      "name": "Bygger et hus",
+      "airdate": "2020-12-02"
+    },
+    {
+      "id": "986ff704-4407-4561-a5c6-d751ab048522",
+      "season": 1,
+      "number": 6,
+      "name": "På museum",
+      "airdate": "2020-12-02"
+    },
+    {
+      "id": "daf69c86-2c95-4d64-b537-3fb8e9d2e518",
+      "season": 1,
+      "number": 7,
+      "name": "Ser fatamorgana",
+      "airdate": "2020-12-03"
+    },
+    {
+      "id": "9445ef90-366d-4372-bb57-18a7a27cc19a",
+      "season": 1,
+      "number": 8,
+      "name": "Til modeshow",
+      "airdate": "2020-12-03"
+    },
+    {
+      "id": "76f33c38-d1d8-419a-97d2-7cc49b7d5370",
+      "season": 1,
+      "number": 9,
+      "name": "Spiller skak",
+      "airdate": "2020-12-03"
+    },
+    {
+      "id": "45b4d300-e5db-4800-b21a-d0d3cff8be84",
+      "season": 1,
+      "number": 10,
+      "name": "På frugtmarked",
+      "airdate": "2020-12-04"
+    },
+    {
+      "id": "bdb0d4d6-baa3-45d8-be26-aaee95a5ee21",
+      "season": 1,
+      "number": 11,
+      "name": "Sover",
+      "airdate": "2020-12-04"
+    },
+    {
+      "id": "1b0df048-e50d-414c-84bd-905b33d86a09",
+      "season": 1,
+      "number": 12,
+      "name": "Fodrer ænder",
+      "airdate": "2020-12-04"
+    },
+    {
+      "id": "3f3ebf35-c9bf-4b6e-96e9-bb9a20f6e57b",
+      "season": 1,
+      "number": 13,
+      "name": "På safari",
+      "airdate": "2020-12-05"
+    },
+    {
+      "id": "a7dc949a-031c-4c30-9059-f2a1374caf4a",
+      "season": 1,
+      "number": 14,
+      "name": "Til byfest",
+      "airdate": "2020-12-05"
+    },
+    {
+      "id": "0db60f8e-ab8f-4704-ab4a-10fd1541937d",
+      "season": 1,
+      "number": 15,
+      "name": "På kanotur",
+      "airdate": "2020-12-06"
+    },
+    {
+      "id": "629568b5-deab-4775-9b8b-8bedf65199ac",
+      "season": 1,
+      "number": 16,
+      "name": "På vandretur",
+      "airdate": "2020-12-06"
+    },
+    {
+      "id": "aeb9d20d-b386-42ac-beae-fc4a573ecf66",
+      "season": 1,
+      "number": 17,
+      "name": "Spiser småkager",
+      "airdate": "2020-12-07"
+    },
+    {
+      "id": "ffbd7757-61e7-444a-a0bd-adef33d7e3dc",
+      "season": 1,
+      "number": 18,
+      "name": "Skattejægere",
+      "airdate": "2020-12-07"
+    },
+    {
+      "id": "57ab1ae7-2510-48c3-b9ea-f9167d68a9b6",
+      "season": 1,
+      "number": 19,
+      "name": "I supermarkedet",
+      "airdate": "2020-12-07"
+    },
+    {
+      "id": "1b24fc5a-6e9b-4f33-99f5-add5c936d78b",
+      "season": 1,
+      "number": 20,
+      "name": "På camping",
+      "airdate": "2020-12-08"
+    },
+    {
+      "id": "f0fffeee-fd29-4d88-9402-8af97e6fac8d",
+      "season": 1,
+      "number": 21,
+      "name": "Et værre roderi",
+      "airdate": "2020-12-08"
+    },
+    {
+      "id": "c1cd2b30-dfae-477c-9c59-215589d5319d",
+      "season": 1,
+      "number": 22,
+      "name": "Fuglereden",
+      "airdate": "2020-12-08"
+    },
+    {
+      "id": "95b951d4-c28e-44b4-8cd7-9256c850b0c6",
+      "season": 1,
+      "number": 23,
+      "name": "I det vilde vesten",
+      "airdate": "2020-12-09"
+    },
+    {
+      "id": "02d65cd3-dde9-4305-a162-7a444d585183",
+      "season": 1,
+      "number": 24,
+      "name": "Honningbier",
+      "airdate": "2020-12-09"
+    },
+    {
+      "id": "c69edaac-9ae6-4e22-b0c0-06e9d259f696",
+      "season": 1,
+      "number": 25,
+      "name": "I det ydre rum",
+      "airdate": "2020-12-09"
+    },
+    {
+      "id": "2700ed71-10bc-42c6-81e9-5f9e4ae6272e",
+      "season": 1,
+      "number": 26,
+      "name": "På Nordpolen",
+      "airdate": "2020-12-10"
+    },
+    {
+      "id": "471ddba6-dd25-4848-af16-68d9d9f9dc63",
+      "season": 2,
+      "number": 1,
+      "name": "På tynd is",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a76a633d-d149-4db9-aac6-5b2e88630a59",
+      "season": 2,
+      "number": 2,
+      "name": "Pæretræet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c649a573-7669-47ac-9776-ffee206d5ac6",
+      "season": 2,
+      "number": 3,
+      "name": "På cykeltur",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3c95a6cd-1fb1-4482-b254-8d91463d9f5c",
+      "season": 2,
+      "number": 4,
+      "name": "Middagsselskabet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "87560f68-727b-4ce3-84a0-c0208a7d5cc2",
+      "season": 2,
+      "number": 5,
+      "name": "Legepladsen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "593143a5-9927-49b9-851c-319d93ed0d49",
+      "season": 2,
+      "number": 6,
+      "name": "Guldgraverne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f60d9c4c-d7b6-4141-96b7-16ffed48ee27",
+      "season": 2,
+      "number": 7,
+      "name": "Sportsweekend",
+      "airdate": "2020-12-12"
+    },
+    {
+      "id": "521f08a6-1153-429f-b885-869691ebfd56",
+      "season": 2,
+      "number": 8,
+      "name": "Racerbilen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7baa6091-7dc0-448f-870b-fcc91b757853",
+      "season": 2,
+      "number": 9,
+      "name": "Muslingeskallerne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f961f969-237c-44e1-b041-480fc2cef21a",
+      "season": 2,
+      "number": 10,
+      "name": "Slangetæmmeren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "306a6db6-381d-4a29-ba8b-e7ad092c5e2d",
+      "season": 2,
+      "number": 11,
+      "name": "I cirkus",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "adc2f9c7-b139-42ed-856c-8387140599c0",
+      "season": 2,
+      "number": 12,
+      "name": "Fugleskræmslet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cf143cb2-b886-44b2-bb29-c1876212a3a9",
+      "season": 2,
+      "number": 13,
+      "name": "Hindbærbusken",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "15848910-91d0-41c5-ada7-66deb551a9db",
+      "season": 2,
+      "number": 14,
+      "name": "På stranden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9f83e1eb-acd1-4454-8a9b-f57d8e3c98ff",
+      "season": 2,
+      "number": 15,
+      "name": "Så surfer vi!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2009b83d-6e49-4e42-9bc1-1fee903d67df",
+      "season": 2,
+      "number": 16,
+      "name": "På hospitalet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "22b1d8fe-1617-4091-be4b-ee92192fc603",
+      "season": 2,
+      "number": 17,
+      "name": "Minigolf",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "357dd35a-9eea-408d-98e6-5d948d89c8c6",
+      "season": 2,
+      "number": 18,
+      "name": "Glædelig jul!",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "eed16c65-ff05-4734-becb-fbd991f041de",
+      "season": 2,
+      "number": 19,
+      "name": "Så danser vi!",
+      "airdate": "2020-12-16"
+    },
+    {
+      "id": "6dd90e0b-a92b-43b6-99ac-9ceb4050dfea",
+      "season": 2,
+      "number": 20,
+      "name": "Brandmænd",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d5bae8e9-cbdf-446f-98bc-7ba7ac29fbb6",
+      "season": 2,
+      "number": 21,
+      "name": "På sejltur",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8f4018c2-83b9-4769-b8f0-de009ff4d87c",
+      "season": 2,
+      "number": 22,
+      "name": "Kærlighed ved første blik",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "054dda72-c9f8-45b3-84c9-a3530a672a1f",
+      "season": 2,
+      "number": 23,
+      "name": "Det spøger på slottet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3f2afabc-f30a-40e6-8862-addbba7e0937",
+      "season": 2,
+      "number": 24,
+      "name": "Eksperimentet",
+      "airdate": "2020-12-18"
+    },
+    {
+      "id": "c55c31df-bc59-4dd3-b254-148b62b972ee",
+      "season": 2,
+      "number": 25,
+      "name": "Til Venedig",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "edf442f7-5503-4e72-9d3b-89f2386242d8",
+      "season": 2,
+      "number": 26,
+      "name": "Svømmeturen",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

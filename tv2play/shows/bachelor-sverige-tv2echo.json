@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:bachelor-sverige-tv2echo",
+  "name": "Bachelor Sverige",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f79adb44-a89e-45f6-a8b7-1408589cad23",
+      "season": 8,
+      "number": 1,
+      "name": "Lad kærlighedseventyret begynde!",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "01e48358-00c7-4e57-bb86-f572d86716b2",
+      "season": 8,
+      "number": 2,
+      "name": "En mystisk muldvarp",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "a6d3445c-8136-44ae-99c6-0d07ae58b253",
+      "season": 8,
+      "number": 3,
+      "name": "Alder er bare et tal",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "a48ddb45-ae09-4a8e-9c93-8b013bc241f9",
+      "season": 8,
+      "number": 4,
+      "name": "Roseceremoni",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "09724a31-de4c-4712-b7bb-e5270a30a49a",
+      "season": 8,
+      "number": 5,
+      "name": "Dobbelt-gruppedate",
+      "airdate": "2026-02-19"
+    },
+    {
+      "id": "252efde8-422a-41dc-8f4b-25f111f90d25",
+      "season": 8,
+      "number": 6,
+      "name": "Fest, farver - og jalousi",
+      "airdate": "2026-02-19"
+    },
+    {
+      "id": "b0cb77be-5b97-4910-a767-1f601ba634d2",
+      "season": 8,
+      "number": 7,
+      "name": "Vrede og vand",
+      "airdate": "2026-02-19"
+    },
+    {
+      "id": "eed70fcc-08fa-4f60-9cfa-862d51f76006",
+      "season": 8,
+      "number": 8,
+      "name": "Roseceremoni",
+      "airdate": "2026-02-19"
+    },
+    {
+      "id": "b55a0926-23a9-4d29-b779-2a63e40dd58d",
+      "season": 8,
+      "number": 9,
+      "name": "Drinks på stranden",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "6ebfe5a2-e1c0-4531-87f7-ba9bc8a558f3",
+      "season": 8,
+      "number": 10,
+      "name": "Skal vi give op?",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "ef172732-e49c-4da6-a4af-964c4f83da85",
+      "season": 8,
+      "number": 11,
+      "name": "Kys til alle",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "225fb894-ed5b-4cd0-af4d-a76eadfc6299",
+      "season": 8,
+      "number": 12,
+      "name": "Roseceremoni",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "2d9c484a-0ea7-4b24-a1e7-ab4b0be2bbed",
+      "season": 8,
+      "number": 13,
+      "name": "Den varme stol",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "550f92ff-4a26-4ccd-9bf5-d80cff661d57",
+      "season": 8,
+      "number": 14,
+      "name": "Dates dagen derpå",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "a7730a9e-f151-478a-b706-f1f6889a810f",
+      "season": 8,
+      "number": 15,
+      "name": "Er han min?",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "6c3d134a-54b4-4841-b13d-0e453e97eeba",
+      "season": 8,
+      "number": 16,
+      "name": "Roseceremoni",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "6f550160-22db-472d-ad6a-485e9c956744",
+      "season": 8,
+      "number": 17,
+      "name": "Husk at tale sammen",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "9aa70115-f242-49c8-bc4c-8147026a6e2b",
+      "season": 8,
+      "number": 18,
+      "name": "En, to, mange",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "84c3e331-2a2a-4786-b7e0-120befe21b14",
+      "season": 8,
+      "number": 19,
+      "name": "Endelig!",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "c97eb443-a607-406f-a822-7d99b0b5f858",
+      "season": 8,
+      "number": 20,
+      "name": "Roseceremoni",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "a1780821-a644-4bc8-9a99-553640def2f9",
+      "season": 8,
+      "number": 21,
+      "name": "Bachelor på blinddate",
+      "airdate": "2026-03-19"
+    },
+    {
+      "id": "05602af2-2cab-4819-a71d-a552e45f5783",
+      "season": 8,
+      "number": 22,
+      "name": "Singledate og samurai",
+      "airdate": "2026-03-19"
+    },
+    {
+      "id": "8cd6361c-41bb-4e80-ba4a-09a7be713d0a",
+      "season": 8,
+      "number": 23,
+      "name": "En uventet slutning",
+      "airdate": "2026-03-19"
+    },
+    {
+      "id": "24f315b4-8e35-4ef6-92f5-fc650486985e",
+      "season": 8,
+      "number": 24,
+      "name": "Roseceremoni",
+      "airdate": "2026-03-19"
+    },
+    {
+      "id": "2b3cebf0-c380-4e5a-9a3e-ac8ab6195f17",
+      "season": 8,
+      "number": 25,
+      "name": "Intime dates",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "f4db1f68-54fb-4e09-9bd1-e2e099195505",
+      "season": 8,
+      "number": 26,
+      "name": "Skjulte talenter",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "815c9f50-abce-42b2-a336-f335057872b0",
+      "season": 8,
+      "number": 27,
+      "name": "Musik og dramatik",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "0b0f3058-05be-440e-b7bb-07e24a287756",
+      "season": 8,
+      "number": 28,
+      "name": "Roseceremoni",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "7a204134-06b3-4582-b506-d45b02792b85",
+      "season": 8,
+      "number": 29,
+      "name": "Dobbeltdate",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "8eb83392-e480-4754-9c32-8869ba066358",
+      "season": 8,
+      "number": 30,
+      "name": "Du må vælge",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "29d2fa7b-6438-4743-b56f-2aabf9ec03ea",
+      "season": 8,
+      "number": 31,
+      "name": "Højder og husdrama",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "156603db-ac28-47c5-9796-5158c1f2176a",
+      "season": 8,
+      "number": 32,
+      "name": "Roseceremoni",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "fa776650-ee0c-4308-bc9d-1fe70afb2b68",
+      "season": 8,
+      "number": 33,
+      "name": "Svar udbedes!",
+      "airdate": "2026-04-09"
+    },
+    {
+      "id": "87ea798f-a68c-4581-9e68-ca0f7900b78e",
+      "season": 8,
+      "number": 34,
+      "name": "Trist besked",
+      "airdate": "2026-04-09"
+    },
+    {
+      "id": "45b4294e-2cde-435d-8a95-e3b5f45537fa",
+      "season": 8,
+      "number": 35,
+      "name": "Familietræf",
+      "airdate": "2026-04-09"
+    },
+    {
+      "id": "15dc6e48-c5c7-44e2-820e-279505146736",
+      "season": 8,
+      "number": 36,
+      "name": "Par på tale",
+      "airdate": "2026-04-09"
+    },
+    {
+      "id": "5c5a6b75-cd66-4bf6-b6b1-f5187763f772",
+      "season": 8,
+      "number": 37,
+      "name": "Den sidste roseceremoni",
+      "airdate": "2026-04-16"
+    },
+    {
+      "id": "d20ed448-9178-4994-858e-ebac2e3e2ac9",
+      "season": 8,
+      "number": 38,
+      "name": "Drømmedates",
+      "airdate": "2026-04-16"
+    },
+    {
+      "id": "4f3cae66-2416-4544-ae39-4f61dbf3295f",
+      "season": 8,
+      "number": 39,
+      "name": "Den sidste rose",
+      "airdate": "2026-04-16"
+    },
+    {
+      "id": "7c8fb27a-ff44-4183-9ff0-2b1c9e1e63df",
+      "season": 8,
+      "number": 40,
+      "name": "Efter den sidste rose",
+      "airdate": "2026-04-16"
+    }
+  ]
+}

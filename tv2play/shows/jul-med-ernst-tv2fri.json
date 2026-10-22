@@ -1,0 +1,199 @@
+{
+  "id": "tv2play:jul-med-ernst-tv2fri",
+  "name": "Jul med Ernst",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "db4217d7-43dd-420f-8841-569002aa56f5",
+      "season": 6,
+      "number": 1,
+      "name": "Jul på svensk facon",
+      "airdate": "2014-12-03"
+    },
+    {
+      "id": "35ccd023-a3aa-461f-92ca-cfd83ee580b9",
+      "season": 6,
+      "number": 2,
+      "name": "Jul på svensk facon",
+      "airdate": "2014-12-10"
+    },
+    {
+      "id": "a187cede-6fc5-4653-8df0-df3fe408f2e1",
+      "season": 6,
+      "number": 3,
+      "name": "Jul på svensk facon",
+      "airdate": "2014-12-10"
+    },
+    {
+      "id": "2044c043-6046-40c1-9f6b-b1a436e7b7dc",
+      "season": 9,
+      "number": 1,
+      "name": "Jul på svensk facon",
+      "airdate": "2017-12-05"
+    },
+    {
+      "id": "24f9943b-1a21-406e-bcec-14043839a442",
+      "season": 9,
+      "number": 2,
+      "name": "Jul på svensk facon",
+      "airdate": "2017-12-06"
+    },
+    {
+      "id": "6e01bfa7-4036-4b1f-9d33-45038100afb6",
+      "season": 9,
+      "number": 3,
+      "name": "Jul på svensk facon",
+      "airdate": "2017-12-07"
+    },
+    {
+      "id": "ebc12b9d-52b6-4b4f-bf2d-4beaa494f96a",
+      "season": 11,
+      "number": 1,
+      "name": "Jul på svensk facon",
+      "airdate": "2019-11-28"
+    },
+    {
+      "id": "61acc851-b643-422a-a408-651458885e47",
+      "season": 11,
+      "number": 2,
+      "name": "Jul på svensk facon",
+      "airdate": "2019-11-29"
+    },
+    {
+      "id": "2f1d70e5-eb9b-45a7-9e61-d63bd7380837",
+      "season": 11,
+      "number": 3,
+      "name": "Jul på svensk facon",
+      "airdate": "2019-11-29"
+    },
+    {
+      "id": "83c5f5b6-7980-416c-9ca2-71cc4e0acdaf",
+      "season": 12,
+      "number": 1,
+      "name": "Sild med nye smage",
+      "airdate": "2020-12-02"
+    },
+    {
+      "id": "ef317e7c-117c-4d64-8ae3-693510cfc3ee",
+      "season": 12,
+      "number": 2,
+      "name": "Karameller og honningkagehus",
+      "airdate": "2020-12-02"
+    },
+    {
+      "id": "1e2b5f87-505e-455c-b890-ea23ce7d4fd8",
+      "season": 12,
+      "number": 3,
+      "name": "Julefest på gården",
+      "airdate": "2020-12-03"
+    },
+    {
+      "id": "fe1ad3ee-e490-4849-9345-87cc06889c9d",
+      "season": 13,
+      "number": 1,
+      "name": "En magisk højtid",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "9d00f2b3-c891-4e12-86eb-fa0328369c3a",
+      "season": 13,
+      "number": 2,
+      "name": "Juleslik",
+      "airdate": "2021-11-23"
+    },
+    {
+      "id": "7c21fa40-719f-44a7-9b42-a6df13885baf",
+      "season": 13,
+      "number": 3,
+      "name": "Lysekrone og julepølser",
+      "airdate": "2021-11-23"
+    },
+    {
+      "id": "efc68e00-54d1-4216-9675-9068216a42df",
+      "season": 13,
+      "number": 4,
+      "name": "Kødboller og lysekrone",
+      "airdate": "2021-11-24"
+    },
+    {
+      "id": "3cf3a155-192d-4ef8-b280-13a4c2de2f9b",
+      "season": 14,
+      "number": 1,
+      "name": "Adventsstage og marcipan",
+      "airdate": "2022-12-08"
+    },
+    {
+      "id": "63c95ee0-372f-4850-95fc-cf7d7ce4ab3e",
+      "season": 14,
+      "number": 2,
+      "name": "Gløgg",
+      "airdate": "2022-12-08"
+    },
+    {
+      "id": "21015c9e-3a73-4a44-85bb-99c5ee66228b",
+      "season": 14,
+      "number": 3,
+      "name": "Kreative juledekorationer",
+      "airdate": "2022-12-08"
+    },
+    {
+      "id": "ad2903db-af54-4994-bb5a-c251d020960a",
+      "season": 15,
+      "number": 1,
+      "name": "Magisk start på julen",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "bf9844d4-33bd-4d39-9382-ed757c215500",
+      "season": 15,
+      "number": 2,
+      "name": "Dørmåtte af birkebark",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "42aa9b5e-5f9a-43fc-a745-00ee37542964",
+      "season": 15,
+      "number": 3,
+      "name": "Hjemmelavet julepynt",
+      "airdate": "2024-12-03"
+    },
+    {
+      "id": "213b27a5-9cbe-4519-8fc1-78e81bffec87",
+      "season": 15,
+      "number": 4,
+      "name": "Julefest på gården",
+      "airdate": "2024-12-03"
+    },
+    {
+      "id": "9f082e8b-5729-4ed3-ab93-cb9f3c898040",
+      "season": 16,
+      "number": 1,
+      "name": "Adventshygge",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "5045b07f-0c2f-4dd7-b12b-64bb04231ea3",
+      "season": 16,
+      "number": 2,
+      "name": "Udendørspynt",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "1c59a2ff-f052-4380-9775-d0a7284ac03a",
+      "season": 16,
+      "number": 3,
+      "name": "De overraskende smage",
+      "airdate": "2025-11-11"
+    },
+    {
+      "id": "03a4273d-836d-4abe-891c-4c65a406efb6",
+      "season": 16,
+      "number": 4,
+      "name": "Magisk julebord",
+      "airdate": "2025-11-11"
+    }
+  ]
+}

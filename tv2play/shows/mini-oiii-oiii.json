@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:mini-oiii-oiii",
+  "name": "Mini Oiii",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3318d890-79f7-4d8e-8c11-3729f04954bb",
+      "season": 1,
+      "number": 1,
+      "name": "Nuttede kattekillinger",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "1f04f56a-61b7-4b4b-849f-c3b319d358ca",
+      "season": 1,
+      "number": 2,
+      "name": "En pruttende hamster",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "9eb08dc0-91db-40bd-9ddb-ef2a6d4b69a5",
+      "season": 1,
+      "number": 3,
+      "name": "En dansende maltipoo",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "d3c8fcd5-b8fe-4886-b21b-43d42af51ecb",
+      "season": 1,
+      "number": 4,
+      "name": "Gnaskende skildpadder",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "4981d58d-94a0-44e7-904c-874351828abc",
+      "season": 1,
+      "number": 5,
+      "name": "Knirkende marsvin",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "790c9687-a03d-4611-b6e9-98fb20558b85",
+      "season": 1,
+      "number": 6,
+      "name": "En farverig papegøje",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "c0a5559f-9c23-4d83-87dd-5da527e4ffe5",
+      "season": 1,
+      "number": 7,
+      "name": "En hund med strutskørt",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "dd4dd1a0-c14f-4622-8670-bf900242d479",
+      "season": 1,
+      "number": 8,
+      "name": "Bløde kaniner",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "08f6cac6-179c-44dd-a4bd-d4d37e6bd3c4",
+      "season": 1,
+      "number": 9,
+      "name": "Pippende kyllinger",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "22832bf2-9963-4d63-b9e3-1bdcefc88eb5",
+      "season": 1,
+      "number": 10,
+      "name": "And og vand",
+      "airdate": "2025-01-18"
+    }
+  ]
+}

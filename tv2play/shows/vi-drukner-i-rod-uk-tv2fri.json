@@ -1,0 +1,262 @@
+{
+  "id": "tv2play:vi-drukner-i-rod-uk-tv2fri",
+  "name": "Vi drukner i rod UK",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4a568295-9fbc-4b08-b469-6039590f6a8c",
+      "season": 1,
+      "number": 1,
+      "name": "Familien Paine",
+      "airdate": "2023-08-21"
+    },
+    {
+      "id": "577206df-1ddd-450d-bce7-6504e3b72fea",
+      "season": 1,
+      "number": 2,
+      "name": "Familien Patel",
+      "airdate": "2023-08-21"
+    },
+    {
+      "id": "a0f9c8c8-3c90-43e6-849a-2c32c3bdf265",
+      "season": 1,
+      "number": 3,
+      "name": "Familien Bradshaw",
+      "airdate": "2023-08-28"
+    },
+    {
+      "id": "7a862ece-f54d-4ac7-b45a-51d670682f9b",
+      "season": 1,
+      "number": 4,
+      "name": "Familien Dowling",
+      "airdate": "2023-09-04"
+    },
+    {
+      "id": "83f0684a-99bc-4d27-a150-eb44c15e339a",
+      "season": 1,
+      "number": 5,
+      "name": "Familien Lespeare",
+      "airdate": "2023-09-11"
+    },
+    {
+      "id": "d2cd8cb2-47e2-4c6b-bee3-24269f3a7fe9",
+      "season": 1,
+      "number": 6,
+      "name": "Familien Waller",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "66718888-cacd-4874-8e6a-599db2901575",
+      "season": 2,
+      "number": 1,
+      "name": "Familien Harris-Hawley",
+      "airdate": "2024-08-12"
+    },
+    {
+      "id": "e4cbacab-d76f-4e0b-bc10-48db3f30711d",
+      "season": 2,
+      "number": 2,
+      "name": "Familien Fall",
+      "airdate": "2024-08-19"
+    },
+    {
+      "id": "e6f97afd-6018-4af1-b517-77915aa30a33",
+      "season": 2,
+      "number": 3,
+      "name": "Familien Viney",
+      "airdate": "2024-08-26"
+    },
+    {
+      "id": "0da013fa-c4d7-41a3-9c65-f1ab053ce31f",
+      "season": 2,
+      "number": 4,
+      "name": "Familien Daniels",
+      "airdate": "2024-09-02"
+    },
+    {
+      "id": "d8a7fed4-3477-4b27-93dc-99ba0f067113",
+      "season": 2,
+      "number": 5,
+      "name": "Familien Smith",
+      "airdate": "2024-09-09"
+    },
+    {
+      "id": "c48e9b6a-3637-42e3-95d0-a67511e9857f",
+      "season": 2,
+      "number": 6,
+      "name": "Familien Clark",
+      "airdate": "2024-09-16"
+    },
+    {
+      "id": "9a46af4e-a616-4c6c-bf48-c3d7ec8b207e",
+      "season": 3,
+      "number": 1,
+      "name": "Familien Seabrook",
+      "airdate": "2025-07-06"
+    },
+    {
+      "id": "610f3426-e2c2-4906-93a8-59d519f560c9",
+      "season": 3,
+      "number": 2,
+      "name": "Familien Lloyd",
+      "airdate": "2025-07-13"
+    },
+    {
+      "id": "396e882e-5cdf-4033-be85-41311ae958d6",
+      "season": 3,
+      "number": 3,
+      "name": "Familien Edgar Whelan",
+      "airdate": "2025-07-20"
+    },
+    {
+      "id": "1e801b36-3dfb-499a-a517-f1d720955833",
+      "season": 3,
+      "number": 4,
+      "name": "Familien Watling",
+      "airdate": "2025-07-27"
+    },
+    {
+      "id": "063e7556-f08e-46bb-a471-27a5d8731dcd",
+      "season": 3,
+      "number": 5,
+      "name": "Familien Farrow",
+      "airdate": "2025-08-03"
+    },
+    {
+      "id": "c48509b7-ebef-419c-a10b-326151f062c6",
+      "season": 4,
+      "number": 1,
+      "name": "Familien Bufton",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "e0fe808b-19a0-40c9-972d-3d5f63a75ca0",
+      "season": 4,
+      "number": 2,
+      "name": "Familien Fountain",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "f956e41e-7656-46bc-b3cf-82afbf94ce13",
+      "season": 4,
+      "number": 3,
+      "name": "Familien Mistry",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "a3d6e968-8491-4de6-ab3e-cde5634800d4",
+      "season": 4,
+      "number": 4,
+      "name": "Familien Yates",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "b39243c1-dc12-404b-aa35-e48552401647",
+      "season": 4,
+      "number": 5,
+      "name": "Familien Morrell",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "876df302-db77-4436-a2a0-3b30b1b8fe38",
+      "season": 4,
+      "number": 6,
+      "name": "Familien Wellen",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "7872d138-7ca4-419c-b8a3-b90809d3a3b0",
+      "season": 5,
+      "number": 1,
+      "name": "Familien Appleyard",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "bf06d84b-9c98-49a8-84f2-c5ee92d17598",
+      "season": 5,
+      "number": 2,
+      "name": "Familien Brearley-Baird",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "072dbc7f-efb3-4721-82da-f619e62c40ee",
+      "season": 5,
+      "number": 3,
+      "name": "Familien Apabhai-Heer",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "573765fd-b55d-4b6a-9c65-1a3c969a710d",
+      "season": 5,
+      "number": 4,
+      "name": "Familie Jamieson",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "319acfb1-c753-4901-9a0f-43282fdc6be8",
+      "season": 5,
+      "number": 5,
+      "name": "Familien Bowen",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "bf0f4ddc-11f4-4bd1-ad5b-73ab9bd5d52a",
+      "season": 5,
+      "number": 6,
+      "name": "Familien Noel",
+      "airdate": "2025-11-20"
+    },
+    {
+      "id": "4278287d-9f0f-4f41-82e6-8e443339c6bf",
+      "season": 5,
+      "number": 7,
+      "name": "Familien Clarke",
+      "airdate": "2025-11-20"
+    },
+    {
+      "id": "6602e15f-6aa1-4f66-80bd-24e6e8027943",
+      "season": 6,
+      "number": 1,
+      "name": "Familien King",
+      "airdate": "2026-06-04"
+    },
+    {
+      "id": "c8f7fcd6-6a3c-43e8-a44d-587961e8efec",
+      "season": 6,
+      "number": 2,
+      "name": "Familien Saunders",
+      "airdate": "2026-06-11"
+    },
+    {
+      "id": "d8ac15d8-af88-4382-a861-19c9e0927e53",
+      "season": 6,
+      "number": 3,
+      "name": "Familien Craig",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "18516015-d66c-48df-9193-56b95d9ea01c",
+      "season": 6,
+      "number": 4,
+      "name": "Familien Parej",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "1a7f91a8-011c-4d0e-8e29-df587c04ad18",
+      "season": 6,
+      "number": 5,
+      "name": "Familien Allan",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "970d42ba-9c4d-4acc-9cca-860ad37adb6f",
+      "season": 6,
+      "number": 6,
+      "name": "Familien Mann-Monro",
+      "airdate": "2026-07-09"
+    }
+  ]
+}

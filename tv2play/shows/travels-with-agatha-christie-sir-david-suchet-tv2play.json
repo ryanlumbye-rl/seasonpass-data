@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:travels-with-agatha-christie-sir-david-suchet-tv2play",
+  "name": "Travels with Agatha Christie & Sir David Suchet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "02a93a40-4ab0-4390-9597-b46fc297b815",
+      "season": 1,
+      "number": 1,
+      "name": "South Africa",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "673c749b-5dde-4d43-8ea9-adbd5b857eb2",
+      "season": 1,
+      "number": 2,
+      "name": "Australia",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "62ebf322-544c-4a86-8278-5db3a4a6a112",
+      "season": 1,
+      "number": 3,
+      "name": "New Zealand",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "cd36784c-f007-44e1-ae64-b4d568721310",
+      "season": 1,
+      "number": 4,
+      "name": "Hawaii",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "cd2b2923-8034-41d2-a812-0c744fcf5a3f",
+      "season": 1,
+      "number": 5,
+      "name": "Canada",
+      "airdate": "2025-03-26"
+    }
+  ]
+}

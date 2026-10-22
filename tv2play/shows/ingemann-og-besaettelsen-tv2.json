@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:ingemann-og-besaettelsen-tv2",
+  "name": "Ingemann og besættelsen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "52bc3a38-d749-40f4-b2b5-2b4776cbc955",
+      "season": 1,
+      "number": 1,
+      "name": "På skattejagt i en tysk bunker",
+      "airdate": "2020-04-27"
+    },
+    {
+      "id": "42ef3a5b-8d60-475b-818b-dc626da368d4",
+      "season": 1,
+      "number": 2,
+      "name": "Krigens mørkeste år",
+      "airdate": "2020-04-27"
+    }
+  ]
+}

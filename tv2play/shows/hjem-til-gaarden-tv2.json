@@ -1,0 +1,444 @@
+{
+  "id": "tv2play:hjem-til-gaarden-tv2",
+  "name": "Hjem til gården",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ae6fbfb3-ed14-43be-84e6-0e31a98e7aba",
+      "season": 1,
+      "number": 1,
+      "name": "Tilbage til rødderne",
+      "airdate": "2017-03-20"
+    },
+    {
+      "id": "514dc0c1-0ecc-4815-b54d-bbd0b5a1af19",
+      "season": 1,
+      "number": 2,
+      "name": "Den første tvekamp",
+      "airdate": "2017-03-20"
+    },
+    {
+      "id": "ed9f1ab3-dd61-429c-857c-248ce2b52644",
+      "season": 1,
+      "number": 3,
+      "name": "Fagre nye verden",
+      "airdate": "2017-03-27"
+    },
+    {
+      "id": "d8ccfa9d-42db-497d-8994-5579d880c5c1",
+      "season": 1,
+      "number": 4,
+      "name": "Den anden tvekamp",
+      "airdate": "2017-03-27"
+    },
+    {
+      "id": "1150459a-ccd8-4948-a982-4c32a483c9a3",
+      "season": 1,
+      "number": 5,
+      "name": "Tak for mad",
+      "airdate": "2017-04-03"
+    },
+    {
+      "id": "f40ff4bf-5ead-4107-8f93-60da7cafc8dc",
+      "season": 1,
+      "number": 6,
+      "name": "Den tredje tvekamp",
+      "airdate": "2017-04-03"
+    },
+    {
+      "id": "e3ae0abc-45c6-481c-ae43-276d39af14c0",
+      "season": 1,
+      "number": 7,
+      "name": "Kæft, trit og retning",
+      "airdate": "2017-04-10"
+    },
+    {
+      "id": "9ec28ddf-12cc-4755-a982-c6ddefa09d85",
+      "season": 1,
+      "number": 8,
+      "name": "Den fjerde tvekamp",
+      "airdate": "2017-04-10"
+    },
+    {
+      "id": "c40d8e29-71a4-4f74-a8cf-7772ddd38823",
+      "season": 1,
+      "number": 9,
+      "name": "Liv og død",
+      "airdate": "2017-04-17"
+    },
+    {
+      "id": "a82cdbd5-9d82-4557-a5d5-cf517a7efb5a",
+      "season": 1,
+      "number": 10,
+      "name": "Den femte tvekamp",
+      "airdate": "2017-04-17"
+    },
+    {
+      "id": "a5c0c158-3c48-490a-ad43-89df3df3a82a",
+      "season": 1,
+      "number": 11,
+      "name": "Krig og kærlighed",
+      "airdate": "2017-04-24"
+    },
+    {
+      "id": "51ad15e1-fbc0-455f-a240-23a617a59731",
+      "season": 1,
+      "number": 12,
+      "name": "Den sjette tvekamp",
+      "airdate": "2017-04-24"
+    },
+    {
+      "id": "e7d2bcca-c3dd-4d28-a47b-04f533f59ac6",
+      "season": 1,
+      "number": 13,
+      "name": "Det sorte får",
+      "airdate": "2017-05-01"
+    },
+    {
+      "id": "2ea89204-5c16-46b1-a1c2-0820264ef2de",
+      "season": 1,
+      "number": 14,
+      "name": "Den syvende tvekamp",
+      "airdate": "2017-05-01"
+    },
+    {
+      "id": "84d16138-9ae2-45c1-89bc-c9087eb070c0",
+      "season": 1,
+      "number": 15,
+      "name": "Mutter med kost og spand",
+      "airdate": "2017-05-08"
+    },
+    {
+      "id": "4f97a660-7f00-4530-b651-d7f899e50c27",
+      "season": 1,
+      "number": 16,
+      "name": "Den ottende tvekamp",
+      "airdate": "2017-05-08"
+    },
+    {
+      "id": "c2d0e466-d04d-4099-b191-b0d6a95046ef",
+      "season": 1,
+      "number": 17,
+      "name": "Vinteren kommer",
+      "airdate": "2017-05-15"
+    },
+    {
+      "id": "c75cee43-0cd7-403d-836a-35f0d77bcce4",
+      "season": 1,
+      "number": 18,
+      "name": "Den niende tvekamp",
+      "airdate": "2017-05-15"
+    },
+    {
+      "id": "908680c7-4b3b-4fdf-8a61-9baadc84b4d8",
+      "season": 1,
+      "number": 19,
+      "name": "Finalen",
+      "airdate": "2017-05-22"
+    },
+    {
+      "id": "6fd7dcdb-237d-4f4c-a720-664e5e1c6309",
+      "season": 1,
+      "number": 20,
+      "name": "Den sidste tvekamp",
+      "airdate": "2017-05-22"
+    },
+    {
+      "id": "d4815fd4-d3f1-4f8b-bced-404c7f5e3edd",
+      "season": 3,
+      "number": 1,
+      "name": "Jordskredsvalg",
+      "airdate": "2019-03-17"
+    },
+    {
+      "id": "5f5bc6fb-7727-4154-a78f-71128f9dc18c",
+      "season": 3,
+      "number": 2,
+      "name": "Ødegården - Håbet er lysegrønt",
+      "airdate": "2019-03-17"
+    },
+    {
+      "id": "82274b3b-c7a2-4413-abd4-ac3d8f546bc3",
+      "season": 3,
+      "number": 3,
+      "name": "Ødegården - Hvedebrødsdagene er ovre",
+      "airdate": "2019-03-17"
+    },
+    {
+      "id": "93018b10-2ac6-4cf8-9bc8-07764bb79042",
+      "season": 3,
+      "number": 4,
+      "name": "Forfra",
+      "airdate": "2019-03-17"
+    },
+    {
+      "id": "04294bd8-a9f7-4297-9ba4-b845c0f5c02a",
+      "season": 3,
+      "number": 5,
+      "name": "Ødegården - Ny beboer",
+      "airdate": "2024-12-31"
+    },
+    {
+      "id": "f6a78ebd-dc13-4b55-8ed3-a58ea580c592",
+      "season": 3,
+      "number": 6,
+      "name": "Ødegården - Det tredje hjul",
+      "airdate": "2019-03-24"
+    },
+    {
+      "id": "8e699696-69c3-40ee-8ca8-52c9305baccf",
+      "season": 3,
+      "number": 7,
+      "name": "Misforståelser",
+      "airdate": "2019-03-24"
+    },
+    {
+      "id": "9fd8dbcf-64cb-456c-8f29-a585cc8ca2c4",
+      "season": 3,
+      "number": 8,
+      "name": "Ødegården - Et friskt pust",
+      "airdate": "2019-03-27"
+    },
+    {
+      "id": "4f7843ad-1588-4ada-b0a2-5706a6f32324",
+      "season": 3,
+      "number": 9,
+      "name": "Ødegården - Hakkeorden",
+      "airdate": "2024-12-31"
+    },
+    {
+      "id": "e4e7b8dd-381f-4418-bcef-f1bc543860b3",
+      "season": 3,
+      "number": 10,
+      "name": "Tronskifte",
+      "airdate": "2019-03-31"
+    },
+    {
+      "id": "fc9cdb37-449c-45a9-b95b-9c0a2bfb678f",
+      "season": 3,
+      "number": 11,
+      "name": "Ødegården - Et uhyggeligt eventyr",
+      "airdate": "2019-04-03"
+    },
+    {
+      "id": "55a0bb4e-ac19-41f2-bf3c-ce0c62ff3ae7",
+      "season": 3,
+      "number": 12,
+      "name": "Ødegården - Hilsen til Troldebo",
+      "airdate": "2019-04-07"
+    },
+    {
+      "id": "09480a5f-8215-4e07-902e-910f09f96b4b",
+      "season": 3,
+      "number": 13,
+      "name": "Det stille vand",
+      "airdate": "2019-04-07"
+    },
+    {
+      "id": "3b016c42-3ed7-4e84-b07c-ccdc78c10973",
+      "season": 3,
+      "number": 14,
+      "name": "Ødegården - Den stærkeste",
+      "airdate": "2019-04-10"
+    },
+    {
+      "id": "472563ea-66b9-45fe-815c-eef13011e7fe",
+      "season": 3,
+      "number": 15,
+      "name": "Ødegården - Trolde",
+      "airdate": "2019-04-14"
+    },
+    {
+      "id": "d31d7456-3a28-4692-97bc-2a50da98f7ed",
+      "season": 3,
+      "number": 16,
+      "name": "De små ting",
+      "airdate": "2019-04-14"
+    },
+    {
+      "id": "8ce13854-ac39-4468-a8c3-d5212055767e",
+      "season": 3,
+      "number": 17,
+      "name": "Ødegården - Fighteren",
+      "airdate": "2019-04-17"
+    },
+    {
+      "id": "f6d9eb14-f38d-4204-b7de-962b93e41260",
+      "season": 3,
+      "number": 18,
+      "name": "Ødegården - Hjem til gården",
+      "airdate": "2019-04-21"
+    },
+    {
+      "id": "5bab6336-59a1-4d09-b46c-7ae8475a89a2",
+      "season": 3,
+      "number": 19,
+      "name": "Ubudne gæster",
+      "airdate": "2019-04-21"
+    },
+    {
+      "id": "a7b6de1a-4ef6-4542-8f4d-c70009503968",
+      "season": 3,
+      "number": 20,
+      "name": "Alle skal prøves",
+      "airdate": "2019-05-05"
+    },
+    {
+      "id": "fc8797a0-f44a-4f70-b660-2b93ae155bf7",
+      "season": 3,
+      "number": 21,
+      "name": "Talegaver",
+      "airdate": "2019-05-05"
+    },
+    {
+      "id": "91207939-8778-4616-95ea-7ab0b3d3cab2",
+      "season": 3,
+      "number": 22,
+      "name": "Sejr - finaleugen",
+      "airdate": "2019-05-19"
+    },
+    {
+      "id": "49503f8f-8da4-49dd-a631-3715ce26a5c3",
+      "season": 4,
+      "number": 1,
+      "name": "Venskaber",
+      "airdate": "2020-06-21"
+    },
+    {
+      "id": "dc195c9d-0ef2-4c30-ab95-6babfeaf1137",
+      "season": 4,
+      "number": 2,
+      "name": "Et spadestik dybere",
+      "airdate": "2020-06-20"
+    },
+    {
+      "id": "89548835-b3f0-4740-91c8-1003c072ae63",
+      "season": 4,
+      "number": 3,
+      "name": "Både tårer og sved er salt",
+      "airdate": "2020-06-27"
+    },
+    {
+      "id": "38f8d0f6-00ce-4e04-b756-b91515caf0fa",
+      "season": 4,
+      "number": 4,
+      "name": "Op på hesten",
+      "airdate": "2020-07-04"
+    },
+    {
+      "id": "517b6489-28c0-474e-8a9b-db6e3ff0fa4a",
+      "season": 4,
+      "number": 5,
+      "name": "Sammen og hver for sig",
+      "airdate": "2020-07-11"
+    },
+    {
+      "id": "26ce8977-e2f5-475f-a8a5-dc23f1fbde1d",
+      "season": 4,
+      "number": 6,
+      "name": "Nære relationer",
+      "airdate": "2020-07-18"
+    },
+    {
+      "id": "e23c75c8-c013-47bd-b0c4-7a7738571f58",
+      "season": 4,
+      "number": 7,
+      "name": "Efter regnen",
+      "airdate": "2020-07-25"
+    },
+    {
+      "id": "59466e21-cb8e-4fd4-968a-535bda71e91f",
+      "season": 4,
+      "number": 8,
+      "name": "Svære valg",
+      "airdate": "2020-08-01"
+    },
+    {
+      "id": "89716ac2-2fa1-4baa-a25a-be1e1d181f35",
+      "season": 4,
+      "number": 9,
+      "name": "Fårene fra bukkene",
+      "airdate": "2020-08-08"
+    },
+    {
+      "id": "cfb6ce07-45c2-4091-8fcf-6ff961217127",
+      "season": 4,
+      "number": 10,
+      "name": "Og til sidst var der én",
+      "airdate": "2020-08-23"
+    },
+    {
+      "id": "fd56d07f-3edc-4d99-8368-fa4423c073d6",
+      "season": 5,
+      "number": 1,
+      "name": "Tilbage i folden",
+      "airdate": "2021-03-14"
+    },
+    {
+      "id": "7f8707b5-fb47-471b-800c-cfbc98183b5a",
+      "season": 5,
+      "number": 2,
+      "name": "Svinestreger",
+      "airdate": "2021-03-14"
+    },
+    {
+      "id": "f42d911f-0e89-4ea6-9a21-5ee1f0e78934",
+      "season": 5,
+      "number": 3,
+      "name": "Venner og fjender",
+      "airdate": "2021-03-20"
+    },
+    {
+      "id": "a97ccfe3-1146-40ff-a661-99f9f3b7242a",
+      "season": 5,
+      "number": 4,
+      "name": "Torden og buldren",
+      "airdate": "2021-03-27"
+    },
+    {
+      "id": "c1c88f11-bdd0-4b57-bc34-6f79e4f483d7",
+      "season": 5,
+      "number": 5,
+      "name": "Brænde på bålet",
+      "airdate": "2021-04-03"
+    },
+    {
+      "id": "78856270-f65f-447f-8a07-9251a7d4915f",
+      "season": 5,
+      "number": 6,
+      "name": "Spil for galleriet",
+      "airdate": "2021-04-10"
+    },
+    {
+      "id": "4f8662ce-62ca-484a-a94e-0508a876ad99",
+      "season": 5,
+      "number": 7,
+      "name": "Samvittigheden lyver ikke",
+      "airdate": "2021-04-17"
+    },
+    {
+      "id": "12b27991-233a-46f9-a23e-682e04ba8f16",
+      "season": 5,
+      "number": 8,
+      "name": "Presset til det yderste",
+      "airdate": "2021-04-24"
+    },
+    {
+      "id": "a2729d6c-24e3-4dba-b2c2-88c726dfb53a",
+      "season": 5,
+      "number": 9,
+      "name": "Hønen og hanerne",
+      "airdate": "2021-05-01"
+    },
+    {
+      "id": "e8cac6ec-4395-44df-a857-32efb2a1bdbb",
+      "season": 5,
+      "number": 10,
+      "name": "Sidste stik",
+      "airdate": "2021-05-08"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": "tv2play:ambulancen-liv-eller-doed-tv2",
+  "name": "Ambulancen - liv eller død",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-23",
+  "episodes": [
+    {
+      "id": "03be9a4e-2d02-4c3a-9f9f-0b6385577912",
+      "season": 13,
+      "number": 1,
+      "name": "Mandskab under angreb",
+      "airdate": "2025-06-23"
+    },
+    {
+      "id": "574f07bc-1e91-48ba-b363-cfa17e56d880",
+      "season": 13,
+      "number": 2,
+      "name": "Politistation i flammer",
+      "airdate": "2025-06-24"
+    },
+    {
+      "id": "58eb317c-f502-4e42-a357-3459c1b25803",
+      "season": 13,
+      "number": 3,
+      "name": "Falsk alarm",
+      "airdate": "2025-06-25"
+    },
+    {
+      "id": "b1b49930-f45e-4d40-9c8b-ddc1c662a8a8",
+      "season": 13,
+      "number": 4,
+      "name": "Skyderi på gågaden",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "c55051b8-f199-4889-9ecd-4e41ffd736cf",
+      "season": 13,
+      "number": 5,
+      "name": "Hvad er du bange for?",
+      "airdate": "2025-06-27"
+    },
+    {
+      "id": "1661e128-7729-4fd7-b23b-974ad48f2a20",
+      "season": 13,
+      "number": 6,
+      "name": "Ikke mere plads",
+      "airdate": "2025-06-30"
+    },
+    {
+      "id": "994f0474-be8c-4be6-90d9-880ded989369",
+      "season": 14,
+      "number": 1,
+      "name": "Krise på gaden",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "e9e8a9de-0697-41f6-a8a6-580cca4d9b66",
+      "season": 14,
+      "number": 2,
+      "name": "Efter mørkets frembrud",
+      "airdate": "2025-09-18"
+    },
+    {
+      "id": "0be64953-1e9c-49b2-a297-889babe9debd",
+      "season": 14,
+      "number": 3,
+      "name": "En rasende hund",
+      "airdate": "2025-09-19"
+    },
+    {
+      "id": "f793c584-7500-47b4-918f-6400808bc644",
+      "season": 14,
+      "number": 4,
+      "name": "Stukket ned",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "35a2c4a1-09b4-4185-8d75-01689429c276",
+      "season": 14,
+      "number": 5,
+      "name": "Stalker på linjen",
+      "airdate": "2025-09-23"
+    },
+    {
+      "id": "c396b5c0-7ebe-405b-b4bf-6090eb7184af",
+      "season": 14,
+      "number": 6,
+      "name": "Reddet af en fremmed",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "a71dd8b1-4acd-4af9-8946-ca0547672569",
+      "season": 15,
+      "number": 1,
+      "name": "Nætter i Bradford",
+      "airdate": "2026-08-10"
+    },
+    {
+      "id": "6943fe85-4c42-474a-b46a-c0fd1deaa1b7",
+      "season": 15,
+      "number": 2,
+      "name": "Spionen i mørket",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "23df67f7-c063-40f8-b0b4-252c53a9f090",
+      "season": 15,
+      "number": 3,
+      "name": "Sammenstød",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "7e7834cd-dea9-4adb-813e-dbf5eb5053be",
+      "season": 15,
+      "number": 4,
+      "name": "En fremmed i Dales",
+      "airdate": "2026-08-13"
+    },
+    {
+      "id": "b20a3631-264a-4bfb-b7ad-721c82b9b544",
+      "season": 15,
+      "number": 5,
+      "name": "Knuste hjerter",
+      "airdate": "2026-08-14"
+    },
+    {
+      "id": "db70588b-9279-4587-a42c-3542d421f367",
+      "season": 15,
+      "number": 6,
+      "name": "Giv ikke slip",
+      "airdate": "2026-08-17"
+    },
+    {
+      "id": "3d8d849e-e46f-4ebb-9388-7867fe7badb1",
+      "season": 16,
+      "number": 1,
+      "name": "Et hårdt slag",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "905e0c96-d7de-4600-9051-80e62dc03304",
+      "season": 16,
+      "number": 2,
+      "name": "Den sidste ferie",
+      "airdate": "2026-10-19"
+    },
+    {
+      "id": "4cae3003-ee85-4b6a-9124-2aae2471c84a",
+      "season": 16,
+      "number": 3,
+      "name": "Belejringen",
+      "airdate": "2026-10-20"
+    },
+    {
+      "id": "e3b58e37-64d4-411e-a615-321746a53fdd",
+      "season": 16,
+      "number": 4,
+      "name": "Landet i grøften",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "00442b40-3253-4deb-8c2a-0418388ca512",
+      "season": 16,
+      "number": 5,
+      "name": "Langt ude i skoven",
+      "airdate": "2026-10-22"
+    }
+  ]
+}

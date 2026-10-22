@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:harlots-britbox",
+  "name": "Harlots",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f57ce3b5-abef-4cc7-a0dc-bfa6e13d18c7",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "6eff4891-0f03-4310-a035-5a0eafde9fbf",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "ed49c552-0a71-4eb7-b37d-1f3e49c2a9f3",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "5f5d1875-2ce7-4768-8519-31e09eb24f18",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "1452f43a-12e0-473d-aa89-a8108afddc15",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "858888fd-a847-4544-a740-27133e4615f5",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "ef09897d-6644-432f-93f8-6d8bb2e5b107",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "0020f723-f62d-4914-bb99-0488808f855b",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "a13a9be3-49ce-42d3-b4f5-e2d69922b1ea",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "b1a46b77-fd56-4091-bac1-14b01628480a",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "5f292afb-66f7-474d-acff-d3cd7875abc9",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "1096cfb8-1877-4c15-bf66-dacd44d04261",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "bcf8d813-45ea-4f9a-a7a0-a40a22dfde7f",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "b6b2d7cd-fa69-438b-9c6d-d9ad8a9bcaba",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "ca479cc8-a2b9-4912-abf5-f73823661e2c",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "d0bab219-d19e-4ef8-b1be-5478ba6353ac",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "64dba47f-dbf1-4a2c-bde9-c6f7b760c0c8",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "8cae4f7e-5862-4d38-8472-9582da7e41f5",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "b3825bf4-fe00-4a58-818a-327d5df8ccfe",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "74ef96e8-5427-41b8-afed-e0bfc2da1626",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "b715b5cf-f1cd-4a39-86bb-b8ac4b01d3bb",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "e9b66391-4c27-4592-933b-07faa5da6270",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "53f4785c-339a-4014-bdf6-7b4a895cf17f",
+      "season": 3,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "36b5e4fc-b56b-4ae3-9c0d-917ba6939485",
+      "season": 3,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-02-12"
+    }
+  ]
+}

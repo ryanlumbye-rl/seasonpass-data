@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:jul-paa-alpehotellet-tv2fri",
+  "name": "Jul på alpehotellet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0f5de902-6108-44fb-9120-2b3d0bb72205",
+      "season": 1,
+      "number": 1,
+      "name": "Vi må bare ikke ødelægge julemaden!",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "d579b595-348f-41b7-b5d9-b94a7689dba9",
+      "season": 1,
+      "number": 2,
+      "name": "Vores første jul på hotellet",
+      "airdate": "2025-11-20"
+    }
+  ]
+}

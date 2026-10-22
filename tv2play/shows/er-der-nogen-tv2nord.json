@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:er-der-nogen-tv2nord",
+  "name": "Er der nogen?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "39730b52-861c-4ed6-ab72-23877d6f7f2a",
+      "season": 10,
+      "number": 1,
+      "name": "Skørping Sanatorium, del 1",
+      "airdate": "2023-10-20"
+    },
+    {
+      "id": "9d80b91e-1e78-4dec-8aff-f1093997aea0",
+      "season": 10,
+      "number": 2,
+      "name": "Skørping Sanatorium, del 2",
+      "airdate": "2023-10-20"
+    },
+    {
+      "id": "18ac7b72-d3a1-45e7-97f8-0a876b5c492a",
+      "season": 10,
+      "number": 3,
+      "name": "Buderup Ødekirke, del 1",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "c057edf9-b4d9-40bd-814d-6f4c9bb3ff3a",
+      "season": 10,
+      "number": 4,
+      "name": "Buderup Ødekirke, del 2",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "07846ade-f479-4bcd-8cbe-efceaa59ae03",
+      "season": 10,
+      "number": 5,
+      "name": "Knivholt Hovedgård, del 1",
+      "airdate": "2023-11-17"
+    },
+    {
+      "id": "5fd38ac5-c693-45c3-a158-1c707e631cf2",
+      "season": 10,
+      "number": 6,
+      "name": "Knivholt Hovedgård, del 2",
+      "airdate": "2023-11-17"
+    },
+    {
+      "id": "c38bd8d6-049b-4d1b-86a3-fa2f9a858cc3",
+      "season": 10,
+      "number": 7,
+      "name": "Hospitalsbunkeren, del 1",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "fa16596f-7bf6-46b4-9134-768dd5657e08",
+      "season": 10,
+      "number": 8,
+      "name": "Hospitalsbunkeren, del 2",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "7796eba7-9207-4d40-ae70-da1d741bb1fc",
+      "season": 10,
+      "number": 9,
+      "name": "Jul på Waar Hovedgaard",
+      "airdate": "2023-12-22"
+    },
+    {
+      "id": "9066aae3-b925-44b1-a05a-195c793568fb",
+      "season": 10,
+      "number": 10,
+      "name": "Gys på Vendelbohus",
+      "airdate": "2024-01-05"
+    },
+    {
+      "id": "424471d4-d0d9-4b91-a82d-bb04db9b906b",
+      "season": 11,
+      "number": 1,
+      "name": "Frygtsomme Kondrup",
+      "airdate": "2024-05-17"
+    },
+    {
+      "id": "2b14b80d-fd7a-42b2-b028-faf886460172",
+      "season": 11,
+      "number": 2,
+      "name": "Sussi leder efter Leo",
+      "airdate": "2024-05-24"
+    },
+    {
+      "id": "b03caab4-8412-4f50-8d42-1010d30206c1",
+      "season": 11,
+      "number": 3,
+      "name": "Jeg vil gerne hjem nu",
+      "airdate": "2024-05-31"
+    },
+    {
+      "id": "b2ae4b9e-936d-4ddb-b28c-40ff0566400d",
+      "season": 11,
+      "number": 4,
+      "name": "På spøgelsesjagt i Frederikshavn",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "610f1269-3fef-4fc2-b074-7c507c6050d4",
+      "season": 12,
+      "number": 1,
+      "name": "Det er sygt det der",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "fbc8365a-0aa5-4fb7-856f-4894d4f4a86a",
+      "season": 12,
+      "number": 2,
+      "name": "De kolde hænder",
+      "airdate": "2024-11-15"
+    },
+    {
+      "id": "e7d0bedb-f27f-4a0a-afca-7ed1c89ac1bd",
+      "season": 12,
+      "number": 3,
+      "name": "De døde tvillinger",
+      "airdate": "2024-11-22"
+    },
+    {
+      "id": "0c90fff8-edca-4138-8622-ac8334484677",
+      "season": 12,
+      "number": 4,
+      "name": "Død og humor",
+      "airdate": "2024-11-29"
+    },
+    {
+      "id": "0341c5dc-b354-4723-918b-40100e363d8f",
+      "season": 13,
+      "number": 1,
+      "name": "Skrig og skrål",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "f51eadfd-82d6-4903-9601-c98283f7c4e0",
+      "season": 13,
+      "number": 2,
+      "name": "Jagten på Den Hvide Dame",
+      "airdate": "2025-11-21"
+    },
+    {
+      "id": "7b3d0152-0d41-40fd-bb84-83813f5aab6c",
+      "season": 13,
+      "number": 3,
+      "name": "Gå forbi det grønne lys",
+      "airdate": "2025-11-28"
+    },
+    {
+      "id": "5e0bb0bd-f6de-4335-802f-0ea828f8e3b3",
+      "season": 13,
+      "number": 4,
+      "name": "Uventet og uvenligt besøg",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "bd55505f-06a7-4f1d-a393-f432699d2210",
+      "season": 13,
+      "number": 5,
+      "name": "Den døde russer",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "f2efd96c-1f3c-44c8-b719-1134b9902abf",
+      "season": 13,
+      "number": 6,
+      "name": "Begravelsen",
+      "airdate": "2025-12-19"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "tv2play:24-stjerners-julikalender-tv2echo",
+  "name": "24 stjerners julikalender",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6b69474f-606d-4a79-9341-cae866751841",
+      "season": 1,
+      "number": 1,
+      "name": "Midsommer",
+      "airdate": "2026-06-23"
+    },
+    {
+      "id": "2c030835-ccc6-4560-99f7-dfbcae07eb6f",
+      "season": 1,
+      "number": 2,
+      "name": "Vejfest",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "ba5a2307-fd17-4bcc-9e36-4eaed4907607",
+      "season": 1,
+      "number": 3,
+      "name": "Studenterkørsel",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "a75e2a40-dfab-4c90-85ea-4d276430a16f",
+      "season": 1,
+      "number": 4,
+      "name": "Sunshine reggae",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "373bfd55-6a4c-453f-8c58-b076922a5369",
+      "season": 1,
+      "number": 5,
+      "name": "Sommerfestival",
+      "airdate": "2026-07-01"
+    },
+    {
+      "id": "ec9987b6-869d-4a74-80b6-51140da224c4",
+      "season": 1,
+      "number": 6,
+      "name": "Blomsterne og bien",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "1602e2b9-72db-4a01-9368-71e73d19e7fe",
+      "season": 1,
+      "number": 7,
+      "name": "Camping",
+      "airdate": "2026-07-07"
+    },
+    {
+      "id": "0048fd0d-d2b4-4721-b88e-f448b685c698",
+      "season": 1,
+      "number": 8,
+      "name": "Strandtur",
+      "airdate": "2026-07-08"
+    },
+    {
+      "id": "2aacf8ca-0231-49f7-bfb3-59b9722cbea4",
+      "season": 1,
+      "number": 9,
+      "name": "Wimbledon",
+      "airdate": "2026-07-09"
+    },
+    {
+      "id": "09ec8ce7-6e35-48ac-a573-69785caa21d8",
+      "season": 1,
+      "number": 10,
+      "name": "Uge 29",
+      "airdate": "2026-07-14"
+    },
+    {
+      "id": "40a475c4-9ce6-4bcc-a331-0b6d4dd6b0eb",
+      "season": 1,
+      "number": 11,
+      "name": "To mennesker på strand",
+      "airdate": "2026-07-15"
+    },
+    {
+      "id": "749f7f32-f017-4518-ad4b-45a23ccc8a8e",
+      "season": 1,
+      "number": 12,
+      "name": "Havespil",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "b13d4e03-8c0e-41dc-a427-75f6813b861e",
+      "season": 1,
+      "number": 13,
+      "name": "All inclusive",
+      "airdate": "2026-07-21"
+    },
+    {
+      "id": "a47f6965-f08d-45c4-a982-2028e633f416",
+      "season": 1,
+      "number": 14,
+      "name": "Sommerflirt",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "1f169a60-5f36-49f5-8667-c9da588ad417",
+      "season": 1,
+      "number": 15,
+      "name": "Tour de France",
+      "airdate": "2026-07-23"
+    },
+    {
+      "id": "ea8b0602-989d-4865-9650-657d64370f74",
+      "season": 1,
+      "number": 16,
+      "name": "Sommerjob",
+      "airdate": "2026-07-28"
+    },
+    {
+      "id": "96a8663c-aee2-4b1c-bfe6-0f1ec13a74c9",
+      "season": 1,
+      "number": 17,
+      "name": "Smuk som et stjerneskud",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "1332309c-03e2-4e9f-8cac-88e294950129",
+      "season": 1,
+      "number": 18,
+      "name": "Lejrbål",
+      "airdate": "2026-07-30"
+    },
+    {
+      "id": "d2e7a3e2-62ce-4402-bea1-6cff4c60cc00",
+      "season": 1,
+      "number": 19,
+      "name": "Bilferie",
+      "airdate": "2026-08-04"
+    },
+    {
+      "id": "bc8d6956-8e5a-4ada-acef-35bc2777cf0d",
+      "season": 1,
+      "number": 20,
+      "name": "Afbudsrejse",
+      "airdate": "2026-08-05"
+    },
+    {
+      "id": "6fd188ad-e0ce-460b-8902-240d1ba18e10",
+      "season": 1,
+      "number": 21,
+      "name": "Sommer i Europa",
+      "airdate": "2026-08-06"
+    },
+    {
+      "id": "8c121e2c-0b3c-4d65-ac1a-ea7f0fffe896",
+      "season": 1,
+      "number": 22,
+      "name": "Brandfarlig sommer",
+      "airdate": "2026-08-11"
+    },
+    {
+      "id": "e9d2a941-7b39-43be-8bf0-ba158e09708e",
+      "season": 1,
+      "number": 23,
+      "name": "Skolestart",
+      "airdate": "2026-08-12"
+    },
+    {
+      "id": "917d9562-50fa-4942-b629-88b97f662e3f",
+      "season": 1,
+      "number": 24,
+      "name": "Solen skinner altid på en vinder",
+      "airdate": "2026-08-13"
+    }
+  ]
+}

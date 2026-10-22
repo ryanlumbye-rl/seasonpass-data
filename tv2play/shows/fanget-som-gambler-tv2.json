@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:fanget-som-gambler-tv2",
+  "name": "Fanget som gambler",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "82ba6e9f-408e-4db6-946f-161012965baa",
+      "season": 1,
+      "number": 1,
+      "name": "Besat af spillet",
+      "airdate": "2026-04-22"
+    },
+    {
+      "id": "3d0a1c51-4154-4f4e-938e-dacdf8fa68aa",
+      "season": 1,
+      "number": 2,
+      "name": "Hvordan slipper man ud?",
+      "airdate": "2026-04-29"
+    }
+  ]
+}

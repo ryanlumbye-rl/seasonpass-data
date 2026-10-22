@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:duften-af-michelin-tv2play",
+  "name": "Duften af Michelin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a6d528c9-0919-4ca6-8799-8b8f92e32610",
+      "season": 2,
+      "number": 1,
+      "name": "Søren drømmer videre",
+      "airdate": "2026-10-17"
+    }
+  ]
+}

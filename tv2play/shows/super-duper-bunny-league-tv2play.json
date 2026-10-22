@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:super-duper-bunny-league-tv2play",
+  "name": "Super Duper Bunny League",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a527c08c-fd7e-4dd4-9de5-266726b662d4",
+      "season": 1,
+      "number": 1,
+      "name": "Øgleøjne!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "627e65f7-e820-4127-9b63-d7aac511605c",
+      "season": 1,
+      "number": 2,
+      "name": "Tante Frys!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "770eb229-ed1d-471f-9dfb-b605514c0c82",
+      "season": 1,
+      "number": 3,
+      "name": "Kanon-karl!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "06b0ca6f-1fd0-4eb2-a01e-931a7e29d7cc",
+      "season": 1,
+      "number": 4,
+      "name": "Dårlig hårdag!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "ec5c3904-3716-4282-bf74-3407412d5291",
+      "season": 1,
+      "number": 5,
+      "name": "Stinkemonstret!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "530d7170-334d-439b-a4a9-314b2672e2a2",
+      "season": 1,
+      "number": 6,
+      "name": "Chokoladekaniner!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "fadcccfe-8025-4952-8a9c-d61da3a610ee",
+      "season": 1,
+      "number": 7,
+      "name": "Den prægtige pungrotte!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "3d628a06-0e20-4d25-b12d-c6571c633d25",
+      "season": 1,
+      "number": 8,
+      "name": "Nullermænd!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "61d93dfb-7f76-4014-bef8-1c6e24f80f54",
+      "season": 1,
+      "number": 9,
+      "name": "Tågebot!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "09788187-8c89-435b-a3ac-a7b274b9f8db",
+      "season": 1,
+      "number": 10,
+      "name": "Den store Kleptoni!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "5a6961f2-4f03-4b38-b150-bd05aeb1ef2c",
+      "season": 1,
+      "number": 11,
+      "name": "Kæmpekanin!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "5ed7ea1a-31bf-4f03-a5e2-948a60e893f9",
+      "season": 1,
+      "number": 12,
+      "name": "Nuttede namsemus!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "31061ce5-54ed-48db-92e9-c72865e4c7b9",
+      "season": 1,
+      "number": 13,
+      "name": "Super Duper Kaniner!",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "50e54848-2abe-4e42-a395-31f1a852392f",
+      "season": 2,
+      "number": 1,
+      "name": "Piraternes skat!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "2226d566-058a-4c4e-9d81-f550e3ce29ac",
+      "season": 2,
+      "number": 2,
+      "name": "Seje drenge fra rummet!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "365fcf44-b3e1-482a-80ec-bcfa29acc799",
+      "season": 2,
+      "number": 3,
+      "name": "Kaninerne skal i bad!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "ccb7711b-e577-457a-b922-2dc9633c69a5",
+      "season": 2,
+      "number": 4,
+      "name": "Tante Arktika!",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "883b500a-1a3e-4b22-b851-ad5b0e38f5b3",
+      "season": 2,
+      "number": 5,
+      "name": "Frø-fjæs!",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "fa01be96-a820-4e85-a9fe-f245026b2729",
+      "season": 2,
+      "number": 6,
+      "name": "Spøgelser!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "d908b104-5de7-4ea3-a38f-149fd2fed3fa",
+      "season": 2,
+      "number": 7,
+      "name": "Sokkeaber!",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "86567fc5-ca2f-4163-bef7-d35a208b6e5b",
+      "season": 2,
+      "number": 8,
+      "name": "Kaninerne redder julen!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "69f7dafa-3a87-4fb9-95d1-5065cf4a9d57",
+      "season": 2,
+      "number": 9,
+      "name": "Baby-Middy!",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "30c93c1a-2746-4b1b-a841-2beb00538c87",
+      "season": 2,
+      "number": 10,
+      "name": "Tudende Annie!",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "54081dfd-c8e8-4b9c-ab73-878f9c3cd810",
+      "season": 2,
+      "number": 11,
+      "name": "Lange,høje Sally!",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "ce2dad63-a3e9-453f-8d64-8ef688480c73",
+      "season": 2,
+      "number": 12,
+      "name": "Øgleøjne vender tilbage!",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "a3ee5150-6d5b-4bc1-a3d8-b2642dbfe484",
+      "season": 2,
+      "number": 13,
+      "name": "Fedtede Bedste!",
+      "airdate": "2026-10-03"
+    }
+  ]
+}

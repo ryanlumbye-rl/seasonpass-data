@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:freia-tv2play",
+  "name": "Freia",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b4d5696f-c9f9-4f3e-917a-a5e5d9d82b69",
+      "season": 1,
+      "number": 1,
+      "name": "Af med pindene",
+      "airdate": "2026-09-13"
+    },
+    {
+      "id": "7da965f7-28fb-4721-83da-07e61f213538",
+      "season": 1,
+      "number": 2,
+      "name": "Tynd hud og slidte ventiler",
+      "airdate": "2026-09-20"
+    },
+    {
+      "id": "76077421-553d-4c9f-9d48-8bb201ade4d4",
+      "season": 1,
+      "number": 3,
+      "name": "Detektivarbejde og trætte rygge",
+      "airdate": "2026-09-27"
+    },
+    {
+      "id": "074622bb-1194-4f38-815e-083a0e353223",
+      "season": 1,
+      "number": 4,
+      "name": "Tilbage på havet",
+      "airdate": "2026-10-04"
+    }
+  ]
+}

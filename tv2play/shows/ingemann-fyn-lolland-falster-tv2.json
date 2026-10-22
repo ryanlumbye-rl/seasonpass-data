@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:ingemann-fyn-lolland-falster-tv2",
+  "name": "Ingemann, Fyn & Lolland-Falster",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "aed2c2a5-e567-4c54-82cf-cd1f0669f69d",
+      "season": 1,
+      "number": 1,
+      "name": "Lillebæltsbroen, Ferrari og brunsviger",
+      "airdate": "2021-02-09"
+    },
+    {
+      "id": "dd1ff5d8-ee1c-40a2-af41-1e331de2fa4e",
+      "season": 1,
+      "number": 2,
+      "name": "Lyø, Gundestrup Mejeri og Jim Lyngvild",
+      "airdate": "2021-02-09"
+    },
+    {
+      "id": "7af6b600-966b-4428-973c-18a96cc4edf3",
+      "season": 1,
+      "number": 3,
+      "name": "Svendborg, Ærø og Langeland",
+      "airdate": "2021-02-16"
+    },
+    {
+      "id": "2152b371-8269-4956-83b8-e0ef83ecdaa0",
+      "season": 1,
+      "number": 4,
+      "name": "Hestesafari, Dodekalitten og verdens største blide",
+      "airdate": "2021-02-23"
+    },
+    {
+      "id": "c62eda7a-d8f0-479a-96eb-8b15f73a770c",
+      "season": 1,
+      "number": 5,
+      "name": "Falsters hvide guld, Marielyst og Claus Jensen",
+      "airdate": "2021-03-02"
+    },
+    {
+      "id": "aafb8de4-d8e0-4646-a4e8-d22b002b0428",
+      "season": 1,
+      "number": 6,
+      "name": "Fra Tåsinge til Kerteminde",
+      "airdate": "2021-03-09"
+    },
+    {
+      "id": "2345409d-8efe-4964-8841-19fe8e23a709",
+      "season": 1,
+      "number": 7,
+      "name": "Fra Kerteminde til Middelfart",
+      "airdate": "2021-03-16"
+    }
+  ]
+}

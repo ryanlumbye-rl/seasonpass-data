@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:et-andet-liv-none",
+  "name": "Et andet liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "961a1fca-d38d-4934-b247-f16988c750f9",
+      "season": 1,
+      "number": 1,
+      "name": "Kroppen sagde stop midt i klinikken",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "4d44ecd4-4905-4a6f-9530-e83641f7f4be",
+      "season": 1,
+      "number": 2,
+      "name": "Hun lever på kun 14 kvadratmeter",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "4b0aca3b-efdd-4bb0-af13-42c909f89f1e",
+      "season": 1,
+      "number": 3,
+      "name": "Jagten på mere ro, frihed og et nyt arbejdsliv",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "2b94a2b2-aff3-4af4-b243-3a5fa4fc7779",
+      "season": 1,
+      "number": 4,
+      "name": "Et bedre liv handler ikke kun om få arbejdstimer",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "2d96172e-6be1-4fc5-b97c-e15a302cb93e",
+      "season": 1,
+      "number": 5,
+      "name": "Familien valgte hjemmeskole og frihed på Ærø",
+      "airdate": "2026-09-12"
+    },
+    {
+      "id": "6b202bc4-5f64-4908-aac1-4d0974bc27c0",
+      "season": 1,
+      "number": 6,
+      "name": "Nybagt mor, men skruer ikke ned for arbejdet",
+      "airdate": "2026-09-12"
+    }
+  ]
+}

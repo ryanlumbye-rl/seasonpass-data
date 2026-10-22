@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:any-human-heart-tv2play",
+  "name": "Any Human Heart",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ea6b3ad0-a27e-495f-8a0f-03ed8a602f0a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "cd5548d6-9a4b-452b-b975-a88b56148c52",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "000a2b28-e94c-44e8-8545-8efee2f3d08b",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "7ec8f969-c2de-4bf4-8857-fd9250850e95",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "4a8e202c-1766-4302-86ab-d0e70ab8be3c",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-07-29"
+    },
+    {
+      "id": "50f45325-26b6-431f-ab9e-f34ef27a5104",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-07-29"
+    }
+  ]
+}

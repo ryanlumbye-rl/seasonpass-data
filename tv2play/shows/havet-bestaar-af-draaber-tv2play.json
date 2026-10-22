@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:havet-bestaar-af-draaber-tv2play",
+  "name": "Havet består af dråber",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1da5c404-d3bd-4229-9df8-7fa35e067a9f",
+      "season": 1,
+      "number": 1,
+      "name": "Del 1",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "021a9935-194a-4b2d-8812-328266f0be2c",
+      "season": 1,
+      "number": 2,
+      "name": "Del 2",
+      "airdate": "2026-09-22"
+    }
+  ]
+}

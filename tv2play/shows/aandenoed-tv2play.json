@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:aandenoed-tv2play",
+  "name": "Åndenød",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "337eef29-088d-4706-80a2-44d99c120008",
+      "season": 1,
+      "number": 1,
+      "name": "Containment",
+      "airdate": "2025-08-20"
+    },
+    {
+      "id": "eae25260-73eb-4ada-a473-226d9eed6174",
+      "season": 1,
+      "number": 2,
+      "name": "Delay",
+      "airdate": "2025-08-20"
+    },
+    {
+      "id": "51fee48c-e38e-44c9-8308-77df8696daf2",
+      "season": 1,
+      "number": 3,
+      "name": "Mitigation",
+      "airdate": "2025-08-20"
+    }
+  ]
+}

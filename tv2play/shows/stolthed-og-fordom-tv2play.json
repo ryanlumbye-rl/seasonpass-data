@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:stolthed-og-fordom-tv2play",
+  "name": "Stolthed og fordom",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a378d7a6-925d-4731-98a1-eeeb18e7c835",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "1997-05-13"
+    },
+    {
+      "id": "3c5639c5-ce48-478e-96fe-e49a93140e16",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "1997-05-20"
+    },
+    {
+      "id": "8ef12ad7-ce3d-4f6b-87a0-b76490becc2e",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "1997-05-27"
+    },
+    {
+      "id": "33f15b12-a4be-4b76-b91f-37d530489bf0",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "1997-06-02"
+    },
+    {
+      "id": "da5d7f04-85a3-48df-8364-20b35e344222",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "1997-06-09"
+    },
+    {
+      "id": "babac0a1-2ee3-43ce-b729-cbc81c3e061f",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "1997-06-16"
+    }
+  ]
+}

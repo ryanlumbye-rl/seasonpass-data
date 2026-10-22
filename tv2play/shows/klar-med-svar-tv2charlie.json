@@ -1,0 +1,122 @@
+{
+  "id": "tv2play:klar-med-svar-tv2charlie",
+  "name": "Klar med svar",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4727afb0-6ca9-4751-a201-8ddd5d3ef91f",
+      "season": 1,
+      "number": 1,
+      "name": "Film, serier og Danmark",
+      "airdate": "2023-07-22"
+    },
+    {
+      "id": "3b0d2426-d814-4406-92c9-e0ed544304bd",
+      "season": 1,
+      "number": 2,
+      "name": "Transport og 90'erne",
+      "airdate": "2023-07-22"
+    },
+    {
+      "id": "36b4791a-44ad-4efe-a731-ff673fa2a9d2",
+      "season": 1,
+      "number": 3,
+      "name": "Børn og Frankrig",
+      "airdate": "2023-07-29"
+    },
+    {
+      "id": "5e4e1003-e800-4cd6-96b9-e26cfa5fae1b",
+      "season": 1,
+      "number": 4,
+      "name": "Danske dyr og musik",
+      "airdate": "2023-08-05"
+    },
+    {
+      "id": "e50fec43-9932-423c-8b37-c3f44b1e2163",
+      "season": 1,
+      "number": 5,
+      "name": "70'erne og rejser",
+      "airdate": "2023-08-12"
+    },
+    {
+      "id": "9dd5627d-82bb-436f-9300-bcf8c912d4a7",
+      "season": 1,
+      "number": 6,
+      "name": "Sport og internettet",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "44753aa6-331b-4514-b59f-a0b74481bcac",
+      "season": 1,
+      "number": 7,
+      "name": "Mad og mennesket",
+      "airdate": "2023-08-26"
+    },
+    {
+      "id": "e176ed52-1543-409d-b8ea-4ead85dcc5a7",
+      "season": 1,
+      "number": 8,
+      "name": "Hjemmet og dansk politik",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "8b979f77-0de0-4d9a-b506-cfef365768b4",
+      "season": 2,
+      "number": 1,
+      "name": "Opfindelser og 00’erne",
+      "airdate": "2024-06-08"
+    },
+    {
+      "id": "f8ff0f3a-6e75-43fb-9ccf-a675cd84079a",
+      "season": 2,
+      "number": 2,
+      "name": "Folkeskolen og havet",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "7d152605-f5bb-42ab-bc73-676375d3282d",
+      "season": 2,
+      "number": 3,
+      "name": "Musik og mode",
+      "airdate": "2024-06-22"
+    },
+    {
+      "id": "ebd9ee89-b63b-42bf-96c8-8e231b8d5882",
+      "season": 2,
+      "number": 4,
+      "name": "Sprog og klima",
+      "airdate": "2024-06-29"
+    },
+    {
+      "id": "9336b791-cb2c-4efc-89ce-49ad56b35c50",
+      "season": 2,
+      "number": 5,
+      "name": "Festivaler og Asien",
+      "airdate": "2024-07-06"
+    },
+    {
+      "id": "b9d14b81-9b78-47ad-90f5-b47ffcdcd954",
+      "season": 2,
+      "number": 6,
+      "name": "Jylland og kød",
+      "airdate": "2024-07-13"
+    },
+    {
+      "id": "a1da326b-f5fb-4d05-80ab-1c1a7ec16d52",
+      "season": 2,
+      "number": 7,
+      "name": "Sport og haven",
+      "airdate": "2024-07-20"
+    },
+    {
+      "id": "a476eecc-0913-47c2-90e1-085b32fd43d8",
+      "season": 2,
+      "number": 8,
+      "name": "Eventyr og landbrug",
+      "airdate": "2024-07-27"
+    }
+  ]
+}

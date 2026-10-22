@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:rungsted-4ever-tv2play",
+  "name": "Rungsted 4ever",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "093f4243-0d1d-420b-b6b4-4f629308a719",
+      "season": 1,
+      "number": 1,
+      "name": "Man fucker ikke med hierarkiet",
+      "airdate": "2020-02-27"
+    },
+    {
+      "id": "aef8c3f5-2988-4b11-a5dd-09c7dba70f0c",
+      "season": 1,
+      "number": 2,
+      "name": "En kold dukkert",
+      "airdate": "2020-02-27"
+    },
+    {
+      "id": "74362e44-ef6e-4a20-be6d-49df576caa70",
+      "season": 1,
+      "number": 3,
+      "name": "Krisen kradser",
+      "airdate": "2020-03-05"
+    },
+    {
+      "id": "ef72affc-3cc8-4da8-b246-4b95364477dd",
+      "season": 1,
+      "number": 4,
+      "name": "En homoseksuel ishockeyspiller",
+      "airdate": "2020-03-12"
+    },
+    {
+      "id": "ef428e20-e702-4ad0-b8aa-deaeab6bf44c",
+      "season": 1,
+      "number": 5,
+      "name": "Den polske Porsche",
+      "airdate": "2020-03-19"
+    },
+    {
+      "id": "38505320-0fdf-42d6-9e1e-5ce22d9b6611",
+      "season": 1,
+      "number": 6,
+      "name": "New York, New York",
+      "airdate": "2020-03-26"
+    },
+    {
+      "id": "229b697b-7006-4bf2-b5b7-6070bd5698a1",
+      "season": 1,
+      "number": 7,
+      "name": "Bitcoins, hunde og masser af swagger",
+      "airdate": "2020-04-02"
+    },
+    {
+      "id": "6d46dff9-627e-47e1-9dd2-4bd7fa66484a",
+      "season": 1,
+      "number": 8,
+      "name": "Sidste tur med kliken",
+      "airdate": "2020-04-09"
+    }
+  ]
+}

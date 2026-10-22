@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:helt-sin-egen-tv2play",
+  "name": "Helt sin egen",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-25",
+  "episodes": [
+    {
+      "id": "215f1915-aa3c-440e-a9c0-8e339d029786",
+      "season": 1,
+      "number": 1,
+      "name": "Skiltevaskeren fra Nakskov",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "8bda3a07-3ea0-4abb-a1b9-28200f35f65e",
+      "season": 1,
+      "number": 2,
+      "name": "Den shamanistiske healer fra Haslev",
+      "airdate": "2026-03-27"
+    },
+    {
+      "id": "47baf616-d215-4c51-bd37-c7bdf630058b",
+      "season": 1,
+      "number": 3,
+      "name": "Fodboldfanatikeren fra Skælskør",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "7a33801c-4bf1-4898-8492-fe8d1feddbe7",
+      "season": 1,
+      "number": 4,
+      "name": "Tisse-Tine fra Dølle",
+      "airdate": "2026-04-10"
+    },
+    {
+      "id": "a3a62a5f-5946-46ce-92d0-9ec7f21fdb5d",
+      "season": 1,
+      "number": 5,
+      "name": "Cosplayeren fra Holbæk",
+      "airdate": "2026-04-17"
+    },
+    {
+      "id": "7292e280-f4fd-4e98-8e82-91c2f8d13a35",
+      "season": 1,
+      "number": 6,
+      "name": "Sømanden fra Møn",
+      "airdate": "2026-04-24"
+    },
+    {
+      "id": "fab6b21e-059c-4345-94ac-1d7c20bd7de2",
+      "season": 1,
+      "number": 7,
+      "name": "Steen og den frække Morris",
+      "airdate": "2026-05-01"
+    },
+    {
+      "id": "067f6841-1c69-42b2-ba5f-c1e10edbf4d5",
+      "season": 1,
+      "number": 8,
+      "name": "Orgelmanden fra Nysted",
+      "airdate": "2026-05-08"
+    },
+    {
+      "id": "6d97f883-de46-4127-8d48-880d0e0e91da",
+      "season": 2,
+      "number": 1,
+      "name": "Husmoderen fra Sandved",
+      "airdate": "2026-10-11"
+    },
+    {
+      "id": "e47bbf8b-17d3-42ba-ab2d-336acb797d6b",
+      "season": 2,
+      "number": 2,
+      "name": "Kæphesterytteren Malene",
+      "airdate": "2026-10-18"
+    },
+    {
+      "id": "7281a834-348e-4ca4-a98d-8222c8c05ecb",
+      "season": 2,
+      "number": 3,
+      "name": "Ballonpiloten, der var højdeskræk",
+      "airdate": "2026-10-25"
+    }
+  ]
+}

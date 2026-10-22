@@ -1,0 +1,171 @@
+{
+  "id": "tv2play:lioness-skyshowtime",
+  "name": "Lioness",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1f8c5e7a-ea6a-4ad5-8dc4-2563ebd873f0",
+      "season": 1,
+      "number": 1,
+      "name": "Sacrificial Soldiers",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "18236bee-2002-497c-96d2-3e0b66321e92",
+      "season": 1,
+      "number": 2,
+      "name": "The Beating",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "cccfa015-598e-4514-b4f7-67de8deb866f",
+      "season": 1,
+      "number": 3,
+      "name": "Bruise Like a Fist",
+      "airdate": "2023-11-06"
+    },
+    {
+      "id": "69924255-3509-4283-975e-65ed774f5391",
+      "season": 1,
+      "number": 4,
+      "name": "The Choice of Failure",
+      "airdate": "2023-11-13"
+    },
+    {
+      "id": "79424e3b-18e4-4be7-a8de-75e0e79a6d6a",
+      "season": 1,
+      "number": 5,
+      "name": "Truth is the Shrewdest Lie",
+      "airdate": "2023-11-20"
+    },
+    {
+      "id": "5c574b53-38e2-45c1-a2d1-e5a9d392d020",
+      "season": 1,
+      "number": 6,
+      "name": "The Lie is the Truth",
+      "airdate": "2023-11-27"
+    },
+    {
+      "id": "42a9f207-a03f-477f-8425-ac3726449b6a",
+      "season": 1,
+      "number": 7,
+      "name": "Wish the Fight Away",
+      "airdate": "2023-12-04"
+    },
+    {
+      "id": "98923ecd-6553-484a-b90d-eab648e9aa0a",
+      "season": 1,
+      "number": 8,
+      "name": "Gone is the Illusion of Order",
+      "airdate": "2023-12-11"
+    },
+    {
+      "id": "fc45613c-26de-4e34-b828-c6b03f6b8079",
+      "season": 2,
+      "number": 1,
+      "name": "Beware the Old Soldier",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "3dafcee9-7e11-4737-afae-9ce212b97b0a",
+      "season": 2,
+      "number": 2,
+      "name": "I Love My Country",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "54d6a7a2-019f-4b90-a6d7-3340fefb914b",
+      "season": 2,
+      "number": 3,
+      "name": "Along Came a Spider",
+      "airdate": "2024-11-15"
+    },
+    {
+      "id": "6275fa6f-e7b8-42ae-b061-4038e2724656",
+      "season": 2,
+      "number": 4,
+      "name": "Five Hundred Children",
+      "airdate": "2024-11-22"
+    },
+    {
+      "id": "6d9f340c-afe0-4096-8c27-eb740e2f8ba6",
+      "season": 2,
+      "number": 5,
+      "name": "Shatter the Moon",
+      "airdate": "2024-11-29"
+    },
+    {
+      "id": "72dfdba9-5229-49eb-80c2-6fe78ce92d13",
+      "season": 2,
+      "number": 6,
+      "name": "2831",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "e21ff8a7-cb23-499b-aa41-b367ccfd8ec8",
+      "season": 2,
+      "number": 7,
+      "name": "The Devil Has Aces",
+      "airdate": "2024-12-13"
+    },
+    {
+      "id": "dd1ff8b9-73c7-4a0b-ab50-0c1bbc96de4e",
+      "season": 2,
+      "number": 8,
+      "name": "The Compass Points Home",
+      "airdate": "2024-12-20"
+    },
+    {
+      "id": "5a217122-a404-4ed0-9754-71826b6e41d8",
+      "season": 3,
+      "number": 1,
+      "name": "The Spider and the Fly",
+      "airdate": "2026-08-03"
+    },
+    {
+      "id": "2589c262-8475-4991-9c70-b916ef8cf8c4",
+      "season": 3,
+      "number": 2,
+      "name": "No Sorrow Like the Survivor",
+      "airdate": "2026-08-10"
+    },
+    {
+      "id": "335917b3-819c-47fa-87dd-502b264c43f8",
+      "season": 3,
+      "number": 3,
+      "name": "The Bear Is Infected",
+      "airdate": "2026-08-17"
+    },
+    {
+      "id": "40a519e5-b29e-49f7-b401-33d000df760d",
+      "season": 3,
+      "number": 4,
+      "name": "Murder Hornets",
+      "airdate": "2026-08-24"
+    },
+    {
+      "id": "99a38da0-b758-4321-83da-bbf44c7d91c8",
+      "season": 3,
+      "number": 5,
+      "name": "The Idiot Army",
+      "airdate": "2026-08-31"
+    },
+    {
+      "id": "06d86eaa-0cc8-4383-a2ac-7230c7875ff0",
+      "season": 3,
+      "number": 6,
+      "name": "Sugar Land",
+      "airdate": "2026-09-07"
+    },
+    {
+      "id": "ab2d7be5-9c5b-4aee-904a-9d418777652e",
+      "season": 3,
+      "number": 7,
+      "name": "Kiss the Girls",
+      "airdate": "2026-09-14"
+    }
+  ]
+}

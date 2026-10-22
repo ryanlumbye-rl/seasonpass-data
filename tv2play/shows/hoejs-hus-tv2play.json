@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:hoejs-hus-tv2play",
+  "name": "Højs hus",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1c9a6d5f-541f-4946-b6f7-840994d46786",
+      "season": 10,
+      "number": 3,
+      "name": "De bedste agenter",
+      "airdate": "2026-08-15"
+    },
+    {
+      "id": "8f8130da-33b2-4a8c-873b-cca3769ceb4f",
+      "season": 10,
+      "number": 4,
+      "name": "Clyde i syv sind",
+      "airdate": "2026-08-15"
+    },
+    {
+      "id": "592df6d8-6d2e-4d5d-a654-1348fd0ff204",
+      "season": 10,
+      "number": 5,
+      "name": "En ny og forbedret by",
+      "airdate": "2026-08-15"
+    },
+    {
+      "id": "9824f30f-f3f3-4f16-95ca-feee0678337f",
+      "season": 10,
+      "number": 8,
+      "name": "Som nål og tråd",
+      "airdate": "2026-08-15"
+    },
+    {
+      "id": "346545b0-ce11-476b-9224-a7fdb3d54186",
+      "season": 10,
+      "number": 12,
+      "name": "Lærernes kæledægge",
+      "airdate": "2026-08-15"
+    }
+  ]
+}

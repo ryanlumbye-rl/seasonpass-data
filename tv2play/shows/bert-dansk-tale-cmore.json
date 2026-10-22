@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:bert-dansk-tale-cmore",
+  "name": "Bert (dansk tale)",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "9c60d389-bad0-4313-88d5-a6a68803e0fe",
+      "season": 1,
+      "number": 1,
+      "name": "Dumpet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f4325477-1d3d-42fd-9c19-7b31c943b3cc",
+      "season": 1,
+      "number": 2,
+      "name": "Operation S.U.N.K.",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f407e6f0-1685-4977-8d11-9e0c4b4d75d9",
+      "season": 1,
+      "number": 3,
+      "name": "Ulovligt grim",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d04dd007-3f28-4b84-808f-2293082fa74c",
+      "season": 1,
+      "number": 4,
+      "name": "Les enfants terribles",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b284c46e-bd36-4162-84fa-7d3e284c246b",
+      "season": 1,
+      "number": 5,
+      "name": "Cup & Joe",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3d326b11-6610-482e-8b6f-f2c2b20a8630",
+      "season": 1,
+      "number": 6,
+      "name": "Trebb Shadowwalker",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8fb36ff2-916e-4b72-a069-1c8794a31d0c",
+      "season": 1,
+      "number": 7,
+      "name": "Jesus-diæten",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "34de08a1-549b-496e-9c56-59fbb68a5293",
+      "season": 1,
+      "number": 8,
+      "name": "g0dessa.tv",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2890cc34-ec3a-407f-9cf4-abd5709a4277",
+      "season": 1,
+      "number": 9,
+      "name": "Butiksmorderen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8cd0bd0f-d338-425b-b66b-662768606301",
+      "season": 1,
+      "number": 10,
+      "name": "Bertman: Return of the Jenny",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

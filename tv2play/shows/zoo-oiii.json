@@ -1,0 +1,87 @@
+{
+  "id": "tv2play:zoo-oiii",
+  "name": "Zoo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "89c5c428-28b7-442d-9a8b-e1bcea730b22",
+      "season": 1,
+      "number": 1,
+      "name": "På besøg i Københavns Zoologiske Have",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "29b6f56f-ec29-49c8-9253-2caf8f8fbf87",
+      "season": 1,
+      "number": 2,
+      "name": "Genkend et dyr",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ae09b0e3-59f4-4f06-91d2-55d95b1a58a0",
+      "season": 1,
+      "number": 3,
+      "name": "Hvad laver dyrene?",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "35e80a8d-e844-4830-83b7-d27d5d115674",
+      "season": 1,
+      "number": 4,
+      "name": "Hvad spiser dyrene?",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6a7afdd2-7f42-4259-ae4f-a9123e1feea0",
+      "season": 1,
+      "number": 5,
+      "name": "De store kattedyr",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5b6a5890-8c5d-4dd8-ba44-1b2dd36f9e39",
+      "season": 1,
+      "number": 6,
+      "name": "Hvad laver løverne?",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f735ace2-249a-4d2b-84eb-4fd5536b181d",
+      "season": 1,
+      "number": 7,
+      "name": "Den sibiriske tiger",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e027c5dd-ee64-4f46-8569-51cb195c49f6",
+      "season": 1,
+      "number": 8,
+      "name": "Tigerungen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cc621e13-5a6f-47bd-805c-02e5e98237b1",
+      "season": 1,
+      "number": 9,
+      "name": "Hvad laver fuglene?",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3518a5be-2f55-4d6b-86ab-e8e27fe4dd58",
+      "season": 1,
+      "number": 10,
+      "name": "Vasketid",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f1a8566d-1b9b-4061-91b7-0f749227c610",
+      "season": 1,
+      "number": 11,
+      "name": "Legetid",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

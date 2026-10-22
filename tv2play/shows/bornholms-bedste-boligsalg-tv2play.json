@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:bornholms-bedste-boligsalg-tv2play",
+  "name": "Bornholms bedste boligsalg",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-11-16",
+  "episodes": [
+    {
+      "id": "1dd0a278-1aa6-40fc-9459-65d42c86a389",
+      "season": 1,
+      "number": 1,
+      "name": "Et tårevædet farvel",
+      "airdate": "2026-10-19"
+    }
+  ]
+}

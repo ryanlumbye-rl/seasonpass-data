@@ -1,0 +1,290 @@
+{
+  "id": "tv2play:dragerytterne-fra-bersaerkoeen-tv2play",
+  "name": "Dragerytterne fra Bersærkøen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "e6a2a7b1-cee9-4f19-9730-85077f8636b0",
+      "season": 1,
+      "number": 1,
+      "name": "Sådan starter du et drageakademi",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "3ea58bd7-8fb5-4732-85b4-fc78bce31d9f",
+      "season": 1,
+      "number": 2,
+      "name": "Viking til leje",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "fab6d92a-428f-4595-bd6f-20c9acc98e34",
+      "season": 1,
+      "number": 3,
+      "name": "Et værre dyremarked",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "4998beb1-947b-49ed-9aa5-e47525d88fa4",
+      "season": 1,
+      "number": 4,
+      "name": "De frygtelige to",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "ff1fa086-d69c-49a2-a9e2-6706d4f4745f",
+      "season": 1,
+      "number": 5,
+      "name": "Et spørgsmål om tillid",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "b8128cbf-254c-4fbe-8328-64d8fa1b1aa3",
+      "season": 1,
+      "number": 6,
+      "name": "Alvin og de udstødte",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "c60c9288-c506-4d2e-b440-dbefb4ccddd6",
+      "season": 1,
+      "number": 7,
+      "name": "Sådan vælger du din drage",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "944ca814-3b24-4572-894c-3fddc2bf86e1",
+      "season": 1,
+      "number": 8,
+      "name": "Portræt af Hikke som en stærk mand",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "fa368e5a-2155-4802-8dfe-b7034b175a71",
+      "season": 1,
+      "number": 9,
+      "name": "Drageblomsten",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "bab8ca12-2152-409a-b8c8-a4419b28438c",
+      "season": 1,
+      "number": 10,
+      "name": "Duften af lyng - del 1",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "6076f703-1933-43bc-9186-3eafa2f3b431",
+      "season": 1,
+      "number": 11,
+      "name": "Duften af lyng - del 2",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "d6fe989f-f74e-463e-91b1-2654356ad0a9",
+      "season": 1,
+      "number": 12,
+      "name": "Tøfesten",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "841d14dc-cc53-421e-9d5f-553a36d57d8d",
+      "season": 1,
+      "number": 13,
+      "name": "Når lynet slår ned",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "ae789b98-d720-4e2d-bf1a-6746efbb2c58",
+      "season": 1,
+      "number": 14,
+      "name": "Under overfladen",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "5ce2099f-8fbd-49f2-97c7-91a0e4373fcc",
+      "season": 1,
+      "number": 15,
+      "name": "Tvivlende tvillinger",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "303abb8a-de34-4cfd-aa36-0418b6db915d",
+      "season": 1,
+      "number": 16,
+      "name": "Den trodsige dreng",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "d6e9e873-d906-4f27-8caf-3adce26bd91b",
+      "season": 1,
+      "number": 17,
+      "name": "Skalleknækker sumpen",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "c88a7d06-b4db-4a73-818a-1a710ec3ed48",
+      "season": 1,
+      "number": 18,
+      "name": "En anderledes juvel",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "203c423a-0d6b-4d5e-8e2b-a0e1df1596ad",
+      "season": 1,
+      "number": 19,
+      "name": "Vi er en familie - del 1",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "31be7a1b-a147-4536-9c2e-661d07f868c3",
+      "season": 1,
+      "number": 20,
+      "name": "Vi er en familie -del 2",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "b7d9fa53-dfe8-402c-b875-140af3760f0f",
+      "season": 2,
+      "number": 1,
+      "name": "Lev og lad flyve",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "9e8b2687-9c79-4aa0-a23e-c73f4674271b",
+      "season": 2,
+      "number": 2,
+      "name": "Jern-gronklen",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "1fcef556-08a0-4eb2-a093-1ebdd1748073",
+      "season": 2,
+      "number": 3,
+      "name": "Natten og skyggen",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "d52e547b-e734-470d-a932-e7721dbcb0c4",
+      "season": 2,
+      "number": 4,
+      "name": "Tunnelsyn",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "8bd3363a-4275-458f-9b56-72d6afe56d49",
+      "season": 2,
+      "number": 5,
+      "name": "Kapløb mod Ildorme Ø",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "930a8ceb-0e91-4071-accf-4d96492f65d4",
+      "season": 2,
+      "number": 6,
+      "name": "Frygtens rute",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "962261af-dd4a-4f24-b4c4-e2853fc5d66e",
+      "season": 2,
+      "number": 7,
+      "name": "Værste præstation",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "0d067495-b01f-471e-8842-6d646eb1b79c",
+      "season": 2,
+      "number": 8,
+      "name": "Appetit på ødelæggelse",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "04c4f50f-8ed7-4b9a-9afe-11d7733146c7",
+      "season": 2,
+      "number": 9,
+      "name": "Gensyn med en lynehals",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "7edad6d4-5204-4a4a-b6a2-df7c23a2703f",
+      "season": 2,
+      "number": 10,
+      "name": "Skrillen i skudlinjen - del 1",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "295e0a0c-3228-484b-82f8-53d4b5ce1ea7",
+      "season": 2,
+      "number": 11,
+      "name": "Skrillen i skudlinjen - del 2",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "af17d1e0-5fda-484f-a75d-b9a1bbcbedc2",
+      "season": 2,
+      "number": 12,
+      "name": "Den lille flyvende hjælper",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "1631c8dc-6342-46f5-bc2d-26dfb174d979",
+      "season": 2,
+      "number": 13,
+      "name": "Befri Skolde",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "31a1e505-4364-485a-8f03-12ec2ff8800c",
+      "season": 2,
+      "number": 14,
+      "name": "Tilfrosset",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "5cecdcc7-6834-49dc-ad8a-2a3c12eb9b9d",
+      "season": 2,
+      "number": 15,
+      "name": "En fortælling om to drager",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "fa133a9e-1ed9-4e97-976a-78cf3699f696",
+      "season": 2,
+      "number": 16,
+      "name": "Åleeffekten",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "62c2aa31-76f7-4a49-95a0-4996d014dcb8",
+      "season": 2,
+      "number": 17,
+      "name": "Når røgen lægger sig",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "8068def1-f6fc-401a-8ea6-3b0fae33f263",
+      "season": 2,
+      "number": 18,
+      "name": "Bing! Bam! Bum!",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "85e10a59-762b-40de-babf-a7cb08d461ab",
+      "season": 2,
+      "number": 19,
+      "name": "Udstødt - del 1",
+      "airdate": "2024-11-08"
+    },
+    {
+      "id": "91ecec4e-5998-4ed1-8f0e-fe8ad3e41298",
+      "season": 2,
+      "number": 20,
+      "name": "Udstødt - del 2",
+      "airdate": "2024-11-08"
+    }
+  ]
+}

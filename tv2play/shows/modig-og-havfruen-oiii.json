@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:modig-og-havfruen-oiii",
+  "name": "Modig og havfruen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "505228bc-26fd-47e2-9d74-b5fd6e82e33c",
+      "season": 1,
+      "number": 1,
+      "name": "Min mor er havfrue",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "603d6785-d872-4c9d-81a8-2ca39a28cace",
+      "season": 1,
+      "number": 2,
+      "name": "Stjerner med hjerner",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "86923cb6-8936-4a45-bf8f-c5620a8ddd7d",
+      "season": 1,
+      "number": 3,
+      "name": "Fede padder",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "1e183919-f399-4580-acfc-c2b0281e1796",
+      "season": 1,
+      "number": 4,
+      "name": "Gæt en fisk",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "101b92e8-a685-420c-b8c6-7d972ceaa4c1",
+      "season": 1,
+      "number": 5,
+      "name": "Nuttet eller ej",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "ef6c40fb-a393-433a-ae73-01416b54148c",
+      "season": 1,
+      "number": 6,
+      "name": "Fisk på menuen",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "f9542526-98e2-4881-bfcf-ea6d76ae5910",
+      "season": 1,
+      "number": 7,
+      "name": "Liv og død",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "80714434-2578-4008-850f-07a61c2d361f",
+      "season": 1,
+      "number": 8,
+      "name": "Skrald, skrald, skrald",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "4b1a706c-ee0a-4173-9c12-bb733c8d4a49",
+      "season": 1,
+      "number": 9,
+      "name": "Græshopperne er løs",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "95280d30-323b-4ed1-9a16-f8dfee9713d4",
+      "season": 1,
+      "number": 10,
+      "name": "Fortidsdyr",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "c8ec867d-e955-4162-bfa3-f57438eb055b",
+      "season": 1,
+      "number": 11,
+      "name": "Venner",
+      "airdate": "2024-10-12"
+    },
+    {
+      "id": "accb7eae-6afc-4f39-b19b-4e2e66f7f75e",
+      "season": 1,
+      "number": 12,
+      "name": "Rigtig Modig",
+      "airdate": "2024-10-12"
+    }
+  ]
+}

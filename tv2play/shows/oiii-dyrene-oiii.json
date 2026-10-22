@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:oiii-dyrene-oiii",
+  "name": "Oiii-dyrene",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6abafd6f-b863-4be1-91a9-82da004be823",
+      "season": 1,
+      "number": 1,
+      "name": "Se hesten og føllet",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "e3a7bbb9-30fb-4ecc-8757-96af9ba1378a",
+      "season": 1,
+      "number": 2,
+      "name": "De sultne geder",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "5a86b4d2-7294-458e-a76a-a22c0e1c813f",
+      "season": 1,
+      "number": 3,
+      "name": "Nysgerrige kyllinger",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "468e9cbf-b5c0-4a9d-9573-1f169608eacb",
+      "season": 1,
+      "number": 4,
+      "name": "Gæs i gåsegang",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "1ed7e46b-7c92-4448-9ee2-2b5689eaee8f",
+      "season": 1,
+      "number": 5,
+      "name": "Køerne kommer på græs",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "7034e671-3eb3-462f-b3ac-9170923ccfe3",
+      "season": 1,
+      "number": 6,
+      "name": "Lamaen Larsen passer får",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "7023a4df-75be-4699-ad04-a7dd9826fe68",
+      "season": 1,
+      "number": 7,
+      "name": "Fårefamilien på græs",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "f943bef8-b827-4c49-a8ed-5775de67970b",
+      "season": 1,
+      "number": 8,
+      "name": "Smågrise hygger sig i mudder",
+      "airdate": "2025-05-10"
+    }
+  ]
+}

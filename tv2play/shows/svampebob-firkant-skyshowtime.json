@@ -1,0 +1,1781 @@
+{
+  "id": "tv2play:svampebob-firkant-skyshowtime",
+  "name": "SvampeBob Firkant",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "461a917c-5acf-40c2-9544-ad2ebe2f3062",
+      "season": 1,
+      "number": 1,
+      "name": "Hjælp søges",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "cbc94e5f-9c56-4da5-a20f-67b635bb5dd2",
+      "season": 1,
+      "number": 2,
+      "name": "Boblebutikken",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "9065e4d4-b560-4b5c-98b7-b222bb4a4f2f",
+      "season": 1,
+      "number": 3,
+      "name": "Brandmandsfiskeri",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "0aa738f2-7a9e-4700-ac16-b0bb4dc6bf16",
+      "season": 1,
+      "number": 4,
+      "name": "Rigtige undervandsvenner",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "ef13f6c9-2f59-4660-b596-0a9953d1fc43",
+      "season": 1,
+      "number": 5,
+      "name": "Pizzabudene",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "c613f76d-94fd-4bae-a21f-45be71b0a4f0",
+      "season": 1,
+      "number": 6,
+      "name": "Havfruemand og Klæbedreng",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "367fe229-ae9b-451f-a59b-3701687ad3d3",
+      "season": 1,
+      "number": 7,
+      "name": "Ordensduksen",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "e4222332-41ee-46f1-9e17-21cae3882212",
+      "season": 1,
+      "number": 8,
+      "name": "Sandys raket",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "a6ad7356-187a-4e22-9665-b3ecd3d1fb20",
+      "season": 1,
+      "number": 9,
+      "name": "Tilbage til naturen",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "2bb30920-0066-4e87-b196-8e91df16dd79",
+      "season": 1,
+      "number": 10,
+      "name": "Kulturchok",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "8a9136b5-15fb-4bb7-b3e4-a936355592e0",
+      "season": 1,
+      "number": 11,
+      "name": "MuskelBob Firkant",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "5042cd83-156e-4764-896c-2382dd05d011",
+      "season": 1,
+      "number": 12,
+      "name": "Ledsageren",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "d5accbf8-6d26-426e-90fc-d41482d979ac",
+      "season": 1,
+      "number": 13,
+      "name": "Bangebuks",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "720a696a-c067-4252-a6ed-1aed19b4ba57",
+      "season": 1,
+      "number": 14,
+      "name": "SB-129",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "6b7d9ffb-6cf3-4a55-9d10-51d0cde3ef30",
+      "season": 1,
+      "number": 15,
+      "name": "Sovetid",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "ec968cbd-1c0f-41a2-acb4-4c63a41cefb3",
+      "season": 1,
+      "number": 16,
+      "name": "Valentinsdag",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "97de3005-4e0d-4619-82ce-b69a3250ab3d",
+      "season": 1,
+      "number": 17,
+      "name": "Arrgh!",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "248bef6d-a235-437d-9922-4978df658684",
+      "season": 1,
+      "number": 18,
+      "name": "Texas",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "ae19d8de-b6dc-458a-81d3-d0dffce939db",
+      "season": 1,
+      "number": 19,
+      "name": "Aprilsnar",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "d36c664b-b63c-45a0-a5be-2ae4909fde81",
+      "season": 1,
+      "number": 20,
+      "name": "Krogene",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "92337856-4f69-4dd6-a867-af9e20517b53",
+      "season": 2,
+      "number": 1,
+      "name": "Dit snørebånd er gået op",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "e14eca43-899c-4f5d-8862-5ccd7e0d2663",
+      "season": 2,
+      "number": 2,
+      "name": "En grim lugt",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "d51cf63d-f4a2-42c0-bedd-1eeaa36fe742",
+      "season": 2,
+      "number": 3,
+      "name": "Den store lyserøde taber",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "e71c9d0e-1c22-44e4-a33d-0a8f3280cd2c",
+      "season": 2,
+      "number": 4,
+      "name": "Vild med tærte",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "e92c81f6-5902-4809-b590-f1ceef5c69ee",
+      "season": 2,
+      "number": 5,
+      "name": "Ormeven",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "985ad20d-2fd9-4d4d-8704-85ebf0548ad2",
+      "season": 2,
+      "number": 6,
+      "name": "Bedstemors kys",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "fe50273e-f849-433f-b6b5-3fc59b13e3ee",
+      "season": 2,
+      "number": 7,
+      "name": "Ugen før vinterdvale",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "618a01e9-5ae4-421f-a846-56f23503f316",
+      "season": 2,
+      "number": 8,
+      "name": "Piraten Patchy præsenterer SvampeBob Firkants julespecial",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "97e56ef9-22b6-40f1-9b28-583044b80e37",
+      "season": 2,
+      "number": 9,
+      "name": "Idioternes overlevelse",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "94ec03cf-a3d0-4d8b-b895-4d32ce402ba9",
+      "season": 2,
+      "number": 10,
+      "name": "Ingen gratis ture",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "b5f1c986-bd02-4370-98ff-921d3dfc18d1",
+      "season": 2,
+      "number": 11,
+      "name": "Havfruemand og Klæbedreng lll",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "6560a4e9-8275-4c3d-9f5b-85b8c4ce5846",
+      "season": 2,
+      "number": 12,
+      "name": "Udfordringen",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "3a96de9b-0db3-469c-b12d-81b3a7d3a7b5",
+      "season": 2,
+      "number": 13,
+      "name": "Patchys valg",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "f09023d0-5598-4ac9-a9db-edf3743d8aaf",
+      "season": 2,
+      "number": 14,
+      "name": "Velkommen til Blikspanden",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "dc5eca49-9e99-4b84-a91d-b15ef1c432e4",
+      "season": 2,
+      "number": 15,
+      "name": "Den hemmelige æske",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "aab78789-3dae-4d76-853b-eadc74f910df",
+      "season": 2,
+      "number": 16,
+      "name": "Spøgelsestimen",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "06944fdd-ddda-4001-ba70-b6a6662ded68",
+      "season": 2,
+      "number": 17,
+      "name": "Stilen",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "95777258-81fc-4146-a2d3-79d2dc7bab14",
+      "season": 2,
+      "number": 18,
+      "name": "Sømandssnak",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "9e4e4cc4-8c66-4626-a621-8a8e8a4ed5fe",
+      "season": 2,
+      "number": 19,
+      "name": "Vandmandsjægeren",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "f3041444-bc4b-4fa3-93f6-0c1338dcec10",
+      "season": 2,
+      "number": 20,
+      "name": "Blækward og SvampeBob strejker",
+      "airdate": "2023-08-25"
+    },
+    {
+      "id": "dfaa8940-3af6-449a-8044-82ab0f0b6304",
+      "season": 3,
+      "number": 1,
+      "name": "Algerne er grønnere på den anden side",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "27dff59e-7d20-4100-a2a8-3e1d10bf1469",
+      "season": 3,
+      "number": 2,
+      "name": "SvampeBob-klubben",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "7d9481ec-d33b-4d05-8eda-5e8c3bd46124",
+      "season": 3,
+      "number": 3,
+      "name": "Kun én lille bid",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "026a715a-fd75-4954-a558-8ad92c646633",
+      "season": 3,
+      "number": 4,
+      "name": "Djævleburgeren",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "60cd7b1c-49ff-477e-9dbd-605b38018ab4",
+      "season": 3,
+      "number": 5,
+      "name": "Havfruemand og Klæbedreng IV",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "53bacfc2-8dd0-46ad-88f1-4af7055903eb",
+      "season": 3,
+      "number": 6,
+      "name": "Sneboldeffekten",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "133c7434-d5c0-495b-9b5a-180f76fb1dab",
+      "season": 3,
+      "number": 7,
+      "name": "Som set på TV",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c33692e5-aad5-4297-b450-77a7ed0dd764",
+      "season": 3,
+      "number": 8,
+      "name": "Ingen nørder tilladt",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "94bd060a-803b-4612-9842-13ce2d9c344b",
+      "season": 3,
+      "number": 9,
+      "name": "RoboKrabbe",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "760130ff-269c-4043-80dd-1b3878b3e540",
+      "season": 3,
+      "number": 10,
+      "name": "Vandmaling",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "cbf813cf-4822-43e3-bf3a-a7c800370420",
+      "season": 3,
+      "number": 11,
+      "name": "SvampeBobs fest",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "11fe74fc-8bb0-4858-812e-f468941f3070",
+      "season": 3,
+      "number": 12,
+      "name": "Skør med chokolade",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "00744c26-3b52-4a88-8223-4759be80d31e",
+      "season": 3,
+      "number": 13,
+      "name": "Ny stjerneelev",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c2550e75-7aa6-473f-bbdb-719fd751f7bf",
+      "season": 3,
+      "number": 14,
+      "name": "SvampeBob f.Kr.",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "2c55e79d-42df-40be-bf38-a32bbefd834f",
+      "season": 3,
+      "number": 15,
+      "name": "Det Store Sneglevæddeløb",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "bd79658c-c85b-49aa-94fe-d68d837ac585",
+      "season": 3,
+      "number": 16,
+      "name": "Genfødt krabbe",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "bc0da807-6b6d-424e-b084-e145822bb8bd",
+      "season": 3,
+      "number": 17,
+      "name": "Krabbeland",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "aacaad55-9ceb-4fb4-a0c1-72717b6f3c22",
+      "season": 3,
+      "number": 18,
+      "name": "Mistet identitet",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "d70c36cb-079f-4999-b0a0-77941f4ecae7",
+      "season": 3,
+      "number": 19,
+      "name": "SvampeBob Firkants forsvundne episode",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "3d8b4688-4d2c-4ffb-a91e-6be75ddc580d",
+      "season": 3,
+      "number": 20,
+      "name": "SvampeBob møder Kvæleren",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "32e178b6-2ab0-46d1-a1ce-da2838f3e84f",
+      "season": 4,
+      "number": 1,
+      "name": "Den frygtede krabbeburger",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b868f5fe-84bb-4f4c-8c88-ee4d6c9cc115",
+      "season": 4,
+      "number": 2,
+      "name": "Den forsvundne madras",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "35e9216d-b820-4906-a185-7e43eec81d48",
+      "season": 4,
+      "number": 3,
+      "name": "Har du set den snegl?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a2fe7cff-acb0-4bf4-9fba-8e655339fe16",
+      "season": 4,
+      "number": 4,
+      "name": "Præmiekranen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "63f4d0a2-f86f-4d83-b03d-e06273ff3ed2",
+      "season": 4,
+      "number": 5,
+      "name": "Krabbe til salg",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ca9400fb-6c70-4736-b62d-fba27ef6066a",
+      "season": 4,
+      "number": 6,
+      "name": "Middelalderlig!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "21457a3a-576f-4f31-a050-a1add7aec2bd",
+      "season": 4,
+      "number": 7,
+      "name": "Svigerfjenden",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "256e8cfc-5367-43ca-9019-1077c6756b9b",
+      "season": 4,
+      "number": 8,
+      "name": "Patrick Kloge Åge",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e8852602-b24e-4d44-8a05-8aa6fb9e6b6e",
+      "season": 4,
+      "number": 9,
+      "name": "Halløj på Krabbehotellet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "99536287-a4af-4e36-8815-1902e79fdbe0",
+      "season": 4,
+      "number": 10,
+      "name": "Chimpanser i farvandet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ea07a82d-776b-4435-b40f-9cbb89abba68",
+      "season": 4,
+      "number": 11,
+      "name": "En ge(h)valdig fødselsdag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ca2a8d4e-d98f-4410-a952-3a4848b4b52b",
+      "season": 4,
+      "number": 12,
+      "name": "Ikke alt, der glitrer",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9a868e3e-f533-4d89-9bbb-2197e685f9c6",
+      "season": 4,
+      "number": 13,
+      "name": "Et nyt blad",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7b9622d7-ccce-4b72-ad73-ef5ed19bee48",
+      "season": 4,
+      "number": 14,
+      "name": "Hold da ferie",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "97b4d2fa-5b2e-4c4a-ad27-79b21fb7934a",
+      "season": 4,
+      "number": 15,
+      "name": "En blæk-tastisk rejse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bec89bca-fb9c-4920-b43a-6a67d5cabe6d",
+      "season": 4,
+      "number": 16,
+      "name": "En truet art",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c9c9ad28-9835-4078-9fdf-fbdd733de18d",
+      "season": 4,
+      "number": 17,
+      "name": "Kørt til grådens rand",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f37ce842-0ae7-4fda-ab7c-50eefa8cf95f",
+      "season": 4,
+      "number": 18,
+      "name": "Født til vildskab",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "51ffde83-a40b-4a36-a269-820ff7a772bd",
+      "season": 4,
+      "number": 19,
+      "name": "Den lyserøde tyv",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "277615fa-baee-4b93-8896-f1594c1cab65",
+      "season": 4,
+      "number": 20,
+      "name": "En helt perfekt dag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1cb6e383-5f4b-48e4-bfc8-d8ae1ce86997",
+      "season": 5,
+      "number": 1,
+      "name": "Ven eller fjende?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "963bfd54-cb8a-4035-a20b-f354a01b51ed",
+      "season": 5,
+      "number": 2,
+      "name": "Den originale stegekok",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ca4b9f2e-f6ad-4deb-8b86-7f94bae74747",
+      "season": 5,
+      "number": 3,
+      "name": "Så står vi op",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f3b4ec23-d439-427a-84c1-f3138410437a",
+      "season": 5,
+      "number": 4,
+      "name": "Spionvenner",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "097b5101-eb2a-41bd-bdf8-9f87eb20a592",
+      "season": 5,
+      "number": 5,
+      "name": "Et nyt hjem",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5e114dee-231f-4946-a923-23450f10885e",
+      "season": 5,
+      "number": 6,
+      "name": "Rutsje-kujoner",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "574c1b7b-ed7f-4477-9c8d-5b9829fcca92",
+      "season": 5,
+      "number": 7,
+      "name": "En perle blandt burgere",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "49f81824-6b71-44e1-99b8-2f6bd5bcd234",
+      "season": 5,
+      "number": 8,
+      "name": "Når penge taler",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4fd60601-b2e7-4e79-bbfc-30f658ff53f3",
+      "season": 5,
+      "number": 9,
+      "name": "Den knasende svamp",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b4da8495-9138-4b6f-894e-52a6d1b07772",
+      "season": 5,
+      "number": 10,
+      "name": "En loppe i kuplen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a08c7bc6-4997-4177-a088-1b4aaa8417f7",
+      "season": 5,
+      "number": 11,
+      "name": "Gy-gy gas",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dc7d7e77-817f-4471-811d-fd32a3db2e9c",
+      "season": 5,
+      "number": 12,
+      "name": "Atlantis Firkantis",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9cc38214-766c-418f-b48e-c79c2d09be2f",
+      "season": 5,
+      "number": 13,
+      "name": "Fotodag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dcfc6897-8a73-4537-86b8-bcd351056a74",
+      "season": 5,
+      "number": 14,
+      "name": "Svamp med sæbeøje",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3d864242-21ec-4570-bd11-f8cdbb39d548",
+      "season": 5,
+      "number": 15,
+      "name": "Sommerfangelejr",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c48de8d0-1264-456d-9e20-9b39f14dfd73",
+      "season": 5,
+      "number": 16,
+      "name": "Det Våde Vesten",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d1927e8-1c27-4293-9da1-784c58c7eb7e",
+      "season": 5,
+      "number": 17,
+      "name": "En verdensomsætning under havet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "597f3e37-bdfe-4453-9d07-7c08cfa6aadc",
+      "season": 5,
+      "number": 18,
+      "name": "SvampeBob: 'Hvem Bob Hva' for En Kant?'",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "93c206f8-96c2-481d-8642-5ec66dff5451",
+      "season": 5,
+      "number": 19,
+      "name": "Blækwards to ansigter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "acd20937-e0cf-4bf9-bc42-3b12e7c75b74",
+      "season": 5,
+      "number": 20,
+      "name": "Forbudt i Bikini Bunden",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ff9f30f9-9c9c-4d79-9060-623e4e44e233",
+      "season": 6,
+      "number": 1,
+      "name": "Blærede boliger",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "af45b1e9-fcf6-462d-af6f-255114d796b0",
+      "season": 6,
+      "number": 2,
+      "name": "Penny-gal",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "670e3ddd-0198-4fd3-801a-4af7cb672233",
+      "season": 6,
+      "number": 3,
+      "name": "Svampicus",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "c3652ac3-09df-4875-bf7e-b973fb1ee89f",
+      "season": 6,
+      "number": 4,
+      "name": "Ikke normal",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "8ec8ffb6-1fbe-432f-8b80-0ab302218c38",
+      "season": 6,
+      "number": 5,
+      "name": "Splinten",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "f39f774a-6190-4df4-9378-e9789742f2af",
+      "season": 6,
+      "number": 6,
+      "name": "Et Liv På Èn Dag",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "2d4a08a6-5c81-437e-9dd5-985ae8d6f31e",
+      "season": 6,
+      "number": 7,
+      "name": "Kæmpe-Blækward",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "3ddd9755-655c-43f3-b65f-fa54b262c74b",
+      "season": 6,
+      "number": 8,
+      "name": "Burgertyven",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "97c964b8-47eb-4fad-9633-c6d45fe60981",
+      "season": 6,
+      "number": 9,
+      "name": "Sejlervenner",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "d07b0a51-0e7c-45d1-9f16-56e9b6e67cb4",
+      "season": 6,
+      "number": 10,
+      "name": "Pyjamas-party",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "0de9a7f4-5e75-4f2a-9911-f31a9c8e6cf6",
+      "season": 6,
+      "number": 11,
+      "name": "SvampeBob og kæmpebølgen",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "2973a983-8773-4317-ad8c-5494f3875529",
+      "season": 6,
+      "number": 12,
+      "name": "Penge på lommen",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "262992fd-3f4f-4f69-94ba-df096f8df152",
+      "season": 6,
+      "number": 13,
+      "name": "De knasende knusere",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "7b77f67d-9b58-45cc-bbc9-f9e79ed5bc68",
+      "season": 6,
+      "number": 14,
+      "name": "Kære vikinger",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "93458948-5423-4d0c-b8ac-f03e0a5f61f4",
+      "season": 6,
+      "number": 15,
+      "name": "Piratbedstefaren",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "c0eb58c5-2faa-45ec-9293-33321ab1ef4d",
+      "season": 6,
+      "number": 16,
+      "name": "Blækspruttebesøg",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "aef92965-60ea-45ce-981b-9bfbe5f863c5",
+      "season": 6,
+      "number": 17,
+      "name": "Superhelte for en dag",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "5fae3cd5-0392-4553-837a-f081e065f6fb",
+      "season": 6,
+      "number": 18,
+      "name": "Kæledyr eller kaos",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "bab6e866-676e-4add-ab17-22a6d8cf33be",
+      "season": 6,
+      "number": 19,
+      "name": "Tumpe Bob",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "04a9ccf5-9d3d-4bd6-9a09-e9b3d5f2ea99",
+      "season": 6,
+      "number": 20,
+      "name": "Ingen hat til Pat",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "7f4cbfc9-a18c-489f-a07b-0c69475d8314",
+      "season": 6,
+      "number": 21,
+      "name": "Sandslotte i sandet",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "2339196a-90e3-4b8e-9b4e-2a395319f56d",
+      "season": 6,
+      "number": 22,
+      "name": "Affaldsbøtte Deluxe",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "4724e440-54d3-4a17-8dd3-65c704eb4bfb",
+      "season": 6,
+      "number": 23,
+      "name": "SvampeBob på køl - del 1",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "11771c4c-f294-4d04-85ad-d77318d595f5",
+      "season": 6,
+      "number": 24,
+      "name": "SvampeBob på køl - del 2",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "2008462b-9ac9-42dd-afe2-fe099b2ee266",
+      "season": 6,
+      "number": 25,
+      "name": "Ananasfeber",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "3a2ddd0b-3e71-403d-8f37-c0e000041a38",
+      "season": 6,
+      "number": 26,
+      "name": "Neptuns fødselsdag",
+      "airdate": "2022-01-18"
+    },
+    {
+      "id": "cf229faf-67c5-473a-924d-56d8f55db15c",
+      "season": 7,
+      "number": 1,
+      "name": "Tentakel-TV",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "c2130672-5a2e-4a12-8905-5f6a3ecfdc13",
+      "season": 7,
+      "number": 2,
+      "name": "Vokseværk",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "f0af984a-c888-4d78-98cc-1a4bd0821895",
+      "season": 7,
+      "number": 5,
+      "name": "Hold Bikinibunden smuk",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "db19e322-8d97-4fe0-87db-b0763789c546",
+      "season": 7,
+      "number": 9,
+      "name": "Tilbage til fortiden",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "d9691ae4-c70a-46ed-bb64-0d244cd040ca",
+      "season": 7,
+      "number": 14,
+      "name": "Monstret der kom til Bikinibunden",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "200004b4-d2cf-4262-bea5-5d43b8e0ba57",
+      "season": 7,
+      "number": 16,
+      "name": "Havets bondeknolde",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "60c28c5e-3b57-4138-bf1b-7925d3d15e70",
+      "season": 7,
+      "number": 17,
+      "name": "Det store krabbeburgerrøveri",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "d9c58c4f-4689-484b-97a8-da443c4657b4",
+      "season": 7,
+      "number": 19,
+      "name": "Begravet i tid og sted",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "13ebbf59-b8eb-4509-8838-6423848d4307",
+      "season": 7,
+      "number": 23,
+      "name": "Kender du din ven?",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "7c83f13f-653c-41b4-b019-65a7cfa62ac5",
+      "season": 7,
+      "number": 25,
+      "name": "En ny fisk i nabolaget",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "e7e8411c-dc5f-4056-a11f-59628a72df63",
+      "season": 7,
+      "number": 26,
+      "name": "Storesøster Sam",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "5b850334-267c-40ed-8ff5-90b9fb2e6f44",
+      "season": 8,
+      "number": 1,
+      "name": "Ulykker sker",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "856ac4f9-381a-40f7-a524-c60ed0fdb0e9",
+      "season": 8,
+      "number": 2,
+      "name": "Drive In",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "92dde680-aa12-4d83-98b0-a93903081071",
+      "season": 8,
+      "number": 3,
+      "name": "Golf for sjov",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "86e3a94e-68e3-4519-b19e-8f8cc85bddee",
+      "season": 8,
+      "number": 4,
+      "name": "Kold konfrontation",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "93b365d2-86df-49c7-9fce-f9da36a47059",
+      "season": 8,
+      "number": 7,
+      "name": "En Firkants familieferie",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "8814becf-ccf5-4781-9edc-f39eb112e751",
+      "season": 8,
+      "number": 8,
+      "name": "Patrick's hjemmeferie",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "3e1b85af-e52f-427e-9ba6-8fb6c442d3a3",
+      "season": 8,
+      "number": 10,
+      "name": "Guld & Genfærd",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "92b07491-a60b-470b-8a56-81044dee0dc4",
+      "season": 8,
+      "number": 17,
+      "name": "Er du lykkelig nu?",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "7af771d9-d867-4391-8c04-8fa82c482068",
+      "season": 8,
+      "number": 18,
+      "name": "Gratis prøver",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "a429e626-5478-4a67-a802-902121d806a3",
+      "season": 8,
+      "number": 21,
+      "name": "Sprutitis",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "b793949e-6b26-4a82-9f2a-bb91c46f865d",
+      "season": 8,
+      "number": 25,
+      "name": "Det gode Krabbe-navn",
+      "airdate": "2023-09-19"
+    },
+    {
+      "id": "08f42a6d-4463-4584-87ab-6d1b9b90c0e7",
+      "season": 9,
+      "number": 1,
+      "name": "Ekstremsport",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a01d7634-ca03-477a-b296-243e73773466",
+      "season": 9,
+      "number": 2,
+      "name": "Patrick-mand!",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f82c1a7e-8658-43a7-acbc-56dd487ced40",
+      "season": 9,
+      "number": 5,
+      "name": "Søpindsvinestreger",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c8091db9-a49c-437c-9595-a6eb06445532",
+      "season": 9,
+      "number": 8,
+      "name": "Lige i boksen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b5754c97-93ca-403d-ad5b-5704f56b2f4b",
+      "season": 9,
+      "number": 9,
+      "name": "Borte, borte, tit, tit",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f6de0f49-af9a-4205-a3fa-1b3956878ec3",
+      "season": 9,
+      "number": 11,
+      "name": "SvampeBob, du er fyret , del 1 og 2",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "14d332cb-f5d7-4df0-8e6a-f5a90c305a2c",
+      "season": 9,
+      "number": 14,
+      "name": "Firmaudflugten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d77f8ac1-dd38-4841-b96c-3eb655e10cb6",
+      "season": 9,
+      "number": 16,
+      "name": "Patrick på spil",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c4cee25f-e6e2-4c19-a2bc-92d25a736c5b",
+      "season": 9,
+      "number": 18,
+      "name": "Fiskebowlen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "41a9856c-9c90-47dc-a380-98fda46ab99f",
+      "season": 9,
+      "number": 19,
+      "name": "Centerpigen Perle",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "10c1d41b-f4b4-4d78-af02-5817347986d6",
+      "season": 9,
+      "number": 20,
+      "name": "Hajerne mod Sprutterne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "eaff0f98-3757-4128-92de-f967f1cb2cca",
+      "season": 9,
+      "number": 22,
+      "name": "Farvel, Krabbeburger?",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d99b73f4-74bd-4b50-8cad-dc14aab79e8a",
+      "season": 9,
+      "number": 23,
+      "name": "Egern og agern",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "14b5816a-2a0c-4773-bf09-a82f328c018b",
+      "season": 9,
+      "number": 24,
+      "name": "Madmesse-miseren",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2b822dd5-9e06-4f11-860f-e8ce694dfd6e",
+      "season": 10,
+      "number": 2,
+      "name": "Hus forbi",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c391decd-e375-4d7c-9775-69b0e282db0c",
+      "season": 10,
+      "number": 9,
+      "name": "Flugten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3203dfe1-cfa2-4dbb-ab8e-3959b417d8e8",
+      "season": 10,
+      "number": 11,
+      "name": "Vilde venner",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1a69878e-0f70-4af3-8fe3-12c9aab874f1",
+      "season": 11,
+      "number": 1,
+      "name": "Hule-svampen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2e468984-ae00-4eba-8a00-9c3ba8ec3f67",
+      "season": 11,
+      "number": 2,
+      "name": "Plet vender tilbage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d0c193e8-a9b7-488b-98b1-57a8da564c35",
+      "season": 11,
+      "number": 3,
+      "name": "Den som flasken peger på",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f8fb3d8e-1f42-47e9-83a1-0fa13e83f810",
+      "season": 11,
+      "number": 4,
+      "name": "Strålemand vender tilbage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1ac91275-47c1-4244-a9a3-a6432ff790f4",
+      "season": 11,
+      "number": 6,
+      "name": "Ingen billeder, tak",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "55cf828d-7286-4f2b-b7be-a07ac5c7c813",
+      "season": 11,
+      "number": 8,
+      "name": "Det glade rengøringsvanvid",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8c1225f7-b895-45e2-8d86-90a5b7123ff2",
+      "season": 11,
+      "number": 11,
+      "name": "Sludrechatollet Gary",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e71e6b46-31d5-41fc-a999-5e871a28fba4",
+      "season": 11,
+      "number": 12,
+      "name": "Kør glad",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "eb31f4a2-9d77-4630-badd-09e366a59981",
+      "season": 11,
+      "number": 17,
+      "name": "Oh, min kære sennep",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2e537078-9261-4454-9908-1bb12f926da7",
+      "season": 11,
+      "number": 19,
+      "name": "Burgnocchio",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8ddb8318-d13e-4397-b153-0bb7fe17d92f",
+      "season": 11,
+      "number": 22,
+      "name": "Bøller på månen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1567d1e4-2f99-4928-82ac-5ac1b32a03d1",
+      "season": 11,
+      "number": 25,
+      "name": "Bobleby",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "bb4ddbcb-ab77-42e9-9eba-1ddb55416d59",
+      "season": 11,
+      "number": 26,
+      "name": "Egern-brandmand",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "df7bcb4f-b231-4044-8f2e-ee5ac95def50",
+      "season": 12,
+      "number": 3,
+      "name": "Det Kansende fængsel",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e029fc47-734b-4106-b835-f1b6b126c283",
+      "season": 12,
+      "number": 4,
+      "name": "Gary med ben",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c0552b89-1511-40ba-ac72-51d602e8b264",
+      "season": 12,
+      "number": 5,
+      "name": "Et værre uvejr",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fda09c89-c4d8-4cea-bf28-9742b01bd16f",
+      "season": 12,
+      "number": 6,
+      "name": "Svampevenner",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0908051a-000d-49d0-82d9-ca07da9f41a7",
+      "season": 12,
+      "number": 7,
+      "name": "Blækspruttebussen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2c535482-0062-4381-89a2-1f4812138f4a",
+      "season": 12,
+      "number": 8,
+      "name": "Usikre sikkerhedsvagter",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "05a45537-f1fd-494c-a436-bd889711e09a",
+      "season": 12,
+      "number": 10,
+      "name": "Pensionistrabat",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "35b01bb2-91b5-4edb-ae2c-e4018d96e09b",
+      "season": 12,
+      "number": 11,
+      "name": "Boblens beskidte arbejde",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "313e2862-08d5-4cb8-b0c0-5afdb83d1c6f",
+      "season": 12,
+      "number": 14,
+      "name": "SvampeBobs store fødselsdagsfest",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "63d5a97b-a2b5-4896-bb4e-67da3f1d7c99",
+      "season": 12,
+      "number": 17,
+      "name": "Uventet ansvar",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "5f7a942f-a229-4f55-a1c3-73e50f8c7b03",
+      "season": 12,
+      "number": 20,
+      "name": "Hikke-plagen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4d22d141-3726-4c3e-ba55-2146dbec63df",
+      "season": 12,
+      "number": 21,
+      "name": "Hyttetur",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "75cdc7d6-fee0-45ea-8b5e-41c89f4381e4",
+      "season": 12,
+      "number": 22,
+      "name": "Karantænetid",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fe5d5341-a62c-450e-a3e0-a9c86d7a10d7",
+      "season": 12,
+      "number": 26,
+      "name": "En drøm går i opfyldelse",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "cbaa2157-d91c-4055-b5ec-3bd370752a3d",
+      "season": 13,
+      "number": 1,
+      "name": "Kæledyrs-forretningen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c7526e74-b852-42e0-8505-0b6bba3e365a",
+      "season": 13,
+      "number": 2,
+      "name": "Syg undskyldning",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3abf57e8-9313-4a2f-89da-52ff76e22e89",
+      "season": 13,
+      "number": 3,
+      "name": "Robot-revanche",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "29155f50-86a4-4e41-bf60-133a65b1b842",
+      "season": 13,
+      "number": 4,
+      "name": "Besøg fra fortiden",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ef05ebc3-df2e-49ab-a654-9bf108740c6c",
+      "season": 13,
+      "number": 5,
+      "name": "Vejen til jul",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "387769ba-9620-41f8-9797-b6214006640b",
+      "season": 13,
+      "number": 6,
+      "name": "Kartoffelpuff",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "e35e86cb-a7c1-4942-91e3-e4d8829b4356",
+      "season": 13,
+      "number": 7,
+      "name": "Stor slem bobleaborre",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "8ce5a401-01d9-4da9-813b-e81ea63ffe09",
+      "season": 13,
+      "number": 9,
+      "name": "Sig \"av!\"",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c40e925f-51c2-4551-88b2-4fd1296bdd85",
+      "season": 13,
+      "number": 10,
+      "name": "Kaptajn Undermåler",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "255ee7ea-b023-48e8-a84b-41936906d451",
+      "season": 13,
+      "number": 11,
+      "name": "Blæk-feratu",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "f5633f0e-85bd-406f-8467-be1add66e333",
+      "season": 13,
+      "number": 12,
+      "name": "Velkommen til Binærbunden",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "50da9818-4878-4dfa-92ae-aab8667dfe4f",
+      "season": 13,
+      "number": 13,
+      "name": "Forladte tåber",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "2c361450-a2d0-4ae0-ace5-cf6a4635cfd6",
+      "season": 13,
+      "number": 14,
+      "name": "Den salte svamp",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "808e9a18-a908-4f99-8898-6e5973a272fb",
+      "season": 13,
+      "number": 15,
+      "name": "Forvirring på Lysthusdagen",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "634f2468-e42c-48b6-94e6-5d02db1043c6",
+      "season": 13,
+      "number": 16,
+      "name": "Mor og fars store hurra",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "d84a1179-196f-4b8a-a337-3d708c4184ef",
+      "season": 13,
+      "number": 17,
+      "name": "Blomsterkomplottet",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "3c3bd362-56cc-4af3-9696-ba5f57dce740",
+      "season": 13,
+      "number": 18,
+      "name": "Levering til Monsterøen",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "a8be5d75-e10d-4844-b264-18e5038d26e8",
+      "season": 13,
+      "number": 19,
+      "name": "Varme krydsede nødder",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "5a3ec65f-bd72-4caa-b267-959d90ad35cc",
+      "season": 13,
+      "number": 20,
+      "name": "Venskabsdagen",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "0bd78202-eb5b-4b06-88be-65916b1efc94",
+      "season": 13,
+      "number": 21,
+      "name": "Plankton og bønnestagen.",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "0145c859-113e-4ce5-ba77-084aab45601b",
+      "season": 13,
+      "number": 22,
+      "name": "Min ven Patty",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "9f6d2171-39ab-4074-b9ce-27033c3446af",
+      "season": 13,
+      "number": 23,
+      "name": "Spatelen fra himlen",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "e7e6d27b-db32-4da9-93fa-a0868ee413a2",
+      "season": 13,
+      "number": 24,
+      "name": "Svømmende tosser",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "25f2212c-10c3-4131-a2dd-57d85c7ce791",
+      "season": 13,
+      "number": 25,
+      "name": "Blækfugl",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "f56a5faf-533d-416c-8a58-a59211d8b4b9",
+      "season": 13,
+      "number": 26,
+      "name": "Stor cirkusfiasko",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "1d330428-0df6-4a96-802c-c5e6323ef926",
+      "season": 14,
+      "number": 1,
+      "name": "En-cellet forsvar",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "6793d100-bd7e-428b-9d27-9512f90074ce",
+      "season": 14,
+      "number": 2,
+      "name": "Vi elsker ringe",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "267d4e0f-6ded-4ab4-b3f6-4b85948e1e4f",
+      "season": 14,
+      "number": 3,
+      "name": "Squidiot-boks",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "e53574a5-7625-4767-9ec1-b7b192777d12",
+      "season": 14,
+      "number": 4,
+      "name": "Blod er tykkere end fedt",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "985ea64b-ba64-46e2-bacc-e1ae0af67c81",
+      "season": 14,
+      "number": 5,
+      "name": "Kælesten",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "afde85a6-d099-4750-b64d-e35c0938069d",
+      "season": 14,
+      "number": 6,
+      "name": "Tangokludder",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "611b5fec-743a-4096-a27a-d93e3346fbf9",
+      "season": 14,
+      "number": 7,
+      "name": "PL-1413",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "5c2969c1-98ae-4cd9-a648-c84d85aa318c",
+      "season": 14,
+      "number": 8,
+      "name": "Måne!",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "d3d179da-1e92-49d3-b7be-b2616e83eedd",
+      "season": 14,
+      "number": 9,
+      "name": "Krybelejren - Del 1",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "b14c06e7-6a12-4860-a9b7-f0a94e48ac36",
+      "season": 14,
+      "number": 10,
+      "name": "Krybelejren - Del 2",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "c54de33c-8242-4eec-9c63-ee1f1e8142fe",
+      "season": 14,
+      "number": 11,
+      "name": "Snegule og de Syv Små Vandmænd",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "f57bc7d8-a1e7-443e-8c36-eb8f158848b7",
+      "season": 14,
+      "number": 12,
+      "name": "Beskidt Bobleaborre",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "85c33ace-b3ae-465a-9e49-31e1109870fa",
+      "season": 14,
+      "number": 13,
+      "name": "Sandys jul på landet",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "d2e82414-6faa-49c0-9208-493dc5516130",
+      "season": 15,
+      "number": 1,
+      "name": "Sammy Sugemalle",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "7e6dcaf0-371c-41e4-9ed4-c215b887da0d",
+      "season": 15,
+      "number": 2,
+      "name": "Optursnedtur",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "3e463f24-02f4-4f74-927b-d99db22c05ef",
+      "season": 15,
+      "number": 3,
+      "name": "Heldet følger de tossede",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "9cdcfef0-465a-41b9-a65b-821a09968a4b",
+      "season": 15,
+      "number": 4,
+      "name": "Småkagespektakel",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "bfd878bc-f58c-4801-b39b-8806cd463058",
+      "season": 15,
+      "number": 5,
+      "name": "Pølsen vinder hver gang",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "0d3c2460-e75c-44ab-afb4-20814113c096",
+      "season": 15,
+      "number": 6,
+      "name": "Vidnebeskyttelsesbeskyttelse",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "d1d03f81-8829-4578-b296-b646e578d003",
+      "season": 15,
+      "number": 7,
+      "name": "Gary skal overtales",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "3d566ead-f747-4158-91bb-4478cbbd944d",
+      "season": 15,
+      "number": 8,
+      "name": "Preben T’s spøg og skæmt-geschæft",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "d2244d12-158c-4fc6-8e7e-dc0a88b96c03",
+      "season": 15,
+      "number": 9,
+      "name": "Ugunstige intelligens",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "c65767f2-46c0-4782-9372-4b36404ea605",
+      "season": 15,
+      "number": 10,
+      "name": "Plankton på glas",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "563a47de-5620-40c3-aeb6-ecc0657ad5ab",
+      "season": 15,
+      "number": 11,
+      "name": "Dødhurtig udbringning",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "5255721d-b637-45c3-982b-b9a27a949494",
+      "season": 15,
+      "number": 12,
+      "name": "Hvem er bange for hr. Nivser?",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "4161f28c-7df6-48ad-9fea-913703d90fba",
+      "season": 15,
+      "number": 13,
+      "name": "Høj bølgegang",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "38ceab2f-8f9f-44ed-9aed-b60d0dd51d6d",
+      "season": 16,
+      "number": 1,
+      "name": "Zucchini Bunden",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "e0969d82-c8b7-4aa7-b960-9d3c84cf8e4e",
+      "season": 16,
+      "number": 2,
+      "name": "Varkrusedullens forbandelse",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "69469eea-cd3c-4014-b388-fe6fdeba224a",
+      "season": 16,
+      "number": 3,
+      "name": "Udvekslingskøreelev",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "ac31c314-e149-48c9-bc94-d147ba8c3032",
+      "season": 16,
+      "number": 4,
+      "name": "SvampeBob og Patricks tidstonsserie - del 1",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "c16ad050-2a94-46ec-9a62-2728041d4803",
+      "season": 16,
+      "number": 5,
+      "name": "SvampeBob og Patricks tidstonsserie - del 2",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "00221de5-e1f6-4a41-94d5-f60e982d195b",
+      "season": 16,
+      "number": 6,
+      "name": "Vaskevanvid",
+      "airdate": "2026-02-07"
+    },
+    {
+      "id": "64c7331d-c688-411d-b601-9a7d70854c11",
+      "season": 16,
+      "number": 7,
+      "name": "SvampeBob tager skraldet",
+      "airdate": "2026-05-16"
+    },
+    {
+      "id": "0d84c0e2-4adb-46c9-a53f-6f15e0b5e5fb",
+      "season": 16,
+      "number": 8,
+      "name": "Den hjemsøgte bøtte",
+      "airdate": "2026-05-16"
+    },
+    {
+      "id": "d3672643-ea83-4526-b2f4-8175d3f1af77",
+      "season": 16,
+      "number": 9,
+      "name": "I skraldets hjerte",
+      "airdate": "2026-05-16"
+    },
+    {
+      "id": "ff9e6169-dd44-410b-ad54-99ee94b37290",
+      "season": 16,
+      "number": 10,
+      "name": "En slem gang trylleritis",
+      "airdate": "2026-05-16"
+    }
+  ]
+}

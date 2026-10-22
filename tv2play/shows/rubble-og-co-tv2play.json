@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:rubble-og-co-tv2play",
+  "name": "Rubble og Co.",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b5e76c0e-eb8e-49c1-8fd7-264dc1dbba59",
+      "season": 4,
+      "number": 1,
+      "name": "Rubble og Co. bygger en fin drive-in-restaurant",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "019cda90-e672-42a5-8c31-ee6176f4ba21",
+      "season": 4,
+      "number": 3,
+      "name": "Rubble og Co. bygger en sørøverskibscafé",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "eb8143ff-e2ca-4248-af69-3e11cebc28c9",
+      "season": 4,
+      "number": 4,
+      "name": "Rubble og Co. bygger en rullebåndsrestaurant",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "edbda831-a503-44bc-8b31-7139080fa699",
+      "season": 4,
+      "number": 6,
+      "name": "Rubble og Co. fikser observatoriet",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "deba5449-bf25-4d28-b9b3-7c77666c3273",
+      "season": 4,
+      "number": 7,
+      "name": "Rubble og Co. bygger et kæmpe dambræt",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "1db98d34-af9d-4eb5-9db3-b9e3616505fc",
+      "season": 4,
+      "number": 8,
+      "name": "Rubble og Co. bygger en sæbekassebil",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "9fcefa96-c23f-448c-b660-57a050e951d1",
+      "season": 4,
+      "number": 9,
+      "name": "Rubble og Co. bygger en pandekagecafé",
+      "airdate": "2026-09-26"
+    },
+    {
+      "id": "9ff7e92e-5cfb-4387-b75e-e547a9468c59",
+      "season": 4,
+      "number": 10,
+      "name": "Rubble og Co. bygger en bondegårdsskatepark",
+      "airdate": "2026-09-26"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:sukkerchok-tv2fri",
+  "name": "Sukkerchok",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b2d51a98-0b36-4848-8013-dea2d56c8121",
+      "season": 1,
+      "number": 1,
+      "name": "Trøfler med guld og fyldte chokolader",
+      "airdate": "2018-11-07"
+    },
+    {
+      "id": "a4a742e9-b5c3-4d95-98cb-1b2861cb5879",
+      "season": 1,
+      "number": 2,
+      "name": "En deltager besvimer",
+      "airdate": "2018-11-07"
+    },
+    {
+      "id": "a127ae35-b2b1-4903-a4f1-1b5cca0443d5",
+      "season": 1,
+      "number": 3,
+      "name": "Gråd, latter og begær",
+      "airdate": "2018-11-14"
+    },
+    {
+      "id": "b6fa4dff-780c-40da-921f-2ef80b642ade",
+      "season": 1,
+      "number": 4,
+      "name": "Lilla kugler og tis i sneen",
+      "airdate": "2018-11-21"
+    },
+    {
+      "id": "f70d581d-80e4-4750-a722-a85aeae20940",
+      "season": 1,
+      "number": 5,
+      "name": "Hård dom til Naja",
+      "airdate": "2018-11-28"
+    },
+    {
+      "id": "6d361753-21e9-4fc3-844a-d1b2a442c1c1",
+      "season": 1,
+      "number": 6,
+      "name": "Julens søde sager på sukkerfabrikken",
+      "airdate": "2018-12-05"
+    },
+    {
+      "id": "0f77befb-8bee-47c7-a7d5-8a7be6feb96f",
+      "season": 1,
+      "number": 7,
+      "name": "Dramatisk semifinale!",
+      "airdate": "2018-12-12"
+    },
+    {
+      "id": "c017f04a-bed6-4530-a0c2-afb49efb51df",
+      "season": 1,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2018-12-19"
+    }
+  ]
+}

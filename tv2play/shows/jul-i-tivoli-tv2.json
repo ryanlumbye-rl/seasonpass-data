@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:jul-i-tivoli-tv2",
+  "name": "Jul i Tivoli",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "66c8c116-75d8-4d0e-8d88-c3b5db1fbc39",
+      "season": 1,
+      "number": 1,
+      "name": "Kom med bag kulissen",
+      "airdate": "2013-12-03"
+    },
+    {
+      "id": "6f5c299e-8dfd-4766-a309-572358b22fc1",
+      "season": 1,
+      "number": 2,
+      "name": "Kom med bag kulissen",
+      "airdate": "2013-12-10"
+    },
+    {
+      "id": "a97f38c2-7961-4b13-ada4-591414e0fb25",
+      "season": 1,
+      "number": 3,
+      "name": "Kom med bag kulissen",
+      "airdate": "2013-12-17"
+    },
+    {
+      "id": "6e2b51d2-9eca-4e2f-9556-be5c33ce7f5b",
+      "season": 1,
+      "number": 4,
+      "name": "Kom med bag kulissen",
+      "airdate": "2013-12-24"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "tv2play:kaptajn-underhylers-store-eventyr-tv2play",
+  "name": "Kaptajn Underhylers store eventyr",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a8e6aa04-3eb5-4b0d-b00d-53090a29eb65",
+      "season": 1,
+      "number": 1,
+      "name": "Fimse Flapreflæsks forrykte fisen",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "d9b46533-b179-48ce-9f13-02eb02ea3963",
+      "season": 1,
+      "number": 2,
+      "name": "Den hæslige historie om DJ Hængerøv",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "1fea6d54-c392-4412-baad-bc86a85e3fd6",
+      "season": 1,
+      "number": 3,
+      "name": "Hjemmearbejde-Hydras hæslige horribiliteter",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "17d7e21c-6cb7-46b0-83e4-9d9a1e8bd039",
+      "season": 1,
+      "number": 4,
+      "name": "Den vilde vitalpyrs vægtige voldsomheder",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "88467eb1-4016-49f4-bb39-3d506ba2c22b",
+      "season": 1,
+      "number": 5,
+      "name": "T. P.-mumiens frygtelige farefulde modgang",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "b1daa20e-bdd0-4680-aae2-467b26e307eb",
+      "season": 1,
+      "number": 6,
+      "name": "Sune Hunes stinkehulers penible smattethed",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "5067ceb0-ed6a-451c-b400-b5590b950709",
+      "season": 1,
+      "number": 7,
+      "name": "De bekostelige begivenheder med den læsterlige lerkolos",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "159ec56d-ddba-4b19-bf14-5696d7527c9f",
+      "season": 1,
+      "number": 8,
+      "name": "Dommer J.O.R.T.S.' dirrende dysfunktion",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "3af66a94-9b98-4f03-9aa5-6fb578692248",
+      "season": 1,
+      "number": 9,
+      "name": "Den sure sokspruttes sære svedighed",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "b96f7343-d8c2-407a-b8cb-ab12c4ad27f1",
+      "season": 1,
+      "number": 10,
+      "name": "De skylbare hjernevaskeres skandaløse jammer",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "034370b3-db0f-4714-a33f-71f9b233fab9",
+      "season": 1,
+      "number": 11,
+      "name": "Den strømmende svedbølges slaskede salighed",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "5a1626c8-c8f8-4353-bfb8-05b5adbf7c1d",
+      "season": 1,
+      "number": 12,
+      "name": "Fikse-Fjærtens sygelige stank",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "8ce665bc-8488-478a-9c80-0dfc28909879",
+      "season": 1,
+      "number": 13,
+      "name": "Den tyvagtige Truttefes trælse troløshed",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "a7ef1ae7-5240-4621-80c1-05cd2027c9f8",
+      "season": 1,
+      "number": 14,
+      "name": "Den listige lynkrig mod de lede lærerrobotter",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "dae4ae55-6b23-4e8a-9566-0905cb2f14df",
+      "season": 1,
+      "number": 15,
+      "name": "De pompøse Pelsebassers presserende passion",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "5406715b-dd05-4182-98f4-57ae55ec5284",
+      "season": 1,
+      "number": 16,
+      "name": "Den sindsoprivende Summeskoles skrækkelige skader",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "711105d7-e80f-4047-b956-6ae28d223153",
+      "season": 1,
+      "number": 17,
+      "name": "Den plagende Pøllehørmers paradoksale pulverisering",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "c5c5b058-c2c6-468e-b8a6-1ae34df949f7",
+      "season": 1,
+      "number": 18,
+      "name": "Den diabolske Diddlysaurus' dekadente dåd",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "81ab44b7-6327-4576-846f-b964b96005a8",
+      "season": 1,
+      "number": 19,
+      "name": "Peter Plamages plagsomme plan",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "a42a5b3d-221a-456c-b524-bbbac9ee3cf5",
+      "season": 1,
+      "number": 20,
+      "name": "De belastende ballefluers besynderlige blitzkrieg",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "bf2d7279-42bf-4a90-a380-099d3c1190b5",
+      "season": 1,
+      "number": 21,
+      "name": "Den stenhårde Svupperinas sære suppedas",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "31afb748-96f3-4baf-b849-836df78e5641",
+      "season": 1,
+      "number": 22,
+      "name": "Den begavede Blabulous' bombastiske bøvl",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "b35e19a5-98f7-489d-b9d8-3d8f04e2d41d",
+      "season": 1,
+      "number": 23,
+      "name": "Den smitsomme Skræklius Snottius' sære, slimede spray",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "6b231982-dae3-4488-b6eb-1e99322769eb",
+      "season": 1,
+      "number": 24,
+      "name": "Den lusede legende om det lede lossemonster",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "8f2188a7-5653-434d-800f-be69525b0e97",
+      "season": 1,
+      "number": 26,
+      "name": "Det svidende slag af de svindleriske sladreprøver (2)",
+      "airdate": "2026-10-03"
+    }
+  ]
+}

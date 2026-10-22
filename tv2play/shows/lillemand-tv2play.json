@@ -1,0 +1,206 @@
+{
+  "id": "tv2play:lillemand-tv2play",
+  "name": "Lillemand",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f7cad3bd-708c-42be-8853-682c5596ba56",
+      "season": 1,
+      "number": 1,
+      "name": "Gaven",
+      "airdate": "2015-03-23"
+    },
+    {
+      "id": "e9c95e82-cc79-423f-883f-c35f5ddfd1d9",
+      "season": 1,
+      "number": 2,
+      "name": "Pussyquitter",
+      "airdate": "2015-03-30"
+    },
+    {
+      "id": "614eff18-4648-4b00-8bbe-75b122852b96",
+      "season": 1,
+      "number": 3,
+      "name": "Små sko",
+      "airdate": "2015-04-06"
+    },
+    {
+      "id": "434065d0-e1b6-4da7-b51f-fe2c6578a10f",
+      "season": 1,
+      "number": 4,
+      "name": "Miss Afrika",
+      "airdate": "2015-04-13"
+    },
+    {
+      "id": "d00bd787-5b25-4809-abca-55ac5aa990b8",
+      "season": 1,
+      "number": 5,
+      "name": "Tæppegnasker",
+      "airdate": "2015-04-20"
+    },
+    {
+      "id": "05279344-2a0a-4cc9-9af4-929691fe90c5",
+      "season": 1,
+      "number": 6,
+      "name": "Min søsters børn",
+      "airdate": "2015-04-27"
+    },
+    {
+      "id": "1d97bbf6-5630-428c-8194-79363486571f",
+      "season": 1,
+      "number": 7,
+      "name": "Mobbestopperen",
+      "airdate": "2015-05-04"
+    },
+    {
+      "id": "5ae461c5-0bb4-4fe0-8b40-1d2e983351d2",
+      "season": 1,
+      "number": 8,
+      "name": "Eks'en",
+      "airdate": "2015-05-11"
+    },
+    {
+      "id": "582b5d15-b509-4291-922d-4c4489eafabe",
+      "season": 2,
+      "number": 1,
+      "name": "Feminazi",
+      "airdate": "2016-10-10"
+    },
+    {
+      "id": "4f9d0e3a-d4f7-4b90-aa17-bb41b85d57ba",
+      "season": 2,
+      "number": 2,
+      "name": "Feminazi - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "16655bc6-7240-419f-bc83-7ba9b7f862ef",
+      "season": 2,
+      "number": 3,
+      "name": "Død og begravet",
+      "airdate": "2016-10-17"
+    },
+    {
+      "id": "bce7b8d3-0456-4f9c-a5d7-619b4c15a5cf",
+      "season": 2,
+      "number": 4,
+      "name": "Død og begravet - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "5fea4a2d-1e1d-4a13-a1f2-4b0383fd313b",
+      "season": 2,
+      "number": 5,
+      "name": "Den gifte kvinde",
+      "airdate": "2016-10-24"
+    },
+    {
+      "id": "78141e35-0b4e-402e-9cbc-d1ca73068a5c",
+      "season": 2,
+      "number": 6,
+      "name": "Den gifte kvinde - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "d1b1890c-d882-4d1a-8c54-2a4bab2618d0",
+      "season": 2,
+      "number": 7,
+      "name": "Kærester?",
+      "airdate": "2016-10-31"
+    },
+    {
+      "id": "64f4b1e7-6899-45f7-abac-69d0695f9433",
+      "season": 2,
+      "number": 8,
+      "name": "Kærester? - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "0879c4cd-b17e-4f65-8b46-abc040b5aef5",
+      "season": 2,
+      "number": 9,
+      "name": "Gods og guld",
+      "airdate": "2016-11-07"
+    },
+    {
+      "id": "958fb669-5172-4453-9f68-454d6cba1755",
+      "season": 2,
+      "number": 10,
+      "name": "Gods og guld - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "5a119e5c-b176-4a1c-b5a7-e70bf673cdd5",
+      "season": 2,
+      "number": 11,
+      "name": "Paparazzi",
+      "airdate": "2016-11-14"
+    },
+    {
+      "id": "a1b4f2d3-3153-439a-8773-39c46c4b4cb4",
+      "season": 2,
+      "number": 12,
+      "name": "Paparazzi - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "c4e27f9f-4830-49c4-943f-c265c8327bf3",
+      "season": 2,
+      "number": 13,
+      "name": "Hund imellem",
+      "airdate": "2016-11-21"
+    },
+    {
+      "id": "91722286-93a5-49ce-9719-0d944423bef9",
+      "season": 2,
+      "number": 14,
+      "name": "Hund imellem - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "46eb1146-c6a7-4956-8a8c-96f8614d4fb5",
+      "season": 2,
+      "number": 15,
+      "name": "Nutid/datid",
+      "airdate": "2016-11-28"
+    },
+    {
+      "id": "d4d087eb-9978-4296-9bd5-eb8745d4c587",
+      "season": 2,
+      "number": 16,
+      "name": "Nutid/datid - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "4917d234-a8c6-4199-b7ed-d96d02be21ea",
+      "season": 2,
+      "number": 17,
+      "name": "Koranen",
+      "airdate": "2016-12-05"
+    },
+    {
+      "id": "811635e0-3457-4e8f-b57c-9440daf69cce",
+      "season": 2,
+      "number": 18,
+      "name": "Koranen - Ekstra standup",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "3c4cc035-03cb-497e-b2a5-04347c469780",
+      "season": 2,
+      "number": 19,
+      "name": "Amsterdamned",
+      "airdate": "2016-12-12"
+    },
+    {
+      "id": "61551433-581e-4712-b7ce-6977b622cb49",
+      "season": 2,
+      "number": 20,
+      "name": "Amsterdamned - Ekstra standup",
+      "airdate": "2022-12-19"
+    }
+  ]
+}

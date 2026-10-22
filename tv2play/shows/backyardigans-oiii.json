@@ -1,0 +1,430 @@
+{
+  "id": "tv2play:backyardigans-oiii",
+  "name": "Backyardigans",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "dd6b763b-f09a-40e0-bfa8-28235f1fb798",
+      "season": 1,
+      "number": 1,
+      "name": "Pirater på eventyr",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "2bdc3ee0-bdce-47a9-ab9a-ad9db1b946d9",
+      "season": 1,
+      "number": 2,
+      "name": "I hjertet af junglen",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "cf629780-19ad-4df8-a06f-3520c1986054",
+      "season": 1,
+      "number": 3,
+      "name": "Backyardigans på yeti-jagt",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "0d6b1fca-e320-4a14-931a-4f32bd8cfbb9",
+      "season": 1,
+      "number": 4,
+      "name": "Snefortet",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "d4a608af-564a-4ad6-a754-326afa0e2e39",
+      "season": 1,
+      "number": 5,
+      "name": "På hemmelig mission",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "83831876-c72e-4ab5-b969-4dbf42e7924c",
+      "season": 1,
+      "number": 6,
+      "name": "Det er skønt at være spøgelse",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "7fcc9c7c-7476-49c2-9064-d89fc1dc18a1",
+      "season": 1,
+      "number": 7,
+      "name": "I det vilde vesten",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "fe508a25-a89a-48a3-85a8-67f88f44ff58",
+      "season": 1,
+      "number": 8,
+      "name": "Nøglen til Nilen",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "dc8d76ca-33c9-4809-bd87-af85f046934d",
+      "season": 1,
+      "number": 9,
+      "name": "Tapre, stærke riddere",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "d52602aa-6632-47f3-abd8-73c1f16396e3",
+      "season": 1,
+      "number": 10,
+      "name": "De vilde vikinger",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "3b59016d-0738-4a2f-8fb4-1ac283c1c20f",
+      "season": 1,
+      "number": 11,
+      "name": "Strandet på en øde ø",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "85d86821-e6bc-4473-8580-10890acce093",
+      "season": 1,
+      "number": 12,
+      "name": "Superskurke og superhelte",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "35e27d6a-457e-4238-9599-814f29ebab25",
+      "season": 1,
+      "number": 13,
+      "name": "Jagten på Den Flyvende Sten",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "e5660987-0995-4e25-a737-6a2a6bed07cf",
+      "season": 1,
+      "number": 14,
+      "name": "Festen i Polka-paladset",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "c65bee99-22fd-40ab-970d-ada96b357e8c",
+      "season": 1,
+      "number": 15,
+      "name": "Surftid",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "c011afe4-e4c1-4c5c-b3ae-9528533b5325",
+      "season": 1,
+      "number": 16,
+      "name": "Guld og gamle knogler",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "5ee860db-5738-41ee-89e2-fe586616d174",
+      "season": 1,
+      "number": 17,
+      "name": "Jorden rundt-løbet",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "b0a51ce0-664d-473b-b5f7-7a4454abaed1",
+      "season": 1,
+      "number": 18,
+      "name": "Fodbold-monstret",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "9bd21833-bfc3-43d8-bd9a-ec60a5d1b754",
+      "season": 1,
+      "number": 19,
+      "name": "Hulehalløj",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "1d1d5215-a0e6-4a21-bd2b-139249f2a21f",
+      "season": 1,
+      "number": 20,
+      "name": "Te-selskabet",
+      "airdate": "2014-05-15"
+    },
+    {
+      "id": "1a13484f-b1a8-41ed-857d-5d3c6cbcb58a",
+      "season": 2,
+      "number": 1,
+      "name": "Missionen til Mars",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "38a49d4b-31bb-48b5-8208-b198abd8bb14",
+      "season": 2,
+      "number": 2,
+      "name": "Den Store Kage",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "e47ab689-13cc-4bfe-9a58-acc365c7002f",
+      "season": 2,
+      "number": 3,
+      "name": "Uhyggelige monstre",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "330294fb-3708-4fe1-aeba-de3dcb995211",
+      "season": 2,
+      "number": 4,
+      "name": "Hvem er tyven?",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "969e53ba-109a-4c38-b696-9078313f5acd",
+      "season": 2,
+      "number": 5,
+      "name": "Legenden om vulkan-søstrene",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "a2fb3d94-4be9-43c2-9666-6fd5b1da7997",
+      "season": 2,
+      "number": 6,
+      "name": "Sneens hemmelighed",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "ec821378-2360-46d6-8293-74aa3d94e5a4",
+      "season": 2,
+      "number": 7,
+      "name": "Sumpuhyret",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "f3ad5496-cffb-4a23-97be-44aeecdb89d9",
+      "season": 2,
+      "number": 8,
+      "name": "Højt til hest",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "3d44ce07-7ef3-4c63-8bce-cb454012f271",
+      "season": 2,
+      "number": 9,
+      "name": "Ekspreslevering",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "6341ad6a-c3bf-4de9-bb6c-27c6bf9cf671",
+      "season": 2,
+      "number": 10,
+      "name": "Internationale superspioner - del 1",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "bcc21aaf-6f39-4757-aa99-e2a2219342c6",
+      "season": 2,
+      "number": 11,
+      "name": "Internationale superspioner - del 2",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "1a8a8860-02c3-4bbf-819e-d65a5742d5b9",
+      "season": 2,
+      "number": 12,
+      "name": "Arabiens flyttemænd",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "bf3ae6af-e2c8-46df-bb8e-c456e76e502b",
+      "season": 2,
+      "number": 13,
+      "name": "Politi og robotter",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "1e7de2b8-1345-4bb0-a1bc-02fd58ae4eb9",
+      "season": 2,
+      "number": 14,
+      "name": "Sinbad sejler alene",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "e8cbaf24-a36f-466f-ae24-f94547a6b332",
+      "season": 2,
+      "number": 15,
+      "name": "Byens bedste klovne",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "50502d4f-6a71-4fbf-af39-94a38703178b",
+      "season": 2,
+      "number": 16,
+      "name": "Kystvagten",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "793ec01e-061c-4888-86da-351e6cb0711e",
+      "season": 2,
+      "number": 17,
+      "name": "Havfruejagten",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "40c20f7f-fe52-46df-b065-d8da4b5a4c61",
+      "season": 2,
+      "number": 18,
+      "name": "Sensation",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "ab9a2f2c-bf55-4fef-aece-ad98abfa5d26",
+      "season": 2,
+      "number": 19,
+      "name": "Fang sommerfuglen",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "cf6b9c66-5ee9-4e07-9faa-6126c261a665",
+      "season": 2,
+      "number": 20,
+      "name": "Et kæmpe problem",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "d83ff7fc-e780-422c-88ca-1f68d5fb1377",
+      "season": 3,
+      "number": 1,
+      "name": "Hvem dér?",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "b6477331-4efa-43af-9315-8cf19a32e4be",
+      "season": 3,
+      "number": 2,
+      "name": "Lynende bat",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "22e337f7-c7d7-4225-9ce6-7136d2e35bda",
+      "season": 3,
+      "number": 3,
+      "name": "Hvem tager skraldet?",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "f917b90f-68f9-497b-ad05-d195ba211e45",
+      "season": 3,
+      "number": 4,
+      "name": "Flyverpigen",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "75e8da7f-65eb-4bdc-b30a-f7917454b109",
+      "season": 3,
+      "number": 5,
+      "name": "Hvad stikker dig?",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "1406903f-76a4-46c3-8632-a944e541102e",
+      "season": 3,
+      "number": 6,
+      "name": "Kylle-ritsa Pizza",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "94b11767-cb58-4346-8318-6360551c4e73",
+      "season": 3,
+      "number": 7,
+      "name": "Rejsen til Jordens Indre",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "2a34ccf3-a7e1-47eb-88a7-b8e5a13888a5",
+      "season": 3,
+      "number": 8,
+      "name": "Forsidestof",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "52a5b32c-1c1c-4e50-9e3c-48fa6536f877",
+      "season": 3,
+      "number": 9,
+      "name": "Sagnet om de mægtige riddere - del 1",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "34ce4d04-5b95-468c-9a13-224104500e06",
+      "season": 3,
+      "number": 10,
+      "name": "Sagnet om de mægtige riddere - del 2",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "8eb1552a-1ca8-4920-867f-2857c8708192",
+      "season": 3,
+      "number": 11,
+      "name": "Forklædningens Mester",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "d332eea7-e397-411e-a616-4311876f33b6",
+      "season": 3,
+      "number": 12,
+      "name": "Kampen på det olympiske bjerg",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "bcf1a8c6-e455-4fdc-a72b-dd3d663d762d",
+      "season": 3,
+      "number": 13,
+      "name": "Det store delfinræs",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "65657186-9565-41d4-8430-a9b3b238de3f",
+      "season": 3,
+      "number": 14,
+      "name": "Hulemandens bedste ven",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "56f4f040-4d10-498f-bdaf-953ce9a38bb3",
+      "season": 3,
+      "number": 15,
+      "name": "Farmer-hjælpen fra det ydre",
+      "airdate": "2021-03-24"
+    },
+    {
+      "id": "1e16fee1-9239-4e42-91b7-6c4dabdd90ce",
+      "season": 3,
+      "number": 16,
+      "name": "Robin Hood den Rene",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "ff2391bc-6ed4-4473-9fb7-f8c26acfcec3",
+      "season": 3,
+      "number": 17,
+      "name": "Flugten fra Eventyrbyen",
+      "airdate": "2021-03-25"
+    },
+    {
+      "id": "f02f48e6-c101-4620-995c-7a409aec1f80",
+      "season": 3,
+      "number": 18,
+      "name": "Sørøverskole",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "4ac60af6-03a3-4a69-bc1c-afe6c939ecfa",
+      "season": 3,
+      "number": 19,
+      "name": "De to musketerer",
+      "airdate": "2021-02-06"
+    },
+    {
+      "id": "6b33a736-8384-4a61-9364-b2eec2dcd791",
+      "season": 3,
+      "number": 20,
+      "name": "Den maskerede henter",
+      "airdate": "2021-02-06"
+    }
+  ]
+}

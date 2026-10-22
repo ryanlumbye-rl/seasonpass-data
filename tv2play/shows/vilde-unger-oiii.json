@@ -1,0 +1,115 @@
+{
+  "id": "tv2play:vilde-unger-oiii",
+  "name": "Vilde unger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "d87ff6f0-f6f4-42bd-8572-5c68aa1fa85b",
+      "season": 1,
+      "number": 1,
+      "name": "Gerda Gump - Ælling",
+      "airdate": "2021-09-06"
+    },
+    {
+      "id": "92a27e66-04db-42a2-a660-7668f475cf8a",
+      "season": 1,
+      "number": 2,
+      "name": "Poul Pels - Polarræveunge",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "4504ac7a-05cb-4432-b998-4424de1bfd01",
+      "season": 1,
+      "number": 3,
+      "name": "Cornelia Krads - Kattekilling",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "d8e2583c-8117-4e52-8f6d-0c29f8466f11",
+      "season": 1,
+      "number": 4,
+      "name": "Fanny Firspring - Sikakalv",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "ae865ef6-461f-4fe8-afdc-55eb3f87d96c",
+      "season": 1,
+      "number": 5,
+      "name": "Wilma Hvid - Isbjørneunge",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "421cf390-e2a9-4305-a03f-6ce4853b5122",
+      "season": 1,
+      "number": 6,
+      "name": "Villy Vuf - Hundehvalp",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "dc6c30a2-a608-4c40-a4db-1824da89efbe",
+      "season": 1,
+      "number": 7,
+      "name": "Vagn Vrinsk - Føl",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "0da9f939-a403-4f35-b817-fe6250260ce5",
+      "season": 1,
+      "number": 8,
+      "name": "Heidi Hop - Kaninunge",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "2b264c02-8890-419f-8dd0-c30dfe056769",
+      "season": 1,
+      "number": 9,
+      "name": "Paula Pip - Kylling",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "bfa0dcae-9528-46a1-ab0b-619c3061156e",
+      "season": 1,
+      "number": 10,
+      "name": "Helmer Hyl - Ulveunge",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "13adf80a-e3c8-4316-bda4-5d29fc7b3be9",
+      "season": 1,
+      "number": 11,
+      "name": "Georg Grynt - Grisling",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "2fd8dba7-d8f1-4831-9fb5-97219e672c73",
+      "season": 1,
+      "number": 12,
+      "name": "Stella Stang - Gedekid",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "6072b9fe-8e25-4f34-abbb-1abd209d0f8c",
+      "season": 1,
+      "number": 13,
+      "name": "Kalle Krøl - Lam",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "294751fd-ebc0-45d0-bba9-92ba37467372",
+      "season": 1,
+      "number": 14,
+      "name": "Mona Muh - Kalv",
+      "airdate": "2021-08-28"
+    },
+    {
+      "id": "22acae77-6970-44d4-9884-f87a10a8bbe5",
+      "season": 1,
+      "number": 15,
+      "name": "Bertil Brun - Bjørneunge",
+      "airdate": "2021-09-28"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "tv2play:mord-i-skaergaarden-cmore",
+  "name": "Mord i Skærgården",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "1ba4f047-c2f7-41bf-8c74-c2e0b4d95d84",
+      "season": 7,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "4f256c86-f802-4614-9587-cc3948d39f9d",
+      "season": 7,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "c2abf7da-f58c-4fd3-8a71-e2b6e2b2864c",
+      "season": 7,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "5543a525-53d0-4ce5-bff2-1c5678b9f03b",
+      "season": 7,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "029fc833-1bb4-468c-a658-5dfb45097bbe",
+      "season": 7,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "21431dd1-dc49-44e4-b460-1d3b93844812",
+      "season": 7,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "05138077-3b60-4c01-84a9-d85cf2ef40d4",
+      "season": 7,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "8e7c770d-f0a6-4815-923a-e5171a72e3c5",
+      "season": 7,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2021-02-03"
+    },
+    {
+      "id": "fff17be6-df5d-41f2-b9c2-0943b817df56",
+      "season": 8,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-08-08"
+    },
+    {
+      "id": "d620673c-8af4-4d83-b813-99487b25b530",
+      "season": 8,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-08-08"
+    },
+    {
+      "id": "656053c3-38ab-46fb-88ce-9dfa3c831ee6",
+      "season": 8,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-08-08"
+    },
+    {
+      "id": "6661941b-b6e9-4d23-b1a5-403aab8bfb1f",
+      "season": 8,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-08-08"
+    },
+    {
+      "id": "ccb42980-5988-4903-9317-ceeba09e57f9",
+      "season": 8,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-08-08"
+    },
+    {
+      "id": "729c5634-d924-4cc5-8601-de972b4b109f",
+      "season": 8,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-08-08"
+    },
+    {
+      "id": "7b7e8e16-40e7-4ec3-8aa0-0733116ba26c",
+      "season": 9,
+      "number": 1,
+      "name": "Nadia - del 1",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "e3c4aac7-819d-401f-9fc8-340be540ad9b",
+      "season": 9,
+      "number": 2,
+      "name": "Nadia - del 2",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "721c14dd-f0a7-4e65-b22b-7652e89600c2",
+      "season": 9,
+      "number": 3,
+      "name": "Esther - del 1",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "4afedb93-98da-4237-b2c6-1805233198e5",
+      "season": 9,
+      "number": 4,
+      "name": "Esther - del 2",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "3d08c3e5-026a-4b0e-984b-57df92a29175",
+      "season": 9,
+      "number": 5,
+      "name": "Max - del 1",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "9e7f1dec-997c-43f7-bcfc-d048edf93837",
+      "season": 9,
+      "number": 6,
+      "name": "Max - del 2",
+      "airdate": "2023-04-03"
+    },
+    {
+      "id": "671c2bd2-8a93-41cf-aae6-ffac9d2c0999",
+      "season": 10,
+      "number": 1,
+      "name": "Madeleine - del 1",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "5bc50d52-967d-40b7-b74c-5313e640f71d",
+      "season": 10,
+      "number": 2,
+      "name": "Madeleine - del 2",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "22a31026-099c-4c42-93ee-469c8b756157",
+      "season": 10,
+      "number": 3,
+      "name": "Nikki og Evelina - del 1",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "5575d014-f693-4c88-8a36-b121beea6bfd",
+      "season": 10,
+      "number": 4,
+      "name": "Nikki og Evelina - del 2",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "fe09ad6a-edcd-4876-aa70-1f26170dfe26",
+      "season": 10,
+      "number": 5,
+      "name": "Birgitta - del 1",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "a0baa821-0b43-409c-a450-526783837e3a",
+      "season": 10,
+      "number": 6,
+      "name": "Birgitta - del 2",
+      "airdate": "2025-03-27"
+    }
+  ]
+}

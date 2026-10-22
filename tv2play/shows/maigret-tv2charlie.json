@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:maigret-tv2charlie",
+  "name": "Maigret",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cd82236f-d0de-42a9-ac6b-790e04eb04dc",
+      "season": 1,
+      "number": 1,
+      "name": "Den dovne tyv - del 1",
+      "airdate": "2026-03-29"
+    },
+    {
+      "id": "5b9bd869-6c48-47c2-9381-a02031c1371d",
+      "season": 1,
+      "number": 2,
+      "name": "Den dovne tyv - del 2",
+      "airdate": "2026-04-05"
+    },
+    {
+      "id": "6e592cd0-ab81-4855-b401-b3050b77492e",
+      "season": 1,
+      "number": 3,
+      "name": "En gammel fjende - del 1",
+      "airdate": "2026-04-12"
+    },
+    {
+      "id": "1d840143-c14a-4ad2-a283-1f43298a385b",
+      "season": 1,
+      "number": 4,
+      "name": "En gammel fjende - del 2",
+      "airdate": "2026-04-19"
+    },
+    {
+      "id": "72b1d330-9442-4563-8210-ef86fead3ad9",
+      "season": 1,
+      "number": 5,
+      "name": "Samtale med en morder - del 1",
+      "airdate": "2026-04-26"
+    },
+    {
+      "id": "50e795b6-b626-416e-9d35-eaa5299ce9b3",
+      "season": 1,
+      "number": 6,
+      "name": "Samtale med en morder - del 2",
+      "airdate": "2026-05-03"
+    }
+  ]
+}

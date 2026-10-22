@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:ligas-tv2play",
+  "name": "Ligas",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "baf8fb6a-57cc-427d-802b-0084fa174c3b",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-06-11"
+    },
+    {
+      "id": "209edb20-67b9-4f62-a7ac-8ef67b32906b",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-06-11"
+    },
+    {
+      "id": "3f173855-f668-4b76-ae44-eb88298abb28",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-06-11"
+    },
+    {
+      "id": "520d642e-2727-4e2c-9023-d0e41d75c800",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-06-11"
+    },
+    {
+      "id": "367a3853-fd4e-4c14-8f8d-244789bc84de",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-06-11"
+    },
+    {
+      "id": "82d2c47e-ff67-424f-b0fa-61ac11de1f2c",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-06-11"
+    }
+  ]
+}

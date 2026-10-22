@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:roomies-london-calling-tv2echo",
+  "name": "Roomies - London Calling",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "898dfe8e-be50-4811-8978-5775f7878094",
+      "season": 1,
+      "number": 1,
+      "name": "Det nye hold",
+      "airdate": "2020-01-02"
+    },
+    {
+      "id": "4d2100ae-b8d0-4a82-935e-be5d2779cd58",
+      "season": 1,
+      "number": 2,
+      "name": "Hvor skal vi sove i nat?",
+      "airdate": "2020-01-02"
+    },
+    {
+      "id": "ce7a1add-418f-4d2b-94e1-e3b2cb08b300",
+      "season": 1,
+      "number": 3,
+      "name": "Kliker i kollektivet",
+      "airdate": "2020-01-08"
+    },
+    {
+      "id": "911d5171-d86b-404c-abec-54706d5268a4",
+      "season": 1,
+      "number": 4,
+      "name": "En silverdaddy-date",
+      "airdate": "2020-01-15"
+    },
+    {
+      "id": "7959c8bb-fdd0-4394-9dbf-78435156ba13",
+      "season": 1,
+      "number": 5,
+      "name": "Er der plads til en mere?",
+      "airdate": "2020-01-22"
+    },
+    {
+      "id": "85ebcb9a-1765-44f6-86f5-13f24dd8f7fb",
+      "season": 1,
+      "number": 6,
+      "name": "Fuld flamingo",
+      "airdate": "2020-01-29"
+    },
+    {
+      "id": "6471c71f-c008-468b-8bcd-a636eea0acb2",
+      "season": 1,
+      "number": 7,
+      "name": "Sydpå",
+      "airdate": "2020-02-05"
+    },
+    {
+      "id": "9e84f3b4-f1df-40d4-bce7-04c0a19c8ccf",
+      "season": 1,
+      "number": 8,
+      "name": "Én dag tilbage",
+      "airdate": "2020-02-12"
+    }
+  ]
+}

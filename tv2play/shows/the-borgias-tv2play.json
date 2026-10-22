@@ -1,0 +1,17 @@
+{
+  "id": "tv2play:the-borgias-tv2play",
+  "name": "The Borgias",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2ae7dd46-b5bf-4fda-9671-daa1c3bc1a1a",
+      "season": 2,
+      "number": 5,
+      "name": "Valget",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": "tv2play:sommer-med-ernst-tv2fri",
+  "name": "Sommer med Ernst",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0dcfd465-7356-4aa8-b066-6c36e3d67827",
+      "season": 8,
+      "number": 1,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2017-07-05"
+    },
+    {
+      "id": "e1df06dd-bb28-4677-84f6-016e961d9647",
+      "season": 8,
+      "number": 2,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2017-07-06"
+    },
+    {
+      "id": "4be00669-6b8c-46f6-8656-46e8d42de320",
+      "season": 8,
+      "number": 3,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2017-07-07"
+    },
+    {
+      "id": "a55644c1-6518-49ab-8b6d-af6b7a625be9",
+      "season": 8,
+      "number": 4,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2017-07-10"
+    },
+    {
+      "id": "92477aba-5689-4197-84b4-5143edd69468",
+      "season": 8,
+      "number": 5,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2017-07-11"
+    },
+    {
+      "id": "e81f68bc-3aef-4a6f-8dab-db5fba97b109",
+      "season": 8,
+      "number": 6,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2017-07-12"
+    },
+    {
+      "id": "84f78cb6-63ee-4ec8-a91c-b0044708d12f",
+      "season": 8,
+      "number": 7,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2017-07-13"
+    },
+    {
+      "id": "f34b3688-b99c-4804-acc2-dffc4b7c69ff",
+      "season": 8,
+      "number": 8,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2017-07-14"
+    },
+    {
+      "id": "c8d09bc7-eef7-4564-a81c-d7d88a1edf9c",
+      "season": 9,
+      "number": 1,
+      "name": "En ny gårdhave",
+      "airdate": "2017-07-17"
+    },
+    {
+      "id": "2ef8287a-c50a-4cc3-944b-82b3f76de832",
+      "season": 9,
+      "number": 2,
+      "name": "Charmerende entré",
+      "airdate": "2017-07-18"
+    },
+    {
+      "id": "31ee7117-0c0d-44af-a2f7-e5a2e98ee33d",
+      "season": 9,
+      "number": 3,
+      "name": "Landkøkkenet",
+      "airdate": "2017-07-19"
+    },
+    {
+      "id": "ba74e0c4-012b-4d59-999b-4065df2642ca",
+      "season": 9,
+      "number": 4,
+      "name": "Dagligstuen",
+      "airdate": "2017-07-20"
+    },
+    {
+      "id": "42fc9f39-bf74-4828-b0ae-714af909937e",
+      "season": 9,
+      "number": 5,
+      "name": "Spisestuen",
+      "airdate": "2017-07-21"
+    },
+    {
+      "id": "dac063d1-41ca-49f2-beaa-7284a7dee8dc",
+      "season": 9,
+      "number": 6,
+      "name": "Badeværelset",
+      "airdate": "2017-07-24"
+    },
+    {
+      "id": "bf1eb270-0626-4df0-ad9f-4e287f641051",
+      "season": 9,
+      "number": 7,
+      "name": "Soveværelset",
+      "airdate": "2017-07-25"
+    },
+    {
+      "id": "a9815724-2574-4fc5-a0ac-07423996f61f",
+      "season": 9,
+      "number": 8,
+      "name": "Sommerfest",
+      "airdate": "2017-07-26"
+    },
+    {
+      "id": "ad610e03-4c76-49ee-9bd6-e09a82e2da58",
+      "season": 11,
+      "number": 1,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2019-07-23"
+    },
+    {
+      "id": "ba62d532-5a26-4928-a658-d680a5dff1aa",
+      "season": 11,
+      "number": 2,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2019-07-23"
+    },
+    {
+      "id": "8dce4455-d7f3-4c68-95f1-5f42c8975857",
+      "season": 11,
+      "number": 3,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2019-07-24"
+    },
+    {
+      "id": "44e8641c-b715-4e99-bc36-7d0b8bde84b0",
+      "season": 11,
+      "number": 4,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2019-07-24"
+    },
+    {
+      "id": "f6d6334f-2154-42d1-ad96-1e1a15b8de70",
+      "season": 11,
+      "number": 5,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2019-07-25"
+    },
+    {
+      "id": "0bd4a0ab-9ef2-4e20-bdc2-b05c22d2644e",
+      "season": 11,
+      "number": 6,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2019-07-25"
+    },
+    {
+      "id": "39ac49f7-810f-4526-b480-36d33ca1267f",
+      "season": 11,
+      "number": 7,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2019-07-26"
+    },
+    {
+      "id": "0e500f66-6abc-4372-9ad2-7deed4aee22c",
+      "season": 11,
+      "number": 8,
+      "name": "Med indretningsarkitekten på arbejde",
+      "airdate": "2019-07-26"
+    },
+    {
+      "id": "04582148-fbf4-4303-92e7-26a9cdbfca3c",
+      "season": 12,
+      "number": 1,
+      "name": "En bondegård i Örnaberga",
+      "airdate": "2020-07-04"
+    },
+    {
+      "id": "6e92772d-c69e-4fc8-9673-9603af4e3ac3",
+      "season": 12,
+      "number": 2,
+      "name": "Ny entré og hyggelig gårdhave",
+      "airdate": "2020-07-11"
+    },
+    {
+      "id": "d4e8bf36-1889-43f3-8d8f-39db55f6c2bc",
+      "season": 12,
+      "number": 3,
+      "name": "Køkken med ø",
+      "airdate": "2020-07-18"
+    },
+    {
+      "id": "9daf432b-48ba-496a-9f04-afffb70723af",
+      "season": 12,
+      "number": 4,
+      "name": "Spisebord og glemte steder",
+      "airdate": "2020-07-25"
+    },
+    {
+      "id": "1713e83f-abbe-4e58-9678-ca95033025bd",
+      "season": 12,
+      "number": 5,
+      "name": "En dejlig rosenhave",
+      "airdate": "2020-07-25"
+    },
+    {
+      "id": "2fbfc61f-8a67-4c48-8d8c-c3cc9dd67bd6",
+      "season": 12,
+      "number": 6,
+      "name": "Fra gammelt til nyt",
+      "airdate": "2020-08-01"
+    },
+    {
+      "id": "a3a21755-24c6-4d09-addd-ee779abcc30e",
+      "season": 12,
+      "number": 7,
+      "name": "Soveværelset",
+      "airdate": "2020-08-01"
+    },
+    {
+      "id": "1fcfcfdb-b7f7-4c68-92a8-7a96797f710e",
+      "season": 12,
+      "number": 8,
+      "name": "Sommerafslutning",
+      "airdate": "2020-08-08"
+    }
+  ]
+}

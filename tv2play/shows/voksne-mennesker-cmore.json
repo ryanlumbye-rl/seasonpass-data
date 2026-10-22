@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:voksne-mennesker-cmore",
+  "name": "Voksne mennesker",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c6966caf-2fe4-4fa2-bbc7-9fb81980a17b",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "30170020-0fac-4281-8a9c-00f74f4bccea",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a8e3621b-10f8-4a6b-94fb-28c146a96024",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f095f884-0a08-4c78-adc4-bc1cb71dfc18",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "47dd30ad-8862-408c-9154-d32a069cc12f",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "a3a4f50c-8595-4215-85d4-ae8c46e301b6",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c5fb0f3f-1e75-426a-a0b1-4c8e28dbf80d",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "56b7bb4b-35b2-4d9f-a243-4dc7398a0ec1",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

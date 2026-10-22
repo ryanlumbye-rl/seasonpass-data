@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:karkurit-cmore",
+  "name": "Karkurit",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ca1c4c84-3547-407b-a5b6-7a0407389024",
+      "season": 1,
+      "number": 1,
+      "name": "Mastermind",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "910cee81-bd09-4012-86bd-524959d7905c",
+      "season": 1,
+      "number": 2,
+      "name": "Chameleon",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "158e5723-5226-4454-87bd-9a9b6c7f1f0b",
+      "season": 1,
+      "number": 3,
+      "name": "Old School",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "3a71e97b-80f4-4caf-bd03-48f386c4006c",
+      "season": 1,
+      "number": 4,
+      "name": "Ghost",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "65fb49f9-c883-47c5-89ee-cbc1a9a86504",
+      "season": 1,
+      "number": 5,
+      "name": "Guru",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "0097d4f6-a630-458e-af16-b5169578f7a5",
+      "season": 1,
+      "number": 6,
+      "name": "Girls",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "b33c8916-ec73-4714-99df-c1dea4aab2ab",
+      "season": 1,
+      "number": 7,
+      "name": "The Burden",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "c733d3bb-27ab-46b0-96e6-5131fee0fac0",
+      "season": 1,
+      "number": 8,
+      "name": "Innocent",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "ec0cdb0b-7551-461d-81ac-b878792e2fcf",
+      "season": 1,
+      "number": 9,
+      "name": "The Son",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "c4d86e4a-e6d0-43af-8544-9b42e83e9050",
+      "season": 1,
+      "number": 10,
+      "name": "Race war",
+      "airdate": "2024-12-01"
+    }
+  ]
+}

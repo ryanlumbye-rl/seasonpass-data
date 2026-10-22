@@ -1,0 +1,115 @@
+{
+  "id": "tv2play:fra-1-vaerelses-til-strandvejsvilla-tv2",
+  "name": "Fra 1-værelses til strandvejsvilla",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a57ea065-9778-460f-a542-6d817aa1dae0",
+      "season": 1,
+      "number": 1,
+      "name": "Fra dødsbo til moderne lejlighed",
+      "airdate": "2020-01-29"
+    },
+    {
+      "id": "cacc53d9-15e7-4177-824c-e47b23be9822",
+      "season": 1,
+      "number": 2,
+      "name": "Vesterbro-lejlighed uden bad bliver luksusbolig",
+      "airdate": "2020-01-29"
+    },
+    {
+      "id": "f84d906f-e9a7-4837-a3cd-6ea66f0eef5d",
+      "season": 1,
+      "number": 3,
+      "name": "Rotterede forvandles til drømmevilla",
+      "airdate": "2020-02-05"
+    },
+    {
+      "id": "9d2fc10a-ee28-4dc2-a22c-94a01eb70e67",
+      "season": 1,
+      "number": 4,
+      "name": "Villa i Greve bliver et dyrt bekendtskab",
+      "airdate": "2020-02-12"
+    },
+    {
+      "id": "e8cc2e88-a47a-452d-a796-284c16b69073",
+      "season": 1,
+      "number": 5,
+      "name": "Lang liggetid og et hurtigt salg",
+      "airdate": "2020-02-19"
+    },
+    {
+      "id": "5df5b8e8-c72d-48be-9686-89be0f99eef6",
+      "season": 1,
+      "number": 6,
+      "name": "Endelig ved vejs ende - får de råd til havudsigt?",
+      "airdate": "2020-02-26"
+    },
+    {
+      "id": "656af0b0-8d07-41d4-b2ae-7b30534298ef",
+      "season": 2,
+      "number": 1,
+      "name": "Det er et hjernedødt projekt",
+      "airdate": "2022-08-24"
+    },
+    {
+      "id": "e8c0fd89-597e-4de7-a523-0aec40a9273f",
+      "season": 2,
+      "number": 2,
+      "name": "Endnu en hjerneblødning fra dig, Lars Elbæk",
+      "airdate": "2022-08-24"
+    },
+    {
+      "id": "0dfb8f7d-f56e-4432-aa18-e8b99fbddfd4",
+      "season": 2,
+      "number": 3,
+      "name": "Jeg er i chok, det er jeg også",
+      "airdate": "2022-08-31"
+    },
+    {
+      "id": "da05e572-8d54-4bc3-8b36-1d8a77c2320e",
+      "season": 2,
+      "number": 4,
+      "name": "Vi er helt nede i hullet nu",
+      "airdate": "2022-09-07"
+    },
+    {
+      "id": "72eb9762-804a-4cb9-8b29-1680d26a7648",
+      "season": 2,
+      "number": 5,
+      "name": "Man skal lige nive sig i armen",
+      "airdate": "2022-09-14"
+    },
+    {
+      "id": "48674638-e344-4fba-815d-377634009777",
+      "season": 3,
+      "number": 1,
+      "name": "Lars, vi er da de bedste, ikke?",
+      "airdate": "2025-10-08"
+    },
+    {
+      "id": "7db3d2c5-b01e-46e8-b404-59746da6ddc5",
+      "season": 3,
+      "number": 2,
+      "name": "Vi tænker hele tiden ud af boksen",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "420523fd-2522-4c8e-865a-99230e9eeb29",
+      "season": 3,
+      "number": 3,
+      "name": "Hvad fanden laver jeg her?",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "5fc39e0a-3499-4dea-a418-9cac31f1988c",
+      "season": 3,
+      "number": 4,
+      "name": "Er vi en succes eller en fiasko?",
+      "airdate": "2025-10-29"
+    }
+  ]
+}

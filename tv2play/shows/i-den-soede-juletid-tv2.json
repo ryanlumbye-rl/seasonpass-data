@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:i-den-soede-juletid-tv2",
+  "name": "I den søde juletid",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "fb47d8e6-fddd-42b7-99f3-fe6ad47fa6b6",
+      "season": 2,
+      "number": 1,
+      "name": "Julegodter for hele familien",
+      "airdate": "2018-12-03"
+    },
+    {
+      "id": "97de8fe5-178c-4758-88c9-77bc9e4ce187",
+      "season": 2,
+      "number": 2,
+      "name": "Julekagen med sin pynt",
+      "airdate": "2018-12-10"
+    },
+    {
+      "id": "c170c7f8-ef89-4280-acbd-32a2d9c28642",
+      "season": 2,
+      "number": 3,
+      "name": "Det kimer nu",
+      "airdate": "2018-12-20"
+    },
+    {
+      "id": "24177b11-5aa4-474c-a85d-a3f0a5db04f3",
+      "season": 3,
+      "number": 1,
+      "name": "December banker på",
+      "airdate": "2019-12-02"
+    },
+    {
+      "id": "1ef5a32d-f285-4614-a356-d339d7eea8c7",
+      "season": 3,
+      "number": 2,
+      "name": "Sikken voldsom trængsel og alarm",
+      "airdate": "2019-12-09"
+    },
+    {
+      "id": "9d177a8e-dab0-4c84-870d-55a20e16f2b2",
+      "season": 3,
+      "number": 3,
+      "name": "Hjerternes fest",
+      "airdate": "2019-12-16"
+    },
+    {
+      "id": "9d0b8b40-4ba3-43e0-81de-0f2b873a5867",
+      "season": 4,
+      "number": 1,
+      "name": "Julen sparkes i gang",
+      "airdate": "2020-12-02"
+    },
+    {
+      "id": "40f66cf7-8c99-445a-8acf-2d381e41cd97",
+      "season": 4,
+      "number": 2,
+      "name": "Julemagi opstår",
+      "airdate": "2020-12-02"
+    },
+    {
+      "id": "4700da73-d894-405b-a785-be93b7af2ed0",
+      "season": 4,
+      "number": 3,
+      "name": "Når juleroen skænker sig",
+      "airdate": "2020-12-09"
+    },
+    {
+      "id": "4eb8f667-07f4-4418-b902-7715ae13f5f3",
+      "season": 5,
+      "number": 1,
+      "name": "Den tid på året igen",
+      "airdate": "2021-12-01"
+    },
+    {
+      "id": "4ae2738a-f06b-4bf1-9543-7c96f409b1ba",
+      "season": 5,
+      "number": 2,
+      "name": "Juletravlheden breder sig",
+      "airdate": "2021-12-01"
+    },
+    {
+      "id": "adc818c6-1caa-48c0-9d99-68987e9eadf5",
+      "season": 5,
+      "number": 3,
+      "name": "Nye generationer, gamle traditioner",
+      "airdate": "2021-12-08"
+    }
+  ]
+}

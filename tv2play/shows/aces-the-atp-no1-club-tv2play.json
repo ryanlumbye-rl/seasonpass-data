@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:aces-the-atp-no1-club-tv2play",
+  "name": "Aces: The ATP No.1 Club",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "87ac7798-591a-4575-af89-ebab30781190",
+      "season": 1,
+      "number": 1,
+      "name": "First…Forever…",
+      "airdate": "2026-09-06"
+    },
+    {
+      "id": "d5f46ab2-f000-4a34-9ae1-899d698fb31c",
+      "season": 1,
+      "number": 2,
+      "name": "Only Room for One",
+      "airdate": "2026-09-06"
+    },
+    {
+      "id": "4f0da7ab-b9d6-4821-91da-c04dc35c6e3e",
+      "season": 1,
+      "number": 3,
+      "name": "Unrivaled",
+      "airdate": "2026-09-06"
+    },
+    {
+      "id": "e1931d5f-ca02-4955-9ca9-7c5f460ee7a2",
+      "season": 1,
+      "number": 4,
+      "name": "Big 3 and Beyond",
+      "airdate": "2026-09-06"
+    }
+  ]
+}

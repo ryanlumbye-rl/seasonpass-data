@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:passenger-britbox",
+  "name": "Passenger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "2bb2f69d-d740-4b2d-8116-0eda090fc059",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-10-18"
+    },
+    {
+      "id": "d87fc760-5edd-49b1-833d-0fd6462d45f8",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-10-18"
+    },
+    {
+      "id": "cd927b1b-f08f-4c41-8acf-15ed0d042c36",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-10-25"
+    },
+    {
+      "id": "a0289398-4f59-402a-aadb-f64c53fcff6e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-10-25"
+    },
+    {
+      "id": "89c1b7fa-01cb-4980-81d2-4ead86d68718",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "c0b646c0-0a6c-4e57-9d75-b61340e84808",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-11-01"
+    }
+  ]
+}

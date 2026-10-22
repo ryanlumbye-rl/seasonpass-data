@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:jul-paa-hindsgavl-tv2fri",
+  "name": "Jul på Hindsgavl",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-11-12",
+  "episodes": [
+    {
+      "id": "7504c57d-0c0e-4e4e-8085-3390dc054419",
+      "season": 1,
+      "number": 1,
+      "name": "Andesteg til 100 gæster",
+      "airdate": "2023-12-06"
+    },
+    {
+      "id": "a15ca86c-fa96-4431-bf9f-b0adf645a864",
+      "season": 1,
+      "number": 2,
+      "name": "Juletræet med sin pynt",
+      "airdate": "2023-12-06"
+    },
+    {
+      "id": "cf5fec6c-b4e8-4544-ab09-9b0890c2d906",
+      "season": 1,
+      "number": 3,
+      "name": "Den store aften",
+      "airdate": "2023-12-13"
+    },
+    {
+      "id": "391f4951-1831-41e5-8e72-6e9acbfbea64",
+      "season": 2,
+      "number": 1,
+      "name": "Når træet bliver tændt",
+      "airdate": "2026-11-12"
+    }
+  ]
+}

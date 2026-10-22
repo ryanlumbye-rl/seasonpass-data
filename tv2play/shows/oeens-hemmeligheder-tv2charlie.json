@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:oeens-hemmeligheder-tv2charlie",
+  "name": "Øens hemmeligheder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "177e10a1-46a9-4e11-89f9-990a71775c29",
+      "season": 1,
+      "number": 1,
+      "name": "En farlig familie",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "8db1e92a-1d54-4da7-98ee-434275c54e79",
+      "season": 1,
+      "number": 2,
+      "name": "Blodigt bedrag",
+      "airdate": "2026-07-04"
+    },
+    {
+      "id": "cbeca76c-4bcb-4388-b414-4bb1a0eb57e6",
+      "season": 1,
+      "number": 3,
+      "name": "Kunsttyven",
+      "airdate": "2026-07-11"
+    },
+    {
+      "id": "3d6fe004-5e4f-44f0-a562-acc58fd67c25",
+      "season": 1,
+      "number": 4,
+      "name": "Giftigt paradis",
+      "airdate": "2026-07-18"
+    }
+  ]
+}

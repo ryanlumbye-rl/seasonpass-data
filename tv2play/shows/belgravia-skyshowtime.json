@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:belgravia-skyshowtime",
+  "name": "Belgravia",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "142b99dc-1d7a-478f-8349-09cc9504a5ba",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-09-07"
+    },
+    {
+      "id": "51ab37dc-afa7-456f-904e-7cf80332e7df",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-09-07"
+    },
+    {
+      "id": "0e7a81d2-036f-4278-b041-6b96f9d73bd0",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-09-07"
+    },
+    {
+      "id": "9198b21f-0b77-4eb2-ad00-a7cce4c6ed2b",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-09-07"
+    },
+    {
+      "id": "e5b11672-31ef-48fc-bf7c-922a714691cd",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-09-07"
+    },
+    {
+      "id": "784abc6a-bd8e-4bc5-aee9-7eca668f5e4c",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-09-07"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "id": "tv2play:masha-og-bjoernen-oiii",
+  "name": "Masha og bjørnen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "090f5dcf-6051-4a1a-990c-e34db49f2dad",
+      "season": 1,
+      "number": 1,
+      "name": "Det første møde",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "3b6f592c-ca2c-4df4-8a87-a64b6338c519",
+      "season": 1,
+      "number": 2,
+      "name": "Væk mig til foråret",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "0b13ea95-04a8-44a5-98c0-272836a53112",
+      "season": 1,
+      "number": 3,
+      "name": "Juletræet",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "e8d201a9-3d41-4046-b8a3-e8ab7fc45ee9",
+      "season": 1,
+      "number": 4,
+      "name": "Sælsomme spor",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "a05676ea-050c-45be-b6af-78a3cfbbd1f0",
+      "season": 1,
+      "number": 5,
+      "name": "Den varme linje",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "7f999e1e-8fc7-40db-b963-a425482df350",
+      "season": 1,
+      "number": 6,
+      "name": "Syltedag",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "f40287c5-1593-4504-b3fd-6b6f518cd33c",
+      "season": 1,
+      "number": 7,
+      "name": "Forår i luften",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "41c7c6e7-0567-4825-b079-47be67f3b8c3",
+      "season": 1,
+      "number": 8,
+      "name": "Fisketuren",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "72450903-de75-49ce-842f-6c2c4970402d",
+      "season": 1,
+      "number": 9,
+      "name": "Hundser med ulve",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "ee09a28c-3f34-49a1-a5e7-65c429908e74",
+      "season": 1,
+      "number": 10,
+      "name": "På glat is",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "8acfc652-6f95-43c3-861b-24f289b67643",
+      "season": 1,
+      "number": 11,
+      "name": "Første skoledag",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "31b13b78-7b2f-493f-8746-81a1a98fe185",
+      "season": 1,
+      "number": 12,
+      "name": "Gulerodsvagten",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "05834351-c62a-492c-98e1-01cab5944efd",
+      "season": 1,
+      "number": 13,
+      "name": "Gemmeleg for viderekommende",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "8881831b-3030-469f-867f-df195f144496",
+      "season": 1,
+      "number": 14,
+      "name": "En vild tur i sne",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "592131b1-ed1f-42be-b2d9-ac1225461625",
+      "season": 1,
+      "number": 15,
+      "name": "Besøg af fætter Panda",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "4a42b59b-d997-4a90-8cea-ceaf25aff008",
+      "season": 1,
+      "number": 16,
+      "name": "Mashas mirakelkur",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "57c9dda4-b776-496b-92e7-ceb20e79548b",
+      "season": 1,
+      "number": 17,
+      "name": "En ond gang grød",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "47db608c-e1fb-4e82-b7ab-8ce75c3c6dd9",
+      "season": 1,
+      "number": 18,
+      "name": "Vaskedag",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "7193d7db-2a14-4e4a-97eb-29d3a0e7f17d",
+      "season": 1,
+      "number": 19,
+      "name": "Klavertimen",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "ae1e432d-a2d1-4fcd-b357-d89733ab5db4",
+      "season": 1,
+      "number": 20,
+      "name": "Striber og knurhår",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "244d9344-9b87-499c-8954-f54f600ad9a4",
+      "season": 1,
+      "number": 21,
+      "name": "Alene hjemme",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "8a4e39cf-b07f-4cd6-a472-e6b04bd58f8f",
+      "season": 1,
+      "number": 22,
+      "name": "Sikke en hikke",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "31c21db0-b377-423f-9c51-81dda27e795c",
+      "season": 1,
+      "number": 23,
+      "name": "Fugleungen",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "e68bc99d-7794-4a23-ba4e-62c7aaf6e049",
+      "season": 1,
+      "number": 24,
+      "name": "Velbekomme!",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "9c98d4fc-2bfb-4db8-8193-603e4628f62b",
+      "season": 1,
+      "number": 25,
+      "name": "Hokus pokus",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "ba2b26af-967d-4273-b9a3-eb9e1bfdc705",
+      "season": 1,
+      "number": 26,
+      "name": "Byggerod",
+      "airdate": "2016-07-01"
+    },
+    {
+      "id": "e79805ea-2f94-4ec5-a880-dec05afee2e8",
+      "season": 2,
+      "number": 1,
+      "name": "Billedskønt",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8081f588-3374-4723-aa08-a2defe98bf67",
+      "season": 2,
+      "number": 2,
+      "name": "Min hest er bedst",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c33e2fa7-e236-4841-b78f-fa7ed7511636",
+      "season": 2,
+      "number": 3,
+      "name": "Et nyt nummer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b8a6e8d5-5819-4ad7-a01b-ef1645137260",
+      "season": 2,
+      "number": 4,
+      "name": "Voksemikstur",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e1e7757e-efda-4341-a951-cde41f05e9df",
+      "season": 2,
+      "number": 5,
+      "name": "Fejet af banen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "549a6a84-6860-4b1a-b0ae-986a7521ec9f",
+      "season": 2,
+      "number": 6,
+      "name": "I familiens skød",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6b32c5ed-8b10-43bf-8fdb-415241525c07",
+      "season": 2,
+      "number": 7,
+      "name": "Det søde liv",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5704c7a4-9345-4223-945e-15216c9a8000",
+      "season": 2,
+      "number": 8,
+      "name": "Smil til kameraet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "943a922b-2c1f-4cd1-86c6-8fe64523ab7c",
+      "season": 2,
+      "number": 9,
+      "name": "Sjov og ballade",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "084be1cd-2f8f-4254-99a0-06d48612b2f3",
+      "season": 2,
+      "number": 10,
+      "name": "To er en for mange",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "11eebe13-eb99-4604-9544-509fc866008d",
+      "season": 2,
+      "number": 11,
+      "name": "Bon voyage",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "175d015f-f04d-4880-b23f-d729eceb368e",
+      "season": 2,
+      "number": 12,
+      "name": "Bytte roller-dag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b10d4b21-c74b-4d37-9745-1606fbd47b53",
+      "season": 2,
+      "number": 13,
+      "name": "En rigtig uhyggelig nat",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a68d4ce2-a151-4617-964e-25514e3339b4",
+      "season": 2,
+      "number": 14,
+      "name": "Man må lide for stadsen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "36b0d8b0-d9f1-46e0-a4ec-a025d61a9f9d",
+      "season": 2,
+      "number": 15,
+      "name": "Synligt usynlig",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e8a3c1f9-65ae-4e8f-9408-d1f8dcb17346",
+      "season": 2,
+      "number": 16,
+      "name": "Klar til optagelse",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a1c04034-e457-4e83-b240-84ca056b5035",
+      "season": 2,
+      "number": 17,
+      "name": "Dagens helt i skysovs",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "989ff219-1347-4a80-a729-6dbce0ac2a7a",
+      "season": 2,
+      "number": 18,
+      "name": "Mashas store dag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "eca6d014-2ef1-4362-a82b-d9de5f9256d6",
+      "season": 2,
+      "number": 19,
+      "name": "Masha på sagen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ae8ffc57-19e9-4b70-af88-d755cfe8ad75",
+      "season": 2,
+      "number": 20,
+      "name": "Dansefeber",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4eeaf3bf-869e-4b18-916f-4eb3e8919985",
+      "season": 2,
+      "number": 21,
+      "name": "Sejrsskriget",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d0fe285d-30dd-4d38-a832-85ed7bfe597a",
+      "season": 2,
+      "number": 22,
+      "name": "Hulebjørnens lærling",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0d0e190a-bcb2-48dc-a294-796ffe379487",
+      "season": 2,
+      "number": 23,
+      "name": "Den store kanalrundfart",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "54368852-2c22-4b92-b855-28df3076c445",
+      "season": 2,
+      "number": 24,
+      "name": "Høsten er i hus",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d7229fd7-e3a5-4542-8521-d1d7983dd547",
+      "season": 2,
+      "number": 25,
+      "name": "Hjemmedyrkede ninjaer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2f62de2a-00ca-4daf-b353-b754e9d9530b",
+      "season": 2,
+      "number": 26,
+      "name": "Vi ses igen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ca707ddd-622e-49df-afa3-933354e8ced4",
+      "season": 3,
+      "number": 1,
+      "name": "Det er svært at komme hjem",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "e5055dbf-ebe7-497f-963c-d8ba26c3258b",
+      "season": 3,
+      "number": 2,
+      "name": "Et rigtigt eventyr",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "c908cfa0-c549-4ad7-8275-8692fe557bb9",
+      "season": 3,
+      "number": 3,
+      "name": "Køretimer",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "5b695a37-d9b0-4211-b6cb-5a229cd4e3ab",
+      "season": 3,
+      "number": 4,
+      "name": "En spøgelseshistorie",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "e245673c-d740-48b5-b6f6-be6f7323cf5b",
+      "season": 3,
+      "number": 5,
+      "name": "Løgnhals",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "9f52a5a8-15e0-4c2d-bc0d-d9d4dea22c06",
+      "season": 3,
+      "number": 6,
+      "name": "Som kat og mus",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "5c824a45-4efd-4404-8108-52d8046ba027",
+      "season": 3,
+      "number": 7,
+      "name": "Spil slut",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "c5bf9f10-1ff0-4144-bf96-6f5caf0a4c64",
+      "season": 3,
+      "number": 8,
+      "name": "Robotterne kommer",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "2d4ce3bc-5616-4d52-accc-2044bd801cff",
+      "season": 3,
+      "number": 9,
+      "name": "Mashas jul",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "52e69868-ec46-4383-b37e-5e6eff062652",
+      "season": 3,
+      "number": 10,
+      "name": "Sov, lille baby",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "dfd80da8-53cb-4420-9908-692645e6af34",
+      "season": 3,
+      "number": 11,
+      "name": "En overraskelse",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "3a4e2436-7e12-4ed8-ae6f-20445590f23b",
+      "season": 3,
+      "number": 12,
+      "name": "De Tre Mashketerer",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "a6eabb18-5a13-4013-a8fa-af4a50d5e960",
+      "season": 3,
+      "number": 13,
+      "name": "Vi kommer med fred",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "189b1bc3-cb2e-4c50-93f5-1294303c7975",
+      "season": 3,
+      "number": 14,
+      "name": "Golf-feber",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "c7d4bfd1-9a91-4ce9-9150-e5c761231050",
+      "season": 3,
+      "number": 15,
+      "name": "Den bedste medicin",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "eaafa67a-5da8-4626-a3d3-9032a48307dc",
+      "season": 3,
+      "number": 16,
+      "name": "Kvartetten",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "507477f0-d789-4f1b-97ca-f58c0a04433d",
+      "season": 3,
+      "number": 17,
+      "name": "Nye børn på vejen",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "b8aeeb9f-9b45-425d-96cd-89e9a58850a5",
+      "season": 3,
+      "number": 18,
+      "name": "Rummet tur-retur",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "c308a39f-93d7-46e9-923f-f41ea34b9286",
+      "season": 3,
+      "number": 19,
+      "name": "Sikke et vidunderligt spil",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "967addb8-da98-43f4-b80b-4e2460c8ec93",
+      "season": 3,
+      "number": 20,
+      "name": "Kø ved bordet",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "4cfb6877-aa66-4825-b667-25a1c8c7a514",
+      "season": 3,
+      "number": 21,
+      "name": "En underlig fisk",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "c29bca81-6c56-4bae-95c8-3aac952a2be4",
+      "season": 3,
+      "number": 22,
+      "name": "Abekattestreger",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "6406daed-69e7-429c-ac2a-2d06b9d6a045",
+      "season": 3,
+      "number": 23,
+      "name": "Dronning Masha",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "a3287895-31c0-4702-8715-515c442d3864",
+      "season": 3,
+      "number": 24,
+      "name": "Masha går til scenen",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "2550684f-ece6-4be0-8c41-e9f9dbdd7543",
+      "season": 3,
+      "number": 25,
+      "name": "Jorden rundt på én dag",
+      "airdate": "2021-03-06"
+    },
+    {
+      "id": "9b84adfe-d6f5-4d39-bb94-b7a5d517e6d2",
+      "season": 3,
+      "number": 26,
+      "name": "Mashas store talent",
+      "airdate": "2021-03-06"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:mumitroldene-none",
+  "name": "Mumitroldene",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "a69e4b0f-669f-4ac9-b37f-2feb9290c036",
+      "season": 1,
+      "number": 61,
+      "name": "Den kolde vinter",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "5e41b93b-8462-46e0-8ad3-48555b3c6f94",
+      "season": 1,
+      "number": 62,
+      "name": "Venter på solen",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "82ddeee7-bac3-4aec-a6d0-f8b3014fd13d",
+      "season": 1,
+      "number": 63,
+      "name": "Vintergæster",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "1540ec0b-8a9e-475e-af3e-26b430b372e9",
+      "season": 1,
+      "number": 64,
+      "name": "Den sunde hemul",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "4c0f78d3-0430-4abc-ba00-22ba5d6fff9a",
+      "season": 1,
+      "number": 65,
+      "name": "Ynk og ulvene",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "4fc2384f-d5cd-4461-82a6-dd0ff60f1c90",
+      "season": 1,
+      "number": 66,
+      "name": "Foråret kommer",
+      "airdate": "2026-08-01"
+    }
+  ]
+}

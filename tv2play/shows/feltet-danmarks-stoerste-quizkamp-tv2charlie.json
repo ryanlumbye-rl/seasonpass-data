@@ -1,0 +1,199 @@
+{
+  "id": "tv2play:feltet-danmarks-stoerste-quizkamp-tv2charlie",
+  "name": "Feltet - Danmarks største quizkamp",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-31",
+  "episodes": [
+    {
+      "id": "411f7095-6c72-4f11-addf-1a5ce5db3a97",
+      "season": 1,
+      "number": 1,
+      "name": "Lad duellen begynde",
+      "airdate": "2025-03-15"
+    },
+    {
+      "id": "0feca43d-2334-4768-abc2-978182e16958",
+      "season": 1,
+      "number": 2,
+      "name": "Kan man gemme sig på gulvet?",
+      "airdate": "2025-03-22"
+    },
+    {
+      "id": "828fc3c5-1cbe-4f0f-b16e-d94c28bffe62",
+      "season": 1,
+      "number": 3,
+      "name": "Hvem bluffer, og hvem skuffer?",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "b484e43c-c9eb-4810-b3dd-878f12abe44b",
+      "season": 1,
+      "number": 4,
+      "name": "37 spillere tilbage",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "7ea694dc-983f-489e-ac17-8f967be25860",
+      "season": 1,
+      "number": 5,
+      "name": "Er julemanden iskold?",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "9d799562-bf8d-4be6-9983-9086f32e542b",
+      "season": 1,
+      "number": 6,
+      "name": "Aktivér gulvet!",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "bd1c8c6f-1e1f-4471-b3e6-d6723a379ca6",
+      "season": 1,
+      "number": 7,
+      "name": "Hvem vinder 'Feltet'?",
+      "airdate": "2025-04-26"
+    },
+    {
+      "id": "dafd7cd9-b52a-4980-8579-884db623ef49",
+      "season": 2,
+      "number": 1,
+      "name": "Et nyt hold indtager gulvet",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "8bc9dff5-112c-42bf-9542-8c859a1bc655",
+      "season": 2,
+      "number": 2,
+      "name": "Fart for feltet",
+      "airdate": "2025-09-06"
+    },
+    {
+      "id": "1c5ed77d-1579-4fec-bf0c-18a78ba6c026",
+      "season": 2,
+      "number": 3,
+      "name": "Nye spillere melder sig på banen",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "f8c079c7-c5c1-4647-b6a0-b9baaff803ea",
+      "season": 2,
+      "number": 4,
+      "name": "En vanvittig duel",
+      "airdate": "2025-09-20"
+    },
+    {
+      "id": "d8f79e87-f2b7-4a38-b6e5-1e96a85e06e8",
+      "season": 2,
+      "number": 5,
+      "name": "28 spillere tilbage",
+      "airdate": "2025-09-27"
+    },
+    {
+      "id": "b380bded-4ab5-4137-9c4b-bcf9901567cc",
+      "season": 2,
+      "number": 6,
+      "name": "Lige ved og næsten",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "2f97d1a9-8546-4b18-842a-726a7da77abf",
+      "season": 2,
+      "number": 7,
+      "name": "Der var 10, der var ni…",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "203c7f20-1f9d-488b-b8f0-1839f09a51fd",
+      "season": 3,
+      "number": 1,
+      "name": "En helt særlig quiz",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "83560cdd-2732-4ca7-b026-e28778352042",
+      "season": 3,
+      "number": 2,
+      "name": "Den er hjemme!",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "c299c8ae-a0c5-4a7a-ac0c-f851087842ab",
+      "season": 3,
+      "number": 3,
+      "name": "Parlez-vous français",
+      "airdate": "2025-11-22"
+    },
+    {
+      "id": "25b4e081-1890-4006-901e-0cdc3a7f2444",
+      "season": 3,
+      "number": 4,
+      "name": "Den afgørende finale",
+      "airdate": "2025-11-29"
+    },
+    {
+      "id": "d81a8a98-7433-4653-88b7-68a0a05ef0a7",
+      "season": 4,
+      "number": 1,
+      "name": "Feltet er tilbage",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "d717be7c-432b-4fc4-8de9-749d9683dbe9",
+      "season": 4,
+      "number": 2,
+      "name": "Hvem er kommet for at spille?",
+      "airdate": "2026-02-21"
+    },
+    {
+      "id": "b9fcbb9c-5c45-455d-97e6-dc49553b96df",
+      "season": 4,
+      "number": 3,
+      "name": "Hvem har bluffet?",
+      "airdate": "2026-02-28"
+    },
+    {
+      "id": "39ca3ee3-9321-43c7-833d-1536d7d9e8ad",
+      "season": 4,
+      "number": 4,
+      "name": "Frys feltet!",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "972938b9-bb61-4b3c-b87c-6cba85111365",
+      "season": 4,
+      "number": 5,
+      "name": "Et anderledes landskab",
+      "airdate": "2026-03-14"
+    },
+    {
+      "id": "d6c28d15-8b88-4505-bcee-ebbf96f5fe2e",
+      "season": 4,
+      "number": 6,
+      "name": "Fart over feltet",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "6a9cc0b0-2213-4f35-9881-0e61f963363b",
+      "season": 4,
+      "number": 7,
+      "name": "Kampen om finalebilletterne",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "88106203-1f8d-4670-b5e5-c4a633ee6d87",
+      "season": 4,
+      "number": 8,
+      "name": "Det sidste slag",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "044f48a2-e95c-43e1-b332-1d68905d6d71",
+      "season": 5,
+      "number": 1,
+      "name": "Holdene indtager spillebrættet",
+      "airdate": "2026-10-31"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "tv2play:paa-besoeg-tv2play",
+  "name": "På besøg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8d32eaea-da5c-48a0-9090-a4520b23c56b",
+      "season": 1,
+      "number": 1,
+      "name": "På besøg i Sommersted",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "f18c25f5-edf8-4b7f-a155-e05b4f0d3e6d",
+      "season": 1,
+      "number": 2,
+      "name": "På besøg i Sig",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "3b6af7d3-5c9b-40a8-801b-82b5a8069835",
+      "season": 1,
+      "number": 3,
+      "name": "På besøg i Filskov",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "4a4b542d-72df-4856-80d4-c6403fda99e9",
+      "season": 1,
+      "number": 4,
+      "name": "På besøg i Felsted",
+      "airdate": "2026-04-18"
+    },
+    {
+      "id": "1694ca18-6dfb-4fae-acf3-a626c1a25843",
+      "season": 1,
+      "number": 5,
+      "name": "På besøg i Grimstrup",
+      "airdate": "2026-04-18"
+    },
+    {
+      "id": "441fb1f7-658d-4d7c-b046-a5831fbfbc6a",
+      "season": 1,
+      "number": 6,
+      "name": "På besøg i Stepping",
+      "airdate": "2026-04-18"
+    },
+    {
+      "id": "a3d1c8ef-f047-4f2e-b986-c50dc23efbc5",
+      "season": 2,
+      "number": 1,
+      "name": "Ringriderpølser og storkekig",
+      "airdate": "2026-07-03"
+    },
+    {
+      "id": "db92367e-eef0-4f1e-b70a-386235d304bc",
+      "season": 2,
+      "number": 2,
+      "name": "Penis-historier og løst krudt",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "23602098-8d32-4458-8afb-55ac2454c6b0",
+      "season": 2,
+      "number": 3,
+      "name": "Tro, tradition og tohjulede ikoner",
+      "airdate": "2026-07-17"
+    },
+    {
+      "id": "4249697e-6324-49cb-b40b-911bc58a4d7f",
+      "season": 2,
+      "number": 4,
+      "name": "Power-women",
+      "airdate": "2026-07-24"
+    },
+    {
+      "id": "26e95287-5146-4098-86ea-08d17e95b885",
+      "season": 2,
+      "number": 5,
+      "name": "Serv, sved og skarpe skud",
+      "airdate": "2026-07-31"
+    },
+    {
+      "id": "befe3cd5-ed89-4dd2-958c-e76fcf186833",
+      "season": 2,
+      "number": 6,
+      "name": "Rødvinsbrandert og stressfri",
+      "airdate": "2026-08-07"
+    },
+    {
+      "id": "58e42928-b2b9-4013-a5b6-55f698b93542",
+      "season": 2,
+      "number": 7,
+      "name": "Fra fortid til fremtid",
+      "airdate": "2026-08-14"
+    },
+    {
+      "id": "c8c38713-2d29-4ec1-83b9-bf3d0ffa5c4c",
+      "season": 2,
+      "number": 8,
+      "name": "En happy ending",
+      "airdate": "2026-08-21"
+    }
+  ]
+}

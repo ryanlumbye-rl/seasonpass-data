@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:gift-med-en-loegn-tv2",
+  "name": "Gift med en løgn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5a598b4f-0264-4b26-b809-2a3abf8896ff",
+      "season": 1,
+      "number": 1,
+      "name": "Drømmemanden",
+      "airdate": "2026-09-22"
+    },
+    {
+      "id": "deae8850-517a-4f3a-b1d5-6f199971ff22",
+      "season": 1,
+      "number": 2,
+      "name": "Dobbeltlivet",
+      "airdate": "2026-09-29"
+    },
+    {
+      "id": "854b3ade-2dcc-4c42-b828-4b604565096b",
+      "season": 1,
+      "number": 3,
+      "name": "Bedraget",
+      "airdate": "2026-10-06"
+    }
+  ]
+}

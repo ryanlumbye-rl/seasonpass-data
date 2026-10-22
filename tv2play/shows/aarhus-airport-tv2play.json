@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:aarhus-airport-tv2play",
+  "name": "Aarhus Airport",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "be39f207-c066-46a8-8128-db54d30e2507",
+      "season": 1,
+      "number": 1,
+      "name": "På vagt i Aarhus Airport",
+      "airdate": "2026-08-08"
+    },
+    {
+      "id": "b7196dfd-850f-45a9-a72e-005a45056585",
+      "season": 1,
+      "number": 2,
+      "name": "En kniv i kufferten",
+      "airdate": "2026-08-15"
+    },
+    {
+      "id": "3fa45ccd-55a4-4615-975f-f3ef348c8055",
+      "season": 1,
+      "number": 3,
+      "name": "Mere end en lufthavn",
+      "airdate": "2026-08-22"
+    },
+    {
+      "id": "8d2c57f7-c475-4a59-b4f6-8a5097e447dd",
+      "season": 1,
+      "number": 4,
+      "name": "Hvert minut tæller",
+      "airdate": "2026-08-29"
+    },
+    {
+      "id": "ce1a4547-efe4-434b-8603-b5c3411011dc",
+      "season": 1,
+      "number": 5,
+      "name": "Usynligt hold gør lufthavnen klar",
+      "airdate": "2026-09-05"
+    }
+  ]
+}

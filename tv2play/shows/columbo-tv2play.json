@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:columbo-tv2play",
+  "name": "Columbo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "73682cca-0489-4666-b4ba-ceccfff8a548",
+      "season": 7,
+      "number": 1,
+      "name": "Murder Under Glass",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "a63dc7f7-c194-49c5-bb12-96b91a498746",
+      "season": 7,
+      "number": 2,
+      "name": "Make Me A Perfect Murder",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "31e47d12-eb5c-4fcf-ba69-c8377b5136f9",
+      "season": 7,
+      "number": 3,
+      "name": "How To Dial A Murder",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "d3f6f1fd-4957-4f1c-9b7b-c168320cb09e",
+      "season": 7,
+      "number": 4,
+      "name": "The Conspirators",
+      "airdate": "2026-09-16"
+    }
+  ]
+}

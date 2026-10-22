@@ -1,0 +1,143 @@
+{
+  "id": "tv2play:veronika-skyshowtime",
+  "name": "Veronika",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ff7682a9-717f-42e4-950e-08a08ea11cdb",
+      "season": 1,
+      "number": 1,
+      "name": "The Boy in the River & The Girl in the Forest",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "c0edc9c9-229c-4439-8083-a542fad55b06",
+      "season": 1,
+      "number": 2,
+      "name": "The Man in the Dream",
+      "airdate": "2024-03-29"
+    },
+    {
+      "id": "8e4b0621-91d4-4065-9bb8-9f970379e3b5",
+      "season": 1,
+      "number": 3,
+      "name": "The Hypnosis",
+      "airdate": "2024-03-29"
+    },
+    {
+      "id": "0f5fcf0a-cabf-46a0-9a74-f1771bb011a5",
+      "season": 1,
+      "number": 4,
+      "name": "The Seance",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "a5226d1e-a468-4db3-aaea-b139f9154f5a",
+      "season": 1,
+      "number": 5,
+      "name": "The Diary",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "a6426b46-8265-48ea-ada7-efbeaa923eda",
+      "season": 1,
+      "number": 6,
+      "name": "T",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "e0ebf117-c7aa-48ad-ae07-39afbe8e195c",
+      "season": 1,
+      "number": 7,
+      "name": "The Victim",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "f34bf2cf-293a-4a5b-9e07-6fc08e129640",
+      "season": 2,
+      "number": 1,
+      "name": "Mona",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "2e11d3a9-775d-4aa0-9cb1-e34464f58512",
+      "season": 2,
+      "number": 2,
+      "name": "Henrietta",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "b02c2364-1afa-4b0e-9674-b867ba7779a7",
+      "season": 2,
+      "number": 3,
+      "name": "Hans",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "46639053-4b73-4320-b223-3d6541744615",
+      "season": 2,
+      "number": 4,
+      "name": "Paula",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "c07395a8-6bca-44b5-ba4f-8b72263b0850",
+      "season": 2,
+      "number": 5,
+      "name": "Ninni",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "c51ec741-7a04-4d6f-905b-652b60df7ac8",
+      "season": 2,
+      "number": 6,
+      "name": "Ann-Charlotte",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "c7df8ac0-b285-4b81-a8f5-5890b34b74f5",
+      "season": 3,
+      "number": 1,
+      "name": "The Game",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "67f754fe-b48f-4805-aef9-c23a371c9d3b",
+      "season": 3,
+      "number": 2,
+      "name": "The Find",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "7941b150-9cc8-4815-b9e6-9684b255f766",
+      "season": 3,
+      "number": 3,
+      "name": "The Sacrifice",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "9aa2a9ee-010c-4ac2-bb78-966be1fe70cf",
+      "season": 3,
+      "number": 4,
+      "name": "The Path",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "fe0277b9-3fc5-48b5-be0a-55ab472f0eb9",
+      "season": 3,
+      "number": 5,
+      "name": "The Club",
+      "airdate": "2026-04-09"
+    },
+    {
+      "id": "85f73c03-9bc7-41e8-a269-e21bb3ae4f4c",
+      "season": 3,
+      "number": 6,
+      "name": "The Chase",
+      "airdate": "2026-04-09"
+    }
+  ]
+}

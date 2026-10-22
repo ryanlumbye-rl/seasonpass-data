@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:tut-tv2play",
+  "name": "Tut",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b721c48c-e821-4917-9fea-bd690aeb1c77",
+      "season": 1,
+      "number": 1,
+      "name": "Power",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "727034b9-1f42-4466-a3a0-275a51b1f1c8",
+      "season": 1,
+      "number": 2,
+      "name": "Betrayal",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "fe1084f6-0763-47bb-ba7e-163601d45ef2",
+      "season": 1,
+      "number": 3,
+      "name": "Destiny",
+      "airdate": "2026-10-08"
+    }
+  ]
+}

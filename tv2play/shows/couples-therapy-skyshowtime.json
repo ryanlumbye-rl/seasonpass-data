@@ -1,0 +1,73 @@
+{
+  "id": "tv2play:couples-therapy-skyshowtime",
+  "name": "Couples Therapy",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "61475a0b-d6af-4857-87fd-775fce3f22e0",
+      "season": 4,
+      "number": 10,
+      "name": "410",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "dda98b9c-9ddd-4f52-a989-2bbc2e6e5587",
+      "season": 4,
+      "number": 11,
+      "name": "411",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "62295b90-ecc1-4e6d-a069-1e820c2b0bee",
+      "season": 4,
+      "number": 12,
+      "name": "412",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "e5ffb574-a217-4fee-897a-92c644ddc663",
+      "season": 4,
+      "number": 13,
+      "name": "413",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "e5e28fd3-2647-44bb-ba98-0ca82c53c829",
+      "season": 4,
+      "number": 14,
+      "name": "414",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "468b4a34-7e35-4237-9945-94cddccaca6f",
+      "season": 4,
+      "number": 15,
+      "name": "415",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "90fa0be7-373b-467c-a737-ff6ec3b60795",
+      "season": 4,
+      "number": 16,
+      "name": "416",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "cff9ad9b-fd02-4bd1-a3f9-e030c450be1b",
+      "season": 4,
+      "number": 17,
+      "name": "417",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "344c77be-962c-4fc0-96f4-b70551b8fc2d",
+      "season": 4,
+      "number": 18,
+      "name": "418",
+      "airdate": "2025-12-11"
+    }
+  ]
+}

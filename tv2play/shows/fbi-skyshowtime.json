@@ -1,0 +1,395 @@
+{
+  "id": "tv2play:fbi-skyshowtime",
+  "name": "FBI",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "cf945b2b-58a6-4ee0-91fc-4a7ce207208d",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e68f9bdc-c9fa-473f-ab73-1827d42dbee2",
+      "season": 1,
+      "number": 2,
+      "name": "Green Birds",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "08dfd719-a36b-4f4f-aef8-ed0e7ac421fd",
+      "season": 1,
+      "number": 3,
+      "name": "Prey",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4a761913-4720-4141-b2a7-1572ee757cd2",
+      "season": 1,
+      "number": 4,
+      "name": "Crossfire",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "77f254aa-5a88-4eb1-b8de-47a7a292487d",
+      "season": 1,
+      "number": 5,
+      "name": "Doomsday",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c0383a77-11c7-49e9-9e83-386fff4ee828",
+      "season": 1,
+      "number": 6,
+      "name": "Family Man",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5c45f94d-51b1-431b-b37a-7977ce78e3ad",
+      "season": 1,
+      "number": 7,
+      "name": "Cops and Robbers",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "31761105-14c6-4378-a352-2d29f63f220c",
+      "season": 1,
+      "number": 8,
+      "name": "This Land Is Your Land",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2802ebe0-c316-4265-a534-c945d654f1ab",
+      "season": 1,
+      "number": 9,
+      "name": "Compromised",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8edef9a9-1048-4b1d-8793-17a47c175a85",
+      "season": 1,
+      "number": 10,
+      "name": "The Armorer's Faith",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9b4f35d6-4ea4-47de-ac62-708eeb4a2936",
+      "season": 1,
+      "number": 11,
+      "name": "Identity Crisis",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c99e6a11-89e9-482c-af4b-53b1a47bf788",
+      "season": 1,
+      "number": 12,
+      "name": "A New Dawn",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f4cda667-40fa-4392-89cc-0b7313776028",
+      "season": 1,
+      "number": 13,
+      "name": "Partners in Crime",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ffb9fae7-3bc0-43a5-9d5b-591c6ec4f859",
+      "season": 1,
+      "number": 14,
+      "name": "Exposed",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e5d4659b-e735-4556-b052-4c4fc6ce2038",
+      "season": 1,
+      "number": 15,
+      "name": "Scorched Earth",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "6db86cd7-5f08-4912-a4ba-1405a98e4f52",
+      "season": 1,
+      "number": 16,
+      "name": "Invisible",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "dad5b7de-54e3-41e8-aea1-3258615054ac",
+      "season": 1,
+      "number": 17,
+      "name": "Apex",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "55a803c0-fe5a-401b-81cb-acd2507755c4",
+      "season": 1,
+      "number": 18,
+      "name": "Most Wanted",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "26801c1b-39d4-4f63-a5f7-883872053f2a",
+      "season": 1,
+      "number": 19,
+      "name": "Conflict of Interest",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ac51dedb-d8c1-41cb-a290-3e29e5c36bd3",
+      "season": 1,
+      "number": 20,
+      "name": "What Lies Beneath",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b94bda7d-f75a-4310-91fb-27a84bf6f4d6",
+      "season": 1,
+      "number": 21,
+      "name": "Appearances",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "253c49fd-53af-42d2-aca9-13de86f19c30",
+      "season": 1,
+      "number": 22,
+      "name": "Closure",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5d1232c2-533c-484c-95f6-0dbbb6f1694b",
+      "season": 2,
+      "number": 1,
+      "name": "Little Egypt",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f24deb37-dd97-43c8-920d-a3dee9e3731d",
+      "season": 2,
+      "number": 2,
+      "name": "The Lives of Others",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8a6f2c52-c59b-41d4-a047-d449dd8e952c",
+      "season": 2,
+      "number": 3,
+      "name": "American Idol",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "98ba1266-f57f-4e3f-aed5-e81ffb3e8d64",
+      "season": 2,
+      "number": 4,
+      "name": "An Imperfect Science",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1b5cd4c2-76ea-4630-824b-8f9bd32a769c",
+      "season": 2,
+      "number": 5,
+      "name": "Crossroads",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "20c1c1cf-5771-4298-84d6-24fd264a8987",
+      "season": 2,
+      "number": 6,
+      "name": "Outsider",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "95fac1eb-e431-43f0-9a39-2d9405215585",
+      "season": 2,
+      "number": 7,
+      "name": "Undisclosed",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "76758f0c-9d16-4976-b9f2-3ade79e2d9fb",
+      "season": 2,
+      "number": 8,
+      "name": "Codename: Ferdinand",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c1416ec5-44ac-42e0-8ff9-6c83cf50c844",
+      "season": 2,
+      "number": 9,
+      "name": "Salvation",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0e917eea-ded9-4a8e-9427-a7e259628b24",
+      "season": 2,
+      "number": 10,
+      "name": "Ties That Bind",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "074a2ddb-95a3-49ce-b8f1-6a09ea0fb38f",
+      "season": 2,
+      "number": 11,
+      "name": "Fallout",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e36c5a1d-f17f-4b7f-864f-6b9b2cad11dd",
+      "season": 2,
+      "number": 12,
+      "name": "Hard Decisions",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ced7e8bf-331a-4d3f-9db9-348a1f034b15",
+      "season": 2,
+      "number": 13,
+      "name": "Payback",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f1f7f9fd-b3ee-489d-a749-b004b318595d",
+      "season": 2,
+      "number": 14,
+      "name": "Studio Gangster",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4a0ef39c-c05f-4ce5-9863-66c6a8700aa4",
+      "season": 2,
+      "number": 15,
+      "name": "Legacy",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1a2a1c43-7a96-4e5b-8a99-98331e1462b3",
+      "season": 2,
+      "number": 16,
+      "name": "Safe Room",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "412225da-3510-4088-88e9-87c5efc9d3ef",
+      "season": 2,
+      "number": 17,
+      "name": "Broken Promises",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4a7d8f4e-df63-4427-ae24-74ddf6f0e2ab",
+      "season": 2,
+      "number": 18,
+      "name": "American Dreams",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "63be83a5-c7fa-4506-9da5-b46257c35f3c",
+      "season": 2,
+      "number": 19,
+      "name": "Emotional Rescue",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "be591ec5-2a73-49ce-a7d2-4805d2303cd9",
+      "season": 3,
+      "number": 1,
+      "name": "Never Trust a Stranger",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "cb590494-36f8-4486-a2e6-c1f65ac4e5b0",
+      "season": 3,
+      "number": 2,
+      "name": "Unreasonable Doubt",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "79fdf787-6fb4-443a-927e-64e16c26791a",
+      "season": 3,
+      "number": 3,
+      "name": "Liar's Poker",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7bb556af-c82b-4e2b-9b58-0c20e8a1d728",
+      "season": 3,
+      "number": 4,
+      "name": "Crazy Love",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "423ec1f7-0a9a-432f-8a3e-c9d3b5ef9d23",
+      "season": 3,
+      "number": 5,
+      "name": "Clean Slate",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9ccf68b8-8b69-4c56-9498-7596a18cce4d",
+      "season": 3,
+      "number": 6,
+      "name": "Uncovered",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0dfa9989-36ed-4ecc-96d1-cb4696a35651",
+      "season": 3,
+      "number": 7,
+      "name": "Discord",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ec117ef3-254d-4f59-9c33-a66a8145f1e6",
+      "season": 3,
+      "number": 8,
+      "name": "Walk the Line",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "dd3351f8-c280-49b5-aa7e-cd2ad202da5e",
+      "season": 3,
+      "number": 9,
+      "name": "Leverage",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7a8b9c83-cdbe-493e-80c7-d62e49f6d829",
+      "season": 3,
+      "number": 10,
+      "name": "Checks and Balances",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7a5c77b6-0beb-4729-bdaf-1eff6bc1e760",
+      "season": 3,
+      "number": 11,
+      "name": "Brother's Keeper",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1419f4e6-70fc-493b-80e1-a1964b36cf85",
+      "season": 3,
+      "number": 12,
+      "name": "Fathers and Sons",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "04426455-ab2b-464f-888e-2082c05820a6",
+      "season": 3,
+      "number": 13,
+      "name": "Short Squeeze",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "08105d7b-32fa-4b7e-a938-21eabff43e78",
+      "season": 3,
+      "number": 15,
+      "name": "Straight Flush",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:kondrup-ka-os-tv2nord",
+  "name": "Kondrup Ka’ Os’",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "46cc5ebd-9f6e-479e-a6fb-fdf0977c9b72",
+      "season": 1,
+      "number": 1,
+      "name": "Vores hus er en minizoo",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1df33107-8b22-4cd4-91fb-fe0e7beb8292",
+      "season": 1,
+      "number": 2,
+      "name": "Når fire bliver til fem",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "02a6c05c-398c-4961-b2c0-81d2120f00f5",
+      "season": 1,
+      "number": 3,
+      "name": "Med ryggen mod muren",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ff3a4a48-6611-4911-a147-88ba3d03b57e",
+      "season": 1,
+      "number": 4,
+      "name": "Hej fra sygehuset",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b6193d35-3024-4fb9-9e47-0a02d986d93c",
+      "season": 1,
+      "number": 5,
+      "name": "Helvedeshuset eller Håbets Hus",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a23eb7ba-84d3-4108-90eb-4e53485be015",
+      "season": 1,
+      "number": 6,
+      "name": "Vi bor her, men...",
+      "airdate": "2023-02-19"
+    },
+    {
+      "id": "8b14be7b-2aef-44a0-9a85-e20120c1558a",
+      "season": 1,
+      "number": 7,
+      "name": "Får vi bank i banken?",
+      "airdate": "2023-02-19"
+    },
+    {
+      "id": "1a8ace20-5ece-4c86-a62c-d1f711836e0a",
+      "season": 2,
+      "number": 1,
+      "name": "Så er det havens tur",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "5394eaa4-8d43-4a26-a43b-5245ac0d94a4",
+      "season": 2,
+      "number": 2,
+      "name": "Den med rodklumpen",
+      "airdate": "2024-01-04"
+    },
+    {
+      "id": "55ebb012-d171-4948-8d49-fa42a7adc397",
+      "season": 2,
+      "number": 3,
+      "name": "Vesters eller Kondrups have?",
+      "airdate": "2024-01-11"
+    },
+    {
+      "id": "b85c140d-618d-49bb-adbc-5a805e9600e2",
+      "season": 2,
+      "number": 4,
+      "name": "Vi skal videre",
+      "airdate": "2024-01-18"
+    },
+    {
+      "id": "3ec6329c-6e87-4c17-a480-55652797517f",
+      "season": 2,
+      "number": 5,
+      "name": "Vi er dårlige voksne",
+      "airdate": "2024-01-25"
+    },
+    {
+      "id": "8a788ed5-013a-4507-89c0-d8745644f8d3",
+      "season": 2,
+      "number": 6,
+      "name": "Varme øl og efterfest",
+      "airdate": "2024-02-01"
+    }
+  ]
+}

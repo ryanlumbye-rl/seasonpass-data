@@ -1,0 +1,31 @@
+{
+  "id": "tv2play:fornuft-og-foelelse-tv2play",
+  "name": "Fornuft og følelse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b80d7ce1-0504-407a-984b-0be22ec12b57",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d74c4d29-9968-41eb-b290-50c49e1e2fa6",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5df71b8d-b050-41ca-bfa5-c4ff69effd22",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

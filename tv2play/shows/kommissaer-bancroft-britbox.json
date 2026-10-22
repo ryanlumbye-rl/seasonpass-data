@@ -1,0 +1,66 @@
+{
+  "id": "tv2play:kommissaer-bancroft-britbox",
+  "name": "Kommissær Bancroft",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c7696917-17fc-42ce-8551-951989f6ce6b",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "3b0ae080-1363-4c53-a3d8-aecc5ea5e901",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "25822d67-84e8-488b-ae04-9bfe6b108f0a",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "95184a4f-77a1-452a-8e06-926f385cf10b",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "ff9724ef-3a75-48d5-8b02-5c9c897fb704",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "1b65d959-0dc8-4911-8732-6f51e0625903",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "63331dce-aa4a-4ada-87cd-d14648bf0b1a",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "d35f28b3-1e76-419f-abeb-2f4d751be4d5",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-03-05"
+    }
+  ]
+}

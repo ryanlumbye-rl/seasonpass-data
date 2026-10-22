@@ -1,0 +1,129 @@
+{
+  "id": "tv2play:halo-skyshowtime",
+  "name": "Halo",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4ddc8f16-7b57-4ddf-802c-d0c40e073405",
+      "season": 1,
+      "number": 1,
+      "name": "Contact",
+      "airdate": "2022-03-24"
+    },
+    {
+      "id": "ca7ae9d9-e901-4516-80d9-fc68a4a3af1e",
+      "season": 1,
+      "number": 2,
+      "name": "Unbound",
+      "airdate": "2022-03-31"
+    },
+    {
+      "id": "e3f97f38-d3b2-4132-8f9e-50a971e14dd2",
+      "season": 1,
+      "number": 3,
+      "name": "Emergence",
+      "airdate": "2022-04-07"
+    },
+    {
+      "id": "af0be9e9-d612-4720-baa3-4bcba66e4bf6",
+      "season": 1,
+      "number": 4,
+      "name": "Emergence",
+      "airdate": "2022-04-14"
+    },
+    {
+      "id": "d354425c-f31b-49da-ad55-05bf4ad12f4c",
+      "season": 1,
+      "number": 5,
+      "name": "Reckoning",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "1cae4364-5dc0-4c35-8dde-367ef09750bb",
+      "season": 1,
+      "number": 6,
+      "name": "Solace",
+      "airdate": "2022-04-28"
+    },
+    {
+      "id": "86e87223-1578-4e2e-898f-fe17f840a085",
+      "season": 1,
+      "number": 7,
+      "name": "Inheritance",
+      "airdate": "2022-05-05"
+    },
+    {
+      "id": "5e13a602-2bc8-4122-841b-fcd9290f5045",
+      "season": 1,
+      "number": 8,
+      "name": "Allegiance",
+      "airdate": "2022-05-12"
+    },
+    {
+      "id": "947fa172-8619-48a1-9882-48ec89731135",
+      "season": 1,
+      "number": 9,
+      "name": "Transcendence",
+      "airdate": "2022-05-19"
+    },
+    {
+      "id": "28199145-8df8-4511-9691-330b8769d760",
+      "season": 2,
+      "number": 1,
+      "name": "Sanctuary",
+      "airdate": "2024-02-09"
+    },
+    {
+      "id": "2a4f5bdf-34ab-4096-924a-84c002df8262",
+      "season": 2,
+      "number": 2,
+      "name": "Sword",
+      "airdate": "2024-02-09"
+    },
+    {
+      "id": "697592ce-5489-4c14-83b0-d62f8960262f",
+      "season": 2,
+      "number": 3,
+      "name": "Visegrad",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "aa5d0d61-df68-4404-aba7-9bad4c4c3378",
+      "season": 2,
+      "number": 4,
+      "name": "Reach",
+      "airdate": "2024-02-23"
+    },
+    {
+      "id": "fbcd8b12-569a-4209-b12c-45a144156135",
+      "season": 2,
+      "number": 5,
+      "name": "Aleria",
+      "airdate": "2024-03-01"
+    },
+    {
+      "id": "a3c6dec6-0849-4f48-9ed2-a0b78e98503c",
+      "season": 2,
+      "number": 6,
+      "name": "Onyx",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "a73c851d-d33c-4b62-9f85-9962d888a569",
+      "season": 2,
+      "number": 7,
+      "name": "Thermopylae",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "aca912a4-d08c-42a5-aacb-b98436be6eb2",
+      "season": 2,
+      "number": 8,
+      "name": "Halo",
+      "airdate": "2024-03-22"
+    }
+  ]
+}

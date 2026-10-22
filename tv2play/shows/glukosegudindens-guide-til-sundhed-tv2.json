@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:glukosegudindens-guide-til-sundhed-tv2",
+  "name": "Glukosegudindens guide til sundhed",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "ee179f1a-c261-4a9b-a154-e8c5375dcb8c",
+      "season": 1,
+      "number": 1,
+      "name": "Hudproblemer og diabetes",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "8f4d388a-28fd-4884-be25-8eebf6550215",
+      "season": 1,
+      "number": 2,
+      "name": "Lækkersult og sukkertrang",
+      "airdate": "2026-01-14"
+    }
+  ]
+}

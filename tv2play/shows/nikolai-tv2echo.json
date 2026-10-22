@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:nikolai-tv2echo",
+  "name": "Nikolai",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "0f1b798e-8744-45c6-aa25-6f1cc5bf2e40",
+      "season": 1,
+      "number": 1,
+      "name": "På egne ben",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "6557c621-2b7f-4f2b-b1b0-69cc3da2bed7",
+      "season": 1,
+      "number": 2,
+      "name": "De kongelige rødder",
+      "airdate": "2026-06-29"
+    },
+    {
+      "id": "8bfee4a4-592a-4ed1-b8ab-5ef713cc4090",
+      "season": 1,
+      "number": 3,
+      "name": "Det andet ophav",
+      "airdate": "2026-07-06"
+    },
+    {
+      "id": "7e28a604-4b09-454d-951f-5efccbd34124",
+      "season": 1,
+      "number": 4,
+      "name": "Verden står åben",
+      "airdate": "2026-07-13"
+    }
+  ]
+}

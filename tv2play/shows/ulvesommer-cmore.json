@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:ulvesommer-cmore",
+  "name": "Ulvesommer",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8105c982-753a-4c45-ac1f-afdadf0c5fdd",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-12-25"
+    },
+    {
+      "id": "196e1c01-3838-45ab-bf4c-3367f58c43c1",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-12-25"
+    },
+    {
+      "id": "af65deae-a05d-4c2b-9d5c-ec18d6a54579",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "1c8f7415-bdfb-4942-ac94-d79dba1cb731",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-01-08"
+    },
+    {
+      "id": "37a9959d-3560-4560-b756-596abf58a836",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-01-15"
+    },
+    {
+      "id": "f142731c-2160-4739-9f6b-81be2569699e",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-01-22"
+    }
+  ]
+}

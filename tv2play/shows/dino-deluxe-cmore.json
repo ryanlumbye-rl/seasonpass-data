@@ -1,0 +1,80 @@
+{
+  "id": "tv2play:dino-deluxe-cmore",
+  "name": "Dino Deluxe",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "4255848e-5916-413b-81a0-714920178843",
+      "season": 1,
+      "number": 1,
+      "name": "Langhalsslænget",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "46d8f52f-3f39-4109-a21d-5653d74892d9",
+      "season": 1,
+      "number": 2,
+      "name": "Hornslænget",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "90611aa5-2190-44a1-a917-6f8d38539a34",
+      "season": 1,
+      "number": 3,
+      "name": "Hanekamsslænget",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "2717a229-e74e-46bc-8b7e-36136721c798",
+      "season": 1,
+      "number": 4,
+      "name": "Bladslænget",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "88c8a13b-f367-45c6-9db6-e3300bb25ad3",
+      "season": 1,
+      "number": 5,
+      "name": "Panserslænget",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "14280883-34c2-4451-ba51-8a1e47272ca4",
+      "season": 1,
+      "number": 6,
+      "name": "Tykskalleslænget",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "0c73ed20-2220-449c-abcb-3d11b11f0c69",
+      "season": 1,
+      "number": 7,
+      "name": "Kødfætrene",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "1df89d92-8630-44cd-90c8-cbee40148e1b",
+      "season": 1,
+      "number": 8,
+      "name": "Kødslænget",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "a0af9e8f-6dc4-4647-b8b4-603940b4eec8",
+      "season": 1,
+      "number": 9,
+      "name": "En hård uge i slutningen af kridttiden",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "5c330d80-5f5a-4295-a558-a062c29cca31",
+      "season": 1,
+      "number": 10,
+      "name": "Fugleslænget",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:det-roder-tv2fri",
+  "name": "Det roder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "7263e097-64e6-4398-a6d9-eb2b5800e178",
+      "season": 1,
+      "number": 1,
+      "name": "Københavns Sydhavn",
+      "airdate": "2019-08-06"
+    },
+    {
+      "id": "f2388eb8-0ee5-4e6e-a154-dbd9c038384e",
+      "season": 1,
+      "number": 2,
+      "name": "Græsted",
+      "airdate": "2019-08-06"
+    },
+    {
+      "id": "343cc41c-6083-4f95-8181-0d93b0c14666",
+      "season": 1,
+      "number": 3,
+      "name": "Herning",
+      "airdate": "2019-08-13"
+    },
+    {
+      "id": "ce807dc9-1f1c-4004-b57e-edb0a164fdad",
+      "season": 1,
+      "number": 4,
+      "name": "Amager",
+      "airdate": "2019-08-20"
+    }
+  ]
+}

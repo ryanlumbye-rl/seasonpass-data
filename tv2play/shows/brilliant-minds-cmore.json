@@ -1,0 +1,101 @@
+{
+  "id": "tv2play:brilliant-minds-cmore",
+  "name": "Brilliant Minds",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bf8424e0-b680-48bf-99be-13422037ecec",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2025-01-27"
+    },
+    {
+      "id": "9dc63b65-c125-4269-a016-fc6a03bc1aca",
+      "season": 1,
+      "number": 2,
+      "name": "The disembodied woman",
+      "airdate": "2025-01-27"
+    },
+    {
+      "id": "60291e15-9546-4ccc-a85f-c478bb8071c6",
+      "season": 1,
+      "number": 3,
+      "name": "The lost biker",
+      "airdate": "2025-01-27"
+    },
+    {
+      "id": "dfc65e60-65ae-4fe9-a959-4f573a568973",
+      "season": 1,
+      "number": 4,
+      "name": "The killer bride",
+      "airdate": "2025-01-27"
+    },
+    {
+      "id": "b235f3ec-76db-4636-a25b-e8cc45b2ebdb",
+      "season": 1,
+      "number": 5,
+      "name": "The haunted marine",
+      "airdate": "2025-01-27"
+    },
+    {
+      "id": "54ade757-dccf-4853-81ec-e3c7950592ad",
+      "season": 1,
+      "number": 6,
+      "name": "The girl who cried pregnant",
+      "airdate": "2025-01-27"
+    },
+    {
+      "id": "26390a15-41ed-4d17-8180-78a9e7d486ef",
+      "season": 1,
+      "number": 7,
+      "name": "The man from Grozny",
+      "airdate": "2025-01-27"
+    },
+    {
+      "id": "0a32ff2e-8a96-4bdc-9a65-aadb7f7e7609",
+      "season": 1,
+      "number": 8,
+      "name": "The lovesick widow",
+      "airdate": "2025-02-03"
+    },
+    {
+      "id": "e286391d-d4ba-4cc2-b467-8bf8d8665e96",
+      "season": 1,
+      "number": 9,
+      "name": "The colorblind painter",
+      "airdate": "2025-02-03"
+    },
+    {
+      "id": "451f6e11-8fe5-4852-acd9-fd01e0b37368",
+      "season": 1,
+      "number": 10,
+      "name": "The first responder",
+      "airdate": "2025-02-03"
+    },
+    {
+      "id": "be71b4f8-d86c-47e8-ac9a-edd7d65ef98a",
+      "season": 1,
+      "number": 11,
+      "name": "The other woman",
+      "airdate": "2025-02-03"
+    },
+    {
+      "id": "a28180d3-8b57-41e7-9718-cf48c6d947e2",
+      "season": 1,
+      "number": 12,
+      "name": "The doctor whose world collapsed",
+      "airdate": "2025-02-03"
+    },
+    {
+      "id": "452cc6d9-0257-44f1-b7fa-18f927f3c97a",
+      "season": 1,
+      "number": 13,
+      "name": "The man who can't see faces",
+      "airdate": "2025-02-03"
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "id": "tv2play:liebhaverne-tv2",
+  "name": "Liebhaverne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "15a8129b-978e-43bc-bff2-8e93daf4c063",
+      "season": 1,
+      "number": 1,
+      "name": "Et sommerhus til Ole Henriksen",
+      "airdate": "2006-02-16"
+    },
+    {
+      "id": "8c0a61e9-a235-4b6f-aad6-f553fe118cf3",
+      "season": 1,
+      "number": 2,
+      "name": "En ferielejlighed til Peter Asschenfeldt - del 1",
+      "airdate": "2006-02-23"
+    },
+    {
+      "id": "1937afd4-e4b6-46bb-93a3-8aba7178887e",
+      "season": 1,
+      "number": 3,
+      "name": "En ferielejlighed til Peter Asschenfeldt - del 2",
+      "airdate": "2006-03-02"
+    },
+    {
+      "id": "a59ddeb9-8a32-4b22-aba1-a0db4e039a94",
+      "season": 1,
+      "number": 4,
+      "name": "Tålmodigheden er væk",
+      "airdate": "2006-03-09"
+    },
+    {
+      "id": "22cb5456-ecba-45dd-8019-875a03d81095",
+      "season": 1,
+      "number": 5,
+      "name": "Strandvejsvilla til 21,8 mio. kr.",
+      "airdate": "2006-03-16"
+    },
+    {
+      "id": "df23d1b0-a027-472a-821d-fdd1554384ed",
+      "season": 1,
+      "number": 6,
+      "name": "Fra svinesti til idyllisk sø",
+      "airdate": "2006-03-23"
+    },
+    {
+      "id": "bc5f5a5e-8e40-4507-81c1-3bf437b6cf65",
+      "season": 2,
+      "number": 1,
+      "name": "Bondegård i Gilleleje",
+      "airdate": "2006-10-12"
+    },
+    {
+      "id": "e2f61b4a-8d6e-4158-8895-fbaab197e88a",
+      "season": 2,
+      "number": 2,
+      "name": "Et sommerhus med havudsigt",
+      "airdate": "2006-10-19"
+    },
+    {
+      "id": "dabfec1b-4e39-4c87-ae9b-c722eca51e69",
+      "season": 2,
+      "number": 3,
+      "name": "Fetterlein på boligjagt",
+      "airdate": "2006-10-26"
+    },
+    {
+      "id": "9caa95be-410c-448a-95ca-b8e142d5ad7a",
+      "season": 2,
+      "number": 4,
+      "name": "Fra London til Gilleleje",
+      "airdate": "2006-11-02"
+    },
+    {
+      "id": "519f0480-9246-4ebd-b7dc-b0c9250e8645",
+      "season": 2,
+      "number": 5,
+      "name": "Sydfransk luksus",
+      "airdate": "2006-11-09"
+    },
+    {
+      "id": "2297c79a-e9a8-424c-ba0d-0ad577cc77b1",
+      "season": 2,
+      "number": 6,
+      "name": "Kaffeslottet",
+      "airdate": "2006-11-16"
+    },
+    {
+      "id": "6745eb2e-7f0f-454f-b22b-b55f87f31daa",
+      "season": 2,
+      "number": 7,
+      "name": "Til salg for 78 mio. kr.",
+      "airdate": "2006-11-23"
+    },
+    {
+      "id": "a542af4c-6f79-44ad-85f4-e896e2ab4fea",
+      "season": 2,
+      "number": 8,
+      "name": "Hus med egen golfbane",
+      "airdate": "2006-11-30"
+    },
+    {
+      "id": "894a0885-4718-4c4a-9373-8da3f77dbb9c",
+      "season": 3,
+      "number": 1,
+      "name": "Rolf Sørensen sælger hus i Toscana",
+      "airdate": "2007-03-21"
+    },
+    {
+      "id": "a745b894-fb63-4622-861d-79fe6769ce9a",
+      "season": 3,
+      "number": 2,
+      "name": "Åbent hus på Kaffeslottet",
+      "airdate": "2007-04-04"
+    },
+    {
+      "id": "af1d733b-1b24-4bce-b183-fdaa251738b4",
+      "season": 3,
+      "number": 3,
+      "name": "Lejlighed til 9,5 mio. kr.",
+      "airdate": "2007-04-11"
+    },
+    {
+      "id": "8156bcc0-6a5d-4e7a-bc8f-af088654d013",
+      "season": 3,
+      "number": 4,
+      "name": "Boligjagt på 1. klasse",
+      "airdate": "2007-04-18"
+    },
+    {
+      "id": "dddcb47b-6d44-4f08-84f4-830468205308",
+      "season": 3,
+      "number": 5,
+      "name": "500 kvm. sommerhus i Cannes",
+      "airdate": "2007-04-25"
+    },
+    {
+      "id": "967d39a5-7227-47ae-aec0-aa17990bd313",
+      "season": 3,
+      "number": 6,
+      "name": "Asger Jorn-hus til salg",
+      "airdate": "2007-05-02"
+    },
+    {
+      "id": "6e748aa2-c49d-4867-b7f3-0f5b1c5cba4d",
+      "season": 4,
+      "number": 1,
+      "name": "Dennis Knudsen på Mallorca - del 1",
+      "airdate": "2007-10-24"
+    },
+    {
+      "id": "fef19a2e-28b4-427e-a018-4e3a75a0b0e9",
+      "season": 4,
+      "number": 2,
+      "name": "Dennis Knudsen på Mallorca - del 2",
+      "airdate": "2007-10-31"
+    },
+    {
+      "id": "87a997f8-55e3-4c3b-a26d-1d615958989a",
+      "season": 4,
+      "number": 3,
+      "name": "Luksusejendomme i Schweiz",
+      "airdate": "2007-11-07"
+    },
+    {
+      "id": "0ed8514d-c1b5-48e8-96db-3f43bbbf188c",
+      "season": 4,
+      "number": 4,
+      "name": "Schweizisk perle til 100 mio.",
+      "airdate": "2007-11-28"
+    },
+    {
+      "id": "f41340bf-1773-43d3-9407-7e31bbf86184",
+      "season": 4,
+      "number": 5,
+      "name": "Ole Henriksen ser på Dirch Passer-bolig",
+      "airdate": "2007-12-12"
+    },
+    {
+      "id": "83321dd5-6ac6-4f40-9588-29d0e95c5c45",
+      "season": 4,
+      "number": 6,
+      "name": "Når stjernerne spiller ind",
+      "airdate": "2007-12-19"
+    },
+    {
+      "id": "82c9681c-e796-4e5f-9601-535da7516292",
+      "season": 5,
+      "number": 1,
+      "name": "Dyrberg/Kern på Mallorca - del 1",
+      "airdate": "2008-04-02"
+    },
+    {
+      "id": "cfca6702-2148-4496-89a4-90538f3bdf30",
+      "season": 5,
+      "number": 2,
+      "name": "Dyrberg/Kern på Mallorca - del 2",
+      "airdate": "2008-04-09"
+    },
+    {
+      "id": "c35fb21f-41bd-416e-a5cd-e3dde9f37332",
+      "season": 5,
+      "number": 3,
+      "name": "Byhus med bådplads",
+      "airdate": "2008-04-16"
+    },
+    {
+      "id": "f9cf0c6c-c317-4682-8aa7-ccf3684e959d",
+      "season": 5,
+      "number": 4,
+      "name": "Strandvejsvilla til 30 millioner kroner",
+      "airdate": "2008-04-23"
+    },
+    {
+      "id": "75739f3b-284b-487d-abda-1ce839bb0fd1",
+      "season": 5,
+      "number": 5,
+      "name": "Karen Simonsen ser på sommerhus",
+      "airdate": "2008-04-30"
+    },
+    {
+      "id": "ddcb8d46-e256-4c3c-a114-cbdd965f8f60",
+      "season": 5,
+      "number": 6,
+      "name": "Tina Lund ser på gård",
+      "airdate": "2008-05-07"
+    },
+    {
+      "id": "f86abecb-6c5b-4dc6-b8a8-ff562e2bd9af",
+      "season": 5,
+      "number": 7,
+      "name": "Et rigtigt dansehjem",
+      "airdate": "2008-05-14"
+    },
+    {
+      "id": "4823e0dc-6cd1-4f63-8233-a09d5c9da0b0",
+      "season": 5,
+      "number": 8,
+      "name": "Udsigt til vandet på Anholt",
+      "airdate": "2008-05-21"
+    },
+    {
+      "id": "de20dc58-0e88-4d11-ad51-aca85b620bff",
+      "season": 6,
+      "number": 1,
+      "name": "Remee i Tyrkiet",
+      "airdate": "2009-01-07"
+    },
+    {
+      "id": "d530e28f-f9f9-4b81-b708-1d48c7429c01",
+      "season": 6,
+      "number": 2,
+      "name": "Remees tyrkiske ejendomme",
+      "airdate": "2009-01-14"
+    },
+    {
+      "id": "dfae8309-fb01-439c-b692-288f41030e0e",
+      "season": 6,
+      "number": 3,
+      "name": "Tommy Kenter viser frem",
+      "airdate": "2009-01-21"
+    },
+    {
+      "id": "0751acc6-9aaf-4aee-bc4c-feb580461e05",
+      "season": 6,
+      "number": 4,
+      "name": "KASI-Jesper på Mallorca",
+      "airdate": "2009-01-28"
+    },
+    {
+      "id": "e281d1f0-d4e3-4e5a-8cd8-df1a86702e4d",
+      "season": 6,
+      "number": 5,
+      "name": "Luksusejendom i Hornbæk",
+      "airdate": "2009-02-04"
+    },
+    {
+      "id": "6dd6bfa0-1316-40d2-83d9-509b60de4a66",
+      "season": 6,
+      "number": 6,
+      "name": "Schlegel-perle fra 1931",
+      "airdate": "2009-02-11"
+    },
+    {
+      "id": "3023c25d-b0d3-4a98-bc20-66d0e14e5813",
+      "season": 6,
+      "number": 7,
+      "name": "Arne Jacobsen-tegnet rækkehus",
+      "airdate": "2009-05-27"
+    },
+    {
+      "id": "b32793fc-9fa2-4403-bbc7-c367dfbb45b3",
+      "season": 6,
+      "number": 8,
+      "name": "Matadorhus til salg",
+      "airdate": "2009-06-03"
+    },
+    {
+      "id": "813b0b12-b92f-427b-a3eb-daa4bd0012e8",
+      "season": 7,
+      "number": 1,
+      "name": "Fra ruin til syditaliensk luksus",
+      "airdate": "2009-09-09"
+    },
+    {
+      "id": "e628d8c4-963a-4d38-a182-eb1e46a09d91",
+      "season": 7,
+      "number": 2,
+      "name": "Kristian Hornsleth søger bolig",
+      "airdate": "2009-09-16"
+    },
+    {
+      "id": "fab090a9-e43e-4772-ab3a-e7dee3217592",
+      "season": 7,
+      "number": 3,
+      "name": "Victor Feddersen og harpunen",
+      "airdate": "2009-09-23"
+    },
+    {
+      "id": "a2e14a53-844d-4050-8f31-0eb1430c54b8",
+      "season": 7,
+      "number": 4,
+      "name": "Luksusboliger i Skagens smukke klitter",
+      "airdate": "2009-09-30"
+    },
+    {
+      "id": "15acc0bf-4476-49e8-9060-8bfe50a1f71b",
+      "season": 7,
+      "number": 6,
+      "name": "Luksus i glas og stål",
+      "airdate": "2010-01-06"
+    },
+    {
+      "id": "76e6f80e-eddb-430b-ab0d-c6962ecb7ee0",
+      "season": 7,
+      "number": 7,
+      "name": "I hjertet af København",
+      "airdate": "2010-01-13"
+    },
+    {
+      "id": "df14ce6f-d23f-4de4-8c70-ba67c71911f1",
+      "season": 7,
+      "number": 8,
+      "name": "Idyllisk landejendom",
+      "airdate": "2010-10-20"
+    },
+    {
+      "id": "1d0cc3db-1ecd-4d91-b315-37495a2d2491",
+      "season": 8,
+      "number": 1,
+      "name": "Luksus i Sydafrika",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "92b92599-408c-4083-9ce1-85001bcdbacf",
+      "season": 8,
+      "number": 2,
+      "name": "Mette Bloch søger bolig",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "5c6d327c-6de0-481b-ba57-189343806186",
+      "season": 8,
+      "number": 3,
+      "name": "Italiensk landejendom",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "40306679-678a-45b7-8b82-b5f5f84defcb",
+      "season": 8,
+      "number": 4,
+      "name": "Luksushytter i Schweiz",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "2689c0fd-3202-447b-b797-da6805d0dff2",
+      "season": 8,
+      "number": 5,
+      "name": "Krisen kradser i Sønderjylland",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "d33fb995-7c29-47e3-ad5a-ddc4104522ea",
+      "season": 8,
+      "number": 6,
+      "name": "Jacob Haugaard vil sælge",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "6bb8342d-7705-4f91-8cf2-4d07a13d45d5",
+      "season": 8,
+      "number": 8,
+      "name": "Lejlighed til Lan Doky",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "9683dac6-a969-4457-ada5-97a2670dbb77",
+      "season": 9,
+      "number": 1,
+      "name": "Feriebolig til Erann DD",
+      "airdate": "2011-03-30"
+    },
+    {
+      "id": "60e0195c-e1b0-4841-9dfd-f65fbd4caf1f",
+      "season": 9,
+      "number": 2,
+      "name": "Pernille Sams chokerer",
+      "airdate": "2011-04-06"
+    },
+    {
+      "id": "865cf878-c3a0-49fe-9a65-878039786401",
+      "season": 9,
+      "number": 3,
+      "name": "Wimmers mange spørgsmål",
+      "airdate": "2011-04-13"
+    },
+    {
+      "id": "79f8e211-39cb-483c-b98a-f699f2f32626",
+      "season": 9,
+      "number": 4,
+      "name": "Liebhaveri med 250 år på bagen",
+      "airdate": "2011-04-20"
+    },
+    {
+      "id": "31aa4c97-fc59-4b4a-9755-6b072503264a",
+      "season": 9,
+      "number": 5,
+      "name": "Kunst på muren",
+      "airdate": "2011-05-04"
+    },
+    {
+      "id": "80b06df0-a4bd-443b-a802-45ae8b6bcff5",
+      "season": 9,
+      "number": 6,
+      "name": "Jan i Paris",
+      "airdate": "2011-05-11"
+    },
+    {
+      "id": "f7c10cf3-af1e-41ab-9b64-2ffe3d0d4fd1",
+      "season": 9,
+      "number": 7,
+      "name": "Fog besøger Tøfting",
+      "airdate": "2011-05-18"
+    },
+    {
+      "id": "33cc527e-d910-474f-a895-e6855921524b",
+      "season": 9,
+      "number": 8,
+      "name": "Wiinblads museum",
+      "airdate": "2011-06-01"
+    },
+    {
+      "id": "f1e82e69-0486-42dc-adfb-2bac6d3d0151",
+      "season": 9,
+      "number": 9,
+      "name": "Kontor i stuen?",
+      "airdate": "2011-06-15"
+    },
+    {
+      "id": "af1a4dc2-218c-4a90-a58e-2594ff0994a7",
+      "season": 9,
+      "number": 10,
+      "name": "Et hjem til Mrs. World",
+      "airdate": "2011-11-02"
+    },
+    {
+      "id": "92201e5d-7e33-4527-8930-29559087fcf9",
+      "season": 9,
+      "number": 11,
+      "name": "Rustikke Toscana",
+      "airdate": "2011-11-09"
+    },
+    {
+      "id": "d6a0af96-cccc-4770-8a4a-c1eb8890ef9c",
+      "season": 9,
+      "number": 12,
+      "name": "Hvad koster en havn?",
+      "airdate": "2011-11-16"
+    },
+    {
+      "id": "634938ef-85b6-49fd-ae44-cd252d807ad3",
+      "season": 9,
+      "number": 13,
+      "name": "Til møde hos Ryskjær",
+      "airdate": "2011-11-23"
+    },
+    {
+      "id": "c58bfc53-bc7d-4bb4-840d-191a6451e06f",
+      "season": 9,
+      "number": 14,
+      "name": "Hus eller lejlighed?",
+      "airdate": "2011-11-30"
+    },
+    {
+      "id": "2229365d-f162-4637-a4da-c32381c0060d",
+      "season": 10,
+      "number": 1,
+      "name": "En ny mægler!",
+      "airdate": "2012-01-04"
+    },
+    {
+      "id": "6c1c47a5-3ca9-45cc-84e1-c4b81545b333",
+      "season": 10,
+      "number": 2,
+      "name": "Anden række til vandet",
+      "airdate": "2012-01-11"
+    },
+    {
+      "id": "8e54cf6f-9f15-43d4-953b-ac6b6d1fed3f",
+      "season": 10,
+      "number": 3,
+      "name": "Modediktatorens landidyl",
+      "airdate": "2012-01-18"
+    },
+    {
+      "id": "4b80b1cb-68dc-45d9-9cdc-50d0c8f89b6b",
+      "season": 10,
+      "number": 4,
+      "name": "Dennis Knudsens skønne hus",
+      "airdate": "2012-01-25"
+    },
+    {
+      "id": "d3b20688-cac3-4389-864a-adfbb21c1195",
+      "season": 10,
+      "number": 5,
+      "name": "Luksuslejlighed i Nyhavn",
+      "airdate": "2012-02-01"
+    },
+    {
+      "id": "4a5889f5-d770-4fe9-a5f8-bcb5dff68da2",
+      "season": 10,
+      "number": 6,
+      "name": "Prisen på en kunstnervilla",
+      "airdate": "2012-02-08"
+    },
+    {
+      "id": "ad7d7a22-2288-438c-8b2b-6b6ab33869d8",
+      "season": 10,
+      "number": 7,
+      "name": "To fluer med ét smæk",
+      "airdate": "2012-02-15"
+    },
+    {
+      "id": "fe66cbe8-e459-4013-a39b-bd49914bcb4b",
+      "season": 10,
+      "number": 8,
+      "name": "Paris, c'est magnifique!",
+      "airdate": "2012-02-22"
+    },
+    {
+      "id": "11dd80dc-1df3-4bb9-bf30-e61eb5062a5a",
+      "season": 10,
+      "number": 9,
+      "name": "Sams på Sjællands Odde",
+      "airdate": "2012-03-07"
+    },
+    {
+      "id": "8f9183be-285b-4147-a4b6-82b86c0e218f",
+      "season": 10,
+      "number": 10,
+      "name": "Hus ved Themsen",
+      "airdate": "2012-03-14"
+    },
+    {
+      "id": "66f5a137-d5b4-426c-9fff-49b566c23644",
+      "season": 11,
+      "number": 1,
+      "name": "En bid af \"The Big Apple\"",
+      "airdate": "2013-01-02"
+    },
+    {
+      "id": "03668711-61f7-458b-9aad-d43edc598948",
+      "season": 11,
+      "number": 2,
+      "name": "Gang i forretningen",
+      "airdate": "2013-01-09"
+    },
+    {
+      "id": "cdd1666d-9641-48c7-a199-617bd4372a27",
+      "season": 11,
+      "number": 3,
+      "name": "Nyt hjem til Malena Belafonte",
+      "airdate": "2013-01-16"
+    },
+    {
+      "id": "5dec025b-3042-4dbc-8c24-efadd214fa4e",
+      "season": 11,
+      "number": 4,
+      "name": "Topmodel på boligjagt",
+      "airdate": "2013-01-30"
+    },
+    {
+      "id": "0e819957-11fb-48f0-b86c-d901c4707118",
+      "season": 11,
+      "number": 5,
+      "name": "Chelsea-lejlighed til 80 mio.",
+      "airdate": "2013-04-17"
+    },
+    {
+      "id": "47f00ddc-aa30-4cbb-8e33-6c149ec69866",
+      "season": 11,
+      "number": 6,
+      "name": "Hang til hockey og walk-in closets",
+      "airdate": "2013-04-24"
+    },
+    {
+      "id": "0b9cfe82-2877-4205-9c9b-1a87a6d89bd1",
+      "season": 11,
+      "number": 7,
+      "name": "Suste Bonnens karnaphus",
+      "airdate": "2013-05-01"
+    },
+    {
+      "id": "bc48c123-5e3a-4a03-b048-4ad5eeaef02b",
+      "season": 11,
+      "number": 8,
+      "name": "Lise Dandanells store gård",
+      "airdate": "2013-05-08"
+    },
+    {
+      "id": "875b65d6-6ed5-43c6-97ad-0b32350de43d",
+      "season": 12,
+      "number": 1,
+      "name": "Huffington Post-chef på boligkig",
+      "airdate": "2013-09-02"
+    },
+    {
+      "id": "0d24440b-50d1-4981-88fd-6b53a4664df6",
+      "season": 12,
+      "number": 2,
+      "name": "161 mio. for drømmmeboligen!",
+      "airdate": "2013-09-09"
+    },
+    {
+      "id": "8b92f464-5a68-4f38-bbd3-64d224800263",
+      "season": 12,
+      "number": 3,
+      "name": "Minimalisme eller luksus?",
+      "airdate": "2013-09-16"
+    },
+    {
+      "id": "841be8e9-14af-4a3c-99f4-71500c00179b",
+      "season": 12,
+      "number": 4,
+      "name": "Newyorker-hipsterhytte til ølbryggeren",
+      "airdate": "2013-09-23"
+    },
+    {
+      "id": "a1e894f1-546e-4519-8f05-faac376febd4",
+      "season": 12,
+      "number": 5,
+      "name": "Kyllingen sælger hus",
+      "airdate": "2013-09-30"
+    },
+    {
+      "id": "05b96e8a-ba76-467d-a83a-3e5d97d03adb",
+      "season": 12,
+      "number": 6,
+      "name": "Villum Jensens møllerhus",
+      "airdate": "2013-10-07"
+    },
+    {
+      "id": "706f4b96-dc3a-449a-8126-f2e66592c3d2",
+      "season": 13,
+      "number": 1,
+      "name": "Bettina gør sin research!",
+      "airdate": "2013-10-14"
+    },
+    {
+      "id": "9fa902b6-85bd-4798-ae8f-5be4ad41e59a",
+      "season": 13,
+      "number": 2,
+      "name": "Klaus Paghs villa",
+      "airdate": "2013-10-21"
+    },
+    {
+      "id": "89be1568-8afe-4605-840a-5730b6b6cdda",
+      "season": 13,
+      "number": 3,
+      "name": "Udsigt til Empire State Building",
+      "airdate": "2014-02-12"
+    },
+    {
+      "id": "e06b8723-016a-40d0-9dce-ae05c4c5d68d",
+      "season": 13,
+      "number": 4,
+      "name": "Stormfuld opgave med Christian Stadil",
+      "airdate": "2014-02-19"
+    },
+    {
+      "id": "0c15c706-ac37-49e6-9eff-42ce0a21dea6",
+      "season": 13,
+      "number": 5,
+      "name": "Ung og kræsen - med penge på lommen",
+      "airdate": "2014-02-26"
+    },
+    {
+      "id": "ddbb9a3d-05bd-426f-99e4-5604f48676f0",
+      "season": 13,
+      "number": 6,
+      "name": "Jan Fog yder nabohjælp",
+      "airdate": "2014-03-05"
+    },
+    {
+      "id": "0bdec60b-7327-43bf-8726-9b6ad9ba9c81",
+      "season": 13,
+      "number": 7,
+      "name": "Fløjtevirtuosens unikke hus",
+      "airdate": "2014-03-12"
+    }
+  ]
+}

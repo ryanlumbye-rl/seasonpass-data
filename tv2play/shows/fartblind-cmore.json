@@ -1,0 +1,164 @@
+{
+  "id": "tv2play:fartblind-cmore",
+  "name": "Fartblind",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "52c4b610-64ed-4f36-8036-6c9421c3c282",
+      "season": 1,
+      "number": 1,
+      "name": "Q3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1da06a90-bd42-45e1-acc8-15c8edf9f628",
+      "season": 1,
+      "number": 2,
+      "name": "MMV",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "45da65ae-bcc2-4d4a-a006-a9acca1f3bce",
+      "season": 1,
+      "number": 3,
+      "name": "All In",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d413c1fc-419a-4285-9246-94e38b630b76",
+      "season": 1,
+      "number": 4,
+      "name": "Farkas",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e163e205-b5ac-434f-981f-4355edcfb9d5",
+      "season": 1,
+      "number": 5,
+      "name": "Jagten",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "7154807a-f31e-4c49-ba9f-617207fe49a7",
+      "season": 1,
+      "number": 6,
+      "name": "48 timer",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5bc040a7-ff4a-4223-922e-d3455784b51e",
+      "season": 1,
+      "number": 7,
+      "name": "Afsked",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1f62cdde-03ec-4779-ad21-10fa3f6b02a7",
+      "season": 1,
+      "number": 8,
+      "name": "Elefanterne",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "42126ca3-9175-4789-b7ea-d0ef811ea86f",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b123203e-7705-4ae6-87e3-857a07b1db52",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "943fd06e-b4ae-4828-b780-19ead0470777",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "819e2ef5-2155-4218-a2d6-c94a00af974e",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6327c073-3294-4bef-96c8-4522ab3c69a2",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5d45e85b-16f7-4450-a8f0-5b2fba3026f2",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "45ed9796-dad0-4e16-a85f-7ded6474056d",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d10c08b1-29b6-4d34-b030-f585e099b31b",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5dc10cbd-84dc-45f1-9aaa-65186f267a4a",
+      "season": 3,
+      "number": 1,
+      "name": "Agenten - Del 1 af 2",
+      "airdate": "2025-04-23"
+    },
+    {
+      "id": "53c09478-fc54-44b8-b630-48111940c3a4",
+      "season": 3,
+      "number": 2,
+      "name": "Det frie ord - Del 2 af 2",
+      "airdate": "2025-04-23"
+    },
+    {
+      "id": "56edce61-37f8-4d4c-a67d-725605d5ffe0",
+      "season": 3,
+      "number": 3,
+      "name": "Rovdrift - Del 1 af 2",
+      "airdate": "2025-04-30"
+    },
+    {
+      "id": "2e3d9646-7a4e-4de0-b66e-cf7df7da71de",
+      "season": 3,
+      "number": 4,
+      "name": "Syndebuk - Del 2 af 2",
+      "airdate": "2025-04-30"
+    },
+    {
+      "id": "f1b5071c-bd29-478e-b2d0-d9decd93861d",
+      "season": 3,
+      "number": 5,
+      "name": "Logos - Del 1 af 2",
+      "airdate": "2025-05-07"
+    },
+    {
+      "id": "02052b0f-db72-40f0-af6e-3b0efe7b22ab",
+      "season": 3,
+      "number": 6,
+      "name": "Farkas - Del 2 af 2",
+      "airdate": "2025-05-07"
+    }
+  ]
+}

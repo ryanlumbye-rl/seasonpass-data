@@ -1,0 +1,94 @@
+{
+  "id": "tv2play:kaempemaskiner-slikfabrikken-oiii",
+  "name": "Kæmpemaskiner - Slikfabrikken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3bf49e09-836c-4eba-a76e-78697ec65e08",
+      "season": 1,
+      "number": 1,
+      "name": "Karameller",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "d09dbdd8-bff2-40ba-a48c-c6f2f1b45bfe",
+      "season": 1,
+      "number": 2,
+      "name": "Donuts",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "309654b4-0b2c-487c-b5c9-144a77998168",
+      "season": 1,
+      "number": 3,
+      "name": "Hindbærbolsjer",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "e1033a20-c4c8-4980-8de2-74345372007b",
+      "season": 1,
+      "number": 4,
+      "name": "Wienerbrød",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "176d215d-430e-4c90-a168-b513adc10dff",
+      "season": 1,
+      "number": 5,
+      "name": "Romkugler",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "33516270-870e-4a37-b013-7f3c544474db",
+      "season": 1,
+      "number": 6,
+      "name": "Marcipangrise",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "82d9d124-1f29-4fbe-bff2-f43c7326a4a2",
+      "season": 1,
+      "number": 7,
+      "name": "Vingummi",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "ead7ddf4-fd84-4dce-a360-86cba29b1e89",
+      "season": 1,
+      "number": 8,
+      "name": "Skumbananer",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "cb623f3e-a380-415f-8ed3-be36ca33f2bd",
+      "season": 1,
+      "number": 9,
+      "name": "Slikkepinde",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "6c4b0d06-08da-4e10-80c4-e0a6aca3a6cc",
+      "season": 1,
+      "number": 10,
+      "name": "Chokoladeæg",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "5dfb18dd-674f-40a1-b4ee-eb5945b492cb",
+      "season": 1,
+      "number": 11,
+      "name": "Tyggegummi",
+      "airdate": "2023-08-19"
+    },
+    {
+      "id": "bfeec792-d42f-42aa-ae45-dc69c3a5341d",
+      "season": 1,
+      "number": 12,
+      "name": "Ispinde",
+      "airdate": "2023-08-19"
+    }
+  ]
+}

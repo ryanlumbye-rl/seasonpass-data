@@ -1,0 +1,367 @@
+{
+  "id": "tv2play:patrick-stjerne-show-skyshowtime",
+  "name": "Patrick Stjerne Show",
+  "service": "skyshowtime",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-31",
+  "episodes": [
+    {
+      "id": "bf4f6f79-09b6-4927-9881-a8afc3599d97",
+      "season": 1,
+      "number": 1,
+      "name": "For sent til morgenmad",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d2f2fb96-90f0-4ccd-b437-605c9a590d56",
+      "season": 1,
+      "number": 2,
+      "name": "Trappekrigen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0310f16c-da8d-43c0-ab99-723e72df74af",
+      "season": 1,
+      "number": 3,
+      "name": "Forsvundet i sofaen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9c57e996-428c-4a4f-a465-dd379fcb29f7",
+      "season": 1,
+      "number": 4,
+      "name": "Loppemarkedet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d4aee046-3cda-4096-a8c0-dc6a7ee7e4d6",
+      "season": 1,
+      "number": 5,
+      "name": "Blækinas lille hjælper",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "37125587-c342-4029-83b7-7c5fcdf71b6c",
+      "season": 1,
+      "number": 6,
+      "name": "Ferie på tanken",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d8495ea9-8bfb-429a-becb-ae0a426c2b01",
+      "season": 1,
+      "number": 7,
+      "name": "Familien Stjernes hjemsøgte hus",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fd73eff7-1344-440f-bbab-895c91192d08",
+      "season": 1,
+      "number": 8,
+      "name": "Rædsler på havets bund",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c2a821f5-006d-406f-a8d2-5fcd2a25e911",
+      "season": 1,
+      "number": 9,
+      "name": "Til far og tilbage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "49596e29-f185-4e87-b89c-e312215e969b",
+      "season": 1,
+      "number": 10,
+      "name": "Lige til tiden til jul",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c49cbe0e-4d81-47b1-8303-80e5056e3ee0",
+      "season": 1,
+      "number": 11,
+      "name": "Fundet!",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e8ee149f-56a2-4a36-b88c-c58451ef8bfa",
+      "season": 1,
+      "number": 12,
+      "name": "Stjernen Perle",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "138b4e78-ca9d-49d1-8ba5-2ea7bac44a1e",
+      "season": 1,
+      "number": 13,
+      "name": "De nørdede nabolagsnyheder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "62ac572c-7b73-4b8c-9665-91ee8a681d0d",
+      "season": 1,
+      "number": 15,
+      "name": "Den utrobare rejse",
+      "airdate": "2023-10-12"
+    },
+    {
+      "id": "42d4dfd4-f572-4a71-ad4c-6658fee2e9b5",
+      "season": 1,
+      "number": 20,
+      "name": "Tankbankebanden",
+      "airdate": "2023-10-12"
+    },
+    {
+      "id": "57832883-48a8-4a10-8883-70168506d46d",
+      "season": 2,
+      "number": 1,
+      "name": "Patrick Star Shows store kasse",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "b72e9009-f54b-45bd-9c1b-d77fe6361ba1",
+      "season": 2,
+      "number": 2,
+      "name": "Superstjerner",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "5549bfac-b66b-4d6d-b53d-eaf84eb1b59f",
+      "season": 2,
+      "number": 3,
+      "name": "10 & 1 toiletter",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "9574be74-675a-449e-8e43-a926fcfeb5f3",
+      "season": 2,
+      "number": 4,
+      "name": "Shmandors vrede",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "1847177a-7e7c-4000-9a5c-312e3bf97f9e",
+      "season": 2,
+      "number": 5,
+      "name": "Filmstjerner",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "a517dbf9-14df-470e-8bea-b1034bd410a9",
+      "season": 2,
+      "number": 6,
+      "name": "Helt på spanden",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "3eff7dc5-b868-485a-8dd7-960bfc603a61",
+      "season": 2,
+      "number": 7,
+      "name": "Spandevis af ting at nå",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "7168a328-71b9-4f0b-b240-53be7059a033",
+      "season": 2,
+      "number": 8,
+      "name": "Er der en instruktør til stede?",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "e1596dc4-2a61-4d1e-baf0-27a101bb8c03",
+      "season": 2,
+      "number": 9,
+      "name": "Serveres iskold",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "33047118-2a88-498b-8e22-50d4836ced69",
+      "season": 2,
+      "number": 10,
+      "name": "For mange Patricker",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "7ac44375-7a07-4e1a-8b20-619bd004b5aa",
+      "season": 2,
+      "number": 11,
+      "name": "Patricks ommodulering",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "0305617b-676a-4bd7-9b2b-b9f7a249d1db",
+      "season": 2,
+      "number": 12,
+      "name": "Choko-chok",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "9095ac52-0ec1-4d57-a3d4-3a82a2bb2985",
+      "season": 2,
+      "number": 13,
+      "name": "Spisetid",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "e30719b9-fc27-4d66-a4e7-b1d0d4bcfe39",
+      "season": 3,
+      "number": 1,
+      "name": "Spasbøtten",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "cfeffdf3-eaf7-4308-b536-049fde7a28c7",
+      "season": 3,
+      "number": 2,
+      "name": "En shoppe top tur",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "08c8f6fb-bdfc-4c30-9da0-ad25985b4d4d",
+      "season": 3,
+      "number": 3,
+      "name": "Stjernetræning",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "af227c58-995e-4d44-83b4-15443ce90afe",
+      "season": 3,
+      "number": 4,
+      "name": "Patrick Show Land",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "0c588fc4-1baf-4983-b138-cecf2fdcd5f2",
+      "season": 3,
+      "number": 5,
+      "name": "Ude at køre med de skøre",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "aa119245-7687-4c36-afd7-fc8fb111f37f",
+      "season": 3,
+      "number": 6,
+      "name": "De bøvede bude",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "3e8729fb-d034-412f-882f-2a2ea8c83c0d",
+      "season": 3,
+      "number": 7,
+      "name": "Patty Mus",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "319fe50a-b9b1-46ee-b8b9-84eb2893ea4a",
+      "season": 3,
+      "number": 8,
+      "name": "Patri-komik",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "bfc2a58b-fc8f-471a-9cce-2d9041f39e50",
+      "season": 3,
+      "number": 9,
+      "name": "Jagten på idémurstenen",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "09a00a15-2fb7-411f-8097-d09f3dc6f172",
+      "season": 3,
+      "number": 10,
+      "name": "Noget tåbeligt er på vej",
+      "airdate": "2026-01-28"
+    },
+    {
+      "id": "78a9d259-cfd2-4bdb-a50f-7a2a2d514ede",
+      "season": 3,
+      "number": 11,
+      "name": "Nej tak til Thanksgiving",
+      "airdate": "2026-01-28"
+    },
+    {
+      "id": "58aefa9d-dc90-471f-8c5b-782f6571ea4b",
+      "season": 3,
+      "number": 12,
+      "name": "Man gjorde et søpindsvin fortræd",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "72c9d2b5-8af6-4530-844d-12617ab4c49c",
+      "season": 3,
+      "number": 13,
+      "name": "Blækinas julespecial",
+      "airdate": "2026-01-28"
+    },
+    {
+      "id": "7ad53fa9-e0cf-448b-85d1-ef0031b9ccb8",
+      "season": 4,
+      "number": 1,
+      "name": "Komedieseriestjerner",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "0a97f956-cb3d-4a4d-9c9c-de488264b7ac",
+      "season": 4,
+      "number": 2,
+      "name": "Bedster med slag i",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "f989d930-78c1-4957-ab71-e1527c12baed",
+      "season": 4,
+      "number": 3,
+      "name": "Toilet til tiden",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "b2a02542-1da7-4869-84bb-4cd6334fe000",
+      "season": 4,
+      "number": 4,
+      "name": "Husknuserne",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "d02dcd28-25d1-4b00-ac0c-f2bf21507c4b",
+      "season": 4,
+      "number": 5,
+      "name": "Hvem hjemsøger hvem?",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "4feae4b6-a69f-45b3-b1dc-8f2e8e56658d",
+      "season": 4,
+      "number": 6,
+      "name": "Søstjerne-gal",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "e692259c-2183-4c48-b656-9703162ae8eb",
+      "season": 4,
+      "number": 7,
+      "name": "Dyre lærepenge",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "be0a96b7-7377-42d7-aedc-d0ec6317cedc",
+      "season": 4,
+      "number": 8,
+      "name": "Patrick-aton",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "c39c3438-0181-496f-9028-79f12dc16fae",
+      "season": 4,
+      "number": 9,
+      "name": "Quasar går rumagurk",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "b4190db7-ad87-487a-bc44-96b3402085b9",
+      "season": 4,
+      "number": 10,
+      "name": "Næsten helt sikker",
+      "airdate": "2026-06-27"
+    }
+  ]
+}

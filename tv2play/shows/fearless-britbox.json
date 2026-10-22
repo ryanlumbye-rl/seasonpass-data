@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:fearless-britbox",
+  "name": "Fearless",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "97fb8db8-6500-40d7-833e-e72faca803c1",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "12d6a888-d4c7-450c-b156-02cb1ce66545",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "c3b3121f-326c-4bd0-aa8c-ded495c9275a",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "0c422f76-ca3d-4786-8980-e47c6d07d73d",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "daec7f68-a94a-48b6-bacb-e05d9a4e2055",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "0be840a9-06c8-4842-88b4-fdc76178cb1b",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-02-26"
+    }
+  ]
+}

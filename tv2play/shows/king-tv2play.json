@@ -1,0 +1,38 @@
+{
+  "id": "tv2play:king-tv2play",
+  "name": "King",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "bed14cb5-6fb7-4fbb-821c-21e3697ef7a9",
+      "season": 1,
+      "number": 1,
+      "name": "Første skridt",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "90d8fb30-0103-4305-847b-8c6eebf7589e",
+      "season": 1,
+      "number": 2,
+      "name": "Er det her pengeskabet?",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "7c082133-1e36-4ae4-a5bb-00c3314f8174",
+      "season": 1,
+      "number": 3,
+      "name": "En tur til Marbella",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "bb7dbd75-b082-430d-bdf7-de3c493d87a0",
+      "season": 1,
+      "number": 4,
+      "name": "Succesens pris",
+      "airdate": "2026-01-02"
+    }
+  ]
+}

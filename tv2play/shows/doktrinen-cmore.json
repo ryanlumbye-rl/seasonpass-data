@@ -1,0 +1,52 @@
+{
+  "id": "tv2play:doktrinen-cmore",
+  "name": "Doktrinen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "427eb32d-6daa-4363-861a-b5af05a80461",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-11-12"
+    },
+    {
+      "id": "3b9ee086-e774-47b5-a019-2bb3323b6c60",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-11-12"
+    },
+    {
+      "id": "e8451e15-77de-456e-bdb6-616bb565adb3",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-11-12"
+    },
+    {
+      "id": "b59dfbd3-4391-43fd-845c-b678cc97b02e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-11-19"
+    },
+    {
+      "id": "492404a5-ccd4-4fce-a3ce-a2b7d348dda7",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-11-26"
+    },
+    {
+      "id": "9f26e07a-7836-4880-9600-3045c96ab78d",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-12-03"
+    }
+  ]
+}

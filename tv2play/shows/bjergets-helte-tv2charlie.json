@@ -1,0 +1,1410 @@
+{
+  "id": "tv2play:bjergets-helte-tv2charlie",
+  "name": "Bjergets helte",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "29d06831-ad28-417f-9a0f-95697997bf75",
+      "season": 1,
+      "number": 1,
+      "name": "Das Versprechen",
+      "airdate": "2023-12-19"
+    },
+    {
+      "id": "1edbd2d9-a61b-432d-93b7-ce99cea86969",
+      "season": 1,
+      "number": 2,
+      "name": "Schmerzhafte Erinnerung",
+      "airdate": "2023-12-20"
+    },
+    {
+      "id": "bb6076fa-674a-4452-ab9b-e9b6101e1648",
+      "season": 1,
+      "number": 3,
+      "name": "Jetzt oder nie",
+      "airdate": "2023-12-21"
+    },
+    {
+      "id": "091d8816-9195-4ae8-9a93-70f18f369bca",
+      "season": 1,
+      "number": 4,
+      "name": "Was bleibt",
+      "airdate": "2023-12-22"
+    },
+    {
+      "id": "ec1e3ab6-c5d7-4cd3-9bbc-6161c8b13867",
+      "season": 2,
+      "number": 1,
+      "name": "Falsches Spiel",
+      "airdate": "2023-12-25"
+    },
+    {
+      "id": "950e220c-4367-4f8c-b557-4eb6fc148d59",
+      "season": 2,
+      "number": 2,
+      "name": "Hoffnungsschimmer",
+      "airdate": "2023-12-26"
+    },
+    {
+      "id": "591c71ca-09d9-4a4f-a75f-9d5c97e48081",
+      "season": 2,
+      "number": 3,
+      "name": "Verzweiflungstat",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "d1770449-d3cb-43dc-9ce9-c8542737338f",
+      "season": 2,
+      "number": 4,
+      "name": "Falsche Fährte",
+      "airdate": "2023-12-28"
+    },
+    {
+      "id": "e9ebbd10-097e-4850-9892-76cf60757bc4",
+      "season": 2,
+      "number": 5,
+      "name": "Freundschaftsdienst",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "44cf1239-9e6e-4d1f-be19-3d473176bd52",
+      "season": 2,
+      "number": 6,
+      "name": "Auf der Flucht",
+      "airdate": "2024-01-01"
+    },
+    {
+      "id": "a5ab7119-7ed5-4d4b-ade4-63261d9b4f96",
+      "season": 2,
+      "number": 7,
+      "name": "Der verlorene Sohn",
+      "airdate": "2024-01-02"
+    },
+    {
+      "id": "de15a134-4a7b-47fc-bbbe-6e4724b273e6",
+      "season": 2,
+      "number": 8,
+      "name": "Bruchlandung",
+      "airdate": "2024-01-03"
+    },
+    {
+      "id": "5d9e33f3-86a1-4a62-8bc2-6a8413e120f3",
+      "season": 2,
+      "number": 9,
+      "name": "Spurlos verschwunden",
+      "airdate": "2024-01-04"
+    },
+    {
+      "id": "50f0584f-93d0-4388-9698-d8f99420feb7",
+      "season": 2,
+      "number": 10,
+      "name": "Gefährliche Affäre",
+      "airdate": "2024-01-05"
+    },
+    {
+      "id": "d262ae88-457f-4cc8-a7d6-cf9cb3a46609",
+      "season": 2,
+      "number": 11,
+      "name": "Brautflucht",
+      "airdate": "2024-01-08"
+    },
+    {
+      "id": "95c17543-eeb6-474d-a793-9b3abee373cf",
+      "season": 2,
+      "number": 12,
+      "name": "Nur die Hoffnung zählt",
+      "airdate": "2024-01-09"
+    },
+    {
+      "id": "384c373c-d87b-46ec-99ad-90a4fa28281e",
+      "season": 3,
+      "number": 1,
+      "name": "Goldrausch - del 1",
+      "airdate": "2024-01-10"
+    },
+    {
+      "id": "771ffa37-e102-4d79-a37d-a25bf9489eb2",
+      "season": 3,
+      "number": 2,
+      "name": "Goldrausch - del 2",
+      "airdate": "2024-01-11"
+    },
+    {
+      "id": "81f49643-03f1-47ee-bd47-a879ae679bfa",
+      "season": 3,
+      "number": 3,
+      "name": "Sicht gleich Null - del 1",
+      "airdate": "2024-01-12"
+    },
+    {
+      "id": "d0cfe31c-16f7-4196-bf2c-2256bb7bdb31",
+      "season": 3,
+      "number": 4,
+      "name": "Sicht gleich Null - del 2",
+      "airdate": "2024-01-15"
+    },
+    {
+      "id": "f3fe4ff0-6f72-47de-9893-752f3fa0e988",
+      "season": 3,
+      "number": 5,
+      "name": "Steinschlag - del 1",
+      "airdate": "2024-01-16"
+    },
+    {
+      "id": "1e2a69e0-6039-4e13-bc45-f952ef063864",
+      "season": 3,
+      "number": 6,
+      "name": "Steinschlag - del 2",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "e05a7a73-feb2-4b6f-944b-b164105690c7",
+      "season": 3,
+      "number": 7,
+      "name": "Die Hoffnung stirbt zuletzt - del 1",
+      "airdate": "2024-01-18"
+    },
+    {
+      "id": "30b3aa4f-9d96-40d6-a685-0614cd8fdc97",
+      "season": 3,
+      "number": 8,
+      "name": "Die Hoffnung stirbt zuletzt - del 2",
+      "airdate": "2024-01-19"
+    },
+    {
+      "id": "9757a8ae-76cc-44bc-b3be-683ca6db3813",
+      "season": 3,
+      "number": 9,
+      "name": "Mit dem Rücken zur Wand - del 1",
+      "airdate": "2024-01-22"
+    },
+    {
+      "id": "8b21fd0f-f79d-42d5-ab52-0eb98e73b72e",
+      "season": 3,
+      "number": 10,
+      "name": "Mit dem Rücken zur Wand - del 2",
+      "airdate": "2024-01-23"
+    },
+    {
+      "id": "22d180bb-5277-476b-9c4f-1d634dcfb002",
+      "season": 4,
+      "number": 1,
+      "name": "Tödliches Vertrauen - del 1",
+      "airdate": "2024-01-24"
+    },
+    {
+      "id": "3a97abdb-88a3-4d98-8e6e-937342ac33f5",
+      "season": 4,
+      "number": 2,
+      "name": "Tödliches Vertrauen - del 2",
+      "airdate": "2024-01-25"
+    },
+    {
+      "id": "7253b795-0c8f-48fb-bb1e-aad55c586e7f",
+      "season": 4,
+      "number": 3,
+      "name": "Wilde Wasser - del 1",
+      "airdate": "2024-01-26"
+    },
+    {
+      "id": "218b980e-c8db-42ca-b5a5-4e542d4541d2",
+      "season": 4,
+      "number": 4,
+      "name": "Wilde Wasser - del 2",
+      "airdate": "2024-01-29"
+    },
+    {
+      "id": "8388daca-a644-44b4-bfd5-c6add86c5657",
+      "season": 4,
+      "number": 5,
+      "name": "Der Tote im Berg - del 1",
+      "airdate": "2024-01-30"
+    },
+    {
+      "id": "5993455a-1e00-45d4-b47a-c42ba4748995",
+      "season": 4,
+      "number": 6,
+      "name": "Der Tote im Berg - del 2",
+      "airdate": "2024-01-31"
+    },
+    {
+      "id": "e9704266-8b95-48ab-8780-f1d3a6266fc6",
+      "season": 4,
+      "number": 7,
+      "name": "Spurlos - del 1",
+      "airdate": "2024-02-01"
+    },
+    {
+      "id": "70cac3c7-bb39-49c5-8402-98e55ef934c6",
+      "season": 4,
+      "number": 8,
+      "name": "Spurlos - del 2",
+      "airdate": "2024-02-02"
+    },
+    {
+      "id": "24fa53a0-f04a-4a2d-9327-0e1e73e384a0",
+      "season": 4,
+      "number": 9,
+      "name": "Filmriss - del 1",
+      "airdate": "2024-02-05"
+    },
+    {
+      "id": "9c9a3911-de71-4202-adb0-33d2e287f674",
+      "season": 4,
+      "number": 10,
+      "name": "Filmriss - del 2",
+      "airdate": "2024-02-06"
+    },
+    {
+      "id": "2ba82b9d-7917-4cf1-8bde-9de145793491",
+      "season": 5,
+      "number": 1,
+      "name": "Tödliche Abgründe - del 1",
+      "airdate": "2024-02-07"
+    },
+    {
+      "id": "b1581af5-25b8-4495-89f9-8d74a17a432f",
+      "season": 5,
+      "number": 2,
+      "name": "Tödliche Abgründe - del 2",
+      "airdate": "2024-02-08"
+    },
+    {
+      "id": "656d9db8-f91a-43f9-93dd-613ed5221ad9",
+      "season": 5,
+      "number": 3,
+      "name": "Gefangen im Dunkel - del 1",
+      "airdate": "2024-02-09"
+    },
+    {
+      "id": "0d32e768-2117-4264-8a06-c94bfeaae70a",
+      "season": 5,
+      "number": 4,
+      "name": "Gefangen im Dunkel - del 2",
+      "airdate": "2024-02-12"
+    },
+    {
+      "id": "70ddd60e-66d8-4b2a-a0c0-78e40a4d1a2f",
+      "season": 5,
+      "number": 5,
+      "name": "Der vermisste Sohn - del 1",
+      "airdate": "2024-02-13"
+    },
+    {
+      "id": "2fc75c8a-f18e-4e06-a361-f32c01842318",
+      "season": 5,
+      "number": 6,
+      "name": "Der vermisste Sohn - del 2",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "100bceb9-ceab-4878-b25d-0e55236cf1d1",
+      "season": 5,
+      "number": 7,
+      "name": "Das fremde Mädchen - del 1",
+      "airdate": "2024-02-15"
+    },
+    {
+      "id": "22c01b9b-eb02-49ad-80a2-11624a9a996c",
+      "season": 5,
+      "number": 8,
+      "name": "Das fremde Mädchen - del 2",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "f75544a6-558a-4dbd-a502-99ddd48c6c39",
+      "season": 5,
+      "number": 9,
+      "name": "Abgerauscht - del 1",
+      "airdate": "2024-02-19"
+    },
+    {
+      "id": "33ec007f-2e2b-4a05-8270-22c8b6b5fb63",
+      "season": 5,
+      "number": 10,
+      "name": "Abgerauscht - del 2",
+      "airdate": "2024-02-20"
+    },
+    {
+      "id": "c47feb21-db01-4f98-bb81-fee1053ad3bc",
+      "season": 5,
+      "number": 11,
+      "name": "Eishochzeit - del 1",
+      "airdate": "2024-02-21"
+    },
+    {
+      "id": "6442aad1-0ac2-4042-ab34-5a2f6992d8c4",
+      "season": 5,
+      "number": 12,
+      "name": "Eishochzeit - del 2",
+      "airdate": "2024-02-22"
+    },
+    {
+      "id": "7b90e40e-de61-4b67-ae76-3b8648449038",
+      "season": 6,
+      "number": 1,
+      "name": "Mit letzter Kraft - del 1",
+      "airdate": "2024-02-23"
+    },
+    {
+      "id": "e419f6d9-8b9b-44db-8f8b-235b59c02ade",
+      "season": 6,
+      "number": 2,
+      "name": "Mit letzter Kraft - del 2",
+      "airdate": "2024-02-26"
+    },
+    {
+      "id": "10abe260-9c0e-4533-8e71-fba59325f327",
+      "season": 6,
+      "number": 3,
+      "name": "Verschollen - del 1",
+      "airdate": "2024-02-27"
+    },
+    {
+      "id": "e978bf07-72e7-498d-be49-e9eea715736b",
+      "season": 6,
+      "number": 4,
+      "name": "Verschollen - del 2",
+      "airdate": "2024-02-28"
+    },
+    {
+      "id": "35a3a4d0-d118-4da5-908d-73cd60676154",
+      "season": 6,
+      "number": 5,
+      "name": "Lebensmüde - del 1",
+      "airdate": "2024-02-29"
+    },
+    {
+      "id": "4d68c394-e7bb-40cc-b3f0-fc63e67c593b",
+      "season": 6,
+      "number": 6,
+      "name": "Lebensmüde - del 2",
+      "airdate": "2024-03-01"
+    },
+    {
+      "id": "7658b52d-fdb1-47c1-8844-200d336a0b1d",
+      "season": 6,
+      "number": 7,
+      "name": "Wettersturz - del 1",
+      "airdate": "2024-03-04"
+    },
+    {
+      "id": "742aefde-a44e-4f06-bc2b-7da592433394",
+      "season": 6,
+      "number": 8,
+      "name": "Wettersturz - del 2",
+      "airdate": "2024-03-05"
+    },
+    {
+      "id": "9206a8f6-f58d-45d7-b1c5-8b4bc1f9d03a",
+      "season": 6,
+      "number": 9,
+      "name": "Gefangen im Eis - del 1",
+      "airdate": "2024-03-06"
+    },
+    {
+      "id": "17851348-f4d5-46cd-9b0e-eff0bc99770c",
+      "season": 6,
+      "number": 10,
+      "name": "Gefangen im Eis - del 2",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "599ecbc2-265e-4aac-91a8-96c451125253",
+      "season": 6,
+      "number": 11,
+      "name": "Abgeschnitten - del 1",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "14b2d5ec-abde-4d91-aa1d-a9d8f53ecbfb",
+      "season": 6,
+      "number": 12,
+      "name": "Abgeschnitten - del 2",
+      "airdate": "2024-03-11"
+    },
+    {
+      "id": "608bc638-ff4c-4553-9866-b8b3dbe53959",
+      "season": 7,
+      "number": 1,
+      "name": "Kein Weg zurück - del 1",
+      "airdate": "2024-03-12"
+    },
+    {
+      "id": "ba123ee5-7358-4889-9941-c3a290d04b4b",
+      "season": 7,
+      "number": 2,
+      "name": "Kein Weg zurück - del 2",
+      "airdate": "2024-03-13"
+    },
+    {
+      "id": "f85c841b-e0ac-4196-8713-319fa6a0b52c",
+      "season": 7,
+      "number": 3,
+      "name": "Mutterseelenallein - del 1",
+      "airdate": "2024-03-14"
+    },
+    {
+      "id": "299bfc49-8433-4074-b7c2-35030935bb51",
+      "season": 7,
+      "number": 4,
+      "name": "Mutterseelenallein - del 2",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "1fe13efa-d0e7-4605-9982-a6f6adc5e845",
+      "season": 7,
+      "number": 5,
+      "name": "Auf der Kippe - del 1",
+      "airdate": "2024-03-18"
+    },
+    {
+      "id": "73f1228f-aff6-4838-9205-8ea237e391a1",
+      "season": 7,
+      "number": 6,
+      "name": "Auf der Kippe - del 2",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "b51b05c0-71c8-4385-a1d1-8f4c70d41081",
+      "season": 7,
+      "number": 7,
+      "name": "Zwischen Himmel und Hölle - del 1",
+      "airdate": "2024-03-20"
+    },
+    {
+      "id": "d73334c9-130f-487d-8aa0-71de3991a832",
+      "season": 7,
+      "number": 8,
+      "name": "Zwischen Himmel und Hölle - del 2",
+      "airdate": "2024-03-21"
+    },
+    {
+      "id": "f050f92a-8efb-4d58-82bb-7ea1cc33c7c7",
+      "season": 7,
+      "number": 9,
+      "name": "Losgetreten - del 1",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "3b4741b1-ea2b-4fa2-89c8-9a3556f10443",
+      "season": 7,
+      "number": 10,
+      "name": "Losgetreten - del 2",
+      "airdate": "2024-03-25"
+    },
+    {
+      "id": "55b8fe28-e023-46a6-9c37-ddaceff4b1d9",
+      "season": 7,
+      "number": 11,
+      "name": "Atemlos - del 1",
+      "airdate": "2024-03-26"
+    },
+    {
+      "id": "03731bb8-b6ca-481a-8b7e-a507426bd4cc",
+      "season": 7,
+      "number": 12,
+      "name": "Atemlos - del 2",
+      "airdate": "2024-03-27"
+    },
+    {
+      "id": "de027126-3c7a-47b8-9e72-9e9dd7c2e909",
+      "season": 8,
+      "number": 1,
+      "name": "Achillesferse - del 1",
+      "airdate": "2024-03-28"
+    },
+    {
+      "id": "155ef6a3-604e-413f-bae2-6305bfe49b90",
+      "season": 8,
+      "number": 2,
+      "name": "Achillesferse - del 2",
+      "airdate": "2024-03-29"
+    },
+    {
+      "id": "47177301-cd7a-41e1-bc57-b0f1f3a28a9f",
+      "season": 8,
+      "number": 3,
+      "name": "Tabula Rasa - del 1",
+      "airdate": "2024-04-01"
+    },
+    {
+      "id": "afa3d0ae-4be6-4ad1-97f5-7cb1e39b08eb",
+      "season": 8,
+      "number": 4,
+      "name": "Tabula Rasa - del 2",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "ba286c5e-7fae-4399-a81f-a1c906bdaa85",
+      "season": 8,
+      "number": 5,
+      "name": "Hannibal - del 1",
+      "airdate": "2024-04-03"
+    },
+    {
+      "id": "f2f55a15-069b-4929-bc56-ee6bba8d42dc",
+      "season": 8,
+      "number": 6,
+      "name": "Hannibal - del 2",
+      "airdate": "2024-04-04"
+    },
+    {
+      "id": "4577b3ba-078d-4035-ac48-c6fd0f9c247f",
+      "season": 8,
+      "number": 7,
+      "name": "Der Termin - del 1",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "3dff9cfe-8ebb-4480-87b8-fd9335ccefe9",
+      "season": 8,
+      "number": 8,
+      "name": "Der Termin -del 2",
+      "airdate": "2024-04-08"
+    },
+    {
+      "id": "0906b912-a59f-4283-98e4-d1b51b18648e",
+      "season": 8,
+      "number": 9,
+      "name": "Zu kurz gekommen - del 1",
+      "airdate": "2024-04-09"
+    },
+    {
+      "id": "b1ecbfb0-0b90-4214-b52a-d8b7a43316f8",
+      "season": 8,
+      "number": 10,
+      "name": "Zu kurz gekommen - del 2",
+      "airdate": "2024-04-10"
+    },
+    {
+      "id": "8270559b-6f95-4eb8-ba72-00a1815b6d90",
+      "season": 8,
+      "number": 11,
+      "name": "Schneeblind - del 1",
+      "airdate": "2024-04-11"
+    },
+    {
+      "id": "d3175ccb-4148-46d5-9147-0a0df844b453",
+      "season": 8,
+      "number": 12,
+      "name": "Schneeblind - del 2",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "41a04eba-2e3b-4c12-ad55-348ca5ed66a2",
+      "season": 9,
+      "number": 1,
+      "name": "Am Abgrund - del 1",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "e5d655c1-e713-4694-962a-5759881d2c6b",
+      "season": 9,
+      "number": 2,
+      "name": "Am Abgrund - del 2",
+      "airdate": "2024-04-16"
+    },
+    {
+      "id": "c8f3efd4-7ee7-462a-8ed0-5cb8a46a8fa2",
+      "season": 9,
+      "number": 3,
+      "name": "Entzug - del 1",
+      "airdate": "2024-04-17"
+    },
+    {
+      "id": "f741da76-31a5-496d-90cf-35290022a0d2",
+      "season": 9,
+      "number": 4,
+      "name": "Entzug - del 2",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "7ecb0fff-78dd-414f-92fd-c4b64f8d5d2e",
+      "season": 9,
+      "number": 5,
+      "name": "Ohne Aussicht - del 1",
+      "airdate": "2024-04-19"
+    },
+    {
+      "id": "f9339b03-2fbd-469c-8468-7610fb457b6c",
+      "season": 9,
+      "number": 6,
+      "name": "Ohne Aussicht - del 2",
+      "airdate": "2024-04-22"
+    },
+    {
+      "id": "867fe732-c8fe-4f63-a728-fe859a25c0f9",
+      "season": 9,
+      "number": 7,
+      "name": "Mutterliebe - del 1",
+      "airdate": "2024-04-23"
+    },
+    {
+      "id": "29b17f74-510d-453c-a72e-c8c3b95c702c",
+      "season": 9,
+      "number": 8,
+      "name": "Mutterliebe - del 2",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "f76c0b3f-75f9-4bde-ad3b-da55ac77f0df",
+      "season": 9,
+      "number": 9,
+      "name": "Entscheidung im Eis - del 1",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "8db35429-24d6-42a3-a403-75f277c0254d",
+      "season": 9,
+      "number": 10,
+      "name": "Entscheidung im Eis - del 2",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "ecb5b9bf-04fc-43fb-9090-b303ec04ac31",
+      "season": 9,
+      "number": 11,
+      "name": "Winterkind - del 1",
+      "airdate": "2024-04-29"
+    },
+    {
+      "id": "fc5d12d6-9df0-4344-86e8-621aaee17773",
+      "season": 9,
+      "number": 12,
+      "name": "Winterkind - del 2",
+      "airdate": "2024-04-30"
+    },
+    {
+      "id": "f71395c6-0a9a-45f4-afba-f73e0c950b21",
+      "season": 10,
+      "number": 1,
+      "name": "Sorgerecht - del 1",
+      "airdate": "2024-05-01"
+    },
+    {
+      "id": "ea9626d9-d09e-44b5-82a9-677403f01842",
+      "season": 10,
+      "number": 2,
+      "name": "Sorgerecht - del 2",
+      "airdate": "2024-05-02"
+    },
+    {
+      "id": "a8216e94-f0a8-4ca8-aded-02bce8bc5e3f",
+      "season": 10,
+      "number": 3,
+      "name": "Das Glück ist ein Schmetterling - del 1",
+      "airdate": "2024-05-03"
+    },
+    {
+      "id": "23dc4e08-faf4-43ba-81d8-ad8ca4b9ffe0",
+      "season": 10,
+      "number": 4,
+      "name": "Das Glück ist ein Schmetterling - del 2",
+      "airdate": "2024-05-06"
+    },
+    {
+      "id": "d8af1660-9ef0-4faa-baad-444167e58f66",
+      "season": 10,
+      "number": 5,
+      "name": "Der gekaufte Winter - del 1",
+      "airdate": "2024-05-07"
+    },
+    {
+      "id": "61716b17-04ef-4372-abc5-90c0819b84c7",
+      "season": 10,
+      "number": 6,
+      "name": "Der gekaufte Winter - del 2",
+      "airdate": "2024-05-08"
+    },
+    {
+      "id": "83ea4f1e-baff-477e-b785-a5abd3065da3",
+      "season": 10,
+      "number": 7,
+      "name": "Abschied für immer - del 1",
+      "airdate": "2024-05-09"
+    },
+    {
+      "id": "a845b9da-6b06-4ae1-aa95-36cac5b7d391",
+      "season": 10,
+      "number": 8,
+      "name": "Abschied für immer - del 2",
+      "airdate": "2024-05-10"
+    },
+    {
+      "id": "d219efef-8bf7-4cfa-90bd-e0e71c528a32",
+      "season": 10,
+      "number": 9,
+      "name": "Letzte Hoffnung - del 1",
+      "airdate": "2024-05-13"
+    },
+    {
+      "id": "b3e794de-f2b4-46db-82b6-2f6f4c800c85",
+      "season": 10,
+      "number": 10,
+      "name": "Letzte Hoffnung - del 2",
+      "airdate": "2024-05-14"
+    },
+    {
+      "id": "779aa55a-d7aa-4f25-b38b-ead732c74116",
+      "season": 10,
+      "number": 11,
+      "name": "Verbotene Liebe - del 1",
+      "airdate": "2024-05-15"
+    },
+    {
+      "id": "cd49c058-853a-4fcd-9bbf-da25f6eb5547",
+      "season": 10,
+      "number": 12,
+      "name": "Verbotene Liebe - del 2",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "d081e4d2-5c5d-4376-95d6-b4a3c1ceb767",
+      "season": 10,
+      "number": 13,
+      "name": "Entführt - del 1",
+      "airdate": "2024-05-17"
+    },
+    {
+      "id": "e6f12a5d-9c35-4eb7-9dfe-e1e7b0a487eb",
+      "season": 10,
+      "number": 14,
+      "name": "Entführt - del 2",
+      "airdate": "2024-05-20"
+    },
+    {
+      "id": "ac47f4dc-d179-4080-99ef-833597af988c",
+      "season": 11,
+      "number": 1,
+      "name": "Wiedersehen - del 1",
+      "airdate": "2024-05-21"
+    },
+    {
+      "id": "bd3dc5a8-b698-4fd9-84a6-0803c44e947d",
+      "season": 11,
+      "number": 2,
+      "name": "Wiedersehen - del 2",
+      "airdate": "2024-05-22"
+    },
+    {
+      "id": "1004b855-15af-4a95-8a43-4cb062f7374f",
+      "season": 11,
+      "number": 3,
+      "name": "Tod am Dachstein - del 1",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "92616493-40e4-4ea7-88ae-d38a670b4c7c",
+      "season": 11,
+      "number": 4,
+      "name": "Tod am Dachstein - del 2",
+      "airdate": "2024-05-24"
+    },
+    {
+      "id": "f9830c4f-b16e-4b81-bef8-cf9303ccaa2d",
+      "season": 11,
+      "number": 5,
+      "name": "Herzschmerz - del 1",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "12dbf55b-cdfa-40be-b2ec-84256d6f2535",
+      "season": 11,
+      "number": 6,
+      "name": "Herzschmerz - del 2",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "ffd4d542-d5a0-48bd-b613-09cdf36341b2",
+      "season": 11,
+      "number": 7,
+      "name": "Über den Wolken - del 1",
+      "airdate": "2024-05-29"
+    },
+    {
+      "id": "be7b5df2-4695-4a67-a141-9d91cd351595",
+      "season": 11,
+      "number": 8,
+      "name": "Über den Wolken - del 2",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "929d9e50-9482-4237-9bc6-387027c916b9",
+      "season": 11,
+      "number": 9,
+      "name": "Mutterglück - del 1",
+      "airdate": "2024-05-31"
+    },
+    {
+      "id": "ee9b19e6-80c2-49f3-aaf1-b0f1ad03e0d8",
+      "season": 11,
+      "number": 10,
+      "name": "Mutterglück - del 2",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "bc52fb4c-6ab1-4ca0-8af8-555f20e25cf6",
+      "season": 11,
+      "number": 11,
+      "name": "Letzter Wille - del 1",
+      "airdate": "2024-06-04"
+    },
+    {
+      "id": "791b8527-b9ae-4c80-ae32-35ad651ff2b0",
+      "season": 11,
+      "number": 12,
+      "name": "Letzter Wille - del 2",
+      "airdate": "2024-06-05"
+    },
+    {
+      "id": "2dfdef61-9936-482f-8fc8-1db4c7b24282",
+      "season": 11,
+      "number": 13,
+      "name": "Einfach hier bleiben - del 1",
+      "airdate": "2024-06-06"
+    },
+    {
+      "id": "bd7579cf-8d15-4ef7-9d77-dc868607457f",
+      "season": 11,
+      "number": 14,
+      "name": "Einfach hier bleiben - del 2",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "fd6c3743-763c-42aa-8a99-4ca87b7eead6",
+      "season": 12,
+      "number": 1,
+      "name": "Was wirklich zählt - del 1",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "134ce580-ae11-475c-906b-29c8467257cd",
+      "season": 12,
+      "number": 2,
+      "name": "Was wirklich zählt - del 2",
+      "airdate": "2024-06-11"
+    },
+    {
+      "id": "5945722a-bb15-4b29-8032-ec477c99bb17",
+      "season": 12,
+      "number": 3,
+      "name": "Loslassen - del 1",
+      "airdate": "2024-06-12"
+    },
+    {
+      "id": "c0d6c8e6-fad6-447c-84a3-0f16478b815e",
+      "season": 12,
+      "number": 4,
+      "name": "Loslassen - del 2",
+      "airdate": "2024-06-13"
+    },
+    {
+      "id": "2e5f4528-2f4a-4dd8-8cc2-4869b1d795bd",
+      "season": 12,
+      "number": 5,
+      "name": "Im Gipfelbuch - del 1",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "b2a04139-1406-4cdc-8aa6-40dbdfba2d31",
+      "season": 12,
+      "number": 6,
+      "name": "Im Gipfelbuch - del 2",
+      "airdate": "2024-06-17"
+    },
+    {
+      "id": "a664c15b-9e5b-4953-9b5d-6ffebd5adea9",
+      "season": 12,
+      "number": 7,
+      "name": "Eiskalte Wahrheit - del 1",
+      "airdate": "2024-06-18"
+    },
+    {
+      "id": "662afea8-0346-41c7-bbbd-f3a556cd0e29",
+      "season": 12,
+      "number": 8,
+      "name": "Eiskalte Wahrheit - del 2",
+      "airdate": "2024-06-19"
+    },
+    {
+      "id": "13f2ba2b-84e6-4e90-b5ab-7d479c9e0c4c",
+      "season": 12,
+      "number": 9,
+      "name": "Leuchtfeuer - del 1",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "438efb1c-67ce-4597-84e6-3508a95e509e",
+      "season": 12,
+      "number": 10,
+      "name": "Leuchtfeuer - del 2",
+      "airdate": "2024-06-21"
+    },
+    {
+      "id": "2408e903-bf2b-41a4-ba04-e2999149cb2d",
+      "season": 12,
+      "number": 11,
+      "name": "Keine Lügen mehr - del 1",
+      "airdate": "2024-06-24"
+    },
+    {
+      "id": "3dcb20d8-1be2-4464-86b9-763f2a88b53a",
+      "season": 12,
+      "number": 12,
+      "name": "Keine Lügen mehr - del 2",
+      "airdate": "2024-06-25"
+    },
+    {
+      "id": "dc579591-4469-41fc-ad79-4361bd7d8e7e",
+      "season": 12,
+      "number": 13,
+      "name": "Vierzehn Stufen - del 1",
+      "airdate": "2024-06-26"
+    },
+    {
+      "id": "8c47685f-4589-4126-9147-40a3dac0ecf7",
+      "season": 12,
+      "number": 14,
+      "name": "Vierzehn Stufen - del 2",
+      "airdate": "2024-06-27"
+    },
+    {
+      "id": "f9b0a780-78eb-47ef-8809-971af4f24e40",
+      "season": 13,
+      "number": 1,
+      "name": "Klang der Erinnerung - del 1",
+      "airdate": "2024-06-28"
+    },
+    {
+      "id": "f6e7508d-20ed-40fc-b1aa-78af3ae3cf96",
+      "season": 13,
+      "number": 2,
+      "name": "Klang der Erinnerung - del 2",
+      "airdate": "2024-07-01"
+    },
+    {
+      "id": "c17f1bf8-900a-4835-9913-3336c64ae8c2",
+      "season": 13,
+      "number": 3,
+      "name": "Verbrannte Erde - del 1",
+      "airdate": "2024-07-02"
+    },
+    {
+      "id": "363a9121-7715-4bd2-aa28-c2ab21eaabe4",
+      "season": 13,
+      "number": 4,
+      "name": "Verbrannte Erde - del 2",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "2b3409a3-e85e-4d4c-9bbe-f716fb545b9e",
+      "season": 13,
+      "number": 5,
+      "name": "Ausgesetzt - del 1",
+      "airdate": "2024-07-04"
+    },
+    {
+      "id": "0ae50469-fb74-4b4e-8f29-23a9e43303ff",
+      "season": 13,
+      "number": 6,
+      "name": "Ausgesetzt - del 2",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "3b3b45b8-b0a2-447c-826f-3a1973de92ad",
+      "season": 13,
+      "number": 7,
+      "name": "Augen auf - del 1",
+      "airdate": "2024-07-08"
+    },
+    {
+      "id": "2d2f8a5d-4aea-41ba-9458-2cc42235a2ef",
+      "season": 13,
+      "number": 8,
+      "name": "Augen auf - del 2",
+      "airdate": "2024-07-09"
+    },
+    {
+      "id": "eed2a03e-a9f8-47ff-a1db-da031cd1f64e",
+      "season": 13,
+      "number": 9,
+      "name": "Roter Schnee - del 1",
+      "airdate": "2024-07-10"
+    },
+    {
+      "id": "b054eb28-23e6-4415-81a6-8b607f4fef0c",
+      "season": 13,
+      "number": 10,
+      "name": "Roter Schnee - del 2",
+      "airdate": "2024-07-11"
+    },
+    {
+      "id": "377d9b13-b2fc-499a-9cdf-c5dd93178eae",
+      "season": 13,
+      "number": 11,
+      "name": "Dieses eine Leben - del 1",
+      "airdate": "2024-07-12"
+    },
+    {
+      "id": "2d24812e-6660-4e63-89b1-d7f3c975e4ae",
+      "season": 13,
+      "number": 12,
+      "name": "Dieses eine Leben - del 2",
+      "airdate": "2024-07-15"
+    },
+    {
+      "id": "623a27ef-6390-4356-adf3-37e65343ffea",
+      "season": 13,
+      "number": 13,
+      "name": "Die Zeit Die Bleibt - del 1",
+      "airdate": "2024-07-16"
+    },
+    {
+      "id": "0aeffb1f-7e44-45b4-b79a-ea0b92a7d66f",
+      "season": 13,
+      "number": 14,
+      "name": "Die Zeit Die Bleibt - del 2",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "a98144ae-aca9-47e4-aee0-318eceae5186",
+      "season": 14,
+      "number": 1,
+      "name": "Um jeden Preis - del 1",
+      "airdate": "2024-07-18"
+    },
+    {
+      "id": "60f89f22-4a6f-41b7-b180-7498c97cd71f",
+      "season": 14,
+      "number": 2,
+      "name": "Um jeden Preis - del 2",
+      "airdate": "2024-07-19"
+    },
+    {
+      "id": "b86b82b7-14f1-4a91-bb79-ace04bb3f57d",
+      "season": 14,
+      "number": 3,
+      "name": "Altes Eisen - del 1",
+      "airdate": "2024-07-22"
+    },
+    {
+      "id": "5b302786-8c89-4e6b-a079-4c8ac41457ff",
+      "season": 14,
+      "number": 4,
+      "name": "Altes Eisen - del 2",
+      "airdate": "2024-07-23"
+    },
+    {
+      "id": "3e9aae02-a17f-4c56-a6eb-7ddce1df30e9",
+      "season": 14,
+      "number": 5,
+      "name": "Auf der Jagd - del 1",
+      "airdate": "2024-07-24"
+    },
+    {
+      "id": "f521aab3-fe32-463a-837a-c1f8ed0dc59b",
+      "season": 14,
+      "number": 6,
+      "name": "Auf der Jagd - del 2",
+      "airdate": "2024-07-25"
+    },
+    {
+      "id": "ff15d511-a029-40e6-974e-02c230c0c27f",
+      "season": 14,
+      "number": 7,
+      "name": "Schamlos - del 1",
+      "airdate": "2024-07-26"
+    },
+    {
+      "id": "31fd0386-c83e-4216-b98f-0867776d211f",
+      "season": 14,
+      "number": 8,
+      "name": "Schamlos - del 2",
+      "airdate": "2024-07-29"
+    },
+    {
+      "id": "1af5e951-04b6-4293-9990-7c341a77f696",
+      "season": 14,
+      "number": 9,
+      "name": "Giftiges Erbe - del 1",
+      "airdate": "2024-07-30"
+    },
+    {
+      "id": "7ec9c885-de6e-4752-b457-d1e5b8fdeaf2",
+      "season": 14,
+      "number": 10,
+      "name": "Giftiges Erbe - del 2",
+      "airdate": "2024-07-31"
+    },
+    {
+      "id": "ecd0d3fd-da82-4641-90ff-1573e8f08449",
+      "season": 14,
+      "number": 11,
+      "name": "Grüner Mond - del 1",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "32fbde45-cf1d-4970-b8ff-e6bbd08b2ac2",
+      "season": 14,
+      "number": 12,
+      "name": "Grüner Mond - del 2",
+      "airdate": "2024-08-02"
+    },
+    {
+      "id": "3d402bf7-0761-43ce-a444-b6d5889b0cb5",
+      "season": 15,
+      "number": 1,
+      "name": "Unter Verdacht - del 1",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "6c4d50f0-2641-4da8-bebf-0b460aa63baf",
+      "season": 15,
+      "number": 2,
+      "name": "Unter Verdacht - del 2",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "cc453b3c-763f-48e7-8432-d03c9c3d6688",
+      "season": 15,
+      "number": 3,
+      "name": "Bruderliebe - del 1",
+      "airdate": "2025-03-28"
+    },
+    {
+      "id": "68c505f6-f721-4142-9ccc-39f0e4bce977",
+      "season": 15,
+      "number": 4,
+      "name": "Bruderliebe - del 2",
+      "airdate": "2025-03-31"
+    },
+    {
+      "id": "9aeace97-6c3f-4ee5-bd8b-2d09ac09cf69",
+      "season": 15,
+      "number": 5,
+      "name": "Aus Angst - del 1",
+      "airdate": "2025-04-01"
+    },
+    {
+      "id": "a1f94636-b4ec-46c1-8a0a-2c2065631962",
+      "season": 15,
+      "number": 6,
+      "name": "Aus Angst - del 2",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "3146c297-c525-4603-b307-324b250eeab4",
+      "season": 15,
+      "number": 7,
+      "name": "Höhen Feuer - del 1",
+      "airdate": "2025-04-03"
+    },
+    {
+      "id": "5d660bad-4402-4832-b2de-28602b7aae66",
+      "season": 15,
+      "number": 8,
+      "name": "Höhen Feuer - del 2",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "eced3c9b-764a-48e0-8d2d-729835075487",
+      "season": 15,
+      "number": 9,
+      "name": "Dünnes Eis - del 1",
+      "airdate": "2025-04-07"
+    },
+    {
+      "id": "049819eb-4880-45b0-9594-281cc0cf9141",
+      "season": 15,
+      "number": 10,
+      "name": "Dünnes Eis - del 2",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "20f3a24b-c3f6-4244-9bd5-b38d21af9a33",
+      "season": 15,
+      "number": 11,
+      "name": "Späte Rüe - del 1",
+      "airdate": "2025-04-09"
+    },
+    {
+      "id": "6b0faf08-9b5b-4577-9cab-d4e0cd286188",
+      "season": 15,
+      "number": 12,
+      "name": "Späte Rüe - del 2",
+      "airdate": "2025-04-10"
+    },
+    {
+      "id": "dbeea240-cb6a-4203-b4e7-71c2fbfb7fef",
+      "season": 16,
+      "number": 1,
+      "name": "Gipfelrausch - del 1",
+      "airdate": "2026-08-19"
+    },
+    {
+      "id": "64883fb0-4ac9-4b79-857c-29ac7ffe18c2",
+      "season": 16,
+      "number": 2,
+      "name": "Gipfelrausch - del 2",
+      "airdate": "2026-08-20"
+    },
+    {
+      "id": "b6c5f9a3-555a-458b-bfac-584b7466fd34",
+      "season": 16,
+      "number": 3,
+      "name": "Ein letzter Augenblick - del 1",
+      "airdate": "2026-08-21"
+    },
+    {
+      "id": "b2e0a646-e72b-4d2f-b943-4e5e86218679",
+      "season": 16,
+      "number": 4,
+      "name": "Ein letzter Augenblick - del 2",
+      "airdate": "2026-08-24"
+    },
+    {
+      "id": "cc1d49f2-6a31-40e2-92a8-2a487949c5f0",
+      "season": 16,
+      "number": 5,
+      "name": "Abschiedsschmerz - del 1",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "f8f171aa-a0d5-4f02-bc25-7b2a05851788",
+      "season": 16,
+      "number": 6,
+      "name": "Abschiedsschmerz - del 2",
+      "airdate": "2026-08-26"
+    },
+    {
+      "id": "6612e835-1ef4-4a55-974b-a7f23ce21619",
+      "season": 16,
+      "number": 7,
+      "name": "Letzte Worte - del 1",
+      "airdate": "2026-08-27"
+    },
+    {
+      "id": "603b61ba-1627-4d2e-845e-0395a2611707",
+      "season": 16,
+      "number": 8,
+      "name": "Letzte Worte - del 2",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "69dc96d2-f471-40a7-a6a3-57ac44d326bd",
+      "season": 16,
+      "number": 9,
+      "name": "Seelenfrieden - del 1",
+      "airdate": "2026-08-31"
+    },
+    {
+      "id": "15baa40e-c978-49ef-8dd2-674cf9dfb0ac",
+      "season": 16,
+      "number": 10,
+      "name": "Seelenfrieden - del 2",
+      "airdate": "2026-09-01"
+    },
+    {
+      "id": "fdcfbab4-fdc8-4930-a3a8-7258c42d561d",
+      "season": 17,
+      "number": 1,
+      "name": "Stille Wasser - del 1",
+      "airdate": "2026-09-02"
+    },
+    {
+      "id": "3239828a-83e0-4d8c-89a0-678be9d7d095",
+      "season": 17,
+      "number": 2,
+      "name": "Stille Wasser - del 2",
+      "airdate": "2026-09-03"
+    },
+    {
+      "id": "5a8757c1-7205-4b60-b532-17010a2660ee",
+      "season": 17,
+      "number": 3,
+      "name": "Vertrauen - del 1",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "f7fc2afb-cc5d-44c6-83b5-f49e668f14da",
+      "season": 17,
+      "number": 4,
+      "name": "Vertrauen - del 2",
+      "airdate": "2026-09-07"
+    },
+    {
+      "id": "b681d347-61b8-408c-8df8-5c02ab75a804",
+      "season": 17,
+      "number": 5,
+      "name": "Ohne Ausweg - del 1",
+      "airdate": "2026-09-08"
+    },
+    {
+      "id": "7f076c3b-408f-4420-94c1-cfd9e3cdc175",
+      "season": 17,
+      "number": 6,
+      "name": "Ohne Ausweg - del 2",
+      "airdate": "2026-09-09"
+    },
+    {
+      "id": "ebf110f1-24ff-4d0d-be25-268893220f68",
+      "season": 17,
+      "number": 7,
+      "name": "Lippenbekenntnisse - del 1",
+      "airdate": "2026-09-10"
+    },
+    {
+      "id": "c6190fc1-2846-4fa0-9a6c-22e953640510",
+      "season": 17,
+      "number": 8,
+      "name": "Lippenbekenntnisse - del 2",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "03022086-c06e-49d9-9ce2-fc6afb161a9e",
+      "season": 17,
+      "number": 9,
+      "name": "Gespenster - del 1",
+      "airdate": "2026-09-14"
+    },
+    {
+      "id": "1a99a1aa-af9f-48d4-be1d-72d94ace2bec",
+      "season": 17,
+      "number": 10,
+      "name": "Gespenster - del 2",
+      "airdate": "2026-09-15"
+    },
+    {
+      "id": "bdd61744-3ecf-453a-9fb0-335a80c385ef",
+      "season": 17,
+      "number": 11,
+      "name": "Marterl - del 1",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "97d78651-382b-41bf-8b71-b8b0877e052a",
+      "season": 17,
+      "number": 12,
+      "name": "Marterl - del 2",
+      "airdate": "2026-09-17"
+    },
+    {
+      "id": "4b5695a2-9b1d-4548-b09f-dc53c0950a8f",
+      "season": 17,
+      "number": 13,
+      "name": "Im Stich gelassen - del 1",
+      "airdate": "2026-09-18"
+    },
+    {
+      "id": "c6b0945e-8578-4fa8-b13e-3557a5a76275",
+      "season": 17,
+      "number": 14,
+      "name": "Im Stich gelassen - del 2",
+      "airdate": "2026-09-21"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:mega-ulaekkert-oiii",
+  "name": "Mega (u)lækkert",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5a197716-9832-4686-b628-65a235d67583",
+      "season": 1,
+      "number": 1,
+      "name": "Scarlet og Emilie",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "41c2245e-d204-400d-afc7-37b1f5b4746a",
+      "season": 1,
+      "number": 2,
+      "name": "Eskild & Arthur",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "0a1914e4-731e-447f-854c-7552aedd0889",
+      "season": 1,
+      "number": 3,
+      "name": "Isabella & Mikkel",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "939fcb65-7a31-443e-a687-3d4aa414ff18",
+      "season": 1,
+      "number": 4,
+      "name": "Shaimaa & Elias",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "51f365ad-e841-42cd-b7e9-e3291aeee9ed",
+      "season": 1,
+      "number": 5,
+      "name": "Jonas & Alfred",
+      "airdate": "2022-04-09"
+    }
+  ]
+}

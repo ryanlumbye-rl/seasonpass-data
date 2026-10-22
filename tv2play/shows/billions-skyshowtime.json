@@ -1,0 +1,598 @@
+{
+  "id": "tv2play:billions-skyshowtime",
+  "name": "Billions",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "061e7e84-8568-4169-9258-0f8faa20baca",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d73e692d-78da-464f-812b-bd841d2a05b7",
+      "season": 1,
+      "number": 2,
+      "name": "Naming Rights",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2dfd1843-73cf-489a-823d-322911c13d93",
+      "season": 1,
+      "number": 3,
+      "name": "YumTime",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "59bd7bb3-8692-489e-a5c6-fe5241a267fd",
+      "season": 1,
+      "number": 4,
+      "name": "Short Squeeze",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6a201eb6-f786-4577-a397-d5a97ee6ccea",
+      "season": 1,
+      "number": 5,
+      "name": "The Good Life",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5b2189d5-a396-4995-b0e6-f9446f1dd398",
+      "season": 1,
+      "number": 6,
+      "name": "The Deal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e04b7b01-3fb6-43ac-bd96-2de450cd1558",
+      "season": 1,
+      "number": 7,
+      "name": "The Punch",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "47953446-3ce1-440d-b42d-bf12e68d92b4",
+      "season": 1,
+      "number": 8,
+      "name": "Boasts and Rails",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1675c271-d0c1-40cb-a46a-65b5ae1ee63f",
+      "season": 1,
+      "number": 9,
+      "name": "Where the Fuck is Donnie?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cd7a5ee9-43be-4fff-a3fd-3448c912e6cd",
+      "season": 1,
+      "number": 10,
+      "name": "Quality of Life",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e62cee47-89ad-4011-af38-d02532a9e4ee",
+      "season": 1,
+      "number": 11,
+      "name": "Magical Thinking",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5b82d41f-a570-4a9a-84c6-b79af9997592",
+      "season": 1,
+      "number": 12,
+      "name": "The Conversation",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d5e771d1-8653-4346-9b97-917242ec0a44",
+      "season": 2,
+      "number": 1,
+      "name": "Risk Management",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0b9fc17d-cfd6-43cd-9d1b-55bbcba5a98f",
+      "season": 2,
+      "number": 2,
+      "name": "Dead Cat Bounce",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ac652caf-b17a-43ea-81e3-77fa9b419df0",
+      "season": 2,
+      "number": 3,
+      "name": "Optimal Play",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b9224440-e89a-44f6-8d7c-3084fd1656d0",
+      "season": 2,
+      "number": 4,
+      "name": "The Oath",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f45db5c2-4b3e-4def-a6dc-02e3a43cd1f6",
+      "season": 2,
+      "number": 5,
+      "name": "Currency",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eec2f2cd-ac80-4a6b-b926-be7edc88027e",
+      "season": 2,
+      "number": 6,
+      "name": "Indian Four",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8e299ddc-3cc3-4e46-85d0-934b8bad843c",
+      "season": 2,
+      "number": 7,
+      "name": "Victory Lap",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a7c2c8e9-3c4e-4ae4-927b-433723aa7fc8",
+      "season": 2,
+      "number": 8,
+      "name": "The Kingmaker",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d7ab2975-e247-4593-baa9-c5cbcab00a80",
+      "season": 2,
+      "number": 9,
+      "name": "Sic Transit Imperium",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "659608d4-09eb-4603-a8c1-60948a92b635",
+      "season": 2,
+      "number": 10,
+      "name": "With or Without You",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6e1bc0fa-984a-40b9-ba30-a6db62438d0a",
+      "season": 2,
+      "number": 11,
+      "name": "Golden Frog Time",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c5fcdb29-85da-4ab6-88df-0cc1b89f8d67",
+      "season": 2,
+      "number": 12,
+      "name": "Ball in Hand",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0b8e6a3b-ff84-452e-bdc9-8695c083fa8c",
+      "season": 3,
+      "number": 1,
+      "name": "Tie Goes to the Runner",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7880b678-51f2-4cbe-9e79-d593a972d649",
+      "season": 3,
+      "number": 2,
+      "name": "The Wrong Maria Gonzalez",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8b8a9eba-df64-4067-8b00-530b18874448",
+      "season": 3,
+      "number": 3,
+      "name": "A Generation Too Late",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "64e12f57-e6d8-4aa2-9643-35b1f7064b80",
+      "season": 3,
+      "number": 4,
+      "name": "Hell of a Ride",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4e9de0cc-93b2-42ad-9e31-a69fd5149660",
+      "season": 3,
+      "number": 5,
+      "name": "Flaw in the Death Star",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c03b8fac-5014-4aac-a8a5-288163a6a186",
+      "season": 3,
+      "number": 6,
+      "name": "The Third Ortolan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b3db473c-6e59-4b9f-bb01-270d8f24fc0e",
+      "season": 3,
+      "number": 7,
+      "name": "Not You, Mr. Dake.",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c7132dc1-9d05-40aa-9eb2-13703745af35",
+      "season": 3,
+      "number": 8,
+      "name": "All The Wilburys",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "276daeab-2fb4-4842-ac31-0c0d54898b65",
+      "season": 3,
+      "number": 9,
+      "name": "Icebreaker",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ab36cf7c-8280-4bec-b9f0-c0c44d2b6903",
+      "season": 3,
+      "number": 10,
+      "name": "Redemption",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e8bca4f8-6e30-44e8-a3e1-5c182e4e14db",
+      "season": 3,
+      "number": 11,
+      "name": "Kompenso",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "60a27012-99c6-491b-98fa-caaa0c602cce",
+      "season": 3,
+      "number": 12,
+      "name": "Elmsley Count",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "089cb49f-527c-499c-a319-6fd8c02c0275",
+      "season": 4,
+      "number": 1,
+      "name": "Chucky Rhoades's Greatest Game",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "992754dd-f3c1-4a40-908e-e0b9e05d153c",
+      "season": 4,
+      "number": 2,
+      "name": "Arousal Template",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4db7f4f1-b528-4006-803f-43f21363291d",
+      "season": 4,
+      "number": 3,
+      "name": "Chickentown",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d271ee04-59c8-4264-b0e1-302e289a803f",
+      "season": 4,
+      "number": 4,
+      "name": "Overton Window",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "28c9996b-2c2f-4bf4-aa8b-8eee90d9b79b",
+      "season": 4,
+      "number": 5,
+      "name": "A Proper Sendoff",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6f2ef9aa-5c73-4b1d-8411-26c48161f989",
+      "season": 4,
+      "number": 6,
+      "name": "Maximum Recreational Depth",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c81ab9c6-4c4a-45cd-828b-6ed4df8737e5",
+      "season": 4,
+      "number": 7,
+      "name": "Infinite Game",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2ffcb986-448c-4459-9467-9de32b75d16a",
+      "season": 4,
+      "number": 8,
+      "name": "Fight Night",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9c81f938-0974-4338-89cc-04a80e18df5d",
+      "season": 4,
+      "number": 9,
+      "name": "American Champion",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f01b1c85-0f42-4a63-a6ce-cdc6565e1208",
+      "season": 4,
+      "number": 10,
+      "name": "New Year's Day",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1a1654d8-a880-4b33-ab1f-5654c6eb8a69",
+      "season": 4,
+      "number": 11,
+      "name": "Lamster",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6cf02bb3-6174-416f-bc0c-9095225d4aaa",
+      "season": 4,
+      "number": 12,
+      "name": "Extreme Sandbox",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d84de13b-02ff-46cf-b7b8-2e34534b9aa3",
+      "season": 5,
+      "number": 1,
+      "name": "The New Decas",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4216248a-4672-4938-9e1b-08e7b096b722",
+      "season": 5,
+      "number": 2,
+      "name": "The Chris Rock Test",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dbc2c457-7d41-4a72-ac4e-5862766c2196",
+      "season": 5,
+      "number": 3,
+      "name": "Beg, Bribe, Bully",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "614ff9ce-c242-41ea-94ca-b4816df02e16",
+      "season": 5,
+      "number": 4,
+      "name": "Opportunity Zone",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7165d31c-4ba1-4a72-b751-511d13c0669d",
+      "season": 5,
+      "number": 5,
+      "name": "Contract",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7a0c0c39-778a-4a18-b198-2fd93c2aaaa3",
+      "season": 5,
+      "number": 6,
+      "name": "The Nordic Model",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e2406f51-6244-4bb1-9f22-309d47d5668b",
+      "season": 5,
+      "number": 7,
+      "name": "The Limitless Shit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "588ef78f-a7f6-4921-960b-65f81b8b9436",
+      "season": 5,
+      "number": 8,
+      "name": "Copenhagen",
+      "airdate": "2022-09-05"
+    },
+    {
+      "id": "52a858f5-e9a0-4f45-b7e6-944643ff3878",
+      "season": 5,
+      "number": 9,
+      "name": "Implosion",
+      "airdate": "2022-09-05"
+    },
+    {
+      "id": "3ec8cf78-4cdd-4f2b-bd17-03858146adc6",
+      "season": 5,
+      "number": 10,
+      "name": "Liberty",
+      "airdate": "2022-09-05"
+    },
+    {
+      "id": "d8140bc6-7f2e-4d71-ad1c-4d2f6000511e",
+      "season": 5,
+      "number": 11,
+      "name": "Victory Smoke",
+      "airdate": "2022-09-05"
+    },
+    {
+      "id": "0a9fc2d1-2ed9-4a61-a48f-70751047b6b7",
+      "season": 5,
+      "number": 12,
+      "name": "No Direction Home",
+      "airdate": "2022-09-05"
+    },
+    {
+      "id": "80cfaa06-b608-4a73-9a26-d2d918a134f2",
+      "season": 6,
+      "number": 1,
+      "name": "Cannonade",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "7012f389-41b5-42ba-b97e-e305dca4ad33",
+      "season": 6,
+      "number": 2,
+      "name": "Lyin' Eyes",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "c29628a7-1d85-4932-8684-ce39b494416a",
+      "season": 6,
+      "number": 3,
+      "name": "STD",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "59e63b8a-c3e1-4866-8994-4e6f16292951",
+      "season": 6,
+      "number": 4,
+      "name": "Burn Rate",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "0b19204b-f612-4d7f-9160-43266b7376ef",
+      "season": 6,
+      "number": 5,
+      "name": "Rock of Eye",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "6e292fe7-be83-4a1d-b475-c3b6531f8724",
+      "season": 6,
+      "number": 6,
+      "name": "Hostis Humani Generis",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "caf62bb2-96b7-4fe7-9c9f-5ed998e82779",
+      "season": 6,
+      "number": 7,
+      "name": "Napoleon's Hat",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "a3942296-586a-4845-a1cf-b6b328365999",
+      "season": 6,
+      "number": 8,
+      "name": "The Big Ugly",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "8bad07dc-9208-4287-ac15-c648d5a060e0",
+      "season": 6,
+      "number": 9,
+      "name": "Hindenburg",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "58d39a89-8c73-41a3-bdb3-baa47bec9ddf",
+      "season": 6,
+      "number": 10,
+      "name": "Johnny Favorite",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "8695e75d-ccf7-462e-abae-e09d4c87f321",
+      "season": 6,
+      "number": 11,
+      "name": "Succession",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "d076467b-ed99-4d44-85f8-4b674ff5d454",
+      "season": 6,
+      "number": 12,
+      "name": "Cold Storage",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "9f24201d-8c66-4c70-b7e8-c7bca4de3bb1",
+      "season": 7,
+      "number": 1,
+      "name": "Tower of London",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "e29d26c5-beb2-412b-a01c-f55c385dd844",
+      "season": 7,
+      "number": 2,
+      "name": "Original Sin",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "14c0d877-6af5-4d56-8bc9-6f8912463d50",
+      "season": 7,
+      "number": 3,
+      "name": "Winston Dick Energy",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "574a2d82-579e-4a53-b208-09d9a6417bcf",
+      "season": 7,
+      "number": 4,
+      "name": "Hurricane Rosie",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "69fc6640-7cb4-4e1a-b528-ca593d3bc43d",
+      "season": 7,
+      "number": 5,
+      "name": "The Gulag Archipelago",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "9c015547-54a8-4c01-bd71-f6a85df048e0",
+      "season": 7,
+      "number": 6,
+      "name": "The Man in the Olive Drab T-Shirt",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "a03c1c12-77f4-4368-8bb7-5cc51ad04bc1",
+      "season": 7,
+      "number": 7,
+      "name": "DMV",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "a8f7347d-3eae-4712-8971-bfbde7727c4f",
+      "season": 7,
+      "number": 8,
+      "name": "The Owl",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "f287a38d-3298-484b-83ed-511603dbb8d3",
+      "season": 7,
+      "number": 9,
+      "name": "Game Theory Optimal",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "3e9c277e-a8c0-4b66-b072-3cfab9e2b73c",
+      "season": 7,
+      "number": 10,
+      "name": "Enemies List",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "1606b598-db7a-426b-a271-31f32fabb292",
+      "season": 7,
+      "number": 11,
+      "name": "Axe Global",
+      "airdate": "2025-12-31"
+    },
+    {
+      "id": "eb517147-e212-4375-baa4-10fd58b13d26",
+      "season": 7,
+      "number": 12,
+      "name": "Admirals Fund",
+      "airdate": "2025-12-31"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tv2play:hvor-solen-altid-skinner-tv2play",
+  "name": "Hvor solen altid skinner",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-11-16",
+  "episodes": [
+    {
+      "id": "fa2ece2d-2dbb-4e89-96f4-562e448becde",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "59dc0985-6087-4a05-be46-c1a6eae1e537",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "8b73987c-ecc1-4a34-a86d-5b61f914a0e1",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "cef98041-1967-42c7-91e3-6b35c6a964be",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "6647ae4d-4f1e-4936-8c67-d386f22a2be4",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "3d087f3e-895b-43bf-bc1c-baded73e5624",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "7c9fda69-3ea8-45eb-bf4b-3d5c31864af4",
+      "season": 2,
+      "number": 1,
+      "name": "Hvor solen altid skinner",
+      "airdate": "2026-11-16"
+    }
+  ]
+}

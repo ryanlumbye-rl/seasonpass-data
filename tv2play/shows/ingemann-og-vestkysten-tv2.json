@@ -1,0 +1,45 @@
+{
+  "id": "tv2play:ingemann-og-vestkysten-tv2",
+  "name": "Ingemann og Vestkysten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "b258a778-0b4c-43ae-a9d6-a294d1a3a22f",
+      "season": 1,
+      "number": 1,
+      "name": "Fra Skagen til Løkken",
+      "airdate": "2019-03-18"
+    },
+    {
+      "id": "338a9e76-ec5b-4a3e-b672-59cef8f67f93",
+      "season": 1,
+      "number": 2,
+      "name": "Fra Løkken til Hanstholm",
+      "airdate": "2019-03-18"
+    },
+    {
+      "id": "2517166e-5c40-4420-84ea-3b41aff9e646",
+      "season": 1,
+      "number": 3,
+      "name": "Fra Hanstholm til Vejlby Klit",
+      "airdate": "2019-03-25"
+    },
+    {
+      "id": "56690e70-057e-4136-96b2-9b35f4f6accc",
+      "season": 1,
+      "number": 4,
+      "name": "Fra Vejlby Klit til Esbjerg",
+      "airdate": "2019-04-01"
+    },
+    {
+      "id": "ce954f10-dea0-4183-9d35-40be81b56b85",
+      "season": 1,
+      "number": 5,
+      "name": "Fra Fanø til grænsen",
+      "airdate": "2019-04-08"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:formanden-tv2play",
+  "name": "Formanden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "8cdeff9f-e1b3-400a-a7be-debd691bcedb",
+      "season": 1,
+      "number": 1,
+      "name": "En usandsynlig formand",
+      "airdate": "2026-10-06"
+    },
+    {
+      "id": "c04069ab-5222-4d5c-8272-538ad9408f5c",
+      "season": 1,
+      "number": 2,
+      "name": "Et vanvittigt comeback",
+      "airdate": "2026-10-09"
+    }
+  ]
+}

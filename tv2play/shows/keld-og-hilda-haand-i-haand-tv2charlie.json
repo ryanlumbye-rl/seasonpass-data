@@ -1,0 +1,24 @@
+{
+  "id": "tv2play:keld-og-hilda-haand-i-haand-tv2charlie",
+  "name": "Keld og Hilda hånd i hånd",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "13bbe29d-d084-404a-a23a-95076a0ce1b7",
+      "season": 1,
+      "number": 1,
+      "name": "Fra skolegård til stormfuldt bryllup",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "f3db37d5-405b-4c0b-a0a7-d71ca39d541d",
+      "season": 1,
+      "number": 2,
+      "name": "Et liv i spotlight og prisen for succes",
+      "airdate": "2025-12-18"
+    }
+  ]
+}
