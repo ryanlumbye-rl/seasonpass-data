@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:nick-and-aaron-carter-hurts-to-love-you-tv2play",
+  "name": "Nick and Aaron Carter: Hurts to Love You",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Om Nick og Aaron Carters vej til berømmelse - fortalt af deres søster Angel. Et følelsesladet blik på en familie, der er blevet ødelagt af berømmelse, succesens mørke side samt kampen med psykisk sygdom og afhængighed.",
+  "image": "https://cdn-play.tv2i.dk/3cab1dfa-59b9-48fc-92fe-1ddb742410c3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "37a419ca-16e5-4449-9b88-66bb52946fb9",
+      "season": 1,
+      "number": 1,
+      "name": "Del 1",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "d4c18eaf-8fb6-4e51-a2a3-c8b77e266383",
+      "season": 1,
+      "number": 2,
+      "name": "Del 2",
+      "airdate": "2025-11-09"
+    }
+  ]
+}

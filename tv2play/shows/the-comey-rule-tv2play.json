@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:the-comey-rule-tv2play",
+  "name": "The Comey Rule",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "123f6740-1c75-46be-b58d-78346219a515",
+      "season": 1,
+      "number": 1,
+      "name": "Part 1",
+      "airdate": "2021-09-28"
+    },
+    {
+      "id": "06893687-503d-459f-8d41-28dfbe8baf0c",
+      "season": 1,
+      "number": 2,
+      "name": "Part 2",
+      "airdate": "2021-09-28"
+    },
+    {
+      "id": "a97eb5c0-0504-41e9-85a4-655c430fee02",
+      "season": 1,
+      "number": 3,
+      "name": "Part 3",
+      "airdate": "2021-09-28"
+    },
+    {
+      "id": "3b9af8fb-3416-48e2-9299-5880f98e28b1",
+      "season": 1,
+      "number": 4,
+      "name": "Part 4",
+      "airdate": "2021-09-28"
+    }
+  ]
+}

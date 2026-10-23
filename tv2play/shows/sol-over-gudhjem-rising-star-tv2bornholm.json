@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:sol-over-gudhjem-rising-star-tv2bornholm",
+  "name": "Sol over Gudhjem - Rising Star",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fire af Danmarks bedste, unge kokke dyster om den prestigefyldte titel som årets 'Rising Star'.",
+  "image": "https://cdn-play.tv2i.dk/e1729437-50ee-4352-828b-42f5d734cbc5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2658%2C1495&w=1280",
+  "episodes": [
+    {
+      "id": "3fd94b4b-23ba-4d7e-b7f8-acceca7182cf",
+      "season": 2025,
+      "number": 1,
+      "name": "Rising Star 2025 - del 1",
+      "airdate": "2025-01-15"
+    },
+    {
+      "id": "f32c9508-58c0-4b93-a623-71b8c9d9d10e",
+      "season": 2025,
+      "number": 2,
+      "name": "Rising Star 2025 - del 2",
+      "airdate": "2025-01-15"
+    },
+    {
+      "id": "c8079b3f-f381-4181-a874-0ece758ada4a",
+      "season": 2026,
+      "number": 1,
+      "name": "Rising Star 2026 - del 1",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "15b632d1-00d7-41d2-ae24-02581158248e",
+      "season": 2026,
+      "number": 2,
+      "name": "Rising Star 2026 - del 2",
+      "airdate": "2026-02-04"
+    }
+  ]
+}

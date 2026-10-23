@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:for-barnets-bedste-tv2play",
+  "name": "For barnets bedste",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Når et barn bliver bortadopteret ved tvang, betyder det ikke, at de biologiske forældre er ude af billedet for altid. De kan nemlig søge om samvær med barnet, selv om det har fået nye forældre. Journalist Mette-Marie Andersen ser nærmere på emnet og taler med dem, der er berørt af lovgivningen.",
+  "image": "https://cdn-play.tv2i.dk/b96b95aa-53d8-441b-9931-9da84cb0852a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a2589047-37e8-4822-80f4-9d0821f146ad",
+      "season": 1,
+      "number": 1,
+      "name": "Dommen, der ændrede det hele",
+      "airdate": "2025-11-25"
+    },
+    {
+      "id": "aa5b8d13-ef6b-43c7-8bb8-ba6cc6e0b23d",
+      "season": 1,
+      "number": 2,
+      "name": "Anonymiteten forsvinder",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "0aa31722-c1b4-43e6-938f-cb6fbb90746a",
+      "season": 1,
+      "number": 3,
+      "name": "Stephanie tilbage i retten",
+      "airdate": "2025-12-09"
+    }
+  ]
+}

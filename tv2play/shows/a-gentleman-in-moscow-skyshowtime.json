@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:a-gentleman-in-moscow-skyshowtime",
+  "name": "A Gentleman in Moscow",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 1920'ernes post-revolutionære Rusland bliver grev Alexander Rostov frataget sine aristokratiske privilegier og sat i husarrest på livstid på Moskvas storslåede Metropol Hotel. Her åbnes hans øjne for Metropols skjulte vidundere, og han må lære, at sand rigdom findes i kærlighed, mod og fællesskab.",
+  "image": "https://cdn-play.tv2i.dk/7abaf683-67e7-4ae5-b345-5bdceabc8f23.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f2760d7b-d5c4-4afb-ae35-51bbd5f62b67",
+      "season": 1,
+      "number": 1,
+      "name": "En mester af omstændigheder",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "c21b96e3-7c4f-40dd-87d5-c1e5931212da",
+      "season": 1,
+      "number": 2,
+      "name": "En invitation",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "d48438e3-ac7f-4d95-a8c2-9502387e26ba",
+      "season": 1,
+      "number": 3,
+      "name": "Den sidste Rostov",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "fc76733b-8abe-45e4-a147-aed5f53f8f49",
+      "season": 1,
+      "number": 4,
+      "name": "Gode tider",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "dafba39b-c3bb-4baf-a75f-51552928150d",
+      "season": 1,
+      "number": 5,
+      "name": "En ankomst",
+      "airdate": "2024-05-02"
+    },
+    {
+      "id": "e29149dc-8c2f-48ea-841d-5aff6eb3677b",
+      "season": 1,
+      "number": 6,
+      "name": "Undergangen",
+      "airdate": "2024-05-09"
+    },
+    {
+      "id": "edc12e8f-e9c6-439b-a4cf-c42dacf180fb",
+      "season": 1,
+      "number": 7,
+      "name": "En forsamling",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "f1486355-4c2a-4855-b16c-07107ebddaff",
+      "season": 1,
+      "number": 8,
+      "name": "Adieu",
+      "airdate": "2024-05-23"
+    }
+  ]
+}

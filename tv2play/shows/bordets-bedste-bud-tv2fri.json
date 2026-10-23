@@ -5,14 +5,9 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Skuespiller og tv-vært Nigel Havers inviterer fem købere indenfor til en budrunde på spændende og sjove ting, som folk har medbragt.",
+  "image": "https://cdn-play.tv2i.dk/7db00c24-3fda-493f-887e-87431fa3800b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
   "episodes": [
-    {
-      "id": "3b692f50-869e-4ed9-a2c2-98951e7ada4f",
-      "season": 4,
-      "number": 1,
-      "name": "Episode 1",
-      "airdate": "2024-10-19"
-    },
     {
       "id": "4133a460-d440-48ec-8d1e-3b2fe479b442",
       "season": 4,
@@ -82,6 +77,27 @@
       "number": 10,
       "name": "Episode 10",
       "airdate": "2024-10-26"
+    },
+    {
+      "id": "3b692f50-869e-4ed9-a2c2-98951e7ada4f",
+      "season": 4,
+      "number": 11,
+      "name": "Episode 11",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "382e075b-135a-4c1e-8c4f-791a3d510bac",
+      "season": 4,
+      "number": 12,
+      "name": "Episode 12",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "9a4a9f99-503b-4bcf-a147-505c57b78f38",
+      "season": 4,
+      "number": 13,
+      "name": "Episode 13",
+      "airdate": "2024-11-02"
     }
   ]
 }

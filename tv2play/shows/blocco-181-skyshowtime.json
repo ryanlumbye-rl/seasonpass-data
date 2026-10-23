@@ -1,0 +1,124 @@
+{
+  "id": "tv2play:blocco-181-skyshowtime",
+  "name": "Blocco 181",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Blocco 181 fortæller den passionerede, energiske og rå historie om tre uforglemmelige hovedpersoners vilde kærlighed, deres vej ind i det kriminelle system og de voldsomme forhindringer, de støder på i deres familier og multietniske lokalsamfund i udkanten af Milano",
+  "image": "https://cdn-play.tv2i.dk/047c21b7-31d7-407e-8c6a-f4e7fba40576.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3845%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "39dcece1-5897-428b-b6c7-1c37c949bea7",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "97c8681b-e960-4999-adc8-c7e94fc13f18",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9dd6d434-896c-4421-82a4-48ae7cb7bb7c",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8118e88e-a146-46ca-8501-20c007e55e15",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1d7610b3-d0be-419d-bbf8-dcf798ced36d",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0756e991-b092-48d7-ba18-04ccdadca779",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c68d3f79-b9db-4538-a19c-328514596ee0",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "27fa74be-b34a-424f-a5ba-042ed1949d87",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3cbf7336-3597-4ae6-b5d8-0dee7612a84d",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "2184a833-a8cc-440a-9481-330218b1c079",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "bac1532d-a30f-4a76-b7f1-fa636c815fba",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "443d1958-8f48-479e-a2c0-6d417b6c8500",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "f9c3090b-4d75-4e4a-b9a4-6327c5f77761",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "79c67f91-4582-474b-823d-abc4143a6ac0",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "1b15072d-f0bc-4b27-8a53-a507f57baa51",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-06-13"
+    },
+    {
+      "id": "cd1e475b-53eb-4c6f-bf9c-ab3ba742ecdb",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-06-13"
+    }
+  ]
+}

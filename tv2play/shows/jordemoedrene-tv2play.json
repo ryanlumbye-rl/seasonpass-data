@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:jordemoedrene-tv2play",
+  "name": "Jordemødrene",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På fødeafdelingen i Gødstrup handler det om liv og død og de helt store følelser. Hver dag kæmper jordemødrene for at give de fødende gode fødsler, både når der kommer tvillinger, eller det hele ikke helt går, som det skal.",
+  "image": "https://cdn-play.tv2i.dk/0b1fd3bd-4f86-4004-8f1d-80e722f62a61.jfif?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "87686836-b700-4327-ae47-66d7fdab8792",
+      "season": 1,
+      "number": 1,
+      "name": "Blandt de allerbedste",
+      "airdate": "2025-11-23"
+    },
+    {
+      "id": "02a7013a-efdb-4c46-8a24-f861f60bdaa1",
+      "season": 1,
+      "number": 2,
+      "name": "Nu skal barnet have hjælp",
+      "airdate": "2025-11-30"
+    },
+    {
+      "id": "ea1c1981-274e-41c6-a9d5-c19aac16081c",
+      "season": 1,
+      "number": 3,
+      "name": "Tvillinger på vej",
+      "airdate": "2025-12-07"
+    },
+    {
+      "id": "d7d3f650-962b-42b5-abce-5fe14f323db2",
+      "season": 1,
+      "number": 4,
+      "name": "Jordemoderen mistede sit eget barn",
+      "airdate": "2025-12-14"
+    },
+    {
+      "id": "dfac52e4-fec5-4bd2-8ce9-11ae41e374e1",
+      "season": 1,
+      "number": 5,
+      "name": "Didde skal tage imod tvillinger",
+      "airdate": "2025-12-21"
+    },
+    {
+      "id": "a566de91-ee89-47a4-9407-3537464eb037",
+      "season": 1,
+      "number": 6,
+      "name": "Det gør fucking ondt",
+      "airdate": "2025-12-28"
+    }
+  ]
+}

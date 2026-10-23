@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:familier-i-norden-tv2oestjylland",
+  "name": "Familier i Norden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sami vender hjem til Aarhus for at starte på ny. Men da hans lillebror Idriss trækkes ind i et farligt miljø, må Sami konfrontere den kriminalitet, han troede, han havde lagt bag sig. Imens kæmper deres mor for at holde sammen på familien i en verden uden nemme valg.",
+  "image": "https://cdn-play.tv2i.dk/c290010a-de6f-4a4e-833d-de9af74abc85.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a4e56329-f4f7-402e-904b-1d20e12923cd",
+      "season": 1,
+      "number": 1,
+      "name": "Pizzabuddet",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "992f7507-bef2-47f9-bf02-bf79113b5c77",
+      "season": 1,
+      "number": 2,
+      "name": "Nye udfordringer",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "ecc910c2-deda-46d7-b4ba-552d3e78803a",
+      "season": 1,
+      "number": 3,
+      "name": "En bror i problemer",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "636e0784-423f-40c3-8d9c-9978e6238d8f",
+      "season": 1,
+      "number": 4,
+      "name": "Sidste chance",
+      "airdate": "2025-10-10"
+    }
+  ]
+}

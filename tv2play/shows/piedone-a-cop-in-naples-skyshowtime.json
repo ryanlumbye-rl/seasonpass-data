@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:piedone-a-cop-in-naples-skyshowtime",
+  "name": "Piedone - A Cop in Naples",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vicenzo Palmieri er tilbage i politistyrken efter at have været suspenderet i fire år. Han bliver tilknyttet politienheden ved havnen i Napoli, hvor han bruger sin berygtede grove charme og sine kreative metoder til at stille kriminelle for retten.",
+  "image": "https://cdn-play.tv2i.dk/04216ec4-3eb2-4a1a-a407-02e0ecd665fa.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f144b44d-6a0b-40bd-a009-6c005a6215f4",
+      "season": 1,
+      "number": 1,
+      "name": "Blandede følelser",
+      "airdate": "2025-02-21"
+    },
+    {
+      "id": "3e11dfab-f2f8-42ce-a0f9-1e749b6be528",
+      "season": 1,
+      "number": 2,
+      "name": "Skam",
+      "airdate": "2025-02-21"
+    },
+    {
+      "id": "57d2b825-27b9-4867-a86e-ecb95af8e105",
+      "season": 1,
+      "number": 3,
+      "name": "Ud over grænsen",
+      "airdate": "2025-02-21"
+    },
+    {
+      "id": "49a5cb7c-e6b6-4c58-a338-40ba67119c01",
+      "season": 1,
+      "number": 4,
+      "name": "Hjerte og sjæl",
+      "airdate": "2025-02-21"
+    }
+  ]
+}

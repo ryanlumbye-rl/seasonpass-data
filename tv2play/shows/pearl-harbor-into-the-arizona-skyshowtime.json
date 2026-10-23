@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:pearl-harbor-into-the-arizona-skyshowtime",
+  "name": "Pearl Harbor - Into the Arizona",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Oplev skibet, der bragte USA ind i 2. Verdenskrig og ændrede historiens gang. Tragedien med USS Arizona inspirerede millioner af amerikanere til at mobilisere sig til en krig mod det kejserlige Japan og dets allierede. 75 år efter angrebet på Pearl Harbor, udforsker forskere skibets sunkne indre.",
+  "image": "https://cdn-play.tv2i.dk/f490a9e3-52f7-4958-acd9-f297b2301424.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b06c76a4-e8a5-45c5-a3b2-30bc2544751d",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "33c6b52f-7cde-44ed-b55d-7da5af7a86d2",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-05-04"
+    }
+  ]
+}

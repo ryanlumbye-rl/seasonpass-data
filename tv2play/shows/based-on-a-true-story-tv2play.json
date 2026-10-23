@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:based-on-a-true-story-tv2play",
+  "name": "Based On A True Story",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En ejendomsmægler, en tidligere tennisspiller og en blikkenslager slår sig sammen for at udnytte amerikanernes fascination af true crime og gøre deres drømme til virkelighed.",
+  "image": "https://cdn-play.tv2i.dk/4350fc77-e078-4e4f-a147-0c8368039eae.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3693%2C2077&w=1280",
+  "episodes": [
+    {
+      "id": "3a5326bb-a557-45a7-a550-25a433b246c8",
+      "season": 1,
+      "number": 1,
+      "name": "The Great American Artform",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "dd549f44-cd23-403b-893e-1737ab132db2",
+      "season": 1,
+      "number": 2,
+      "name": "BDE",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "7b853b45-b13b-44b7-99cb-beb79d7a4ced",
+      "season": 1,
+      "number": 3,
+      "name": "Who's Next",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "5dd8c380-29bc-490b-98db-8aba0d62fd71",
+      "season": 1,
+      "number": 4,
+      "name": "The Survivor",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "d8b2472a-8138-4ab9-9c34-8154f0db3b8b",
+      "season": 1,
+      "number": 5,
+      "name": "Ted Bundy Bottle Opener",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "9acfb186-6f3e-4e1d-b6da-786cdd787a78",
+      "season": 1,
+      "number": 6,
+      "name": "Love You, Buzzfeed",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "2dc2c993-ed67-495f-90e9-a97955458b58",
+      "season": 1,
+      "number": 7,
+      "name": "National Geographic",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "f175c6ae-faa1-45e3-b623-22e085241d78",
+      "season": 1,
+      "number": 8,
+      "name": "The Universe",
+      "airdate": "2025-11-13"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:en-vej-ud-tv2",
+  "name": "En vej ud",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvem knækker koden og finder vej ud først? Alt kan ske, når værterne lukker en række kendte danskere inde i escape rooms, hvor de parvis skal dyste mod hinanden.",
+  "image": "https://cdn-play.tv2i.dk/564a3fcc-e542-4f01-aeff-1707e239f306.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8199e570-bb77-450a-8a04-3221933d5d42",
+      "season": 2,
+      "number": 1,
+      "name": "Højt at flyve, sjovt at falde",
+      "airdate": "2024-04-20"
+    },
+    {
+      "id": "0f0b66d0-4837-45ac-b0eb-ffd4177f9029",
+      "season": 2,
+      "number": 2,
+      "name": "Hjælp, der er høns i bageriet",
+      "airdate": "2024-04-27"
+    },
+    {
+      "id": "f26de108-8d79-4b99-b697-ec3a9d146461",
+      "season": 2,
+      "number": 3,
+      "name": "Skibet er ladet med skinke",
+      "airdate": "2024-05-04"
+    },
+    {
+      "id": "131a0856-9ca4-40cb-9ebb-adfe905a2a60",
+      "season": 2,
+      "number": 4,
+      "name": "Den store genfødsel",
+      "airdate": "2024-05-11"
+    },
+    {
+      "id": "9c208b1b-99c5-49a0-a577-80b63f0d9bf3",
+      "season": 2,
+      "number": 5,
+      "name": "Halløj på Klosterskolen",
+      "airdate": "2024-05-18"
+    },
+    {
+      "id": "ae43b237-8bb9-4004-8985-c68161b26d87",
+      "season": 2,
+      "number": 6,
+      "name": "Kan man tæve en slange med sin sko?",
+      "airdate": "2024-05-25"
+    },
+    {
+      "id": "c5af87f5-e03a-4976-8286-d383a00613f7",
+      "season": 2,
+      "number": 7,
+      "name": "Nudelsuppe og lykkekager",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "f3784b76-29b4-4399-8c59-a6131166b135",
+      "season": 2,
+      "number": 8,
+      "name": "Afterski med Bjerrehuus og Pitzner",
+      "airdate": "2022-12-26"
+    }
+  ]
+}

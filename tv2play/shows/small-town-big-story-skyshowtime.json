@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:small-town-big-story-skyshowtime",
+  "name": "Small Town, Big Story",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En Hollywood-produktion ruller ind i en lille irsk by og sætter fokus på en hemmelighed, der har været holdt skjult siden årtusindskiftet.",
+  "image": "https://cdn-play.tv2i.dk/b70db4f4-1717-480d-9c66-19143ed8270f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8fef9089-6fb7-4b61-99c4-af38c2c31655",
+      "season": 1,
+      "number": 1,
+      "name": "The White Ridge",
+      "airdate": "2025-03-19"
+    },
+    {
+      "id": "2dc1b1ed-feee-4d37-9aba-d5daba9cd9a2",
+      "season": 1,
+      "number": 2,
+      "name": "How Many People Does He Need?",
+      "airdate": "2025-03-19"
+    },
+    {
+      "id": "7bb2a871-fa18-4aa6-8470-a075c5562dd2",
+      "season": 1,
+      "number": 3,
+      "name": "On Children",
+      "airdate": "2025-03-19"
+    },
+    {
+      "id": "5d85dc9e-8bd0-408d-8f04-11497415b325",
+      "season": 1,
+      "number": 4,
+      "name": "An Dobhar Who?",
+      "airdate": "2025-03-19"
+    },
+    {
+      "id": "e9a19be4-4ffe-40ce-8db1-1b75168de13d",
+      "season": 1,
+      "number": 5,
+      "name": "The Pen Is Mighty",
+      "airdate": "2025-03-19"
+    },
+    {
+      "id": "10ee3b73-55c8-4815-99bb-0cf726a3ee91",
+      "season": 1,
+      "number": 6,
+      "name": "The Turd Man",
+      "airdate": "2025-03-19"
+    }
+  ]
+}

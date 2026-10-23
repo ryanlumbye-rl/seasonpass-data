@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:mere-end-en-klub-tv2",
+  "name": "Mere end en klub",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fra folkene bag ’Balladen om Kolonihaven’ har vi her en dokumentarserie, hvor vi kommer helt tæt på livet for de danske Superliga-fans. Hvem er de passionerede fans, der følger deres klub i tykt og tyndt?",
+  "image": "https://cdn-play.tv2i.dk/8993c007-3873-4a92-8e65-198c4e31c80d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e6e68199-f9f2-43b2-ab11-e81777300266",
+      "season": 1,
+      "number": 1,
+      "name": "AGF-Silkeborg IF: Den rene medicin",
+      "airdate": "2025-01-15"
+    },
+    {
+      "id": "917d856c-7ad1-4e8f-8bcf-7474952f90b1",
+      "season": 1,
+      "number": 2,
+      "name": "FC Nordsjælland-Brøndby IF: Kærlighed ruster aldrig",
+      "airdate": "2025-01-22"
+    },
+    {
+      "id": "0a22473f-aa6e-4248-b61f-f7cc60a8665f",
+      "season": 1,
+      "number": 3,
+      "name": "Sønderjyske-Vejle Boldklub: I medgang og modgang",
+      "airdate": "2025-01-29"
+    },
+    {
+      "id": "69097647-1e39-4f3e-8ad1-58b426bf1f16",
+      "season": 1,
+      "number": 4,
+      "name": "AaB-Randers FC: Grib dagen",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "ba9a6078-8658-43e7-9875-6f879e4d15fa",
+      "season": 1,
+      "number": 5,
+      "name": "Viborg FF-FC Midtjylland: Den eneste ene",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "5a19e524-bb54-4942-8e34-e0d19c87995a",
+      "season": 1,
+      "number": 6,
+      "name": "FC København-Lyngby Boldklub: Som alle andre",
+      "airdate": "2025-02-19"
+    }
+  ]
+}

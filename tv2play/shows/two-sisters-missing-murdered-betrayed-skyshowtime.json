@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:two-sisters-missing-murdered-betrayed-skyshowtime",
+  "name": "Two Sisters: Missing, Murdered, Betrayed",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Historien bag de chokerende mord på søstrene Bibaa Henry og Nicole Smallman og politiets efterfølgende tjenesteforseelse.",
+  "image": "https://cdn-play.tv2i.dk/8a80b8a4-fc9a-43ba-a20c-d925e2859503.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2161&w=1280",
+  "episodes": [
+    {
+      "id": "e35f35e5-8943-4542-85fa-0f64544e3762",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-07-06"
+    },
+    {
+      "id": "b49268e9-3268-47a8-b787-3c106a6c6530",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-07-06"
+    },
+    {
+      "id": "c8eb62a6-828c-4254-84b4-9ffcdc7e788f",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-07-06"
+    }
+  ]
+}

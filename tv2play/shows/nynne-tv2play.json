@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:nynne-tv2play",
+  "name": "Nynne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nynne er 35 år, single og drømmer om at finde den eneste ene.",
+  "image": "https://cdn-play.tv2i.dk/f3336877-2c09-49dc-bacd-c0d4254cc13e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "51637587-6a2c-445c-b592-3b11ef27890d",
+      "season": 1,
+      "number": 1,
+      "name": "Happy birthday",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "ed437760-754a-488a-9da6-d638c7ec3625",
+      "season": 1,
+      "number": 2,
+      "name": "Mennesket Nynne",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "accf805e-7aae-4b11-8a33-a9e52e9bc970",
+      "season": 1,
+      "number": 3,
+      "name": "2 kinky bananas",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "1650b6e9-5d98-4dc6-b7bf-80e0731a38ef",
+      "season": 1,
+      "number": 4,
+      "name": "Skyd papegøjen",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "4ae0a80b-d877-4212-9ade-a3e1aaaa5854",
+      "season": 1,
+      "number": 5,
+      "name": "Påskevirus",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "e089774b-828b-4a63-8621-ef84e3179120",
+      "season": 1,
+      "number": 6,
+      "name": "I krig og kærlighed",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "39679228-ad28-480b-8a5f-b0c965f026ff",
+      "season": 1,
+      "number": 7,
+      "name": "Mellem venner",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "e32dc61a-2880-4964-947d-730bb9b86869",
+      "season": 1,
+      "number": 8,
+      "name": "Plus på kontoen",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "168ee055-1101-4691-9ed8-cf4f59b28d2e",
+      "season": 1,
+      "number": 9,
+      "name": "En Nynne ser rødt",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "eb513044-40c8-40eb-b44d-646bd7d7c4a0",
+      "season": 1,
+      "number": 10,
+      "name": "Out of Copenhagen",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "d4985311-e9e2-438f-a758-5a60d641af7f",
+      "season": 1,
+      "number": 11,
+      "name": "I tyrens tegn",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "ab5602e0-5b9a-4369-adaa-8ca438ebbae7",
+      "season": 1,
+      "number": 12,
+      "name": "Elge i brunst",
+      "airdate": "2017-04-01"
+    },
+    {
+      "id": "50fa5b1d-5967-4538-b03d-ccd2c0c22696",
+      "season": 1,
+      "number": 13,
+      "name": "Happy end",
+      "airdate": "2017-04-01"
+    }
+  ]
+}

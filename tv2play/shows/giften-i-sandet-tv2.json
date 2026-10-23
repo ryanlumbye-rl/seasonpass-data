@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:giften-i-sandet-tv2",
+  "name": "Giften i sandet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 1950'erne begynder fisk at dø omkring kemikaliefabrikken Cheminova ved Thyborøn. Fiskeren Aage Hansen slår dengang alarm, men kun få lytter. Mere end 70 år senere kæmper Aages søn, Bjarne, stadig sin fars kamp af frygt for en potentiel miljøkatastrofe.",
+  "image": "https://cdn-play.tv2i.dk/512b832b-bf57-4504-bca5-03ec968f3e42.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e960e697-0db5-4999-b8c1-de4b60a9a664",
+      "season": 1,
+      "number": 1,
+      "name": "Havet sletter alle spor",
+      "airdate": "2025-09-14"
+    },
+    {
+      "id": "f89fee97-820c-48d1-8d47-0632be23e501",
+      "season": 1,
+      "number": 2,
+      "name": "Hvor der handles",
+      "airdate": "2025-09-21"
+    },
+    {
+      "id": "cef0dccc-9a98-404d-9e43-ef10cccd6e84",
+      "season": 1,
+      "number": 3,
+      "name": "Den perfekte storm",
+      "airdate": "2025-09-28"
+    },
+    {
+      "id": "b7fd85b4-8cab-4a07-9c78-e9ee11cbe040",
+      "season": 1,
+      "number": 4,
+      "name": "Skyggen over Thyborøn",
+      "airdate": "2025-10-05"
+    }
+  ]
+}

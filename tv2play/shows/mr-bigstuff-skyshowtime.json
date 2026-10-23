@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:mr-bigstuff-skyshowtime",
+  "name": "Mr. Bigstuff",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Livet for to fremmedgjorte brødre - Glen, en nervøs perfektionist, der stræber efter at efterleve forstadsidealet, og Lee, en alfahan på flugt fra en fortid, der hurtigt indhenter ham - optrævles, da omstændighederne tvinger dem sammen.",
+  "image": "https://cdn-play.tv2i.dk/d27ef76c-b2b5-4825-81e7-73d133613d5d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3842%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "25d32faa-30c8-495a-aded-dff0cb6b3448",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-08-02"
+    },
+    {
+      "id": "41b66a8e-29db-431d-808d-e3b8d6dcbd76",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-08-02"
+    },
+    {
+      "id": "d8bb67a8-5448-4384-943e-2bf52c315bd4",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-08-02"
+    },
+    {
+      "id": "766fbb79-f1ac-4518-966d-fb8e290170e0",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "56d0643d-b75d-4613-9e36-3df96ba95909",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-08-16"
+    },
+    {
+      "id": "f7006798-b15b-4174-b7b3-83d3a2e2f5f8",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-08-23"
+    },
+    {
+      "id": "7f8f814d-b6ed-4d7c-8f8b-0a971fde3217",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "03feb3d9-023e-488a-8539-d89005fd8a1c",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "e42eb24a-4a69-4a07-a5fe-7dd27a3f066d",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "001f3b72-8671-4a9c-af55-3c362f5e85ae",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "77d27937-2da0-4a0a-adb8-7cd15cb0f694",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "5fe06d6f-5e76-46fd-8d35-c2a4c36b4ff4",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-09-29"
+    }
+  ]
+}

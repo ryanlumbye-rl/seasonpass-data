@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:sleboda-skyshowtime",
+  "name": "Sleboda",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Anka er antropolog i Krakow. Hun bliver viklet ind i en undersøgelse, der er knyttet til de polske højlænderes hemmeligheder. Samtidig må hun håndtere familiebånd og en gammel flammes tilbagevenden.",
+  "image": "https://cdn-play.tv2i.dk/563a669f-128c-4e02-9a67-dce8dab68d11.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0e7e7bc2-6989-48bf-8e8b-5d0464f4d59f",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "a84f4744-bfe3-4725-b7fd-3d7ce36cd788",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "2a0008a9-5f37-4384-bd8b-0c0a18ccfe38",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "e3dbbcce-14c2-4300-bd99-f04440083dd7",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "f04aa58d-6767-4b93-8140-3d3567faad0f",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "b31db56c-9133-43e3-9912-502fe17e4f30",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-02-20"
+    }
+  ]
+}

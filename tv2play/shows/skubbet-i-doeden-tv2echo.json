@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:skubbet-i-doeden-tv2echo",
+  "name": "Skubbet i døden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I september 2021 tog nygifte Fawziayh og Kashif til Edinburgh på en miniferie og gik i solnedgangen op på toppen af klippen 'Arthur's Seat', der er et populært udflugtsmål. Men kun Kashif kom ned igen i live. Skubbede han gravide Fawziyah i døden? Følg dette intense retssalsdrama for rullende kameraer.",
+  "image": "https://cdn-play.tv2i.dk/9afa05f4-60d1-4a68-835a-e96b642106e2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "26ac9875-866f-4cf8-ba7e-eb2ec2934c40",
+      "season": 1,
+      "number": 1,
+      "name": "Sagen oprulles",
+      "airdate": "2024-09-03"
+    },
+    {
+      "id": "f725e404-749c-4b9a-a7a2-25c882237f6e",
+      "season": 1,
+      "number": 2,
+      "name": "Nye afsløringer",
+      "airdate": "2024-09-10"
+    },
+    {
+      "id": "d1f7e9a9-1f2d-4f05-a047-540ba544d83e",
+      "season": 1,
+      "number": 3,
+      "name": "Afgørelsen",
+      "airdate": "2024-09-17"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "tv2play:dag-nat-tv2",
+  "name": "Dag & nat",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den internationalt anerkendte instruktør Lone Scherfigs serie om livet på et dansk hospital. Et mangefacetteret portræt af en arbejdsplads, hvor folk med vidt forskellige baggrunde deler både livsbekræftende og rystende oplevelser.",
+  "image": "https://cdn-play.tv2i.dk/e0f97533-96d7-40d6-a849-c57612b1aa57.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C7690%2C4322&w=1280",
+  "episodes": [
+    {
+      "id": "01e60aa1-51e8-4b0b-9f7a-defdb0b825b3",
+      "season": 1,
+      "number": 1,
+      "name": "Ultimatum",
+      "airdate": "2022-05-22"
+    },
+    {
+      "id": "346a208d-7fe8-410f-8eb2-d9ce55e8a186",
+      "season": 1,
+      "number": 2,
+      "name": "Ønskebarn",
+      "airdate": "2022-05-29"
+    },
+    {
+      "id": "9d362d64-9420-49e2-93fe-303b7b718f51",
+      "season": 1,
+      "number": 3,
+      "name": "Sidste udkald",
+      "airdate": "2022-06-05"
+    },
+    {
+      "id": "4bee1ffb-d5c8-451a-b484-04fb14ed7e34",
+      "season": 1,
+      "number": 4,
+      "name": "Ansvar",
+      "airdate": "2022-06-12"
+    },
+    {
+      "id": "10edbc19-92d9-4109-89cc-143ef8246240",
+      "season": 1,
+      "number": 5,
+      "name": "Hemmeligheder",
+      "airdate": "2022-06-19"
+    },
+    {
+      "id": "c55c6a93-3863-4afe-a53a-45470c1cfced",
+      "season": 1,
+      "number": 6,
+      "name": "Det private",
+      "airdate": "2022-06-26"
+    },
+    {
+      "id": "967c8aa0-59e4-4f84-9c62-5126993ee7bd",
+      "season": 1,
+      "number": 7,
+      "name": "Frihed",
+      "airdate": "2022-07-03"
+    },
+    {
+      "id": "42cefe1b-2f3a-468d-8163-77025ef3f443",
+      "season": 1,
+      "number": 8,
+      "name": "Far, mor, barn",
+      "airdate": "2022-07-10"
+    },
+    {
+      "id": "0e4d9762-c236-4282-8152-4ae923196eee",
+      "season": 2,
+      "number": 1,
+      "name": "Sidsel, Nikoline og Benjamin",
+      "airdate": "2025-12-28"
+    },
+    {
+      "id": "32977645-c3be-4cba-a9bd-abe031a9c70a",
+      "season": 2,
+      "number": 2,
+      "name": "Molly",
+      "airdate": "2026-01-04"
+    },
+    {
+      "id": "99e756a9-873e-4bd7-a8d2-9a46a8a5296a",
+      "season": 2,
+      "number": 3,
+      "name": "Andrij og Lukas",
+      "airdate": "2026-01-11"
+    },
+    {
+      "id": "eb523531-e69a-4cb5-82f9-87d2d352bd63",
+      "season": 2,
+      "number": 4,
+      "name": "Sami, Feliks og Anton",
+      "airdate": "2026-01-18"
+    },
+    {
+      "id": "435dfa31-2924-4808-bbcb-cb1493c89db9",
+      "season": 2,
+      "number": 5,
+      "name": "Konstantin og Natasha",
+      "airdate": "2026-01-25"
+    },
+    {
+      "id": "6db00926-78d5-4ba6-98b5-5c8a33820f4e",
+      "season": 2,
+      "number": 6,
+      "name": "Alberte og Otto",
+      "airdate": "2026-02-01"
+    },
+    {
+      "id": "68f78f4b-e82e-4e13-9142-feddca779af6",
+      "season": 2,
+      "number": 7,
+      "name": "Isak, Sarah og Victor",
+      "airdate": "2026-02-08"
+    },
+    {
+      "id": "861ae9ab-3610-4f3d-96c8-3c289e46f87e",
+      "season": 2,
+      "number": 8,
+      "name": "Sif, Vilma og Benjamin",
+      "airdate": "2026-02-15"
+    }
+  ]
+}

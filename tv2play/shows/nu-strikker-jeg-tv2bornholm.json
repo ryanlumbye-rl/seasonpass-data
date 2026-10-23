@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:nu-strikker-jeg-tv2bornholm",
+  "name": "Nu strikker jeg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Astrid har aldrig lært at strikke - endnu. Men Bornholm er heldigvis fyldt med glade, dygtige strikkeentusiaster, der gerne vil lære hende om glæderne ved at strikke",
+  "image": "https://cdn-play.tv2i.dk/4123309c-877e-4ef5-9cb4-54e59dcc1a35.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a83c96f2-1597-46b4-ab76-b07dbb084f1e",
+      "season": 1,
+      "number": 1,
+      "name": "Fra uld til garn",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "a7e1bef7-b754-4484-8664-aa064e1afb08",
+      "season": 1,
+      "number": 2,
+      "name": "Strik på recept",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "90c68aee-d14f-41da-9b15-50247793bdc0",
+      "season": 1,
+      "number": 3,
+      "name": "De unge garnspirer",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "f3fcec34-bfb9-4924-ba26-b73a1a50ae78",
+      "season": 1,
+      "number": 4,
+      "name": "Sammen om maskerne",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "72c0b5e8-85aa-4f39-b17b-17f96079b175",
+      "season": 1,
+      "number": 5,
+      "name": "Garnets festdage",
+      "airdate": "2024-10-31"
+    }
+  ]
+}

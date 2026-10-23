@@ -1,0 +1,292 @@
+{
+  "id": "tv2play:snowpiercer-skyshowtime",
+  "name": "Snowpiercer",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mere end syv år efter, at verden er blevet til en frossen ødemark, kører det gigantiske tog \"Snowpiercer\" rundt på jorden og holder menneskehedens sidste overlevende i live - indtil et mord om bord truer den etablerede orden.",
+  "image": "https://cdn-play.tv2i.dk/a15c9b65-7575-47e5-a5bd-22bbec42735c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "737fd9cf-0ab9-469b-915e-4ed831893406",
+      "season": 1,
+      "number": 1,
+      "name": "Først skiftede vejret",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "f646568c-08c6-493d-84a8-d69a69fe0177",
+      "season": 1,
+      "number": 2,
+      "name": "Vær forberedt",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "9a5cf945-7b76-4635-b609-e25e268e0fe0",
+      "season": 1,
+      "number": 3,
+      "name": "Adgang er magt",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "904341ff-7e9c-45cc-993a-ebf9d4451d55",
+      "season": 1,
+      "number": 4,
+      "name": "Uden deres skaber",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "ece38f70-fc21-4b52-965d-ff2058f500a0",
+      "season": 1,
+      "number": 5,
+      "name": "Retfærdighed steg aldrig ombord",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "4f7f4fc1-e9fc-4dcc-b124-bc088cd306ef",
+      "season": 1,
+      "number": 6,
+      "name": "Problemer fra siden",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "f7b21edf-8dba-4f9a-b809-deb8acf4cc7d",
+      "season": 1,
+      "number": 7,
+      "name": "Universet er ligeglad",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "3dde6c4b-1fdf-4d65-9db3-d1144b5e8a5b",
+      "season": 1,
+      "number": 8,
+      "name": "Dette er hans revolutioner",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "f2efef5e-d52b-4d3d-92dd-2c389402e10b",
+      "season": 1,
+      "number": 9,
+      "name": "Toget krævede blod",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "fb25729f-93ab-4f5b-8f26-102b7b3b8867",
+      "season": 1,
+      "number": 10,
+      "name": "994 togvogne lang",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "c42533af-76be-4af0-aae8-819732a6815c",
+      "season": 2,
+      "number": 1,
+      "name": "De to motorers tid",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "819bafeb-1240-4685-b24c-2b753f12366d",
+      "season": 2,
+      "number": 2,
+      "name": "Langsomt til live",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "7be81d5e-879f-467f-ac14-0fbfc803fd57",
+      "season": 2,
+      "number": 3,
+      "name": "En stor odyssé",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "b3dc6eb1-83bc-4323-9fae-bf851e5725f7",
+      "season": 2,
+      "number": 4,
+      "name": "En enkelt handel",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "e4acf105-59f7-4051-9bfe-299ba629c2aa",
+      "season": 2,
+      "number": 5,
+      "name": "Hold håbet i live",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "f5841521-adfd-4595-a680-82016f610f2d",
+      "season": 2,
+      "number": 6,
+      "name": "Mange mil fra Snowpiercer",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "d81923f7-9237-40b4-8d38-76e9f7792aad",
+      "season": 2,
+      "number": 7,
+      "name": "Vores svar på alt",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "bcd3891e-ed16-4168-84a4-230d918845dc",
+      "season": 2,
+      "number": 8,
+      "name": "Den evige ingeniør",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "c040d749-7cab-40fa-9c7d-f42fa542526b",
+      "season": 2,
+      "number": 9,
+      "name": "Forestillingen må fortsætte",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "73ae10a7-ac0b-4431-ab08-32dc3544f1e3",
+      "season": 2,
+      "number": 10,
+      "name": "Ind i det hvide",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "de12d226-091f-41e9-a075-271c63fe5c05",
+      "season": 3,
+      "number": 1,
+      "name": "Skildpadden og haren",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "995a6403-eb8c-4a73-b967-5258ff7de516",
+      "season": 3,
+      "number": 2,
+      "name": "Den sidste i rækken",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "83c3ba72-a2fd-4168-84f8-e728ab09d631",
+      "season": 3,
+      "number": 3,
+      "name": "Det første slag",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "347e3c2c-817f-420f-9b5d-39b27238bd10",
+      "season": 3,
+      "number": 4,
+      "name": "Bundet af ét spor",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "7e362f1b-ca39-477b-be1a-2bfef552fb0e",
+      "season": 3,
+      "number": 5,
+      "name": "Et nyt liv",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "ef399677-6593-449f-acb6-c2db87fbb1c1",
+      "season": 3,
+      "number": 6,
+      "name": "Født til at bløde",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "648e4021-efdb-4462-8f03-b409fabb3ed7",
+      "season": 3,
+      "number": 7,
+      "name": "Ouroboros",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "48701609-f1ab-4f73-ba89-f33c99b301c5",
+      "season": 3,
+      "number": 8,
+      "name": "Tilbage på rette spor",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "9c586c3f-408e-41be-85ac-0b0df7df1124",
+      "season": 3,
+      "number": 9,
+      "name": "Et fyrtårn for os alle",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "84790bc7-2119-46dd-9151-9ea095d6deb1",
+      "season": 3,
+      "number": 10,
+      "name": "De oprindelige syndere",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "db97c38a-dbba-40db-aa8a-369d556ede97",
+      "season": 4,
+      "number": 1,
+      "name": "Slanger i paradiset",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "e26f1f80-f3db-4b84-8fb3-5145737896e0",
+      "season": 4,
+      "number": 2,
+      "name": "Overlevelsens smerte",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "295bfcb4-13f3-458d-8f4c-fc36da8c538a",
+      "season": 4,
+      "number": 3,
+      "name": "Livskilde",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "de7f008e-94fa-4033-8299-58b86c21b4ec",
+      "season": 4,
+      "number": 4,
+      "name": "Nordstjernen",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "9588924b-f007-46ac-b73c-7030ce8d906c",
+      "season": 4,
+      "number": 5,
+      "name": "Ingeniøren",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "d7712ebc-5d2b-4f75-af74-9448debe11c8",
+      "season": 4,
+      "number": 6,
+      "name": "Katten Bell",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "d1f5b8d7-e41b-418c-b07d-530451b85525",
+      "season": 4,
+      "number": 7,
+      "name": "Tiltrukket af lyset",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "6a7cff96-51d2-4923-8582-a7873ebc9949",
+      "season": 4,
+      "number": 8,
+      "name": "Ved grædende kors",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "82e7122a-1b90-417f-af31-3526d5f1011d",
+      "season": 4,
+      "number": 9,
+      "name": "Dominerende træk",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "fa303310-0be7-4571-9b89-eb4d81dad220",
+      "season": 4,
+      "number": 10,
+      "name": "Sidste stop",
+      "airdate": "2025-04-08"
+    }
+  ]
+}

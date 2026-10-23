@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:razzia-tv2",
+  "name": "Razzia",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med på når vi følger medarbejderne fra SKAT, de danske grænsevagter samt fødevare- og miljøkontrollører, der hver dag arbejder i danskernes tjeneste.",
+  "image": "https://cdn-play.tv2i.dk/20c272c4-3864-4660-b665-700287cb4e07.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "72dede87-066e-4903-aca3-de0437c6fdf5",
+      "season": 9,
+      "number": 1,
+      "name": "Med SKAT og politiet på jagt",
+      "airdate": "2018-12-08"
+    },
+    {
+      "id": "6b576422-4e51-4dbe-a59b-d64aeb372543",
+      "season": 9,
+      "number": 2,
+      "name": "Med SKAT og politiet på jagt",
+      "airdate": "2018-12-13"
+    },
+    {
+      "id": "af2afa40-b481-41ea-8c81-f733e5df0db0",
+      "season": 9,
+      "number": 3,
+      "name": "Med SKAT og politiet på jagt",
+      "airdate": "2018-12-15"
+    },
+    {
+      "id": "9d41855c-3e35-472d-be4c-0fe0d58119a5",
+      "season": 9,
+      "number": 4,
+      "name": "Med SKAT og politiet på jagt",
+      "airdate": "2018-12-22"
+    },
+    {
+      "id": "5498dc04-6d9f-45d4-bfb2-3ef9d385510f",
+      "season": 9,
+      "number": 5,
+      "name": "Med SKAT og politiet på jagt",
+      "airdate": "2018-12-23"
+    },
+    {
+      "id": "177cdd25-ea40-4271-889d-054e4b052cda",
+      "season": 9,
+      "number": 6,
+      "name": "Narkokørsel uden sele",
+      "airdate": "2019-02-27"
+    },
+    {
+      "id": "4bd9074a-2597-4de2-84cf-b6317efab0e5",
+      "season": 9,
+      "number": 9,
+      "name": "Uopmærksomme cyklister",
+      "airdate": "2019-03-27"
+    },
+    {
+      "id": "7c255f07-10c1-4316-8603-9a43b3b6798a",
+      "season": 9,
+      "number": 10,
+      "name": "Narkopåvirket prøveløsladt stikker af",
+      "airdate": "2019-06-19"
+    },
+    {
+      "id": "d7c58263-c192-489b-a4f2-8fe65c0419bb",
+      "season": 9,
+      "number": 11,
+      "name": "Cykelrazzia i Gothersgade",
+      "airdate": "2019-06-19"
+    },
+    {
+      "id": "b90c43d0-7e01-4016-b800-d339395e99b7",
+      "season": 9,
+      "number": 12,
+      "name": "Spritkørsel i Nakskov",
+      "airdate": "2019-06-26"
+    }
+  ]
+}

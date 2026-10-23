@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:det-staerke-valg-tv2nord",
+  "name": "Det stærke valg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvor langt vil de kommunale politikerne gå for at få taletid i Nordjylland? Det forsøger vi at finde ud af ved at tilbyde dem taletid for at spise chilier. Jo stærkere en chili de spiser, jo mere taletid får de.",
+  "image": "https://cdn-play.tv2i.dk/daa7782e-dadd-40ec-ab9b-4eb11a701e99.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b32f4714-3797-408e-87e7-d2fb15cb6868",
+      "season": 1,
+      "number": 1,
+      "name": "Frederikshavn",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "c7e915b7-8208-4b47-bb5b-2b8a92b07588",
+      "season": 1,
+      "number": 2,
+      "name": "Rebild",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "717acdf9-8ba5-444f-8dea-2d34fdc5f5b1",
+      "season": 1,
+      "number": 3,
+      "name": "Brønderslev",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "2807031f-e3b8-4c0d-b74a-51a5a337335f",
+      "season": 1,
+      "number": 4,
+      "name": "Mariagerfjord",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "e9f59028-23ca-4662-af6c-a8294ff6032c",
+      "season": 1,
+      "number": 5,
+      "name": "Hjørring",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "7375b70b-c0b2-466e-87bd-75edb0c5d0a3",
+      "season": 1,
+      "number": 6,
+      "name": "Aalborg",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "2c0dba80-70d1-4221-a0fc-7f948e864b00",
+      "season": 1,
+      "number": 7,
+      "name": "Jammerbugt",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "aba00f9f-9011-4fc8-87ba-f024a6217fb6",
+      "season": 1,
+      "number": 8,
+      "name": "Vesthimmerland",
+      "airdate": "2025-11-03"
+    }
+  ]
+}

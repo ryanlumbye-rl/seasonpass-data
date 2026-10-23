@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:med-rygsaek-og-rullekuffert-tv2",
+  "name": "Med rygsæk og rullekuffert",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg komiker Jonas Mogensen og skuespiller Anders Brink på deres rejse gennem Europa i jagten på det ultimative grønne eventyr. Og find ud af, om Jonas er klar til at sætte sin magelighed på spil for planetens skyld.",
+  "image": "https://cdn-play.tv2i.dk/6211102e-89a2-4ee5-b18c-e44dca3f9f4a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3410166c-ed99-4077-b7d2-e4fd889d74e0",
+      "season": 1,
+      "number": 1,
+      "name": "En stram begyndelse",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "c43caf14-3849-4638-9279-e1b97dac1c82",
+      "season": 1,
+      "number": 2,
+      "name": "Fuld af håb",
+      "airdate": "2024-08-28"
+    },
+    {
+      "id": "e891b6d6-c76f-4103-8716-02ca29492763",
+      "season": 1,
+      "number": 3,
+      "name": "En grøn bjørnetjeneste",
+      "airdate": "2024-09-04"
+    },
+    {
+      "id": "60848f95-9ac1-47df-8270-f99cf9566986",
+      "season": 1,
+      "number": 4,
+      "name": "Sidste kamp for klimaet",
+      "airdate": "2024-09-11"
+    }
+  ]
+}

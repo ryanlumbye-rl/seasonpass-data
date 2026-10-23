@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:ole-henriksens-hollywood-tv2",
+  "name": "Ole Henriksens Hollywood",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I Ole Henriksens Hollywood byder Ole 6 kendte danske mænd \"op til dans\". Lars Hjortshøj, Peter Ganztler, Søren gade Joachim B. Olsen, Stig Tøfting og Thomas Eje kommer alle i kyndige hænder hos Ole Henriksen der skal lærer de seks mænd, hvad det også vil sige at være mand.",
+  "image": "https://cdn-play.tv2i.dk/8d022060-6150-409a-9773-a62cceedecd8.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "3cc15024-1b4e-4d6e-8fe8-50d1a1669947",
+      "season": 1,
+      "number": 1,
+      "name": "Med Lars Hjortshøj",
+      "airdate": "2007-08-29"
+    },
+    {
+      "id": "666b13f3-b5bd-4031-ae7d-6620732b8820",
+      "season": 1,
+      "number": 2,
+      "name": "Med Peter Gantzler",
+      "airdate": "2007-09-05"
+    },
+    {
+      "id": "9311f2d3-fb6c-475c-bb24-eafdc62e8b75",
+      "season": 1,
+      "number": 3,
+      "name": "Med Søren Gade",
+      "airdate": "2007-09-19"
+    },
+    {
+      "id": "369fa707-e0e4-490f-a73c-287c6b6f4988",
+      "season": 1,
+      "number": 4,
+      "name": "Med Joachim B. Olsen",
+      "airdate": "2007-09-26"
+    },
+    {
+      "id": "c1579e3c-7938-4456-b145-2439aaed57ec",
+      "season": 1,
+      "number": 5,
+      "name": "Med Thomas Eje",
+      "airdate": "2007-10-03"
+    },
+    {
+      "id": "b3d38a72-a903-4556-8d19-a9c684e07330",
+      "season": 1,
+      "number": 6,
+      "name": "Med Stig Tøfting",
+      "airdate": "2007-10-10"
+    }
+  ]
+}

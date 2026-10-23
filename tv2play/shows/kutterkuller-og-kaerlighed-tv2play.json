@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:kutterkuller-og-kaerlighed-tv2play",
+  "name": "Kutterkuller og kærlighed",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Rune Kristensen har kastet sin kærlighed på den gamle rejekutter Bolette Munkholm. Den skal danne ramme om et nyt liv for Rune og hans børn i Tejn Havn. Rune er bager og mener, at bagværk er grundlaget for alt håndværk – men Bolette gemmer på flere overraskelser og giver den gamle bager kamp til stregen.",
+  "image": "https://cdn-play.tv2i.dk/3bf0e816-6cf3-40f8-93f3-c6ff14130640.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "0df86fa5-d99e-4334-8728-9e1cddcfac83",
+      "season": 1,
+      "number": 1,
+      "name": "Impulskøb på 62 tons",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "1a07a9bb-aa9e-4de3-a88d-03d433d0740a",
+      "season": 1,
+      "number": 2,
+      "name": "Uventede buler og dybe tanker",
+      "airdate": "2026-01-22"
+    },
+    {
+      "id": "a283ebc8-f9f3-4694-9eba-3dcb54762f3c",
+      "season": 1,
+      "number": 3,
+      "name": "Runes egen grædemur",
+      "airdate": "2026-01-29"
+    },
+    {
+      "id": "56f8d028-e5a5-4899-92ed-dd2b5f8a1c45",
+      "season": 1,
+      "number": 4,
+      "name": "Makeover med powertools og rustbeskytter",
+      "airdate": "2026-02-05"
+    },
+    {
+      "id": "05754343-5ab2-4dae-8d44-cc46cc78fdfa",
+      "season": 1,
+      "number": 5,
+      "name": "Umulig tape og kvalitetstid",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "b49fd880-c311-4ef2-a051-630ad86cff30",
+      "season": 1,
+      "number": 6,
+      "name": "Selvvalgt familie og nervøse trækninger",
+      "airdate": "2026-03-03"
+    },
+    {
+      "id": "9b2598e5-4a23-478e-89a4-497b6f5de62a",
+      "season": 1,
+      "number": 7,
+      "name": "Glasfiberpest og pruttrusler",
+      "airdate": "2026-03-23"
+    }
+  ]
+}

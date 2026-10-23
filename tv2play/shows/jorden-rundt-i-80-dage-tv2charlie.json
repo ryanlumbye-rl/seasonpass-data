@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "London, 1872. Gentlemanden Phileas Fogg kaster sig ud i et vildt væddemål: at rejse jorden rundt på kun 80 dage. Han får hjælp fra den kvikke franskmand Passepartout og journalisten Abigail, som fik den vanvittige idé til at starte med.",
+  "image": "https://cdn-play.tv2i.dk/302933fe-aa85-4faa-be42-91c9bf075b8a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "a6d1a97f-39b3-4cc7-9d14-ffb62a90a4ca",

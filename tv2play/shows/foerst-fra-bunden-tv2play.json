@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:foerst-fra-bunden-tv2play",
+  "name": "Først fra bunden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ulsteds tredjehold taber første og anden halvleg, men de vinder i tredje. Niveauet er lavt, og ambitionerne matcher tømmermændene på kampdagen. Så hvorfor spiller man egentlig fodbold, når man er så dårlig til det? Sammenhold og fællesskab tager førstepladsen, når holdet mødes.",
+  "image": "https://cdn-play.tv2i.dk/b262f021-e9d4-4494-bb0b-20c77c5a3858.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "0b58b546-646f-4cfd-87fa-c37a93013b22",
+      "season": 1,
+      "number": 1,
+      "name": "Hvad kæmper vi for?",
+      "airdate": "2026-03-08"
+    },
+    {
+      "id": "ce16b1e9-9d3e-4daa-b64f-cbd39ffcac8f",
+      "season": 1,
+      "number": 2,
+      "name": "Ulsted eller Ukraine?",
+      "airdate": "2026-03-15"
+    },
+    {
+      "id": "ebd23414-ea9f-452a-b8bd-bd228685f1d3",
+      "season": 1,
+      "number": 3,
+      "name": "En for alle",
+      "airdate": "2026-03-22"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:lykke-per-tv2",
+  "name": "Lykke-Per",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Per vil revolutionere Danmark og gøre landet til en industrination med en helt ny måde at udnytte vind- og bølgeenergi. Vi er i slutningen af 1800-tallet, og det er de færreste, der forstår hans ambitiøse projekt. For at realisere sig selv og sin drøm kapper Per trådene til sin strenge opvækst i det religiøse præstehjem i Jylland.",
+  "image": "https://cdn-play.tv2i.dk/6da590b2-dbf0-413d-a6b2-74d4727d13ca.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0206deb4-58bc-4c87-ad31-01916191bcdf",
+      "season": 1,
+      "number": 1,
+      "name": "Rejsen",
+      "airdate": "2018-12-26"
+    },
+    {
+      "id": "bd6b3607-80df-4773-be8b-52920c7d9395",
+      "season": 1,
+      "number": 2,
+      "name": "Kærligheden",
+      "airdate": "2019-01-02"
+    },
+    {
+      "id": "53a5b85f-767d-4cb9-b3b1-174de8860617",
+      "season": 1,
+      "number": 3,
+      "name": "Tabet",
+      "airdate": "2019-01-09"
+    },
+    {
+      "id": "b0d5d83a-d393-4969-8dc4-4f6ffd7d52e9",
+      "season": 1,
+      "number": 4,
+      "name": "Det nye liv",
+      "airdate": "2019-01-16"
+    }
+  ]
+}

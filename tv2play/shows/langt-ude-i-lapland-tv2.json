@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:langt-ude-i-lapland-tv2",
+  "name": "Langt ude i Lapland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På udebane i ødemarken. Hvad sker der, når vi forlader hverdagen og begiver os ud på eventyr - langt væk fra Danmark? Skuespiller Thomas Bo Larsen og tv-vært Lene Beier har taget imod en eventyrlig udfordring. I to uger skal de sammen rejse gennem det barske Lapland i den arktiske del af Sverige.",
+  "image": "https://cdn-play.tv2i.dk/38c58090-ed87-41b4-8f41-ed5e0af10dad.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "be425f55-5787-49ef-978b-08a323f6c3f8",
+      "season": 1,
+      "number": 1,
+      "name": "Hvad gør vi nu?",
+      "airdate": "2022-03-14"
+    },
+    {
+      "id": "ccbec3de-8f36-4541-88f4-53f399fae0c2",
+      "season": 1,
+      "number": 2,
+      "name": "Land i sigte",
+      "airdate": "2022-03-14"
+    },
+    {
+      "id": "af80daa1-813a-4690-af5b-5801868cd41b",
+      "season": 1,
+      "number": 3,
+      "name": "Nu har jeg nået toppen, mor!",
+      "airdate": "2022-03-21"
+    },
+    {
+      "id": "2b6c4d2d-6e54-46f3-8937-68c5b0bb786d",
+      "season": 1,
+      "number": 4,
+      "name": "Skyd!",
+      "airdate": "2022-03-28"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kondrup-paa-knae-tv2play",
+  "name": "Kondrup på knæ",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Emil Kondrup har friet til Lisa Marie. Så nu skal de to ustrukturerede typer sammen planlægge det forestående bryllup. Det giver anledning til vanligt kaos, for de er ikke nødvendigvis enige om, hvordan det skal foregå.",
+  "image": "https://cdn-play.tv2i.dk/3b18e61f-5b3e-4128-ab83-89d611be742a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "cc93d029-203e-42d6-a20d-e0eb06ae0ad2",
+      "season": 1,
+      "number": 1,
+      "name": "Gør-det-selv eller ej",
+      "airdate": "2026-01-19"
+    },
+    {
+      "id": "105908e7-8fd7-405a-99ec-ac15a4a2e52c",
+      "season": 1,
+      "number": 2,
+      "name": "Prisen på pattegrisen",
+      "airdate": "2026-01-26"
+    },
+    {
+      "id": "ae60f7a8-67c9-4d99-8003-07800eeb83f7",
+      "season": 1,
+      "number": 3,
+      "name": "Flødekartofler eller social dining?",
+      "airdate": "2026-02-02"
+    },
+    {
+      "id": "95669add-6938-4206-ac1c-b47e35917c2a",
+      "season": 1,
+      "number": 4,
+      "name": "Der er en hugorm!",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "72e6f115-f524-4138-bb81-6f4bcae42314",
+      "season": 1,
+      "number": 5,
+      "name": "Alt er kaos - seriøst kaos",
+      "airdate": "2026-02-16"
+    },
+    {
+      "id": "dede4ee0-2891-4ba9-bf04-241db3fd4b03",
+      "season": 1,
+      "number": 6,
+      "name": "En særlig morgengave",
+      "airdate": "2026-02-23"
+    }
+  ]
+}

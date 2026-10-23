@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Dansk dokumentarserie, hvor vi følger tre af landets bedste konditorer i den travle juletid - lige fra forberedelserne i oktober og november til den hektisk juletid i december.",
+  "image": "https://cdn-play.tv2i.dk/1734ae62-6b79-4c1d-b6f0-f5ae152e37e2.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
   "episodes": [
     {
       "id": "631d0b23-18b1-49ac-81db-2b3e2c037a58",

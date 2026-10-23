@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:vild-vildere-lyngvild-tv2fri",
+  "name": "Vild, vildere, Lyngvild",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "75b5822b-cbbb-4afc-83d6-2c539f2c0721",
+      "season": 1,
+      "number": 1,
+      "name": "Lyngvilds vildeste projekt",
+      "airdate": "2022-04-26"
+    },
+    {
+      "id": "260a84a6-ef53-425b-a650-e94ffe4f8344",
+      "season": 1,
+      "number": 2,
+      "name": "Afsløring for millioner",
+      "airdate": "2022-04-26"
+    },
+    {
+      "id": "f38b2d5e-6fab-4506-9897-5c7a10e8af9e",
+      "season": 1,
+      "number": 3,
+      "name": "Lyngvildsk juleevangelium og alvorssnak",
+      "airdate": "2022-05-03"
+    },
+    {
+      "id": "b3cb2691-c026-4436-83eb-fcdba951d301",
+      "season": 1,
+      "number": 4,
+      "name": "Jim bryder sammen",
+      "airdate": "2022-05-10"
+    },
+    {
+      "id": "1ab2adfd-8e49-4425-84e4-11e4d3009d6f",
+      "season": 1,
+      "number": 5,
+      "name": "Jim i shitstorm",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "fede12b3-479d-4c96-9613-e6bf6a022c49",
+      "season": 1,
+      "number": 6,
+      "name": "Kaos i Grønland",
+      "airdate": "2022-05-24"
+    }
+  ]
+}

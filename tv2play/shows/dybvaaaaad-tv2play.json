@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Se med når Tobias Dybvad kærligt og ærligt deler ud af parodier, sketches og satire om tv-koncepter, tv-tilrettelæggere og tv-personligheder.",
+  "image": "https://cdn-play.tv2i.dk/717fad6a-7572-4014-b0f3-f3b88e68dac1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "ecf6f939-b7f0-41c1-855a-866627e8d40f",
@@ -663,6 +665,13 @@
       "number": 2,
       "name": "I Herning",
       "airdate": "2020-09-14"
+    },
+    {
+      "id": "64831a94-1c8e-4b49-ab95-d2cdb8c102f0",
+      "season": 11,
+      "number": 3,
+      "name": "I Køge",
+      "airdate": "2020-09-21"
     },
     {
       "id": "3c6f72bc-520d-4a04-9d01-d77b2815f9c2",

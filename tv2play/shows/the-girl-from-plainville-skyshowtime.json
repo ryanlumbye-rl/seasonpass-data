@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:the-girl-from-plainville-skyshowtime",
+  "name": "The Girl from Plainville",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Inspireret af den sande historie om Michelle Carters usædvanlige sms-selvmordssag, der endte med at hun blev dømt for uagtsomt manddrab efter at have opfordret sin daværende kæreste til at begå selvmord.",
+  "image": "https://cdn-play.tv2i.dk/f948638d-e83d-4763-a253-7ced32751bbc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b4cd3cd6-760f-4a78-a636-6b23a7c86bcd",
+      "season": 1,
+      "number": 1,
+      "name": "Star-Crossed Lovers and Things Like That",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "2f650b01-03c8-4dac-8f04-5630d42d40e4",
+      "season": 1,
+      "number": 2,
+      "name": "Turtle",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "192ab980-11d3-423d-baa5-11ac7f9bcebb",
+      "season": 1,
+      "number": 3,
+      "name": "Never Have I Ever",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "e2f59b85-cfa1-4d81-9758-ed3a52740c99",
+      "season": 1,
+      "number": 4,
+      "name": "Can't Fight This Feeling",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "4a421298-2431-4753-947f-f0c2b998a461",
+      "season": 1,
+      "number": 5,
+      "name": "Mirrorball",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "8b042a7e-52e8-42d1-bc84-f015689a16d3",
+      "season": 1,
+      "number": 6,
+      "name": "Talking Is Healing",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "6643db70-96ca-4c84-bf4f-cd8f1c7c471e",
+      "season": 1,
+      "number": 7,
+      "name": "Teenage Dirtbag",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "9927719a-43d4-489a-b283-b2b7a511a495",
+      "season": 1,
+      "number": 8,
+      "name": "Blank Spaces",
+      "airdate": "2025-09-30"
+    }
+  ]
+}

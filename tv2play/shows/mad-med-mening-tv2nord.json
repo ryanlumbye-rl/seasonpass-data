@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:mad-med-mening-tv2nord",
+  "name": "Mad med mening",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Danskerne gider ikke lave mad fra bunden. De vælger de letteste og hurtigste løsninger. Det vil kok og madaktivist Emilie Kjærgaard lave om på i dette opråb. Hun mener, at forbrugerne bør fokusere på lokale råvarer, klimavenlige alternativer og godt håndværk i stedet for vakuumpakkede retter",
+  "image": "https://cdn-play.tv2i.dk/027e8ffd-828f-46d3-ab79-c0661496805a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8954918e-8ce4-4d62-8391-9a8dc7348fbd",
+      "season": 1,
+      "number": 1,
+      "name": "Klimavenlig mad",
+      "airdate": "2025-03-30"
+    },
+    {
+      "id": "b5c9e41f-c113-4c9f-9dc0-221b12f83c5c",
+      "season": 1,
+      "number": 2,
+      "name": "Vild mad",
+      "airdate": "2025-04-06"
+    },
+    {
+      "id": "d4a677a8-40ae-409e-a9b7-1bfecd24b129",
+      "season": 1,
+      "number": 3,
+      "name": "Økonomisk mad",
+      "airdate": "2025-04-13"
+    },
+    {
+      "id": "a659a1f8-5727-4e71-a361-5c037f01ade8",
+      "season": 1,
+      "number": 4,
+      "name": "Det gamle håndværk",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "968ebcd7-6cb2-43bf-9e85-7ecf337cedd5",
+      "season": 1,
+      "number": 5,
+      "name": "Nem mad",
+      "airdate": "2025-04-27"
+    }
+  ]
+}

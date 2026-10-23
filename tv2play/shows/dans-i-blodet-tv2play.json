@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:dans-i-blodet-tv2play",
+  "name": "Dans i blodet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom helt tæt på nogle af Danmarks dygtigste dansere, når vi følger Nellie, Nicky, Malene, Michel og Anders i deres jagt på en plads ved siden af stjernerne.",
+  "image": "https://cdn-play.tv2i.dk/e504b633-3794-4a67-b62f-b9b65a81be77.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "9bea4400-df1c-4f33-883b-92e862ddc0dc",
+      "season": 1,
+      "number": 1,
+      "name": "Fokus frem for alt",
+      "airdate": "2019-12-24"
+    },
+    {
+      "id": "fe974b38-9dc2-453c-a89f-e15e55502dfb",
+      "season": 1,
+      "number": 2,
+      "name": "På egne ben",
+      "airdate": "2019-12-24"
+    },
+    {
+      "id": "75d08e4c-aaa9-42b5-b2a9-e6146b4bcb83",
+      "season": 1,
+      "number": 3,
+      "name": "Dans det væk",
+      "airdate": "2020-01-01"
+    },
+    {
+      "id": "734ee943-1e40-4eed-a145-37d73d271e73",
+      "season": 1,
+      "number": 4,
+      "name": "Kun den stærkeste overlever",
+      "airdate": "2020-01-08"
+    },
+    {
+      "id": "355ffb2c-3de6-4127-b17f-78d64817b1e7",
+      "season": 1,
+      "number": 5,
+      "name": "Tro på drømmene",
+      "airdate": "2020-01-15"
+    },
+    {
+      "id": "40d2f439-4f71-4a98-a4fb-41bee9ab892e",
+      "season": 1,
+      "number": 6,
+      "name": "Verden er din scene",
+      "airdate": "2020-01-22"
+    }
+  ]
+}

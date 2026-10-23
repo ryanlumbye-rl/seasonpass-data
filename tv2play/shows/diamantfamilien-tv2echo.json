@@ -1,0 +1,474 @@
+{
+  "id": "tv2play:diamantfamilien-tv2echo",
+  "name": "Diamantfamilien",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg den farverige diamantfamilie med Katerina Pitzner og hendes tre døtre, Thalia, Elvira og Ophelia, mens de hver især forsøger at finde vej igennem og mening med livet.",
+  "image": "https://cdn-play.tv2i.dk/880701a2-8bad-45e1-be13-e56c30761d47.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "fd6105e9-e0d5-43c9-b250-fa2505ae8a07",
+      "season": 1,
+      "number": 1,
+      "name": "Hvem har trusserne på?",
+      "airdate": "2018-03-26"
+    },
+    {
+      "id": "0e31e5ec-79ab-462a-9c36-ca5628abba48",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad mor gør er altid det rigtige...",
+      "airdate": "2018-03-26"
+    },
+    {
+      "id": "acc937f3-be16-4df4-b11c-e1804bfc37a9",
+      "season": 1,
+      "number": 3,
+      "name": "Big deal!",
+      "airdate": "2018-04-02"
+    },
+    {
+      "id": "d231471b-ca1b-4ff0-8b64-2f2449da477b",
+      "season": 1,
+      "number": 4,
+      "name": "Der rides ikke samme dag som der sadles",
+      "airdate": "2018-04-09"
+    },
+    {
+      "id": "5a63a637-5667-44bd-93a4-d42ab991d0f6",
+      "season": 1,
+      "number": 5,
+      "name": "Ferien ALLE vil hjem fra",
+      "airdate": "2018-04-16"
+    },
+    {
+      "id": "b60f145b-fade-487d-a18b-10de644d00bc",
+      "season": 1,
+      "number": 6,
+      "name": "At stå på egne stilettter",
+      "airdate": "2018-04-23"
+    },
+    {
+      "id": "1195ca84-e539-4d4a-b8a7-02d32866e583",
+      "season": 1,
+      "number": 7,
+      "name": "Karriere over kærlighed",
+      "airdate": "2018-04-30"
+    },
+    {
+      "id": "5af308d4-8605-4053-a764-82cfefa898b0",
+      "season": 1,
+      "number": 8,
+      "name": "Mændene i Diamantfamiliens liv",
+      "airdate": "2018-05-07"
+    },
+    {
+      "id": "b58fb25d-4183-43ce-8154-f32862e8c414",
+      "season": 2,
+      "number": 1,
+      "name": "Hvem har egentlig bukserne på?",
+      "airdate": "2018-09-23"
+    },
+    {
+      "id": "728e2ce5-5bf0-4eed-a3f0-12d07167eb96",
+      "season": 2,
+      "number": 2,
+      "name": "Eksemplariske hunde",
+      "airdate": "2018-09-23"
+    },
+    {
+      "id": "057f40dd-d991-4923-be3c-7b052e7b3813",
+      "season": 2,
+      "number": 3,
+      "name": "Elviras voksen-fødselsdag",
+      "airdate": "2018-09-30"
+    },
+    {
+      "id": "8141c4a2-3e8f-4502-a020-14287d9c5380",
+      "season": 2,
+      "number": 4,
+      "name": "Overtroisk ultranørd",
+      "airdate": "2018-10-07"
+    },
+    {
+      "id": "62fda747-a2ae-45ee-a2bb-eda070dfb938",
+      "season": 2,
+      "number": 5,
+      "name": "Karrierekvinder i tvivl",
+      "airdate": "2018-10-14"
+    },
+    {
+      "id": "e0f18126-9a0f-4a3b-9c9f-0bf0de9f8e21",
+      "season": 2,
+      "number": 6,
+      "name": "Familiens fede ferie",
+      "airdate": "2018-10-21"
+    },
+    {
+      "id": "2ea725e8-1450-4243-94a8-f4ed55e6b641",
+      "season": 2,
+      "number": 7,
+      "name": "Mors fede ferie - del 2",
+      "airdate": "2018-10-28"
+    },
+    {
+      "id": "2414ea39-5921-4f2a-babc-404262bc4568",
+      "season": 2,
+      "number": 8,
+      "name": "Styr på tilværelsen?",
+      "airdate": "2018-11-04"
+    },
+    {
+      "id": "4d888b95-2fed-4399-91e9-a084779b5525",
+      "season": 3,
+      "number": 1,
+      "name": "Man melder sig ikke ud af Diamantfamilien",
+      "airdate": "2019-09-25"
+    },
+    {
+      "id": "105b6548-8f89-43c6-8d7c-dfcddea1983f",
+      "season": 3,
+      "number": 2,
+      "name": "Søstersupport",
+      "airdate": "2019-09-25"
+    },
+    {
+      "id": "f76495f4-4a1d-43bd-8cb1-bf807926f0dc",
+      "season": 3,
+      "number": 3,
+      "name": "Mødet med det overnaturlige",
+      "airdate": "2019-10-02"
+    },
+    {
+      "id": "700dbb17-db08-4d46-9650-47f93e7067e8",
+      "season": 3,
+      "number": 4,
+      "name": "Mor til fire i diamantland",
+      "airdate": "2019-10-09"
+    },
+    {
+      "id": "62d99d5d-aa5a-4f55-aeac-31178c3dee06",
+      "season": 3,
+      "number": 5,
+      "name": "De har noget med hunde i den familie",
+      "airdate": "2019-10-16"
+    },
+    {
+      "id": "3c642903-2c32-4adb-8601-ee9aff4aea5f",
+      "season": 3,
+      "number": 6,
+      "name": "Det rumænske eventyr",
+      "airdate": "2019-10-23"
+    },
+    {
+      "id": "110f2af8-2137-4cad-ba76-41975507f05a",
+      "season": 3,
+      "number": 7,
+      "name": "Det rumænske hundemareridt",
+      "airdate": "2019-10-30"
+    },
+    {
+      "id": "5ad43ad0-8aeb-41ab-b173-aaf40cddf5a0",
+      "season": 3,
+      "number": 8,
+      "name": "En middag alle bidrager til... næsten",
+      "airdate": "2019-11-06"
+    },
+    {
+      "id": "0078bed2-83cf-4275-8e06-b1a62bee7007",
+      "season": 4,
+      "number": 1,
+      "name": "Thalias store dag",
+      "airdate": "2021-05-02"
+    },
+    {
+      "id": "32f3ff41-22f8-4e96-8b63-d8a56cee1e27",
+      "season": 4,
+      "number": 2,
+      "name": "Den nye Elvira",
+      "airdate": "2021-05-02"
+    },
+    {
+      "id": "f22a724d-b665-459a-a679-9f0159bc5b4a",
+      "season": 4,
+      "number": 3,
+      "name": "Du overrasker ikke diamantfamilien",
+      "airdate": "2021-05-03"
+    },
+    {
+      "id": "7c2a48bc-1619-4bc7-bfcc-bd06700a611b",
+      "season": 4,
+      "number": 4,
+      "name": "Skejs before guys",
+      "airdate": "2021-05-10"
+    },
+    {
+      "id": "0527d190-7399-4cff-9d83-a33212691c63",
+      "season": 4,
+      "number": 5,
+      "name": "Elviras breakup",
+      "airdate": "2021-05-17"
+    },
+    {
+      "id": "aab93036-db12-4a3d-8953-8bfdead549b8",
+      "season": 4,
+      "number": 6,
+      "name": "Diamantfamilien i Alperne",
+      "airdate": "2021-05-24"
+    },
+    {
+      "id": "826d6288-8508-45e7-b5e1-9968bb59c7b6",
+      "season": 4,
+      "number": 7,
+      "name": "Store flyttedag",
+      "airdate": "2021-05-31"
+    },
+    {
+      "id": "033890df-a055-4ccc-8dc3-7d40712df301",
+      "season": 4,
+      "number": 8,
+      "name": "Ikke to diamanter er ens",
+      "airdate": "2021-06-07"
+    },
+    {
+      "id": "4d56c30d-6f90-4ec4-b388-867fd299f966",
+      "season": 5,
+      "number": 1,
+      "name": "Vejen til Dubai",
+      "airdate": "2021-10-18"
+    },
+    {
+      "id": "8a69e4da-1a11-4f1e-ba86-15bfd96b9b1b",
+      "season": 5,
+      "number": 2,
+      "name": "Beliggenhed, beliggenhed, diamantfamilien",
+      "airdate": "2021-10-18"
+    },
+    {
+      "id": "30d03bd9-6cc0-4299-b837-08119d3c9097",
+      "season": 5,
+      "number": 3,
+      "name": "I Dubai til halsen",
+      "airdate": "2021-10-25"
+    },
+    {
+      "id": "79ee60d0-ce48-4afa-98bd-ab8d681ce61b",
+      "season": 5,
+      "number": 4,
+      "name": "Nu flytter hun fandme!",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "805a8440-00b3-4c74-864d-f0642661821d",
+      "season": 5,
+      "number": 5,
+      "name": "Mors fede ferie for fire",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "8d4c9e20-578a-4312-beeb-ed0ec899e471",
+      "season": 5,
+      "number": 6,
+      "name": "Diamanter i benene",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "f2fb3f58-64b9-4fab-8f56-13d6b6c5f747",
+      "season": 5,
+      "number": 7,
+      "name": "Tal nu eller ti for evigt",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "0fd71b83-a962-40f4-ab47-28bcf88a4427",
+      "season": 5,
+      "number": 8,
+      "name": "En familie fyldt med overraskelser",
+      "airdate": "2021-11-29"
+    },
+    {
+      "id": "45ba6f41-6703-4fa5-abc3-a938e8ac815b",
+      "season": 5,
+      "number": 9,
+      "name": "Ophelia får et liv",
+      "airdate": "2021-12-06"
+    },
+    {
+      "id": "798cb547-8bf6-4d5a-b716-3cdfa37abdd3",
+      "season": 6,
+      "number": 1,
+      "name": "Loyal to Familia",
+      "airdate": "2022-10-17"
+    },
+    {
+      "id": "0a45b2b1-8e8b-4a06-a6a5-196261058df2",
+      "season": 6,
+      "number": 2,
+      "name": "Home sweet home",
+      "airdate": "2022-10-17"
+    },
+    {
+      "id": "c2ebb0c2-330e-433b-8f16-0cc2bd8238bb",
+      "season": 6,
+      "number": 3,
+      "name": "Not business as usual",
+      "airdate": "2022-10-24"
+    },
+    {
+      "id": "8ce31303-8e0c-41aa-bbca-9fe9ff5dcb36",
+      "season": 6,
+      "number": 4,
+      "name": "Fuld gas vs. quiet please",
+      "airdate": "2022-10-31"
+    },
+    {
+      "id": "c8d7e2b7-0ac5-4125-abe7-1bc408662169",
+      "season": 6,
+      "number": 5,
+      "name": "Fra fulde folk og Don Domingo",
+      "airdate": "2022-11-07"
+    },
+    {
+      "id": "b806925c-f056-4b90-89f6-ec56fc008dc9",
+      "season": 6,
+      "number": 6,
+      "name": "My circus, my monkeys",
+      "airdate": "2022-11-14"
+    },
+    {
+      "id": "f9b45602-4396-4fdc-a61a-6ff3995c5d45",
+      "season": 6,
+      "number": 7,
+      "name": "Ude godt, hjemme bedst",
+      "airdate": "2022-11-21"
+    },
+    {
+      "id": "d8d9a90f-2471-40fa-a9d1-066489e162fe",
+      "season": 6,
+      "number": 8,
+      "name": "My way or the high way",
+      "airdate": "2022-11-28"
+    },
+    {
+      "id": "4b307897-a9bc-461f-83e1-89e2612ce799",
+      "season": 6,
+      "number": 9,
+      "name": "Splittet til atomer",
+      "airdate": "2022-12-12"
+    },
+    {
+      "id": "c10a5aab-f851-4eb3-b55d-55a82b54c097",
+      "season": 7,
+      "number": 1,
+      "name": "Diamantfamilien på nye afveje",
+      "airdate": "2023-06-28"
+    },
+    {
+      "id": "227837ea-bc6f-4fe5-bcb3-f554eb0b76c1",
+      "season": 7,
+      "number": 2,
+      "name": "Alle veje fører til fred",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "171b94ac-68d0-4648-a3e5-c0667f8666f5",
+      "season": 7,
+      "number": 3,
+      "name": "Alle kæmper deres kampe",
+      "airdate": "2023-07-12"
+    },
+    {
+      "id": "30ceaa67-de00-4e39-be60-972ccf428f55",
+      "season": 7,
+      "number": 4,
+      "name": "Vild med nedtur",
+      "airdate": "2023-07-19"
+    },
+    {
+      "id": "fa74b45e-a4af-404d-b85d-2a1d35d365f0",
+      "season": 7,
+      "number": 5,
+      "name": "Mod, sved og tårer",
+      "airdate": "2023-07-26"
+    },
+    {
+      "id": "6d42f627-aea6-4708-a493-433d37e1d00d",
+      "season": 7,
+      "number": 6,
+      "name": "Intet varer evigt",
+      "airdate": "2023-08-02"
+    },
+    {
+      "id": "4cb8a6a3-8a6c-4924-b304-7ecf5b976856",
+      "season": 7,
+      "number": 7,
+      "name": "Ny mand til mor",
+      "airdate": "2023-08-09"
+    },
+    {
+      "id": "213c6422-89ed-477b-a0d1-d73946a6cb2c",
+      "season": 7,
+      "number": 8,
+      "name": "Diamantfamilien ser rødt",
+      "airdate": "2023-08-16"
+    },
+    {
+      "id": "ec5311e3-d8c9-45d4-990c-856cc7fbcc28",
+      "season": 7,
+      "number": 9,
+      "name": "Længe leve livskrisen",
+      "airdate": "2023-08-23"
+    },
+    {
+      "id": "4966d6d7-15b7-4323-8d7f-52d7d482f547",
+      "season": 7,
+      "number": 10,
+      "name": "Over alle bjerge",
+      "airdate": "2023-08-30"
+    },
+    {
+      "id": "16bb1644-4e60-431e-b796-5b23559b1c5c",
+      "season": 8,
+      "number": 1,
+      "name": "Pas på, hvad du ønsker dig",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "cb849331-a42b-49c8-b5cd-2277558a4a14",
+      "season": 8,
+      "number": 2,
+      "name": "I dyrets tegn",
+      "airdate": "2025-01-04"
+    },
+    {
+      "id": "acbec54b-4ef0-4cdf-ac53-485c8c3740a3",
+      "season": 8,
+      "number": 3,
+      "name": "Altid på vej",
+      "airdate": "2025-01-11"
+    },
+    {
+      "id": "720315ed-20ec-4af3-ac4d-b6c961169048",
+      "season": 8,
+      "number": 4,
+      "name": "Hver sin lyst",
+      "airdate": "2025-01-18"
+    },
+    {
+      "id": "2f8178d0-b9e4-4731-9045-e3f075e0284d",
+      "season": 8,
+      "number": 5,
+      "name": "Den vanvittige ventetid",
+      "airdate": "2025-01-25"
+    },
+    {
+      "id": "2b13056c-2b6f-4060-9db4-f3267b41b868",
+      "season": 8,
+      "number": 6,
+      "name": "Alt godt har en ende",
+      "airdate": "2025-02-01"
+    }
+  ]
+}

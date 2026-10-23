@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:one-way-or-another-skyshowtime",
+  "name": "One Way or Another",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Efter ikke at have set hinanden i årevis, genforenes vennerne Hache og Belen, da de flytter til det trendy kvarter Malasaña i Madrid.",
+  "image": "https://cdn-play.tv2i.dk/6976b3b9-beee-4c7f-9f95-cb58f7b47889.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d2a985e3-6514-4a87-bd8f-2aa033820788",
+      "season": 1,
+      "number": 1,
+      "name": "For Old Times Sake",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "14b6fec4-775d-4261-85b1-ff99b0e5e78f",
+      "season": 1,
+      "number": 2,
+      "name": "Rugs",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "fe39e23a-f13f-44b9-a556-a065f8a94357",
+      "season": 1,
+      "number": 3,
+      "name": "Malasana District",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "fc97065c-9dea-449a-8861-82c0ec50a16c",
+      "season": 1,
+      "number": 4,
+      "name": "Featherheads",
+      "airdate": "2023-04-14"
+    },
+    {
+      "id": "0fc2b66c-ef3c-4012-a88c-51f7b3298961",
+      "season": 1,
+      "number": 5,
+      "name": "Stones on the Path",
+      "airdate": "2023-04-21"
+    },
+    {
+      "id": "bee237da-ac3b-49b2-b337-3cc4a718eee5",
+      "season": 1,
+      "number": 6,
+      "name": "Belen's Parents",
+      "airdate": "2023-04-28"
+    },
+    {
+      "id": "2cb644e9-019a-4306-b7dc-8de1faa44992",
+      "season": 1,
+      "number": 7,
+      "name": "Alphabet Soup",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "d033fdba-e7f8-4a37-920e-c23042798f10",
+      "season": 1,
+      "number": 8,
+      "name": "Choniland",
+      "airdate": "2023-05-12"
+    },
+    {
+      "id": "ec84daf1-643d-4d00-b947-87b44c0a2d26",
+      "season": 1,
+      "number": 9,
+      "name": "Steal My Heart",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "18326fa1-f4f1-4399-9166-ef752fbdfe88",
+      "season": 1,
+      "number": 10,
+      "name": "Without Masks",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "d52e3ce3-20a9-4a9a-8269-3cdca242c033",
+      "season": 2,
+      "number": 1,
+      "name": "One Wedding and a Funeral",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "71deac6e-ba18-4e7b-a3d6-02284308ecfa",
+      "season": 2,
+      "number": 2,
+      "name": "Ex and Other Unfinished Things",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "a562b3b6-8428-427a-aaf7-7e42ae03f4aa",
+      "season": 2,
+      "number": 3,
+      "name": "The Passenger Seat",
+      "airdate": "2023-06-02"
+    },
+    {
+      "id": "b755b1dc-aa0f-4470-a769-d159f3e79469",
+      "season": 2,
+      "number": 4,
+      "name": "Fauna and Flora",
+      "airdate": "2023-06-09"
+    },
+    {
+      "id": "7ac5666e-4796-4502-bf04-789c78294f1b",
+      "season": 2,
+      "number": 5,
+      "name": "Rollercoaster",
+      "airdate": "2023-06-16"
+    },
+    {
+      "id": "17dd395c-2858-4cb1-9a59-2944f79ef011",
+      "season": 2,
+      "number": 6,
+      "name": "Affected and Dejected",
+      "airdate": "2023-06-23"
+    },
+    {
+      "id": "4652ee83-42ac-45e4-8686-df2cc01045bd",
+      "season": 2,
+      "number": 7,
+      "name": "Familien",
+      "airdate": "2023-06-30"
+    },
+    {
+      "id": "c6d5684d-00a2-43ec-ade6-d96da9e71a37",
+      "season": 2,
+      "number": 8,
+      "name": "Crapping Out",
+      "airdate": "2023-07-07"
+    }
+  ]
+}

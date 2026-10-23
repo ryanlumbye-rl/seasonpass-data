@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:ghetto-det-er-langt-ude-tv2oest",
+  "name": "Ghetto - det er langt ude!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Beboerne fra Grønneparken i Holbæk er trætte af at blive kaldt for et ghetto-område. I flere år har både kommunen, boligselskabet og ikke mindst beboerne, kæmpet for at vende udviklingen. Nu vil de én gang for alle af med det blakkede ry",
+  "image": "https://cdn-play.tv2i.dk/81459dda-f9ab-4f9f-ae55-b7276aebe7d2.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c88c91ec-18b2-4e15-b520-cbec123a00ba",
+      "season": 1,
+      "number": 1,
+      "name": "Kebab med omsorg",
+      "airdate": "2024-12-05"
+    },
+    {
+      "id": "4bc1fdc2-51bb-4c49-b8d1-821e2581991d",
+      "season": 1,
+      "number": 2,
+      "name": "Et slag for fællesskabet",
+      "airdate": "2024-12-12"
+    },
+    {
+      "id": "a2925b96-6fb3-4122-9375-ea310cd533c4",
+      "season": 1,
+      "number": 3,
+      "name": "Børn i arbejde",
+      "airdate": "2024-12-19"
+    },
+    {
+      "id": "5c012401-2777-4e51-b441-c1e701c21bdc",
+      "season": 1,
+      "number": 4,
+      "name": "Udvikling eller afvikling",
+      "airdate": "2024-12-26"
+    }
+  ]
+}

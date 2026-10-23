@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:barn-af-balletten-tv2",
+  "name": "Barn af Balletten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det Kongelige Teaters Balletskole er en eliteuddannelse, der hvert år udklækker professionelle balletdansere i verdensklasse. I seks programmer møder vi nogle af de 129 elever, blandt andre Victoria på 18 år, der drømmer om en kontrakt med teatret, Valdemar på 5 år, som vi følger til optagelsesprøven og Schonan på 16 år, der har meget at leve op til, da han er barn af to solodansere. Kom helt tæt på de hårdtarbejdende talenter og oplev deres liv som børn af balletten.",
+  "image": "https://cdn-play.tv2i.dk/8e2a5bcd-1494-4e42-99aa-e15e0e352b2c.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "90ea79f9-717c-4115-9006-91fb1e857214",
+      "season": 1,
+      "number": 1,
+      "name": "Drømmen",
+      "airdate": "2019-12-28"
+    },
+    {
+      "id": "75c6b5ab-b253-4a12-a3b5-4f919422dd97",
+      "season": 1,
+      "number": 2,
+      "name": "Nåleøjet",
+      "airdate": "2019-12-28"
+    },
+    {
+      "id": "fae7052e-19e2-4673-a4e4-60e9fc4f1491",
+      "season": 1,
+      "number": 3,
+      "name": "Er jeg god nok?",
+      "airdate": "2019-12-28"
+    },
+    {
+      "id": "04770f2a-a720-436f-be55-06ce2b900ce9",
+      "season": 1,
+      "number": 4,
+      "name": "Stopprøve",
+      "airdate": "2019-12-28"
+    },
+    {
+      "id": "aa5ddcaa-4994-46e1-9991-8c7bd2cb3aa6",
+      "season": 1,
+      "number": 5,
+      "name": "Inde eller ude?",
+      "airdate": "2019-12-28"
+    },
+    {
+      "id": "f4c35a1d-c136-4242-ad66-e2c0035acd34",
+      "season": 1,
+      "number": 6,
+      "name": "Plads i kompagniet?",
+      "airdate": "2019-12-28"
+    }
+  ]
+}

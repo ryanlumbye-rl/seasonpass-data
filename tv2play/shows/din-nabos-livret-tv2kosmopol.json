@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:din-nabos-livret-tv2kosmopol",
+  "name": "Din nabos livret",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Bag hver femte dør i hovedstadsområdet gemmer sig et middagsbord uden sovs og kartofler. Madglade Sascha Yang går i køkkenet med seks hverdagskokke for at lave deres livretter.",
+  "image": "https://cdn-play.tv2i.dk/6452b602-26a1-44a2-9219-e0781d399424.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "57692578-3ce2-49a9-9ccf-92727f3d47ae",
+      "season": 1,
+      "number": 1,
+      "name": "Ahlam laver aubergineslange",
+      "airdate": "2025-04-06"
+    },
+    {
+      "id": "ad01750b-7d20-4d6b-96fd-d7d63d0dc47b",
+      "season": 1,
+      "number": 2,
+      "name": "Ebou laver nem gryderet",
+      "airdate": "2025-04-06"
+    },
+    {
+      "id": "25c78c2b-6509-44cc-9d18-a0111bbfd56f",
+      "season": 1,
+      "number": 3,
+      "name": "Klara laver irakiske dolmer",
+      "airdate": "2025-04-13"
+    },
+    {
+      "id": "3244044e-78db-4154-9dbc-a624da170b3f",
+      "season": 1,
+      "number": 4,
+      "name": "Abir laver lynhurtig salat",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "bfca36e7-f848-4ca5-a6a0-a598871b625c",
+      "season": 1,
+      "number": 5,
+      "name": "Kashif laver sprøde snacks",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "c40156e9-0edd-4369-95ca-debcc5dfddf2",
+      "season": 1,
+      "number": 6,
+      "name": "Nidhusala laver stærk lammegryde",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "3305dfb9-e5a6-4436-b2d2-c6e4b4378064",
+      "season": 2,
+      "number": 1,
+      "name": "Johnny laver spicy kødsovs med tofu",
+      "airdate": "2025-10-26"
+    },
+    {
+      "id": "a67b4af3-2447-4295-9205-4514bd1ddc3b",
+      "season": 2,
+      "number": 2,
+      "name": "Pamela laver farverig Sunday lunch",
+      "airdate": "2025-10-26"
+    },
+    {
+      "id": "6220eff8-2f96-4202-a8f0-bf06afe21c54",
+      "season": 2,
+      "number": 3,
+      "name": "Lars laver ungarsk paprikaklassiker",
+      "airdate": "2025-11-02"
+    },
+    {
+      "id": "0ea44b90-d302-41d9-9077-154f647728c0",
+      "season": 2,
+      "number": 4,
+      "name": "Betul laver kurdisk fingermad",
+      "airdate": "2025-11-02"
+    },
+    {
+      "id": "97b9b374-6118-42d6-84eb-eaa7833c64eb",
+      "season": 2,
+      "number": 5,
+      "name": "Wanida laver thailandsk street food",
+      "airdate": "2025-11-23"
+    },
+    {
+      "id": "bfd7d9f4-0686-460c-aebb-a9cb41ea587b",
+      "season": 2,
+      "number": 6,
+      "name": "Maryam laver afghansk gryderet til 20 personer",
+      "airdate": "2025-11-30"
+    }
+  ]
+}

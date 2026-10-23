@@ -5,7 +5,23 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "På Paderuphus bor en gruppe psykisk sårbare voksne, der har brug for særlig støtte i hverdagen. Line kæmper med sin spiseforstyrrelse, og Emma har fire stemmer i hovedet, der kommenterer alt, hvad hun gør.",
+  "image": "https://cdn-play.tv2i.dk/89c5066c-4fd7-4ae2-813d-f2d9230a1ef3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
+    {
+      "id": "19f2e897-4ca7-4e30-b5fa-26263a96c160",
+      "season": 1,
+      "number": 1,
+      "name": "Tilbage til psykiatrisk afdeling",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "a62799b3-afe8-41c0-b2cf-8a0d1c5fbd92",
+      "season": 1,
+      "number": 2,
+      "name": "Skizofreni er et fuldtidsarbejde",
+      "airdate": "2024-06-03"
+    },
     {
       "id": "d66ffd89-98d3-437c-9967-d5236cedc0bb",
       "season": 1,

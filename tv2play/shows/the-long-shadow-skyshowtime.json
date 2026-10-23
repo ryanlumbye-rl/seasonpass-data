@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:the-long-shadow-skyshowtime",
+  "name": "The Long Shadow",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mellem oktober 1975 og januar 1981 terroriserede den berygtede seriemorder \"The Yorkshire Ripper\" kvinderne i det nordlige England med chokerende og brutale mord. Over 1.000 politibetjente deltog i den største efterforskning i britisk kriminalhistorie. Efterforskningen høstede betydelig kritik.",
+  "image": "https://cdn-play.tv2i.dk/2221dcb9-de19-4576-bf5f-66540135b0c1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6918cf39-7302-4377-bfa1-28fe344a9e0f",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-21"
+    },
+    {
+      "id": "2a009fae-fd77-4c3c-9749-7d6416a9095a",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-21"
+    },
+    {
+      "id": "12855792-1369-4374-8b0f-5d97ddd96a79",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-01-21"
+    },
+    {
+      "id": "464b1095-9644-4416-a05c-ee15029d16c6",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-01-28"
+    },
+    {
+      "id": "bdbf6692-a696-4bef-88c6-28acecb7b8e1",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-02-04"
+    },
+    {
+      "id": "43bef2f6-2783-42cf-bb60-168cee65b4f9",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-02-11"
+    },
+    {
+      "id": "2ab856c3-b56e-4e44-acb9-281dcc01c95c",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-02-18"
+    }
+  ]
+}

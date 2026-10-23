@@ -1,0 +1,222 @@
+{
+  "id": "tv2play:black-monday-skyshowtime",
+  "name": "Black Monday",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En gruppe outsidere går imod Wall Street's hårde drenge i 1980'erne.",
+  "image": "https://cdn-play.tv2i.dk/85aa7492-7725-40fc-a9da-e1a14dec68d8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "dd7a2e6c-719c-44bd-960e-6bcc3de4c893",
+      "season": 1,
+      "number": 1,
+      "name": "365",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1b8c7516-781d-416f-842f-6d4f442d806f",
+      "season": 1,
+      "number": 2,
+      "name": "364",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8aa3b889-a28a-4cf6-b61c-f42613f71b95",
+      "season": 1,
+      "number": 3,
+      "name": "339",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f9edb9e5-941d-4f34-8460-8cfd4b4cc160",
+      "season": 1,
+      "number": 4,
+      "name": "295",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b08a0426-69e9-4669-8785-4899dea71d7d",
+      "season": 1,
+      "number": 5,
+      "name": "243",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "98141081-de37-48b9-99a3-692695a1916c",
+      "season": 1,
+      "number": 6,
+      "name": "122",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "615f103e-e513-409d-a9ea-51b5a4ac73bd",
+      "season": 1,
+      "number": 7,
+      "name": "65",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6d5ecde7-db06-4473-a20b-bf337f84c080",
+      "season": 1,
+      "number": 8,
+      "name": "7042",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "97c65161-a70f-4501-95fb-b14d0811f990",
+      "season": 1,
+      "number": 9,
+      "name": "2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1ceaad9a-c114-4e58-afdc-b6eb080255ca",
+      "season": 1,
+      "number": 10,
+      "name": "0",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "635eb8ab-5625-4f1b-ba42-2d772ed3e2ec",
+      "season": 2,
+      "number": 1,
+      "name": "Mixie-Dixie",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d29d0e82-2167-4c1b-90ba-5f73b7a314c4",
+      "season": 2,
+      "number": 2,
+      "name": "So Antoine",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7add6a32-f048-445e-926b-3fcf1419537e",
+      "season": 2,
+      "number": 3,
+      "name": "Idiot Inside",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "97951710-24fe-4a55-894c-d49b2a5a16e8",
+      "season": 2,
+      "number": 4,
+      "name": "Fore!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0abf4fc1-f205-4b56-b3e5-050cc0bd9a2f",
+      "season": 2,
+      "number": 5,
+      "name": "Violent Crooks and Cooks of Books",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3aa1c66e-3507-457c-b127-0ad15b2c2f41",
+      "season": 2,
+      "number": 6,
+      "name": "Arthur Ponzarelli",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "63ab3fb8-d031-4a39-9f09-5579b4abcd44",
+      "season": 2,
+      "number": 7,
+      "name": "Who Are You Supposed To Be?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "20bfd803-f337-4f24-807b-90b0b3a6e76a",
+      "season": 2,
+      "number": 8,
+      "name": "Lucky Shoes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5eb34cfb-0b63-4e3c-9600-43385b065523",
+      "season": 2,
+      "number": 9,
+      "name": "At That Time",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b20a7a29-28d0-48f8-b200-91a343858208",
+      "season": 2,
+      "number": 10,
+      "name": "I Don't Like Mondays",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cf7d0505-92da-4f1c-a5c9-c82eeccd39e4",
+      "season": 3,
+      "number": 1,
+      "name": "Ten!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "faaae95a-56e1-408f-acc4-7ce51708061e",
+      "season": 3,
+      "number": 2,
+      "name": "Nine!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "0056c665-a453-475f-a3b7-b3a44d829c99",
+      "season": 3,
+      "number": 3,
+      "name": "Eight!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "efb7557a-f2ed-4b98-9637-f458eeb9f276",
+      "season": 3,
+      "number": 4,
+      "name": "Seven!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "e2b8f0be-e7a2-4aa6-a313-f27266af2dd8",
+      "season": 3,
+      "number": 5,
+      "name": "Six!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "b2f3036a-e2c7-480b-a6be-976d0d929e79",
+      "season": 3,
+      "number": 6,
+      "name": "Five!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "ced0a2d4-5c79-4da6-b705-1f8afc73d506",
+      "season": 3,
+      "number": 7,
+      "name": "Four!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "0c3618ad-a1b7-4ede-9d5f-d057cb9ca3f2",
+      "season": 3,
+      "number": 8,
+      "name": "Three!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "2fe89bc8-bc77-40bd-a166-c57c7e65e132",
+      "season": 3,
+      "number": 9,
+      "name": "Two!",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "a26eef37-f3ff-40ea-975c-7b89efc08b73",
+      "season": 3,
+      "number": 10,
+      "name": "One!",
+      "airdate": "2022-05-24"
+    }
+  ]
+}

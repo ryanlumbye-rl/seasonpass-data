@@ -1,0 +1,145 @@
+{
+  "id": "tv2play:middlemost-post-skyshowtime",
+  "name": "Middlemost Post",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det kvikke og muntre skybarn Parker, hans hvalrosmakker Russell og tidligere søkaptajn Angus begiver sig ud på uhyggelige eventyr for at levere post over Mount Middlemost.",
+  "image": "https://cdn-play.tv2i.dk/bfc4166f-fd79-48b6-b722-ffbe0b58be2d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "27b2d234-00c9-4002-9b05-8b6523c4a00f",
+      "season": 1,
+      "number": 4,
+      "name": "En vild opfindelse",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1e818b69-0f1e-44e9-a141-f706ac4462f8",
+      "season": 1,
+      "number": 10,
+      "name": "Toast-konkurrencen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6208c1cc-3ad9-4483-bbb3-34ac8afd3a2d",
+      "season": 1,
+      "number": 13,
+      "name": "Nye titler",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "7680603f-4d88-4eb1-963c-ba6b5d4bd2c1",
+      "season": 1,
+      "number": 16,
+      "name": "Op med humøret",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "aee42166-49bf-4d5c-a167-79766f45911d",
+      "season": 1,
+      "number": 17,
+      "name": "Redningsmissionen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "04a0844b-0071-4a24-8688-d2f917a362c7",
+      "season": 1,
+      "number": 18,
+      "name": "Julen er reddet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f2b93dc0-4f97-4bbe-8f21-ce4805cc7d6d",
+      "season": 2,
+      "number": 1,
+      "name": "Parker bliver rig",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "c0342a00-0d9d-42cf-b054-d5d54d645c1c",
+      "season": 2,
+      "number": 2,
+      "name": "Parker fanger fuglen",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "886a1c04-e64d-46da-9c7c-d5973f17e348",
+      "season": 2,
+      "number": 3,
+      "name": "Bijobs",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "e724359d-1666-409b-a0bb-7264708dae47",
+      "season": 2,
+      "number": 4,
+      "name": "Utilfredse campister",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "1e903ffe-1cfd-4d6b-9fa1-aa5d6c639e86",
+      "season": 2,
+      "number": 5,
+      "name": "Sporty Parker",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "79637391-c6b1-46fc-b286-9f62efae1900",
+      "season": 2,
+      "number": 6,
+      "name": "Borgmester Ariel",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "85a1d555-516e-49fd-9022-5026a27894c3",
+      "season": 2,
+      "number": 7,
+      "name": "Havemanden",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "c96458b8-3fa8-4b5d-921e-795285db83a4",
+      "season": 2,
+      "number": 8,
+      "name": "Pakkeknuseren",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "c6e03120-1c14-4223-b460-7dce00788549",
+      "season": 2,
+      "number": 9,
+      "name": "Den hjemmelavede dragt",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "91f87d7f-94f6-4e26-9081-783d6ec4b152",
+      "season": 2,
+      "number": 10,
+      "name": "Sommerjulemand",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "784d1021-b02d-40e2-9431-0c1541614272",
+      "season": 2,
+      "number": 11,
+      "name": "Kærlig hilsen til narhvalen",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "73a82363-effc-4587-820d-0f19db646d12",
+      "season": 2,
+      "number": 12,
+      "name": "Flere uhyggelige historier, du kan fortælle til din sky",
+      "airdate": "2024-03-19"
+    },
+    {
+      "id": "487f9430-6af5-4db5-b543-3187d415314b",
+      "season": 2,
+      "number": 13,
+      "name": "Pam & Gelé",
+      "airdate": "2024-03-19"
+    }
+  ]
+}

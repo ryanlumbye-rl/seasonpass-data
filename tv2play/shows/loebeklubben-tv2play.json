@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:loebeklubben-tv2play",
+  "name": "Løbeklubben",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Er det muligt at rejse sig fra sofaen og deltage i et løb, hvis du ikke kan huske, hvornår du sidst havde løbesko på? Det viser sig, når Lea, Anita og Jeppe skal følge et nøje tilrettelagt træningsprogram.",
+  "image": "https://cdn-play.tv2i.dk/b81fd470-e46e-4f7f-8c54-5ff28ba881f5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1de588f4-8296-40ab-8d4e-934675754a08",
+      "season": 1,
+      "number": 1,
+      "name": "Fra kageform til løbeform",
+      "airdate": "2026-04-30"
+    },
+    {
+      "id": "e763b63a-2585-4c93-a8bf-4335c78bc9c5",
+      "season": 1,
+      "number": 2,
+      "name": "Træningen intensiveres",
+      "airdate": "2026-04-30"
+    },
+    {
+      "id": "8425ffaa-b632-47ba-857d-c9c2f6159946",
+      "season": 1,
+      "number": 3,
+      "name": "Går det fremad?",
+      "airdate": "2026-04-30"
+    },
+    {
+      "id": "f63ceffb-a797-43c7-8144-ec0695e41937",
+      "season": 1,
+      "number": 4,
+      "name": "Den store test",
+      "airdate": "2026-04-30"
+    },
+    {
+      "id": "0924a3fb-a6bf-43ca-8a96-d8e055522d44",
+      "season": 1,
+      "number": 5,
+      "name": "Nu gælder det!",
+      "airdate": "2026-05-11"
+    }
+  ]
+}

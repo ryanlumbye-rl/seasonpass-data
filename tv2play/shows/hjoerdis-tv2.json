@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:hjoerdis-tv2",
+  "name": "Hjørdis",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg den godmodige lærer Hjørdis, når hun skal stå for en teaterkoncert i forbindelse med en temauge om mobning på Islevgård Skole",
+  "image": "https://cdn-play.tv2i.dk/911b086d-b478-4239-97b4-17e4f8e8e992.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7d4e8fa5-0097-4cc6-b795-3b44da7a448d",
+      "season": 1,
+      "number": 1,
+      "name": "Gæsten",
+      "airdate": "2015-05-18"
+    },
+    {
+      "id": "6c262573-8f89-4aa4-8a18-53da53b3a6c6",
+      "season": 1,
+      "number": 2,
+      "name": "Gruppen",
+      "airdate": "2015-05-25"
+    },
+    {
+      "id": "bb873147-afce-41f0-9e90-52257b847c2a",
+      "season": 1,
+      "number": 3,
+      "name": "Prinsessen",
+      "airdate": "2015-06-01"
+    },
+    {
+      "id": "2d75d1e8-7890-4f0f-b188-616351a21096",
+      "season": 1,
+      "number": 4,
+      "name": "I rampelyset",
+      "airdate": "2015-06-08"
+    }
+  ]
+}

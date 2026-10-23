@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:mumidalen-tv2play",
+  "name": "Mumidalen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "af0499b3-c551-4cc4-8629-3d1abca96e5b",
+      "season": 1,
+      "number": 1,
+      "name": "Lille My flytter Ind",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4cd1a02c-3f7b-486e-916f-ed6ecf877613",
+      "season": 1,
+      "number": 2,
+      "name": "Forårssangen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "90d1d338-d70d-4bf3-be40-d46ce349fd19",
+      "season": 1,
+      "number": 3,
+      "name": "Den sidste drage i verden",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "17c7954c-ce4b-4964-b794-e0d3fee0667b",
+      "season": 1,
+      "number": 4,
+      "name": "Farlig midsommer",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "694a1208-3203-488a-ba8d-171e200e0cf0",
+      "season": 2,
+      "number": 1,
+      "name": "Mumis vinterleg",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "dac5e995-0751-4635-9827-1fc21d61c063",
+      "season": 2,
+      "number": 4,
+      "name": "Lille My flytter ud",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "793ae18b-2e94-4d26-99b4-a6e154bbdb6b",
+      "season": 2,
+      "number": 6,
+      "name": "Troldmandens hat",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4afde5e0-9ee7-4c1a-9cc9-dcfae00c7508",
+      "season": 2,
+      "number": 7,
+      "name": "Tofslen & Vifslen",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c061533a-07e2-4ff6-9fe6-475f4206707c",
+      "season": 2,
+      "number": 13,
+      "name": "November",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

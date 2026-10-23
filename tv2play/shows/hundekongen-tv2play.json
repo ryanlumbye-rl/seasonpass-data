@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:hundekongen-tv2play",
+  "name": "Hundekongen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I kanten af Rold Skov i Himmerland er en tidligere landevejskro omdannet til en kro for hunde og deres ejere. Manden bag er ‘Hundekongen’, Jørgen Bak Rasmussen.",
+  "image": "https://cdn-play.tv2i.dk/ab621d00-c7b6-489c-b2e1-f025c7c44a14.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "030d066c-8975-4afd-8268-94d5aeca7d6d",
+      "season": 1,
+      "number": 1,
+      "name": "Ost på engelsk",
+      "airdate": "2026-05-17"
+    },
+    {
+      "id": "b511609a-42b4-4bfb-ac5a-e08c5822a368",
+      "season": 1,
+      "number": 2,
+      "name": "Positivt at gå i hundene",
+      "airdate": "2026-05-24"
+    },
+    {
+      "id": "fad270b5-b965-4bdc-b13c-5d521487ee10",
+      "season": 1,
+      "number": 3,
+      "name": "Nu er jeg ikke julebange mere",
+      "airdate": "2026-05-31"
+    }
+  ]
+}

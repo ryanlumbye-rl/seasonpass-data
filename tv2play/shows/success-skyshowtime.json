@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:success-skyshowtime",
+  "name": "Success",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De sammenflettede historier om fire fremmede, bundet uigenkendeligt sammen af en voldelig hændelse.",
+  "image": "https://cdn-play.tv2i.dk/8afc6c77-2db0-48c7-81dc-bd5d227c3825.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e070ec9d-21ca-4022-a9e3-d55530481777",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-06-02"
+    },
+    {
+      "id": "52ec33cd-3e15-4daf-8f12-a27f95a4a9b0",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-06-02"
+    },
+    {
+      "id": "ba7a23f8-6f19-4452-9110-8e61f6268654",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-06-09"
+    },
+    {
+      "id": "2c7d03fb-119f-4e3f-ba79-a43d5cd282a3",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-06-16"
+    },
+    {
+      "id": "e5dbd1fe-4dc2-4d42-8c13-0f10067a0be6",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-06-23"
+    },
+    {
+      "id": "7deb3475-a63c-43b6-afc6-c2ab7ca43077",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-06-30"
+    }
+  ]
+}

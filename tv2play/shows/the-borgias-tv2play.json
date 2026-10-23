@@ -1,17 +1,215 @@
 {
   "id": "tv2play:the-borgias-tv2play",
   "name": "The Borgias",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "f9d19437-15bb-4ea1-b0c6-080da3590cf9",
+      "season": 1,
+      "number": 1,
+      "name": "Det forgiftede bæger",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5892c96-c6a1-4f99-856e-a0e6fa6c4a48",
+      "season": 1,
+      "number": 2,
+      "name": "Snigmorderen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "63a85c64-9f25-4253-a3a9-74d9d441fcdc",
+      "season": 1,
+      "number": 3,
+      "name": "Maueren",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "da3480bc-45ba-4fb6-8153-82c9052f2041",
+      "season": 1,
+      "number": 4,
+      "name": "Lucrezias bryllup",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c7c21a01-aa24-451c-81fa-7a3eebbafc7d",
+      "season": 1,
+      "number": 5,
+      "name": "En forelsket Borgias",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1ed10362-af2e-43ae-9cb5-3f8d07ca2655",
+      "season": 1,
+      "number": 6,
+      "name": "Den franske konge",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6f20448d-322a-4d68-bd23-11b91a592ba8",
+      "season": 1,
+      "number": 7,
+      "name": "Døden på en bleg hest",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a44b61cc-0a52-4746-ab00-b4b0bdda3f97",
+      "season": 1,
+      "number": 8,
+      "name": "Krigskunsten",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "75de85b8-34a9-40b4-b4cf-1e8d9abbf5f4",
+      "season": 1,
+      "number": 9,
+      "name": "Nessuno (Ingen)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "776da3ce-d54d-419a-a85b-c854ebe9baba",
+      "season": 2,
+      "number": 1,
+      "name": "Borgia Bull",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "522e8451-b757-4cdc-a053-b0bc3cf0dbed",
+      "season": 2,
+      "number": 2,
+      "name": "Paolo",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0b5ea257-2cae-497e-89fd-b66305f9a8f2",
+      "season": 2,
+      "number": 3,
+      "name": "Det smukke bedrageri",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8deec361-50d2-43b3-a688-a2c429f3994a",
+      "season": 2,
+      "number": 4,
+      "name": "Herreløse hunde",
+      "airdate": "2021-07-01"
+    },
     {
       "id": "2ae7dd46-b5bf-4fda-9671-daa1c3bc1a1a",
       "season": 2,
       "number": 5,
       "name": "Valget",
       "airdate": "2021-07-01"
+    },
+    {
+      "id": "1767685b-62d8-4274-9d49-0770c7a5d44f",
+      "season": 2,
+      "number": 6,
+      "name": "Askens dag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9cc6e579-21d5-4c57-abe8-ac22cecbc343",
+      "season": 2,
+      "number": 7,
+      "name": "Belejringen ved Forli",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a13daf21-5b7c-41ed-beb6-485fa941ac3f",
+      "season": 2,
+      "number": 8,
+      "name": "Sandheder og løgne",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "19be56b7-f033-4f28-bb08-9467f69657d4",
+      "season": 2,
+      "number": 9,
+      "name": "En verden af vidundere",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2f7fb822-f98f-4dc1-9645-ed18657f9d53",
+      "season": 2,
+      "number": 10,
+      "name": "Tilståelsen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8ffc30cc-7e48-4ee2-baf3-95f6ee07b0d7",
+      "season": 3,
+      "number": 1,
+      "name": "Dødens ansigt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8c48b703-1f47-4d28-b3f5-98c2926b5291",
+      "season": 3,
+      "number": 2,
+      "name": "Udrensningen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6a6017fc-3c7e-40fe-b954-2df24b7672c4",
+      "season": 3,
+      "number": 3,
+      "name": "Søskende",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2949f9f0-5c04-473a-b819-632c7dfce163",
+      "season": 3,
+      "number": 4,
+      "name": "Kastanjebanketten",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "24d72bcb-c463-4327-8ee9-91874fdd3276",
+      "season": 3,
+      "number": 5,
+      "name": "Ulven og lammet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "71cde413-a6fe-4f8f-bfb3-4913f94f13b1",
+      "season": 3,
+      "number": 6,
+      "name": "Relikvier",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1643a368-167c-4d89-9edd-a2e2be629844",
+      "season": 3,
+      "number": 7,
+      "name": "Lucrezias manøvre",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3c7da773-ab6d-4e0d-b02c-cf6d63f783eb",
+      "season": 3,
+      "number": 8,
+      "name": "Tårer af blod",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "91c6fea5-cec7-4b16-ac52-c40bdffc2a8e",
+      "season": 3,
+      "number": 9,
+      "name": "Krudtkomplottet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f62afebe-afa4-45d6-8e32-7aeb330b33ae",
+      "season": 3,
+      "number": 10,
+      "name": "Prinsen",
+      "airdate": "2021-07-01"
     }
-  ]
+  ],
+  "description": "Jeremy Irons har hovedrollen i den episke The Borgias, som er et fængslende drama om verdens mest magtfulde og berygtede familie.",
+  "image": "https://cdn-play.tv2i.dk/a610401d-a14d-499a-b66b-60e079eb0e39.png?auto=format%2Ccompress&fm=webp&rect=759%2C0%2C2490%2C1400&w=1280"
 }

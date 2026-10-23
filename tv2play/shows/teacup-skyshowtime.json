@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:teacup-skyshowtime",
+  "name": "Teacup",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Der sker mærkelige ting på en families afsondrede gård i Georgia. Dyrene er rastløse, deres lille søn er gået ind i skoven og kommer forvirret og forandret tilbage. En mystisk mand i gasmaske maler blå streger på jorden. Sammen med naboerne må familien konfrontere en ukendt og dødelig trussel",
+  "image": "https://cdn-play.tv2i.dk/a0be4b38-7d0c-4f42-abcf-e293c7c8041f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "15846bac-56bd-4f01-9d16-5a18f7c74326",
+      "season": 1,
+      "number": 1,
+      "name": "Tænk på boblerne",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "ca8effed-ca61-42b4-91d0-a5854a0a8c04",
+      "season": 1,
+      "number": 2,
+      "name": "Mit lille fyrtårn",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "cba2181f-7303-454e-8eb6-96d2719f5302",
+      "season": 1,
+      "number": 3,
+      "name": "Stille uden grund",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "e93315a7-c973-4533-9d48-390f57a7e59f",
+      "season": 1,
+      "number": 4,
+      "name": "I hjertet af landet",
+      "airdate": "2024-12-14"
+    },
+    {
+      "id": "d8fec475-1e3b-4571-b308-192319afa0b3",
+      "season": 1,
+      "number": 5,
+      "name": "Jeg er vidne til sygdommen",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "b58a1f99-78ce-49cc-9fe3-79a37ed33a77",
+      "season": 1,
+      "number": 6,
+      "name": "Du ved ikke, hvad det betyder at vinde",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "4354c070-da0c-430b-90ea-aa7e70f17160",
+      "season": 1,
+      "number": 7,
+      "name": "Dette er intet sted - Del 1",
+      "airdate": "2025-01-04"
+    },
+    {
+      "id": "097790f9-5992-4142-8bfc-32046f59f2dc",
+      "season": 1,
+      "number": 8,
+      "name": "Dette er intet sted - Del 2",
+      "airdate": "2025-01-11"
+    }
+  ]
+}

@@ -28,6 +28,13 @@
       "airdate": "2021-07-01"
     },
     {
+      "id": "0148ef17-a527-4955-9399-83514de23e03",
+      "season": 1,
+      "number": 4,
+      "name": "Fear And Loathing At The Fundraiser",
+      "airdate": "2021-07-01"
+    },
+    {
       "id": "f0050e0b-e676-4d99-b7bc-b5a8172cc0c6",
       "season": 1,
       "number": 5,
@@ -531,5 +538,7 @@
       "name": "Grace",
       "airdate": "2021-07-01"
     }
-  ]
+  ],
+  "description": "Hank Moody er forfatter og L.A.s mest charmerende skørtejæger, men det er svært for ham at holde sin sti ren.",
+  "image": "https://cdn-play.tv2i.dk/ee58d38c-2324-465b-b4ef-aaf8e4b355a7.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1943%2C1080&w=1280"
 }

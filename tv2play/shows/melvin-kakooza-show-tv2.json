@@ -1,0 +1,117 @@
+{
+  "id": "tv2play:melvin-kakooza-show-tv2",
+  "name": "Melvin Kakooza Show",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Melvin Kakooza står klar med sit stjernespækkede talkshow fyldt med store danske navne, sketchs, fjollede udfordringer og masser skøn musik.",
+  "image": "https://cdn-play.tv2i.dk/8c1b1548-e858-45af-b23c-b61c8846aedb.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4231d9a6-22ff-4fd1-8572-726ee34931de",
+      "season": 1,
+      "number": 1,
+      "name": "Rasmus Botoft, Medina og Andreas Odbjerg",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "47b41317-7e2a-4cfc-bd33-54e35a4d5fa2",
+      "season": 1,
+      "number": 2,
+      "name": "Malte Ebert og Neel Rønholt",
+      "airdate": "2022-04-09"
+    },
+    {
+      "id": "7cbf3a68-b5b6-4b08-8126-7e35a556f576",
+      "season": 1,
+      "number": 3,
+      "name": "Dar Salim og Birthe Kjær",
+      "airdate": "2022-04-16"
+    },
+    {
+      "id": "4385d8ca-c60c-4e06-a97d-4059cc0cab91",
+      "season": 1,
+      "number": 4,
+      "name": "Hjalmer og Lene Beier",
+      "airdate": "2022-04-23"
+    },
+    {
+      "id": "34409f55-c695-43f4-a2a2-40380a502c0d",
+      "season": 1,
+      "number": 5,
+      "name": "Annika Aakjær og Burhan G",
+      "airdate": "2022-04-30"
+    },
+    {
+      "id": "16f86087-ea2a-4444-a971-99a09071331e",
+      "season": 1,
+      "number": 6,
+      "name": "Benjamin Hav og Saveus",
+      "airdate": "2022-05-07"
+    },
+    {
+      "id": "0fcd4849-8c42-49a9-bae4-b04940bd607d",
+      "season": 1,
+      "number": 7,
+      "name": "Jada og Sofie Gråbøl",
+      "airdate": "2022-05-14"
+    },
+    {
+      "id": "6f7d08b2-6219-495f-8d89-3bfec67770b9",
+      "season": 1,
+      "number": 8,
+      "name": "Simon Kvamm og Dak Wichangoen",
+      "airdate": "2022-05-21"
+    },
+    {
+      "id": "2dce0473-7012-47b6-a78a-55ecaa13a9a7",
+      "season": 2,
+      "number": 1,
+      "name": "Martin Brygmann og Pilou Asbæk",
+      "airdate": "2023-04-14"
+    },
+    {
+      "id": "066a164f-8a66-4735-b56c-a71ed8e78eb8",
+      "season": 2,
+      "number": 2,
+      "name": "Sebastian Klein og Ulla Terkelsen",
+      "airdate": "2023-04-21"
+    },
+    {
+      "id": "b64d810b-1b15-4420-bec9-ed928e57e918",
+      "season": 2,
+      "number": 3,
+      "name": "Nikolaj Stokholm, Ditte & Louise",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "e5b3fa48-0e1d-4832-8056-a9ad1ec5f014",
+      "season": 2,
+      "number": 4,
+      "name": "Anne Linnet, Martin Johannes Larsen og Fanny Bornedal",
+      "airdate": "2023-05-12"
+    },
+    {
+      "id": "b99621a7-40bb-4e5f-8ad4-a7133178eb93",
+      "season": 2,
+      "number": 5,
+      "name": "Alex Høgh Andersen og Kasper Hjulmand",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "db0ee264-e915-4617-9510-0dd98b94621e",
+      "season": 2,
+      "number": 6,
+      "name": "Tobias Dybvad og Oh Land",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "2bba6edb-2290-4303-b0b9-b83119440e14",
+      "season": 2,
+      "number": 7,
+      "name": "Casper Christensen og Benjamin Hav",
+      "airdate": "2023-06-02"
+    }
+  ]
+}

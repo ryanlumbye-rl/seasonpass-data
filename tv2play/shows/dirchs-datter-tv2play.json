@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:dirchs-datter-tv2play",
+  "name": "Dirchs datter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Josefine Passer er datter af Danmarks store komiker og filmstjerne Dirch Passer. Hun har delt sin far med hele landet, siden hun blev født - og det gør hun stadig.",
+  "image": "https://cdn-play.tv2i.dk/995698fb-ea07-4d9c-be0e-dc89be71f787.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b3d9c4b9-f0d1-4963-94d5-d4f2fc09c90c",
+      "season": 1,
+      "number": 1,
+      "name": "Den berømte far",
+      "airdate": "2026-05-14"
+    },
+    {
+      "id": "90611d7d-79e5-4d7f-a416-54eec0fcf7df",
+      "season": 1,
+      "number": 2,
+      "name": "Skilsmissen",
+      "airdate": "2026-05-14"
+    },
+    {
+      "id": "1d7d3262-9410-4024-9988-847d0e8e0f4a",
+      "season": 1,
+      "number": 3,
+      "name": "En helt ny begyndelse",
+      "airdate": "2026-05-14"
+    }
+  ]
+}

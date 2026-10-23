@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Se den danske komedieserie, der følger de to venner Frank Hvam og Casper Christensen, som spiller overdrevne versioner af sig selv.",
+  "image": "https://cdn-play.tv2i.dk/988d72fc-978d-314e-b926-f83752e60ca4.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
   "episodes": [
     {
       "id": "fc02c611-32e2-4bdf-b5b8-bbc4a9fedae2",

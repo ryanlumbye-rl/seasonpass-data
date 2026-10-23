@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:skyggesiden-amagermanden-none",
+  "name": "Skyggesiden - Amagermanden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I seks afsnit fortæller ’Skyggesiden’ historien om Amagermanden - en af Danmarks mest voldsomme serieforbrydere. Det er 15 år siden, retssagen rystede befolkningen, og Marcel Lychau Hansen blev dømt for to drab og seks voldtægter.",
+  "image": "https://cdn-play.tv2i.dk/90a11c5f-86a1-3211-ac07-05b58657d2e9.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2bb0f255-81d0-4416-81d5-4e922a9b92db",
+      "season": 1,
+      "number": 1,
+      "name": "Drabet i Fasanskoven",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "edf9e38a-fa6d-4e6a-a76d-eda039b920f3",
+      "season": 1,
+      "number": 2,
+      "name": "Piger bagbundet med sjippetov",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "1056c024-d4f5-456b-bb67-87f39b234c15",
+      "season": 1,
+      "number": 3,
+      "name": "Gennembruddet",
+      "airdate": "2026-07-04"
+    },
+    {
+      "id": "54512476-6144-40ad-a682-43c0059e01ca",
+      "season": 1,
+      "number": 4,
+      "name": "Nettet strammes om Amagermanden",
+      "airdate": "2026-07-11"
+    },
+    {
+      "id": "ba87abd2-8970-4029-8103-afcd2072b2f6",
+      "season": 1,
+      "number": 5,
+      "name": "Retssagen",
+      "airdate": "2026-07-18"
+    },
+    {
+      "id": "2bf92f74-2f6f-4296-bfc8-21cdea68ecdd",
+      "season": 1,
+      "number": 6,
+      "name": "Dommen",
+      "airdate": "2026-07-25"
+    }
+  ]
+}

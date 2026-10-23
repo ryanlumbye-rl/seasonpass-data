@@ -1,0 +1,215 @@
+{
+  "id": "tv2play:icarly-skyshowtime",
+  "name": "iCarly",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Teenageren Carly har sit helt eget webshow, som hedder 'iCarly'. Sammen med vennerne Freddie, Sam og Gibby sender hun showet fra et hjemmelavet studie i sin lejlighed. Her bor hun med sin 29-årige bror og værge, Spencer.",
+  "image": "https://cdn-play.tv2i.dk/d24223b9-ffd3-47d5-bf0c-86eecfc68486.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3882%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "c417d067-f8ee-4846-b187-743d513a00e7",
+      "season": 1,
+      "number": 1,
+      "name": "iPilot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6e3bc59d-d2b8-4255-a277-f51ee36fcf07",
+      "season": 1,
+      "number": 2,
+      "name": "iLike Jake",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a3270ebc-90dd-40c2-b51d-a4ba30675016",
+      "season": 1,
+      "number": 3,
+      "name": "iWant more Viewers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1180ada1-84ba-4125-84be-d5ed7ef6d7a2",
+      "season": 1,
+      "number": 4,
+      "name": "iNevel",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "31cf7b3f-060d-494a-b0eb-324aae7dbe34",
+      "season": 1,
+      "number": 5,
+      "name": "iWanna Stay with Spencer",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3cf29caf-dc7c-4f41-a2fd-a6555277a63b",
+      "season": 1,
+      "number": 6,
+      "name": "iSpy a Mean Teacher",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6a03e667-8339-4b61-a961-f8f441ee9008",
+      "season": 1,
+      "number": 7,
+      "name": "iWant a World Record",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "32aaae8a-974f-4b38-8a7f-12a27ff8cc17",
+      "season": 1,
+      "number": 9,
+      "name": "iHeart Art",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eb56ba02-e064-48ae-ad9e-83fa6d155cce",
+      "season": 1,
+      "number": 10,
+      "name": "iAm Your Biggest Fan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1cfb6df1-feeb-4c9d-af38-eeb3256837d9",
+      "season": 1,
+      "number": 11,
+      "name": "iHatch Chicks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d4461c1-d850-4c38-a73e-6ce6e3705e7c",
+      "season": 1,
+      "number": 13,
+      "name": "iDream of Dance",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "03033f55-e778-4732-b125-1d5266aee8d7",
+      "season": 1,
+      "number": 16,
+      "name": "iGot Detention",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5fde5c90-e87d-4a6f-aaa4-9bd00b9fced0",
+      "season": 1,
+      "number": 17,
+      "name": "iPromote Tech-Foots",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "234e09a5-1652-4564-b450-b44ebcc23cfe",
+      "season": 1,
+      "number": 18,
+      "name": "iPromise Not to Tell",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ee300627-e373-4371-9071-724703a1a14b",
+      "season": 1,
+      "number": 21,
+      "name": "iStakeout",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f5dcc109-d7ea-4602-9b91-2a41c268d511",
+      "season": 1,
+      "number": 22,
+      "name": "iMight Switch Schools",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0acf6f62-5d68-4ba0-9338-360ab0c0a871",
+      "season": 1,
+      "number": 23,
+      "name": "iFence",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3434e205-fa11-464a-a600-0f96a7f18f7d",
+      "season": 1,
+      "number": 24,
+      "name": "iWin a Date",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cfc719be-70b3-41ef-bedb-91e30ccad3b6",
+      "season": 2,
+      "number": 19,
+      "name": "iFight Shelby Marx",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "516a9eb1-7ef1-4226-b202-88fd3824a342",
+      "season": 2,
+      "number": 23,
+      "name": "iThink They Kissed",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "676e6e43-89e1-4172-aaf8-fca7fa91ddbf",
+      "season": 2,
+      "number": 24,
+      "name": "iCook",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "0bff6ec6-e12a-4d7c-aa97-a015ef6ca4f9",
+      "season": 2,
+      "number": 29,
+      "name": "iQuit iCarly",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "1c2ef217-4bb9-4f88-86a5-c3d6099ead74",
+      "season": 2,
+      "number": 32,
+      "name": "iWas a Pageant Girl",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "65b38f51-5451-4351-8a68-ef2912d9db8f",
+      "season": 2,
+      "number": 33,
+      "name": "iWon't Cancel the Show",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "4ed98de3-5eeb-4221-82e7-b6ca10f4dcfb",
+      "season": 2,
+      "number": 34,
+      "name": "iSpace Out",
+      "airdate": "2025-02-19"
+    },
+    {
+      "id": "2c0e6046-f9fd-4489-b038-7afb00579a30",
+      "season": 3,
+      "number": 4,
+      "name": "iSell Penny Tees",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "42f76af4-8a39-4266-af61-c810ad86916f",
+      "season": 3,
+      "number": 6,
+      "name": "iStart a Fan War Part 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "9e0f91d4-78e4-493e-8651-029890ea477c",
+      "season": 4,
+      "number": 7,
+      "name": "iStill Psycho Part 1",
+      "airdate": "2023-09-08"
+    },
+    {
+      "id": "faa1480f-4ea2-4933-b6b5-2e374899ff71",
+      "season": 5,
+      "number": 7,
+      "name": "iShock America Part 1",
+      "airdate": "2023-09-08"
+    }
+  ]
+}

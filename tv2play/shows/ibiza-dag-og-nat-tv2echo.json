@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:ibiza-dag-og-nat-tv2echo",
+  "name": "Ibiza dag og nat",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Zara McDermott besøger partyøen Ibiza og går tæt på de personer, der årligt besøger øen. Fra de absurd rige, til dem, der bruger et års opsparing på en uge.",
+  "image": "https://cdn-play.tv2i.dk/e046abbc-2f57-42c0-a844-28d5bd7e7915.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e7d9bed6-bb1f-49c4-844b-c5a0e85cb8f4",
+      "season": 1,
+      "number": 1,
+      "name": "En succesfuld legende",
+      "airdate": "2024-08-26"
+    },
+    {
+      "id": "cfff5c01-a885-4279-ba30-1f7be4ba90d5",
+      "season": 1,
+      "number": 2,
+      "name": "Forbudte fristelser",
+      "airdate": "2024-09-02"
+    },
+    {
+      "id": "926dedf2-3531-4bd1-8996-3fd16766a336",
+      "season": 1,
+      "number": 3,
+      "name": "Den kriminelle underverden",
+      "airdate": "2024-09-09"
+    },
+    {
+      "id": "e547194c-ef42-49c5-8377-deddb921b636",
+      "season": 1,
+      "number": 4,
+      "name": "Den lyssky jurist",
+      "airdate": "2024-09-16"
+    }
+  ]
+}

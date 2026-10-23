@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:pigen-paa-den-lukkede-tv2",
+  "name": "Pigen på den lukkede",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Anna er 24 år og har en dobbeltdiagnose i form af psykiske lidelser og stofmisbrug. Siden Anna var 13 år, har hun været svingdørspatient i psykiatrien. Serien på tre episoder følger Anna i tre år, hvor hun dagligt kæmper med sine traumer i et system, hun ikke føler, giver hende den rette hjælp",
+  "image": "https://cdn-play.tv2i.dk/fc7f78a2-6090-4ebf-a071-aa3f7e06d0e3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c846ae94-ae00-4100-9dcc-38851daf1922",
+      "season": 1,
+      "number": 1,
+      "name": "En kastebold i systemet",
+      "airdate": "2023-02-23"
+    },
+    {
+      "id": "1e104590-d732-4896-ae1a-e057c54da769",
+      "season": 1,
+      "number": 2,
+      "name": "15 sekunders fred",
+      "airdate": "2023-03-02"
+    },
+    {
+      "id": "c558b169-06ab-4286-9a3b-023990857b4e",
+      "season": 1,
+      "number": 3,
+      "name": "Et værdigt liv",
+      "airdate": "2023-03-16"
+    }
+  ]
+}

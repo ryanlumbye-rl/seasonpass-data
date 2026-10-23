@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:familieadvokaten-fra-lolland-tv2oest",
+  "name": "Familieadvokaten fra Lolland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Når familier er i knibe, ringer de til familieadvokaten Anders Brøndtved. Med sine to hunde under armene, et gedigent samler-gen og et lille skovhus på Lolland ligner han måske ikke den typiske advokat, men det tager han kun som et kompliment.",
+  "image": "https://cdn-play.tv2i.dk/b20e02cd-74f5-4d73-8df9-efce917a3bda.jpg?auto=format%2Ccompress&fm=webp&rect=299%2C263%2C3374%2C1897&w=1280",
+  "episodes": [
+    {
+      "id": "3394d98d-c363-45f4-bc5a-c5670b912611",
+      "season": 1,
+      "number": 1,
+      "name": "Kampen for samvær",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "c12b85f9-4ee1-4ebd-8dc5-3f7bb4e962db",
+      "season": 1,
+      "number": 2,
+      "name": "Klagebrev til kommunen",
+      "airdate": "2025-02-12"
+    },
+    {
+      "id": "b8eac05d-1cba-44a4-a77c-c8cf79d58102",
+      "season": 1,
+      "number": 3,
+      "name": "Bortadopteret ved tvang",
+      "airdate": "2025-02-19"
+    }
+  ]
+}

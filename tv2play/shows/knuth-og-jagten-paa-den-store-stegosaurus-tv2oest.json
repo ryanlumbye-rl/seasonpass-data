@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:knuth-og-jagten-paa-den-store-stegosaurus-tv2oest",
+  "name": "Knuth og jagten på den store Stegosaurus",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lensgreve Christoffer Knuth er på sit livs eventyr, da han rejser til USA i jagten på den eftertragtede dinosaur Stegosaurus. Skelettet skal udstilles på hans nye evolutionsmuseum i Knuthenborg Safaripark på Lolland i håbet om at forny den gamle dyrepark, som hans far skabte.",
+  "image": "https://cdn-play.tv2i.dk/a65508b4-97b3-48c0-a08d-8c6ac575a857.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "843e9938-134f-4847-9989-9f754150e60f",
+      "season": 1,
+      "number": 1,
+      "name": "Vild drøm",
+      "airdate": "2025-04-03"
+    },
+    {
+      "id": "bb0632f0-3c94-454b-b556-269e4e046dbd",
+      "season": 1,
+      "number": 2,
+      "name": "Sidste forberedelse",
+      "airdate": "2025-04-10"
+    },
+    {
+      "id": "4e959fa7-53da-48d4-8ae3-43b54bbcbd49",
+      "season": 1,
+      "number": 3,
+      "name": "Unikt fund",
+      "airdate": "2025-04-17"
+    },
+    {
+      "id": "466ad610-3357-4b79-b4fb-5bbf3ad32cf2",
+      "season": 1,
+      "number": 4,
+      "name": "Stor overraskelse",
+      "airdate": "2025-04-24"
+    },
+    {
+      "id": "c8a0ff48-daf6-4eb3-b85c-b33cbabce0f7",
+      "season": 1,
+      "number": 5,
+      "name": "Dinosaurprofessoren",
+      "airdate": "2025-05-01"
+    },
+    {
+      "id": "ac4badd5-e9d1-40ed-b3e1-cfc9c7fe97e6",
+      "season": 1,
+      "number": 6,
+      "name": "Udgravningen",
+      "airdate": "2025-05-08"
+    },
+    {
+      "id": "1bc0ceb8-b205-4117-91a1-6c63086a1f6f",
+      "season": 1,
+      "number": 7,
+      "name": "Næsten klar",
+      "airdate": "2025-05-15"
+    },
+    {
+      "id": "418a5a0d-df1a-461f-9b56-ad182200b555",
+      "season": 1,
+      "number": 8,
+      "name": "Den store dag",
+      "airdate": "2025-05-23"
+    }
+  ]
+}

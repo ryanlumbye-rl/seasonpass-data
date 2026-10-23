@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:rip-henry-skyshowtime",
+  "name": "R.I.P. Henry",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den arrogante kirurg dr. Henry Johnsen tror, at han er for god til den lille by Odda i Norge og byens lille hospital, og han længes efter et prestigefyldt job. En selvdiagnisticeret hjernesvulst udfordrer hans arrogance og tvinger ham ud i en overlevelseskamp, hvor han opdager ydmyghed og kærlighed.",
+  "image": "https://cdn-play.tv2i.dk/e63b9dde-b13a-4699-a064-da0dc77755b2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "5cf39cdc-9877-4714-92b5-ca73557ba34b",
+      "season": 1,
+      "number": 1,
+      "name": "Det er sådan folk dør",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "b3e979b2-c662-40fb-ac04-047b7fc20692",
+      "season": 1,
+      "number": 2,
+      "name": "Har brug for dig i live",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "4a236481-b14e-4612-9e7a-bbfe8de8f664",
+      "season": 1,
+      "number": 3,
+      "name": "En ny ven",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "86afb777-a833-49b6-a9e0-01d3f19b0b9d",
+      "season": 1,
+      "number": 4,
+      "name": "En simpel procedure",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "6a9cd5e1-b2af-4b5f-ad1b-a73b02a2253b",
+      "season": 1,
+      "number": 5,
+      "name": "2.13.10",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "3632c885-625a-4744-813b-03099eb99429",
+      "season": 1,
+      "number": 6,
+      "name": "Din krop elsker dig",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "4648151d-c2ff-4359-8d9e-ddf7c472efc2",
+      "season": 1,
+      "number": 7,
+      "name": "Trolltunga",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "82e1213d-75aa-4693-ab07-68ab4521ed61",
+      "season": 1,
+      "number": 8,
+      "name": "ER 4 Lyfe",
+      "airdate": "2024-04-25"
+    }
+  ]
+}

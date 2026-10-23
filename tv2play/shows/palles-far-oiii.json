@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Palles far er en dansk tegnefilmsserie om drengen Palle og hans far, og deres hverdagsoplevelser. En enkel situation udvikler sig, og Palles far kommer galt afsted. Men heldigvis er Palle i nærheden og kan hjælpe sin far.",
+  "image": "https://cdn-play.tv2i.dk/cec08025-b9de-474b-9a14-81ae376cfba6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "fa7ffb2e-3dfa-4fd2-bcc9-ee24f0e5ae3d",

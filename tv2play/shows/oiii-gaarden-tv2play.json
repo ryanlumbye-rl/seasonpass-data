@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Velkommen til Oiii-Gården! Her er der altid nok at gøre for hele familien, hvor både store og små kan bidrage til de forskellige gøremål. Hver årstid byder på nye udfordringer, så både planter, dyr og mennesker kan trives bedst muligt og være helt klar til den næste sæson.",
+  "image": "https://cdn-play.tv2i.dk/cebb3637-cb62-4350-9e95-6baeeac549d4.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
   "episodes": [
     {
       "id": "97c732e4-621e-405c-a0a2-811688e3b2e2",
@@ -53,6 +55,13 @@
       "season": 1,
       "number": 7,
       "name": "Af sted på marked",
+      "airdate": "2021-09-18"
+    },
+    {
+      "id": "ded17e7b-4560-4bde-99e1-b722c50ad9b9",
+      "season": 1,
+      "number": 8,
+      "name": "Bager æblekage",
       "airdate": "2021-09-18"
     },
     {

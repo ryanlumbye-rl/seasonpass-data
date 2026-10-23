@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:fuld-af-danmark-tv2play",
+  "name": "Fuld af Danmark",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tidligere seniorkorrespondent Kirsten Birgit Schiøtz Kretz Hørsholm er sammen med sin ukendte kollega Rasmus Bruun taget på tur i det danske sommerland for at se nærmere på den voksende danske vinproduktion. Mens Rasmus går tæt på danskerne, går Kirsten Birgit helt tæt på de åbne flasker.",
+  "image": "https://cdn-play.tv2i.dk/919b31cb-5969-4209-bdfa-bdb97b0174cb.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C5195%2C2923&w=1280",
+  "episodes": [
+    {
+      "id": "4f5232d4-8d87-4f2d-b6a4-2ce7191a3fe1",
+      "season": 1,
+      "number": 1,
+      "name": "Livmoder og glade dage",
+      "airdate": "2020-10-24"
+    },
+    {
+      "id": "31a408ef-4d5e-4d3a-8338-17715f01ec40",
+      "season": 1,
+      "number": 2,
+      "name": "Bare klip til mine hænder",
+      "airdate": "2020-10-24"
+    },
+    {
+      "id": "80549e5a-29b6-40d7-bcdc-a5290e9f953f",
+      "season": 1,
+      "number": 3,
+      "name": "Svovl og svedige fødder",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "ad657289-f23d-4e5b-bad8-fb838a00354f",
+      "season": 1,
+      "number": 4,
+      "name": "Ønskekoncert",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "e9f0acf0-f7a9-4418-b0a9-8e509b5e1366",
+      "season": 1,
+      "number": 5,
+      "name": "Ramt lige i røven",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "5ec1bb4a-248a-4a95-bd20-580c2105456d",
+      "season": 1,
+      "number": 6,
+      "name": "Mikael Kambers paryk",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "16e127fb-3003-4482-8fe7-dceda2cfcc3e",
+      "season": 1,
+      "number": 7,
+      "name": "Det var bare en skylle",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "5ff0f004-0676-42a6-97bc-5d64ce58d501",
+      "season": 1,
+      "number": 8,
+      "name": "Langt over grænsen",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "5592d041-eb3a-4d00-9535-7dd533522c23",
+      "season": 1,
+      "number": 9,
+      "name": "Aben og mennesket",
+      "airdate": "2020-11-21"
+    },
+    {
+      "id": "15c7ca4b-f30e-4eaf-83bf-668e7c498e7c",
+      "season": 1,
+      "number": 10,
+      "name": "Peter Ingemanns største fejl",
+      "airdate": "2020-11-21"
+    },
+    {
+      "id": "8927cd7b-3410-43ef-b590-7a611caa06b9",
+      "season": 1,
+      "number": 11,
+      "name": "Halleluja",
+      "airdate": "2020-11-28"
+    },
+    {
+      "id": "34476ed8-c13a-4f2d-beec-892798067f4c",
+      "season": 1,
+      "number": 12,
+      "name": "En ordentlig krænkelse og et badehotel",
+      "airdate": "2020-11-28"
+    }
+  ]
+}

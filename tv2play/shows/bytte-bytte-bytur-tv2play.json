@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:bytte-bytte-bytur-tv2play",
+  "name": "Bytte bytte bytur",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fra fadøl på Falster til dyre drinks i hovedstaden – Danmarks festkultur er mangfoldig. Se, hvad der sker, når en gruppe vidt forskellige festaber bytte bytur.",
+  "image": "https://cdn-play.tv2i.dk/5dac4f0a-91c5-4132-9683-e640b0e7fb6d.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "0d884bfb-75a3-49c1-b697-ab18f54881f5",
+      "season": 1,
+      "number": 1,
+      "name": "Kollektiv vs. bowling",
+      "airdate": "2020-03-02"
+    },
+    {
+      "id": "98d81313-b860-4be3-9405-c87b2778ffa9",
+      "season": 1,
+      "number": 2,
+      "name": "Twerk vs. bodegatur",
+      "airdate": "2020-03-02"
+    },
+    {
+      "id": "258293d3-1bfa-4549-a708-d4c3d8d33afe",
+      "season": 1,
+      "number": 3,
+      "name": "Heavymetal vs. knallertklub",
+      "airdate": "2020-03-16"
+    },
+    {
+      "id": "8d376d90-de05-4341-a380-d95190005abd",
+      "season": 1,
+      "number": 4,
+      "name": "Vin vs. gaybar",
+      "airdate": "2020-03-30"
+    },
+    {
+      "id": "85be11f9-03c0-4544-a8c2-aa9aa6b1e67b",
+      "season": 1,
+      "number": 5,
+      "name": "Vestegnen vs. bonderøve",
+      "airdate": "2020-03-31"
+    },
+    {
+      "id": "8d29b940-4dad-4470-9244-596e527e6314",
+      "season": 1,
+      "number": 6,
+      "name": "Pubcrawl vs. fuckboys",
+      "airdate": "2020-04-13"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:humlen-ved-nordjylland-tv2nord",
+  "name": "Humlen ved Nordjylland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Anders Mundelin inviterer øleksperterne Carsten Berthelsen og Anders Kissmeyer til sin nordjyske hjemstavn for at finde Humlen ved Nordjylland. De udforsker bryghuse og restauranter, hvor øl og mad forenes, og søger svar på, hvad der definerer smagen og sjælen i nordjysk øl.",
+  "image": "https://cdn-play.tv2i.dk/6f1480f2-4896-4848-8827-983c5fe4dddb.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8f6271a1-e22f-44b9-9e6f-c5756f3cff32",
+      "season": 1,
+      "number": 1,
+      "name": "Fra Limfjordsporter til fiskerøl",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "058d91e1-e3c1-4fea-b652-c48fe376edcc",
+      "season": 1,
+      "number": 2,
+      "name": "Valle, gourmet og beerpong",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "e06ad4fb-ee81-4cd1-9f9b-9977b13aa459",
+      "season": 1,
+      "number": 3,
+      "name": "Historisk øl, vilde urter og vovede cocktails",
+      "airdate": "2025-01-10"
+    },
+    {
+      "id": "913d0fcd-6067-4adc-8b92-db1093f35589",
+      "season": 1,
+      "number": 4,
+      "name": "Tørfisk tarteletter og halsbrand",
+      "airdate": "2025-01-17"
+    },
+    {
+      "id": "dcb581c4-c599-4b7e-bf36-b416a1f3aea9",
+      "season": 1,
+      "number": 5,
+      "name": "Fra stort til lille bryggeri og de perfekte ølretter",
+      "airdate": "2025-01-24"
+    },
+    {
+      "id": "e5f93184-809f-4bcc-9c16-28457f2ac881",
+      "season": 1,
+      "number": 6,
+      "name": "Prisvindende øl, øl-bar, øl-pizza og vin vs øl",
+      "airdate": "2025-01-31"
+    }
+  ]
+}

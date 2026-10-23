@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:importeret-til-misbrug-tv2",
+  "name": "Importeret til misbrug",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 2018 beslutter Folketinget, at forældelsesfristen for nogle typer af seksuelle overgreb mod børn skal ophæves. Det betyder, at gamle sager nu kan tages op i retssystemet. TV 2 følger i to episoder Lauras sag, som er en af de første, der bliver ført, efter forældelsesfristen ophæves",
+  "image": "https://cdn-play.tv2i.dk/6ef65fe0-1569-4c06-91ca-bea0fcfdb915.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "45f0ddd2-a74c-4404-bc56-e554271e6341",
+      "season": 1,
+      "number": 1,
+      "name": "Lauras værste mareridt",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "6e856e69-6c3d-48ec-beb0-94001452cb4f",
+      "season": 1,
+      "number": 2,
+      "name": "Får familien retfærdighed?",
+      "airdate": "2023-09-27"
+    }
+  ]
+}

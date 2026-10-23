@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:laast-inde-for-livet-tv2",
+  "name": "Låst inde for livet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Danmarks tre længst siddende fanger har alle afsonet i over 35 år og har ingen udsigt til at blive løsladt. TV 2 Dokumentar skildrer i to programmer, hvem de er, og hvorfor de skal sidde længere tid i fængsel end nogen andre.",
+  "image": "https://cdn-play.tv2i.dk/a961d0c3-2d97-47bc-838c-5bae02ca3abe.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "286c0457-e573-4178-bcdb-315e46febb3a",
+      "season": 1,
+      "number": 1,
+      "name": "For farlig til frihed",
+      "airdate": "2023-05-22"
+    },
+    {
+      "id": "6a4f76e6-5b1b-412e-a9a4-68e99d036741",
+      "season": 1,
+      "number": 2,
+      "name": "Kampen for løsladelse",
+      "airdate": "2023-05-22"
+    }
+  ]
+}

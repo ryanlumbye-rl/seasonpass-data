@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:kaerlighed-uden-filter-tv2echo",
+  "name": "Kærlighed uden filter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Livsbekræftende realityserie, hvor vi følger en række unge mennesker med Downs syndrom, som drømmer om at finde kærligheden. Vi er med, når de får gode råd af venner og familie, og når de skal på dates - for nogle af dem for første gang nogensinde.",
+  "image": "https://cdn-play.tv2i.dk/79180602-6c29-475d-89ef-f05b64b3fec2.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3525c7fc-2029-4dc0-961d-8257d47601f0",
+      "season": 1,
+      "number": 1,
+      "name": "Blind date og bytur",
+      "airdate": "2025-01-16"
+    },
+    {
+      "id": "f28ccc95-2de3-42c0-b89f-1d749af5d263",
+      "season": 1,
+      "number": 2,
+      "name": "Strandtur og slotsdate",
+      "airdate": "2025-01-23"
+    },
+    {
+      "id": "4c21ca5c-5a73-400a-8240-d8d988755703",
+      "season": 1,
+      "number": 3,
+      "name": "Ringenes herre",
+      "airdate": "2025-01-30"
+    },
+    {
+      "id": "20328af6-33c7-48d7-9467-7cb188e374b3",
+      "season": 1,
+      "number": 4,
+      "name": "Skub i datinglivet",
+      "airdate": "2025-02-06"
+    },
+    {
+      "id": "c441f5b2-1273-42ae-a8d1-445dd9bb33ad",
+      "season": 1,
+      "number": 5,
+      "name": "Er tredje date lykkens date?",
+      "airdate": "2025-02-13"
+    },
+    {
+      "id": "51285af3-bf43-4e38-9950-5a5317006089",
+      "season": 2,
+      "number": 1,
+      "name": "Bryllupsklokkerne ringer",
+      "airdate": "2025-08-13"
+    },
+    {
+      "id": "abee58a2-2d78-4ee0-bdd6-af2cff413f43",
+      "season": 2,
+      "number": 2,
+      "name": "Det første kys?",
+      "airdate": "2025-08-20"
+    },
+    {
+      "id": "d48b314d-b407-4ca9-b0fa-716aefa0a6dc",
+      "season": 2,
+      "number": 3,
+      "name": "Lækkert hår",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "d2e7be26-d6b8-4b3b-99bd-92a66d66fd89",
+      "season": 2,
+      "number": 4,
+      "name": "Kærlighedssorger",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "dbd1750c-7c4e-4845-ad78-227b141aa4a5",
+      "season": 2,
+      "number": 5,
+      "name": "Mød min familie",
+      "airdate": "2025-09-10"
+    }
+  ]
+}

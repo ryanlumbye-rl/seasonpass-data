@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:girl-taken-tv2play",
+  "name": "Girl Taken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tvillingesøstrene Lily og Abby får livet vendt på hovedet, da 17-årige Lily kidnappes. Fem år senere undslipper hun og afslører år med misbrug i en skjult kælder samt den chokerende sandhed: bortføreren er Rick, hendes lærer. Nu kæmper søstrene for retfærdighed og helbredelse.",
+  "image": "https://cdn-play.tv2i.dk/d44cd5e2-512f-4629-9efa-42112ea57d1f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "d280f434-eaf5-40ec-b3e7-6d173c7bf7b5",
+      "season": 1,
+      "number": 1,
+      "name": "Snatched",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "90653bb3-7975-4c6a-be02-a01ea401d5ec",
+      "season": 1,
+      "number": 2,
+      "name": "Trapped",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "0a3f2b4f-4f56-471f-bdcc-eb586fb9d51e",
+      "season": 1,
+      "number": 3,
+      "name": "Escape",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "845238b5-9adb-43a8-9564-2c959fc55f94",
+      "season": 1,
+      "number": 4,
+      "name": "Showdown",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "b1f2b2ce-0af3-4f98-a45a-a643f86d1aa5",
+      "season": 1,
+      "number": 5,
+      "name": "Crisis",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "da2b1865-8bc3-4b04-b6ad-80a33daed009",
+      "season": 1,
+      "number": 6,
+      "name": "Manhunt",
+      "airdate": "2026-02-26"
+    }
+  ]
+}

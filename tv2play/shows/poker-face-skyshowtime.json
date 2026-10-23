@@ -1,0 +1,166 @@
+{
+  "id": "tv2play:poker-face-skyshowtime",
+  "name": "Poker Face",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Charlie Cale har en ekstraordinær evne til at se, når folk lyver. Denne evne viser sig nyttig, når hun bliver kastet ud i at løse utallige mysterier på sin flugt fra en hævngerrig gangster.",
+  "image": "https://cdn-play.tv2i.dk/80440c4c-0538-44dc-8e8d-64779d4f4ff2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7d874b6c-aff9-4b56-a39c-b36a4797b53b",
+      "season": 1,
+      "number": 1,
+      "name": "Dead Man's Hand",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "2ad119d1-284a-4249-96b8-2c474a2156ff",
+      "season": 1,
+      "number": 2,
+      "name": "The Night Shift",
+      "airdate": "2023-09-15"
+    },
+    {
+      "id": "de7e364e-a3bd-4db8-b71f-3500b343b19f",
+      "season": 1,
+      "number": 3,
+      "name": "The Stall",
+      "airdate": "2023-09-22"
+    },
+    {
+      "id": "eeb5d93f-5ca0-49b5-8a70-d3cd2eabd315",
+      "season": 1,
+      "number": 4,
+      "name": "Rest in Metal",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "c5ff2440-e253-4fd7-aec6-d37705fc9b2b",
+      "season": 1,
+      "number": 5,
+      "name": "Time of the Monkey",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "a9cbf474-302f-4057-bfd6-ecdab9aba88e",
+      "season": 1,
+      "number": 6,
+      "name": "Exit Stage Death",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "9adaa43c-5e48-4cdc-9b34-6abe87cfd5ed",
+      "season": 1,
+      "number": 7,
+      "name": "The Future of the Sport",
+      "airdate": "2023-10-20"
+    },
+    {
+      "id": "4cd98b10-4eff-4fd0-baad-8d4e730adc1e",
+      "season": 1,
+      "number": 8,
+      "name": "The Orpheus Syndrome",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "f791f993-3909-4cc8-96e8-49f7bd30200a",
+      "season": 1,
+      "number": 9,
+      "name": "Escape from Shi... Mountain",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "456eefb6-ee2c-4268-a9c6-47bb2ab58eaf",
+      "season": 1,
+      "number": 10,
+      "name": "The Hook",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "5440f13f-20bb-4cfc-ad4e-e5e3d6ad7a8e",
+      "season": 2,
+      "number": 1,
+      "name": "The Game Is a Foot",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "cf8f5688-59aa-483c-92f5-60c3d4984091",
+      "season": 2,
+      "number": 2,
+      "name": "Last Looks",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "116bebe9-7f99-43f9-bd32-a1e9c8770146",
+      "season": 2,
+      "number": 3,
+      "name": "Whack-A-Mole",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "25d83a59-eaef-4df4-8df4-40fe45bc39c0",
+      "season": 2,
+      "number": 4,
+      "name": "The Taste of Human Blood",
+      "airdate": "2025-07-24"
+    },
+    {
+      "id": "8172b113-0fe9-4131-bf89-fede1e9bfc9d",
+      "season": 2,
+      "number": 5,
+      "name": "Hometown Hero",
+      "airdate": "2025-07-31"
+    },
+    {
+      "id": "614e70dd-10bd-41e2-8c55-53dfe9245cd7",
+      "season": 2,
+      "number": 6,
+      "name": "Sloppy Joseph",
+      "airdate": "2025-08-07"
+    },
+    {
+      "id": "76fc4f5d-a937-47b7-937b-bb92e3536b91",
+      "season": 2,
+      "number": 7,
+      "name": "One Last Job",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "d88b26fe-8bb1-4381-af39-405d419c00df",
+      "season": 2,
+      "number": 8,
+      "name": "The Sleazy Georgian",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "d3e2c502-af02-47d1-ab24-b7b30bd1558f",
+      "season": 2,
+      "number": 9,
+      "name": "A New Lease on Death",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "0e174029-1077-437d-b4e4-8e4ef615bf45",
+      "season": 2,
+      "number": 10,
+      "name": "The Big Pump",
+      "airdate": "2025-09-04"
+    },
+    {
+      "id": "49022920-48a0-4a36-b745-fa25ee4194ba",
+      "season": 2,
+      "number": 11,
+      "name": "Day of the Iguana",
+      "airdate": "2025-09-11"
+    },
+    {
+      "id": "661a3890-7ea5-4179-bb74-972c84c0e4ec",
+      "season": 2,
+      "number": 12,
+      "name": "The End of the Road",
+      "airdate": "2025-09-18"
+    }
+  ]
+}

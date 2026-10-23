@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:100-kilo-senere-tv2play",
+  "name": "100 kilo senere",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Komikeren Phillip Devantier er blevet far, og det har sat gang i en livsændrende beslutning. Han vil ikke længere være den tykke dreng fra klassen. Derfor inviterer han mennesker i Region Sjælland til at gå vejen mod sundhed sammen med ham.",
+  "image": "https://cdn-play.tv2i.dk/25db0d1f-51d8-4c87-a9ff-45faca9e5fb5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f84027ec-0105-49f6-b42a-5c17a79fe40c",
+      "season": 1,
+      "number": 1,
+      "name": "Phillips mission",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "732c7815-c50e-44ce-b0dd-dabb3ace9285",
+      "season": 1,
+      "number": 2,
+      "name": "De fem modige deltagere",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "163a01c8-64be-4767-a0fe-f9b9874cbfb3",
+      "season": 1,
+      "number": 3,
+      "name": "Junglestien",
+      "airdate": "2026-01-28"
+    },
+    {
+      "id": "14c2ab44-7d09-4383-bf56-3616074cc482",
+      "season": 1,
+      "number": 4,
+      "name": "Diætistens gode råd",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "d90f88b1-73b3-4167-9761-8182df5f7e6b",
+      "season": 1,
+      "number": 5,
+      "name": "En udfordring fra den personlige træner",
+      "airdate": "2026-02-11"
+    },
+    {
+      "id": "7a9cee83-5be8-4138-aaf7-4eb37c6e1828",
+      "season": 1,
+      "number": 6,
+      "name": "Selvværdet til eftersyn",
+      "airdate": "2026-02-18"
+    },
+    {
+      "id": "a5719822-d9ac-4288-babf-62008ebb771d",
+      "season": 1,
+      "number": 7,
+      "name": "Supermarkedets fristelser",
+      "airdate": "2026-02-25"
+    },
+    {
+      "id": "4024fcfe-20ae-434b-a413-66d0ba820897",
+      "season": 1,
+      "number": 8,
+      "name": "Sund mad med Umut",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "f64b3e93-4a5d-43c1-9cea-8714a5372ea5",
+      "season": 1,
+      "number": 9,
+      "name": "Nyt tøj, nye størrelser",
+      "airdate": "2026-03-11"
+    },
+    {
+      "id": "e048ca9b-c982-4a43-99ee-25316f07908c",
+      "season": 1,
+      "number": 10,
+      "name": "Finalen",
+      "airdate": "2026-03-18"
+    }
+  ]
+}

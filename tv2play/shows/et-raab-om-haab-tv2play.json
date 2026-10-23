@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:et-raab-om-haab-tv2play",
+  "name": "Et råb om håb",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I over 130 år har Blå Kors været der for dem, der ikke kan finde ud af livet. I Den Blå Oase møder vi nogle af de mennesker, der har mistet fodfæstet.",
+  "image": "https://cdn-play.tv2i.dk/8aac7360-a0dc-4eab-b2d0-40e9848717d3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "abc757e8-270a-4738-91c5-e128c306bb89",
+      "season": 1,
+      "number": 1,
+      "name": "Oles sang",
+      "airdate": "2026-05-17"
+    },
+    {
+      "id": "d002b8b2-8341-4b08-b2d5-cb4577098e7d",
+      "season": 1,
+      "number": 2,
+      "name": "Næste øl slår mig ihjel",
+      "airdate": "2026-05-24"
+    },
+    {
+      "id": "72c462ed-b280-41de-a5e2-2e16bd9ce797",
+      "season": 1,
+      "number": 3,
+      "name": "En ny start",
+      "airdate": "2026-05-31"
+    },
+    {
+      "id": "8f37a71b-168b-4c4d-93fa-588c2dae9002",
+      "season": 1,
+      "number": 4,
+      "name": "En krammer til John",
+      "airdate": "2026-06-07"
+    },
+    {
+      "id": "53202104-e72a-464b-adbc-171250de967f",
+      "season": 1,
+      "number": 5,
+      "name": "En ny tand til Carsten",
+      "airdate": "2026-06-14"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "tv2play:nicky-ricky-dicky-dawn-skyshowtime",
+  "name": "Nicky, Ricky, Dicky & Dawn",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En gruppe firlinger med vidt forskellige personligheder er for det meste uenige om alt, men når tingene bliver komplicerede, hjælper de hinanden ud af problemer.",
+  "image": "https://cdn-play.tv2i.dk/db5e21fd-b22b-4e5e-bff4-940aaa4d695a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c2edbdfd-4f3e-40a7-9200-36755cf274c7",
+      "season": 1,
+      "number": 5,
+      "name": "Kampen om fjernbetjeningen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a6a0804c-0fb3-4026-8530-e7766caa8b05",
+      "season": 1,
+      "number": 7,
+      "name": "Hjernernes Mark",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "cd63576e-155d-485e-a1a4-d33fb498be15",
+      "season": 1,
+      "number": 10,
+      "name": "Pottemysteriet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6138ba96-0a8c-412c-acc4-2ce365474ba1",
+      "season": 1,
+      "number": 12,
+      "name": "Tag pengene og løb",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fe01ed62-4cb2-4826-a30b-51cc052894f0",
+      "season": 1,
+      "number": 13,
+      "name": "Nisse-firebanden",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a39c5a03-23a7-4f9d-acac-67448f67291c",
+      "season": 1,
+      "number": 15,
+      "name": "Firekampen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2e1efb8d-3a42-42da-8fe5-c26c3c3dc332",
+      "season": 2,
+      "number": 1,
+      "name": "Eftersøgt: Sukkerroebanden",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "8067a8b2-eb84-4675-ad62-0c4cae1c053e",
+      "season": 2,
+      "number": 2,
+      "name": "Vandrehistorie-trendsetterne",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "e39ad3db-cab9-45ff-9f9c-d085557516ed",
+      "season": 2,
+      "number": 3,
+      "name": "Ikke nogle hvis, og, eller men'er",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "14ec227b-3857-45b4-be28-f8ca6f81cd47",
+      "season": 2,
+      "number": 4,
+      "name": "Mestrer-alt-Dawn",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "a58ff0df-c18e-486e-aeb0-38d3f98b6198",
+      "season": 2,
+      "number": 5,
+      "name": "Utilfredse lejrdeltagere",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "269b093d-6d12-45a1-bfd8-0cc5d9d0f818",
+      "season": 2,
+      "number": 6,
+      "name": "Harperne i elevrådet",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "536718ef-e921-4856-a96b-7b140cc3f38b",
+      "season": 2,
+      "number": 7,
+      "name": "Når familien skal i centret",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "88b0362e-75ee-434f-88e8-3487ff1d8d0f",
+      "season": 2,
+      "number": 8,
+      "name": "Frække fodplader",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "85520b61-9748-4e9b-b726-6cbbf1678624",
+      "season": 2,
+      "number": 9,
+      "name": "Giv mig Candace",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "7f2ac9f6-e4e9-4677-979d-505cbbb00ddf",
+      "season": 2,
+      "number": 10,
+      "name": "Firlinge-Retten",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "226be794-2d6b-47fd-8f4e-78ea1b880089",
+      "season": 2,
+      "number": 11,
+      "name": "Hun blændede ham med videnskab (Bob)",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "293ace39-0395-4bb9-ac46-41b2ecb2d104",
+      "season": 2,
+      "number": 12,
+      "name": "Den Utrolige Fire-Bande!",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "3fdd2642-7dc3-4497-80ed-05008bb30f87",
+      "season": 2,
+      "number": 13,
+      "name": "Til Hollywood del 1 og 2",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "275592b5-ff89-48b9-9c4f-75835a8e3296",
+      "season": 2,
+      "number": 14,
+      "name": "Rock og regler",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "aaca439d-59a3-4311-a8fd-0f74226a0fee",
+      "season": 2,
+      "number": 15,
+      "name": "Hundelems-eftermiddag",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "3a9d3f4b-a221-4a6d-959b-f329ada7ab75",
+      "season": 2,
+      "number": 16,
+      "name": "Ballet og udyrerne",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "1caa2614-8a3d-461e-9c07-4e78d7f0f06f",
+      "season": 2,
+      "number": 17,
+      "name": "Kvartet-Golf",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "04ec0094-7c3c-4f22-9cdb-b4f11b463033",
+      "season": 2,
+      "number": 18,
+      "name": "Filmforviklinger",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "9ff685e1-0533-4ecd-95bf-86d2969a70da",
+      "season": 2,
+      "number": 19,
+      "name": "Tre mænd og en Mae B.",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "532691f3-fd24-424c-96a3-2e31805f51c0",
+      "season": 2,
+      "number": 20,
+      "name": "En kort popularitetsaffære",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "6ae9db6c-bd3f-4dde-bd7e-3cd03989539a",
+      "season": 2,
+      "number": 22,
+      "name": "Det nye barn på vejen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d51b7329-d91f-42cf-910e-9225b2a3dee3",
+      "season": 2,
+      "number": 23,
+      "name": "Nicky, Ricky, Dicky & Sicky",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "89a1930c-072a-49d9-97a1-3f3f65cd714e",
+      "season": 2,
+      "number": 24,
+      "name": "Dagbog fra en vred firling",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "731bcd6d-a552-4ebf-8efe-3606c5649f91",
+      "season": 2,
+      "number": 25,
+      "name": "Mission: Ustoppelige firlinger",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "174ee166-51e2-4ffd-96bf-ad77d49f0927",
+      "season": 3,
+      "number": 1,
+      "name": "Kvartetbloggere",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "09a346bd-4479-4046-8785-ffcd04fbf07e",
+      "season": 4,
+      "number": 10,
+      "name": "Vi vil altid have parasitter",
+      "airdate": "2023-02-21"
+    }
+  ]
+}

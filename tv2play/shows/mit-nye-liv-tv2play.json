@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:mit-nye-liv-tv2play",
+  "name": "Mit nye liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mød tre unge mennesker, der alle har skabt positive forandringer i deres liv.",
+  "image": "https://cdn-play.tv2i.dk/8694fdbd-d274-44b5-9987-238a67114d54.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "c373e9f6-40cc-4628-8790-2531a1e1e284",
+      "season": 1,
+      "number": 1,
+      "name": "Miraklet på Nordsøen",
+      "airdate": "2020-12-27"
+    },
+    {
+      "id": "1301a202-6051-4609-971d-24fdb2abea62",
+      "season": 1,
+      "number": 2,
+      "name": "Sejren over stemmerne",
+      "airdate": "2020-12-28"
+    },
+    {
+      "id": "f06ac33c-a4da-413b-adec-c5a4ad070087",
+      "season": 1,
+      "number": 3,
+      "name": "Forvandlingen til Theodore",
+      "airdate": "2020-12-29"
+    }
+  ]
+}

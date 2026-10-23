@@ -1,0 +1,180 @@
+{
+  "id": "tv2play:chucky-cmore",
+  "name": "Chucky",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "5f1248bc-ebcf-4b81-b88c-3522af3ba0de",
+      "season": 1,
+      "number": 1,
+      "name": "Death By Misadventure",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5dcbac15-4b8f-4799-a14c-ae491b75c3c3",
+      "season": 1,
+      "number": 2,
+      "name": "Give Me Something Good to Eat",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "defbdfa0-9f35-47c6-8c21-11fd5891cdd7",
+      "season": 1,
+      "number": 3,
+      "name": "I Like to Be Hugged",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "98482382-fc7c-4fe7-96ab-cb48f2055029",
+      "season": 1,
+      "number": 4,
+      "name": "Just Let Go",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e554c9ca-80e1-4f78-bb8b-a24e265775ab",
+      "season": 1,
+      "number": 5,
+      "name": "Little Little Lies",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2bde93dc-e6ea-4130-a5bf-88596249b185",
+      "season": 1,
+      "number": 6,
+      "name": "Cape Queer",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "de4d8c5a-3f7c-4e74-a788-10017645b210",
+      "season": 1,
+      "number": 7,
+      "name": "Twice the Grieving, Double the Loss",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c575055a-ea95-445f-951b-8930fe9bd62a",
+      "season": 1,
+      "number": 8,
+      "name": "An Affair to Dismember",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "c68739d7-89a3-43ef-a58b-5532ac02d657",
+      "season": 2,
+      "number": 1,
+      "name": "Halloween II",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3cd06ff7-194c-4f89-bbeb-16f447198b15",
+      "season": 2,
+      "number": 2,
+      "name": "The Sinners Are Much More Fun",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "2ad52ccc-8360-4f37-86d3-0af0e15c1f69",
+      "season": 2,
+      "number": 3,
+      "name": "Hail, Mary!",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "110c417f-96b5-4921-af58-0fdf58953df2",
+      "season": 2,
+      "number": 4,
+      "name": "Death on Denial",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f4993e41-b79a-4b36-8a56-ad091d709d20",
+      "season": 2,
+      "number": 5,
+      "name": "Doll on Doll",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4f38a213-2969-4ba9-8805-608f0ac9849e",
+      "season": 2,
+      "number": 6,
+      "name": "He is Risen Indeed",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6ee5d2c7-dd04-4db9-ba10-0630323b9597",
+      "season": 2,
+      "number": 7,
+      "name": "Goin' to the Chapel",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d17cc4ca-d328-457b-8938-bc96fdf60418",
+      "season": 2,
+      "number": 8,
+      "name": "Chucky Actually",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b0b1dbfb-a85d-4870-b2d0-4231f40b79f4",
+      "season": 3,
+      "number": 1,
+      "name": "Murder at 1600",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "40889d49-8a2b-4576-a06e-59c5a648b863",
+      "season": 3,
+      "number": 2,
+      "name": "Let the Right One In",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "a4c2dc87-9639-4886-960e-cb69a102df4a",
+      "season": 3,
+      "number": 3,
+      "name": "Jennifer's Body",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "5833ce7f-449b-4756-9b44-a81b6943730f",
+      "season": 3,
+      "number": 4,
+      "name": "Dressed to Kill",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "c4d377a4-fe03-4d10-9363-1650539fee3e",
+      "season": 3,
+      "number": 5,
+      "name": "Death Becomes Her",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "33101b07-6993-4caa-be16-5e7f6739e5a0",
+      "season": 3,
+      "number": 6,
+      "name": "Panic Room",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "46a018d2-2965-4ef6-af8f-86d2535a1ce1",
+      "season": 3,
+      "number": 7,
+      "name": "There Will Be Blood",
+      "airdate": "2026-10-14"
+    },
+    {
+      "id": "2d868307-dc3c-4d2e-9c66-9cc49e28e325",
+      "season": 3,
+      "number": 8,
+      "name": "Final Destination",
+      "airdate": "2026-10-14"
+    }
+  ],
+  "description": "Gyserserie om den dødbringende dukke Chucky. En fortsættelse af de otte film med hele det oprindelige cast.",
+  "image": "https://cdn-play.tv2i.dk/c36f8926-62c3-342e-a475-fc9c10ed78e6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
+}

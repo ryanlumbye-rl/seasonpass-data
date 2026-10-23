@@ -1,0 +1,152 @@
+{
+  "id": "tv2play:avatar-the-last-airbender-skyshowtime",
+  "name": "Avatar: The Last Airbender",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Verdens magt er fordelt mellem fire nationer: Vand, ild, luft og jord. Men balancen er skiftet, og freden kan kun reddes af Aang. Den unge avatar må kæmpe mod det onde folk fra Ildnationen i forsøget på at redde verden fra den sikre undergang.",
+  "image": "https://cdn-play.tv2i.dk/1af5a231-ef2b-45cb-948b-a79915b80422.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C1%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "a2dfa67d-7cfb-47d5-91fd-f0fbe06b926d",
+      "season": 1,
+      "number": 1,
+      "name": "The Boy in the Iceberg",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "129271e4-8d6e-46d8-827b-7ce2208684fe",
+      "season": 1,
+      "number": 2,
+      "name": "The Avatar Returns",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "66b7606a-05e4-4729-9bdc-dd3a7f7372d7",
+      "season": 1,
+      "number": 3,
+      "name": "The Southern Air Temple",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "43d212b4-6b6d-4a60-8664-6e5a8e7ba5ee",
+      "season": 1,
+      "number": 4,
+      "name": "The Warriors of Kyoshi",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5b89cb82-8db7-44ba-a724-95494f12a4c4",
+      "season": 1,
+      "number": 5,
+      "name": "The King of Omashu",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c0328546-364a-4b0a-998b-673d38f599e2",
+      "season": 1,
+      "number": 6,
+      "name": "Imprisoned",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e60e103c-4ce8-472e-b9f5-0b58a46192ef",
+      "season": 1,
+      "number": 7,
+      "name": "Winter Solstice Part 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4f00666d-be39-4581-a975-567d8f3efe6b",
+      "season": 1,
+      "number": 8,
+      "name": "Winter Solstice Part 2: Avatar Roku",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cd0a1ba6-e351-4454-bb49-1a31989cb12f",
+      "season": 1,
+      "number": 9,
+      "name": "The Waterbending Scroll",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3ef2a3d3-6ce3-4413-9a96-084a7c9482fe",
+      "season": 1,
+      "number": 10,
+      "name": "Jet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5bab5ae8-45e6-484f-9a6b-9abb757d58f5",
+      "season": 1,
+      "number": 11,
+      "name": "The Great Divide",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f468bba0-0301-4309-a7ab-2f723adbd243",
+      "season": 1,
+      "number": 12,
+      "name": "The Storm",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "09e970da-e306-45be-9df5-bf6b1d081c38",
+      "season": 1,
+      "number": 13,
+      "name": "The Blue Spirit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a33f2dbc-4430-40ec-94bf-34f027cc20d1",
+      "season": 1,
+      "number": 14,
+      "name": "The Fortuneteller",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "afd7bab3-4d9d-4bbd-a4a6-c290abf2c25e",
+      "season": 1,
+      "number": 15,
+      "name": "Bato of the Water Tribe",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4caa15ea-fb84-47a7-a601-e388bf7159bb",
+      "season": 1,
+      "number": 16,
+      "name": "The Deserter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a4af6a70-4fd8-438e-856f-6afbe2d2d708",
+      "season": 1,
+      "number": 17,
+      "name": "The Northern Air Temple",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bf41fe5f-cbb3-4b4a-88f9-6a00439ace1a",
+      "season": 1,
+      "number": 18,
+      "name": "The Waterbending Master",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "61a40397-2c0a-4276-b7ee-87fe4ba99152",
+      "season": 1,
+      "number": 19,
+      "name": "The Siege of the North Part 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b899479e-c9c9-476e-b81b-996be4af7a8f",
+      "season": 1,
+      "number": 20,
+      "name": "The Siege of the North Part 2",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

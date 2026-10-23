@@ -1,11 +1,151 @@
 {
   "id": "tv2play:sten-saks-papir-tv2play",
   "name": "Sten, saks, papir",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "cc9490d6-57e3-4e86-98eb-6d42759b2417",
+      "season": 1,
+      "number": 1,
+      "name": "Fødselsdagspoliti",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "1b98b1a4-01eb-4308-853b-c81301e85b76",
+      "season": 1,
+      "number": 2,
+      "name": "Kængurustylter",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "b42e1522-8ec1-4e4e-aea8-7268c84f688a",
+      "season": 1,
+      "number": 3,
+      "name": "Weekendhistorie",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "566a653a-6c31-438f-ae18-0dd85236f32b",
+      "season": 1,
+      "number": 4,
+      "name": "Gemmeleg",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "a28e5bb6-6077-457f-b6b4-147503199fa9",
+      "season": 1,
+      "number": 5,
+      "name": "Susan",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "c1a9e28c-85c8-4932-82b1-193fba251753",
+      "season": 1,
+      "number": 6,
+      "name": "Saks får et job",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "bfeb4b15-ed6a-4873-b9b0-e9572a6bbadf",
+      "season": 1,
+      "number": 7,
+      "name": "Arktis",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "66a1e709-8c17-406f-85d5-06c4b0d02c13",
+      "season": 1,
+      "number": 8,
+      "name": "Limejagt",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "37a76289-390a-4603-b230-7df61367e569",
+      "season": 1,
+      "number": 9,
+      "name": "De andre Sten, Saks og Papir",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "267de85d-569a-4d1c-89f3-64424bb2bc74",
+      "season": 1,
+      "number": 10,
+      "name": "Blyant kommer forbi",
+      "airdate": "2024-06-01"
+    },
+    {
+      "id": "3d20cf10-8c5a-4774-b2dd-0eba60f9899a",
+      "season": 1,
+      "number": 11,
+      "name": "Feriebilledet",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "2f980cf5-0714-47bd-9489-55de92abcc53",
+      "season": 1,
+      "number": 12,
+      "name": "Bowling",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "a3dca3a3-8c55-42c9-90ce-4cc552ab1ecb",
+      "season": 1,
+      "number": 13,
+      "name": "Kartoffel",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "251a590b-5ffb-44fa-a17a-f7bd9012bbdc",
+      "season": 1,
+      "number": 14,
+      "name": "Papirs hemmelige våben",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "9df5f2f1-9c7e-44e2-99cb-298f95ac6f85",
+      "season": 1,
+      "number": 15,
+      "name": "Saks' katapult",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "56fd6445-e781-48c0-adee-f32d9c9dc20f",
+      "season": 1,
+      "number": 16,
+      "name": "Nytårsforsæt",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "94264c6a-bb6d-4f7a-a70c-a023e81b15fb",
+      "season": 1,
+      "number": 17,
+      "name": "Familieforretningen",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "d27e7b1d-c77e-48be-8b95-8367279e5dc1",
+      "season": 1,
+      "number": 18,
+      "name": "Papirets nationaldag",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "9769ddf4-1afa-4801-8448-2a6b0b296e03",
+      "season": 1,
+      "number": 19,
+      "name": "Bleer",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "99e0ec8f-c87d-4c7e-94f3-97ddfc77f68e",
+      "season": 1,
+      "number": 20,
+      "name": "Skrald",
+      "airdate": "2024-09-28"
+    },
     {
       "id": "4774cb21-a204-4942-966b-352a92250fc2",
       "season": 2,
@@ -76,5 +216,7 @@
       "name": "Superskurken Saks",
       "airdate": "2026-10-17"
     }
-  ]
+  ],
+  "description": "De bedste venner Sten, Saks og Papir deler en lejlighed og har det sjovt. Men deres konkurrenceprægede natur betyder, at de skændes om alt - både med naboerne og indbyrdes. De har en særlig evne til at få små problemer til at vokse sig til skøre katastrofer.",
+  "image": "https://cdn-play.tv2i.dk/f57cc4fb-2bce-4d8f-afa9-4486e79fb74d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3342%2C1880&w=1280"
 }

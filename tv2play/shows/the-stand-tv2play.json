@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:the-stand-tv2play",
+  "name": "The Stand",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "7c187325-7cb8-4c63-b019-674877d865e7",
+      "season": 1,
+      "number": 1,
+      "name": "The End",
+      "airdate": "2021-12-17"
+    },
+    {
+      "id": "8c4f1d94-c30b-4b45-877a-888801ca9a96",
+      "season": 1,
+      "number": 2,
+      "name": "Pocket Savior",
+      "airdate": "2021-12-17"
+    },
+    {
+      "id": "36c8830c-8ec2-401c-822b-e0824be9f1a9",
+      "season": 1,
+      "number": 3,
+      "name": "Blank Page",
+      "airdate": "2021-12-17"
+    },
+    {
+      "id": "cc8b9072-6548-4eb3-979d-f3bb9af60dd5",
+      "season": 1,
+      "number": 4,
+      "name": "The House of the Dead",
+      "airdate": "2021-12-17"
+    },
+    {
+      "id": "8e5d2f39-ee40-4546-a626-4a02c202ed73",
+      "season": 1,
+      "number": 5,
+      "name": "Fear and Loathing in New Vegas",
+      "airdate": "2021-12-17"
+    },
+    {
+      "id": "9e562b9e-4411-4c23-a850-c7ebe3116e88",
+      "season": 1,
+      "number": 6,
+      "name": "The Vigil",
+      "airdate": "2021-12-17"
+    },
+    {
+      "id": "a950aa5a-436f-4d21-b946-a1298b94d996",
+      "season": 1,
+      "number": 7,
+      "name": "The Walk",
+      "airdate": "2021-12-17"
+    },
+    {
+      "id": "75245beb-5bad-4d72-9f7e-744188df526b",
+      "season": 1,
+      "number": 8,
+      "name": "The Stand",
+      "airdate": "2021-12-17"
+    },
+    {
+      "id": "e4a392dc-2b7c-434a-8391-a1ba9c24a59f",
+      "season": 1,
+      "number": 9,
+      "name": "The Circle Closes",
+      "airdate": "2021-12-17"
+    }
+  ]
+}

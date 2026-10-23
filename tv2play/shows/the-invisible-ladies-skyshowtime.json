@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:the-invisible-ladies-skyshowtime",
+  "name": "The Invisible Ladies",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Et team af stuepiger, der arbejder på et hotel ved Middelhavet, oplever livet og kærligheden, mens de navigerer under usikre arbejdsforhold.",
+  "image": "https://cdn-play.tv2i.dk/edd0043c-ee9d-48e4-ac28-c315c18b5cd3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d285becb-418d-4758-96a5-ce819d73a4d1",
+      "season": 1,
+      "number": 1,
+      "name": "Sitarki",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "ce27b9b2-cb63-42f5-b5aa-677d7eb960aa",
+      "season": 1,
+      "number": 2,
+      "name": "Mambo",
+      "airdate": "2023-07-17"
+    },
+    {
+      "id": "7b76ff0b-2f54-4df9-bfbe-1b3732f58d0d",
+      "season": 1,
+      "number": 3,
+      "name": "Melodic Pop",
+      "airdate": "2023-07-24"
+    },
+    {
+      "id": "c0dda998-e187-4609-a586-0ce66d7a7c53",
+      "season": 1,
+      "number": 4,
+      "name": "Line Dance",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "03ddfed4-2de7-4ce9-a7ac-47340e1e8ef3",
+      "season": 1,
+      "number": 5,
+      "name": "Tap Dance",
+      "airdate": "2023-08-07"
+    },
+    {
+      "id": "4826ae7c-9abe-4a00-b02a-3b18fb28d0a4",
+      "season": 1,
+      "number": 6,
+      "name": "Contemporary Dance",
+      "airdate": "2023-08-14"
+    },
+    {
+      "id": "8522b0fd-57be-4de9-886f-2d1b569c9ec0",
+      "season": 1,
+      "number": 7,
+      "name": "Ballad",
+      "airdate": "2023-08-21"
+    },
+    {
+      "id": "852f2bd8-1696-438c-a314-3d26b26592df",
+      "season": 1,
+      "number": 8,
+      "name": "Paso Doble Dance",
+      "airdate": "2023-08-28"
+    }
+  ]
+}

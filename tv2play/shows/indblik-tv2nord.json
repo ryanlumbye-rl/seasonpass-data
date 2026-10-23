@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:indblik-tv2nord",
+  "name": "Indblik",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I nysgerrige og undersøgende interviews kommer vi tæt på en aktuel gæst, der har noget på hjerte. Vi bliver klogere på aktuelle emner og spændende begivenheder.",
+  "image": "https://cdn-play.tv2i.dk/a7e1ef9b-6a15-40cf-9505-e431d6176026.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4c9d9f80-3653-409f-8a4b-74c7a85d7c54",
+      "season": 5,
+      "number": 7,
+      "name": "Fra ukendt til verdensstjerne på en dag",
+      "airdate": "2024-10-30"
+    },
+    {
+      "id": "55ba2b91-c659-4e38-8d55-1f995970290d",
+      "season": 5,
+      "number": 8,
+      "name": "Helt i hvidt",
+      "airdate": "2024-11-06"
+    },
+    {
+      "id": "08065a0a-d5d3-426d-b009-fb60a64d1d88",
+      "season": 5,
+      "number": 9,
+      "name": "Uperfekt - bag facaden i en influencers liv",
+      "airdate": "2024-11-13"
+    },
+    {
+      "id": "4b2d3aba-e34b-48d6-b0fb-60a214b5c5c7",
+      "season": 5,
+      "number": 10,
+      "name": "Når hemmeligheder er dit job",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "0fc4202b-7332-4db0-b51f-1c5aed0d6f75",
+      "season": 5,
+      "number": 11,
+      "name": "Elefantmandens nye liv",
+      "airdate": "2024-12-11"
+    },
+    {
+      "id": "8515beda-eefc-4589-9313-da2e583de69e",
+      "season": 5,
+      "number": 12,
+      "name": "Præstekjolen på vej i skabet",
+      "airdate": "2024-12-18"
+    }
+  ]
+}

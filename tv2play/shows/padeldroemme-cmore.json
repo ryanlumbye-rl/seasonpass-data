@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Svensk komedieserie om vennerne Fabian og Hasse, der er sent ude, men som alligevel satser alt på egen padelhal.",
+  "image": "https://cdn-play.tv2i.dk/8f3a3023-859b-41b0-ad3e-9f3b81f8b21d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "bff708bc-4eb6-43fe-a675-0e8c1070def9",

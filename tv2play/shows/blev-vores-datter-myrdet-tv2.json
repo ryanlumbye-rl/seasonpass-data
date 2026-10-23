@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:blev-vores-datter-myrdet-tv2",
+  "name": "Blev vores datter myrdet?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "28-årige Henriette bliver fundet død efter en bytur i Grenå. Politiet konkluderer efter få timer, at Henriette har begået selvmord. Men familie og venner tror ikke på det. Nu undersøger TV 2 Dokumentar i tre programmer sagens mystiske omstændigheder. Begik Henriette selvmord, eller blev hun myrdet?",
+  "image": "https://cdn-play.tv2i.dk/3938170a-f4e9-4877-b431-b9183e59b64e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "df72d8be-d981-4425-991f-faa76eba859c",
+      "season": 1,
+      "number": 1,
+      "name": "Tror ikke på politiet",
+      "airdate": "2023-10-02"
+    },
+    {
+      "id": "cd849866-5715-47d6-818c-91fc7cef28cb",
+      "season": 1,
+      "number": 2,
+      "name": "Manglende efterforskning",
+      "airdate": "2023-10-09"
+    },
+    {
+      "id": "afd8b338-b9bd-474a-a2c1-453aa0532959",
+      "season": 1,
+      "number": 3,
+      "name": "Er der tale om drab?",
+      "airdate": "2023-10-09"
+    }
+  ]
+}

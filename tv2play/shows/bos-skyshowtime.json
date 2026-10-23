@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:bos-skyshowtime",
+  "name": "Bosé",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Livet og karrieren for den berømte spanske singer-songwriter Miguel Bosé, hvis unikke personlighed brød barrierer i et Spanien, der langsomt blev åben for forandring",
+  "image": "https://cdn-play.tv2i.dk/eafa1a93-5a89-4842-b461-14fc30487b26.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a7d4f1b9-7d2d-4c71-93d4-8485ebc55e0e",
+      "season": 1,
+      "number": 1,
+      "name": "Linda",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "1afa4030-d375-40dd-8578-86561e46a744",
+      "season": 1,
+      "number": 2,
+      "name": "Te Amaré",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "226ce102-0e4f-4c68-bc02-693d6e96f69d",
+      "season": 1,
+      "number": 3,
+      "name": "Bravi Ragazzi",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "3dcd401b-a7b8-44a6-9471-969e3189c595",
+      "season": 1,
+      "number": 4,
+      "name": "Salamandra",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "712a5992-d823-487c-a8ba-e270b5c47291",
+      "season": 1,
+      "number": 5,
+      "name": "Los Chicos No Lloran",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "ff2b21e5-e758-46ec-a94f-3c8f5a3c2b10",
+      "season": 1,
+      "number": 6,
+      "name": "Si Tú No Vuelves",
+      "airdate": "2023-04-07"
+    }
+  ]
+}

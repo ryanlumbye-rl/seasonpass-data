@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:de-usynlige-hjemloese-tv2",
+  "name": "De usynlige hjemløse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 Echo har hen over vinteren fulgt en gruppe unge, der kæmper for at overleve i en verden, der ofte overser dem. Selvom de ikke sover på gaden, er de fanget i hjemløshed og må bo på herberger eller sove på sofaer. En stærk fortælling i fire afsnit om mod, styrke og håbet om at finde et sted at kalde hjem",
+  "image": "https://cdn-play.tv2i.dk/c712b926-92b6-4f83-920f-dac38fd61a10.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "857a7676-fd85-44f9-ba9d-2648ed8200bf",
+      "season": 1,
+      "number": 1,
+      "name": "Jeg troede aldrig, jeg ville blive hjemløs",
+      "airdate": "2023-04-25"
+    },
+    {
+      "id": "cbb89756-cbda-4bc4-a1d6-74781eafbab2",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg skal ikke hjem til mine forældre",
+      "airdate": "2023-05-02"
+    },
+    {
+      "id": "23cf9afe-e3fa-4eb0-b58d-57c24a387a5b",
+      "season": 1,
+      "number": 3,
+      "name": "Jeg vil gerne leve et normalt liv",
+      "airdate": "2023-05-09"
+    },
+    {
+      "id": "aa1e0e08-2dbf-499e-90e9-897a95b6668a",
+      "season": 1,
+      "number": 4,
+      "name": "Jeg ved ikke, om jeg kan klare det",
+      "airdate": "2023-05-16"
+    }
+  ]
+}

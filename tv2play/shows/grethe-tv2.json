@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:grethe-tv2",
+  "name": "Grethe",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad har man brug for i en familie, hvor alle har for travlt, ingen har styr på, hvad hinanden laver, og alting roder? En ung pige i huset. Eller rettere: En Grethe",
+  "image": "https://cdn-play.tv2i.dk/3d1fc32f-61cb-4754-973b-5bdff4afa2e6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2721%2C1512&w=1280",
+  "episodes": [
+    {
+      "id": "8b9f5fbe-6981-494d-a950-0678f2036995",
+      "season": 1,
+      "number": 1,
+      "name": "Ung pige i huset",
+      "airdate": "2016-12-25"
+    },
+    {
+      "id": "82317823-9b39-48a1-8e28-63b6cacd2ada",
+      "season": 1,
+      "number": 2,
+      "name": "Daten",
+      "airdate": "2016-12-25"
+    },
+    {
+      "id": "5a588b9e-1d9a-4972-8a13-ae9111acbb98",
+      "season": 1,
+      "number": 3,
+      "name": "Hemmeligheder",
+      "airdate": "2016-12-26"
+    },
+    {
+      "id": "468d3bdd-c06b-4d18-8fa2-f595a2490e52",
+      "season": 1,
+      "number": 4,
+      "name": "Alene hjemme",
+      "airdate": "2016-12-26"
+    },
+    {
+      "id": "57a39467-d686-48b6-a6a4-75fc24859788",
+      "season": 1,
+      "number": 5,
+      "name": "Kobberbrylluppet",
+      "airdate": "2016-12-26"
+    }
+  ]
+}

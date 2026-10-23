@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:dafne-and-the-rest-skyshowtime",
+  "name": "Dafne and the Rest",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dafne, en ung transkønnet kvinde på 30 år med et knust hjerte, et forfærdeligt job og en enorm forelskelse i sin bedste ven, navigerer i livet og kærligheden i Madrid sammen med sin sammentømrede gruppe af frustrerede venner.",
+  "image": "https://cdn-play.tv2i.dk/3dc861d2-1ebd-4752-b9a6-10d525f1281c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "dd97e329-ab35-4125-98f1-98f439ab71a3",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-07-14"
+    },
+    {
+      "id": "82df7f68-af63-4d5b-b291-f401472c236b",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-07-14"
+    },
+    {
+      "id": "696232cf-9567-49b9-9cfd-00062a749bbe",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-07-21"
+    },
+    {
+      "id": "54cdeb8d-571d-4f0c-a728-668407e10420",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-07-28"
+    },
+    {
+      "id": "463c3f3f-e529-4ed7-9b49-d09f95e1f655",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-08-04"
+    },
+    {
+      "id": "1cb12096-da5b-406d-ac1f-32ef99167dbd",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-08-11"
+    },
+    {
+      "id": "bd576b13-c9ed-4a3f-9c85-8038abdb1c2a",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-08-18"
+    },
+    {
+      "id": "a74e1d83-d34b-4138-83be-e91b26bc1fce",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-08-25"
+    }
+  ]
+}

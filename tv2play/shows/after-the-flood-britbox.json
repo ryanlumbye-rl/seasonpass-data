@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Spændende britisk thrillerserie med Sophie Rundle. En mand findes død i en elevator efter en oversvømmelse. Hans død viser sig at være et mysterium.",
+  "image": "https://cdn-play.tv2i.dk/3f532597-c3ff-481b-9a4e-51e97bce57d1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3737%2C2102&w=1280",
   "episodes": [
     {
       "id": "c1276af0-918e-4b7e-a4a6-05540764aeee",
@@ -61,6 +63,34 @@
       "number": 2,
       "name": "Episode 2",
       "airdate": "2026-09-16"
+    },
+    {
+      "id": "609c4af9-79c9-480b-add9-57d4d0ee81b6",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-09-23"
+    },
+    {
+      "id": "0301e904-679e-48da-9cd4-39ee79bcbca9",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-09-30"
+    },
+    {
+      "id": "19d61512-f525-44ca-8f6c-b507877e0ecf",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-10-07"
+    },
+    {
+      "id": "d408ef49-078f-4cdf-b1ce-f31f9ad9a76d",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-10-14"
     }
   ]
 }

@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:heroes-reborn-tv2play",
+  "name": "Heroes Reborn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tilsyneladende helt almindelige mennesker opdager pludselig, at de har ekstraordinære evner, som forandrer deres liv for altid. Efter et terrorangreb, der lægger en by i Texas i ruiner, får de skylden og må gå under jorden, mens de lærer at kontrollere deres kræfter.",
+  "image": "https://cdn-play.tv2i.dk/c185a304-0307-35cd-9dff-252a6472caf6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "fae1c9d5-2209-4b4a-ab19-6849a8b12e41",
+      "season": 1,
+      "number": 1,
+      "name": "Brave New World",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "ab200325-ac0a-417c-bc65-e630bb067b3d",
+      "season": 1,
+      "number": 2,
+      "name": "Odessa",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "ed123fd8-866d-47e7-ad1d-6bf423a9b47b",
+      "season": 1,
+      "number": 3,
+      "name": "Under the Mask",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "280489ee-6cc3-49de-b2cd-7c481251f6fa",
+      "season": 1,
+      "number": 4,
+      "name": "The Needs of the Many",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "09931219-1451-4d63-99c0-0b5721e0c552",
+      "season": 1,
+      "number": 5,
+      "name": "The Lion's Den",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "5f084208-36ef-4321-bd4f-6a0e932f64e4",
+      "season": 1,
+      "number": 6,
+      "name": "Game Over",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "4d8cc036-abab-47ab-b181-65fce563c539",
+      "season": 1,
+      "number": 7,
+      "name": "June 13th - Del 1",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "f2b96e41-60c9-4be0-841c-44a33941f198",
+      "season": 1,
+      "number": 8,
+      "name": "June 13th - Del 2",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "b9fec785-3d32-4a55-948b-c2d8354728f9",
+      "season": 1,
+      "number": 9,
+      "name": "Sundae, Bloody Sundae",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "4a7c317b-81e9-44c3-aa08-6a4904db3a51",
+      "season": 1,
+      "number": 10,
+      "name": "11:53 to Odessa",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "f33ac9c3-48c3-4ba5-b2e1-448ebcb7775f",
+      "season": 1,
+      "number": 11,
+      "name": "Send In the Clones...",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "daacbb1d-89cc-49d3-89cb-1423840306b5",
+      "season": 1,
+      "number": 12,
+      "name": "Company Woman",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "1e2c4ae8-4cac-4361-9e5f-3cf312054af0",
+      "season": 1,
+      "number": 13,
+      "name": "Project Reborn",
+      "airdate": "2026-07-22"
+    }
+  ]
+}

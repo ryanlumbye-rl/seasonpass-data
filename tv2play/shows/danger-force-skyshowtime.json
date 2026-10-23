@@ -1,0 +1,313 @@
+{
+  "id": "tv2play:danger-force-skyshowtime",
+  "name": "Danger Force",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Rick Twitler vender tilbage med en ny plan om at kontrollere Mikas sind gennem et uhyggeligt VR-videospil.",
+  "image": "https://cdn-play.tv2i.dk/ce6270d0-8251-4ddf-b8e2-be005e1d1b65.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "da6189f7-6d5c-40e3-ae5e-d65de8ed39aa",
+      "season": 1,
+      "number": 1,
+      "name": "Begyndelsen på Danger Force",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f004c5bd-3d5e-4596-85f2-e091ba734aef",
+      "season": 1,
+      "number": 4,
+      "name": "Skurkeaften",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b6702ea0-98dc-426b-985c-e8a2bdcda3ed",
+      "season": 1,
+      "number": 5,
+      "name": "En mimiker slår til",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "378fc8ab-96d8-44ba-bd17-ddc32ee65cc2",
+      "season": 1,
+      "number": 6,
+      "name": "Chapas forelskelse",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b1718dd9-57b5-4bff-b162-14a020528be1",
+      "season": 1,
+      "number": 7,
+      "name": "Karan-kini",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "bd13167f-2848-408e-8a6f-7f5441a7c92d",
+      "season": 1,
+      "number": 8,
+      "name": "Mika sidder i saksen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a385e67f-2662-4dcb-8120-2d8cfbdffb32",
+      "season": 1,
+      "number": 9,
+      "name": "Faredrengen vender tilbage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "cb490416-ca78-4cbc-b633-f9147fb7a173",
+      "season": 1,
+      "number": 11,
+      "name": "Tusind prank-krigen: Del 2",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "75abba0c-c473-4cfc-b61e-d1baf95acbbc",
+      "season": 1,
+      "number": 13,
+      "name": "Julemanden nede: Del 2",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8227c091-ce74-4cac-969f-e734cf8c181a",
+      "season": 1,
+      "number": 14,
+      "name": "Vidjaspillet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "547204cb-1a88-419f-938d-3358aa4b2cb0",
+      "season": 1,
+      "number": 15,
+      "name": "Venner på prøve",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ef603b35-69b4-41d1-ba47-94a327a14ac9",
+      "season": 1,
+      "number": 17,
+      "name": "Tvillingedysten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "343ae7b3-6ed7-4a79-ba6a-740ca6c58444",
+      "season": 1,
+      "number": 18,
+      "name": "Monsty",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6f4e5829-4af1-4ec0-b28a-bc0b955cdb59",
+      "season": 1,
+      "number": 21,
+      "name": "S.W.A.G. er hjemsøgt",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c7262a3c-ce47-4624-8aeb-569ee6f706a9",
+      "season": 1,
+      "number": 23,
+      "name": "Familieløgnen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2281e189-548a-46d9-9a35-8654d0417cb8",
+      "season": 1,
+      "number": 26,
+      "name": "Svesken på disken",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b4cb16cc-e150-4d54-9ef7-240b067a405c",
+      "season": 2,
+      "number": 1,
+      "name": "An Imposter Among Us",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "cf3b1f66-ea6c-47cc-a95b-b6dbe43ab1b4",
+      "season": 2,
+      "number": 2,
+      "name": "A Danger Among Us",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "701b2815-7c12-4a9c-b35a-35ba99c0eb8b",
+      "season": 2,
+      "number": 6,
+      "name": "Mika’s Musical",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "83294a3d-6e73-4174-ad93-2cca7d97c6a1",
+      "season": 2,
+      "number": 8,
+      "name": "Bottle Snatchers",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "38f43483-6cf3-4a25-8b22-8bc179f17fbe",
+      "season": 2,
+      "number": 9,
+      "name": "The Girl Who Cried Danger",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b9d10503-f686-49c9-b92d-b28f011ad542",
+      "season": 2,
+      "number": 10,
+      "name": "Power Problems Part 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b669c508-ec03-4c47-92f8-d032709fb908",
+      "season": 2,
+      "number": 11,
+      "name": "Power Problems Part 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "fc90363c-1f15-4cd6-b61f-7e1fa98c0187",
+      "season": 2,
+      "number": 12,
+      "name": "Attack of the Clones",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "3ed8cff1-c6cc-4fdc-ac81-c6c5e6b9dff0",
+      "season": 2,
+      "number": 16,
+      "name": "Let’s Go to the Movies!",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "efcb242b-49bf-4b6f-b245-bfd6521a2581",
+      "season": 2,
+      "number": 19,
+      "name": "Street Fightin'",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "426d9991-2433-48a2-b761-ac3e6f4a8c7c",
+      "season": 2,
+      "number": 20,
+      "name": "Chapa's Phone Home",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "36fe44ea-36b0-40f8-9430-cf673c7d1b8f",
+      "season": 2,
+      "number": 21,
+      "name": "Uncle Hambone",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2be0963d-3f61-4dbd-ad96-87932aa52fdf",
+      "season": 2,
+      "number": 23,
+      "name": "Class Action Heroes",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ce832177-c951-4c99-9b5e-603db2b9eb67",
+      "season": 2,
+      "number": 25,
+      "name": "Unmasked P1 (aka Trojan Force)",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "0bb175a4-b7e4-4439-934a-654c812fec06",
+      "season": 3,
+      "number": 1,
+      "name": "The Force Returns Part 1",
+      "airdate": "2023-09-16"
+    },
+    {
+      "id": "8f4699ea-d0e5-4255-8c8b-f83943bf5636",
+      "season": 3,
+      "number": 2,
+      "name": "The Force Returns Part 2",
+      "airdate": "2023-09-16"
+    },
+    {
+      "id": "78f46b01-b36a-4672-8674-5ca505dcfc31",
+      "season": 3,
+      "number": 3,
+      "name": "Big Dynomite",
+      "airdate": "2023-09-16"
+    },
+    {
+      "id": "4042716f-f75e-4822-a03f-fdfa6005968d",
+      "season": 3,
+      "number": 4,
+      "name": "Guardians of the Ponytail",
+      "airdate": "2023-09-16"
+    },
+    {
+      "id": "142f4dbc-e15c-4333-a4df-932eccdf6164",
+      "season": 3,
+      "number": 5,
+      "name": "Miles Sells His Soul",
+      "airdate": "2023-09-16"
+    },
+    {
+      "id": "1ffe3f3d-ac3c-4343-831f-d3127ccb03cc",
+      "season": 3,
+      "number": 6,
+      "name": "MelonFest",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "62a4d777-0f9c-45c7-b711-a5e168d5e3a1",
+      "season": 3,
+      "number": 7,
+      "name": "Hey, Where’s Schwoz?",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "ba500e80-b96c-43a7-8e2f-7eae32e4f51f",
+      "season": 3,
+      "number": 8,
+      "name": "Dumber Force",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "4b73c12b-349a-487c-8abb-fa1917430912",
+      "season": 3,
+      "number": 9,
+      "name": "Don’t Go in There!",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "701bf29b-57dd-4ff7-bed0-601a4e818154",
+      "season": 3,
+      "number": 10,
+      "name": "Bose’s Birthday Party",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "86741623-9048-459e-9814-4ce354f6e0ff",
+      "season": 3,
+      "number": 11,
+      "name": "Ray Forgives",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "cf602119-18d5-4e65-a18a-01c94538dffc",
+      "season": 3,
+      "number": 12,
+      "name": "The Battle for Swellview Part 1",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "37a694d8-fbed-467f-940a-f863aa7f6285",
+      "season": 3,
+      "number": 13,
+      "name": "The Battle for Swellview Part 2",
+      "airdate": "2024-05-27"
+    }
+  ]
+}

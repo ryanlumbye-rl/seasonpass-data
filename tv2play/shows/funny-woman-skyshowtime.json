@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:funny-woman-skyshowtime",
+  "name": "Funny Woman",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da Barbara Parker, en vittig skønhed fra en lille by, finder sin stemme, forlader hun sit liv i Blackpool, England, for at klare den i den mandsdominerede comedy-verden i 1960’ernes London.",
+  "image": "https://cdn-play.tv2i.dk/02a4205d-3ac7-4110-b397-6e06ba540a9e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280",
+  "episodes": [
+    {
+      "id": "916a88bd-3f72-4cbd-b87a-32cd8bf38d9d",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-02-10"
+    },
+    {
+      "id": "45e5a804-b4f7-4ded-b16b-580bfc73c397",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-02-10"
+    },
+    {
+      "id": "0ceefa39-be71-4071-923b-1cd4b732a47c",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-02-10"
+    },
+    {
+      "id": "56b4db96-4caf-4421-a0c2-4cf080de61a7",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-02-17"
+    },
+    {
+      "id": "0bde11bc-7a7d-4ef2-a291-0f36341e252f",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-02-24"
+    },
+    {
+      "id": "3cdab090-e026-4891-9b38-4aa0d7b214fa",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-03-03"
+    },
+    {
+      "id": "fd98aee2-ffb3-45be-9425-4e26165ab89b",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "23dfe304-5bdb-4391-a27a-d5c14ccf3344",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "d3f8b0e5-33b3-4729-b706-b254d9b89799",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-10-11"
+    },
+    {
+      "id": "4b40b354-88ed-4f2b-aabc-6faab8dbae83",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-10-11"
+    }
+  ]
+}

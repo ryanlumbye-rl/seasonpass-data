@@ -2,9 +2,11 @@
   "id": "tv2play:vi-fixer-det-tv2play",
   "name": "Vi fixer det",
   "service": "tv2",
-  "status": "Running",
+  "status": "Unknown",
   "tmdbId": null,
-  "next": "2026-10-23",
+  "next": null,
+  "description": "Sammen med et hold af frivillige hjælper Kloakministeriet folk i håbløse livs- og boligsituationer. Alt er gratis, og materialerne får de gennem deres følgere på sociale medier. Når det ser allersortest ud, går de live, og så sker det magiske: Folk dukker bare op!",
+  "image": "https://cdn-play.tv2i.dk/8399a4f1-7544-3f5c-9b13-54cf53a3b692.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "eade0fd0-d3ac-450b-a8eb-6c2986e80cf9",
@@ -19,6 +21,13 @@
       "number": 2,
       "name": "Projekt på dybt vand - Del 2",
       "airdate": "2026-09-25"
+    },
+    {
+      "id": "4a9f2350-88bc-4321-9fab-f778110d7933",
+      "season": 1,
+      "number": 3,
+      "name": "Projekt håb - Del 1",
+      "airdate": "2026-10-23"
     }
   ]
 }

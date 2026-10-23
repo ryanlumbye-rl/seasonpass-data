@@ -1,0 +1,495 @@
+{
+  "id": "tv2play:man-with-a-plan-tv2play",
+  "name": "Man with a Plan",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Adam tror, han kan klare børnepasningen, da Andi vender tilbage til jobbet. Men tre små engle viser sig at være Wi-Fi-afhængige galninge. Med Andis opbakning indfører Adam regler og kæmper for at overleve - uden at miste signalet eller forstanden.",
+  "image": "https://cdn-play.tv2i.dk/be5904da-fc30-4f5e-a2c9-6f734680ef05.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "da66209e-b6b7-482b-81ed-0139340a7cfc",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "ee299811-c862-446d-9305-7380b14191c5",
+      "season": 1,
+      "number": 2,
+      "name": "Two Tickets to Paradise",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "bd651fdd-a5cb-4855-8f2e-d31a16a19bea",
+      "season": 1,
+      "number": 3,
+      "name": "The Puppet Theater",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "3f4126d2-c682-4b44-80d0-cf7ca49aeaf4",
+      "season": 1,
+      "number": 4,
+      "name": "Un-Dressed",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "14aab4d7-e48a-44c1-b68d-38949419c622",
+      "season": 1,
+      "number": 5,
+      "name": "Thanksgiving",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "3d7646a7-63f9-425c-9e21-ad92702e0dd0",
+      "season": 1,
+      "number": 6,
+      "name": "Holey War",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "c865b51f-6760-474a-85f0-4276921863db",
+      "season": 1,
+      "number": 7,
+      "name": "Winter Has Come",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "1b35d092-9191-41e8-9ee0-db7fb77f3ffa",
+      "season": 1,
+      "number": 8,
+      "name": "Adam Steps Up",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "51224017-daa4-4ca2-82b6-bd697d894896",
+      "season": 1,
+      "number": 9,
+      "name": "What About Bob?",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "8a2d79b2-fb4b-4380-a61b-c9e3f96de204",
+      "season": 1,
+      "number": 10,
+      "name": "A Dinner Gone Wrong",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "2a67f6a9-e2e1-46d2-bb20-a26e941125db",
+      "season": 1,
+      "number": 11,
+      "name": "The Talk",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "b7285da7-a4a8-437c-a374-ef98d2b119af",
+      "season": 1,
+      "number": 12,
+      "name": "The Three Amigos",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "209ee542-1f8e-4813-8c0d-e78b91f4eadd",
+      "season": 1,
+      "number": 13,
+      "name": "Valentine's Day",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "f53de3eb-cfbe-4d95-b0c5-f4b46d461319",
+      "season": 1,
+      "number": 14,
+      "name": "Kate's First Date",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "4e2f581c-d720-4ea6-b72b-22b79bf3eaae",
+      "season": 1,
+      "number": 15,
+      "name": "Assisted Living",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "35373ae9-4d4d-4ae3-8745-61bad48f84cd",
+      "season": 1,
+      "number": 16,
+      "name": "The A Team",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "456ca992-d800-45fa-9ac4-e8ea58b4d7aa",
+      "season": 1,
+      "number": 17,
+      "name": "Doctor No",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "ec68fce6-d4f3-4e96-b8f6-97711fbcfa85",
+      "season": 1,
+      "number": 18,
+      "name": "The Blame Game",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "03ff484f-3cc2-4bf1-9b28-4ace6f9888b5",
+      "season": 1,
+      "number": 19,
+      "name": "Spring Fling",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "ec24ecd0-948d-4e10-97c2-1ce21b4d2d1a",
+      "season": 1,
+      "number": 20,
+      "name": "Dirty Money",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "916f3db2-609a-4db1-84af-5d4ae3c887bc",
+      "season": 1,
+      "number": 21,
+      "name": "Operation False Freedom",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "af2e4530-4ab0-4c0d-8b4b-ffc0152af9d8",
+      "season": 1,
+      "number": 22,
+      "name": "Buzzer Beater",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "ab1a2729-e606-43cd-b55b-99ee6c52e270",
+      "season": 2,
+      "number": 1,
+      "name": "The Silver Fox",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "3d0ca994-13a9-4caa-b9b2-c4c09c55d49b",
+      "season": 2,
+      "number": 2,
+      "name": "Andi's Boyfriend",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "3180818b-e1d0-4d68-9654-8cf345e6d437",
+      "season": 2,
+      "number": 3,
+      "name": "The Parents Strike Back",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "44d329a1-ba1e-441e-9610-73cf4e4da53c",
+      "season": 2,
+      "number": 4,
+      "name": "Into the Weeds",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "e3a450a0-399a-4ce6-aa96-188e2de98be9",
+      "season": 2,
+      "number": 5,
+      "name": "Battle of the Sexists",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "2ec66340-6bf9-4432-8c07-8d3a1cceb65f",
+      "season": 2,
+      "number": 6,
+      "name": "Adam Gets Neighborly",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "22548053-ec79-4de0-a5f0-80e6532cbcc0",
+      "season": 2,
+      "number": 7,
+      "name": "We Can Be Heroes",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "65679b42-b49a-4d6b-b5eb-f656a84de3ec",
+      "season": 2,
+      "number": 8,
+      "name": "Lice Lice Baby",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "eadcc310-77ba-4486-94ae-bf16a71d373c",
+      "season": 2,
+      "number": 9,
+      "name": "The Gunfight",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "f0c3188a-a623-4802-9169-771c5ed1e7c8",
+      "season": 2,
+      "number": 10,
+      "name": "Adam's Turtle-y Awesome Valentine's Day",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "92ae7e2e-3ad6-47de-942b-e208ccb15f6c",
+      "season": 2,
+      "number": 11,
+      "name": "Guess Who's Coming to Breakfast, Lunch and Dinner",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "92e44f1c-13ef-4cd9-abb4-e739577ab70a",
+      "season": 2,
+      "number": 12,
+      "name": "Everybody's a Winner",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "dfe9fa55-48f2-4ba4-9869-3ef9cb041737",
+      "season": 2,
+      "number": 13,
+      "name": "The Party Planner",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "3ec2fee4-b0fa-42c1-a245-5b6a01dc09de",
+      "season": 2,
+      "number": 14,
+      "name": "March Madness",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "f09923e1-e141-4188-96fa-72674de3cae8",
+      "season": 2,
+      "number": 15,
+      "name": "Out with the In-Laws",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "03b41db5-ef5a-4d99-bab5-21607cd28d57",
+      "season": 2,
+      "number": 16,
+      "name": "April Fools",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "fc55dcbc-9bcc-4045-b24c-ef6aa5a08d55",
+      "season": 2,
+      "number": 17,
+      "name": "King for a Day",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "1b2a8c02-0890-4140-b102-31c0dc67d162",
+      "season": 2,
+      "number": 18,
+      "name": "The Burns System",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "e2c5c16d-e1e3-438f-b805-f75061ee9ec4",
+      "season": 2,
+      "number": 19,
+      "name": "We Hate Money",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "22f60999-dddf-478e-b7ab-c71f5d178990",
+      "season": 2,
+      "number": 20,
+      "name": "We Got a Girl",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "c0770121-e27c-46e3-ad1a-abb429e4c52b",
+      "season": 2,
+      "number": 21,
+      "name": "Family Business",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "7510b01d-3829-4166-809f-fb0f387a4f08",
+      "season": 3,
+      "number": 1,
+      "name": "Wife-Proof",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "1e6da72f-bae4-495f-bb83-e86fe8d5fdaf",
+      "season": 3,
+      "number": 2,
+      "name": "Yeah, Maybe",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "5a31220d-fd49-42d0-b6e2-92ce804b9c3c",
+      "season": 3,
+      "number": 3,
+      "name": "Put Him on the Ground",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "17f9a572-706f-43af-887d-4a1a6cc20232",
+      "season": 3,
+      "number": 4,
+      "name": "Adam's Wall Hole Bowl",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "b502aecd-ecb7-4098-b14c-f2f2c5375e14",
+      "season": 3,
+      "number": 5,
+      "name": "The New Old School",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "0718c890-4ecc-4dc5-898e-a6e42bc7bc20",
+      "season": 3,
+      "number": 6,
+      "name": "Semi-Indecent Proposal",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "9509bd80-8c87-4b32-b0ba-c5a5e4eb36c8",
+      "season": 3,
+      "number": 7,
+      "name": "Hotel Hanky Panky",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "db4cc8a8-9202-454c-8345-13a3c4abf614",
+      "season": 3,
+      "number": 8,
+      "name": "Adam's Ribs",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "dfa3f3ad-6b93-4328-8e20-b11f31cfcb78",
+      "season": 3,
+      "number": 9,
+      "name": "Adam Acts His Age",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "62924463-4351-413d-9352-3efc904ab31f",
+      "season": 3,
+      "number": 10,
+      "name": "We Don't Need Another Hero",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "4d2d223b-095d-45a0-b4e3-33b43b988120",
+      "season": 3,
+      "number": 11,
+      "name": "Cabin Fever",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "b2b7dc51-5c8c-49af-8bf8-7bab02c438b6",
+      "season": 3,
+      "number": 12,
+      "name": "Clean Country Living",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "520dd8a4-a0bc-4579-a5cd-ac19eab8adfb",
+      "season": 3,
+      "number": 13,
+      "name": "The Intervention(s)",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "722f5caf-a8c0-4da5-b0f1-0a167e577321",
+      "season": 4,
+      "number": 1,
+      "name": "The V-Word",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "0484a4a6-d554-4b18-8e4b-ddc3d4f7047d",
+      "season": 4,
+      "number": 2,
+      "name": "Adam's Big Little Lie",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "74a3739a-5db3-47e6-9b5d-0d0e3deb3ff6",
+      "season": 4,
+      "number": 3,
+      "name": "The Ex Files",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "642f2c17-3034-4785-8e5e-c2ec38cc2ee9",
+      "season": 4,
+      "number": 4,
+      "name": "Going All the Way",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "0a43fa03-ee15-43d2-b691-66a9a6c82611",
+      "season": 4,
+      "number": 5,
+      "name": "Winner Winner Chicken Salad",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "129e9d46-b2fd-41b4-8c39-3d792ead9fb3",
+      "season": 4,
+      "number": 6,
+      "name": "Couples Therapy",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "0d30cec2-6bc7-4811-98b5-3e28b40d04dd",
+      "season": 4,
+      "number": 7,
+      "name": "Dude, Where's My Boat?",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "56ffc087-ff17-4364-93de-144abb9d963b",
+      "season": 4,
+      "number": 8,
+      "name": "Adam's Not Sorry",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "e09eb551-9e91-4e78-a41f-630e79e27075",
+      "season": 4,
+      "number": 9,
+      "name": "Stuck in the Middle with You",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "672d5538-67e1-4b06-ba3f-d80b5e40422c",
+      "season": 4,
+      "number": 10,
+      "name": "Full Metal Teddy",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "515f30bf-de3a-4120-8f23-ebd61a49095e",
+      "season": 4,
+      "number": 11,
+      "name": "Adam and Andi See Other People",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "311ce29f-4b77-4a04-9f04-bfe872f8e5d4",
+      "season": 4,
+      "number": 12,
+      "name": "Driving Miss Katie",
+      "airdate": "2026-01-27"
+    },
+    {
+      "id": "f5a4a59b-de41-48e3-b12d-d0bbe84be7c1",
+      "season": 4,
+      "number": 13,
+      "name": "Happy Ann-RV-sary",
+      "airdate": "2026-01-27"
+    }
+  ]
+}

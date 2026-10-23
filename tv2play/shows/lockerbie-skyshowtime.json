@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:lockerbie-skyshowtime",
+  "name": "Lockerbie",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 1988 eksploderede flyet Pan Am 103 over den lille skotsk by Lockerbie og næsten 300 mennesker omkom, og påstanden om et målrettet angreb blev antændt. Efter 33 år træder en engang tavs nøglefigur frem for at hjælpe med at udrede lagene af kriminalitet og sammensværgelse bag sandheden.",
+  "image": "https://cdn-play.tv2i.dk/8a096711-fbb9-4daf-b0ee-610516b0e72f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3684%2C2072&w=1280",
+  "episodes": [
+    {
+      "id": "58b63161-f333-410a-8a8a-bb9771e14eba",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-25"
+    },
+    {
+      "id": "b8eb9313-976d-4254-af92-528e9971397a",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-25"
+    },
+    {
+      "id": "02b7c82d-b7fd-4785-829b-d3dac0a19fdc",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-01-25"
+    },
+    {
+      "id": "9b9186d5-3a12-4346-86f5-b5834e2f96b2",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-01-25"
+    }
+  ]
+}

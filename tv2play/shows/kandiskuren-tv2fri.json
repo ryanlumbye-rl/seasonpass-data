@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kandiskuren-tv2fri",
+  "name": "Kandiskuren",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "200 livekoncerter om året og et showbizz liv levet på landevejen, har udfordret helbredet hos Danmarks største Dansk Top ikon, Kandisforsanger Johnny Hansen. For at vinde kampen for sundheden inviterer Johnny sammen med professor og læge Bente Klarlund flere hundrede kandisfans med på Kandiskur. De vil nemlig undersøge, hvordan usunde vaner kan veksles til fællessang, livsglæde og endorfiner.",
+  "image": "https://cdn-play.tv2i.dk/8931ac6d-d9d9-4057-88cf-8f3086adcb95.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "40aa750b-2100-4ef9-a700-62bd75ce98eb",
+      "season": 1,
+      "number": 1,
+      "name": "Hvem vil med på Kandiskuren?",
+      "airdate": "2026-01-14"
+    },
+    {
+      "id": "2c920219-fc70-4f2f-83f7-8c0ef984efbc",
+      "season": 1,
+      "number": 2,
+      "name": "Hvor langt vil du gå?",
+      "airdate": "2026-01-21"
+    },
+    {
+      "id": "18614d88-123c-4fd1-ae4a-dbc9d7706a55",
+      "season": 1,
+      "number": 3,
+      "name": "Klar til en tur på scenen?",
+      "airdate": "2026-01-28"
+    },
+    {
+      "id": "3f41338b-7125-4671-b69d-abd5f0fea2a7",
+      "season": 1,
+      "number": 4,
+      "name": "Kaloriequiz og Kandisfest",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "221646b4-f14d-44c2-a848-c43f229b0a1a",
+      "season": 1,
+      "number": 5,
+      "name": "Drømmedag med Johnny",
+      "airdate": "2026-02-11"
+    },
+    {
+      "id": "ff14e4fe-3c38-4e3e-b862-972fe7a0739a",
+      "season": 1,
+      "number": 6,
+      "name": "Er jeg sund nu?",
+      "airdate": "2026-02-18"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:tv2-oest-foraeldre-til-et-foster-tv2oest",
+  "name": "Forældre til et foster",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "5e8cf961-8abc-432f-bb2a-a930bfc267dc",
+      "season": 1,
+      "number": 1,
+      "name": "Fire måneder for tidligt",
+      "airdate": "2025-02-23"
+    },
+    {
+      "id": "48202fd6-3e93-4bc5-924d-48b6b14996f7",
+      "season": 1,
+      "number": 2,
+      "name": "Isla til kontrol",
+      "airdate": "2025-03-02"
+    },
+    {
+      "id": "42a8cd4f-e045-4c96-a21c-03bbc252c6ea",
+      "season": 1,
+      "number": 3,
+      "name": "Olivia på Christiansborg",
+      "airdate": "2025-03-09"
+    },
+    {
+      "id": "ffe9c19b-0594-493b-9edb-eef7dc2cc80a",
+      "season": 1,
+      "number": 4,
+      "name": "Opkaldet fra Pia",
+      "airdate": "2025-03-16"
+    }
+  ]
+}

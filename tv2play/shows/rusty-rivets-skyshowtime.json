@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:rusty-rivets-skyshowtime",
+  "name": "Rusty Rivets",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En ung ingeniør bruger sin forstand, færdigheder og trofaste gadgets til at redde dagen.",
+  "image": "https://cdn-play.tv2i.dk/0458459c-d2de-4ab7-aa31-c40908210dbe.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "5773c5e8-1c24-4894-a020-83c8be93d128",
+      "season": 2,
+      "number": 2,
+      "name": "Rustys mobile rivetværksted",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fa0869c2-dfc8-43d6-8558-6bd758d138d2",
+      "season": 2,
+      "number": 7,
+      "name": "Rusty og den vilde egernjagt",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "67269dae-32c4-4b48-9c66-7736685b8160",
+      "season": 2,
+      "number": 8,
+      "name": "Rusty og piraterne fra Stambjerg Bakker",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "bf3f71cc-9f44-407f-b29b-d72dd5d81bbd",
+      "season": 2,
+      "number": 13,
+      "name": "Rustys nysekur",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "01247751-0781-4567-baa1-1a73b8e45f00",
+      "season": 2,
+      "number": 24,
+      "name": "Rusty og den svævende skole",
+      "airdate": "2023-01-01"
+    }
+  ]
+}

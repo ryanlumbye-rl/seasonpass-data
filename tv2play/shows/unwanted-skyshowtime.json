@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:unwanted-skyshowtime",
+  "name": "Unwanted",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "28 libyske migranter bliver reddet af et italiensk krydstogtskib med over 5000 passagerer og besætningsmedlemmer ombord. Da migranterne erfarer, at kaptajnen har ordre om at returnere dem til det land, de er flygtet fra, tager de desperate mennesker hele skibet som gidsel.",
+  "image": "https://cdn-play.tv2i.dk/e3bf12bf-50db-487f-9309-19d8dd14d7e8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3656%2C2056&w=1280",
+  "episodes": [
+    {
+      "id": "292faa97-62f8-4380-ba87-0b37e9e023c1",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-23"
+    },
+    {
+      "id": "93fb84e5-4a59-4acb-879a-2d8ac9853659",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-23"
+    },
+    {
+      "id": "e5ec48e4-8d18-4f90-a24c-c88fd6e3cc99",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-01-23"
+    },
+    {
+      "id": "a6adf4ec-ba80-4f42-9046-9829f8dbdd18",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-02-06"
+    },
+    {
+      "id": "df1d2533-d869-4f00-ab77-e53280e69c77",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-02-13"
+    },
+    {
+      "id": "ac623122-2904-4735-99f8-cadf93593728",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-02-20"
+    },
+    {
+      "id": "207198e5-ed06-4ba5-9da6-5947c9bf5135",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-02-27"
+    }
+  ]
+}

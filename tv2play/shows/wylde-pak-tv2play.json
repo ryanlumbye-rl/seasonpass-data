@@ -1,0 +1,194 @@
+{
+  "id": "tv2play:wylde-pak-tv2play",
+  "name": "Wylde Pak",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lily og Jack mødes for første gang som halvsøskende denne sommer. Mens de forsøger at finde deres plads i den nye familie, bliver de kastet ud i Wylde Pak-familiens hektiske dyreplejeforretning.",
+  "image": "https://cdn-play.tv2i.dk/7503c570-44f7-4b3f-bc8b-57b43c1a1312.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "c6b87471-e024-4fbd-b997-a59edc6ed981",
+      "season": 1,
+      "number": 1,
+      "name": "Verdens bedste sommer?",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "180a541f-5315-4c15-be3d-50f403d91b75",
+      "season": 1,
+      "number": 2,
+      "name": "Trist, single og strandet",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "ed0c018f-ea3b-4fe9-9407-9b208f1cfdbe",
+      "season": 1,
+      "number": 3,
+      "name": "Wooris Verden",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "3bcefa2e-a8ba-4233-9bee-655ae8b089c5",
+      "season": 1,
+      "number": 4,
+      "name": "Boba-Get",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "d2c7bdc5-49b4-455f-a827-cd93984e5ff6",
+      "season": 1,
+      "number": 5,
+      "name": "Bankekød",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "aa1528bb-7d6f-4c56-9db0-9b6c6c07a143",
+      "season": 1,
+      "number": 6,
+      "name": "De tre ravne",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "4cd57640-5b09-4b77-a566-dce8e2454cfa",
+      "season": 1,
+      "number": 7,
+      "name": "Søøens hemmelighed",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "6ca9fc81-05e5-4dce-9ff5-c6b473c51a22",
+      "season": 1,
+      "number": 8,
+      "name": "LAD",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "1c5e6bd0-1bdc-4db9-9386-af5891d38416",
+      "season": 1,
+      "number": 9,
+      "name": "Krigerne mod Rigerne",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "76f602bc-c081-4182-a18c-6538dd5a2b01",
+      "season": 1,
+      "number": 10,
+      "name": "Bakkedalens nye frikadelle",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "1772e943-6900-4f6e-ad1c-f77c3c09ef13",
+      "season": 1,
+      "number": 11,
+      "name": "Hvor der er en vilje, er der en vej",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "e7472b25-ef56-4259-a741-28c5598cf810",
+      "season": 1,
+      "number": 12,
+      "name": "Følg krymlet",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "7b78b73c-8308-4b6f-8150-275c9be99b6e",
+      "season": 1,
+      "number": 13,
+      "name": "En rejse til den odderen side",
+      "airdate": "2026-02-14"
+    },
+    {
+      "id": "446e3dbc-adb4-4fdd-8357-6a31fc9f1cf8",
+      "season": 2,
+      "number": 1,
+      "name": "Basal fletteetikette",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "bb834ea0-aae5-4d3e-b483-b9cb00ff4ead",
+      "season": 2,
+      "number": 2,
+      "name": "Forkert besked",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "a49bd775-aabc-4d3e-807d-716aba449bba",
+      "season": 2,
+      "number": 3,
+      "name": "J-LAD",
+      "airdate": "2026-05-30"
+    },
+    {
+      "id": "fdc06ebb-ce99-43b9-840b-4b922f93c2f9",
+      "season": 2,
+      "number": 4,
+      "name": "Lovens lange hånd",
+      "airdate": "2026-05-30"
+    },
+    {
+      "id": "fe7f6e8a-56cc-4a43-9010-cf9457942fa5",
+      "season": 2,
+      "number": 5,
+      "name": "Et lille bitte rørproblem",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "9f530a00-f8f7-4658-8dc1-77f7ed3721bb",
+      "season": 2,
+      "number": 6,
+      "name": "Fængselsflugt",
+      "airdate": "2026-07-18"
+    },
+    {
+      "id": "6a9c5491-fc9b-43c2-9419-04e8da1a5976",
+      "season": 2,
+      "number": 7,
+      "name": "Fru Vissens lignelser",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "d273ec1e-26d6-428d-817c-394f9cc34581",
+      "season": 2,
+      "number": 8,
+      "name": "Dubu",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "b036a05e-3eb2-4464-b884-877aa574ec56",
+      "season": 2,
+      "number": 9,
+      "name": "Sommer-Chuseok",
+      "airdate": "2026-05-30"
+    },
+    {
+      "id": "31503756-1c4e-47e8-81bb-35276ed45716",
+      "season": 2,
+      "number": 10,
+      "name": "Den rigtige Wooris Verden",
+      "airdate": "2026-05-30"
+    },
+    {
+      "id": "2ef412d3-bb3e-4758-b460-8c7e21eb415d",
+      "season": 2,
+      "number": 11,
+      "name": "Halmoni og internettet",
+      "airdate": "2026-07-18"
+    },
+    {
+      "id": "6ecf645f-e507-4f52-b761-be15164bccdb",
+      "season": 2,
+      "number": 12,
+      "name": "Dateaften",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "b9445d30-2217-447c-a56f-ed50d5089192",
+      "season": 2,
+      "number": 13,
+      "name": "Verdens bedste sommer!",
+      "airdate": "2026-03-07"
+    }
+  ]
+}

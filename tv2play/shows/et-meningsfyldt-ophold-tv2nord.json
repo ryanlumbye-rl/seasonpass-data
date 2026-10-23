@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:et-meningsfyldt-ophold-tv2nord",
+  "name": "Et meningsfyldt ophold",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Skovsgård Hotel drives af mennesker med særlige behov og - vigtigst af alt - store julehjerter. Frem mod jul tjekker fire kendte ind på hotellet og ingen ved, hvad der kan ske. Karina laver maden, Lasse køber julegaven og Malene byder velkommen i receptionen.",
+  "image": "https://cdn-play.tv2i.dk/09c1903a-d440-433c-9e0d-ebefd80b4737.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "d3863826-eae8-4abc-910b-3411f24bfaf6",
+      "season": 1,
+      "number": 1,
+      "name": "Jonas Mogensen",
+      "airdate": "2024-11-21"
+    },
+    {
+      "id": "c7efe31b-b4cb-4a46-bbae-585f08122e4f",
+      "season": 1,
+      "number": 2,
+      "name": "Kandis Johnny",
+      "airdate": "2024-11-28"
+    },
+    {
+      "id": "32677a54-8d88-43c8-aa2e-0bb88a210703",
+      "season": 1,
+      "number": 3,
+      "name": "Henrik Møllgaard",
+      "airdate": "2024-12-05"
+    },
+    {
+      "id": "05844ee4-9b78-4e60-ad17-523c16cacf15",
+      "season": 1,
+      "number": 4,
+      "name": "Sussi",
+      "airdate": "2024-12-12"
+    }
+  ]
+}

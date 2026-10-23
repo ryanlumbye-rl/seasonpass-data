@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kaerlighed-paa-hjernen-tv2",
+  "name": "Kærlighed på hjernen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Alt for mange mennesker med Aspergers syndrom finder aldrig en kæreste, for hvordan finder man kærligheden, når man ikke helt forstår spillereglerne? I denne serie følger vi en række danskere med asperger, der savner en at dele livet med og nu vil blive klogere på kærligheden og kunsten i at date.",
+  "image": "https://cdn-play.tv2i.dk/f16c9f4a-9423-49b8-b220-120cf16b3923.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "96993602-1587-4081-a964-39733c978c78",
+      "season": 1,
+      "number": 1,
+      "name": "Sommerfugle i hele kroppen",
+      "airdate": "2021-09-27"
+    },
+    {
+      "id": "c21b15af-3c69-4b7e-9f81-0827ded4fb62",
+      "season": 1,
+      "number": 2,
+      "name": "Får hun kolde fødder?",
+      "airdate": "2021-09-27"
+    },
+    {
+      "id": "aeba9fb3-0376-4bf8-9239-3b94d4582279",
+      "season": 1,
+      "number": 3,
+      "name": "Deas allerførste date",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "7da9e7ee-d04d-4b74-8717-785716bd7f16",
+      "season": 1,
+      "number": 4,
+      "name": "Adam på blind date",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "97e49c0f-15e4-4172-9e56-9c0d198e0e6c",
+      "season": 1,
+      "number": 5,
+      "name": "Jagten på den berømte gnist",
+      "airdate": "2021-10-18"
+    },
+    {
+      "id": "70a29141-9e5b-453b-baa7-d2bf000ce757",
+      "season": 1,
+      "number": 6,
+      "name": "Venner eller kærester?",
+      "airdate": "2021-10-25"
+    }
+  ]
+}

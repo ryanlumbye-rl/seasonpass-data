@@ -1,0 +1,600 @@
+{
+  "id": "tv2play:felicity-tv2play",
+  "name": "Felicity",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En historie om en følsom og intelligent pige fra San Francisco og den mest spændende rejse af alle: selvopdagelsen. Felicity Porter udforsker spændingen og usikkerheden ved at bo i New York City – et miljø, hvor alt er muligt, og alt kan ske.",
+  "image": "https://cdn-play.tv2i.dk/c5d5f80f-87b9-4837-a74e-2667bc3208cd.png?auto=format%2Ccompress&fm=webp&rect=0%2C1%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "07dd892f-320c-4f4f-910e-327513cea43b",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2010-04-03"
+    },
+    {
+      "id": "71fb59fd-59ff-441f-9305-6e3315cc65e1",
+      "season": 1,
+      "number": 2,
+      "name": "The Last Stand",
+      "airdate": "2010-04-10"
+    },
+    {
+      "id": "f824b76e-bbc5-4360-8454-1985f97a9a70",
+      "season": 1,
+      "number": 3,
+      "name": "Hot Objects",
+      "airdate": "2010-04-17"
+    },
+    {
+      "id": "e5665bf3-86a3-4314-9ce8-d17fc4e5a9df",
+      "season": 1,
+      "number": 4,
+      "name": "Boggled",
+      "airdate": "2010-04-24"
+    },
+    {
+      "id": "26a75b6b-0020-4ed3-8f28-6298f57af1e9",
+      "season": 1,
+      "number": 5,
+      "name": "Spooked",
+      "airdate": "2010-05-01"
+    },
+    {
+      "id": "630bc8b5-6714-4cd1-b2fd-0dc55eed963b",
+      "season": 1,
+      "number": 6,
+      "name": "Cheating",
+      "airdate": "2010-05-08"
+    },
+    {
+      "id": "c4705cd0-2017-4f5d-b783-68262f182b90",
+      "season": 1,
+      "number": 7,
+      "name": "Drawing the Line (1)",
+      "airdate": "2010-05-15"
+    },
+    {
+      "id": "8829add0-fb59-4df0-a3a6-d2f4973a2456",
+      "season": 1,
+      "number": 8,
+      "name": "Drawing the Line (2)",
+      "airdate": "2010-05-22"
+    },
+    {
+      "id": "f8bb7fc5-2bed-45ba-a163-a8e16ae50382",
+      "season": 1,
+      "number": 9,
+      "name": "Thanksgiving",
+      "airdate": "2010-05-29"
+    },
+    {
+      "id": "0cd9ece4-2c16-4972-8855-96f9a16abf46",
+      "season": 1,
+      "number": 10,
+      "name": "Finally",
+      "airdate": "2010-06-05"
+    },
+    {
+      "id": "a55c4cc4-8e98-4e37-b32d-efd832388c9a",
+      "season": 1,
+      "number": 11,
+      "name": "Gimme an O!",
+      "airdate": "2010-06-12"
+    },
+    {
+      "id": "d86a9844-1eb0-4309-9a34-3b3132ac7928",
+      "season": 1,
+      "number": 12,
+      "name": "Friends",
+      "airdate": "2010-06-19"
+    },
+    {
+      "id": "f6882acd-aef7-47f6-97e8-3fad0e4fdf67",
+      "season": 1,
+      "number": 13,
+      "name": "Todd Mulcahy (1)",
+      "airdate": "2010-06-26"
+    },
+    {
+      "id": "2a817313-f624-4e10-ae88-e099efbe30c5",
+      "season": 1,
+      "number": 14,
+      "name": "Todd Mulcahy (2)",
+      "airdate": "2010-07-03"
+    },
+    {
+      "id": "e10429cd-b579-4e1c-b37b-2eef7e64d7f5",
+      "season": 1,
+      "number": 15,
+      "name": "Love and Marriage",
+      "airdate": "2010-07-10"
+    },
+    {
+      "id": "b85524d0-a182-4c99-bc64-6ebcb8566546",
+      "season": 1,
+      "number": 16,
+      "name": "The Fugue",
+      "airdate": "2010-07-17"
+    },
+    {
+      "id": "8ebf2369-4502-48c1-b009-ce839d587d65",
+      "season": 1,
+      "number": 17,
+      "name": "Assassins",
+      "airdate": "2010-07-24"
+    },
+    {
+      "id": "d11fb428-0b1c-4118-acda-1e63192d2a13",
+      "season": 1,
+      "number": 18,
+      "name": "Happy Birthday",
+      "airdate": "2010-07-31"
+    },
+    {
+      "id": "e2f9b0ca-bc11-4308-8513-d4de9405698f",
+      "season": 1,
+      "number": 19,
+      "name": "Docuventary",
+      "airdate": "2010-08-07"
+    },
+    {
+      "id": "6993023f-20fb-46a7-99da-ceb933bbe5bf",
+      "season": 1,
+      "number": 20,
+      "name": "Connections",
+      "airdate": "2010-08-14"
+    },
+    {
+      "id": "da241612-301c-48d4-adb7-eabb0746ca2a",
+      "season": 1,
+      "number": 21,
+      "name": "The Force",
+      "airdate": "2010-08-21"
+    },
+    {
+      "id": "5a9d1845-754d-4480-90c7-fcef955851eb",
+      "season": 1,
+      "number": 22,
+      "name": "Felicity Was Here",
+      "airdate": "2010-08-28"
+    },
+    {
+      "id": "933397f6-7718-4421-8d3d-a68c908b74d0",
+      "season": 2,
+      "number": 1,
+      "name": "Sophomoric",
+      "airdate": "2010-09-04"
+    },
+    {
+      "id": "f7557416-526f-418d-8cda-0464723e55c1",
+      "season": 2,
+      "number": 2,
+      "name": "The List",
+      "airdate": "2010-09-11"
+    },
+    {
+      "id": "657a1420-0d0b-4253-a001-b103e329e7c7",
+      "season": 2,
+      "number": 3,
+      "name": "Ancient History",
+      "airdate": "2010-09-18"
+    },
+    {
+      "id": "77eee6fc-73ad-476e-b533-aa1741d0a108",
+      "season": 2,
+      "number": 4,
+      "name": "The Depths",
+      "airdate": "2010-09-25"
+    },
+    {
+      "id": "74b8e9a6-2fe1-4d4b-a13d-53235ef144ba",
+      "season": 2,
+      "number": 5,
+      "name": "Crash",
+      "airdate": "2010-10-02"
+    },
+    {
+      "id": "47995b8a-8f37-4277-94de-4e5c8f1e84c3",
+      "season": 2,
+      "number": 6,
+      "name": "The Love Bug",
+      "airdate": "2010-10-09"
+    },
+    {
+      "id": "3a55b7b3-32a5-4225-be18-e4d7b2d24e00",
+      "season": 2,
+      "number": 7,
+      "name": "Getting Lucky",
+      "airdate": "2010-10-16"
+    },
+    {
+      "id": "e49e4aec-c455-496c-99db-722f5e3766c8",
+      "season": 2,
+      "number": 8,
+      "name": "Family Affairs",
+      "airdate": "2010-10-23"
+    },
+    {
+      "id": "e46bde3f-bd70-4527-a955-9559b84c6580",
+      "season": 2,
+      "number": 9,
+      "name": "Portraits",
+      "airdate": "2010-10-30"
+    },
+    {
+      "id": "0146d334-75d6-4875-b3c2-29089989ec82",
+      "season": 2,
+      "number": 10,
+      "name": "Great Expectations",
+      "airdate": "2010-11-06"
+    },
+    {
+      "id": "e40da59b-ca04-4926-90cc-ff09c3f7af89",
+      "season": 2,
+      "number": 11,
+      "name": "Help for the Lovelorn",
+      "airdate": "2010-11-13"
+    },
+    {
+      "id": "ecfed662-d70b-41ed-96c7-ba161be0facb",
+      "season": 2,
+      "number": 12,
+      "name": "The Slump",
+      "airdate": "2010-11-20"
+    },
+    {
+      "id": "c463257c-9385-47b1-be86-600d736a8004",
+      "season": 2,
+      "number": 13,
+      "name": "Truth or Consequences",
+      "airdate": "2010-11-27"
+    },
+    {
+      "id": "17b13790-42eb-4264-a11f-a9b43941c1ab",
+      "season": 2,
+      "number": 14,
+      "name": "True Colors",
+      "airdate": "2010-12-04"
+    },
+    {
+      "id": "79469fc6-9915-4337-8775-69fc99470e31",
+      "season": 2,
+      "number": 15,
+      "name": "Things Change",
+      "airdate": "2010-12-11"
+    },
+    {
+      "id": "39e247c8-8bae-4f3b-b2f4-8c5341fb2c51",
+      "season": 2,
+      "number": 16,
+      "name": "Revolutions",
+      "airdate": "2010-12-18"
+    },
+    {
+      "id": "c24f8d73-f8f0-429f-ba3c-36ed98445b05",
+      "season": 2,
+      "number": 17,
+      "name": "Docuventary II",
+      "airdate": "2011-01-08"
+    },
+    {
+      "id": "296eb984-9cfd-429e-a2e4-6a49b6bbd0ae",
+      "season": 2,
+      "number": 18,
+      "name": "Party Lines",
+      "airdate": "2011-01-15"
+    },
+    {
+      "id": "5d3a83f5-958e-4049-8fa4-d78a96bf8928",
+      "season": 2,
+      "number": 19,
+      "name": "Running Mates",
+      "airdate": "2011-01-22"
+    },
+    {
+      "id": "5c44b9f2-9f97-4c6e-b673-cf31aff25bf1",
+      "season": 2,
+      "number": 20,
+      "name": "Ben Was Here",
+      "airdate": "2011-01-29"
+    },
+    {
+      "id": "cd916170-8dd8-4306-b1cd-db6f00d8044b",
+      "season": 2,
+      "number": 21,
+      "name": "The Aretha Theory",
+      "airdate": "2011-02-05"
+    },
+    {
+      "id": "48ceb088-aa0e-4329-b565-2804a7c2e466",
+      "season": 2,
+      "number": 22,
+      "name": "Final Answer",
+      "airdate": "2011-02-12"
+    },
+    {
+      "id": "0b0c887e-52cb-41e0-9205-f4021685a827",
+      "season": 2,
+      "number": 23,
+      "name": "The Biggest Deal There Is",
+      "airdate": "2011-02-19"
+    },
+    {
+      "id": "7fed2d4e-6cbb-43d5-a87a-6aa240e3e1d7",
+      "season": 3,
+      "number": 1,
+      "name": "The Christening",
+      "airdate": "2011-02-26"
+    },
+    {
+      "id": "0600e4d2-a4a2-4a20-9f20-5f9c18aac237",
+      "season": 3,
+      "number": 2,
+      "name": "The Anti-Natalie Intervention",
+      "airdate": "2011-03-05"
+    },
+    {
+      "id": "3c102942-c193-4c78-8bb4-e1b42367838a",
+      "season": 3,
+      "number": 3,
+      "name": "Hello, I Must Be Going",
+      "airdate": "2011-03-12"
+    },
+    {
+      "id": "b40bb18d-4be4-479d-90df-c0600b91326d",
+      "season": 3,
+      "number": 4,
+      "name": "Greeks and Geeks",
+      "airdate": "2011-03-19"
+    },
+    {
+      "id": "a6223fe7-ddc4-4f9e-be18-9a104bf13bdf",
+      "season": 3,
+      "number": 5,
+      "name": "Surprise",
+      "airdate": "2011-03-26"
+    },
+    {
+      "id": "e2ffd899-4b57-4336-8345-5ae7b0b1fbbe",
+      "season": 3,
+      "number": 6,
+      "name": "One Ball, Two Strikes",
+      "airdate": "2011-04-02"
+    },
+    {
+      "id": "63414495-3635-4ed9-8bf8-48b21e3d21d3",
+      "season": 3,
+      "number": 7,
+      "name": "Kissing Mr. Covington",
+      "airdate": "2011-04-09"
+    },
+    {
+      "id": "ccdffb45-7d09-464b-b29d-3ee3bdfa133b",
+      "season": 3,
+      "number": 8,
+      "name": "A Good Egg",
+      "airdate": "2011-04-16"
+    },
+    {
+      "id": "30f0956a-2cce-40ec-85a5-988f3698d07c",
+      "season": 3,
+      "number": 9,
+      "name": "James and the Giant Piece",
+      "airdate": "2011-04-23"
+    },
+    {
+      "id": "c25f8aa4-02c3-4408-bc21-7a32b8b45933",
+      "season": 3,
+      "number": 10,
+      "name": "Final Touches (a.k.a. Let's Get It On)",
+      "airdate": "2011-04-30"
+    },
+    {
+      "id": "00c01343-aebd-47fb-b0a9-96441981f7a0",
+      "season": 3,
+      "number": 11,
+      "name": "And to All a Good Night",
+      "airdate": "2011-05-07"
+    },
+    {
+      "id": "f98df0cd-596b-4585-b854-5dfc544aa746",
+      "season": 3,
+      "number": 12,
+      "name": "Girlfight",
+      "airdate": "2011-05-14"
+    },
+    {
+      "id": "b2b3b699-8c9c-4550-abaf-48361da91b5c",
+      "season": 3,
+      "number": 13,
+      "name": "Blackout",
+      "airdate": "2011-05-21"
+    },
+    {
+      "id": "b0737c1a-8aaf-4f0e-8cef-47d8dc3f1844",
+      "season": 3,
+      "number": 14,
+      "name": "The Break-Up Kit",
+      "airdate": "2011-05-28"
+    },
+    {
+      "id": "b857504e-1316-4a14-8f99-8e291f43fd3a",
+      "season": 3,
+      "number": 15,
+      "name": "Senioritis",
+      "airdate": "2011-06-04"
+    },
+    {
+      "id": "98dc3950-5d97-4c51-9854-19d607e18101",
+      "season": 3,
+      "number": 16,
+      "name": "It's Raining Men",
+      "airdate": "2011-06-11"
+    },
+    {
+      "id": "f7e90622-589d-4698-b9a8-203dd88979c4",
+      "season": 3,
+      "number": 17,
+      "name": "The Last Summer Ever",
+      "airdate": "2011-06-18"
+    },
+    {
+      "id": "b4388114-d449-4ece-8ad5-a08ff5fa2d61",
+      "season": 4,
+      "number": 1,
+      "name": "The Declaration",
+      "airdate": "2011-11-21"
+    },
+    {
+      "id": "5212471c-eb7a-49e3-8bbd-e846a947fd57",
+      "season": 4,
+      "number": 2,
+      "name": "My Best Friend's Wedding",
+      "airdate": "2011-11-22"
+    },
+    {
+      "id": "30ff011d-e3a1-4b71-84c4-dbc3d45dc45a",
+      "season": 4,
+      "number": 3,
+      "name": "Your Money or Your Wife",
+      "airdate": "2011-11-23"
+    },
+    {
+      "id": "95c5d12d-4902-4b04-8425-9b06b0047499",
+      "season": 4,
+      "number": 4,
+      "name": "Miss Conception",
+      "airdate": "2011-11-24"
+    },
+    {
+      "id": "7d9d6ac4-a639-42d2-973c-cebc55cdfafc",
+      "season": 4,
+      "number": 5,
+      "name": "Boooz",
+      "airdate": "2011-11-25"
+    },
+    {
+      "id": "155975a7-601a-4511-9724-114eaa032e48",
+      "season": 4,
+      "number": 6,
+      "name": "Oops...Noel Did It Again",
+      "airdate": "2011-11-26"
+    },
+    {
+      "id": "44d9fcb7-edf3-49af-b492-d2a98f6fc84a",
+      "season": 4,
+      "number": 7,
+      "name": "The Storm",
+      "airdate": "2011-11-28"
+    },
+    {
+      "id": "53486c48-8d4e-4ec8-88db-cc24a0ee43c6",
+      "season": 4,
+      "number": 8,
+      "name": "The Last Thanksgiving",
+      "airdate": "2011-11-29"
+    },
+    {
+      "id": "775b4ec7-5b12-4a05-a9df-f1ecf37cd14a",
+      "season": 4,
+      "number": 9,
+      "name": "Moving On",
+      "airdate": "2011-11-30"
+    },
+    {
+      "id": "f3b06178-879b-40f5-bb6d-6d5aba489fda",
+      "season": 4,
+      "number": 10,
+      "name": "Fire",
+      "airdate": "2011-12-01"
+    },
+    {
+      "id": "f600d06f-447b-41bb-8646-76ff7bf82b01",
+      "season": 4,
+      "number": 11,
+      "name": "A Perfect Match",
+      "airdate": "2011-12-02"
+    },
+    {
+      "id": "c0b31ce9-4d75-4d2d-a880-91a01a63d22a",
+      "season": 4,
+      "number": 12,
+      "name": "Future Shock",
+      "airdate": "2011-12-03"
+    },
+    {
+      "id": "5e2107d7-096b-4093-bea4-cdd76f343ea7",
+      "season": 4,
+      "number": 13,
+      "name": "Kiss and Tell",
+      "airdate": "2011-12-05"
+    },
+    {
+      "id": "52d00e24-2026-4f8c-996f-1c5f73b1191e",
+      "season": 4,
+      "number": 14,
+      "name": "Raising Arizona",
+      "airdate": "2011-12-06"
+    },
+    {
+      "id": "32eaef38-7279-4982-a403-24ef97c58318",
+      "season": 4,
+      "number": 15,
+      "name": "The Paper Chase",
+      "airdate": "2011-12-07"
+    },
+    {
+      "id": "84d67aba-2546-4404-8e86-49e87cca553c",
+      "season": 4,
+      "number": 16,
+      "name": "Ben Don't Leave",
+      "airdate": "2011-12-08"
+    },
+    {
+      "id": "397237c3-8dd1-4098-b0e1-341c534a07d5",
+      "season": 4,
+      "number": 17,
+      "name": "The Graduate",
+      "airdate": "2011-12-09"
+    },
+    {
+      "id": "44b6fa69-6c7c-4d1a-8113-9678a15ce6a6",
+      "season": 4,
+      "number": 18,
+      "name": "Time Will Tell",
+      "airdate": "2011-12-10"
+    },
+    {
+      "id": "836d7dd6-40bc-4065-aa8d-c330d9662238",
+      "season": 4,
+      "number": 19,
+      "name": "The Power of the Ex",
+      "airdate": "2011-12-12"
+    },
+    {
+      "id": "8321aeca-4eea-4e3f-88a4-3732f5b5b0f6",
+      "season": 4,
+      "number": 20,
+      "name": "Spin the Bottle",
+      "airdate": "2011-12-13"
+    },
+    {
+      "id": "a769d536-6f9d-4ad7-98ef-68cadaffe3cb",
+      "season": 4,
+      "number": 21,
+      "name": "Felicity Interrupted",
+      "airdate": "2011-12-14"
+    },
+    {
+      "id": "2a4dabf6-eaec-4f90-95d5-3f2b161a243a",
+      "season": 4,
+      "number": 22,
+      "name": "Back to the Future",
+      "airdate": "2011-12-15"
+    }
+  ]
+}

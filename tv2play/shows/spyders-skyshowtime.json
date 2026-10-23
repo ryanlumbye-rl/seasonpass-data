@@ -1,0 +1,152 @@
+{
+  "id": "tv2play:spyders-skyshowtime",
+  "name": "Spyders",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da de opdager, at deres forældre er undercoverspioner for et miljøbeskyttelsesagentur, danner tre søskende en hemmelig taskforce for at hjælpe dem.",
+  "image": "https://cdn-play.tv2i.dk/19449adc-e0eb-49be-8c40-48d955f860a5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e5426097-d1d3-45ed-b632-0fddf54807c1",
+      "season": 4,
+      "number": 1,
+      "name": "Asteroidestenen",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "e988953c-8d4c-49b2-97d1-0cef56f465f2",
+      "season": 4,
+      "number": 2,
+      "name": "Amøberne",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "ac8c0372-8284-432c-b1af-1b66f993f0e8",
+      "season": 4,
+      "number": 3,
+      "name": "Samtalen",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "d57905b9-1986-49c5-9471-85f62def963d",
+      "season": 4,
+      "number": 4,
+      "name": "Joken",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "f35bbde7-9d93-446e-b393-bbc788ae688e",
+      "season": 4,
+      "number": 5,
+      "name": "Den forsvundne sten",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "b8b078b1-b2df-4eff-b3d0-89f1e5638ff2",
+      "season": 4,
+      "number": 6,
+      "name": "Kassen",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "06d32627-2299-4430-868f-82583c2f3d8a",
+      "season": 4,
+      "number": 7,
+      "name": "Anklagen",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "5d654f12-602e-449e-8709-f39cf066f871",
+      "season": 4,
+      "number": 8,
+      "name": "Sprøjtemidlet",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "0323157c-9402-4947-9967-8edad93ee60a",
+      "season": 4,
+      "number": 9,
+      "name": "Fingeraftrykkene",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "5f53d41c-ef0c-43ce-a989-66ad952bb6a6",
+      "season": 4,
+      "number": 10,
+      "name": "Bedraget",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "862c81ac-e404-4fc1-b809-c6b21609138b",
+      "season": 4,
+      "number": 11,
+      "name": "Jordbær-banan sodavandsdåsen",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "40939e18-bebe-4814-a4bc-aa51f80a708f",
+      "season": 4,
+      "number": 12,
+      "name": "Overvågningen",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "f80ce0b9-884b-4b8b-9c37-b47943f4d41d",
+      "season": 4,
+      "number": 13,
+      "name": "Genforeningen",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "d1bed585-649a-4e4a-9da0-26ae936611e2",
+      "season": 4,
+      "number": 14,
+      "name": "Opskriften",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "c17df2d8-befc-4aee-8cd4-6c4dedb7f288",
+      "season": 4,
+      "number": 15,
+      "name": "Granatæbleolien",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "3494a395-a06a-4067-962e-a49abc00b822",
+      "season": 4,
+      "number": 16,
+      "name": "Halskæden",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "81d2189f-b709-4e39-b29c-9ecb8011c3f5",
+      "season": 4,
+      "number": 17,
+      "name": "Fødselsdagsfesten",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "7d843a35-4d97-419f-af3e-a4c6d2d71464",
+      "season": 4,
+      "number": 18,
+      "name": "Livestream",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "375790c9-3fe8-4ed6-9945-e7d81f67bb91",
+      "season": 4,
+      "number": 19,
+      "name": "Problemet med sprøjtemidlet",
+      "airdate": "2023-09-20"
+    },
+    {
+      "id": "d204ca90-a5d7-4cbc-8860-05f2c4b28751",
+      "season": 4,
+      "number": 20,
+      "name": "Den sidste operation",
+      "airdate": "2023-09-20"
+    }
+  ]
+}

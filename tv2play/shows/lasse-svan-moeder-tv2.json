@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:lasse-svan-moeder-tv2",
+  "name": "Lasse Svan møder...",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lasse Svan inviterer landsholdsstjernerne Magnus Saugstrup, Mathias Gidsel, Nikolaj Jacobsen, Lasse Møller og Emil Nielsen til uformelle samtaler om karriere, liv uden for banen og fællesskab. Kom med helt tæt på menneskene bag det danske herrelandsholds store succes.",
+  "image": "https://cdn-play.tv2i.dk/db0b09dd-1004-4939-9661-72bcf18e89c4.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C5746%2C3233&w=1280",
+  "episodes": [
+    {
+      "id": "928dd556-635f-4a8f-83a8-a33af0b01eb5",
+      "season": 1,
+      "number": 1,
+      "name": "Emil Nielsen",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "3eb77d6f-133c-4c4a-8bde-c42a6e1e27f1",
+      "season": 1,
+      "number": 2,
+      "name": "Mathias Gidsel",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "44a11544-8679-4cd6-b4b5-7a282babc9ad",
+      "season": 1,
+      "number": 3,
+      "name": "Nikolaj Jacobsen",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "21f0a596-e530-4f60-bb2c-8d35aee9376c",
+      "season": 1,
+      "number": 4,
+      "name": "Lasse Møller",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "d084d636-cde0-4a04-9ed5-deadba7d23d4",
+      "season": 1,
+      "number": 5,
+      "name": "Magnus Saugstrup",
+      "airdate": "2026-01-15"
+    }
+  ]
+}

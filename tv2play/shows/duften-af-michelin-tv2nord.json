@@ -5,6 +5,8 @@
   "status": "Running",
   "tmdbId": null,
   "next": "2026-10-24",
+  "description": "Aalborg hungrer efter en Michelinstjerne. En af Danmarks største byer er i årevis blevet forbigået. Men nu skal det være. Restauranten Alimentum har sat alt ind på at få den eftertragtede stjerne. Lykkes det?",
+  "image": "https://cdn-play.tv2i.dk/c3ade974-dcda-4142-b89f-0e54c03d97b1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "ec3ea27d-ec6b-4601-85dd-a64b3fef631b",
@@ -26,6 +28,20 @@
       "number": 3,
       "name": "Store Michelindag",
       "airdate": "2025-10-01"
+    },
+    {
+      "id": "a6d528c9-0919-4ca6-8799-8b8f92e32610",
+      "season": 2,
+      "number": 1,
+      "name": "Søren drømmer videre",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "2a4add49-e165-4391-92f4-fce8e3afe4ca",
+      "season": 2,
+      "number": 2,
+      "name": "De første asparges",
+      "airdate": "2026-10-24"
     }
   ]
 }

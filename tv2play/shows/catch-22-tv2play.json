@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:catch-22-tv2play",
+  "name": "Catch-22",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "bfdc058a-9ab6-4053-a332-438de24d7fbd",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "3b0c1c4b-6d31-4d5c-b587-7339cf08b67e",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "7107dd93-ee0a-4868-a079-31cf78578376",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "7cb9f3dd-1da0-441c-8fcc-526983617100",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "75ee5af6-523d-4be3-9129-d325470ee55b",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "14d93383-0a0e-4d20-a318-fbc3ec28303e",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-09-05"
+    }
+  ]
+}

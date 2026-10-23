@@ -1,0 +1,89 @@
+{
+  "id": "tv2play:the-americas-skyshowtime",
+  "name": "The Americas",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tag med på en episk rejse til Nord- og Sydamerikas ekstraordinære verdener og dyreliv. Med musik af den legendariske komponist Hans Zimmer og indtaling af Tom Hanks, er denne betagende rejse på tværs af superkontinentet fuld af vidundere og ærefrygtindgydende øjeblikke.",
+  "image": "https://cdn-play.tv2i.dk/4a7bf087-57f2-4b8d-9d8f-a35f2ec637ef.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3544%2C1993&w=1280",
+  "episodes": [
+    {
+      "id": "16831a73-ddf2-449b-91ea-0bc6f83380f6",
+      "season": 1,
+      "number": 1,
+      "name": "Atlanterhavskysten",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "9565a6cf-93db-435c-8608-023e438b08a4",
+      "season": 1,
+      "number": 2,
+      "name": "Mexico",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "da9b55b4-7407-4110-ae8e-df2b0d85ac3a",
+      "season": 1,
+      "number": 3,
+      "name": "Det vilde vesten",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "711ce72f-cfe4-4a4b-9dd6-a636920a5b6f",
+      "season": 1,
+      "number": 4,
+      "name": "Amazonas",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "aabed56f-a3b5-49a2-a31c-825b9d55b8a4",
+      "season": 1,
+      "number": 5,
+      "name": "Det frosne nord",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "10483178-ef3c-4a81-8e59-2e61978ebfb4",
+      "season": 1,
+      "number": 6,
+      "name": "Golfkysten",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "c658e6b9-2b50-4c47-8a3f-e390219d9d98",
+      "season": 1,
+      "number": 7,
+      "name": "Andesbjergene",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "89817739-9821-42aa-84d9-cdda4254e2a8",
+      "season": 1,
+      "number": 8,
+      "name": "Caribien",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "6925cb98-5607-42ab-99b3-00b16b7b09b9",
+      "season": 1,
+      "number": 9,
+      "name": "Vestkysten",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "ef71d4e0-feea-4ef5-a6ab-39e8bd9919e7",
+      "season": 1,
+      "number": 10,
+      "name": "Patagonien",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "9650173b-5d3a-4dd7-bdb1-42050dc45785",
+      "season": 1,
+      "number": 11,
+      "name": "Bag kameraet",
+      "airdate": "2025-05-04"
+    }
+  ]
+}

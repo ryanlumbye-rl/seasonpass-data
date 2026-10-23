@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:giv-mig-manddommen-tilbage-tv2echo",
+  "name": "Giv mig manddommen tilbage",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 ECHO har samlet fire mænd, der deler deres oplevelser med seksuelle overgreb. Hvilken mand er du, når du ikke føler, du ejer din krop og står helt alene med det? Sammen med to mentorer kæmper de for at få selvværdet tilbage og genvinde den maskulinitet, de føler, er blevet taget fra dem.",
+  "image": "https://cdn-play.tv2i.dk/fa5a70ef-66c1-4e57-84c4-5169c596d03e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "64a373c5-e266-4df0-99b1-52d7885cca68",
+      "season": 1,
+      "number": 1,
+      "name": "De misbrugte mænd",
+      "airdate": "2022-04-26"
+    },
+    {
+      "id": "2adc44b3-2d9e-4bed-8e4d-2e9600c6198b",
+      "season": 1,
+      "number": 2,
+      "name": "Faret vild i mørket",
+      "airdate": "2022-04-26"
+    },
+    {
+      "id": "8c6f5203-1199-4026-9d4c-c95afbcbb393",
+      "season": 1,
+      "number": 3,
+      "name": "Badet i traumer",
+      "airdate": "2022-05-03"
+    },
+    {
+      "id": "cdf528fd-4f75-41d3-8646-6bfe77a7afea",
+      "season": 1,
+      "number": 4,
+      "name": "Forløsning i flammerne",
+      "airdate": "2022-05-10"
+    },
+    {
+      "id": "c3599325-45d3-4314-9f18-12b5cffe2b4d",
+      "season": 1,
+      "number": 5,
+      "name": "Tilbage til hverdagen",
+      "airdate": "2022-05-10"
+    }
+  ]
+}

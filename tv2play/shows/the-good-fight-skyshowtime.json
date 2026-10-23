@@ -1,0 +1,432 @@
+{
+  "id": "tv2play:the-good-fight-skyshowtime",
+  "name": "The Good Fight",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I The Good Fight har et stort svindelnummer knust advokaten Maia Rindells ry og fjernet hendes mentor og gudmor Diane Lockharts opsparing. Maia og Diane tvinges ud af Lockhart & Lee og går sammen med Lucca Quinn i et af Chicagos fremtrædende advokatfirmaer.",
+  "image": "https://cdn-play.tv2i.dk/5ee9d83f-9497-4b00-a022-74fd32dda24b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8bbb9fe5-7a7d-4d65-9264-dd0d36c1f60d",
+      "season": 1,
+      "number": 1,
+      "name": "Inauguration",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1f5dff66-a436-4432-93e9-0393dcac1642",
+      "season": 1,
+      "number": 2,
+      "name": "First Week",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "727c5837-a72e-4325-b0f8-fb05df5e7eb9",
+      "season": 1,
+      "number": 3,
+      "name": "The Schtup List",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a93f4ffa-f7f2-451d-824c-19fd8df190e0",
+      "season": 1,
+      "number": 4,
+      "name": "Henceforth Known as Property",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f1e3b2df-c5ec-4e38-a309-63f18975d1ea",
+      "season": 1,
+      "number": 5,
+      "name": "Stoppable: Requiem for an Airdate",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "73f2308e-c184-4007-9ae3-6a200e1629a4",
+      "season": 1,
+      "number": 6,
+      "name": "Social Media and Its Discontents",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7dae295-010b-4b08-b8d6-ccc6f6744414",
+      "season": 1,
+      "number": 7,
+      "name": "Not So Grand Jury",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "297cae3d-9dc1-42a0-bf56-ef6e796ab2ec",
+      "season": 1,
+      "number": 8,
+      "name": "Reddick v Boseman",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dba6cc19-2e73-4b9b-9183-c0112aaa2e71",
+      "season": 1,
+      "number": 9,
+      "name": "Self Condemned",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "48760c70-44b5-435b-9896-868c05fe4df8",
+      "season": 1,
+      "number": 10,
+      "name": "Chaos",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "933b7d12-574d-43a8-b660-26ba1f16b33e",
+      "season": 2,
+      "number": 1,
+      "name": "Day 408",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e26287a5-5d6c-482d-9867-de1aba91d8f6",
+      "season": 2,
+      "number": 2,
+      "name": "Day 415",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f90bf12a-640e-443b-8722-f472a7bca4f1",
+      "season": 2,
+      "number": 3,
+      "name": "Day 422",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f777133e-1ff6-4388-bf3c-cec654d1ed64",
+      "season": 2,
+      "number": 4,
+      "name": "Day 429",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "14454c7b-57b5-463c-92d8-6d9e1272ec79",
+      "season": 2,
+      "number": 5,
+      "name": "Day 436",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "64dbe65e-1cd7-48e6-b701-e53413fba013",
+      "season": 2,
+      "number": 6,
+      "name": "Day 443",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7be5c684-4234-43ad-b04e-1c6052584fea",
+      "season": 2,
+      "number": 7,
+      "name": "Day 450",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b872d9bd-025a-415c-b9bc-8385e43edda2",
+      "season": 2,
+      "number": 8,
+      "name": "Day 457",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d214aa8-cd13-42da-81b9-b29e3aa471e3",
+      "season": 2,
+      "number": 9,
+      "name": "Day 464",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e52cd52a-d2c2-489e-9a64-b67490bf3e23",
+      "season": 2,
+      "number": 10,
+      "name": "Day 471",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "af6c16ae-94bd-4ee9-b21a-62070082de4b",
+      "season": 2,
+      "number": 11,
+      "name": "Day 478",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ea629451-7d83-4880-b21f-dec72a7efec2",
+      "season": 2,
+      "number": 12,
+      "name": "Day 485",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cb63d833-032d-4a8a-80d2-3d2643b7fe5b",
+      "season": 2,
+      "number": 13,
+      "name": "Day 492",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9f931bfd-96d6-4ad7-99dc-92616ef5bc04",
+      "season": 3,
+      "number": 1,
+      "name": "The One About the Recent Troubles",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8d864c6d-7767-4ed5-9b30-7f9f2b8df829",
+      "season": 3,
+      "number": 2,
+      "name": "The One Inspired by Roy Cohn",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bc8d9ebc-d7bb-4c4b-92ec-e56b03610702",
+      "season": 3,
+      "number": 3,
+      "name": "The One where Diane Joins the Resistance",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e0dec637-efad-4717-bb44-36c5105bfcdf",
+      "season": 3,
+      "number": 4,
+      "name": "The One with Lucca Becoming a Meme",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "44eeaf03-cb93-4ae4-9bb5-30ae093df63b",
+      "season": 3,
+      "number": 5,
+      "name": "The One where a Nazi Gets Punched",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b79c0efd-2454-4f9b-894d-a3227fc93239",
+      "season": 3,
+      "number": 6,
+      "name": "The One with the Celebrity Divorce",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7d9d6a0f-8577-48e5-911a-7c3c1a95518c",
+      "season": 3,
+      "number": 7,
+      "name": "The One Where Diane and Liz Topple Democracy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "462b436a-44b1-488b-b541-7a1437be1000",
+      "season": 3,
+      "number": 8,
+      "name": "The One Where Kurt Saves Diane",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c93a97a3-1ce5-4a3d-8f44-b8290595d122",
+      "season": 3,
+      "number": 9,
+      "name": "The One Where the Sun Comes Out",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3f1e7b0c-4ab6-4334-99db-5ae8a93ee451",
+      "season": 3,
+      "number": 10,
+      "name": "The One About the End of the World",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0ea7e9d7-2c96-40af-b7b6-92c7af2c0651",
+      "season": 4,
+      "number": 1,
+      "name": "The Gang Deals with Alternate Reality",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "571025bc-b669-44e2-8710-a9964b54cf8f",
+      "season": 4,
+      "number": 2,
+      "name": "The Gang Tries to Serve a Subpoena",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9b3f1303-8c15-4917-8473-6b979d329276",
+      "season": 4,
+      "number": 3,
+      "name": "The Gang Gets a Call From HR",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "66ce9250-2292-4092-aef6-c5ce75727c9d",
+      "season": 4,
+      "number": 4,
+      "name": "The Gang is Satirized and Doesn't Like It",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2099d799-9c38-4085-9266-dd0e7761bb93",
+      "season": 4,
+      "number": 5,
+      "name": "The Gang Goes To War",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "441055b5-a75c-4fd2-9133-379feb5ef3f5",
+      "season": 4,
+      "number": 6,
+      "name": "The Gang Offends Everyone",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "39dcfac0-3ad2-4ad5-9a61-9d2a7e322011",
+      "season": 4,
+      "number": 7,
+      "name": "The Gang Discovers who Killed Jeffrey Epstein",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aeb5426a-5c2b-4f0a-bd35-dcd574600358",
+      "season": 5,
+      "number": 1,
+      "name": "Previously On...",
+      "airdate": "2022-06-24"
+    },
+    {
+      "id": "626d94db-46ca-4456-9d86-45be68d37362",
+      "season": 5,
+      "number": 2,
+      "name": "Once There Was a Court...",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "86091369-d630-4bbf-b2b9-6a91788d19c3",
+      "season": 5,
+      "number": 3,
+      "name": "And the Court Had a Clerk...",
+      "airdate": "2022-06-24"
+    },
+    {
+      "id": "3c4872ab-ea77-4453-b68b-610d9b5d683f",
+      "season": 5,
+      "number": 4,
+      "name": "And the Clerk Had a Firm...",
+      "airdate": "2022-06-24"
+    },
+    {
+      "id": "6c89c20a-4f33-4c59-a3ab-7ec732032624",
+      "season": 5,
+      "number": 5,
+      "name": "And the Firm Had Two Partners...",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "bb7a4eb0-e0f0-42a2-8283-fdd0770bfbde",
+      "season": 5,
+      "number": 6,
+      "name": "And the Two Partners Had a Fight...",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "7b23e64a-b3cd-4fc4-8032-eb907baf1bde",
+      "season": 5,
+      "number": 7,
+      "name": "And the Fight Had a Détente...",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "c2c42363-4a93-4782-9f29-1968b9015509",
+      "season": 5,
+      "number": 8,
+      "name": "And the Détente Had an End...",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "f811f78e-f609-4291-8d32-91d6fde1003f",
+      "season": 5,
+      "number": 9,
+      "name": "And the End Was Violent...",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "77c51061-302c-4c90-be01-51f9da35a510",
+      "season": 5,
+      "number": 10,
+      "name": "And the Violence Spread.",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "5af740ca-0982-4771-8661-33d1c0e93327",
+      "season": 6,
+      "number": 1,
+      "name": "The Beginning of the End",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "3d1bf914-f259-4272-8605-a334739f7fd9",
+      "season": 6,
+      "number": 2,
+      "name": "The End of the Yips",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "7f68553d-074e-4d85-94db-3e8d7b15633d",
+      "season": 6,
+      "number": 3,
+      "name": "The End of Football",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "1cd828c0-6fd2-45ff-974a-a677c429b88e",
+      "season": 6,
+      "number": 4,
+      "name": "The End of Eli Gold",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "c0c9e805-c0d3-45b8-8b07-ebb4af89fc40",
+      "season": 6,
+      "number": 5,
+      "name": "The End of Ginni",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "afea6510-3927-4683-8272-b2b0a775753e",
+      "season": 6,
+      "number": 6,
+      "name": "The End of a Saturday",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "2e9ec2a6-f1a8-4253-aa80-9a35b0d1ea41",
+      "season": 6,
+      "number": 7,
+      "name": "The End of STR Laurie",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "9f35a1aa-f701-4bbb-9420-443df4267352",
+      "season": 6,
+      "number": 8,
+      "name": "The End of Playing Games",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "1a2c3900-a2b6-40af-b6f6-805809a08fc3",
+      "season": 6,
+      "number": 9,
+      "name": "The End of Democracy",
+      "airdate": "2025-07-09"
+    },
+    {
+      "id": "4f60570f-4d0b-439c-8ec9-49eb0b4c4c11",
+      "season": 6,
+      "number": 10,
+      "name": "The End of Everything",
+      "airdate": "2025-07-09"
+    }
+  ]
+}

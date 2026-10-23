@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:mellem-os-tv2",
+  "name": "Mellem os",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "To par, masser af kærlighed, men også masser af udfordringer. Ny dramaserie med bl.a. Lærke Winther og Johannes Nymark som Nanna og Kasper, der er klar til næste niveau i parforholdet: et barn.",
+  "image": "https://cdn-play.tv2i.dk/f85ff55f-7784-477f-b266-3c7123679e01.jpeg?auto=format%2Ccompress&fm=webp&rect=1%2C1%2C996%2C560&w=1280",
+  "episodes": [
+    {
+      "id": "3467578c-3859-4499-853f-53f191968834",
+      "season": 1,
+      "number": 1,
+      "name": "Bryllup",
+      "airdate": "2019-11-06"
+    },
+    {
+      "id": "85982462-a000-4fc0-a371-50f1e7420764",
+      "season": 1,
+      "number": 2,
+      "name": "Skruk",
+      "airdate": "2019-11-13"
+    },
+    {
+      "id": "f8540e40-7e7f-497f-ad9b-b11967f1b468",
+      "season": 1,
+      "number": 3,
+      "name": "Fristelser",
+      "airdate": "2019-11-20"
+    },
+    {
+      "id": "3ddd6522-adb2-41af-ae77-e598f89d943d",
+      "season": 1,
+      "number": 4,
+      "name": "Bekendelser",
+      "airdate": "2019-11-20"
+    },
+    {
+      "id": "f273e219-4285-4752-a042-e007d4d19451",
+      "season": 1,
+      "number": 5,
+      "name": "Adoption",
+      "airdate": "2019-12-02"
+    },
+    {
+      "id": "032e13e4-e529-4d5b-b232-5fef6d5d636b",
+      "season": 1,
+      "number": 6,
+      "name": "Manipulator",
+      "airdate": "2019-12-09"
+    },
+    {
+      "id": "c15b4a31-c3a5-492f-b982-62ace5d71c0d",
+      "season": 1,
+      "number": 7,
+      "name": "Forbudt",
+      "airdate": "2019-12-16"
+    },
+    {
+      "id": "d4816c5c-a9f9-488a-86be-66270cc137e5",
+      "season": 1,
+      "number": 8,
+      "name": "Hemmeligheden",
+      "airdate": "2019-12-16"
+    }
+  ]
+}

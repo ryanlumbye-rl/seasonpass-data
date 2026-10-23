@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:boern-af-boender-tv2oest",
+  "name": "Børn af bønder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tre unge landmænd står midt i et generationsskifte og tager kampen op for erhvervets overlevelse. Men hvordan balancerer de arven fra forældregenerationen med de nye krav og rammer, som de selv og samfundet har til at være landmand i 2024?  .",
+  "image": "https://cdn-play.tv2i.dk/043cd878-b51b-4897-ac9f-a9f44de02e6c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "897b17e3-dc1a-4cae-8a66-8f5b5ef3f01a",
+      "season": 1,
+      "number": 1,
+      "name": "At finde sin egen vej",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "aa4ce5fc-28eb-47e5-8893-671b1cbfe1e9",
+      "season": 1,
+      "number": 2,
+      "name": "Eksperimenter eller dø!",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "18b7ebf8-70ee-4599-a7f8-5c5a98b1a65a",
+      "season": 1,
+      "number": 3,
+      "name": "Det kræver en landsby",
+      "airdate": "2024-11-14"
+    }
+  ]
+}

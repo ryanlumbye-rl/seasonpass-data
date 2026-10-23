@@ -1,0 +1,222 @@
+{
+  "id": "tv2play:allegiance-tv2play",
+  "name": "Allegiance",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sabrina Sohal er en nystartet politibetjent, som må kæmpe med retssystemets grænser, mens hun prøver at få sin politikerfar frifundet for falske anklager og tjener sin hjemby, Surrey, sammen med en erfaren betjent, som ser hendes potentiale, men ikke altid er enig i hendes visionære metoder.",
+  "image": "https://cdn-play.tv2i.dk/946f9195-e46f-467a-a787-4c8d8e27be75.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ba2b548b-938f-41e7-bcb0-8b97c0819721",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "cef85831-9c46-458f-9111-0efaaade35d0",
+      "season": 1,
+      "number": 2,
+      "name": "Supply Side",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "0b6d2d93-c82c-4d49-a090-dd9c1446bef4",
+      "season": 1,
+      "number": 3,
+      "name": "Running on Empty",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "fc63b84d-d65a-4975-b94b-4c6822dd2258",
+      "season": 1,
+      "number": 4,
+      "name": "IRL",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "f4794e58-11f4-4104-9639-e72ea4ed19e4",
+      "season": 1,
+      "number": 5,
+      "name": "Homecoming Kings",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "8dd51ba6-e1d6-493b-91db-18e18e412813",
+      "season": 1,
+      "number": 6,
+      "name": "Safe Harbors",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "b53e5199-a664-48c0-8ade-88b498c72049",
+      "season": 1,
+      "number": 7,
+      "name": "The Legacy",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "70610dd5-792f-4820-8516-6dcb60102ce3",
+      "season": 1,
+      "number": 8,
+      "name": "8 X 6",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "140d228c-ea83-4cbb-9bb8-18cd7122f2a9",
+      "season": 1,
+      "number": 9,
+      "name": "Fallen Idols - 1. del",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "f766819f-c6bd-4bc4-a6c5-97dd63620e0d",
+      "season": 1,
+      "number": 10,
+      "name": "Dawn to Dawn",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "31b7fcef-95c7-4cfa-bc5c-b7e04e7ebebb",
+      "season": 2,
+      "number": 1,
+      "name": "Unsee This",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "413f5f2f-d075-44bd-a950-cfbb16ca6edb",
+      "season": 2,
+      "number": 2,
+      "name": "Mad About You",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "38936a7f-69c1-404c-92c1-4b2b393226bd",
+      "season": 2,
+      "number": 3,
+      "name": "The House Always Wins",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "c592fb9e-9a76-4134-9c44-f2550621dd79",
+      "season": 2,
+      "number": 4,
+      "name": "Daddy Issues",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "0ab95a47-7ac8-40c2-929f-11592bcd4ebb",
+      "season": 2,
+      "number": 5,
+      "name": "The Vow",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "c1e2191e-b9c3-427b-92ca-8190f36e1681",
+      "season": 2,
+      "number": 6,
+      "name": "Shine a Light",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "57c0687f-ee56-4f4f-b134-93d85ba56e90",
+      "season": 2,
+      "number": 7,
+      "name": "Shelter from the Storm",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "e27fe3b2-93fc-459b-a2de-f56c599b33c4",
+      "season": 2,
+      "number": 8,
+      "name": "We Were Winning",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "347bd031-99a1-4eef-9053-0be51974dbb3",
+      "season": 2,
+      "number": 9,
+      "name": "Do No Harm",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "4beb6887-222f-4bd8-ac43-4969b146d73d",
+      "season": 2,
+      "number": 10,
+      "name": "Mercy's End",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "94d9d84a-5c58-4b89-9bbb-0db2bd91244e",
+      "season": 3,
+      "number": 1,
+      "name": "Borderline Blue",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "1ec1b2cc-4ea4-4e89-9895-9690ca254997",
+      "season": 3,
+      "number": 2,
+      "name": "Blood & Berries",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "a5f31fbf-db3d-4111-aa0c-d323e0bcbb58",
+      "season": 3,
+      "number": 3,
+      "name": "The Mission",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "5c5fccec-de78-4caf-be56-1ef3d1d838e8",
+      "season": 3,
+      "number": 4,
+      "name": "Blue Monday",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "c5105b78-1a09-4cd4-8e45-390a0dcfe000",
+      "season": 3,
+      "number": 5,
+      "name": "Nakhra",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "f9185f17-d3c2-494b-a0d5-fb693ce26bbb",
+      "season": 3,
+      "number": 6,
+      "name": "Drive",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "5606301c-04c8-4649-9353-07e87ee74e77",
+      "season": 3,
+      "number": 7,
+      "name": "Stolen Life",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "4cea2cd5-b945-4c0a-80f4-ae794a05a1f5",
+      "season": 3,
+      "number": 8,
+      "name": "Runaway Train",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "eed17721-965f-4232-aab7-c6f816258356",
+      "season": 3,
+      "number": 9,
+      "name": "One of Our Own",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "b76ae30a-0f89-4ec7-b251-91f51b340ae6",
+      "season": 3,
+      "number": 10,
+      "name": "Remember Me",
+      "airdate": "2026-07-16"
+    }
+  ]
+}

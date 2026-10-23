@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:nabostrid-i-foerste-raekke-tv2",
+  "name": "Nabostrid i første række",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Drømmen om livet i første række til vandet kan nogle gange blive et mareridt. I denne serie møder vi danskere, hvis liv er præget af årelange konflikter med naboer, der ligger ud til vores smukkeste kyststrækninger. Hvor langt vil man gå for at sikre sig sin havudsigt?¶",
+  "image": "https://cdn-play.tv2i.dk/d9a772ae-0126-41c7-9c4b-f9ce5c2d5ba5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "752d0966-6a7d-4bcc-bf54-626b8b59fee3",
+      "season": 1,
+      "number": 1,
+      "name": "Annekset i Tisvilde",
+      "airdate": "2025-09-04"
+    },
+    {
+      "id": "6f757d48-2adf-48d9-a64e-cb0de86b1c3f",
+      "season": 1,
+      "number": 2,
+      "name": "Nybyggeriet på Bornholm",
+      "airdate": "2025-09-11"
+    },
+    {
+      "id": "3df42263-3166-4099-b4da-82f54ebcc779",
+      "season": 1,
+      "number": 3,
+      "name": "Striden ved Sjelborg Strand",
+      "airdate": "2025-09-18"
+    }
+  ]
+}

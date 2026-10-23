@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Da Alison arver et faldefærdigt gods, følger en uventet bonus med: Huset er fyldt med spøgelser. Mange spøgelser. Når de døde blander sig i de levendes affærer, opstår der kaos, konflikter og hylende morsomme sammenstød i den BAFTA-nominerede britiske komediesucces.",
+  "image": "https://cdn-play.tv2i.dk/ef96362a-255e-356c-84cb-4d01f3998ffe.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "cc40f2b6-a3ac-4b5c-91bf-609bcf75308e",
@@ -194,6 +196,55 @@
       "number": 7,
       "name": "It's Behind You",
       "airdate": "2025-10-29"
+    },
+    {
+      "id": "e25a2d3e-9af2-4339-8858-69c0459e46f9",
+      "season": 5,
+      "number": 1,
+      "name": "Fools",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "ff62da60-84ef-40b3-8bb7-3279607d0e05",
+      "season": 5,
+      "number": 2,
+      "name": "Home",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "4f5fcc9d-8eec-4021-8ce5-fcca0e9812df",
+      "season": 5,
+      "number": 3,
+      "name": "Pineapple Day",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "4df7fb93-acf0-4239-b347-cd95d02d0321",
+      "season": 5,
+      "number": 4,
+      "name": "En Français",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "40e36187-f542-4131-af7f-1b69d4f31ef9",
+      "season": 5,
+      "number": 5,
+      "name": "Carpe Diem",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "601c2d05-ea0a-47cd-8ae7-897066d33f65",
+      "season": 5,
+      "number": 6,
+      "name": "Last Resort",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "8b4f376e-541e-42b8-a8f3-413d88265b37",
+      "season": 5,
+      "number": 7,
+      "name": "A Christmas Gift",
+      "airdate": "2026-10-21"
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:the-copenhagen-test-tv2play",
+  "name": "The Copenhagen Test",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Alexander Hale, analytiker i det hemmelige spionagentur Orphanage, opdager, at hans øjne og ører er hacket. Mens bureauet manipulerer hans liv med falske relationer og farlige missioner, må han afgøre, hvad der er virkeligt – og hvor hans loyalitet ligger.",
+  "image": "https://cdn-play.tv2i.dk/e2db2444-087f-4d6c-9a1a-40437a481abd.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a60cd669-3f31-4c77-9c34-88339c258996",
+      "season": 1,
+      "number": 1,
+      "name": "Claymore",
+      "airdate": "2026-02-02"
+    },
+    {
+      "id": "f22e9a1d-c4a3-49ea-9bf6-28fa880a7478",
+      "season": 1,
+      "number": 2,
+      "name": "Glass House",
+      "airdate": "2026-02-02"
+    },
+    {
+      "id": "789f9e11-2492-428c-adce-75e8dc9b3768",
+      "season": 1,
+      "number": 3,
+      "name": "False Flag",
+      "airdate": "2026-02-02"
+    },
+    {
+      "id": "2f1d5e8c-cfa8-4ed3-b7b6-0e2d945d5be8",
+      "season": 1,
+      "number": 4,
+      "name": "Obsidian",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "8d5648f7-08fd-4450-9ca6-dc60a324e296",
+      "season": 1,
+      "number": 5,
+      "name": "Looking Glass",
+      "airdate": "2026-02-16"
+    },
+    {
+      "id": "ca7c2163-5d35-4c83-908d-52602c1c7055",
+      "season": 1,
+      "number": 6,
+      "name": "Allegiance",
+      "airdate": "2026-02-23"
+    },
+    {
+      "id": "56ea42a2-2eb8-44c0-9881-16bbece41567",
+      "season": 1,
+      "number": 7,
+      "name": "Not the World of Men",
+      "airdate": "2026-03-02"
+    },
+    {
+      "id": "b6fed353-a0b3-48df-b034-eed4d709edf8",
+      "season": 1,
+      "number": 8,
+      "name": "The Orphanage",
+      "airdate": "2026-03-09"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:blaendende-boliger-tv2",
+  "name": "Blændende boliger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad skal der til for at skabe, sælge og indrette en blændende bolig? Tag med to ejendomsmæglere og to indretningseksperter på job og bliv inspireret, når eksperterne indretter og sælger blændende boliger og generøst deler ud af deres viden.",
+  "image": "https://cdn-play.tv2i.dk/1666bed0-a36b-42e4-8881-c4f397fea06e.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "438906ca-f1e0-4509-903f-5a03e85e2da3",
+      "season": 1,
+      "number": 1,
+      "name": "Hjem i en klasse for sig",
+      "airdate": "2016-01-20"
+    },
+    {
+      "id": "ffa446d6-011f-49b9-b6ca-6b740f651637",
+      "season": 1,
+      "number": 2,
+      "name": "Hjem i en klasse for sig",
+      "airdate": "2016-01-27"
+    },
+    {
+      "id": "2b107de5-efbf-43e4-8967-933d27962156",
+      "season": 1,
+      "number": 3,
+      "name": "Hjem i en klasse for sig",
+      "airdate": "2016-02-17"
+    },
+    {
+      "id": "a1947070-2faa-4987-9235-dc06d3a960c8",
+      "season": 1,
+      "number": 4,
+      "name": "Hjem i en klasse for sig",
+      "airdate": "2016-02-24"
+    },
+    {
+      "id": "1ca5486a-fb84-4e3a-b414-ca9e9589a75e",
+      "season": 1,
+      "number": 5,
+      "name": "Hjem i en klasse for sig",
+      "airdate": "2016-03-02"
+    },
+    {
+      "id": "6a20f71e-556a-4ade-9f89-3b31f23e9422",
+      "season": 1,
+      "number": 6,
+      "name": "Hjem i en klasse for sig",
+      "airdate": "2016-03-09"
+    },
+    {
+      "id": "ad633878-95be-4c8a-b2b1-1795ceb681b9",
+      "season": 1,
+      "number": 7,
+      "name": "Hjem i en klasse for sig",
+      "airdate": "2016-03-16"
+    }
+  ]
+}

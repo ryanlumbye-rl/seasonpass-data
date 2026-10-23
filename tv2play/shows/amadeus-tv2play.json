@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:amadeus-tv2play",
+  "name": "Amadeus",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mozart, 25 år, ankommer til Wien for at skabe sin egen karriere, fri af sin dominerende far. Han finder en allieret i den temperamentsfulde, men loyale Constanze Weber, som bliver hans kone. Hendes forbindelser fører ham til hofkomponisten Salieri, der fascineres og indleder et venskab.",
+  "image": "https://cdn-play.tv2i.dk/02e22078-70af-4e21-9cea-0e908399b6d9.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "88efc3dc-2cd1-4552-a843-e7a7cca12342",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "47da913f-9d65-48de-a619-1397bfda682b",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "03a4e030-1646-4459-aeff-8e48ace58ee6",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-01-09"
+    },
+    {
+      "id": "51cee98b-a48e-4335-88d6-82469d979241",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-01-16"
+    },
+    {
+      "id": "5548de08-7726-4648-9f7f-973792cfc7a5",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-01-23"
+    }
+  ]
+}

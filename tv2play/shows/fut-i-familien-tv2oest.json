@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:fut-i-familien-tv2oest",
+  "name": "Fut i familien",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vært Sille Roulund vil hjælpe Familien Felgenhauer med at få mere bevægelse ind i en travl hverdag. Derfor har hun allieret sig med en coach, der skal hjælpe og udfordre dem. Efter fire uger vil det vise sig, om familien har fået inspiration til at fortsætte de gode vaner.",
+  "image": "https://cdn-play.tv2i.dk/5d036666-db6c-4bec-a888-0a0b0ad1b03c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "89ca892e-8e63-41cf-917e-e252a64c8d8e",
+      "season": 1,
+      "number": 1,
+      "name": "Jeg gider ikke!",
+      "airdate": "2025-04-22"
+    },
+    {
+      "id": "6f6118d1-ca5d-4f4d-9e24-763a09d04c54",
+      "season": 1,
+      "number": 2,
+      "name": "Hvem tager flest skridt?",
+      "airdate": "2025-04-29"
+    },
+    {
+      "id": "d9dd36da-f9bc-4268-b049-f894a4ab9d0d",
+      "season": 1,
+      "number": 3,
+      "name": "Hurra for fællesskabet",
+      "airdate": "2025-05-06"
+    },
+    {
+      "id": "60f0f619-448a-477e-9b50-0e1f32050037",
+      "season": 1,
+      "number": 4,
+      "name": "Den sidste udfordring",
+      "airdate": "2025-05-13"
+    }
+  ]
+}

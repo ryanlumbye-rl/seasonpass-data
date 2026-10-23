@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:skam-dig-kvinde-tv2echo",
+  "name": "Skam dig, kvinde!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Færøske kvinder har ikke retten til fri abort. Men en ny, stærk bevægelse af unge færinge vil gøre op med den gammeldags lovgivning. Dansk dokumentar i to afsnit",
+  "image": "https://cdn-play.tv2i.dk/9371758e-86d8-4dbd-a9f1-7f7b068caf48.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9cc04792-5b3e-4f8b-a705-1b534358b779",
+      "season": 1,
+      "number": 1,
+      "name": "Den store knap",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "1583f983-8770-4934-865a-b29c7cd543bd",
+      "season": 1,
+      "number": 2,
+      "name": "En færøsk løsning",
+      "airdate": "2023-10-08"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "tv2play:law-order-tv2play",
+  "name": "Law & Order",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "bd36c29d-49f7-435d-a315-b1e574911318",
+      "season": 20,
+      "number": 1,
+      "name": "Memo from the Dark Side",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "f588cfe9-f0f0-4e01-8afb-5e07dd8d7a7e",
+      "season": 20,
+      "number": 2,
+      "name": "Just a Girl in the World",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "e75f9ff2-246d-4d0f-aa13-7014206b0162",
+      "season": 20,
+      "number": 3,
+      "name": "Great Satan",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "ed83e878-ab47-4b13-9e43-280b8db329b0",
+      "season": 20,
+      "number": 4,
+      "name": "Reality Bites",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "9f50f732-5a5e-4441-92ec-0efe0ae60d22",
+      "season": 20,
+      "number": 5,
+      "name": "Dignity",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "ff18cb63-6691-459d-8fe4-fb1b19cdd8f8",
+      "season": 20,
+      "number": 6,
+      "name": "Human Flesh Search Engine",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "c1f55348-dde0-42ad-acf0-e3225238bbe2",
+      "season": 20,
+      "number": 7,
+      "name": "Boy Gone Astray",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "fd9175ad-0ea5-4c6a-ad0c-4362a9af87db",
+      "season": 20,
+      "number": 8,
+      "name": "Doped",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "fd5258d9-167d-49c9-ba06-bcc9aafce9dd",
+      "season": 20,
+      "number": 9,
+      "name": "For the Defense",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "f5a2e904-159a-44fe-ade3-c8c89047987e",
+      "season": 20,
+      "number": 10,
+      "name": "Shotgun",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "8924a33f-3383-42b5-ba72-c056901b0675",
+      "season": 20,
+      "number": 11,
+      "name": "Fed",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "5c988b21-94a3-4029-85a2-eb762a8319cd",
+      "season": 20,
+      "number": 12,
+      "name": "Blackmail",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "e6a02a86-56e7-498b-a7af-df153fcdcfc5",
+      "season": 20,
+      "number": 13,
+      "name": "Steel-Eyed Death",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "b541a125-1a79-4442-b956-2e84730d0ec8",
+      "season": 20,
+      "number": 14,
+      "name": "Boy on Fire",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "a00ca179-c72a-4428-b59f-375522dfbe04",
+      "season": 20,
+      "number": 15,
+      "name": "Brilliant Disguise",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "3612d38b-0736-40ff-aaa3-0b6d6785f770",
+      "season": 20,
+      "number": 16,
+      "name": "Innocence",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "6f609038-f9c5-4129-832f-30fd0f45df2d",
+      "season": 20,
+      "number": 17,
+      "name": "Four Cops Shot",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "371e45f2-416a-4841-9fa7-d3569ec06258",
+      "season": 20,
+      "number": 18,
+      "name": "Brazil",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "56053e2a-c40e-4e5f-a4b3-5235c8df6e77",
+      "season": 20,
+      "number": 19,
+      "name": "Crashers",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "067f8d9d-331d-45f8-b51e-376be493d296",
+      "season": 20,
+      "number": 20,
+      "name": "The Taxman Cometh",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "f40799ec-c02d-4201-8b39-05605b035322",
+      "season": 20,
+      "number": 21,
+      "name": "Immortal",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "1ad473c5-83b8-4b01-8b2e-e5a9ea348b9b",
+      "season": 20,
+      "number": 22,
+      "name": "Love Eternal",
+      "airdate": "2023-07-01"
+    },
+    {
+      "id": "0b0c4dcd-397e-417c-b5a2-691748108485",
+      "season": 20,
+      "number": 23,
+      "name": "Rubber Room",
+      "airdate": "2023-07-01"
+    }
+  ]
+}

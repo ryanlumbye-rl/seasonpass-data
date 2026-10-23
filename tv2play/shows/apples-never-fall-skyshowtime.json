@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:apples-never-fall-skyshowtime",
+  "name": "Apples Never Fall",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Alle i West Palm Beach kender familien Delaney for deres traditionsrige tennisakademi. Da matriarken i den velhavende familie, Joy Delaney, pludselig forsvinder, må hendes fire efterladte børn stykke sandheden sammen og sætte spørgsmålstegn ved alt, de troede, de vidste om deres forældre",
+  "image": "https://cdn-play.tv2i.dk/69a590f2-19b5-4084-8e4d-539f6444ad6c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c41a8382-67ab-4eba-8f8a-1911bff2c3c4",
+      "season": 1,
+      "number": 1,
+      "name": "The Delaneys",
+      "airdate": "2024-04-23"
+    },
+    {
+      "id": "24d531cb-4b3d-45ae-a391-140b47eb754f",
+      "season": 1,
+      "number": 2,
+      "name": "Logan",
+      "airdate": "2024-04-30"
+    },
+    {
+      "id": "934bc2ff-3a9f-4b01-b812-fb3dd745a0aa",
+      "season": 1,
+      "number": 3,
+      "name": "Amy",
+      "airdate": "2024-05-07"
+    },
+    {
+      "id": "68aa2b2e-66a7-4832-808b-e0df76c58c54",
+      "season": 1,
+      "number": 4,
+      "name": "Brooke",
+      "airdate": "2024-05-14"
+    },
+    {
+      "id": "8fa8f79a-ac56-438b-85e5-461559343598",
+      "season": 1,
+      "number": 5,
+      "name": "Troy",
+      "airdate": "2024-05-21"
+    },
+    {
+      "id": "5e547351-b3b1-435a-a3ac-00379237a3aa",
+      "season": 1,
+      "number": 6,
+      "name": "Stan",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "6f9085cc-476d-40c2-88e6-78f3ecff2430",
+      "season": 1,
+      "number": 7,
+      "name": "Joy",
+      "airdate": "2024-06-04"
+    }
+  ]
+}

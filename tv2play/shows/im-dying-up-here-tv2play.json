@@ -1,0 +1,152 @@
+{
+  "id": "tv2play:im-dying-up-here-tv2play",
+  "name": "I'm Dying up here",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "fb0a4efd-9e71-4fe2-a2be-d4a6bc7625d8",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "861ecd19-5eb2-4c69-9aa7-b3512bba5b2f",
+      "season": 1,
+      "number": 2,
+      "name": "Midnight Special",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f62c26ea-9d1f-45c2-9387-ccca3aaac793",
+      "season": 1,
+      "number": 3,
+      "name": "The Cost of a Free Buffet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "82d6131b-a278-40a0-851c-7c0cab364589",
+      "season": 1,
+      "number": 4,
+      "name": "Sugar and Spice",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0523cf3c-b5e2-4276-a6b6-35cbf0ad024f",
+      "season": 1,
+      "number": 5,
+      "name": "The Return",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1c6b2d25-12fc-4f65-9d4f-eb9c1926fc89",
+      "season": 1,
+      "number": 6,
+      "name": "Girls Are Funny, Too",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8f9b1cbe-b426-4c11-8791-e56d8132f61d",
+      "season": 1,
+      "number": 7,
+      "name": "My Rifle, My Pony and Me",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c33195f1-3258-4ec0-9391-dad58e20469d",
+      "season": 1,
+      "number": 8,
+      "name": "The Unbelievable Power of Believing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "afad5ce3-eea1-420f-aa35-316565b6cf3c",
+      "season": 1,
+      "number": 9,
+      "name": "Lingchi",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "48a0138a-2449-4199-bc8e-542fb961086f",
+      "season": 1,
+      "number": 10,
+      "name": "Creative Indifferences",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e67af820-2f23-4c86-b2d2-14a4016cd2f4",
+      "season": 2,
+      "number": 1,
+      "name": "Gone with the Wind",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f41f16df-4a67-4a31-a65e-4f874a060651",
+      "season": 2,
+      "number": 2,
+      "name": "Plus One",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2365a481-9657-484b-a1cf-ffdaa72637e7",
+      "season": 2,
+      "number": 3,
+      "name": "Bete Noire",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "46c9e341-7949-4bd6-a88f-089f12634361",
+      "season": 2,
+      "number": 4,
+      "name": "The Mattresses",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "84aaa062-4aa4-47ad-bb0d-871b8191020f",
+      "season": 2,
+      "number": 5,
+      "name": "Heroes and Villains",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "23075f81-25bc-4665-a98c-ca108c942b34",
+      "season": 2,
+      "number": 6,
+      "name": "Between Us",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "48c893e0-d2cc-46f3-85e9-7245f3e3dace",
+      "season": 2,
+      "number": 7,
+      "name": "Call Me a Ham",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "85573529-618f-4c6f-b4ee-9e04bf2b1095",
+      "season": 2,
+      "number": 8,
+      "name": "Now You See Me, Now You Don't",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "13e09475-284b-4137-96d8-6f5de22c974f",
+      "season": 2,
+      "number": 9,
+      "name": "Deathbed Confessions",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9531d1ce-3a4c-4fda-b676-770070d5137d",
+      "season": 2,
+      "number": 10,
+      "name": "Lines Crossed",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

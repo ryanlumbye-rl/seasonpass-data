@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:borte-med-blaesten-tv2",
+  "name": "Borte med blæsten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "'Stop testcenterskandalen'. Sådan lyder det fra naboerne til nogle af verdens højeste vindmøller. Men planerne betyder, at der er mennesker, som mister deres hjem og tillid til systemet. Thylejren og deres naboer går sammen i kampen mod udvidelsen.",
+  "image": "https://cdn-play.tv2i.dk/6945c333-5d08-4b8d-b037-1b8c43b51546.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ba5ca1f6-0ee1-4cd9-8212-d1ffd4fd2cef",
+      "season": 1,
+      "number": 1,
+      "name": "Stop testcenterskandalen",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "89175be7-7dea-489a-925c-c8967da5235b",
+      "season": 1,
+      "number": 2,
+      "name": "En støjende nabo",
+      "airdate": "2025-11-05"
+    }
+  ]
+}

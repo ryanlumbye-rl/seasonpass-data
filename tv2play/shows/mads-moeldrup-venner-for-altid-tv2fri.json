@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:mads-moeldrup-venner-for-altid-tv2fri",
+  "name": "Mads & Møldrup - venner for altid",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Igennem seks programmer hylder Mads Steffensen og Flemming Møldrup det voksne venskab, og sætter deres egen relation på prøve med udfordrende og sjove aktiviteter. Glæd dig til at opleve nye, ærlige sider af de to værter, når de går til hinanden med kærlig ærlighed og venskabelige drillerier.",
+  "image": "https://cdn-play.tv2i.dk/bbb455f5-8b43-4351-9f2e-06d5853f862d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "cc421d7e-ea6e-484b-9364-b7d9e1f372ed",
+      "season": 1,
+      "number": 1,
+      "name": "En forsømt hobby og et klatretræ",
+      "airdate": "2023-10-03"
+    },
+    {
+      "id": "ccf7808f-050e-498c-a7d0-0dba679efd15",
+      "season": 1,
+      "number": 2,
+      "name": "Bål og hurtige fødder",
+      "airdate": "2023-10-10"
+    },
+    {
+      "id": "d8784cbd-b3aa-4a52-8d55-f29076d9cef8",
+      "season": 1,
+      "number": 3,
+      "name": "Højt at flyve, dybt at sove",
+      "airdate": "2023-10-17"
+    },
+    {
+      "id": "123edc66-55ad-4c6a-975b-ca994cf95764",
+      "season": 1,
+      "number": 4,
+      "name": "Frygt, fart og farlige fjer",
+      "airdate": "2023-10-24"
+    },
+    {
+      "id": "349e1fa5-d960-4d8a-9fbd-024fc07bb123",
+      "season": 1,
+      "number": 5,
+      "name": "En tur i ungdommens gader",
+      "airdate": "2023-10-24"
+    },
+    {
+      "id": "52e4b2dc-277e-4adb-8101-f4122fd0c77c",
+      "season": 1,
+      "number": 6,
+      "name": "Alle sku' ha' en ven som dig",
+      "airdate": "2023-11-07"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:i-laere-som-mester-tv2play",
+  "name": "I lære som mester",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Samfundet ønsker, at flere unge tager en erhvervsuddannelse. DM i Skills er et af de elementer, der skal gøre erhvervsuddannelserne interessante. Vi har mødt tre unge, der bliver motiveret af konkurrenceelementet.",
+  "image": "https://cdn-play.tv2i.dk/389139c3-2e37-4476-b098-518220eb1045.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "da9a6cae-ffab-4c1b-84e9-1735c6cdef01",
+      "season": 1,
+      "number": 1,
+      "name": "For klog til en erhvervsuddannelse?",
+      "airdate": "2026-04-22"
+    },
+    {
+      "id": "6bf41256-4749-4c6d-81a0-04d85d188450",
+      "season": 1,
+      "number": 2,
+      "name": "Går efter guldet",
+      "airdate": "2026-05-01"
+    }
+  ]
+}

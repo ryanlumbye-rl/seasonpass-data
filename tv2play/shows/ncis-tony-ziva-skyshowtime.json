@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:ncis-tony-ziva-skyshowtime",
+  "name": "NCIS: Tony & Ziva",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ziva, som har været formodet død i årevis, findes i live og gennemfører en sidste mission med NCIS. Hun genforenes med Tony og deres datter Tali. Da Tonys sikkerhedsfirma bliver angrebet, må de flygte gennem Europa for at finde ud af, hvem der er efter dem og for at lære at stole på hinanden igen.",
+  "image": "https://cdn-play.tv2i.dk/7b030cf1-3c60-4a76-b8ff-f03749d187dd.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "90b75c9d-b667-4bf5-ba2a-1fcee2a90907",
+      "season": 1,
+      "number": 1,
+      "name": "Intet land er sikkert",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "a866d569-4471-4b15-955e-617dbe142af6",
+      "season": 1,
+      "number": 2,
+      "name": "Ikke min ven",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "7f3d1d2d-7049-4423-bc8a-331831feeb9c",
+      "season": 1,
+      "number": 3,
+      "name": "Dækhistorie",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "0e32f830-6f51-4311-90c1-bf0999c3c3fa",
+      "season": 1,
+      "number": 4,
+      "name": "Ubudne bryllupsgæster",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "3792f602-e78e-4829-8cde-fd73851509ae",
+      "season": 1,
+      "number": 5,
+      "name": "To Be Determined",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "fefd3485-d219-4ed5-a385-4db79e2a7acd",
+      "season": 1,
+      "number": 6,
+      "name": "We’ve Got Company",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "64d525d3-152e-4d60-bef8-01e6d26b14af",
+      "season": 1,
+      "number": 7,
+      "name": "Dark Mirror",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "e6ff1672-689d-44ee-989d-2c6ea18ddc14",
+      "season": 1,
+      "number": 8,
+      "name": "Fire Sale",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "38f28051-47f9-4fca-a535-f63335f5c88d",
+      "season": 1,
+      "number": 9,
+      "name": "Ride or Die",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "e4d6cb87-5810-410c-af6c-ac6aa51d0233",
+      "season": 1,
+      "number": 10,
+      "name": "Full Circle",
+      "airdate": "2025-12-15"
+    }
+  ]
+}

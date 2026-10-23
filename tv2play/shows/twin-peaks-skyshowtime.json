@@ -1,0 +1,222 @@
+{
+  "id": "tv2play:twin-peaks-skyshowtime",
+  "name": "Twin Peaks",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mordet på en high school-skønhedsdronning river billedet af et respektabelt og uskyldigt landdistrikt i Twin Peaks i stykker, og viser grådighed, jalousi og intriger. En FBI-agent og sheriffen undersøger sammen forbrydelsen og opdager hemmeligheder.",
+  "image": "https://cdn-play.tv2i.dk/24c64f7c-ff24-4dc9-abea-4f67d0cf3274.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C1%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "883fdf4e-a380-48ef-a8f7-f05cbce0b29f",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fb1e68d4-f8a0-44b1-88f4-0be2a349f640",
+      "season": 1,
+      "number": 2,
+      "name": "Traces To Nowhere",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4b65ea77-2fae-49bd-8d54-941da7203e5e",
+      "season": 1,
+      "number": 3,
+      "name": "Zen, Or The Skill To Catch A Killer",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cadadb67-865d-4007-b7da-a5d26abd1ada",
+      "season": 1,
+      "number": 4,
+      "name": "Rest In Pain",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e05809d6-0621-45d0-a725-196f12596ef5",
+      "season": 1,
+      "number": 5,
+      "name": "The One-Armed Man",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c026e4d5-4d11-43ef-8499-116759bae693",
+      "season": 1,
+      "number": 6,
+      "name": "Cooper's Dreams",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c8d207ac-b3a1-47bf-9c0f-15c558ab3235",
+      "season": 1,
+      "number": 7,
+      "name": "Realization Time",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "252d8fac-cfd0-496e-b08a-babd8d5f40fa",
+      "season": 1,
+      "number": 8,
+      "name": "The Last Evening",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "de5ac8f7-6c39-4580-b579-d6b1e437c636",
+      "season": 2,
+      "number": 1,
+      "name": "May The Giant Be With You",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "437219b0-1afc-4ace-89a6-5f73a8f782f4",
+      "season": 2,
+      "number": 2,
+      "name": "Coma",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5ebef545-79ee-44a0-9282-fc4857b4f327",
+      "season": 2,
+      "number": 3,
+      "name": "The Man Behind Glass",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0e6994ce-238d-4e06-9ec9-853b5b3b222a",
+      "season": 2,
+      "number": 4,
+      "name": "Laura's Secret Diary",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4b05bb3b-9932-4495-b3a1-dbbbffd56383",
+      "season": 2,
+      "number": 5,
+      "name": "The Orchid's Curse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ff0b24d0-92db-4b4d-a445-fd6a096bcf8c",
+      "season": 2,
+      "number": 6,
+      "name": "Demons",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "14f7de77-b02c-4cee-af03-549c5f985762",
+      "season": 2,
+      "number": 7,
+      "name": "Lonely Souls",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5839c849-ffce-4180-a7ff-9118a2881182",
+      "season": 2,
+      "number": 8,
+      "name": "Drive With A Dead Girl",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fcc8034f-6a73-4764-99c5-9378f333d598",
+      "season": 2,
+      "number": 9,
+      "name": "Arbitrary Law",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bedfdd27-405c-4955-aa4d-60cddce2d6a0",
+      "season": 2,
+      "number": 10,
+      "name": "Dispute Between Brothers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "62d2514c-d420-48f2-8ecf-4fdb15dc9e6f",
+      "season": 2,
+      "number": 11,
+      "name": "Masked Ball",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c4006e5c-bf39-4a24-ae76-bd7d8ce2f17e",
+      "season": 2,
+      "number": 12,
+      "name": "The Black Widow",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d848ca00-6b8a-4964-ac4b-7742778c3598",
+      "season": 2,
+      "number": 13,
+      "name": "Checkmate",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1ed22fcd-58c1-4af3-9d90-d4e62d4de769",
+      "season": 2,
+      "number": 14,
+      "name": "Double Play",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f73aebac-6043-49cd-8332-ccb777730d44",
+      "season": 2,
+      "number": 15,
+      "name": "Slaves And Masters",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6b764e10-7c77-400b-aa9b-1c0980e62c0d",
+      "season": 2,
+      "number": 16,
+      "name": "The Condemned Woman",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b87ec505-c23f-4c0b-a679-7c60734bd479",
+      "season": 2,
+      "number": 17,
+      "name": "Wounds And Scars",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cc86f08b-0029-4b94-ab7f-06c7521ce73c",
+      "season": 2,
+      "number": 18,
+      "name": "On The Wings Of Love",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6a470c91-c3b9-427a-a08e-90db021fee15",
+      "season": 2,
+      "number": 19,
+      "name": "Variations On Relations",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a73017a4-9ede-4d24-83e5-4a509b48a4a7",
+      "season": 2,
+      "number": 20,
+      "name": "The Path To The Black Lodge",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "85594c70-34f7-4644-9b5a-8857c0786458",
+      "season": 2,
+      "number": 21,
+      "name": "Miss Twin Peaks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "39503795-12bc-4cd3-bc9f-f32fa816c378",
+      "season": 2,
+      "number": 22,
+      "name": "Beyond Life And Death",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

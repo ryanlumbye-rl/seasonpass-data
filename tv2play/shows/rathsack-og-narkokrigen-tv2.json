@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:rathsack-og-narkokrigen-tv2",
+  "name": "Rathsack og narkokrigen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tidligere jægersoldat Thomas Rathsack tager til Colombia for at undersøge konsekvenserne af danskernes kokainforbrug. Han har qua sin baggrund fået en helt unik adgang til statens hærenhed, Commando Junglas, og er med helt tæt på, når de bekæmper narkokartellerne. Dokumentarserie på fire episoder.",
+  "image": "https://cdn-play.tv2i.dk/1157f9c4-4bdb-4fa1-ac34-0e24ebae8b82.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "52940b9e-b537-4f2b-801e-bdefa28b67db",
+      "season": 1,
+      "number": 1,
+      "name": "På hemmelig militærmission",
+      "airdate": "2023-08-09"
+    },
+    {
+      "id": "52432a74-ea2f-4a6e-83b0-b22b550adbea",
+      "season": 1,
+      "number": 2,
+      "name": "En farlig færd gennem kartelland",
+      "airdate": "2023-08-16"
+    },
+    {
+      "id": "0735d6fe-044e-4a40-bc66-ab8520ac31e4",
+      "season": 1,
+      "number": 3,
+      "name": "En lejemorders mørke bekendelser",
+      "airdate": "2023-08-23"
+    },
+    {
+      "id": "7864a376-35e7-4bc8-a3b3-8f67b056c735",
+      "season": 1,
+      "number": 4,
+      "name": "Slumkvarterets skjulte håndlangere",
+      "airdate": "2023-08-30"
+    }
+  ]
+}

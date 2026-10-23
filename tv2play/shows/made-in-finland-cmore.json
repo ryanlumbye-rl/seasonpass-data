@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Virkelighedsbaseret dramaserie om Nokia. Halli, hallo, her får du historien om et lille finsk elektronikfirma, der blev en global mobiltelefon-gigant.",
+  "image": "https://cdn-play.tv2i.dk/7c8c7c6a-79ad-41c3-934e-87c3b6caf7ae.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "1e3cd490-50f2-4967-a299-1a387ff5aeff",

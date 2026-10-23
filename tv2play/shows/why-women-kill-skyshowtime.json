@@ -1,0 +1,152 @@
+{
+  "id": "tv2play:why-women-kill-skyshowtime",
+  "name": "Why Women Kill",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det samme hus er udgangspunkt i serien, der er skabt af Marc Cherry. Den handler om tre kvinder i tre forskellige årtier: En husmor i 60'erne, en indflydelsesrig kvinde i 80'erne, og en advokat i 2018. Serien handler om, hvordan kvindernes rolle igennem tiden har ændret sig.",
+  "image": "https://cdn-play.tv2i.dk/61fc7c1d-69bc-4483-8eef-e398fcf11c78.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "42d213a8-c2b2-46f1-88f0-fae581013378",
+      "season": 1,
+      "number": 1,
+      "name": "Murder Means Never Having to Say You're Sorry",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ef2e9995-087a-468a-bfaa-37afee8e016b",
+      "season": 1,
+      "number": 2,
+      "name": "I'd Like to Kill Ya, But I Just Washed My Hair",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f23e5ac5-ddca-464c-9478-ffdf43a5cbd3",
+      "season": 1,
+      "number": 3,
+      "name": "I Killed Everyone He Did, But Backwards and In High Heels",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4a43baff-c231-46fd-9279-158f63ac8d72",
+      "season": 1,
+      "number": 4,
+      "name": "You Had Me at Homicide",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5e19149d-ecf1-4499-9803-f6dee59a46a2",
+      "season": 1,
+      "number": 5,
+      "name": "There's No Crying in Murder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "18abf6b7-03c4-4df7-b85e-3544e3e390aa",
+      "season": 1,
+      "number": 6,
+      "name": "Practically Lethal in Every Way",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2334c3ff-dd57-452c-8df6-4f5304beabff",
+      "season": 1,
+      "number": 7,
+      "name": "I Found Out What The Secret To Murder Is: Friends. Best Friends.",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b37dae85-1e04-4115-81ba-55986af3efd6",
+      "season": 1,
+      "number": 8,
+      "name": "Marriages Don't Break Up On Account Of Murder - It's Just A Symptom That Something Else Is Wrong",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "878c2fe7-754f-45e4-8df1-6e442daba3ba",
+      "season": 1,
+      "number": 9,
+      "name": "I Was Just Wondering What Makes Dames Like You So Deadly",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f1db6144-822c-4dac-a2e9-3c02f8e0ac17",
+      "season": 1,
+      "number": 10,
+      "name": "Kill Me As If It Were the Last Time",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4b1d5bfc-ddb5-485c-acd0-2038d2969e43",
+      "season": 2,
+      "number": 1,
+      "name": "Secret Beyond The Door",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "9c5828f4-fe23-40fe-b648-2f766bd42554",
+      "season": 2,
+      "number": 2,
+      "name": "The Woman In The Window",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "ec29fc48-94e9-47e1-a941-486b3e2de94c",
+      "season": 2,
+      "number": 3,
+      "name": "Lady In The Lake",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "b36118d6-0f7c-48cb-b8b4-ef7e738141d4",
+      "season": 2,
+      "number": 4,
+      "name": "Scene Of The Crime",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "7a738b11-873d-4499-89cb-d2ea24d1e7d8",
+      "season": 2,
+      "number": 5,
+      "name": "They Made Me A Killer",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "1fea3940-a9ef-43ac-815c-68c3dfbaaa4b",
+      "season": 2,
+      "number": 6,
+      "name": "Dangerous Intruder",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "2b5e1a26-5b72-4529-937b-c8f1c36b3f1f",
+      "season": 2,
+      "number": 7,
+      "name": "The Woman in Question",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "f037b0c9-0ada-4ecb-9ec2-fcf119a5d6d9",
+      "season": 2,
+      "number": 8,
+      "name": "Murder, My Sweet",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "e760dfa0-533f-408a-aac3-1887094db8f2",
+      "season": 2,
+      "number": 9,
+      "name": "The Unguarded Moment",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "d225f18d-171a-4462-a83c-8e361b522f13",
+      "season": 2,
+      "number": 10,
+      "name": "The Lady Confesses",
+      "airdate": "2022-06-03"
+    }
+  ]
+}

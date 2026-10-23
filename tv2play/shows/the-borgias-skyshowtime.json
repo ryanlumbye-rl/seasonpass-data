@@ -98,6 +98,13 @@
       "airdate": "2021-07-01"
     },
     {
+      "id": "2ae7dd46-b5bf-4fda-9671-daa1c3bc1a1a",
+      "season": 2,
+      "number": 5,
+      "name": "Valget",
+      "airdate": "2021-07-01"
+    },
+    {
       "id": "1767685b-62d8-4274-9d49-0770c7a5d44f",
       "season": 2,
       "number": 6,
@@ -202,5 +209,7 @@
       "name": "Prinsen",
       "airdate": "2021-07-01"
     }
-  ]
+  ],
+  "description": "Jeremy Irons har hovedrollen i den episke The Borgias, som er et fængslende drama om verdens mest magtfulde og berygtede familie.",
+  "image": "https://cdn-play.tv2i.dk/a610401d-a14d-499a-b66b-60e079eb0e39.png?auto=format%2Ccompress&fm=webp&rect=759%2C0%2C2490%2C1400&w=1280"
 }

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:en-droem-til-milliarder-tvsyd",
+  "name": "En drøm til milliarder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nok er nok. På Nordals er rigmænd og borgere blevet enige om at vende årtiers tilbagegang med et kæmpe resort til 1,7 milliarder kroner.",
+  "image": "https://cdn-play.tv2i.dk/41e98fd4-cf42-4427-8149-78afcb254e50.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "c386c280-ac6c-4a41-be5e-ef8009227128",
+      "season": 1,
+      "number": 1,
+      "name": "Hvorfor et resort på Nordals?",
+      "airdate": "2025-06-14"
+    },
+    {
+      "id": "010f7f54-b0e9-4e02-93a3-d0703ffe821e",
+      "season": 1,
+      "number": 2,
+      "name": "Drømmen bygges",
+      "airdate": "2025-06-21"
+    },
+    {
+      "id": "6b935928-f7fc-4209-ac60-3d10fee63c93",
+      "season": 1,
+      "number": 3,
+      "name": "Målet er i sigte",
+      "airdate": "2025-06-28"
+    },
+    {
+      "id": "a6247bf0-77e5-4c3a-bef3-d52942a7a20d",
+      "season": 1,
+      "number": 4,
+      "name": "Glade gæster = et bedre Nordborg",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "e959fbba-a610-48bb-87a6-ae652c423847",
+      "season": 1,
+      "number": 5,
+      "name": "Striftorte",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "62685f10-caaf-4b55-957a-162592798f1b",
+      "season": 1,
+      "number": 6,
+      "name": "Lykkedes vi?",
+      "airdate": "2025-10-18"
+    }
+  ]
+}

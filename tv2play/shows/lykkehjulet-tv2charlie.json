@@ -1,0 +1,299 @@
+{
+  "id": "tv2play:lykkehjulet-tv2charlie",
+  "name": "Lykkehjulet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Gæt med, når Mikkel Kryger spinner 'Lykkehjulet', og quizglade danskere står klar til at løse drilske ordgåder",
+  "image": "https://cdn-play.tv2i.dk/7a2a0b3c-9bbc-43bd-90e7-f322acdac15d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C4080%2C2267&w=1280",
+  "episodes": [
+    {
+      "id": "aee83d30-dc18-49bb-8651-8408ab804667",
+      "season": 5,
+      "number": 1,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-09-19"
+    },
+    {
+      "id": "3826244c-71b5-4049-b8d0-76cb88ae7664",
+      "season": 5,
+      "number": 2,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3a2117af-c02f-4d56-8c6c-07eb6b854530",
+      "season": 5,
+      "number": 3,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-09-21"
+    },
+    {
+      "id": "b5b66d51-c503-453b-a33f-6f66a42db0fd",
+      "season": 5,
+      "number": 4,
+      "name": "Ugefinale",
+      "airdate": "2022-09-22"
+    },
+    {
+      "id": "2b57a08d-b394-48c4-8d59-5dfff4d6f5ac",
+      "season": 5,
+      "number": 5,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-09-26"
+    },
+    {
+      "id": "f848d118-00cf-439a-bcc8-a1c3c608e2d8",
+      "season": 5,
+      "number": 6,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-09-27"
+    },
+    {
+      "id": "3beca44f-b435-4db1-8460-dad2d1b842b6",
+      "season": 5,
+      "number": 7,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-09-28"
+    },
+    {
+      "id": "9c3d8b79-83c0-48f8-b2f1-d98548ac6e03",
+      "season": 5,
+      "number": 8,
+      "name": "Ugefinale",
+      "airdate": "2022-09-29"
+    },
+    {
+      "id": "2bb585d3-e176-49d3-8043-1ef30a91006f",
+      "season": 5,
+      "number": 9,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-10-03"
+    },
+    {
+      "id": "42cbeb0a-bbaf-4645-ae98-2dae2353f574",
+      "season": 5,
+      "number": 10,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-10-04"
+    },
+    {
+      "id": "b34e8eab-6446-4dc2-b152-771f0e031a14",
+      "season": 5,
+      "number": 11,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2022-10-05"
+    },
+    {
+      "id": "c228267f-3f81-4ea1-a875-83f319def98e",
+      "season": 5,
+      "number": 12,
+      "name": "Ugefinale",
+      "airdate": "2022-10-06"
+    },
+    {
+      "id": "97266180-d708-4f39-9d5c-3f22eb28c5f4",
+      "season": 5,
+      "number": 13,
+      "name": "I den gode sags tjeneste",
+      "airdate": "2022-10-24"
+    },
+    {
+      "id": "4a1b93f6-2952-4fd3-adc0-41dcdc41449d",
+      "season": 5,
+      "number": 14,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-02"
+    },
+    {
+      "id": "437eddba-7381-486a-91ec-57a5f4da57be",
+      "season": 5,
+      "number": 15,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-03"
+    },
+    {
+      "id": "b8e0c0a9-1d25-402d-8f76-ad257c3a9290",
+      "season": 5,
+      "number": 16,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-04"
+    },
+    {
+      "id": "19030dc7-e741-4b22-966a-efec5ff97ddf",
+      "season": 5,
+      "number": 17,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-05"
+    },
+    {
+      "id": "52100498-d170-48a9-9017-268e2b05d7e1",
+      "season": 5,
+      "number": 18,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-09"
+    },
+    {
+      "id": "8bb86cca-5c3c-4774-8246-d84fbe606e73",
+      "season": 5,
+      "number": 19,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-10"
+    },
+    {
+      "id": "6f1dee8a-ff34-41ce-b2fd-9dc3bb478ef4",
+      "season": 5,
+      "number": 20,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-11"
+    },
+    {
+      "id": "aa5e0b8c-0734-45ab-8ad6-07061d3dd35a",
+      "season": 5,
+      "number": 21,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-12"
+    },
+    {
+      "id": "1f3bdea1-35b5-4843-b31a-b013dc9e751c",
+      "season": 5,
+      "number": 22,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-16"
+    },
+    {
+      "id": "741ebda3-e220-42d3-8a48-d7f04a6a6a8d",
+      "season": 5,
+      "number": 23,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-17"
+    },
+    {
+      "id": "31bb035a-8b25-43e9-92e7-ef84d84aa8ac",
+      "season": 5,
+      "number": 24,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-18"
+    },
+    {
+      "id": "d86cfb05-ef89-467d-82a5-6df7f4d36578",
+      "season": 5,
+      "number": 25,
+      "name": "Kendte gæster dyster om penge til et godt formål",
+      "airdate": "2023-01-19"
+    },
+    {
+      "id": "3510ddbb-a1b3-41ab-8d5d-5e54c30a8abe",
+      "season": 5,
+      "number": 26,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-01-23"
+    },
+    {
+      "id": "d4819ca7-37b6-4f8c-bef6-3fa7b89fe1b3",
+      "season": 5,
+      "number": 27,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-01-24"
+    },
+    {
+      "id": "a18b2e8f-bed0-46d5-a9be-abd95e76b41b",
+      "season": 5,
+      "number": 28,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-01-25"
+    },
+    {
+      "id": "1899f487-6658-4b29-903b-997ac24b3bbf",
+      "season": 5,
+      "number": 29,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-01-26"
+    },
+    {
+      "id": "ef3eb7ca-3cb6-4c21-be56-a2a1e7eb0ca1",
+      "season": 5,
+      "number": 30,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-01-30"
+    },
+    {
+      "id": "ede81a4b-0440-4cab-a37a-2c1b3eb4f358",
+      "season": 5,
+      "number": 31,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-01-31"
+    },
+    {
+      "id": "ad1b737f-232c-4b79-8eeb-63d85bdd9866",
+      "season": 5,
+      "number": 32,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-02-01"
+    },
+    {
+      "id": "203600fd-4174-458e-9ebc-668076f2d0b4",
+      "season": 5,
+      "number": 33,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-02-02"
+    },
+    {
+      "id": "71434ec0-ed4c-41d3-9dc6-aeb78cd1ea70",
+      "season": 5,
+      "number": 34,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "e1c526a1-b5d3-4dbe-aedc-5256f4d976e0",
+      "season": 5,
+      "number": 35,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-02-07"
+    },
+    {
+      "id": "19b7861b-e430-4279-97fa-d19db4ec8530",
+      "season": 5,
+      "number": 36,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-02-08"
+    },
+    {
+      "id": "be60cfb3-8e69-4f30-bbfc-278fc9b4233b",
+      "season": 5,
+      "number": 37,
+      "name": "Ugefinalen",
+      "airdate": "2023-02-09"
+    },
+    {
+      "id": "da2ffca6-9f65-4cba-aec6-85e4ceb48db7",
+      "season": 5,
+      "number": 38,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-02-13"
+    },
+    {
+      "id": "9ac53f09-c20b-4164-82e9-0de7799e036b",
+      "season": 5,
+      "number": 39,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-02-14"
+    },
+    {
+      "id": "8117d746-9568-4a8d-8daf-2a0287f59547",
+      "season": 5,
+      "number": 40,
+      "name": "Konsonanter, vokaler og flotte præmier",
+      "airdate": "2023-02-15"
+    },
+    {
+      "id": "3d8ec248-939c-4b4c-a60e-de0e973a2b6a",
+      "season": 5,
+      "number": 41,
+      "name": "Ugefinale",
+      "airdate": "2023-02-16"
+    }
+  ]
+}

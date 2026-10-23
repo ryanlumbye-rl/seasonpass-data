@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:star-trek-starfleet-academy-tv2play",
+  "name": "Star Trek: Starfleet Academy",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": "https://cdn-play.tv2i.dk/7ca36d6f-c00f-4cda-8c56-b28350ec8e02.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "376b9dad-14f7-4944-8a7a-52abce44c80c",
+      "season": 1,
+      "number": 1,
+      "name": "Kids These Days",
+      "airdate": "2026-02-05"
+    },
+    {
+      "id": "9a9991bf-f415-41c0-89c1-68de0c457425",
+      "season": 1,
+      "number": 2,
+      "name": "Beta Test",
+      "airdate": "2026-02-05"
+    },
+    {
+      "id": "c1197687-2207-4e42-a1d2-42722bd58b12",
+      "season": 1,
+      "number": 3,
+      "name": "Vitus Reflux",
+      "airdate": "2026-02-12"
+    },
+    {
+      "id": "7dbac4f2-e527-4de6-81df-2377301989d0",
+      "season": 1,
+      "number": 4,
+      "name": "Vox in Excelso",
+      "airdate": "2026-02-19"
+    },
+    {
+      "id": "0c35d7d3-60d8-47ae-a0f8-fd7209979cdb",
+      "season": 1,
+      "number": 5,
+      "name": "Series Acclimation Mil",
+      "airdate": "2026-02-26"
+    },
+    {
+      "id": "9d2792ec-2824-450a-b7f9-efdf3d43402b",
+      "season": 1,
+      "number": 6,
+      "name": "Come, Let's Away",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "88539f46-c6a6-41ea-adb2-df7dfec7dd59",
+      "season": 1,
+      "number": 7,
+      "name": "Ko'Zeine",
+      "airdate": "2026-03-12"
+    },
+    {
+      "id": "0dcebd3b-72dd-4132-8e43-b5e2ef640b54",
+      "season": 1,
+      "number": 8,
+      "name": "The Life of the Stars",
+      "airdate": "2026-03-19"
+    },
+    {
+      "id": "40b3a92a-df58-4c40-a360-42b4a96f3be2",
+      "season": 1,
+      "number": 9,
+      "name": "300th Night",
+      "airdate": "2026-03-26"
+    },
+    {
+      "id": "4b96b85f-2aa5-42f3-a2a3-b6fbf825237e",
+      "season": 1,
+      "number": 10,
+      "name": "Rubicon",
+      "airdate": "2026-04-02"
+    }
+  ]
+}

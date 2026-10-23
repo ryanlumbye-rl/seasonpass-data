@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:jagten-paa-den-forsvundne-verden-tv2",
+  "name": "Jagten på den forsvundne verden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Gemt i det ufremkommelige West Papua lever urfolkene fjernt fra den vestlige verden. Engang var de kannibaler og bekrigede hinanden. Nu vil eventyrerne Ole Bendtzen og Christoffer Knuth finde ud af, hvad der tilbage af deres barske fortid.",
+  "image": "https://cdn-play.tv2i.dk/794c0ff0-b132-45dd-ba19-4b5396096471.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "9b06bae3-b05b-44e7-a707-e2a68e3a0128",
+      "season": 1,
+      "number": 1,
+      "name": "Krigerstammens mumie",
+      "airdate": "2024-10-17"
+    },
+    {
+      "id": "d276230f-9a45-4397-b19f-b10c019fc205",
+      "season": 1,
+      "number": 2,
+      "name": "Kannibalhøvdingen i bjergene",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "ad0dce9b-9281-4709-b314-419e5a6c5870",
+      "season": 1,
+      "number": 3,
+      "name": "Junglens onde ånd",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "fee30ea0-324b-46e1-817b-f0743d4ee60e",
+      "season": 1,
+      "number": 4,
+      "name": "Hovedjægernes land",
+      "airdate": "2024-11-07"
+    }
+  ]
+}

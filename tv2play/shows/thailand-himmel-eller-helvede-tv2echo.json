@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:thailand-himmel-eller-helvede-tv2echo",
+  "name": "Thailand - himmel eller helvede?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Zara McDermott rejser til Thailand for at udforske et paradis med to ansigter – fra gyldne strande og idyllisk natur til en skjult, mørkere verden af natteliv og fristelser. En rejse, der afslører sandheder bag postkortfacaden.",
+  "image": "https://cdn-play.tv2i.dk/56e088fb-e2c5-46dc-a426-d11f31e8feed.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C4240%2C2385&w=1280",
+  "episodes": [
+    {
+      "id": "24f30af0-3d88-4313-b03e-3fd8e3305bb3",
+      "season": 1,
+      "number": 1,
+      "name": "I problemer",
+      "airdate": "2026-02-02"
+    },
+    {
+      "id": "c4296f6f-520a-453c-aaca-d0ef59f7d36b",
+      "season": 1,
+      "number": 2,
+      "name": "Spirituel skønhed",
+      "airdate": "2026-02-09"
+    },
+    {
+      "id": "01172786-283d-4b12-bdaf-0628085c694a",
+      "season": 1,
+      "number": 3,
+      "name": "Det luksuriøse liv",
+      "airdate": "2026-02-16"
+    }
+  ]
+}

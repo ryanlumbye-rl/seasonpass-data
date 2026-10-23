@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:skyland-tv2echo",
+  "name": "Skyland",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 ECHO besøger søskendeparret Bjørn og Josefine, der både kæmper mod tiden og coronapandemien for at realisere deres store drøm om at lave Danmarks svar på Ibiza i den lille nordjyske by Øster Hurup.",
+  "image": "https://cdn-play.tv2i.dk/81b90068-35ab-47c7-ace7-02ccd3fb1ce6.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "c14f6742-68fd-4efa-99e2-9f72f9e0fd25",
+      "season": 1,
+      "number": 1,
+      "name": "The sky is the limit",
+      "airdate": "2020-09-23"
+    },
+    {
+      "id": "9b177e07-2913-4c5a-8f9b-aa30f8c537e9",
+      "season": 1,
+      "number": 2,
+      "name": "Kongerne af campingpladsen",
+      "airdate": "2020-09-23"
+    },
+    {
+      "id": "74fa8c5a-dd6a-41f5-8edc-8d395cdc39bf",
+      "season": 1,
+      "number": 3,
+      "name": "Åbningsdagen fra helvede",
+      "airdate": "2020-09-30"
+    },
+    {
+      "id": "1286ba62-8c27-416a-823e-edb2d3290f8a",
+      "season": 1,
+      "number": 4,
+      "name": "'FUCK CORONA'",
+      "airdate": "2020-10-07"
+    },
+    {
+      "id": "98cd347a-1562-4f68-ab28-7e6c69ca9a44",
+      "season": 1,
+      "number": 5,
+      "name": "Shitstorm eller shut down?",
+      "airdate": "2020-10-14"
+    }
+  ]
+}

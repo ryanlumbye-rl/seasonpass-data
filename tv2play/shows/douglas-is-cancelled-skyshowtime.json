@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:douglas-is-cancelled-skyshowtime",
+  "name": "Douglas is Cancelled",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Douglas Bellowes er et højt respekteret nyhedsanker på showet \"Live at Six\". Han nyder en privilegeret tilværelse og betragtes som en national skat. Det vil sige, indtil en sexistisk joke, han fortæller ved sin fætters bryllup, bliver lækket på sociale medier. Er det enden på hans karriere?.",
+  "image": "https://cdn-play.tv2i.dk/113f4e7d-803e-4a64-9fb8-47410caa04a6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d0a319ef-c131-49d2-b385-13ae40414262",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-09-05"
+    },
+    {
+      "id": "f24a1445-c15d-41f4-b005-941432b5411b",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-09-05"
+    },
+    {
+      "id": "73b22d3c-94c5-441b-9047-cf8a7d43737a",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-09-05"
+    },
+    {
+      "id": "16608684-3b67-4cf6-a7e1-a8461d49df49",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-09-05"
+    }
+  ]
+}

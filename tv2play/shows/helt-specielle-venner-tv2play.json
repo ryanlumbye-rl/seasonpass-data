@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:helt-specielle-venner-tv2play",
+  "name": "Helt specielle venner",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lykkecup er Lykkeligas svar på EM i håndbold. Det er årets store mål for de helt særlige venner Mohammed og Mads – og ikke mindst træneren Karsten. De går til alt med stor tro på tingene.",
+  "image": "https://cdn-play.tv2i.dk/f2dc18cb-b906-4756-97de-ad7bc39cad6c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "d401eebb-3214-47fb-8625-f9ad1a84872b",
+      "season": 1,
+      "number": 1,
+      "name": "Fritid og venskab",
+      "airdate": "2026-01-23"
+    },
+    {
+      "id": "7c456bd8-80b0-4345-9bf3-28e02698bdac",
+      "season": 1,
+      "number": 2,
+      "name": "Træneren Karsten",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "3b276d00-c521-48e9-b006-9e626048c7db",
+      "season": 1,
+      "number": 3,
+      "name": "Den store finale",
+      "airdate": "2026-02-06"
+    }
+  ]
+}

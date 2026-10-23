@@ -2,9 +2,11 @@
   "id": "tv2play:24-timer-paa-skadestuen-tv2",
   "name": "24 timer på skadestuen",
   "service": "tv2",
-  "status": "Running",
+  "status": "Unknown",
   "tmdbId": null,
-  "next": "2026-10-26",
+  "next": null,
+  "description": "Kom tæt på den hektiske hverdag på skadestuen St. George i det sydvestlige London, der er en af Englands travleste hospitalsafdelinger.",
+  "image": "https://cdn-play.tv2i.dk/280d3b1b-c37c-4fa0-8090-2b9966fcea2f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C849%2C477&w=1280",
   "episodes": [
     {
       "id": "8228ebf3-220c-4987-a63b-42148a205ead",

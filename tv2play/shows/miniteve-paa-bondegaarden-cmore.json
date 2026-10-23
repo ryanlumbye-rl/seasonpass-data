@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "En samling af små kortfilm for de yngste børn i alderen 1-4 år. Filmene er enkle, lærerige og underholdende.",
+  "image": "https://cdn-play.tv2i.dk/c95a6a91-09cc-42f7-8354-609c0364791b.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2200%2C1238&w=1280",
   "episodes": [
     {
       "id": "81e74c50-3b3f-4701-af3a-4a9d2b9bee0b",

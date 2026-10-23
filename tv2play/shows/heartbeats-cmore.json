@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Svensk dramaserie baseret på den norske seersucces af samme navn. Mio og Anders står over for en altafgørende beslutning efter en uskyldig flirt.",
+  "image": "https://cdn-play.tv2i.dk/40ca62d5-cd17-42d4-8b3a-c4f9011280ea.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "af995a5d-1845-411e-83b7-024706f45223",

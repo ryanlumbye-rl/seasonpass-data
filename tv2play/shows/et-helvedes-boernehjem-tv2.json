@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:et-helvedes-boernehjem-tv2",
+  "name": "Et helvedes børnehjem",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Børn er blevet udsat for vold og magt af voksne på døgninstitutionen Nexus i årevis. Det erkender flere tidligere ansatte, der nu står frem. TV 2 Dokumentar har talt med 34 tidligere anbragte børn og 21 tidligere ansatte. Samlet tegnes et rystende billede.",
+  "image": "https://cdn-play.tv2i.dk/1300dced-1d60-434a-b7f9-9bcd2cc36259.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "be4216ea-6d76-4340-8d0f-3fcd3bb9eb3b",
+      "season": 1,
+      "number": 1,
+      "name": "Spark i hovedet",
+      "airdate": "2024-03-13"
+    },
+    {
+      "id": "aca82c21-584c-440b-b884-195fbe4604a0",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad vidste ledelsen?",
+      "airdate": "2024-03-20"
+    }
+  ]
+}

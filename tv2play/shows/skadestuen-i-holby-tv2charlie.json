@@ -5,16 +5,11 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Følg de ansatte og patienterne på skadestuen i byen Holby City, hvor liv og død er en del af deres hverdag.",
+  "image": "https://cdn-play.tv2i.dk/943a5bea-0938-4c31-b03f-7d275cfb26f7.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "bb6e6cbf-fdea-4b7c-a7e2-6c3175d393dd",
-      "season": 34,
-      "number": 36,
-      "name": "Liv og død i hverdagen",
-      "airdate": "2021-12-27"
-    },
-    {
-      "id": "20bb8baa-5d7e-4ff3-8c89-3e5a3d528de7",
       "season": 34,
       "number": 36,
       "name": "Liv og død i hverdagen",
@@ -47,6 +42,13 @@
       "number": 40,
       "name": "Liv og død i hverdagen",
       "airdate": "2021-12-29"
+    },
+    {
+      "id": "004cfa83-67f5-491b-b0e8-6daf8718b9d0",
+      "season": 34,
+      "number": 42,
+      "name": "Liv og død i hverdagen",
+      "airdate": "2021-12-30"
     }
   ]
 }

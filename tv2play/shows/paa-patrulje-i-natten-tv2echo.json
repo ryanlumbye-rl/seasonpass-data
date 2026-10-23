@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:paa-patrulje-i-natten-tv2echo",
+  "name": "På patrulje i natten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Britisk serie om natpatruljens betjente, der håndterer alt lige fra natklubslagsmål og narkotikaanholdelser til forsvundne personer og seksuelle overgreb. Vi er med betjentene på job fra solnedgang til daggry og oplever deres arbejde gennem virkelige hændelser og overvågningskameraer.",
+  "image": "https://cdn-play.tv2i.dk/561c9d9e-ada3-4033-98d0-6fad22a26aa8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ea70d3cf-bcc6-444c-8b4b-85dc4774009b",
+      "season": 2,
+      "number": 7,
+      "name": "Velkommen til junglen",
+      "airdate": "2025-09-18"
+    },
+    {
+      "id": "18cba51b-74c6-4bfe-838e-e3256df03533",
+      "season": 2,
+      "number": 8,
+      "name": "Jeg elsker mit arbejde",
+      "airdate": "2025-09-25"
+    },
+    {
+      "id": "0b99b535-d46b-4fea-9172-bc4418f8866b",
+      "season": 2,
+      "number": 9,
+      "name": "Jeg kan ikke huske, jeg har gjort det",
+      "airdate": "2025-10-02"
+    },
+    {
+      "id": "00019a1d-f9ed-420e-9528-e791ba3d759c",
+      "season": 2,
+      "number": 10,
+      "name": "Højdepunkter på jobbet",
+      "airdate": "2025-10-09"
+    },
+    {
+      "id": "c5fae32c-bae3-406d-92a9-9265fade881c",
+      "season": 2,
+      "number": 11,
+      "name": "En typisk fredag aften",
+      "airdate": "2025-10-16"
+    },
+    {
+      "id": "7135d340-6132-45db-8396-db5efc3433a8",
+      "season": 2,
+      "number": 12,
+      "name": "Jeg er vild med det her",
+      "airdate": "2025-10-23"
+    }
+  ]
+}

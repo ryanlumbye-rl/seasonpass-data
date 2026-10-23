@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:fotovognen-kommunalvalg-tv2play",
+  "name": "Fotovognen - kommunalvalg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fotovognen har fået til opgave at arrangere en fest på selve valgaftenen. Anders, Line og Vibeke tager ud for møde mennesker, skaffe gæster og underholdning.",
+  "image": "https://cdn-play.tv2i.dk/8d6dd7c8-c0f1-4734-91c9-93db875358e7.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "00d58842-6760-43a2-93dd-9bf946e38f04",
+      "season": 1,
+      "number": 1,
+      "name": "Fotovognen i festhumør",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "e303d7b0-62b4-4484-94b2-da7c3c562632",
+      "season": 1,
+      "number": 2,
+      "name": "Fotovognen i festhumør",
+      "airdate": "2025-11-16"
+    }
+  ]
+}

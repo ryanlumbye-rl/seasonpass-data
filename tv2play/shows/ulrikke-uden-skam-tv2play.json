@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:ulrikke-uden-skam-tv2play",
+  "name": "Ulrikke uden skam",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "'SKAM'-stjernen Ulrikke Falch lever på overfladen det perfekte liv, men en personlig krise sender hende til Danmark, hvor hun vil kickstarte sit liv og lære at stå på egne ben",
+  "image": "https://cdn-play.tv2i.dk/4905e309-9406-41d6-ac17-bdb534435817.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "053470c8-3653-4649-9d6c-235206370135",
+      "season": 1,
+      "number": 1,
+      "name": "Indhentet af fortiden",
+      "airdate": "2023-05-22"
+    },
+    {
+      "id": "0784ef25-0626-4664-a673-1a1a78c0eac3",
+      "season": 1,
+      "number": 2,
+      "name": "Sjæl til salg",
+      "airdate": "2023-05-29"
+    },
+    {
+      "id": "89a3d276-dc52-443f-afa3-2660242a97fd",
+      "season": 1,
+      "number": 3,
+      "name": "Lette penge - et svært valg",
+      "airdate": "2023-05-29"
+    },
+    {
+      "id": "f664bfab-4dc0-4083-a086-3d8d35c6b6fc",
+      "season": 1,
+      "number": 4,
+      "name": "Berømmelsens bagside",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "e0d618c6-4c0a-4a13-8f75-a0b26a186a4e",
+      "season": 1,
+      "number": 5,
+      "name": "Et nyt liv",
+      "airdate": "2023-06-05"
+    }
+  ]
+}

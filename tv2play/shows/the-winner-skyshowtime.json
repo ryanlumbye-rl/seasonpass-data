@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:the-winner-skyshowtime",
+  "name": "The Winner",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da den mest magtfulde mand i Slovakiet mister sin politiske karriere og position som premierminister, forsøger han at vende tilbage til et 'normalt' liv og genvinde magten i sin egen familie. Men han indser snart, at de heller ikke har brug for ham mere",
+  "image": "https://cdn-play.tv2i.dk/a8956fd9-6ea3-4ee2-96f8-9590fcc78f89.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1c4b5804-a138-4141-b21a-945b015a2d3a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-09-04"
+    },
+    {
+      "id": "f1565344-a4c6-4460-b657-886de3d53fc0",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-09-11"
+    },
+    {
+      "id": "15cca1b4-1dd8-4be3-8625-71c40077ec4f",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "ab9d6777-6663-4575-a271-66183b52159c",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-09-25"
+    },
+    {
+      "id": "707cda10-af19-4953-a160-10a03d58235d",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-10-02"
+    },
+    {
+      "id": "9b211310-6d30-4f7f-a11b-57b8df6035ce",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-10-09"
+    }
+  ]
+}

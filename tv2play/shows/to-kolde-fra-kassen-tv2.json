@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:to-kolde-fra-kassen-tv2",
+  "name": "To kolde fra kassen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Der er død og glade dage i den lille bedemandsforretning på Amager. Her drikker bedemændene Søren og Simon Riber, som er far og søn, gerne en øl med de pårørende, hvis det kan hjælpe i en svær tid. Reportageserie i tre afsnit.",
+  "image": "https://cdn-play.tv2i.dk/de948b40-40af-48f9-a71d-4dc6ba642b90.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "22b239df-ee4e-4289-bb06-7fae6766790d",
+      "season": 1,
+      "number": 1,
+      "name": "Det ene ben i graven",
+      "airdate": "2024-04-16"
+    },
+    {
+      "id": "2661444f-7846-487f-8d72-02691911e98e",
+      "season": 1,
+      "number": 2,
+      "name": "En tur på pubben",
+      "airdate": "2024-04-23"
+    },
+    {
+      "id": "291a470d-912c-4119-8545-a710ef3d3eac",
+      "season": 1,
+      "number": 3,
+      "name": "Simons store chance",
+      "airdate": "2024-04-30"
+    }
+  ]
+}

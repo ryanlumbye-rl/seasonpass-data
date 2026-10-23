@@ -1,0 +1,376 @@
+{
+  "id": "tv2play:downton-abbey-skyshowtime",
+  "name": "Downton Abbey",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tjenestefolket i underetagens og den aristokratiske Crawley-families krydsende liv i det edvardianske gods på landet i Yorkshire.",
+  "image": "https://cdn-play.tv2i.dk/880f7a57-6500-46a9-b13e-780e18a27161.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d080c1a2-2d00-45bd-b261-b13718d6786e",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "fb498cc4-3c2a-42ed-a1ea-54f33f389319",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "47383ef3-1174-4576-8508-fbe43fbf93f5",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e79fd4fe-a875-454d-b6df-618a2325951e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7cf0783f-311a-4300-a8bc-66438dcd0f5a",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "09e2c434-e160-44c4-b690-5076272461bc",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2f479e05-9b17-4e7e-a2fc-2ddfc86ee335",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "01f566fe-5593-4531-a681-2d4c841c8827",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5ac10c40-b654-4d0f-85d3-5f80d1bb8be9",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0221a8a2-fe47-4f50-a02f-6e0bcbb9a7cf",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2c62fce1-a300-4aae-aa69-f7e7b7a65c47",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "45613842-7d54-41c6-a35a-6efe6da319f9",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0fdba383-846e-46ff-9218-9130613fe54f",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b8238ebe-d2d0-473c-a337-f50ff2e7782c",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "519537c9-de96-42e2-94a7-55f22d17c538",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d396209a-550a-47f4-8fe9-ca9684c1128d",
+      "season": 2,
+      "number": 9,
+      "name": "Christmas at Downton Abbey",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c3aa7f04-6b7a-4eba-979b-57ab3d952e64",
+      "season": 3,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ebd4fc91-c871-4b37-9f89-e589fb864dc4",
+      "season": 3,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c6bebd70-3f46-45f8-b1d3-86031a68232c",
+      "season": 3,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ba0e651f-4421-4c60-b333-98aa97afa63a",
+      "season": 3,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "50fbcf0c-0464-450b-8b3e-8a57008773e4",
+      "season": 3,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c7d909db-e450-476a-a473-07259e9bd03b",
+      "season": 3,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "67d8c8dd-1156-4e0f-99c6-6be8ce1f00ed",
+      "season": 3,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "32346abd-316a-421f-941f-a455180ace7c",
+      "season": 3,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c1d9b4df-768c-4cfa-8176-020950335049",
+      "season": 3,
+      "number": 9,
+      "name": "A Journey to the Highlands",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e3c4a69e-4b38-4319-a08a-ce756817748c",
+      "season": 4,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "18028a75-1da6-4ffe-9bd8-25766a4d6720",
+      "season": 4,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "586395de-62c3-4cf4-8959-499c99fdd4d6",
+      "season": 4,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e51ce58e-2257-4501-8789-c5d4e452b5ef",
+      "season": 4,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "30d0f4e7-4ce5-48ef-829f-28f14ac21f02",
+      "season": 4,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1186f1cb-c432-4154-9ea6-1c2a691a9665",
+      "season": 4,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "fc3c2f6a-4d40-4877-8ec2-caad899fcc30",
+      "season": 4,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "980f3685-062e-4463-9a0f-11f5e9aaec27",
+      "season": 4,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0e4b5208-f595-4934-8252-c0a184d27793",
+      "season": 4,
+      "number": 9,
+      "name": "The London Season",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8fa03709-009e-4ce7-b58d-1d22a4bfa5b6",
+      "season": 5,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b36a6e2e-d0d7-4450-a2cc-a4c024964ecb",
+      "season": 5,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f40cad5f-83d0-4bc0-9ba4-daa5bb34802f",
+      "season": 5,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ee7c2724-001d-45aa-b96d-40cdf9ddfbd8",
+      "season": 5,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a41ea33b-f1bc-465a-b911-ae4c013cc1e3",
+      "season": 5,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9be3dbfa-2fd7-4d1e-a0e0-5f44e8ef2493",
+      "season": 5,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4666e7e7-98e7-4732-be7d-105f80d4d118",
+      "season": 5,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "aef2d465-26a8-4612-8015-dfdfb5238600",
+      "season": 5,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9c0b048f-85db-4de5-8577-0247c98917cc",
+      "season": 5,
+      "number": 9,
+      "name": "A Moorland Holiday",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "86f38754-e096-41f8-8721-165ea5934458",
+      "season": 6,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9b310dd7-330f-4096-b57c-3b68502ef0ee",
+      "season": 6,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "82101009-7079-4681-afe1-4a5edc890792",
+      "season": 6,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0ef54e1d-908f-41d8-b756-78036a2f4c5e",
+      "season": 6,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4015dde0-b0db-4bc0-88fb-578d40d08125",
+      "season": 6,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e4a2fadd-88fc-4d5b-9efa-6cadb5ac68b9",
+      "season": 6,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "13e4b27c-24a8-4353-8f1e-c8df81e108f0",
+      "season": 6,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7f44d4c0-c5e8-4d8a-89cb-3eaecfb0e592",
+      "season": 6,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2651c0e9-049e-4c20-8330-d5928d0351e3",
+      "season": 6,
+      "number": 9,
+      "name": "The Finale",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

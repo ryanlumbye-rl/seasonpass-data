@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:zulu-surprise-tv2play",
+  "name": "Zulu Surprise",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det er crazy, overraskende og sindssygt, når intetanende ZULU-seere bliver fuppet godt og grundigt af kendte danskere og udsat for de vildeste skjult kamera pranks. Det er ZULU Surprise!",
+  "image": "https://cdn-play.tv2i.dk/2530d299-cbae-4585-b90e-ba7c490a680f.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "bb5aeb98-162e-4fcc-a1ac-a5f3607c3a2d",
+      "season": 1,
+      "number": 1,
+      "name": "En vild fest",
+      "airdate": "2021-11-08"
+    },
+    {
+      "id": "335ee4d7-7b4f-493c-81a5-ce9263e53176",
+      "season": 1,
+      "number": 2,
+      "name": "En episk bingoaften",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "3182494a-751d-48d7-a73b-819b786a8b74",
+      "season": 1,
+      "number": 3,
+      "name": "Haj-show og hundelorts-reklame",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "59d8fa3e-a75f-4fcb-84e5-a8713cf36926",
+      "season": 1,
+      "number": 4,
+      "name": "Vinen smager af menstruation",
+      "airdate": "2021-11-22"
+    },
+    {
+      "id": "37e5e9cf-4009-4b74-8015-bea8ed4e643e",
+      "season": 1,
+      "number": 5,
+      "name": "Baby-bonanza og komik i girafburet",
+      "airdate": "2021-12-06"
+    },
+    {
+      "id": "a7bf2b7d-1926-4a41-8409-b06096fa66e7",
+      "season": 1,
+      "number": 6,
+      "name": "Nye Natholdsværter og absurd parforholdsteater",
+      "airdate": "2021-12-14"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:nicki-bille-tv2echo",
+  "name": "Nicki Bille",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Efter at have afsonet sin fængselsstraf kommer Nicki Bille ud med ny energi og en accept af, at hans karriere som professionel fodboldspiller er slut. Men hvem er han uden fodbolden, og kan han konfrontere traumerne fra sin fortid uden at falde tilbage i gamle mønstre og et liv med kaos og misbrug?",
+  "image": "https://cdn-play.tv2i.dk/bced6af0-cc80-4ff6-a8be-7f6c4ae3dbbc.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "f576bd04-9bbf-4993-ba95-25a2e7a3f56f",
+      "season": 1,
+      "number": 1,
+      "name": "For min søns skyld",
+      "airdate": "2023-05-02"
+    },
+    {
+      "id": "9cb76f97-4c19-4d6a-a2c8-70887bdb7498",
+      "season": 1,
+      "number": 2,
+      "name": "Afgørelsens time",
+      "airdate": "2023-05-02"
+    },
+    {
+      "id": "2d12754e-6652-435c-9f04-a6e2cc7ba85a",
+      "season": 1,
+      "number": 3,
+      "name": "Alting er flyvende",
+      "airdate": "2020-04-01"
+    },
+    {
+      "id": "625d4e4c-3a35-4b63-a169-c3928b7c062b",
+      "season": 1,
+      "number": 4,
+      "name": "Hjemløs millionær",
+      "airdate": "2020-04-08"
+    },
+    {
+      "id": "54df4253-dc03-468c-8320-0f1cfcfadeaa",
+      "season": 1,
+      "number": 5,
+      "name": "Flygter",
+      "airdate": "2023-05-16"
+    },
+    {
+      "id": "abba7e9f-5196-4c66-be7a-a3c6583bcf38",
+      "season": 1,
+      "number": 6,
+      "name": "Nu kører antabussen",
+      "airdate": "2020-04-22"
+    },
+    {
+      "id": "b7af39bf-22ce-4b45-8e21-7adfb97c768b",
+      "season": 1,
+      "number": 7,
+      "name": "Fængsel eller fodlænke",
+      "airdate": "2023-05-16"
+    },
+    {
+      "id": "01518290-c1b3-489b-9f76-a0ef20d7c817",
+      "season": 2,
+      "number": 1,
+      "name": "En fri fugl",
+      "airdate": "2024-05-06"
+    },
+    {
+      "id": "30f65b45-09b5-4cff-beb3-0e8251ca9eca",
+      "season": 2,
+      "number": 2,
+      "name": "Nicki rammer muren",
+      "airdate": "2024-05-13"
+    },
+    {
+      "id": "79501aa1-6d20-401c-a0dc-6436cc86c121",
+      "season": 2,
+      "number": 3,
+      "name": "Barndomstraumer",
+      "airdate": "2021-06-14"
+    },
+    {
+      "id": "b33d67b4-3f57-4573-8bd6-64476d03f7bc",
+      "season": 2,
+      "number": 4,
+      "name": "Kampen mod misbruget",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "b12678d7-e202-47cc-b3f0-12e2e3c65e00",
+      "season": 2,
+      "number": 5,
+      "name": "Nye drømme",
+      "airdate": "2024-06-03"
+    }
+  ]
+}

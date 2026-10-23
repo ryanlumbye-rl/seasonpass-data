@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:suspekt-tv2echo",
+  "name": "Suspekt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg Rune, Emil og Andreas gennem to års rejse der starter med en nedlukning af landet og slutter af med ét af bandets vigtigste beslutninger til dato.",
+  "image": "https://cdn-play.tv2i.dk/4d1c9051-7343-4381-8312-a01d2b34166b.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8ae2e47f-c7ec-44e8-a249-619aa7a2385e",
+      "season": 1,
+      "number": 1,
+      "name": "Sindssyge ting",
+      "airdate": "2020-06-27"
+    },
+    {
+      "id": "ca5ed95e-7634-40e5-ad1b-30bc9bcdb9ac",
+      "season": 1,
+      "number": 2,
+      "name": "Gonzo opstår",
+      "airdate": "2020-02-19"
+    },
+    {
+      "id": "a09bc171-ca6d-4c55-b27c-5dea74cd849c",
+      "season": 1,
+      "number": 3,
+      "name": "Det goe' liv",
+      "airdate": "2020-06-27"
+    },
+    {
+      "id": "a6206317-2931-4917-96ab-584d116a1fc7",
+      "season": 1,
+      "number": 4,
+      "name": "Lykken kommer",
+      "airdate": "2020-06-27"
+    },
+    {
+      "id": "d9cc8fad-33a6-42f2-b48a-50b49b44be32",
+      "season": 1,
+      "number": 5,
+      "name": "Hundetimen",
+      "airdate": "2020-06-27"
+    },
+    {
+      "id": "cbd99d00-4128-4df2-92f2-11fa1315f658",
+      "season": 2,
+      "number": 1,
+      "name": "København, Paris, Ibiza",
+      "airdate": "2023-01-02"
+    },
+    {
+      "id": "6a6582ec-a1b4-433e-880d-3f6e6a66ecba",
+      "season": 2,
+      "number": 2,
+      "name": "En helt ny lyd",
+      "airdate": "2023-01-02"
+    },
+    {
+      "id": "b7a75eed-3c1b-443a-b134-8deef10de3e7",
+      "season": 2,
+      "number": 3,
+      "name": "Suspekt i hegnet",
+      "airdate": "2023-01-09"
+    },
+    {
+      "id": "54758b49-da07-4bad-af34-9fd54d5e3a33",
+      "season": 2,
+      "number": 4,
+      "name": "Andreas indtager Spanien",
+      "airdate": "2023-01-23"
+    },
+    {
+      "id": "315ab3f4-0193-4e46-83e2-2d8d3020ebdb",
+      "season": 2,
+      "number": 5,
+      "name": "Afsløringen – skal du med",
+      "airdate": "2023-01-30"
+    }
+  ]
+}

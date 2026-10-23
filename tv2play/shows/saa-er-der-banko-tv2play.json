@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:saa-er-der-banko-tv2play",
+  "name": "Så er der banko",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I en idrætshal mødes bankospillere uge efter uge for at spille om koteletter og købmandskurve. Det vigtigste, spillerne går hjem med, kan dog ikke pakkes ned i en indkøbspose. Det er venskaberne og fællesskabet, der giver mest værdi.",
+  "image": "https://cdn-play.tv2i.dk/cdb03c28-3d35-482f-afa0-ed4cc27e79a5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c301e145-4075-4ead-9a1c-49aec2c5fd8a",
+      "season": 1,
+      "number": 1,
+      "name": "En stor familie",
+      "airdate": "2026-04-19"
+    },
+    {
+      "id": "99f444fe-f4a7-409e-9fa3-cdc501e5ec03",
+      "season": 1,
+      "number": 2,
+      "name": "Alt skal være, som det plejer",
+      "airdate": "2026-04-26"
+    },
+    {
+      "id": "76ee6a6f-15a9-49a6-8cef-e804bd9ba136",
+      "season": 1,
+      "number": 3,
+      "name": "Bankospil under pres",
+      "airdate": "2026-05-03"
+    },
+    {
+      "id": "2ea8f68a-dd8f-414b-9563-9f4ef0217448",
+      "season": 1,
+      "number": 4,
+      "name": "Banko til jeg dør",
+      "airdate": "2026-05-10"
+    }
+  ]
+}

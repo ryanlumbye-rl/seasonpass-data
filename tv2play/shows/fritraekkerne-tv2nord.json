@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:fritraekkerne-tv2nord",
+  "name": "Fritrækkerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På stranden mellem Rødhus og Løkken huserer 'Fritrækkerne', der hjælper danske og udenlandske feriegæster med at komme fri fra sandet - helt gratis vel og mærke. Humøret er højt, og der er garanti for gode grin, drama og store maskiner når Peter, Jane og resten af gruppen drøner rundt i deres firehjulstrækkere.",
+  "image": "https://cdn-play.tv2i.dk/f859753f-59d2-49e5-9ffd-fe32d390e018.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0f2b46af-7ebb-4a53-83ab-9874756cbc46",
+      "season": 1,
+      "number": 1,
+      "name": "Fra fuckfinger til tommel op",
+      "airdate": "2024-01-21"
+    },
+    {
+      "id": "7e6a53d6-5fb2-4dd3-a457-0b05ea5d9f7f",
+      "season": 1,
+      "number": 2,
+      "name": "Tomgang og pølser",
+      "airdate": "2024-08-29"
+    },
+    {
+      "id": "41ec0673-9cc8-4134-afe4-e413c946406c",
+      "season": 1,
+      "number": 3,
+      "name": "De sidder fast på stribe",
+      "airdate": "2024-08-29"
+    },
+    {
+      "id": "09c97090-b06f-47ea-ab11-0f433de1d3e1",
+      "season": 1,
+      "number": 4,
+      "name": "Fællesskabet over alt",
+      "airdate": "2024-02-11"
+    },
+    {
+      "id": "593cce36-d5e0-4950-94cf-caad5f98a9ef",
+      "season": 1,
+      "number": 5,
+      "name": "Wrestling og vokseværk",
+      "airdate": "2024-08-29"
+    },
+    {
+      "id": "fbebb141-4ca1-453f-aba2-797599ee6963",
+      "season": 2,
+      "number": 1,
+      "name": "Ny trækker i byen",
+      "airdate": "2025-01-26"
+    },
+    {
+      "id": "2ae5d3e7-88c8-4f95-b57f-a7aa202a93be",
+      "season": 2,
+      "number": 2,
+      "name": "Fed bas og varme hjerter",
+      "airdate": "2025-02-02"
+    },
+    {
+      "id": "881dc1be-e156-473d-813e-48c41df03d5e",
+      "season": 2,
+      "number": 3,
+      "name": "Travlhed på strandkontoret",
+      "airdate": "2025-02-09"
+    },
+    {
+      "id": "ab25fce5-824e-4c85-bd05-c15e8634db6e",
+      "season": 2,
+      "number": 4,
+      "name": "En sønderjysk håndsrækning",
+      "airdate": "2025-02-16"
+    }
+  ]
+}

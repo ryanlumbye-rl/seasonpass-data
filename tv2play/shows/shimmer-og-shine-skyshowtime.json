@@ -1,0 +1,355 @@
+{
+  "id": "tv2play:shimmer-og-shine-skyshowtime",
+  "name": "Shimmer og Shine",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Et par tvillingesøstre ,der er i lære som ånder, kommer uden at ville det til at lave rav i den i forsøget på at opfylde ønsker for deres bedste ven Leah.",
+  "image": "https://cdn-play.tv2i.dk/f3989faf-7b95-4fbd-94cf-3419312d7a0e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1122&w=1280",
+  "episodes": [
+    {
+      "id": "0d0ed8e8-b1ae-414f-b9ac-50dddd1a93be",
+      "season": 1,
+      "number": 1,
+      "name": "Mine Hemmelige ånder - Første Del",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ec9e6efc-fa3d-4c2a-80d9-245bb5c31b5d",
+      "season": 1,
+      "number": 4,
+      "name": "Ren dinomit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7bafbca3-7e2c-498f-9369-d35af56f8d29",
+      "season": 1,
+      "number": 5,
+      "name": "Et værre hus",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dfd8c74e-ccd5-4eab-a940-3ed720bbbb75",
+      "season": 1,
+      "number": 7,
+      "name": "Ohøj, Ånder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d7e0075c-9641-47e4-bf24-4b6ab108944f",
+      "season": 1,
+      "number": 8,
+      "name": "Lys! Kamera! Ånder!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6b1ad5ee-fe2f-4067-9573-6ba9e294171f",
+      "season": 1,
+      "number": 9,
+      "name": "Ballet i baghaven",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cba3eb2e-3c48-43c9-b712-0d9122ae97ec",
+      "season": 1,
+      "number": 10,
+      "name": "Abraka-Ånder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ec3a081d-178e-4445-8bb2-668198a722c1",
+      "season": 1,
+      "number": 11,
+      "name": "Julemandens små ånder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e4a670e9-9b88-4c27-b97c-78019b27a23d",
+      "season": 1,
+      "number": 13,
+      "name": "En temmelig åndet halloween",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "17f5efb1-e4d5-4df4-8ab7-5bda986fd024",
+      "season": 1,
+      "number": 14,
+      "name": "Pyjamasfesten",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8c485457-3216-4057-aa14-ace2077f6955",
+      "season": 1,
+      "number": 15,
+      "name": "Spillehallen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3940e6c6-7508-42ec-8f8c-8cc911e0c70f",
+      "season": 1,
+      "number": 16,
+      "name": "Ude at bowle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2681142d-50a5-40f4-bced-a22f6749539a",
+      "season": 1,
+      "number": 17,
+      "name": "Den store skaterfiasko",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6ef60865-4f86-4c38-929b-7ffd840dd3e3",
+      "season": 1,
+      "number": 18,
+      "name": "Drømmedukkehus",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f946ff5b-bc2f-4deb-8b18-5772982f28b3",
+      "season": 1,
+      "number": 19,
+      "name": "Geden, der flygtede",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5f700757-217c-4497-960e-8a6ac7ed3aa8",
+      "season": 1,
+      "number": 20,
+      "name": "Glædeligt ønskelæum",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2495bff0-fd7d-4d1f-9202-ad81e5c19311",
+      "season": 3,
+      "number": 1,
+      "name": "Graver sig ned",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "a3c03253-e70b-4711-9168-06239a71b6cc",
+      "season": 3,
+      "number": 2,
+      "name": "Ånd For En Dag",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "5c2ed6fa-66d4-492c-88dc-3eb9757c27cb",
+      "season": 3,
+      "number": 3,
+      "name": "Tæppetumult",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "af97160b-4ecb-4b7a-b933-b67d49bc435a",
+      "season": 3,
+      "number": 4,
+      "name": "Samira og Zeta",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "1e33c012-1ed6-48f2-a5b3-9307ab03457d",
+      "season": 3,
+      "number": 5,
+      "name": "Nazboos Familiefest",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "4f664e73-a0c4-4797-b96a-397f3d81b457",
+      "season": 3,
+      "number": 6,
+      "name": "Regnbue-Zahramaj",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "33b2f66c-96b0-4b6c-8470-072fae14b9ed",
+      "season": 3,
+      "number": 12,
+      "name": "Alt det glitter!",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "110d3dc0-842d-4552-91ba-ed1103e68a9d",
+      "season": 3,
+      "number": 13,
+      "name": "Glimmerkoks",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "ac148f66-80d1-44f2-939f-81b1db287f97",
+      "season": 3,
+      "number": 14,
+      "name": "Ingen sne at spilde",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "e0858918-4d60-46a3-a926-9b3cc2362e96",
+      "season": 3,
+      "number": 16,
+      "name": "Nila på Landjorden",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "a6443532-6b63-4a99-82a3-99abad829878",
+      "season": 3,
+      "number": 17,
+      "name": "En tordenpony til Shaya",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "02300618-473f-4afd-a529-0af9e4b875d0",
+      "season": 3,
+      "number": 19,
+      "name": "Supermodig",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "4c5cd2bc-3e14-47fc-80e3-eaf74cf90314",
+      "season": 4,
+      "number": 2,
+      "name": "Velkommen til Zahramaj-himlen",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "2b7bae7a-3792-4c1d-987d-9556a48f19e2",
+      "season": 4,
+      "number": 3,
+      "name": "Redningskæledyrene",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "59091575-489e-45ab-834c-b449a3926032",
+      "season": 4,
+      "number": 5,
+      "name": "Zahrastjernen",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "57368553-59e8-4a99-9644-f61a61f46fa7",
+      "season": 4,
+      "number": 6,
+      "name": "Regnbuer til undsætning",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "f3c9ef31-2215-4e7c-a8b3-657da9f329ba",
+      "season": 4,
+      "number": 7,
+      "name": "Malestenen",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "35f6f87f-0e33-4f6b-889a-ed5c60d48715",
+      "season": 4,
+      "number": 8,
+      "name": "Zahrahjørningen Kilde",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "fd5a150c-c93b-4ad7-b7f6-2a833df9d689",
+      "season": 4,
+      "number": 9,
+      "name": "Himmelhaven",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "346a2d77-b93b-4831-b0df-75fba38002f5",
+      "season": 4,
+      "number": 11,
+      "name": "Dragerytteren",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "e11852a1-2906-4400-8979-7c8ca3f4a399",
+      "season": 4,
+      "number": 12,
+      "name": "Bum Zahra-bagning",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "c4e0e5e8-db19-41d1-89ed-40dbefba7a74",
+      "season": 4,
+      "number": 13,
+      "name": "Zeta overnatter",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "8a29c6d1-5de6-4279-86dd-daf61da8de05",
+      "season": 4,
+      "number": 14,
+      "name": "Zahrahjørning-parade",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "511d5dea-d604-4fc1-bea8-81d106592b34",
+      "season": 4,
+      "number": 15,
+      "name": "Zetas søster",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "63feb5ec-ec94-409a-9b84-6200e774ae75",
+      "season": 4,
+      "number": 16,
+      "name": "Legenden om dragejuvelen",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "71b00de8-3869-4d4d-b3b6-4626a20f41c0",
+      "season": 4,
+      "number": 17,
+      "name": "Den luskede pivekylling",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "b48f5681-fa90-4d18-b522-6b261663fe88",
+      "season": 4,
+      "number": 18,
+      "name": "Kom hjem, Nazboo",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "5d2e785c-539a-48fd-a14b-f5b2eefa84e1",
+      "season": 4,
+      "number": 19,
+      "name": "Turen til Zahramaj-Oceanea",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "3e70c0b7-919b-44e8-b10c-a60feac9be9c",
+      "season": 4,
+      "number": 20,
+      "name": "Havfortryllersken",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "5c483f7d-9329-4cc9-a34b-146232d84e9d",
+      "season": 4,
+      "number": 23,
+      "name": "Glimte-Glitre-katastrofe",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "873b33ae-1d07-4464-b421-e949207d8c17",
+      "season": 4,
+      "number": 24,
+      "name": "Fang mariehønsene",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "4748e535-d610-428b-abb6-81bbe0acb13e",
+      "season": 4,
+      "number": 25,
+      "name": "Havhjørninge-bugten",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "876738bb-694f-4699-b47b-98acf86ccbd8",
+      "season": 4,
+      "number": 26,
+      "name": "Ztinkdyr-lugten",
+      "airdate": "2024-12-01"
+    }
+  ]
+}

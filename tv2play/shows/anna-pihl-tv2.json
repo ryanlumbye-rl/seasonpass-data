@@ -1,0 +1,222 @@
+{
+  "id": "tv2play:anna-pihl-tv2",
+  "name": "Anna Pihl",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg Anna Pihl fra nyuddannet betjent på Station Bellahøj, over at være en del af politiets særlige forhandlerkorps til at blive ansat i Efterforskningen. Når Anna ikke er på job, insisterer hun på en meningsfyldt tilværelse som datter, søster, kæreste, bofælle og mor. Men når man er betjent, kan det være svært helt at slippe arbejdet efter fyraften.",
+  "image": "https://cdn-play.tv2i.dk/0d55a69f-459a-4b0a-a60f-91dcd2273e4e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6c64c6ec-256d-4b6f-907e-f027fcb748cc",
+      "season": 1,
+      "number": 1,
+      "name": "Ny betjent på Bellahøj",
+      "airdate": "2006-02-13"
+    },
+    {
+      "id": "bf9e25fe-f4d7-4ee3-8bab-6442e041c2ac",
+      "season": 1,
+      "number": 2,
+      "name": "Et spørgsmål om ære",
+      "airdate": "2006-02-20"
+    },
+    {
+      "id": "58428e5f-897c-4d7a-a9f4-0719cbc46f80",
+      "season": 1,
+      "number": 3,
+      "name": "Den fede dame",
+      "airdate": "2006-02-27"
+    },
+    {
+      "id": "8cda61ac-ab25-4525-a357-b9ef06a77b37",
+      "season": 1,
+      "number": 4,
+      "name": "Hund på bagsædet",
+      "airdate": "2006-03-06"
+    },
+    {
+      "id": "31ea1842-c351-4c54-b989-ac4f46bb70fb",
+      "season": 1,
+      "number": 5,
+      "name": "Indianeren",
+      "airdate": "2006-03-13"
+    },
+    {
+      "id": "e36ea136-1b5f-4153-bd3b-662b092cd1a3",
+      "season": 1,
+      "number": 6,
+      "name": "Lokkeduen",
+      "airdate": "2006-03-20"
+    },
+    {
+      "id": "06cf9d3d-3d8b-467e-9685-fed3e179351a",
+      "season": 1,
+      "number": 7,
+      "name": "Hver sin hemmelighed",
+      "airdate": "2006-03-27"
+    },
+    {
+      "id": "acf406b5-517a-412a-ac37-dd10772ec2ca",
+      "season": 1,
+      "number": 8,
+      "name": "I seng med fjenden",
+      "airdate": "2006-04-03"
+    },
+    {
+      "id": "c2d1fee2-f69b-4882-bdb5-1c8bd8d7f08c",
+      "season": 1,
+      "number": 9,
+      "name": "Braget i parken",
+      "airdate": "2006-04-10"
+    },
+    {
+      "id": "ef761fcc-780e-4daa-b59d-dd8e2cbb6821",
+      "season": 1,
+      "number": 10,
+      "name": "Jagten på Zoran",
+      "airdate": "2006-04-17"
+    },
+    {
+      "id": "da24acef-bdd9-4f57-bb62-c5b588dbf69e",
+      "season": 2,
+      "number": 1,
+      "name": "Uønsket narkoman",
+      "airdate": "2007-02-12"
+    },
+    {
+      "id": "d9addd46-561f-4abf-b8d8-9635087c87d1",
+      "season": 2,
+      "number": 2,
+      "name": "Drenge, der elsker fodbold",
+      "airdate": "2007-02-19"
+    },
+    {
+      "id": "3fcbdee7-50db-4a49-bfc7-e480ca8ac9c1",
+      "season": 2,
+      "number": 3,
+      "name": "En bøn for Dan Larsen",
+      "airdate": "2007-02-26"
+    },
+    {
+      "id": "d79a9fdf-b40c-40a4-b590-0f8282ddc2cd",
+      "season": 2,
+      "number": 4,
+      "name": "Øje for øje - del 1",
+      "airdate": "2007-03-05"
+    },
+    {
+      "id": "d639a9c6-1b30-46d0-bf5e-2980b4ba1190",
+      "season": 2,
+      "number": 5,
+      "name": "Øje for øje - del 2",
+      "airdate": "2007-03-12"
+    },
+    {
+      "id": "1366cd0d-4434-4468-b210-b90673a39687",
+      "season": 2,
+      "number": 6,
+      "name": "En dreng forsvinder - del 1",
+      "airdate": "2007-03-19"
+    },
+    {
+      "id": "db587e04-0689-4b59-87e7-36040a81290b",
+      "season": 2,
+      "number": 7,
+      "name": "En dreng forsvinder - del 2",
+      "airdate": "2007-03-26"
+    },
+    {
+      "id": "ba6869b4-b735-403b-8085-55ed59bf00a1",
+      "season": 2,
+      "number": 8,
+      "name": "Under mistanke",
+      "airdate": "2007-04-02"
+    },
+    {
+      "id": "f81ca4ac-0627-4af1-9da6-06b2b63e7ec2",
+      "season": 2,
+      "number": 9,
+      "name": "Ven eller fjende",
+      "airdate": "2007-04-09"
+    },
+    {
+      "id": "0f5c42e3-7e96-4728-8a2b-26b512003317",
+      "season": 2,
+      "number": 10,
+      "name": "Opgøret",
+      "airdate": "2007-04-16"
+    },
+    {
+      "id": "aa9d1bc4-93fe-4c61-8343-1ed09bf48ef8",
+      "season": 3,
+      "number": 1,
+      "name": "Manden i mosen",
+      "airdate": "2008-01-07"
+    },
+    {
+      "id": "0ca915dc-f098-4eb3-89f3-2a4b424fe328",
+      "season": 3,
+      "number": 2,
+      "name": "Sandt eller Falsk",
+      "airdate": "2008-01-14"
+    },
+    {
+      "id": "ac0bef3b-d763-4095-92c3-131de6fd74b2",
+      "season": 3,
+      "number": 3,
+      "name": "Hus forbi",
+      "airdate": "2008-01-21"
+    },
+    {
+      "id": "472907c6-d0d8-49cf-9253-95ee7417fb3a",
+      "season": 3,
+      "number": 4,
+      "name": "Happy Slapping",
+      "airdate": "2008-01-28"
+    },
+    {
+      "id": "8efd40a6-dde5-4a5e-96f2-9b49267c26cd",
+      "season": 3,
+      "number": 5,
+      "name": "Én gang skyldig",
+      "airdate": "2008-02-04"
+    },
+    {
+      "id": "27933af5-407a-433f-aaf6-3dff06a6f0bb",
+      "season": 3,
+      "number": 6,
+      "name": "Altanpigen del 1 - Springet",
+      "airdate": "2008-02-11"
+    },
+    {
+      "id": "696ae3f5-783a-42ca-9d41-d1d5e5c0bf78",
+      "season": 3,
+      "number": 7,
+      "name": "Altanpigen del 2 - Opgøret",
+      "airdate": "2008-02-18"
+    },
+    {
+      "id": "f633e6fb-340c-445e-97f6-81cc87e164af",
+      "season": 3,
+      "number": 8,
+      "name": "Mikala's valg",
+      "airdate": "2008-02-25"
+    },
+    {
+      "id": "6ed68c38-d52a-4f1b-8840-83c87179f9f0",
+      "season": 3,
+      "number": 9,
+      "name": "Under anklage del 1 - Skuddet",
+      "airdate": "2008-03-03"
+    },
+    {
+      "id": "29f4e74b-4d2c-4006-a939-dfdf292b60e9",
+      "season": 3,
+      "number": 10,
+      "name": "Under anklage del 2 - Nedtælling",
+      "airdate": "2008-03-10"
+    }
+  ]
+}

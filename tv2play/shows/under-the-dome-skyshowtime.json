@@ -1,0 +1,285 @@
+{
+  "id": "tv2play:under-the-dome-skyshowtime",
+  "name": "Under the Dome",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Beboerne i en lille by bliver spærret inde i en mystisk kuppel - og nu gælder det blot om at overleve i en hverdag fyldt med spørgsmål og paranoia.",
+  "image": "https://cdn-play.tv2i.dk/0c4aece6-9641-415b-9169-b13d910754bd.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6ee37248-3ce9-463c-bc34-b5c71163bf4e",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2013-12-02"
+    },
+    {
+      "id": "3f53718a-3dd9-442d-9f2e-550a09cde59e",
+      "season": 1,
+      "number": 2,
+      "name": "The Fire",
+      "airdate": "2013-12-02"
+    },
+    {
+      "id": "e13d4d52-1a12-4782-a884-bd8e1d09bfba",
+      "season": 1,
+      "number": 3,
+      "name": "Manhunt",
+      "airdate": "2013-12-03"
+    },
+    {
+      "id": "190ca656-66a0-48e3-be9f-87d53a49f047",
+      "season": 1,
+      "number": 4,
+      "name": "Outbreak",
+      "airdate": "2013-12-03"
+    },
+    {
+      "id": "f62df07e-47a7-4c48-ba48-3698ff192730",
+      "season": 1,
+      "number": 5,
+      "name": "Blue on Blue",
+      "airdate": "2013-12-04"
+    },
+    {
+      "id": "c8531b5f-e046-452e-b4a9-775fd575980f",
+      "season": 1,
+      "number": 6,
+      "name": "The Endless Thirst",
+      "airdate": "2013-12-04"
+    },
+    {
+      "id": "831f39b6-ed6d-4d7a-bf56-830f04881fee",
+      "season": 1,
+      "number": 7,
+      "name": "Imperfect Circles",
+      "airdate": "2013-12-04"
+    },
+    {
+      "id": "f08d4a1c-8305-41e7-bd96-60e6cff38441",
+      "season": 1,
+      "number": 8,
+      "name": "Thicker Than Water",
+      "airdate": "2013-12-05"
+    },
+    {
+      "id": "dc1c28e5-d855-4f4f-b797-c08f794518a9",
+      "season": 1,
+      "number": 9,
+      "name": "The Fourth Hand",
+      "airdate": "2013-12-05"
+    },
+    {
+      "id": "d5e6a1ef-1e16-4e13-99e3-330246079755",
+      "season": 1,
+      "number": 10,
+      "name": "Let the Games Begin",
+      "airdate": "2013-12-05"
+    },
+    {
+      "id": "b5c6b774-0f63-468c-84bf-1fbd80fd312d",
+      "season": 1,
+      "number": 11,
+      "name": "Speak of the Devil",
+      "airdate": "2013-12-06"
+    },
+    {
+      "id": "426897a5-110b-4063-b5c2-103008c86fe9",
+      "season": 1,
+      "number": 12,
+      "name": "Exigent Circumstances",
+      "airdate": "2013-12-06"
+    },
+    {
+      "id": "0e9f79bf-d56b-47f6-b95a-c00180614df5",
+      "season": 1,
+      "number": 13,
+      "name": "Curtains",
+      "airdate": "2013-12-06"
+    },
+    {
+      "id": "f0a1c19c-b2ac-477d-962f-c78800357db1",
+      "season": 2,
+      "number": 1,
+      "name": "Heads Will Roll",
+      "airdate": "2014-12-01"
+    },
+    {
+      "id": "1125592d-0ffb-4c89-9036-81f75bc33b6f",
+      "season": 2,
+      "number": 2,
+      "name": "Infestation",
+      "airdate": "2014-12-01"
+    },
+    {
+      "id": "5a90b627-3868-44e8-b807-9129c95015ab",
+      "season": 2,
+      "number": 3,
+      "name": "Force Majeure",
+      "airdate": "2014-12-02"
+    },
+    {
+      "id": "cba827f3-6492-45d6-a153-c0a2f4a7e919",
+      "season": 2,
+      "number": 4,
+      "name": "Revelation",
+      "airdate": "2014-12-02"
+    },
+    {
+      "id": "7944b458-26ea-41eb-977a-d9f69d55497f",
+      "season": 2,
+      "number": 5,
+      "name": "Reconciliation",
+      "airdate": "2014-12-02"
+    },
+    {
+      "id": "3d40caa3-ed4e-4ce9-b992-ab43c2cd3f79",
+      "season": 2,
+      "number": 6,
+      "name": "In the Dark",
+      "airdate": "2014-12-03"
+    },
+    {
+      "id": "5e3f73cd-a9e6-4d5d-aea9-a9fb5e3dcd47",
+      "season": 2,
+      "number": 7,
+      "name": "Going Home",
+      "airdate": "2014-12-03"
+    },
+    {
+      "id": "bda00c71-919f-4d7f-ac14-5b32d53e8a65",
+      "season": 2,
+      "number": 8,
+      "name": "Awakening",
+      "airdate": "2014-12-03"
+    },
+    {
+      "id": "f89978c2-617a-41fb-b705-b4be36fa8e17",
+      "season": 2,
+      "number": 9,
+      "name": "The Red Door",
+      "airdate": "2014-12-03"
+    },
+    {
+      "id": "ac57d81f-a84d-478e-a07f-d6e687922ac6",
+      "season": 2,
+      "number": 10,
+      "name": "The Fall",
+      "airdate": "2014-12-04"
+    },
+    {
+      "id": "f8926b1e-bed0-4a82-8fec-e62db17adf12",
+      "season": 2,
+      "number": 11,
+      "name": "Black Ice",
+      "airdate": "2014-12-04"
+    },
+    {
+      "id": "bdaeeebf-78e0-4073-9655-a9309c0d1362",
+      "season": 2,
+      "number": 12,
+      "name": "Turn",
+      "airdate": "2014-12-04"
+    },
+    {
+      "id": "b6c2cc75-b1e0-4fbe-ae95-1522259553cc",
+      "season": 2,
+      "number": 13,
+      "name": "Go Now",
+      "airdate": "2014-12-04"
+    },
+    {
+      "id": "89e284eb-3fd8-4f45-8e9e-4bb22d8dbd0c",
+      "season": 3,
+      "number": 1,
+      "name": "Move On",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "4dd9ea08-f844-4a66-8717-7fe95d81e1cc",
+      "season": 3,
+      "number": 2,
+      "name": "But I'm Not",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "309ff2b6-04ce-4f0a-8c77-2932f696965b",
+      "season": 3,
+      "number": 3,
+      "name": "Redux",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "1f77b3a5-0721-45b1-889f-83327d3ae3e2",
+      "season": 3,
+      "number": 4,
+      "name": "The Kinship",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "302aa388-628f-4d1c-984e-e1ebccb9d6f4",
+      "season": 3,
+      "number": 5,
+      "name": "Alaska",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "4c057a37-d84b-46f7-8293-30fb88f38860",
+      "season": 3,
+      "number": 6,
+      "name": "Caged",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "e09294b7-e390-466f-a38f-9eba63ec9e17",
+      "season": 3,
+      "number": 7,
+      "name": "Ejecta",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "94ec173c-0f73-4321-b2ee-7cb489031d64",
+      "season": 3,
+      "number": 8,
+      "name": "Breaking Point",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "46c31bb9-d57d-4b4f-b100-2d655f67683f",
+      "season": 3,
+      "number": 9,
+      "name": "Under the Dome",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "498dbd95-4358-410e-9ab9-8b18f21b80b7",
+      "season": 3,
+      "number": 10,
+      "name": "Legacy",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "7525247b-59d2-480f-8d28-20b7c7b56c01",
+      "season": 3,
+      "number": 11,
+      "name": "Love Is A Battlefield",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "ec798c52-25f8-4298-98c6-c144d9fc013c",
+      "season": 3,
+      "number": 12,
+      "name": "Incandescence",
+      "airdate": "2015-11-29"
+    },
+    {
+      "id": "3b1e3e06-ce48-41bc-b1c4-da505a0ee960",
+      "season": 3,
+      "number": 13,
+      "name": "The Enemy Within",
+      "airdate": "2015-11-29"
+    }
+  ]
+}

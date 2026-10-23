@@ -1,0 +1,572 @@
+{
+  "id": "tv2play:nurse-jackie-skyshowtime",
+  "name": "Nurse Jackie",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hun lyver, snyder og stjæler, hun lider, narrer sine venner, sluger piller og knuser hjerter. Men du er på hendes side.",
+  "image": "https://cdn-play.tv2i.dk/0a6dcaa8-9df1-42ff-a6ef-4cf64028675e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "17812579-457a-4691-9122-29544989d27a",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1b8e0e91-11d9-4a07-abfb-1c48ec4c4062",
+      "season": 1,
+      "number": 2,
+      "name": "Sweet 'N All",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "60cb202f-2e7c-4648-999e-555246b7f815",
+      "season": 1,
+      "number": 3,
+      "name": "Chicken Soup",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "931b6e8a-b039-4e22-9c81-c7bdd042d73b",
+      "season": 1,
+      "number": 4,
+      "name": "School Nurse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "afe0a2bd-42a1-4403-9ab7-ab8ec9227276",
+      "season": 1,
+      "number": 5,
+      "name": "Daffodil",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a2c01be4-bd38-40ec-9edd-53a1c61e4318",
+      "season": 1,
+      "number": 6,
+      "name": "Tiny Bubbles",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d741887f-d2a8-4044-adcc-74e13fbbdd11",
+      "season": 1,
+      "number": 7,
+      "name": "Steak Knife",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "af37771a-e167-49b8-b0d8-cfc82d4768bf",
+      "season": 1,
+      "number": 8,
+      "name": "Pupil",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "207a9fa7-3075-453f-993a-19a40f042c12",
+      "season": 1,
+      "number": 9,
+      "name": "Nosebleed",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c1d60d4f-bf38-401d-97c2-2a912af26057",
+      "season": 1,
+      "number": 10,
+      "name": "Ring Finger",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "50d17567-7a61-40d7-bbe1-161a03713ee1",
+      "season": 1,
+      "number": 11,
+      "name": "Pill-O-Matrix",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e3c80de8-50ff-47c0-966d-cc57264e2a1f",
+      "season": 1,
+      "number": 12,
+      "name": "Health Care and Cinema",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3856d30a-8187-40f5-a02a-d1bfde8ec4bc",
+      "season": 2,
+      "number": 1,
+      "name": "Comfort Food",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "de473358-b84e-4a7d-894d-5f61e15e4111",
+      "season": 2,
+      "number": 2,
+      "name": "Twitter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c2139593-738e-4fc0-ab5b-c1ac95626e9c",
+      "season": 2,
+      "number": 3,
+      "name": "Candyland",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "59f29e33-e3e1-416b-b741-d2ef96e67eb6",
+      "season": 2,
+      "number": 4,
+      "name": "Apple Bong",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "59221c64-2008-4e9b-8339-b01215853acb",
+      "season": 2,
+      "number": 5,
+      "name": "Caregiver",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7f29e24-fca7-4748-b031-14b0df9e1a6c",
+      "season": 2,
+      "number": 6,
+      "name": "Bleeding",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f796c870-c808-4f11-ae1d-36c921a4f435",
+      "season": 2,
+      "number": 7,
+      "name": "Silly String",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c4d5caae-0176-4f45-9fb6-bec35488d6ce",
+      "season": 2,
+      "number": 8,
+      "name": "Monkey Bits",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0fb44758-2b22-45a4-acc3-79902dbcf777",
+      "season": 2,
+      "number": 9,
+      "name": "P.O. Box",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b4cb7ba6-ccf5-4844-80f4-3c2a03d5892b",
+      "season": 2,
+      "number": 10,
+      "name": "Sleeping Dogs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7eb88ba-cce2-4d57-a8e6-526fceb16fe9",
+      "season": 2,
+      "number": 11,
+      "name": "What the Day Brings",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "517c82fb-fe69-48df-9f32-c7573bdc989c",
+      "season": 2,
+      "number": 12,
+      "name": "Years of Service",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0ac2af34-c4b4-4049-a859-2dac54b16d1d",
+      "season": 3,
+      "number": 1,
+      "name": "Game On",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5f097fab-f695-447f-bce9-33bd01003539",
+      "season": 3,
+      "number": 2,
+      "name": "Enough Rope",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1f09a0e5-5633-4060-a32a-2412cb81b547",
+      "season": 3,
+      "number": 3,
+      "name": "Play Me",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e5b3a9ce-b38c-45d0-94e5-eb41a9135b5e",
+      "season": 3,
+      "number": 4,
+      "name": "Mitten",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9c9064f8-2bcd-49c9-81f0-1703bc813117",
+      "season": 3,
+      "number": 5,
+      "name": "Rat Falls",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "99e020c4-a939-4024-8dbe-865fb9003dc0",
+      "season": 3,
+      "number": 6,
+      "name": "When the Saints Go",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "63247de5-4947-4b6a-bb54-3199886f74d7",
+      "season": 3,
+      "number": 7,
+      "name": "Orchids & Salami",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "58d8548a-cc2e-44dd-9e32-233fc42479cf",
+      "season": 3,
+      "number": 8,
+      "name": "The Astonishing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "13f9fd9e-0425-4645-b1dd-0d4a807858e0",
+      "season": 3,
+      "number": 9,
+      "name": "Have You Met Miss Jones?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "50eb971c-2c9d-487e-b32b-a71adf6e8fad",
+      "season": 3,
+      "number": 10,
+      "name": "Fuck the Lemurs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f01e5b86-d1d4-4371-bacd-13195c2ea552",
+      "season": 3,
+      "number": 11,
+      "name": "Batting Practice",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e210f6e7-9b30-498f-82a0-9486f8b42c18",
+      "season": 3,
+      "number": 12,
+      "name": "...Deaf Blind Tumor Pee-Test...",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "92dfadf2-7c34-438e-9596-77bd0244ade2",
+      "season": 4,
+      "number": 1,
+      "name": "Kettle-Kettle-Black-Black",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8bd7db5e-46f9-4b76-94e6-1b9b3e872222",
+      "season": 4,
+      "number": 2,
+      "name": "Disneyland Sucks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "51753cba-3119-4c4c-bfa3-25487b43580d",
+      "season": 4,
+      "number": 3,
+      "name": "The Wall",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d81a2736-1926-443a-9b8d-0aed3d7a256c",
+      "season": 4,
+      "number": 4,
+      "name": "Slow Growing Monsters",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4bfb2781-88f9-4b3b-b070-c68ec8bf1cdd",
+      "season": 4,
+      "number": 5,
+      "name": "One-Armed Jacks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "92fd25db-8fb7-4957-82e6-c88e90c3275f",
+      "season": 4,
+      "number": 6,
+      "name": "No-Kimono-Zone",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2c436db4-57a2-4fab-aab9-e3f0a2e744d2",
+      "season": 4,
+      "number": 7,
+      "name": "Day of the Iguana",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bd6ea121-9b38-47e5-82c0-fe83f6afea37",
+      "season": 4,
+      "number": 8,
+      "name": "Chaud & Froid",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cfc21ede-2124-479e-a392-f0c878fea112",
+      "season": 4,
+      "number": 9,
+      "name": "Are Those Feathers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7c67d170-9bc2-4648-ae1d-0b77fe448e22",
+      "season": 4,
+      "number": 10,
+      "name": "Handle Your Scandal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cc308481-6f04-4817-9228-f82c31d53f2c",
+      "season": 5,
+      "number": 1,
+      "name": "Happy F*cking Birthday",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a005e3d3-e0b0-46fa-ab30-dd0bee05f132",
+      "season": 5,
+      "number": 2,
+      "name": "Luck of the Drawing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ffa5dc0b-a249-4a47-b5ec-4f2edc9e1c25",
+      "season": 5,
+      "number": 3,
+      "name": "Smile",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dfa480c1-d6c1-4418-88ca-ff222867a798",
+      "season": 5,
+      "number": 4,
+      "name": "Lost Girls",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5c2e58cf-9d9d-4593-956e-32d22c6dc184",
+      "season": 5,
+      "number": 5,
+      "name": "Good Thing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "87b48648-1315-455c-8ae3-a58d33ed86cd",
+      "season": 5,
+      "number": 6,
+      "name": "Walk of Shame",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2299f80e-3aba-4985-aef1-d228d39dd20f",
+      "season": 5,
+      "number": 7,
+      "name": "Teachable Moments",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5a5654d2-09c4-48b8-850d-b79f023619fd",
+      "season": 5,
+      "number": 8,
+      "name": "Forget It",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3ee08a9e-3887-46f2-bc45-724ae37b39b6",
+      "season": 5,
+      "number": 9,
+      "name": "Heart",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "38e63b2e-446d-4a62-86f6-eb43057639db",
+      "season": 5,
+      "number": 10,
+      "name": "Soul",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a088c510-f4c8-43d3-a6c8-334ba45a6ef7",
+      "season": 6,
+      "number": 1,
+      "name": "Sink or Swim",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "65b6fb05-483c-485f-8205-4f31a67c1d59",
+      "season": 6,
+      "number": 2,
+      "name": "Pillgrimage",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e9e95ffd-5734-410d-ae7f-f889674b7759",
+      "season": 6,
+      "number": 3,
+      "name": "Super Greens",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "959c1a41-deda-4710-8530-9cf88b0a8706",
+      "season": 6,
+      "number": 4,
+      "name": "Rag and Bone",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3480dbe9-75d8-4390-8cde-e1feb8af605f",
+      "season": 6,
+      "number": 5,
+      "name": "Love Jungle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c6767a8e-cca1-4a0a-b423-6d684f8fd77c",
+      "season": 6,
+      "number": 6,
+      "name": "Nancy Wood",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "65925e36-8dba-45bf-aa36-e71711991a18",
+      "season": 6,
+      "number": 7,
+      "name": "Rat on a Cheeto",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2a808e5d-b557-4fe4-afa4-0168d596d8da",
+      "season": 6,
+      "number": 8,
+      "name": "The Lady With The Lamp",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "becd82bc-7b9f-4477-b2ca-f0330eb52218",
+      "season": 6,
+      "number": 9,
+      "name": "Candyman",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9e0938a6-3ec1-46d4-b451-ea852d9c4152",
+      "season": 6,
+      "number": 10,
+      "name": "Sidecars and Spermicide",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e1036605-c332-4da1-8dca-53d1e6925cf3",
+      "season": 6,
+      "number": 11,
+      "name": "Sisterhood",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7f148e96-3ddf-4cf9-b205-c0c96e7c66f4",
+      "season": 6,
+      "number": 12,
+      "name": "Flight",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "847e8083-655c-420c-8aae-1b967d9e5235",
+      "season": 7,
+      "number": 1,
+      "name": "Clean",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ba5e1e2f-2b30-4967-a59f-b7a23cdd067c",
+      "season": 7,
+      "number": 2,
+      "name": "Deal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4ab19fd2-719d-4185-815b-27d8b6dc326f",
+      "season": 7,
+      "number": 3,
+      "name": "Godfathering",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f8a2d1c2-28f9-4d7f-9310-b23d07c50514",
+      "season": 7,
+      "number": 4,
+      "name": "Nice Ladies",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "059b35d7-a723-46fc-bbbf-7f303f98a18b",
+      "season": 7,
+      "number": 5,
+      "name": "Coop Out",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d64fdb3f-df8e-45b0-9f67-1212057e20ee",
+      "season": 7,
+      "number": 6,
+      "name": "High Noon",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ace165fa-46e5-4ec2-a5c1-2c9840d16083",
+      "season": 7,
+      "number": 7,
+      "name": "Are You With Me, Doctor Wu?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f90e915a-83be-42e1-afbb-f8aea3efef5f",
+      "season": 7,
+      "number": 8,
+      "name": "Managed Care",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4a5d1051-c18c-463e-aa4b-f19c48b2e620",
+      "season": 7,
+      "number": 9,
+      "name": "Serviam in Caritate",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1ee2e8ff-b638-45da-b4a6-b7a5ab6d5794",
+      "season": 7,
+      "number": 10,
+      "name": "Jackie and the Wolf",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7eb5f131-a0b7-40bb-b0ed-5a7b6e302a0f",
+      "season": 7,
+      "number": 11,
+      "name": "Vigilante Jones",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "877a32e9-99c6-469e-8c71-e792032a6ef2",
+      "season": 7,
+      "number": 12,
+      "name": "I Say a Little Prayer",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

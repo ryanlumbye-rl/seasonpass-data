@@ -1,0 +1,768 @@
+{
+  "id": "tv2play:lige-i-skabet-tv2charlie",
+  "name": "Lige i skabet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nu skal der dystes i danskernes livsstil, vaner og uvaner, når vi byder velkommen til livsstilsquizzen 'Lige i skabet'.",
+  "image": "https://cdn-play.tv2i.dk/7929e333-103a-4ad2-b695-e837fa1a6c10.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "10542df9-c17b-4703-9ad5-606e9066ce0d",
+      "season": 2,
+      "number": 1,
+      "name": "Med Sofie Lassen-Kahlke og Gordon Kennedy",
+      "airdate": "2018-01-29"
+    },
+    {
+      "id": "8e8c6b90-0112-46bb-bf90-9e654cd797e3",
+      "season": 2,
+      "number": 2,
+      "name": "Med Helle Joof og Nikolaj Koppel",
+      "airdate": "2018-01-30"
+    },
+    {
+      "id": "39b1d382-7347-42d1-84a7-a398535f06fe",
+      "season": 2,
+      "number": 3,
+      "name": "Med Mikkel Kryger og Christopher Læssø",
+      "airdate": "2018-01-31"
+    },
+    {
+      "id": "2d5943d7-aa29-4465-a9b9-cadb0ac00b9d",
+      "season": 2,
+      "number": 4,
+      "name": "Med Sofie Lassen-Kahlke og Christopher Læssø",
+      "airdate": "2018-02-01"
+    },
+    {
+      "id": "eebbf292-5a38-4255-a652-2012e42330c5",
+      "season": 2,
+      "number": 5,
+      "name": "Med Molly Egelind og Christian Tafdrup",
+      "airdate": "2018-02-05"
+    },
+    {
+      "id": "672d2477-79cf-4d2f-b283-b638a0dcda46",
+      "season": 2,
+      "number": 6,
+      "name": "Med Bo Spellerberg og Lars Jørgensen",
+      "airdate": "2018-02-06"
+    },
+    {
+      "id": "b2e17323-ef9b-4ac6-b8d0-d3b806aa90da",
+      "season": 2,
+      "number": 7,
+      "name": "Med Mette Blomsterberg og James Price",
+      "airdate": "2018-02-07"
+    },
+    {
+      "id": "d4144039-5462-47d3-b32e-f1e83619bd7e",
+      "season": 2,
+      "number": 8,
+      "name": "Med Christian Tafdrup og James Price",
+      "airdate": "2018-02-08"
+    },
+    {
+      "id": "0b244e0a-5fa7-461b-8dba-3ae81937a57b",
+      "season": 2,
+      "number": 13,
+      "name": "Med Katrine Foged og Markus Grigo",
+      "airdate": "2018-02-19"
+    },
+    {
+      "id": "150e3d97-8132-43c0-8c68-111d6a4266b1",
+      "season": 2,
+      "number": 14,
+      "name": "Med Claudia Rex og Mikkel Schrøder",
+      "airdate": "2018-02-20"
+    },
+    {
+      "id": "ae25d02a-a25b-45d1-a6aa-022bf79ccb58",
+      "season": 2,
+      "number": 15,
+      "name": "Med Pia Kjærsgaard og Per Christiansen",
+      "airdate": "2018-02-21"
+    },
+    {
+      "id": "8ee03e13-e83b-4545-9b23-70434a99bfc1",
+      "season": 2,
+      "number": 16,
+      "name": "Med Claudia Rex og Pia Kjærsgaard",
+      "airdate": "2018-02-22"
+    },
+    {
+      "id": "afdceb7b-0da1-4914-bf30-4cfe040da9df",
+      "season": 2,
+      "number": 17,
+      "name": "Med Anders Blichfeldt og Søren Sko",
+      "airdate": "2018-02-26"
+    },
+    {
+      "id": "5e37d636-e949-4b42-966e-6b47adba36f4",
+      "season": 2,
+      "number": 18,
+      "name": "Med Birthe Kjær og Dorthe Gerlach",
+      "airdate": "2018-02-27"
+    },
+    {
+      "id": "595c0e99-b85f-4001-8e34-3e98da510951",
+      "season": 2,
+      "number": 19,
+      "name": "Med Timm Vladimir og Rosa Christensen",
+      "airdate": "2018-02-28"
+    },
+    {
+      "id": "1be3ddfe-a4da-405b-bf33-4b9aa2d065b5",
+      "season": 2,
+      "number": 20,
+      "name": "Med Birthe Kjær og Timm Vladimir",
+      "airdate": "2018-03-01"
+    },
+    {
+      "id": "c0d69cbf-a7e0-4dee-b737-c408b240e839",
+      "season": 2,
+      "number": 21,
+      "name": "Med Lasse Sjørslev og Cecilie Beck",
+      "airdate": "2018-03-05"
+    },
+    {
+      "id": "11d3973b-d391-4494-8f5c-e6b58134eb31",
+      "season": 2,
+      "number": 22,
+      "name": "Med Ulla Vejby og Merete Mærkedahl",
+      "airdate": "2018-03-06"
+    },
+    {
+      "id": "785b483d-8a23-4920-82f4-cc6cd0e82af8",
+      "season": 2,
+      "number": 23,
+      "name": "Med Morten Østergaard og Ane Cortzen",
+      "airdate": "2018-03-07"
+    },
+    {
+      "id": "71afc603-a4dd-4f0a-9630-a352d5445fc0",
+      "season": 2,
+      "number": 24,
+      "name": "Med Ulla Vejby og Lasse Sjørslev",
+      "airdate": "2018-03-08"
+    },
+    {
+      "id": "73ced52a-1c59-4013-a3e3-af4b29df16c0",
+      "season": 2,
+      "number": 25,
+      "name": "Med Paw Henriksen og John \"Faxe\" Jensen",
+      "airdate": "2018-03-12"
+    },
+    {
+      "id": "d9d9a35b-2383-4ea0-bbb4-7801143c856b",
+      "season": 2,
+      "number": 26,
+      "name": "Med Kaya Brüel og Steen Stig Lommer",
+      "airdate": "2018-03-13"
+    },
+    {
+      "id": "64afba3c-7763-4767-ac0a-812d1e0db22d",
+      "season": 2,
+      "number": 27,
+      "name": "Med Mette Frederiksen og Niels Olsen",
+      "airdate": "2018-03-14"
+    },
+    {
+      "id": "c53006ec-8dab-4870-bbdc-439d1b729a97",
+      "season": 2,
+      "number": 28,
+      "name": "Med Kaya Brüel og Mette Frederiksen",
+      "airdate": "2018-03-15"
+    },
+    {
+      "id": "03678595-7f6c-4149-a862-9907af810a56",
+      "season": 2,
+      "number": 29,
+      "name": "Med Karina Frimodt og Daniel Svensson",
+      "airdate": "2018-03-19"
+    },
+    {
+      "id": "62cda29d-da94-4bf3-82b6-6732f7a7aa48",
+      "season": 2,
+      "number": 30,
+      "name": "Med Silas Holst og Steen Langeberg",
+      "airdate": "2018-03-20"
+    },
+    {
+      "id": "d369f646-cb15-4537-846f-73b9f1155b45",
+      "season": 2,
+      "number": 31,
+      "name": "Med Amalie Dollerup og Anette Støvelbæk",
+      "airdate": "2018-03-21"
+    },
+    {
+      "id": "b040d75d-04b4-427e-ba16-400c4e8539ed",
+      "season": 2,
+      "number": 32,
+      "name": "Med Daniel Svensson og Anette Støvelbæk",
+      "airdate": "2018-03-22"
+    },
+    {
+      "id": "747be0ad-9ee8-4393-b68c-accc3ee29917",
+      "season": 2,
+      "number": 33,
+      "name": "Med Peter Mogensen og Michael Kristiansen",
+      "airdate": "2018-03-26"
+    },
+    {
+      "id": "9c76f5cc-4be5-4757-a4c5-72c2a4ad9c46",
+      "season": 2,
+      "number": 34,
+      "name": "Med Jesper Steinmetz og Kenneth Carlsen",
+      "airdate": "2018-03-27"
+    },
+    {
+      "id": "d45f1958-a8c3-4872-b508-166ddb8b6047",
+      "season": 2,
+      "number": 35,
+      "name": "Med Peter Ingemann og Margrethe Vestager",
+      "airdate": "2018-03-28"
+    },
+    {
+      "id": "3320b51a-d28a-42fc-8324-ee9c6f7981e5",
+      "season": 2,
+      "number": 36,
+      "name": "Med Michael Kristiansen og Peter Ingemann",
+      "airdate": "2018-03-29"
+    },
+    {
+      "id": "52bc9454-df76-45bb-ac10-c3419acea7b3",
+      "season": 2,
+      "number": 37,
+      "name": "Med Anne Sofie Espersen og Pelle Emil Hebsgaard",
+      "airdate": "2018-04-02"
+    },
+    {
+      "id": "d13bdc58-ff96-40d9-a863-2e5e908f094f",
+      "season": 2,
+      "number": 38,
+      "name": "Med Morten Ankerdal og Sara Maria Franch-Mærkedahl",
+      "airdate": "2018-04-03"
+    },
+    {
+      "id": "4091baa8-883f-4e0d-ad40-9f54583fb62e",
+      "season": 2,
+      "number": 39,
+      "name": "Med Pernille Rosenkrantz-Theil og Claus Elming",
+      "airdate": "2018-04-04"
+    },
+    {
+      "id": "065a7cc0-aebc-4d77-9229-f5d00bf17349",
+      "season": 2,
+      "number": 40,
+      "name": "Med Pernille Rosenkrantz-Theil og Anne Sofie Espersen",
+      "airdate": "2018-04-05"
+    },
+    {
+      "id": "3bb2c7fa-7885-4fe7-8658-ef2ec44036e9",
+      "season": 3,
+      "number": 1,
+      "name": "Med Karen Ellemann og Simi Jan",
+      "airdate": "2018-08-20"
+    },
+    {
+      "id": "54bc8b77-de5a-43a4-8841-60b52bdff167",
+      "season": 3,
+      "number": 2,
+      "name": "Med Theresa Nielsen og Nanna Christiansen",
+      "airdate": "2018-08-21"
+    },
+    {
+      "id": "2690b789-b546-4c92-8d0f-cb516da0b725",
+      "season": 3,
+      "number": 3,
+      "name": "Med Claus Møller Jakobsen og Carsten Bang",
+      "airdate": "2018-08-22"
+    },
+    {
+      "id": "1e930190-327a-4eee-a125-7b40f2cb0dd3",
+      "season": 3,
+      "number": 4,
+      "name": "Med Camilla Miehe-Renard",
+      "airdate": "2018-08-23"
+    },
+    {
+      "id": "ab649b95-a6df-4c56-8740-87486d9d551a",
+      "season": 3,
+      "number": 5,
+      "name": "Med Peter Lund Madsen og Anders Lund Madsen",
+      "airdate": "2018-08-27"
+    },
+    {
+      "id": "ae3646d7-1f9d-439d-86ae-9363ca5f5d80",
+      "season": 3,
+      "number": 6,
+      "name": "Med Peter Gade og Geo",
+      "airdate": "2018-08-28"
+    },
+    {
+      "id": "c1f4cd75-7ff5-4715-b7af-8adf01e66c08",
+      "season": 3,
+      "number": 7,
+      "name": "Med Pia Kjærsgaard og Naser Khader",
+      "airdate": "2018-08-29"
+    },
+    {
+      "id": "cd2dfec6-4d12-4639-93f5-96ec0e7b3cb8",
+      "season": 3,
+      "number": 8,
+      "name": "Med Peter Lund Madsen og Peter Gade",
+      "airdate": "2018-08-30"
+    },
+    {
+      "id": "ef9a8f00-13ba-4813-a729-adc495c62fa1",
+      "season": 3,
+      "number": 9,
+      "name": "Med Peter Gantzler og Camilla Bendix",
+      "airdate": "2018-09-03"
+    },
+    {
+      "id": "cc83807f-15ac-4225-976d-c6a2adcb897e",
+      "season": 3,
+      "number": 10,
+      "name": "Med Birgit Aaby og Steen Langeberg",
+      "airdate": "2018-09-04"
+    },
+    {
+      "id": "15277dfb-af7e-42c3-a944-9e7dfa1a89d6",
+      "season": 3,
+      "number": 11,
+      "name": "Med Ida Auken og Sisse Fisker",
+      "airdate": "2018-09-05"
+    },
+    {
+      "id": "55bf1fbf-9182-4284-82aa-40d7ab16a9ef",
+      "season": 3,
+      "number": 12,
+      "name": "Med Peter Gantzler og Ida Auken",
+      "airdate": "2018-09-06"
+    },
+    {
+      "id": "ba2a6c90-b39a-46d0-beca-0203f4d921bc",
+      "season": 3,
+      "number": 13,
+      "name": "Med Jakob Ellemann-Jensen og Andreas Bo",
+      "airdate": "2018-09-10"
+    },
+    {
+      "id": "6ccdd58c-1909-4ddb-966b-3a95e3e2a28d",
+      "season": 3,
+      "number": 14,
+      "name": "Med Janni Pedersen og Benedikte Hansen",
+      "airdate": "2018-09-11"
+    },
+    {
+      "id": "640a47ad-7614-43e5-bfab-fee75be43052",
+      "season": 3,
+      "number": 15,
+      "name": "Med Jesper Skibby og Sanne Troelsgaard",
+      "airdate": "2018-09-12"
+    },
+    {
+      "id": "b5d9067a-2c98-4c0c-b47a-495a5dd23da2",
+      "season": 3,
+      "number": 16,
+      "name": "Med Andreas Bo og Benedikte Hansen",
+      "airdate": "2018-09-13"
+    },
+    {
+      "id": "babdc378-529c-492e-b1ac-f79f66e5b4dd",
+      "season": 3,
+      "number": 17,
+      "name": "Med Mette Horn og Bjarne Henriksen",
+      "airdate": "2018-09-17"
+    },
+    {
+      "id": "0e3b82ff-687f-47bd-b2b6-9ea8f9677d8e",
+      "season": 3,
+      "number": 18,
+      "name": "Med Uffe Holm og Line Kruse",
+      "airdate": "2018-09-18"
+    },
+    {
+      "id": "c83201c0-10f8-4076-8339-7dce6c601004",
+      "season": 3,
+      "number": 19,
+      "name": "Med Sarah Grünewald og Christiane Schaumburg-Müller",
+      "airdate": "2018-09-19"
+    },
+    {
+      "id": "65a8a9b5-406d-4ddf-bc22-92175604a889",
+      "season": 3,
+      "number": 20,
+      "name": "Med Mette Horn og Sarah Grünewald",
+      "airdate": "2018-09-20"
+    },
+    {
+      "id": "6f35b30d-e78d-40f8-a7f6-e1951e00a587",
+      "season": 3,
+      "number": 21,
+      "name": "Med Pelle Hvenegaard og Maise Njor",
+      "airdate": "2018-09-24"
+    },
+    {
+      "id": "18c1e768-b5bb-4ef3-97c1-774f4052498b",
+      "season": 3,
+      "number": 22,
+      "name": "Med Sofie Lassen-Kahlke og Joachim Knop",
+      "airdate": "2018-09-25"
+    },
+    {
+      "id": "63673441-4dd7-4275-ac18-2562931a676d",
+      "season": 3,
+      "number": 23,
+      "name": "Med Anne-Grethe Bjarup Riis og Trine Appel",
+      "airdate": "2018-09-26"
+    },
+    {
+      "id": "2304fa81-4028-490a-ae30-d246a4eb7c70",
+      "season": 3,
+      "number": 24,
+      "name": "Med Anne-Grethe Bjarup Riis og Trine Appel",
+      "airdate": "2018-09-27"
+    },
+    {
+      "id": "f9d0191a-de3a-48e4-bf7b-c47b7bdb3560",
+      "season": 3,
+      "number": 25,
+      "name": "Med Molly Egelind og Claus Elming",
+      "airdate": "2018-10-01"
+    },
+    {
+      "id": "b8e33e56-b9ef-42c5-8424-96bb3bd66c96",
+      "season": 3,
+      "number": 26,
+      "name": "Med Sofie Stougaard og Ole Lemmeke",
+      "airdate": "2018-10-02"
+    },
+    {
+      "id": "579d1e6f-74ed-4345-a5cf-35f45995e37f",
+      "season": 3,
+      "number": 27,
+      "name": "Med Lasse Rimmer og Bubber",
+      "airdate": "2018-10-03"
+    },
+    {
+      "id": "f96c7e79-6882-496b-8615-2960143fc13d",
+      "season": 3,
+      "number": 28,
+      "name": "Med Molly Egelind og Sofie Stougaard",
+      "airdate": "2018-10-04"
+    },
+    {
+      "id": "83d4edfe-c1ce-4e6b-9662-3b109bb11d32",
+      "season": 4,
+      "number": 1,
+      "name": "Med Peter Frödin og Jacob Riising",
+      "airdate": "2019-02-04"
+    },
+    {
+      "id": "c7863be0-cc2b-4c1b-9862-b414380cbff2",
+      "season": 4,
+      "number": 2,
+      "name": "Med Oliver Bjerrehuus & Lene Beier",
+      "airdate": "2019-02-05"
+    },
+    {
+      "id": "9725aa89-7983-40f6-bb9d-7367f8ab04ba",
+      "season": 4,
+      "number": 3,
+      "name": "Med Tine Götzsche & Sebastian Dorset",
+      "airdate": "2019-02-06"
+    },
+    {
+      "id": "0a704a6c-0a23-46e6-a4d7-1c85b0d91f29",
+      "season": 4,
+      "number": 4,
+      "name": "Med Oliver Bjerrehus og Jacob Riising",
+      "airdate": "2019-02-07"
+    },
+    {
+      "id": "81623979-997d-46d9-a8b7-46527993f482",
+      "season": 4,
+      "number": 5,
+      "name": "Med Jens Werner og Karen-Helene Hjort",
+      "airdate": "2019-02-11"
+    },
+    {
+      "id": "91306e9d-a12f-4f6d-a9e6-77a892e340f7",
+      "season": 4,
+      "number": 6,
+      "name": "Med Sarah Grünewald og Cecilie Lassen",
+      "airdate": "2019-02-12"
+    },
+    {
+      "id": "38133d2e-cf40-4be2-a300-77820c128b05",
+      "season": 4,
+      "number": 7,
+      "name": "Med Ditte Hansen og Andreas Bo",
+      "airdate": "2019-02-13"
+    },
+    {
+      "id": "ca50d893-a02c-4c5a-817e-a4f496909c31",
+      "season": 4,
+      "number": 8,
+      "name": "Med Andreas Bo og Karen-Helene Hjort",
+      "airdate": "2019-02-14"
+    },
+    {
+      "id": "aa3ee3c1-f081-4af4-9b9e-ee8b4fb4ca57",
+      "season": 4,
+      "number": 9,
+      "name": "Med Cecilie Frøkjær og Michael Meyerheim",
+      "airdate": "2019-02-18"
+    },
+    {
+      "id": "e6f17234-ca2c-458f-862c-e7fcf4a054f7",
+      "season": 4,
+      "number": 10,
+      "name": "Med Ibi Makienok og Mads Christensen",
+      "airdate": "2019-02-19"
+    },
+    {
+      "id": "9ec8bbef-369c-4d1b-b249-db7afd8c00bf",
+      "season": 4,
+      "number": 11,
+      "name": "Med Signe Svendsen og Pernille Skipper",
+      "airdate": "2019-02-20"
+    },
+    {
+      "id": "3f1203d6-3b76-4e46-9088-780e825f04aa",
+      "season": 4,
+      "number": 12,
+      "name": "Med Cecilie Frøkjær og Ibi Makienok",
+      "airdate": "2019-02-21"
+    },
+    {
+      "id": "8de1d13b-19f3-4b32-aba7-6277ba27959b",
+      "season": 4,
+      "number": 13,
+      "name": "Med Lars Løkke Rasmussen og Anders Lund Madsen",
+      "airdate": "2019-02-25"
+    },
+    {
+      "id": "5979ea64-60fe-432b-a390-ba81fa9399d1",
+      "season": 4,
+      "number": 14,
+      "name": "Med Louise Wolff og Felix Smith",
+      "airdate": "2019-02-26"
+    },
+    {
+      "id": "174bddd7-17ff-42ad-ac14-790c81182dc0",
+      "season": 4,
+      "number": 15,
+      "name": "Med Adam Duvå Hall og Claus Elming",
+      "airdate": "2019-02-27"
+    },
+    {
+      "id": "a68db7ee-876d-45fe-94b1-557086fca496",
+      "season": 4,
+      "number": 16,
+      "name": "Med Adam Duvå Hall og Anders Lund Madsen",
+      "airdate": "2019-02-28"
+    },
+    {
+      "id": "4c7397d0-b542-4fc1-a80e-f4b020f5d428",
+      "season": 4,
+      "number": 17,
+      "name": "Med Nikolaj Koppel og Thomas Skov",
+      "airdate": "2019-03-04"
+    },
+    {
+      "id": "9c49e657-e540-497e-a030-09e5044bf579",
+      "season": 4,
+      "number": 18,
+      "name": "Med Rolf Sørensen og Dennis Ritter",
+      "airdate": "2019-03-05"
+    },
+    {
+      "id": "c43aa5f7-d698-4030-a8c7-d1b652f579eb",
+      "season": 4,
+      "number": 19,
+      "name": "Med Eva Ravnbøl og Emil Thorup",
+      "airdate": "2019-03-06"
+    },
+    {
+      "id": "45eb4d9c-1a6c-4cb2-bccc-0d6c60c17c9a",
+      "season": 4,
+      "number": 20,
+      "name": "Med Emil Thorup og Nikolaj Koppel",
+      "airdate": "2019-03-07"
+    },
+    {
+      "id": "956cae7b-aed4-44a6-94c8-23dbb711ba44",
+      "season": 4,
+      "number": 21,
+      "name": "Med Lotte Andersen og Annika Aakjær",
+      "airdate": "2019-03-11"
+    },
+    {
+      "id": "ea6aca34-9df9-460b-b5e5-55af23a4cccc",
+      "season": 4,
+      "number": 22,
+      "name": "Med Stine Bosse og Morten Østergaard",
+      "airdate": "2019-03-12"
+    },
+    {
+      "id": "621bfbd5-d419-44a3-b7db-016d924521b7",
+      "season": 4,
+      "number": 23,
+      "name": "Med Andrea Vagn Jensen og Maibritt Saerens",
+      "airdate": "2019-03-13"
+    },
+    {
+      "id": "fecb8ebe-454e-4473-9846-e6b81400e348",
+      "season": 4,
+      "number": 24,
+      "name": "Med Annika Aakjær og Maibritt Saerens",
+      "airdate": "2019-03-14"
+    },
+    {
+      "id": "d767cb5d-14f1-4b11-a438-fb76a7781a59",
+      "season": 4,
+      "number": 25,
+      "name": "Med Abdel Aziz Mahmoud og Michèle Bellaiche",
+      "airdate": "2019-03-18"
+    },
+    {
+      "id": "6ffa97d0-790a-4a0b-9077-1bbd0e35bf21",
+      "season": 4,
+      "number": 26,
+      "name": "Med Laura Bro og Charlotte Fich",
+      "airdate": "2019-03-19"
+    },
+    {
+      "id": "aa73b67f-21af-4792-ab75-8a81e743e94a",
+      "season": 4,
+      "number": 27,
+      "name": "Med Niels Olsen og Thomas Mørk",
+      "airdate": "2019-03-20"
+    },
+    {
+      "id": "f6068e01-1e41-4932-98ae-3ff61308f908",
+      "season": 4,
+      "number": 28,
+      "name": "Med Christine Feldthaus og Christian Grau",
+      "airdate": "2019-03-21"
+    },
+    {
+      "id": "fb21f0f0-3579-4e25-8f47-e0dcaa854c36",
+      "season": 5,
+      "number": 1,
+      "name": "Søs Egelind og Mads Vad",
+      "airdate": "2019-09-09"
+    },
+    {
+      "id": "ecab961e-db82-4c66-ab08-f77905cbd47d",
+      "season": 5,
+      "number": 2,
+      "name": "Mette Helena Rasmussen og Julie Berthelsen",
+      "airdate": "2019-09-10"
+    },
+    {
+      "id": "6426597f-35e5-4abb-ba75-8972f239517d",
+      "season": 5,
+      "number": 3,
+      "name": "Anna Stokholm og Jesper Groth",
+      "airdate": "2019-09-11"
+    },
+    {
+      "id": "43bfc96c-92a3-4b5b-9365-06f440015ba7",
+      "season": 5,
+      "number": 4,
+      "name": "Ugefinale",
+      "airdate": "2019-09-12"
+    },
+    {
+      "id": "51eda05c-135d-4a71-8818-099d0f99ac1f",
+      "season": 5,
+      "number": 5,
+      "name": "Med Camilla Bendix og Marie Askehave",
+      "airdate": "2019-09-16"
+    },
+    {
+      "id": "d60ac2b4-9d00-4a14-96a7-f0559d7a4fc9",
+      "season": 5,
+      "number": 6,
+      "name": "Dorte Fals og Klaus Bundgaard Povlsen",
+      "airdate": "2019-09-17"
+    },
+    {
+      "id": "1e90a64e-1b33-4743-989a-863d6122c1c2",
+      "season": 5,
+      "number": 7,
+      "name": "Med Anders Blichfeldt og Jens Gaardbo",
+      "airdate": "2019-09-18"
+    },
+    {
+      "id": "11891efa-6dad-45a2-9cc3-f1fec66bd4b4",
+      "season": 5,
+      "number": 8,
+      "name": "Ugefinale",
+      "airdate": "2019-09-19"
+    },
+    {
+      "id": "2a47bd5e-6ad7-4992-abc6-072740e189b2",
+      "season": 5,
+      "number": 9,
+      "name": "Camilla Miehe Renard og Chief 1",
+      "airdate": "2019-09-23"
+    },
+    {
+      "id": "2f0297e4-ae88-466f-b8d7-bf822fdd07f4",
+      "season": 5,
+      "number": 10,
+      "name": "Anne-Grethe Bjarup Riis og Jacob Haugaard",
+      "airdate": "2019-09-24"
+    },
+    {
+      "id": "7db726a5-2e0e-400b-84b8-24179bf314e4",
+      "season": 5,
+      "number": 11,
+      "name": "Mette Blomsterberg og Lasse Rimmer",
+      "airdate": "2019-09-25"
+    },
+    {
+      "id": "eb6943b7-a7fd-44dc-ae5d-c8bc3f2257c9",
+      "season": 5,
+      "number": 12,
+      "name": "Ugefinale",
+      "airdate": "2019-09-26"
+    },
+    {
+      "id": "78982052-9474-4950-bc38-84e63a72ca7b",
+      "season": 5,
+      "number": 13,
+      "name": "Lars Krogh Jeppesen og Lars Jørgensen",
+      "airdate": "2019-09-30"
+    },
+    {
+      "id": "086c699e-8e9f-4a56-aa36-0ee2ffe54c93",
+      "season": 5,
+      "number": 14,
+      "name": "David Owe og Uffe Holm",
+      "airdate": "2019-10-01"
+    },
+    {
+      "id": "0368f704-9253-4e42-b78f-c63a9462e706",
+      "season": 5,
+      "number": 15,
+      "name": "Thomas Evers Poulsen og Claus Holm",
+      "airdate": "2019-10-02"
+    },
+    {
+      "id": "fabec853-080b-4632-92f7-764a6ded7fe5",
+      "season": 5,
+      "number": 16,
+      "name": "Ugefinale",
+      "airdate": "2019-10-03"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:helgoland-513-skyshowtime",
+  "name": "Helgoland 513",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 2036, efter at en dommedag har kastet verden ud i kaos, bliver Tysklands eneste ø Helgoland menneskehedens sidste tilflugtssted. Et isoleret samfund af overlevende opstår med et totalitært styre, som dikterer, at der højst må være 513 mennesker.",
+  "image": "https://cdn-play.tv2i.dk/26ffc22e-32a4-40de-a32e-ea08c8d7988b.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3734%2C2100&w=1280",
+  "episodes": [
+    {
+      "id": "90d1de5b-6636-4c68-a74c-b28e55d01b9f",
+      "season": 1,
+      "number": 1,
+      "name": "Dine fodspor i sandet",
+      "airdate": "2024-06-24"
+    },
+    {
+      "id": "224d09e6-516c-447e-93d7-6b4752a6ca75",
+      "season": 1,
+      "number": 2,
+      "name": "Farvel",
+      "airdate": "2024-06-24"
+    },
+    {
+      "id": "34c1756c-ee7f-498a-bc30-daff189857e9",
+      "season": 1,
+      "number": 3,
+      "name": "Marmor, sten og jern",
+      "airdate": "2024-06-24"
+    },
+    {
+      "id": "e267fb74-5a5b-4992-95e1-b811f20eaea5",
+      "season": 1,
+      "number": 4,
+      "name": "Da, Da, Da",
+      "airdate": "2024-06-24"
+    },
+    {
+      "id": "68cdd6a6-add1-4e06-ac6d-82d80419d442",
+      "season": 1,
+      "number": 5,
+      "name": "Vær stærk",
+      "airdate": "2024-08-12"
+    },
+    {
+      "id": "65581f56-631a-4551-bfc0-3a1926393276",
+      "season": 1,
+      "number": 6,
+      "name": "En sang på vej ud i verden",
+      "airdate": "2024-08-12"
+    },
+    {
+      "id": "ec2c156c-4f32-41e8-8a1b-bf24e9f0670e",
+      "season": 1,
+      "number": 7,
+      "name": "Fordi du forlader os",
+      "airdate": "2024-08-12"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "tv2play:cph-lufthavnen-tv2",
+  "name": "CPH Lufthavnen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "CPH Lufthavnen er hver dag knudepunkt for 60.000 meget forskellige passagerer med helt forskellige baggrunde og behov. Men det er også en daglig arbejdsplads for flere tusinde danskere. CPH Lufthavnen er en serie, som skildrer denne arbejdsplads på alle niveauer. Der er langt fra bagagebåndet til kontroltårnet og fra parfumeafdelingen til dyrlægen",
+  "image": "https://cdn-play.tv2i.dk/d0d79a13-331c-489b-bdb5-d58c247726a8.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "f9d67742-4f43-4b46-abe1-7b9080dc669a",
+      "season": 1,
+      "number": 1,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-02-04"
+    },
+    {
+      "id": "6c8ffda1-4a84-471f-a64b-230dee836fca",
+      "season": 1,
+      "number": 2,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-02-11"
+    },
+    {
+      "id": "102a55d4-2ee5-4a9b-808f-89d1a12d70e3",
+      "season": 1,
+      "number": 3,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-02-18"
+    },
+    {
+      "id": "b68b9860-1568-44aa-ac52-89ee53355cfc",
+      "season": 1,
+      "number": 4,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-02-25"
+    },
+    {
+      "id": "bb2b12e8-327a-47ef-b41d-ec94a2dddcba",
+      "season": 1,
+      "number": 5,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-03-04"
+    },
+    {
+      "id": "cbecbe6f-62ac-4824-964e-f5d1c6de84e8",
+      "season": 1,
+      "number": 6,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-03-11"
+    },
+    {
+      "id": "23bded49-4d47-44dd-b36e-ffcbff47d34a",
+      "season": 1,
+      "number": 7,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-03-18"
+    },
+    {
+      "id": "77bd34af-0cff-4651-aff9-753d3407e52e",
+      "season": 1,
+      "number": 8,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-03-25"
+    },
+    {
+      "id": "f3dc4a1f-e751-4782-9672-27383a625054",
+      "season": 1,
+      "number": 9,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-04-08"
+    },
+    {
+      "id": "4146a6f7-b576-43a6-aa26-410f9471bd75",
+      "season": 1,
+      "number": 10,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-04-15"
+    },
+    {
+      "id": "a89f3f1b-31be-42cc-a248-f12c47d3a95d",
+      "season": 1,
+      "number": 11,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-04-22"
+    },
+    {
+      "id": "f9a66f50-3d50-41c2-aa7f-ebd9797e1e00",
+      "season": 1,
+      "number": 12,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2010-04-29"
+    },
+    {
+      "id": "3f94c554-8419-4a3c-a238-7788dd11ea30",
+      "season": 6,
+      "number": 1,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-08-27"
+    },
+    {
+      "id": "771e2602-08c1-46b5-8af3-ac1f77aac389",
+      "season": 6,
+      "number": 2,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-09-03"
+    },
+    {
+      "id": "dea8482b-eb9a-4848-8a0b-4536d2503729",
+      "season": 6,
+      "number": 3,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-09-10"
+    },
+    {
+      "id": "4d22e874-5041-43de-8019-234176ce18b6",
+      "season": 6,
+      "number": 4,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-12-03"
+    },
+    {
+      "id": "ecb52597-b1dd-4e8a-ac45-3d065a5601b2",
+      "season": 6,
+      "number": 5,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-09-24"
+    },
+    {
+      "id": "de5b5492-790c-45d4-bfed-4dfe9fa0bd75",
+      "season": 6,
+      "number": 6,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-10-08"
+    },
+    {
+      "id": "a51f8ee5-d932-4325-8e94-c8879dab5507",
+      "season": 6,
+      "number": 7,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-11-12"
+    },
+    {
+      "id": "61ed2bd9-4d28-4667-8fdf-4685c51a3a34",
+      "season": 6,
+      "number": 8,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-11-19"
+    },
+    {
+      "id": "9e9af874-3149-46ec-b090-09bce96db610",
+      "season": 6,
+      "number": 9,
+      "name": "På arbejde i Kastrup",
+      "airdate": "2014-11-26"
+    }
+  ]
+}

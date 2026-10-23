@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Svensk thrillerserie baseret på Jan Guillous succesromaner. Serien skildrer den unge agent Hamiltons første tid i Sverige efter CIA-uddannelsen i USA.",
+  "image": "https://cdn-play.tv2i.dk/b6baa2d6-0ed6-400a-80cc-ee6c1d9816c6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "913b0d66-6487-461a-b9c6-414458f929d1",

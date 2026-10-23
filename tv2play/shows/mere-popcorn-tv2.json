@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:mere-popcorn-tv2",
+  "name": "Mere popcorn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": "https://cdn-play.tv2i.dk/9497c189-d69d-32f6-940a-47f0471cd8a9.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1778%2C1000&w=1280",
+  "episodes": [
+    {
+      "id": "0abeca4e-b24d-44d8-a05f-45e604079d6f",
+      "season": 2026,
+      "number": 1,
+      "name": "Hvad i alverden sker der i Los Angeles?",
+      "airdate": "2026-10-22"
+    }
+  ]
+}

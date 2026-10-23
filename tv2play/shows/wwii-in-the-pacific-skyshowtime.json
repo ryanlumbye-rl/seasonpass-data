@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:wwii-in-the-pacific-skyshowtime",
+  "name": "WWII in the Pacific",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Et nyt blik på historien om Anden Verdenskrig i Stillehavet, som indeholder sjældne optagelser, der er blevet farvelagt og forbedret, ofte optaget af tropperne selv.",
+  "image": "https://cdn-play.tv2i.dk/067e8278-237a-4753-8ab2-4bcee6ca9f49.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2161&w=1280",
+  "episodes": [
+    {
+      "id": "51687e2a-d16f-47cf-910c-9a4d7d278b9b",
+      "season": 1,
+      "number": 1,
+      "name": "Japans satsning",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "b0dbb78b-29cc-46a3-84a3-a68fdab252de",
+      "season": 1,
+      "number": 2,
+      "name": "Udmattelseskrigen",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "2890bc24-7b6e-4542-9486-8b71a3c97eec",
+      "season": 1,
+      "number": 3,
+      "name": "Slutspillet",
+      "airdate": "2025-05-04"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:stress-tv2play",
+  "name": "Stress",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Journalist Jacob Overgaard har ligesom mange andre danskere været ramt af stress. Nu forsøger han at blive klogere på, hvad der sker i kroppen, hvordan andre er kommet tilbage, og hvad både arbejdspladser og medarbejdere kan gøre for at undgå stress.",
+  "image": "https://cdn-play.tv2i.dk/4410ab39-4c10-4f0d-a612-9571879647e5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8057ef02-855d-4cb4-9c52-cad07c6a0669",
+      "season": 1,
+      "number": 1,
+      "name": "Når kroppen siger stop",
+      "airdate": "2026-05-18"
+    },
+    {
+      "id": "00285610-7e7e-4fa0-8973-89650dc687b3",
+      "season": 1,
+      "number": 2,
+      "name": "Skyld og skam",
+      "airdate": "2026-05-18"
+    },
+    {
+      "id": "7a31e59a-d12a-484d-9e76-e71f2544750d",
+      "season": 1,
+      "number": 3,
+      "name": "Fremtidens arbejdsliv",
+      "airdate": "2026-05-25"
+    }
+  ]
+}

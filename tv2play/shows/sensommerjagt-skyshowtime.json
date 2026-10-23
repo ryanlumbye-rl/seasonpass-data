@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:sensommerjagt-skyshowtime",
+  "name": "Sensommerjagt",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sorgterapeut Veras liv rystes, da en ny patient kan huske ting om Veras egen barndom og sommeren 1984, da hendes lillebror Billy forsvandt sporløst. Vera vender tilbage til sit skånske barndomshjem for at opsøge sandheden. Den viser sig at være mere forfærdelig end hun kunne have forestillet sig",
+  "image": "https://cdn-play.tv2i.dk/0bad4ab4-74ba-4804-9fe7-76ee28da86f6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "777328f7-967b-4aaf-84bf-ef3f30742a00",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2024-12-26"
+    },
+    {
+      "id": "722a8afb-3599-45c3-afa5-6485712b8101",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2024-12-26"
+    },
+    {
+      "id": "481dad3c-5b01-4427-8cd8-a4e70f82f93d",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-01-02"
+    },
+    {
+      "id": "ea9a5c64-45d7-49cb-a8c6-d6d8f727d714",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-01-02"
+    },
+    {
+      "id": "2fec93ad-0d21-40a1-ab7f-eee6ca4f8b38",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-01-09"
+    },
+    {
+      "id": "44f88ee8-84e7-494e-9af0-7ff5e1f2c7f9",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-01-09"
+    }
+  ]
+}

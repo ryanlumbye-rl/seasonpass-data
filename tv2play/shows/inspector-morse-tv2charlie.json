@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Inspector Morse er en sofistikeret mand med smag for øl, øre for klassisk musik og næse for forbrydelser.",
+  "image": "https://cdn-play.tv2i.dk/8aa66caa-3e4d-4a42-ad05-ba60d464c4a1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "e4a24b3a-e554-4ced-80a0-050c5b3e8644",

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:hvor-fanden-er-herning-tv2play",
+  "name": "Hvor fanden er Herning?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Martin skal giftes ind i den mest succesrige erhvervsfamilie i hele Jylland, men torsdag inden brylluppet er han på polterabend i København.",
+  "image": "https://cdn-play.tv2i.dk/72a27328-cff6-438b-9805-6774d2159787.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C151%2C2400%2C1350&w=1280",
+  "episodes": [
+    {
+      "id": "95806562-8e40-41a9-a84a-034fc6c90f01",
+      "season": 1,
+      "number": 1,
+      "name": "Kongen af Herning",
+      "airdate": "2009-10-22"
+    },
+    {
+      "id": "cf60da57-5d24-4837-82a3-8275493ce8c8",
+      "season": 1,
+      "number": 2,
+      "name": "Med brutale Johnny i hælene",
+      "airdate": "2009-10-29"
+    },
+    {
+      "id": "733436eb-b818-432f-99cf-4af7c69b620e",
+      "season": 1,
+      "number": 3,
+      "name": "En lang tur hjem",
+      "airdate": "2009-11-05"
+    },
+    {
+      "id": "4b9d95b4-482d-45de-98e7-6fde729725cd",
+      "season": 1,
+      "number": 4,
+      "name": "En stjernepsykopatisk betjent",
+      "airdate": "2009-11-12"
+    },
+    {
+      "id": "fd2ae82d-94aa-484a-ab70-d92e4c649c90",
+      "season": 1,
+      "number": 5,
+      "name": "Martin - Kongen af traktorerne",
+      "airdate": "2009-11-19"
+    },
+    {
+      "id": "20c1070c-6998-4d4f-bcbe-52f2e2fc1637",
+      "season": 1,
+      "number": 6,
+      "name": "På tandem til kirken",
+      "airdate": "2009-11-26"
+    }
+  ]
+}

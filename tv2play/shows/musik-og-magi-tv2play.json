@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:musik-og-magi-tv2play",
+  "name": "Musik og magi",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hallo! Er der nogen, der har hørt om musikterapi? Opråbet kommer fra Lars Rye Bertelsen, der selv har en ph.d. i netop musikterapi. Sammen med to kolleger har han Danmarks eneste musikterapiklinik. I serien her kommer vi tæt på deres lidt oversete arbejde med for eksempel demente og handicappede.",
+  "image": "https://cdn-play.tv2i.dk/9569ae5a-08e2-4964-9f64-cb2018cc8f56.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "13e8c1af-70cf-4df7-86c0-b71235b0de43",
+      "season": 1,
+      "number": 1,
+      "name": "Hjerte til hjerte",
+      "airdate": "2026-02-28"
+    },
+    {
+      "id": "210c5c9f-8d27-4a52-92ec-330bfc9e7198",
+      "season": 1,
+      "number": 2,
+      "name": "Livsglæde og selvværd",
+      "airdate": "2026-03-07"
+    },
+    {
+      "id": "c07cdcc3-6975-4cf7-a2d7-bbef2c889ae3",
+      "season": 1,
+      "number": 3,
+      "name": "I klientens rolle",
+      "airdate": "2026-03-14"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:mesterlige-ombygninger-ekstra-tv2",
+  "name": "Mesterlige ombygninger - ekstra",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med bagom, når arkitekt David Zahle hjælper danskere med dristige boligombygninger og vilde idéer.",
+  "image": "https://cdn-play.tv2i.dk/5f352dc4-65a0-4376-b9d5-cac6a834ab95.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e76faab6-93cd-426c-ad06-1c87a7dd4ae9",
+      "season": 1,
+      "number": 1,
+      "name": "Møllen i Roskilde",
+      "airdate": "2024-11-14"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "tv2play:fanget-af-forraeder-tv2echo",
+  "name": "Fanget af Forræder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med ind i det hemmelige bibliotek, når Mathias Helt hver uge får besøg af spillere fra Forræder-slottet. Sammen dykker de ned i de bedste og sjoveste øjeblikke fra det seneste afsnit af Forræder.",
+  "image": "https://cdn-play.tv2i.dk/43dca4c2-6781-47ae-b11f-0e493177b901.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f67725f3-9fe6-48f7-b35d-d031db0ebdd9",
+      "season": 2,
+      "number": 1,
+      "name": "Hængelåsens betvinger",
+      "airdate": "2025-09-20"
+    },
+    {
+      "id": "53fa41f1-a864-4f4c-b986-75f60d42936d",
+      "season": 2,
+      "number": 2,
+      "name": "- Jeg er æ' forræder",
+      "airdate": "2025-09-27"
+    },
+    {
+      "id": "eacf6a9d-9af7-41bd-a43c-7bd2ba78a0bc",
+      "season": 2,
+      "number": 3,
+      "name": "Fjenindernes beef",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "f3fd05a1-410e-41a2-9e36-d1c200d098b2",
+      "season": 2,
+      "number": 4,
+      "name": "Skal vi kramme, eller er du sur?",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "3646349b-2074-4fd2-b2b6-b2ca78bf1b13",
+      "season": 2,
+      "number": 5,
+      "name": "Slagterens døtre",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "cc3c3383-e28e-4117-8f0c-a1a623ff4287",
+      "season": 2,
+      "number": 6,
+      "name": "Gravøl og grineflip",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "c5837945-3145-4154-a263-30e431124a38",
+      "season": 2,
+      "number": 7,
+      "name": "Ikke mere skæg",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "b290d7e5-1668-4386-b369-d28f2b04f23e",
+      "season": 2,
+      "number": 8,
+      "name": "Vindersind og voksenskældud",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "a26d43dd-b335-47c0-aedc-8845b892a0a2",
+      "season": 2,
+      "number": 9,
+      "name": "Reunion i det hemmelige bibliotek",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "8422134e-f38c-483e-8d8a-c434cebadff0",
+      "season": 3,
+      "number": 1,
+      "name": "Ægte woo-girl-energi ",
+      "airdate": "2026-04-17"
+    },
+    {
+      "id": "364c1341-3e94-4188-b8b3-aa86504665b3",
+      "season": 3,
+      "number": 2,
+      "name": "Skjult hypnose på slottet",
+      "airdate": "2026-04-24"
+    },
+    {
+      "id": "71c8204d-7212-4dd1-a3d3-dae048284278",
+      "season": 3,
+      "number": 3,
+      "name": "En psykose om natten",
+      "airdate": "2026-05-01"
+    },
+    {
+      "id": "4507fd21-28ac-4c2f-a622-1638ddd08b30",
+      "season": 3,
+      "number": 4,
+      "name": "To treo og en kugledyne",
+      "airdate": "2026-05-08"
+    },
+    {
+      "id": "21d43bd5-dc56-4cab-8994-f622d757aac1",
+      "season": 3,
+      "number": 5,
+      "name": "Undskyld til alle!",
+      "airdate": "2026-05-15"
+    },
+    {
+      "id": "ce1cf33a-ecbd-4e0e-8254-98dd99d95b39",
+      "season": 3,
+      "number": 6,
+      "name": "Alle når en nedsmeltning",
+      "airdate": "2026-05-22"
+    },
+    {
+      "id": "483fc63a-1f0d-493f-8198-abbe8fef0748",
+      "season": 3,
+      "number": 7,
+      "name": "Verdens dårligste menneske",
+      "airdate": "2026-05-29"
+    },
+    {
+      "id": "98d8b4c7-2536-42d1-bad5-074bd0176aed",
+      "season": 3,
+      "number": 8,
+      "name": "Reunion med spicy spørgsmål",
+      "airdate": "2026-06-05"
+    }
+  ]
+}

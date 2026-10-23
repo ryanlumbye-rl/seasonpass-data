@@ -1,0 +1,1853 @@
+{
+  "id": "tv2play:paw-patrol-skyshowtime",
+  "name": "PAW Patrol",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nickelodeons animerede børneserie, PAW Patrol, handler om de seks heroiske redningshvalpe Chase, Marshall, Rocky, Rubble, Zuma og Skye - med den teknik-kyndige dreng, Ryder, i spidsen.",
+  "image": "https://cdn-play.tv2i.dk/2bcc734d-269f-41e6-89d1-3c47d49ae354.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f26601fd-ac91-4831-95e9-c3def98f6568",
+      "season": 1,
+      "number": 1,
+      "name": "Vandhunde",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fb62640c-157b-4d67-a949-15211478c54c",
+      "season": 1,
+      "number": 2,
+      "name": "Vovserne Redder Skildpadder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "afeca5bf-e395-4927-a583-1da55e2e91c7",
+      "season": 1,
+      "number": 3,
+      "name": "Vovser og kattestrofen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3b8ab85b-3b50-46bf-b569-e1cb644a05de",
+      "season": 1,
+      "number": 5,
+      "name": "Vov-vov-gæs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6cd7df38-7db0-47c2-96b9-13ddfe848fa9",
+      "season": 1,
+      "number": 6,
+      "name": "Vovser på is",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dd8ba695-9d8f-4509-a64b-abe702019a59",
+      "season": 1,
+      "number": 7,
+      "name": "Vovserne Redder Cirkuset",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fe920a79-4481-4bbc-9738-9aa8d03eee97",
+      "season": 1,
+      "number": 8,
+      "name": "Vovse-mekanikere",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "72bbff3f-3d1a-449a-aa4a-a6775c290d2a",
+      "season": 1,
+      "number": 9,
+      "name": "Vovserne Redder Hundekiks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3aeeabdc-1548-4f32-b178-04ad0340d6cc",
+      "season": 1,
+      "number": 10,
+      "name": "Vovserne og Spøgelsessørøveren",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f252cc4a-3b28-4b71-bfa2-3db60cf6c667",
+      "season": 1,
+      "number": 11,
+      "name": "Vovserne Redder Julen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b448e9e5-0ab7-4b72-b06f-d404dbdd298a",
+      "season": 1,
+      "number": 12,
+      "name": "Vovserne Møder Rubble",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a70d85df-5e8b-464e-afe1-04f312cddd8e",
+      "season": 1,
+      "number": 15,
+      "name": "Vestens Vilde Vovser",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7569624-8f3e-4426-8169-9c5b4c5c8ffb",
+      "season": 1,
+      "number": 16,
+      "name": "Vovser på skolebænken",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a7eb8b11-36e4-4389-9d91-f7bd4726c207",
+      "season": 1,
+      "number": 17,
+      "name": "Vovserne Redder Badedagen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "006312b7-6334-4048-9aba-1cdb3fb80771",
+      "season": 1,
+      "number": 18,
+      "name": "Vovser på Jagt efter Påskeæg",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bc7d8636-6381-44a0-b83a-57916decd04f",
+      "season": 1,
+      "number": 19,
+      "name": "Vovserne Redder en Superhund",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8a9d3f48-9876-4283-bf26-c86733128f3b",
+      "season": 1,
+      "number": 20,
+      "name": "Vovserne går Bananas",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fa9362c6-e2b0-4f76-be71-d67784fa01ba",
+      "season": 1,
+      "number": 21,
+      "name": "Vovserne Redder en Flagermus",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "542bf10a-ba6f-4228-9a43-0167b6338390",
+      "season": 1,
+      "number": 24,
+      "name": "Vovserne og Fyrtårnet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "85eb4cb6-6a27-4657-8255-ab894d11ed93",
+      "season": 1,
+      "number": 25,
+      "name": "Vovserenes Store Ræs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9af30dfd-14f3-4f54-8eee-22e50c39a284",
+      "season": 1,
+      "number": 26,
+      "name": "Vovserne og Piratskatten",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "76fecce0-1d88-4d49-97ab-34f94544b040",
+      "season": 2,
+      "number": 1,
+      "name": "Vovserne redder pingvinerne",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aa630a80-e3c1-4e97-ba3b-3a2821ad05b2",
+      "season": 2,
+      "number": 2,
+      "name": "Vovserne Redder Rumvæsenet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0929876a-434c-4c47-8887-8cd1f0b8880f",
+      "season": 2,
+      "number": 4,
+      "name": "Vovserne redder dykkerklokken",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8f82da8c-1245-4b48-aa5d-f338acdc19af",
+      "season": 2,
+      "number": 6,
+      "name": "Den Nye Vovse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e53b764b-8f74-4913-86c2-8ec0b036a640",
+      "season": 2,
+      "number": 8,
+      "name": "Vovserne og Frosten",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5e543b8a-13b3-4963-ab09-e498d8f04e36",
+      "season": 2,
+      "number": 9,
+      "name": "Vovserne Redder et Bryllup",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "296a1079-636a-4c2a-956c-cb0ae74c06ce",
+      "season": 2,
+      "number": 10,
+      "name": "Vovserne Redder Talentshowet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9b42dfab-9ff6-4f06-909f-e7bf749557e7",
+      "season": 2,
+      "number": 12,
+      "name": "Vovserne Redder en Papegøje",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8a29321d-8158-4e70-8f0a-d16062f6b497",
+      "season": 2,
+      "number": 13,
+      "name": "Vovserne Redder en Hav-vovse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "67d8af01-91e0-42b3-a9e8-3c6a7edfc4cb",
+      "season": 2,
+      "number": 14,
+      "name": "Vovserne Redder en Elefantfamilie",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "43da5a1e-a6a3-42c8-a233-3f1dace7db0e",
+      "season": 2,
+      "number": 15,
+      "name": "Vovserne Redder en Ven",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9829e852-73ff-42b2-a8fb-e269d5b93060",
+      "season": 2,
+      "number": 16,
+      "name": "Vovsernes Babysitter-eventyr",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c0ce4de6-c26c-4876-b3c4-9eff6cf80a12",
+      "season": 2,
+      "number": 19,
+      "name": "Vovse-fu",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1babbe03-0c93-4bdf-9468-44d6565e4466",
+      "season": 2,
+      "number": 20,
+      "name": "Vovserne Redder Borgmester-ræset",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c1c15060-c003-4ae7-a87c-a482ffcea12f",
+      "season": 2,
+      "number": 22,
+      "name": "Vovserne Redder en Sprællende Francois",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b2811cd2-fe14-4045-9beb-f9aab37c34b8",
+      "season": 2,
+      "number": 23,
+      "name": "Vovserne Redder en Snowboardkonkurrence",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fb4cc9c8-092f-4c90-9701-e5e3eafa5eca",
+      "season": 2,
+      "number": 24,
+      "name": "Vovserne Redder en Pizza",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "62d49ab0-1bc0-4e2f-8819-f17d59b35c9a",
+      "season": 2,
+      "number": 25,
+      "name": "Vovserne Redder Vuf-og-roll-showet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fb5f9b63-389d-4aec-a135-2429cc763046",
+      "season": 3,
+      "number": 1,
+      "name": "Vovserne finder en ånd / Vovserne redder Linedanseren",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "2e0fef6a-a56d-462a-aba7-dc7167ee3cfa",
+      "season": 3,
+      "number": 2,
+      "name": "Vovserne redder Guldgravningen / Vovserne redder Paw-patroleren",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "e172c3b0-1d5c-490a-b5f2-1f67fc01c567",
+      "season": 3,
+      "number": 3,
+      "name": "Vovserne redder en Fodboldkamp / Vovserne redder et Lykkehalsbånd",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "bab9a9b6-5270-409b-91c5-f4b26029849e",
+      "season": 3,
+      "number": 4,
+      "name": "Vovserne redder Alex' Minipatrulje / Vovserne redder en Tabt Tand",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "40a057bc-a544-4987-9c08-2abbd665301c",
+      "season": 3,
+      "number": 5,
+      "name": "Luftvovser!",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "f805ea5c-68a5-4c14-b906-ca6a258ff515",
+      "season": 3,
+      "number": 6,
+      "name": "Vovserne redder Venskabsdagen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "b24bea0a-6d6c-4717-9ce1-294c1a0fc09f",
+      "season": 3,
+      "number": 7,
+      "name": "Vovserne redder Flodhestene / Vovserne redder Apollo",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "8a36761e-fe67-495f-a51c-bf2547a613f9",
+      "season": 3,
+      "number": 8,
+      "name": "Vovserne redder Dristige Danny X / Et Vovsefix",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "37a4c982-a9b7-46e1-a518-3550040a7a46",
+      "season": 3,
+      "number": 9,
+      "name": "Vovserne Redder en Drage / Vovserne Redder tre Små Grise",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "8af588ce-82c8-4ecc-93b7-238c2b14cd83",
+      "season": 3,
+      "number": 10,
+      "name": "Vovserne redder en Stinkende Blomst / Vovserne redder en Abe-stronaut",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c247f4c8-f271-4d90-bf1f-c2f718faec02",
+      "season": 3,
+      "number": 12,
+      "name": "Vovserne redder Skolebussen / Vovserne redder Sangfuglene",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "4bf05d7e-236a-4973-a3cb-dcc196476c23",
+      "season": 3,
+      "number": 13,
+      "name": "Vovserne redder Gamle Trusty / Vovserne redder en Pony",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "a35960d3-1796-42d6-bdf5-5102eb58431b",
+      "season": 3,
+      "number": 14,
+      "name": "Mystik og kaos breder sig, mens Adventure Bay plages af vandproblemer. // Ryder og vovserne bliver ven med en pony.",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "b2545bbd-09f6-405a-b580-850b767be504",
+      "season": 3,
+      "number": 15,
+      "name": "Tracker kommer med i Paw Patrol",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c3de84cb-1dee-4033-a64e-cce32e68c0a9",
+      "season": 3,
+      "number": 16,
+      "name": "Tracker kommer med i Paw Patrol",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "bc59f749-5c21-4601-8f32-a80f58e50599",
+      "season": 3,
+      "number": 18,
+      "name": "Vovserne redder Marmeladen / Vovserne redder en Vindsurfende gris",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "13a9b4f8-233d-4b56-abb2-89a2c662e546",
+      "season": 3,
+      "number": 19,
+      "name": "Pups Get Growing / Pups Save a Space Toy",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "ab6c38ec-0da1-4730-8e1b-720b76fbc69d",
+      "season": 3,
+      "number": 20,
+      "name": "Vovserne redder et stinkdyr / Vovserne redder en hval",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "151e2115-ea54-457c-86b0-1458764f31f1",
+      "season": 3,
+      "number": 21,
+      "name": "Vovserne og Papegøjen / Havvovserne redder Brødrene Pighvar",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "5a30f027-827e-467b-9afc-fc455d7b6ccf",
+      "season": 3,
+      "number": 22,
+      "name": "Vovsernes Vidunderlige Vintershow",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c22c6334-850e-4c6c-b941-abb1d8ad9315",
+      "season": 3,
+      "number": 23,
+      "name": "Vovserne redder Fætrenes Drageflyver / Vovserne redder et fly",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "71602e6d-0a28-426a-a3d1-207436aeeae6",
+      "season": 3,
+      "number": 24,
+      "name": "Vovserne redder en Gigantisk Plante / Vovserne sidder Fast",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "7150a892-9030-473e-8c75-d712de71b1f7",
+      "season": 3,
+      "number": 25,
+      "name": "Vovserne redder 'Paw Patroller'-en / Vovserne redder kragerne",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "1f7a22c3-e0f3-4187-ad13-54e9074a25dc",
+      "season": 3,
+      "number": 26,
+      "name": "Vovserne redder deres Svævende Venner / Vovserne redder en Satellit",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "15aea34a-4e4f-4a7b-9e2c-8a0900eb0dc4",
+      "season": 4,
+      "number": 1,
+      "name": "Vovserne redder en blimp / Vovserne redder chilikonkurrencen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "ea52046d-7ccd-4bcf-b06a-63e579329ee7",
+      "season": 4,
+      "number": 2,
+      "name": "Vovserne redder en teenagepingvin / Vovserne redder Katteshowet",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "75ccb659-c398-4a6d-b80b-7aa11311128b",
+      "season": 4,
+      "number": 3,
+      "name": "Vovserne redder en legesyg drage / Vovserne redder skabningerne",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c9110906-86ee-4ffd-b7f5-ca9118594368",
+      "season": 4,
+      "number": 4,
+      "name": "Potemission: jagten på kronen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "809d4104-5898-4c7a-b4cd-738d2c8fd3e5",
+      "season": 4,
+      "number": 6,
+      "name": "Vovserne redder Jakes kage / Vovserne redder en vild tur",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "1a1c1728-b5fd-4689-a740-f7960b30ac2d",
+      "season": 4,
+      "number": 7,
+      "name": "Potemission: kongelig uhygge / Vovserne redder Abedinger",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "6dff7f2b-0988-4fb2-8a23-a3ddcbd91997",
+      "season": 4,
+      "number": 8,
+      "name": "Vovserne redder den flyvende mad / Vovserne redder et pariserhjul",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "f514e27e-3235-4dc8-bff4-08a16bb1692a",
+      "season": 4,
+      "number": 10,
+      "name": "Potemission: Vovserne redder den royale trone",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "f2a550b3-8aae-45b9-b5b2-675e8a55cb8e",
+      "season": 4,
+      "number": 15,
+      "name": "Vovserne køler af / Vovserne redder Farmer Alex",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "f97fd450-55a8-4e8d-8ece-6fa7d84647d1",
+      "season": 4,
+      "number": 16,
+      "name": "Hav Patrol 3 - Vovserne redder en haj / Hav Patrol 4 - Vovserne redder molen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "f785318a-817b-42cf-877c-c15ace965fb6",
+      "season": 4,
+      "number": 17,
+      "name": "Vovserne redder en rum-sten / Vovserne redder en god borgmester",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c1351ca0-b0da-4b62-9c18-cc820216f45b",
+      "season": 4,
+      "number": 18,
+      "name": "Vovserne redder en storbykat / Vovserne redder en sky-surfer",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "0ee19816-1f58-4eac-85c2-536957576ee9",
+      "season": 4,
+      "number": 19,
+      "name": "Hav Patrol 5/6 - Pirat-vovsernes redningsaktion",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "7675badf-5bcd-4783-8155-c3ab36f8ebb7",
+      "season": 4,
+      "number": 20,
+      "name": "Vovserne redder posten / Vovserne redder en frøborgmester",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "6d4e29f9-6521-42eb-80a4-05d5cb57649d",
+      "season": 4,
+      "number": 23,
+      "name": "Vovserne redder Luke Stars / Vovserne redder Kyllingedag",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "b1e06aa3-3a99-4c7b-925b-023569fa0729",
+      "season": 4,
+      "number": 24,
+      "name": "Vovserne redder pingvinen Francois / Vovserne redder Dristige Dannys flodhest",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "cf5c1c62-1b00-4d52-ad71-aa4c0bf30e89",
+      "season": 4,
+      "number": 25,
+      "name": "Vovserne redder Baby Humdinger / Vovserne redder en piñata",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "cf798b48-8e15-4709-979c-6920fff0fe04",
+      "season": 4,
+      "number": 26,
+      "name": "Hav Patrol: Vovserne redder Vovselantis",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "dbbbf907-f98e-410c-b5b0-65a246f64795",
+      "season": 5,
+      "number": 1,
+      "name": "Vovserne redder en struds",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "11a191aa-39c6-49ba-8fcd-b4c8aa0d8ade",
+      "season": 5,
+      "number": 4,
+      "name": "Vovserne redder den højtflyvende Skye",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9ff4327e-76bb-4db3-bfce-971f341406af",
+      "season": 5,
+      "number": 5,
+      "name": "Vovserne redder en ekstrem frokost",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "94c54ec6-de73-4bad-b13d-1514705d3477",
+      "season": 5,
+      "number": 6,
+      "name": "Vovserne redder den flyvende dykkerklokke",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8b4d5eb3-5e6a-491c-aab9-7b24129e6a91",
+      "season": 5,
+      "number": 7,
+      "name": "PAW Patrol",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "dfb904dd-7bf3-4b93-b14a-30608ee965fb",
+      "season": 5,
+      "number": 8,
+      "name": "Vovserne redder bogbussen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "63991907-d682-4f1e-a06f-66f9a132a18d",
+      "season": 5,
+      "number": 9,
+      "name": "Vovserne redder deres bortrøvede Havpatroller",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a7aa9fd2-d6f3-4783-a7fe-4c0d11c2d12f",
+      "season": 5,
+      "number": 10,
+      "name": "Vovserne redder papayaerne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "74d26d33-66b9-46ea-a27f-55ba39e5d1d9",
+      "season": 5,
+      "number": 11,
+      "name": "Vovserne redder de royale killinger",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f02a51f4-8632-4110-89a4-ea02af4b24ec",
+      "season": 5,
+      "number": 13,
+      "name": "Vovserne redder Tilly Pighvar",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a826e298-88d6-4d64-b69e-ef79bea2fcef",
+      "season": 5,
+      "number": 14,
+      "name": "Vovserne redder tigerne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fc8e4ef5-4c50-4268-b8fd-74065db1f018",
+      "season": 5,
+      "number": 15,
+      "name": "Rocky redder sig selv",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "bfba64e3-88a8-47be-a4de-d761f9ed9747",
+      "season": 5,
+      "number": 16,
+      "name": "Vovserne redder halloween",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d1120335-e3b1-4d95-a051-f6be8489f750",
+      "season": 5,
+      "number": 18,
+      "name": "Vovserne redder en kongelig koncert",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "979da4e0-1e3c-4e06-92e4-689ab0fac9f7",
+      "season": 5,
+      "number": 19,
+      "name": "Vovserne og varhvalpen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "18b17b00-5f57-4a6f-a7e8-aa30aab804be",
+      "season": 5,
+      "number": 20,
+      "name": "Vovserne redder et sumpmonster",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "444cc6c3-2762-4cf3-a51c-ced9a25eded9",
+      "season": 5,
+      "number": 21,
+      "name": "Vovserne redder et kukur",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "73dadc3c-64a7-49b5-a51a-9add2cbc8b87",
+      "season": 5,
+      "number": 23,
+      "name": "Vovserne redder en frossen lejrtur",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "dfcc6528-dca3-4ec4-aa25-5a706240e0f8",
+      "season": 5,
+      "number": 25,
+      "name": "Vovserne redder en løbsk stjernekikkert",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b2c8cbbf-3769-4459-8f87-426c2c6e905f",
+      "season": 5,
+      "number": 26,
+      "name": "Vovserne redder Aces fødselsdagsoverraskelse",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d958a225-850b-4889-946f-b73ade22e436",
+      "season": 6,
+      "number": 1,
+      "name": "Vovserne redder junglepingvinerne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "225ceab4-c969-43dd-9478-d43310daea2e",
+      "season": 6,
+      "number": 2,
+      "name": "Vovserne forhindrer en nedsmeltning",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c6abbc38-e065-42f6-a566-30aa88926401",
+      "season": 6,
+      "number": 3,
+      "name": "Vovserne redder en melonfestival",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "774daeda-a3a2-4eee-9d69-382c47ac344d",
+      "season": 6,
+      "number": 4,
+      "name": "Vovserne redder honningen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "da3a4293-f5c5-46bb-9fab-63af87639f87",
+      "season": 6,
+      "number": 5,
+      "name": "Vovserne redder bjergbestigerne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0b5ce91c-09ca-4313-a211-9de06622e232",
+      "season": 6,
+      "number": 6,
+      "name": "Vovserne og de stinkende bobleproblemer",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fad30055-508d-4481-9fed-ad52615c49e2",
+      "season": 6,
+      "number": 7,
+      "name": "Vovserne redder Gustavs guitar",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "51f0632b-995f-456b-8b8a-239d6a99acca",
+      "season": 6,
+      "number": 8,
+      "name": "Vovserne redder Kyllettas æg",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9568f7f4-d42a-4d8c-b005-707425c225ca",
+      "season": 6,
+      "number": 9,
+      "name": "Supervovser",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "cfc2e923-14d2-4aba-888c-67576a8b310e",
+      "season": 6,
+      "number": 11,
+      "name": "Vovserne redder landpiraterne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "17cdc647-32a9-46b2-b28e-3c53e439faef",
+      "season": 6,
+      "number": 12,
+      "name": "Vovserne møder supertvillingerne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "dfb663e8-d0bf-4cb2-be5b-b652f0a4812c",
+      "season": 6,
+      "number": 13,
+      "name": "Vovserne redder en mærkelig vovsedag",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f706778d-dad7-4355-8f2b-ae5878ed2dd6",
+      "season": 6,
+      "number": 14,
+      "name": "Vovserne redder en flagermusfamilie",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d7c34b9c-f194-40a9-b88d-07434ee53c57",
+      "season": 6,
+      "number": 15,
+      "name": "Vovserne redder en gigantisk kylling",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f02b7527-fe93-4abe-920c-18e69e14eecc",
+      "season": 6,
+      "number": 17,
+      "name": "Vovserne redder bjørnene",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "bba1cafa-ebd7-44a8-a9ea-63aa020e741c",
+      "season": 6,
+      "number": 18,
+      "name": "Vovserne og det store tvillingetrick",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a2d0d19d-fc13-442a-bc99-b26d9069af24",
+      "season": 6,
+      "number": 19,
+      "name": "Vovserne redder den hvide ulv",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "57d52312-6501-4282-8105-5ae1d79d3efd",
+      "season": 6,
+      "number": 20,
+      "name": "Vovserne redder egernene",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b10557ad-7fbe-4c45-bfc6-4e4a21e2de81",
+      "season": 6,
+      "number": 21,
+      "name": "Supervovser for fuld styrke",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "04dc4752-71c2-4234-b718-dc2bdf50b39e",
+      "season": 6,
+      "number": 22,
+      "name": "Vovserne redder en Humsquatch",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "19188881-2413-465b-b349-aa6ebcca0083",
+      "season": 6,
+      "number": 23,
+      "name": "Vovserne redder redderne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f4681013-9c48-4820-908e-7da86cf82a0c",
+      "season": 6,
+      "number": 24,
+      "name": "Vovserne standser en stor, styg robot",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c9052b8b-f903-40ea-bf05-dbccd637a9e5",
+      "season": 6,
+      "number": 25,
+      "name": "Vovserne redder åbningsceremonien",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "956ba097-c789-461f-bba1-e644b75ffab6",
+      "season": 6,
+      "number": 26,
+      "name": "Vovserne redder en turbus",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "508a6f4d-fe01-4068-b972-677fd6de3c7b",
+      "season": 7,
+      "number": 1,
+      "name": "Vovserne standser en horde af Humdinger",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "67ec6ce7-b8ca-462c-982b-45a2906a1c05",
+      "season": 7,
+      "number": 2,
+      "name": "Vovserne redder valgdagen!",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "713bd6fc-6fcf-4ace-a6f2-029da8123b01",
+      "season": 7,
+      "number": 3,
+      "name": "Vovserne redder en antarktisk marsmand!",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b438becf-c009-4a2e-bbe1-a191829155c2",
+      "season": 7,
+      "number": 4,
+      "name": "Supervovser for fuld styrke",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3ff6501d-ae82-4c29-a15f-b7069e746835",
+      "season": 7,
+      "number": 5,
+      "name": "Vovserne redder en tjenerbot",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "339b55c1-4000-4cf1-a4d6-d4ce23010192",
+      "season": 7,
+      "number": 6,
+      "name": "Dino-redning: Vovserne og de forsvundne dino-æg",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "dba548bf-e107-45e8-a236-c7f9b3899319",
+      "season": 7,
+      "number": 7,
+      "name": "Dinoredningsaktion: Vovserne og Store Rumle",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "968d74d1-c27e-4748-ac5a-714a8c346448",
+      "season": 7,
+      "number": 9,
+      "name": "Vovserne redder en øm dino",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e046df87-d156-4d7d-8355-f81364cac0cf",
+      "season": 7,
+      "number": 11,
+      "name": "Vovserne redder faldskærmsudspringerne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c7f59bee-b370-46a6-b052-85fdb27a7530",
+      "season": 7,
+      "number": 12,
+      "name": "Vovserne redder Vovse-vognene",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "caa3c960-6085-4d73-96f6-7082aa5bfe55",
+      "season": 7,
+      "number": 14,
+      "name": "Vovserne redder en raketrulleskøjteløber",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b0d700ac-3e19-4092-abb6-a67505e797ad",
+      "season": 7,
+      "number": 15,
+      "name": "Vovserne redder de fangede borgmestre",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a465ef28-26d4-4cf4-ba8e-24683008d632",
+      "season": 7,
+      "number": 16,
+      "name": "Vovserne redder kridt-kunsten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1e59de19-3737-4310-b826-33430d3a2edc",
+      "season": 7,
+      "number": 17,
+      "name": "Vovserne redder en svindel-og-Humdinger",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6ebf203b-fa5a-4ddc-b9e5-8ed89cefc176",
+      "season": 7,
+      "number": 18,
+      "name": "Vovserne redder en lille lodden fyr!",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "10665ff3-e483-4fd0-912f-12de1e89493b",
+      "season": 7,
+      "number": 19,
+      "name": "Vovserne redder Dronning Kluk-Kluk",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4afb93fe-7434-4791-9f66-0fda696a240b",
+      "season": 7,
+      "number": 20,
+      "name": "Motorvovser: Vovserne imod det råseje slæng",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "589eb152-2fcb-4b2f-ad21-b2039a9ec3f3",
+      "season": 7,
+      "number": 21,
+      "name": "Vovserne redder Skralde-Dingeren",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "22504c95-9f13-487b-9e64-ff8732740940",
+      "season": 7,
+      "number": 22,
+      "name": "Motorvovser: Vovserne redder donuts",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b60d5f19-bda3-4f51-986f-14b552e2922b",
+      "season": 7,
+      "number": 23,
+      "name": "Motorvovser: Vovserne redder en motorborgmester",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2f662886-acfb-4518-8521-f465f9fd5fbf",
+      "season": 7,
+      "number": 24,
+      "name": "Redningsaktion på det tvistede taffelbjerg",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "7b703c91-713f-43d9-a398-dc5f91e808b7",
+      "season": 7,
+      "number": 25,
+      "name": "Vovserne stopper et skrotmonster",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b483faee-7574-4da2-9395-91928265a045",
+      "season": 7,
+      "number": 26,
+      "name": "Vovserne redder Tordenmund",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ca583255-e3ee-4a94-a8a1-061945956f4d",
+      "season": 8,
+      "number": 1,
+      "name": "Vovserne redder en bortløben hane",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8e946083-6fc1-4559-a461-e3d18325d56a",
+      "season": 8,
+      "number": 2,
+      "name": "Vovserne redder en sød borgmester",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "affe3b03-e5b2-4739-8570-47f3eef64a71",
+      "season": 8,
+      "number": 3,
+      "name": "Vovserne redder en Rubble-dobbeltgænger",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c5c19228-a5d2-4719-a0fa-69ef96fdad4e",
+      "season": 8,
+      "number": 4,
+      "name": "Vovserne stopper geparden",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "810654df-8893-4cb6-b184-0d0b0950d3c5",
+      "season": 8,
+      "number": 5,
+      "name": "Vovserne redder overskægget",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d34b555a-eae7-4878-aae5-029d0040d5b0",
+      "season": 8,
+      "number": 8,
+      "name": "Vovserne redder et tog",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "42867419-5392-4061-8e94-a568b347df2a",
+      "season": 8,
+      "number": 9,
+      "name": "Vovserne redder skattekrydstogtet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8f0ff1c7-3798-4970-bc77-e279e357215a",
+      "season": 8,
+      "number": 10,
+      "name": "Vovserne og Katie stopper det gøende katteslæng",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b3bc0443-cb85-497d-adf0-de5b92601f03",
+      "season": 8,
+      "number": 11,
+      "name": "Vovserne redder et kongeligt maleri",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "afd65a46-be02-4ad9-9b20-57046990fa95",
+      "season": 8,
+      "number": 12,
+      "name": "Vovserne gemmer en kyllingetulipan",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d873ff02-28cc-43b7-b14c-81a8cc93a9a9",
+      "season": 8,
+      "number": 13,
+      "name": "Vovserne redder en showhopper",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8a624f84-a99e-4d84-84b2-1b46028c3d1d",
+      "season": 8,
+      "number": 15,
+      "name": "Redningsriddere: Jagten på dragens tand",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "275c9876-7626-4952-a763-86b902fc9196",
+      "season": 8,
+      "number": 16,
+      "name": "Vovserne stopper en superryster",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "eba70bb5-6693-47ca-b77b-f48be76c7a00",
+      "season": 8,
+      "number": 17,
+      "name": "Vovserne gemmer et kassefort",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "481ef7d4-6c08-41fb-ae1c-e9dee42e7215",
+      "season": 8,
+      "number": 18,
+      "name": "Redningsriddere: Vovserne redder en døsende drage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c3078bd0-fca5-4858-9ae3-0fe0e6265b47",
+      "season": 8,
+      "number": 19,
+      "name": "Redningsriddere: Vovserne redder en turnering",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8b304282-43e2-4f5c-9224-96ec2988730d",
+      "season": 8,
+      "number": 20,
+      "name": "Redningsriddere: Vovserne bryder isen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b789de81-8136-44ae-a40e-8fcb5cf13f54",
+      "season": 8,
+      "number": 22,
+      "name": "Vovserne redder killingerne og børnene",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c0fa224c-c36f-416a-9273-716eeeebb607",
+      "season": 8,
+      "number": 23,
+      "name": "Vovserne redder de flydende Godgladfamilie",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a71d349d-c32f-49f6-94ea-050a73bf8a3b",
+      "season": 8,
+      "number": 24,
+      "name": "Vovserne redder en ensom hvalros",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "968f76cb-3b60-41f5-b1c6-54dc97bb0981",
+      "season": 9,
+      "number": 1,
+      "name": "Liberty får en ny ven!",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "4718e7c0-9a38-4f5c-bf9f-94eb3ba45a1d",
+      "season": 9,
+      "number": 2,
+      "name": "Vovserne møder Cat Pack",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "7d4ebe20-30ef-40ee-8eda-6c8e7ef9c88e",
+      "season": 9,
+      "number": 3,
+      "name": "Cat Pack og Paw Patrol redder en rumudstilling",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "6fe031e0-38d1-4ec2-9c6c-5e2fa13c733e",
+      "season": 9,
+      "number": 4,
+      "name": "Big Truck vovserne",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "4b78839b-b79c-4293-b364-f38b9af185ed",
+      "season": 9,
+      "number": 5,
+      "name": "Cat Pack og Paw Patrol redder katten, der brølede",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "a837b613-8a07-42fb-a8a1-3ef33b6f375d",
+      "season": 9,
+      "number": 6,
+      "name": "Big Truck vovserne redder en glidende hytte",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "a4042bba-883a-4189-8686-db68709208e2",
+      "season": 9,
+      "number": 7,
+      "name": "Vovserne redder en Humdingerdukke!",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "6a07d09b-6ce5-4ba9-ac1e-820d9f406186",
+      "season": 9,
+      "number": 8,
+      "name": "Kæmpe-lastbils-vovser stopper en stormflod!",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "3973a5ee-170f-4d1a-8a9e-cf7a4ee041f6",
+      "season": 9,
+      "number": 9,
+      "name": "Vovserne redder tandfeen",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "c02bd2be-0a75-4390-be1c-32a221df8e36",
+      "season": 9,
+      "number": 10,
+      "name": "Vovserne redder kyllingerne",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "36045da4-633f-43a9-981a-865ce0825255",
+      "season": 9,
+      "number": 11,
+      "name": "Big Truck-vovserne redder de stjålne højttalere",
+      "airdate": "2023-03-30"
+    },
+    {
+      "id": "e1429cc7-f48f-44f5-8fa2-baf48c7b21a7",
+      "season": 9,
+      "number": 12,
+      "name": "Vovserne redder et ensomt spøgelse",
+      "airdate": "2023-06-15"
+    },
+    {
+      "id": "d8dfad2d-d207-4d23-a51a-c2309181360f",
+      "season": 9,
+      "number": 13,
+      "name": "Vovserne redder en flydende kongelig vogn",
+      "airdate": "2023-06-15"
+    },
+    {
+      "id": "4fe317b8-dc4a-472a-972c-843855c64087",
+      "season": 9,
+      "number": 14,
+      "name": "Vand-vovser redder et flydende slot!",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "22fef6a2-2092-495d-82fb-f0ff5c1275c2",
+      "season": 9,
+      "number": 15,
+      "name": "Vovserne redder en T-rex-bandit",
+      "airdate": "2023-06-15"
+    },
+    {
+      "id": "5f56bb3b-4b51-47fe-b3d5-177a970582a8",
+      "season": 9,
+      "number": 16,
+      "name": "Alle poter på dæk",
+      "airdate": "2023-06-15"
+    },
+    {
+      "id": "f8f1c9fe-0861-4e13-80fe-87e382e80070",
+      "season": 9,
+      "number": 17,
+      "name": "Vovserne redder Katie og nogle killinger",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "81f32313-b03f-4d5c-ae1b-8aabe1343f19",
+      "season": 9,
+      "number": 18,
+      "name": "Vandvovserne redder et havrace",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "f72f9c5c-bd20-42ee-8c07-13683ad87362",
+      "season": 9,
+      "number": 19,
+      "name": "Vandvovserne redder hvalpatrolleren",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "f44ccb89-403b-4b86-bfa4-0e8a1f89ab83",
+      "season": 9,
+      "number": 20,
+      "name": "Vandvovserne stopper en kæmpe blæksprutte",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "d932966e-4039-48fa-8a18-17d4b0785ed7",
+      "season": 9,
+      "number": 21,
+      "name": "Vovserne redder en flamingo",
+      "airdate": "2023-12-16"
+    },
+    {
+      "id": "25a940e9-efde-46f2-9841-04de52ed0acd",
+      "season": 9,
+      "number": 22,
+      "name": "Vovserne redder Vindsvæverne",
+      "airdate": "2023-12-16"
+    },
+    {
+      "id": "c0b0e157-4af3-4902-95e6-a8402435caae",
+      "season": 9,
+      "number": 23,
+      "name": "Vovserne redder Alex' fjerklædte venner",
+      "airdate": "2023-12-16"
+    },
+    {
+      "id": "c6215106-0134-411d-8e5a-2c2f8156ebda",
+      "season": 9,
+      "number": 24,
+      "name": "Vovserve redder en jukebox",
+      "airdate": "2023-12-16"
+    },
+    {
+      "id": "2be18dcd-68a7-4bae-aff1-a175079cc566",
+      "season": 9,
+      "number": 25,
+      "name": "Vovserne redder baby-rumstenene",
+      "airdate": "2023-12-16"
+    },
+    {
+      "id": "496ac15f-5934-4858-a5a1-a2ff1cd356a4",
+      "season": 9,
+      "number": 26,
+      "name": "Charger besøger vovserne",
+      "airdate": "2023-12-16"
+    },
+    {
+      "id": "74aa3dd5-d3c1-41fd-9236-a01971258edd",
+      "season": 10,
+      "number": 1,
+      "name": "Vovserne redder de vilde vandskiløbere",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "e08d7b11-4442-431d-add3-38df15c41fa6",
+      "season": 10,
+      "number": 2,
+      "name": "Vovserne redder en højtflyvende høne",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "69ee005e-5bb3-4f41-bbe4-ce7e12f33d87",
+      "season": 10,
+      "number": 3,
+      "name": "Junglevovserne finder en skjult jungle",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "684681b3-87e9-406d-b9bc-d90befe6dfca",
+      "season": 10,
+      "number": 4,
+      "name": "Vovserne redder en vildfaren isbjørneunge",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "b3d7f8e5-7155-4623-97f9-3c43c429898f",
+      "season": 10,
+      "number": 5,
+      "name": "Vovserne redder regnbuen",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "3beb6109-4026-4bc2-a94d-331087d3646d",
+      "season": 10,
+      "number": 6,
+      "name": "Junglevovserne redder de meget store dyr",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "5aafa5ab-1068-49fa-8ee1-dc9e95ddfacc",
+      "season": 10,
+      "number": 7,
+      "name": "Junglevovserne redder surikat-sørøverne",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "a3b0d8e5-f76a-4e32-9d80-6fbeaaefc69c",
+      "season": 10,
+      "number": 8,
+      "name": "Junglevovserne redder kæmpemyrerne",
+      "airdate": "2024-04-02"
+    },
+    {
+      "id": "3c5f248d-6d46-46a9-834a-37d47d0c8c91",
+      "season": 10,
+      "number": 9,
+      "name": "Vovserne stopper en guldfindermaskine",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "7c81f0e0-40d7-49a9-a7ec-0990e29c6ed0",
+      "season": 10,
+      "number": 10,
+      "name": "Libertys bjergredning",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "1499e6e6-2bb1-4546-928b-3149fbda9924",
+      "season": 10,
+      "number": 11,
+      "name": "Vovserne stopper faldende rumskrald",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "70494997-6375-49ae-aabe-2c67e88bf323",
+      "season": 10,
+      "number": 12,
+      "name": "Vovserne redder Hum-ñata",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "c84b56dd-3fcb-4e80-93e3-a0c26198246f",
+      "season": 10,
+      "number": 13,
+      "name": "Supervovserne mod universets borgmester",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "8115835f-a891-4bd2-90fc-7a6b9a0dbbd3",
+      "season": 10,
+      "number": 14,
+      "name": "Chargers juleeventyr",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "25439363-e00c-4900-ad11-39c36f51512f",
+      "season": 10,
+      "number": 15,
+      "name": "Vovserne redder et babyrensdyr",
+      "airdate": "2024-06-14"
+    },
+    {
+      "id": "01ecdcdb-c078-4063-a2ff-1c37f7829be9",
+      "season": 10,
+      "number": 16,
+      "name": "Mighty Pups mod den store kulde",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "aa906c67-dc61-4076-ae1b-d172d7ce6181",
+      "season": 10,
+      "number": 17,
+      "name": "Mighty Pups stopper superdronningen",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "47c44878-f037-4c97-a915-9dfe69e3a07a",
+      "season": 10,
+      "number": 18,
+      "name": "Vovserne redder en forsvundet rødspætte",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "8c41ded0-7d1c-477a-ba4f-3818f4dd267a",
+      "season": 10,
+      "number": 19,
+      "name": "Vovserne redder Elefant-spaen",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "c7c72537-1165-44fc-a43d-4afabecb1eec",
+      "season": 10,
+      "number": 20,
+      "name": "Vovserne mod Humflec-skærmene",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "d7e3ebdc-006f-4fee-84a8-f8e39f864ad8",
+      "season": 10,
+      "number": 21,
+      "name": "Vovserne og kattene redder Humkatdingermand",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "0117f3bb-4628-4a78-bd17-b1d6d9604a7a",
+      "season": 10,
+      "number": 22,
+      "name": "Vovserne redder en snakkesalig minipatrulje",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "f7cdf694-df1e-4e48-97b8-f805e99c1535",
+      "season": 10,
+      "number": 23,
+      "name": "Redningsbilerne: Vovserne redder Adventure Bay",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "69d9f5eb-e495-4a5e-8284-8d7a36cee101",
+      "season": 10,
+      "number": 24,
+      "name": "Vovserne redder en robotkyllingetaske",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "a0901160-65f4-4d20-8b91-2a7705a77044",
+      "season": 10,
+      "number": 25,
+      "name": "Vovserne får en ny misseven",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "8f83b9e3-03a9-45a4-b078-f308913009c7",
+      "season": 10,
+      "number": 26,
+      "name": "Redningsbilerne: Vovserne mod monsterborgmesteren",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "5f08c0fe-10be-42e0-af21-5cabe98eff35",
+      "season": 11,
+      "number": 1,
+      "name": "Vovserne redder det tiltende tårn",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "aaf20a7e-54d4-4db1-a5d0-b0acf7b71244",
+      "season": 11,
+      "number": 2,
+      "name": "Vovserne redder et farligt kapløb",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "6499f0b3-f604-4312-9e3f-44dc61995af4",
+      "season": 11,
+      "number": 3,
+      "name": "Vovser og en kløgtig kylling",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "2df53a93-c93e-4d63-b64a-f34763f6b9d9",
+      "season": 11,
+      "number": 4,
+      "name": "Vovserne redder Helga og Humsquatch",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "3d5b7257-ad5e-484b-85e4-2e134d074c29",
+      "season": 11,
+      "number": 5,
+      "name": "Vovserne redder instruktøren",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "387e2969-a6f1-4379-8043-e49c1c30efad",
+      "season": 11,
+      "number": 6,
+      "name": "Vovserne redder åbningsceremonien",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "4b13e7b0-5a67-491a-b24a-79d29267d990",
+      "season": 11,
+      "number": 7,
+      "name": "Vovserne redder bjergsurferne",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "d8a09218-366f-4eba-b1b9-948cbf5d4f77",
+      "season": 11,
+      "number": 8,
+      "name": "Vovserne redder bjerggederne",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "f1252448-305c-44fe-8b1e-b7543a10b933",
+      "season": 11,
+      "number": 9,
+      "name": "Vovserne redder en humstronaut",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "13fc1b3d-4301-4733-8281-1a647c01e371",
+      "season": 11,
+      "number": 10,
+      "name": "Vovserne standser en raketdrevet kængurustylte",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "f218f3cb-3fb3-48f9-bb94-ea6297c4ee3c",
+      "season": 11,
+      "number": 11,
+      "name": "Vovserne mod Hum-skyen",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "6ca3f4b2-abb5-4ddf-a2ac-803b3602c692",
+      "season": 11,
+      "number": 12,
+      "name": "Vovserne redder skurkene",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "035ecae8-57e6-431c-a156-1df578d591e4",
+      "season": 11,
+      "number": 13,
+      "name": "Vovserne redder en stor boglevering",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "a1e955dd-e0be-4fa4-9e3a-83d91b7b56b4",
+      "season": 11,
+      "number": 14,
+      "name": "Juniorpatruljens jul",
+      "airdate": "2026-03-17"
+    },
+    {
+      "id": "03aded32-63b1-4901-9063-a3a04f334873",
+      "season": 11,
+      "number": 15,
+      "name": "Vovserne mod robo-anden",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "5a60806d-8050-49e9-bdf2-867cef22c7bf",
+      "season": 11,
+      "number": 16,
+      "name": "Vovserne redder kyllingelokomotivføreren",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "199b72a4-c2fe-43d5-ad3f-4231371bae97",
+      "season": 11,
+      "number": 17,
+      "name": "Vovserne redder Tågeboks",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "699333a4-0889-4ff8-8df4-774127fa8de8",
+      "season": 11,
+      "number": 18,
+      "name": "Brandvovserne: Vovserne redder grillfesten",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "f8a50540-21af-4ac2-853f-62334d9ef807",
+      "season": 11,
+      "number": 19,
+      "name": "Hum-patrulje til undsætning!",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "98a66def-1a32-4e3a-91e6-7b3af467ac38",
+      "season": 11,
+      "number": 20,
+      "name": "Vovserne og blomsternes kraft",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "afdc7c12-6ed0-44a7-819e-86b9cbc5ebca",
+      "season": 11,
+      "number": 21,
+      "name": "Brandvovserne: Vovserne slukker Lizzys limonadebrand",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "01f72dd5-645c-44bf-9e3b-ceb533966be9",
+      "season": 11,
+      "number": 22,
+      "name": "Brandvovserne: Vovserne redder rødspætten",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "ced344eb-0e0e-4d93-8a2e-7d19fc7f0c08",
+      "season": 11,
+      "number": 23,
+      "name": "Brandvovserne: Vovserne redder en gedekidsfødselsdag",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "7a08b133-7079-4666-8044-fc0dfbb8573d",
+      "season": 11,
+      "number": 24,
+      "name": "Vovserne redder Kaptajn Bølgepommes frites",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "af64f02c-ab2e-4680-873e-72cd909a52fd",
+      "season": 11,
+      "number": 25,
+      "name": "Skyes road trip-redning",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "59aaf652-120e-418e-93b3-da7fc17634ef",
+      "season": 11,
+      "number": 26,
+      "name": "Vovserne redder rumkillingen",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "0480b4af-4153-4984-831c-42b917cfed0a",
+      "season": 12,
+      "number": 1,
+      "name": "Vovserne redder en popstjerne",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "a3f30b3c-5300-43ee-aa54-8f5fd3754505",
+      "season": 12,
+      "number": 2,
+      "name": "Vovserne redder cykelløbet",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "6890ae31-19f3-4134-adbf-9b7acf6f9e7d",
+      "season": 12,
+      "number": 3,
+      "name": "Vovserne stopper en kokosnød-katapult",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "bb81bf82-1a77-4172-bfd3-3255d81f138b",
+      "season": 12,
+      "number": 4,
+      "name": "Vovserne redder Hummy Mors nye hjem",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "491dbbf5-bf1b-447b-a6ce-288966992ab7",
+      "season": 12,
+      "number": 5,
+      "name": "Vovserne redder en snacksnupper",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "a145475d-7adf-44f9-8986-76c9247f4e23",
+      "season": 12,
+      "number": 6,
+      "name": "Vovserne redder en bortblæst kæreste",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "d81ac931-f288-41ef-bb51-f2fa50502660",
+      "season": 12,
+      "number": 7,
+      "name": "Vovserne hjælper hønsene med at gå over vejen",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "926324b8-52d7-41c8-8ff6-8a88b291291c",
+      "season": 12,
+      "number": 8,
+      "name": "Vovserne stopper en planteskulpurs-Tal",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "b8ac40c8-9d10-477c-a828-6c82a7835c3b",
+      "season": 12,
+      "number": 9,
+      "name": "Vovserne redder en hjemsøgt gård",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "039794c5-021c-4a8d-a049-d71a771b26eb",
+      "season": 12,
+      "number": 10,
+      "name": "Vovserne redder en storebror",
+      "airdate": "2026-04-04"
+    },
+    {
+      "id": "19caed75-6594-4c81-befe-78d07a8adc89",
+      "season": 12,
+      "number": 11,
+      "name": "Vovserne redder guldfisken",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "8400756e-fc49-460b-b082-79ffd406b3ac",
+      "season": 12,
+      "number": 12,
+      "name": "Katies roadtrip til Arktis",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "975cbe5c-4021-42d1-aa69-748b2ec609d1",
+      "season": 12,
+      "number": 13,
+      "name": "Vovserne redder Humsprøjten",
+      "airdate": "2026-06-27"
+    },
+    {
+      "id": "ea1889cd-e4d7-4f31-9191-8c62a31d36d7",
+      "season": 13,
+      "number": 1,
+      "name": "Vovserne løser et plop og pak-problem",
+      "airdate": "2026-06-29"
+    },
+    {
+      "id": "7e0f8e4e-ca8e-48cc-928d-5a35970e996b",
+      "season": 13,
+      "number": 2,
+      "name": "Vovserne redder orienteringsløberne",
+      "airdate": "2026-06-29"
+    },
+    {
+      "id": "9a73f431-3769-4239-877a-d441cc0db19b",
+      "season": 13,
+      "number": 3,
+      "name": "Vovserne og rumvæsenbedstefar",
+      "airdate": "2026-06-29"
+    },
+    {
+      "id": "41699796-0f4c-4a6f-9590-290ee14a595a",
+      "season": 13,
+      "number": 4,
+      "name": "Vovserne redder en hum-sparker",
+      "airdate": "2026-06-29"
+    }
+  ]
+}

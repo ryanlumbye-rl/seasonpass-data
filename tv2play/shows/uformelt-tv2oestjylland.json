@@ -1,0 +1,257 @@
+{
+  "id": "tv2play:uformelt-tv2oestjylland",
+  "name": "Uformelt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "6d3670e1-6fc5-483d-8004-7605a0d1855a",
+      "season": 1,
+      "number": 1,
+      "name": "Den bedste leverpostej",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "c065b9b7-dca3-45f3-9222-5877ddcfd7d1",
+      "season": 1,
+      "number": 2,
+      "name": "Charter eller roadtrip?",
+      "airdate": "2025-09-28"
+    },
+    {
+      "id": "45ee8486-6fda-4afd-95c7-539a0593efea",
+      "season": 1,
+      "number": 3,
+      "name": "Lugten af hjem",
+      "airdate": "2025-10-05"
+    },
+    {
+      "id": "d3eea0b2-8b21-4fa1-99dd-05cf1e3f217b",
+      "season": 1,
+      "number": 4,
+      "name": "Verdens værste fødselsdato",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "cf6252af-9e63-4425-8eb4-dfd6e72296dc",
+      "season": 1,
+      "number": 5,
+      "name": "Smidt ud af skolen",
+      "airdate": "2025-10-19"
+    },
+    {
+      "id": "c40b31ae-ab80-4e88-a1bd-5df3e07a7c68",
+      "season": 1,
+      "number": 6,
+      "name": "Verdens klogeste ven",
+      "airdate": "2025-11-02"
+    },
+    {
+      "id": "ff927c78-ac40-4fc5-a1eb-92898f1c5a36",
+      "season": 1,
+      "number": 7,
+      "name": "Vækket af mors kanonslag",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "abf363e0-c270-4a55-aac6-2511642b58ae",
+      "season": 1,
+      "number": 8,
+      "name": "Mod, Håb og Kærlighed",
+      "airdate": "2025-11-26"
+    },
+    {
+      "id": "389f1934-caa5-4f26-856b-31daaaf45f4d",
+      "season": 1,
+      "number": 9,
+      "name": "Intet lys uden mørke",
+      "airdate": "2025-11-30"
+    },
+    {
+      "id": "05f7b82b-a6cf-49b8-8ece-43c90b774b47",
+      "season": 1,
+      "number": 10,
+      "name": "En lang linje af bad-ass kvinder",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "89eca534-6e52-41a0-947d-8fafcf27c966",
+      "season": 1,
+      "number": 11,
+      "name": "Ingen gode vaner tilbage fra Corona",
+      "airdate": "2025-12-21"
+    },
+    {
+      "id": "716acc20-0273-4d89-850b-cb445d134f93",
+      "season": 1,
+      "number": 12,
+      "name": "Jule-modsætninger mødes",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "05cc2036-1552-4ccc-b8ab-827e5e9823aa",
+      "season": 1,
+      "number": 13,
+      "name": "Vild med Marianne",
+      "airdate": "2025-12-28"
+    },
+    {
+      "id": "a00cdc8e-00e0-400e-a3b6-50ce647b7531",
+      "season": 1,
+      "number": 14,
+      "name": "Den største fuckfinger til gidseltageren",
+      "airdate": "2026-01-04"
+    },
+    {
+      "id": "0f1ee14b-e8da-4353-9a82-c67062e3caf4",
+      "season": 1,
+      "number": 15,
+      "name": "Nogle gange kan valg gøre lidt avs!",
+      "airdate": "2026-01-11"
+    },
+    {
+      "id": "a682f6f9-013c-4376-8ea5-a8cb683c3d40",
+      "season": 2,
+      "number": 1,
+      "name": "Vis mig din værste - og bedste - vane",
+      "airdate": "2026-01-18"
+    },
+    {
+      "id": "4ec879a0-741d-425d-a8fe-e0df21970980",
+      "season": 2,
+      "number": 2,
+      "name": "Livet er en holdsport",
+      "airdate": "2026-01-25"
+    },
+    {
+      "id": "858c7a23-4a75-427c-bf8f-08bf41a219c9",
+      "season": 2,
+      "number": 3,
+      "name": "Solgte sin krop til Helmig-koncert",
+      "airdate": "2026-02-08"
+    },
+    {
+      "id": "b0fe25f4-fe4d-4827-9193-556e527460aa",
+      "season": 2,
+      "number": 4,
+      "name": "Styrken i sårbarhed",
+      "airdate": "2026-02-16"
+    },
+    {
+      "id": "ccad8176-8093-4864-ae80-4c0b2135032f",
+      "season": 2,
+      "number": 5,
+      "name": "Afslog hestehandel med Bill Gates",
+      "airdate": "2026-02-22"
+    },
+    {
+      "id": "775d90b1-67a2-47cf-9a1b-a4c9903fb9a7",
+      "season": 2,
+      "number": 6,
+      "name": "Stolthed og jantelov",
+      "airdate": "2026-02-23"
+    },
+    {
+      "id": "2730bace-1ed7-45d5-b633-4a31a36ef347",
+      "season": 2,
+      "number": 7,
+      "name": "Ingen starter som en stjerne",
+      "airdate": "2026-04-02"
+    },
+    {
+      "id": "107fd4c3-01d5-4644-b456-0acb0cc10ba0",
+      "season": 2,
+      "number": 8,
+      "name": "Mangel på stilhed",
+      "airdate": "2026-04-12"
+    },
+    {
+      "id": "0dda5209-c5ba-41f3-8382-783f431cbd07",
+      "season": 2,
+      "number": 9,
+      "name": "Spøger det?",
+      "airdate": "2026-04-26"
+    },
+    {
+      "id": "0a59cadc-3605-4400-9b30-71c471ea8bb0",
+      "season": 2,
+      "number": 10,
+      "name": "Bare for i dag",
+      "airdate": "2026-05-10"
+    },
+    {
+      "id": "4b9d7cba-0400-4aa0-8112-bb2f72a3281e",
+      "season": 2,
+      "number": 11,
+      "name": "Kendt læge har glødende passion",
+      "airdate": "2026-05-10"
+    },
+    {
+      "id": "6adba303-cc9a-44a0-b242-3a0cda7e0b77",
+      "season": 2,
+      "number": 12,
+      "name": "Hver tid har sit højdepunkt",
+      "airdate": "2026-05-14"
+    },
+    {
+      "id": "a0bcb844-ab51-4e90-997c-5d90406ae485",
+      "season": 2,
+      "number": 13,
+      "name": "Ofte er din svaghed også en styrke",
+      "airdate": "2026-07-05"
+    },
+    {
+      "id": "665fd321-de6e-4a02-8c2c-878a229798d3",
+      "season": 2,
+      "number": 14,
+      "name": "Et skridt tilbage i stedet for et frem",
+      "airdate": "2026-07-05"
+    },
+    {
+      "id": "ff51472f-02a0-4000-b14a-b4b5979f4950",
+      "season": 2,
+      "number": 15,
+      "name": "Et maraton på løbebånd - uden træning",
+      "airdate": "2026-07-12"
+    },
+    {
+      "id": "d53c0127-5d01-4756-8d18-f021472a2f68",
+      "season": 2,
+      "number": 16,
+      "name": "Hjælper vi mest for vores egen eller for andres skyld?",
+      "airdate": "2026-07-19"
+    },
+    {
+      "id": "e1edf3fe-ff57-464e-8ec8-c79dc9e35c92",
+      "season": 2,
+      "number": 17,
+      "name": "Det gør nas at føle sig udenfor",
+      "airdate": "2026-07-26"
+    },
+    {
+      "id": "53b397a5-383c-49e6-9d54-02c7e3522d88",
+      "season": 2,
+      "number": 18,
+      "name": "Man skal turde at drømme stort",
+      "airdate": "2026-08-02"
+    },
+    {
+      "id": "701304fd-de3f-4a1b-b6d1-ec76bfb3f0e9",
+      "season": 2,
+      "number": 19,
+      "name": "Det, vi kan dele, er det, vi kan hele",
+      "airdate": "2026-08-16"
+    },
+    {
+      "id": "af39d192-5492-4cfb-be6c-7fa539226914",
+      "season": 2,
+      "number": 20,
+      "name": "Smidt ud hjemmefra som 8-årig",
+      "airdate": "2026-08-30"
+    }
+  ],
+  "description": "Velkommen indenfor til en hyggelig snak om tidens store og små emner med et panel af markante østjyder. Vi garanterer godt selskab, hvor tre kendte østjyder deler ud af sjove oplevelser og personlige anekdoter. Uformelt er et pusterum med fortællinger, der overrasker og underholder.",
+  "image": "https://cdn-play.tv2i.dk/fb9346c9-b34c-42b4-aee4-ef6e13a976f0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280"
+}

@@ -238,6 +238,13 @@
       "airdate": "2023-09-22"
     },
     {
+      "id": "81ebe0d3-4ac2-4dbf-bf4a-8eb336cf0b46",
+      "season": 2,
+      "number": 8,
+      "name": "The Communicator",
+      "airdate": "2023-09-22"
+    },
+    {
       "id": "3df345a9-0b56-41b5-a6e0-33024f3df3b2",
       "season": 2,
       "number": 9,
@@ -685,5 +692,7 @@
       "name": "These Are the Voyages ...",
       "airdate": "2023-10-06"
     }
-  ]
+  ],
+  "description": "Følg besætningen på rumskibet Enterprise i deres tidlige pionerdage med udforskning af det ydre rum.",
+  "image": "https://cdn-play.tv2i.dk/e46215ee-d602-4e88-93cc-80eafe008f8d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

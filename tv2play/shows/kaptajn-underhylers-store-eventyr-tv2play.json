@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "George og Harold elsker skøre idéer og sjove narrestreger. Men da de ved et uheld hypnotiserer deres strenge skoleleder og forvandler ham til superhelten Kaptajn Underhyler, begynder et hylende morsomt eventyr fyldt med latter, action og total kaos.",
+  "image": "https://cdn-play.tv2i.dk/7d377116-e0f2-313c-8374-c68e8dcd4cf8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C854%2C480&w=1280",
   "episodes": [
     {
       "id": "a8e6aa04-3eb5-4b0d-b00d-53090a29eb65",
@@ -172,6 +174,13 @@
       "season": 1,
       "number": 24,
       "name": "Den lusede legende om det lede lossemonster",
+      "airdate": "2026-10-03"
+    },
+    {
+      "id": "41625a92-7180-4390-9a20-e72883d2e6b6",
+      "season": 1,
+      "number": 25,
+      "name": "Det svidende slag af de svindleriske sladreprøver (1)",
       "airdate": "2026-10-03"
     },
     {

@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:branco-tv2echo",
+  "name": "Branco",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med bag om rapperen og musikeren Branco, der er en af de mest populære og streamede artister i hele Skandinavien. Branco har lavet musik i ti år og står bag et utal af hits - nu fortæller han med egne ord om sin opvækst, sit liv og sin bemærkelsesværdige karriere.",
+  "image": "https://cdn-play.tv2i.dk/52adb4f2-3892-48fc-a7ae-cd65eae63a99.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "fa5042e8-f26b-4f97-9d2c-cc5afa629d01",
+      "season": 1,
+      "number": 1,
+      "name": "En udvej",
+      "airdate": "2022-03-08"
+    },
+    {
+      "id": "8a8834ad-a5e1-41e2-bb17-1231bc4fd7d7",
+      "season": 1,
+      "number": 2,
+      "name": "Motivation Mansion",
+      "airdate": "2022-03-08"
+    },
+    {
+      "id": "04dd412b-5ed4-4603-b13b-2d3480b92997",
+      "season": 1,
+      "number": 3,
+      "name": "Disciplinen må overtage",
+      "airdate": "2022-03-15"
+    },
+    {
+      "id": "aec1e095-9ba3-4fdd-b4bb-6737406e8a70",
+      "season": 1,
+      "number": 4,
+      "name": "Mere end musik",
+      "airdate": "2022-03-22"
+    },
+    {
+      "id": "2863eaec-c0c2-405f-ab8d-4292ba640e50",
+      "season": 1,
+      "number": 5,
+      "name": "En ny begyndelse",
+      "airdate": "2022-03-29"
+    }
+  ]
+}

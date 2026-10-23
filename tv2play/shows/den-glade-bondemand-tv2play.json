@@ -1,0 +1,89 @@
+{
+  "id": "tv2play:den-glade-bondemand-tv2play",
+  "name": "Den glade bondemand",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "55d24ad2-69c6-48a6-b14a-cb2bc23094f8",
+      "season": 1,
+      "number": 1,
+      "name": "Dyreliv på første klasse",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "e0941fad-613f-4b9b-8610-736ac32fa709",
+      "season": 1,
+      "number": 2,
+      "name": "Nyfødte kalve på græs",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "6f62ffea-6c96-4736-9021-107d5354edc6",
+      "season": 1,
+      "number": 3,
+      "name": "Torvedag og badedag",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "7345b8d3-a042-4b82-a2ef-9ac48e680b01",
+      "season": 1,
+      "number": 4,
+      "name": "Svalerne sviner og køerne vil ikke ind",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "70bc72e8-c9de-4a89-9146-9f2575d43f7c",
+      "season": 2,
+      "number": 1,
+      "name": "Besøg fra skolen",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "222a847d-2409-4fae-ba98-4b4e9bc2548e",
+      "season": 2,
+      "number": 2,
+      "name": "Kød i lange baner",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "7923c3c4-2877-4082-9b7e-3a83fe2266d1",
+      "season": 2,
+      "number": 3,
+      "name": "Juleand og julegås",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "2490b3ea-2e0e-4888-977a-67f2254293dc",
+      "season": 2,
+      "number": 4,
+      "name": "Forårsfornemmelser",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "d6233b04-10ef-4ccf-ac06-2a98c595201d",
+      "season": 3,
+      "number": 1,
+      "name": "Besøg på Sønderlund",
+      "airdate": "2023-05-18"
+    },
+    {
+      "id": "8f8c7d07-e8bf-45b7-a42f-53f8bace9d9c",
+      "season": 3,
+      "number": 2,
+      "name": "Ægmobilen, ny wunni og flotte løg",
+      "airdate": "2023-05-25"
+    },
+    {
+      "id": "041ddfe9-312c-46db-8327-582205813ab0",
+      "season": 3,
+      "number": 3,
+      "name": "Heste, koldt forår og en våd vinter",
+      "airdate": "2023-06-01"
+    }
+  ]
+}

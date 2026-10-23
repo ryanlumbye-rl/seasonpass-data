@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:the-good-lord-bird-skyshowtime",
+  "name": "The Good Lord Bird",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ethan Hawke spiller abolitionisten Brown. Slaven Onion er medlem af Browns hær og deltager i angrebet på Harper's Ferry.",
+  "image": "https://cdn-play.tv2i.dk/5d62b3e6-cb52-4323-b274-bf312d34b155.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "778cb89d-8e75-4d58-9efa-b03e4ab92632",
+      "season": 1,
+      "number": 1,
+      "name": "Meet the Lord",
+      "airdate": "2021-08-05"
+    },
+    {
+      "id": "7a57dba1-b10c-43e9-84d1-4bc2da8a7d3f",
+      "season": 1,
+      "number": 2,
+      "name": "A Wicked Plot",
+      "airdate": "2021-08-05"
+    },
+    {
+      "id": "a9351bb5-6bad-4f6d-901c-10c77797fd43",
+      "season": 1,
+      "number": 3,
+      "name": "Mister Fred",
+      "airdate": "2021-08-05"
+    },
+    {
+      "id": "d9cfb992-837d-4469-bbd0-767212a35468",
+      "season": 1,
+      "number": 4,
+      "name": "Smells Like Bear",
+      "airdate": "2021-08-05"
+    },
+    {
+      "id": "354b9205-2952-4359-b0e5-7d6b02931679",
+      "season": 1,
+      "number": 5,
+      "name": "Hiving the Bees",
+      "airdate": "2021-08-05"
+    },
+    {
+      "id": "892c6d6b-dc4c-4722-86e3-46933857dc81",
+      "season": 1,
+      "number": 6,
+      "name": "Jesus is Walkin'",
+      "airdate": "2021-08-05"
+    },
+    {
+      "id": "5d6682c2-6139-41a4-9652-48407b5b867b",
+      "season": 1,
+      "number": 7,
+      "name": "Last Words",
+      "airdate": "2021-08-05"
+    }
+  ]
+}

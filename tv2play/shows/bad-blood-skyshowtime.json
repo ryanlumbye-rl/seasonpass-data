@@ -35,6 +35,13 @@
       "airdate": "2025-08-01"
     },
     {
+      "id": "a93b2312-8b0c-4297-8e3f-d8deccb948b7",
+      "season": 1,
+      "number": 5,
+      "name": "When You Got Nothin'…",
+      "airdate": "2025-08-01"
+    },
+    {
       "id": "3acc2c4c-5dcf-4082-859b-e8ec82f9ac72",
       "season": 1,
       "number": 6,
@@ -97,5 +104,7 @@
       "name": "Declan's Choice",
       "airdate": "2025-08-01"
     }
-  ]
+  ],
+  "description": "Rizzuto-familien og dens efterfølgere står over for nye fjender og konflikter, mens de styrer narkotikahandlen i Montreal.",
+  "image": "https://cdn-play.tv2i.dk/c9b99baa-f84a-48ec-8033-fa4e903b7274.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

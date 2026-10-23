@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:granite-harbour-tv2charlie",
+  "name": "Granite Harbour",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Britisk krimidramaserie i tre afsnit, der foregår i Aberdeen, Skotland. Serien følger den tidligere sergent i Royal Military Police, nu efterforsker Davis Lindo, og hans partner Lara Bartlett, som skal løse mordet på en oliemagnat i Aberdeen.",
+  "image": "https://cdn-play.tv2i.dk/195f4572-746b-4900-9877-a35f6a58673d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "92c36ef5-03b8-4476-aec3-a9af86189e99",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-08"
+    },
+    {
+      "id": "0b684e65-420c-4745-a0c4-80565743e1d7",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-15"
+    },
+    {
+      "id": "cd1086f6-6bcf-4a17-a3dc-982747d5f1b2",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-01-22"
+    },
+    {
+      "id": "72eb5ec4-5699-400d-b9ca-442e6b981a5a",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "6ef0bdb5-b871-4b86-b928-c7c174f2db55",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-06-03"
+    },
+    {
+      "id": "9b8ae084-e94f-4693-a2f2-f2d4bb57f13f",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-06-04"
+    }
+  ]
+}

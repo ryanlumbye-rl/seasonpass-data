@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:atomic-skyshowtime",
+  "name": "Atomic",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Atomic er et eksplosivt actioneventyr, hvor narkosmugleren Max og den tidligere militante jihadist JJ kastes ind i et dødsensfarligt spil i den libyske ørken. Et kartel vil bygge en atombombe – og kun de to mænd står i vejen. Nu må de vælge: redde deres egne liv eller redde hele menneskeheden.",
+  "image": "https://cdn-play.tv2i.dk/b567702d-a681-4c4c-b0ad-e9cf8d73e50f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "453e55e6-a30e-497e-98d7-f5921db94715",
+      "season": 1,
+      "number": 1,
+      "name": "Al Britani",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "f552586d-e76c-438f-bc7e-9407d3b737bb",
+      "season": 1,
+      "number": 2,
+      "name": "Baal",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "26c78fa9-1553-44b6-b6a5-097e279b4774",
+      "season": 1,
+      "number": 3,
+      "name": "The End Of Days",
+      "airdate": "2025-10-03"
+    },
+    {
+      "id": "5682614c-d474-437b-a611-bcc005860f73",
+      "season": 1,
+      "number": 4,
+      "name": "Little Boy",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "1fae579d-2d64-4c25-86d4-1af314574191",
+      "season": 1,
+      "number": 5,
+      "name": "The Path of Totality",
+      "airdate": "2025-10-17"
+    }
+  ]
+}

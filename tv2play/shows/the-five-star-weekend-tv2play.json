@@ -5,6 +5,8 @@
   "status": "Running",
   "tmdbId": null,
   "next": "2026-11-06",
+  "description": "Efter et knusende tab samler den berømte kogebogsforfatter og madprofil Hollis Shaw fire kvinder fra forskellige kapitler af sit liv til en eksklusiv weekend på Nantucket. Men bag de perfekte middage og idylliske solnedgange lurer hemmeligheder, som kan vende op og ned på alt.",
+  "image": "https://cdn-play.tv2i.dk/8a1f76de-7dcc-3c20-84a7-9688a4eae534.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "72c5f32e-0c5d-42ea-927d-9b4d40325f0f",
@@ -19,6 +21,13 @@
       "number": 2,
       "name": "Friday Night: Pajama Dance Party",
       "airdate": "2026-10-16"
+    },
+    {
+      "id": "11465a2e-fd36-4b18-9e10-eeb2fc9b6c28",
+      "season": 1,
+      "number": 5,
+      "name": "Saturday Night: Nice Dinner Out",
+      "airdate": "2026-11-06"
     }
   ]
 }

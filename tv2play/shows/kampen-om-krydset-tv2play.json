@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:kampen-om-krydset-tv2play",
+  "name": "Kampen om krydset",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Spidskandidaterne i hver af de 34 kommuner mødes til debat om fremtidens beslutninger.",
+  "image": "https://cdn-play.tv2i.dk/4dbd3067-0baf-49af-9d2d-1d13f6f1b2ae.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1022%2C575&w=1280",
+  "episodes": [
+    {
+      "id": "149cb641-d4f5-455c-ba67-9640d61a698a",
+      "season": 2025,
+      "number": 1,
+      "name": "Slagelse kommune",
+      "airdate": "2025-11-02"
+    },
+    {
+      "id": "44104a6e-a76f-49e4-bc28-2715d4424a13",
+      "season": 2025,
+      "number": 2,
+      "name": "Lolland Kommune",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "b9e15388-3ec7-484f-a281-2fdd9148d5ab",
+      "season": 2025,
+      "number": 3,
+      "name": "Odsherred Kommune",
+      "airdate": "2025-11-04"
+    },
+    {
+      "id": "c2153161-b379-471a-9251-e16a71df9083",
+      "season": 2025,
+      "number": 4,
+      "name": "Stevns Kommune",
+      "airdate": "2025-11-05"
+    },
+    {
+      "id": "c63f6425-5e28-4b4f-87a3-9ad7c65a6e64",
+      "season": 2025,
+      "number": 5,
+      "name": "Holbæk Kommune",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "fe833686-7e6b-4909-8b98-e9fdd7efddcd",
+      "season": 2025,
+      "number": 6,
+      "name": "Sorø Kommune",
+      "airdate": "2025-11-07"
+    },
+    {
+      "id": "f0a5ad68-53f5-4065-b3e3-cca96ca9e75c",
+      "season": 2025,
+      "number": 7,
+      "name": "Vordingborg Kommune",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "2167612b-3c77-40c3-bba5-dc1765596c62",
+      "season": 2025,
+      "number": 8,
+      "name": "Ringsted Kommune",
+      "airdate": "2025-11-11"
+    },
+    {
+      "id": "a66dbbd2-a970-4ec1-beaf-b5571ead484c",
+      "season": 2025,
+      "number": 9,
+      "name": "Næstved Kommune",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "b2c5721a-e5f5-495d-bfd0-299201dc2e35",
+      "season": 2025,
+      "number": 10,
+      "name": "Faxe Kommune",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "8a6338f9-2cc2-4172-a284-ef4ca763cdd1",
+      "season": 2025,
+      "number": 11,
+      "name": "Kalundborg Kommune",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "235ca138-c1f2-47b7-aa39-1278b224d7b3",
+      "season": 2025,
+      "number": 12,
+      "name": "Guldborgsund Kommune",
+      "airdate": "2025-11-16"
+    }
+  ]
+}

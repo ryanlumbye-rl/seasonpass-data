@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:escape-at-dannemora-skyshowtime",
+  "name": "Escape at Dannemora",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Denne prisvindende tv-serie er baseret på en fangeflugt i delstaten New York i sommeren 2015, der igangsatte en omfattende menneskejagt efter to mordere. Fangerne fik hjælp til flugten af en gift kvindelig fængselsansat, som de begge havde et seksuelt forhold til.",
+  "image": "https://cdn-play.tv2i.dk/edb27d1e-4e7b-47b8-8776-03037a73fd01.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1943%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "a9f92d9f-7448-4096-af11-803e154b6f23",
+      "season": 1,
+      "number": 1,
+      "name": "Part 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d8f86971-897e-4277-9fbb-775e25923aaa",
+      "season": 1,
+      "number": 2,
+      "name": "Part 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ffbe2402-e575-44f9-a4c6-092ba400c72b",
+      "season": 1,
+      "number": 3,
+      "name": "Part 3",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4e5af374-83f9-4d3a-a329-dd4adec656f3",
+      "season": 1,
+      "number": 4,
+      "name": "Part 4",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "073ab124-2701-4a58-a397-6cc1d64987b4",
+      "season": 1,
+      "number": 5,
+      "name": "Part 5",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e8745c5e-2c2f-4573-9ced-9876b5d46e5b",
+      "season": 1,
+      "number": 6,
+      "name": "Part 6",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "efe3e949-e83c-4307-89e4-f1a6afe006dc",
+      "season": 1,
+      "number": 7,
+      "name": "Part 7, I",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eb44c7a4-d51a-4973-9817-efc5212d615d",
+      "season": 1,
+      "number": 8,
+      "name": "Part 7, II",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

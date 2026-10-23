@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:bispebjergs-hemmelighed-tv2",
+  "name": "Bispebjergs hemmelighed",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Natasja Crone dykker ned i en historie om et hemmeligt netværk, der reddede tusindvis af jøder til Sverige under Anden Verdenskrig. Nu vil hun undersøge, om historien taler sandt og finde svar på, hvorfor den unge lægestuderende Cato Bakman sprang i døden fra Bispebjerg Hospital.",
+  "image": "https://cdn-play.tv2i.dk/08969a4c-1a0a-41d2-beea-715d1906d610.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "32a12073-235b-4550-861e-6b7ce691504d",
+      "season": 1,
+      "number": 1,
+      "name": "På flugt fra helvede",
+      "airdate": "2025-04-21"
+    },
+    {
+      "id": "a90eb7f2-d229-4dc4-9fcf-4b9c8ed87504",
+      "season": 1,
+      "number": 2,
+      "name": "Prisen for en helt",
+      "airdate": "2025-04-28"
+    }
+  ]
+}

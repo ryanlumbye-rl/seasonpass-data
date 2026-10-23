@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:diamantfamilien-i-sneen-tv2echo",
+  "name": "Diamantfamilien i sneen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Diamantfamilien tager på juleferie i sneklædte Finland, men hvor længe varer julefreden, når den farverige familie skal være tæt samlet i fire dage?",
+  "image": "https://cdn-play.tv2i.dk/5cb8bbce-1366-4785-9447-60354ea317a3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "a0e5eb67-1f11-4bc0-8377-1b38c947b155",
+      "season": 1,
+      "number": 1,
+      "name": "Idyl eller kaos?",
+      "airdate": "2019-12-12"
+    },
+    {
+      "id": "0eecd1bf-94da-476f-8a1e-46aa51716bd1",
+      "season": 1,
+      "number": 2,
+      "name": "Thalia ude i kulden",
+      "airdate": "2019-12-12"
+    },
+    {
+      "id": "3cf06aa9-e477-4d50-b998-b728afd14e5b",
+      "season": 1,
+      "number": 3,
+      "name": "Elvira, naughty eller nice?",
+      "airdate": "2019-12-19"
+    }
+  ]
+}

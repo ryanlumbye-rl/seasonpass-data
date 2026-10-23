@@ -1,0 +1,152 @@
+{
+  "id": "tv2play:tell-me-a-story-skyshowtime",
+  "name": "Tell Me a Story",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tell Me A Story tager verdens mest elskede eventyr og genfortolker dem som en mørk og foruroligende psykologisk thriller.",
+  "image": "https://cdn-play.tv2i.dk/a4af3b6b-21b7-4d63-9e50-d7ebfffe40e2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3b64e272-0c26-40e8-8a18-1ddbfddb7658",
+      "season": 1,
+      "number": 1,
+      "name": "Chapter 1: Hope",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0a663ecc-6b42-4f2b-a071-45f35e23912f",
+      "season": 1,
+      "number": 2,
+      "name": "Chapter 2: Loss",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ae7974b7-c6a6-4d93-9519-0e53d7db2ef6",
+      "season": 1,
+      "number": 3,
+      "name": "Chapter 3: Greed",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b8345377-f8f7-45b1-82ed-8cb04cb0418c",
+      "season": 1,
+      "number": 4,
+      "name": "Chapter 4: Rage",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "31723529-d439-4d0a-b24a-03b4c8aa518a",
+      "season": 1,
+      "number": 5,
+      "name": "Chapter 5: Madness",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "284a917a-e52f-411a-b596-30e1f1a3741c",
+      "season": 1,
+      "number": 6,
+      "name": "Chapter 6: Guilt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d8db3655-b3cf-4c17-9f40-eb1e00106b4a",
+      "season": 1,
+      "number": 7,
+      "name": "Chapter 7: Betrayal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6fc82423-04cd-4619-851e-c54230441213",
+      "season": 1,
+      "number": 8,
+      "name": "Chapter 8: Truth",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1981573f-be4c-4e4e-a6ff-95e8e217efb8",
+      "season": 1,
+      "number": 9,
+      "name": "Chapter 9: Deception",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5f4e1642-3999-4f8f-9bd2-6ec513d4f526",
+      "season": 1,
+      "number": 10,
+      "name": "Chapter 10: Forgiveness",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "da95123f-fe8d-4775-9f8c-c233bcbb48f1",
+      "season": 2,
+      "number": 1,
+      "name": "The Curse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a87dd31f-2994-40e4-8104-767c1bd8eea5",
+      "season": 2,
+      "number": 2,
+      "name": "Writer's Block",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b05544ec-0880-4c9a-b885-676fb5da5e05",
+      "season": 2,
+      "number": 3,
+      "name": "Family Business",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5c14340f-ff1c-4176-b3e6-ab0a3d3578b3",
+      "season": 2,
+      "number": 4,
+      "name": "Number One Fan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "00266d9d-4e83-47a2-9bfc-cc7494a9cb81",
+      "season": 2,
+      "number": 5,
+      "name": "New Pages",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cba23e60-9c13-48d7-b1e5-c05b618ad69f",
+      "season": 2,
+      "number": 6,
+      "name": "Lost and Found",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b6ed116d-6e29-4a78-b0f9-0fab0743318e",
+      "season": 2,
+      "number": 7,
+      "name": "Thorns And All",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "18f4610c-2980-419d-a009-dc79ce4641b6",
+      "season": 2,
+      "number": 8,
+      "name": "Sweet Dreams",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0544d5cd-ace3-4ce6-882a-5a12ad20d8ca",
+      "season": 2,
+      "number": 9,
+      "name": "Favorite Son",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cad4bf59-93e1-4c1d-80b0-c1837125b0ef",
+      "season": 2,
+      "number": 10,
+      "name": "Ever After",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

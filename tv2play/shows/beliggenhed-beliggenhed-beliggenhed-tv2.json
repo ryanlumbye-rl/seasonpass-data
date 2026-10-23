@@ -525,13 +525,6 @@
       "airdate": "2020-08-19"
     },
     {
-      "id": "fe3093fc-3e57-40fb-bb2a-91c158b362f9",
-      "season": 10,
-      "number": 4,
-      "name": "På boligjagt i København for millioner",
-      "airdate": "2020-08-12"
-    },
-    {
       "id": "4c7d30c1-0dec-4b1a-82f0-4eb36282cab8",
       "season": 10,
       "number": 5,
@@ -1056,5 +1049,7 @@
       "name": "På Lolland og i Greve",
       "airdate": "2026-09-03"
     }
-  ]
+  ],
+  "description": "Mæglerfirkløveret Camilla Rubæk, Christian Borregaard, Sara Lygum og Dilsad Sahin rykker ud i hele landet og hjælper boligsøgende med at finde det rigtige hjem.",
+  "image": "https://cdn-play.tv2i.dk/474c1519-c4af-4a55-bd91-24d474309264.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280"
 }

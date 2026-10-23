@@ -1,0 +1,110 @@
+{
+  "id": "tv2play:meyerheim-stjernerne-tv2charlie",
+  "name": "Meyerheim & stjernerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Michael Meyerheim har forladt det trygge talkshowstudie og træder nu ud i virkeligheden, hvor han møder nogle af Danmarks mest kendte mennesker.",
+  "image": "https://cdn-play.tv2i.dk/8b4e33fa-3802-4ab9-9397-99398c4b3e6e.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "8b0afa9d-1c1d-4926-8384-acddb148bb0c",
+      "season": 1,
+      "number": 1,
+      "name": "Tom Kristensen - den ydmyge verdensstjerne",
+      "airdate": "2018-02-19"
+    },
+    {
+      "id": "80433be3-246a-4f75-b45c-a9ab5b0cf465",
+      "season": 1,
+      "number": 2,
+      "name": "Bodil Jørgensen - det gode menneske",
+      "airdate": "2018-02-19"
+    },
+    {
+      "id": "9567120c-7b10-49be-957d-bf452700371b",
+      "season": 1,
+      "number": 3,
+      "name": "Med Ulrik Wilbek - den lidenskabelige leder",
+      "airdate": "2018-02-26"
+    },
+    {
+      "id": "50ac2de0-1ddb-40aa-a48b-f2ae2c6f84ed",
+      "season": 1,
+      "number": 4,
+      "name": "Lars Ranthe - den passionerede perfektionist",
+      "airdate": "2018-03-05"
+    },
+    {
+      "id": "18198409-278f-4a7f-b160-54a4630750ca",
+      "season": 1,
+      "number": 6,
+      "name": "Morten Olsen - som du aldrig har set ham før",
+      "airdate": "2018-04-16"
+    },
+    {
+      "id": "46f65e0c-ee39-40ea-b558-afc4b30ba4d0",
+      "season": 2,
+      "number": 1,
+      "name": "Tæt på Ulla Terkelsen",
+      "airdate": "2019-02-04"
+    },
+    {
+      "id": "ded4d6e9-3885-416f-92c0-5196c7a1ca04",
+      "season": 2,
+      "number": 2,
+      "name": "Tæt på Bille August",
+      "airdate": "2019-02-11"
+    },
+    {
+      "id": "df1de32a-fee9-4391-a878-4725ed96bcc8",
+      "season": 3,
+      "number": 1,
+      "name": "Tæt på Nikolaj Jacobsen",
+      "airdate": "2020-01-06"
+    },
+    {
+      "id": "2b291cfa-4f4e-4491-b3c0-74ede8a017c9",
+      "season": 3,
+      "number": 4,
+      "name": "Tæt på Susse Wold",
+      "airdate": "2020-02-17"
+    },
+    {
+      "id": "bc3db884-f73a-47eb-b650-6f46c52c1777",
+      "season": 3,
+      "number": 6,
+      "name": "Tæt på Peter Mygind",
+      "airdate": "2020-03-02"
+    },
+    {
+      "id": "584c75a1-ea77-42c6-ade0-eb3817856e55",
+      "season": 5,
+      "number": 1,
+      "name": "Tæt på Kasper Hjulmand",
+      "airdate": "2022-03-28"
+    },
+    {
+      "id": "f7a19d18-f3d0-4b42-ae4a-52140d4d2448",
+      "season": 5,
+      "number": 2,
+      "name": "Tæt på Tommy Kenter",
+      "airdate": "2022-03-28"
+    },
+    {
+      "id": "65249d2a-ae2e-46bc-ab90-67cae2e452d4",
+      "season": 5,
+      "number": 3,
+      "name": "Tæt på Thure Lindhardt",
+      "airdate": "2022-04-04"
+    },
+    {
+      "id": "e9132de1-0991-47a1-b106-f6643ddc29bf",
+      "season": 5,
+      "number": 4,
+      "name": "Tæt på Lene Maria Christensen",
+      "airdate": "2022-04-11"
+    }
+  ]
+}

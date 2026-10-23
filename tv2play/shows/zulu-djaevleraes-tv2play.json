@@ -1,0 +1,222 @@
+{
+  "id": "tv2play:zulu-djaevleraes-tv2play",
+  "name": "Zulu Djævleræs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kendte danskere kører vilde og hæsblæsende djævleræs mod hinanden.",
+  "image": "https://cdn-play.tv2i.dk/a267a1eb-5256-4b69-8c22-500ae2dd25b3.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "9707a506-aced-4a15-a340-3fd566306feb",
+      "season": 1,
+      "number": 1,
+      "name": "Kæppen i bund og deruda'",
+      "airdate": "2007-04-12"
+    },
+    {
+      "id": "45d2c861-846f-4150-b70e-c1e45a7bafdb",
+      "season": 1,
+      "number": 2,
+      "name": "Kæppen i bund og deruda'",
+      "airdate": "2007-04-19"
+    },
+    {
+      "id": "e156a419-4fae-4ed3-98c7-92afbd2279f3",
+      "season": 1,
+      "number": 3,
+      "name": "Kæppen i bund og deruda'",
+      "airdate": "2007-04-26"
+    },
+    {
+      "id": "1e03b651-0f3e-4b13-91fd-aa418a9cd726",
+      "season": 1,
+      "number": 4,
+      "name": "Kæppen i bund og deruda'",
+      "airdate": "2007-05-03"
+    },
+    {
+      "id": "c27b94e8-302b-4947-ab54-73f061b3a595",
+      "season": 1,
+      "number": 5,
+      "name": "Kæppen i bund og deruda' - Semifinale",
+      "airdate": "2007-05-10"
+    },
+    {
+      "id": "a2245153-fa3d-4406-a2ed-9a5c468c146c",
+      "season": 1,
+      "number": 6,
+      "name": "Kæppen i bund og deruda' - Semifinale",
+      "airdate": "2007-05-17"
+    },
+    {
+      "id": "3fcb044d-8851-46ec-806a-3d1b15512786",
+      "season": 1,
+      "number": 7,
+      "name": "Kæppen i bund og deruda' - Finalen",
+      "airdate": "2007-05-24"
+    },
+    {
+      "id": "a5c68078-172e-4ff2-9a6a-34811ede3eb0",
+      "season": 2,
+      "number": 1,
+      "name": "Djævlen er løs",
+      "airdate": "2007-09-20"
+    },
+    {
+      "id": "fd55f70b-62bf-449f-8a86-b18a66441371",
+      "season": 2,
+      "number": 2,
+      "name": "Djævlen er løs",
+      "airdate": "2007-09-27"
+    },
+    {
+      "id": "175c622e-9247-4a2d-9261-1f25ef6b9d73",
+      "season": 2,
+      "number": 3,
+      "name": "Djævlen er løs",
+      "airdate": "2007-10-11"
+    },
+    {
+      "id": "76eb764a-1d9c-4b1c-873f-962300106e49",
+      "season": 2,
+      "number": 4,
+      "name": "Djævlen er løs",
+      "airdate": "2007-10-18"
+    },
+    {
+      "id": "bede757c-b080-497e-89b7-1c60e6162308",
+      "season": 2,
+      "number": 5,
+      "name": "Djævlen er løs - Semifinale",
+      "airdate": "2007-10-25"
+    },
+    {
+      "id": "4ae90674-809d-4004-a914-deb2f6cb6641",
+      "season": 2,
+      "number": 6,
+      "name": "Djævlen er løs - Semifinale",
+      "airdate": "2007-11-01"
+    },
+    {
+      "id": "d1bea755-d0e6-42f9-a552-28f66acd3ffe",
+      "season": 2,
+      "number": 7,
+      "name": "Djævlen er løs - Finale",
+      "airdate": "2007-11-15"
+    },
+    {
+      "id": "a0f767d5-c0b4-4ee8-a9fc-3b402ed0b357",
+      "season": 2,
+      "number": 8,
+      "name": "Det vildeste af det vilde",
+      "airdate": "2007-11-22"
+    },
+    {
+      "id": "f257f88b-9e6c-4ff5-8880-59c06b630af7",
+      "season": 3,
+      "number": 1,
+      "name": "Nu' det personligt!",
+      "airdate": "2008-08-11"
+    },
+    {
+      "id": "741bcf10-16ba-4157-a666-1b7683b0c077",
+      "season": 3,
+      "number": 2,
+      "name": "Nu' det personligt!",
+      "airdate": "2008-08-18"
+    },
+    {
+      "id": "89e14c05-db27-4ec1-b2d6-186eec878418",
+      "season": 3,
+      "number": 3,
+      "name": "Nu' det personligt!",
+      "airdate": "2008-08-25"
+    },
+    {
+      "id": "4e82cbba-d54e-40b0-85f0-7ae1890270d5",
+      "season": 3,
+      "number": 4,
+      "name": "Nu' det personligt!",
+      "airdate": "2008-09-01"
+    },
+    {
+      "id": "9d0842a4-5232-4e7e-b6a5-620321b37699",
+      "season": 3,
+      "number": 5,
+      "name": "Nu' det personligt! - Semifinale",
+      "airdate": "2008-09-08"
+    },
+    {
+      "id": "ee803203-eacf-407d-a7bf-1762bbddc6a7",
+      "season": 3,
+      "number": 6,
+      "name": "Nu' det personligt! - Semifinale",
+      "airdate": "2008-09-15"
+    },
+    {
+      "id": "4c756545-4c81-42a0-b268-be8569e169b5",
+      "season": 3,
+      "number": 7,
+      "name": "Nu' det personligt! - Finale",
+      "airdate": "2008-09-22"
+    },
+    {
+      "id": "5d7ac3b0-2efd-4ac9-972d-701552dcb2ae",
+      "season": 3,
+      "number": 8,
+      "name": "Det sejeste af det seje",
+      "airdate": "2008-09-29"
+    },
+    {
+      "id": "704b6b5f-6b6a-4f66-8b1d-8706788ac0cc",
+      "season": 5,
+      "number": 1,
+      "name": "Beskidt som aldrig før!",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "3d95d2ed-eba8-45f5-a3bb-ef12e680eb5d",
+      "season": 5,
+      "number": 2,
+      "name": "Beskidt som aldrig før!",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "6302252c-a1e1-4fea-af22-8e71ae3815b9",
+      "season": 5,
+      "number": 3,
+      "name": "Beskidt som aldrig før!",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "f8fcdecc-73b7-4f49-a2e3-4875a3769fb7",
+      "season": 5,
+      "number": 4,
+      "name": "Beskidt som aldrig før!",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "0c773fe7-9c03-4bf0-a0d3-cf6dcbabe257",
+      "season": 5,
+      "number": 5,
+      "name": "Beskidt som aldrig før!",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "7daff442-98ea-4290-b854-24bd75e01485",
+      "season": 5,
+      "number": 6,
+      "name": "Beskidt som aldrig før!",
+      "airdate": "1980-01-01"
+    },
+    {
+      "id": "29b55001-1e0d-4486-8029-2ec518779c2e",
+      "season": 5,
+      "number": 7,
+      "name": "Beskidt som aldrig før!",
+      "airdate": "1980-01-01"
+    }
+  ]
+}

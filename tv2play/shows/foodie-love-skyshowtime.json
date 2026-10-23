@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:foodie-love-skyshowtime",
+  "name": "Foodie Love",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "To gastronomielskere indser, at kærlighed, ligesom madlavning, kræver et spring ud i det ukendte",
+  "image": "https://cdn-play.tv2i.dk/def901f6-13b0-4acd-b744-1e72502ad578.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d81a8900-df80-457a-a6aa-bb2df1b6e5c1",
+      "season": 1,
+      "number": 1,
+      "name": "Just a Coffee",
+      "airdate": "2023-06-19"
+    },
+    {
+      "id": "deb560e7-e398-4d51-b08a-062b7677b17d",
+      "season": 1,
+      "number": 2,
+      "name": "Breakfast in Kentucky",
+      "airdate": "2023-06-19"
+    },
+    {
+      "id": "87b3fe00-ac0d-4202-8e06-733b58b46520",
+      "season": 1,
+      "number": 3,
+      "name": "Proust's Gyoza",
+      "airdate": "2023-06-26"
+    },
+    {
+      "id": "d4df3765-41d3-4fda-93b2-15664a264d9a",
+      "season": 1,
+      "number": 4,
+      "name": "Gelato di Neve",
+      "airdate": "2023-07-03"
+    },
+    {
+      "id": "a2608f2f-4c7e-4f05-8dc6-87d59fbaf86a",
+      "season": 1,
+      "number": 5,
+      "name": "The Last Supper",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "9092ce5e-0615-4e52-aeab-74658563cb71",
+      "season": 1,
+      "number": 6,
+      "name": "The Perfect Croissant Doesn't Exist",
+      "airdate": "2023-07-17"
+    },
+    {
+      "id": "fb4d68b2-2e23-4a0d-bcba-784cb325a9bd",
+      "season": 1,
+      "number": 7,
+      "name": "This is France",
+      "airdate": "2023-07-24"
+    },
+    {
+      "id": "768b5ed2-cf06-4963-9886-20e86ec796b9",
+      "season": 1,
+      "number": 8,
+      "name": "An Offering of Tobacco, Beer and Chocolate",
+      "airdate": "2023-07-31"
+    }
+  ]
+}

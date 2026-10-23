@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:en-eks-rocker-rydder-op-tv2",
+  "name": "En eks-rocker rydder op",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Rolf Eggerts liv er vendt fuldstændigt rundt. Før var han hårdkogt rocker i Hells Angels. Nu kæmper han med at hjælpe udsatte og kriminelle unge med at få et bedre liv. Hvordan rydder Rolf op i andres liv, sådan som han har gjort i sit eget?",
+  "image": "https://cdn-play.tv2i.dk/0e30ab50-9701-4275-8a52-cd9d574b1784.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "80e645e0-3505-4ffd-89f3-2267f80f0170",
+      "season": 1,
+      "number": 1,
+      "name": "Afsløret med hash og heroin",
+      "airdate": "2021-01-26"
+    },
+    {
+      "id": "a3266c25-26f4-4130-9a57-a856843b2a49",
+      "season": 1,
+      "number": 2,
+      "name": "Hverdag på vodka og piller",
+      "airdate": "2021-01-26"
+    },
+    {
+      "id": "b2777d5c-f14a-49a2-99de-8828c342864c",
+      "season": 1,
+      "number": 3,
+      "name": "Arbejdet hænger i en tynd tråd",
+      "airdate": "2021-02-02"
+    },
+    {
+      "id": "be04b1fa-0eba-4a63-800b-e834671d62c4",
+      "season": 1,
+      "number": 4,
+      "name": "Opgørets time",
+      "airdate": "2021-02-09"
+    }
+  ]
+}

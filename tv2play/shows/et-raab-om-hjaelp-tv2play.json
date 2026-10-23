@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:et-raab-om-hjaelp-tv2play",
+  "name": "Et råb om håb",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I over 130 år har Blå Kors været der for dem, der ikke kan finde ud af livet. I Den Blå Oase møder vi nogle af de mennesker, der har mistet fodfæstet.",
+  "image": "https://cdn-play.tv2i.dk/8aac7360-a0dc-4eab-b2d0-40e9848717d3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "a99fffa6-029b-42ba-ac2f-ca2f1567e0ce",
+      "season": 1,
+      "number": 6,
+      "name": "Tro, håb og misbrug",
+      "airdate": "2026-06-21"
+    }
+  ]
+}

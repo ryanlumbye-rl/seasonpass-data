@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:koebmaend-og-kaerlighed-tv2play",
+  "name": "Købmænd og kærlighed",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Peter og Michael er nok ikke som de fleste andre købmænd. De er både gift med hinanden og deres arbejde. Men det er hårdt arbejde at få en butik til at køre rundt, og det kan mærkes på både krop og sjæl.",
+  "image": "https://cdn-play.tv2i.dk/96802e09-0606-44c7-b51f-a72cc9adb322.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "d3c59f03-d074-493a-b9fc-0e55e598c9ea",
+      "season": 1,
+      "number": 1,
+      "name": "Som nat og dag",
+      "airdate": "2026-04-27"
+    },
+    {
+      "id": "96fa90ad-ad61-42e9-a33c-5fb5e2e65d04",
+      "season": 1,
+      "number": 2,
+      "name": "Alt har en pris",
+      "airdate": "2026-04-27"
+    },
+    {
+      "id": "23b85d8c-28a2-422d-bfff-16a88ac98e21",
+      "season": 1,
+      "number": 3,
+      "name": "Den store fest",
+      "airdate": "2026-05-04"
+    }
+  ]
+}

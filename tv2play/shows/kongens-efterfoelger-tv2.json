@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:kongens-efterfoelger-tv2",
+  "name": "Kongens efterfølger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hofmarskal Tobias Dybvad indbyder seks navnkundige danskere til en ædel kappestrid på Rosenholm Slot, hvor der dystes om guldmønter, kongekroner og den hæderfulde titel som 'Den kongeste konge'.",
+  "image": "https://cdn-play.tv2i.dk/81093dbe-58fd-4bc0-92cf-6a5dbbd806c3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C6472%2C3640&w=1280",
+  "episodes": [
+    {
+      "id": "d207259c-1b03-4fa9-aaf9-192e44856554",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til slottet",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "26280acc-59e8-4fe9-a33c-0ba01974cf90",
+      "season": 1,
+      "number": 2,
+      "name": "Ny konge, ny virkelighed",
+      "airdate": "2025-08-02"
+    },
+    {
+      "id": "c797d216-2861-497c-80ca-5bed788e879e",
+      "season": 1,
+      "number": 3,
+      "name": "Graver kong Grau sin egen grav?",
+      "airdate": "2025-08-09"
+    },
+    {
+      "id": "ce6c0e7a-0a41-487b-9bd9-96c15db63b99",
+      "season": 1,
+      "number": 4,
+      "name": "Komedie-kongen",
+      "airdate": "2025-08-16"
+    },
+    {
+      "id": "0dac8f1b-464e-4c7b-a6a3-cfefc13d2c6e",
+      "season": 1,
+      "number": 5,
+      "name": "Brevduen",
+      "airdate": "2025-08-23"
+    },
+    {
+      "id": "262abcf4-239c-4e5e-8e7c-6bdf4c39bc95",
+      "season": 1,
+      "number": 6,
+      "name": "Vin over voldgraven",
+      "airdate": "2025-08-30"
+    },
+    {
+      "id": "a7614636-d2f7-448f-af8a-f92fc2126a78",
+      "season": 1,
+      "number": 7,
+      "name": "Blomsterkrone og bjældegang",
+      "airdate": "2025-09-06"
+    },
+    {
+      "id": "e188f3b1-a381-461e-bda8-aae1cb63b9d5",
+      "season": 1,
+      "number": 8,
+      "name": "Den kongeste konge",
+      "airdate": "2025-09-13"
+    }
+  ]
+}

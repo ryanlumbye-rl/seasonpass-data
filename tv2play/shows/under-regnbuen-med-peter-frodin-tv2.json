@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:under-regnbuen-med-peter-frodin-tv2",
+  "name": "Under regnbuen - med Peter Frödin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad vil det sige at være lgbt+ person i Danmark? Peter Frödin tager os med gennem 120 års lgbt+-historie og ser på de kampe om lige rettigheder, der er blevet kæmpet gennem tiden, og taler med de mennesker, der er en del af historien. For selv om vi i Danmark er nået langt, er vi ikke i mål endnu.",
+  "image": "https://cdn-play.tv2i.dk/3dec2a6e-8a27-4a5d-b2b4-be8213de5690.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "dfbce978-b9f9-4902-8f9d-d763bba4cda9",
+      "season": 1,
+      "number": 1,
+      "name": "Hvem er jeg?",
+      "airdate": "2021-08-09"
+    },
+    {
+      "id": "7a6307f2-be97-4d8e-823c-94c3a9f78e7a",
+      "season": 1,
+      "number": 2,
+      "name": "En kamp for frihed",
+      "airdate": "2021-08-16"
+    },
+    {
+      "id": "13692052-4679-4bb4-8907-2364e59648e2",
+      "season": 1,
+      "number": 3,
+      "name": "Vi er her!",
+      "airdate": "2021-08-23"
+    },
+    {
+      "id": "5d7be2bb-7fbf-47bf-a4c1-647ea5bd5739",
+      "season": 1,
+      "number": 4,
+      "name": "Ret til en familie",
+      "airdate": "2021-08-30"
+    }
+  ]
+}

@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Svensk komedieserie om robotfamilien Robsson, der infiltrerer menneskeheden på Jorden for at indsamle information til nogle hjemløse rumvæsner.",
+  "image": "https://cdn-play.tv2i.dk/2c27f23c-75ef-4712-992c-dada07f7fffd.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "909727b6-57ec-4f4e-a13d-f0bb95bffae6",

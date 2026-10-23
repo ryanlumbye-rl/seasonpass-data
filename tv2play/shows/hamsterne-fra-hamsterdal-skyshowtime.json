@@ -1,0 +1,194 @@
+{
+  "id": "tv2play:hamsterne-fra-hamsterdal-skyshowtime",
+  "name": "Hamsterne fra Hamsterdal",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Et hold hamstere mener, at de er de heroiske beskyttere af deres 8-årige ejer, Harry, som de tror er deres konge, og som de begiver sig ud på \"kongelige missioner\" for.",
+  "image": "https://cdn-play.tv2i.dk/f69f6e91-b80f-45e1-a189-afe058038648.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ba296d79-d856-4adf-8a3a-8083e5d3f088",
+      "season": 1,
+      "number": 1,
+      "name": "Guf-guffere",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "98bb6b60-b790-453b-9f35-754c66292edb",
+      "season": 1,
+      "number": 2,
+      "name": "Hamster-palæet",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "038beedb-72ad-44ac-8ffd-93aebaa712ef",
+      "season": 1,
+      "number": 3,
+      "name": "Kroner og kongeriger",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "87a9f907-3d5e-42a2-a462-2a2b2f400893",
+      "season": 1,
+      "number": 4,
+      "name": "Husspektakel",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "55f17a13-82c6-4a91-b5a0-ec2e4b3a5bf0",
+      "season": 1,
+      "number": 5,
+      "name": "Kronen og kuglefisken",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "2d76d30c-e62a-46fa-82d9-7d3343743a2e",
+      "season": 1,
+      "number": 6,
+      "name": "Gamle Hyggers redning",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "a2a2d657-1f43-4ba4-91d9-f23599fed173",
+      "season": 1,
+      "number": 7,
+      "name": "Hamsterne og vulkanen",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "ede3dfd6-079a-4e10-ba2d-4c6919e2089c",
+      "season": 1,
+      "number": 8,
+      "name": "Gert den seje",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "ce55319d-05c4-4cd2-b2de-b788d8db1d35",
+      "season": 1,
+      "number": 9,
+      "name": "Drageæggets overraskelse",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "b0dcbe22-3e01-4ac8-b2a1-9c5cfac71537",
+      "season": 1,
+      "number": 10,
+      "name": "Hamsterne går viralt",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "e69528a7-e6f3-428d-abf7-8a4fc02050f6",
+      "season": 1,
+      "number": 11,
+      "name": "Gumleren Gert",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "e5f67eec-a191-44f2-8026-04bde6265efa",
+      "season": 1,
+      "number": 12,
+      "name": "Hamstere til søs",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "ad13abed-f0d0-4b81-90a7-5919575af10b",
+      "season": 1,
+      "number": 13,
+      "name": "Mondo mister sine kapper",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "5cf6ed5d-2653-4472-841b-8298f1697287",
+      "season": 1,
+      "number": 14,
+      "name": "Mission Fuglefrø",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "1a9b6167-20e1-4525-81b3-5500cc3c2c74",
+      "season": 1,
+      "number": 15,
+      "name": "Hamstere på golfbanen",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "663d1699-3f0f-4af1-9327-44028c809445",
+      "season": 1,
+      "number": 16,
+      "name": "Egernmenageri",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "d501c102-f54b-47db-8221-9a6cc160c1a5",
+      "season": 1,
+      "number": 17,
+      "name": "Kløver bygger en fælde",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "ebbe6083-9782-471a-bf70-cfacf0514d3d",
+      "season": 1,
+      "number": 18,
+      "name": "Hofnarrens ring",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "2db208e0-6240-461b-bbbe-a2d06d39779f",
+      "season": 1,
+      "number": 19,
+      "name": "Hvalpeknap-inferno",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "146ee522-5249-407c-9911-4dceec3800e0",
+      "season": 1,
+      "number": 20,
+      "name": "Fotodag",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "dc96bf39-2de2-4101-a88c-a0068ba76765",
+      "season": 1,
+      "number": 21,
+      "name": "Hamstere på skattejagt",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "74dff306-6f6b-4938-bb1d-5d2f894fc6c9",
+      "season": 1,
+      "number": 22,
+      "name": "Gert i vildmarken",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "5fd0b815-1e2a-44fc-b570-8ee3a37530b7",
+      "season": 1,
+      "number": 23,
+      "name": "Hamster-vikinger",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "3849675d-de99-4920-8128-f024120b4c45",
+      "season": 1,
+      "number": 24,
+      "name": "Den magiske kugles forbandelse",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "6365b915-888a-4db2-b3fd-7e3df5ffba3a",
+      "season": 1,
+      "number": 25,
+      "name": "Popcorn går i børnehaveklasse",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "d8638628-bb2e-4d3d-831a-f9b69ec1feaa",
+      "season": 1,
+      "number": 26,
+      "name": "Træhøjtiden",
+      "airdate": "2025-04-12"
+    }
+  ]
+}

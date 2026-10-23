@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:jordemoder-mellem-liv-og-doed-tv2play",
+  "name": "Jordemoder mellem liv og død",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I over to år har vi fulgt jordemødrene på Aabenraa Fødeafdeling - både når de står midt i forældres største øjeblik i livet, og når de bærer dem gennem de allersværeste. Det koster at give så meget af sig selv hver dag - heldigvis løfter deres særlige fællesskab dem.",
+  "image": "https://cdn-play.tv2i.dk/2077a625-04fd-4ca0-9ddd-1277970e02dc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "cc57e0e6-8dcc-4d96-b583-784b1860d6ef",
+      "season": 1,
+      "number": 1,
+      "name": "Mor under pres, far under sengen",
+      "airdate": "2026-02-04"
+    },
+    {
+      "id": "248e00d6-d3e7-4eca-a833-dc7f4bc2d853",
+      "season": 1,
+      "number": 2,
+      "name": "Kan jeg klare det?",
+      "airdate": "2026-02-11"
+    },
+    {
+      "id": "676ab93a-c452-493c-9d05-765b9278351f",
+      "season": 1,
+      "number": 3,
+      "name": "To liv i hænderne",
+      "airdate": "2026-02-18"
+    },
+    {
+      "id": "d07fc1ed-46d5-4573-a897-1fb36412e70b",
+      "season": 1,
+      "number": 4,
+      "name": "Fødsel med hele familien",
+      "airdate": "2026-02-25"
+    },
+    {
+      "id": "af799823-052d-48ca-ba38-492ec70aa927",
+      "season": 1,
+      "number": 5,
+      "name": "Du er den bedste jordemoder",
+      "airdate": "2026-03-04"
+    },
+    {
+      "id": "05931324-f876-45af-9a90-f62c6a186fc4",
+      "season": 1,
+      "number": 6,
+      "name": "Er der nogen, der har set farmand?",
+      "airdate": "2026-03-11"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:manden-der-forblaendede-alle-tv2",
+  "name": "Manden der forblændede alle",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lars Nørholt ville erobre verden med sit lampefirma. Hans vision og charme fik investorer, medarbejdere og en statsminister med på rejsen. Først for sent gik det op for dem, at noget var helt galt, og at Nørholts bedrag målte sig med Stein Baggers og Britta Nielsens. Dokumentarserie i tre afsnit.",
+  "image": "https://cdn-play.tv2i.dk/0d44afe1-e405-404e-8ca3-b582b87ddf04.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ea0be273-a085-4821-b93a-a4423837c842",
+      "season": 1,
+      "number": 1,
+      "name": "Lars vil erobre hele verden",
+      "airdate": "2023-10-04"
+    },
+    {
+      "id": "9f66d029-3755-4e6b-8739-c4aa4e23b87d",
+      "season": 1,
+      "number": 2,
+      "name": "Lars og de falske underskrifter",
+      "airdate": "2023-10-04"
+    },
+    {
+      "id": "d5181fb4-2032-4693-a645-2d939adb279a",
+      "season": 1,
+      "number": 3,
+      "name": "Lars bliver opdaget",
+      "airdate": "2023-10-18"
+    }
+  ]
+}

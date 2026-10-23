@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:de-unge-kandidater-tv2oest",
+  "name": "De unge kandidater",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De er unge, nysgerrige og fulde af holdninger. I denne serie møder vi en række førstegangskandidater - og enkelte gengangere - der alle har ét til fælles: de vil være med til at forme fremtidens kommuner.",
+  "image": "https://cdn-play.tv2i.dk/5a1a2471-78f2-40b0-b898-08f0f287e3e6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "dfe0a46d-3ca7-4104-b716-db4fe185c1a3",
+      "season": 1,
+      "number": 1,
+      "name": "Laurits fra Vordingborg",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "fb9c9827-8381-4d73-934d-9009109bf09d",
+      "season": 1,
+      "number": 2,
+      "name": "Anes fra Lolland",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "103d0b6a-1c57-4661-a2c9-54eab2296c4b",
+      "season": 1,
+      "number": 4,
+      "name": "Liv fra Holbæk",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "6770fa63-858a-40b8-ac7d-b021e9655681",
+      "season": 1,
+      "number": 5,
+      "name": "Martin fra Vordingborg",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "b17174ff-8602-442c-97e9-202ab66f9512",
+      "season": 1,
+      "number": 6,
+      "name": "Rebecca fra Stevns",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "40fe8575-37b3-4167-8ab2-35cad56717d7",
+      "season": 1,
+      "number": 7,
+      "name": "Regitze fra Næstved",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "2dd62fbb-e9f1-46bb-80c1-8c8a079ce186",
+      "season": 1,
+      "number": 8,
+      "name": "Maja fra Ringsted",
+      "airdate": "2025-11-03"
+    }
+  ]
+}

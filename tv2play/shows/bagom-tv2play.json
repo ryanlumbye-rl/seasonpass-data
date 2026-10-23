@@ -4,7 +4,9 @@
   "service": "tv2",
   "status": "Running",
   "tmdbId": null,
-  "next": "2026-10-22",
+  "next": "2026-11-11",
+  "description": "BAGOM giver dig den personlige fortælling bag TV 2’s største dokumentarer. Kom med ind i maskinrummet, når vært og undersøgende journalist Andreas Wentoft taler med centrale personer om de oplevelser, dilemmaer og afgørende valg, der formede historierne.",
+  "image": "https://cdn-play.tv2i.dk/822c4271-7840-3fe7-9e70-7ca6178c043f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "809be778-c702-4cff-9cb7-f2c491571b6b",
@@ -17,8 +19,8 @@
       "id": "b1e6c35e-e505-4d79-8085-7a30fe134bb2",
       "season": 2026,
       "number": 2,
-      "name": "Bagom",
-      "airdate": "2026-11-11"
+      "name": "Fars lille pige",
+      "airdate": "2026-10-22"
     }
   ]
 }

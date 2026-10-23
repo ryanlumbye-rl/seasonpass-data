@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:diamantfamilien-fanget-i-dubai-tv2echo",
+  "name": "Diamantfamilien - fanget i Dubai",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad skete der med Elvira Pitzner før, under og efter mareridtet i Dubai? Igennem fire programmer fortæller hun og resten af diamantfamilien deres personlige historie om de værste tre måneder i deres liv, og hvad de alle sammen måtte igennem, før Elvira kom hjem.",
+  "image": "https://cdn-play.tv2i.dk/9fc9cb36-8562-4c01-8961-34a181b7dfbe.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "282aae7f-81d7-40c2-b37a-cb655aad72d4",
+      "season": 1,
+      "number": 1,
+      "name": "Ikke alt der glimter",
+      "airdate": "2024-04-11"
+    },
+    {
+      "id": "10851e92-810b-4e0d-a550-032469e428db",
+      "season": 1,
+      "number": 2,
+      "name": "Kærlighed gør blind",
+      "airdate": "2024-04-18"
+    },
+    {
+      "id": "78efb20d-ed3e-45b8-920f-716d84906542",
+      "season": 1,
+      "number": 3,
+      "name": "Oven over skyerne",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "5efa9528-5700-4966-a357-0a3107ae88a7",
+      "season": 1,
+      "number": 4,
+      "name": "Endelig fri",
+      "airdate": "2024-05-02"
+    }
+  ]
+}

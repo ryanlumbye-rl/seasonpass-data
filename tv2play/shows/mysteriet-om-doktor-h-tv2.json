@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:mysteriet-om-doktor-h-tv2",
+  "name": "Mysteriet om Doktor H.",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den utrolige historie om en anerkendt, dansk hiv-forsker og familiefar, der på papiret havde det hele. Alligevel forlader han sin familie og sit højtprofilerede job for at blive buddhistisk skovmunk i Sri Lanka. Dokumentar i to episoder.",
+  "image": "https://cdn-play.tv2i.dk/6c5e58a6-0d4f-451e-b593-e6174e4b7a83.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "04bef30c-2713-47d2-b9a1-73849979bf54",
+      "season": 1,
+      "number": 1,
+      "name": "En dansk læge bliver til munk i Sri Lanka",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "08cface9-5bc6-46f4-b12b-43fc05b1daea",
+      "season": 1,
+      "number": 2,
+      "name": "Den efterladte søn",
+      "airdate": "2024-07-24"
+    }
+  ]
+}

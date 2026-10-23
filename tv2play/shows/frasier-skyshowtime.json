@@ -1,0 +1,1825 @@
+{
+  "id": "tv2play:frasier-skyshowtime",
+  "name": "Frasier",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg livet hos psykiateren Dr. Frasier Crane, radioproduceren Roz, broderen Niles, deres far, Martin, og den excentriske Daphne. Serien byder på brillante karakterer, sofistikerede og morsomme ordspil. Bare spørg den vanvittigt frustrerede Dr. Frasier Crane.",
+  "image": "https://cdn-play.tv2i.dk/577a1a61-c7db-4eb6-85ee-bbe9659cc021.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2933%2C1649&w=1280",
+  "episodes": [
+    {
+      "id": "1527c3a4-254b-4cb1-ac8f-47d2ec5e3265",
+      "season": 1,
+      "number": 1,
+      "name": "The Good Son (Pilot)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7d70b21e-3c46-42db-ad8b-2a0d72f893c2",
+      "season": 1,
+      "number": 2,
+      "name": "Space Quest",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "34e154df-46ab-4b46-8885-dbc3ebf901aa",
+      "season": 1,
+      "number": 3,
+      "name": "Dinner at Eight",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e5aded3a-cf0f-4b78-8cea-ef835289556b",
+      "season": 1,
+      "number": 4,
+      "name": "I Hate Frasier Crane",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a2a1417a-709a-44e1-b370-431361415046",
+      "season": 1,
+      "number": 5,
+      "name": "Here's Looking At You",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "46668fcc-d888-4e4f-b7fb-1e21b3fae43b",
+      "season": 1,
+      "number": 6,
+      "name": "The Crucible",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ec4441e3-6841-4015-8311-1e5ac2e7e090",
+      "season": 1,
+      "number": 7,
+      "name": "Call Me Irresponsible",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1c1e0f1c-77b1-470a-82da-8b497618fd0d",
+      "season": 1,
+      "number": 8,
+      "name": "Beloved Infidel",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d7355717-734c-44dd-bb64-ae3bea26f513",
+      "season": 1,
+      "number": 9,
+      "name": "Selling Out",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9456c799-84fa-4066-81cd-ae337871ccba",
+      "season": 1,
+      "number": 10,
+      "name": "Oops",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d14716e-e701-4eee-9155-cb5dc5f4eaa6",
+      "season": 1,
+      "number": 11,
+      "name": "Death Becomes Him",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8f42cee4-ad3c-42d7-8ab9-54730fcb9819",
+      "season": 1,
+      "number": 12,
+      "name": "Miracle On Third Or Fourth Street",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "553b7e62-a989-4e3d-beda-ec47077c0f52",
+      "season": 1,
+      "number": 13,
+      "name": "Guess Who's Coming To Breakfast",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "02793bef-4451-4b86-a480-46e45f2d6ee6",
+      "season": 1,
+      "number": 14,
+      "name": "Can't Buy Me Love",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ae733b4f-daa1-4da6-a7fe-03bcd665e0a5",
+      "season": 1,
+      "number": 15,
+      "name": "You Can't Tell A Crook By His Cover",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b11671fd-a912-428c-8f5c-9a11396b51ad",
+      "season": 1,
+      "number": 16,
+      "name": "The Show Where Lilith Comes Back",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d710f272-cc0d-4e21-90d3-333f43cb05c5",
+      "season": 1,
+      "number": 17,
+      "name": "A Midwinter Night's Dream",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "91b26a54-d32b-4753-85e1-5ec1e693545d",
+      "season": 1,
+      "number": 18,
+      "name": "And The Whimper Is...",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5aede5c5-a1b4-4741-90be-4fd2def4ae3a",
+      "season": 1,
+      "number": 19,
+      "name": "Give Him The Chair!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ffb1ffe7-0cb5-45ad-829f-385e7a4d2eaa",
+      "season": 1,
+      "number": 20,
+      "name": "Fortysomething",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "407773a7-e979-4c88-a534-a1cf9fd53e40",
+      "season": 1,
+      "number": 21,
+      "name": "Travels With Martin",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "98d3af70-a9b4-4d1c-ad5f-1b330a608a47",
+      "season": 1,
+      "number": 22,
+      "name": "Author, Author",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "639045f3-e41e-4fcc-b993-63c4d545de83",
+      "season": 1,
+      "number": 23,
+      "name": "Frasier Crane's Day Off",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "10f6e152-2cff-46a6-acdd-0b34a3a0fa28",
+      "season": 1,
+      "number": 24,
+      "name": "My Coffee With Niles",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4dd06c9b-dcf2-4909-8ff1-6ec17c8a451c",
+      "season": 2,
+      "number": 1,
+      "name": "Slow Tango In South Seattle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "76540c90-f6d8-4c0a-ac19-6d8473fc0083",
+      "season": 2,
+      "number": 2,
+      "name": "The Unkindest Cut Of All",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "449b05bc-108c-470e-8749-f8a9fc768249",
+      "season": 2,
+      "number": 3,
+      "name": "the Matchmaker",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cb83a3d0-0aa5-41c8-bb99-347878023585",
+      "season": 2,
+      "number": 4,
+      "name": "Flour Child",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "96d546e9-6358-433a-bb6c-3b9b32fcfdf4",
+      "season": 2,
+      "number": 5,
+      "name": "Duke's We Hardly Knew Ye",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "91b394cc-1be3-4a38-8d26-afa876ffac28",
+      "season": 2,
+      "number": 6,
+      "name": "The Botched Language Of Cranes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3c400c0b-20e6-4162-9866-8b976f9bd247",
+      "season": 2,
+      "number": 7,
+      "name": "The Candidate",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fa612325-8c1b-4ddb-ad34-208467ca293c",
+      "season": 2,
+      "number": 8,
+      "name": "Adventures In Paradise (Part 1)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f6a1d879-54ba-4a63-bda7-22ea43e44908",
+      "season": 2,
+      "number": 9,
+      "name": "Adventures In Paradise (Part 2)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ecea55bd-86c0-4410-8264-53765bfa5cef",
+      "season": 2,
+      "number": 10,
+      "name": "Burying A Grudge",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4cbd109d-3ece-4738-bffb-280837c6903c",
+      "season": 2,
+      "number": 11,
+      "name": "Seat Of Power",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "78c5dff4-dd7d-476c-9107-dbfc63e573fa",
+      "season": 2,
+      "number": 12,
+      "name": "Roz In The Doghouse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9587e4d2-8a08-4840-8072-8f4e5e515e36",
+      "season": 2,
+      "number": 13,
+      "name": "Retirement is Murder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a6d93774-8bb4-40c2-bf90-b6ecccb59f67",
+      "season": 2,
+      "number": 14,
+      "name": "Fool Me Once, Shame On You, Fool Me Twice...",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "49ba968f-ca75-4483-90c4-c073366a70bf",
+      "season": 2,
+      "number": 15,
+      "name": "You Scrach My Book",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0621c529-2b70-4478-9e7f-7800521535d8",
+      "season": 2,
+      "number": 16,
+      "name": "The Show Where Sam Shows Up",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "806d9a08-ce44-4860-9688-eb286701bc4d",
+      "season": 2,
+      "number": 17,
+      "name": "Daphne's Room",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d3e1d146-59c2-4dfa-8b03-f2ee9e6fff01",
+      "season": 2,
+      "number": 18,
+      "name": "The Club",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "16ab5f5d-df05-4f99-8b43-6d808e021ce2",
+      "season": 2,
+      "number": 19,
+      "name": "Someone to Watch Over Me",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "21b99fcb-da6b-4ff3-9575-4b529206683d",
+      "season": 2,
+      "number": 20,
+      "name": "Breaking The Ice",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4b6293cd-a864-4ceb-9060-0590d036b048",
+      "season": 2,
+      "number": 21,
+      "name": "An Affair To Forget",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ebec88e7-5de4-4705-a3df-90b3fd70c7ec",
+      "season": 2,
+      "number": 22,
+      "name": "Agents In America - Part III",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6709814c-5fa1-434f-9690-0f4ee2531493",
+      "season": 2,
+      "number": 23,
+      "name": "The Innkeepers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a3dbf75c-b216-49c7-9753-a61eaf20c8eb",
+      "season": 2,
+      "number": 24,
+      "name": "Dark Victory",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "47391520-aee6-45fe-a86f-346ebab6d5de",
+      "season": 3,
+      "number": 1,
+      "name": "She's The Boss",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f430594d-18b1-4c7d-9370-fd44b91a5793",
+      "season": 3,
+      "number": 2,
+      "name": "Shrink Rap",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a12f1dbb-e7e7-4895-af66-a0fe50b287c4",
+      "season": 3,
+      "number": 3,
+      "name": "Martin Does It His Way",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4e29f338-c16b-4250-956f-18ad1633519b",
+      "season": 3,
+      "number": 4,
+      "name": "Leapin' Lizards",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bd01273e-2834-4893-ac3e-862b9d1c85ad",
+      "season": 3,
+      "number": 5,
+      "name": "Kisses Sweeter Than Wine",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dea2755f-b5b0-43e1-ab2d-95c4892cc65c",
+      "season": 3,
+      "number": 6,
+      "name": "Sleeping With The Enemy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6f23be06-4144-40a4-8dae-bf3f0dfc5fc8",
+      "season": 3,
+      "number": 7,
+      "name": "The Adventures Of Bad Boy And Dirty Girl (2)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "647af71a-f46f-43b5-8ec6-554be52cb5e3",
+      "season": 3,
+      "number": 8,
+      "name": "The Last Time I Saw Maris",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "078eb71b-bbb9-47ff-8fb2-5e895d299417",
+      "season": 3,
+      "number": 9,
+      "name": "Frasier Grinch",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b3da987c-1871-432a-87e4-6c8bfdba0584",
+      "season": 3,
+      "number": 10,
+      "name": "It's Hard To Say Goodbye If You Won't Leave",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2c6b6fe3-ee8c-4179-9389-1e173d0bcd7c",
+      "season": 3,
+      "number": 11,
+      "name": "The Friend",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f56d38fa-b4fc-44bd-adf4-dd13b21e1319",
+      "season": 3,
+      "number": 12,
+      "name": "Come Lie With Me",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d50affd6-ac53-49e9-9e88-02ffd5e8d675",
+      "season": 3,
+      "number": 13,
+      "name": "Moon Dance",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5b85c662-b853-4cce-824f-feba77a99637",
+      "season": 3,
+      "number": 14,
+      "name": "The Show Where Diane Comes Back",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c00ab55d-9af5-4b6b-be37-6458ddfe98a8",
+      "season": 3,
+      "number": 15,
+      "name": "A Word To The Wiseguy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "38c2605b-c41d-45be-b506-6fe733909e30",
+      "season": 3,
+      "number": 16,
+      "name": "Look Before You Leap",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d6708bc2-463e-40bb-8dfc-6dddb3b421b9",
+      "season": 3,
+      "number": 17,
+      "name": "High Crane Drifter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "38938003-1b5e-46cb-a98c-045b342a4a7e",
+      "season": 3,
+      "number": 18,
+      "name": "Chess Pains",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6ecfc888-98a9-4781-98a9-782cd23f0978",
+      "season": 3,
+      "number": 19,
+      "name": "Crane Versus Crane",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "44479a14-8004-4dc3-b267-ee5d9b78e234",
+      "season": 3,
+      "number": 20,
+      "name": "Police Story",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dd2caac3-31e2-4608-bc3d-81abeeffcc6a",
+      "season": 3,
+      "number": 21,
+      "name": "Where There's Smoke There's Fired",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "99a2e173-7c18-4590-b779-cc535c15307d",
+      "season": 3,
+      "number": 22,
+      "name": "Frasier loves Roz",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7070c5ae-75c4-44a8-8fff-656ad2d76e9a",
+      "season": 3,
+      "number": 23,
+      "name": "The Focusgroup",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0d73a67f-4187-49f3-985e-843dbcdcb116",
+      "season": 3,
+      "number": 24,
+      "name": "You Can Go Home Again",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ef555b63-b26c-453c-99b9-2554860d54e6",
+      "season": 4,
+      "number": 1,
+      "name": "The Two Mrs. Cranes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "85ed0f40-dee5-4e3b-a733-0ab6a2066b2d",
+      "season": 4,
+      "number": 2,
+      "name": "Love Bites Dog",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7d226714-4345-4db4-9407-ac12e44454b1",
+      "season": 4,
+      "number": 3,
+      "name": "The Impossible Dream",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "668476cb-5471-4163-94d2-dad5aa50dc72",
+      "season": 4,
+      "number": 4,
+      "name": "A Crane's Critique",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "870bb102-1d9d-46ed-b791-25b09d9b3ec7",
+      "season": 4,
+      "number": 5,
+      "name": "Head Game",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "501e8103-2af3-489a-9726-237f8ce9f21d",
+      "season": 4,
+      "number": 8,
+      "name": "Our Father Whose Art Ain't Heaven",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "03cf8208-c3e7-4fb5-a668-19e275fde7dd",
+      "season": 4,
+      "number": 9,
+      "name": "Dad Loves Sherry, The Boys Just Whine",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fd1ff80d-75f0-435e-be0c-e0f340f59a51",
+      "season": 4,
+      "number": 10,
+      "name": "Liar, Liar!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d4e67d34-46de-45e1-b765-a9c419895bcb",
+      "season": 4,
+      "number": 12,
+      "name": "Death and The Dog",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "42bf6254-e4b3-4121-aeaa-dce32b7023f2",
+      "season": 4,
+      "number": 13,
+      "name": "Four For The Seesaw",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e8f91424-7c67-410c-9180-3c56ef9e9923",
+      "season": 4,
+      "number": 14,
+      "name": "To Kill A Talking Bird",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ff1da7d6-b3bd-4346-85a4-1acbf385f86c",
+      "season": 4,
+      "number": 15,
+      "name": "Roz's Krantz And Gouldenstein Are Dead",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d1614c57-a82f-4869-85c1-41d52d3f64df",
+      "season": 4,
+      "number": 16,
+      "name": "The Unnatural",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8d4a8167-b8cd-47af-8808-3c733879ba96",
+      "season": 4,
+      "number": 17,
+      "name": "Roz' Turn",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f1eba42d-57da-4bba-82fe-f324351a0ac6",
+      "season": 4,
+      "number": 18,
+      "name": "Ham Radio",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c5385bf0-290d-4a17-990e-21dd7c3f8d84",
+      "season": 4,
+      "number": 20,
+      "name": "Daphne Hates Sherry",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "140ca33b-a57d-46e1-b0fa-7916a6e38fef",
+      "season": 4,
+      "number": 21,
+      "name": "Are You Being Served?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b7c5b421-0c3c-4271-9e2c-63b25c412749",
+      "season": 4,
+      "number": 22,
+      "name": "Ask Me No Questions",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "345ab883-3703-4a5f-b622-8aafd1d32880",
+      "season": 4,
+      "number": 23,
+      "name": "Odd Man Out",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3152d28f-a0a8-4baa-8f06-362b2e82c260",
+      "season": 5,
+      "number": 1,
+      "name": "Frasier's Imaginary Friend",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0f7a998b-cc3b-4bd0-bb03-953d2309f437",
+      "season": 5,
+      "number": 2,
+      "name": "The Gift Horse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "60c0cb93-376f-4c09-82f1-fb9721f83e50",
+      "season": 5,
+      "number": 3,
+      "name": "Halloween",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cb9032ba-c1e7-4045-9458-e16e66eca3e3",
+      "season": 5,
+      "number": 4,
+      "name": "The Kid",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f3b711b6-882b-4dd7-bd51-90a6fc62c43f",
+      "season": 5,
+      "number": 5,
+      "name": "The 1000th Show",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9bbebe7a-3e73-4d00-9219-47794f5441dc",
+      "season": 5,
+      "number": 6,
+      "name": "Voyage Of The Damned",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "95a768c9-4cd6-45ee-ac36-555e23bd09c9",
+      "season": 5,
+      "number": 7,
+      "name": "My Fair Frasier",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "65d82fcb-e4ed-4f6b-bcde-2486e7b79017",
+      "season": 5,
+      "number": 8,
+      "name": "Desperately Seeking Closure",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e0a0fe66-c8cf-49f0-a2ff-0f1149429636",
+      "season": 5,
+      "number": 9,
+      "name": "Perspectives of Christmas",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cbaf656b-b212-462c-96c1-87333f984180",
+      "season": 5,
+      "number": 10,
+      "name": "Where Every Bloke Knows Your Name",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3ba6e0d5-8484-4dd4-9c5b-e1165b293539",
+      "season": 5,
+      "number": 11,
+      "name": "Ain't Nobody's Business If I Do",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8d859c89-3728-4523-96f6-c9868d6cfd5d",
+      "season": 5,
+      "number": 12,
+      "name": "The Zoo Story",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ddc1eff5-1d57-4a0e-80ea-377b2333fe24",
+      "season": 5,
+      "number": 13,
+      "name": "The Maris Counselor",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d4b44ac-548e-4e27-8bb2-42a9b6d7ddf6",
+      "season": 5,
+      "number": 14,
+      "name": "The Ski Lodge",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a7e56f2a-71f8-4593-a2f6-6ecdf724d63a",
+      "season": 5,
+      "number": 15,
+      "name": "Room Service",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "673d726b-aff0-426a-85fd-8841c61e4530",
+      "season": 5,
+      "number": 16,
+      "name": "Beware Of Greeks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f5b00c26-7695-4b1c-acc0-1a39c75f4c28",
+      "season": 5,
+      "number": 17,
+      "name": "The Perfect Guy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "54b57152-bd13-452f-b1af-d12e898efc36",
+      "season": 5,
+      "number": 18,
+      "name": "Bad Dog",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7b2c6033-e622-4ba3-8635-5ced752d13f7",
+      "season": 5,
+      "number": 19,
+      "name": "Frasier Gotta Have It",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d58a412a-2c9e-4af5-b591-570fc2f12ea0",
+      "season": 5,
+      "number": 20,
+      "name": "First Date",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "710f1144-1044-484a-83c3-3f40b8dd040e",
+      "season": 5,
+      "number": 21,
+      "name": "Roz and the Schnoz",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "10d081d2-4f78-4a0e-8b99-23c2983628e7",
+      "season": 5,
+      "number": 22,
+      "name": "The Life Of The Party",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "07a1b223-9529-402f-bfe5-3d20d55b27ff",
+      "season": 5,
+      "number": 23,
+      "name": "Party, Party",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f8e1b765-4e85-4058-8f15-eb728803341c",
+      "season": 5,
+      "number": 24,
+      "name": "Sweet Dreams",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c75e1b25-392a-4983-aa8f-62dce7182dea",
+      "season": 6,
+      "number": 1,
+      "name": "Good Grief",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "82de4c16-9f43-460f-8a49-3e68802a2db5",
+      "season": 6,
+      "number": 2,
+      "name": "Frasier's Curse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2c680ab9-15f9-4ef8-9369-54d95497564b",
+      "season": 6,
+      "number": 3,
+      "name": "Dial M for Martin",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "26561261-2a76-4207-96b1-cc0b6f261c14",
+      "season": 6,
+      "number": 4,
+      "name": "Hot Ticket",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8c1e9b58-31a6-4a35-a196-9de83bc89ff9",
+      "season": 6,
+      "number": 5,
+      "name": "First Do No Harm",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "09a83817-42b8-4f10-80e8-c6a55064b0cc",
+      "season": 6,
+      "number": 6,
+      "name": "The Secret Admirer",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ef3b73eb-a075-4494-98c2-18731d8932c6",
+      "season": 6,
+      "number": 7,
+      "name": "How to Bury a Millionaire",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aec0f5bb-e12a-4e4f-9e65-dd8db7408df3",
+      "season": 6,
+      "number": 8,
+      "name": "The Seal Who Came to Dinner",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "45742d9c-5943-4b89-bb7b-6b6742716127",
+      "season": 6,
+      "number": 9,
+      "name": "Roz A Loan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "38e289b9-b2b8-4cf6-930f-266875c2ec6c",
+      "season": 6,
+      "number": 10,
+      "name": "Merry Christmas Mrs. Moskowitz",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7923160-3149-4d9e-a860-1a20facfc3f0",
+      "season": 6,
+      "number": 11,
+      "name": "The Good Samaritan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "36e8b889-e590-455c-a766-80ef5ba208c5",
+      "season": 6,
+      "number": 12,
+      "name": "Our Parents Ourselves",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5e158b39-b625-4644-ab9d-ede2917aa582",
+      "season": 6,
+      "number": 13,
+      "name": "The Show Where Woody Shows Up",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e1d03489-6920-4e2c-be10-be94db219e74",
+      "season": 6,
+      "number": 14,
+      "name": "Three Valentines",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f696376f-bd9c-4620-8030-f07b235a2d5d",
+      "season": 6,
+      "number": 15,
+      "name": "To Tell the Truth",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bc69de42-9caa-41d6-9673-d9443c6b8bdd",
+      "season": 6,
+      "number": 16,
+      "name": "Decoy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "448322d9-eb22-4e81-b042-d68ea03f61f0",
+      "season": 6,
+      "number": 17,
+      "name": "Dinner Party",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "77f5e168-1861-4172-96bc-1c03f60e1e1e",
+      "season": 6,
+      "number": 18,
+      "name": "Taps at the Montana",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f08c07ff-5e80-4357-b5af-96355cb21e7f",
+      "season": 6,
+      "number": 19,
+      "name": "IQ",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b8a13296-2bfa-4eed-b2bf-67a1c8ca3ed8",
+      "season": 6,
+      "number": 20,
+      "name": "Dr. Nora",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dcfd9975-c95c-499b-8df1-ce2b2b770a4e",
+      "season": 6,
+      "number": 21,
+      "name": "When a Man Loves Two Women",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0c8c5caf-cc5b-49ab-8a1c-ac292fd42b2b",
+      "season": 6,
+      "number": 22,
+      "name": "Visions of Daphne",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "da8ed28e-eeb9-42ff-bad2-a1c07bf0460f",
+      "season": 6,
+      "number": 23,
+      "name": "Shutout in Seattle (Part 1)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c3e1f684-9008-4e2f-8493-3f34aca01fe0",
+      "season": 6,
+      "number": 24,
+      "name": "Shutout in Seattle (Part 2)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9978044e-3109-484c-a0eb-3df59a68e487",
+      "season": 7,
+      "number": 1,
+      "name": "Momma Mia",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "296d71ea-c9ed-44e3-ae61-202615775b0e",
+      "season": 7,
+      "number": 2,
+      "name": "Father of the Bride",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eb204de9-8e60-4ae8-af5e-7fd58519f583",
+      "season": 7,
+      "number": 3,
+      "name": "Radio Wars",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6863f7f6-e5af-4217-beaf-c1d6ddb22306",
+      "season": 7,
+      "number": 4,
+      "name": "Everyones a Critic",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "627bb6d6-4d7f-4608-90b9-91805855b0fe",
+      "season": 7,
+      "number": 5,
+      "name": "The Dog That Rocks the Cradle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c64d57ff-dabc-4d00-ac19-85129dbc3d0e",
+      "season": 7,
+      "number": 6,
+      "name": "Rivals",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e62b9c29-ee96-493a-818e-4c45423915f8",
+      "season": 7,
+      "number": 7,
+      "name": "A Tsar is Born",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "550865b9-e9b6-45a2-9a95-f1725d3c0d40",
+      "season": 7,
+      "number": 8,
+      "name": "The Late Dr. Crane",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "36d77368-03f8-48f6-aafb-8e4b03d3bacc",
+      "season": 7,
+      "number": 9,
+      "name": "The Apparent Trap",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d6ed7dcc-37e1-4ff2-b762-7517c1027290",
+      "season": 7,
+      "number": 10,
+      "name": "Back Talk",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fff84c9c-5342-4584-91fd-83c3f36526fc",
+      "season": 7,
+      "number": 11,
+      "name": "The Fight Before Christmas",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "13edb9b8-7b1b-4c66-8d25-fa910e81ddf2",
+      "season": 7,
+      "number": 12,
+      "name": "RDWRER",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b75e8e24-0527-457e-bd50-1a72c9696177",
+      "season": 7,
+      "number": 13,
+      "name": "They're Playing Our Song",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d922822f-4b1e-4135-a1a4-48541f3be6ac",
+      "season": 7,
+      "number": 14,
+      "name": "Big Crane on Campus",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ada574d7-2b51-4593-9afc-c8490632b6c8",
+      "season": 7,
+      "number": 15,
+      "name": "Out With Dad",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4ad1b759-a34a-4a58-ae51-66638f70f0cb",
+      "season": 7,
+      "number": 16,
+      "name": "Something About Dr. Mary",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0dfe3b3b-7e97-42fc-b951-96f36261179f",
+      "season": 7,
+      "number": 17,
+      "name": "Whine Club",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7b3941a6-db25-4a53-9aa8-2927a18b4494",
+      "season": 7,
+      "number": 18,
+      "name": "Hot Pursuit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e7ba1456-e5f0-4659-9e56-60ea2f88747d",
+      "season": 7,
+      "number": 19,
+      "name": "Morning Becomes Entertainment",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4b010990-511d-4f69-8052-7c2b66793794",
+      "season": 7,
+      "number": 20,
+      "name": "To Thine Old Self Be True",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4342b2e6-0079-45c5-84ff-7dda60b5fb5e",
+      "season": 7,
+      "number": 21,
+      "name": "The Three Faces of Frasier",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "af9a42c0-52c4-4840-9210-ba3921dc4e2e",
+      "season": 7,
+      "number": 22,
+      "name": "Dark Side of The Moon",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d2944fc3-b2b0-4aad-bffc-3a444e68336a",
+      "season": 7,
+      "number": 23,
+      "name": "Something Borrowed Someone Blue (Part 1)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "04d35df6-3e72-4f99-bf1a-34848b4c741f",
+      "season": 7,
+      "number": 24,
+      "name": "Something Borrowed Someone Blue (Part 2)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "37cb137f-b596-4017-a299-080ec4e4fc56",
+      "season": 8,
+      "number": 1,
+      "name": "And the Dish Ran Away With the Spoon Part 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a7491d34-cd1e-47db-aa00-f83a51590ef1",
+      "season": 8,
+      "number": 2,
+      "name": "And the Dish Ran Away With the Spoon Part 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0bc587a4-e656-4cc4-8ded-c85f43642726",
+      "season": 8,
+      "number": 3,
+      "name": "The Bad Son",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bb619747-2340-4985-b098-84043f3c89a6",
+      "season": 8,
+      "number": 4,
+      "name": "The Great Crane Robbery",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f32db9b7-5341-4f8d-88f8-aca0f05b905c",
+      "season": 8,
+      "number": 5,
+      "name": "Taking Liberties",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6044af51-3090-4a48-a532-9e2767501cbe",
+      "season": 8,
+      "number": 6,
+      "name": "Legal Tender Love and Care",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6fabf287-4004-4542-8561-43a1d93971e9",
+      "season": 8,
+      "number": 7,
+      "name": "The New Friend",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "87d64c40-27b3-4861-b435-44f48a2a5730",
+      "season": 8,
+      "number": 8,
+      "name": "Mary Christmas",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1de8f6d4-5d7d-4b72-bd23-09fafdad045d",
+      "season": 8,
+      "number": 9,
+      "name": "Frasiers Edge",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "182cdabf-fa5e-4e3d-8596-42afe16627cf",
+      "season": 8,
+      "number": 10,
+      "name": "Cranes Unplugged",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9d159739-148b-49c8-9c43-d8c7d1bd25dc",
+      "season": 8,
+      "number": 11,
+      "name": "Motor Skills",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5589a8b-3e96-4218-be98-22e1b70e6572",
+      "season": 8,
+      "number": 12,
+      "name": "The Show Must Go On",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "509397cb-8d56-4fdc-8fec-d830c6f687a6",
+      "season": 8,
+      "number": 13,
+      "name": "Sliding Frasier",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "73d147f9-4cf8-441c-87f5-a4bd5c3fb902",
+      "season": 8,
+      "number": 14,
+      "name": "Hungry Heart",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7fc0e0d2-0fe9-44c6-9e61-1fab2aa8f5fd",
+      "season": 8,
+      "number": 15,
+      "name": "Hooping Cranes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "94cd934a-3c60-4632-b3ee-86cbfa7ca1fd",
+      "season": 8,
+      "number": 16,
+      "name": "Docu Drama",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "13c70f63-e9a7-4035-91c3-696d8039618d",
+      "season": 8,
+      "number": 17,
+      "name": "It Takes Two to Tangle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8bc2de89-f7c1-4e07-9e05-e03d7d31f7e8",
+      "season": 8,
+      "number": 18,
+      "name": "Forgotten But Not Gone",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "22e76bb0-8419-4e85-a08a-0c7ac9e20751",
+      "season": 8,
+      "number": 19,
+      "name": "Daphne Returns",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3b13ce0f-b88c-40ab-882d-5ff63fabcf31",
+      "season": 8,
+      "number": 20,
+      "name": "The Wizard of Roz",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b4a963d1-3880-4867-b90c-a9e855751d5c",
+      "season": 8,
+      "number": 21,
+      "name": "Semi-Decent Proposal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9bf68d1f-d342-4e04-9ad8-fd5aa8296017",
+      "season": 8,
+      "number": 22,
+      "name": "A Passing Fancy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "80eaa1fb-89f2-43c7-a103-863913d00360",
+      "season": 8,
+      "number": 23,
+      "name": "A Day in May",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "21a81b0c-5d02-4612-885a-40efe6970587",
+      "season": 8,
+      "number": 24,
+      "name": "Cranes Go Caribbean",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5a651421-3318-43bc-8116-7cef76e0910f",
+      "season": 9,
+      "number": 1,
+      "name": "Don Juan in Hell - (Part 1)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "867799ea-b5c4-42a9-9d8e-3ad7de5f3e6f",
+      "season": 9,
+      "number": 2,
+      "name": "Don Juan in Hell - (Part 2)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "126527d6-b72e-4875-b0eb-a6b57b8796a7",
+      "season": 9,
+      "number": 3,
+      "name": "The First Temptation of Daphne",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "61b5c754-cdb4-4847-b050-d8fca7baedc3",
+      "season": 9,
+      "number": 4,
+      "name": "The Return of Martin Crane",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a3477f17-cf80-4d55-8505-b2500b162966",
+      "season": 9,
+      "number": 5,
+      "name": "Love Stinks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f1990f4d-f3e0-42c1-9105-7116a2d71e06",
+      "season": 9,
+      "number": 6,
+      "name": "Room Full of Heroes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "59b4130f-9293-48c7-9c98-229fe9f98d02",
+      "season": 9,
+      "number": 7,
+      "name": "Bla-Z-Boy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5fe3a40d-cea9-4445-bc10-7e49ffeacec5",
+      "season": 9,
+      "number": 8,
+      "name": "The Two Hundredth",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f819b04d-974a-4cff-b7c8-dee09563480d",
+      "season": 9,
+      "number": 9,
+      "name": "Sharing Kirby",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fa0e22de-ebc1-4e06-b1da-ec90cc55d016",
+      "season": 9,
+      "number": 10,
+      "name": "Junior Agent",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ce6cd8a0-4ec8-4c74-ad7b-1bab5ff5d540",
+      "season": 9,
+      "number": 11,
+      "name": "Bully for Martin",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "11b3a998-d59d-4bd4-bee4-3cccae0becc7",
+      "season": 9,
+      "number": 12,
+      "name": "Mother Lode (Part 1)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5855706-e4c8-4d01-81d7-ffcef8e7cfde",
+      "season": 9,
+      "number": 13,
+      "name": "Mother Lode (Part 2)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5c2b321b-0273-46d1-9822-fbf2412e6d8b",
+      "season": 9,
+      "number": 14,
+      "name": "Juvenilia",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aaffd849-dd5f-48e4-a28e-b8ffcb9e9b40",
+      "season": 9,
+      "number": 15,
+      "name": "The Proposal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "242fd308-e490-45b6-9980-c0bf2090f582",
+      "season": 9,
+      "number": 16,
+      "name": "Wheels of Fortune",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5eb7f57b-6772-4964-8778-21368e864775",
+      "season": 9,
+      "number": 17,
+      "name": "Three Blind Dates",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0df458d5-f003-4798-9e41-448df088b858",
+      "season": 9,
+      "number": 18,
+      "name": "War of the Words",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6d05e3ec-ccfb-4a7c-92b6-b79a609e3b9d",
+      "season": 9,
+      "number": 19,
+      "name": "Deathtrap",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5540c679-6c5e-4520-b685-98182f7d541e",
+      "season": 9,
+      "number": 20,
+      "name": "The Love You Fake",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "48562016-4efa-4d57-89e7-efa0d58f5701",
+      "season": 9,
+      "number": 21,
+      "name": "Cheerful Goodbyes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6f03e006-aa15-4a30-88d2-11caf1d8a505",
+      "season": 9,
+      "number": 22,
+      "name": "Frasier Has Spokane",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "edd2f4a7-cb37-4c06-85fc-85838d11df87",
+      "season": 9,
+      "number": 23,
+      "name": "The Guilt Trippers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aa837742-a929-47a8-ba29-ed9ee7889498",
+      "season": 9,
+      "number": 24,
+      "name": "Moons over Seattle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b45d7b38-aaf3-4cdc-ae31-363ab6dee13e",
+      "season": 10,
+      "number": 1,
+      "name": "The Ring Cycle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4a4c7df7-f4b3-440b-ba35-d4dd03df02a2",
+      "season": 10,
+      "number": 2,
+      "name": "Enemy at the Gate (Mr. Beemer's Big Stand)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "638812aa-b9b9-4eff-8ed9-2ef6377acc1c",
+      "season": 10,
+      "number": 3,
+      "name": "Proxy Prexy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d96fc3c1-d797-4d39-9fca-2e0a161c1191",
+      "season": 10,
+      "number": 4,
+      "name": "Kissing Cousin",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "458e1a28-9720-4fc3-8d55-47f802c63ad7",
+      "season": 10,
+      "number": 5,
+      "name": "Tales from the Crypt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "419d9cef-b593-44fa-8553-6c67addb0ef9",
+      "season": 10,
+      "number": 6,
+      "name": "Star Mitzvah",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d45c515b-ffad-4bbe-bcbf-8653221fe814",
+      "season": 10,
+      "number": 7,
+      "name": "Bristle While You Work",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "62565c97-b24c-45e8-af55-ab352f41ab35",
+      "season": 10,
+      "number": 8,
+      "name": "Rooms With A View",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "093d3ce6-8e5c-49e5-a0b2-be6a4be0d455",
+      "season": 10,
+      "number": 9,
+      "name": "Don't Go Breaking My Heart",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "01d1cb9a-0444-4884-a787-418ded275ebf",
+      "season": 10,
+      "number": 10,
+      "name": "We Two Kings",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3ef25ac1-f32e-486a-9402-7ae6f32e38f3",
+      "season": 10,
+      "number": 11,
+      "name": "Door Jam",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fd917095-dc48-47c0-82d6-f0741a25219b",
+      "season": 10,
+      "number": 12,
+      "name": "The Harassed",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f8dabef5-a77e-4b34-962a-066b344a4c6d",
+      "season": 10,
+      "number": 13,
+      "name": "Lilith Needs A Favor",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "78cfd6e4-aea5-47dc-b24b-3fbfa1232830",
+      "season": 10,
+      "number": 14,
+      "name": "Daphne Does Dinner",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9eda81fc-25cb-4c10-9dd6-eba9514447a3",
+      "season": 10,
+      "number": 15,
+      "name": "Trophy Girlfriend",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "02183917-c667-4ad2-8146-1462a0b337a0",
+      "season": 10,
+      "number": 16,
+      "name": "Fraternal Schwinns",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "63241e77-e9e2-4eec-a9ca-840cedc7d74e",
+      "season": 10,
+      "number": 17,
+      "name": "Kenny On The Couch",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3a0630ee-094a-4e14-9c6d-62226dde3819",
+      "season": 10,
+      "number": 18,
+      "name": "Roe to Perdition",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "18aabfb5-3ab7-470f-944e-af9885712031",
+      "season": 10,
+      "number": 19,
+      "name": "Some Assembly Required",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8953731b-a785-408a-99f9-9c3857218c71",
+      "season": 10,
+      "number": 20,
+      "name": "Farewell, Nervosa",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "52f994ef-36a5-4256-8c14-1d4a003300b7",
+      "season": 10,
+      "number": 21,
+      "name": "The Devil and Dr. Phil",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ef844f96-e958-4af5-9685-aa1a700340c0",
+      "season": 10,
+      "number": 22,
+      "name": "Fathers and Sons",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d08cabd6-5d20-4873-bc11-7dc854ed88f4",
+      "season": 10,
+      "number": 23,
+      "name": "Analyzed Kiss",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aabcf58f-e75a-46ec-80c6-25811a0d3cdd",
+      "season": 10,
+      "number": 24,
+      "name": "A New Position for Roz",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "20fc8a8f-d07e-45ee-8684-4b3497cfa25b",
+      "season": 11,
+      "number": 1,
+      "name": "No Sex Please, We're Skittish",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bab2c882-82e7-48e7-a82b-81496f640b16",
+      "season": 11,
+      "number": 2,
+      "name": "A Man, A Plan And A Gal: Julia",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "28c8f72d-ee2f-4cf7-9fbf-cfbcbd51d046",
+      "season": 11,
+      "number": 3,
+      "name": "The Doctor Is Out",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "33fd1120-79c6-4e81-9593-9d6e65463af0",
+      "season": 11,
+      "number": 4,
+      "name": "The Babysitter",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "95ea5a0b-45f8-4302-a97f-8511db92b64b",
+      "season": 11,
+      "number": 5,
+      "name": "Placeholder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "efaa2a1f-917c-43b2-9734-7e9817db13ae",
+      "season": 11,
+      "number": 6,
+      "name": "I'm Listening",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3a339995-d61f-4722-b907-7d73bff7aab9",
+      "season": 11,
+      "number": 7,
+      "name": "Maris Returns (1)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3054064b-de1e-4fd1-a8bd-f957251c2dc0",
+      "season": 11,
+      "number": 8,
+      "name": "Murder Most Maris",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0953a86c-6d72-4462-be30-6e5b481cd8b8",
+      "season": 11,
+      "number": 9,
+      "name": "Guns N' Neuroses",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f71979c4-a688-4238-9fb0-52d787b74938",
+      "season": 11,
+      "number": 10,
+      "name": "Seabee Jeebies",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "352af895-0606-47ef-99aa-dc4781daaa01",
+      "season": 11,
+      "number": 11,
+      "name": "High Holidays",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b5730ee6-daa5-482a-8a64-c5429a5a2b23",
+      "season": 11,
+      "number": 12,
+      "name": "Frasier-Lite",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f4359393-2854-42f1-a184-e55dc6096d9f",
+      "season": 11,
+      "number": 13,
+      "name": "The Ann Who Came To Dinner",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5ccb9fbd-72fe-4ca1-89b3-8e3318bb8666",
+      "season": 11,
+      "number": 14,
+      "name": "Freudian Sleep",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "55f8e99d-718a-4dfb-99c9-8e272c5a7965",
+      "season": 11,
+      "number": 15,
+      "name": "Caught In The Act",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3c6eb3e7-0b21-41db-9a2b-042aa4392b55",
+      "season": 11,
+      "number": 16,
+      "name": "Boo! (a.k.a. I'm With Her)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "98722de0-0d4a-4eba-b37f-70a74c0187b7",
+      "season": 11,
+      "number": 17,
+      "name": "Coots And Ladders",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2c00afc6-02c5-4110-bdaf-3e25e1dc6f6d",
+      "season": 11,
+      "number": 18,
+      "name": "Match Game",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ab3f039d-dd8d-4b29-bea2-0ff86b4e83b4",
+      "season": 11,
+      "number": 19,
+      "name": "Miss Right Now",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a208188d-b319-428f-aa40-2e311097ee4e",
+      "season": 11,
+      "number": 20,
+      "name": "And Frasier Makes Three",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "15f5a5d3-6e82-4e0c-909a-8b9bf162a7af",
+      "season": 11,
+      "number": 21,
+      "name": "Detour",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7cad9bb-1a74-46f7-a4ad-9734e7924377",
+      "season": 11,
+      "number": 22,
+      "name": "Crock Tales",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3ee91c9b-b75b-4cb3-81f3-fb7c2e838e21",
+      "season": 11,
+      "number": 23,
+      "name": "Goodnight Seattle (Part 1)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "badece0e-141c-46da-abef-4c6d48166d31",
+      "season": 11,
+      "number": 24,
+      "name": "Goodnight Seattle (Part 2)",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

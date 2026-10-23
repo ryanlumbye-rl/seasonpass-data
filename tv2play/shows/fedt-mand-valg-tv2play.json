@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:fedt-mand-valg-tv2play",
+  "name": "Fedt mand - valg!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Reality-duoen Knaldperlen og Dolken tager på roadtrip for på egen krop at opleve, hvad kommunerne laver, og det bliver alt andet end kedeligt.",
+  "image": "https://cdn-play.tv2i.dk/79042528-35e4-4c48-871f-64651969da60.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f9d8aaed-c0d1-4318-bb3b-bac2052e36e0",
+      "season": 1,
+      "number": 1,
+      "name": "Byfest og børnehave",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "bbe9cf83-bd3f-4cd5-a16c-a8438ba6067d",
+      "season": 1,
+      "number": 2,
+      "name": "Grineflip og genbrugsplads",
+      "airdate": "2025-11-09"
+    }
+  ]
+}

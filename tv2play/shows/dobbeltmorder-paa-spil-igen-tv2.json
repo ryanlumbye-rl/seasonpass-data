@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:dobbeltmorder-paa-spil-igen-tv2",
+  "name": "Dobbeltmorder på spil igen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En dømt dobbeltmorder svindler to mænd, mens hun er i gang med at afsone sin livstidsdom. TV 2 Dokumentar undersøger i to episoder, hvordan det kan lade sig gøre, at kvinden kan begå ny kriminalitet, mens hun afsoner sin straf.",
+  "image": "https://cdn-play.tv2i.dk/5407d174-7012-4915-b753-1c65e17b828a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "7ddc3ede-74eb-4c07-a2e1-2b13dfb3011f",
+      "season": 1,
+      "number": 1,
+      "name": "En farlig kvinde",
+      "airdate": "2024-06-17"
+    },
+    {
+      "id": "05b0b96a-e1de-4f35-b058-804642c265e3",
+      "season": 1,
+      "number": 2,
+      "name": "Skal vi mødes?",
+      "airdate": "2024-06-24"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:dansegarderoben-tv2",
+  "name": "Dansegarderoben",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dansk dramaserie om danserne i Cirkusrevyen. Vi er i midten af 1970'erne, og otte kvinder har fået drømmejobbet. Men det er ikke kun et job fyldt med spotlight, lutter smil, fest og farver, for det er også en helt speciel arbejdsplads med præstationsangst og benhård konkurrence. Serien er en fortælling om fællesskab, om at finde styrken i sammenholdet og ikke mindst om modet til at forandre. Serien er skrevet af Louise Mieritz og Ditte Hansen.",
+  "image": "https://cdn-play.tv2i.dk/50206dbb-c4f4-4356-aacb-f083fa7c85a3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "bb7f6c68-4f6e-4041-8863-39d2ea1a9ce0",
+      "season": 1,
+      "number": 1,
+      "name": "Der er mange dejlige damer",
+      "airdate": "2023-01-29"
+    },
+    {
+      "id": "bc262d98-f4a1-4322-9c66-b1106cf6e608",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad er det nu, hun hedder?",
+      "airdate": "2023-02-12"
+    },
+    {
+      "id": "2f3780fe-adea-41dd-8854-20f6f76ea954",
+      "season": 1,
+      "number": 3,
+      "name": "Men grow cold...",
+      "airdate": "2023-02-19"
+    },
+    {
+      "id": "8298042e-5165-4755-81c7-4f617d2cefbd",
+      "season": 1,
+      "number": 4,
+      "name": "Kaas-kræs",
+      "airdate": "2023-02-26"
+    },
+    {
+      "id": "3ec98fc7-d420-4bbc-8fa0-9cef78c686d0",
+      "season": 1,
+      "number": 5,
+      "name": "Vatkuglerne",
+      "airdate": "2023-03-05"
+    },
+    {
+      "id": "9854ac68-3d21-4bc1-9b16-047e88f0eb5b",
+      "season": 1,
+      "number": 6,
+      "name": "When the shit hits the fan",
+      "airdate": "2023-03-12"
+    },
+    {
+      "id": "72b652c0-c22b-47e3-bc17-df8eb787284d",
+      "season": 1,
+      "number": 7,
+      "name": "Olsen Banden",
+      "airdate": "2023-03-19"
+    },
+    {
+      "id": "86d5dea9-c453-4220-ab2c-7e9fe8995ea3",
+      "season": 1,
+      "number": 8,
+      "name": "Talk about it",
+      "airdate": "2023-03-26"
+    }
+  ]
+}

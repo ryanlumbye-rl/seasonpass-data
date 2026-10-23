@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:naar-arven-splitter-os-tv2",
+  "name": "Når arven splitter os",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvem får huset? Hvordan sikrer vi hinanden? Hvad med sammenbragte børn? Hvem skal arve mest og hvad gør vi når striden opstår? Det har kun hver tiende dansker taget stilling til. Det til trods for, at det kan betyde økonomisk ruin og interne familiestridigheder, for dem vi elsker allermest, når vi er døde. I denne programserie skal vi ind og røre ved de allermest private emner. Død, arv, forventninger, dine og mine. Vi skal konfrontere de svære snakke frontalt. Fordi konsekvenserne ved ikke at gøre det er for store!",
+  "image": "https://cdn-play.tv2i.dk/64acfa5a-5fba-47d5-bd42-a7906423e1fb.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "5faaa9ef-bb90-48ea-b784-b54ae3a7cf7c",
+      "season": 3,
+      "number": 1,
+      "name": "Kæresten tog vores far",
+      "airdate": "2020-01-08"
+    },
+    {
+      "id": "aca4e0e2-aa02-47f8-a260-2e2c52f0ef9e",
+      "season": 3,
+      "number": 2,
+      "name": "Peters kamp",
+      "airdate": "2021-02-11"
+    },
+    {
+      "id": "9a80711a-b193-4f16-9bb8-d169bac41086",
+      "season": 3,
+      "number": 3,
+      "name": "Henriks kamp",
+      "airdate": "2021-02-18"
+    },
+    {
+      "id": "4c3a731c-25aa-4b72-ba02-6b90c345a93f",
+      "season": 5,
+      "number": 2,
+      "name": "Arven efter mor",
+      "airdate": "2024-10-10"
+    }
+  ]
+}

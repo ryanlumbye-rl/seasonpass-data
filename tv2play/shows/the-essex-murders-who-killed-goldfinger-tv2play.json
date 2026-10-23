@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:the-essex-murders-who-killed-goldfinger-tv2play",
+  "name": "The Essex Murders: Who Killed Goldfinger?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "John 'Goldfinger' Palmer var en af mændene bag Brink's-Mat-kuppet og arkitekten bag hvidvask af guld for 26 mio. pund. Han blev kendt som Storbritanniens rigeste forbryder med en formue på 300 mio. pund. Hans uopklarede mord i Essex skaber stadig spekulationer.",
+  "image": "https://cdn-play.tv2i.dk/d5e18051-c018-4186-a49a-d2551015e5d0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3839%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "4bdd6902-9772-41ce-91e7-d91862e2c050",
+      "season": 1,
+      "number": 1,
+      "name": "The Curse of Brink-Mat",
+      "airdate": "2025-12-07"
+    },
+    {
+      "id": "c35d2970-a856-4381-b669-540bad436617",
+      "season": 1,
+      "number": 2,
+      "name": "Empire in the Sun",
+      "airdate": "2025-12-07"
+    },
+    {
+      "id": "ebc4c06f-97ed-4761-ad4b-53d8ba90a6dc",
+      "season": 1,
+      "number": 3,
+      "name": "The Assassin",
+      "airdate": "2025-12-07"
+    }
+  ]
+}

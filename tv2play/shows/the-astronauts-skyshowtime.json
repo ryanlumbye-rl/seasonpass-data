@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:the-astronauts-skyshowtime",
+  "name": "The Astronauts",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fem børn sendes ved et uheld afsted ombord på et rumskib, som skal opfange en mystisk asteroide. Uden træning befinder børnene sig dermed i en situation med forældre, der er millioner af kilometer væk, og med en defekt AI ombord. Børnene må nu samarbejde om at finde hjem igen.",
+  "image": "https://cdn-play.tv2i.dk/35b82dcc-682a-4397-88d8-6e0f38069b5c.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "4b5c1950-6707-4358-adaa-c76ad299c354",
+      "season": 1,
+      "number": 1,
+      "name": "Nedtælling",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "82aae6f2-9720-474f-a539-201b8421b45f",
+      "season": 1,
+      "number": 2,
+      "name": "1. dag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7f5e6afd-7afd-4dc6-a50b-20f29f69387a",
+      "season": 1,
+      "number": 4,
+      "name": "Dag 21",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "98919a36-bcba-4074-8c45-f3141e30f0ff",
+      "season": 1,
+      "number": 5,
+      "name": "Dag 33",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "06a16e65-ab53-47bb-955c-a8fbf58678fa",
+      "season": 1,
+      "number": 7,
+      "name": "Day 73",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cbf4ba0e-791f-4301-8278-60b4e92357c9",
+      "season": 1,
+      "number": 9,
+      "name": "Dag 84",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:en-sag-for-froeken-scarlet-tv2charlie",
+  "name": "En sag for frøken Scarlet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da Eliza Scarlets far dør, er hun tvunget til at overtage hans bureau, men hvordan klarer hun at være Londons første kvindelige detektiv i en verden udelukkende domineret af mænd? Britisk krimiserie fra 2020.",
+  "image": "https://cdn-play.tv2i.dk/1b608abd-a08f-40b4-a187-3317b5a3b4b4.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ddb49761-b62e-4733-a5df-555f41953a90",
+      "season": 1,
+      "number": 1,
+      "name": "Inheritance",
+      "airdate": "2021-04-16"
+    },
+    {
+      "id": "7decdbb1-6b50-407e-9569-0c3e7dfb0935",
+      "season": 1,
+      "number": 2,
+      "name": "The Woman in Red",
+      "airdate": "2021-04-23"
+    },
+    {
+      "id": "0d914dbc-35dc-472c-a89c-532d9889734e",
+      "season": 1,
+      "number": 3,
+      "name": "Deeds Not Words",
+      "airdate": "2021-04-30"
+    },
+    {
+      "id": "47cfbc09-da67-4d20-bda3-4b784e3a92e7",
+      "season": 1,
+      "number": 4,
+      "name": "Memento Mori",
+      "airdate": "2021-05-07"
+    },
+    {
+      "id": "3a455a75-2389-4326-81b3-6dd2dc2f3e51",
+      "season": 1,
+      "number": 5,
+      "name": "Cell 99",
+      "airdate": "2021-05-14"
+    },
+    {
+      "id": "d6e5e894-5581-4dc9-886d-5fd4f3a2e2e3",
+      "season": 1,
+      "number": 6,
+      "name": "The Case of Henry Scarlet",
+      "airdate": "2021-05-21"
+    },
+    {
+      "id": "e4d3e2c1-b53c-4e9c-ba2b-02e661c74e41",
+      "season": 4,
+      "number": 1,
+      "name": "Elysium",
+      "airdate": "2024-06-11"
+    },
+    {
+      "id": "a478b633-f5ff-4f32-81b8-61686c53339c",
+      "season": 4,
+      "number": 2,
+      "name": "Six Feet Under",
+      "airdate": "2024-06-11"
+    },
+    {
+      "id": "52daea2f-07bf-4e39-9710-59ffd5fcb4c9",
+      "season": 4,
+      "number": 3,
+      "name": "Origins",
+      "airdate": "2024-06-12"
+    },
+    {
+      "id": "e9864b83-ebbd-49e5-b24a-dc3826fdd1ac",
+      "season": 4,
+      "number": 4,
+      "name": "The Diamond Feather",
+      "airdate": "2024-06-12"
+    },
+    {
+      "id": "81ad5d73-d82a-42dd-bdf6-0805fb84c27d",
+      "season": 4,
+      "number": 5,
+      "name": "The Calling",
+      "airdate": "2024-06-13"
+    },
+    {
+      "id": "be3522d6-5484-4ab2-a4d2-6a7bd90f4715",
+      "season": 4,
+      "number": 6,
+      "name": "The Fugitive",
+      "airdate": "2024-06-13"
+    }
+  ]
+}

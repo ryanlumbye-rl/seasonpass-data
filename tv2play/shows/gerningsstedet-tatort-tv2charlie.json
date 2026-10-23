@@ -5,16 +5,11 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Du kan se afsnit af den klassiske østrigske krimiserie \"Tatort\" - på dansk \"Gerningsstedet\" - her på TV 2 PLAY. En krimiserie, hvor der af og til dukker danske gæstestjerner op.",
+  "image": "https://cdn-play.tv2i.dk/856abb53-9263-320a-89a7-a848053d6c5c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "86049df9-e999-46c0-a845-9d714e1fcc22",
-      "season": 1,
-      "number": 65,
-      "name": "Mesterkokkens blodige kniv",
-      "airdate": "2025-11-14"
-    },
-    {
-      "id": "d217ab68-3ad8-4e47-bccc-6d368f7fb9d3",
       "season": 1,
       "number": 65,
       "name": "Mesterkokkens blodige kniv",

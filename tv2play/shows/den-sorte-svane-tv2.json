@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:den-sorte-svane-tv2",
+  "name": "Den sorte svane",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En kvindelig jurist med forbindelser til store dele af den danske underverden beslutter sig for at bryde med sit gamle miljø. Hun bliver muldvarp for en gruppe journalister, og med skjult kamera begynder hun at afsløre alt fra rockere til advokater og store erhvervsdrivende.",
+  "image": "https://cdn-play.tv2i.dk/0a3e0961-c66a-486b-84d9-88eb1b6ac495.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "799aea75-ce89-41e1-8b6a-d589c3fc3a7e",
+      "season": 1,
+      "number": 1,
+      "name": "Kontoret hvor svindlere mødes",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "69d02e45-683d-4500-95d5-21db8b82396e",
+      "season": 1,
+      "number": 2,
+      "name": "Expect No Mercy",
+      "airdate": "2024-05-29"
+    },
+    {
+      "id": "62fb4f27-7334-42ab-843c-74f5e34f1593",
+      "season": 1,
+      "number": 3,
+      "name": "Vidnet, der ikke vil dø",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "73dffdae-81bd-4173-99d8-a6c409bea89b",
+      "season": 1,
+      "number": 4,
+      "name": "Malms skæbnedag",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "870a053d-261c-4338-ba11-3be5c1af37d1",
+      "season": 1,
+      "number": 5,
+      "name": "Maskefaldet",
+      "airdate": "2024-05-28"
+    },
+    {
+      "id": "8990dafb-4133-4cca-b4b4-db4b8626302c",
+      "season": 1,
+      "number": 6,
+      "name": "Mediespion",
+      "airdate": "2025-06-11"
+    },
+    {
+      "id": "2cf8ac87-a93c-4a24-903c-cc841d54984e",
+      "season": 1,
+      "number": 7,
+      "name": "Sorteper",
+      "airdate": "2025-06-11"
+    }
+  ]
+}

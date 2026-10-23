@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:boyzone-no-matter-what-skyshowtime",
+  "name": "Boyzone: No Matter What",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den ufortalte, eksplosive historie om Ronan, Shane, Mikey, Keith og Stephen – fem ukendte arbejderklasseknægte fra Dublin, som blev verdens største boyband i løbet af fire år, med flere britiske nummer et singler end One Direction, David Bowie eller Michael Jackson.",
+  "image": "https://cdn-play.tv2i.dk/8ce5cd16-af0a-4320-bc92-3430ba5d62d1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2557f177-0e4f-48cc-8f73-ed661393b0e6",
+      "season": 1,
+      "number": 1,
+      "name": "Love Me for a Reason",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "ab8477b6-4f9b-4d33-b261-ede32a8a934e",
+      "season": 1,
+      "number": 2,
+      "name": "When the Going Gets Tough",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "94736c04-fd67-4681-80d6-702044ca76fc",
+      "season": 1,
+      "number": 3,
+      "name": "When All Is Said and Done",
+      "airdate": "2025-03-16"
+    }
+  ]
+}

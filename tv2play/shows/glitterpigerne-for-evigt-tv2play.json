@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:glitterpigerne-for-evigt-tv2play",
+  "name": "Glitterpigerne for evigt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da Danmarks glitterdronning Susanne pludseligt går bort, står datteren June Staun med ansvaret for at føre deres livsværk videre. I sorg og savn søger hun nye måder at realisere deres drømme. I serien 'Glitterpigerne for evigt' følger vi hendes kamp for at få glitteret til at funkle igen.",
+  "image": "https://cdn-play.tv2i.dk/c8701dbc-71f8-45c7-8b85-5bfc57fe7515.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "290e61c7-f464-4a7e-81b9-b5fc5b71dd41",
+      "season": 1,
+      "number": 1,
+      "name": "Hele Danmarks glitterdronning",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "eb66b3f6-af3c-40ac-ac11-03356a443c6b",
+      "season": 1,
+      "number": 2,
+      "name": "Kan godt uden min mor",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "568f9301-02e0-40fb-9c03-dc88381c1a42",
+      "season": 1,
+      "number": 3,
+      "name": "Glitterstyling og festival",
+      "airdate": "2026-04-01"
+    },
+    {
+      "id": "0f084ef2-8079-4708-aa9c-3dd0fbd2c5e0",
+      "season": 1,
+      "number": 4,
+      "name": "Nomineret til årets ildsjæl",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "69674420-ffb0-40d9-932e-3a801bdb37d6",
+      "season": 1,
+      "number": 5,
+      "name": "På randen af et sammenbrud",
+      "airdate": "2026-04-15"
+    },
+    {
+      "id": "1b0ff318-17ea-43ff-affc-1f0ce2468ad6",
+      "season": 1,
+      "number": 6,
+      "name": "Min store hyldest til mor",
+      "airdate": "2026-04-15"
+    }
+  ]
+}

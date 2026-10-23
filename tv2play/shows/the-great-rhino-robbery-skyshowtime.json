@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:the-great-rhino-robbery-skyshowtime",
+  "name": "The Great Rhino Robbery",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 2011 rammes britiske museer og auktionshuse af en stribe tyverier af næsehornshorn. Næsehornsbestandene skrumper pga. krybskytteri og dyrehandel. Dette er den mørke historie om, hvorfor næsehornet er truet af udryddelse, og kapløbet om at fange de ansvarlige - før det er for sent",
+  "image": "https://cdn-play.tv2i.dk/6db9fd81-82e0-4209-bfad-ef5675c2c145.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7838980b-e39d-4ccc-84ef-78f8a63ca0a4",
+      "season": 1,
+      "number": 1,
+      "name": "A Very British Crime Wave",
+      "airdate": "2024-03-01"
+    },
+    {
+      "id": "207cc5a8-c3b2-49e6-8ebf-35da066ce1f8",
+      "season": 1,
+      "number": 2,
+      "name": "Dead or Alive",
+      "airdate": "2024-03-01"
+    },
+    {
+      "id": "6578bd8a-a879-4cb5-ae38-64bf561a8967",
+      "season": 1,
+      "number": 3,
+      "name": "Hunting the Hunted",
+      "airdate": "2024-03-01"
+    }
+  ]
+}

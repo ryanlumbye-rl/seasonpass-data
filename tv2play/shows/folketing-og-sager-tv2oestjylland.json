@@ -264,6 +264,15 @@
       "number": 39,
       "name": "Hans Kristian Skibby",
       "airdate": "2026-10-17"
+    },
+    {
+      "id": "12fb86e0-0bdf-4b55-94d3-7fdc06c4ddba",
+      "season": 2,
+      "number": 40,
+      "name": "Med Charlotte Green",
+      "airdate": "2026-10-24"
     }
-  ]
+  ],
+  "description": "Danmarks fremtid bestemmes af Folketinget, og her repræsenterer 26 af medlemmerne Østjylland. Interview-serien 'Folketing og Sager' tegner et politisk og personligt portræt af de folkevalgte i Østjylland.",
+  "image": "https://cdn-play.tv2i.dk/7c98f4de-82f0-4989-8563-6a5db930abf8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

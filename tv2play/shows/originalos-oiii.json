@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "'Originalos' er en tegnefilmsserie, der ser nærmere på alle de ting, vi bruger hver dag, men som på et eller andet tidspunkt er blevet opfundet - til stor glæde for os alle!",
+  "image": "https://cdn-play.tv2i.dk/c8000874-fb84-4dc7-be2d-e583b0d3d260.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C999%2C562&w=1280",
   "episodes": [
     {
       "id": "24b8bd19-c780-4f42-a616-5853456bb26c",

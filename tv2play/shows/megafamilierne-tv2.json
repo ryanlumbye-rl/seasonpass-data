@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Ny reportageserie følger livet i fire danske familier, der er noget større end gennemsnittet",
+  "image": "https://cdn-play.tv2i.dk/36ca3d0f-e5c5-4ef4-8ab7-504431ebe715.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "d5f07c97-75db-4768-a01e-2b390e577eaf",

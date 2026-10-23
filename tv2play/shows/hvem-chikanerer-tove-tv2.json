@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:hvem-chikanerer-tove-tv2",
+  "name": "Hvem chikanerer Tove?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "69-årige Tove Æbeløe driver en utraditionel hesteejendom i Dragør, omgivet af rod, campingvogne og socialt udsatte. Hendes livsstil har skaffet hende fjender. Ifølge Tove har hun gennem de sidste 13 år været udsat for over 80 episoder med hærværk og chikane.",
+  "image": "https://cdn-play.tv2i.dk/59371186-1900-4a80-906c-3cd480c9ccaa.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a21ca514-d4fd-4dda-bb17-b604e223448d",
+      "season": 1,
+      "number": 1,
+      "name": "Hun trækker et spor af lort efter sig",
+      "airdate": "2025-08-07"
+    },
+    {
+      "id": "8e723acb-fb58-46b0-abfd-bccf8d5dfd1b",
+      "season": 1,
+      "number": 2,
+      "name": "Et udspilet, dødt får",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "5f44f9ee-fdb5-4e50-9041-899de266e99c",
+      "season": 1,
+      "number": 3,
+      "name": "Man ligger som man har redt",
+      "airdate": "2025-08-21"
+    }
+  ]
+}

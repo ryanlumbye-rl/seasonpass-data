@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:den-bitre-smag-af-michelin-tv2",
+  "name": "Den bitre smag af Michelin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I to programmer går TV 2 Dokumentar bag om Michelin-stjernerne og undersøger arbejdsforholdene for de ansatte på nogle af landets fineste restauranter. En lang række vidnesbyrd og skjult kamera afslører systematisk overarbejde og udnyttelse af udenlandske arbejdere.",
+  "image": "https://cdn-play.tv2i.dk/6bb490c0-e762-4030-9d4d-16e4a55421f3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4157d436-3a4f-4ae2-b129-9a5a7fee493b",
+      "season": 1,
+      "number": 1,
+      "name": "Ofrede alt for stjernen",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "8796da12-2c67-41b7-b705-00de7d94a26b",
+      "season": 1,
+      "number": 2,
+      "name": "Frygten for fyring og den sorte liste",
+      "airdate": "2023-09-06"
+    }
+  ]
+}

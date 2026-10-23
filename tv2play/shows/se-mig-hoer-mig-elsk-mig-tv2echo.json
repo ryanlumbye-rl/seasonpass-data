@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:se-mig-hoer-mig-elsk-mig-tv2echo",
+  "name": "Se mig, hør mig, elsk mig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "20 singler flytter ind på et hotel i jagten på det perfekte match. Her skal de date hinanden på to måder; enten kan de kun se hinanden, eller også kan de kun høre hinanden. Hvem finder kærligheden? Hvem er hvem? Og er det den fysiske tiltrækning eller samtalen, som får sommerfuglene til at lette?",
+  "image": "https://cdn-play.tv2i.dk/bd774a6b-7509-40bd-9846-e7ac15dbaa02.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7732ac3a-b97a-43dd-ad8a-53f15cf8f8fa",
+      "season": 1,
+      "number": 1,
+      "name": "Singlerne flytter ind",
+      "airdate": "2023-11-14"
+    },
+    {
+      "id": "aac541cf-e58b-4f4f-98ff-86b82675c559",
+      "season": 1,
+      "number": 2,
+      "name": "Dealbreaker",
+      "airdate": "2023-11-14"
+    },
+    {
+      "id": "7f077a47-7605-414b-8f90-94f3b0e246dd",
+      "season": 1,
+      "number": 3,
+      "name": "Elsk Mig",
+      "airdate": "2023-11-28"
+    },
+    {
+      "id": "afebf82e-8fd0-4bb2-8295-d923be4eb5c5",
+      "season": 1,
+      "number": 4,
+      "name": "Mod til flirt",
+      "airdate": "2023-11-28"
+    },
+    {
+      "id": "73644f59-9976-433b-9417-a3f24e755dee",
+      "season": 1,
+      "number": 5,
+      "name": "På dybt vand",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "758c90d6-828a-4549-8371-46858a93f14c",
+      "season": 1,
+      "number": 6,
+      "name": "Full Moon Party",
+      "airdate": "2023-12-12"
+    },
+    {
+      "id": "f4a38fdc-a997-4ebd-a261-cbb7b1eb7a91",
+      "season": 1,
+      "number": 7,
+      "name": "Første match",
+      "airdate": "2023-12-26"
+    },
+    {
+      "id": "58028288-65e3-44c8-9f08-46a2105a17ea",
+      "season": 1,
+      "number": 8,
+      "name": "Hvem vil med i suiten?",
+      "airdate": "2024-01-02"
+    },
+    {
+      "id": "9ebe14d3-213e-4103-a666-d8b09bf757cc",
+      "season": 1,
+      "number": 9,
+      "name": "Sidste chance",
+      "airdate": "2024-01-09"
+    },
+    {
+      "id": "55ef85b6-107e-49de-a89e-865bb0dad5ff",
+      "season": 1,
+      "number": 10,
+      "name": "Hvem er hvem?",
+      "airdate": "2024-01-09"
+    }
+  ]
+}

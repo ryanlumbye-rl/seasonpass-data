@@ -7,7 +7,7 @@
   "next": null,
   "episodes": [
     {
-      "id": "e1295cbd-ad72-4aa3-b770-dfb5ce8c3dce",
+      "id": "321516ac-d90a-4230-aa87-26ba78ede8b7",
       "season": 1,
       "number": 1,
       "name": "Legendarisk ostemad",
@@ -68,6 +68,50 @@
       "number": 9,
       "name": "Lev livet, mens du har det!",
       "airdate": "2025-10-24"
+    },
+    {
+      "id": "321516ac-d90a-4230-aa87-26ba78ede8b7",
+      "season": 2,
+      "number": 1,
+      "name": "Yvonne er tilbage!",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "d05434d6-c485-4187-a439-05246a0ed45c",
+      "season": 2,
+      "number": 2,
+      "name": "Plads til alle",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "095c21a8-8708-4dce-ba1a-d5f6bc856253",
+      "season": 2,
+      "number": 3,
+      "name": "Lavet med kærlighed",
+      "airdate": "2026-08-28"
+    },
+    {
+      "id": "0632ec9e-7896-4c1c-bd0f-c9d9f3984fc1",
+      "season": 2,
+      "number": 4,
+      "name": "Spilopper i luften",
+      "airdate": "2026-09-04"
+    },
+    {
+      "id": "7cacd454-981d-4ca0-bfa2-58203629fbe5",
+      "season": 2,
+      "number": 5,
+      "name": "Motorbøvl og møde",
+      "airdate": "2026-09-11"
+    },
+    {
+      "id": "fa82927c-fdb6-4ad1-89eb-3e942265151e",
+      "season": 2,
+      "number": 6,
+      "name": "Yvonne vil have revanche",
+      "airdate": "2026-09-18"
     }
-  ]
+  ],
+  "description": "Sådan cirka midt på Sydmotorvejen ligger rastepladsen Piberhus Øst. Den er et såkaldt infoteria - og dem er der kun 13 tilbage af i hele Danmark. I denne serie følger vi livet på rastepladsen.",
+  "image": "https://cdn-play.tv2i.dk/7ac34421-2e68-3441-b4e7-34bea0b241d5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

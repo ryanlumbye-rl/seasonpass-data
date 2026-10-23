@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:det-naesten-perfekte-drab-tv2",
+  "name": "Det næsten perfekte drab",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I denne serie undersøger TV 2 to af Danmarks mest opsigtsvækkende drabssager, hvor gerningsmanden slap afsted med et udspekuleret drab på et uskyldigt menneske. Gerningsmanden bliver først pågrebet efter nye drab. Kunne de nye drab kunne være undgået, hvis politiet havde gjort deres arbejde?",
+  "image": "https://cdn-play.tv2i.dk/94bf8f01-7e35-498c-8f0a-854e3218120f.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "d80f39c8-fdbb-42c5-8e6e-6bad09ae9340",
+      "season": 1,
+      "number": 1,
+      "name": "Den sorte enke - drabet på trappen",
+      "airdate": "2021-08-19"
+    },
+    {
+      "id": "f59a8855-b5ec-4fef-a2fd-37ee176b99b2",
+      "season": 1,
+      "number": 2,
+      "name": "Den sorte enke - fars pige",
+      "airdate": "2021-08-19"
+    },
+    {
+      "id": "d469c978-5252-4456-b6bf-1c4c7f42c51b",
+      "season": 1,
+      "number": 3,
+      "name": "Den sorte enke - opklaringen",
+      "airdate": "2021-09-02"
+    },
+    {
+      "id": "7be31018-b57d-49ef-a8a1-c0f27cc57382",
+      "season": 1,
+      "number": 4,
+      "name": "Maskemanden - liget i plantagen",
+      "airdate": "2021-09-09"
+    },
+    {
+      "id": "c3a734ae-0fcc-45ad-9aeb-157de49b3ed7",
+      "season": 1,
+      "number": 5,
+      "name": "Maskemanden - de overså gerningsmandens navn",
+      "airdate": "2021-09-09"
+    }
+  ]
+}

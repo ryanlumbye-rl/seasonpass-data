@@ -5,7 +5,198 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Da Alison arver et faldefærdigt gods, følger en uventet bonus med: Huset er fyldt med spøgelser. Mange spøgelser. Når de døde blander sig i de levendes affærer, opstår der kaos, konflikter og hylende morsomme sammenstød i den BAFTA-nominerede britiske komediesucces.",
+  "image": "https://cdn-play.tv2i.dk/ef96362a-255e-356c-84cb-4d01f3998ffe.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
+    {
+      "id": "cc40f2b6-a3ac-4b5c-91bf-609bcf75308e",
+      "season": 1,
+      "number": 1,
+      "name": "Who Do You Think You Are?",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "5f967472-9a45-42cf-96ca-cc933e4d0cfc",
+      "season": 1,
+      "number": 2,
+      "name": "Gorilla War",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "43272c8f-92c3-4373-adec-fe50debdcd55",
+      "season": 1,
+      "number": 3,
+      "name": "Happy Death Day",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "0db29814-939d-42aa-8863-cedb93801f01",
+      "season": 1,
+      "number": 4,
+      "name": "Free Pass",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "d45b3209-20f7-4376-b5ad-168770f1202e",
+      "season": 1,
+      "number": 5,
+      "name": "Moonah Ston",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "30149599-f77d-43b0-9cff-6284d1f4f2b6",
+      "season": 1,
+      "number": 6,
+      "name": "Getting Out",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "e49c8643-ae81-4823-a33e-3362df5ae539",
+      "season": 2,
+      "number": 1,
+      "name": "The Grey Lady",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "f4f00f79-8313-4428-8706-dce5716dcc7d",
+      "season": 2,
+      "number": 2,
+      "name": "About Last Night",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "bc4df300-b68f-4eb1-9244-3d606c68f207",
+      "season": 2,
+      "number": 3,
+      "name": "Redding Weddy",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "125d32a0-af41-4857-a08a-d30e34e4ffc6",
+      "season": 2,
+      "number": 4,
+      "name": "The Thomas Thorne Affair",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "6de0886f-a257-453d-98de-acfad58e62c2",
+      "season": 2,
+      "number": 5,
+      "name": "Bump in the Night",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "360b6834-97e3-4831-aed7-5eeac4ee5e0f",
+      "season": 2,
+      "number": 6,
+      "name": "Perfect Day",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "6d90a331-f943-4066-8309-c1b24a9fd93a",
+      "season": 2,
+      "number": 7,
+      "name": "The Ghost of Christmas",
+      "airdate": "2024-10-23"
+    },
+    {
+      "id": "3189cbed-1977-4c34-a032-69b36ecb8f38",
+      "season": 3,
+      "number": 1,
+      "name": "The Bone Plot",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "bf5d7cf8-7e8e-4ae9-a0f8-b215959926a8",
+      "season": 3,
+      "number": 2,
+      "name": "A Lot to Take In",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "cf0b6b12-512c-4823-aad9-2b2f06f84891",
+      "season": 3,
+      "number": 3,
+      "name": "The Woodworm Men",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "a4b8ab0a-cd9d-4079-9c72-6269be17557b",
+      "season": 3,
+      "number": 4,
+      "name": "I Love Lucy",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "877b0d4c-690a-45bd-927e-7af590e71c71",
+      "season": 3,
+      "number": 5,
+      "name": "Something to Share",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "b16817bc-9307-46db-a129-13f20a20db2b",
+      "season": 3,
+      "number": 6,
+      "name": "Part of the Family",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "cc6fd85b-1b4f-4b8c-857f-1ad6a433650a",
+      "season": 3,
+      "number": 7,
+      "name": "He Came!",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "93f19249-ba89-468e-a535-bddc0e1e184b",
+      "season": 4,
+      "number": 1,
+      "name": "Happy Holiday",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "3e47063f-af0e-446e-a1de-ef7d26ec91be",
+      "season": 4,
+      "number": 2,
+      "name": "Speak as ye choose",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "e5a897eb-17a0-4758-abea-bda7d6c00900",
+      "season": 4,
+      "number": 3,
+      "name": "The Hardest Word",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "7ceaeb27-b5e6-4b39-bb2c-b82d06521b02",
+      "season": 4,
+      "number": 4,
+      "name": "Gone Gone",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "bd0a49b4-53da-4284-9aa4-5acc4cd178d4",
+      "season": 4,
+      "number": 5,
+      "name": "Poached Guests",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "b964bdad-6fa5-4a7e-a928-7817fe52efaf",
+      "season": 4,
+      "number": 6,
+      "name": "Not Again",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "d97c5593-39e8-4e41-9126-2b88a819f50c",
+      "season": 4,
+      "number": 7,
+      "name": "It's Behind You",
+      "airdate": "2025-10-29"
+    },
     {
       "id": "e25a2d3e-9af2-4339-8858-69c0459e46f9",
       "season": 5,

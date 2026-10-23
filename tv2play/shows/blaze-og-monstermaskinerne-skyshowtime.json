@@ -1,0 +1,964 @@
+{
+  "id": "tv2play:blaze-og-monstermaskinerne-skyshowtime",
+  "name": "Blaze og monstermaskinerne",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den tech-besatte otte-årige AJ og hans monstertruckven Blaze er de bedste racerkørere i Akselby. Sammen konkurrerer de to i løb og går på eventyr, mens de løser problemer relateret til videnskab, teknologi, teknik og matematik.",
+  "image": "https://cdn-play.tv2i.dk/3b868b0e-ccb1-4b99-8ccf-f0dfabf39ecb.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f906573b-dae8-4e62-acca-2a0a3f80378e",
+      "season": 1,
+      "number": 1,
+      "name": "Blaze med fart i, del 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "893fbdc2-a2df-4da3-b453-f3ebe8b6d907",
+      "season": 1,
+      "number": 2,
+      "name": "Blaze med fart i, del 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7464d9c9-8b87-41d1-b01b-19c8529a0d74",
+      "season": 1,
+      "number": 3,
+      "name": "Køreklar til kamp",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "58739cd7-ddb8-4cc4-a17b-7a47ce6b6724",
+      "season": 1,
+      "number": 4,
+      "name": "Værktøjsduellen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "318ce272-3e3e-4921-bd3b-b6b53f6846ee",
+      "season": 1,
+      "number": 5,
+      "name": "De hoppende dæk",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "07001b18-8fda-49bf-bc0c-078bbe341aa8",
+      "season": 1,
+      "number": 6,
+      "name": "Stuntmania!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0df19665-84f9-4455-ab81-b8790d96e3bf",
+      "season": 1,
+      "number": 7,
+      "name": "I medvind og modvind",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "63532631-371b-45e3-bc45-71537af9d896",
+      "season": 1,
+      "number": 8,
+      "name": "Holdræset",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c8ea7e79-a776-4be3-82e4-470d1e2c542a",
+      "season": 1,
+      "number": 9,
+      "name": "Junglehornet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "586ce078-42ed-470f-974c-959a01dc76ad",
+      "season": 1,
+      "number": 10,
+      "name": "Truckboldhold",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "33a56ad5-17dd-45d0-8afa-1dc0c828c15d",
+      "season": 1,
+      "number": 11,
+      "name": "Kage-tastrofe",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "805aa530-034d-41fb-9dbd-9cd1f7873a5b",
+      "season": 1,
+      "number": 12,
+      "name": "Mysteriebanditten",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "22b38e90-03e7-4278-959e-9cd4a7a36e09",
+      "season": 1,
+      "number": 13,
+      "name": "Zeg og ægget",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3fb2d187-5b8a-4969-a84e-26570c5e4545",
+      "season": 1,
+      "number": 14,
+      "name": "Gasquatch",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "762a0614-d2df-4b0f-b8cf-ee7d4ab02c7f",
+      "season": 1,
+      "number": 15,
+      "name": "Truck-spejdere",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "464461af-5200-449b-9c9a-c7ce92b59983",
+      "season": 1,
+      "number": 16,
+      "name": "Problemer med monstervasken",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bf8b9bf4-a15e-4c66-8200-0e96bfeebff5",
+      "season": 1,
+      "number": 17,
+      "name": "Kvægdrivning",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "99a4e274-1c8d-473c-b63a-5a68b72645e7",
+      "season": 1,
+      "number": 18,
+      "name": "Drageø-duellen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7e93bf21-cc23-4aba-a6a6-e62592c4abc0",
+      "season": 1,
+      "number": 19,
+      "name": "Rumraket på afveje",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ee6f6698-b2df-4497-82bd-aa99d0793259",
+      "season": 1,
+      "number": 20,
+      "name": "Frysende koldt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cc458f73-a112-4388-ac3c-83f7653c27aa",
+      "season": 2,
+      "number": 1,
+      "name": "Løbet til verdens ende, del 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "878395e5-7cd2-46db-9e03-e87c426411ae",
+      "season": 2,
+      "number": 2,
+      "name": "Løbet til verdens ende, del 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c3eb80bb-9071-4d75-8246-00162c81ef02",
+      "season": 2,
+      "number": 3,
+      "name": "Bil eller ballade",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "40d5b764-eabe-405f-8be9-601b06526edf",
+      "season": 2,
+      "number": 4,
+      "name": "Dino-streger",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3160b6de-97be-4e6e-9ec9-42a6bff757b3",
+      "season": 2,
+      "number": 5,
+      "name": "Grisse 500",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5c627482-e6cd-4001-babc-793eed71dd6f",
+      "season": 2,
+      "number": 6,
+      "name": "Blaze bliver brandmand",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5373af82-b3a3-4af2-a60f-124033b84111",
+      "season": 2,
+      "number": 7,
+      "name": "Ridderræs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "55cf3913-3c96-4d20-b28d-4edd931354ea",
+      "season": 2,
+      "number": 8,
+      "name": "Monstermaskinernes jul",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e54b5581-4048-4d17-880b-2b5ceab04b1f",
+      "season": 2,
+      "number": 9,
+      "name": "Darington mod månen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0ee3c29d-98c0-498d-bcaf-151b2ef63736",
+      "season": 2,
+      "number": 10,
+      "name": "Ildfluen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7bf6555-83c2-47f9-862e-f86ed961b6e4",
+      "season": 2,
+      "number": 11,
+      "name": "Blaze's brandalarm",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4b1f7099-2f24-4cd9-a6aa-a50a1a0021c8",
+      "season": 2,
+      "number": 12,
+      "name": "Akselbys store racerløb",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "58c017f6-4fbe-491f-b2fe-fc2585aebfe0",
+      "season": 2,
+      "number": 13,
+      "name": "Skattebanen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5610f3c-2552-4066-819b-b5849a581379",
+      "season": 2,
+      "number": 14,
+      "name": "Raketski-redningen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "abae70f1-e807-48b9-9d0f-057c8b8cf1ca",
+      "season": 2,
+      "number": 15,
+      "name": "Dinosaurparaden",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4a6f548f-d22c-4f0d-900b-6414fc0ff459",
+      "season": 2,
+      "number": 16,
+      "name": "Hvem kan? Pickle kan!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4def417f-50fd-449b-aa94-d86661be2ce6",
+      "season": 2,
+      "number": 17,
+      "name": "Racerbil med fart på",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "64a2e81c-ce5d-48d9-96c1-968ea2bea15d",
+      "season": 2,
+      "number": 18,
+      "name": "Ræset til Ørnebjerget",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5eaadce4-2d7a-4c55-9049-885b105d480d",
+      "season": 2,
+      "number": 19,
+      "name": "Højt til vejrs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e2d31e21-d458-4f3a-b54d-49bb4aa7ed84",
+      "season": 2,
+      "number": 20,
+      "name": "Ønskehjulet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6cbc36ab-58c3-4000-9ffd-1a04e7112818",
+      "season": 3,
+      "number": 1,
+      "name": "Hundredekilometerløbet",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "fb0508eb-fd59-4689-bac9-8752bf399631",
+      "season": 3,
+      "number": 2,
+      "name": "Polarløbet",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "82f0393e-ad79-4486-bd29-873d164f30f8",
+      "season": 3,
+      "number": 3,
+      "name": "Dinobanen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "71e5b510-2b51-466c-8ba0-b2c85fa34cdd",
+      "season": 3,
+      "number": 4,
+      "name": "Ridderlige Riddere",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "9eca3188-840a-48fc-bdc4-826f3009a528",
+      "season": 3,
+      "number": 5,
+      "name": "Megamudderrobot",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "9c92c3ae-92c2-45a6-80b8-5c4f6f64c3ff",
+      "season": 3,
+      "number": 6,
+      "name": "Lysracerne",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "27dc4372-1016-467e-8577-02f7c2709bb9",
+      "season": 3,
+      "number": 7,
+      "name": "Den hoppende tyreracerbane",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "1b1cde6b-e14c-410e-988f-6b418be18a8b",
+      "season": 3,
+      "number": 8,
+      "name": "Kranbilskaos",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "b4459d76-4a3c-4d3f-aeb2-78a1fdbe28d9",
+      "season": 3,
+      "number": 9,
+      "name": "Fang kagen!",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "9687c1bf-ff21-461c-adec-ab8de3ce1dfa",
+      "season": 3,
+      "number": 10,
+      "name": "Dyrenes Ø",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "cab97907-0e4a-477b-8b8d-e71a3cfcf7af",
+      "season": 3,
+      "number": 11,
+      "name": "Tukan godt!",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "87507936-5f14-4402-9b4f-1556dd55a8eb",
+      "season": 3,
+      "number": 12,
+      "name": "Det Store Insektventyr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "1a9e79bb-8e35-4ff2-84ba-3490195b44fe",
+      "season": 3,
+      "number": 13,
+      "name": "Himmelmesterskabet!",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "895423b1-a964-484a-8d10-0d4bb61d90ca",
+      "season": 3,
+      "number": 14,
+      "name": "Klar, Parat, Brøl",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "e3b4027f-d71d-4055-8c55-7d184042c53b",
+      "season": 3,
+      "number": 15,
+      "name": "Dyrenes kongekrone",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "9d610e0c-f542-4fad-bb0d-155f39cfee79",
+      "season": 3,
+      "number": 16,
+      "name": "Sammenhold",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "f6094860-5eaf-4474-b798-d6eb68bea5e6",
+      "season": 3,
+      "number": 17,
+      "name": "Kampen om den gyldne skat",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "ec88bb99-7847-4c65-af1b-b0e6617c0687",
+      "season": 3,
+      "number": 18,
+      "name": "Kampen om Blazer-fart",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "2d74d902-86c9-4fec-af2d-9bb3dc611840",
+      "season": 3,
+      "number": 19,
+      "name": "Snydfri Sejr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "ee300b01-ab1c-40d3-b685-52e2f3175cfb",
+      "season": 3,
+      "number": 20,
+      "name": "Redningsracerløb",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "980eb185-9187-48d7-8f62-86e0e6bf5902",
+      "season": 4,
+      "number": 1,
+      "name": "Robotkræfter",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "096474f3-4407-455b-ad89-23e4912ac855",
+      "season": 4,
+      "number": 2,
+      "name": "Pickle-familiens campingtur",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "40a1578c-c626-445c-8a66-e8569930a4a8",
+      "season": 4,
+      "number": 3,
+      "name": "Kyllinge-cirkusset",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "e729b6ee-4262-4a7e-98e9-0b9cd06708ec",
+      "season": 4,
+      "number": 4,
+      "name": "Ninja Blaze",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "e756c285-2764-4067-8a08-bb14eac30e89",
+      "season": 4,
+      "number": 5,
+      "name": "Den kæmpestore præmie",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "5dec38e1-01db-4d27-9f3b-0ddaabc3fe79",
+      "season": 4,
+      "number": 6,
+      "name": "Isbrydning",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "9b5f32f9-8c76-4a29-8e56-c444f09a3a43",
+      "season": 4,
+      "number": 7,
+      "name": "Robotter til undsætning",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "dcb606e6-a50d-498b-8b61-b428c02e9d3a",
+      "season": 4,
+      "number": 8,
+      "name": "Tyrannosaurus-problemer",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "3503c79f-7b65-44b5-89be-7e8f8d0bb82c",
+      "season": 4,
+      "number": 9,
+      "name": "Kødbollekaos",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "771b5c4f-6e43-49f9-8dba-da38163bb1bb",
+      "season": 4,
+      "number": 10,
+      "name": "Robotter i rummet",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "aa4a9e1e-7fe3-463a-b5c0-d043fcdc1d40",
+      "season": 4,
+      "number": 11,
+      "name": "Kraftdæk",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "17bb896c-a1e7-4c10-b3f3-ec6acde13521",
+      "season": 4,
+      "number": 12,
+      "name": "Sneboldkamp",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "cdf927b7-dc56-499c-a06a-1b73bd0cfe5e",
+      "season": 4,
+      "number": 13,
+      "name": "Byggekøretøjer til undsætning",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "e3fc03bb-60fe-4731-ae46-865c3cb89241",
+      "season": 4,
+      "number": 14,
+      "name": "Betjent Blaze",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "691462e0-b97d-4ca1-9b98-80743d73d995",
+      "season": 4,
+      "number": 15,
+      "name": "Den flyvende løve",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "a8800485-4561-474c-a619-05f0bc05f471",
+      "season": 4,
+      "number": 16,
+      "name": "Ninjasuppe",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "e5290ba3-b4ae-4ee1-bd40-e223900b51cf",
+      "season": 4,
+      "number": 17,
+      "name": "Royal redning",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "fd04f75d-a4ba-4b40-851c-02cdf6683c29",
+      "season": 4,
+      "number": 18,
+      "name": "Blaze og den magiske ånd",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "556c9214-4e82-4db1-b77f-475aee88baa7",
+      "season": 4,
+      "number": 19,
+      "name": "Éthundredeægs-udfordringen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "a6c941e5-c07b-4e23-8442-ef4cd1501df1",
+      "season": 4,
+      "number": 20,
+      "name": "Midnatsmilen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "34e0df16-b53b-4342-9d65-7acbeaaf77ca",
+      "season": 6,
+      "number": 11,
+      "name": "Brandmænd til undsætning",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4160d8eb-029d-4348-8cf6-b700547df159",
+      "season": 6,
+      "number": 12,
+      "name": "Kæmpelastbilens delfinleverance",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "cf3214f6-54bd-41e2-8ddb-2ee8389740ec",
+      "season": 6,
+      "number": 13,
+      "name": "Ræset om den gyldne gave",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fa7e8b38-5cde-4dff-b97d-f6d39324facd",
+      "season": 6,
+      "number": 14,
+      "name": "Tigerskatten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4524c1dd-16e7-48c3-9497-80b94810b7a4",
+      "season": 6,
+      "number": 15,
+      "name": "Boingierne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8a365fc0-680e-47de-abe7-1e8a56a77df8",
+      "season": 6,
+      "number": 16,
+      "name": "Special Mission Blaze",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "20d6350d-65d0-4c3e-a8cc-cec3cbde3053",
+      "season": 6,
+      "number": 17,
+      "name": "Den store snefestival",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c2adb4f2-68cb-4a97-a225-1f88395f3c40",
+      "season": 6,
+      "number": 18,
+      "name": "Den hurtigste af dem alle",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4dce102f-0f71-4cf1-a890-a07e4a1dce11",
+      "season": 6,
+      "number": 19,
+      "name": "Sne-redningsaktionen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8afecead-faa6-4325-a775-4090bf09755e",
+      "season": 6,
+      "number": 20,
+      "name": "Megabot",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a8668e81-535d-4a8b-8a81-26584f1203b4",
+      "season": 7,
+      "number": 7,
+      "name": "Flyvekonkurrencen",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "d0a16a4f-5c9a-49be-a0fe-20f3b06c0a1d",
+      "season": 7,
+      "number": 8,
+      "name": "Missionen til Mars",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "cf5f2cb5-ba69-402c-8ab4-399fecc2e383",
+      "season": 7,
+      "number": 9,
+      "name": "Racere på vedvarende energi",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "92a88c8f-8017-4051-ab34-70201abace10",
+      "season": 7,
+      "number": 10,
+      "name": "Babyrobotten fra det ydre rum",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "d1a1583f-2633-41df-b51d-e46f7ec4134b",
+      "season": 7,
+      "number": 11,
+      "name": "Den ækle rapand",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "4357bda0-a314-4465-a5a5-13389af3ace1",
+      "season": 7,
+      "number": 12,
+      "name": "Pudepiraten",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "54b37df0-5b96-4d9f-87ba-659d275627ad",
+      "season": 7,
+      "number": 13,
+      "name": "På eventyr i spillehallen",
+      "airdate": "2023-12-27"
+    },
+    {
+      "id": "44f58b1c-3c32-4203-af17-8156ceac7f0e",
+      "season": 7,
+      "number": 14,
+      "name": "Pickleworld!",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "fd1dc9eb-ca26-4fd2-87c8-f1e3003bef5a",
+      "season": 7,
+      "number": 15,
+      "name": "Superglide-trofæet",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "758f440d-7fb8-4a89-93c0-f6ff67bf8d43",
+      "season": 7,
+      "number": 16,
+      "name": "Helte i det Vilde Vesten",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "d2d9d919-53bf-48a7-a4e6-90718c193363",
+      "season": 7,
+      "number": 17,
+      "name": "Superhjul vs. Boblemageren",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "7c20aac4-0f43-4369-8215-8d996ab1ec96",
+      "season": 7,
+      "number": 18,
+      "name": "Superhjul vs. Den grønne dronning",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "aabf3c00-ed8e-4d48-bac4-baf4918dfd47",
+      "season": 7,
+      "number": 19,
+      "name": "Superhjul vs. Pandekageio",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "d80f3cac-7cb4-4499-92f3-5b94cbfce1f5",
+      "season": 7,
+      "number": 20,
+      "name": "Valentinsdag-redning",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "baa261a5-6878-45d1-a3fc-d4577777654c",
+      "season": 7,
+      "number": 21,
+      "name": "Flyvende robotredning",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "80988fd7-0db2-4a15-8870-c62f8400d47a",
+      "season": 7,
+      "number": 22,
+      "name": "Is-skatten",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "d1b92754-ca62-4356-a1b0-15a0a99fcbab",
+      "season": 7,
+      "number": 23,
+      "name": "Magisk kaos",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "baef427a-7273-49d7-88a6-385309c6e4db",
+      "season": 7,
+      "number": 24,
+      "name": "Robotmesterskabet",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "2dbec02a-7728-4a0a-b064-aa34a32ac58a",
+      "season": 7,
+      "number": 25,
+      "name": "Super-smash-ræset",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "97efbdf9-c41f-4fc1-84bd-0a149a8e1e6a",
+      "season": 7,
+      "number": 26,
+      "name": "Skolebus-Blaze!",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "e5578718-668e-4bb8-8f89-be138205f655",
+      "season": 8,
+      "number": 1,
+      "name": "Pirat Grand Prix",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "0fb267b5-a366-4600-a2bc-4bf672c8a967",
+      "season": 8,
+      "number": 2,
+      "name": "Videospilland: Et monstermaskinesærafsnit - del 1",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "e3332adf-3057-470c-86a4-8e410dc12370",
+      "season": 8,
+      "number": 3,
+      "name": "Videospilland: Et monstermaskinesærafsnit - del 2",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "ce18a621-6296-4e9b-b7ff-a6d67c17ee09",
+      "season": 8,
+      "number": 4,
+      "name": "Skraldevognsudfordringen",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "1a522fec-ade7-427f-9d46-0247ae945f7a",
+      "season": 8,
+      "number": 5,
+      "name": "Monstermaskine-redningshold",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "acde082b-2beb-4d09-8e71-5cfeeb7cef61",
+      "season": 8,
+      "number": 6,
+      "name": "Dækdrillerier",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "8ff072ad-4a62-442e-8839-5ae1162946f4",
+      "season": 8,
+      "number": 7,
+      "name": "Værktøjs-Blaze",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "65048347-fd45-4a4f-96e6-b21fe8d7c96d",
+      "season": 8,
+      "number": 8,
+      "name": "Sne, hav, himmel-løbet",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "ed69e114-7a55-42e1-9829-53cfbb59a2e1",
+      "season": 8,
+      "number": 9,
+      "name": "Blazes første løb",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "99fed7c2-3bf3-48f8-b16b-d6d10cb5a65c",
+      "season": 8,
+      "number": 10,
+      "name": "Slik eller ballade-skatten",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "6802156f-84dd-4dc1-a122-cb51a5e87d8c",
+      "season": 8,
+      "number": 11,
+      "name": "Supersnemandskonkurrencen",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "b961fec7-528f-462a-ab6f-48464e6d2d52",
+      "season": 8,
+      "number": 12,
+      "name": "Mission: breve til julemanden",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "d316cf9b-4664-4b86-968e-8b2b7723d3a5",
+      "season": 8,
+      "number": 13,
+      "name": "Rummission Blaze",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "1e415b16-de20-4612-bcd1-650cadd6e3cf",
+      "season": 9,
+      "number": 1,
+      "name": "Dino-smash!",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "f17e025c-f450-40d8-ae38-f937909fc486",
+      "season": 9,
+      "number": 2,
+      "name": "Pit Crew-kræfter",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "1e22c6b3-28d8-4aee-bd75-702908a353eb",
+      "season": 9,
+      "number": 3,
+      "name": "Vejrmaskinen",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "5385636e-d664-48b2-823f-559c34225f7d",
+      "season": 9,
+      "number": 4,
+      "name": "Rumskibsforlystelsen",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "f80b93cd-2e38-4070-b8f8-e711a48dc599",
+      "season": 9,
+      "number": 5,
+      "name": "Det Store Sengetidsløb",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "6e986c13-847a-458c-9798-fff684a33095",
+      "season": 9,
+      "number": 6,
+      "name": "Iskugle-team",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "89c2b571-df0a-4220-856e-b9aa04563f7c",
+      "season": 9,
+      "number": 7,
+      "name": "Dragespillet",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "5b730c56-de3b-43cf-844a-077c20d41c90",
+      "season": 9,
+      "number": 8,
+      "name": "Monstermaskiner i bio",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "784271e6-be05-4a39-8c5e-a374048f281e",
+      "season": 9,
+      "number": 9,
+      "name": "Havskildpadde-ubåd",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "62d04c73-c186-4db3-bb0b-e3a17e4e83ed",
+      "season": 9,
+      "number": 10,
+      "name": "Rensemaskinen",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "1d0a8b05-ce97-4d29-be88-8c0b6ddf1df9",
+      "season": 9,
+      "number": 11,
+      "name": "Det Store Togløb",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "357c85bf-d60a-4427-b0e9-ebbe9dc1fac0",
+      "season": 9,
+      "number": 12,
+      "name": "Morgenmadsrobotter",
+      "airdate": "2026-06-13"
+    },
+    {
+      "id": "998da30a-4936-4eb7-add6-ae102c75d22a",
+      "season": 9,
+      "number": 13,
+      "name": "Langt, langt bort-maskinen",
+      "airdate": "2026-06-13"
+    }
+  ]
+}

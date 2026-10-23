@@ -1,0 +1,110 @@
+{
+  "id": "tv2play:lego-masters-australien-tv2echo",
+  "name": "LEGO Masters Australien",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Konkurrencen, der er bygget til at skubbe fantasien og kreativiteten hos Australiens skarpeste LEGO-byggere, er tilbage med en sæson to, der lige som en hver god to'er, lover at være større og vildere end den første!.",
+  "image": "https://cdn-play.tv2i.dk/3f0cd5d5-959c-4efa-9980-4a227aa01eb2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0c2a39cd-d733-434a-9c42-42a2551ec3c6",
+      "season": 5,
+      "number": 1,
+      "name": "Byen i skyen",
+      "airdate": "2024-09-22"
+    },
+    {
+      "id": "66334a9b-507f-4b09-af3b-1daa345c90fe",
+      "season": 5,
+      "number": 2,
+      "name": "Faldet",
+      "airdate": "2024-09-29"
+    },
+    {
+      "id": "7589728c-17ed-4164-8a42-78f455634a20",
+      "season": 5,
+      "number": 3,
+      "name": "Et Lego-mysterie",
+      "airdate": "2024-10-06"
+    },
+    {
+      "id": "befa0d30-c17e-4944-93dd-889fa679ccb0",
+      "season": 5,
+      "number": 4,
+      "name": "Forlystelsesparken",
+      "airdate": "2024-10-13"
+    },
+    {
+      "id": "c5ce46c2-1b91-4506-9967-ab1c61f37ea6",
+      "season": 5,
+      "number": 5,
+      "name": "Op, op, op",
+      "airdate": "2024-10-20"
+    },
+    {
+      "id": "0204dd39-5c49-457e-ba44-2fe666969fd4",
+      "season": 5,
+      "number": 6,
+      "name": "Konspirationsteorier",
+      "airdate": "2024-10-27"
+    },
+    {
+      "id": "90248bad-6ff4-4cff-980c-da70be851f8d",
+      "season": 5,
+      "number": 7,
+      "name": "Rummet",
+      "airdate": "2024-11-03"
+    },
+    {
+      "id": "cfd58d31-40c4-4d8e-8351-c46073e7cc0a",
+      "season": 5,
+      "number": 8,
+      "name": "Disney",
+      "airdate": "2024-11-10"
+    },
+    {
+      "id": "206b20fd-0820-4cd1-9411-23986ad258a1",
+      "season": 5,
+      "number": 9,
+      "name": "En eksplosiv manøvre",
+      "airdate": "2024-11-17"
+    },
+    {
+      "id": "34c05bc8-52f8-4967-ac85-6f27362486c2",
+      "season": 5,
+      "number": 10,
+      "name": "Røveriet",
+      "airdate": "2024-11-24"
+    },
+    {
+      "id": "eb7fb4cd-fe65-4f18-9b64-fa2d804b150c",
+      "season": 5,
+      "number": 11,
+      "name": "Den ultimative bygger",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "f5ba54ba-213c-4bdd-8c34-40646470838e",
+      "season": 5,
+      "number": 12,
+      "name": "På et hængende hår",
+      "airdate": "2024-12-09"
+    },
+    {
+      "id": "35f2a04a-749d-400a-a393-043d102cd5f4",
+      "season": 5,
+      "number": 13,
+      "name": "Op på hesten",
+      "airdate": "2024-12-16"
+    },
+    {
+      "id": "b6665502-363a-4115-9e78-408fff90512b",
+      "season": 5,
+      "number": 14,
+      "name": "En episk finale",
+      "airdate": "2024-12-23"
+    }
+  ]
+}

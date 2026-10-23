@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:gift-med-en-svindler-tv2",
+  "name": "Gift med en svindler",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Britisk dokumentar i tre dele om en svindlers komplekse net af løgne og bedrag. Sammen med den tidligere US Marshal Tex Lindsey forfølger vi den lyssky mand mr. Jordan, der har efterladt sig et spor af smerte og forvirring på tværs af kloden.",
+  "image": "https://cdn-play.tv2i.dk/a1b64767-3347-4695-b93c-0d85146cb398.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "feb89dc0-1ed7-41b9-a466-302821b25ede",
+      "season": 1,
+      "number": 1,
+      "name": "Forelsket i Superman",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "7b215ccd-68f6-4ecb-a5cf-513e187b4a3a",
+      "season": 1,
+      "number": 2,
+      "name": "Toppen af et kaotisk isbjerg",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "ed726f6a-aca3-43a2-a0be-cbeb8eeab8c5",
+      "season": 1,
+      "number": 3,
+      "name": "Haps!",
+      "airdate": "2024-01-24"
+    }
+  ]
+}

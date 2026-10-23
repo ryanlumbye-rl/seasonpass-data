@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:boern-paa-druk-tv2",
+  "name": "Børn på druk",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Danske børn og unge har europarekorden i druk. De drikker voldsomt store mængder, og flere eksperter er dybt bekymrede. TV 2 er med til nogle af de største drukbegivenheder for børn og unge for at se, hvad der foregår, og undersøge, hvilke årsager der ligger bag. Reportageserie i tre afsnit.",
+  "image": "https://cdn-play.tv2i.dk/8f472a54-6d8a-4a8a-a951-53cce1a7c758.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3f8b1789-7441-4487-b04c-9b3f5fa82ec9",
+      "season": 1,
+      "number": 1,
+      "name": "Gratis juleøl til alle",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "765064e2-99af-4209-a63e-cad60c7a2ce5",
+      "season": 1,
+      "number": 2,
+      "name": "Hvor galt kan det gå?",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "a3ca2d20-628a-470a-9ece-24a41e2a84ec",
+      "season": 1,
+      "number": 3,
+      "name": "Bryggeriernes magt",
+      "airdate": "2023-11-13"
+    }
+  ]
+}

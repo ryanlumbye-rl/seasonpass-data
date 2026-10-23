@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:yellowstone-one-fifty-skyshowtime",
+  "name": "Yellowstone: One-Fifty",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kevin Costner udforsker Yellowstone National Parks hidtil usete vidundere. Han tager os med på en personlig rundtur i et af verdens mest utrolige naturlige vartegn og genopdager den ikoniske skønhed, der førte til nationalparkens beskyttelse",
+  "image": "https://cdn-play.tv2i.dk/e2230fbe-2b5c-4e0a-afa8-0bf2cd4290df.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a472ec58-eec5-4200-a7dc-04e5ec4a34e4",
+      "season": 1,
+      "number": 1,
+      "name": "Et magisk sted",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "ebc9da4c-4f2b-4cd5-b808-bf74aec0928c",
+      "season": 1,
+      "number": 2,
+      "name": "Vinteren i al sin pragt",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "6f27839a-b436-4674-8425-e5e98af0ba76",
+      "season": 1,
+      "number": 3,
+      "name": "Genfødsel",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "c3228d33-f242-4d47-8883-49e372a6323a",
+      "season": 1,
+      "number": 4,
+      "name": "En varig arv",
+      "airdate": "2024-11-07"
+    }
+  ]
+}

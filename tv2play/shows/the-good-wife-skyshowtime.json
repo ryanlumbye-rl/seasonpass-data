@@ -1,0 +1,1104 @@
+{
+  "id": "tv2play:the-good-wife-skyshowtime",
+  "name": "The Good Wife",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "3458cfde-7695-4d01-a1ca-bd95ca7ada98",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1700d155-754b-47f1-97c3-4252b58f20c9",
+      "season": 1,
+      "number": 2,
+      "name": "Stripped",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4e01aaab-c99d-403b-9b09-1c0f470b28d2",
+      "season": 1,
+      "number": 3,
+      "name": "You Can't Go Home Again / Home",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c5baf93b-ef07-46bf-875c-3f08f0726b8b",
+      "season": 1,
+      "number": 4,
+      "name": "Fixed",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7c384990-4279-4fa5-b0e5-700321a66cd7",
+      "season": 1,
+      "number": 5,
+      "name": "Crash",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "493f823c-276a-45fc-b216-186c6fe7b2b2",
+      "season": 1,
+      "number": 6,
+      "name": "Conjugal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7ff71695-96ba-4658-9aec-241b12913e11",
+      "season": 1,
+      "number": 7,
+      "name": "Unorthodox",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "98fd2b07-beea-43bf-bba1-9b73899abf60",
+      "season": 1,
+      "number": 8,
+      "name": "Unprepared",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eac55b3f-8a97-4f21-a261-e02dbc41d4ec",
+      "season": 1,
+      "number": 9,
+      "name": "Threesome",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6b55219c-6e28-41dd-a032-3e259999a936",
+      "season": 1,
+      "number": 10,
+      "name": "Lifeguard",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "19172281-eb7d-4171-a08d-8fc22ed253df",
+      "season": 1,
+      "number": 11,
+      "name": "Infamy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b14e9d58-a148-450e-a858-e78da94bb8d3",
+      "season": 1,
+      "number": 12,
+      "name": "Painkiller",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cf2f1a69-bcfe-4889-b8bd-290c4dd7b773",
+      "season": 1,
+      "number": 13,
+      "name": "Bad",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b8316249-522f-47cf-b5b1-d5d1d1e2c701",
+      "season": 1,
+      "number": 14,
+      "name": "Hi",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4d7f41b8-361d-4da6-a576-8998ce7025b1",
+      "season": 1,
+      "number": 15,
+      "name": "Bang",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "527617ce-76da-4e28-94cc-e27231cdc7e0",
+      "season": 1,
+      "number": 16,
+      "name": "Fleas",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "17f15297-8ecf-45b3-a752-2d4f627d7eeb",
+      "season": 1,
+      "number": 17,
+      "name": "Heart",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d923a89a-d9f6-4099-a279-316f20da9619",
+      "season": 1,
+      "number": 18,
+      "name": "Doubt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bb3793e9-4662-4af5-8bba-0661993baa1a",
+      "season": 1,
+      "number": 19,
+      "name": "Boom",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4bbe6a78-04ae-45ef-b6d1-b292e9a32497",
+      "season": 1,
+      "number": 20,
+      "name": "Mock",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7b6a9963-30aa-452b-89be-71d77e047d42",
+      "season": 1,
+      "number": 21,
+      "name": "Unplugged",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "759e89f5-b285-4e5d-92d4-5cd91e26e3fa",
+      "season": 1,
+      "number": 22,
+      "name": "Hybristophilia",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0d32ed48-e270-412b-a726-b30c390842e6",
+      "season": 1,
+      "number": 23,
+      "name": "Running",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fa4cfd61-8034-43d0-a9e7-4cf15671a1a1",
+      "season": 2,
+      "number": 1,
+      "name": "Taking Control",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2225188e-f41c-43f0-bb8c-8af3bb05aa7f",
+      "season": 2,
+      "number": 2,
+      "name": "Double Jeopardy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b2c1fe05-f1f7-43b8-baee-62c3cd32737c",
+      "season": 2,
+      "number": 3,
+      "name": "Breaking Fast",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "43a0ef84-09b4-407f-9a29-ca5f0eb939d7",
+      "season": 2,
+      "number": 4,
+      "name": "Cleaning House",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d6d9b25f-1f66-4822-985c-c694923eae70",
+      "season": 2,
+      "number": 5,
+      "name": "VIP Treatment",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "16490941-7556-4385-9ba4-76636dbcd12f",
+      "season": 2,
+      "number": 6,
+      "name": "Poisoned Pill",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e2e9af2b-4fbf-4820-a54d-9230010d5f2f",
+      "season": 2,
+      "number": 7,
+      "name": "Bad Girls",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6258bf47-9e51-4a95-ac7d-b4faf78c721a",
+      "season": 2,
+      "number": 8,
+      "name": "On Tap",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e61d50d7-7a2c-4ac0-a419-2357db6b4066",
+      "season": 2,
+      "number": 9,
+      "name": "Nine Hours",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2d0fa99d-8b55-4584-9b84-d2c7f0b09d02",
+      "season": 2,
+      "number": 10,
+      "name": "Breaking Up",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fb02c23a-8936-454b-954a-584c8f95d675",
+      "season": 2,
+      "number": 11,
+      "name": "Two Courts",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ebe55daf-844a-48c4-ba39-29267c87fdec",
+      "season": 2,
+      "number": 12,
+      "name": "Silly Season",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "56b15c53-6c65-4b4e-afb6-fb46ebb75a04",
+      "season": 2,
+      "number": 13,
+      "name": "Real Deal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d221fb64-cf5b-4c15-8d90-f69a06cac5ea",
+      "season": 2,
+      "number": 14,
+      "name": "Net Worth",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a42d933d-c6b9-47d8-a1cc-ef65ee77de35",
+      "season": 2,
+      "number": 15,
+      "name": "Silver Bullet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f9c6ff6f-f2c6-4d3a-897e-bbf6fc306df3",
+      "season": 2,
+      "number": 16,
+      "name": "Great Firewall",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b65f0116-2e5b-4db2-bcb5-56ab60796844",
+      "season": 2,
+      "number": 17,
+      "name": "Ham Sandwich",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "be0c8112-c588-433f-9c4f-b95f12ceebae",
+      "season": 2,
+      "number": 18,
+      "name": "Killer Song",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "11608eee-57cc-4484-9f16-5ae725c3fcd9",
+      "season": 2,
+      "number": 19,
+      "name": "Wrongful Termination",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6260fa4c-e19a-4e51-a188-bd8c24a9fbd3",
+      "season": 2,
+      "number": 20,
+      "name": "Foreign Affairs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3033774c-e492-4f3b-bb6d-a18a28894fb7",
+      "season": 2,
+      "number": 21,
+      "name": "In Sickness",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5fd1fe2-b8ae-4944-af93-d49e072b3f92",
+      "season": 2,
+      "number": 22,
+      "name": "Getting Off",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "99b4cb3a-f72e-40f9-9629-6e915cd31636",
+      "season": 2,
+      "number": 23,
+      "name": "Closing Arguments",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c7698e58-2291-4a8e-a802-59aac87efc9a",
+      "season": 3,
+      "number": 1,
+      "name": "A New Day",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "608593c7-4870-4741-a8eb-fa20269acde5",
+      "season": 3,
+      "number": 2,
+      "name": "The Death Zone",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f33102c9-ce60-41b9-b7d4-8895baba7ed8",
+      "season": 3,
+      "number": 3,
+      "name": "Get A Room",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5fb1e351-e939-4576-b5a1-6d2231612fef",
+      "season": 3,
+      "number": 4,
+      "name": "Feeding The Rat",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8910d6e9-b37c-4ab8-a813-79fbff25482a",
+      "season": 3,
+      "number": 5,
+      "name": "Marthas And Caitlins",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a2c6b410-a84d-40d0-ad4a-babac5959074",
+      "season": 3,
+      "number": 6,
+      "name": "Affairs Of The State",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3f46985f-9025-4987-9892-88d4d8cc6ef8",
+      "season": 3,
+      "number": 7,
+      "name": "Executive Order 13224",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d9a435f5-6196-40d0-bd64-0f3eb606e245",
+      "season": 3,
+      "number": 8,
+      "name": "Death Row Tip",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0270df2e-133b-4b78-8bb4-e3c4edd4e939",
+      "season": 3,
+      "number": 9,
+      "name": "Whiskey Tango Foxtrot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b46db792-2525-4978-a334-44dfc6e0741e",
+      "season": 3,
+      "number": 10,
+      "name": "Parenting Made Easy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9daf8469-58e3-476c-abe8-d1f5f684cb24",
+      "season": 3,
+      "number": 11,
+      "name": "What Went Wrong",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dd8b3e19-36e5-4efd-a7b3-1d88f05f2f5f",
+      "season": 3,
+      "number": 12,
+      "name": "Alienation Of Affection",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b1579f09-a88c-4c8d-b3e0-b8c0a4b622e5",
+      "season": 3,
+      "number": 13,
+      "name": "Bitcoin For Dummies",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c237e650-bbde-44dc-aec0-0a7e4aab4e13",
+      "season": 3,
+      "number": 14,
+      "name": "Another Ham Sandwich",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "16eabca5-166f-4b47-957a-b3c41e23c97c",
+      "season": 3,
+      "number": 15,
+      "name": "Live From Damascus",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d7b11d26-7123-4c8d-9655-09d7d5403de2",
+      "season": 3,
+      "number": 16,
+      "name": "After The Fall",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "322b9ec5-6d1c-4985-8892-6b41afc6868b",
+      "season": 3,
+      "number": 17,
+      "name": "Long Way Home",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2428b0f9-1040-4389-8781-d1b205d84da1",
+      "season": 3,
+      "number": 18,
+      "name": "Gloves Come Off",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "708fdf89-51a1-4d03-9215-b545b0d1d763",
+      "season": 3,
+      "number": 19,
+      "name": "Blue Ribbon Panel",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aba92945-95f8-4ba7-b35c-fba213b7daaa",
+      "season": 3,
+      "number": 20,
+      "name": "Pants On Fire",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d33726bf-7357-4edc-affe-5bff84e767b6",
+      "season": 3,
+      "number": 21,
+      "name": "The Penalty Box",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "548336a2-e8c2-481a-8755-38fb4a4965f3",
+      "season": 3,
+      "number": 22,
+      "name": "The Dream Team",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1040ae11-757e-4c44-aa1a-fa2e3aab070a",
+      "season": 4,
+      "number": 1,
+      "name": "I Fought The Law",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "210d0bfd-1e00-4743-93bb-97eb964b41f2",
+      "season": 4,
+      "number": 2,
+      "name": "And The Law Won",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f97e932c-05b5-40ed-b010-9767d4ab6083",
+      "season": 4,
+      "number": 3,
+      "name": "Two Girls, One Code",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "23cf0b10-df04-4bb9-a67c-710cec33985d",
+      "season": 4,
+      "number": 4,
+      "name": "Don't Haze Me, Bro",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2a342568-5b78-4dbf-9406-fb9b68a7bac8",
+      "season": 4,
+      "number": 5,
+      "name": "Waiting For The Knock",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7b848bc2-39f2-4c27-8042-809c9f614d72",
+      "season": 4,
+      "number": 6,
+      "name": "The Art Of War",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "842bfdd8-1898-43e8-bde2-77506b321513",
+      "season": 4,
+      "number": 7,
+      "name": "Anatomy Of A Joke",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3c40b567-cfc1-4ffe-acf3-8a8fa4a4375f",
+      "season": 4,
+      "number": 8,
+      "name": "Here Comes The Judge",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3266363d-933a-46e0-9470-454d6589c580",
+      "season": 4,
+      "number": 9,
+      "name": "A Defense Of Marriage",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c19ec305-9ce4-4225-9727-1182f8354ccd",
+      "season": 4,
+      "number": 10,
+      "name": "Battle Of The Proxies",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "27c01c82-b077-4c9e-9119-0c607a137c8d",
+      "season": 4,
+      "number": 11,
+      "name": "Boom De Yah Da",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8095381e-2589-4d97-97f6-01fa253c05ac",
+      "season": 4,
+      "number": 12,
+      "name": "Je Ne Sais What?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "61f0b1f3-f672-4d5b-bd03-a21cd956f2b3",
+      "season": 4,
+      "number": 13,
+      "name": "The Seven Day Rule",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3c9bd9cc-a7e4-48d5-a203-ff62c444018b",
+      "season": 4,
+      "number": 14,
+      "name": "Red Team, Blue Team",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f02ea88b-8f26-449f-a9c0-b9fb3eaeba70",
+      "season": 4,
+      "number": 15,
+      "name": "Going For The Gold",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e489df80-ae2a-4378-b883-5a8b5c5938ed",
+      "season": 4,
+      "number": 16,
+      "name": "Runnin' With The Devil",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aebf626f-c80e-41aa-ac7e-0bfee4da3dab",
+      "season": 4,
+      "number": 17,
+      "name": "Invitation To An Inquest",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fcb4028c-9175-406f-9179-af2524b13246",
+      "season": 4,
+      "number": 18,
+      "name": "Death Of A Client",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "07c1d62e-5bfe-484f-8b98-2f67eb424c1e",
+      "season": 4,
+      "number": 19,
+      "name": "The Wheels Of Justice",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "87c07ee8-06ec-4bd0-8659-a564484fcd00",
+      "season": 4,
+      "number": 20,
+      "name": "Rape: A Modern Perspective",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f432e3ff-aebc-4161-9ea8-78b1d4ed63b8",
+      "season": 4,
+      "number": 21,
+      "name": "A More Perfect Union",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e8ec98aa-1033-4038-a50f-af0581571b9b",
+      "season": 4,
+      "number": 22,
+      "name": "What's In The Box?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d48bd544-ad6a-4c6d-841e-ae8d5bc7b6c9",
+      "season": 5,
+      "number": 1,
+      "name": "Everything Is Ending",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8adb83ac-9672-492b-9312-33ded3790967",
+      "season": 5,
+      "number": 2,
+      "name": "The Bit Bucket",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f31d5c54-786e-4839-b827-056459684b2a",
+      "season": 5,
+      "number": 3,
+      "name": "A Precious Commodity",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c92fb0a2-feb0-4082-a00b-bdb5e4b1c004",
+      "season": 5,
+      "number": 4,
+      "name": "Outside The Bubble",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c3928908-23ab-42f8-877a-b5d5f913efc7",
+      "season": 5,
+      "number": 5,
+      "name": "Hitting The Fan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "68455d1a-aecf-47f5-9b95-a7c2afa0b550",
+      "season": 5,
+      "number": 6,
+      "name": "The Next Day",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "afc0acab-d5bd-4cef-a9d9-f5c9b7d01ead",
+      "season": 5,
+      "number": 7,
+      "name": "The Next Week",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "81aa50f9-b62e-4cd4-8548-e9c0f2c664da",
+      "season": 5,
+      "number": 8,
+      "name": "The Next Month (aka Ice, Ice Baby)",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "26367c37-4b4a-4bf1-899f-b115b288f194",
+      "season": 5,
+      "number": 9,
+      "name": "Whack-A-Mole",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eacddb21-bae7-446b-b10d-4134c0004b3d",
+      "season": 5,
+      "number": 10,
+      "name": "The Decision Tree",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4a55e327-ef99-4172-809e-55ada60c713c",
+      "season": 5,
+      "number": 11,
+      "name": "Goliath and David",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a9d56b5d-cfa1-40c8-ba05-fa9c3a37c09c",
+      "season": 5,
+      "number": 12,
+      "name": "We the Juries",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3154dca1-1bd7-46bf-b54c-aa0045dfef2e",
+      "season": 5,
+      "number": 13,
+      "name": "Parallel Construction, Bitches",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "152068dc-0634-4efe-901b-56022b81327d",
+      "season": 5,
+      "number": 14,
+      "name": "A Few Words",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "891c9523-10b9-4f1c-8467-d0f152a92470",
+      "season": 5,
+      "number": 15,
+      "name": "Dramatics, Your Honor",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ed3f0d54-79fb-42fa-a105-3ddb65033581",
+      "season": 5,
+      "number": 16,
+      "name": "The Last Call",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "05dca4da-ba1b-4151-84f9-924060fcc7f7",
+      "season": 5,
+      "number": 17,
+      "name": "A Material World",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1737890b-3c12-4ccf-a903-3b6e714e9ebc",
+      "season": 5,
+      "number": 18,
+      "name": "All Tapped Out",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6ead3089-08d7-49d8-b90d-bc1e08a55315",
+      "season": 5,
+      "number": 19,
+      "name": "Tying the Knot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6e5977f2-d331-4a9c-936b-d449a76bbfef",
+      "season": 5,
+      "number": 20,
+      "name": "The Deep Web",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1371bdcb-9f7b-45c3-9dce-c3855708a6a6",
+      "season": 5,
+      "number": 21,
+      "name": "The One Percent",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ad89b284-179d-46ab-8da2-155b6a7eb15b",
+      "season": 5,
+      "number": 22,
+      "name": "A Weird Year",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1e389bb4-75ff-464d-a6d7-6f1c910f571b",
+      "season": 6,
+      "number": 1,
+      "name": "The Line",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2f96bb89-64d0-45c2-adec-0608f7dca09f",
+      "season": 6,
+      "number": 2,
+      "name": "Trust Issues",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5edcc4c-d0d3-449c-a19f-672d39939ce6",
+      "season": 6,
+      "number": 3,
+      "name": "Dear God",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a50eb935-12cc-47ba-98a7-eec430e3729b",
+      "season": 6,
+      "number": 4,
+      "name": "Oppo Research",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2ad8076a-0cd3-467d-97b0-fb6c4ba680d0",
+      "season": 6,
+      "number": 5,
+      "name": "Shiny Objects",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0da7fde0-0d21-4a64-8fe1-1688e26f2861",
+      "season": 6,
+      "number": 6,
+      "name": "Old Spice",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9e51f17e-e1b4-430b-ace4-7b2ecafc3ee6",
+      "season": 6,
+      "number": 7,
+      "name": "Message Discipline",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "893124ca-7d2e-49c9-8b2a-02e3038ff8ec",
+      "season": 6,
+      "number": 8,
+      "name": "Red Zone",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2397fbe4-2652-4f56-9318-e77ba7dde241",
+      "season": 6,
+      "number": 9,
+      "name": "Sticky Content",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "83a0c21f-e22c-48ae-9e50-022ab6c86aed",
+      "season": 6,
+      "number": 10,
+      "name": "The Trial",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a8e388e8-02fa-4cbb-bac7-5c708a13974e",
+      "season": 6,
+      "number": 11,
+      "name": "Hail Mary",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e4308eaf-676a-48ba-b3ec-b16c0af02c50",
+      "season": 6,
+      "number": 12,
+      "name": "The Debate",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f78c1de3-e7bb-4fe7-9834-807c6cf07321",
+      "season": 6,
+      "number": 13,
+      "name": "Dark Money",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2c7e7eaf-f980-47f6-9c3a-f7bbbfab3990",
+      "season": 6,
+      "number": 14,
+      "name": "Mind's Eye",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "493f4761-0386-48b0-a35d-37c6310b4c4c",
+      "season": 6,
+      "number": 15,
+      "name": "Open Source",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "548a1c1a-87f5-4a8b-8f72-dc631094cac8",
+      "season": 6,
+      "number": 16,
+      "name": "Red Meat",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a124ee0e-d362-4ec5-be61-6c16d13a2025",
+      "season": 6,
+      "number": 17,
+      "name": "Undisclosed Recipients",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fdedd615-510e-454d-8533-4ccc94645c5c",
+      "season": 6,
+      "number": 18,
+      "name": "Loser Edit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a3626fde-e62f-4bac-9035-bd5bb679785f",
+      "season": 6,
+      "number": 19,
+      "name": "Winning Ugly",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d57ef0e-540a-403a-8bb1-d59977078edf",
+      "season": 6,
+      "number": 20,
+      "name": "The Deconstruction",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a2be8072-dd79-4bff-b244-92bfa563b983",
+      "season": 6,
+      "number": 21,
+      "name": "Don't Fail",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f90ddf9a-6000-457c-8f3a-443fcddb5fea",
+      "season": 6,
+      "number": 22,
+      "name": "Wanna Partner?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "17d92a0c-d2fa-4da6-8e1d-f25df58ae5c6",
+      "season": 7,
+      "number": 1,
+      "name": "Bond",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1630c15d-c7e4-4585-b3e1-e9738a6160a7",
+      "season": 7,
+      "number": 2,
+      "name": "Innocents",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ae2e9350-7e6a-487a-a273-91ee7867916e",
+      "season": 7,
+      "number": 3,
+      "name": "Cooked",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7b69b43d-40a0-4d3c-9d07-0dc65d905e00",
+      "season": 7,
+      "number": 4,
+      "name": "Taxed",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "96492daf-9eae-403e-b7c7-eb5aba156693",
+      "season": 7,
+      "number": 5,
+      "name": "Payback",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1970a55a-fbf8-4c48-9679-53a4b6a46626",
+      "season": 7,
+      "number": 6,
+      "name": "Lies",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "514f49fe-819c-4f69-bcae-e5aef1bef77b",
+      "season": 7,
+      "number": 7,
+      "name": "Driven",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a78f3851-2fa7-4f14-b939-cfd6d516eac7",
+      "season": 7,
+      "number": 8,
+      "name": "Restraint",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "484bf7ea-2418-487d-a25e-3d2e909dd6d0",
+      "season": 7,
+      "number": 9,
+      "name": "Discovery",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ab8166a0-b1fd-48e7-baae-8548b7318c3f",
+      "season": 7,
+      "number": 10,
+      "name": "KSR",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "61cb21ca-8f31-4cbf-a810-181d384ac460",
+      "season": 7,
+      "number": 11,
+      "name": "Iowa",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1591aa30-c538-449d-9249-28d95b4451eb",
+      "season": 7,
+      "number": 12,
+      "name": "Tracks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2615a1d1-d4b4-4e7d-9cb6-94c133f85934",
+      "season": 7,
+      "number": 13,
+      "name": "Judged",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7620f7bf-0a76-4318-b817-e9712b0c5491",
+      "season": 7,
+      "number": 14,
+      "name": "Monday",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "05beddbe-c0fb-4df1-b25d-2d3fe8b640cd",
+      "season": 7,
+      "number": 15,
+      "name": "Targets",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ba758222-ee57-45cc-8f1b-0da4fc98245f",
+      "season": 7,
+      "number": 16,
+      "name": "Hearing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5c2d3fb-8c2b-45ce-a1c4-3a5d4383b1fc",
+      "season": 7,
+      "number": 17,
+      "name": "Shoot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d7c535c1-8971-4fdd-8f0d-4d5c00ec0d16",
+      "season": 7,
+      "number": 18,
+      "name": "Unmanned",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b1991039-8d2a-48f9-9d7b-4f41442fc63f",
+      "season": 7,
+      "number": 19,
+      "name": "Landing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1db3f4d9-947e-4273-9261-979d9bdb8a7b",
+      "season": 7,
+      "number": 20,
+      "name": "Party",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e2458ca6-4f79-4ed2-8f8c-aeb5ae9fab45",
+      "season": 7,
+      "number": 21,
+      "name": "Verdict",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7a2677ed-a6c8-433c-916d-0f3ef39a2571",
+      "season": 7,
+      "number": 22,
+      "name": "End",
+      "airdate": "2021-07-01"
+    }
+  ],
+  "description": "Alicia vender tilbage som advokat, efter hendes mand er blevet fængslet pga. en skandale. Hun stiller op som statsadvokat - en stilling der tidligere tilhørte hendes mand. Hun vinder valget, men må gå af, da en valgsvindelskandale truer.",
+  "image": "https://cdn-play.tv2i.dk/eedbf196-5432-4a5c-ac0f-9405d76e6b79.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280"
+}

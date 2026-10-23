@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:trioen-tv2play",
+  "name": "Trioen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hugos nutid brydes, da han uventet hører fra datteren til to kvinder, han elskede i sin ungdom. Minderne fører ham tilbage til Stockholm, hvor han som studerende boede hos familien Stiller. Et venskab med Thora og August udvikler sig til en stormfuld kærlighed, der for altid ændrer deres liv.",
+  "image": "https://cdn-play.tv2i.dk/6ea53588-82ff-39a3-a761-d75ad4e6a63a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "2151e86a-f666-4a30-9cf0-61d9c91bf59e",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-06-01"
+    },
+    {
+      "id": "e410a88b-ece6-4d89-b50e-ba133b61f0c5",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-06-01"
+    },
+    {
+      "id": "34cbdd2c-f873-4c70-9516-e77c5664da5e",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-06-08"
+    },
+    {
+      "id": "0b0da35d-ffa2-45d4-b0e1-ad7620014154",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-06-08"
+    },
+    {
+      "id": "5d1c9cc7-dcfa-4ef5-b706-4646d0000a47",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "7b7f5eaa-d720-443a-8771-6a05f8fd2dac",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-06-15"
+    }
+  ]
+}

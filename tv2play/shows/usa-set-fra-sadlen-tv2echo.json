@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:usa-set-fra-sadlen-tv2echo",
+  "name": "USA set fra sadlen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Journalist Simon Flening er taget på et vildt eventyr. Han vil cykle 7.000 kilometer tværs over USA på kun 63 dage. Her vil han helt tæt på amerikanerne og forstå, hvilken politisk fremtid de drømmer om, inden de skal vælge deres næste præsident.",
+  "image": "https://cdn-play.tv2i.dk/0f27171e-17aa-4262-b88f-4b9a6d3b58a8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7a95a86f-d22b-44aa-9b6b-fdfa0cc91e60",
+      "season": 1,
+      "number": 1,
+      "name": "Zombieby og tordenvejr",
+      "airdate": "2024-10-30"
+    },
+    {
+      "id": "63a9586c-e6fb-44f6-b95c-e903dfe8f8cd",
+      "season": 1,
+      "number": 2,
+      "name": "Amish og egernsovs",
+      "airdate": "2024-10-30"
+    }
+  ]
+}

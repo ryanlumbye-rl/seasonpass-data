@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:fodboldselskabet-tv2",
+  "name": "Fodboldselskabet",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-28",
+  "description": "Fodbold er meget mere end 90 minutter på banen. Det ved Signe Vadgaard, David Nielsen og Jonas Hebo, der hver uge kaster sig over de største historier fra Superligaen og resten af fodboldverdenen. Højt til loftet og højt humør. Velkommen i Fodboldselskabet.",
+  "image": "https://cdn-play.tv2i.dk/4db930c5-5188-3a59-83ae-c60a429aa5f7.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0735ee66-9b4d-4a4c-a56c-b35bca4499ba",
+      "season": 2026,
+      "number": 1,
+      "name": "Korte shorts, Ballon D'or og jysk derby",
+      "airdate": "2026-10-21"
+    },
+    {
+      "id": "ff0367e1-b20f-442a-b71b-61dcc06fdac0",
+      "season": 2026,
+      "number": 2,
+      "name": "Fodbold-vodcast",
+      "airdate": "2026-10-28"
+    }
+  ]
+}

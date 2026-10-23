@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:thilde-vil-leve-tvmidtvest",
+  "name": "Thilde vil leve",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "14-årige Thilde er uhelbredeligt syg af kræft. Hun har en tumor i venstre side af hjernen, men håb og en lyst til at gøre noget,har fået hende til at lave en indsamling og engagere hele lokalsamfundet.",
+  "image": "https://cdn-play.tv2i.dk/bbe148d0-46c5-4262-9b54-58030c610f5d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "9b683e34-6cdf-4985-8d37-d7f2195200ad",
+      "season": 1,
+      "number": 1,
+      "name": "Kampen mod kræften",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "351f5243-3f9b-4fb1-8712-116976d2e74e",
+      "season": 1,
+      "number": 2,
+      "name": "Har strålerne virket?",
+      "airdate": "2024-01-10"
+    },
+    {
+      "id": "a984c3bb-9989-4ea0-9a42-2ddc5154b28b",
+      "season": 1,
+      "number": 3,
+      "name": "Her glemmer jeg, at jeg er syg",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "192a3918-267b-487d-b1d0-41463ddc3dd4",
+      "season": 1,
+      "number": 4,
+      "name": "På hospice",
+      "airdate": "2025-08-12"
+    },
+    {
+      "id": "19ac8a84-91d4-4594-8f03-ef248a758f8c",
+      "season": 1,
+      "number": 5,
+      "name": "Thilde ville leve - nu er hun her ikke mere",
+      "airdate": "2026-04-24"
+    }
+  ]
+}

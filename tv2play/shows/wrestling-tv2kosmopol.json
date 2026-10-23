@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:wrestling-tv2kosmopol",
+  "name": "Wrestling",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Interessen for dansk wrestling vokser. Og 2024 har været et helt særligt år for wrestlerne, der har indtaget en perlerække af store events: Roskilde Festival, Distortion og Copenhagen Pride",
+  "image": "https://cdn-play.tv2i.dk/fc6eed1e-ab2b-43a4-b13c-86ed689907d5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "6f884065-3ec1-4f2a-9fcc-bce52f2a53c7",
+      "season": 1,
+      "number": 1,
+      "name": "Brutale ritualer",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "a169ccd1-edbe-4224-9876-5a7713191d38",
+      "season": 1,
+      "number": 2,
+      "name": "En dødskamp for sjov",
+      "airdate": "2024-11-01"
+    }
+  ]
+}

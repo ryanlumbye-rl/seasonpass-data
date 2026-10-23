@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:klosterfamilien-tv2play",
+  "name": "Klosterfamilien",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Familien Rottbøll lukker os ind i deres fascinerende liv på det næsten 1000 år gamle Børglum Kloster i Nordjylland. Her går unikke oplevelser og hårdt arbejde hånd i hånd.",
+  "image": "https://cdn-play.tv2i.dk/e3a319db-306f-33db-ad60-ff2b729ca51d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e41b240e-ea6b-464e-93a8-c9fe61c154b4",
+      "season": 2,
+      "number": 1,
+      "name": "Ingen af børnene er landmænd",
+      "airdate": "2024-12-19"
+    },
+    {
+      "id": "4595e5ad-16f8-4e7f-accd-79de54c24b57",
+      "season": 2,
+      "number": 2,
+      "name": "Knoglerne vælter op af jorden",
+      "airdate": "2024-12-20"
+    },
+    {
+      "id": "789e3c63-c2de-4784-b7d5-1404b68fa68b",
+      "season": 2,
+      "number": 3,
+      "name": "Nu er det jul",
+      "airdate": "2024-12-23"
+    },
+    {
+      "id": "d9191585-6761-47f5-b0bb-449edc124411",
+      "season": 3,
+      "number": 1,
+      "name": "Prinsesse på besøg",
+      "airdate": "2026-06-30"
+    }
+  ]
+}

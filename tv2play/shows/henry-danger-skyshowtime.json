@@ -791,6 +791,13 @@
       "airdate": "2023-03-15"
     },
     {
+      "id": "764e82f1-9276-4da0-b28f-7bc09c0363bd",
+      "season": 5,
+      "number": 27,
+      "name": "Synlige Brad",
+      "airdate": "2023-03-15"
+    },
+    {
       "id": "9decefe0-5cb0-4deb-a8eb-c768556e52b8",
       "season": 5,
       "number": 28,
@@ -881,5 +888,7 @@
       "name": "Faredrengens skæbne: Del 2",
       "airdate": "2023-03-15"
     }
-  ]
+  ],
+  "description": "13-årige Henry Hart får job som håndlangeren 'Faredrengen' for superhelten Kaptajn Mand. Efter at have lovet at holde sin identitet hemmelig må Henry nu til at leve et dobbeltliv.",
+  "image": "https://cdn-play.tv2i.dk/4fc6c03e-65b2-4b2e-95a5-d58529f08444.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280"
 }

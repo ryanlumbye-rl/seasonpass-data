@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:korrespondenterne-tv2",
+  "name": "Korrespondenterne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2’s korrespondenter rapporterer fra en verden i forandring. I dokumentarserien kommer vi helt tæt på deres arbejde i et historisk forår.",
+  "image": "https://cdn-play.tv2i.dk/db3e77b9-47b5-4ea2-b578-0fac90366964.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e157174b-0b3c-4bf8-9766-983286f7b394",
+      "season": 1,
+      "number": 1,
+      "name": "Fronten",
+      "airdate": "2025-06-25"
+    },
+    {
+      "id": "459c8e09-02b4-4b38-8b3f-4a2f811329c0",
+      "season": 1,
+      "number": 2,
+      "name": "Fake news?",
+      "airdate": "2025-07-02"
+    },
+    {
+      "id": "76f98d6c-1398-4394-b474-e506833ec4a4",
+      "season": 1,
+      "number": 3,
+      "name": "100 dage",
+      "airdate": "2025-07-09"
+    }
+  ]
+}

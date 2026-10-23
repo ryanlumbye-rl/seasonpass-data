@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:surferne-kommer-tv2echo",
+  "name": "Surferne kommer",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Der bliver vendt op og ned på tilværelsen for en gruppe surfere i Klitmøller, da surfing pludselig kommer på OL-programmet, og Danmark skal stille et landshold!.",
+  "image": "https://cdn-play.tv2i.dk/42066adf-e4b7-4d52-9a30-121610dfb277.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "26a2ebec-3a49-4824-8994-f05c271b2a38",
+      "season": 1,
+      "number": 1,
+      "name": "En ny livsstil",
+      "airdate": "2020-09-24"
+    },
+    {
+      "id": "e97cc449-c92a-4442-86a1-7594306599a7",
+      "season": 1,
+      "number": 2,
+      "name": "Første store test",
+      "airdate": "2020-09-24"
+    },
+    {
+      "id": "12434444-c0ce-4892-add0-96c25e16fbb0",
+      "season": 1,
+      "number": 3,
+      "name": "Et splittet hold",
+      "airdate": "2020-09-27"
+    },
+    {
+      "id": "99435087-803f-4434-baa8-da611a44c18e",
+      "season": 1,
+      "number": 4,
+      "name": "EM i Portugal",
+      "airdate": "2020-09-27"
+    },
+    {
+      "id": "7e6ef022-87f6-4f69-bc01-37f00fd0bc8f",
+      "season": 1,
+      "number": 5,
+      "name": "En gylden mulighed",
+      "airdate": "2020-09-27"
+    },
+    {
+      "id": "7af4522d-5f40-4bb4-9d15-99f37c2f62d8",
+      "season": 1,
+      "number": 6,
+      "name": "Kommer surferne til OL?",
+      "airdate": "2020-09-27"
+    }
+  ]
+}

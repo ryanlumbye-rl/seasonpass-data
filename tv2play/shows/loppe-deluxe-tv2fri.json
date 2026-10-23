@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Jagten på de bedste fund er i gang, og reglerne er enkle: Et loppemarked, to hold med hver 4000 kr. Hvem finder de ting, der kan sælges med størst fortjeneste?",
+  "image": "https://cdn-play.tv2i.dk/caec2d0b-b3b4-4287-b5f1-6f18fb127712.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "890cb1c1-7d83-43cb-9856-dd94b59faaba",
@@ -152,6 +154,13 @@
       "number": 9,
       "name": "Furesøens Loppemarked",
       "airdate": "2015-12-07"
+    },
+    {
+      "id": "89a8efdc-0b47-411f-8cb0-5d0a59c54836",
+      "season": 2,
+      "number": 10,
+      "name": "Vig Tuskemarked",
+      "airdate": "2015-12-14"
     },
     {
       "id": "3a31213a-6880-4187-8ace-8ed8a0a3b68a",

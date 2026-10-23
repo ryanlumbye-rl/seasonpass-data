@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:nyt-liv-i-gamle-huse-tv2fri",
+  "name": "Nyt liv i gamle huse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Einar Nilsson hjælper familier med at forvandle deres slidte huse til unikke drømmehjem. Med hårdt arbejde bliver gamle perler vækket til live, og charmerende detaljer bevaret.",
+  "image": "https://cdn-play.tv2i.dk/b3ad9e50-5ae9-439a-91e2-6cecf8050849.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "53fff49c-9d24-457b-8c9c-1c16dd7a67ee",
+      "season": 1,
+      "number": 1,
+      "name": "Læg gulv og flyt ind",
+      "airdate": "2025-06-15"
+    },
+    {
+      "id": "d8bd9d3c-d7b9-476d-abf3-a41d12121bb2",
+      "season": 1,
+      "number": 2,
+      "name": "Stort potentiale",
+      "airdate": "2025-06-15"
+    },
+    {
+      "id": "d84f8373-8ee2-42f3-bfc7-b872f97646e0",
+      "season": 1,
+      "number": 3,
+      "name": "Vi klarer det hele",
+      "airdate": "2025-06-22"
+    },
+    {
+      "id": "aa911b62-d9c4-4aef-83c2-9fcd586768c8",
+      "season": 1,
+      "number": 4,
+      "name": "Det bliver, som det bliver",
+      "airdate": "2025-06-22"
+    },
+    {
+      "id": "1a49180b-dc39-49f0-91b7-7f52ec742b59",
+      "season": 1,
+      "number": 5,
+      "name": "Jeg vil gøre alt selv",
+      "airdate": "2025-06-29"
+    },
+    {
+      "id": "f15b6684-e053-43ed-9684-3d8b52b34b17",
+      "season": 1,
+      "number": 6,
+      "name": "Sammen og hver for sig",
+      "airdate": "2025-06-29"
+    },
+    {
+      "id": "970a8f99-cbaf-436d-ad88-6b18e08866b1",
+      "season": 1,
+      "number": 7,
+      "name": "Er det den rigtige blå?",
+      "airdate": "2025-07-06"
+    },
+    {
+      "id": "1d1ac665-c34f-465d-aa13-ba541b1d73ca",
+      "season": 1,
+      "number": 8,
+      "name": "Det ligner sten",
+      "airdate": "2025-07-06"
+    }
+  ]
+}

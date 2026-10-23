@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:alt-for-min-datter-tv2oest",
+  "name": "Alt for min datter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hannah Søhof og Mette Terkelsen havde begge en forestilling om, hvordan deres liv som mødre skulle være. Men da deres døtre kom til verden, viste de sig at have handicaps og behov, der gjorde, at de to mødres hverdag blev vendt på hovedet.",
+  "image": "https://cdn-play.tv2i.dk/c0cc6103-2be6-42cc-8847-73b31ac5277c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1c205f61-a466-4ecb-a46b-cceea99e233d",
+      "season": 1,
+      "number": 1,
+      "name": "Øjeblikket der ændrede alt",
+      "airdate": "2025-05-21"
+    },
+    {
+      "id": "fbd724d9-15fc-4926-a316-7efa57f3a675",
+      "season": 1,
+      "number": 2,
+      "name": "Aflastning og fællesskab",
+      "airdate": "2025-05-28"
+    },
+    {
+      "id": "10683178-766d-4a46-a133-0abf9b8a274d",
+      "season": 1,
+      "number": 3,
+      "name": "Skyggebarn",
+      "airdate": "2025-06-04"
+    }
+  ]
+}

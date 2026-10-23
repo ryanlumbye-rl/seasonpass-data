@@ -1,0 +1,229 @@
+{
+  "id": "tv2play:quantum-leap-2022-skyshowtime",
+  "name": "Quantum Leap (2022)",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Næsten 30 år efter dr. Sam Beckett trådte ind i Quantum Leap-acceleratoren og forsvandt, skal et nyt team, ledet af dr. Ben Song, genstarte projektet for at forstå maskinens mysterier og dens skaber.",
+  "image": "https://cdn-play.tv2i.dk/5b842306-a3ae-4c33-9dd1-cdedeb6a945a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "509f4499-dec0-4467-ae18-817a696e5f80",
+      "season": 1,
+      "number": 1,
+      "name": "July 13th, 1985",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "d4e698ea-6c23-49fa-ad96-788bc6c5b877",
+      "season": 1,
+      "number": 2,
+      "name": "Atlantis",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "c119270f-c09b-49b2-b6ea-4dfef3811cb2",
+      "season": 1,
+      "number": 3,
+      "name": "Somebody up There Likes Ben",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "9e62cfec-6935-480b-bbfa-36506fe298f3",
+      "season": 1,
+      "number": 4,
+      "name": "A Decent Proposal",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "66725d44-109a-4586-af57-2727c338af10",
+      "season": 1,
+      "number": 5,
+      "name": "Salvation or Bust",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "49963d76-18e6-4a9a-8b81-72cec3bc28e6",
+      "season": 1,
+      "number": 6,
+      "name": "What a Disaster!",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "891d941a-c92e-4d4d-905f-e34c946a1386",
+      "season": 1,
+      "number": 7,
+      "name": "O Ye of Little Faith",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "ad400ebf-9556-4965-8560-b6d4e62d8c5c",
+      "season": 1,
+      "number": 8,
+      "name": "Stand by Ben",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "670652b6-9966-4b96-ba0c-18e23eac46d3",
+      "season": 1,
+      "number": 9,
+      "name": "Fellow Travelers",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "b3f8604b-9347-48cc-b529-e63823c65d26",
+      "season": 1,
+      "number": 10,
+      "name": "Paging Dr. Song",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "d03c8475-f9ff-48b6-b0de-44361be1414b",
+      "season": 1,
+      "number": 11,
+      "name": "Leap. Die. Repeat.",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "012690bd-2160-47ee-9ad6-eda701b7da2e",
+      "season": 1,
+      "number": 12,
+      "name": "Let Them Play",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "cdbd2ae7-8f00-4536-a5ec-c69ce3d3c870",
+      "season": 1,
+      "number": 13,
+      "name": "Family Style",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "26647cf7-999d-493b-98ad-b3812d0140df",
+      "season": 1,
+      "number": 14,
+      "name": "S.O.S.",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "de1878f4-761b-4d24-90de-08d167dd76e4",
+      "season": 1,
+      "number": 15,
+      "name": "Ben Song for the Defense",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "1fc942f4-4d36-498b-abf5-4e0fc6e7a5a6",
+      "season": 1,
+      "number": 16,
+      "name": "Ben, Interrupted",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "083c4b9d-27aa-42f9-a42d-fdf3507409cb",
+      "season": 1,
+      "number": 17,
+      "name": "The Friendly Skies",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "3bee2003-cc28-47e3-9b5a-196d62734c95",
+      "season": 1,
+      "number": 18,
+      "name": "Judgment Day",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "e748bb8c-1177-4ae9-b8ed-092c80e0ecbd",
+      "season": 2,
+      "number": 1,
+      "name": "This Took Too Long!",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "15ed368d-2599-4753-8905-e4ed8d8e4711",
+      "season": 2,
+      "number": 2,
+      "name": "Ben & Teller",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "f36a851b-b87a-4839-90e2-225821e508dc",
+      "season": 2,
+      "number": 3,
+      "name": "Closure Encounters",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "de299894-efca-4e03-adb8-11ba89e82e10",
+      "season": 2,
+      "number": 4,
+      "name": "The Lonely Hearts Club",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "f7ec6511-a644-431a-bdbc-b8296bd33a4e",
+      "season": 2,
+      "number": 5,
+      "name": "One Night in Koreatown",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "d792b9b5-2464-4f5a-a950-5fe68b89ea76",
+      "season": 2,
+      "number": 6,
+      "name": "Secret History",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "7adda8df-0abe-4be1-a2af-d7ffae89b766",
+      "season": 2,
+      "number": 7,
+      "name": "A Kind of Magic",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "58feaf97-feb8-4b5f-b541-142034bd0caf",
+      "season": 2,
+      "number": 8,
+      "name": "Nomads",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "c06aa570-1444-42d6-8b69-9abd9f3657a4",
+      "season": 2,
+      "number": 9,
+      "name": "Off the Cuff",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "96098fa7-4a5b-4afa-b4dd-034982a504ed",
+      "season": 2,
+      "number": 10,
+      "name": "The Family Treasure",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "ed523f70-48ba-43df-adb1-e24cc6a45482",
+      "season": 2,
+      "number": 11,
+      "name": "The Outsider",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "e4d52074-7730-4ceb-9a18-5a94553a9bc8",
+      "season": 2,
+      "number": 12,
+      "name": "As the World Burns",
+      "airdate": "2026-06-24"
+    },
+    {
+      "id": "a97813f6-1715-4e21-bb96-c638c9cc6089",
+      "season": 2,
+      "number": 13,
+      "name": "Against Time",
+      "airdate": "2026-06-24"
+    }
+  ]
+}

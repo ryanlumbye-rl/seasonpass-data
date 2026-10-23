@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:clarksons-farm-tv2fri",
+  "name": "Clarksons farm",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "f1fe57a8-372b-4924-b814-e7f3bd930b75",
+      "season": 2,
+      "number": 7,
+      "name": "Smuthuller",
+      "airdate": "2026-01-25"
+    },
+    {
+      "id": "4dd09394-c885-4db1-bf36-a3d0d0bbd5e0",
+      "season": 2,
+      "number": 8,
+      "name": "Hemmelige forberedelser",
+      "airdate": "2026-01-25"
+    }
+  ],
+  "description": "Den britiske tv-vært Jeremy Clarkson møder masser af udfordringer, når han kaster sig ud i tilværelsen som landmand på en stor gård. Med en stor portion humor og gå-på-mod kæmper ham med dårligt vejr, ulydige dyr, sølle afgrøder og ikke mindst en uventet pandemi.",
+  "image": "https://cdn-play.tv2i.dk/375f0c0b-73e9-4401-a96c-335575258c9e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280"
+}

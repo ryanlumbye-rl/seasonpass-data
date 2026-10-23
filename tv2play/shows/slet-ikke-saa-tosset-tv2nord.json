@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:slet-ikke-saa-tosset-tv2nord",
+  "name": "Slet ikke så tosset",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På Købmandsgården i Skovsgård arbejder en flok glade medarbejdere, som alle har enten fysiske eller psykiske udfordringer i livet. I fællesskab løser de små og store opgaver på deres helt egen måde, og det er slet ikke så tosset.",
+  "image": "https://cdn-play.tv2i.dk/506aabe8-f235-4fe6-93e5-36d093d507df.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "64fc7779-f792-4d7a-9564-8773f00a92af",
+      "season": 1,
+      "number": 1,
+      "name": "Verdens bedste arbejdsplads",
+      "airdate": "2025-04-25"
+    },
+    {
+      "id": "57631f2f-8cd5-49ae-961b-8bc8a950559e",
+      "season": 1,
+      "number": 2,
+      "name": "Uperfekt er helt perfekt",
+      "airdate": "2025-05-02"
+    },
+    {
+      "id": "3fad99ee-5db1-4ed5-a660-56e0c7c2012e",
+      "season": 1,
+      "number": 3,
+      "name": "Igennem ild og vand",
+      "airdate": "2025-05-09"
+    },
+    {
+      "id": "d4b3b3c4-6bc4-435c-9a97-b4935dcb2ad8",
+      "season": 1,
+      "number": 4,
+      "name": "Kongen af DVD",
+      "airdate": "2025-05-16"
+    },
+    {
+      "id": "603c81e8-43e5-4508-82f6-93dddc5548b8",
+      "season": 1,
+      "number": 5,
+      "name": "Amputerede ferieplaner",
+      "airdate": "2025-05-23"
+    }
+  ]
+}

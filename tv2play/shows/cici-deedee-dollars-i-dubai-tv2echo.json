@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:cici-deedee-dollars-i-dubai-tv2echo",
+  "name": "Cici & DeeDee - dollars i Dubai",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I fem afsnit følger vi de to iværksættere Cici og DeeDee. De har masser af attitude og store drømme om at tjene millioner og helst i en fart. Derfor flytter de til Dubai for at øge deres investeringer.",
+  "image": "https://cdn-play.tv2i.dk/daf22b70-f63a-4cc3-bde7-7406c85cd199.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0a9016c1-9af5-4500-b5eb-cf1cc0d638b8",
+      "season": 1,
+      "number": 1,
+      "name": "Penge, rigtig mange penge",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "05311b33-8960-49a3-9b19-2fae0270e9c6",
+      "season": 1,
+      "number": 2,
+      "name": "Skruen uden ende",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "10328418-77d4-4542-976f-635630480127",
+      "season": 1,
+      "number": 3,
+      "name": "Alting har en pris",
+      "airdate": "2023-02-13"
+    },
+    {
+      "id": "ccb39091-5342-4dc3-8332-2fcca1bf44ff",
+      "season": 1,
+      "number": 4,
+      "name": "Arbejd hårdt og hold hovedet højt",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "6a15fdbd-db43-4016-bd8f-39654461ed02",
+      "season": 1,
+      "number": 5,
+      "name": "Når lortet vælter",
+      "airdate": "2023-03-06"
+    }
+  ]
+}

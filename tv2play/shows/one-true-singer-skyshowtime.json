@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:one-true-singer-skyshowtime",
+  "name": "One True Singer",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fjorten nye rumænske musikere og sangskrivere bor sammen, konkurrerer i musikalske udfordringer og kæmper for at imponere dommerne for at vinde titlen som Rumæniens One True Singer.",
+  "image": "https://cdn-play.tv2i.dk/f2e3eec3-df68-47f1-800d-59a0500f9e5b.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "11418afa-f193-42ef-9847-227784b9a689",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "34de6588-32e5-45ba-aba5-f05003b50fb8",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "fd205719-cdb5-473c-80c2-10dc3a1b4e95",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "171d7f77-1b30-4a0a-aa4e-7d4968e98c91",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-08-07"
+    },
+    {
+      "id": "4dd2a884-08b7-4b17-80fd-283276444ec1",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-08-14"
+    },
+    {
+      "id": "f59a5153-4484-4abf-96e7-1b9c95bcdb16",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "f8bd6980-a757-486d-a07c-916ec77e261f",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "4bcca944-8bb2-4bf2-b060-0b9567fcc06b",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-08-21"
+    },
+    {
+      "id": "34670363-9db1-4177-9414-35c9da72a586",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "4fd89f3f-6a8f-4ba1-9f3b-38635306c1ee",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-08-28"
+    }
+  ]
+}

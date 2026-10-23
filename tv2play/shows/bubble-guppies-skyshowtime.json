@@ -1,0 +1,285 @@
+{
+  "id": "tv2play:bubble-guppies-skyshowtime",
+  "name": "Bubble Guppies",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dyk ned i et vaskeægte undervandseventyr sammen med Bubble Guppies, der er klar til at lære dig om alt fra dinosaurer til tandlæger, rock'n roll og cowboys. Gennem forskellige temaer lærer havfruerne og havmændene fra byen Bubbletucky dig fysik, matematik, litteratur og meget mere under vandet. Her befinder vi os i en verden med skove af tang og flotte koralrev. Selvfølgelig med en masse sjov og musik, der får dig til at boble af grin.",
+  "image": "https://cdn-play.tv2i.dk/fae76a5b-f308-4341-950c-4c25d62041f0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2156&w=1280",
+  "episodes": [
+    {
+      "id": "c029c126-b00f-436f-bdc7-c0fd8ad99efd",
+      "season": 1,
+      "number": 1,
+      "name": "Ring efter skal-bulancen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "21f0b27f-926d-4bf1-8170-806e6926dc31",
+      "season": 1,
+      "number": 2,
+      "name": "Grøn Prix",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c690be6c-095e-4681-93ef-dff402833b87",
+      "season": 1,
+      "number": 3,
+      "name": "Bubble Puppy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5cbb5821-fd46-4bfe-b1b4-c3e974bed83b",
+      "season": 1,
+      "number": 4,
+      "name": "Byg mig en bygning",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6eab0fa4-a6e7-4398-a300-5a323885c83b",
+      "season": 1,
+      "number": 5,
+      "name": "På rap og række",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2ea3777b-9d91-44e9-9649-f91b1d6d6df9",
+      "season": 1,
+      "number": 6,
+      "name": "En Surmalle Special",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "941cac0a-2a9b-4691-b69f-1202f38f911a",
+      "season": 1,
+      "number": 7,
+      "name": "Månestenene",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "de50f2f3-6ce6-481b-8806-c9fcad47cb56",
+      "season": 1,
+      "number": 8,
+      "name": "Hvem skal spille den store stygge ulv?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "00da5470-cfc8-4389-9d1f-be65c8716f09",
+      "season": 1,
+      "number": 9,
+      "name": "Vi rocker totalt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "72b10a0a-1ad9-4876-b882-bee284fb3fd9",
+      "season": 1,
+      "number": 10,
+      "name": "Fisketball",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7a69b376-b3f0-4afc-83f4-844b31189b5d",
+      "season": 1,
+      "number": 11,
+      "name": "Legenden om Pinkfoot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6410d114-8c70-4702-92f4-d92548cb3b90",
+      "season": 1,
+      "number": 12,
+      "name": "Gup, Gup i luften!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d040c5d5-55f5-4af9-b1c2-30685b9ec3cb",
+      "season": 1,
+      "number": 13,
+      "name": "Vårhønen kommer",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cd9dd859-7aa9-4a5f-86cf-1aae6d28c0d9",
+      "season": 1,
+      "number": 14,
+      "name": "Dreng møder egern",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "61588feb-0c6d-46bc-b808-b2f7c9e34aa5",
+      "season": 1,
+      "number": 15,
+      "name": "Værs'ko",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7c053d56-9b70-4852-85c1-0020de90db21",
+      "season": 1,
+      "number": 16,
+      "name": "Den store rejefejrings-fest",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f6dd3b62-7309-41dd-b999-0276c11d00d6",
+      "season": 1,
+      "number": 17,
+      "name": "Glædelig muslingedage",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "19ccda89-5251-4dde-8bdf-65154a1363bc",
+      "season": 1,
+      "number": 18,
+      "name": "Udgravningen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f6206d48-1eff-4d2f-a1f5-f1c217620eba",
+      "season": 1,
+      "number": 19,
+      "name": "Bobbelbidder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7de30b27-c694-4f97-b05a-a07ec7ca18ba",
+      "season": 1,
+      "number": 20,
+      "name": "Fest i spøgelseshuset",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f55d6427-72f4-48ba-8cb1-fad5a24b6d79",
+      "season": 2,
+      "number": 1,
+      "name": "Kig efter krydset",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a99dba18-6db9-4056-a23a-9fabf0c67251",
+      "season": 2,
+      "number": 2,
+      "name": "Glædelig jul, Hr. Surmalle!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d1057875-1561-45c0-b026-6751da3ae70e",
+      "season": 2,
+      "number": 3,
+      "name": "Det ensomme næsehorn",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9fc77417-37c9-4e78-8b88-03429cf2a7a3",
+      "season": 2,
+      "number": 4,
+      "name": "Bubble Puppys fintastiske eventyr! 1. del",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cbe4909d-5179-4cad-b217-dd9c347427c1",
+      "season": 2,
+      "number": 5,
+      "name": "Bubble Puppys fintastiske eventyr! 2. del",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d40a8e1e-f2ef-451a-8dcd-7a97e7045f06",
+      "season": 2,
+      "number": 6,
+      "name": "Brandmand Gil kommer til undsætning!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c71e5589-c371-4d21-9204-ac639138e485",
+      "season": 2,
+      "number": 7,
+      "name": "Cowboypige-optoget",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a71a6c85-6ab0-4249-bef3-053704551f12",
+      "season": 2,
+      "number": 8,
+      "name": "Kolo-enorm truck!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "83491873-262a-4d3a-be99-f0bb2cecd103",
+      "season": 2,
+      "number": 9,
+      "name": "Lige en tand til!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d8753466-5aca-409c-83b3-e78d6fec0965",
+      "season": 2,
+      "number": 10,
+      "name": "Badeballet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0e4c6b84-cb64-4aa7-8ea7-9934e71bd939",
+      "season": 2,
+      "number": 11,
+      "name": "De sydende kæmperejer!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "09bebf1f-759b-4076-9a62-7d713817d412",
+      "season": 2,
+      "number": 12,
+      "name": "Vild med byggeri!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3515b375-69da-4e36-af7e-05bffc082a39",
+      "season": 2,
+      "number": 13,
+      "name": "Ridder Nonny den flinke!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "27306786-4c89-46bd-a1e2-9653c2053e42",
+      "season": 2,
+      "number": 14,
+      "name": "Bubble-cadabra!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e558c484-b7cc-43ac-8daf-bc1d5d61a17c",
+      "season": 2,
+      "number": 15,
+      "name": "Sfinksens næse!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f991b965-67ce-4279-b35d-09bd0c70303b",
+      "season": 2,
+      "number": 16,
+      "name": "Frem med insekterne!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "395cd395-650a-4c89-94a4-c7e66c5896a2",
+      "season": 2,
+      "number": 17,
+      "name": "Bubble-ællinger!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f6967a96-7148-4cc6-9c6e-09fc7e339812",
+      "season": 2,
+      "number": 18,
+      "name": "Tre-togsterrænløbet!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f07b47d6-87b2-4649-84be-8ac1cda88f01",
+      "season": 2,
+      "number": 20,
+      "name": "God hårdag!",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

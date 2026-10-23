@@ -1,0 +1,712 @@
+{
+  "id": "tv2play:barbapapa-oiii",
+  "name": "Barbapapa",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Barbapapa og Barbamama er de søde forældre til syv livlige og dejlige børn: Barbarød, Barbablå, Barbagul, Barbapjuske, Barbalilla, Barbagrøn og Barbaorange. Hver af dem har sin egen særlige personlighed. Når de er på eventyr, har de et godt familiesammenhold og en utrolig evne til at løse alle problemer",
+  "image": "https://cdn-play.tv2i.dk/7d7f6389-c163-48c9-abd6-e7f501959006.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "63e8eac3-a9e3-4b42-841a-49bcccfb6302",
+      "season": 1,
+      "number": 1,
+      "name": "Fødslen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "857a5f40-b9c5-42ba-8d9c-6eb09bf4b6ea",
+      "season": 1,
+      "number": 2,
+      "name": "Ildebranden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "755105bf-e878-4d3b-9a97-35019f14c79f",
+      "season": 1,
+      "number": 3,
+      "name": "Stranden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0972d7a8-ae9f-462c-a398-c38708aa2d11",
+      "season": 1,
+      "number": 4,
+      "name": "Afrejsen - del 1",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "84e5595b-7358-4d16-a9fd-82bd171ceea6",
+      "season": 1,
+      "number": 5,
+      "name": "Havet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4e043e5a-f91c-4b4e-9939-1bad09dc628b",
+      "season": 1,
+      "number": 6,
+      "name": "Indien",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "75fc4fc0-2bf3-4a49-85ec-083f154a5b28",
+      "season": 1,
+      "number": 7,
+      "name": "Amerika",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b4b9782c-58dd-49b1-abb9-415879a1a119",
+      "season": 1,
+      "number": 8,
+      "name": "Barbamama",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "81625d9a-6d7d-4787-b93e-113f2907a2e3",
+      "season": 1,
+      "number": 9,
+      "name": "I havsnød",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "13d2beea-5e37-4012-a7d5-2bd0cb374a84",
+      "season": 1,
+      "number": 10,
+      "name": "Det nye hus",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b08fa798-b273-4f6f-8fc9-5f13954750ac",
+      "season": 1,
+      "number": 11,
+      "name": "Boligproblemer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4bd2cc04-0179-41ce-bb9a-7bbf652d3e86",
+      "season": 1,
+      "number": 12,
+      "name": "Barbapapas hus",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d073cd95-9c72-4848-beba-06721cfe5b96",
+      "season": 1,
+      "number": 13,
+      "name": "Toget",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "21e1e7e6-dd4b-47ee-85dc-5e0ec958829b",
+      "season": 1,
+      "number": 14,
+      "name": "I ørkenen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "deba89d2-e627-43de-9ec0-e855ff213cfa",
+      "season": 1,
+      "number": 15,
+      "name": "Æggene",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "58590ed5-8d05-42b3-a29a-8ec9f4b907b7",
+      "season": 1,
+      "number": 16,
+      "name": "Stor kunst",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8188e843-1ef2-45b0-8466-6e69e8dacc3b",
+      "season": 1,
+      "number": 17,
+      "name": "Sport",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "46cdf555-f07b-4b39-9039-f2f84c49b83d",
+      "season": 1,
+      "number": 18,
+      "name": "Babysitter",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "493ed74b-7517-44da-b37a-503946f7a7f3",
+      "season": 1,
+      "number": 19,
+      "name": "Mikroskopet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4d1324df-b24f-4e71-8351-2677345c665a",
+      "season": 1,
+      "number": 20,
+      "name": "Det løbske tog",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1ee77b02-661f-4c92-95f9-8456f91e6ae4",
+      "season": 1,
+      "number": 21,
+      "name": "Den store kunstner",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0fb00f35-ebfe-457a-ae54-5ff00412ebcd",
+      "season": 1,
+      "number": 22,
+      "name": "På vej til Afrika",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "89e4b89c-4f77-4828-9f2a-b8db5d9337bd",
+      "season": 1,
+      "number": 23,
+      "name": "Afrika",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "60de1a56-98d9-48e2-8657-9bf87a4ee7fa",
+      "season": 1,
+      "number": 24,
+      "name": "Fårene på engen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f3c429ee-fc1d-48a1-9a29-d07fa38fc615",
+      "season": 1,
+      "number": 25,
+      "name": "Et lille uheld",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ddc03a15-040a-4812-b800-09791ef7095d",
+      "season": 1,
+      "number": 26,
+      "name": "Tyren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cb0bd81c-a981-478c-8228-f2bdaf4d057f",
+      "season": 1,
+      "number": 27,
+      "name": "Kalvene",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "daab658e-55c1-462f-9409-042d515a07e1",
+      "season": 1,
+      "number": 28,
+      "name": "Forvandlinger",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "783afc76-412b-4e81-be0c-7abd0f85b069",
+      "season": 1,
+      "number": 29,
+      "name": "Ny frisure",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "430983ef-4252-41e8-8fd0-57236ad20205",
+      "season": 1,
+      "number": 30,
+      "name": "På ski",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c8fcf4db-96b4-4711-88ac-700b6fcc3a0f",
+      "season": 1,
+      "number": 31,
+      "name": "Forurening",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5aac25a5-091a-44d7-aa13-e483b5693bad",
+      "season": 1,
+      "number": 32,
+      "name": "Skoven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f4f2158f-8d7f-4e5e-b23f-ca133635c39a",
+      "season": 1,
+      "number": 33,
+      "name": "Kapsejladsen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "06f71b7a-aaf7-47af-8925-0a8dd322251d",
+      "season": 1,
+      "number": 34,
+      "name": "Lopper",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bcfa0fba-97a6-43ed-b1ae-3f0828ff0d89",
+      "season": 1,
+      "number": 35,
+      "name": "Druehøsten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "fa064eac-ef2d-433d-9546-1b127f6cdb07",
+      "season": 1,
+      "number": 36,
+      "name": "Insekter",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "46bbb41c-b9db-4bd7-9bc3-cce8d79b81bb",
+      "season": 1,
+      "number": 37,
+      "name": "Flyvemaskinen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "704fcd89-24c0-4420-8d25-8e0d4c5527b4",
+      "season": 1,
+      "number": 38,
+      "name": "Hos fotografen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ea2866d3-f9b8-48d1-8282-1ea50f5b26e8",
+      "season": 1,
+      "number": 39,
+      "name": "Koncerten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c6936384-5cb5-436f-9f90-f476a2b12256",
+      "season": 1,
+      "number": 40,
+      "name": "Barbapapas fødselsdag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f1861ade-6673-4d1d-9d02-421fa1dc12b0",
+      "season": 1,
+      "number": 41,
+      "name": "Hundehvalp i knibe",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "87c018c4-8784-4b3d-a80f-584ffd85589e",
+      "season": 1,
+      "number": 42,
+      "name": "Jagten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f7fd8765-1f3a-43a5-a8ba-5ef6595d2a3b",
+      "season": 1,
+      "number": 43,
+      "name": "Picnic",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f98cb7cf-d1f9-4012-ae70-02639d16ce1e",
+      "season": 1,
+      "number": 44,
+      "name": "Reservatet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a38dceb3-a61a-48f5-8972-20b4ec5ebc70",
+      "season": 1,
+      "number": 45,
+      "name": "Tilbage til jorden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bb747330-67d4-478c-813e-ab40e10c03ca",
+      "season": 1,
+      "number": 46,
+      "name": "Sparegrisen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d6da2fac-768b-4b4b-b635-c128080e7e00",
+      "season": 1,
+      "number": 47,
+      "name": "Tyrefægtning",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f84d3380-dc67-42d6-97b7-addc644e1f8d",
+      "season": 1,
+      "number": 48,
+      "name": "I Mexico",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f9fd1281-8df8-400e-9478-d09fc3876ef1",
+      "season": 1,
+      "number": 49,
+      "name": "Pelsjægerne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9b624ea3-3f4e-42b5-afdb-0581fb1bd598",
+      "season": 1,
+      "number": 50,
+      "name": "Barnemad",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d4d06a5e-7b55-4c15-a239-f44f1bf74fad",
+      "season": 1,
+      "number": 51,
+      "name": "I cirkus",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "524de24d-6e71-4787-8f68-c013a55b72a2",
+      "season": 1,
+      "number": 52,
+      "name": "Doktor Barbagul",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9e08370c-e4b5-4155-8942-d0232aaab7a7",
+      "season": 1,
+      "number": 53,
+      "name": "Postbudet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e295ccf6-0b6a-412b-9d7a-05a4273ef414",
+      "season": 1,
+      "number": 54,
+      "name": "Annas fødselsdag",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4f2a66a6-062e-483b-993c-991d3d994500",
+      "season": 1,
+      "number": 55,
+      "name": "De magiske dyr",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "62ffc48e-7ae1-4d8e-96dc-96dfa9e21778",
+      "season": 1,
+      "number": 56,
+      "name": "Barbapapaorkesteret",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "026978ac-88a5-4640-aaf7-f8dc5f0312d3",
+      "season": 1,
+      "number": 57,
+      "name": "Legepladsen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "87c19a6b-4104-4a67-81df-93d4d96f7b54",
+      "season": 1,
+      "number": 58,
+      "name": "Legetøjsfabrikken",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "736a3616-796e-48f9-a204-b425666c6cd9",
+      "season": 1,
+      "number": 59,
+      "name": "Den mystiske tyv",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f1aed832-3402-4bfb-9793-ee6ce42b0c42",
+      "season": 1,
+      "number": 60,
+      "name": "Robotten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "893a8a10-a204-4b45-9506-fce06f137bd3",
+      "season": 1,
+      "number": 61,
+      "name": "Safari",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "04f61c56-673f-4757-b8fe-bf449dd825f5",
+      "season": 1,
+      "number": 62,
+      "name": "Hvalen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2fcb3f28-20e3-462c-b868-79fc5dea70e4",
+      "season": 1,
+      "number": 63,
+      "name": "Skjul",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6def38da-e5d3-463a-9866-75d2fb4bf919",
+      "season": 1,
+      "number": 64,
+      "name": "Duellen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2c7d58cb-2b8c-4382-90c0-94a6852c016f",
+      "season": 1,
+      "number": 65,
+      "name": "Kagemysteriet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "00b8615e-9cbc-4403-9c92-ddc7b6fe9455",
+      "season": 1,
+      "number": 66,
+      "name": "Æggemysteriet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "173f0955-1719-460a-b218-be45c3e7518a",
+      "season": 1,
+      "number": 67,
+      "name": "Bilen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4a0b201d-96ca-473d-bdbd-c0a2dfbe9f52",
+      "season": 1,
+      "number": 68,
+      "name": "I det vilde vesten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "66910329-dda2-4447-b453-581cdacb6e7b",
+      "season": 1,
+      "number": 69,
+      "name": "Dinosaurussen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4ef7b490-da3e-436d-af31-9bdfb45796b7",
+      "season": 1,
+      "number": 70,
+      "name": "Da Barbapapa forsvandt",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "957e612f-272e-4dbf-8dbd-7416d9788939",
+      "season": 1,
+      "number": 71,
+      "name": "Skolen i det fri",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ebac928f-a065-43b9-b70c-e6c6743c9f86",
+      "season": 1,
+      "number": 72,
+      "name": "Hundeudstilling",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2f1a6de8-cb26-48ab-bed4-1fd55c52daba",
+      "season": 1,
+      "number": 73,
+      "name": "Barbapapas jul",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5f99ffce-d1de-491a-9fde-6a67e5b6c6ce",
+      "season": 1,
+      "number": 74,
+      "name": "Spøgelset",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bd0908c2-8afb-4f46-b501-05be3423cf74",
+      "season": 1,
+      "number": 75,
+      "name": "Musikskolen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "51d12486-bf3a-4934-b3ec-920e2ca9b526",
+      "season": 1,
+      "number": 76,
+      "name": "Uhyret",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ecba6fbc-d44c-4560-94e1-bdabadc92efb",
+      "season": 1,
+      "number": 77,
+      "name": "Spøgelseshuset",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cedbe655-e6e0-4290-a81a-ea4635bb4d6f",
+      "season": 1,
+      "number": 78,
+      "name": "Professor Panda",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2dfc5601-f80b-4e66-93e3-c93122d35880",
+      "season": 1,
+      "number": 79,
+      "name": "Tyven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d16f26f7-6ae1-45f0-9509-7dd4365360b8",
+      "season": 1,
+      "number": 80,
+      "name": "Barbapjuskes hemmelighed",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c152581a-fe55-4b8b-81e6-73ca29e8ba51",
+      "season": 1,
+      "number": 81,
+      "name": "Racerløbet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "db9f523c-7d7e-4e74-972b-2f2a89d8e062",
+      "season": 1,
+      "number": 82,
+      "name": "Antarktis",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5d02972b-a9f9-406f-bf1a-e5ea415b8763",
+      "season": 1,
+      "number": 83,
+      "name": "Tryllekunstneren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "0740c935-b6df-4a0a-b3df-a5a1e9158bb9",
+      "season": 1,
+      "number": 84,
+      "name": "Teaterforestillingen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "58147df3-46e6-4035-a44e-50dc0ef86030",
+      "season": 1,
+      "number": 85,
+      "name": "Krukkerne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bf3c8956-fdcc-4a6d-9d17-f3e1c1f68738",
+      "season": 1,
+      "number": 86,
+      "name": "Barbapapas teater",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6c80fa54-3fa8-40eb-8afc-b777f9bece1e",
+      "season": 1,
+      "number": 87,
+      "name": "Skolefesten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "fac38cdb-8452-40c6-ad86-e6a076e9db2a",
+      "season": 1,
+      "number": 88,
+      "name": "Krybskytterne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "23d2c5a7-5d25-49c6-b671-8f6bf995583c",
+      "season": 1,
+      "number": 89,
+      "name": "Japansk festival",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e77f3b40-a4ed-476c-9528-dea4f1532f71",
+      "season": 1,
+      "number": 90,
+      "name": "Haven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "44b87e72-dd4d-4ec4-8ce5-3238fcbdc34a",
+      "season": 1,
+      "number": 91,
+      "name": "Trækfuglene",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3e800a0b-8dc7-45a7-9167-465d8a7ea66a",
+      "season": 1,
+      "number": 92,
+      "name": "Barbablå",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "bfbb4ed6-d54f-46cc-88d5-a662ff0aa168",
+      "season": 1,
+      "number": 93,
+      "name": "Barbalilla og Barbapjuske",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7daef5cd-b58e-49e3-a502-c6153dcdf72f",
+      "season": 1,
+      "number": 94,
+      "name": "Barbagrøn og Barbagul",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cabdf4d7-8681-46c8-a270-5dfe793d6272",
+      "season": 1,
+      "number": 95,
+      "name": "Hestevæddeløbet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "51e37594-669e-450f-b409-4f6aa86edc19",
+      "season": 1,
+      "number": 96,
+      "name": "Søuhyret",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "74443e00-70f2-4ea5-8d51-1a0dc73ea508",
+      "season": 1,
+      "number": 97,
+      "name": "Ballonturen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e6d65007-3e57-40bc-9ead-0d4df98b81c6",
+      "season": 1,
+      "number": 98,
+      "name": "En stormfuld nat",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2a320d12-8982-4510-b595-9e7481bdab1c",
+      "season": 1,
+      "number": 99,
+      "name": "Paraplyen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "58c4dbb2-a20c-4e83-abfc-b46a63403b15",
+      "season": 1,
+      "number": 100,
+      "name": "Egernernes kærlighedshistorie",
+      "airdate": "2020-12-01"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:whistleblower-tv2",
+  "name": "Whistleblower",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I Danmark hylder vi whistleblowere - i hvert fald udadtil. Men når de står frem, risikerer de fyring, udskamning og straf for at gøre det, vi som borgere forventer: at sige fra, når noget er galt. Med udgangspunkt i seks kendte sager undersøger TV 2 dette i en dokumentarserie i to episoder.",
+  "image": "https://cdn-play.tv2i.dk/08f7f1a5-e392-49af-b0da-8f4a8ea9e25e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f5db6fc7-e609-4d54-9419-b42136d1a367",
+      "season": 1,
+      "number": 1,
+      "name": "Helt eller sladderhank?",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "fa2691b8-2577-407a-97b2-4272c02dbac3",
+      "season": 1,
+      "number": 2,
+      "name": "Bange for ytringsfrihed",
+      "airdate": "2025-09-10"
+    }
+  ]
+}

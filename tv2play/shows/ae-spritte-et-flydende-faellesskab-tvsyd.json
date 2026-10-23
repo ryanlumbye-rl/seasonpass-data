@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:ae-spritte-et-flydende-faellesskab-tvsyd",
+  "name": "Æ Spritte - et flydende fællesskab",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Æ Spritte var en legendarisk toldfri sejlrute i Sønderborg. Men hvad der startede som et hyggeligt mødested for ældre medborgere udviklede sig til vilde diskoture, ukontrolleret smugling og vold i byen, der blev kendt som Danmarks Chicago.",
+  "image": "https://cdn-play.tv2i.dk/15142254-e47f-4672-b2b6-f65facfcd7a2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "0579d690-db45-4325-b37d-5feef691f74f",
+      "season": 1,
+      "number": 1,
+      "name": "Tag en tur me’ Æ Spritte",
+      "airdate": "2025-09-06"
+    },
+    {
+      "id": "354e9ff5-bec9-4599-94b6-3611eb1b9a60",
+      "season": 1,
+      "number": 2,
+      "name": "En fest uden grænser",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "6cce7187-bdeb-478d-a25b-fcdbc339b4ab",
+      "season": 1,
+      "number": 3,
+      "name": "Danmarks Chicago",
+      "airdate": "2025-09-20"
+    }
+  ]
+}

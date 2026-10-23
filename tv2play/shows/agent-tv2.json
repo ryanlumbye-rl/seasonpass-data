@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:agent-tv2",
+  "name": "Agent",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nikolaj Lie Kaas' komediedramaserie om Joe, der arbejder som agent for stjerner i underholdningsbranchen. Men det går ikke helt så godt, som det kunne. Esben Smed i hovedrollen som Joe og med et stort, stjernespækket cast",
+  "image": "https://cdn-play.tv2i.dk/308a1ed2-eebf-4846-ae00-8aee1dc3c897.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "07fbd789-9faf-41f4-82f7-6ee379dfa707",
+      "season": 1,
+      "number": 1,
+      "name": "Airdrop",
+      "airdate": "2023-07-09"
+    },
+    {
+      "id": "e65b7b35-a848-459d-b89b-86530596bafb",
+      "season": 1,
+      "number": 2,
+      "name": "Facial",
+      "airdate": "2023-07-16"
+    },
+    {
+      "id": "c5881b9b-3c92-49fb-8058-22df02ad870f",
+      "season": 1,
+      "number": 3,
+      "name": "Robert",
+      "airdate": "2023-07-30"
+    },
+    {
+      "id": "6e3fa5e5-4753-4367-9b03-11c7a1f6522e",
+      "season": 1,
+      "number": 4,
+      "name": "Roadtrip",
+      "airdate": "2023-08-06"
+    },
+    {
+      "id": "19a1dbd5-371a-4bf2-9bf1-4f6770e41e8f",
+      "season": 1,
+      "number": 5,
+      "name": "Wolf",
+      "airdate": "2023-08-13"
+    },
+    {
+      "id": "67b347bf-37c4-41f0-8202-da35ed8c80e4",
+      "season": 1,
+      "number": 6,
+      "name": "Stockholm, baby",
+      "airdate": "2023-08-20"
+    },
+    {
+      "id": "a2d06780-d018-4a16-bf46-1ce0461b89c2",
+      "season": 1,
+      "number": 7,
+      "name": "Marko-effekten",
+      "airdate": "2023-08-27"
+    },
+    {
+      "id": "f35ecf66-66f4-4958-a8d6-71736ed9e6d7",
+      "season": 1,
+      "number": 8,
+      "name": "USA",
+      "airdate": "2023-09-03"
+    }
+  ]
+}

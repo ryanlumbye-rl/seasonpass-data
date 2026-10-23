@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:death-of-a-show-jumper-skyshowtime",
+  "name": "Death of a Show Jumper",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da en ung springrytter dør i 2020, accepterer hesteverdenen hurtigt politiets konklusion om selvmord. Kun hendes veninde tvivler og samler et lille hold for at afsløre en chokerende historie om seksuel kontrol og vold bag sportens pæne og respektable facade.",
+  "image": "https://cdn-play.tv2i.dk/666de17e-a7c0-4d79-a3dd-15b425df6d33.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9563cbcf-054b-476d-b1d4-321e02e2c6bb",
+      "season": 1,
+      "number": 1,
+      "name": "Secrets and Silence",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "a930373b-e879-4ab7-8cb8-f13a4abe5de8",
+      "season": 1,
+      "number": 2,
+      "name": "Undercover Investigators",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "d40024b2-6fab-44e6-b910-740e8bb19a17",
+      "season": 1,
+      "number": 3,
+      "name": "Taking a Stand",
+      "airdate": "2025-10-12"
+    }
+  ]
+}

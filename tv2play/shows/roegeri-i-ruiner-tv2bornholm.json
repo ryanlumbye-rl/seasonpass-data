@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:roegeri-i-ruiner-tv2bornholm",
+  "name": "Røgeri i ruiner",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den 20. oktober 2023 lægger en stormflod Nordbornholms Røgeri i ruiner. Følg de to unge ejere, Sandra Kirketerp og Camilla Grønning, i deres kamp for at få genopbygget og genåbnet røgeriet.",
+  "image": "https://cdn-play.tv2i.dk/243c1d2e-0079-4b62-8bb3-d254211c7992.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "91216438-f94a-4283-870d-6a28d596c3a0",
+      "season": 2,
+      "number": 1,
+      "name": "Et år efter stormfloden",
+      "airdate": "2024-11-14"
+    }
+  ]
+}

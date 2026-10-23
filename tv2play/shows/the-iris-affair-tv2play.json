@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:the-iris-affair-tv2play",
+  "name": "The Iris Affair",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Iris Nixon, et rodløst geni, flygter efter at have stjålet en gådefuld kode fra den karismatiske filantrop Cameron McIntyre. En dramatisk nedtælling begynder, mens hun kæmper for at løse kodens mysterium.",
+  "image": "https://cdn-play.tv2i.dk/dd5e3576-12f8-4189-b9d8-12699052b8d5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "941af1e7-0a5a-45aa-adbe-86c640293f2f",
+      "season": 1,
+      "number": 1,
+      "name": "Charlie Big Potatoes",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "5d05508b-a84e-43d5-afe9-3cd48f957671",
+      "season": 1,
+      "number": 2,
+      "name": "More than Zero, Less than One",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "7d1592ab-5eec-432e-b3fc-86bf447c04b6",
+      "season": 1,
+      "number": 3,
+      "name": "Joy Ride",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "a59d5ca2-4900-48f1-a006-e38630133b90",
+      "season": 1,
+      "number": 4,
+      "name": "Collider",
+      "airdate": "2025-12-13"
+    },
+    {
+      "id": "fee8233c-13f6-41fa-9ceb-84a9902defcf",
+      "season": 1,
+      "number": 5,
+      "name": "Ex Nihilo",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "7490653c-ad43-4952-8c5a-117e27d93bd8",
+      "season": 1,
+      "number": 6,
+      "name": "The Oblivion Suite",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "5fb72e6a-196a-4864-acc2-8152c39f5328",
+      "season": 1,
+      "number": 7,
+      "name": "Two Seconds To Midnight",
+      "airdate": "2026-01-03"
+    },
+    {
+      "id": "abb72335-9edc-4567-83a2-58e551427f96",
+      "season": 1,
+      "number": 8,
+      "name": "Charlie Says",
+      "airdate": "2026-01-10"
+    }
+  ]
+}

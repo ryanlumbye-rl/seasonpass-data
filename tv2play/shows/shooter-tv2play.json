@@ -1,0 +1,229 @@
+{
+  "id": "tv2play:shooter-tv2play",
+  "name": "Shooter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da den højt dekorerede veteran Bob Lee Swagger bliver tvunget til at forhindre en plan om at myrde den amerikanske præsident, får han skylden for mordforsøget. Nu gælder alle kneb for at beskytte sig selv og sin familie og for at rense sit navn.",
+  "image": "https://cdn-play.tv2i.dk/8b86ffbd-66f5-4969-8287-1e64ff2fffce.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "27a085c7-64da-4849-bd1c-5dc062e4b1fa",
+      "season": 1,
+      "number": 1,
+      "name": "Point of Impact",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "41274f64-7da5-4ab9-8edf-4c8b6b985452",
+      "season": 1,
+      "number": 2,
+      "name": "Exfil",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "d8a46d95-7039-49b1-a406-78b7440b98eb",
+      "season": 1,
+      "number": 3,
+      "name": "Musa Qala",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "ee58a9b4-8c9a-4137-aa10-078f4d3e4a7a",
+      "season": 1,
+      "number": 4,
+      "name": "Overwatch",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "b92905c2-1620-486a-9906-1d625331742d",
+      "season": 1,
+      "number": 5,
+      "name": "Recon by Fire",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "38c51201-9ba3-4cff-a33a-d9f61b4dd4ea",
+      "season": 1,
+      "number": 6,
+      "name": "Killing Zone",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "f4bd845e-4e2d-484b-8899-b832f41b76f4",
+      "season": 1,
+      "number": 7,
+      "name": "Danger Close",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "9e83c78d-36ce-446c-b4c1-7866715e588d",
+      "season": 1,
+      "number": 8,
+      "name": "Red on Red",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "0efdfc31-969d-4f4d-af2b-ca7ad34e4ca7",
+      "season": 1,
+      "number": 9,
+      "name": "Ballistic Advantage",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "470033cb-824b-490e-af0f-a3c2002dcbf2",
+      "season": 1,
+      "number": 10,
+      "name": "Primer Contact",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "95f1dcb8-c90b-4892-8dbe-296164253c45",
+      "season": 2,
+      "number": 1,
+      "name": "The Hunting Party",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "09619335-8104-4ddc-b52f-24cfb18cb708",
+      "season": 2,
+      "number": 2,
+      "name": "Remember The Alamo",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "aa802cfc-6c6a-4d8c-b663-66e40e496a01",
+      "season": 2,
+      "number": 3,
+      "name": "Don't Mess with Texas",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "d7d5dcab-fa7a-4d5a-9c24-22a7026c28b7",
+      "season": 2,
+      "number": 4,
+      "name": "The Dark End of the Street",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "ba25b119-fba0-4282-9370-ed0c1709d0cd",
+      "season": 2,
+      "number": 5,
+      "name": "The Man Called Noon",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "60ecd2a4-8184-42ba-84cb-1ea917fba396",
+      "season": 2,
+      "number": 6,
+      "name": "Across the Rio Grande",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "e60c99ca-9e6e-485e-be14-62c99885eb28",
+      "season": 2,
+      "number": 7,
+      "name": "Someplace Like Bolivia",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "c186d922-e55e-408a-86da-e186b170d433",
+      "season": 2,
+      "number": 8,
+      "name": "That'll Be the Day",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "d7554264-8c52-41b4-a120-6f49d7153ea4",
+      "season": 3,
+      "number": 1,
+      "name": "Backroads",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "c039ca69-3794-4c3b-8988-d233014e5db8",
+      "season": 3,
+      "number": 2,
+      "name": "Red Meat",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "e4b5d67d-b47d-4135-a39b-7100e3a8dbff",
+      "season": 3,
+      "number": 3,
+      "name": "Sins of the Father",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "c90043fe-089c-41d7-8bb1-a650252480e2",
+      "season": 3,
+      "number": 4,
+      "name": "The Importance of Service",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "19881dbf-7cfd-4f4b-b9fd-f46e6901a2c8",
+      "season": 3,
+      "number": 5,
+      "name": "A Call to Arms",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "a8aeb31c-6993-4530-99b1-5b484126a775",
+      "season": 3,
+      "number": 6,
+      "name": "Lines Crossed",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "6cb7c7fb-a379-4de3-b75a-433c9792d89b",
+      "season": 3,
+      "number": 7,
+      "name": "Swing Vote",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "0a1c34b0-d896-4abd-80ea-5ff71924ea20",
+      "season": 3,
+      "number": 8,
+      "name": "The Red Badge",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "e9abbb76-c103-4431-8bf0-82a1cde37ea1",
+      "season": 3,
+      "number": 9,
+      "name": "Alpha Dog",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "b8dcf304-36aa-4914-8326-73d4eddb37ca",
+      "season": 3,
+      "number": 10,
+      "name": "Orientation Day",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "5e0ba70d-ae67-461e-b08e-39dc19d2e46e",
+      "season": 3,
+      "number": 11,
+      "name": "Family Fire",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "615ac8ac-64d6-4a74-8a61-070956958fc8",
+      "season": 3,
+      "number": 12,
+      "name": "Patron Saint",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "683a6c6c-d02b-44d5-ae2d-54a5bd08d828",
+      "season": 3,
+      "number": 13,
+      "name": "Red Light",
+      "airdate": "2025-12-06"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:nick-og-det-svaere-liv-tv2play",
+  "name": "Nick og det svære liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "For 11 år siden kom Nick Vejle ud for en ulykke, der ændrede hans liv for altid. Han pådrog sig en alvorlig hjerneskade, som har haft store konsekvenser. Nu kæmper han mod dæmoner, misbrug og talebesvær. Men Nick nægter at give op.",
+  "image": "https://cdn-play.tv2i.dk/c93e6681-c419-47e4-bfd9-2599cb245c5a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d883c736-150a-4511-b939-09cbc5eaf652",
+      "season": 1,
+      "number": 1,
+      "name": "Ny start",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "5806d6d5-735c-4d00-b3e0-cb00196fad59",
+      "season": 1,
+      "number": 2,
+      "name": "Den nye kærlighed",
+      "airdate": "2025-12-25"
+    }
+  ]
+}

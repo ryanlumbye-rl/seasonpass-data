@@ -1,0 +1,152 @@
+{
+  "id": "tv2play:landman-skyshowtime",
+  "name": "Landman",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Serien foregår i de velkendte boomtowns i Texas og er en moderne fortælling om jagten på penge og lykke i oliepumpernes verden. Landman er en historie om roughnecks og vilde milliardærer, der sammen giver næring til et boom så stort, at det omformer vores klima, vores økonomi og vores geopolitik.",
+  "image": "https://cdn-play.tv2i.dk/c0730411-5336-4218-86bd-ab01568b18a0.jfif?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "dd8de759-cc50-49a0-bac7-04dffa6469f8",
+      "season": 1,
+      "number": 1,
+      "name": "Landman",
+      "airdate": "2024-11-20"
+    },
+    {
+      "id": "d052c983-01cd-4322-b504-bf60e6de6d6d",
+      "season": 1,
+      "number": 2,
+      "name": "Dreamers and Losers",
+      "airdate": "2024-11-20"
+    },
+    {
+      "id": "0b0d9d13-856f-4a24-9313-c22cd6ee753d",
+      "season": 1,
+      "number": 3,
+      "name": "Hell Has a Front Yard",
+      "airdate": "2024-11-27"
+    },
+    {
+      "id": "1fdd37b8-e214-4f08-b475-5aa1ce7e2cf7",
+      "season": 1,
+      "number": 4,
+      "name": "The Sting of Second Chances",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "f3166233-f75c-4c36-a37e-552b6c0824bc",
+      "season": 1,
+      "number": 5,
+      "name": "Where Is Home",
+      "airdate": "2024-12-11"
+    },
+    {
+      "id": "2b00ce00-eef9-4ea3-b733-7e36e4e34cc6",
+      "season": 1,
+      "number": 6,
+      "name": "Beware the Second Beating",
+      "airdate": "2024-12-18"
+    },
+    {
+      "id": "824d27ca-c60f-473c-9c4a-70f75b49b567",
+      "season": 1,
+      "number": 7,
+      "name": "All Roads Lead to a Hole",
+      "airdate": "2024-12-25"
+    },
+    {
+      "id": "d2f0cd13-cbdb-4679-adec-711e320900be",
+      "season": 1,
+      "number": 8,
+      "name": "Clumsy, This Life",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "151cc401-8edd-4112-b316-5afce823cff0",
+      "season": 1,
+      "number": 9,
+      "name": "WolfCamp",
+      "airdate": "2025-01-08"
+    },
+    {
+      "id": "b7eb83fe-1713-47a0-8a66-d8d359fa2646",
+      "season": 1,
+      "number": 10,
+      "name": "The Crumbs of Hope",
+      "airdate": "2025-01-15"
+    },
+    {
+      "id": "be0a18a8-0f62-4cbc-9bfe-e05bed8d023f",
+      "season": 2,
+      "number": 1,
+      "name": "Death and a Sunset",
+      "airdate": "2025-11-21"
+    },
+    {
+      "id": "33cf31c8-7a7c-4364-b970-f1c3f8e9cddd",
+      "season": 2,
+      "number": 2,
+      "name": "Sins Of The Father",
+      "airdate": "2025-11-28"
+    },
+    {
+      "id": "021a1686-58a7-43a2-a59b-57e093584b5d",
+      "season": 2,
+      "number": 3,
+      "name": "Almost a Home",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "1e06a11c-8da2-401b-88c6-e9d948476881",
+      "season": 2,
+      "number": 4,
+      "name": "Dancing Rainbows",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "72ffaf2b-62c5-4ad5-b4fd-e78e97afbb31",
+      "season": 2,
+      "number": 5,
+      "name": "The Pirate Dinner",
+      "airdate": "2025-12-19"
+    },
+    {
+      "id": "1dd04db1-2491-44c9-a4c4-26fab183be88",
+      "season": 2,
+      "number": 6,
+      "name": "Dark Night of the Soul",
+      "airdate": "2025-12-26"
+    },
+    {
+      "id": "82491437-80c0-46cc-ba15-93194a906d7f",
+      "season": 2,
+      "number": 7,
+      "name": "Forever Is an Instant",
+      "airdate": "2026-01-02"
+    },
+    {
+      "id": "a1b7e500-b8f2-4d0b-bbf6-6ee1fc6c1c67",
+      "season": 2,
+      "number": 8,
+      "name": "Handsome Touched Me",
+      "airdate": "2026-01-09"
+    },
+    {
+      "id": "92fe5692-1e28-43bd-ba27-160d922031db",
+      "season": 2,
+      "number": 9,
+      "name": "Plans, Tears and Sirens",
+      "airdate": "2026-01-16"
+    },
+    {
+      "id": "79e14c58-8cbb-499c-94fc-79ffe6e2315d",
+      "season": 2,
+      "number": 10,
+      "name": "Tragedy and Flies",
+      "airdate": "2026-01-23"
+    }
+  ]
+}

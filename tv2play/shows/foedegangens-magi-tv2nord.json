@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:foedegangens-magi-tv2nord",
+  "name": "Fødegangens magi",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vi følger personalet på fødegangen i Aalborg, der hver dag er vidner til livets største, sværeste og mest magiske øjeblikke.",
+  "image": "https://cdn-play.tv2i.dk/9d3debd9-f3f4-434f-829b-46093b45f15f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "dd15078b-6792-4cde-aaf0-41467e491713",
+      "season": 1,
+      "number": 1,
+      "name": "Bad ass kvinder",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "13e9428a-5c0f-4fa6-85a5-5c4e8e99aa6c",
+      "season": 1,
+      "number": 2,
+      "name": "Mellem liv og død",
+      "airdate": "2025-10-19"
+    },
+    {
+      "id": "ac0a3d83-73a4-4135-8928-1ff0f838229d",
+      "season": 1,
+      "number": 3,
+      "name": "Kejsersnit og cola",
+      "airdate": "2025-10-26"
+    },
+    {
+      "id": "8a367707-2261-46f2-84c3-45eefda179d8",
+      "season": 1,
+      "number": 4,
+      "name": "Har du selv børn?",
+      "airdate": "2025-11-02"
+    }
+  ]
+}

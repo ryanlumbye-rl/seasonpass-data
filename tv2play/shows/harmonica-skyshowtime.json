@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:harmonica-skyshowtime",
+  "name": "Harmonica",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I et sidste forsøg på at redde deres karriere og ægteskab drager en elsket country pop-duo på genforeningsturné rundt i Europa",
+  "image": "https://cdn-play.tv2i.dk/74eb6463-35df-4af0-957b-538b7b5bf332.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "602a5bc8-ea90-439b-b338-33d0ccef1042",
+      "season": 1,
+      "number": 1,
+      "name": "Måske er det en ny start",
+      "airdate": "2024-05-09"
+    },
+    {
+      "id": "45c6dc5e-6f52-4606-a2e0-8b2459fa6141",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad er du bange for?",
+      "airdate": "2024-05-09"
+    },
+    {
+      "id": "c5f4e0d3-f015-4db3-abf4-dc42a75efce5",
+      "season": 1,
+      "number": 3,
+      "name": "Giv slip på hende",
+      "airdate": "2024-05-09"
+    },
+    {
+      "id": "89f87e86-379f-427b-8514-d759ba1224de",
+      "season": 1,
+      "number": 4,
+      "name": "For pokker, det er mørkt",
+      "airdate": "2024-05-09"
+    },
+    {
+      "id": "4e289106-3e3e-4059-9e1e-23dff121a7fd",
+      "season": 1,
+      "number": 5,
+      "name": "Du har altid et valg",
+      "airdate": "2024-05-09"
+    }
+  ]
+}

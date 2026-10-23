@@ -14,27 +14,6 @@
       "airdate": "2018-11-28"
     },
     {
-      "id": "dca52b89-8cf3-45cc-817e-4640e5c240d4",
-      "season": 1,
-      "number": 5,
-      "name": "Skattequizzen",
-      "airdate": "2018-11-28"
-    },
-    {
-      "id": "c6005530-05ea-4795-99cc-648396103466",
-      "season": 1,
-      "number": 5,
-      "name": "Skattequizzen",
-      "airdate": "2018-11-28"
-    },
-    {
-      "id": "c6e07a28-63a8-4b41-aa2a-ef44721da297",
-      "season": 1,
-      "number": 5,
-      "name": "Skattequizzen",
-      "airdate": "2018-11-28"
-    },
-    {
       "id": "f538fc80-02e2-4b81-a8b2-6ad87b33a6d8",
       "season": 1,
       "number": 6,
@@ -496,5 +475,7 @@
       "name": "Kærlighed og katte-griller",
       "airdate": "2026-10-24"
     }
-  ]
+  ],
+  "description": "Det gælder om at gætte den rigtige værdi på forskellige genstande i denne svenske quiz.",
+  "image": "https://cdn-play.tv2i.dk/96037b86-2047-3028-b524-45fb3c4d1806.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2161&w=1280"
 }

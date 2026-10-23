@@ -2,9 +2,11 @@
   "id": "tv2play:ambulancen-liv-eller-doed-tv2",
   "name": "Ambulancen - liv eller død",
   "service": "tv2",
-  "status": "Running",
+  "status": "Unknown",
   "tmdbId": null,
-  "next": "2026-10-23",
+  "next": null,
+  "description": "Et indblik ind i hverdagen hos ambulancefolkene i Lancashire. Med 1,4 millioner indbyggere og op til 4000 nødopkald om dagen byder alle dage på nye og voldsomme udfordringer for holdet.",
+  "image": "https://cdn-play.tv2i.dk/1fe627a6-d196-37ec-9964-bfaf7619d336.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280",
   "episodes": [
     {
       "id": "03be9a4e-2d02-4c3a-9f9f-0b6385577912",
@@ -166,6 +168,13 @@
       "number": 5,
       "name": "Langt ude i skoven",
       "airdate": "2026-10-22"
+    },
+    {
+      "id": "405e5b30-8e05-47ce-912b-19fec526707b",
+      "season": 16,
+      "number": 6,
+      "name": "Hold mig tæt",
+      "airdate": "2026-10-23"
     }
   ]
 }

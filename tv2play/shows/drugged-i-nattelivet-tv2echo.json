@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:drugged-i-nattelivet-tv2echo",
+  "name": "Drugged i nattelivet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I Aalborg er der næsten én hver weekend, der bliver drugged, men det kan sjældent bevises. TV 2 Echo undersøger forbrydelsen 'drugging'. Hvorfor sker det? Hvem har ansvaret?",
+  "image": "https://cdn-play.tv2i.dk/077cfaf7-f327-4fb3-90ca-324f0e4f9ca3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f9877561-d914-48c6-b77b-ec5f431bb2f8",
+      "season": 1,
+      "number": 1,
+      "name": "Nattens ofre",
+      "airdate": "2023-05-30"
+    },
+    {
+      "id": "85576ca2-1866-462a-8df1-66bcfd44d18c",
+      "season": 1,
+      "number": 2,
+      "name": "Rent mel i posen?",
+      "airdate": "2023-05-30"
+    }
+  ]
+}

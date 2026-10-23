@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:brittas-store-svindelnummer-tv2",
+  "name": "Brittas store svindelnummer",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Britta Nielsen begik et af danmarkshistoriens mest spektakulære kup, da hun stjal 117 millioner kroner . Men hvordan kunne det lade sig gøre at stjæle fra landets svageste gennem 25 år uden at blive opdaget?",
+  "image": "https://cdn-play.tv2i.dk/91186e4c-e38e-449d-95f4-d63a4ce17af0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280",
+  "episodes": [
+    {
+      "id": "befeeb27-8c03-4c21-ad4d-15ecbc92bd44",
+      "season": 1,
+      "number": 1,
+      "name": "Afsløret",
+      "airdate": "2022-08-15"
+    },
+    {
+      "id": "bfdc36e8-0d59-440f-be55-478e3e3f87b4",
+      "season": 1,
+      "number": 2,
+      "name": "Flugten",
+      "airdate": "2022-08-22"
+    },
+    {
+      "id": "307e1b4a-cbfd-401c-b4d6-0aed35172f34",
+      "season": 1,
+      "number": 3,
+      "name": "Jagten",
+      "airdate": "2022-08-22"
+    },
+    {
+      "id": "58b6a43a-053d-47d3-89f1-ddfd19e1332e",
+      "season": 1,
+      "number": 4,
+      "name": "Fanget",
+      "airdate": "2022-08-29"
+    }
+  ]
+}

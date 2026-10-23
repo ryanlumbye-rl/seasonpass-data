@@ -1,0 +1,292 @@
+{
+  "id": "tv2play:teletubbies-tv2play",
+  "name": "Teletubbies",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fire små nuttede, farverige dukker med antenner på hovedederne og tv-skærme i maverne, et grønt og blomsterigt landskab, en venlig støvsuger og en smilende babysol. Det er hovedingredienserne i den britiske småbørnsserie Teletubbies.",
+  "image": "https://cdn-play.tv2i.dk/47081d02-cd73-40ef-b67a-52eceaee49dc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2162&w=1280",
+  "episodes": [
+    {
+      "id": "5502b058-dde0-4cd6-898d-98ed070eb8c7",
+      "season": 1,
+      "number": 1,
+      "name": "Gode venner",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "2251e493-4f46-4538-bc74-0509220ba003",
+      "season": 1,
+      "number": 2,
+      "name": "Vandekande",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "98a3b1aa-8339-414e-8073-8eb8ce36a061",
+      "season": 1,
+      "number": 3,
+      "name": "Op og ned",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "fbf429e8-f43a-423c-b293-1a77833ab027",
+      "season": 1,
+      "number": 4,
+      "name": "Yndlingsting",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "3b45eae1-cfe8-43ef-ab99-bed0db13919d",
+      "season": 1,
+      "number": 5,
+      "name": "Babyer",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "508f7d72-70ce-44a5-a25f-a868a71775d9",
+      "season": 1,
+      "number": 6,
+      "name": "Gemmeleg",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "e5956045-c5ad-4759-8cba-d951f23678b1",
+      "season": 1,
+      "number": 7,
+      "name": "Bobler",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "af7a3933-c14d-4ca6-962b-94f7d1df9e73",
+      "season": 1,
+      "number": 8,
+      "name": "Spilledåsen",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "30f5727d-a826-4eb0-b1e2-9bd5ea104d66",
+      "season": 1,
+      "number": 9,
+      "name": "Vandpytter",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "dd679d70-e786-4839-9e50-4017a652fad1",
+      "season": 1,
+      "number": 10,
+      "name": "Så står vi op!",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "a511dd11-f932-4b5f-b116-e8224ca6c8b8",
+      "season": 1,
+      "number": 11,
+      "name": "Blæsevejrsdag",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "426f1d91-b72e-4540-b8b3-0324c5ffe22d",
+      "season": 1,
+      "number": 12,
+      "name": "Bump!",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "bf789741-f72e-4f21-bc10-46c0ac7dd5dc",
+      "season": 1,
+      "number": 13,
+      "name": "Mudrede fodspor",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "2568b044-539d-44bc-88fe-76602f928401",
+      "season": 1,
+      "number": 14,
+      "name": "Hoppebold",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "07a36529-e5bf-40c3-85cb-5cd009f41ec3",
+      "season": 1,
+      "number": 15,
+      "name": "Rundt og rundt",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "b63a48a2-4075-4887-a1ca-a04cf74fc05a",
+      "season": 1,
+      "number": 16,
+      "name": "Nyt legetøj",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "c0537193-ba84-4db4-9577-c8a67f069526",
+      "season": 1,
+      "number": 17,
+      "name": "Syng en sang",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "5bd62869-2b9a-4b88-b0ed-8358fad1ef28",
+      "season": 1,
+      "number": 18,
+      "name": "Sjovt griseri",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "e5afdc72-0d2a-4a48-9cd9-4560e6121b5b",
+      "season": 1,
+      "number": 19,
+      "name": "Fjollegøj",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "40d0ce87-baf9-4904-87c1-8d27dd608501",
+      "season": 1,
+      "number": 20,
+      "name": "Rød",
+      "airdate": "2019-06-30"
+    },
+    {
+      "id": "bc8c8460-5594-4663-aa26-ebf2ea91527c",
+      "season": 2,
+      "number": 1,
+      "name": "Luk lågen",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "5ee69f4a-a16a-45f5-940a-18c04433e3f1",
+      "season": 2,
+      "number": 2,
+      "name": "Vognen",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "d7c1d1cc-b0d5-48f3-9070-4b92e07a64da",
+      "season": 2,
+      "number": 3,
+      "name": "Sig hej",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "4dfb7b80-a5ef-472c-8c23-ae6c3fb1c47b",
+      "season": 2,
+      "number": 4,
+      "name": "Picnic",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "daddfebe-2c91-486c-b686-c95684e4018e",
+      "season": 2,
+      "number": 5,
+      "name": "Dyt, båt",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "268bcf10-3d02-49a8-bbf8-cb2c7bd5e38d",
+      "season": 2,
+      "number": 6,
+      "name": "Ikke plads nok",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "7bf440b0-676b-423e-811c-167e9b9aa08c",
+      "season": 2,
+      "number": 7,
+      "name": "Kilde, kilde",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "e7ec50d8-de1a-4641-8c24-8ad0987c29b3",
+      "season": 2,
+      "number": 8,
+      "name": "Drejer",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "f8b7c0c1-a9cf-4167-9a92-a8805a8a1e94",
+      "season": 2,
+      "number": 9,
+      "name": "Kager og toastbrød",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "7a998829-ff48-4141-a8bd-d8e60d8143bc",
+      "season": 2,
+      "number": 10,
+      "name": "Hoppesjov",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "9bb86989-7fb7-4775-bee6-314d1ad58181",
+      "season": 2,
+      "number": 11,
+      "name": "Didgeridoo",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "44c4dc00-0d64-4615-a063-c617d0bcd94a",
+      "season": 2,
+      "number": 12,
+      "name": "Bamse",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "0074e85c-99f6-482d-869d-a2899daed264",
+      "season": 2,
+      "number": 13,
+      "name": "Rutsjetur",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "ffbab657-f463-4d07-967a-e8f6045c684e",
+      "season": 2,
+      "number": 14,
+      "name": "Puste",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "372baf2b-3289-4c36-8660-c17fdbccf4a0",
+      "season": 2,
+      "number": 15,
+      "name": "Grøntsager",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "c1392293-fca2-4d4d-a0e3-ecc1723bf584",
+      "season": 2,
+      "number": 16,
+      "name": "Baglæns og forlæns",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "352d4f59-16b4-43cf-872a-3007748da259",
+      "season": 2,
+      "number": 17,
+      "name": "Sengetid",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "8d0cf979-f411-4468-9a8c-d3272dedf03c",
+      "season": 2,
+      "number": 18,
+      "name": "Op ned, op ned",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "d050fadf-f127-4dda-9f02-39a5dda17808",
+      "season": 2,
+      "number": 19,
+      "name": "Gul",
+      "airdate": "2020-12-31"
+    },
+    {
+      "id": "64cd6886-6f41-4371-9899-620576b3c567",
+      "season": 2,
+      "number": 20,
+      "name": "Hurtigt langsomt, hurtigt langsomt",
+      "airdate": "2020-12-31"
+    }
+  ]
+}

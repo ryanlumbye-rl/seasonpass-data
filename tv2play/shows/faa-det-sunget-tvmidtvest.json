@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:faa-det-sunget-tvmidtvest",
+  "name": "Få det sunget",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Gennem musik hjælper Anders Bro en række midt- og vestjyder med at lette hjertet. Glæd dig til rørende scener, tør humor og masser af sang og musik",
+  "image": "https://cdn-play.tv2i.dk/0bb99526-3117-464e-afd0-c8a9e39d7f88.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "c9e39829-8b6c-4b70-825d-619ab1e83c76",
+      "season": 2,
+      "number": 1,
+      "name": "Ornestationens Sønner",
+      "airdate": "2024-11-15"
+    },
+    {
+      "id": "93330626-d9c4-4916-884e-954a7fd09095",
+      "season": 2,
+      "number": 2,
+      "name": "Alle burde have en Nicolai",
+      "airdate": "2024-11-22"
+    },
+    {
+      "id": "786c2d94-3aaf-4732-a291-94db6b269ad9",
+      "season": 2,
+      "number": 3,
+      "name": "Nu har jeg lidt af dig i mig",
+      "airdate": "2024-11-29"
+    },
+    {
+      "id": "1a8e8ad3-f3a5-4921-8724-eb0dce0e4b08",
+      "season": 2,
+      "number": 4,
+      "name": "Der en yndig Keld",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "9ae90cb3-3510-4dc9-b95b-99f2bdab2a54",
+      "season": 2,
+      "number": 5,
+      "name": "Hjælp, jeg har fået tvillinger",
+      "airdate": "2024-12-13"
+    }
+  ]
+}

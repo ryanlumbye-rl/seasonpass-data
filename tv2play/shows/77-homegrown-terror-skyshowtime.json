@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:77-homegrown-terror-skyshowtime",
+  "name": "7/7: Homegrown Terror",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": "https://cdn-play.tv2i.dk/7548c133-7869-4c6f-9657-9528c93bd29c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2923%2C1644&w=1280",
+  "episodes": [
+    {
+      "id": "8ea806f1-3ee6-48c7-90e5-a37ca0978adf",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-08-03"
+    },
+    {
+      "id": "a688127a-7844-40ab-b46d-59b81b4adc07",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-08-03"
+    },
+    {
+      "id": "38469617-bc64-4194-a922-640004ab902b",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-08-03"
+    }
+  ]
+}

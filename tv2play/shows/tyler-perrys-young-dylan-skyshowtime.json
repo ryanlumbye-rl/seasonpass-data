@@ -1,0 +1,369 @@
+{
+  "id": "tv2play:tyler-perrys-young-dylan-skyshowtime",
+  "name": "Tyler Perry's Young Dylan",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dylans bedstemor beslutter, at han skal bo hos hendes velstående søns familie. Familiens hjem bliver snart vendt helt på hovedet af Dylans livstil som spirende hiphop-stjerne.",
+  "image": "https://cdn-play.tv2i.dk/f3c66c3a-b138-4d34-922b-dee56629b07d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8bf81e4d-5694-4870-b3a2-a2a34fa1d769",
+      "season": 1,
+      "number": 8,
+      "name": "Gået for vidt",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "257a6cc8-9377-4e4e-b42b-c771fecee554",
+      "season": 1,
+      "number": 11,
+      "name": "Naturlig skønhed",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "284b1e96-296f-46ab-b879-b81ec6e95b85",
+      "season": 2,
+      "number": 6,
+      "name": "Rytmepartnere",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "dfc0a1ee-3c85-4579-82f3-41ba4152c021",
+      "season": 2,
+      "number": 7,
+      "name": "Storstilet kup",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c30eb233-f675-4ba6-9a81-175b59a86bdc",
+      "season": 2,
+      "number": 11,
+      "name": "Charlie den slemme dreng",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "442f50bf-7d70-449a-bf39-c869c1e52580",
+      "season": 2,
+      "number": 13,
+      "name": "Så meget at lære",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "d32e8ac0-1260-4d3e-9754-71bec9b39bb8",
+      "season": 2,
+      "number": 17,
+      "name": "Stikkere bliver stukket",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a7753df1-4b65-42e9-854c-94b2c86a9d3b",
+      "season": 3,
+      "number": 3,
+      "name": "Sådan fanger man en svindler",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "4fc74bc2-c1e9-46ee-96a1-dd0b8f25996e",
+      "season": 3,
+      "number": 5,
+      "name": "Gang i gangen",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "bac0ca3e-119e-46c8-8e13-2e7a363b9b57",
+      "season": 3,
+      "number": 9,
+      "name": "Juneteenth-paraden",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "7af6810a-7e76-49cd-a689-0c732de5ee40",
+      "season": 3,
+      "number": 10,
+      "name": "Chi-slænget",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "446a4d7e-9a96-40c5-a43e-a078a360e637",
+      "season": 3,
+      "number": 11,
+      "name": "Virkeligheden slår hårdt",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "3837e9d5-ece3-427e-b48c-48e9229ab3bd",
+      "season": 3,
+      "number": 12,
+      "name": "Skolefest og sabotage",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "bd7d8f66-c4bb-4d86-9969-399c3a598578",
+      "season": 3,
+      "number": 13,
+      "name": "De forbandede vers",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "c481e6f1-f058-4a3b-bab8-aab790fb0e9c",
+      "season": 3,
+      "number": 14,
+      "name": "Rektor lyseslukker",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "c3682520-904e-46f2-bd46-b784951ccbd8",
+      "season": 3,
+      "number": 15,
+      "name": "Kære dagbog...",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "cee3046a-08f0-41ee-b744-6f9123f8cf27",
+      "season": 3,
+      "number": 16,
+      "name": "Det er mig, der bestemmer her",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "cb99cd78-e689-4e79-a88e-2148e86f1e1e",
+      "season": 3,
+      "number": 17,
+      "name": "The GOAT",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "9e24e719-663b-448d-b27f-c7711e0394d8",
+      "season": 3,
+      "number": 18,
+      "name": "Dylans ærkefjende",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "ee8f041a-6104-4568-afae-e525baf26f44",
+      "season": 3,
+      "number": 19,
+      "name": "Renæssance-Manden",
+      "airdate": "2023-09-29"
+    },
+    {
+      "id": "7539253f-d594-44ae-97a4-6fc56e0f6d06",
+      "season": 3,
+      "number": 20,
+      "name": "Som en kakerlak mellem to negle",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "0edb9953-af39-4a1f-a5be-63f3cddb7460",
+      "season": 4,
+      "number": 1,
+      "name": "Byg det, og de vil strømme til",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "27993ae0-3854-4b12-9068-605ae235296c",
+      "season": 4,
+      "number": 2,
+      "name": "En meget varevognet jul",
+      "airdate": "2025-03-23"
+    },
+    {
+      "id": "1b73f484-0621-4bab-a298-ef0b3d43535d",
+      "season": 4,
+      "number": 3,
+      "name": "Ingen camping, intet problem",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "b083de7b-6a4a-465f-85e2-827795335212",
+      "season": 4,
+      "number": 4,
+      "name": "Wilson mod Wilson",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "a5a6855d-7958-4600-8087-d8e67b827407",
+      "season": 4,
+      "number": 5,
+      "name": "Kunstig intelligens",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "f3a89ada-afee-46cb-9a75-3e191c7e7485",
+      "season": 4,
+      "number": 6,
+      "name": "Så frisk og ren",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "42c3bf18-8ea5-4c71-a1a1-90a3e350cce6",
+      "season": 4,
+      "number": 7,
+      "name": "Danser med sønnerne",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "05db88e2-ad6f-4341-a2f7-6e49807b8f80",
+      "season": 4,
+      "number": 8,
+      "name": "Bedste venner for aldrig",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "dd5b2ffa-5674-4b18-b670-d5f17d5a87fb",
+      "season": 4,
+      "number": 9,
+      "name": "Billedskøn",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "dad7f0bb-7374-428f-9a81-d8be1fb5230c",
+      "season": 4,
+      "number": 11,
+      "name": "Modeladfærd",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "6307371d-938c-4967-af96-5099f23dc2c1",
+      "season": 4,
+      "number": 12,
+      "name": "Stærke sager",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "7fd50806-b988-40c8-9db5-397d5b644f55",
+      "season": 4,
+      "number": 13,
+      "name": "Mandehule",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "6eab5727-0127-48a5-866c-55adc3626270",
+      "season": 4,
+      "number": 14,
+      "name": "Hva' popper?",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "e0eb0ba5-ba65-44be-baa3-fe86e47e424b",
+      "season": 4,
+      "number": 15,
+      "name": "Familien Wilson",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "fcbbbf90-d5e8-401f-9c81-b1681ee91904",
+      "season": 4,
+      "number": 16,
+      "name": "Sleepover-opgøret",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "8b8fa316-68e3-4df7-b33f-384ee3ca983f",
+      "season": 4,
+      "number": 17,
+      "name": "Virale problemer",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "d62109f7-ed34-4f13-b829-d752c16d5886",
+      "season": 4,
+      "number": 18,
+      "name": "Rim det, og de vil komme",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "eef83028-4b14-4395-b334-7a14bfec4191",
+      "season": 5,
+      "number": 1,
+      "name": "Tæppekampen",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "ebb6f9fa-eb9a-4288-ae2f-bfcad57adc8d",
+      "season": 5,
+      "number": 2,
+      "name": "Det er omsorg at dele",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "ccb3cb00-7921-4b1d-bc7f-7b8cd7133d52",
+      "season": 5,
+      "number": 3,
+      "name": "Din, min og også min",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "a72c8c0a-5e34-420f-881f-cdc43ce28776",
+      "season": 5,
+      "number": 4,
+      "name": "Virkelig unge Nova",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "2bb86b2e-6a09-48f7-901c-67c89f3046c0",
+      "season": 5,
+      "number": 5,
+      "name": "Spil på Booder",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "95dc3df5-37f8-4efd-949b-bc540a0b099a",
+      "season": 5,
+      "number": 6,
+      "name": "Røde haler",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "ab1868ec-65ff-4de4-9de1-6a383d2cf6ca",
+      "season": 5,
+      "number": 7,
+      "name": "På tur",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "d54b6ff9-c083-4966-a190-e5f4d31480f4",
+      "season": 5,
+      "number": 8,
+      "name": "Den nye elev",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "32ca0731-67be-4c28-b1ad-3789a652c794",
+      "season": 5,
+      "number": 9,
+      "name": "Forbandede skabe",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "45f5c159-c886-49f0-b2ed-3e2f900a629b",
+      "season": 5,
+      "number": 10,
+      "name": "Hold det hemmeligt",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "93257cf6-c73a-409c-943f-9e73b3f18882",
+      "season": 5,
+      "number": 11,
+      "name": "Drømmeholdet",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "191818e7-021f-4178-a3ce-d30cd4d3f02f",
+      "season": 5,
+      "number": 12,
+      "name": "Onkel",
+      "airdate": "2026-04-25"
+    },
+    {
+      "id": "8667685c-5870-433e-9059-02a8f027524d",
+      "season": 5,
+      "number": 13,
+      "name": "Dobbeltdate",
+      "airdate": "2026-04-25"
+    }
+  ]
+}

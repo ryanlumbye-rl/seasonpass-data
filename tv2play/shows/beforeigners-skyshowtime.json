@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:beforeigners-skyshowtime",
+  "name": "Beforeigners",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I Norges nærmeste fremtid, hvor mystiske lys sammenfalder med den uforklarlige opståen af mennesker fra flere epoker fra fortiden, skal det lokale Oslo-politi undersøge forbrydelser og afdække sandheden bag alt",
+  "image": "https://cdn-play.tv2i.dk/480ef46a-89ed-45ff-b0bd-54f5ca0c6d19.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0c15b2d1-1710-4cce-8975-3d3bf3ade87a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "c034bfce-d490-48d7-8649-5773e0ea2501",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "b40e12fa-2fad-4729-bab0-0119556bef74",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "3866f280-f820-40ce-a62a-6f62556b5ea2",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "35199966-679b-464a-8a72-cd741d98f551",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-22"
+    },
+    {
+      "id": "75390b82-139b-45a7-93dd-e67cd2394ba9",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-29"
+    },
+    {
+      "id": "9eb2c706-1b7a-4606-8df7-3bb1ba725ef9",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "8b16f78b-35f4-485f-9651-7aee5bf42fc0",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-06-12"
+    },
+    {
+      "id": "ccbc3132-89dd-411f-8d8a-a0a4b428e79b",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-06-19"
+    },
+    {
+      "id": "85046728-591b-4b9f-b3fd-03971a6963b3",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-06-26"
+    },
+    {
+      "id": "169234b6-0f4a-4b06-8c1c-65c621f48781",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-07-03"
+    },
+    {
+      "id": "ea524f35-cfa0-4d6f-8d9e-7cd02de1db0f",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-07-10"
+    }
+  ]
+}

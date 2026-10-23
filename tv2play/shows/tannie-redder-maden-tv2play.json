@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:tannie-redder-maden-tv2play",
+  "name": "Tannie redder maden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tannie har viet sit liv til at indsamle overskudsmad og uddele den til dem, der har svært ved at få pengene til at række.",
+  "image": "https://cdn-play.tv2i.dk/8aeccba7-17aa-4db1-a143-a316aff9b408.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c52b7eff-7f35-4ed4-ba86-670b47795c1e",
+      "season": 1,
+      "number": 1,
+      "name": "Madkøen vokser",
+      "airdate": "2026-05-13"
+    },
+    {
+      "id": "cf5305d6-9143-4aa2-b404-a306eb9c9936",
+      "season": 1,
+      "number": 2,
+      "name": "Tannies hårde fortid",
+      "airdate": "2026-05-13"
+    },
+    {
+      "id": "448e6a23-aa54-482c-8ac7-4c15fa243e82",
+      "season": 1,
+      "number": 3,
+      "name": "Hjælp til de svageste",
+      "airdate": "2026-05-20"
+    },
+    {
+      "id": "e6358367-75fa-44b7-ac13-b3d2caaf7902",
+      "season": 1,
+      "number": 4,
+      "name": "Tannie og Trine på tur",
+      "airdate": "2026-05-27"
+    },
+    {
+      "id": "3bee9759-9659-4f6b-80c5-620b1b656ebf",
+      "season": 1,
+      "number": 5,
+      "name": "Lad børnene komme til os",
+      "airdate": "2026-06-03"
+    },
+    {
+      "id": "495a2443-db3a-45c1-bc3a-fdd9e5b643cb",
+      "season": 1,
+      "number": 6,
+      "name": "Hurra for de frivillige",
+      "airdate": "2026-06-10"
+    }
+  ]
+}

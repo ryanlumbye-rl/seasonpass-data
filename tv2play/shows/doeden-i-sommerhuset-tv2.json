@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:doeden-i-sommerhuset-tv2",
+  "name": "Døden i sommerhuset",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I den rolige ferieby Nørre Nebel i Vestjylland nyder ægteparret Donald og Paula et par feriedage. Men idyllen krakelerer, da Donald vågner om morgenen og finder Paula død i swimmingpoolen. Men døde Paula ved at uheld, eller var det drab? Og hvem er Donald i virkeligheden?",
+  "image": "https://cdn-play.tv2i.dk/0bcceb57-e605-44c3-8e45-fbb590fedf05.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "966f954c-f1bd-4795-b320-0591d1e4aed8",
+      "season": 1,
+      "number": 1,
+      "name": "Var det mord?",
+      "airdate": "2025-06-30"
+    },
+    {
+      "id": "0348b17b-72a2-4a5f-9be2-edb5d0210ef2",
+      "season": 1,
+      "number": 2,
+      "name": "Hvem er Donald?",
+      "airdate": "2025-07-09"
+    }
+  ]
+}

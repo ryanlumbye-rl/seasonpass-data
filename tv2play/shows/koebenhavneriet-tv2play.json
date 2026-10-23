@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:koebenhavneriet-tv2play",
+  "name": "Københavneriet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hver uge inviterer Mads Bager Ganderup til en samtale om dilemmaer i den del af landet, hvor alting er i risiko for at blive stemplet som københavneri. Han møder gæster med personlige historier og erfaringer, der måske kan få dig til at se livet i hovedstaden med nye øjne.",
+  "image": "https://cdn-play.tv2i.dk/5fa4bd74-3350-3d01-8f7d-7727f78ab04f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "839f53c0-7d1a-482c-8f18-58d8dd86d787",
+      "season": 1,
+      "number": 1,
+      "name": "Forkert stilhed – med Cecilie Rubini",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "4e7ff888-f6a0-40e4-86fe-ec4e4b8b7654",
+      "season": 1,
+      "number": 2,
+      "name": "Syg sundhed – med Sophie Birch",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "adafbf37-c1d3-476a-abed-705cde6e65cb",
+      "season": 1,
+      "number": 3,
+      "name": "Ejendomsmæglerens overraskelse – med Adam Schnack",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "5d7dcf69-b2bf-4b3b-bc64-cfc22534295b",
+      "season": 1,
+      "number": 4,
+      "name": "København er en snobbet bitch - med Laura Ringo",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "cb8f61f6-ea31-413b-9776-3703b39f6cdf",
+      "season": 1,
+      "number": 5,
+      "name": "Kig dog op - med Bastian Emil Goldschmidt",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "521b8da8-9ac0-4cd9-89da-6e591a861848",
+      "season": 1,
+      "number": 6,
+      "name": "Kedelige København - med Rasmus Storm",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "e07f6139-5e99-4493-b0b7-ffb73cd912cd",
+      "season": 1,
+      "number": 7,
+      "name": "Opråb fra børneværelset – med Cecilie Nørgaard",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "f8cc1c4c-7f8a-4369-9d39-eb10127eda6f",
+      "season": 1,
+      "number": 8,
+      "name": "Københavns motivpoliti - med Caroline Lautrup-Larsen",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "17a7bee3-c2b6-4b0b-a002-8113ae6b10b6",
+      "season": 1,
+      "number": 9,
+      "name": "Den københavnske kædeepidemi - med The Food Fetichist",
+      "airdate": "2026-10-22"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:vip-og-victor-tv2play",
+  "name": "Vip og Victor",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Midt i storbyen bor Victor - en ret almindelig syvårig dreng med en livlig fantasi. Victor har for nyligt fået en lillesøster, og eftersom hun skal have hans værelse, får han i stedet et værelse på loftet - og sit helt eget badeværelse. En dag modtager Victor en mystisk stor pakke. Han bliver helt vild, for det er garanteret den bil, han har ønsket sig. Det er det nu ikke! Pakken viser sig at indeholde hundehvalpen Vip - og den kan tale.",
+  "image": "https://cdn-play.tv2i.dk/310123a2-8e37-4d50-9225-363b62488da9.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "6b8f4bd8-4fde-4f7e-97a9-0d047dbd2a2e",
+      "season": 1,
+      "number": 1,
+      "name": "En mystisk pakke",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "29360d6a-7b80-4a63-b9fb-ed62445bfcb5",
+      "season": 1,
+      "number": 2,
+      "name": "Halsbetændelse og vaniljeis",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "753a7508-dee9-44ff-893d-f5120581e4a0",
+      "season": 1,
+      "number": 3,
+      "name": "Magiske Viktor",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "b5eecb20-4991-4183-9b2e-6ca49dacbb6c",
+      "season": 1,
+      "number": 4,
+      "name": "Spøgelser",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "79aeb069-37b1-4e5d-a5f9-a00d079abdf2",
+      "season": 1,
+      "number": 5,
+      "name": "Skattejagten",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "4be33ee2-32dd-411a-8b4b-371359267d61",
+      "season": 1,
+      "number": 6,
+      "name": "Ubåden",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "2066ccf0-8a49-498d-a4e5-7cf021b8da7a",
+      "season": 1,
+      "number": 7,
+      "name": "Loppemarked",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "46bf5544-66ae-49e4-9c75-0590b92abf2c",
+      "season": 1,
+      "number": 8,
+      "name": "Natterend",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "ae61d8b3-6014-45a4-8cd5-ce66fce4143b",
+      "season": 1,
+      "number": 9,
+      "name": "Kærlighed og kildevand",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "d22b9a4e-443e-49aa-ba4e-7740842e6f85",
+      "season": 1,
+      "number": 10,
+      "name": "Skattejagt",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "f0a85fdb-b54e-48eb-814c-4464b955636d",
+      "season": 1,
+      "number": 11,
+      "name": "Spøgelser",
+      "airdate": "2017-02-16"
+    },
+    {
+      "id": "493dcc08-634d-4960-98ef-3b4c620cb502",
+      "season": 1,
+      "number": 12,
+      "name": "Sliktyven",
+      "airdate": "2017-02-16"
+    }
+  ]
+}

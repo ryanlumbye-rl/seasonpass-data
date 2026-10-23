@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:eks-rockeren-og-de-loesladte-fanger-tv2",
+  "name": "Eks-rockeren og de løsladte fanger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Igennem fire afsnit følger vi Nikolaj, Mads og Anders' kamp for at bryde ud af den kriminelle løbebane, efter de bliver løsladt fra fængslet. Til at hjælpe dem står Rolf Eggert, der selv har siddet bag tremmer, men i dag lever et normalt liv.",
+  "image": "https://cdn-play.tv2i.dk/8c96ef66-9a27-4a89-81e3-a00f8c4988b6.png?auto=format%2Ccompress&fm=webp&rect=19%2C0%2C3802%2C2138&w=1280",
+  "episodes": [
+    {
+      "id": "996df8de-ae21-4479-82a8-71767c3e9316",
+      "season": 1,
+      "number": 1,
+      "name": "Friheden truer",
+      "airdate": "2023-05-31"
+    },
+    {
+      "id": "c1698ebf-bcd0-4fe3-b826-2878b70199e2",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad er planen?",
+      "airdate": "2023-05-31"
+    },
+    {
+      "id": "6b15dec1-c265-4208-969d-e7fc9ae90c93",
+      "season": 1,
+      "number": 3,
+      "name": "Indhentet af fortiden",
+      "airdate": "2023-06-07"
+    },
+    {
+      "id": "3edda14e-8b9b-4bb6-b899-1a03e9f93537",
+      "season": 1,
+      "number": 4,
+      "name": "Roden til det onde",
+      "airdate": "2023-06-14"
+    }
+  ]
+}

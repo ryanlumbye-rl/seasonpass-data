@@ -1,0 +1,173 @@
+{
+  "id": "tv2play:politiet-taet-paa-tv2echo",
+  "name": "Politiet tæt på",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom helt tæt på, når betjente åbner dørene til Lincolnshires travleste politistation. Serien giver et unikt indblik i alt fra varetægtsafdelingen og patruljeenheder til kontrolrummet og efterforskningsteamet.",
+  "image": "https://cdn-play.tv2i.dk/63a1d3d2-7394-475e-9034-6170a954031b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8f448771-9d50-4b0d-a1e1-c72ba1991561",
+      "season": 1,
+      "number": 1,
+      "name": "Uro i varetægten",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "35da2e97-9ccc-4e77-ad94-cf5173ab4c82",
+      "season": 1,
+      "number": 2,
+      "name": "En voldelig nat",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "6639c79c-d51d-427d-9f92-a1ef651fd8e0",
+      "season": 1,
+      "number": 3,
+      "name": "Tiden er afgørende",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "5eec9432-da66-4b21-9b7d-0041d9166b47",
+      "season": 1,
+      "number": 4,
+      "name": "Knivtrussel og kaos",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "67781d92-cb8d-4773-9322-bb3849de3865",
+      "season": 2,
+      "number": 1,
+      "name": "Slagsmål og sammenstød",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "46bba10c-ff19-4b9d-ab1c-5e6345d586f2",
+      "season": 2,
+      "number": 2,
+      "name": "Fodbold og fulde fans",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "2971e348-8da5-4f50-89a8-f69df2c072a7",
+      "season": 2,
+      "number": 3,
+      "name": "Fanget på overvågning",
+      "airdate": "2025-12-04"
+    },
+    {
+      "id": "18a1cc9f-7139-4497-8824-97cff664f722",
+      "season": 2,
+      "number": 4,
+      "name": "Psykisk sårbarhed",
+      "airdate": "2025-12-04"
+    },
+    {
+      "id": "8574aaf1-c455-4e68-a8e7-bd7207a5c9c1",
+      "season": 2,
+      "number": 5,
+      "name": "Akut assistance",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "a8ae4108-afbc-4913-99e6-47823d875013",
+      "season": 2,
+      "number": 6,
+      "name": "Brand og beskyldninger",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "8067a471-2d42-480c-b794-9f449708f224",
+      "season": 2,
+      "number": 7,
+      "name": "Patrulje under pres",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "bd5cc0e2-1e0f-4d65-8baa-44d989e1d227",
+      "season": 2,
+      "number": 8,
+      "name": "På jagt",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "11652ad2-0e91-4b7f-9321-dab36144bc9d",
+      "season": 3,
+      "number": 1,
+      "name": "Nabostridigheder",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "09c99921-ed27-4c43-9396-7da94bb0ddf1",
+      "season": 3,
+      "number": 2,
+      "name": "Overfald på politiet",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "9661e210-05cd-4c54-8ef7-5387647e2193",
+      "season": 3,
+      "number": 3,
+      "name": "Psykisk sygdom",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "8ed34620-0496-4700-ab67-6b53b6722adc",
+      "season": 3,
+      "number": 4,
+      "name": "Våben",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "91c59df9-89f2-40ad-847e-eb55fa9ee842",
+      "season": 3,
+      "number": 5,
+      "name": "Nattelivet",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "15cc118a-0089-40fe-b805-7ee94938194f",
+      "season": 3,
+      "number": 6,
+      "name": "Stofmisbrug",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "15cf0644-b50c-412e-8759-6bd89e63e954",
+      "season": 3,
+      "number": 7,
+      "name": "Partnervold",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "b919d9c3-3d8c-4b5f-b043-58f91bbeb20c",
+      "season": 3,
+      "number": 8,
+      "name": "Slagsmål",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "93bce9f8-c155-4868-8076-c703f34c758e",
+      "season": 3,
+      "number": 9,
+      "name": "Indbrud og tyveri",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "cfa2e85b-409a-4043-9c88-a9df9a875979",
+      "season": 3,
+      "number": 10,
+      "name": "Kendt gerningsmand",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "14c5912e-8a65-4bc4-a5fe-75f9a169fc68",
+      "season": 3,
+      "number": 11,
+      "name": "Taget på fersk gerning",
+      "airdate": "2025-12-16"
+    }
+  ]
+}

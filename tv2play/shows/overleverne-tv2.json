@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:overleverne-tv2",
+  "name": "Overleverne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Varm og humoristisk dramaserie om at gribe livet efter at have set døden i øjnene. Med blandt andre Kirsten Lehfeldt, Jacob Lohmann og Ole Lemmeke.",
+  "image": "https://cdn-play.tv2i.dk/1a9fda75-4662-4ee0-8a51-94325c649035.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "b722576b-c686-443d-ba74-fd4982417199",
+      "season": 1,
+      "number": 1,
+      "name": "Alle i samme båd",
+      "airdate": "2021-10-25"
+    },
+    {
+      "id": "49de9fa5-2640-4542-9002-3bd78375fc5e",
+      "season": 1,
+      "number": 2,
+      "name": "Langt ude i skoven",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "86938749-9e43-4451-a277-7acab8b30503",
+      "season": 1,
+      "number": 3,
+      "name": "Kommando hop",
+      "airdate": "2021-11-14"
+    },
+    {
+      "id": "2c8f6557-3daf-4703-931b-445dfce0304f",
+      "season": 1,
+      "number": 4,
+      "name": "De nærmeste",
+      "airdate": "2021-11-15"
+    },
+    {
+      "id": "25d30c2d-81ac-4426-8739-d381413a12b2",
+      "season": 1,
+      "number": 5,
+      "name": "Tømmerflåden",
+      "airdate": "2021-11-14"
+    },
+    {
+      "id": "f6592f10-db96-45cd-b04f-3e70fcfc14bf",
+      "season": 1,
+      "number": 6,
+      "name": "En Gammel Dansk og en giffel",
+      "airdate": "2021-11-29"
+    }
+  ]
+}

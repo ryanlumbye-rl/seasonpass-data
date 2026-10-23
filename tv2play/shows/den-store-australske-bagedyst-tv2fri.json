@@ -5,16 +5,11 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Den ultimative køkkenkamp bryder ud i den australske udgave af det populære program, når 10 deltagere skal vise deres talenter udi bagekunsten.",
+  "image": "https://cdn-play.tv2i.dk/fcaaf532-8fd8-4ed4-a7a5-eb62716acfc2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "3b1ab092-4a30-4f17-a292-43dabc578f00",
-      "season": 6,
-      "number": 1,
-      "name": "Klar, parat - og velkommen!",
-      "airdate": "2024-07-28"
-    },
-    {
-      "id": "fe6c084e-1363-4e4f-8956-d0fcb417389c",
       "season": 6,
       "number": 1,
       "name": "Klar, parat - og velkommen!",

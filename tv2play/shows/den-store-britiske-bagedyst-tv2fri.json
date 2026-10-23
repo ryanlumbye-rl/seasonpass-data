@@ -5,16 +5,11 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "12 nye talenter står igen klar til at vise dommerne, hvad de duer til, når de går i krig med kager, kiks og andre lækkerier.",
+  "image": "https://cdn-play.tv2i.dk/df38692e-45a4-3246-83ae-86838237c2e5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
   "episodes": [
     {
       "id": "88067ac5-fb13-4489-afbb-84794aa61a8e",
-      "season": 8,
-      "number": 1,
-      "name": "Kager",
-      "airdate": "2018-07-01"
-    },
-    {
-      "id": "59c8cdb2-6e40-4e7c-9b0f-7a13429231de",
       "season": 8,
       "number": 1,
       "name": "Kager",
@@ -54,6 +49,13 @@
       "number": 6,
       "name": "Dej på flere faconer",
       "airdate": "2018-07-29"
+    },
+    {
+      "id": "3060c063-be89-4d32-aaae-010d99b431bd",
+      "season": 8,
+      "number": 8,
+      "name": "\"Glemt\" bagværk",
+      "airdate": "2018-08-12"
     },
     {
       "id": "3811012c-49c1-4fa4-9f5b-72a812d2fe00",
@@ -96,13 +98,6 @@
       "number": 6,
       "name": "Konkurrencen spidser til!",
       "airdate": "2019-04-02"
-    },
-    {
-      "id": "0724c4db-64e0-4328-9c17-e2037ec0aec0",
-      "season": 9,
-      "number": 7,
-      "name": "Vegansk bagværk",
-      "airdate": "2019-04-03"
     },
     {
       "id": "1292c0c3-776b-403f-850a-7811b592a838",
@@ -411,6 +406,13 @@
       "number": 3,
       "name": "Brød",
       "airdate": "2026-10-16"
+    },
+    {
+      "id": "69468f35-880e-448e-aa66-abaf69beb09e",
+      "season": 16,
+      "number": 4,
+      "name": "På skolebænken",
+      "airdate": "2026-10-23"
     }
   ]
 }

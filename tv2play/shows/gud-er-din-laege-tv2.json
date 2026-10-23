@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:gud-er-din-laege-tv2",
+  "name": "Gud er din læge",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Anette Bøtter tog sit eget liv efter en indlæggelse på en psykiatrisk afdeling. Familien undersøger nu, hvem hun var i kontakt med i den sidste tid, herunder en religiøs gruppe og en læge, der også er præst.",
+  "image": "https://cdn-play.tv2i.dk/dd4f1026-0741-4f28-96d9-be09442b311b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a68f0dd3-d1e1-4694-8689-91a3febdb7bc",
+      "season": 1,
+      "number": 1,
+      "name": "Der sad en dæmon på hendes skulder",
+      "airdate": "2024-11-20"
+    },
+    {
+      "id": "50461aac-c7a6-41ac-a005-c72bfbdf95d2",
+      "season": 1,
+      "number": 2,
+      "name": "Fri os fra det onde",
+      "airdate": "2024-11-20"
+    }
+  ]
+}

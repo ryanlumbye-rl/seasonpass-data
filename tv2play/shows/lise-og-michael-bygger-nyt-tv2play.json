@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:lise-og-michael-bygger-nyt-tv2play",
+  "name": "Lise og Michael bygger nyt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tre år efter 'Nybyggerne' har Lise og Michael nye boligdrømme. Følg med dem og sønnen Villy til Nordjylland, hvor en stor udfordring venter i den vilde natur.",
+  "image": "https://cdn-play.tv2i.dk/3a36d72a-8f5c-44a9-8fce-bdbca29429ad.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "65db7c94-0745-4f68-808c-7b76dece8104",
+      "season": 1,
+      "number": 1,
+      "name": "Nybygger-huset til salg",
+      "airdate": "2019-12-14"
+    },
+    {
+      "id": "44ed3e27-dab6-433d-9c2d-2909e19b83a7",
+      "season": 1,
+      "number": 2,
+      "name": "Den store forsinkelse",
+      "airdate": "2019-12-14"
+    },
+    {
+      "id": "b6f45fc9-f20b-4033-8413-0032c7623eb1",
+      "season": 1,
+      "number": 3,
+      "name": "Livet i en skurvogn",
+      "airdate": "2019-12-21"
+    },
+    {
+      "id": "31fe8551-4a17-4df9-aed1-831bc770e7f2",
+      "season": 1,
+      "number": 4,
+      "name": "En brækket fod",
+      "airdate": "2019-12-21"
+    },
+    {
+      "id": "6e0cbf2d-0641-48fb-be59-eff59390f57f",
+      "season": 1,
+      "number": 5,
+      "name": "Tid til indretning",
+      "airdate": "2019-12-28"
+    },
+    {
+      "id": "2a1a9540-9438-43f1-a9f9-c15fa36bbb74",
+      "season": 1,
+      "number": 6,
+      "name": "Drømmen om et køkken",
+      "airdate": "2019-12-28"
+    }
+  ]
+}

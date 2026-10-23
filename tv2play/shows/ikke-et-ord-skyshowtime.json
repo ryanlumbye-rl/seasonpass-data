@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:ikke-et-ord-skyshowtime",
+  "name": "Ikke et ord",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I den lille provinsby Vesterløv dufter der normalt af kernefamilie og hverdagsliv, men det ændrer sig pludseligt da en ung bryder bliver fundet dræbt i en skov. Brydertræneren Lars og Charlottes allerede vaklende ægteskab bliver sat voldsomt på prøve, da Lars bliver varetægtsfængslet for mordet. .",
+  "image": "https://cdn-play.tv2i.dk/d4151973-f456-4aa6-9f84-92086c2b1bb6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6700b61c-02af-4d3d-8472-2a1112a86d03",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2024-10-10"
+    },
+    {
+      "id": "444ecd6a-d89f-4011-a5d3-d3cc78fda6c0",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2024-10-10"
+    },
+    {
+      "id": "144a10e9-533e-4d8e-abe7-f36bbdaca8f6",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2024-10-17"
+    },
+    {
+      "id": "934946be-b023-486a-8ed9-1644e385280b",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2024-10-17"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:drift-partners-in-crime-skyshowtime",
+  "name": "Drift - Partners in Crime",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Brødrene Ali og Leo Zeller bekæmper begge kriminalitet som politi, men er fremmedgjorte på grund af tidligere tragedier. Da Ali får skylden for en dødelig bilulykke, genforenes brødrene for at bevise hans uskyld og afsløre en dybere sammensværgelse.",
+  "image": "https://cdn-play.tv2i.dk/b42afb52-9410-4b96-b2e0-eaed0cffa384.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "200f8624-3e0d-4e8d-9ad0-235ecb7943a6",
+      "season": 1,
+      "number": 1,
+      "name": "Collapse",
+      "airdate": "2023-04-25"
+    },
+    {
+      "id": "4c671355-07d1-4ada-952f-0fb61c0fc8b5",
+      "season": 1,
+      "number": 2,
+      "name": "Brothers",
+      "airdate": "2023-04-25"
+    },
+    {
+      "id": "f0ed650b-506c-4aa0-94ab-9df66bf6782b",
+      "season": 1,
+      "number": 4,
+      "name": "Network",
+      "airdate": "2023-04-25"
+    },
+    {
+      "id": "95fc6c21-6db9-422b-a33a-ad568a622969",
+      "season": 1,
+      "number": 5,
+      "name": "Octavian",
+      "airdate": "2023-04-25"
+    },
+    {
+      "id": "2c11a690-7b06-49e5-8696-d3d73b52a9af",
+      "season": 2,
+      "number": 1,
+      "name": "Fire at Will",
+      "airdate": "2023-11-14"
+    },
+    {
+      "id": "9c813406-d784-4ae1-bcfb-f6d08560e9c5",
+      "season": 2,
+      "number": 2,
+      "name": "Red Lines",
+      "airdate": "2023-11-14"
+    },
+    {
+      "id": "1eb26399-e2b7-4c67-8293-c26215c7532f",
+      "season": 2,
+      "number": 3,
+      "name": "Edda's Revenge",
+      "airdate": "2023-11-14"
+    },
+    {
+      "id": "3973a418-74d2-461a-ae8a-2cb511b9baf4",
+      "season": 2,
+      "number": 4,
+      "name": "Devil’s Advocate - Del 1",
+      "airdate": "2023-11-14"
+    },
+    {
+      "id": "e03f3116-e960-41cb-a2f0-fac0d2b4c571",
+      "season": 2,
+      "number": 5,
+      "name": "Devil’s Advocate - Del 2",
+      "airdate": "2023-11-14"
+    }
+  ]
+}

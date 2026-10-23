@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:pigen-der-fangede-en-morder-tv2play",
+  "name": "Pigen der fangede en morder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Som syvårig overlevede Rachael Watts et brutalt overfald og hjalp med at fange sin gerningsmand. Hendes mod afslørede et rystende justitsmord og førte til en historisk retssag. Nu, 35 år senere, fortæller hun sin historie - og hvordan hun stoppede en morder i tide.",
+  "image": "https://cdn-play.tv2i.dk/c60ee92d-977a-4f95-a026-f60cbf108648.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e71a63bb-31b2-485d-ba01-e45bb0913459",
+      "season": 1,
+      "number": 1,
+      "name": "Går en morder frit rundt?",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "baec614b-5527-457b-b7d4-438bcf013d9c",
+      "season": 1,
+      "number": 2,
+      "name": "Bag tremmer",
+      "airdate": "2025-11-24"
+    }
+  ]
+}

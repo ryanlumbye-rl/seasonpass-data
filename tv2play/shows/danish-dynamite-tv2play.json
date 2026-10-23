@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Nu kan du se noget så originalt som en comedy-reportage-serie! Det er komikerne Martin Høgsted og Magnus Millang, der er bagmændene, og de får hjælp af en stjernerække af Danmarks sjoveste personligheder. Så hvis du er i tvivl om, hvordan danskerne egentlig er, så skal du blot se på programmets brede persongalleri !",
+  "image": "https://cdn-play.tv2i.dk/56650c93-6e43-3702-aab6-af1034995505.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "da6088ea-24df-4858-9a17-5ca4b65359bb",
@@ -152,6 +154,13 @@
       "number": 6,
       "name": "We are red, we are white!",
       "airdate": "2014-05-05"
+    },
+    {
+      "id": "609db35a-7bd1-4356-b58c-304d6a93aa8e",
+      "season": 3,
+      "number": 7,
+      "name": "We are red, we are white!",
+      "airdate": "2014-05-12"
     }
   ]
 }

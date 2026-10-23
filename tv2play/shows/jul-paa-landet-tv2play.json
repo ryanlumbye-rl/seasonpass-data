@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:jul-paa-landet-tv2play",
+  "name": "Jul på landet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "December varer længe og kan koste mange penge. Men sådan behøver det ikke være. For hvorfor købe, hvis du kan lave det meste selv? I \"Jul på Landet\" skruer familien fra Junget ned for budgettet og viser, at jul og nytår kan fejres på mange forskellige måder.",
+  "image": "https://cdn-play.tv2i.dk/2f71d3d3-8677-4711-96ad-a1f130d79aa1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "d84dc9ac-18bb-4abe-8814-ab54c086a081",
+      "season": 1,
+      "number": 1,
+      "name": "Adventskransen",
+      "airdate": "2025-11-28"
+    },
+    {
+      "id": "7228e421-3b30-4c18-a20d-5a733d153baa",
+      "season": 1,
+      "number": 2,
+      "name": "Julekager",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "51269318-d741-4072-81ff-03a4f9d309b3",
+      "season": 1,
+      "number": 3,
+      "name": "Julegaver",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "fd487efb-8294-471c-91be-fe2454bf62bb",
+      "season": 1,
+      "number": 4,
+      "name": "Julepynten",
+      "airdate": "2025-12-19"
+    },
+    {
+      "id": "7915ada3-3a39-489a-b95f-ccc69f6ec678",
+      "season": 1,
+      "number": 5,
+      "name": "Julemaden",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "7ba4dd11-23d1-477a-8db3-8b478baf76f4",
+      "season": 1,
+      "number": 6,
+      "name": "Nytårsfejring",
+      "airdate": "2025-12-30"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:et-liv-som-dronning-tv2",
+  "name": "Et liv som dronning",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I denne serie ser dronning Margrethe tilbage på sit livs største øjeblikke og mindes nogle af de mennesker, der har betydet allermest igennem sine 50 år som regent. Vi kommer tæt på barndommen, kærligheden, familien og ansvaret for Danmark.",
+  "image": "https://cdn-play.tv2i.dk/e5d38b9f-2be2-4fd8-8c51-7018ceea2083.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2c4f1cfe-c3e5-4cd1-8833-8cadba916461",
+      "season": 1,
+      "number": 1,
+      "name": "Arven",
+      "airdate": "2021-12-20"
+    },
+    {
+      "id": "63261ee8-ff4e-4748-8f93-510fa45d6eab",
+      "season": 1,
+      "number": 2,
+      "name": "Kærligheden",
+      "airdate": "2021-12-20"
+    },
+    {
+      "id": "869db6c3-58c4-4037-8d16-43491c426348",
+      "season": 1,
+      "number": 3,
+      "name": "Folket",
+      "airdate": "2021-12-27"
+    },
+    {
+      "id": "3f22a35d-8444-4697-b574-bbc75752e203",
+      "season": 1,
+      "number": 4,
+      "name": "Livskunsten",
+      "airdate": "2022-01-03"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:naar-livet-tager-en-drejning-tv2nord",
+  "name": "Når livet tager en drejning",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Allerbedst som livet kører derudad, sker der noget uventet. Noget der ændrer ens liv. På godt eller ondt.",
+  "image": "https://cdn-play.tv2i.dk/94f0a482-36c8-495e-8acd-3b2f089db9e5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "efff2296-58f4-45a3-91c6-787505b4e731",
+      "season": 1,
+      "number": 1,
+      "name": "Når døden rammer som et lyn",
+      "airdate": "2023-01-13"
+    },
+    {
+      "id": "84d00fe5-f4fa-4d5b-a33e-8401b373dc61",
+      "season": 1,
+      "number": 2,
+      "name": "Når stress stopper karrieren",
+      "airdate": "2023-01-20"
+    },
+    {
+      "id": "47581df5-4226-4c9f-86ac-45fabfbda720",
+      "season": 1,
+      "number": 3,
+      "name": "Når hele verden ramler",
+      "airdate": "2023-01-27"
+    },
+    {
+      "id": "dba8ff4e-76bf-4546-92c5-f39a7c56d2ce",
+      "season": 1,
+      "number": 4,
+      "name": "Aspergers som livsvilkår",
+      "airdate": "2023-02-17"
+    },
+    {
+      "id": "37889119-914d-4571-bb14-bd7a571f512a",
+      "season": 1,
+      "number": 5,
+      "name": "Cykelstyrt med konsekvenser",
+      "airdate": "2023-03-03"
+    },
+    {
+      "id": "d26782b8-434d-4f42-a3b5-52d870162583",
+      "season": 1,
+      "number": 6,
+      "name": "Fra ekspedient til influencer",
+      "airdate": "2023-03-10"
+    },
+    {
+      "id": "d5e56e18-a18f-41af-a421-1b3add5d44af",
+      "season": 1,
+      "number": 7,
+      "name": "Fem aborter senere",
+      "airdate": "2023-03-17"
+    },
+    {
+      "id": "fc90497e-cd56-4c2f-999b-1a7279cc93ec",
+      "season": 1,
+      "number": 8,
+      "name": "Sorg der ændrer livet",
+      "airdate": "2023-03-24"
+    },
+    {
+      "id": "79a4ce9c-a07b-4a57-a877-aea34923cf61",
+      "season": 3,
+      "number": 1,
+      "name": "Død teenagesøn ændrede livet",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "51755da9-7020-40bd-8028-5cea64db8b2b",
+      "season": 3,
+      "number": 2,
+      "name": "Jægersoldaten kæmpede sig tilbage til livet",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "2727d706-f15c-478a-beab-cdc2386b0bf0",
+      "season": 3,
+      "number": 3,
+      "name": "7-årig reddet af ny træningsmetode",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "5cb976e1-349e-4396-affd-f17cfa85c085",
+      "season": 3,
+      "number": 4,
+      "name": "Reddet af en robot",
+      "airdate": "2025-06-01"
+    }
+  ]
+}

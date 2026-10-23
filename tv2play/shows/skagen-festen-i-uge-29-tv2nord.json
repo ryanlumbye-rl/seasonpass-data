@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:skagen-festen-i-uge-29-tv2nord",
+  "name": "Skagen - festen i uge 29",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hellerup-ugen er passé. Uge 29 i Skagen er blevet for alle. Ifølge skagboerne tager flere og flere yngre mennesker fra hele landet til toppen af Danmark for at feste.",
+  "image": "https://cdn-play.tv2i.dk/e1b28d0a-da01-4312-bdb2-161db1cdd803.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0cbf5d48-1e35-4052-942a-223456c2df44",
+      "season": 1,
+      "number": 1,
+      "name": "Det er lækkert",
+      "airdate": "2025-07-13"
+    },
+    {
+      "id": "a20c45a7-247b-4687-9972-43510067c1e4",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg har det lidt stramt",
+      "airdate": "2025-07-20"
+    },
+    {
+      "id": "8e016532-942a-4282-bb21-bedb6878126d",
+      "season": 1,
+      "number": 3,
+      "name": "Ugens vildeste dag",
+      "airdate": "2025-07-27"
+    }
+  ]
+}

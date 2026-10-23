@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:bubber-bs-paa-afveje-tv2",
+  "name": "Bubber & BS på afveje",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "No talk. Shoot! Ordene er BS Christiansens, og ordren giver han til Bubber, der skal lære at skyde med riffel. For han skal kunne forsvare sig, hvis de pludselig står over for et farligt dyr, der angriber. Og farlige dyr er der masser af i det område af den afrikanske savanne, hvor den tidligere jægersoldat har inviteret Bubber med på afveje.",
+  "image": "https://cdn-play.tv2i.dk/a089aa3e-62d9-47a1-9af4-a09d97e906ce.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C23%2C3840%2C2137&w=1280",
+  "episodes": [
+    {
+      "id": "0903a5f7-23e4-4902-916e-4551aaa6f06e",
+      "season": 1,
+      "number": 1,
+      "name": "På den afrikanske savanne",
+      "airdate": "2006-04-11"
+    },
+    {
+      "id": "2000a805-f399-47aa-a3d8-917d438d589e",
+      "season": 1,
+      "number": 2,
+      "name": "På den afrikanske savanne",
+      "airdate": "2006-04-18"
+    },
+    {
+      "id": "5e8addae-6144-46c5-8505-38383cbe3bdf",
+      "season": 1,
+      "number": 3,
+      "name": "På den afrikanske savanne",
+      "airdate": "2006-04-25"
+    },
+    {
+      "id": "3d4269af-8891-4f36-b28c-77e5bc549914",
+      "season": 1,
+      "number": 4,
+      "name": "På den afrikanske savanne",
+      "airdate": "2006-05-02"
+    },
+    {
+      "id": "6d9e95ad-5cd8-4614-b06a-92b37c937789",
+      "season": 1,
+      "number": 5,
+      "name": "På den afrikanske savanne",
+      "airdate": "2006-05-09"
+    },
+    {
+      "id": "9755da92-6711-4e83-9220-104c04560a72",
+      "season": 1,
+      "number": 6,
+      "name": "På den afrikanske savanne",
+      "airdate": "2006-05-16"
+    }
+  ]
+}

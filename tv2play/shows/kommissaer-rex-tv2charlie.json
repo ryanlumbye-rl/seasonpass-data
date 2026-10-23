@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Politibetjenten Richard Moser har mistet sin kone, og politihunden Rex har mistet sin herre, så de to finder sammen for både at bekæmpe kriminalitet og deres egen ensomhed. Det umage par udgør et sandt vinder-hold, hvor de risikerer liv og lemmer i deres jagt efter forbrydere.",
+  "image": "https://cdn-play.tv2i.dk/f5f6c161-7f6b-32ad-ad84-e15c13ca039e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "e994eb63-1753-4b48-ae91-eead83b01c75",
@@ -54,6 +56,20 @@
       "number": 10,
       "name": "Rache",
       "airdate": "2007-02-12"
+    },
+    {
+      "id": "c14813ad-6bfc-4f89-979b-c57c1dddb0e8",
+      "season": 4,
+      "number": 11,
+      "name": "Der Voyeur",
+      "airdate": "2007-02-13"
+    },
+    {
+      "id": "280fc9b5-6c56-4dc5-a05d-a3c19fe5ae49",
+      "season": 4,
+      "number": 12,
+      "name": "Das letze Match",
+      "airdate": "2007-02-15"
     },
     {
       "id": "5f0c7295-e7a2-423d-b8c3-7c1435983127",

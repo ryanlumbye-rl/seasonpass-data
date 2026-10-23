@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:luksushuse-paa-bestilling-tv2",
+  "name": "Luksushuse på bestilling",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Få et eksklusivt indblik i ejendomsudvikler Guy Phoenix' verden, hvor han bygger luksuriøse og overdådige huse til millioner.",
+  "image": "https://cdn-play.tv2i.dk/3b285945-09eb-4eaa-bb67-a7ba5cbc4d72.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "650b4ab4-39c4-4db1-8e6a-cc3ba8e3d35c",
+      "season": 2,
+      "number": 1,
+      "name": "Nedrivning",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "f3eeabef-1915-4cd9-8a5c-e9dd1fcc755a",
+      "season": 2,
+      "number": 2,
+      "name": "Afstivning",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "0bc20757-d9d4-48ac-a461-49fd6a459a34",
+      "season": 2,
+      "number": 3,
+      "name": "Vinteren kommer",
+      "airdate": "2025-09-11"
+    },
+    {
+      "id": "29488007-1f0b-4c2a-9fec-c57cbd623974",
+      "season": 2,
+      "number": 4,
+      "name": "Kampen mod uret",
+      "airdate": "2025-09-12"
+    }
+  ]
+}

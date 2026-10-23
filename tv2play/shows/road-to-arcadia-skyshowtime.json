@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:road-to-arcadia-skyshowtime",
+  "name": "Road to Arcadia",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Pablo lever et tilsyneladende fredeligt liv som brydetræner og hengiven partner for Irene på De Kanariske Øer, men da voldshandlinger ryster øen, må han tage et opgør med, hvem han virkelig er, for at beskytte sin families fremtid.",
+  "image": "https://cdn-play.tv2i.dk/0247cb81-082d-4b11-b58b-f6ded94428d3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "52140dec-82a2-48e2-ac20-aa989a0d287e",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "e3255192-f3d0-4809-ba96-a636f36b84fd",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "f7301bfb-881e-479b-a50c-bbfbcaf2e96e",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "d44fac4c-e278-4075-9b5f-98912ca19a1b",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "fbe9fa41-1a56-488a-956b-7d6e749dce00",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "1198bb11-1afa-4a38-a0c6-4f579b3f20d6",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-12-01"
+    }
+  ]
+}

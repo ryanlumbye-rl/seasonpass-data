@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:hoejt-til-hest-tv2",
+  "name": "Højt til hest",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med bag kulisserne på Klampenborg Galopbane og Jydsk Væddeløbsbane. Serien går i fem afsnit tæt på de mennesker, der har galopbanerne som deres arbejdsplads - og dem, der har dem som deres legeplads.",
+  "image": "https://cdn-play.tv2i.dk/b7794f2e-7ae5-4db5-a684-3366e71dacc5.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "d01f7072-6c11-4ec8-b55b-4d254a36b314",
+      "season": 1,
+      "number": 1,
+      "name": "Mudder og champagne",
+      "airdate": "2022-02-21"
+    },
+    {
+      "id": "8e01e55e-c34c-4d61-9c53-c2898a3686eb",
+      "season": 1,
+      "number": 2,
+      "name": "Klar, parat, start",
+      "airdate": "2022-02-21"
+    },
+    {
+      "id": "48feb8bb-5360-45b0-bc0d-567eb6690edf",
+      "season": 1,
+      "number": 3,
+      "name": "Galoppens konger",
+      "airdate": "2022-02-28"
+    },
+    {
+      "id": "c3f22728-63a0-4bf9-ba6b-3b2ebf9185bb",
+      "season": 1,
+      "number": 4,
+      "name": "Nye håb",
+      "airdate": "2022-03-07"
+    },
+    {
+      "id": "c9ebac06-ec5c-473b-9c41-64bcdf3ba7b3",
+      "season": 1,
+      "number": 5,
+      "name": "The winner takes it all",
+      "airdate": "2022-03-14"
+    }
+  ]
+}

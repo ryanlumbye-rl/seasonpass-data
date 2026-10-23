@@ -1,0 +1,292 @@
+{
+  "id": "tv2play:rita-tv2",
+  "name": "Rita",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Rita, den politisk ukorrekte lærer, der deler vandene blandt elever og lærere med sine utraditionelle måder at gøre tingene på.",
+  "image": "https://cdn-play.tv2i.dk/a9fa2307-83da-48db-929f-41cb6fb9e329.png?auto=format%2Ccompress&fm=webp&rect=0%2C-25%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "51a11dcd-3b7c-4c48-8f7f-dd373870d2a9",
+      "season": 1,
+      "number": 1,
+      "name": "Idealisten",
+      "airdate": "2012-02-09"
+    },
+    {
+      "id": "20b1a002-d2f3-468c-a919-a2d7ac6fdf53",
+      "season": 1,
+      "number": 2,
+      "name": "Læreren",
+      "airdate": "2012-02-16"
+    },
+    {
+      "id": "e19f025d-8ef0-480f-8df4-e0ce37605597",
+      "season": 1,
+      "number": 3,
+      "name": "Anarkisten",
+      "airdate": "2012-02-23"
+    },
+    {
+      "id": "81a8298e-2dba-4379-ba46-16cb8581e2d9",
+      "season": 1,
+      "number": 4,
+      "name": "Hun-ulven",
+      "airdate": "2012-03-01"
+    },
+    {
+      "id": "f9aecbf7-31f0-40ab-9827-5a92a42be2ce",
+      "season": 1,
+      "number": 5,
+      "name": "Beskytteren",
+      "airdate": "2012-03-08"
+    },
+    {
+      "id": "f704646e-6684-448f-8712-ac81dd40e725",
+      "season": 1,
+      "number": 6,
+      "name": "Hykleren",
+      "airdate": "2012-03-15"
+    },
+    {
+      "id": "d2a82dbc-1449-4762-a4c5-48e534866301",
+      "season": 1,
+      "number": 7,
+      "name": "Prinsessen",
+      "airdate": "2012-03-22"
+    },
+    {
+      "id": "eb54a530-6bb1-4eb6-853a-5e70819474eb",
+      "season": 1,
+      "number": 8,
+      "name": "Moderen",
+      "airdate": "2012-03-29"
+    },
+    {
+      "id": "7b3fd216-fd0c-47b9-8029-eddb05dd843e",
+      "season": 2,
+      "number": 1,
+      "name": "Den voksne",
+      "airdate": "2013-09-11"
+    },
+    {
+      "id": "45d47ffd-e67a-4f53-b0a8-cd1d0465ff80",
+      "season": 2,
+      "number": 2,
+      "name": "Haven",
+      "airdate": "2013-09-18"
+    },
+    {
+      "id": "0c0f5651-679a-4c93-a47a-b10c2ad29082",
+      "season": 2,
+      "number": 3,
+      "name": "Far, mor og børn",
+      "airdate": "2013-09-25"
+    },
+    {
+      "id": "fdf176ca-5177-4562-847d-718e1c2b6341",
+      "season": 2,
+      "number": 4,
+      "name": "Teamplayer",
+      "airdate": "2013-10-02"
+    },
+    {
+      "id": "d62b3283-a8c6-4dd6-82db-f78b613bf95b",
+      "season": 2,
+      "number": 5,
+      "name": "Jeg elsker dig",
+      "airdate": "2013-10-09"
+    },
+    {
+      "id": "6557ad5a-7716-4484-9262-afaba2e8ac1a",
+      "season": 2,
+      "number": 6,
+      "name": "Den første kærlighed",
+      "airdate": "2013-10-16"
+    },
+    {
+      "id": "71954043-be4a-4382-a1ae-91e69341a9e6",
+      "season": 2,
+      "number": 7,
+      "name": "Rollemodellen",
+      "airdate": "2013-10-23"
+    },
+    {
+      "id": "58a9aac3-19a4-465a-8f4d-9626c4491c13",
+      "season": 2,
+      "number": 8,
+      "name": "Ukrudt",
+      "airdate": "2013-10-30"
+    },
+    {
+      "id": "c70f81cd-c5da-46a7-8d28-2bf5a80c7462",
+      "season": 3,
+      "number": 1,
+      "name": "Kandidaten",
+      "airdate": "2015-03-16"
+    },
+    {
+      "id": "8b57758f-1b72-4bfd-aa9a-17a129a45092",
+      "season": 3,
+      "number": 2,
+      "name": "Kælderen",
+      "airdate": "2015-03-23"
+    },
+    {
+      "id": "ff09c7e3-3647-4837-b362-fa4c022a9134",
+      "season": 3,
+      "number": 3,
+      "name": "Sponsorbarnet",
+      "airdate": "2015-03-30"
+    },
+    {
+      "id": "b2b59c73-36c8-40a5-9378-4da06f3b3777",
+      "season": 3,
+      "number": 4,
+      "name": "Aftenskole",
+      "airdate": "2015-04-06"
+    },
+    {
+      "id": "e504150b-dd23-4f68-8729-712712e42bb0",
+      "season": 3,
+      "number": 5,
+      "name": "Lus",
+      "airdate": "2015-04-13"
+    },
+    {
+      "id": "3888e9e2-4c48-4144-8590-af1e153a5c0c",
+      "season": 3,
+      "number": 6,
+      "name": "Frit fald",
+      "airdate": "2015-04-20"
+    },
+    {
+      "id": "c223a104-a40e-40c7-b47e-9ed207ffed09",
+      "season": 3,
+      "number": 7,
+      "name": "Lederen",
+      "airdate": "2015-04-27"
+    },
+    {
+      "id": "28342fd7-d2a8-4824-a6ce-323b05908311",
+      "season": 3,
+      "number": 8,
+      "name": "Testen",
+      "airdate": "2015-05-11"
+    },
+    {
+      "id": "67c6a4e7-2fcb-46bc-95f8-290adf6a6f55",
+      "season": 4,
+      "number": 1,
+      "name": "Nutid/datid",
+      "airdate": "2017-08-21"
+    },
+    {
+      "id": "a038421e-0d10-49cb-9f31-6f348f8a53c0",
+      "season": 4,
+      "number": 2,
+      "name": "Du bliver, hvad du spiser",
+      "airdate": "2017-08-28"
+    },
+    {
+      "id": "d092498d-523f-4be6-85d0-c7138741095f",
+      "season": 4,
+      "number": 3,
+      "name": "Tøbrud",
+      "airdate": "2017-09-04"
+    },
+    {
+      "id": "c2bffb38-31da-41b7-9d36-f92ecc776078",
+      "season": 4,
+      "number": 4,
+      "name": "Rigtige venner",
+      "airdate": "2017-09-11"
+    },
+    {
+      "id": "6373e699-bc3d-4e91-991b-09cb9129c838",
+      "season": 4,
+      "number": 5,
+      "name": "Dig og mig",
+      "airdate": "2017-09-18"
+    },
+    {
+      "id": "d02a613a-5e10-4aa8-a169-da96f3cac437",
+      "season": 4,
+      "number": 6,
+      "name": "Barndommens gade",
+      "airdate": "2017-09-25"
+    },
+    {
+      "id": "b5b49c19-ce5e-47f3-a372-738dfbc196de",
+      "season": 4,
+      "number": 7,
+      "name": "Familie",
+      "airdate": "2017-10-02"
+    },
+    {
+      "id": "f0d9d2d1-8f5b-48fd-831f-93b3cf099d06",
+      "season": 4,
+      "number": 8,
+      "name": "Hjemme",
+      "airdate": "2017-10-09"
+    },
+    {
+      "id": "6e291f6a-2c68-43dc-b468-5fade62ff9d4",
+      "season": 5,
+      "number": 1,
+      "name": "Fake news",
+      "airdate": "2020-06-01"
+    },
+    {
+      "id": "fd9f1f68-c0c7-4a41-8a72-40dfc96f9544",
+      "season": 5,
+      "number": 2,
+      "name": "Hurlumhejhus",
+      "airdate": "2020-06-08"
+    },
+    {
+      "id": "5b937fba-61f1-4359-ad6c-3ba935f332dd",
+      "season": 5,
+      "number": 3,
+      "name": "Udflugten",
+      "airdate": "2020-06-15"
+    },
+    {
+      "id": "56f8e221-3a0d-417f-ae54-c5bd7c2c2d08",
+      "season": 5,
+      "number": 4,
+      "name": "Do you speak English?",
+      "airdate": "2020-06-22"
+    },
+    {
+      "id": "11d76d39-bd6d-499c-95c8-e41a12471857",
+      "season": 5,
+      "number": 5,
+      "name": "Hedetur",
+      "airdate": "2020-06-29"
+    },
+    {
+      "id": "d5a784aa-c010-4af3-90c8-71f3fa3d2006",
+      "season": 5,
+      "number": 6,
+      "name": "Grænser",
+      "airdate": "2020-07-06"
+    },
+    {
+      "id": "ed53585f-13a9-43d6-8a92-cce02c23913d",
+      "season": 5,
+      "number": 7,
+      "name": "Søen",
+      "airdate": "2020-07-13"
+    },
+    {
+      "id": "1ccbbbe4-f000-46f4-b84b-6a3c08b0af6f",
+      "season": 5,
+      "number": 8,
+      "name": "Kaos",
+      "airdate": "2020-07-20"
+    }
+  ]
+}

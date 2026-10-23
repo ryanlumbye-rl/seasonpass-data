@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:nadjas-farvel-til-de-170-kilo-tv2",
+  "name": "Nadjas farvel til de 170 kilo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Husker du Nadja fra serien 'Nadja og de 170 kilo'? I denne sæson følger vi hendes kamp for at komme af med de mange kilo. Selv om det er lykkedes hende at stoppe med at overspise, har hun ikke tabt sig, og hendes krop lider under de mange kilo",
+  "image": "https://cdn-play.tv2i.dk/b2830964-4ced-4e41-aa18-2e9be67697ff.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "1d7dc4b4-0e26-4ed3-a096-14680db801e4",
+      "season": 1,
+      "number": 1,
+      "name": "Det svære valg",
+      "airdate": "2021-04-29"
+    },
+    {
+      "id": "70261bce-b891-4b7a-b2fd-62ae85925541",
+      "season": 1,
+      "number": 2,
+      "name": "Ud med vægten",
+      "airdate": "2021-05-06"
+    }
+  ]
+}

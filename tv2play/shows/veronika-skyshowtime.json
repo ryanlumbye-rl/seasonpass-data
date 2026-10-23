@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Veronika Gren lever et stille liv som politibetjent i en lille by og som mor til to. Det bliver forstyrret, da hun begynder at se døde mennesker. Synene tvinger hende til at konfrontere sin afhængighed og sin vanskelige fortid, der gemmer på nøglen til at finde morderen.",
+  "image": "https://cdn-play.tv2i.dk/b90fc13b-011c-4170-b2bf-556df068b55c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
   "episodes": [
     {
       "id": "ff7682a9-717f-42e4-950e-08a08ea11cdb",
@@ -138,6 +140,13 @@
       "number": 6,
       "name": "The Chase",
       "airdate": "2026-04-09"
+    },
+    {
+      "id": "00fee01d-63fd-4231-816d-9fbf30c49fa2",
+      "season": 3,
+      "number": 8,
+      "name": "Veronika",
+      "airdate": "2026-05-07"
     }
   ]
 }

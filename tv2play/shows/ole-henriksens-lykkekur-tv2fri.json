@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:ole-henriksens-lykkekur-tv2fri",
+  "name": "Ole Henriksens lykkekur",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ole Henriksens lykkekur er en selvhjælpsguide til hvad man kan gøre når det hele ser lidt surt ud. De deltagende personer får 5 dage sammen med Ole Henriksen i Hollywood, hvor han hjælper dem med at blive i bedre humør eller genfinde kærligheden.",
+  "image": "https://cdn-play.tv2i.dk/036df89e-2de5-413e-a41a-f1c16f27bbcd.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1024%2C576&w=1280",
+  "episodes": [
+    {
+      "id": "b1bc1ded-ef59-4b32-8f08-f7ae0df38a16",
+      "season": 1,
+      "number": 1,
+      "name": "Kim",
+      "airdate": "2008-08-27"
+    },
+    {
+      "id": "31f1c30b-4404-4405-84db-687b01e7cc05",
+      "season": 1,
+      "number": 2,
+      "name": "Jannie",
+      "airdate": "2008-09-03"
+    },
+    {
+      "id": "a388eeee-99b8-496e-8a8d-a8c02fbe272e",
+      "season": 1,
+      "number": 3,
+      "name": "Mette og Jacob",
+      "airdate": "2008-09-10"
+    },
+    {
+      "id": "072d1b62-0950-43d8-a315-7278a7174418",
+      "season": 1,
+      "number": 4,
+      "name": "Bendt",
+      "airdate": "2008-09-17"
+    },
+    {
+      "id": "75017cb4-40e8-4d3e-b9ec-bef9f97b63b4",
+      "season": 1,
+      "number": 5,
+      "name": "Joy",
+      "airdate": "2008-09-24"
+    },
+    {
+      "id": "a1a25182-0efc-4220-a9fe-0597f5aa28b5",
+      "season": 1,
+      "number": 6,
+      "name": "Jeanette",
+      "airdate": "2008-12-08"
+    }
+  ]
+}

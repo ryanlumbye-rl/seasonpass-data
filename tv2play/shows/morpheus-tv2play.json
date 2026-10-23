@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:morpheus-tv2play",
+  "name": "Morpheus",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da Piotr Leyers bror bliver brutalt myrdet, trækkes den ellers lovlydige advokat tilbage i familiens kriminelle underverden. Han finder hurtigt sin plads som leder og opbygger magt gennem vold og frygt.",
+  "image": "https://cdn-play.tv2i.dk/44c3a45a-9938-3519-9fd6-7edb24c9f521.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7246c063-c6fe-4796-84ae-9563ef8f04fb",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2026-06-02"
+    },
+    {
+      "id": "cf7ceace-704f-4e0b-ab8c-f1a09217a1a6",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2026-06-02"
+    },
+    {
+      "id": "c95d6b21-4544-439e-a398-a68c7a610035",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2026-06-09"
+    },
+    {
+      "id": "f45a5eba-f619-4dc6-8991-6c9dc0cc46c4",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2026-06-16"
+    },
+    {
+      "id": "1eba8d8c-27b6-419c-9c01-573f6bac3414",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2026-06-23"
+    },
+    {
+      "id": "0bb15fda-e815-42c6-9770-499f6db255e5",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "7ce0a468-95f7-4844-b9c9-52e364e477fb",
+      "season": 1,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2026-07-07"
+    }
+  ]
+}

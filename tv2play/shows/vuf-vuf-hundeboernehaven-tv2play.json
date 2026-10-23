@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:vuf-vuf-hundeboernehaven-tv2play",
+  "name": "Vuf vuf - Hundebørnehaven",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vi følger Preben, Skipper, Stina, Hjalmer og alle de andre hunde for at se, hvad der sker i en hundebørnehave.",
+  "image": "https://cdn-play.tv2i.dk/3c6ca091-c5f7-4bf2-bf1a-e6c6392c58d4.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3860%2C2171&w=1280",
+  "episodes": [
+    {
+      "id": "d3026efc-1c4d-43b1-97e1-b31fa3a5fe01",
+      "season": 1,
+      "number": 1,
+      "name": "Ny i børnehaven",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "14397745-cb0c-42ca-9afd-1aac749d0e52",
+      "season": 1,
+      "number": 2,
+      "name": "Klassebilledet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fa9eaac6-7756-40f0-8b1d-b9e9037ee55b",
+      "season": 1,
+      "number": 3,
+      "name": "Udflugt til slottet",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d23d8376-ca8d-44f0-867c-d7d43e37f94b",
+      "season": 1,
+      "number": 4,
+      "name": "Fødselsdagsfesten",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9d9b6939-32de-4121-9147-8a69c258bf64",
+      "season": 1,
+      "number": 5,
+      "name": "Badeudflugten",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "dd7b2e98-0e37-4939-a9f0-6e76e33e92f6",
+      "season": 1,
+      "number": 6,
+      "name": "Hvad er agility?",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1dd1723b-5735-4e71-8a9e-6e9c3ce54c9b",
+      "season": 1,
+      "number": 7,
+      "name": "En dag hos frisøren",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "61f430cc-27b6-4093-91e8-8892e532323f",
+      "season": 1,
+      "number": 8,
+      "name": "Store legedag",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9e54515f-0b11-4ff7-9c9e-9aefa3008609",
+      "season": 1,
+      "number": 9,
+      "name": "Sove hos en ven",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "fcd50549-2efa-478e-9c50-dd5af04afa0e",
+      "season": 1,
+      "number": 10,
+      "name": "Udflugt til skoven",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:vaertens-bedste-braetspil-tv2",
+  "name": "Værtens bedste brætspil",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Elsker du at spille brætspil? Det gør Sarah Grünewald, og derfor er hun vært på TV 2s nye underholdningsprogram 'Værtens bedste brætspil'. Hver uge dyster to hold kendte danskere mod hinanden på den enorme brætspilsplade, hvor de løser en masse sjove og skøre opgaver i jagten på den samlede sejr. Det bliver bestemt ikke kedeligt!",
+  "image": "https://cdn-play.tv2i.dk/744e32ea-30a7-4b98-b05b-e8b42d520e73.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "a067b555-3a21-433c-a5bd-42052c08a46f",
+      "season": 1,
+      "number": 1,
+      "name": "Trine Gadeberg, Troels Malling, Anne Sofie Espersen og Mathias Helt",
+      "airdate": "2020-02-01"
+    },
+    {
+      "id": "48c7f6cb-aa27-4659-91e8-90b41e144ca9",
+      "season": 1,
+      "number": 2,
+      "name": "Chris Anker Sørensen, Vicki Berlin, Carla Mickelborg og Heino Hansen",
+      "airdate": "2020-02-01"
+    },
+    {
+      "id": "5d5859c8-8caa-4441-b845-2186bff60c26",
+      "season": 1,
+      "number": 3,
+      "name": "Rasmus Brohave, Camilla Bendix, Steen Langeberg og Ditte Hansen",
+      "airdate": "2020-02-08"
+    },
+    {
+      "id": "c3161a6d-a8ee-49ec-ad59-19b31a6b34a3",
+      "season": 1,
+      "number": 4,
+      "name": "Szhirley, Julie Ølgaard, Jonas Schmidt og Esben Dalgaard",
+      "airdate": "2020-02-15"
+    },
+    {
+      "id": "0bf063fa-4e6f-4fb7-86e1-43ce85262745",
+      "season": 1,
+      "number": 5,
+      "name": "Julie Steincke, Cutfather, Johannes Nymark og Pelle Emil Hebsgaard",
+      "airdate": "2020-02-22"
+    },
+    {
+      "id": "95565a41-0f76-4efb-93e7-0fa62f8e247c",
+      "season": 1,
+      "number": 6,
+      "name": "Janni Pedersen, Lasse Sjørslev, Jasper Ritz og David Mandel",
+      "airdate": "2020-02-29"
+    },
+    {
+      "id": "1be9cbb0-f24d-4999-badc-87c77c9778c1",
+      "season": 1,
+      "number": 7,
+      "name": "Andrea Elisabeth Rudolph, Claus Elming, Mikkel Klint-Thorius og Mark Le Fêvre",
+      "airdate": "2020-03-07"
+    },
+    {
+      "id": "2c02e7f9-1205-45fc-b122-c1117836aa4f",
+      "season": 1,
+      "number": 8,
+      "name": "Silas Holst, Jakob Fauerby, Ibi Makienok og Lina Rafn",
+      "airdate": "2020-03-14"
+    }
+  ]
+}

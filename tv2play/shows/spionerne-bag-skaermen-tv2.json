@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:spionerne-bag-skaermen-tv2",
+  "name": "Spionerne bag skærmen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 Dokumentar afdækker i to programmer, hvordan firmaer bag populære digitale spil indsamler personlige oplysninger om vores børn og bevidst manipulerer dem, mens de spiller, så de bliver fastholdt i spillet længst muligt. Samtidig sætter firmaer oplysninger om vores børn til salg i hele verden",
+  "image": "https://cdn-play.tv2i.dk/6c7147fd-5d75-46ad-9fc8-0f0f5ceebb28.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1d61e7c8-f427-41aa-ad97-218653318611",
+      "season": 1,
+      "number": 1,
+      "name": "Spilfirmaer manipulerer vores børn",
+      "airdate": "2023-05-17"
+    },
+    {
+      "id": "94fe93ff-ba3a-4a2c-89da-b3ae31bf37ee",
+      "season": 1,
+      "number": 2,
+      "name": "Danske børns oplysninger til salg i hele verden",
+      "airdate": "2023-05-24"
+    }
+  ]
+}

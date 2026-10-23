@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:vild-smuk-farlig-tv2",
+  "name": "Vild, smuk, farlig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den danske natur er fuld af fascinerende og betagende dyr. Derfor har de to biologer Anders Kofoed og Sune Riis sat hinanden stævne til en dyst på, hvem der kan finde det vildeste, det smukkeste og det farligste. Vinderen udpeges af en hemmelig dommer, og kun én kan vinde i 'Vild, smuk, farlig'.",
+  "image": "https://cdn-play.tv2i.dk/31c51b0c-6d1b-4468-9a2a-451818ad99ce.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "bd00d28f-6ee8-4b33-abf2-54cd9d0bfa15",
+      "season": 1,
+      "number": 1,
+      "name": "Bornholm",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "a6a2373d-a514-4dd4-854f-af4b794a600e",
+      "season": 1,
+      "number": 2,
+      "name": "Østersøen",
+      "airdate": "2025-04-20"
+    }
+  ]
+}

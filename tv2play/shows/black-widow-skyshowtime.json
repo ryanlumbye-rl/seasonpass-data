@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:black-widow-skyshowtime",
+  "name": "Black Widow",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Black Widow fortæller den utrolige historie om en af Storbritanniens farligste kvindelige mordere. Over en periode på 20 år udsatte Dena Thompson tre ægtemænd og dusinvis af elskere for bedrageri, vold og mord, og efterlod dem i økonomisk ruin, indtil politiet kunne afdække hendes forskruede kriminelle komplot.",
+  "image": "https://cdn-play.tv2i.dk/0b89f432-a6d2-48fd-8b52-3cfbfdd68e14.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "001efca2-9a8e-4a7d-8575-30dc42268689",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-01-05"
+    },
+    {
+      "id": "b2aa5d26-50c5-43b2-b701-32e423d39d1c",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-01-05"
+    },
+    {
+      "id": "8e41eab4-379a-4cfa-9942-9c57bfc0b34f",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-01-05"
+    }
+  ]
+}

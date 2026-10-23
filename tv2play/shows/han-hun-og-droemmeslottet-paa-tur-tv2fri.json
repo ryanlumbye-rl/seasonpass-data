@@ -1,0 +1,222 @@
+{
+  "id": "tv2play:han-hun-og-droemmeslottet-paa-tur-tv2fri",
+  "name": "Han, hun og drømmeslottet - på tur",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Er du en af dem, der har fulgt Dick og Angel under deres franske eventyr på slottet? De to briter er ikke de eneste, der er rykket til Frankrig for at forfølge deres drømme",
+  "image": "https://cdn-play.tv2i.dk/fec61d56-2e0d-4907-ba42-92a1e26d5a3f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1943%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "d7ec19cd-1225-400d-acee-467dc42edbed",
+      "season": 3,
+      "number": 1,
+      "name": "Et slotsværelse til datteren",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "2844e101-54b3-4974-a824-cffa3aeb7146",
+      "season": 3,
+      "number": 2,
+      "name": "Fra orangeri til eventsted",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "86b0e7ea-90c5-4b1d-a31e-c3d7fa4e175c",
+      "season": 3,
+      "number": 3,
+      "name": "Slot med wellness-område",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "5e3716c0-9705-48ef-b3b4-6158507ac413",
+      "season": 3,
+      "number": 4,
+      "name": "Et voliere tager form",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "41b345d7-2cad-46a9-aed2-48b8de039c69",
+      "season": 3,
+      "number": 5,
+      "name": "Udendørskøkkenet",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "a2e0831d-3480-43c4-86e4-0742298224ac",
+      "season": 3,
+      "number": 6,
+      "name": "Min mors bryllup",
+      "airdate": "2020-10-31"
+    },
+    {
+      "id": "b2e8c446-c7c8-420f-9cde-24a7b6d92af5",
+      "season": 3,
+      "number": 7,
+      "name": "Et hemmeligt rum",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "99f37d8b-a8ae-46c8-8451-cb70e01acc9a",
+      "season": 3,
+      "number": 8,
+      "name": "Bryllup på slottet",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "aecb2574-6c07-43ac-8746-f36d3b4e45b4",
+      "season": 3,
+      "number": 9,
+      "name": "Første bryllupsbooking",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "76890e28-c030-4153-9ebc-8ea4ec35236b",
+      "season": 3,
+      "number": 10,
+      "name": "Elektriske problemer",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "a80b5e70-9b33-4de4-995a-5bea868d4cca",
+      "season": 3,
+      "number": 11,
+      "name": "En fransk have",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "767b1bc4-c096-471f-82d4-21b682f766fa",
+      "season": 3,
+      "number": 12,
+      "name": "60-års fødselsdag på slottet",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "285f8413-1cce-4d6f-b40d-fd459f818b6c",
+      "season": 3,
+      "number": 13,
+      "name": "Den største booking",
+      "airdate": "2020-11-07"
+    },
+    {
+      "id": "29d2a562-a0a8-4f65-a6ef-b34000189cb9",
+      "season": 3,
+      "number": 14,
+      "name": "Temafest på slottet",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "9eff5dac-3a5e-4d86-b930-cb2481f775cb",
+      "season": 3,
+      "number": 15,
+      "name": "Den originale ovn",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "a9105e29-a677-4bad-8e9f-2cc26c02898d",
+      "season": 3,
+      "number": 16,
+      "name": "Fra Surrey til slotsliv",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "5cd60596-2d08-46f7-b172-69db470114d3",
+      "season": 3,
+      "number": 17,
+      "name": "Fra stald til bryllupslokale",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "3a5559cd-335c-40f9-9591-d6eba64c73f1",
+      "season": 3,
+      "number": 18,
+      "name": "Fint borgmesterbesøg",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "2c160c16-b07a-4bd9-9a43-624033653201",
+      "season": 3,
+      "number": 19,
+      "name": "Bryllup med tema",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "7e4be550-00b9-40f0-9817-d07996339e26",
+      "season": 3,
+      "number": 20,
+      "name": "Et forfaldent bådhus",
+      "airdate": "2020-11-14"
+    },
+    {
+      "id": "15bcaeb6-c6a4-410a-8c5b-aad2da0366b3",
+      "season": 3,
+      "number": 21,
+      "name": "Et poolhouse der trænger",
+      "airdate": "2021-01-03"
+    },
+    {
+      "id": "7ae6dcfe-fc10-4fe2-acf9-2e2630ca724e",
+      "season": 3,
+      "number": 22,
+      "name": "Festteltet rejses",
+      "airdate": "2021-01-03"
+    },
+    {
+      "id": "35e30480-d9c4-4da0-985d-5cdc19fcbcdb",
+      "season": 3,
+      "number": 23,
+      "name": "Bryllup i Dordogne",
+      "airdate": "2021-01-10"
+    },
+    {
+      "id": "49ec7012-fdc0-4ebb-9702-e3109d68dccb",
+      "season": 3,
+      "number": 24,
+      "name": "Spisestuen skal gøres klar",
+      "airdate": "2021-01-17"
+    },
+    {
+      "id": "0eb5aea8-fab7-41b3-bd87-eb24f11f778f",
+      "season": 3,
+      "number": 25,
+      "name": "Et slot med plads til musik",
+      "airdate": "2021-01-24"
+    },
+    {
+      "id": "29f60a9e-5ca9-43b4-af3b-98d101a16d9d",
+      "season": 3,
+      "number": 26,
+      "name": "Nybagte slotsejere",
+      "airdate": "2021-01-31"
+    },
+    {
+      "id": "94053d55-1cf1-4da7-828a-fe37db3a2c88",
+      "season": 3,
+      "number": 27,
+      "name": "Når sproget driller",
+      "airdate": "2021-02-07"
+    },
+    {
+      "id": "43f6f164-99a4-4ef1-b799-266dac940594",
+      "season": 3,
+      "number": 28,
+      "name": "Et enormt renoveringsprojekt",
+      "airdate": "2021-02-14"
+    },
+    {
+      "id": "6f4568de-4fcf-4bec-8b02-4f4101e322b6",
+      "season": 3,
+      "number": 29,
+      "name": "Hjemmelavet tapet",
+      "airdate": "2021-02-21"
+    },
+    {
+      "id": "e5b79964-bdf0-40cb-9b26-c1026afad298",
+      "season": 3,
+      "number": 30,
+      "name": "Et nyt spisekammer",
+      "airdate": "2021-02-28"
+    }
+  ]
+}

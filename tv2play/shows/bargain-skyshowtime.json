@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:bargain-skyshowtime",
+  "name": "Bargain",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Folk, der er blevet lokket til et afsidesliggende motel, bliver hurtigt ofre for organtyveri, men da et katastrofalt jordskælv rammer, må de overlevende ofre, smuglere og købere allesammen kæmpe for at slippe ud af den smuldrende bygning.",
+  "image": "https://cdn-play.tv2i.dk/abff9499-5ded-478f-9303-5a3e363121bf.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "dec4708c-6da3-43a1-8af1-a1d2986e2112",
+      "season": 1,
+      "number": 1,
+      "name": "Bargain",
+      "airdate": "2024-07-04"
+    },
+    {
+      "id": "79742e57-5060-4f60-83f3-4ba30e670914",
+      "season": 1,
+      "number": 2,
+      "name": "The Detective and the Kidney",
+      "airdate": "2024-07-04"
+    },
+    {
+      "id": "dcacd54e-e771-442e-94bb-45b21734f8bb",
+      "season": 1,
+      "number": 3,
+      "name": "7 Million Dollars",
+      "airdate": "2024-07-04"
+    },
+    {
+      "id": "19a68f5c-f059-4d6f-9451-e7681dcf28f9",
+      "season": 1,
+      "number": 4,
+      "name": "Panic Room",
+      "airdate": "2024-07-11"
+    },
+    {
+      "id": "e5ee8a17-e1ad-41b3-9a5b-28e7090f33c3",
+      "season": 1,
+      "number": 5,
+      "name": "Gun, Money, and Lies",
+      "airdate": "2024-07-18"
+    },
+    {
+      "id": "1360c0d9-e219-4805-a501-6027a59cee7b",
+      "season": 1,
+      "number": 6,
+      "name": "Zero Sum",
+      "airdate": "2024-07-25"
+    }
+  ]
+}

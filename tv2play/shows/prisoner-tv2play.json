@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:prisoner-tv2play",
+  "name": "Prisoner",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Amber Todd, en ung fængselsbetjent med stærke principper, skal eskortere Tibor, en farlig topfange, til retten for at vidne mod forbrydersyndikatet Pegasus. Da konvojen overfaldes, må de flygte sammen. Amber kan ikke stole på nogen - mindst af alt den morder, hun er lænket til.",
+  "image": "https://cdn-play.tv2i.dk/56978097-e7ba-4b48-91f0-4d4bd6e80082.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "67b7f20b-48ce-4e24-b395-dd2442ab670f",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2026-05-07"
+    },
+    {
+      "id": "77c74b8d-6f42-4157-ba4b-8b330065af28",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2026-05-07"
+    },
+    {
+      "id": "311262a1-ac57-46fe-ba0d-c0b56b7e4d57",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2026-05-14"
+    },
+    {
+      "id": "6c2c2531-6cff-4493-92bc-804b457b9b66",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2026-05-21"
+    },
+    {
+      "id": "9a1aa474-112d-4c93-befe-c29c01e51779",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2026-05-28"
+    },
+    {
+      "id": "6621e370-708c-46e1-87d6-1c64cdeb1195",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2026-06-04"
+    }
+  ]
+}

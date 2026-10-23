@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:knuckles-skyshowtime",
+  "name": "Knuckles",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Efter at være flyttet til Jorden, begiver Knuckles the Echidna sig ud på en sjov og actionfyldt selvopdagelsesrejse. Samtidig går han med til at træne vice-sherif Wade Whipple som sin protegé og elev i Echidna-krigerens metoder.",
+  "image": "https://cdn-play.tv2i.dk/2273dc66-45f3-402a-b90f-0d8086709092.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "40194d45-27fe-4d92-8ae3-541f674e7580",
+      "season": 1,
+      "number": 1,
+      "name": "The Warrior",
+      "airdate": "2024-08-03"
+    },
+    {
+      "id": "98331326-42bd-4008-b1e4-f1fa1266d1c7",
+      "season": 1,
+      "number": 2,
+      "name": "Don't Ever Say I Wasn't There for You",
+      "airdate": "2024-08-03"
+    },
+    {
+      "id": "281ebb51-1f3a-424b-ae50-25af1df5ebef",
+      "season": 1,
+      "number": 3,
+      "name": "The Shabbat Dinner",
+      "airdate": "2024-08-03"
+    },
+    {
+      "id": "2a4deb53-06dc-4158-8ecd-99125510b604",
+      "season": 1,
+      "number": 4,
+      "name": "The Flames of Disaster",
+      "airdate": "2024-08-03"
+    },
+    {
+      "id": "e5c8c2ee-3bff-4477-836d-ed6adb498e86",
+      "season": 1,
+      "number": 5,
+      "name": "Reno Baby",
+      "airdate": "2024-08-03"
+    },
+    {
+      "id": "ba81c54c-788e-4cac-82f3-748567320fb0",
+      "season": 1,
+      "number": 6,
+      "name": "What Happens in Reno Stays in Reno...",
+      "airdate": "2024-08-03"
+    }
+  ]
+}

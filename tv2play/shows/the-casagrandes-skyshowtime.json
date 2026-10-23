@@ -1,0 +1,145 @@
+{
+  "id": "tv2play:the-casagrandes-skyshowtime",
+  "name": "The Casagrandes",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ronnie Anne lærer mere om sin onkel. Ronnie Anne og Sid starter en hundelufterforretning.",
+  "image": "https://cdn-play.tv2i.dk/654b2dd5-90c8-414c-b0b4-5e12397db465.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9f98c3b4-22ab-4d50-9b9b-c471397f58df",
+      "season": 1,
+      "number": 11,
+      "name": "V.I.P-vrissen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e3b97caa-a0f3-4525-94c4-d4f6ceb5dfa4",
+      "season": 1,
+      "number": 12,
+      "name": "En kvik fejde",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "03535eb6-3a6f-4bb0-93e6-ccbbcfa77dc5",
+      "season": 2,
+      "number": 13,
+      "name": "Bedstefar-kampen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "0640ce13-7779-4d0a-8fb1-23b4aca16cc4",
+      "season": 2,
+      "number": 20,
+      "name": "Den hårde træner",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "5282d224-81ef-4e6f-a8d0-86d18eb1ea5b",
+      "season": 3,
+      "number": 1,
+      "name": "Bedre end abuelo",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "c2096904-9ccd-4739-99e9-33a43e1d0200",
+      "season": 3,
+      "number": 2,
+      "name": "Skræp i kærlighedens navn",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "64dbd0d5-12ee-4337-b92b-2ea8ef60af23",
+      "season": 3,
+      "number": 5,
+      "name": "Gutterne i bandet",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "91b2c507-7bc6-43e8-b421-78b70dbbd204",
+      "season": 3,
+      "number": 6,
+      "name": "15 lys",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "24888ed0-0123-4e79-a903-c2f42061dfba",
+      "season": 3,
+      "number": 7,
+      "name": "Miste las Arras",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "a184c138-20e2-405c-97bf-5af47d2f9113",
+      "season": 3,
+      "number": 8,
+      "name": "Så skal vi danse rumba",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "449faadb-1c0e-4afc-b2de-53d09ead8630",
+      "season": 3,
+      "number": 9,
+      "name": "Zoo ikke det",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "fa5f9ecc-3309-469a-a69e-aaa01a8b2d51",
+      "season": 3,
+      "number": 10,
+      "name": "Skaterkat",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "651906c2-91bb-449b-88ea-99e86bb6c265",
+      "season": 3,
+      "number": 11,
+      "name": "Kapløbet mod maskinen",
+      "airdate": "2023-02-22"
+    },
+    {
+      "id": "146f02d1-d6bc-41a4-a69c-30c8d61ffab6",
+      "season": 3,
+      "number": 13,
+      "name": "Ay Fidelity; Cut the Chisme",
+      "airdate": "2023-02-22"
+    },
+    {
+      "id": "558d8159-73db-4e6d-b702-bc0610740fbc",
+      "season": 3,
+      "number": 14,
+      "name": "Sidekickin' Chicken; Silent Fight",
+      "airdate": "2023-02-22"
+    },
+    {
+      "id": "9c569a8c-258a-4066-ab69-4ffa75a10b37",
+      "season": 3,
+      "number": 15,
+      "name": "Kick Some Bot; Salvador Doggy",
+      "airdate": "2023-02-22"
+    },
+    {
+      "id": "af19e108-9323-4e07-a2b3-35da84a9f53d",
+      "season": 3,
+      "number": 16,
+      "name": "The Wurst Job; The Sound of Meddle",
+      "airdate": "2023-02-22"
+    },
+    {
+      "id": "38e61aed-419b-4f33-800f-dff639ca0f4c",
+      "season": 3,
+      "number": 17,
+      "name": "Alpaca Lies; Rocket Plan",
+      "airdate": "2023-02-22"
+    },
+    {
+      "id": "13ee8b17-6bb0-4f6c-b29b-c1df0b86a1e2",
+      "season": 3,
+      "number": 19,
+      "name": "The Oddfather; Long Shot",
+      "airdate": "2023-02-22"
+    }
+  ]
+}

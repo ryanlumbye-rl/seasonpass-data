@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:hvornaar-bliver-jeg-verdensmester-tv2bornholm",
+  "name": "Hvornår bliver jeg verdensmester?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I tre afsnit følger vi Anne, Ida og Asger, der alle deler drømmen om at nå toppen inden for deres sport. Livet som sportsudøver på Bornholm byder på særlige udfordringer, når de skal jonglere skole, træning og de mange færgeture, der ofte er nødvendige for at konkurrere og træne på højeste niveau",
+  "image": "https://cdn-play.tv2i.dk/4b199ef9-ac83-490c-a903-98feaf4ad99c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b5ebde69-74c0-4585-9d05-0efe6985308e",
+      "season": 1,
+      "number": 1,
+      "name": "Når ø-livet udfordrer drømmen",
+      "airdate": "2024-12-29"
+    },
+    {
+      "id": "0f542d91-07b9-4ef7-af42-886b89eb0060",
+      "season": 1,
+      "number": 2,
+      "name": "En konkurrencepræget verden",
+      "airdate": "2025-01-05"
+    },
+    {
+      "id": "b1d5f871-1b7e-4ea4-835d-2fa084658e9f",
+      "season": 1,
+      "number": 3,
+      "name": "Tættere på drømmen?",
+      "airdate": "2025-01-12"
+    }
+  ]
+}

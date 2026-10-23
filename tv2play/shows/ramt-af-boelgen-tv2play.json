@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Bornholms Grønne Bølge bygger på idéen om et sammenhængende natur-, kultur- og friluftslandskab med enestående landskabelige, naturmæssige og rekreative oplevelser fra nord til syd gennem Bornholms indre. I serien møder du nogle af dem, der rammes af bølgen.",
+  "image": "https://cdn-play.tv2i.dk/cb384b3c-fc00-3e87-bbc2-4962ee077db3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
   "episodes": [
     {
       "id": "0256512f-7e57-445d-97ba-de4511a772d9",

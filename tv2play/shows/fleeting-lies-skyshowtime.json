@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:fleeting-lies-skyshowtime",
+  "name": "Fleeting Lies",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da hun mister sit job efter at have været offer for en sammensværgelse, åbner Lucía – som skal bevise sin uskyld – en ulovlig skønhedsbehandlingsvirksomhed",
+  "image": "https://cdn-play.tv2i.dk/41353b58-611e-4cb6-9cf4-50d853a92552.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3478%2C1956&w=1280",
+  "episodes": [
+    {
+      "id": "fbbab59c-b606-4ded-bc9d-22e382edb8aa",
+      "season": 1,
+      "number": 1,
+      "name": "First",
+      "airdate": "2023-10-09"
+    },
+    {
+      "id": "ef59df1c-92d6-490c-ade8-e3df70d631a6",
+      "season": 1,
+      "number": 2,
+      "name": "Second",
+      "airdate": "2023-10-16"
+    },
+    {
+      "id": "016ed2f9-b615-4d4d-9631-d6840976d951",
+      "season": 1,
+      "number": 3,
+      "name": "Third",
+      "airdate": "2023-10-23"
+    },
+    {
+      "id": "74d379fd-a73e-4b58-832f-eab56b7b4fd5",
+      "season": 1,
+      "number": 4,
+      "name": "Fourth",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "e7aa02c8-5bd9-457f-b1aa-cdcd8ac29e53",
+      "season": 1,
+      "number": 5,
+      "name": "Fifth",
+      "airdate": "2023-11-06"
+    },
+    {
+      "id": "b8b2ffb1-50ab-49cf-99ca-a77c081b7ce9",
+      "season": 1,
+      "number": 6,
+      "name": "Sixth",
+      "airdate": "2023-11-13"
+    },
+    {
+      "id": "de6be1e0-33c4-4606-b7e4-2c45c32a48ff",
+      "season": 1,
+      "number": 7,
+      "name": "Seventh",
+      "airdate": "2023-11-20"
+    },
+    {
+      "id": "73bffdf4-5bbe-497c-9242-04be19f32531",
+      "season": 1,
+      "number": 8,
+      "name": "Eighth",
+      "airdate": "2023-11-27"
+    }
+  ]
+}

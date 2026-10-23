@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:graenseloes-tv2echo",
+  "name": "Grænseløs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Actionfyldt komedieserie med Martin Høgsted og hans svenske pendant Jesper Rönndahl. De to diametralt forskellige grænsebetjente, danske Rasmus og svenske Johan, udvikler et utraditionelt venskab midt i hemmelige undercoveroperationer og livsfarlige narkohandler.",
+  "image": "https://cdn-play.tv2i.dk/eb4842bf-0b74-48eb-98f3-f85b7ec56065.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0fce12c9-a163-445b-8eb3-dd5a802495b9",
+      "season": 1,
+      "number": 1,
+      "name": "The gun man",
+      "airdate": "2025-11-07"
+    },
+    {
+      "id": "0234cca5-c8dd-4d14-aa8b-f54067a41e07",
+      "season": 1,
+      "number": 2,
+      "name": "The phone call",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "e2e113d8-802d-4173-ae4e-da3fbfdf73c5",
+      "season": 1,
+      "number": 3,
+      "name": "Get guns or die trying",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "b52c3a67-ca55-4fe5-aeed-c8849178c4d6",
+      "season": 1,
+      "number": 4,
+      "name": "Mr. Moskito I presume",
+      "airdate": "2025-11-21"
+    },
+    {
+      "id": "3f7ee3cb-b688-4135-a651-ddd7f05d1410",
+      "season": 1,
+      "number": 5,
+      "name": "The A-team",
+      "airdate": "2025-11-21"
+    },
+    {
+      "id": "45db09ca-bab4-476d-9f91-e9988dbe7512",
+      "season": 1,
+      "number": 6,
+      "name": "Operation Arsenal",
+      "airdate": "2025-11-28"
+    },
+    {
+      "id": "473b9e45-5e80-4636-a212-1dfe54cd5a1d",
+      "season": 1,
+      "number": 7,
+      "name": "Mission possible",
+      "airdate": "2025-11-28"
+    }
+  ]
+}

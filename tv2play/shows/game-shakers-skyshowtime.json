@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:game-shakers-skyshowtime",
+  "name": "Game Shakers",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Babe og Kenzie skaber et mobilspil til et skoleprojekt, der uventet vokser sig til en global populær succes på flere millioner dollars. Men da en rapstjerne truer dem med sagsanlæg, beslutter pigerne sig for at samarbejde med ham og hans søn.",
+  "image": "https://cdn-play.tv2i.dk/2fef8921-1fd0-4184-a574-38696d3ac806.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6ac0ef65-1afc-4561-8a4a-1ad87ee21067",
+      "season": 1,
+      "number": 5,
+      "name": "Dirty Blob",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c14c9d0d-5ee8-4d15-a195-da3adbe4d907",
+      "season": 1,
+      "number": 6,
+      "name": "MeGo the Freakish Robot",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "65aac6e8-749c-45d9-9f55-f1340446f36a",
+      "season": 1,
+      "number": 8,
+      "name": "Scared Tripless",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "956dde3f-8ed8-4cc5-81f4-3f0d3f9e0c8d",
+      "season": 1,
+      "number": 10,
+      "name": "You Bet Your Bunny",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ab0e01df-ebc1-4aed-91dd-a2fb31c2e963",
+      "season": 1,
+      "number": 13,
+      "name": "Poison Pie",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ae371bb9-6e5d-47f9-803c-d9febd893431",
+      "season": 1,
+      "number": 14,
+      "name": "Nasty Goats",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "71f5b357-3cdd-4c4c-a37a-c9f62842eef3",
+      "season": 1,
+      "number": 15,
+      "name": "A Job for Jimbo",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c9b4d034-2a9e-4681-8bcd-15ca69ee5c4f",
+      "season": 1,
+      "number": 16,
+      "name": "The Girl Power Awards",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "94bb8327-ce83-43b1-9347-8462be2b8ac1",
+      "season": 1,
+      "number": 22,
+      "name": "Byte Club",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "8de79e38-2c8c-4d46-acd6-b96f851dabbc",
+      "season": 1,
+      "number": 23,
+      "name": "Secret Level",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "1a4d8916-8f4b-4fd6-a64c-ddee9c8066b1",
+      "season": 1,
+      "number": 24,
+      "name": "Revenge at Tech Fest Part 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "9baccfe0-eba7-4519-806e-1c1551f88533",
+      "season": 1,
+      "number": 25,
+      "name": "Revenge at Tech Fest Part 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a152ed46-99de-4a4b-99c4-ddb2ff0467f9",
+      "season": 2,
+      "number": 3,
+      "name": "Bryllupsfesten fra helvede",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "39cee8ef-c9f6-4b93-80a4-da69a61c39f9",
+      "season": 2,
+      "number": 4,
+      "name": "Kodning i armslængde",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "14c4c3d0-9e46-40a8-93f1-7f936d315310",
+      "season": 2,
+      "number": 5,
+      "name": "Masonsimulatoren",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "e6760f49-44f3-47dc-9962-d5d5952102c7",
+      "season": 2,
+      "number": 15,
+      "name": "Wingsuits og raketstøvler",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "04aee0fe-ef23-4f6f-96b5-a464337358ad",
+      "season": 3,
+      "number": 10,
+      "name": "Terapi med Snoop",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "391e39ce-36f4-46f3-89ef-0af131097cf1",
+      "season": 3,
+      "number": 16,
+      "name": "Kattekirurgi",
+      "airdate": "2023-06-14"
+    }
+  ]
+}

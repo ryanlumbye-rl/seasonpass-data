@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:mussolini-son-of-the-century-skyshowtime",
+  "name": "Mussolini: Son of the Century",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den politiske historie om Mussolinis magtovertagelse i Italien, hvor han undergravede demokratiet for at etablere et diktatur. Han forrådte idealer, mennesker og institutioner, og begik voldshandlinger uden fortilfælde - alligevel forelskede hele landet sig i ham og han blev dets ubestridte Il Duce.",
+  "image": "https://cdn-play.tv2i.dk/82571a8c-0772-40b6-b7ef-4d024c5b71f1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ba91228f-561f-4c89-bd6e-66eb5ef287f2",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "44e3070c-8a29-4933-be8b-ce1aea5958f1",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "9b82e463-e537-4c64-805d-237ec5ea2814",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "627e74eb-d944-443e-8bbe-df9b7fbb0065",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "5a6120da-08cb-4260-baf8-9d6197089e48",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "dfc5922d-bef9-487e-ad73-0bda84ed2ce2",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "72cadd7c-fad8-4205-9b0c-47d24fbab1aa",
+      "season": 1,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "428f8b82-a274-466b-a7b3-352883ed2728",
+      "season": 1,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2025-03-03"
+    }
+  ]
+}

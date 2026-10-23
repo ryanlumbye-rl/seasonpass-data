@@ -1,0 +1,110 @@
+{
+  "id": "tv2play:foelg-mig-tv2echo",
+  "name": "Følg mig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad sker der, når privatlivet bliver ens forretning? Vi følger fem kendte influencers, der lever af at dele deres liv på nettet - på godt og på ondt.",
+  "image": "https://cdn-play.tv2i.dk/1a218fae-a7da-4079-9cc7-0cc0b11c0493.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "0760f6fd-9dce-41f6-8804-48485055de0a",
+      "season": 1,
+      "number": 1,
+      "name": "I hælene på influencerne",
+      "airdate": "2019-02-18"
+    },
+    {
+      "id": "96caf036-8d6b-4e6d-80ba-90d68a498dd8",
+      "season": 1,
+      "number": 2,
+      "name": "I hælene på influencerne",
+      "airdate": "2018-12-30"
+    },
+    {
+      "id": "e37d0db9-3345-40d9-aa6b-d311f1635be3",
+      "season": 1,
+      "number": 3,
+      "name": "I hælene på influencerne",
+      "airdate": "2019-01-06"
+    },
+    {
+      "id": "45516a6e-856d-4465-9128-91031f96b70a",
+      "season": 1,
+      "number": 4,
+      "name": "I hælene på influencerne",
+      "airdate": "2019-03-11"
+    },
+    {
+      "id": "5d2dcb68-e330-4eb4-bb95-0cf2aa5018fd",
+      "season": 1,
+      "number": 5,
+      "name": "I hælene på influencerne",
+      "airdate": "2019-03-11"
+    },
+    {
+      "id": "3513adf3-5e98-481a-8cca-a985c0733478",
+      "season": 1,
+      "number": 6,
+      "name": "I hælene på influencerne",
+      "airdate": "2019-01-27"
+    },
+    {
+      "id": "94cc3a2b-0a9d-4526-8a34-d7095d7ea5d2",
+      "season": 2,
+      "number": 1,
+      "name": "Du og jeg",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "38d4cc84-2b81-4d5a-9de0-8ac973013fab",
+      "season": 2,
+      "number": 2,
+      "name": "Nerver af stål",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "538c1d78-44b6-4cff-897c-11765b381e84",
+      "season": 2,
+      "number": 3,
+      "name": "Nu eller aldrig",
+      "airdate": "2023-02-13"
+    },
+    {
+      "id": "24541274-068e-4f17-808b-0511c7b8e31c",
+      "season": 2,
+      "number": 4,
+      "name": "Berømmelsens pris",
+      "airdate": "2023-02-13"
+    },
+    {
+      "id": "231e2585-824a-4a86-8ccf-a8fad1efaa1d",
+      "season": 2,
+      "number": 5,
+      "name": "Bryd tabuet",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "7a53cf2e-06a3-46c8-82f4-1f38289729ec",
+      "season": 2,
+      "number": 6,
+      "name": "Slå dig løs",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "85fb80bf-a3ad-4a3a-89ea-7718aa948308",
+      "season": 2,
+      "number": 7,
+      "name": "Tro på det",
+      "airdate": "2023-02-27"
+    },
+    {
+      "id": "e5a0920e-c880-4ce4-ad75-dd951cc2652f",
+      "season": 2,
+      "number": 8,
+      "name": "Du er min",
+      "airdate": "2023-02-27"
+    }
+  ]
+}

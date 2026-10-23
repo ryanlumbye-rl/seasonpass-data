@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:tv-2bornholm-rapperne-fra-roenne-tv2bornholm",
+  "name": "Rapperne fra Rønne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I et år har TV 2/Bornholm fulgt Karl, Vitus og Ludvig i drømmen om at slå igennem med deres musik. Et år, der er afgørende for fremtiden, når ungdomsuddannelser afsluttes og svære valg skal træffes. 'Rapperne fra Rønne' er en livsbekræftende og inspirerende fortælling om håb, forandring og drømme",
+  "image": "https://cdn-play.tv2i.dk/23dc3415-f7ca-4aa4-b990-0f774bf43817.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1b727d95-57e7-43cd-a665-3cfdf50cdfed",
+      "season": 1,
+      "number": 1,
+      "name": "Vinter",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "9a3db0ea-61dc-4d9c-9902-b16ce6e61bbe",
+      "season": 1,
+      "number": 2,
+      "name": "Forår",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "da396e93-ea37-49e4-aef3-3f6f63b64c4f",
+      "season": 1,
+      "number": 3,
+      "name": "Sommer",
+      "airdate": "2025-03-19"
+    },
+    {
+      "id": "4c1f3651-d4f9-4099-81fe-49a1575d4b44",
+      "season": 1,
+      "number": 4,
+      "name": "Efterår",
+      "airdate": "2025-03-26"
+    }
+  ]
+}

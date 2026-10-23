@@ -1,0 +1,173 @@
+{
+  "id": "tv2play:forraeder-usa-tv2echo",
+  "name": "Forræder USA",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "20 spillere er klar til at spille det ultimative spil på slottet i Skotland. De 20 er en blanding af kendte og ukendte amerikanske ansigter, og præmien er på hele 250.000 dollars. Hvem løber med sejren - de loyale eller forræderne?",
+  "image": "https://cdn-play.tv2i.dk/85a1a692-4c7c-48ce-b153-ccd0dc520f74.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b06cc5c3-e4cd-4885-b3c9-eb348f4c3004",
+      "season": 1,
+      "number": 1,
+      "name": "Lad spillet begynde!",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "3092344c-3c36-401f-8a60-d0334514c7f7",
+      "season": 1,
+      "number": 2,
+      "name": "Hvem står bag?",
+      "airdate": "2024-12-09"
+    },
+    {
+      "id": "d2513920-dcc5-40b7-9f2e-a210e898e125",
+      "season": 1,
+      "number": 3,
+      "name": "Hun så et mord",
+      "airdate": "2024-12-16"
+    },
+    {
+      "id": "47fafb5c-aa6a-4091-be69-88fbdabd658e",
+      "season": 1,
+      "number": 4,
+      "name": "Leve eller dø?",
+      "airdate": "2024-12-23"
+    },
+    {
+      "id": "f42ddc3f-6cde-4377-8931-d516f73d7eef",
+      "season": 1,
+      "number": 5,
+      "name": "Sådan slipper du afsted med mord",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "0be5a03b-84be-44e8-83c6-26040afeebf9",
+      "season": 1,
+      "number": 6,
+      "name": "Mistanke, mord og mission",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "fa56b0fc-9e10-457e-b01a-13d638308104",
+      "season": 1,
+      "number": 7,
+      "name": "Facaden falder",
+      "airdate": "2025-01-13"
+    },
+    {
+      "id": "55a7c1a3-2f52-44b3-9937-03482d6a8bbf",
+      "season": 1,
+      "number": 8,
+      "name": "Rygtet løber",
+      "airdate": "2025-01-20"
+    },
+    {
+      "id": "bca373d4-107e-4aea-9d5b-67e41dd894ae",
+      "season": 1,
+      "number": 9,
+      "name": "Stol ikke på nogen",
+      "airdate": "2025-01-27"
+    },
+    {
+      "id": "23ef7126-6e50-4945-9faf-9aee8d5d41a8",
+      "season": 1,
+      "number": 10,
+      "name": "Finaledag",
+      "airdate": "2025-02-03"
+    },
+    {
+      "id": "3c28f995-a532-42ff-9f4f-45974918e3e8",
+      "season": 1,
+      "number": 11,
+      "name": "Reunion",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "dca8796d-a18a-4f97-b17c-2860915b0450",
+      "season": 2,
+      "number": 1,
+      "name": "Forrædere og loyale",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "23e7c804-280d-4057-9b12-f622d551b57e",
+      "season": 2,
+      "number": 2,
+      "name": "Velkommen til den mørke side",
+      "airdate": "2025-11-17"
+    },
+    {
+      "id": "cafbf417-7377-4fe5-b3e8-ace2e9717bb2",
+      "season": 2,
+      "number": 3,
+      "name": "Mord forude",
+      "airdate": "2025-11-24"
+    },
+    {
+      "id": "fe859a39-d98d-44da-83a2-a5e35bd06fb3",
+      "season": 2,
+      "number": 4,
+      "name": "Begravelsen",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "8ad3d3a8-f617-417a-81d0-494a6217d001",
+      "season": 2,
+      "number": 5,
+      "name": "Et dræbende træk",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "8e544cd1-bd24-4f08-abc7-33b4ae205f64",
+      "season": 2,
+      "number": 6,
+      "name": "Stukket i ryggen",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "dd6bb060-af81-477f-8ddb-5875e9075a60",
+      "season": 2,
+      "number": 7,
+      "name": "Blod på hænderne",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "b061703d-ba9b-4f5f-8b66-503437f39333",
+      "season": 2,
+      "number": 8,
+      "name": "Knive ved daggry",
+      "airdate": "2025-12-29"
+    },
+    {
+      "id": "aebccded-46e0-4caa-99a5-7c64411fac97",
+      "season": 2,
+      "number": 9,
+      "name": "Dødskamp",
+      "airdate": "2026-01-05"
+    },
+    {
+      "id": "24369457-c995-471e-a4c7-d7c2a518e15c",
+      "season": 2,
+      "number": 10,
+      "name": "Vægten af bedrag",
+      "airdate": "2026-01-12"
+    },
+    {
+      "id": "60606bf2-046d-4e3b-b3e2-f5515d2accf4",
+      "season": 2,
+      "number": 11,
+      "name": "Den sidste forhindring",
+      "airdate": "2026-01-19"
+    },
+    {
+      "id": "195d493f-008d-4004-8d28-f01b63838de9",
+      "season": 2,
+      "number": 12,
+      "name": "Reunion",
+      "airdate": "2026-01-26"
+    }
+  ]
+}

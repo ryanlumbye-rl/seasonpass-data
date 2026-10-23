@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:droemmen-om-le-mans-tv2nord",
+  "name": "Drømmen om Le Mans",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En umulig drøm vil nogen måske sige men ikke Palle og Asger. De to vil køre 24-timers løbet Le Mans om fem år, men først skal de skaffe 25 mio. sponsorkroner. Og Asger, der trods sine kun 20 år er den mest erfarne, skal lære Palle, der er 52 år, endnu flere tricks på gokartbanen",
+  "image": "https://cdn-play.tv2i.dk/8db6b48e-f3aa-4ecf-a1f1-248d2f150f27.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3556%2C2000&w=1280",
+  "episodes": [
+    {
+      "id": "f726bfef-828b-4321-99cb-5ab94b9ff3ac",
+      "season": 1,
+      "number": 1,
+      "name": "Voksen-skældud",
+      "airdate": "2025-01-11"
+    },
+    {
+      "id": "72da9bc5-0c0a-4cbc-8115-0b41d425629a",
+      "season": 1,
+      "number": 2,
+      "name": "Palles store dag",
+      "airdate": "2025-01-18"
+    }
+  ]
+}

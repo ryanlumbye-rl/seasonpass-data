@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:alle-alene-i-verden-tv2play",
+  "name": "Alle alene i verden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det har aldrig været nemmere at passe sig selv. Alt kan klares med et par klik på skærmen, uden man behøver at tale med nogen. Men hvad sker der egentlig med os, når smalltalken og de små, tilfældige møder forsvinder?",
+  "image": "https://cdn-play.tv2i.dk/71869bce-cb15-417f-b210-742f754afe45.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "81cd97e8-f833-414b-97d2-c560a4571e78",
+      "season": 1,
+      "number": 1,
+      "name": "Ensomhedspræst og fællessang",
+      "airdate": "2025-10-05"
+    },
+    {
+      "id": "82b1821d-c3dd-4fd8-b9c2-089346ce1846",
+      "season": 1,
+      "number": 2,
+      "name": "Et modigt opslag",
+      "airdate": "2025-10-05"
+    },
+    {
+      "id": "f5955c3d-e650-4294-a714-20fb21f48ca8",
+      "season": 1,
+      "number": 3,
+      "name": "Den forbandede skærm",
+      "airdate": "2025-10-05"
+    }
+  ]
+}

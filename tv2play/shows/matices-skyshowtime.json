@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:matices-skyshowtime",
+  "name": "Matices",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Seks psykiatriske patienter mødes på en isoleret vingård for at gennemføre doktor Marlows behandling, men da et mistænkeligt dødsfald indtræffer, ender de alle som mistænkte i en mordefterforskning.",
+  "image": "https://cdn-play.tv2i.dk/4fcc99ff-2ea5-404d-90b0-a1b05d40f206.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3150%2C1772&w=1280",
+  "episodes": [
+    {
+      "id": "d08b318d-2052-4136-a2ca-0c1382aa0735",
+      "season": 1,
+      "number": 1,
+      "name": "Eviana",
+      "airdate": "2025-06-05"
+    },
+    {
+      "id": "32cdcdec-b772-4f11-9d35-bc279d4d4c4c",
+      "season": 1,
+      "number": 2,
+      "name": "Doctor Marlow",
+      "airdate": "2025-06-05"
+    },
+    {
+      "id": "b997a0fb-23f0-4a38-910b-980f33732e46",
+      "season": 1,
+      "number": 3,
+      "name": "Ceci",
+      "airdate": "2025-06-05"
+    },
+    {
+      "id": "b53e3b6d-225d-461f-a00b-30b06c73a2ac",
+      "season": 1,
+      "number": 4,
+      "name": "Ana",
+      "airdate": "2025-06-12"
+    },
+    {
+      "id": "05266338-0317-4dd2-ab63-d889cdbd8036",
+      "season": 1,
+      "number": 5,
+      "name": "Mr. & Mrs. Polan",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "d6b441c0-1baf-4502-bb20-2f171fa20d4c",
+      "season": 1,
+      "number": 6,
+      "name": "Fariba",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "98995b71-8066-4891-a7c4-44c7c20e8207",
+      "season": 1,
+      "number": 7,
+      "name": "Norman",
+      "airdate": "2025-07-03"
+    },
+    {
+      "id": "48527960-15f8-47bb-88ac-501b465d7fde",
+      "season": 1,
+      "number": 8,
+      "name": "Lieutenant Castro",
+      "airdate": "2025-07-10"
+    }
+  ]
+}

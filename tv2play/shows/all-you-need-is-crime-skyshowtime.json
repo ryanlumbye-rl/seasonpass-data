@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:all-you-need-is-crime-skyshowtime",
+  "name": "All You Need Is Crime",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Giuseppe og hans klodsede venner Moreno og Claudio rejser tilbage i tiden til Italien i 1970 i håb om at sikre deres fremtidige formuer og finde Giuseppes mor. Men da deres handlinger fører til uforudsigelige konsekvenser i nutiden, må de atter rejse tilbage i tid for at rette op på historiens gang",
+  "image": "https://cdn-play.tv2i.dk/c83017b6-3bfc-4229-8e8a-20ed1131e556.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a04a002a-14bb-4ef8-90c6-dc4fc8506c99",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c87dae9b-ec61-4ca5-ab96-954ef42fda98",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "c6f7fbbd-d2a9-45e7-a763-32674333e4fd",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-02-23"
+    },
+    {
+      "id": "6d233ee2-2cf7-42d9-bf0d-26f07eeea3d4",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-03-01"
+    },
+    {
+      "id": "fb331bdf-58ab-4505-9792-b4e6545c412e",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "eaef14be-51cc-4281-9a2f-2dcdb43872d7",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-03-15"
+    }
+  ]
+}

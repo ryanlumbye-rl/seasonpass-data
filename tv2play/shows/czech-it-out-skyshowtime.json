@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:czech-it-out-skyshowtime",
+  "name": "Czech it out",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den berømte madelsker Lukas Hejlik og hans teenagedatter Klara Hejlikova begiver sig ud på en gastronomisk rundrejse i Tjekkiet for at opdage al den mad, kultur og sjov, deres land har at byde på.",
+  "image": "https://cdn-play.tv2i.dk/d63cefee-6cdc-48f3-ba81-af62ef60e015.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e662a41b-abb5-4c40-829e-e5036a860d64",
+      "season": 1,
+      "number": 1,
+      "name": "The Moravian Karst",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "b3414e2e-38e5-4860-a255-777fc7c2cbfd",
+      "season": 1,
+      "number": 2,
+      "name": "Uherské Hradište",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "548b6929-cc9f-4a34-a504-667f19ad906b",
+      "season": 1,
+      "number": 3,
+      "name": "Kokorínsko",
+      "airdate": "2023-05-12"
+    },
+    {
+      "id": "36358d1e-72a6-4c12-a9c8-6c227fa429a6",
+      "season": 1,
+      "number": 4,
+      "name": "Litomyšl",
+      "airdate": "2023-05-12"
+    },
+    {
+      "id": "4bfa036d-8764-4f3f-9562-6d58f7a43a03",
+      "season": 1,
+      "number": 5,
+      "name": "Šumava",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "45b82f4c-8be9-4929-ade3-52ad7aa5f54e",
+      "season": 1,
+      "number": 6,
+      "name": "Kutná Hora",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "5c15dd8b-98eb-4404-817c-7bd8d7ac06c7",
+      "season": 1,
+      "number": 7,
+      "name": "Orlické Horya",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "ca9d197b-ec30-4afb-84d5-dafbf13094f3",
+      "season": 1,
+      "number": 8,
+      "name": "The Bohemian-Moravian Highlands",
+      "airdate": "2023-05-26"
+    }
+  ]
+}

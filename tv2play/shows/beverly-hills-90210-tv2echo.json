@@ -1,0 +1,2042 @@
+{
+  "id": "tv2play:beverly-hills-90210-tv2echo",
+  "name": "Beverly Hills 90210",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Se eller gense USAs hotteste serie om unge og deres familier i verdens rigeste kvarter, hvor succes er en livsstil, penge er en selvfølge og ægte kærlighed er en sjældenhed.",
+  "image": "https://cdn-play.tv2i.dk/a819f546-1e59-4537-a555-8cd8a6c9b82c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d47f8d1c-e94f-42b8-a679-aa7a298a4f28",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot/Class of Beverly Hills",
+      "airdate": "1992-03-23"
+    },
+    {
+      "id": "b91bcca6-f96a-48e3-9400-0803faa4be36",
+      "season": 1,
+      "number": 2,
+      "name": "The Green Room",
+      "airdate": "1992-03-26"
+    },
+    {
+      "id": "f99af653-9259-4c67-a2d0-e0c4ebf1477f",
+      "season": 1,
+      "number": 3,
+      "name": "Every Dream has It's Price (Tag)",
+      "airdate": "1992-04-02"
+    },
+    {
+      "id": "57ce1894-5b40-4a3a-9a3f-30cb37c67574",
+      "season": 1,
+      "number": 4,
+      "name": "The First Time",
+      "airdate": "1992-04-09"
+    },
+    {
+      "id": "8affc33b-306b-4ea7-b26f-b11461ddc727",
+      "season": 1,
+      "number": 5,
+      "name": "One on One",
+      "airdate": "1992-04-23"
+    },
+    {
+      "id": "fa66351b-f430-45c8-a79f-dfc7444aaebd",
+      "season": 1,
+      "number": 6,
+      "name": "Higher Education",
+      "airdate": "1992-04-30"
+    },
+    {
+      "id": "301abffd-962e-4800-bd38-0501ed5ee760",
+      "season": 1,
+      "number": 7,
+      "name": "Perfect Mom",
+      "airdate": "1992-05-07"
+    },
+    {
+      "id": "81ccd7c5-390c-4730-9950-555bb068d92b",
+      "season": 1,
+      "number": 8,
+      "name": "The 17-Year Itch",
+      "airdate": "1992-05-14"
+    },
+    {
+      "id": "2eafc8f4-feaa-4794-9795-e78ce854d786",
+      "season": 1,
+      "number": 9,
+      "name": "The Gentle Art of Listening",
+      "airdate": "1992-05-21"
+    },
+    {
+      "id": "cc6eab4e-770a-4d43-96b1-c0839438886a",
+      "season": 1,
+      "number": 10,
+      "name": "Isn't It Romantic",
+      "airdate": "1992-05-28"
+    },
+    {
+      "id": "165b1e72-97e9-4d6e-831b-5fb84aa0a0d2",
+      "season": 1,
+      "number": 11,
+      "name": "B.Y.O.B.",
+      "airdate": "1992-06-04"
+    },
+    {
+      "id": "13a080ac-c28f-420f-aa71-3c875b661b7a",
+      "season": 1,
+      "number": 12,
+      "name": "One Man and a Baby",
+      "airdate": "1992-06-18"
+    },
+    {
+      "id": "cf7dc639-3e0a-4744-9e66-84aef1cef81b",
+      "season": 1,
+      "number": 13,
+      "name": "Slumber Party",
+      "airdate": "1992-06-25"
+    },
+    {
+      "id": "cf321299-7262-4d9e-8683-95977f52120a",
+      "season": 1,
+      "number": 14,
+      "name": "East Side Story",
+      "airdate": "1992-07-02"
+    },
+    {
+      "id": "34ff8da8-8b36-4d5c-8051-f522b0037842",
+      "season": 1,
+      "number": 15,
+      "name": "A Fling in Palm Springs",
+      "airdate": "1992-07-09"
+    },
+    {
+      "id": "3a14e43b-4836-47a9-8ba7-b4500843b18a",
+      "season": 1,
+      "number": 16,
+      "name": "Fame Is Where You Find It",
+      "airdate": "1992-07-16"
+    },
+    {
+      "id": "782c024f-b474-4bea-90a2-a1748a2330b2",
+      "season": 1,
+      "number": 17,
+      "name": "Stand (Up) and Deliver",
+      "airdate": "1992-07-23"
+    },
+    {
+      "id": "80910029-59c8-4819-a505-f07d870e9e83",
+      "season": 1,
+      "number": 18,
+      "name": "It's Only A Test",
+      "airdate": "1992-07-30"
+    },
+    {
+      "id": "3d3003a3-f081-40bf-8e8d-edd3da21087d",
+      "season": 1,
+      "number": 19,
+      "name": "April Is The Cruellest Month",
+      "airdate": "1992-08-06"
+    },
+    {
+      "id": "0af3e8a6-da3a-40df-a211-3c3238baafcd",
+      "season": 1,
+      "number": 20,
+      "name": "Spring Training",
+      "airdate": "1992-08-13"
+    },
+    {
+      "id": "178750a7-6ebb-4e43-b598-270d1a216790",
+      "season": 1,
+      "number": 21,
+      "name": "Spring Dance",
+      "airdate": "1992-08-20"
+    },
+    {
+      "id": "d9ebab49-101f-4bfb-b1a9-639e2c53564d",
+      "season": 1,
+      "number": 22,
+      "name": "Home Again",
+      "airdate": "1992-08-27"
+    },
+    {
+      "id": "a8bbd60e-17cd-4210-8239-b873e3420be6",
+      "season": 2,
+      "number": 1,
+      "name": "Beach Blanket Brandon",
+      "airdate": "1992-09-03"
+    },
+    {
+      "id": "dbd255fb-4226-471e-b534-29f2ef6aeb8f",
+      "season": 2,
+      "number": 2,
+      "name": "Party Fish",
+      "airdate": "1992-09-10"
+    },
+    {
+      "id": "e01db7d3-8e49-48a1-a93e-580908531b5e",
+      "season": 2,
+      "number": 3,
+      "name": "Summer Storm",
+      "airdate": "1992-09-17"
+    },
+    {
+      "id": "f7cf17cb-fb9b-4b85-ba6b-11755e6f0655",
+      "season": 2,
+      "number": 4,
+      "name": "Anaconda",
+      "airdate": "1992-09-24"
+    },
+    {
+      "id": "22fa0934-1929-44aa-a53e-e03cd6b6d5e9",
+      "season": 2,
+      "number": 5,
+      "name": "Play It Again, David",
+      "airdate": "1992-10-01"
+    },
+    {
+      "id": "bbac3586-9ce7-478b-8186-7b0d46e32619",
+      "season": 2,
+      "number": 6,
+      "name": "Pass - Not Pass",
+      "airdate": "1992-10-08"
+    },
+    {
+      "id": "40ea63b1-ea19-4530-9740-4ef562ecbab7",
+      "season": 2,
+      "number": 7,
+      "name": "Camping Trip",
+      "airdate": "1992-10-15"
+    },
+    {
+      "id": "2026a8b9-bf90-4231-b282-55754db98f8d",
+      "season": 2,
+      "number": 8,
+      "name": "Wildfire",
+      "airdate": "1992-10-22"
+    },
+    {
+      "id": "73649269-d622-4605-9ece-535a75b263c0",
+      "season": 2,
+      "number": 9,
+      "name": "Ashes To Ashes",
+      "airdate": "1992-10-29"
+    },
+    {
+      "id": "53d25ef0-8e38-40e6-afe1-b2371e36e9f2",
+      "season": 2,
+      "number": 10,
+      "name": "Necessity Is A Mother",
+      "airdate": "1992-11-05"
+    },
+    {
+      "id": "cc4cd7fe-25bd-46b0-ad30-f8b4b5c9d907",
+      "season": 2,
+      "number": 11,
+      "name": "Leading From The Heart",
+      "airdate": "1992-11-12"
+    },
+    {
+      "id": "1300ca39-7f51-4b7b-9f9d-e9872f4a0c22",
+      "season": 2,
+      "number": 12,
+      "name": "Down and Out In The District Of Beverly Hills",
+      "airdate": "1992-11-19"
+    },
+    {
+      "id": "bf07d197-aed5-4ae9-ac54-fa96b2ce77bc",
+      "season": 2,
+      "number": 13,
+      "name": "Halloween",
+      "airdate": "1992-11-26"
+    },
+    {
+      "id": "0a420947-218a-4c1c-beb7-c2e74bd0b24f",
+      "season": 2,
+      "number": 14,
+      "name": "The Next 50 Years",
+      "airdate": "1992-12-03"
+    },
+    {
+      "id": "3755930b-9f17-4a6b-bbfa-359fb91af7e0",
+      "season": 2,
+      "number": 15,
+      "name": "U4EA",
+      "airdate": "1992-12-10"
+    },
+    {
+      "id": "7201e214-a8a7-4eae-8f1e-2f75dd9fe6c9",
+      "season": 2,
+      "number": 16,
+      "name": "My Desperate Valentine",
+      "airdate": "1992-12-17"
+    },
+    {
+      "id": "a013f5ea-5094-4fd1-938d-fb5f843bea7f",
+      "season": 2,
+      "number": 17,
+      "name": "Chuckie's Back",
+      "airdate": "1993-01-07"
+    },
+    {
+      "id": "672cb1f9-4651-4ba4-8098-02fc0c0374d2",
+      "season": 2,
+      "number": 18,
+      "name": "Walsh Family Christmas",
+      "airdate": "1993-01-14"
+    },
+    {
+      "id": "0fe9f632-5a7f-4858-a132-1651b5c40baf",
+      "season": 2,
+      "number": 19,
+      "name": "Fire And Ice",
+      "airdate": "1993-01-21"
+    },
+    {
+      "id": "a849aa39-d4be-46a4-9580-d8cd1953b155",
+      "season": 2,
+      "number": 20,
+      "name": "A Competitive Edge",
+      "airdate": "1993-01-28"
+    },
+    {
+      "id": "8f853102-d251-4984-8597-e81d77922c91",
+      "season": 2,
+      "number": 21,
+      "name": "Everybody's Talking About It",
+      "airdate": "1993-02-04"
+    },
+    {
+      "id": "9680b18a-1174-4400-9bbc-4c7eaf060a51",
+      "season": 2,
+      "number": 22,
+      "name": "Baby Makes Five",
+      "airdate": "1993-02-11"
+    },
+    {
+      "id": "84737db3-627b-4875-a327-1a69d6adc4ba",
+      "season": 2,
+      "number": 23,
+      "name": "Cardio Funk",
+      "airdate": "1993-02-18"
+    },
+    {
+      "id": "3ea8ae49-3649-4222-8b68-7207d665af4d",
+      "season": 2,
+      "number": 24,
+      "name": "Pit And The Pendulum",
+      "airdate": "1993-02-25"
+    },
+    {
+      "id": "49c85929-035b-45f6-a630-f6dc2937a34d",
+      "season": 2,
+      "number": 25,
+      "name": "Meeting Mr. Pony",
+      "airdate": "1993-03-04"
+    },
+    {
+      "id": "11a22fcf-56ce-4852-a66c-9102be9b58fc",
+      "season": 2,
+      "number": 26,
+      "name": "Things To Do On A Rainy Day",
+      "airdate": "1993-03-11"
+    },
+    {
+      "id": "1f493395-90d8-4b59-a41e-daf2e1626dbd",
+      "season": 2,
+      "number": 27,
+      "name": "Mexican Standoff",
+      "airdate": "1993-03-18"
+    },
+    {
+      "id": "240ec191-ce99-4df8-a0d4-284b032ba7dc",
+      "season": 2,
+      "number": 28,
+      "name": "Wedding Bell Blues",
+      "airdate": "1993-03-25"
+    },
+    {
+      "id": "a32e4049-0fdd-40a6-9250-0a6b1428bee1",
+      "season": 3,
+      "number": 1,
+      "name": "Misery Loves Company",
+      "airdate": "1993-04-01"
+    },
+    {
+      "id": "237c0946-3793-4d65-a23b-032b320917d9",
+      "season": 3,
+      "number": 2,
+      "name": "The Twins, the Trustee, and the Very Big Trip",
+      "airdate": "1993-04-08"
+    },
+    {
+      "id": "3de8342d-8c36-49f7-8d9a-29bd2db6098c",
+      "season": 3,
+      "number": 3,
+      "name": "Too Little, Too Late/Paris 75001",
+      "airdate": "1993-04-15"
+    },
+    {
+      "id": "ab3124ee-237a-400b-bd8d-8ff3702cf411",
+      "season": 3,
+      "number": 4,
+      "name": "Sex, Lies and Volleyball / Photo Finish",
+      "airdate": "1993-04-22"
+    },
+    {
+      "id": "4c22b1b0-e158-4eb1-8131-ff7990f825fc",
+      "season": 3,
+      "number": 5,
+      "name": "Shooting Star / American In Paris",
+      "airdate": "1993-04-29"
+    },
+    {
+      "id": "2e2ed8d7-23ee-40d0-80a5-42cdc94e179d",
+      "season": 3,
+      "number": 6,
+      "name": "Castles In The Sand",
+      "airdate": "1993-05-06"
+    },
+    {
+      "id": "97945524-5261-4e9c-b313-7fea89e5eb72",
+      "season": 3,
+      "number": 7,
+      "name": "A Song For Myself",
+      "airdate": "1993-05-13"
+    },
+    {
+      "id": "0b967906-0b24-4149-b2e4-7f6bf4ed95db",
+      "season": 3,
+      "number": 8,
+      "name": "The Back Story",
+      "airdate": "1993-05-20"
+    },
+    {
+      "id": "1a78279d-83d5-4cf5-8048-c87df1266ebc",
+      "season": 3,
+      "number": 9,
+      "name": "Highwire",
+      "airdate": "1993-05-27"
+    },
+    {
+      "id": "af1b7bf9-0b15-4fd0-885d-7ac22e6a82b7",
+      "season": 3,
+      "number": 10,
+      "name": "Home and Away",
+      "airdate": "1993-06-03"
+    },
+    {
+      "id": "502fafb7-283d-4072-b503-41f9917af3c9",
+      "season": 3,
+      "number": 11,
+      "name": "A Presumption of Innocence",
+      "airdate": "1993-06-10"
+    },
+    {
+      "id": "668fbab8-9396-4ac3-abfb-e3252e076fe2",
+      "season": 3,
+      "number": 12,
+      "name": "Destiny Rides Again",
+      "airdate": "1993-06-17"
+    },
+    {
+      "id": "e0f99e16-c0eb-4862-8d30-1a664f4e5e07",
+      "season": 3,
+      "number": 13,
+      "name": "Rebel With a Cause",
+      "airdate": "1993-06-24"
+    },
+    {
+      "id": "0ba737f5-cd43-4247-89d0-cc84fd23beb0",
+      "season": 3,
+      "number": 14,
+      "name": "Wild Horses",
+      "airdate": "1993-07-01"
+    },
+    {
+      "id": "3594e9ec-0829-45af-9aba-05b2424e0d6e",
+      "season": 3,
+      "number": 15,
+      "name": "The Kindness of Strangers",
+      "airdate": "1993-07-08"
+    },
+    {
+      "id": "625f567f-25d1-4481-99c5-acc2b29892a6",
+      "season": 3,
+      "number": 16,
+      "name": "It's a Totally Happening Life",
+      "airdate": "1993-07-15"
+    },
+    {
+      "id": "739573f4-92b1-4140-8780-63244116dff6",
+      "season": 3,
+      "number": 17,
+      "name": "The Game Is Chicken",
+      "airdate": "1993-07-22"
+    },
+    {
+      "id": "ce54c42a-994d-4346-80d9-8bb1fa9e0169",
+      "season": 3,
+      "number": 18,
+      "name": "Midlife...Now What?",
+      "airdate": "1993-07-29"
+    },
+    {
+      "id": "bcc3ff82-57fd-4cbb-ac18-7b9eb29f947b",
+      "season": 3,
+      "number": 19,
+      "name": "Back in The High Life Again",
+      "airdate": "1993-08-05"
+    },
+    {
+      "id": "e3ad86c2-7d5e-4e40-9fcd-76a4fa9c0aef",
+      "season": 3,
+      "number": 20,
+      "name": "Parental Guidance Recommended",
+      "airdate": "1993-08-12"
+    },
+    {
+      "id": "1ec4e584-0d50-4a64-8fba-7a4666f7e535",
+      "season": 3,
+      "number": 21,
+      "name": "Dead End",
+      "airdate": "1993-08-19"
+    },
+    {
+      "id": "f47d2249-b120-4a92-982a-8f00a9e61598",
+      "season": 3,
+      "number": 22,
+      "name": "The Child Is Father to the Man",
+      "airdate": "1993-08-26"
+    },
+    {
+      "id": "cab6c908-419d-4ec8-8dc3-5a044c27fff3",
+      "season": 3,
+      "number": 23,
+      "name": "Duke's Bad Boy",
+      "airdate": "1993-09-02"
+    },
+    {
+      "id": "1682d7b3-0f8f-43c7-a201-0209b1dc28ce",
+      "season": 3,
+      "number": 24,
+      "name": "Perfectly Perfect",
+      "airdate": "1993-09-09"
+    },
+    {
+      "id": "fe7ba6e3-6462-4bb1-a556-7bb90c40ea2d",
+      "season": 3,
+      "number": 25,
+      "name": "Senior Poll",
+      "airdate": "1993-09-16"
+    },
+    {
+      "id": "80c6cedf-f908-4496-8758-f132597e9216",
+      "season": 3,
+      "number": 26,
+      "name": "She Came in Through the Bathroom Window",
+      "airdate": "1993-09-23"
+    },
+    {
+      "id": "b5635c41-3a2f-4252-aca4-779885a8103e",
+      "season": 3,
+      "number": 27,
+      "name": "A Night to Remember",
+      "airdate": "1993-09-30"
+    },
+    {
+      "id": "a2ec13ae-2244-4a4d-84b7-cf7140054f28",
+      "season": 3,
+      "number": 28,
+      "name": "Something in the Air",
+      "airdate": "1993-10-07"
+    },
+    {
+      "id": "c74bfa32-bbe0-4de4-a1ed-076465eb9461",
+      "season": 3,
+      "number": 29,
+      "name": "Commencement - del 1 & 2",
+      "airdate": "1993-10-14"
+    },
+    {
+      "id": "cdcda1fe-fe0a-4264-983c-6720ecdf4fea",
+      "season": 4,
+      "number": 1,
+      "name": "So Long, Farewell, Auf Wiedersehen, Goodbye",
+      "airdate": "1994-03-10"
+    },
+    {
+      "id": "95ed40f8-077f-4973-8d60-aca24ebcd54d",
+      "season": 4,
+      "number": 2,
+      "name": "The Girl From New York City",
+      "airdate": "1994-03-17"
+    },
+    {
+      "id": "c0b8ef8f-aa31-442f-8359-2533a545a30e",
+      "season": 4,
+      "number": 3,
+      "name": "The Little Fish",
+      "airdate": "1994-03-24"
+    },
+    {
+      "id": "4fc606c6-7510-4353-99d2-0a011aefe097",
+      "season": 4,
+      "number": 4,
+      "name": "Greek to Me",
+      "airdate": "1994-03-31"
+    },
+    {
+      "id": "fceebfd8-d9bf-4397-8c0d-ef9b2e9aced6",
+      "season": 4,
+      "number": 5,
+      "name": "Radio Daze",
+      "airdate": "1994-04-07"
+    },
+    {
+      "id": "278320dc-9214-432d-a788-ed7ed7667c1d",
+      "season": 4,
+      "number": 6,
+      "name": "Strangers in the Night",
+      "airdate": "1994-04-14"
+    },
+    {
+      "id": "f689b693-d2bb-454a-9bb7-77a02b415d4b",
+      "season": 4,
+      "number": 7,
+      "name": "Moving Targets",
+      "airdate": "1994-04-21"
+    },
+    {
+      "id": "1b379781-4882-4842-958d-61fec696f6ec",
+      "season": 4,
+      "number": 8,
+      "name": "20 Years Ago Today",
+      "airdate": "1994-04-28"
+    },
+    {
+      "id": "dce7a3af-1dd6-4969-99a7-6467d3a076cd",
+      "season": 4,
+      "number": 9,
+      "name": "Otherwise Engaged",
+      "airdate": "1994-05-05"
+    },
+    {
+      "id": "bac7046d-2dfd-48f7-bce4-c7a7b3d5599b",
+      "season": 4,
+      "number": 10,
+      "name": "And Did It...My Way",
+      "airdate": "1994-05-12"
+    },
+    {
+      "id": "9b1a3ec8-5120-4e41-8051-62614ff3a1f5",
+      "season": 4,
+      "number": 11,
+      "name": "Take Back the Night",
+      "airdate": "1994-05-19"
+    },
+    {
+      "id": "5145ae53-fa34-4aef-901e-303a8ae008fd",
+      "season": 4,
+      "number": 13,
+      "name": "Emily (a.k.a. The Pink Pearl)",
+      "airdate": "1994-06-02"
+    },
+    {
+      "id": "84da7531-aba1-4800-bc03-9eb6be2ec04a",
+      "season": 4,
+      "number": 14,
+      "name": "Windstruck",
+      "airdate": "1994-08-18"
+    },
+    {
+      "id": "ca96c2b3-cafd-4b54-8131-7918fdf76abd",
+      "season": 4,
+      "number": 15,
+      "name": "Somewhere in the World It's Christmas",
+      "airdate": "1994-08-25"
+    },
+    {
+      "id": "2d8fc66f-f946-4712-be2d-dc270f008299",
+      "season": 4,
+      "number": 16,
+      "name": "Crunch Time",
+      "airdate": "1994-09-01"
+    },
+    {
+      "id": "42c7da81-cc82-4867-a2c2-f896245610b7",
+      "season": 4,
+      "number": 17,
+      "name": "Thicker Than Water",
+      "airdate": "1994-09-08"
+    },
+    {
+      "id": "64efa738-8683-41ab-86e4-7b0e0f1e2f8c",
+      "season": 4,
+      "number": 18,
+      "name": "Heartbreaker",
+      "airdate": "1994-09-15"
+    },
+    {
+      "id": "e47c7918-0276-46b8-a060-0799f4f08d62",
+      "season": 4,
+      "number": 19,
+      "name": "The Labors of Love",
+      "airdate": "1994-09-22"
+    },
+    {
+      "id": "4c665f62-8497-4bbd-a683-99e59f3c3826",
+      "season": 4,
+      "number": 20,
+      "name": "Scared Very Straight",
+      "airdate": "1994-09-29"
+    },
+    {
+      "id": "4ae61c36-6f40-42c9-84d6-35e47dd4832a",
+      "season": 4,
+      "number": 21,
+      "name": "Addicted to Love",
+      "airdate": "1994-10-06"
+    },
+    {
+      "id": "5384880a-610d-411d-8640-459d78cf6a71",
+      "season": 4,
+      "number": 22,
+      "name": "Change Partners",
+      "airdate": "1994-10-13"
+    },
+    {
+      "id": "cb1323f9-c14f-4936-b45b-1a7bd71294cb",
+      "season": 4,
+      "number": 23,
+      "name": "A Pig Is a Boy Is a Dog",
+      "airdate": "1994-10-27"
+    },
+    {
+      "id": "f67f8b9a-433e-495a-8ce4-3e3c00cc4d12",
+      "season": 4,
+      "number": 24,
+      "name": "Cuffs and Links",
+      "airdate": "1994-11-03"
+    },
+    {
+      "id": "bc08c337-c6e9-49ba-bff0-7f638d6bf60b",
+      "season": 4,
+      "number": 25,
+      "name": "The Time Has Come Today",
+      "airdate": "1994-11-10"
+    },
+    {
+      "id": "7ce56928-a2d5-4995-954c-5e60a43e41bb",
+      "season": 4,
+      "number": 26,
+      "name": "Blind Spot",
+      "airdate": "1994-11-17"
+    },
+    {
+      "id": "46661721-0ae1-44cb-adc6-c3bac1c7cd83",
+      "season": 4,
+      "number": 27,
+      "name": "Divas",
+      "airdate": "1994-11-24"
+    },
+    {
+      "id": "d1cf5b15-e0c3-40ca-99b7-0bfc5dd277c6",
+      "season": 4,
+      "number": 28,
+      "name": "Acting Out",
+      "airdate": "1994-12-01"
+    },
+    {
+      "id": "b3063d17-85f6-46e9-bf88-cebe0a3d0850",
+      "season": 4,
+      "number": 29,
+      "name": "Truth and Consequences",
+      "airdate": "1994-12-08"
+    },
+    {
+      "id": "667afa7e-e5bb-41d4-8d77-62dc752e0444",
+      "season": 4,
+      "number": 30,
+      "name": "Vital Signs",
+      "airdate": "1994-12-15"
+    },
+    {
+      "id": "809f2cd7-0463-41f0-a8a4-57d8267f048b",
+      "season": 4,
+      "number": 31,
+      "name": "Mr. Walsh Goes to Washington - del 1 & 2",
+      "airdate": "1995-01-05"
+    },
+    {
+      "id": "37cc17ee-97ee-40d6-a272-00cdcbf425cf",
+      "season": 5,
+      "number": 1,
+      "name": "What I Did on My Summer Vacation and Other Stories",
+      "airdate": "1995-01-12"
+    },
+    {
+      "id": "6e9fdbc1-5666-43ea-87b6-28b2ac08cb87",
+      "season": 5,
+      "number": 2,
+      "name": "Under the Influence",
+      "airdate": "1995-01-19"
+    },
+    {
+      "id": "9baa959b-5cd8-4882-b9bc-710792efdeab",
+      "season": 5,
+      "number": 3,
+      "name": "A Clean Slate",
+      "airdate": "1995-01-26"
+    },
+    {
+      "id": "93b690ca-f78c-4c16-8af0-f11ec7f8c1b2",
+      "season": 5,
+      "number": 4,
+      "name": "Life After Death",
+      "airdate": "1995-02-02"
+    },
+    {
+      "id": "35b27697-c132-4579-9c16-db9ac11844c6",
+      "season": 5,
+      "number": 5,
+      "name": "Rave On",
+      "airdate": "1995-02-09"
+    },
+    {
+      "id": "1eca716f-65d5-44f6-8ae2-2fda92006e66",
+      "season": 5,
+      "number": 6,
+      "name": "Homecoming",
+      "airdate": "1995-02-16"
+    },
+    {
+      "id": "8cde60cf-1ff7-4b51-be40-09a199fad678",
+      "season": 5,
+      "number": 7,
+      "name": "Who's Zoomin' Who?",
+      "airdate": "1995-02-23"
+    },
+    {
+      "id": "eaf19eb9-11c6-4c0b-87a5-8bb894bb3cce",
+      "season": 5,
+      "number": 8,
+      "name": "Things That Go Bang in the Night",
+      "airdate": "1995-03-01"
+    },
+    {
+      "id": "2fe2dda6-1463-498d-b631-37a66ef45733",
+      "season": 5,
+      "number": 9,
+      "name": "Intervention",
+      "airdate": "1995-03-09"
+    },
+    {
+      "id": "a259e85b-8be0-4d75-99fb-e661f9337a96",
+      "season": 5,
+      "number": 10,
+      "name": "The Dreams of Dylan McKay",
+      "airdate": "1995-03-16"
+    },
+    {
+      "id": "f13374a8-7250-493f-8a65-2c8bb8201ab3",
+      "season": 5,
+      "number": 11,
+      "name": "Hate It Just a Four Letter Word",
+      "airdate": "1995-03-23"
+    },
+    {
+      "id": "bebf1d7e-fe89-4514-9bf9-a13f98607642",
+      "season": 5,
+      "number": 12,
+      "name": "Rock of Ages (a.k.a. The Voodoo That You Do So Well)",
+      "airdate": "1995-03-30"
+    },
+    {
+      "id": "33f8b1cb-91de-4597-8da9-cd2bc723cabf",
+      "season": 5,
+      "number": 13,
+      "name": "Up in Flames",
+      "airdate": "1995-04-06"
+    },
+    {
+      "id": "89436ea1-23a9-42a3-bad4-4c4027f7acd9",
+      "season": 5,
+      "number": 14,
+      "name": "Injustice for All",
+      "airdate": "1995-04-13"
+    },
+    {
+      "id": "90257b24-2c6f-4923-8b5c-22b6b5795879",
+      "season": 5,
+      "number": 15,
+      "name": "Christmas Comes This Time Each Year",
+      "airdate": "1995-04-20"
+    },
+    {
+      "id": "cd84ced4-5716-4777-a61e-0f5ebd0c09dc",
+      "season": 5,
+      "number": 16,
+      "name": "Sentenced to Life",
+      "airdate": "1995-04-27"
+    },
+    {
+      "id": "e30b40d9-a7b2-49a7-9dd8-e4a775f8771a",
+      "season": 5,
+      "number": 17,
+      "name": "Sweating It Out",
+      "airdate": "1995-05-11"
+    },
+    {
+      "id": "a4b5b5bb-f481-4134-9021-fbdde8c0632b",
+      "season": 5,
+      "number": 18,
+      "name": "Hazardous to Your Health",
+      "airdate": "1995-05-18"
+    },
+    {
+      "id": "2d982194-e203-4109-90e2-3cbdeb028297",
+      "season": 5,
+      "number": 19,
+      "name": "Little Monsters",
+      "airdate": "1995-05-25"
+    },
+    {
+      "id": "656e2c55-d463-4763-b91b-445dea59d1b7",
+      "season": 5,
+      "number": 20,
+      "name": "You Got to Have Heart",
+      "airdate": "1995-06-01"
+    },
+    {
+      "id": "a969d8b3-0917-4f0b-9223-59bae23b17cf",
+      "season": 5,
+      "number": 21,
+      "name": "Stormy Weather",
+      "airdate": "1995-06-08"
+    },
+    {
+      "id": "faefc974-d511-43de-80b2-ec1148cf22f0",
+      "season": 5,
+      "number": 22,
+      "name": "Alone at the Top",
+      "airdate": "1995-06-15"
+    },
+    {
+      "id": "33b13708-eef6-4d2f-b55c-c0b9f917dab5",
+      "season": 5,
+      "number": 23,
+      "name": "Love Hurts",
+      "airdate": "1995-06-22"
+    },
+    {
+      "id": "d26e4153-0114-4ec9-baef-7199cb500365",
+      "season": 5,
+      "number": 24,
+      "name": "Unreal World",
+      "airdate": "1995-06-29"
+    },
+    {
+      "id": "245a9daa-0f95-44dc-a4c2-3f2d68dcea24",
+      "season": 5,
+      "number": 25,
+      "name": "Double Jeopardy",
+      "airdate": "1995-07-06"
+    },
+    {
+      "id": "521a80db-9a5e-47e2-9ec4-0741fb957458",
+      "season": 5,
+      "number": 26,
+      "name": "A Song for My Mother",
+      "airdate": "1995-07-13"
+    },
+    {
+      "id": "cc97d7f7-ad6d-4765-8791-f3268a3bf89e",
+      "season": 5,
+      "number": 27,
+      "name": "Squash It",
+      "airdate": "1995-07-20"
+    },
+    {
+      "id": "6cf960c4-8504-4ff2-b39f-c0111540eaa8",
+      "season": 5,
+      "number": 28,
+      "name": "Girls on the Side",
+      "airdate": "1995-07-27"
+    },
+    {
+      "id": "93c4329d-23e0-478a-add9-37faedf04a21",
+      "season": 5,
+      "number": 29,
+      "name": "The Real McCoy",
+      "airdate": "1995-08-03"
+    },
+    {
+      "id": "f6038241-6c77-4688-82eb-d04e489e035f",
+      "season": 5,
+      "number": 30,
+      "name": "Hello Life, Goodbye Beverly Hills",
+      "airdate": "1995-08-10"
+    },
+    {
+      "id": "01f34a50-c385-454d-927a-e3ecbe0f9987",
+      "season": 5,
+      "number": 31,
+      "name": "P.S. I Love You - del 1",
+      "airdate": "1995-08-17"
+    },
+    {
+      "id": "bc912be8-e2d1-46f4-841d-83012182fef4",
+      "season": 5,
+      "number": 32,
+      "name": "P.S. I Love You - del 2",
+      "airdate": "1995-08-24"
+    },
+    {
+      "id": "fe99ef91-9ca2-4bf7-8f34-075b10e6075b",
+      "season": 6,
+      "number": 1,
+      "name": "Home Is Where The Tart Is",
+      "airdate": "1996-01-03"
+    },
+    {
+      "id": "2a028ba2-f5d9-4779-9821-448db9899797",
+      "season": 6,
+      "number": 2,
+      "name": "Buffalo Girls",
+      "airdate": "1996-01-10"
+    },
+    {
+      "id": "a694bb91-a816-4998-a726-a9131f4840a1",
+      "season": 6,
+      "number": 3,
+      "name": "Must Be a Guy Thing",
+      "airdate": "1996-01-17"
+    },
+    {
+      "id": "83df0670-27f3-4129-89df-27e1fb51603c",
+      "season": 6,
+      "number": 4,
+      "name": "Everything's Coming Up Roses",
+      "airdate": "1996-01-24"
+    },
+    {
+      "id": "61b7d645-426b-4815-bfd8-804a8a89c1c0",
+      "season": 6,
+      "number": 5,
+      "name": "Lover's Leap",
+      "airdate": "1996-01-31"
+    },
+    {
+      "id": "978fb8bd-fc5c-4a39-bd76-347785b5d16f",
+      "season": 6,
+      "number": 6,
+      "name": "Speechless",
+      "airdate": "1996-02-07"
+    },
+    {
+      "id": "219587da-5cb5-4860-a4c1-5febb12c723d",
+      "season": 6,
+      "number": 7,
+      "name": "Violated",
+      "airdate": "1996-02-14"
+    },
+    {
+      "id": "4f85717d-a47e-42eb-9f08-bb5ed48747e1",
+      "season": 6,
+      "number": 8,
+      "name": "Gypsies, Cramps and Fleas (a.k.a. Halloween VI)",
+      "airdate": "1996-02-21"
+    },
+    {
+      "id": "1f5d946e-4c32-402a-a26f-7e2ccd548100",
+      "season": 6,
+      "number": 9,
+      "name": "Earthquake Weather",
+      "airdate": "1996-02-28"
+    },
+    {
+      "id": "3bc5263b-580f-46f5-a538-0ad7bf914dc2",
+      "season": 6,
+      "number": 10,
+      "name": "One Wedding and a Funeral",
+      "airdate": "1996-03-06"
+    },
+    {
+      "id": "9c4a5b83-45e3-4b00-8d07-defca09e0aba",
+      "season": 6,
+      "number": 11,
+      "name": "Offensive Interference",
+      "airdate": "1996-03-13"
+    },
+    {
+      "id": "a504e805-cca9-4ef6-94f6-cd150301ceac",
+      "season": 6,
+      "number": 12,
+      "name": "Breast Side Up",
+      "airdate": "1996-03-20"
+    },
+    {
+      "id": "598363f5-929a-4946-9e85-0cc397de60d8",
+      "season": 6,
+      "number": 13,
+      "name": "Courting",
+      "airdate": "1996-04-03"
+    },
+    {
+      "id": "fd825b54-d60b-444f-8728-c8ff7bc97b8d",
+      "season": 6,
+      "number": 14,
+      "name": "Fortunate Son",
+      "airdate": "1996-04-10"
+    },
+    {
+      "id": "22197410-5618-4353-a128-22b277806bff",
+      "season": 6,
+      "number": 15,
+      "name": "Angels We Have Heard On High",
+      "airdate": "1996-04-17"
+    },
+    {
+      "id": "5f4bb10f-d71f-41dc-a231-597f6de9ca50",
+      "season": 6,
+      "number": 16,
+      "name": "Turn Back the Clock",
+      "airdate": "1996-04-24"
+    },
+    {
+      "id": "6f28c753-34e2-42c7-9b40-0c8311e8dcdd",
+      "season": 6,
+      "number": 17,
+      "name": "Fade In Fade Out",
+      "airdate": "1996-05-01"
+    },
+    {
+      "id": "c03c1359-bac0-4e4e-af55-4ad4cba8ec75",
+      "season": 6,
+      "number": 18,
+      "name": "Snowbound",
+      "airdate": "1996-05-08"
+    },
+    {
+      "id": "50be5626-9b63-45c6-874a-37c7ffe67954",
+      "season": 6,
+      "number": 19,
+      "name": "Nancy's Choice",
+      "airdate": "1996-05-15"
+    },
+    {
+      "id": "9fb6cffe-9dd1-4c2d-8954-6207f7a4d7ca",
+      "season": 6,
+      "number": 20,
+      "name": "Flying",
+      "airdate": "1996-05-22"
+    },
+    {
+      "id": "01d34378-07e9-4db0-b0e2-b3481ca95278",
+      "season": 6,
+      "number": 21,
+      "name": "Bleeding Hearts",
+      "airdate": "1996-05-29"
+    },
+    {
+      "id": "2bc7f472-d3ad-4525-ae35-3c8a8a3b9cb0",
+      "season": 6,
+      "number": 22,
+      "name": "All This and Mary Too",
+      "airdate": "1996-10-10"
+    },
+    {
+      "id": "b7cdd136-af2a-4c78-9760-72ab4735f2a5",
+      "season": 6,
+      "number": 23,
+      "name": "Leap of Faith",
+      "airdate": "1996-10-17"
+    },
+    {
+      "id": "a1aa8965-e590-49ef-85b7-b81d1fc33ecb",
+      "season": 6,
+      "number": 24,
+      "name": "Coming Out, Going Out, Getting Out",
+      "airdate": "1996-10-24"
+    },
+    {
+      "id": "486c94cf-1ffa-476b-860c-22823a8a3744",
+      "season": 6,
+      "number": 25,
+      "name": "Smashed",
+      "airdate": "1996-10-31"
+    },
+    {
+      "id": "52ff0c7e-0b9e-479a-b265-d247411b25d8",
+      "season": 6,
+      "number": 26,
+      "name": "Flirting with Disaster",
+      "airdate": "1996-11-07"
+    },
+    {
+      "id": "afd180a5-5175-4c62-b5ff-e980afb18b27",
+      "season": 6,
+      "number": 27,
+      "name": "Strike the Match",
+      "airdate": "1996-11-14"
+    },
+    {
+      "id": "4f5c8ac4-db39-4c36-96ad-a75073f506e2",
+      "season": 6,
+      "number": 28,
+      "name": "The Big Hurt",
+      "airdate": "1996-11-21"
+    },
+    {
+      "id": "cc052a56-aded-4b28-ba60-6361c7d5328d",
+      "season": 6,
+      "number": 29,
+      "name": "Ticket to Ride",
+      "airdate": "1996-11-28"
+    },
+    {
+      "id": "7de2eb4a-14e5-4016-9f99-1b513f38fa29",
+      "season": 6,
+      "number": 30,
+      "name": "Ray of Hope",
+      "airdate": "1996-12-05"
+    },
+    {
+      "id": "270d3309-e87c-41db-9614-88e63f604e5f",
+      "season": 6,
+      "number": 31,
+      "name": "You Say it's Your Birthday - del 1",
+      "airdate": "1996-12-12"
+    },
+    {
+      "id": "20dd4648-5c86-46f1-8a93-ef7824a1dba5",
+      "season": 6,
+      "number": 32,
+      "name": "You Say it's Your Birthday - del 2",
+      "airdate": "1996-12-19"
+    },
+    {
+      "id": "4a69f2b9-81ac-4a53-a678-b10a9e0fb3ea",
+      "season": 7,
+      "number": 1,
+      "name": "Remember the Alamo",
+      "airdate": "1997-01-04"
+    },
+    {
+      "id": "c645bf75-4c1b-47e0-b1cb-e0d5124091e6",
+      "season": 7,
+      "number": 2,
+      "name": "Here We Go Again",
+      "airdate": "1997-01-11"
+    },
+    {
+      "id": "ccfff7cd-8112-4152-89ca-37e55d41934d",
+      "season": 7,
+      "number": 3,
+      "name": "A Mate for Your Life",
+      "airdate": "1997-01-18"
+    },
+    {
+      "id": "26f532f4-d504-4fdd-a5aa-672707966932",
+      "season": 7,
+      "number": 4,
+      "name": "Disappearing Act",
+      "airdate": "1997-01-25"
+    },
+    {
+      "id": "827f5929-024e-498b-8b27-9fec1c7fe9e7",
+      "season": 7,
+      "number": 5,
+      "name": "Pledging My Love",
+      "airdate": "1997-02-01"
+    },
+    {
+      "id": "cadbf398-69ca-443f-be7e-7ccf4794f72e",
+      "season": 7,
+      "number": 6,
+      "name": "House Warming",
+      "airdate": "1997-02-08"
+    },
+    {
+      "id": "7e97aa3d-bbc1-4b40-bd13-c450158913e5",
+      "season": 7,
+      "number": 7,
+      "name": "Fearless",
+      "airdate": "1997-02-15"
+    },
+    {
+      "id": "e48df2ee-3e3c-45a8-b931-6d8d7e1a5024",
+      "season": 7,
+      "number": 8,
+      "name": "The Things We Do For Love",
+      "airdate": "1997-02-22"
+    },
+    {
+      "id": "c079e604-14c9-4e12-987a-519fd63189ef",
+      "season": 7,
+      "number": 9,
+      "name": "Loser Takes All",
+      "airdate": "1997-03-01"
+    },
+    {
+      "id": "b55f4f94-f9d4-4ef5-b4e4-79ee739e068a",
+      "season": 7,
+      "number": 10,
+      "name": "Lost in Las Vegas",
+      "airdate": "1997-03-08"
+    },
+    {
+      "id": "b46e4304-8e8f-4f4b-a856-1780e64a0fb2",
+      "season": 7,
+      "number": 11,
+      "name": "If I Had a Hammer",
+      "airdate": "1997-03-22"
+    },
+    {
+      "id": "ac3a2e43-113b-4e35-97bd-756f89f32d57",
+      "season": 7,
+      "number": 12,
+      "name": "Judgement Day",
+      "airdate": "1997-03-29"
+    },
+    {
+      "id": "ecfbfb98-b7c5-4c11-b62b-7aec34784841",
+      "season": 7,
+      "number": 13,
+      "name": "Gift Wrapped",
+      "airdate": "1997-04-05"
+    },
+    {
+      "id": "dba475d5-ca7b-4fbc-8dab-9a8b2105195e",
+      "season": 7,
+      "number": 14,
+      "name": "Jobbed",
+      "airdate": "1997-04-12"
+    },
+    {
+      "id": "d2d256ba-6c36-4667-8626-359406862891",
+      "season": 7,
+      "number": 15,
+      "name": "Phantom of C.U.",
+      "airdate": "1997-04-19"
+    },
+    {
+      "id": "81bab4e9-f4c8-4005-9c93-24398fb69e5c",
+      "season": 7,
+      "number": 16,
+      "name": "Unnecessary Roughness",
+      "airdate": "1997-04-26"
+    },
+    {
+      "id": "a29927f4-6345-4b24-9ab1-6c9384a1f1e5",
+      "season": 7,
+      "number": 17,
+      "name": "Face-off",
+      "airdate": "1997-05-03"
+    },
+    {
+      "id": "8acc3661-1387-442c-b34e-6c725dcdea8f",
+      "season": 7,
+      "number": 18,
+      "name": "We Interrupt this Programme",
+      "airdate": "1997-05-10"
+    },
+    {
+      "id": "14b1fea6-fcf3-4d4a-ba9f-b8f00ab8a5b1",
+      "season": 7,
+      "number": 19,
+      "name": "My Funny Valentine",
+      "airdate": "1997-05-17"
+    },
+    {
+      "id": "e0e49e1b-7f42-426c-a398-34a586c24626",
+      "season": 7,
+      "number": 20,
+      "name": "With this Ring",
+      "airdate": "1997-05-24"
+    },
+    {
+      "id": "82f25470-0751-4b6b-88ac-6581a3c0331b",
+      "season": 7,
+      "number": 21,
+      "name": "Straight Shooter",
+      "airdate": "1997-05-31"
+    },
+    {
+      "id": "0c4c0128-6999-40f9-8fe8-1fe5c1b253f8",
+      "season": 7,
+      "number": 22,
+      "name": "A Ripe Young Age",
+      "airdate": "1997-06-07"
+    },
+    {
+      "id": "ad1f1661-b347-49e6-8760-59f12ce7b7b9",
+      "season": 7,
+      "number": 23,
+      "name": "Storm Warning",
+      "airdate": "1997-06-14"
+    },
+    {
+      "id": "de8f12b5-b3e5-4241-be47-8610c63b195b",
+      "season": 7,
+      "number": 24,
+      "name": "Spring Breakdown",
+      "airdate": "1998-02-28"
+    },
+    {
+      "id": "0f57b9b9-a50b-4c87-aed3-89ee90f2dff3",
+      "season": 7,
+      "number": 25,
+      "name": "Heaven Sent",
+      "airdate": "1998-03-07"
+    },
+    {
+      "id": "9b0d8027-a404-4fd3-87a5-93715cd8eb78",
+      "season": 7,
+      "number": 26,
+      "name": "The Long Goodbye",
+      "airdate": "1998-03-14"
+    },
+    {
+      "id": "1e642d77-83c9-4b88-82f4-1f80bd3881ea",
+      "season": 7,
+      "number": 27,
+      "name": "I Only have Eyes for You",
+      "airdate": "1998-03-21"
+    },
+    {
+      "id": "b78f2aaf-d535-4926-9f03-3d8a588921b7",
+      "season": 7,
+      "number": 28,
+      "name": "All That Jazz",
+      "airdate": "1998-03-28"
+    },
+    {
+      "id": "dfee9e87-3e12-4610-b954-340cb09f3a04",
+      "season": 7,
+      "number": 29,
+      "name": "Mother's Day",
+      "airdate": "1998-04-04"
+    },
+    {
+      "id": "84b34b02-6e7e-4b52-bfce-e6207a230bc2",
+      "season": 7,
+      "number": 30,
+      "name": "Senior Week",
+      "airdate": "1998-04-11"
+    },
+    {
+      "id": "c2a9786d-9427-42b6-90b8-404cabf8c029",
+      "season": 7,
+      "number": 31,
+      "name": "Graduation Day - del 1",
+      "airdate": "1998-04-18"
+    },
+    {
+      "id": "b9de2b26-5927-4121-816d-4afe7379da6b",
+      "season": 7,
+      "number": 32,
+      "name": "Graduation Day - del 2",
+      "airdate": "1998-04-25"
+    },
+    {
+      "id": "afc98946-86de-4c16-b59e-3fb663608f5f",
+      "season": 8,
+      "number": 1,
+      "name": "Aloha, Beverly Hills - del 1",
+      "airdate": "1998-10-04"
+    },
+    {
+      "id": "a3059968-373a-4f73-b678-32060f9ea802",
+      "season": 8,
+      "number": 2,
+      "name": "Aloha, Beverly Hills - del 2",
+      "airdate": "1998-10-11"
+    },
+    {
+      "id": "3e726a26-c686-4aeb-86e9-f0dac3a9aef7",
+      "season": 8,
+      "number": 3,
+      "name": "Forgive and Forget",
+      "airdate": "1998-10-18"
+    },
+    {
+      "id": "71e4acc8-b3e1-41f4-90e3-13234534a606",
+      "season": 8,
+      "number": 4,
+      "name": "The Way We Weren't",
+      "airdate": "1998-11-01"
+    },
+    {
+      "id": "452cf6ce-115b-4b9f-aed4-1d479409037c",
+      "season": 8,
+      "number": 5,
+      "name": "Coming Home",
+      "airdate": "1998-11-08"
+    },
+    {
+      "id": "b1cc3216-df56-49e8-87a9-201baba6391d",
+      "season": 8,
+      "number": 6,
+      "name": "The Right Thing",
+      "airdate": "1998-11-15"
+    },
+    {
+      "id": "f8999aaf-7222-4417-816e-1f41bf4fd11d",
+      "season": 8,
+      "number": 7,
+      "name": "Pride and Prejudice",
+      "airdate": "1998-11-22"
+    },
+    {
+      "id": "960f71cc-c044-4700-9829-b123680c7ecf",
+      "season": 8,
+      "number": 8,
+      "name": "Toil and Trouble",
+      "airdate": "1998-12-06"
+    },
+    {
+      "id": "7512e9a9-b3a1-4c1f-9740-a75a70be9e2c",
+      "season": 8,
+      "number": 9,
+      "name": "Friends, Lovers and Children",
+      "airdate": "1998-12-13"
+    },
+    {
+      "id": "ccd7cb66-2290-4440-8e00-17efbd37c9a1",
+      "season": 8,
+      "number": 10,
+      "name": "Child of the Night",
+      "airdate": "1998-12-20"
+    },
+    {
+      "id": "622883f1-d449-4d2d-9d8e-8fc862a496eb",
+      "season": 8,
+      "number": 11,
+      "name": "Deadline",
+      "airdate": "1999-01-03"
+    },
+    {
+      "id": "d0e0e8ea-7b18-4657-8e1d-f3631771ef65",
+      "season": 8,
+      "number": 12,
+      "name": "Friends in Deed",
+      "airdate": "1999-01-10"
+    },
+    {
+      "id": "c9d55878-db47-4e52-b705-a933bfaf4b22",
+      "season": 8,
+      "number": 13,
+      "name": "Comic Relief",
+      "airdate": "1999-01-24"
+    },
+    {
+      "id": "f9ffc13b-9947-4649-8c18-b86b985a245d",
+      "season": 8,
+      "number": 14,
+      "name": "Santa Knows",
+      "airdate": "1999-01-31"
+    },
+    {
+      "id": "b2af76a4-7db0-4eba-a5d9-4e3c57bb0db5",
+      "season": 8,
+      "number": 15,
+      "name": "Ready or Not",
+      "airdate": "1999-02-07"
+    },
+    {
+      "id": "3803c813-cf2c-46da-9639-911446320ec1",
+      "season": 8,
+      "number": 16,
+      "name": "Illegal Tender",
+      "airdate": "1999-02-14"
+    },
+    {
+      "id": "ef34f119-28ca-4341-9200-9733aed193e3",
+      "season": 8,
+      "number": 17,
+      "name": "The Elephant's Father",
+      "airdate": "1999-02-21"
+    },
+    {
+      "id": "b294d865-b5dc-479b-b3fe-4ee10e5f6014",
+      "season": 8,
+      "number": 18,
+      "name": "Rebound",
+      "airdate": "1999-02-28"
+    },
+    {
+      "id": "01192945-2c33-424e-9b66-19bf0629e728",
+      "season": 8,
+      "number": 19,
+      "name": "Crimes and Misdemeanors",
+      "airdate": "1999-03-07"
+    },
+    {
+      "id": "c506805a-9b9f-4ac3-8998-afcb28a45a3a",
+      "season": 8,
+      "number": 20,
+      "name": "Cupid's Arrow",
+      "airdate": "1999-03-14"
+    },
+    {
+      "id": "16711f8a-1687-4c82-b0f1-2daf8c240692",
+      "season": 8,
+      "number": 21,
+      "name": "The Girl Who Cried Wolf",
+      "airdate": "1999-03-21"
+    },
+    {
+      "id": "401f77fe-e77b-45a9-b8f9-63c7d6c985e7",
+      "season": 8,
+      "number": 22,
+      "name": "Law and Disorder",
+      "airdate": "1999-03-28"
+    },
+    {
+      "id": "a3f4c640-bf15-4bf9-8e6b-43ef2df43d90",
+      "season": 8,
+      "number": 23,
+      "name": "Making Amends",
+      "airdate": "1999-04-04"
+    },
+    {
+      "id": "5b2ea1e8-2f2c-47b8-8408-183585d6d1bf",
+      "season": 8,
+      "number": 24,
+      "name": "The Nature of Nurture",
+      "airdate": "1999-04-18"
+    },
+    {
+      "id": "674e3cae-164b-418f-8652-d30dce459e92",
+      "season": 8,
+      "number": 25,
+      "name": "Aunt Bea's Pickles",
+      "airdate": "1999-04-25"
+    },
+    {
+      "id": "b6de68a2-eed2-4f1a-b692-808dc7bb6cf7",
+      "season": 8,
+      "number": 26,
+      "name": "All That Glitters",
+      "airdate": "1999-05-02"
+    },
+    {
+      "id": "b241c92d-d6d7-4849-9231-ded2133e68b9",
+      "season": 8,
+      "number": 27,
+      "name": "Reunion",
+      "airdate": "1999-05-09"
+    },
+    {
+      "id": "68f13a0a-2a03-4d81-a317-aa81041fc2a7",
+      "season": 8,
+      "number": 28,
+      "name": "Skin Deep",
+      "airdate": "1999-05-16"
+    },
+    {
+      "id": "7a5f7a67-7f70-40b8-b709-c2829bfe9629",
+      "season": 8,
+      "number": 29,
+      "name": "Ricochet",
+      "airdate": "1999-05-30"
+    },
+    {
+      "id": "33452e19-ceca-46e0-a9d9-ee77a317ef16",
+      "season": 8,
+      "number": 30,
+      "name": "The Fundamental Things Apply",
+      "airdate": "1999-06-06"
+    },
+    {
+      "id": "1341f528-4d77-4ec4-9817-eb76e86a965d",
+      "season": 8,
+      "number": 31,
+      "name": "The Wedding - del 1",
+      "airdate": "1999-06-20"
+    },
+    {
+      "id": "3eb11a15-d687-49cd-bbde-62b50243e9df",
+      "season": 8,
+      "number": 32,
+      "name": "The Wedding - del 2",
+      "airdate": "1999-06-27"
+    },
+    {
+      "id": "3b8934a2-5e13-457f-8257-2e72f0ebc21e",
+      "season": 9,
+      "number": 1,
+      "name": "The Morning After",
+      "airdate": "1999-08-29"
+    },
+    {
+      "id": "0a65d9c6-281d-454d-8706-dbad3b696117",
+      "season": 9,
+      "number": 2,
+      "name": "Budget Cuts",
+      "airdate": "1999-09-05"
+    },
+    {
+      "id": "bc47c779-4775-47ac-90da-04d0d8102234",
+      "season": 9,
+      "number": 3,
+      "name": "Dealer's Choice",
+      "airdate": "1999-09-12"
+    },
+    {
+      "id": "8d2987b8-65c0-4718-9f11-4268fc081a3b",
+      "season": 9,
+      "number": 4,
+      "name": "Don't Ask, Don't Tell",
+      "airdate": "1999-09-19"
+    },
+    {
+      "id": "b193e2c7-eee2-4477-b83f-d84b0a3f4231",
+      "season": 9,
+      "number": 5,
+      "name": "Brandon Leaves",
+      "airdate": "1999-09-26"
+    },
+    {
+      "id": "385c8234-433c-4b00-bbce-b18656dd54cb",
+      "season": 9,
+      "number": 6,
+      "name": "Confession",
+      "airdate": "1999-10-03"
+    },
+    {
+      "id": "3cc4bb5d-38b6-456f-a5a9-6da6b8a62c52",
+      "season": 9,
+      "number": 7,
+      "name": "You Say Goodbye, I Say Hello",
+      "airdate": "1999-10-10"
+    },
+    {
+      "id": "7fefa098-74c3-413b-a0e3-610c4e36a860",
+      "season": 9,
+      "number": 8,
+      "name": "I'm Back Because",
+      "airdate": "1999-10-17"
+    },
+    {
+      "id": "7062f154-e476-47e5-be9f-efb2689d22e4",
+      "season": 9,
+      "number": 9,
+      "name": "The Following Options",
+      "airdate": "1999-10-24"
+    },
+    {
+      "id": "33187f3e-021e-4041-a5f0-b59b80bb68f7",
+      "season": 9,
+      "number": 10,
+      "name": "Marathon Man",
+      "airdate": "1999-10-31"
+    },
+    {
+      "id": "c2c2b97c-0520-4f90-b6c4-b37eb35fa880",
+      "season": 9,
+      "number": 11,
+      "name": "How to Be the Jerk Women Love",
+      "airdate": "1999-11-07"
+    },
+    {
+      "id": "0a8169f1-2d28-4377-b01e-d7fe58a84d8b",
+      "season": 9,
+      "number": 12,
+      "name": "Trials and Tribulations",
+      "airdate": "1999-11-14"
+    },
+    {
+      "id": "cc0c0b37-2e89-4dc8-901b-b0d7b89f482f",
+      "season": 9,
+      "number": 13,
+      "name": "Withdrawal",
+      "airdate": "1999-11-21"
+    },
+    {
+      "id": "e8d1e2b0-9f7d-4dbc-93d2-e6b06f24cd87",
+      "season": 9,
+      "number": 14,
+      "name": "I'm Married",
+      "airdate": "1999-11-28"
+    },
+    {
+      "id": "3da09851-cd44-4ca6-8f61-d2e7ac7dfeb2",
+      "season": 9,
+      "number": 15,
+      "name": "Beheading St. Valentine",
+      "airdate": "1999-12-05"
+    },
+    {
+      "id": "26a05901-412d-4dd8-aac9-f60435284240",
+      "season": 9,
+      "number": 16,
+      "name": "Survival Skills",
+      "airdate": "1999-12-19"
+    },
+    {
+      "id": "18a730e4-20f4-43f3-b14e-fa666fd33595",
+      "season": 9,
+      "number": 17,
+      "name": "Slipping Away",
+      "airdate": "2000-02-20"
+    },
+    {
+      "id": "74fbc549-f598-4ab5-8168-d278bac05d3e",
+      "season": 9,
+      "number": 18,
+      "name": "Bobbi Dearest",
+      "airdate": "2000-02-27"
+    },
+    {
+      "id": "c2483294-1e29-48d4-b8d2-aaa05a0545cc",
+      "season": 9,
+      "number": 19,
+      "name": "The Leprechaun",
+      "airdate": "2000-03-05"
+    },
+    {
+      "id": "7266de10-f183-4d98-8bfd-e72bbf776ec9",
+      "season": 9,
+      "number": 20,
+      "name": "Fortune Cookie",
+      "airdate": "2000-03-12"
+    },
+    {
+      "id": "ed2ae872-79ba-4fca-8f55-48f45e40c6b5",
+      "season": 9,
+      "number": 21,
+      "name": "I Want to Reach Right Out and Grab Ya",
+      "airdate": "2000-03-19"
+    },
+    {
+      "id": "aa2d09dc-dbb5-4e95-a7bf-0ee9d2914020",
+      "season": 9,
+      "number": 22,
+      "name": "Local Hero",
+      "airdate": "2000-03-26"
+    },
+    {
+      "id": "7e410206-ffaa-4498-9bd5-aab1a5fc5a4b",
+      "season": 9,
+      "number": 23,
+      "name": "The End of the World as We Know It",
+      "airdate": "2000-04-01"
+    },
+    {
+      "id": "bacab1e4-5976-4fa4-a22e-310632265da8",
+      "season": 9,
+      "number": 24,
+      "name": "Dog's Best Friend",
+      "airdate": "2000-04-08"
+    },
+    {
+      "id": "f8d059fb-e9ae-4e6a-a671-e2310d7cc1f2",
+      "season": 9,
+      "number": 25,
+      "name": "Agony",
+      "airdate": "2000-04-15"
+    },
+    {
+      "id": "7d4bc7e7-b58e-4470-b9eb-01fc8a0c3aae",
+      "season": 9,
+      "number": 26,
+      "name": "That's the Guy",
+      "airdate": "2000-04-23"
+    },
+    {
+      "id": "ad1d999a-0b33-467b-afa2-2a7d3f7f8c59",
+      "season": 10,
+      "number": 1,
+      "name": "The Phantom Menace",
+      "airdate": "2000-05-07"
+    },
+    {
+      "id": "06cc792d-3076-4986-8b7f-dd2a20b20292",
+      "season": 10,
+      "number": 2,
+      "name": "Let's Eat Cake",
+      "airdate": "2000-05-14"
+    },
+    {
+      "id": "3dfb59b3-c8c7-4d31-a060-7416f40a0fcc",
+      "season": 10,
+      "number": 3,
+      "name": "You Better Work",
+      "airdate": "2000-05-21"
+    },
+    {
+      "id": "c18d5f40-7915-4148-b0b6-6bc197c59b41",
+      "season": 10,
+      "number": 4,
+      "name": "A Fine Mess",
+      "airdate": "2000-05-28"
+    },
+    {
+      "id": "612cfa9f-93ca-4ae1-a74c-aaf610703cee",
+      "season": 10,
+      "number": 5,
+      "name": "The Loo-Ouch",
+      "airdate": "2000-06-04"
+    },
+    {
+      "id": "46510710-26d6-46ed-87c4-022ff32106c8",
+      "season": 10,
+      "number": 6,
+      "name": "'80s Night",
+      "airdate": "2000-08-27"
+    },
+    {
+      "id": "7074b013-6b40-4828-8067-c88cce9f4b6c",
+      "season": 10,
+      "number": 7,
+      "name": "Laying Pipe",
+      "airdate": "2000-09-03"
+    },
+    {
+      "id": "548c0aef-301a-480a-9888-817b3295509f",
+      "season": 10,
+      "number": 8,
+      "name": "Baby You Can Drive My Car",
+      "airdate": "2000-09-10"
+    },
+    {
+      "id": "5c4f8ae0-4aa1-487b-b216-f7b0cdbb848b",
+      "season": 10,
+      "number": 9,
+      "name": "Family Tree",
+      "airdate": "2000-10-01"
+    },
+    {
+      "id": "873878b2-fdbb-4805-99db-b7e166c8ae94",
+      "season": 10,
+      "number": 10,
+      "name": "What's in a Name?",
+      "airdate": "2000-10-08"
+    },
+    {
+      "id": "ac274b59-b5ba-49a6-8331-4979b7befae5",
+      "season": 10,
+      "number": 11,
+      "name": "Sibling Revelry",
+      "airdate": "2000-10-15"
+    },
+    {
+      "id": "b1ce347f-bb06-42a8-9182-c9dcdf37eeac",
+      "season": 10,
+      "number": 12,
+      "name": "Nine Yolks Whipped Lightly",
+      "airdate": "2000-10-22"
+    },
+    {
+      "id": "1c32a21f-4d68-4e6d-b400-86b20bc88e6f",
+      "season": 10,
+      "number": 13,
+      "name": "Tainted Love",
+      "airdate": "2000-10-29"
+    },
+    {
+      "id": "cf9e1199-bb96-40c6-9a30-192b991e8f96",
+      "season": 10,
+      "number": 14,
+      "name": "I'm Using You 'Cause I Like You",
+      "airdate": "2000-11-05"
+    },
+    {
+      "id": "f7c03b4e-ba24-4c4b-8a64-0b0d7fe6d1c9",
+      "season": 10,
+      "number": 15,
+      "name": "Fertile Ground",
+      "airdate": "2000-11-19"
+    },
+    {
+      "id": "9bccb73d-838b-4e93-a5c8-8c0b41d76b1d",
+      "season": 10,
+      "number": 16,
+      "name": "The Final Proof",
+      "airdate": "2000-11-26"
+    },
+    {
+      "id": "dfa7afb2-f18f-447a-bc79-41888fd18c3f",
+      "season": 10,
+      "number": 17,
+      "name": "Doc Martin",
+      "airdate": "2000-12-03"
+    },
+    {
+      "id": "5cbfc9d0-45d9-41b9-b108-191759da9016",
+      "season": 10,
+      "number": 18,
+      "name": "Eddie Waitkus",
+      "airdate": "2001-02-18"
+    },
+    {
+      "id": "846eb02b-bc19-4b4f-9090-ab5a8838eb07",
+      "season": 10,
+      "number": 19,
+      "name": "I Will Be Your Father Figure",
+      "airdate": "2001-02-25"
+    },
+    {
+      "id": "051f5cd5-3603-4e36-86fb-e84f85b1f7ca",
+      "season": 10,
+      "number": 20,
+      "name": "Ever Hear the One About the Exploding Father?",
+      "airdate": "2001-03-04"
+    },
+    {
+      "id": "e2ed7dae-3056-4347-8dc7-13af75efa667",
+      "season": 10,
+      "number": 21,
+      "name": "Spring Fever",
+      "airdate": "2001-03-11"
+    },
+    {
+      "id": "70c48b4c-3c1d-4fcc-be92-4b63d5250134",
+      "season": 10,
+      "number": 22,
+      "name": "The Easter Bunny",
+      "airdate": "2001-03-18"
+    },
+    {
+      "id": "2ca7de6e-fdfa-4dbd-ac34-ec452766b0e4",
+      "season": 10,
+      "number": 23,
+      "name": "And Don't Forget to Give Me Back My Black T-Shirt",
+      "airdate": "2001-03-25"
+    },
+    {
+      "id": "f1ece308-c51f-40ed-931b-7f60f251d3e9",
+      "season": 10,
+      "number": 24,
+      "name": "Love is Blind",
+      "airdate": "2001-04-01"
+    },
+    {
+      "id": "a64e00b6-b945-4859-85f9-4c58e660a781",
+      "season": 10,
+      "number": 25,
+      "name": "I'm Happy for You...Really",
+      "airdate": "2001-04-07"
+    },
+    {
+      "id": "bb216f03-5633-4b1a-bdfc-30a15fe48b84",
+      "season": 10,
+      "number": 26,
+      "name": "The Penultimate",
+      "airdate": "2001-04-14"
+    },
+    {
+      "id": "dad5a64f-8f89-424d-a444-10e10ca067d2",
+      "season": 10,
+      "number": 27,
+      "name": "Ode to Joy",
+      "airdate": "2001-04-29"
+    }
+  ]
+}

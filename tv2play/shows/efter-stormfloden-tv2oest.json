@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:efter-stormfloden-tv2oest",
+  "name": "Efter stormfloden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den 20. oktober 2023 skyller århundreders stormflod ind over det lille sommerhusområde Oddermosen, som indtil da har ligget trygt og godt beskyttet bag et dige. I et helt år følger vi beboernes kamp for at genopbygge deres huse og deres paradis. Men vil stormfloden, som ødelægger både huse og fremtidsdrømme, også ødelægge fællesskabet? Og hvem betaler egentlig regningen, når katastrofen rammer?",
+  "image": "https://cdn-play.tv2i.dk/5a15c3fa-ed74-4cc8-961b-702314ebcfbc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b2104562-db55-47d7-85c8-0fc40117ce84",
+      "season": 1,
+      "number": 1,
+      "name": "Paradiset oversvømmes",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "4086b142-e436-454a-8d79-71fce599a20e",
+      "season": 1,
+      "number": 2,
+      "name": "Tæt på at drukne",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "750cd71b-bd73-492c-aa50-c45997e6f8d6",
+      "season": 1,
+      "number": 3,
+      "name": "Minder i vand",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "561aacd9-880e-4083-96f5-34cac05957b2",
+      "season": 1,
+      "number": 4,
+      "name": "Vandet stiger igen",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "a7cce74a-515a-40f8-b6bd-a5089ecd0351",
+      "season": 1,
+      "number": 5,
+      "name": "Vil fællesskabet bakke op?",
+      "airdate": "2024-10-31"
+    }
+  ]
+}

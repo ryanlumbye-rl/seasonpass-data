@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Familieserie om teenageren Bert og hans evige kærlighedsproblemer. Serien er baseret på den populære bogserie af Anders Jacobsson og Sören Olsson.",
+  "image": "https://cdn-play.tv2i.dk/91498b87-48a5-492e-9ca8-c686b1ac806a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "9c60d389-bad0-4313-88d5-a6a68803e0fe",

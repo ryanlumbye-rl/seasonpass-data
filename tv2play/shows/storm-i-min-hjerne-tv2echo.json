@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:storm-i-min-hjerne-tv2echo",
+  "name": "Storm i min hjerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Multikunstner Caroline Storm (26 år) har bragende ADHD. Som en utæmmet hest fører diagnosen hende både til stjernerne og ud over afgrunden. Men kan Caroline styre uden om katastrofer, opnå kreativ succes, rette op på forholdet til sin mor og blive ’rigtig’ voksen - selvom ADHD-stormen raser?",
+  "image": "https://cdn-play.tv2i.dk/a0ac8b6d-ab5d-4fb5-8ec4-fb85aee40133.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c97c8785-9043-4376-badb-8d7e91789e19",
+      "season": 1,
+      "number": 1,
+      "name": "Helt forkert",
+      "airdate": "2025-04-03"
+    },
+    {
+      "id": "34b24af1-14e8-4b05-9daf-d1fd882a45b5",
+      "season": 1,
+      "number": 2,
+      "name": "Den fucking kærlighed",
+      "airdate": "2025-04-10"
+    },
+    {
+      "id": "ea92a7ab-8ff9-47fa-b583-5137477cf6b9",
+      "season": 1,
+      "number": 3,
+      "name": "Glad for stimulanser",
+      "airdate": "2025-04-17"
+    },
+    {
+      "id": "6ae3652a-3035-4a64-9208-99da012988e2",
+      "season": 1,
+      "number": 4,
+      "name": "Stilhed efter stormen",
+      "airdate": "2025-04-24"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:nadja-og-de-170-kilo-tv2",
+  "name": "Nadja og de 170 kilo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nadja spiser ekstreme mængder mad på kort tid, og hun føler, hun har mistet kontrollen. Nu møder Nadja Lisbeth Zornig, der tror, at Nadjas fedme er en konsekvens af en dårlig barndom. Sammen forsøger de at finde årsagen til Nadjas overvægt, og for første gang får Nadja et håb om at komme ud af sit madfængsel.",
+  "image": "https://cdn-play.tv2i.dk/cfda5de5-b88b-465c-a508-6e7c1bcf24e1.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "c5412038-db19-49c4-9dc7-fc26ce1eeabb",
+      "season": 1,
+      "number": 2,
+      "name": "Farvel til far",
+      "airdate": "2020-01-09"
+    },
+    {
+      "id": "a0a8bc08-4f06-4b64-8c11-6784b4dd9cd3",
+      "season": 1,
+      "number": 3,
+      "name": "Nadja i behandling",
+      "airdate": "2020-01-16"
+    }
+  ]
+}

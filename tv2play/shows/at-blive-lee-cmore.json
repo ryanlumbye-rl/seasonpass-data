@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:at-blive-lee-cmore",
+  "name": "At blive Lee",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tømrer-Bjørn fra programserien 'Äntligen hemma' har længe gemt på en hemmelighed - indtil nu. Se hans gribende kamp for at leve i den rigtige krop",
+  "image": "https://cdn-play.tv2i.dk/063ed710-1a1f-4e8f-a07d-7448f661148b.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "27e2d88a-95ee-4a98-b431-b6ce04bf2e95",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "5f625957-13a1-4648-9741-edb8fb8bb93f",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

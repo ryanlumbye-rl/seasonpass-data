@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:vejen-til-vm-tv-syd-tvsyd",
+  "name": "Vejen til VM",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Udover at være byens store stolthed er Vejen Garden Danmarks også Europas bedste. Nu står de over for deres største udfordring nogensinde. Nemlig Verdensmesterskabet.",
+  "image": "https://cdn-play.tv2i.dk/c903ad2d-612a-44dd-8903-91e10d8f6c14.jpg?auto=format%2Ccompress&fm=webp&rect=250%2C203%2C1560%2C877&w=1280",
+  "episodes": [
+    {
+      "id": "56fea1dd-78eb-46ad-9a35-beac0cda2185",
+      "season": 1,
+      "number": 4,
+      "name": "Den store udfordring",
+      "airdate": "2024-10-29"
+    },
+    {
+      "id": "6fd7c9be-2bbb-40a5-823c-8d7f740c0a0f",
+      "season": 1,
+      "number": 5,
+      "name": "Vejens stolthed",
+      "airdate": "2024-11-05"
+    },
+    {
+      "id": "ef392e89-046e-4f5c-aedb-3d65f0d50188",
+      "season": 1,
+      "number": 6,
+      "name": "Vejen Garden for livet",
+      "airdate": "2024-11-12"
+    },
+    {
+      "id": "684b9801-a68a-4a1d-9220-c252f3b8d2ef",
+      "season": 1,
+      "number": 7,
+      "name": "Vejen Garden ud i verden",
+      "airdate": "2024-11-19"
+    },
+    {
+      "id": "99cf8d69-eb27-4171-af6c-4a66b9b5cbb5",
+      "season": 1,
+      "number": 8,
+      "name": "Den store finale",
+      "airdate": "2024-11-26"
+    }
+  ]
+}

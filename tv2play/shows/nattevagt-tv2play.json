@@ -1,0 +1,173 @@
+{
+  "id": "tv2play:nattevagt-tv2play",
+  "name": "Nattevagt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Når natten begynder, og verden går til ro, er der nogen, som står op og går på arbejde. Vi følger dem, der arbejder om natten, når de er på nattevagt.",
+  "image": "https://cdn-play.tv2i.dk/1a143b0f-200f-4bbe-a9c3-3fad7cacbd9e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2a1df33d-db6b-4a42-92d7-6eae628b10f1",
+      "season": 1,
+      "number": 1,
+      "name": "KonditorBager i Ringsted",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "fecd6449-e639-4b47-b3ad-efe2ba033410",
+      "season": 1,
+      "number": 2,
+      "name": "Vejhjælp",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "bfe1f61b-f9d9-4414-9bee-689065572c31",
+      "season": 1,
+      "number": 3,
+      "name": "Tysklandsfærgen",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "f28f8ebf-943e-43ce-a854-b604263fe8a6",
+      "season": 1,
+      "number": 4,
+      "name": "Arla",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "eeca44e5-4b20-44fc-8032-f979c25b00fb",
+      "season": 1,
+      "number": 5,
+      "name": "Kongrescenter",
+      "airdate": "2024-08-28"
+    },
+    {
+      "id": "46f1926a-8d8d-4cd4-9662-3a920a6b7095",
+      "season": 1,
+      "number": 6,
+      "name": "Crazy Daisy",
+      "airdate": "2024-06-06"
+    },
+    {
+      "id": "9773a59a-888b-40d0-bf59-37a084f9f718",
+      "season": 1,
+      "number": 7,
+      "name": "Alarm 112",
+      "airdate": "2024-06-13"
+    },
+    {
+      "id": "f7c00397-5da5-4a9f-84b4-085e62ab8c75",
+      "season": 2,
+      "number": 1,
+      "name": "Natteravne på J-dag",
+      "airdate": "2025-02-14"
+    },
+    {
+      "id": "7fff1ce2-cb46-4505-97f8-b2c49dafb415",
+      "season": 2,
+      "number": 2,
+      "name": "Containerhavn",
+      "airdate": "2025-02-21"
+    },
+    {
+      "id": "6f6b58dc-d52e-4657-89c3-fffcad134450",
+      "season": 2,
+      "number": 3,
+      "name": "Alarmpatrulje",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "687dd7ac-b69d-42e8-b1fd-0871da1adc69",
+      "season": 2,
+      "number": 4,
+      "name": "Hørkrams fødevarelager",
+      "airdate": "2025-03-07"
+    },
+    {
+      "id": "78460cac-0aab-465a-bf7c-30da6ddba409",
+      "season": 2,
+      "number": 5,
+      "name": "Ambulance",
+      "airdate": "2025-03-14"
+    },
+    {
+      "id": "3d8133b2-003a-4bc8-a9d8-176f7d199eba",
+      "season": 2,
+      "number": 6,
+      "name": "Skinnefræser",
+      "airdate": "2025-03-21"
+    },
+    {
+      "id": "ec0cd0f7-df37-4979-9c6a-4a6051e37ec3",
+      "season": 2,
+      "number": 7,
+      "name": "Bilka",
+      "airdate": "2025-03-28"
+    },
+    {
+      "id": "44c33689-3149-4568-9444-fbd77ecd443b",
+      "season": 2,
+      "number": 8,
+      "name": "Natherberg",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "cc0c175b-e926-4884-b9d7-247efaae8a66",
+      "season": 3,
+      "number": 1,
+      "name": "Snerydning",
+      "airdate": "2026-03-29"
+    },
+    {
+      "id": "e6560d83-718c-4445-ac20-16b61347ffb5",
+      "season": 3,
+      "number": 2,
+      "name": "Tankstationen",
+      "airdate": "2026-04-05"
+    },
+    {
+      "id": "ba0f4b15-01ae-4ce0-833d-2f92f0b24a58",
+      "season": 3,
+      "number": 3,
+      "name": "Natsygeplejerske",
+      "airdate": "2026-04-19"
+    },
+    {
+      "id": "11145384-5940-421e-a799-5d61abaa10d1",
+      "season": 3,
+      "number": 4,
+      "name": "GLS",
+      "airdate": "2026-04-26"
+    },
+    {
+      "id": "64fdf020-2fa3-48f2-93fe-ab3a05f0d0fc",
+      "season": 3,
+      "number": 5,
+      "name": "Anæstesilægen",
+      "airdate": "2026-05-03"
+    },
+    {
+      "id": "9593b814-463f-4ba7-9dd4-a27f76be1bfe",
+      "season": 3,
+      "number": 6,
+      "name": "Dyrlæge",
+      "airdate": "2026-05-10"
+    },
+    {
+      "id": "4b7b6464-c7f9-48ae-b268-36df10402070",
+      "season": 3,
+      "number": 7,
+      "name": "Lastbilchaufføren",
+      "airdate": "2026-05-17"
+    },
+    {
+      "id": "b7cc99c7-c758-4c7b-8e6f-99eab9ec0fe0",
+      "season": 3,
+      "number": 8,
+      "name": "På patrulje",
+      "airdate": "2026-05-24"
+    }
+  ]
+}

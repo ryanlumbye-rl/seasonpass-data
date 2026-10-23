@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:twin-peaks-the-return-skyshowtime",
+  "name": "Twin Peaks: The Return",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Denne miniserie i 18 dele, udelukkende instrueret af David Lynch, foregår 25 år efter at indbyggerene i en smuk nordvestlig landsby blev lamslåede, da deres homecoming-dronning, Laura Palmer blev myrdet.",
+  "image": "https://cdn-play.tv2i.dk/fcd62f80-56ad-4afe-bff5-fc210f51c852.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2915%2C1620&w=1280",
+  "episodes": [
+    {
+      "id": "b48e2152-24da-40d2-8e28-4e7ea83e81be",
+      "season": 1,
+      "number": 1,
+      "name": "Part 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2329a083-0088-499b-ae99-27c42f6f25cd",
+      "season": 1,
+      "number": 2,
+      "name": "Part 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "16dcd6aa-fe3d-46c2-9ca5-52da9ca51d4c",
+      "season": 1,
+      "number": 3,
+      "name": "Part 3",
+      "airdate": "2024-11-09"
+    },
+    {
+      "id": "9feba02c-6016-42d8-b48d-1f55ab4cc560",
+      "season": 1,
+      "number": 4,
+      "name": "Part 4",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "18d6f324-a79d-41fa-8196-901303660119",
+      "season": 1,
+      "number": 5,
+      "name": "Part 5",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "23498bc5-d914-4998-afbf-a0a1769ce844",
+      "season": 1,
+      "number": 6,
+      "name": "Part 6",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "089009c5-4e62-4a4d-9a34-a7c7b7f0b4da",
+      "season": 1,
+      "number": 7,
+      "name": "Part 7",
+      "airdate": "2024-11-09"
+    },
+    {
+      "id": "f70f49d4-2364-452a-a2b0-f117973fa4ba",
+      "season": 1,
+      "number": 8,
+      "name": "Part 8",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e501d2f1-6c37-40ec-a17b-27d5113d7ff0",
+      "season": 1,
+      "number": 9,
+      "name": "Part 9",
+      "airdate": "2024-11-09"
+    },
+    {
+      "id": "3f19a380-5ecd-4afa-98ec-4b4a19a3b5e9",
+      "season": 1,
+      "number": 10,
+      "name": "Part 10",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "37e172bb-3be6-44d1-9cb5-c85070dd6583",
+      "season": 1,
+      "number": 11,
+      "name": "Part 11",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "56326099-df28-45c8-a750-8006b6f6515a",
+      "season": 1,
+      "number": 12,
+      "name": "Part 12",
+      "airdate": "2024-11-09"
+    },
+    {
+      "id": "7c691794-d370-4aeb-b7a7-5dc3edd3ac7f",
+      "season": 1,
+      "number": 13,
+      "name": "Part 13",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6daf31df-5dcb-4bb4-acd6-77b724bfb9f4",
+      "season": 1,
+      "number": 14,
+      "name": "Part 14",
+      "airdate": "2024-11-09"
+    },
+    {
+      "id": "c3498530-9a76-447b-a841-ab4b09a2c699",
+      "season": 1,
+      "number": 15,
+      "name": "Part 15",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "865d65e1-9bb5-4e4e-9df2-d283ddf1e41d",
+      "season": 1,
+      "number": 16,
+      "name": "Part 16",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c07ecad4-32ab-48ab-a3ba-eff5dc46eb91",
+      "season": 1,
+      "number": 17,
+      "name": "Part 17",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b56cba6d-9bab-4701-b970-ae746907d92a",
+      "season": 1,
+      "number": 18,
+      "name": "Part 18",
+      "airdate": "2024-11-09"
+    }
+  ]
+}

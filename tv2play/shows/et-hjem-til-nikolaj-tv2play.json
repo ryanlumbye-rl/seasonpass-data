@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:et-hjem-til-nikolaj-tv2play",
+  "name": "Et hjem til Nikolaj",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Som 22-årig bliver Nikolaj involveret i en alvorlig ulykke og får en hjerneskade. Hans mor, Krista, indleder en kamp for at give ham en hverdag med mening og værdighed. Sammen med familien bygger Krista bostedet Møn Bakkeby, hvor Nikolaj forhåbentlig kan få det liv, hun ønsker for ham.",
+  "image": "https://cdn-play.tv2i.dk/75683a8a-a6eb-4832-ad4d-f9ff937263e7.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "8cf2f397-e624-4e43-89fd-8f8763ba0f65",
+      "season": 1,
+      "number": 1,
+      "name": "En værdig hverdag",
+      "airdate": "2026-03-09"
+    },
+    {
+      "id": "a4fc7b01-af3f-4307-aa8a-a9ffb23db5e1",
+      "season": 1,
+      "number": 2,
+      "name": "De første flytter ind",
+      "airdate": "2026-03-09"
+    },
+    {
+      "id": "b1da58d5-c05a-4866-a1ae-318fd4023d54",
+      "season": 1,
+      "number": 3,
+      "name": "Fællesskabet spirer",
+      "airdate": "2026-03-16"
+    }
+  ]
+}

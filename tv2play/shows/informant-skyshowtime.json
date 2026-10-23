@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:informant-skyshowtime",
+  "name": "Informant",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Midt i Fløjlsrevolutionen afpresses en førsteårsstuderende til at spionere på en radikal, pro-demokratisk oprørsleder i det kommunistiske Ungarn i 1985.",
+  "image": "https://cdn-play.tv2i.dk/b2863f0b-fc6b-49b9-853f-b52eb2463c7c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4dbf611b-3e5a-4f20-ae61-e7d3a8f2f5a9",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "6f6047d5-31cc-42e1-8cac-7ae1af2e0e41",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "6d02066d-f126-4764-91f7-d9aacfd164a4",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "8e55dc36-d8ef-41c9-bf30-f7abc3ffa51a",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "d96544c2-7bc7-4edb-b475-a75f2ec985e8",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "c78f6648-06f1-41b4-8937-302851d0eb0f",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "6f04e2c5-230e-4223-9435-f78345057d27",
+      "season": 1,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "2931c8a7-4767-41db-bd8a-1c3d2630b534",
+      "season": 1,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2023-04-11"
+    }
+  ]
+}

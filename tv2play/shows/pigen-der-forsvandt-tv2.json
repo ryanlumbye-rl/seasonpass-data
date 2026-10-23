@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:pigen-der-forsvandt-tv2",
+  "name": "Pigen der forsvandt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "15-årige Nadia Rose Rothberg forsvandt i august 2024 fra den psykiatriske afdeling, hun var indlagt på. Under et døgn senere tog hun sit eget liv. Hvad skete der? Og kunne det være undgået?",
+  "image": "https://cdn-play.tv2i.dk/53f9d70d-c485-44fa-a308-4e4d5a4819c7.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "92cbee7e-de3f-412a-b863-3be78753a3cd",
+      "season": 1,
+      "number": 1,
+      "name": "Del 1",
+      "airdate": "2025-05-05"
+    },
+    {
+      "id": "d3945294-9d0c-4b09-9e38-509d5a1cf472",
+      "season": 1,
+      "number": 2,
+      "name": "Del 2",
+      "airdate": "2025-05-12"
+    }
+  ]
+}

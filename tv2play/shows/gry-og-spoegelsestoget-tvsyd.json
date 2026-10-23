@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:gry-og-spoegelsestoget-tvsyd",
+  "name": "Gry og spøgelsestoget",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "D. 2. maj 1945 ruller et tog ud af ingenting ind på Padborg Station. Ombord på toget er 2.800 udsultede, kvindelige KZ-fanger. En vanvittig historie, der ikke er blevet fortalt - før nu.",
+  "image": "https://cdn-play.tv2i.dk/a81782fd-1b5e-4e33-909e-ec5dd833c2bb.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "d157e923-91c9-4aaa-ad9c-f96a81627f46",
+      "season": 1,
+      "number": 1,
+      "name": "Den utroligste historie",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "f3e891f1-93b8-447f-9c5e-8a04e0057a34",
+      "season": 1,
+      "number": 2,
+      "name": "Kvinderne i lyset",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "c6537aa5-338d-4acc-8d8d-0f4593906cc8",
+      "season": 1,
+      "number": 3,
+      "name": "Vidnesbyrd fra Helena",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "a7b7c3c4-d169-46e2-acd4-befd4e00a133",
+      "season": 1,
+      "number": 4,
+      "name": "Kæmp for alt, hvad du har kært",
+      "airdate": "2025-05-18"
+    }
+  ]
+}

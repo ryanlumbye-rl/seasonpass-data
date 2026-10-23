@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:praesten-fra-cabinda-tv2nord",
+  "name": "Præsten fra Cabinda",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Afonso vil gøre folkekirken mere mangfoldig. For 25 år siden kom han til Danmark som flygtning og har siden kæmpet for at få en stilling som præst. Nu har han endelig fået arbejde i Støvring Kirke. Vi ser hans forsøg på at skabe forandring.",
+  "image": "https://cdn-play.tv2i.dk/ab16cda2-bd4d-4c43-9063-25b42ca4c0ca.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d6fddd8f-6cef-491c-9d52-d2e5771d7b79",
+      "season": 1,
+      "number": 1,
+      "name": "Kirken skal være for alle",
+      "airdate": "2024-12-29"
+    },
+    {
+      "id": "30203f8b-c30d-44ee-ba95-5645ef18e37d",
+      "season": 1,
+      "number": 2,
+      "name": "Første påskegudstjeneste",
+      "airdate": "2025-01-05"
+    },
+    {
+      "id": "b6b3e61c-7ac5-4654-aebe-c719c43e2ae6",
+      "season": 1,
+      "number": 3,
+      "name": "Ideer bliver til virkelighed",
+      "airdate": "2025-01-12"
+    },
+    {
+      "id": "5693278e-4dac-4f2d-ad2a-c0af3b8b4dd7",
+      "season": 1,
+      "number": 4,
+      "name": "Inspirationstur til Aarhus",
+      "airdate": "2025-01-19"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:tre-sultne-maend-tv2",
+  "name": "Tre sultne mænd",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De tre madelskende venner, Francis Cardenau, Umut Sakarya og Simon Jul, tager på en kulinarisk rejse til deres ophav for at vise hinanden alt det, de holder af i henholdsvis Frankrig, Tyrkiet og Norge. Fælles for dem er den altoverskyggende kærlighed til mad, og at den har været med til at forme dem til de mænd, de er i dag.",
+  "image": "https://cdn-play.tv2i.dk/444910dc-e91b-46bc-9939-ce5a97638fa3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C999%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "80113d51-0f0f-415c-ac51-5d26c03c00f6",
+      "season": 1,
+      "number": 1,
+      "name": "Middagen til mormor",
+      "airdate": "2023-08-28"
+    },
+    {
+      "id": "fd4fac42-8a01-4c51-b923-230e7bbda9f6",
+      "season": 1,
+      "number": 2,
+      "name": "Koldt på toppen",
+      "airdate": "2023-08-28"
+    },
+    {
+      "id": "c3b05d00-5d64-407a-812f-b7ead23d1298",
+      "season": 1,
+      "number": 3,
+      "name": "Den hjemvendte søn",
+      "airdate": "2023-09-04"
+    },
+    {
+      "id": "f4858d53-b288-49b5-9e87-809ae2c47196",
+      "season": 1,
+      "number": 4,
+      "name": "Kebab-konkurrencen",
+      "airdate": "2023-09-11"
+    },
+    {
+      "id": "78e41e87-9fad-4405-9cf7-0089a8071f75",
+      "season": 1,
+      "number": 5,
+      "name": "Alt godt fra havet",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "41103e3c-8893-48d9-9b90-49fa564c09cf",
+      "season": 1,
+      "number": 6,
+      "name": "Den brune ost",
+      "airdate": "2023-09-25"
+    }
+  ]
+}

@@ -5,16 +5,11 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Et hold af Storbritanniens dygtigste og mest passionerede håndværkere reparerer finurlige arvestykker og bringer minder tilbage til livet.",
+  "image": "https://cdn-play.tv2i.dk/554960a6-71c7-37d9-bd56-ea4f1333b673.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "51269470-af5e-4a9a-be68-61dcd8e9b5ab",
-      "season": 6,
-      "number": 1,
-      "name": "Lerskulpturer, en græsslåmaskine og en legetøjshest",
-      "airdate": "2022-11-23"
-    },
-    {
-      "id": "79de739d-befe-49b8-9200-f8fb67a083b8",
       "season": 6,
       "number": 1,
       "name": "Lerskulpturer, en græsslåmaskine og en legetøjshest",
@@ -315,6 +310,27 @@
       "airdate": "2023-04-03"
     },
     {
+      "id": "79de739d-befe-49b8-9200-f8fb67a083b8",
+      "season": 6,
+      "number": 44,
+      "name": "En dukke, en guitar og en kuffert",
+      "airdate": "2023-04-04"
+    },
+    {
+      "id": "1a5bf77a-e682-44bc-9add-b58f9cc3428a",
+      "season": 6,
+      "number": 45,
+      "name": "Et æsel, et fotografi og et par løbesko",
+      "airdate": "2023-04-04"
+    },
+    {
+      "id": "13fa64e8-4730-441a-b88a-05403f785c40",
+      "season": 6,
+      "number": 46,
+      "name": "Et maleri, en dukke og en tallerken",
+      "airdate": "2023-04-05"
+    },
+    {
       "id": "acf8c8a0-2be5-4bf2-8e8b-e7b3004c05a0",
       "season": 7,
       "number": 50,
@@ -327,20 +343,6 @@
       "number": 51,
       "name": "Lad musikken spille",
       "airdate": "2023-09-30"
-    },
-    {
-      "id": "bf3277e8-8bf8-4fa6-94b2-8345fd6bfc55",
-      "season": 7,
-      "number": 52,
-      "name": "Den 74-årige bamse",
-      "airdate": "2023-09-23"
-    },
-    {
-      "id": "0bcd18c2-11e5-4f6c-ac30-94d011115896",
-      "season": 7,
-      "number": 53,
-      "name": "En hellig opgave",
-      "airdate": "2023-09-23"
     },
     {
       "id": "7cc44a21-3485-4d5a-92ac-6b574191a199",

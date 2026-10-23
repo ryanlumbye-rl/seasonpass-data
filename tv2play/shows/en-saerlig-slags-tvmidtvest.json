@@ -82,6 +82,15 @@
       "number": 6,
       "name": "Den selvgjorte fra Vildbjerg",
       "airdate": "2025-12-19"
+    },
+    {
+      "id": "cb17d146-4f57-4eff-aaa8-a3ed61bd6bd7",
+      "season": 3,
+      "number": 1,
+      "name": "Frihed og fart på",
+      "airdate": "2026-10-24"
     }
-  ]
+  ],
+  "description": "I et land med seks millioner findes der en lille gruppe mennesker, som slet ikke ligner os andre. Dem har vi fundet. Der er intet drama. Ingen dagsorden. Bare helt ærlige møder med nogle af Danmarks største originaler. Som faktisk er ret umulige ikke at holde af.",
+  "image": "https://cdn-play.tv2i.dk/b0348886-5ca8-31ca-a9d4-615dce49c3c9.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

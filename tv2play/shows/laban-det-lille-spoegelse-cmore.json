@@ -1,52 +1,138 @@
 {
   "id": "tv2play:laban-det-lille-spoegelse-cmore",
-  "name": "Laban - Det lille spøgelse",
+  "name": "Laban det lille spøgelse",
   "service": "tv2",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "I slottet Godmorgensol bor det lille spøgelse Laban og hans familie. Laban ikke helt som andre spøgelser - han er nemlig mørkeræd. Han er verdens sødeste spøgelse - og det er ikke så let at være så sød, når man faktisk skal gøre folk bange.",
+  "image": "https://cdn-play.tv2i.dk/46a86841-de2a-4ec1-9b96-0e3562226227.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C999%2C562&w=1280",
   "episodes": [
     {
-      "id": "2779f727-0e6a-48c7-90ed-e27377aca7ac",
+      "id": "d542fa2d-43fb-4534-8649-25be340952c2",
       "season": 1,
       "number": 1,
-      "name": "Det spøger på slottet",
-      "airdate": "2025-10-12"
+      "name": "Ingen er bange for Laban",
+      "airdate": "2016-06-01"
     },
     {
-      "id": "39a1dfff-fa65-4568-8b6e-bc0dea424a1c",
+      "id": "840f47b8-bc90-4cac-a60d-fd9e6d125c25",
       "season": 1,
       "number": 2,
-      "name": "Monsterlyd",
-      "airdate": "2025-10-12"
+      "name": "Hvor er Labolina?",
+      "airdate": "2016-06-01"
     },
     {
-      "id": "aaf72d2a-8905-4aa1-bbe0-7a8176a7e4c1",
+      "id": "f16c0b99-4ab4-4f96-897a-bd6d99b8303c",
       "season": 1,
       "number": 3,
-      "name": "Egen plads",
-      "airdate": "2026-07-10"
+      "name": "Dronningens ven",
+      "airdate": "2016-06-01"
     },
     {
-      "id": "02b424e2-7be3-4312-9703-b938fa421361",
+      "id": "46aeba93-09c5-44e4-9929-2b40806fec6f",
       "season": 1,
       "number": 4,
-      "name": "Hjælp til den mørkerædde",
-      "airdate": "2026-07-10"
+      "name": "Hvem der, Laban?",
+      "airdate": "2016-06-01"
     },
     {
-      "id": "4cde65f9-cdfc-4f55-a0eb-3a7cde148646",
+      "id": "c282a087-e4de-441b-aab2-d1e6c4c55db1",
       "season": 1,
       "number": 5,
-      "name": "Kælderrummet",
-      "airdate": "2026-07-10"
+      "name": "Millimina er forsvundet",
+      "airdate": "2016-06-01"
     },
     {
-      "id": "d6d72465-0fe9-471c-9a28-72de04a7708f",
+      "id": "f0f41d4d-454c-4fd1-bc43-3f5cbba76f14",
       "season": 1,
       "number": 6,
-      "name": "Den frygtelige slutning",
-      "airdate": "2026-07-10"
+      "name": "Laban og julemanden",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "1ffceb29-82df-4ca7-939e-be19ad78c7c8",
+      "season": 1,
+      "number": 7,
+      "name": "Mor hikker",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "19c96740-5684-4f2f-bba4-bb4d7dfdf6cd",
+      "season": 1,
+      "number": 8,
+      "name": "Stor og dygtig",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "57fdc69b-24fa-4298-8110-bcf18fb1dd17",
+      "season": 1,
+      "number": 9,
+      "name": "Faret vild i skoven",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "db7cf8e0-a1fd-40f2-8e46-ac6a6e108ea5",
+      "season": 1,
+      "number": 10,
+      "name": "Far er syg",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "7875d444-7394-476f-a57a-fa76a930ea2c",
+      "season": 1,
+      "number": 11,
+      "name": "Laban ligger i telt",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "6536384f-fb38-4023-86da-764483d35a18",
+      "season": 1,
+      "number": 12,
+      "name": "Dumme spøgelsesfar",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "591e5847-3e57-413e-968a-7acaa26b56b9",
+      "season": 1,
+      "number": 13,
+      "name": "Bare en til",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "00e4adb4-4359-4218-8d20-7722cf998a87",
+      "season": 1,
+      "number": 14,
+      "name": "Labans picnic",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "6c679020-43e2-4d0d-8240-9a58615a0e9a",
+      "season": 1,
+      "number": 15,
+      "name": "Flagermusungen",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "6469e674-6f67-45f2-9ea9-025d36ef3f2a",
+      "season": 1,
+      "number": 16,
+      "name": "Mors farver",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "34a573da-cc10-4dae-a026-0c101f457357",
+      "season": 1,
+      "number": 17,
+      "name": "Skyggen",
+      "airdate": "2016-06-01"
+    },
+    {
+      "id": "46f8b79b-7d5d-44db-994e-0418c8d45c22",
+      "season": 1,
+      "number": 18,
+      "name": "Onkel Klap",
+      "airdate": "2016-06-01"
     }
   ]
 }

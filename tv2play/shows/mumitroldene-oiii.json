@@ -1,0 +1,474 @@
+{
+  "id": "tv2play:mumitroldene-oiii",
+  "name": "Mumitroldene",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mumi og vennerne kommer ud for mange udfordringer. Det store blå hus i Mumidalen bliver oversvømmet, Snorkfrøken bliver taget til fange af træerne i junglen, og vennerne må skynde sig frem til observatoriet og se, hvor tæt kometen er på jorden, inden det er for sent.",
+  "image": "https://cdn-play.tv2i.dk/36a40f3a-f5ec-4e6d-a065-9a3b8bbca02f.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C999%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "15211e14-8c4b-4faa-8a8c-9c5114fdf918",
+      "season": 1,
+      "number": 1,
+      "name": "Den gyldne hale",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4dc42d74-b7d3-467b-9733-9229d021dff7",
+      "season": 1,
+      "number": 2,
+      "name": "Grevindens cocktailparty",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "48c7ad8d-0d7c-4d4e-9f15-7ce6088f4693",
+      "season": 1,
+      "number": 3,
+      "name": "Tofslen og Vifslen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d58b8333-f4e8-4676-8ff8-f719ef775464",
+      "season": 1,
+      "number": 4,
+      "name": "Tvist med Murren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "75d7bf08-e67f-4c89-a631-0604950b5460",
+      "season": 1,
+      "number": 5,
+      "name": "Forlystelsesparken",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "29464608-b1fb-43e4-ac0a-4d1c0930ca35",
+      "season": 1,
+      "number": 6,
+      "name": "En kiste med slemme ord",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "83f87f1b-e330-4f18-9f3a-a58b025a2559",
+      "season": 1,
+      "number": 7,
+      "name": "En vrissen drage",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9e336d24-1851-431b-a6b8-0f0fd53d2d00",
+      "season": 1,
+      "number": 8,
+      "name": "Mumrikken siger farvel",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c0c5a8dc-cf59-4d57-baa1-7054f661518f",
+      "season": 1,
+      "number": 9,
+      "name": "Den forsvundne håndtaske",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "727e698b-630f-4e93-a193-731cead8be1b",
+      "season": 1,
+      "number": 10,
+      "name": "Kongerubinen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9dbb8a66-e79f-4cce-8d39-b788a22aad12",
+      "season": 1,
+      "number": 11,
+      "name": "Ønsker går i opfyldelse",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6257b7a9-f411-4688-be9d-7216f4e5a2a1",
+      "season": 1,
+      "number": 12,
+      "name": "Augustfesten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "418a0fa4-6656-4509-a219-ffb50b05e0b4",
+      "season": 1,
+      "number": 13,
+      "name": "Hunden Cedric",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "34c4a2d4-dfe0-49d5-a1e3-8bfd6a69f610",
+      "season": 1,
+      "number": 14,
+      "name": "Den store oversvømmelse",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5eb035b0-6cc4-4162-8787-974fbc667bf1",
+      "season": 1,
+      "number": 15,
+      "name": "Teaterhuset",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "5990c946-9407-4752-b52b-42d62b3a97e1",
+      "season": 1,
+      "number": 16,
+      "name": "Teaterrotten Emma",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ebd5d9c1-247d-4bb4-97ef-c9ca5562dc85",
+      "season": 1,
+      "number": 17,
+      "name": "Teaterliv",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c13aabbb-220f-44f2-b80f-75064342a7a0",
+      "season": 1,
+      "number": 18,
+      "name": "Nat i træet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "4317a339-73ff-43e0-b5cc-5c36b2e4e999",
+      "season": 1,
+      "number": 19,
+      "name": "Mytteri i parken",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f10f848d-6e14-41c4-8cb4-9bf682b0bcff",
+      "season": 1,
+      "number": 20,
+      "name": "Midsommernat",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "09b647d5-cf24-40c8-ae2b-6f64575c185b",
+      "season": 1,
+      "number": 21,
+      "name": "Mumrikken og skovbørnene",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b8088838-0b03-4009-963c-8812ebd4ffd7",
+      "season": 1,
+      "number": 22,
+      "name": "Bag tremmer",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "405236c0-594e-499d-b79b-73e3fa3c5dc7",
+      "season": 1,
+      "number": 23,
+      "name": "Premieren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "165fa257-697f-441c-8e33-d8f14489e2d2",
+      "season": 1,
+      "number": 24,
+      "name": "Med politiet i hælene",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2ddc2063-afce-4040-b16a-6a31c7fc966e",
+      "season": 1,
+      "number": 25,
+      "name": "Juleaften",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "270fa76f-ce00-454e-b262-d68732e9bf2b",
+      "season": 1,
+      "number": 26,
+      "name": "Vinter i Mumidalen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e3c73bdf-21a8-417a-85bd-fbaa19d2d502",
+      "season": 1,
+      "number": 27,
+      "name": "Lille My",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "21ecb541-9232-4f24-8885-3c39e96335f0",
+      "season": 1,
+      "number": 28,
+      "name": "Vinterkonkurrence",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3b67d745-15a4-4496-8272-fde13756fba3",
+      "season": 1,
+      "number": 29,
+      "name": "Lille Klipdassen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d0c0b114-45eb-43ea-8c22-dbebcd161c15",
+      "season": 1,
+      "number": 30,
+      "name": "Katastrofen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "77f49eee-d4dd-47f0-98bd-c1c42a635f6c",
+      "season": 1,
+      "number": 31,
+      "name": "Jungleliv",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "11ca68f2-8fc5-4c2f-ba25-2940e2eab496",
+      "season": 1,
+      "number": 32,
+      "name": "Vilddyret",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ef41f3e2-f015-4ca5-bd28-50006d3b26b1",
+      "season": 1,
+      "number": 33,
+      "name": "Fyret",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "60816363-c044-4502-8424-8d9fc3302f33",
+      "season": 1,
+      "number": 34,
+      "name": "Den malede have",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "8bd619e3-d843-46e5-a0ea-bc4d9714cc2d",
+      "season": 1,
+      "number": 35,
+      "name": "Efterårsstormen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "d4c5d275-133a-4c2c-bcaf-8eafd0cc317e",
+      "season": 1,
+      "number": 36,
+      "name": "Det usynlige barn",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "887060ba-8ad4-4fc6-9172-eaf8584ba6dd",
+      "season": 1,
+      "number": 37,
+      "name": "Mysteriet om barometeret",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "e45b38ec-d4f3-4138-9ba9-e16a08709a3a",
+      "season": 1,
+      "number": 38,
+      "name": "Hattifnatterne angriber",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ab0dface-287f-449b-98a7-35c33f3db356",
+      "season": 1,
+      "number": 39,
+      "name": "Strandfund",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9b9e9dd2-de24-4319-aebb-63206a03e260",
+      "season": 1,
+      "number": 40,
+      "name": "Vampyrjagten",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "cff85923-36cf-49bb-839f-2417b4a67246",
+      "season": 1,
+      "number": 41,
+      "name": "Den venlige vampyr",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b8accdf0-505c-4966-bd57-a440f2f18b9d",
+      "season": 1,
+      "number": 42,
+      "name": "Filifjonken og vampyren",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "af3395b6-86dc-4794-a123-c00d43fb2db1",
+      "season": 1,
+      "number": 43,
+      "name": "Troldkarlens hat",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "085798e0-e2f6-486c-ae4a-55b693283c45",
+      "season": 1,
+      "number": 44,
+      "name": "Kongen af Californien",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "53984034-9bc5-4415-8b13-ff22f2da349d",
+      "season": 1,
+      "number": 45,
+      "name": "Myreløven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "c02c7a7b-e7f5-4c0e-8e20-135a66b8fdac",
+      "season": 1,
+      "number": 46,
+      "name": "Hindbærsaft og kanariefugle",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a15a92ce-934d-4be1-ba13-150626be4aa3",
+      "season": 1,
+      "number": 47,
+      "name": "Junglen og Mumihuset",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "2268d3d2-761b-4107-8136-1d5df515f8fc",
+      "season": 1,
+      "number": 48,
+      "name": "Grotten og perlerne",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "7854b5e8-8c1a-482d-959a-abebaf5cf8f7",
+      "season": 1,
+      "number": 49,
+      "name": "Jorden er ubetydelig",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "ede6e948-c064-4ce0-b11e-e4da30c339a2",
+      "season": 1,
+      "number": 50,
+      "name": "Den eventyrlige rejse",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "1b754229-e34e-4ebc-8ab3-9505187559d5",
+      "season": 1,
+      "number": 51,
+      "name": "Afgrunden",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "eab24812-5697-40db-8485-ffd5d14b115c",
+      "season": 1,
+      "number": 52,
+      "name": "De stenede bjerge",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "960b5bec-9276-4908-997a-1c17e1bdab0c",
+      "season": 1,
+      "number": 53,
+      "name": "Observatoriet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f87ad989-2420-4119-9081-78dcaa6ebcec",
+      "season": 1,
+      "number": 54,
+      "name": "Stenskredet",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "9bc141c3-808b-4aec-b542-818a47c5b9ae",
+      "season": 1,
+      "number": 55,
+      "name": "På hjemvejen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "b7a7b74a-f551-4752-a225-68b146ca3d6a",
+      "season": 1,
+      "number": 56,
+      "name": "Den lille købmandsforretning",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "006429e3-d008-462d-b1d3-99ae2a0cad8d",
+      "season": 1,
+      "number": 57,
+      "name": "Dans i skoven",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "3fda8ada-439d-48ea-a070-cda8f530bbdc",
+      "season": 1,
+      "number": 58,
+      "name": "På havets bund",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "6dfad2d5-53e9-459a-ae3e-d64536b03023",
+      "season": 1,
+      "number": 59,
+      "name": "Sandstormen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "f6d197dc-0662-4efe-88db-58177f6232ae",
+      "season": 1,
+      "number": 60,
+      "name": "Kometen",
+      "airdate": "2020-12-01"
+    },
+    {
+      "id": "a69e4b0f-669f-4ac9-b37f-2feb9290c036",
+      "season": 1,
+      "number": 61,
+      "name": "Den kolde vinter",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "5e41b93b-8462-46e0-8ad3-48555b3c6f94",
+      "season": 1,
+      "number": 62,
+      "name": "Venter på solen",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "82ddeee7-bac3-4aec-a6d0-f8b3014fd13d",
+      "season": 1,
+      "number": 63,
+      "name": "Vintergæster",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "1540ec0b-8a9e-475e-af3e-26b430b372e9",
+      "season": 1,
+      "number": 64,
+      "name": "Den sunde hemul",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "4c0f78d3-0430-4abc-ba00-22ba5d6fff9a",
+      "season": 1,
+      "number": 65,
+      "name": "Ynk og ulvene",
+      "airdate": "2026-08-01"
+    },
+    {
+      "id": "4fc2384f-d5cd-4461-82a6-dd0ff60f1c90",
+      "season": 1,
+      "number": 66,
+      "name": "Foråret kommer",
+      "airdate": "2026-08-01"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kvinde-kend-din-kamp-tv2oest",
+  "name": "Kvinde, kend din kamp",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den 8. marts var det Kvindernes Internationale Kampdag, men er der overhovedet mere tilbage at kæmpe for kvinderne her i 2025?",
+  "image": "https://cdn-play.tv2i.dk/94ca1fa1-75c4-47a8-a713-3fc4888380d8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "12e8245e-bc58-4db6-b10b-6ca3fd848dab",
+      "season": 1,
+      "number": 1,
+      "name": "Kvinders økonomi",
+      "airdate": "2025-07-10"
+    },
+    {
+      "id": "39d06169-5199-436d-a3a9-11f87c799fdc",
+      "season": 1,
+      "number": 2,
+      "name": "Digital chikane",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "b743d92c-7051-4ca7-96dd-79bd00ade684",
+      "season": 1,
+      "number": 3,
+      "name": "Ledelse og magt",
+      "airdate": "2025-07-24"
+    },
+    {
+      "id": "645bbc2b-9ca5-4626-a3ef-acf50c8a3c74",
+      "season": 1,
+      "number": 4,
+      "name": "Kvinde i et mandefag",
+      "airdate": "2025-07-31"
+    },
+    {
+      "id": "e5375022-a923-4c4e-981e-218cbc499eb9",
+      "season": 1,
+      "number": 5,
+      "name": "Kvindesygdomme under radaren",
+      "airdate": "2025-08-07"
+    },
+    {
+      "id": "96c5633a-7f65-42dc-aca2-194b0d9d0d0c",
+      "season": 1,
+      "number": 6,
+      "name": "Vold mod kvinder",
+      "airdate": "2025-08-14"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:kan-det-saelges-tv2nord",
+  "name": "Kan det sælges?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Bag alle salgsopslag er der en god historie og nogle gange en plan. Mød dem, der sælger ting og sager på marketplace.",
+  "image": "https://cdn-play.tv2i.dk/f7c52309-b1d1-40d0-b984-4dd8fc96f9e9.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "adf32d8f-44d3-4500-a7d9-d012fd8bb8b1",
+      "season": 1,
+      "number": 1,
+      "name": "Mikes hemmelige kontor",
+      "airdate": "2025-09-12"
+    },
+    {
+      "id": "6f3da061-2ec8-4413-921e-3aebece105e4",
+      "season": 1,
+      "number": 2,
+      "name": "Kort til 100.000 og en blå baby",
+      "airdate": "2025-09-19"
+    },
+    {
+      "id": "3fb009fc-ca02-4134-941d-71e07013adbc",
+      "season": 1,
+      "number": 3,
+      "name": "Et halvt tivoli og en svamp",
+      "airdate": "2025-09-26"
+    }
+  ]
+}

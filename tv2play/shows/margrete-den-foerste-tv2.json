@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:margrete-den-foerste-tv2",
+  "name": "Margrete den Første",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Storslået historisk miniserie med Trine Dyrholm i rollen som Margrete 1. Året er 1402, og Margrete sidder på magten i hele Norden, som hun styrer gennem sin adoptivsøn, Erik. Men en konspiration er undervejs, som sætter Margrete i et umuligt dilemma.",
+  "image": "https://cdn-play.tv2i.dk/18a18cdf-cb6f-4a14-8f43-4f73d4f888e7.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2320edea-19fc-45af-b07d-4b24a70a8fc7",
+      "season": 1,
+      "number": 1,
+      "name": "Manden fra Preussen",
+      "airdate": "2022-01-16"
+    },
+    {
+      "id": "5a4e7568-618f-451b-8e0f-6a04edf315d3",
+      "season": 1,
+      "number": 2,
+      "name": "Fjender overalt",
+      "airdate": "2022-01-30"
+    },
+    {
+      "id": "60f01a41-5da2-4cb2-a3e6-12c0bf23bc5f",
+      "season": 1,
+      "number": 3,
+      "name": "For freden",
+      "airdate": "2022-02-06"
+    }
+  ]
+}

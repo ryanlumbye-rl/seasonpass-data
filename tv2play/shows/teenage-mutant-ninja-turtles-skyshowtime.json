@@ -1,0 +1,117 @@
+{
+  "id": "tv2play:teenage-mutant-ninja-turtles-skyshowtime",
+  "name": "Teenage Mutant Ninja Turtles",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": "https://cdn-play.tv2i.dk/2b3e84de-d3e8-46b8-be34-24f9447fa282.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "75437934-716f-4764-8ed0-0c0fda1245a5",
+      "season": 1,
+      "number": 11,
+      "name": "Mousernes angreb!",
+      "airdate": "2023-09-08"
+    },
+    {
+      "id": "99378294-07dd-4b78-a4bc-7bcf3cf707c5",
+      "season": 1,
+      "number": 18,
+      "name": "Kakerlak-hævneren",
+      "airdate": "2023-09-08"
+    },
+    {
+      "id": "d50f7e6c-804b-4d82-ab2d-432bc819e19e",
+      "season": 1,
+      "number": 26,
+      "name": "Showdown, del 2",
+      "airdate": "2023-09-08"
+    },
+    {
+      "id": "67b6d838-0d9a-40e5-ad39-63dec5f9fb46",
+      "season": 3,
+      "number": 2,
+      "name": "Hvad skoven skjulte",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e6dd821f-77a3-4c3d-9d51-e5a8dda90a63",
+      "season": 3,
+      "number": 4,
+      "name": "Frøernes nat",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "65a47d68-4eec-40e2-9354-b527d95faef2",
+      "season": 3,
+      "number": 22,
+      "name": "En snigende fare",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8a9b4616-3687-4fb5-8e07-61fe5706eda0",
+      "season": 4,
+      "number": 15,
+      "name": "En by i krig",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "211e97b8-7073-462f-bfb0-e8e97b776548",
+      "season": 4,
+      "number": 22,
+      "name": "Hendes indre kraft",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c220bd2c-5da7-44eb-a516-7307a6fbdb62",
+      "season": 4,
+      "number": 24,
+      "name": "Teenage Mutant Ninja Turtles",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "03ff588b-2973-42b5-a0bf-79840b5de460",
+      "season": 5,
+      "number": 1,
+      "name": "Demodragens skriftrulle",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4c3b2663-15f8-4ea2-8bfc-b743b4b36487",
+      "season": 5,
+      "number": 3,
+      "name": "Ondskabens hjerte",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "52fa03ab-c8ef-4c8c-9622-429dda7bf673",
+      "season": 5,
+      "number": 5,
+      "name": "Den ensomme rotte og hans unger",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fe788526-323f-4f33-87d1-6e9a1b1af75c",
+      "season": 5,
+      "number": 13,
+      "name": "Fodklanen vender tilbage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9c6e7395-9f22-465c-ae69-cedc9ac82eaa",
+      "season": 5,
+      "number": 15,
+      "name": "Yojimbo",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "553f79dd-88af-499d-9377-407384d5b0d9",
+      "season": 5,
+      "number": 17,
+      "name": "Kagayake! Kintaro",
+      "airdate": "2023-01-01"
+    }
+  ]
+}

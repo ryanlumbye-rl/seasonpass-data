@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:emerald-city-tv2play",
+  "name": "Emerald City",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "e18d7bf0-829d-4e4b-a5f7-572e8f306a0c",
+      "season": 1,
+      "number": 1,
+      "name": "The Beast Forever",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "af620f01-7adf-490b-b255-53ebfd7ac06e",
+      "season": 1,
+      "number": 2,
+      "name": "Prison of the Abject",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "4a0fe201-020f-4ce4-8cea-e8ddb5a3e099",
+      "season": 1,
+      "number": 3,
+      "name": "Mistress - New - Mistress",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "e98a7585-3267-44a4-9299-1e14336deb7e",
+      "season": 1,
+      "number": 4,
+      "name": "Science and Magic",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "bd0d37e0-e168-4f2f-8f9a-a9b7c3c973cf",
+      "season": 1,
+      "number": 5,
+      "name": "Everybody Lies",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "cc8bbc43-030a-4eb2-a3d4-09972bf097e2",
+      "season": 1,
+      "number": 6,
+      "name": "Beautiful Wickedness",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "ba21cd5b-1de9-41b5-ae9a-0c364334affd",
+      "season": 1,
+      "number": 7,
+      "name": "They Came First",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "6ffa9d8a-309d-4a82-83ee-c123abba95f7",
+      "season": 1,
+      "number": 8,
+      "name": "Lions in Winter",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "224e9eb1-3b12-4195-971c-106839bbfff9",
+      "season": 1,
+      "number": 9,
+      "name": "The Villain That's Become",
+      "airdate": "2025-11-18"
+    },
+    {
+      "id": "3bbe51b9-5624-4aeb-9437-0e58ed2b0dd9",
+      "season": 1,
+      "number": 10,
+      "name": "No Place Like Home",
+      "airdate": "2025-11-18"
+    }
+  ]
+}

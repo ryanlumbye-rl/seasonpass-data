@@ -1,0 +1,187 @@
+{
+  "id": "tv2play:landmand-soeger-kaerlighed-usa-tv2echo",
+  "name": "Landmand søger kærlighed USA",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fire landmænd drager ud på deres livs eventyr i jagten på den eneste ene. Vil de finde kærligheden? Følg med, når romantikken blomstrer, og håbet spirer.",
+  "image": "https://cdn-play.tv2i.dk/bb215139-a252-42ef-a56e-618a7a309f1b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "528e5fe4-2e37-4696-8984-7d9cfe030070",
+      "season": 1,
+      "number": 1,
+      "name": "Mødet med landmændene",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "0c5b5b5a-f0ed-4dbe-b094-11e941c8437f",
+      "season": 1,
+      "number": 2,
+      "name": "Virkeligheden på landet",
+      "airdate": "2025-03-10"
+    },
+    {
+      "id": "52fb4f9c-30cb-4f12-bb02-696f979d8ee5",
+      "season": 1,
+      "number": 3,
+      "name": "Intim solodate",
+      "airdate": "2025-03-17"
+    },
+    {
+      "id": "822b8ba0-57f9-41d3-833d-ab560b58e0bb",
+      "season": 1,
+      "number": 4,
+      "name": "Tyren ved hornene",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "86c2c3e7-b757-4d8f-afbd-3b9d8ea7b9bb",
+      "season": 1,
+      "number": 5,
+      "name": "Tårer og trucktræf",
+      "airdate": "2025-03-31"
+    },
+    {
+      "id": "d4bd9e55-19c1-4bd9-8844-3a02bdba007c",
+      "season": 1,
+      "number": 6,
+      "name": "Et følelsesladet farvel",
+      "airdate": "2025-04-07"
+    },
+    {
+      "id": "f0e16d4c-98f9-4234-ab2e-68d9a3603ec9",
+      "season": 1,
+      "number": 7,
+      "name": "Så er der fest",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "b4b89770-5c1e-4e89-b4d6-4428b8f2f65e",
+      "season": 1,
+      "number": 8,
+      "name": "Plads til en mere?",
+      "airdate": "2025-04-21"
+    },
+    {
+      "id": "13c1f099-0b21-45e2-a399-af0f998bf8a0",
+      "season": 1,
+      "number": 9,
+      "name": "Mød familierne",
+      "airdate": "2025-04-28"
+    },
+    {
+      "id": "3a6db557-04a0-482b-82ce-cde1f673a6c1",
+      "season": 1,
+      "number": 10,
+      "name": "En følelse af fejl",
+      "airdate": "2025-05-05"
+    },
+    {
+      "id": "9804174e-06e6-40a5-95bc-6df802595d7c",
+      "season": 1,
+      "number": 11,
+      "name": "Det endelige valg",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "166d97eb-bbea-4dce-8206-6eacd0e40fa2",
+      "season": 2,
+      "number": 1,
+      "name": "Mød landmændene",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "163473a1-2cb1-4d3a-a5ab-d75928176268",
+      "season": 2,
+      "number": 2,
+      "name": "De første solodates",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "bc7838ad-b07b-4c7d-bfc1-48bc10e85e11",
+      "season": 2,
+      "number": 3,
+      "name": "Stærke følelser",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "51641d85-e1a3-45e8-b4b5-ebb549d7a91f",
+      "season": 2,
+      "number": 4,
+      "name": "Knuste drømme",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "3189802c-6092-49d2-96d2-bea61f0a64ed",
+      "season": 2,
+      "number": 5,
+      "name": "Klar til dyst",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "ac9319e6-542b-4c98-b951-e2ed2f47e759",
+      "season": 2,
+      "number": 6,
+      "name": "Nye muligheder",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "9825a9a9-4aa2-4d6a-a056-51c85f1871a1",
+      "season": 2,
+      "number": 7,
+      "name": "På camping",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "ba0970ef-eff4-489b-b091-21cf9bb59a09",
+      "season": 2,
+      "number": 8,
+      "name": "En uventet afsked",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "2a0bc74e-27d1-4a3a-8231-119b493728b1",
+      "season": 2,
+      "number": 9,
+      "name": "Familiefest",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "2a7ab4c3-5f40-494b-b3da-7889e047c248",
+      "season": 2,
+      "number": 10,
+      "name": "De sidste solodates",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "9079fa51-e7ac-4301-b947-1737dff191fa",
+      "season": 2,
+      "number": 11,
+      "name": "På besøg hos kvinderne",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "4f74c7b1-167c-4c9c-87e1-ae18b5faed28",
+      "season": 2,
+      "number": 12,
+      "name": "Under pres",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "afefe3c1-0c85-4ae4-b3ec-01c6753a42fd",
+      "season": 2,
+      "number": 13,
+      "name": "Den sidste beslutning",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "ddf5d698-5ab8-4c34-acb4-f7b4dd6d0941",
+      "season": 2,
+      "number": 14,
+      "name": "Reunion",
+      "airdate": "2026-01-15"
+    }
+  ]
+}

@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "'Kender du hende' er en inspirerende animationsserie, som skal udbrede kendskabet til danske kvinder, som har ændret historien. Den skal inspirere publikum og vise, at alle kan gøre en forskel, uanset hvor man kommer fra, og hvad ens baggrund er.",
+  "image": "https://cdn-play.tv2i.dk/06d2c741-436b-477a-96fc-4a35021f8ff7.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "726e80de-a752-42b9-8b45-fed8fc572a90",

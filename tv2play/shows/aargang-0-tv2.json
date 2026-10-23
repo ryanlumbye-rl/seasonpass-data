@@ -1,0 +1,572 @@
+{
+  "id": "tv2play:aargang-0-tv2",
+  "name": "Årgang 0",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dette er historien om den første generation i det nye årtusind. Det er en enestående dansk dokumentarserie, som har fulgt fire børn og deres familier siden de blev født i år 2000. Vi følger børnene, mens de vokser op. Det handler om livets store og små øjeblikke - det er Danmarkshistorien, som vi oplever den selv.",
+  "image": "https://cdn-play.tv2i.dk/2ffafb3a-a27e-4c2d-892b-fa149efc097d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "40ec27c5-a0cb-4049-9856-c92c894f7d7e",
+      "season": 1,
+      "number": 1,
+      "name": "År 1",
+      "airdate": "2001-01-08"
+    },
+    {
+      "id": "3bef5e74-b8b6-4f26-933e-6c66f4a49199",
+      "season": 1,
+      "number": 2,
+      "name": "År 1",
+      "airdate": "2001-01-15"
+    },
+    {
+      "id": "ac502162-aabf-4fdf-a16f-19ba874d57d7",
+      "season": 1,
+      "number": 3,
+      "name": "År 1",
+      "airdate": "2001-01-22"
+    },
+    {
+      "id": "7d77df44-ab48-4d74-846f-201263f298e2",
+      "season": 2,
+      "number": 1,
+      "name": "År 2",
+      "airdate": "2002-02-11"
+    },
+    {
+      "id": "922ae996-0692-4094-aa29-a402aefc335c",
+      "season": 2,
+      "number": 2,
+      "name": "År 2",
+      "airdate": "2002-02-18"
+    },
+    {
+      "id": "b6b9634a-4270-4c69-8d4d-8fd97e673c09",
+      "season": 3,
+      "number": 1,
+      "name": "År 3",
+      "airdate": "2003-01-06"
+    },
+    {
+      "id": "2433a2e1-8a7d-4d20-9286-0eabaae6ba1e",
+      "season": 3,
+      "number": 2,
+      "name": "År 3",
+      "airdate": "2003-01-13"
+    },
+    {
+      "id": "00990b2e-2a89-4bf9-abf1-b15c350cde8e",
+      "season": 3,
+      "number": 3,
+      "name": "År 3",
+      "airdate": "2003-01-20"
+    },
+    {
+      "id": "86b5d0fd-c4a7-4436-9627-3f80c5944051",
+      "season": 4,
+      "number": 1,
+      "name": "År 4",
+      "airdate": "2004-01-12"
+    },
+    {
+      "id": "0652ae1d-976e-420c-a57e-355faaa0694d",
+      "season": 4,
+      "number": 2,
+      "name": "År 4",
+      "airdate": "2004-01-19"
+    },
+    {
+      "id": "89253353-9f7b-44a4-b6a2-6343a7308b7c",
+      "season": 4,
+      "number": 3,
+      "name": "År 4",
+      "airdate": "2004-01-26"
+    },
+    {
+      "id": "9b7f6af7-f31b-4983-8fb0-81e8fd424f69",
+      "season": 5,
+      "number": 1,
+      "name": "År 5",
+      "airdate": "2005-01-03"
+    },
+    {
+      "id": "c6cce41b-fb5d-4737-ba88-90645f23a3da",
+      "season": 5,
+      "number": 2,
+      "name": "År 5",
+      "airdate": "2005-01-10"
+    },
+    {
+      "id": "f4804054-4c1d-4dfa-b698-7af4361b659b",
+      "season": 5,
+      "number": 3,
+      "name": "År 5",
+      "airdate": "2005-01-17"
+    },
+    {
+      "id": "43a622c3-e2e6-4de9-85e2-ad4951639c91",
+      "season": 5,
+      "number": 4,
+      "name": "År 5",
+      "airdate": "2005-01-24"
+    },
+    {
+      "id": "1014885a-24aa-4c97-b002-d56dd1c99ed3",
+      "season": 6,
+      "number": 1,
+      "name": "År 6",
+      "airdate": "2006-01-02"
+    },
+    {
+      "id": "4806b501-6f21-42bc-ab8b-71ddf15b67be",
+      "season": 6,
+      "number": 2,
+      "name": "År 6",
+      "airdate": "2006-01-09"
+    },
+    {
+      "id": "8ffbf133-9ad9-4bde-ab8c-b01563dbf7aa",
+      "season": 6,
+      "number": 3,
+      "name": "År 6",
+      "airdate": "2006-01-16"
+    },
+    {
+      "id": "3c4c5344-5cbc-4e39-b7b8-bcc9552f3c16",
+      "season": 6,
+      "number": 4,
+      "name": "År 6",
+      "airdate": "2006-01-23"
+    },
+    {
+      "id": "be64e040-f199-4e9c-a7be-eb6e55beb86c",
+      "season": 7,
+      "number": 1,
+      "name": "År 7",
+      "airdate": "2007-01-02"
+    },
+    {
+      "id": "6226f308-e019-42cc-a13d-6d1e850c3985",
+      "season": 7,
+      "number": 2,
+      "name": "År 7",
+      "airdate": "2007-01-09"
+    },
+    {
+      "id": "f10fbc4f-439c-4284-aab4-1550b46f74ba",
+      "season": 7,
+      "number": 3,
+      "name": "År 7",
+      "airdate": "2007-01-16"
+    },
+    {
+      "id": "a5b4d53d-9ec4-46f2-a259-696095f8edeb",
+      "season": 8,
+      "number": 1,
+      "name": "År 8",
+      "airdate": "2008-01-29"
+    },
+    {
+      "id": "e93b741a-4d0c-44a4-9c6c-3f26f99de519",
+      "season": 8,
+      "number": 2,
+      "name": "År 8",
+      "airdate": "2008-02-05"
+    },
+    {
+      "id": "cf53cf48-1625-4dd5-9853-3134ccf14d73",
+      "season": 8,
+      "number": 3,
+      "name": "År 8",
+      "airdate": "2008-02-12"
+    },
+    {
+      "id": "5a6070bf-f3c1-42b7-ba43-ce6b6f7ba0d6",
+      "season": 8,
+      "number": 4,
+      "name": "År 8",
+      "airdate": "2008-02-19"
+    },
+    {
+      "id": "c05f0c5e-348d-41cf-9b27-5a380b2a9149",
+      "season": 9,
+      "number": 1,
+      "name": "År 9",
+      "airdate": "2009-01-13"
+    },
+    {
+      "id": "90598994-6fbf-465d-b867-67375548d614",
+      "season": 9,
+      "number": 2,
+      "name": "År 9",
+      "airdate": "2009-01-20"
+    },
+    {
+      "id": "5bc2db60-f50b-45be-9909-d19e9cebed65",
+      "season": 9,
+      "number": 3,
+      "name": "År 9",
+      "airdate": "2009-01-27"
+    },
+    {
+      "id": "3b26ed10-dd0e-4c16-a76f-d883644fe2b3",
+      "season": 9,
+      "number": 4,
+      "name": "År 9",
+      "airdate": "2009-02-03"
+    },
+    {
+      "id": "e6e2eae5-b66b-4ad6-beea-ca7ef8f81354",
+      "season": 10,
+      "number": 1,
+      "name": "For begyndere",
+      "airdate": "2010-01-05"
+    },
+    {
+      "id": "7070389f-b0bf-4180-9007-63a1c758c09e",
+      "season": 10,
+      "number": 2,
+      "name": "For begyndere",
+      "airdate": "2010-01-12"
+    },
+    {
+      "id": "c6920014-3bdb-4977-98c8-f82468453b41",
+      "season": 10,
+      "number": 3,
+      "name": "År 10",
+      "airdate": "2010-02-02"
+    },
+    {
+      "id": "e1d450d8-b30d-44f9-8608-f0cf5aa99a0f",
+      "season": 10,
+      "number": 4,
+      "name": "År 10",
+      "airdate": "2010-02-09"
+    },
+    {
+      "id": "a1d4bcac-76be-499a-8cc1-36609ebf073e",
+      "season": 10,
+      "number": 5,
+      "name": "År 10",
+      "airdate": "2010-02-16"
+    },
+    {
+      "id": "0ff822e0-084a-4412-93c4-797c29e469ea",
+      "season": 11,
+      "number": 1,
+      "name": "År 11",
+      "airdate": "2011-01-04"
+    },
+    {
+      "id": "63ab2723-7f49-4273-a72d-e5467f5a0968",
+      "season": 11,
+      "number": 2,
+      "name": "År 11",
+      "airdate": "2011-01-11"
+    },
+    {
+      "id": "7ac77fad-da91-4ceb-9139-36ec869b1693",
+      "season": 11,
+      "number": 3,
+      "name": "År 11",
+      "airdate": "2011-01-18"
+    },
+    {
+      "id": "1842288e-d9c0-4b2b-8600-311a9b63580b",
+      "season": 12,
+      "number": 1,
+      "name": "År 12",
+      "airdate": "2012-01-10"
+    },
+    {
+      "id": "21217cfb-87d7-4624-b6b7-a7c397c0d6db",
+      "season": 12,
+      "number": 2,
+      "name": "År 12",
+      "airdate": "2012-01-24"
+    },
+    {
+      "id": "28dce2b4-c3c8-4416-b0b7-98e4b02bb9d0",
+      "season": 12,
+      "number": 3,
+      "name": "År 12",
+      "airdate": "2012-01-31"
+    },
+    {
+      "id": "b809a065-60e5-4320-a797-cd3b68abcd85",
+      "season": 12,
+      "number": 4,
+      "name": "År 12",
+      "airdate": "2012-02-07"
+    },
+    {
+      "id": "e0e48df2-a23b-4c44-938d-bc4fd1ec71c9",
+      "season": 13,
+      "number": 1,
+      "name": "År 13",
+      "airdate": "2013-01-22"
+    },
+    {
+      "id": "3def9ed0-fe0e-4f40-bb01-a26d765930e5",
+      "season": 13,
+      "number": 2,
+      "name": "År 13",
+      "airdate": "2013-01-22"
+    },
+    {
+      "id": "c2552e00-aab4-449f-8ed7-3b5391bfd6cd",
+      "season": 13,
+      "number": 3,
+      "name": "År 13",
+      "airdate": "2013-01-29"
+    },
+    {
+      "id": "f8ed4ae0-84b9-4a3c-8161-bf397f3274e4",
+      "season": 13,
+      "number": 4,
+      "name": "År 13",
+      "airdate": "2013-02-05"
+    },
+    {
+      "id": "e38d362f-3ae3-4b17-9216-a332297dec18",
+      "season": 14,
+      "number": 1,
+      "name": "År 14",
+      "airdate": "2014-01-07"
+    },
+    {
+      "id": "6d646abd-5223-4b2c-a74f-6b135a7574dd",
+      "season": 14,
+      "number": 2,
+      "name": "År 14",
+      "airdate": "2014-01-14"
+    },
+    {
+      "id": "6afc79cd-d51c-4de4-8e00-2efd29ec967b",
+      "season": 14,
+      "number": 3,
+      "name": "År 14",
+      "airdate": "2014-01-21"
+    },
+    {
+      "id": "346748a7-268a-40c0-82b4-8b75fd64e7a3",
+      "season": 14,
+      "number": 4,
+      "name": "År 14",
+      "airdate": "2014-01-28"
+    },
+    {
+      "id": "f15148f8-5240-43a8-85be-f37926ccc67b",
+      "season": 15,
+      "number": 1,
+      "name": "År 15",
+      "airdate": "2014-12-30"
+    },
+    {
+      "id": "d332705e-22fc-4dcf-a61f-1369563b698d",
+      "season": 15,
+      "number": 2,
+      "name": "År 15",
+      "airdate": "2015-01-06"
+    },
+    {
+      "id": "178b2aba-527d-4b5f-bc57-d6a0a5a62285",
+      "season": 15,
+      "number": 3,
+      "name": "År 15",
+      "airdate": "2015-01-20"
+    },
+    {
+      "id": "8b5dc017-f4db-4b1b-b095-87ddcc2c31ad",
+      "season": 15,
+      "number": 4,
+      "name": "År 15",
+      "airdate": "2015-01-27"
+    },
+    {
+      "id": "acecc59e-ef04-4a11-ab86-ec6ea86c977c",
+      "season": 16,
+      "number": 1,
+      "name": "År 16",
+      "airdate": "2015-12-29"
+    },
+    {
+      "id": "313899a9-bd77-4977-a286-2fd654881c73",
+      "season": 16,
+      "number": 2,
+      "name": "År 16",
+      "airdate": "2016-01-05"
+    },
+    {
+      "id": "955083b5-7be2-4236-89a5-3be4180ed969",
+      "season": 16,
+      "number": 3,
+      "name": "År 16",
+      "airdate": "2016-01-12"
+    },
+    {
+      "id": "ce55744c-814d-4b09-b23f-8d2871073c06",
+      "season": 16,
+      "number": 4,
+      "name": "År 16",
+      "airdate": "2016-01-26"
+    },
+    {
+      "id": "d9cd3c69-cb08-466e-8cfa-e7290757393d",
+      "season": 17,
+      "number": 1,
+      "name": "År 17",
+      "airdate": "2016-12-27"
+    },
+    {
+      "id": "300ccec2-1cdb-45be-b3cd-a9904d8c4426",
+      "season": 17,
+      "number": 2,
+      "name": "År 17",
+      "airdate": "2017-01-03"
+    },
+    {
+      "id": "80634a31-d9f6-4ca9-8f17-f38877db6985",
+      "season": 17,
+      "number": 3,
+      "name": "år 17",
+      "airdate": "2017-01-10"
+    },
+    {
+      "id": "e2f72035-9f83-48c2-8185-0fc524f80b01",
+      "season": 17,
+      "number": 4,
+      "name": "År 17",
+      "airdate": "2017-01-17"
+    },
+    {
+      "id": "f3671885-7935-4498-aeac-5dc99628d92e",
+      "season": 18,
+      "number": 1,
+      "name": "År 18",
+      "airdate": "2018-01-02"
+    },
+    {
+      "id": "daca17ea-be2b-422c-987b-6500b0f57d11",
+      "season": 18,
+      "number": 2,
+      "name": "År 18",
+      "airdate": "2018-01-09"
+    },
+    {
+      "id": "ed2e1671-1f5b-4b93-bdd0-75dbef8f17f2",
+      "season": 18,
+      "number": 3,
+      "name": "År 18",
+      "airdate": "2018-01-16"
+    },
+    {
+      "id": "93a41cfc-e3e5-4650-ae5d-300d74d43a23",
+      "season": 18,
+      "number": 4,
+      "name": "År 18",
+      "airdate": "2018-01-30"
+    },
+    {
+      "id": "bf908746-8f92-4ad0-9f17-2212863dadc8",
+      "season": 19,
+      "number": 1,
+      "name": "År 19",
+      "airdate": "2019-01-22"
+    },
+    {
+      "id": "7b3a791f-ec4a-471d-8269-11abb49e114f",
+      "season": 19,
+      "number": 2,
+      "name": "År 19",
+      "airdate": "2019-01-22"
+    },
+    {
+      "id": "2195d0da-c026-4fe4-aa4c-46181dcebbed",
+      "season": 19,
+      "number": 3,
+      "name": "År 19",
+      "airdate": "2019-01-29"
+    },
+    {
+      "id": "0eb01c43-2940-4d44-8edf-b7776663faf7",
+      "season": 19,
+      "number": 4,
+      "name": "År 19",
+      "airdate": "2019-02-05"
+    },
+    {
+      "id": "c4f48691-3726-4183-9ce4-3727b045c7bd",
+      "season": 19,
+      "number": 5,
+      "name": "Mathilde - Ketchup i blodet",
+      "airdate": "2019-02-12"
+    },
+    {
+      "id": "fe31d7ae-306c-460a-9ecf-915a669b3eac",
+      "season": 19,
+      "number": 6,
+      "name": "Kort fortalt",
+      "airdate": "2019-01-15"
+    },
+    {
+      "id": "427418f5-0e7a-4ce2-b143-6c6c4874eac5",
+      "season": 19,
+      "number": 7,
+      "name": "Oscar - Girl & Guitar",
+      "airdate": "2019-01-26"
+    },
+    {
+      "id": "5447067d-417d-4552-afe8-e3e85cbf5dca",
+      "season": 20,
+      "number": 1,
+      "name": "Stephanies historie",
+      "airdate": "2019-12-26"
+    },
+    {
+      "id": "73b1ba20-954f-480e-9fed-8e8d6c684223",
+      "season": 20,
+      "number": 2,
+      "name": "Rachels historie",
+      "airdate": "2020-01-09"
+    },
+    {
+      "id": "462da533-1fd4-4391-9ce3-505f5b029eae",
+      "season": 20,
+      "number": 3,
+      "name": "Emmas historie",
+      "airdate": "2020-01-16"
+    },
+    {
+      "id": "981875a9-f8f7-44e4-82cb-7feca56a23d0",
+      "season": 20,
+      "number": 4,
+      "name": "Christians historie",
+      "airdate": "2020-01-23"
+    },
+    {
+      "id": "3c3547a6-3b22-460f-b7e0-7d735d812c75",
+      "season": 20,
+      "number": 5,
+      "name": "Isabella - ung og følsom",
+      "airdate": "2024-02-15"
+    },
+    {
+      "id": "f0f240e1-19a9-458f-8956-aff15911e039",
+      "season": 20,
+      "number": 6,
+      "name": "David - business eller Borgen",
+      "airdate": "2020-01-18"
+    },
+    {
+      "id": "5a7bac46-c9e7-489e-8c8f-e829f586051d",
+      "season": 20,
+      "number": 7,
+      "name": "Ludwig - hjem til Århus",
+      "airdate": "2020-01-25"
+    }
+  ]
+}

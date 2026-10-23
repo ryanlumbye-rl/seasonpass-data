@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:operation-rosengaard-fck-indtager-malmoe-tv2",
+  "name": "Operation Rosengård - FCK indtager Malmø",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "F.C. København ønsker at købe sig ind i FC Rosengård 1917 og føre klubbens herrehold fra tredjebedste til bedste svenske række.",
+  "image": "https://cdn-play.tv2i.dk/abb552d2-eda4-472e-9acd-4814481df6a6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "8de866cb-9c77-4354-826a-1508b0a05d9d",
+      "season": 1,
+      "number": 1,
+      "name": "Aftalen skal i hus",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "93cc6720-5186-4a24-ad70-59801a0df546",
+      "season": 1,
+      "number": 2,
+      "name": "Godkendelsen mangler",
+      "airdate": "2025-12-22"
+    }
+  ]
+}

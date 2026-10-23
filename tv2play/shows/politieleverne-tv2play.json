@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:politieleverne-tv2play",
+  "name": "Politieleverne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vi har fået eksklusiv adgang til en håndfuld politielever, når de skal på gaden for allerførste gang. Er de klar – og har de, hvad der skal til, når virkeligheden rammer?",
+  "image": "https://cdn-play.tv2i.dk/0684e76d-865c-491f-b99c-3fb9ef029bd5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "2041709e-312c-420f-87ff-9f54fc2b202d",
+      "season": 1,
+      "number": 1,
+      "name": "Fra skole til praktik",
+      "airdate": "2025-11-29"
+    },
+    {
+      "id": "93a5698f-0070-4eb1-aeba-1770b19d6462",
+      "season": 1,
+      "number": 2,
+      "name": "Klar til tjeneste",
+      "airdate": "2025-11-29"
+    },
+    {
+      "id": "86504a12-ad85-4610-831f-a89fb6cd871c",
+      "season": 1,
+      "number": 3,
+      "name": "Første patrulje",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "07e2df69-ed25-48f5-bcf8-6afdd8620988",
+      "season": 1,
+      "number": 4,
+      "name": "Mere end blå blink",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "6a48ac80-c82f-44e2-8efa-46e1bc5d670d",
+      "season": 1,
+      "number": 5,
+      "name": "Narkoransagningen",
+      "airdate": "2025-12-13"
+    },
+    {
+      "id": "c661adae-2cc9-48c3-ba75-2cf4ddef4428",
+      "season": 1,
+      "number": 6,
+      "name": "Narkohunde og fulde mennesker",
+      "airdate": "2025-12-13"
+    },
+    {
+      "id": "98e80b9d-3fce-49ff-b732-8fe67fe7c9e2",
+      "season": 1,
+      "number": 7,
+      "name": "Første civilvagt",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "0593dd35-6780-43ae-9b1a-87adc9e13f78",
+      "season": 1,
+      "number": 8,
+      "name": "Ny vejleder",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "9880a850-9975-4ac5-a572-a09502a062ee",
+      "season": 1,
+      "number": 9,
+      "name": "Når det virkelig gælder",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "1b91ab11-bce5-407f-bfa1-6ef036e2170c",
+      "season": 1,
+      "number": 10,
+      "name": "Fra drøm til virkelighed",
+      "airdate": "2025-12-27"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:smagen-af-fremtiden-tv2kosmopol",
+  "name": "Smagen af fremtiden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vi følger tre iværksættere, der alle kæmper for at bevise, at deres plantebaserede produkter kan være med til at ændre vores madvaner. Men det er langt fra så nemt at få succes, som de havde drømt om.",
+  "image": "https://cdn-play.tv2i.dk/d1f503b2-99a6-4f6e-8e62-a28133746895.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4bc04a23-0cc0-4921-8612-0de155399953",
+      "season": 1,
+      "number": 1,
+      "name": "Prisen skal ned",
+      "airdate": "2025-01-19"
+    },
+    {
+      "id": "59a51853-3a24-4bd9-be0f-f8b2843a1102",
+      "season": 1,
+      "number": 2,
+      "name": "Det vigtige møde",
+      "airdate": "2025-01-19"
+    },
+    {
+      "id": "f3ac0722-6649-4fbf-b6dc-dbcabc593729",
+      "season": 1,
+      "number": 3,
+      "name": "Drømmen lever",
+      "airdate": "2025-01-19"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:sidney-tv2echo",
+  "name": "Sidney",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom helt tæt på realitystjernen Sidney Lee, når vi i dokumentarserien i tre afsnit går bagom berømmelsen, bandanaen og den selvbrunede hud og viser Sidney, som du aldrig har set ham før. For første gang står familien frem og fortæller om de store op-og nedture og om den Peter Pan-figur, Sidney var.",
+  "image": "https://cdn-play.tv2i.dk/dfe01c25-f883-43ab-8288-48ad8cc2a4dc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "cce26a2d-cc68-48c5-b456-b31efd516027",
+      "season": 1,
+      "number": 1,
+      "name": "Kendt eller anerkendt?",
+      "airdate": "2023-04-11"
+    },
+    {
+      "id": "38687360-af02-4771-9618-929cb34095c6",
+      "season": 1,
+      "number": 2,
+      "name": "Kompromisløs",
+      "airdate": "2023-04-18"
+    },
+    {
+      "id": "ad4390dd-98cd-4cab-960e-f51e978499b3",
+      "season": 1,
+      "number": 3,
+      "name": "Kongens fald",
+      "airdate": "2023-04-25"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "tv2play:dirty-john-tv2play",
   "name": "Dirty John",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
@@ -12,6 +12,113 @@
       "number": 1,
       "name": "Approachable dreams",
       "airdate": "2025-07-15"
+    },
+    {
+      "id": "a2070534-743c-4fc6-8845-932242d775bc",
+      "season": 1,
+      "number": 2,
+      "name": "Red flags and parades",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "ea4eb2ec-366c-4314-946c-4139b60f12dd",
+      "season": 1,
+      "number": 3,
+      "name": "Remember it was me",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "8903904e-2756-4192-bdfb-9048fc5bf74b",
+      "season": 1,
+      "number": 4,
+      "name": "Shrapnel",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "e9f7ce7f-c7b9-4926-a363-f787e7989600",
+      "season": 1,
+      "number": 5,
+      "name": "Lord high executioner",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "9d1dce80-d509-47f4-b6af-20f9e74682c9",
+      "season": 1,
+      "number": 6,
+      "name": "One shoe",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "77cf24c2-66b0-4b63-be92-9c57e9f82ff3",
+      "season": 1,
+      "number": 7,
+      "name": "Chivalry",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "5dbda0b2-847b-4b62-aaab-505223fad2d3",
+      "season": 1,
+      "number": 8,
+      "name": "This young woman fought like hell",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "199ad04c-5fa7-4801-9004-e2221c9ba932",
+      "season": 2,
+      "number": 1,
+      "name": "No fault",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "154a1c18-dbf8-4512-b406-96f15ae63b74",
+      "season": 2,
+      "number": 2,
+      "name": "The turtle and the alligator",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "897f0598-f38d-4bdb-b6d9-64b9f2736df8",
+      "season": 2,
+      "number": 3,
+      "name": "Marriage encounter",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "1b672826-cc81-4f68-b64b-10d4192bdfd6",
+      "season": 2,
+      "number": 4,
+      "name": "More to it than fun",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "d3d5d4d6-6ec6-480e-9376-11ff1e9709ff",
+      "season": 2,
+      "number": 5,
+      "name": "Scream therapy",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "bd98a455-0c9c-4616-8a03-059e8d47f12b",
+      "season": 2,
+      "number": 6,
+      "name": "The twelfth of never",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "82eb4f3c-a7d4-4963-b78b-afe6adeb09aa",
+      "season": 2,
+      "number": 7,
+      "name": "The shillelagh",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "0c9e3cc5-a1a1-41a1-825c-fced655ce42e",
+      "season": 2,
+      "number": 8,
+      "name": "Perception is reality",
+      "airdate": "2025-07-15"
     }
-  ]
+  ],
+  "description": "Forskellige historier. Samme dødelige udgang. Debra Newell og Betty Brodericks liv løber løbsk og ender i mord i denne true crime-fortælling om kærlighed og kontrol.",
+  "image": "https://cdn-play.tv2i.dk/2c003619-4a4f-4935-bc5e-6361ef7055c1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

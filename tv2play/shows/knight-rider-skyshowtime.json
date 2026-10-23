@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "En mystisk enspænder bekæmper kriminalitet med hjælp af den superavancerede bil KITT, som er udstyret med kunstig intelligens.",
+  "image": "https://cdn-play.tv2i.dk/f4d4e558-6e4e-4fee-a3a3-30025ffbdff0.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "69c38022-072c-4a03-8b09-29275378ca87",

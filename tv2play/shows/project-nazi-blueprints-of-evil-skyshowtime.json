@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:project-nazi-blueprints-of-evil-skyshowtime",
+  "name": "Project Nazi: Blueprints of Evil",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Udforsk, hvordan det tyske folk blev forført til at støtte nazismen. Hvordan kunne et lille, ekstremistisk politisk parti, under ledelse af en mislykket kunstner, en flok udstødte og tidligere helte fra 1. Verdenskrig, overbevise en hel nation om at give dem total magt?",
+  "image": "https://cdn-play.tv2i.dk/05d84d67-f60c-41a4-8947-38f66b9f8d85.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "95a3fc7d-f007-41d7-871e-a5a397e4048a",
+      "season": 1,
+      "number": 1,
+      "name": "Designet til magt",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "a4d06b3d-276f-4bc3-973c-56690413bb4f",
+      "season": 1,
+      "number": 2,
+      "name": "Hitlers motorveje",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "2b97bb63-a9d8-4425-9df4-938e1a6919dd",
+      "season": 1,
+      "number": 3,
+      "name": "Krigsindustrien",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "324d1d90-1751-4ec1-b3aa-a67f8561f8d9",
+      "season": 1,
+      "number": 4,
+      "name": "En kontrolkultur",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "df733a19-bdad-4484-a164-bda20a9e7136",
+      "season": 1,
+      "number": 5,
+      "name": "Himmlers rædselsimperium",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "8a8a5b3a-28af-420e-95ad-3e9850af93cc",
+      "season": 1,
+      "number": 6,
+      "name": "Tilbagetog fra virkeligheden",
+      "airdate": "2025-05-04"
+    }
+  ]
+}

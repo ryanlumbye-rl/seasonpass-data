@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:tales-of-the-teenage-mutant-ninja-turtles-skyshowtime",
+  "name": "Tales of the Teenage Mutant Ninja Turtles",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De heroiske, pizzaelskende skildpaddebrødre Leo, Mikey, Raph og Donnie skal lære at finde deres individuelle styrker og arbejde med gamle allierede for at klare både teenagelivet og besejre nye skurke, der lurer i New York Citys skygger.",
+  "image": "https://cdn-play.tv2i.dk/bf60b712-5791-4384-84e4-9b6c6b061dd1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2962%2C1666&w=1280",
+  "episodes": [
+    {
+      "id": "aa3a7838-9f67-4978-b529-1749f9907d14",
+      "season": 1,
+      "number": 1,
+      "name": "Leo Nardo står alene!",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "a27cf29b-8ee6-4631-b4e7-4f94aeef1626",
+      "season": 1,
+      "number": 2,
+      "name": "Mikey gør det rigtige",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "5faeccb8-66dd-4509-aafc-09f48eb033c9",
+      "season": 1,
+      "number": 3,
+      "name": "Raph bruger hovedet",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "baf8ee87-1b72-41f8-b1be-b7aca16595a0",
+      "season": 1,
+      "number": 4,
+      "name": "Donnie holder ved",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "e832a3c3-9be3-43b4-ae51-2f1f4e6f9043",
+      "season": 1,
+      "number": 5,
+      "name": "Bishop laver sit træk!",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "bd8b4a9f-e4d5-4ce8-a44e-eb0611d9677a",
+      "season": 1,
+      "number": 6,
+      "name": "Mechazoidernes nat",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "98f94f2d-390e-4332-b900-9923f9d86a55",
+      "season": 1,
+      "number": 7,
+      "name": "Raph vs. vand",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "d5e56b4f-45aa-4b24-ba8b-b8e56d818876",
+      "season": 1,
+      "number": 8,
+      "name": "Mikey tager føringen",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "8a38dd42-1cbd-4bc5-aeb7-0ba1d9e3427d",
+      "season": 1,
+      "number": 9,
+      "name": "Splinter og April bekæmper en guldfisk",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "23416694-1992-40ac-ab17-effa827baac6",
+      "season": 1,
+      "number": 10,
+      "name": "Donnie går dybt",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "2f9c8a96-f1b5-4c03-9b78-c3b6e5130092",
+      "season": 1,
+      "number": 11,
+      "name": "Leonardo hopper i sadlen",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "2964c490-1a89-4a7c-8fdd-45a6d95135d9",
+      "season": 1,
+      "number": 12,
+      "name": "Perlen",
+      "airdate": "2025-03-16"
+    }
+  ]
+}

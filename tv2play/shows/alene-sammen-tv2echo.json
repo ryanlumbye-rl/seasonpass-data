@@ -56,6 +56,13 @@
       "airdate": "2020-11-26"
     },
     {
+      "id": "efbd6a48-dcce-4eb2-a948-ad71dd27c678",
+      "season": 1,
+      "number": 8,
+      "name": "Den svære beslutning",
+      "airdate": "2020-12-03"
+    },
+    {
       "id": "908bd6f5-8979-4b7d-aca0-ed5e17db399b",
       "season": 1,
       "number": 9,
@@ -223,5 +230,7 @@
       "name": "Hvor er vi nu?",
       "airdate": "2023-02-28"
     }
-  ]
+  ],
+  "description": "Kan man finde kærligheden på en øde ø? Otte håbefulde singler er klar til kaste sig ind i eksperimentet med åbne hjerter, når de skal tilbringe ti dage med en totalt fremmed. Se med, når tredje sæson får premiere.",
+  "image": "https://cdn-play.tv2i.dk/403eda10-999a-47bc-b229-e448082c3c3e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280"
 }

@@ -166,6 +166,15 @@
       "number": 7,
       "name": "Kiss the Girls",
       "airdate": "2026-09-14"
+    },
+    {
+      "id": "e0a74586-dc20-42d6-a48a-a8438fc22c89",
+      "season": 3,
+      "number": 8,
+      "name": "The Unravelling",
+      "airdate": "2026-09-21"
     }
-  ]
+  ],
+  "description": "I en verden, hvor tillid kan koste livet, sender CIA sine modigste agenter ind bag fjendens linjer. Lioness er en hæsblæsende thriller om skjulte operationer, umulige valg og kampen for at overleve, når enhver relation kan være en fælde.",
+  "image": "https://cdn-play.tv2i.dk/f13c1d74-3f76-3736-a3a1-6f2e83a9f8fc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:luksus-i-london-tv2",
+  "name": "Luksus i London",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Bydelene Kensington og Chelsea hører til Londons absolut dyreste. Her besøger vi ejendomsmæglere, leverandører til de kongelige. Er med til kagekonkurrencer, og endda når de rige skal have renset og vasket deres tøj.",
+  "image": "https://cdn-play.tv2i.dk/f19ca3fc-6fd3-4f3a-9c6e-03388aae1a27.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3e5dac00-5cf9-48f0-90eb-e6f0513b9a2c",
+      "season": 1,
+      "number": 1,
+      "name": "På boligjagt i Knightsbridge",
+      "airdate": "2024-11-21"
+    },
+    {
+      "id": "810c3067-14e1-452f-b371-6b64553b9f86",
+      "season": 1,
+      "number": 2,
+      "name": "Blomstershow og dyre biler",
+      "airdate": "2024-11-25"
+    },
+    {
+      "id": "10d99262-dfb8-478b-b278-3b3760e42ccd",
+      "season": 1,
+      "number": 3,
+      "name": "På opdagelse i Kensington og Chelsea",
+      "airdate": "2024-11-26"
+    },
+    {
+      "id": "04f57da3-851b-4ed7-8c61-934fec64b17b",
+      "season": 1,
+      "number": 4,
+      "name": "Til søs og til bords",
+      "airdate": "2024-11-28"
+    }
+  ]
+}

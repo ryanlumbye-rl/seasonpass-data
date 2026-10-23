@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:mysteriet-om-de-doede-boern-tv2",
+  "name": "Mysteriet om de døde børn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I mere end 20 år har australske Kathleen Folbigg siddet fængslet for at have dræbt sine fire børn, men et dansk forskerpar mener, der kan være sket en fejl. TV 2 Dokumentar følger i to episoder forskerne i sagen, der kan vise sig at være et af de største justitsmord i nyere tid.",
+  "image": "https://cdn-play.tv2i.dk/735c4237-292b-433f-ab72-8a941dc02426.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "b7d0eeb8-42df-4074-ac15-0c68e338ddd3",
+      "season": 1,
+      "number": 1,
+      "name": "Livsfarlige gener",
+      "airdate": "2024-05-07"
+    },
+    {
+      "id": "db62e3a6-f93e-49bf-afd5-bbce043efe60",
+      "season": 1,
+      "number": 2,
+      "name": "Fængsel eller frihed?",
+      "airdate": "2024-05-14"
+    }
+  ]
+}

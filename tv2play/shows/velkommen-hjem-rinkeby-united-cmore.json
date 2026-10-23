@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:velkommen-hjem-rinkeby-united-cmore",
+  "name": "Velkommen hjem - Rinkeby United",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Svensk dokumentarserie om fodboldholdet Rinkeby United. De ønsker at være en positiv kraft og modvirke destruktivitet og kriminalitet i Rinkeby",
+  "image": "https://cdn-play.tv2i.dk/48f308e9-91a6-4290-af75-f84ea0c664c1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280",
+  "episodes": [
+    {
+      "id": "49943160-db93-43b8-8d2b-6f045d8dea20",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "74c4e91f-6504-4522-8b11-56f2c5b9dfd6",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "33d8fa9e-2cec-4274-b893-8072c586e3be",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "aef7a51f-52a4-440e-9e51-cea17d865b7a",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "2b4406b5-790c-4e56-877c-f398dfb2809c",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-08-31"
+    },
+    {
+      "id": "08bd8520-c183-4535-a96c-759113da53d0",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-08-31"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:sin-novedad-skyshowtime",
+  "name": "Sin Novedad",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hylende morsom serie hvor to betjente havner på en forsendelse fra et narkokartel.",
+  "image": "https://cdn-play.tv2i.dk/f53c84db-3d88-4cae-85c3-1154bdb635a2.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6950b8b9-360e-4387-a977-6584a52d2892",
+      "season": 1,
+      "number": 1,
+      "name": "The Unicorn",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "c104dc76-a917-4a94-a64d-e45d5d1aff3f",
+      "season": 1,
+      "number": 2,
+      "name": "Abra Cadaver",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "9652fd22-319e-4a2c-ab17-fda8288fe9a8",
+      "season": 1,
+      "number": 3,
+      "name": "The Date",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "2fa278f7-0b54-4202-9515-6871c3a0d34f",
+      "season": 1,
+      "number": 4,
+      "name": "The Witness",
+      "airdate": "2023-05-22"
+    },
+    {
+      "id": "9981a9e7-82ea-4c14-9e81-c7bfdb17980b",
+      "season": 1,
+      "number": 5,
+      "name": "Exchanges",
+      "airdate": "2023-05-29"
+    },
+    {
+      "id": "538952ef-c502-4fb1-8c14-ff594e315459",
+      "season": 1,
+      "number": 6,
+      "name": "The Raid",
+      "airdate": "2023-06-05"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:hotel-royal-tv2oestjylland",
+  "name": "Hotel Royal",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det knap 200 år gamle Hotel Royal i Aarhus har gennem tiden huset alverdens kendisser. Nu står det ikoniske hotel over for et kæmpe renoveringsprojekt. Vi har fulgt hverdagen på hotellet gennem et års tid, hvor det er blevet gjort klar til igen at kunne huse de rige og kendte",
+  "image": "https://cdn-play.tv2i.dk/91780401-179c-4477-a771-0660ea9294c8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "8ca05493-7e8a-462b-ac86-b152bc955be7",
+      "season": 1,
+      "number": 1,
+      "name": "En særlig gæst checker ud",
+      "airdate": "2024-12-26"
+    },
+    {
+      "id": "b7d3bb9b-c609-4192-b55a-07984f6fee16",
+      "season": 1,
+      "number": 2,
+      "name": "Prøvesmagning og en frisk portier",
+      "airdate": "2025-01-02"
+    },
+    {
+      "id": "7cb8af46-0cd8-4f02-9a42-8276f1344b03",
+      "season": 1,
+      "number": 3,
+      "name": "Gourmet-galla og den store åbning",
+      "airdate": "2025-01-09"
+    }
+  ]
+}

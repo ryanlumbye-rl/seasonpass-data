@@ -1,0 +1,467 @@
+{
+  "id": "tv2play:baby-hajs-store-show-skyshowtime",
+  "name": "Baby Hajs Store Show",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Brooklyn 'Baby' Shark og hans bedste ven, William Ray, har sjove eventyr sammen i Carnivore Cove.",
+  "image": "https://cdn-play.tv2i.dk/9d414a97-b035-4ff3-8ddf-eedc4229a9b8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "643faad3-fb5e-40af-9da8-0a6994f2ca8b",
+      "season": 1,
+      "number": 1,
+      "name": "Santa Jaws forsvinder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "541a9461-b961-4f8b-8a3b-fe98cc0b4eef",
+      "season": 1,
+      "number": 3,
+      "name": "Babys tand",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e5387a4b-3c7e-4295-b87d-cf240a40c1c8",
+      "season": 1,
+      "number": 4,
+      "name": "Superheltene",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "61bf6781-14da-40ed-a246-512d7fe6df56",
+      "season": 1,
+      "number": 5,
+      "name": "Skattejagten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d0e36405-ba78-4de7-82d1-50ffcf88646f",
+      "season": 1,
+      "number": 6,
+      "name": "Bjergbestigning",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4ecf7107-8dad-406f-9c3d-1a14cb8a0dda",
+      "season": 1,
+      "number": 7,
+      "name": "Musicalen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b007af85-fd9e-44fc-9ef8-0133f71e489c",
+      "season": 1,
+      "number": 8,
+      "name": "Borgmester Baby",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "370ed811-a34e-42c1-86ff-0b97453e37af",
+      "season": 1,
+      "number": 9,
+      "name": "Kaptajn Kelp",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "41fe1084-c3d1-4c85-95be-ffe04f1821c6",
+      "season": 1,
+      "number": 10,
+      "name": "Shadowland",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0ba9975c-3004-4960-ae12-0c92aa8d9428",
+      "season": 1,
+      "number": 11,
+      "name": "Spøgelsesfisken",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c11049a3-29e7-4408-97c7-084da33ad0a3",
+      "season": 1,
+      "number": 12,
+      "name": "Min-i-golf",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a8300357-589d-424f-bca2-34973ca45fc9",
+      "season": 1,
+      "number": 13,
+      "name": "Den store storm",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2c57751c-3465-4474-aa11-3c484173a09e",
+      "season": 1,
+      "number": 14,
+      "name": "Bedste-træner",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "76b28070-9fb5-4de2-82a8-12643a748801",
+      "season": 1,
+      "number": 15,
+      "name": "Sneboldkampen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ca084685-6f24-45b8-966d-787243dd989f",
+      "season": 1,
+      "number": 16,
+      "name": "Stærk som en haj",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4defc6d5-5b65-4a11-b19e-0fa92f732550",
+      "season": 1,
+      "number": 17,
+      "name": "Venskabsdagen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4dd4f20f-5f6c-455b-81b1-e3035e9e4ef0",
+      "season": 1,
+      "number": 20,
+      "name": "En hajdags nat",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "e4f7c0b2-c80f-419d-9162-8233a698b7b8",
+      "season": 1,
+      "number": 21,
+      "name": "Hajdril",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b04ff754-2b4f-4f93-887a-8b88f625a469",
+      "season": 1,
+      "number": 23,
+      "name": "Operation glade mødre",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b6814d10-c11b-45c3-acde-a3ead802145d",
+      "season": 1,
+      "number": 24,
+      "name": "En posthvalhistorie",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "7fd0a581-9428-4697-a645-07114235d27b",
+      "season": 1,
+      "number": 25,
+      "name": "Historien om de to fædre",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "6611f612-f742-48dc-912c-952ef6b7c776",
+      "season": 2,
+      "number": 1,
+      "name": "Vandinsektet",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "6fc5427f-7738-47a0-a6b7-02ef545dcf7c",
+      "season": 2,
+      "number": 2,
+      "name": "Istroldmanden",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "ca81075a-1094-43b1-ad29-15ecef6bfc16",
+      "season": 2,
+      "number": 3,
+      "name": "Det hemmelige kodeord",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "fd4365b6-dd14-496c-bdcd-216f648968c7",
+      "season": 2,
+      "number": 4,
+      "name": "Baby Superhaj",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "21267254-6218-4235-ad19-cd3ef8466001",
+      "season": 2,
+      "number": 5,
+      "name": "De forsvundne billetter",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "29439d98-e0f1-4cfb-befc-a909443e7dd1",
+      "season": 2,
+      "number": 6,
+      "name": "Rejsefisk",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "64302cd5-ac85-4b0b-a074-c2f79338270c",
+      "season": 2,
+      "number": 7,
+      "name": "Skygge på isen",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "cf4e0ab3-49ba-4e5b-8483-6d8b4e90f0ea",
+      "season": 2,
+      "number": 8,
+      "name": "Lykkehalskæden",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "12ca345d-8a38-49b0-b9a0-f32ae54bdf26",
+      "season": 2,
+      "number": 9,
+      "name": "Kald mig Billiam",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "1964c20c-e336-4281-ae9e-a8c9793f9dfd",
+      "season": 2,
+      "number": 10,
+      "name": "Tandpastafaldet",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "b2e3959a-8fe3-4a36-8ef3-6be3ac605546",
+      "season": 2,
+      "number": 11,
+      "name": "Vandbasket",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "c84e6812-cada-454a-bd75-eb1462f2301c",
+      "season": 2,
+      "number": 12,
+      "name": "Ufuldkomment billede",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "63fc47d3-4617-42c4-90ea-60a0d0ac89e1",
+      "season": 2,
+      "number": 13,
+      "name": "Problemerne med kaninsneglene",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "f5a12ef4-b591-46a5-af34-3ba55c3c7ac5",
+      "season": 2,
+      "number": 14,
+      "name": "Skyllet op",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "bdca6914-2da0-4cf7-9072-e24147413b4c",
+      "season": 2,
+      "number": 15,
+      "name": "Doktordrama",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "e7649f35-e4d0-4814-95a4-3c8d0f16c9a5",
+      "season": 2,
+      "number": 16,
+      "name": "Sherman i midten",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "83b07cdc-1ca6-4449-8286-b660c8e804c5",
+      "season": 2,
+      "number": 17,
+      "name": "Finterstellar",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "d8e9f08f-f6b3-46a9-af61-3295a1cd7eed",
+      "season": 2,
+      "number": 18,
+      "name": "Dyb mørk disko",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "ab6d00de-0cd9-4b64-a8c0-6e9e75738cd9",
+      "season": 2,
+      "number": 19,
+      "name": "Gammel hajbrud",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "8f4b63f5-a38f-4577-b3cb-1ff2c84eff50",
+      "season": 2,
+      "number": 20,
+      "name": "Frosset ude",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "c50448b4-4768-4ec0-8bac-06b906e2fd34",
+      "season": 2,
+      "number": 21,
+      "name": "Fiskebanden",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "eef5582c-92ce-4078-85a6-90b41aa0afbe",
+      "season": 2,
+      "number": 22,
+      "name": "Fiskenes uafhængighedsdag",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "b8f5fcf7-31df-4b7c-94fd-5d9b9d9264e9",
+      "season": 2,
+      "number": 23,
+      "name": "Sjove fisk",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "0fd9315a-0186-40ad-8508-cc2e093afcbf",
+      "season": 2,
+      "number": 24,
+      "name": "Fiskespejderne",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "84c4fc2b-9a63-4cc0-b33b-809de9effd2f",
+      "season": 2,
+      "number": 25,
+      "name": "Operation Ernie",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "249479f2-72e3-4c07-ab84-b5e42de91a20",
+      "season": 2,
+      "number": 26,
+      "name": "Saltvandsstudierne",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "a7ba022f-45c0-4cd7-8542-2bd68a41e663",
+      "season": 3,
+      "number": 1,
+      "name": "Dansemaraton",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "b91b5ee9-cc12-417d-85e1-a0a3f82c67a0",
+      "season": 3,
+      "number": 2,
+      "name": "Goldies fintuition",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "1efd9b7d-f71a-4ec8-a6b3-fa1ba978d071",
+      "season": 3,
+      "number": 3,
+      "name": "Den nuttede pirat",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "780b2ae5-88f1-4552-a95a-0d7f7ba74c25",
+      "season": 3,
+      "number": 4,
+      "name": "Tidskapslen",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "0cb8a386-a6ed-4779-aa6a-02380b65e1d1",
+      "season": 3,
+      "number": 5,
+      "name": "Goldies suppleanter",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "52a97f06-ffa9-4634-8181-d4d617ebb9c7",
+      "season": 3,
+      "number": 6,
+      "name": "Badeferie",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "6ed4cc01-f91a-4df5-82f1-0dc3e6e7cfef",
+      "season": 3,
+      "number": 7,
+      "name": "Bedste finnefjender",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "8b9b2304-4ecd-4752-b0cc-32832924be49",
+      "season": 3,
+      "number": 8,
+      "name": "Lannies lys",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "701af3b6-b246-4bf7-8fba-32f6d20d986e",
+      "season": 3,
+      "number": 9,
+      "name": "Hvalsange",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "ec1126be-7171-4943-b150-8fcacf10ad05",
+      "season": 3,
+      "number": 10,
+      "name": "Vola på glatis",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "2cf3fa75-9dce-4c98-aa60-045dc4eab835",
+      "season": 3,
+      "number": 11,
+      "name": "Superkraftforbytningen",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "a3676d56-75ca-4c93-b3d0-cd7550ae8c97",
+      "season": 3,
+      "number": 12,
+      "name": "Istroldmandens nye smag",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "0db2180c-76a8-4ea1-a4ee-67e44d9a9a6f",
+      "season": 3,
+      "number": 13,
+      "name": "Fars yndling",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "9905932c-1d3d-44d8-a82f-771c55ee118c",
+      "season": 3,
+      "number": 14,
+      "name": "Hvem er sødest?",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "08c8ec1d-2388-48f6-8014-81c63f92b42c",
+      "season": 3,
+      "number": 15,
+      "name": "William Rokkes Show",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "0aa9daea-e562-4b31-ba7c-ab904736ba03",
+      "season": 3,
+      "number": 16,
+      "name": "Mød Wub Wubberne",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "e23cd702-1134-4242-93ce-db5cab9c5fb1",
+      "season": 3,
+      "number": 17,
+      "name": "Den, der holder det, har det",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "8c44aa9a-77ba-49f3-8557-023e5fd87a02",
+      "season": 3,
+      "number": 18,
+      "name": "Briller til bedstemor",
+      "airdate": "2025-09-13"
+    }
+  ]
+}

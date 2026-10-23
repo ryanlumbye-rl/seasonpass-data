@@ -7,6 +7,27 @@
   "next": null,
   "episodes": [
     {
+      "id": "11727f4b-49ac-45e6-bcf5-12757caa61c1",
+      "season": 1,
+      "number": 1,
+      "name": "Familiehaven med rådne dyr",
+      "airdate": "2026-03-29"
+    },
+    {
+      "id": "8be99499-6e45-4427-bfe1-048d45e0d21d",
+      "season": 1,
+      "number": 2,
+      "name": "Gittes have blev hendes redning",
+      "airdate": "2026-04-05"
+    },
+    {
+      "id": "c55cf035-07a2-4824-b69e-d73fc4f4a3fc",
+      "season": 1,
+      "number": 3,
+      "name": "Stejl byhave med roser i træerne",
+      "airdate": "2026-04-12"
+    },
+    {
       "id": "a959c9ef-3a01-47f2-bea2-eda4d16f1682",
       "season": 2,
       "number": 1,
@@ -27,5 +48,7 @@
       "name": "Med stjålne blomster fra berømt have",
       "airdate": "2026-09-27"
     }
-  ]
+  ],
+  "description": "I 'Herlige haver' besøger vi en række mennesker med en særlig kærlighed til deres have. De har grønne fingre, inspirerende haver og bruger det meste af deres tid under åben himmel med fingrene i jorden.",
+  "image": "https://cdn-play.tv2i.dk/c5c30db4-330b-4c06-8133-31531f8c0c84.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

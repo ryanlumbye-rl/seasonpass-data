@@ -1,0 +1,215 @@
+{
+  "id": "tv2play:brotherhood-skyshowtime",
+  "name": "Brotherhood",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Brotherhood er et intelligent og provokerende drama om to brødre, der befinder sig på hver side af loven. En er politiker, og en er gangster.",
+  "image": "https://cdn-play.tv2i.dk/e04ac50c-f130-48e3-9d45-c589745c1e9e.jpg?auto=format%2Ccompress&fm=webp&rect=679%2C0%2C3161%2C1777&w=1280",
+  "episodes": [
+    {
+      "id": "1c8d390c-5b98-47c6-958a-ee0cd1409db4",
+      "season": 1,
+      "number": 1,
+      "name": "Mark 8:36",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "58614774-0836-44b9-b86f-b19c719bb265",
+      "season": 1,
+      "number": 2,
+      "name": "Genesis 27:29",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a4dd0c6f-4b3e-4f6b-ac02-0a961e7c1c61",
+      "season": 1,
+      "number": 3,
+      "name": "Matthew 13:57",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "71dbcd57-49e7-4650-86d3-bfb783580a94",
+      "season": 1,
+      "number": 4,
+      "name": "Matthew 5:6",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ccdafdc5-a511-4f09-bc4a-c9083b86eb8d",
+      "season": 1,
+      "number": 5,
+      "name": "Matthew 12:25",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4711ad70-02e1-4a93-94aa-92724a4e5570",
+      "season": 1,
+      "number": 6,
+      "name": "Samyutta 11:10",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a286b3b8-f654-4406-a625-accec3d5be6c",
+      "season": 1,
+      "number": 7,
+      "name": "Genesis 27:39",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ed703d84-2c3d-4688-8b16-4cd8dfbe2da2",
+      "season": 1,
+      "number": 8,
+      "name": "Job 31:5-6",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7a66b6bd-df65-454d-8677-f7d07edbc36c",
+      "season": 1,
+      "number": 9,
+      "name": "Ecclesiastes 7:2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "68289d6a-553a-41f0-9930-41eaddab8f72",
+      "season": 1,
+      "number": 10,
+      "name": "Vivekachudamani 5:1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8fb81f46-1500-4478-a71e-9b9e7be3878f",
+      "season": 1,
+      "number": 11,
+      "name": "Matthew 22:10",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d13fc930-db2d-4eaf-9e4b-a513b8dc18ce",
+      "season": 2,
+      "number": 1,
+      "name": "One Too Many Mornings 3:4-8",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "990a4fa7-3321-4e1c-8b46-539e79c40367",
+      "season": 2,
+      "number": 2,
+      "name": "Down in the Flood 3:5-6",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5372ba56-6217-4c82-ab13-2ecbd73285c2",
+      "season": 2,
+      "number": 3,
+      "name": "The Lonesome Death of ... 4:7-8",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0089a8ad-0457-4a48-bfac-6a01e52be053",
+      "season": 2,
+      "number": 4,
+      "name": "Not Dark Yet 3:5-6",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f17ffb71-444f-454f-9c99-5af3e228f618",
+      "season": 2,
+      "number": 5,
+      "name": "Dear Landlord 1:3-4",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "275c44f7-5a4a-4e80-bec2-983ca8ffd991",
+      "season": 2,
+      "number": 6,
+      "name": "True Love Tends to Forget 1:1-4",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8a24dcb3-82de-4345-a6b5-fbb5286d1e72",
+      "season": 2,
+      "number": 7,
+      "name": "Only a Pawn ... 1:7-8",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "13d013ea-ba3a-4861-b83f-6d74e303cbb5",
+      "season": 2,
+      "number": 8,
+      "name": "Shelter From the Storm 1:1-2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6675161a-8bb3-43de-afa9-ce3c5c9881c6",
+      "season": 2,
+      "number": 9,
+      "name": "Call Letter Blues 1:2-6",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e3814fbe-cc8e-409c-ad73-fa15fead42af",
+      "season": 2,
+      "number": 10,
+      "name": "Things Have Changed 1:7-8",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b87c964b-fd24-4059-ac56-6e58ae4f4dda",
+      "season": 3,
+      "number": 1,
+      "name": "Uneasy Lies the Head",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2f97592c-bba2-47f3-859f-a544fb0c4f3f",
+      "season": 3,
+      "number": 2,
+      "name": "Things Badly Begun",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9acbd447-032f-4401-9db0-57425ded006f",
+      "season": 3,
+      "number": 3,
+      "name": "Let Rome Into Tiber Melt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5a258c96-4e1b-44e7-8893-889dd9f441ff",
+      "season": 3,
+      "number": 4,
+      "name": "The Course of True Love Never Did Run Smooth",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f8d5a0e4-c78b-44e1-8e6c-5009f9d3e9a9",
+      "season": 3,
+      "number": 5,
+      "name": "Give Me the Ocular Proof...",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4ffd4fa1-0b4f-4cd7-9244-f8b0962ce6d4",
+      "season": 3,
+      "number": 6,
+      "name": "The Chimes at Midnight",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "38e5c98f-1fe2-4333-9609-f9f44a5c0e2b",
+      "season": 3,
+      "number": 7,
+      "name": "All the Interim is Like a Phantasma",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b8fe0c52-e9ae-476d-90b9-b09dd3799ace",
+      "season": 3,
+      "number": 8,
+      "name": "Birnam Wood Come to Dunsinane",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

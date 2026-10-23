@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:pigerne-tv2echo",
+  "name": "Pigerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mød gymnasieveninderne Elvira, Signe, Josefine og Cecilie, der oser af succes, selvtillid og selfies. De fire veninder har en kæmpe fanskare på de sociale medier, men hvordan er teenagelivet egentlig bag de mange selfies?.",
+  "image": "https://cdn-play.tv2i.dk/b6cb6ac8-bf11-4e93-bd64-793dd49fc2e4.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "8e511bff-ffb7-4d84-a68e-408e85d6c79a",
+      "season": 1,
+      "number": 1,
+      "name": "Sommerhusturen",
+      "airdate": "2017-10-09"
+    },
+    {
+      "id": "36acb4d7-f686-4dab-a661-aa07423a9f3f",
+      "season": 1,
+      "number": 2,
+      "name": "Modeshow på d'Angleterre",
+      "airdate": "2017-10-16"
+    },
+    {
+      "id": "35092711-207e-46c0-83cf-2430a6314dcf",
+      "season": 1,
+      "number": 3,
+      "name": "Den kærlighed!",
+      "airdate": "2017-10-23"
+    },
+    {
+      "id": "f63e96a9-6f32-418e-8a26-74467aa0825c",
+      "season": 1,
+      "number": 4,
+      "name": "Til hundehandling i Ukraine",
+      "airdate": "2017-10-30"
+    },
+    {
+      "id": "f880db8f-74f5-4f94-893b-140f4f55de0a",
+      "season": 1,
+      "number": 5,
+      "name": "På tur",
+      "airdate": "2017-11-06"
+    },
+    {
+      "id": "5a1aafb5-0713-4f97-81fb-2ec25bdfb256",
+      "season": 1,
+      "number": 6,
+      "name": "På den røde løber",
+      "airdate": "2017-11-13"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:opslugt-tv2oest",
+  "name": "Opslugt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I denne serie fortæller en række passionerede danskere om de emner, der optager dem fuldstændig. Fra natur og videnskab til gastronomi, håndværk og aktivisme – Opslugt går tæt på menneskene bag nørderierne og de historier, der har ført dem dertil.",
+  "image": "https://cdn-play.tv2i.dk/e52c633d-f185-4a0c-8379-02e10863d51c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "fe9bb9db-39dc-4583-ab41-8298235b5eab",
+      "season": 1,
+      "number": 1,
+      "name": "Af naturens magi",
+      "airdate": "2025-06-27"
+    },
+    {
+      "id": "dcfdf9ae-0bac-4552-9b68-7e62844b609f",
+      "season": 1,
+      "number": 2,
+      "name": "Af behandling med psykedelika",
+      "airdate": "2025-07-04"
+    },
+    {
+      "id": "e59f23e1-2e29-437d-8622-7bc4add48564",
+      "season": 1,
+      "number": 3,
+      "name": "Af tandhjul og tid",
+      "airdate": "2025-07-11"
+    },
+    {
+      "id": "bceb2ae0-c0a4-4496-bccc-9ebd5fc8eaaa",
+      "season": 1,
+      "number": 4,
+      "name": "Af at redde dyr i nød",
+      "airdate": "2025-07-18"
+    },
+    {
+      "id": "ea61df96-362d-426f-8f63-6da362df5b23",
+      "season": 1,
+      "number": 5,
+      "name": "Af god hverdagsmad",
+      "airdate": "2025-07-25"
+    },
+    {
+      "id": "38b31108-81a5-4149-b8f9-a64eca47faec",
+      "season": 1,
+      "number": 6,
+      "name": "Af træskibenes historie",
+      "airdate": "2025-08-01"
+    },
+    {
+      "id": "04613328-7617-46cb-86c4-d69bc7a70a93",
+      "season": 1,
+      "number": 7,
+      "name": "Af fremtidens grøntsager",
+      "airdate": "2025-08-08"
+    },
+    {
+      "id": "6edc6809-3a19-459c-ad60-37eee7e36c13",
+      "season": 1,
+      "number": 8,
+      "name": "Af whiskyens verden",
+      "airdate": "2025-08-15"
+    },
+    {
+      "id": "f20b2a55-a76b-4013-ab57-13eef62ea413",
+      "season": 1,
+      "number": 9,
+      "name": "Af nem mad til de mindste",
+      "airdate": "2025-08-22"
+    },
+    {
+      "id": "5837fd43-922c-4def-8edc-1714c5aa74b7",
+      "season": 1,
+      "number": 10,
+      "name": "Af ligestilling på vandet",
+      "airdate": "2025-08-29"
+    }
+  ]
+}

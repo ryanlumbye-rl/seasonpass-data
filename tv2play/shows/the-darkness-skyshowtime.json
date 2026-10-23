@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:the-darkness-skyshowtime",
+  "name": "The Darkness",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kort før sin førtidspensionering må kriminalinspektør Huld Hermannsdóttir efterforske en chokerende mordsag. Mens hun kæmper med personlige traumer, er hun også tvunget til at køre en ny partner ind. Morderen skal dog findes, selv om det betyder, at hun må sætte sit eget liv på spil",
+  "image": "https://cdn-play.tv2i.dk/9fae768b-29f7-459a-a67b-1486985fa5fc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3178%2C1788&w=1280",
+  "episodes": [
+    {
+      "id": "30a68d6f-8dfa-4840-ba9e-4d7927d43d84",
+      "season": 1,
+      "number": 1,
+      "name": "Bjerget af grise",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "10ac238f-e951-4279-b7fd-491cd9eaee37",
+      "season": 1,
+      "number": 2,
+      "name": "Hej gamle ven",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "7154d774-b461-4b11-bf73-1ea172ef6418",
+      "season": 1,
+      "number": 3,
+      "name": "Smukke piger",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "5ef28cb0-0bd1-4c8a-bc74-e5ecf4933ac7",
+      "season": 1,
+      "number": 4,
+      "name": "Find lidelsernes by gennem mig",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "14c0e281-79c5-49c0-9131-a87524c8f24a",
+      "season": 1,
+      "number": 5,
+      "name": "Alt, der er skjult",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "2347a4ee-a997-4c3d-b5b4-98bc20859684",
+      "season": 1,
+      "number": 6,
+      "name": "Således sank Paradiset ned i sorg",
+      "airdate": "2024-11-01"
+    }
+  ]
+}

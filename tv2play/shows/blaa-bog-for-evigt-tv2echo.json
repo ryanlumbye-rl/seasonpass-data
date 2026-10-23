@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:blaa-bog-for-evigt-tv2echo",
+  "name": "Blå bog for evigt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Forestil dig at være fanget på en lille ø til en reunion med dine klassekammerater ti år efter gymnasiet. Det er præcis, hvad der sker for seks gamle gymnasievenner. Se med, når gamle roller, intriger og romancer igen blusser op, og de seks gymnasievenner for alvor skal gøre op med deres fælles fortid. For hvem var de engang? Og hvem er de nu?",
+  "image": "https://cdn-play.tv2i.dk/ef304f68-8de9-3789-a97d-2dd8ced7e354.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2136&w=1280",
+  "episodes": [
+    {
+      "id": "e5b311c0-24e5-4e97-b532-ae094a0557a9",
+      "season": 1,
+      "number": 1,
+      "name": "Reunion",
+      "airdate": "2021-09-05"
+    },
+    {
+      "id": "d2d1bb99-219a-4745-a5f4-bbee21dd55ec",
+      "season": 1,
+      "number": 2,
+      "name": "Tømmermænd",
+      "airdate": "2021-09-05"
+    },
+    {
+      "id": "598af7e8-fc22-4131-9e63-e6cffc0656d5",
+      "season": 1,
+      "number": 3,
+      "name": "Twister",
+      "airdate": "2021-09-12"
+    },
+    {
+      "id": "526a18a7-7298-4a4f-9f8f-bbfb06e5c625",
+      "season": 1,
+      "number": 4,
+      "name": "Fødselsdag",
+      "airdate": "2021-09-19"
+    },
+    {
+      "id": "73d735f8-4d5e-4a9b-8d1f-4a29f29bf47c",
+      "season": 1,
+      "number": 5,
+      "name": "Afgang",
+      "airdate": "2021-10-04"
+    }
+  ]
+}

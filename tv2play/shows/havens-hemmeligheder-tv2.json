@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:havens-hemmeligheder-tv2",
+  "name": "Havens hemmeligheder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad rører der sig af dyreliv i vores dejlige danske haver? I seks programmer zoomer vi ind på det fascinerende drama, der udspiller sig lige uden for vores hoveddøre, fortalt fra dyrenes perspektiv.",
+  "image": "https://cdn-play.tv2i.dk/cd123401-252f-4c8c-bf17-757512ad2129.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "39c4d79f-116a-4735-a4f0-4940dc20ce47",
+      "season": 1,
+      "number": 1,
+      "name": "Plænen, din savanne",
+      "airdate": "2021-05-11"
+    },
+    {
+      "id": "10ce2535-2428-4e7a-a18b-1d86d874bdb9",
+      "season": 1,
+      "number": 2,
+      "name": "Magiske midsommer",
+      "airdate": "2021-05-11"
+    },
+    {
+      "id": "7dc180b5-28e6-4f00-9c2b-770e001375b7",
+      "season": 1,
+      "number": 3,
+      "name": "Lunefulde sommer",
+      "airdate": "2021-05-25"
+    },
+    {
+      "id": "14f58d63-39d0-49c4-9df2-74d61d3ccc36",
+      "season": 1,
+      "number": 4,
+      "name": "Sidste udkald",
+      "airdate": "2021-06-01"
+    },
+    {
+      "id": "32850271-4d8b-4706-9093-66cfeabe4fed",
+      "season": 1,
+      "number": 5,
+      "name": "Alles kamp mod alle",
+      "airdate": "2021-06-01"
+    },
+    {
+      "id": "f7d139d5-ec72-4694-aae2-a0374d22ff22",
+      "season": 1,
+      "number": 6,
+      "name": "Haven vågner",
+      "airdate": "2021-06-15"
+    }
+  ]
+}

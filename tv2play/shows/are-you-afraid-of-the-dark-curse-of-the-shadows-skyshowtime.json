@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:are-you-afraid-of-the-dark-curse-of-the-shadows-skyshowtime",
+  "name": "Are You Afraid of the Dark: Curse of the Shadows",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da en teenagegruppe mødes ugentligt for at fortælle uhyggelige historier omkring et bål, bliver deres kærlighed til alt det skræmmende sat på prøve, da den virkelige verden begynder at blive lige så uhyggelig som deres egne historier.",
+  "image": "https://cdn-play.tv2i.dk/50c7d1da-14f7-496d-a3ac-ca7c80e48def.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "800f3412-eed8-40e9-87da-c9c1018c3c7a",
+      "season": 2,
+      "number": 1,
+      "name": "Fortællingen om Den Hjemsøgte Skov",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "073db7d5-32e8-452c-b11d-fa424da0e6f4",
+      "season": 2,
+      "number": 2,
+      "name": "Fortællingen om Natterædslerne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "60c43be0-77e2-459e-a32e-1eac3b1a0762",
+      "season": 2,
+      "number": 3,
+      "name": "Fortællingen om Fantomlyset",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2ae7cd2a-2f71-45f7-a85c-60201dbe529b",
+      "season": 2,
+      "number": 4,
+      "name": "Fortællingen om Dødedansen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e9517fe3-41cc-4d4f-98c0-c9172c4e85b8",
+      "season": 2,
+      "number": 5,
+      "name": "Fortællingen om midnatsmagien",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "07826dbd-e0cc-48db-a062-04ccf59390ac",
+      "season": 2,
+      "number": 6,
+      "name": "Fortællingen om Mørketårnet",
+      "airdate": "2023-01-01"
+    }
+  ]
+}

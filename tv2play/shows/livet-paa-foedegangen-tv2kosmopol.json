@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:livet-paa-foedegangen-tv2kosmopol",
+  "name": "Livet på fødegangen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Herlev Hospitals fødeafdeling er en af landets travleste med over 5.000 fødsler om året. Kom tæt på de ansatte, der hver dag må tage store beslutninger, når nye liv skal til verden.",
+  "image": "https://cdn-play.tv2i.dk/20cb8662-5546-43b8-b656-2cebe617bc2b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "0b04a765-5dd1-44ec-bd4b-f5542218a7a2",
+      "season": 1,
+      "number": 1,
+      "name": "En lang nat på fødestuen",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "3d5d41f0-7b3f-442f-bd73-54c1e017ab48",
+      "season": 1,
+      "number": 2,
+      "name": "Ny jordemoder på fødegangen",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "f3f71522-b6e2-4253-b8b8-31a519f334d8",
+      "season": 1,
+      "number": 3,
+      "name": "Den svære amning",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "4378ac32-f73f-4006-a76a-6df651d11d3a",
+      "season": 1,
+      "number": 4,
+      "name": "For tidlig fødsel truer",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "a1848390-c2ff-493d-94b3-0dafa1b09496",
+      "season": 1,
+      "number": 5,
+      "name": "Hjertelyden dykker",
+      "airdate": "2025-06-08"
+    },
+    {
+      "id": "4b3c4a22-e719-4072-966b-15fe4c5f5c8c",
+      "season": 1,
+      "number": 6,
+      "name": "Et traume på fødestuen",
+      "airdate": "2025-06-15"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:en-gang-narkostroemer-tv2",
+  "name": "En gang narkostrømer",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "René Dahl Andersen har en fortid blandt de hårdeste hunde i narkoenheden og var i sine 20 år i politiet med til at anholde hundredvis af kriminelle. Indtil han en dag selv bliver anholdt. Nu vil René bruge sin fortid og erfaring fra politiet til at kaste lys over et miljø, de færreste kender",
+  "image": "https://cdn-play.tv2i.dk/c87010c0-57ca-4ede-b726-6b1b5e5a7169.png?auto=format%2Ccompress&fm=webp&rect=0%2C10%2C3825%2C2150&w=1280",
+  "episodes": [
+    {
+      "id": "c0f403b1-47fc-45ba-a897-3f21e171dcde",
+      "season": 1,
+      "number": 1,
+      "name": "Den yderste konsekvens",
+      "airdate": "2023-05-10"
+    },
+    {
+      "id": "9bc6cee5-2771-48c6-9c41-648c78d5c556",
+      "season": 1,
+      "number": 2,
+      "name": "I skyggen af en bagmand",
+      "airdate": "2023-05-17"
+    },
+    {
+      "id": "8ff30eaa-d32c-42f9-a8e8-c1d5956c8e06",
+      "season": 1,
+      "number": 3,
+      "name": "I smuglerens fodspor",
+      "airdate": "2023-05-24"
+    }
+  ]
+}

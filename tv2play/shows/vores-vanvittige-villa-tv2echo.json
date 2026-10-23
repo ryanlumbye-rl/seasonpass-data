@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:vores-vanvittige-villa-tv2echo",
+  "name": "Vores vanvittige villa",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da Cal og Claire ender med at købe en forkert, faldefærdig og kæmpe villa, må de i gang med at renovere. Følg med i den omfattende proces, når parret over tre år forvandler Jameswood Villa til 'vanvittig villa'.",
+  "image": "https://cdn-play.tv2i.dk/a774589b-a328-45ba-aa4e-7e9367a435d8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "801ba84f-5781-449c-8094-7f6283f0b52f",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-07-01"
+    },
+    {
+      "id": "558420fa-69bf-49f2-a76e-c69dd78adc77",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-07-08"
+    },
+    {
+      "id": "c2c37ca9-b8a8-473d-9248-af08a4b4ac8b",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-07-15"
+    },
+    {
+      "id": "d4cd01f7-c662-4504-9a8e-6f72184a7e0d",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-07-22"
+    }
+  ]
+}

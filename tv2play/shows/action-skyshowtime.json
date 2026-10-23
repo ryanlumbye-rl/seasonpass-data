@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:action-skyshowtime",
+  "name": "Action",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En adrenalinfyldt dokumentarserie, der følger filmskaberen David Leitch og Kelly McCormicks stunthold 87North, når de indtager scenen. Vovehalsene navigerer mellem en højoktan, meget specialiseret, og ofte farlig verden af filmstunts og hverdagens krav.",
+  "image": "https://cdn-play.tv2i.dk/27525c2b-b98b-4ae5-83af-1276b4d7b4f7.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a6cdce1d-ae0c-4260-9101-9aa2d5cc5df3",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-11-30"
+    },
+    {
+      "id": "2b74aaa0-5bd9-482c-8d95-5111e2654b84",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-11-30"
+    },
+    {
+      "id": "d689b59a-10fd-4960-9cc7-8051fe5d0c66",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-11-30"
+    },
+    {
+      "id": "945e5d8e-7ee7-4947-9a39-1f748c0a8195",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-11-30"
+    },
+    {
+      "id": "2e92733a-84a3-4ddf-bafb-3ed2d0972d26",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-11-30"
+    },
+    {
+      "id": "335a7c25-4eae-416c-b712-7ce0c79fe0c9",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-11-30"
+    }
+  ]
+}

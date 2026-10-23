@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:tuff-money-skyshowtime",
+  "name": "Tuff Money",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "To kommunale medarbejdere på en bar spøger med, at de kan røve en bankbil. Problemerne starter dog, når deres plan bliver overhørt en gangster.",
+  "image": "https://cdn-play.tv2i.dk/34a2782c-c204-48e8-ad71-e2627f2b37de.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "403fd7ed-df08-4f4c-be5a-10f100e04e98",
+      "season": 1,
+      "number": 1,
+      "name": "The Joke",
+      "airdate": "2023-08-03"
+    },
+    {
+      "id": "4beb86b3-239f-40de-b5bd-8ca1c1dcea29",
+      "season": 1,
+      "number": 2,
+      "name": "The Job",
+      "airdate": "2023-08-03"
+    },
+    {
+      "id": "bc186c1a-7a03-42e0-be93-a2747f962f33",
+      "season": 1,
+      "number": 3,
+      "name": "The Split",
+      "airdate": "2023-08-10"
+    },
+    {
+      "id": "4f921462-d3dd-404d-8f38-d60986aa5445",
+      "season": 1,
+      "number": 4,
+      "name": "The Hunt",
+      "airdate": "2023-08-10"
+    },
+    {
+      "id": "103f5666-9934-410d-829e-5f278402e061",
+      "season": 1,
+      "number": 5,
+      "name": "The Cut",
+      "airdate": "2023-08-17"
+    },
+    {
+      "id": "12f3015f-ecd1-477a-b6fa-54e90a717853",
+      "season": 1,
+      "number": 6,
+      "name": "The Truth",
+      "airdate": "2023-08-17"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:broedrene-olsen-to-broedre-en-karriere-tv2charlie",
+  "name": "Brødrene Olsen: To brødre - en karriere",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Brødrene Olsen har været på den danske musikscene i mere end 55 år, men nu er Noller ramt af alvorlig sygdom, og karrieren lakker - måske - mod enden. Jørgen og Noller fortæller hudløst ærligt om et broderskab på godt og ondt og om en karriere, der har budt på både gigantiske succeser og store fiaskoer.",
+  "image": "https://cdn-play.tv2i.dk/0c4d770f-cf6e-4184-aece-aff6a0c5b49e.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "671ece32-eff5-4dc4-9839-3af031896ec0",
+      "season": 1,
+      "number": 1,
+      "name": "Fra børneband til popstjerner",
+      "airdate": "2020-12-09"
+    },
+    {
+      "id": "f28ebe75-50a0-429e-b644-e27698ef1770",
+      "season": 1,
+      "number": 2,
+      "name": "Fra fiasko til succes",
+      "airdate": "2020-12-09"
+    }
+  ]
+}

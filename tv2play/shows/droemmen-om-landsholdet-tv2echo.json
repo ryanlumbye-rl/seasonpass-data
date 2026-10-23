@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:droemmen-om-landsholdet-tv2echo",
+  "name": "Drømmen om landsholdet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Årgang ’03 er spået som den næste gyldne fodboldårgang. Kom helt tæt på fem unge fodboldtalenters liv og få et unikt indblik i de store beslutninger, som de unge mænd står overfor både karrieremæssigt og personligt, mens de kæmper for opnå deres drengedrøm: En karriere på det danske A-landshold",
+  "image": "https://cdn-play.tv2i.dk/f2883dfe-8139-4324-9beb-2617c5873ff1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "27b821fe-8cee-4a99-851a-42ad58083daf",
+      "season": 1,
+      "number": 1,
+      "name": "Fodboldstjernerne fra ’03",
+      "airdate": "2022-11-16"
+    },
+    {
+      "id": "308b3200-ffc4-46b7-a1f5-cb62a019f6fb",
+      "season": 1,
+      "number": 2,
+      "name": "Alt på spil",
+      "airdate": "2022-11-23"
+    },
+    {
+      "id": "9d7737ac-9929-4b68-a4c4-294cff08130d",
+      "season": 1,
+      "number": 3,
+      "name": "'Det er fucking fedt!'",
+      "airdate": "2022-11-30"
+    },
+    {
+      "id": "d56b321e-1c4c-4d2a-bc3d-fb0074aceff8",
+      "season": 1,
+      "number": 4,
+      "name": "Tættere på drømmen?",
+      "airdate": "2022-12-07"
+    },
+    {
+      "id": "50f25518-1674-47a7-b81b-1cf168aa5fb4",
+      "season": 2,
+      "number": 1,
+      "name": "Øget spilletid og ømme stænger",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "d43b211e-6bbb-4217-8313-be266d271631",
+      "season": 2,
+      "number": 2,
+      "name": "Opskriften på succes",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "ee457b2d-b251-4429-8000-5346ba6bd135",
+      "season": 2,
+      "number": 3,
+      "name": "'03'erne er tilbage'",
+      "airdate": "2023-10-15"
+    },
+    {
+      "id": "edd08329-beae-4424-a709-1839f6c3cfb2",
+      "season": 2,
+      "number": 4,
+      "name": "Comebacket",
+      "airdate": "2023-10-17"
+    },
+    {
+      "id": "1ac58790-341a-4c56-8ffd-98965deabc13",
+      "season": 3,
+      "number": 1,
+      "name": "Den store reunion",
+      "airdate": "2024-06-15"
+    },
+    {
+      "id": "2e51075c-6e59-4391-a7d7-cd8f424ec82f",
+      "season": 3,
+      "number": 2,
+      "name": "Kan drømmen overvinde skaderne?",
+      "airdate": "2024-06-15"
+    }
+  ]
+}

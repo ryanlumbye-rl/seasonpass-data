@@ -1,0 +1,201 @@
+{
+  "id": "tv2play:penny-dreadful-skyshowtime",
+  "name": "Penny Dreadful",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En psykologisk thriller fyldt med mørke dæmoner, vampyrer, mysterier og spænding.",
+  "image": "https://cdn-play.tv2i.dk/11e7f1aa-1191-4c99-ac38-3f4ab0133b34.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "66742b26-8f1b-44ce-9c04-8be1a022e63b",
+      "season": 1,
+      "number": 1,
+      "name": "Night Work",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "443115b6-78b0-48c8-bfa0-3c488378636c",
+      "season": 1,
+      "number": 2,
+      "name": "Séance",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e8ab8c3a-5432-41c8-ac8d-e59fc41caae7",
+      "season": 1,
+      "number": 3,
+      "name": "Resurrection",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d872555c-995b-49f3-9424-1dda38883e7f",
+      "season": 1,
+      "number": 4,
+      "name": "Demimonde",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "722f47b3-2fb7-45bd-83c6-f428e32696b0",
+      "season": 1,
+      "number": 5,
+      "name": "Closer Than Sisters",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "98f52d5f-4ec8-43de-8218-4ef26ac35ac8",
+      "season": 1,
+      "number": 6,
+      "name": "What Death Can Join Together",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "de30ea21-8fc1-4aa4-8197-3eccb914a5a6",
+      "season": 1,
+      "number": 7,
+      "name": "Possession",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9c0310e3-3017-43aa-8853-79d9e4acea7a",
+      "season": 1,
+      "number": 8,
+      "name": "Grand Guignol",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "643c6631-1d31-4005-bbac-cf109ab54ad1",
+      "season": 2,
+      "number": 1,
+      "name": "Fresh Hell",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "020baef6-846b-4cb1-a42a-add6197185f6",
+      "season": 2,
+      "number": 2,
+      "name": "Verbis Diablo",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ecb8bb8d-d9f7-415c-9b63-34176e972b84",
+      "season": 2,
+      "number": 3,
+      "name": "The Nightcomers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a6664bd5-4303-4fe8-90bc-c870c690c1d8",
+      "season": 2,
+      "number": 4,
+      "name": "Evil Spirits in Heavenly Places",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2996dfef-c2a1-4a9d-8c47-7f7630c11cd4",
+      "season": 2,
+      "number": 5,
+      "name": "Above the Vaulted Sky",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0ebb3b05-fea5-490e-85f9-d163b6f09bfc",
+      "season": 2,
+      "number": 6,
+      "name": "Glorious Horrors",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a7986510-ae5c-471a-bd85-ded8c924079c",
+      "season": 2,
+      "number": 7,
+      "name": "Little Scorpion",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a75453f3-9f40-42e4-981d-423033e0cd1a",
+      "season": 2,
+      "number": 8,
+      "name": "Memento Mori",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "237035f0-8abb-479e-83dc-5d72544750e5",
+      "season": 2,
+      "number": 9,
+      "name": "And Hell Itself My Only Foe",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d6b22ce-348f-4174-93d9-02bb7dd38952",
+      "season": 2,
+      "number": 10,
+      "name": "And They Were Enemies",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "255cd4ee-9821-44bb-8dbd-3dedda1d3387",
+      "season": 3,
+      "number": 1,
+      "name": "The Day Tennyson Died",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "980ba869-027c-40c9-9f4c-70491906b8ba",
+      "season": 3,
+      "number": 2,
+      "name": "Predators Far and Near",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3aaaeb80-4b8a-4e36-9c35-0efc4bf7c6ab",
+      "season": 3,
+      "number": 3,
+      "name": "Good and Evil Braided Be",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c986737c-aeba-4d11-8d35-8faca55f4020",
+      "season": 3,
+      "number": 4,
+      "name": "A Blade of Grass",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bd1200c3-e21d-45ae-8a08-be829cc8cc43",
+      "season": 3,
+      "number": 5,
+      "name": "This World is Our Hell",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d49c543e-b186-4255-903c-e5b2b5e97998",
+      "season": 3,
+      "number": 6,
+      "name": "No Beast So Fierce",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "add70872-cdb0-45f1-9798-fa4ecd37f872",
+      "season": 3,
+      "number": 7,
+      "name": "Ebb Tide",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bf807ab0-1544-4747-91af-d3e8343eeb32",
+      "season": 3,
+      "number": 8,
+      "name": "Perpetual Night",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "420c2c96-fbff-4914-a9d2-8bd3f4f72ad8",
+      "season": 3,
+      "number": 9,
+      "name": "The Blessed Dark",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

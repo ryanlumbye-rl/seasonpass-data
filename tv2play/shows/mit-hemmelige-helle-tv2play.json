@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:mit-hemmelige-helle-tv2play",
+  "name": "Mit hemmelige helle",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvert tiende barn under 18 år vokser op i et hjem med misbrug. Organisationen TUBA tilbyder rådgivning og terapi til ramte børn og unge, men fem lokale afdelinger i Region Sjælland har fået afslag på finansiering fra Social- og Boligministeriet. Derfor kæmper terapeuter og unge nu for at redde TUBA.",
+  "image": "https://cdn-play.tv2i.dk/b1cdceab-202e-4810-97f0-1f1fa04f23dc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d9a7284a-cc68-4134-ac57-c014d15edf57",
+      "season": 1,
+      "number": 1,
+      "name": "TUBA reddede mig",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "c19398c5-f86e-432e-88ac-2d1e4dd140be",
+      "season": 1,
+      "number": 2,
+      "name": "Et vigtigt fællesskab",
+      "airdate": "2025-12-30"
+    },
+    {
+      "id": "ef50e67f-f130-4f80-82c9-70fe2ad74834",
+      "season": 1,
+      "number": 3,
+      "name": "Et lille håb",
+      "airdate": "2026-01-06"
+    }
+  ]
+}

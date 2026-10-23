@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:bjornstad-skyshowtime",
+  "name": "Björnstad",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Björnstads vaklende samfund sætter sine forhåbninger til sit junior ishockeyhold og den nye træner Peter Andersson, en nyligt pensioneret professionel spiller, der flytter til byen for at få en ny start",
+  "image": "https://cdn-play.tv2i.dk/c5f5636c-79ce-428b-9219-69d7b156440a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280",
+  "episodes": [
+    {
+      "id": "4b8f871c-91ca-4f03-a72b-b2bb9f721b73",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-12"
+    },
+    {
+      "id": "65d32317-d18c-4a86-a3af-13ea7dba676c",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6448663e-8992-4bca-ac4f-72be2e422881",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "d8f8b17d-3518-492a-9922-648269940220",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "68913cb6-31d1-4cd0-b658-dc65d56ecba4",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-06-02"
+    }
+  ]
+}

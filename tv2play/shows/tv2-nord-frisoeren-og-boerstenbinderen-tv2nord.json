@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:tv2-nord-frisoeren-og-boerstenbinderen-tv2nord",
+  "name": "Frisøren og børstenbinderen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Få en oplevelse fra en svunden tid. Sorte penge, svenske piger og hang til hestebøffer. Få to forrygende livshistorier fra et par ældre herrer, der langt over pensionsalderen holder stædigt fast i deres job som frisør og børstenbinder",
+  "image": "https://cdn-play.tv2i.dk/d4658392-68ac-4716-9f26-833100b80ad5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a4871911-443a-4522-8cd4-9ae85b38204c",
+      "season": 1,
+      "number": 1,
+      "name": "Skideballer og sjælesørger",
+      "airdate": "2025-03-16"
+    },
+    {
+      "id": "4c827a46-e064-4d96-bfd2-2a3f663015f5",
+      "season": 1,
+      "number": 2,
+      "name": "Sorte penge og besøg af statsministeren",
+      "airdate": "2025-03-23"
+    }
+  ]
+}

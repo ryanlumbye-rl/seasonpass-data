@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:the-woman-in-the-wall-skyshowtime",
+  "name": "The Woman in the Wall",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da Lorna Brady vågner og opdager et lig i sit hjem, men uden nogen erindring om, hvordan det er endt der, bliver hun og kriminalbetjent Colman Akande trukket ind i en kompliceret jagt, mens de leder efter svarene i en lille by fuld af hemmeligheder.",
+  "image": "https://cdn-play.tv2i.dk/41c548a5-464f-4f62-ad11-51b1283a6f6d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "71027e36-e91c-4931-831e-8d1845acdf73",
+      "season": 1,
+      "number": 1,
+      "name": "Back to Life",
+      "airdate": "2024-02-19"
+    },
+    {
+      "id": "dfb31e5d-d79e-4f41-8664-5a0d7ac5fa40",
+      "season": 1,
+      "number": 2,
+      "name": "Show Thyself",
+      "airdate": "2024-02-19"
+    },
+    {
+      "id": "49720440-457f-4cc7-9af0-81af0aa49b33",
+      "season": 1,
+      "number": 3,
+      "name": "Knock Knock",
+      "airdate": "2024-02-26"
+    },
+    {
+      "id": "5f987279-2414-4d75-8445-2513a8b30098",
+      "season": 1,
+      "number": 4,
+      "name": "The Cruelty Man",
+      "airdate": "2024-03-04"
+    },
+    {
+      "id": "b3a83e8c-77cd-4daa-a77d-4934c0c5ce08",
+      "season": 1,
+      "number": 5,
+      "name": "Ex Gratia",
+      "airdate": "2024-03-11"
+    },
+    {
+      "id": "72f086b2-2c3a-4951-a636-3e95649f6c3e",
+      "season": 1,
+      "number": 6,
+      "name": "A Little Resurrection",
+      "airdate": "2024-03-18"
+    }
+  ]
+}

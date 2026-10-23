@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Svensk krimiserie baseret på Leif GW Perssons romaner om den kontroversielle og selvglade efterforsker Evert Bäckström (Kjell Bergqvist).",
+  "image": "https://cdn-play.tv2i.dk/e60a03ca-2f04-4b6d-880c-c869f245d3b0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "a3373d14-514c-4a4f-bf14-f27ca1bc6228",

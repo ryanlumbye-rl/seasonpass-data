@@ -1,0 +1,194 @@
+{
+  "id": "tv2play:familien-thunderman-undercover-skyshowtime",
+  "name": "Familien Thunderman: Undercover",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Familien Thunderman oplever nye eventyr, når Phoebe og Max sendes undercover for at håndtere en ny trussel i kystbyen Secret Shores, hvor de tager Chloe med for at udvikle hendes superheltetalent.",
+  "image": "https://cdn-play.tv2i.dk/54acb197-a1e6-4d09-948b-66c86bd3541f.jpg?auto=format%2Ccompress&fm=webp&rect=65%2C0%2C3691%2C2076&w=1280",
+  "episodes": [
+    {
+      "id": "3bd05002-64b1-4875-bddb-41c40fc51af6",
+      "season": 1,
+      "number": 1,
+      "name": "Thundercover",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "eba16578-9ff7-43c0-a597-0871a23ca1e1",
+      "season": 1,
+      "number": 2,
+      "name": "Kraftfejl",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "39157846-3084-4d7e-887d-622e5857a625",
+      "season": 1,
+      "number": 3,
+      "name": "Øvskolen",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "585db838-4cce-45b0-9105-0543b78b948f",
+      "season": 1,
+      "number": 4,
+      "name": "Forældrezappet",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "e410a980-1a59-4db6-beb1-8c5050dd0804",
+      "season": 1,
+      "number": 5,
+      "name": "Reservér dagen",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "1d0263cb-8a85-4d92-a14d-aa79643e40b8",
+      "season": 1,
+      "number": 6,
+      "name": "Fra slemt til bærre",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "14ded7c7-6449-48a4-b054-aa639aebe17c",
+      "season": 1,
+      "number": 7,
+      "name": "Fast and Furious, eller noget",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "3fb56040-2ced-4cc9-b5b5-bf1c3744bab6",
+      "season": 1,
+      "number": 8,
+      "name": "Gennem spionhullet",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "5c73b625-7855-496a-8b1c-b50d7d017580",
+      "season": 1,
+      "number": 9,
+      "name": "Ingen venner i syne",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "f7015568-d17a-4d76-8b47-427f10bea7dc",
+      "season": 1,
+      "number": 10,
+      "name": "Alt om Steve",
+      "airdate": "2025-07-19"
+    },
+    {
+      "id": "6a1d6f36-f39d-4a1d-8a53-580488314923",
+      "season": 1,
+      "number": 11,
+      "name": "Fra støv til daggry",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "7287b8b1-cab5-4ad7-af44-4c97af444e4e",
+      "season": 1,
+      "number": 12,
+      "name": "Tidevand og fordomme",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "08c50c4f-cc5e-4c91-9bd5-a9b75a090951",
+      "season": 1,
+      "number": 13,
+      "name": "Hvem driller hvem",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "bfa064df-7e27-499b-95f9-f8e9d3d5f322",
+      "season": 2,
+      "number": 1,
+      "name": "Livets Max",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "041911c3-6f59-4836-bb32-2ce378159d41",
+      "season": 2,
+      "number": 2,
+      "name": "En sommer fuld af hemmeligheder",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "75ee79b2-04ce-4b3a-98c2-0585ca9fe01d",
+      "season": 2,
+      "number": 3,
+      "name": "Jeg ved, hvad du gjorde i sommers",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "429e90b8-8c76-4542-9707-7c6045f298d6",
+      "season": 2,
+      "number": 4,
+      "name": "Partner med Giddy",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "e7527c0f-2630-40a4-930a-29c5079a5adf",
+      "season": 2,
+      "number": 5,
+      "name": "En midsommernats plan",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "ee4b170f-e418-4dac-94d7-bfebd094c54b",
+      "season": 2,
+      "number": 6,
+      "name": "Skånselsløs sommer",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "7d315c15-000f-4ec3-a0bd-8ac70ee8cea8",
+      "season": 2,
+      "number": 7,
+      "name": "Endeløs sommer",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "8df94ac0-10ce-4935-841e-dba5be0ef8b0",
+      "season": 2,
+      "number": 8,
+      "name": "Den hulens kærlighed",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "e222665b-229d-461d-84be-a42c103b2978",
+      "season": 2,
+      "number": 9,
+      "name": "Splat-partnere",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "e73037fa-682e-452f-9272-a4b59367fc52",
+      "season": 2,
+      "number": 10,
+      "name": "Fest og ballade",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "a9c799c1-e918-48b9-9a12-2e0757505dfa",
+      "season": 2,
+      "number": 11,
+      "name": "Thunderman-historier",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "e170063b-dad7-4de5-8f01-b40b64f5cc96",
+      "season": 2,
+      "number": 12,
+      "name": "Bagmanden afsløres - del 1",
+      "airdate": "2026-03-20"
+    },
+    {
+      "id": "5596d068-c73e-43c4-830a-aa069aa821fd",
+      "season": 2,
+      "number": 13,
+      "name": "Bagmanden afsløres - del 2",
+      "airdate": "2026-03-20"
+    }
+  ]
+}

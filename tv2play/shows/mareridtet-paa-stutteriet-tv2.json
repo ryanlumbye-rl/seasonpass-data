@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:mareridtet-paa-stutteriet-tv2",
+  "name": "Mareridtet på stutteriet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den tidligere stutteriejer John Byrialsen blev sidste år kendt i offentligheden, da myndighederne fandt 50 ulovligt nedgravede heste på hans stutteri. Nu står en række tidligere ansatte frem og fortæller om manipulation, vold og overgreb begået af John Byrialsen mod helt unge ansatte gennem mere end 30 år.",
+  "image": "https://cdn-play.tv2i.dk/e6e14572-db48-4cce-b0a0-b24500475e6f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "05867e7c-e933-47a3-a727-36aa4c6cbe2b",
+      "season": 1,
+      "number": 1,
+      "name": "En nedgravet hemmelighed",
+      "airdate": "2024-10-02"
+    },
+    {
+      "id": "0c63dce1-69b1-4a35-a5ec-68b0f3a3769f",
+      "season": 1,
+      "number": 2,
+      "name": "Hvorfor gjorde ingen noget?",
+      "airdate": "2024-10-09"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:jagten-paa-far-tv2play",
+  "name": "Jagten på far",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Se med, når Jennifer sætter jagten ind på den far, hun aldrig har kendt.",
+  "image": "https://cdn-play.tv2i.dk/dd93601f-1dd1-4665-905a-c261d9fbb600.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "4804f886-7e4f-4fb5-826a-15092c3b590b",
+      "season": 1,
+      "number": 1,
+      "name": "Ved han, at jeg lever?",
+      "airdate": "2021-07-05"
+    },
+    {
+      "id": "2a514dd3-ead7-4972-9835-bb5fe3d9fea1",
+      "season": 1,
+      "number": 2,
+      "name": "Det er måske slet ikke Claus?",
+      "airdate": "2021-07-05"
+    }
+  ]
+}

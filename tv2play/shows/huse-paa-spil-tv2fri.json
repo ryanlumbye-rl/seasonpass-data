@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:huse-paa-spil-tv2fri",
+  "name": "Huse på spil",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Felix Smith er vært på den nye og underholdende boligquiz, 'Huse på spil', hvor kendte danskere og to ejendomsmæglere dyster i at gætte priser på boliger rundt omkring i Danmark.",
+  "image": "https://cdn-play.tv2i.dk/1732e32b-4406-4fe7-b416-4cd045adb710.jpg?auto=format%2Ccompress&fm=webp&rect=497%2C121%2C1157%2C651&w=1280",
+  "episodes": [
+    {
+      "id": "32570cfd-b230-417b-980d-9343e94160c3",
+      "season": 1,
+      "number": 2,
+      "name": "Med Bubber og Torben Chris",
+      "airdate": "2019-03-12"
+    },
+    {
+      "id": "6ac477d0-423c-4dfd-bf51-db47c3796c8d",
+      "season": 1,
+      "number": 4,
+      "name": "Finale",
+      "airdate": "2019-03-14"
+    },
+    {
+      "id": "698b404c-f1c1-40e0-9bec-bce3c8651d43",
+      "season": 1,
+      "number": 11,
+      "name": "Med Camilla Miehe-Renard og Ole Boisen",
+      "airdate": "2019-03-27"
+    },
+    {
+      "id": "27db2d34-df2d-4e55-854e-e851caa81df9",
+      "season": 1,
+      "number": 15,
+      "name": "Med Lasse Spangenberg og Silas Holst",
+      "airdate": "2019-04-03"
+    }
+  ]
+}

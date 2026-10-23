@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Følg mekanikeren Gecko, der tager ud på eventyr og besøger køretøjer, robotter og andre, der har brug for en hjælpende hånd.",
+  "image": "https://cdn-play.tv2i.dk/e272b2e7-457f-402f-9512-998615d01e02.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "259d0e5f-3e36-4b99-826e-afacb307ec23",

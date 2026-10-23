@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kamp-til-haekken-tv2fri",
+  "name": "Kamp til hækken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg med når fire par i seks programmer dyster mod hinanden om at anlægge den flotteste have. På en tom jordlod på 300 kvadratmeter ved Egeskov Slot på Fyn skal hvert par skabe en have helt fra bunden.",
+  "image": "https://cdn-play.tv2i.dk/7b72b8e8-198d-4679-a2bf-124078636cda.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "53b4bc4a-77e3-40f7-8754-20e0df2d4e33",
+      "season": 1,
+      "number": 1,
+      "name": "Det første spadestik",
+      "airdate": "2018-04-02"
+    },
+    {
+      "id": "c792e6b2-f223-4e64-9003-14f12f422386",
+      "season": 1,
+      "number": 2,
+      "name": "Udekøkken og urtehave",
+      "airdate": "2018-04-02"
+    },
+    {
+      "id": "4f14871f-ec8e-4219-bec3-499c61e2aceb",
+      "season": 1,
+      "number": 3,
+      "name": "Spiseplads",
+      "airdate": "2018-04-09"
+    },
+    {
+      "id": "0482ae7e-39f4-4efd-9f3b-ead011506463",
+      "season": 1,
+      "number": 4,
+      "name": "Aktivitetsområde",
+      "airdate": "2018-04-16"
+    },
+    {
+      "id": "a5724ef9-a370-4af7-b048-6d93c78e9a31",
+      "season": 1,
+      "number": 5,
+      "name": "Afslapningsområde",
+      "airdate": "2018-04-23"
+    },
+    {
+      "id": "65022452-5e5d-4b39-951b-6481a20081bd",
+      "season": 1,
+      "number": 6,
+      "name": "Finale",
+      "airdate": "2018-05-07"
+    }
+  ]
+}

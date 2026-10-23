@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:kampen-for-papirhuset-tv2nord",
+  "name": "Kampen for papirhuset",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det verdensberømte arkitektfirma BIG, med Bjarke Ingels og David Zahle i front, skal tegne et nyt 'Museum for Papirkunst'. Museet skal ligge i Hune ved Blokhus.",
+  "image": "https://cdn-play.tv2i.dk/5f012a21-0963-4529-8e5a-3671a30e195a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8698578f-8eb3-4ef7-a445-a768dc86bc69",
+      "season": 1,
+      "number": 1,
+      "name": "BIGs drøm for Hune",
+      "airdate": "2025-05-20"
+    },
+    {
+      "id": "68523bb6-1975-4c17-9067-95fe46bd21d2",
+      "season": 1,
+      "number": 2,
+      "name": "Overlever museet?",
+      "airdate": "2025-05-27"
+    },
+    {
+      "id": "48aa902c-3674-4626-87c2-e50bfd8aee9c",
+      "season": 1,
+      "number": 3,
+      "name": "Nødhjælp fra naboerne",
+      "airdate": "2025-06-03"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:godsk-erobrer-verden-tv2play",
+  "name": "Godsk erobrer verden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "New York, Tokyo og Madrid. Den nordjyske kunstner Henrik Godsk sælger kunst for millioner over hele verden. Vi har været med ham i en underfundig verden af kreativitet, penge og nordjysk dagligdag.",
+  "image": "https://cdn-play.tv2i.dk/90515695-b04b-420e-bc10-770f87d94735.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2f360ed3-66bb-4f8a-9add-08f38b240244",
+      "season": 1,
+      "number": 1,
+      "name": "Barn af et tivoli",
+      "airdate": "2025-11-20"
+    },
+    {
+      "id": "3958bfd6-239c-4fa4-ab7a-6710f45250c3",
+      "season": 1,
+      "number": 2,
+      "name": "Chef for pariserhjulet",
+      "airdate": "2025-11-27"
+    },
+    {
+      "id": "83f7f2cf-d612-4c3a-9e43-42a2dbb03d0c",
+      "season": 1,
+      "number": 3,
+      "name": "Greatest hits",
+      "airdate": "2025-12-04"
+    },
+    {
+      "id": "0131835e-2e01-446e-918c-99a2d899d286",
+      "season": 1,
+      "number": 4,
+      "name": "Drømmenes værksted",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "9f3b6827-7ad3-4645-95df-bf42f3c563a0",
+      "season": 1,
+      "number": 5,
+      "name": "First we take Manhattan",
+      "airdate": "2025-12-18"
+    }
+  ]
+}

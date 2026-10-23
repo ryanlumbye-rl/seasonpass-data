@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:paa-den-anden-side-tv2play",
+  "name": "På den anden side",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad gemmer sig på den anden side af det, vi alle sammen kender? Kom helt tæt på menneskerne, maskinrummet og virkeligheden bag hverdagens store historier.",
+  "image": "https://cdn-play.tv2i.dk/9cea3aef-f33a-3ea6-a7ad-b664ac3855aa.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "5dd64802-8dab-4152-9fd8-4148606becf3",
+      "season": 1,
+      "number": 1,
+      "name": "På den anden side af projekt E45",
+      "airdate": "2026-05-28"
+    },
+    {
+      "id": "0cfa1f12-3b9c-4349-b387-282b7d7a7085",
+      "season": 1,
+      "number": 2,
+      "name": "På den anden side af madaffaldet",
+      "airdate": "2026-06-04"
+    },
+    {
+      "id": "9f7ed888-c4ce-4005-87e2-69072326f988",
+      "season": 1,
+      "number": 3,
+      "name": "På den anden side af håndværkermanglen",
+      "airdate": "2026-06-11"
+    },
+    {
+      "id": "109c578a-d10e-4e4d-835d-332900ee8282",
+      "season": 1,
+      "number": 4,
+      "name": "På den anden side ø-livet",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "1dd0d60e-89ff-484b-ab29-ce743a5b0215",
+      "season": 1,
+      "number": 5,
+      "name": "På den anden side af plejehjemmet",
+      "airdate": "2026-06-25"
+    },
+    {
+      "id": "b67fc1ca-88c5-4f72-98f7-417b8f398626",
+      "season": 1,
+      "number": 6,
+      "name": "På den anden side af Hjemmeværnet",
+      "airdate": "2026-07-02"
+    },
+    {
+      "id": "cf5a37dc-70ab-4449-8691-652ac6e15d3e",
+      "season": 1,
+      "number": 7,
+      "name": "På den anden side af et hundeliv",
+      "airdate": "2026-07-09"
+    },
+    {
+      "id": "5a5951c6-a6e4-4643-8b87-44b17250b1ca",
+      "season": 1,
+      "number": 8,
+      "name": "På den anden side af hverdagens stress",
+      "airdate": "2026-07-16"
+    },
+    {
+      "id": "452bded1-473b-49b8-80bf-c0c3008c84fa",
+      "season": 1,
+      "number": 9,
+      "name": "På den anden side af dansk vin",
+      "airdate": "2026-07-23"
+    }
+  ]
+}

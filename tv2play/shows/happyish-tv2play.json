@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:happyish-tv2play",
+  "name": "HAPPYish",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "de36ccbc-c015-4f8d-9749-e52ae86da56b",
+      "season": 1,
+      "number": 1,
+      "name": "Starring Samuel Beckett, Albert Camus and Dr. Alois Alzheimer",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "607001a6-2af2-4fdb-b29c-dd2f747b4387",
+      "season": 1,
+      "number": 2,
+      "name": "Starring Marc Chagall, Abuela and Adolf Hitler",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ec481329-3e81-4452-bca7-36e957e44f63",
+      "season": 1,
+      "number": 3,
+      "name": "Starring Vladimir Nabokov, Hippocrates and God",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d40d8c5f-cabb-4f7b-a82c-fd05e8ac5325",
+      "season": 1,
+      "number": 4,
+      "name": "Starring Sigmund Freud, Charles Bukowski and Seven Billion A**holes",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "222830c4-69c7-427c-b950-b8acae468272",
+      "season": 1,
+      "number": 5,
+      "name": "Starring Josey Wales, Jesus Christ and the New York Times",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c39b227c-2144-4f2f-9b17-0091582541ad",
+      "season": 1,
+      "number": 6,
+      "name": "Starring Helen Keller, Moses and Lenny Bruce",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3f889040-5e8c-49a4-910a-148675643f01",
+      "season": 1,
+      "number": 7,
+      "name": "Starring David Ogilvy, Anton Chekhov and Gluten Enteropathy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1c744178-7bd9-4f31-93ad-f6465eea4a3a",
+      "season": 1,
+      "number": 8,
+      "name": "Starring Rene Descartes, Adweek and HRH the Princess of Arendelle",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f3dfe9b3-313f-4cb6-bd8b-fce2f18fcdd7",
+      "season": 1,
+      "number": 9,
+      "name": "Starring Mr. Mike, Joseph McCarthy and Alfred Bernhard Nobel",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6050312e-8201-4207-b995-978cb9401d75",
+      "season": 1,
+      "number": 10,
+      "name": "Starring Christopher Hitchens, Philip Larkin and Josef Stalin",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

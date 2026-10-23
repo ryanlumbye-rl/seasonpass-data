@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:mystiske-mord-tv2charlie",
+  "name": "Mystiske mord",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Canadisk krimiserie i otte afsnit. Bibliotekaren Aurora Teagarden opklarer mystiske mord med andre truecrime-entusiaster fra Real Murders Club i Georgia.",
+  "image": "https://cdn-play.tv2i.dk/d77f9be8-a62b-4d81-acd6-16ade072c612.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "67a5244b-2188-499c-8cd0-3863a5c42c28",
+      "season": 2,
+      "number": 1,
+      "name": "En uheldig kidnapning",
+      "airdate": "2025-07-10"
+    },
+    {
+      "id": "dc83d393-dbfb-4a4d-9df3-a0c50acba88f",
+      "season": 2,
+      "number": 2,
+      "name": "Gådefulde spor",
+      "airdate": "2025-07-14"
+    },
+    {
+      "id": "6ab693a2-d9b3-4643-b664-2e33dd126ee7",
+      "season": 2,
+      "number": 3,
+      "name": "Blodig arvestrid",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "6b33afce-c069-4b95-a349-c81a8484c974",
+      "season": 2,
+      "number": 4,
+      "name": "Død på scenen",
+      "airdate": "2025-07-16"
+    },
+    {
+      "id": "e90f967f-6d25-4c97-83ef-b70737a15d69",
+      "season": 2,
+      "number": 5,
+      "name": "Juvelens hemmelighed",
+      "airdate": "2025-07-17"
+    },
+    {
+      "id": "81e5f15d-681a-49ff-abc4-c987738da946",
+      "season": 2,
+      "number": 6,
+      "name": "En morder i klassen",
+      "airdate": "2025-07-21"
+    },
+    {
+      "id": "df57eba4-cd5b-4ac7-89f4-9a31a9bbe219",
+      "season": 2,
+      "number": 7,
+      "name": "Hvem svindler hvem?",
+      "airdate": "2025-07-22"
+    },
+    {
+      "id": "263c5bbd-c3db-4117-90d1-c972dd778b76",
+      "season": 2,
+      "number": 8,
+      "name": "Bryllup med forhindringer",
+      "airdate": "2025-07-23"
+    },
+    {
+      "id": "b0b76c0b-3d32-4749-9f26-53a3558c882c",
+      "season": 2,
+      "number": 9,
+      "name": "Blodig ferie",
+      "airdate": "2025-07-24"
+    },
+    {
+      "id": "af2c4835-5b50-40cd-ae58-c30fe408841c",
+      "season": 2,
+      "number": 10,
+      "name": "Tilbage til spøgelseshuset",
+      "airdate": "2025-07-28"
+    },
+    {
+      "id": "c25b0409-66d1-4a00-916e-aed0dd0b619f",
+      "season": 3,
+      "number": 1,
+      "name": "En mistænkelig kæreste",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "e92e1b62-7ba7-4ec2-b9e4-55004df04dda",
+      "season": 3,
+      "number": 2,
+      "name": "Undervisning i drab",
+      "airdate": "2025-11-16"
+    },
+    {
+      "id": "4ed2b67c-1518-4651-9225-af1fce934f7e",
+      "season": 3,
+      "number": 3,
+      "name": "Hvem førte kniven?",
+      "airdate": "2025-11-16"
+    }
+  ]
+}
