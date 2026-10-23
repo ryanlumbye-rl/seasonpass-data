@@ -27,5 +27,5 @@ test('virker også på en anden serie: 24 timer på skadestuen', () => {
 });
 
 test('giver null-felter for en side uden TVSeries, i stedet for at kaste', () => {
-  assert.deepEqual(extractSeries('<html><body>intet</body></html>'), { description: null, image: null });
+  assert.deepEqual(extractSeries('<html><body>intet</body></html>'), { name: null, description: null, image: null });
 });

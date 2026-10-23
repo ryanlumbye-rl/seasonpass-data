@@ -44,9 +44,10 @@ export function extractSeries(html) {
     if (!d || d['@type'] !== 'TVSeries') continue;
     const description = typeof d.description === 'string' && d.description.trim() ? d.description.trim() : null;
     const raw = typeof d.image === 'string' ? d.image : Array.isArray(d.image) && typeof d.image[0] === 'string' ? d.image[0] : null;
-    return { description, image: raw ? widen(raw) : null };
+    const name = typeof d.name === 'string' && d.name.trim() ? d.name.trim() : null;
+    return { name, description, image: raw ? widen(raw) : null };
   }
-  return { description: null, image: null };
+  return { name: null, description: null, image: null };
 }
 
 function widen(url) {
