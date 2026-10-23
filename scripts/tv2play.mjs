@@ -16,6 +16,7 @@ import { buildTv2Shows, canonicalSlugs, consolidate } from './lib/tv2shows.mjs';
 import { buildEntries, buildUnmatched } from './lib/build.mjs';
 import { canonicalJSON, mergeOverrides } from './lib/merge.mjs';
 import { readJson } from './lib/io.mjs';
+import { fetchSeriesPage, seriesPages, siblingPages } from './lib/seriespage.mjs';
 
 const UA = 'SeasonPass-data/1.0 (+https://github.com/ryanlumbye-rl/seasonpass-data)';
 const INDEX = 'https://play.tv2.dk/vp_sitemaps/sitemap-index.xml.gz';
@@ -62,6 +63,7 @@ async function main() {
     all.push(...parseSitemap(await get(part, { gzip: part.endsWith('.gz') })));
   }
   console.log(`URL'er i alt: ${all.length}`);
+  const pages = seriesPages(all);
 
   const episodes = episodeUrls(all);
   const mine = episodes.filter((e) => mapping[e.slug]);
@@ -148,13 +150,17 @@ async function main() {
   // episode.series (vi har det allerede); forsiden bruges til hintet og til
   // seriens egen beskrivelse og billede (extractSeries).
   const meta = {};
+  let viaSibling = 0;
   const unparsedThisRun = {};
   const slugsThisRun = [...new Set(found2.map((f) => f.slug))].sort();
   for (const slug of slugsThisRun) {
     await sleep(PAUSE);
     const name = found2.find((f) => f.slug === slug).episode.series;
     try {
-      const html = await get(`https://play.tv2.dk/serie/${slug}`);
+      const page = await fetchSeriesPage(slug, name, pages, get);
+      if (!page) throw new Error(`ingen forside, heller ikke under en anden endelse (https://play.tv2.dk/serie/${slug} svarede 404)`);
+      if (page.slug !== slug) viaSibling += 1;
+      const { html } = page;
       const hintText = extractHint(html);
       const parsedHint = hintText ? parseHint(hintText, today) : null;
       const { description, image } = extractSeries(html);
@@ -166,6 +172,8 @@ async function main() {
     }
   }
 
+  console.log(`serieforsider fundet under en anden endelse: ${viaSibling}`);
+
   const { shows: newShows } = buildTv2Shows(found2, meta);
 
   // Opsamling: serie-filer fra før billede og beskrivelse kom med, og som denne kørsel
@@ -173,17 +181,24 @@ async function main() {
   // hentes igen hver nat; en fejl lader feltet mangle, så næste kørsel prøver igen.
   const backfill = {};
   const built = existsSync('tv2play/shows') ? readdirSync('tv2play/shows').filter((f) => f.endsWith('.json')).map((f) => f.slice(0, -5)) : [];
-  const missing = built.filter((slug) => !newShows[slug] && !('image' in (readJson(`tv2play/shows/${slug}.json`, {}) ?? {}))).slice(0, BACKFILL_BUDGET);
+  // Også serier, der fik image: null, fordi deres egen forside svarede 404, men som har en
+  // forside under en anden endelse (23-10-2026) — dem kan vi nu finde.
+  const needsArt = (slug) => {
+    const show = readJson(`tv2play/shows/${slug}.json`, {}) ?? {};
+    return !('image' in show) || (show.image === null && siblingPages(slug, pages).length > 0);
+  };
+  const missing = built.filter((slug) => !newShows[slug] && needsArt(slug)).slice(0, BACKFILL_BUDGET);
   for (const slug of missing) {
     if (Date.now() - started > FETCH_DEADLINE_MS) break;
     await sleep(PAUSE);
     try {
-      backfill[slug] = extractSeries(await get(`https://play.tv2.dk/serie/${slug}`));
+      const name = readJson(`tv2play/shows/${slug}.json`, {})?.name;
+      const page = await fetchSeriesPage(slug, name, pages, get);
+      // Ingen forside nogen steder: serien er fjernet fra TV 2 Play (fx Clarkson's Farm,
+      // 22-10-2026). Det er et svar, ikke en fejl — gem null, så den ikke hentes igen hver nat.
+      backfill[slug] = page ? extractSeries(page.html) : { description: null, image: null };
     } catch (err) {
-      // 404: serien er fjernet fra TV 2 Play (fx Clarkson's Farm, 22-10-2026). Det er et svar,
-      // ikke en fejl — gem null, så den ikke hentes igen hver nat.
-      if (/svarede 404$/.test(err.message)) backfill[slug] = { description: null, image: null };
-      else console.warn(`serieforside kunne ikke hentes (opsamling): ${slug} — ${err.message}`);
+      console.warn(`serieforside kunne ikke hentes (opsamling): ${slug} — ${err.message}`);
     }
   }
   console.log(`opsamling af billede og beskrivelse: ${Object.keys(backfill).length} af ${missing.length} serier`);
