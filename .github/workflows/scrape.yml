@@ -2,7 +2,11 @@ name: TV 2 Play-datoer
 
 on:
   schedule:
-    - cron: "30 5 * * *" # efter TV 2's udgivelser kl. 06 dansk tid
+    # Om natten, så kørslen (op til 4,5 time) er færdig, før nogen står op. Cron er
+    # UTC: 00:17 UTC er 01:17 dansk vintertid og 02:17 sommertid. Et skævt minuttal,
+    # fordi GitHub forsinker planlagte kørsler mest ved hel time (23-10-2026 startede
+    # 05:30-kørslen først 10:21).
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
