@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:droemmeboliger-tv2oest",
+  "name": "Drømmeboliger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I Drømmeboliger ser vi på fascinerende hjem i vores region. Serien giver dig et kig ind bag facaden på boliger, der bryder med det konventionelle, og viser, hvordan mennesker har skabt deres helt personlige drømmehjem med passion og sans for detaljer.",
+  "image": "https://cdn-play.tv2i.dk/085f1372-f67a-4675-8dd8-a22dde4f767c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0f354476-8ebd-4766-91f1-3ba8d9d816cf",
+      "season": 1,
+      "number": 1,
+      "name": "Vikingehuset",
+      "airdate": "2025-02-04"
+    },
+    {
+      "id": "76cc86c6-a3b1-4b26-bcf7-246e71fe61f9",
+      "season": 1,
+      "number": 2,
+      "name": "Villa ved golfbanen",
+      "airdate": "2025-02-11"
+    },
+    {
+      "id": "381d7171-1168-4c25-b365-021a961574d8",
+      "season": 1,
+      "number": 3,
+      "name": "Lastbilgaragen",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "a942d557-a709-4839-a03c-f27da453121e",
+      "season": 1,
+      "number": 4,
+      "name": "Megahus i glas",
+      "airdate": "2025-02-25"
+    },
+    {
+      "id": "24daf96f-e41f-4b3e-992c-92306b59d1ce",
+      "season": 1,
+      "number": 5,
+      "name": "Patriciervilla med stil",
+      "airdate": "2025-03-04"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:beier-over-haekken-tv2fri",
+  "name": "Beier over hækken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lene Beier drømmer om at samle hele sin familie i et stort familiekollektiv i Søvang, i huset der ligger lige ved siden af det hus, hun sammen med sin mand Anders byggede for et par år siden.",
+  "image": "https://cdn-play.tv2i.dk/d70bf037-21df-4ba3-b073-ff10d125619e.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "7ca75c27-6447-4715-95df-dc1f7712c1aa",
+      "season": 1,
+      "number": 1,
+      "name": "Ene hane i hønsegården",
+      "airdate": "2021-05-04"
+    },
+    {
+      "id": "4887f3e1-9d2b-4a68-bf98-842f1e33ccc1",
+      "season": 1,
+      "number": 2,
+      "name": "Mande- og kvindeopgaver",
+      "airdate": "2021-05-04"
+    },
+    {
+      "id": "4bbe9c1e-67fa-487d-b9dd-5a3f27b1875b",
+      "season": 1,
+      "number": 3,
+      "name": "Kommandanterne",
+      "airdate": "2021-05-11"
+    },
+    {
+      "id": "602b0c13-84c5-4404-82db-0e236d96a130",
+      "season": 1,
+      "number": 4,
+      "name": "Når en jyde kommer til hovedstaden",
+      "airdate": "2021-05-18"
+    },
+    {
+      "id": "e2c4436f-789a-4091-9da0-a357d1771af5",
+      "season": 1,
+      "number": 5,
+      "name": "Kunsten at sige fra",
+      "airdate": "2021-05-25"
+    },
+    {
+      "id": "94da5f15-08dd-4a43-8df8-98e2d1498ac0",
+      "season": 1,
+      "number": 6,
+      "name": "Alting går nemmere med en bajer",
+      "airdate": "2021-06-01"
+    }
+  ]
+}

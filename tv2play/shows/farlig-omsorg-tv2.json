@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:farlig-omsorg-tv2",
+  "name": "Farlig omsorg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Medierne flyder over med sager om handicappede, der bliver svigtet på landets bosteder. Men hvor er fagligheden og omsorgen? Det undersøger TV 2 i denne dokumentarserie, hvor vi følger fem familier, der kæmper for deres udsatte børn.",
+  "image": "https://cdn-play.tv2i.dk/bca795ad-1967-44ca-906b-6265ef2b6c74.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "bc95528c-e9c4-456d-b903-7f529e5be4d7",
+      "season": 1,
+      "number": 1,
+      "name": "'Slut røre kind'",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "91ee45df-5d38-4295-8940-c1388578ea4e",
+      "season": 1,
+      "number": 2,
+      "name": "'Bare en andenrangsborger?'",
+      "airdate": "2025-03-05"
+    }
+  ]
+}

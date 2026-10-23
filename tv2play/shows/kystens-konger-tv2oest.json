@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:kystens-konger-tv2oest",
+  "name": "Kystens konger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Jesper Hald er blevet vild med at fiske, men han kunne godt tænke sig flere fisk på krogen. Nu går han i lære hos de skarpeste lystfiskere på Sjælland og øerne og tager samtidig et kig på, hvordan det står til under havoverfladen.",
+  "image": "https://cdn-play.tv2i.dk/4f0d9b1a-6cbb-47d7-bde2-18a815571cce.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "fd5c0db4-3bd6-4d75-9b5d-62c262840992",
+      "season": 1,
+      "number": 1,
+      "name": "Fra hobby til levevej",
+      "airdate": "2025-04-13"
+    },
+    {
+      "id": "386d6a53-578f-4c58-8b03-e22c4de42316",
+      "season": 1,
+      "number": 2,
+      "name": "I fjorden med fluen",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "b53a72ed-1a55-4a7c-9cf0-47778d8714c4",
+      "season": 1,
+      "number": 3,
+      "name": "Jagten på vintergedder",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "d66aead3-b29c-45fc-8157-2f558bd64111",
+      "season": 1,
+      "number": 4,
+      "name": "Fiskeriets frirum",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "2807ed5e-bddf-4675-96b6-b2cdf7c35f27",
+      "season": 1,
+      "number": 5,
+      "name": "Fisketuristernes våde drøm",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "18dfc555-b3a2-42db-97c5-a7718d15624d",
+      "season": 1,
+      "number": 6,
+      "name": "Den barske klintekyst",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "c85fe86a-846b-46be-ad74-2c649adae456",
+      "season": 1,
+      "number": 7,
+      "name": "Falsters flotte østkyst",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "452cf587-9308-4058-b193-9c8bde7c823d",
+      "season": 1,
+      "number": 8,
+      "name": "Nordens krokodille",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "48830c16-d28e-4485-a132-b11f50475ff3",
+      "season": 1,
+      "number": 9,
+      "name": "Skumringens gyldne muligheder",
+      "airdate": "2025-06-08"
+    },
+    {
+      "id": "dbf9cdb1-fea4-41e3-b190-5f46a73d4d60",
+      "season": 1,
+      "number": 10,
+      "name": "Miljøministeren på fisketur",
+      "airdate": "2025-06-15"
+    }
+  ]
+}

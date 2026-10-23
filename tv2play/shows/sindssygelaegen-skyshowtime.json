@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:sindssygelaegen-skyshowtime",
+  "name": "Sindssygelægen",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kriminalpsykolog Dr. Laszlo Kreizler jagter en seriemorder, der er ansvarlig for de grufulde mord på mandlige sexarbejdere i New York City i slutningen af det 19. århundrede.",
+  "image": "https://cdn-play.tv2i.dk/be0a2403-cec5-487e-961e-fb78381b56e8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "46c31bbc-b118-4a66-8b88-24d1bfd75f8e",
+      "season": 1,
+      "number": 9,
+      "name": "Requiem",
+      "airdate": "2024-08-10"
+    }
+  ]
+}

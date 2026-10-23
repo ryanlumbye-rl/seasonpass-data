@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Motorvejspolitiet i Cheshire er klar til at slå ned på nogle af Storbritanniens værste bilister. Serien giver et fascinerende indblik i, hvordan de britiske veje bliver overvåget med det ene formål: at folk kan komme sikkert frem.",
+  "image": "https://cdn-play.tv2i.dk/595e03f9-424c-3ea4-849d-96e9e396c2b8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "fdf71740-032f-4188-ad26-bed045e9c85e",
@@ -61,6 +63,13 @@
       "number": 8,
       "name": "Episode 8",
       "airdate": "2024-06-17"
+    },
+    {
+      "id": "8cb68ee9-33ea-4889-bae7-c2938e8e3a20",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-06-18"
     },
     {
       "id": "b85aaaf2-1b02-4047-9b66-a658835e04c1",

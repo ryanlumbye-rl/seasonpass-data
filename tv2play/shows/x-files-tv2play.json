@@ -5,7 +5,688 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "FBI-agenterne Fox Mulder og Dana Scully efterforsker uforklarlige sager om alt fra UFO'er til paranormale fænomener - af FBI betegnet som 'X-Files'. Jagten på sandheden fører dem ind i en verden af mysterier og konspirationer.",
+  "image": "https://cdn-play.tv2i.dk/6306afa0-ddec-304d-a5c5-7ea6fdbebe92.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
+    {
+      "id": "fc146160-2f23-46c1-a8c8-d60a64f5c885",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "1994-01-03"
+    },
+    {
+      "id": "545cc3ed-b00b-491e-b49a-09ab28cc664d",
+      "season": 1,
+      "number": 2,
+      "name": "Deep Throat",
+      "airdate": "1994-01-10"
+    },
+    {
+      "id": "936aac24-d2bd-4ab6-8e07-95814916bc34",
+      "season": 1,
+      "number": 3,
+      "name": "Squeeze",
+      "airdate": "1994-01-17"
+    },
+    {
+      "id": "0738f01b-f0dd-45ba-a368-a8aaee6ef479",
+      "season": 1,
+      "number": 4,
+      "name": "Conduit",
+      "airdate": "1994-01-24"
+    },
+    {
+      "id": "45a67dc6-1cf2-479d-a703-593794917976",
+      "season": 1,
+      "number": 5,
+      "name": "The Jersey Devil",
+      "airdate": "1994-01-31"
+    },
+    {
+      "id": "16c63a2b-a34c-4a86-b2fa-974b23809a55",
+      "season": 1,
+      "number": 6,
+      "name": "Shadows",
+      "airdate": "1994-02-07"
+    },
+    {
+      "id": "ce3d49b6-c861-4b97-9366-c708bb7a2343",
+      "season": 1,
+      "number": 7,
+      "name": "Ghost in the Machine",
+      "airdate": "1994-02-14"
+    },
+    {
+      "id": "737a3105-2c63-42b0-a3f6-714c18a59b7a",
+      "season": 1,
+      "number": 8,
+      "name": "Ice",
+      "airdate": "1994-02-21"
+    },
+    {
+      "id": "8bc58510-bd40-43a8-8c8e-b514fbe0c2dc",
+      "season": 1,
+      "number": 9,
+      "name": "Space",
+      "airdate": "1994-02-28"
+    },
+    {
+      "id": "38488e77-3b26-4454-91df-448745920363",
+      "season": 1,
+      "number": 10,
+      "name": "Fallen Angel",
+      "airdate": "1994-03-07"
+    },
+    {
+      "id": "774b4b8f-d90e-4952-82d0-ff16f4f16e36",
+      "season": 1,
+      "number": 11,
+      "name": "Eve",
+      "airdate": "1994-03-14"
+    },
+    {
+      "id": "af86b78f-0a9e-4091-a298-d91ddda4fd3b",
+      "season": 1,
+      "number": 12,
+      "name": "Fire",
+      "airdate": "1994-03-21"
+    },
+    {
+      "id": "8c32bc9c-c28c-43cb-9698-2f7f6c74a0ae",
+      "season": 1,
+      "number": 13,
+      "name": "Beyond the Sea",
+      "airdate": "1994-03-28"
+    },
+    {
+      "id": "9695d543-ced7-4da0-b28f-10f4074066ca",
+      "season": 1,
+      "number": 14,
+      "name": "Genderbender",
+      "airdate": "1994-04-11"
+    },
+    {
+      "id": "7feee02c-c938-40c8-ad08-13f7f11bf3c6",
+      "season": 1,
+      "number": 15,
+      "name": "Lazarus",
+      "airdate": "1994-04-18"
+    },
+    {
+      "id": "6435da4c-af16-475d-bcc9-0c836a8e402b",
+      "season": 1,
+      "number": 16,
+      "name": "Young at Heart",
+      "airdate": "1994-04-25"
+    },
+    {
+      "id": "39e824ca-c3b0-4ff6-b024-0f23d38dbdcd",
+      "season": 1,
+      "number": 17,
+      "name": "E.B.E.",
+      "airdate": "1994-05-02"
+    },
+    {
+      "id": "08c616c4-4499-46d9-9c01-f6273fe86b27",
+      "season": 1,
+      "number": 18,
+      "name": "Miracle Man",
+      "airdate": "1994-05-09"
+    },
+    {
+      "id": "b9eb40df-ed8d-4ae1-91ab-079b1c0c8b15",
+      "season": 1,
+      "number": 19,
+      "name": "Shapes",
+      "airdate": "1994-05-16"
+    },
+    {
+      "id": "b9567e45-cc1f-465b-afef-58036b91d880",
+      "season": 1,
+      "number": 20,
+      "name": "Darkness Falls",
+      "airdate": "1994-05-30"
+    },
+    {
+      "id": "2745c8b2-b009-470c-a021-d525f09a9255",
+      "season": 1,
+      "number": 21,
+      "name": "Tooms",
+      "airdate": "1994-06-13"
+    },
+    {
+      "id": "b1dd8e77-9ea1-460a-bffe-ee5d5135c1fc",
+      "season": 1,
+      "number": 22,
+      "name": "Born Again",
+      "airdate": "1994-06-20"
+    },
+    {
+      "id": "a5506ec0-0edf-440d-8aab-ed199ae31c71",
+      "season": 1,
+      "number": 23,
+      "name": "Roland",
+      "airdate": "1994-06-24"
+    },
+    {
+      "id": "2959f950-49ef-4efa-b989-fda30361eac2",
+      "season": 1,
+      "number": 24,
+      "name": "The Erlenmeyer Flask",
+      "airdate": "1994-07-01"
+    },
+    {
+      "id": "65a29dc1-2ab8-46da-8da7-f45d72084c6c",
+      "season": 2,
+      "number": 1,
+      "name": "Little Green Men",
+      "airdate": "1995-05-24"
+    },
+    {
+      "id": "242032fd-7426-4380-a38d-20b76f707376",
+      "season": 2,
+      "number": 2,
+      "name": "The Host",
+      "airdate": "1995-05-31"
+    },
+    {
+      "id": "388578f8-372e-415c-b6c0-b308dfff2fd2",
+      "season": 2,
+      "number": 3,
+      "name": "Blood",
+      "airdate": "1995-06-07"
+    },
+    {
+      "id": "6c08b033-158b-4c1d-b9d2-34b038b7b8a7",
+      "season": 2,
+      "number": 4,
+      "name": "Sleepless",
+      "airdate": "1995-06-14"
+    },
+    {
+      "id": "59059965-14f0-43ac-a722-c824af0ff0dd",
+      "season": 2,
+      "number": 5,
+      "name": "Duane Barry (1)",
+      "airdate": "1995-06-28"
+    },
+    {
+      "id": "cb5f711c-1f55-4b54-bc53-b165ae00db79",
+      "season": 2,
+      "number": 6,
+      "name": "Ascension (2)",
+      "airdate": "1995-07-05"
+    },
+    {
+      "id": "992fd1ff-5536-422e-9e61-f48df9650e80",
+      "season": 2,
+      "number": 7,
+      "name": "3",
+      "airdate": "1995-07-12"
+    },
+    {
+      "id": "5e58991a-7501-4a6b-9d20-184a7a8c8c4c",
+      "season": 2,
+      "number": 8,
+      "name": "One Breath",
+      "airdate": "1995-07-19"
+    },
+    {
+      "id": "84d8340f-63f5-4bb8-a1f8-804a59bfb43e",
+      "season": 2,
+      "number": 9,
+      "name": "Firewalker",
+      "airdate": "1995-07-26"
+    },
+    {
+      "id": "e1026073-90e9-4a55-9033-979d8cac49a7",
+      "season": 2,
+      "number": 10,
+      "name": "Red Museum",
+      "airdate": "1995-08-02"
+    },
+    {
+      "id": "8a89749a-f26d-4fe4-9b1c-001b41d1d236",
+      "season": 2,
+      "number": 11,
+      "name": "Excelsis Dei",
+      "airdate": "1995-08-09"
+    },
+    {
+      "id": "c0d32b8c-eec1-4563-943e-487086b9e595",
+      "season": 2,
+      "number": 12,
+      "name": "Aubrey",
+      "airdate": "1995-08-16"
+    },
+    {
+      "id": "1f5d9175-008a-47a1-aa50-825c60a2ead6",
+      "season": 2,
+      "number": 13,
+      "name": "Irresistible",
+      "airdate": "1996-01-03"
+    },
+    {
+      "id": "a1ce20c6-7338-42b2-bb03-4b7442d67beb",
+      "season": 2,
+      "number": 14,
+      "name": "Die Hand die Verletzt",
+      "airdate": "1996-01-10"
+    },
+    {
+      "id": "cf53bc15-0795-4f93-88e3-30c6ed2291d7",
+      "season": 2,
+      "number": 15,
+      "name": "Fresh Bones",
+      "airdate": "1996-01-17"
+    },
+    {
+      "id": "22a9e538-14fc-4cff-bf63-e870576ac96d",
+      "season": 2,
+      "number": 16,
+      "name": "Colony (1)",
+      "airdate": "1996-01-24"
+    },
+    {
+      "id": "0645b80d-2c5b-4a3e-a19e-a6b10659724b",
+      "season": 2,
+      "number": 17,
+      "name": "End Game (2)",
+      "airdate": "1996-01-31"
+    },
+    {
+      "id": "2311d25e-4368-48d2-9ae4-6c1fd630ea1c",
+      "season": 2,
+      "number": 18,
+      "name": "Fearful Symmetry",
+      "airdate": "1996-02-07"
+    },
+    {
+      "id": "b57c9cc0-2288-4756-bde6-c2b18bf7566a",
+      "season": 2,
+      "number": 19,
+      "name": "Død Kalm",
+      "airdate": "1996-02-14"
+    },
+    {
+      "id": "0d6ba755-fe93-4656-b765-164c335cf7c7",
+      "season": 2,
+      "number": 20,
+      "name": "Humbug",
+      "airdate": "1996-02-21"
+    },
+    {
+      "id": "542f29d3-bbf3-47db-bee5-d8f14fefdfc6",
+      "season": 2,
+      "number": 21,
+      "name": "The Calusari",
+      "airdate": "1996-02-28"
+    },
+    {
+      "id": "fefd52ce-1a9b-4a1b-918b-077970ff0232",
+      "season": 2,
+      "number": 22,
+      "name": "F. Emasculata",
+      "airdate": "1996-03-06"
+    },
+    {
+      "id": "3109cacd-0d55-4eac-a2f5-155d247cb874",
+      "season": 2,
+      "number": 23,
+      "name": "Soft Light",
+      "airdate": "1996-03-13"
+    },
+    {
+      "id": "af809169-e1fa-48ca-9250-35054b8a08b5",
+      "season": 2,
+      "number": 24,
+      "name": "Our Town",
+      "airdate": "1996-03-20"
+    },
+    {
+      "id": "4c068c5d-2582-4523-8ae5-127da6f34d5c",
+      "season": 2,
+      "number": 25,
+      "name": "Anasazi - Part One",
+      "airdate": "1996-04-03"
+    },
+    {
+      "id": "aee1fe06-33ef-4e50-a3e2-81eff2561d6f",
+      "season": 3,
+      "number": 1,
+      "name": "The Blessing Way - Part Two",
+      "airdate": "1996-04-10"
+    },
+    {
+      "id": "d314c005-329a-4f2d-9c00-91ea8e1a8227",
+      "season": 3,
+      "number": 2,
+      "name": "Paper Clip - Part Tree",
+      "airdate": "1996-04-17"
+    },
+    {
+      "id": "c8283367-a5fa-4096-95cb-2a7f099505e8",
+      "season": 3,
+      "number": 3,
+      "name": "D.P.O.",
+      "airdate": "1996-04-24"
+    },
+    {
+      "id": "0a79610d-ef86-4dac-8fb8-04fe2a58127d",
+      "season": 3,
+      "number": 4,
+      "name": "Clyde Bruckman's Final Repose",
+      "airdate": "1996-05-01"
+    },
+    {
+      "id": "1923f457-17ac-4cef-95b6-27facddfd424",
+      "season": 3,
+      "number": 5,
+      "name": "The List",
+      "airdate": "1996-05-08"
+    },
+    {
+      "id": "a0c9cda3-4ee9-4fdb-800c-ee02af2bcb16",
+      "season": 3,
+      "number": 6,
+      "name": "2Shy",
+      "airdate": "1996-05-15"
+    },
+    {
+      "id": "9403f4b0-da9f-4d16-86b9-dd76adf96931",
+      "season": 3,
+      "number": 7,
+      "name": "The Walk",
+      "airdate": "1996-05-22"
+    },
+    {
+      "id": "47e5be65-a68b-472f-812a-501ed01bac84",
+      "season": 3,
+      "number": 8,
+      "name": "Oubliette",
+      "airdate": "1996-05-29"
+    },
+    {
+      "id": "c4414acd-b57c-4e8f-a093-669917b6d413",
+      "season": 3,
+      "number": 9,
+      "name": "Nisei - Part One",
+      "airdate": "1996-08-28"
+    },
+    {
+      "id": "0258ce9b-5e54-45f1-b1f2-3b948916ec70",
+      "season": 3,
+      "number": 10,
+      "name": "731 - Part Two",
+      "airdate": "1996-09-04"
+    },
+    {
+      "id": "67e622d2-bff0-459e-b304-b0997883f2a2",
+      "season": 3,
+      "number": 11,
+      "name": "Revelations",
+      "airdate": "1996-09-11"
+    },
+    {
+      "id": "5c38473a-e105-474a-b5ce-2c80ddb6f88a",
+      "season": 3,
+      "number": 12,
+      "name": "War of the Coprophages",
+      "airdate": "1996-09-18"
+    },
+    {
+      "id": "d624d0c7-cad6-49ba-b572-be5515111f41",
+      "season": 3,
+      "number": 13,
+      "name": "Syzygy",
+      "airdate": "1996-09-25"
+    },
+    {
+      "id": "62f632ee-6f73-456a-8ed9-60d466d5c41a",
+      "season": 3,
+      "number": 14,
+      "name": "Grotesque",
+      "airdate": "1996-10-02"
+    },
+    {
+      "id": "0fabc755-06d9-471d-b745-d5874b9c5593",
+      "season": 3,
+      "number": 15,
+      "name": "Piper Maru - Part One",
+      "airdate": "1996-10-16"
+    },
+    {
+      "id": "597a5f40-49dd-4afd-810a-2d2df1a23e51",
+      "season": 3,
+      "number": 16,
+      "name": "Apocrypha - Part Two",
+      "airdate": "1996-10-23"
+    },
+    {
+      "id": "6ed818bb-72b4-4232-a205-b1c107661207",
+      "season": 3,
+      "number": 17,
+      "name": "Pusher",
+      "airdate": "1996-10-30"
+    },
+    {
+      "id": "c631784f-96af-403d-bda8-7593bc587334",
+      "season": 3,
+      "number": 18,
+      "name": "Teso Dos Bichos",
+      "airdate": "1996-11-06"
+    },
+    {
+      "id": "ba5c9591-2f41-43a4-ba1f-87af21786c19",
+      "season": 3,
+      "number": 19,
+      "name": "Hell Money",
+      "airdate": "1996-11-13"
+    },
+    {
+      "id": "f420ba16-38b0-464c-9788-f55fd43a9ea6",
+      "season": 3,
+      "number": 20,
+      "name": "Jose Chung's From Outer Space",
+      "airdate": "1996-11-20"
+    },
+    {
+      "id": "e4d8892b-6898-42e5-a001-aa06b6b750b4",
+      "season": 3,
+      "number": 21,
+      "name": "Avatar",
+      "airdate": "1996-11-27"
+    },
+    {
+      "id": "a65e36e9-65e6-40ed-9325-1d812d362ec7",
+      "season": 3,
+      "number": 22,
+      "name": "Quagmire",
+      "airdate": "1996-12-04"
+    },
+    {
+      "id": "a0307466-a93f-4095-8af8-3d0465852094",
+      "season": 3,
+      "number": 23,
+      "name": "Wetwired",
+      "airdate": "1996-12-11"
+    },
+    {
+      "id": "2560c1d3-abcb-4bff-84f7-584c711429e4",
+      "season": 3,
+      "number": 24,
+      "name": "Talitha Cumi - Part One",
+      "airdate": "1997-06-17"
+    },
+    {
+      "id": "fc79113e-39bc-4a28-b65b-0409b13ee715",
+      "season": 4,
+      "number": 1,
+      "name": "Herrenvolk - Part Two",
+      "airdate": "1997-06-24"
+    },
+    {
+      "id": "f3bc96a9-f76e-4c9e-a928-46b62d32b66d",
+      "season": 4,
+      "number": 2,
+      "name": "Home",
+      "airdate": "1997-07-01"
+    },
+    {
+      "id": "812ac851-76f8-4319-aec1-93d97f00f8da",
+      "season": 4,
+      "number": 3,
+      "name": "Teliko",
+      "airdate": "1997-07-08"
+    },
+    {
+      "id": "057f938a-1d4e-4b6e-aee8-b0e0de64dee1",
+      "season": 4,
+      "number": 4,
+      "name": "Unruhe",
+      "airdate": "1997-07-15"
+    },
+    {
+      "id": "5a617052-3dbb-4258-8eac-7f61d503268d",
+      "season": 4,
+      "number": 5,
+      "name": "The Field Where I Died",
+      "airdate": "1997-07-22"
+    },
+    {
+      "id": "98d28454-be93-48a7-af03-df519c192319",
+      "season": 4,
+      "number": 6,
+      "name": "Sanguinarium",
+      "airdate": "1997-08-05"
+    },
+    {
+      "id": "7f1dc6c1-d75a-46ea-a9de-d9796fae0fe8",
+      "season": 4,
+      "number": 7,
+      "name": "Musings of a Cigarette-Smoking Man",
+      "airdate": "1997-08-12"
+    },
+    {
+      "id": "ff1b6173-7535-45fc-a021-f56379e882e0",
+      "season": 4,
+      "number": 8,
+      "name": "Tungguska - Part One",
+      "airdate": "1997-08-19"
+    },
+    {
+      "id": "45bb0a8f-d0a6-4fae-9ee1-072db9500911",
+      "season": 4,
+      "number": 9,
+      "name": "Terma - Part Two",
+      "airdate": "1997-08-26"
+    },
+    {
+      "id": "c45b6887-1e5d-42da-bd8e-9c7be0ad2986",
+      "season": 4,
+      "number": 10,
+      "name": "Paper Hearts",
+      "airdate": "1997-09-02"
+    },
+    {
+      "id": "0f723f67-6f17-422e-aade-f41431b32edd",
+      "season": 4,
+      "number": 11,
+      "name": "El Mundo Gira",
+      "airdate": "1997-09-09"
+    },
+    {
+      "id": "5661f971-5fb7-47dc-bcc6-bda2700c9de5",
+      "season": 4,
+      "number": 12,
+      "name": "Leonard Betts",
+      "airdate": "1997-09-23"
+    },
+    {
+      "id": "fe6aa18f-0b59-4edf-a704-77f63dbb9988",
+      "season": 4,
+      "number": 13,
+      "name": "Never Again",
+      "airdate": "1997-10-07"
+    },
+    {
+      "id": "824746ba-442d-4c45-8e8f-3326e2d7fcdd",
+      "season": 4,
+      "number": 14,
+      "name": "Memento Mori",
+      "airdate": "1997-10-14"
+    },
+    {
+      "id": "469b0d38-800d-42bd-83bc-7fc4225181e0",
+      "season": 4,
+      "number": 15,
+      "name": "Kaddish",
+      "airdate": "1997-10-21"
+    },
+    {
+      "id": "f68e1876-f0aa-49fc-9a65-ff57503f1cd8",
+      "season": 4,
+      "number": 16,
+      "name": "Unrequited",
+      "airdate": "1997-10-28"
+    },
+    {
+      "id": "8d6c93de-810d-464c-8c65-9af68c77637b",
+      "season": 4,
+      "number": 17,
+      "name": "Tempus Fugit - Part One",
+      "airdate": "1997-11-04"
+    },
+    {
+      "id": "fd3764cc-85b4-49b9-ae91-f5657f310c38",
+      "season": 4,
+      "number": 18,
+      "name": "Max - Part Two",
+      "airdate": "1997-11-11"
+    },
+    {
+      "id": "ba7f8e72-0734-424e-b3dc-8c824fb570ad",
+      "season": 4,
+      "number": 19,
+      "name": "Synchrony",
+      "airdate": "1997-11-25"
+    },
+    {
+      "id": "ccc8c8a6-e3d9-488b-b42a-2cb6c89bc32c",
+      "season": 4,
+      "number": 20,
+      "name": "Small Potatoes",
+      "airdate": "1998-01-06"
+    },
+    {
+      "id": "196b8035-61b4-4f70-803c-cfd000075c1b",
+      "season": 4,
+      "number": 21,
+      "name": "Zero Sum",
+      "airdate": "1998-01-13"
+    },
+    {
+      "id": "3ed2c24e-83d0-4946-b2a8-5ce72b3d6e89",
+      "season": 4,
+      "number": 22,
+      "name": "Elegy",
+      "airdate": "1998-01-20"
+    },
+    {
+      "id": "b38d8020-13d5-48d0-a247-d14855e3fe6d",
+      "season": 4,
+      "number": 23,
+      "name": "Demons",
+      "airdate": "1998-01-27"
+    },
+    {
+      "id": "9c203f6a-29aa-408c-b1b3-240d48bdd677",
+      "season": 4,
+      "number": 24,
+      "name": "Gethsemane - Part One",
+      "airdate": "1998-02-03"
+    },
     {
       "id": "67283fb0-1600-48fd-9df9-9343761160a0",
       "season": 5,

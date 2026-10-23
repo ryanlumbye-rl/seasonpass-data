@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "'Monstermaling' handler om ansigtsmaling. Her kan børnene blive alt fra en magisk enhjørning, en vidunderlig havfrue eller et skrækkeligt monster, når en af verdens bedste ansigtsmalere giver dem en helt utrolig forvandling. Undervejs får du konkrete tips og tricks.",
+  "image": "https://cdn-play.tv2i.dk/083de9f8-9fb6-4f44-bc6b-44bc367cd7a3.jfif?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
   "episodes": [
     {
       "id": "f69d768d-c969-4edf-98ac-43fb55a57784",

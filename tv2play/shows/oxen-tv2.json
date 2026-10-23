@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:oxen-tv2",
+  "name": "Oxen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den tidligere jægersoldat Oxen er blevet smidt ud af korpset efter falske anklager om narkobesiddelse. Nu er han på sporet af en hemmelig magtelite, der truer med at omstyrte demokratiet.",
+  "image": "https://cdn-play.tv2i.dk/797b93cf-54c8-4e43-8ee4-b507eefb3e63.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ada7fcfa-a1f5-46f6-a525-478e47bedb96",
+      "season": 1,
+      "number": 1,
+      "name": "Jagtselskabet",
+      "airdate": "2023-10-22"
+    },
+    {
+      "id": "b2cf98bb-1919-43e0-9c76-21328363b705",
+      "season": 1,
+      "number": 2,
+      "name": "De hængte hunde",
+      "airdate": "2023-10-29"
+    },
+    {
+      "id": "c832d134-3fb0-4674-a36a-ef79700e0c30",
+      "season": 1,
+      "number": 3,
+      "name": "En arving kommer hjem",
+      "airdate": "2023-11-05"
+    },
+    {
+      "id": "91f7474a-3e7e-4da6-9e78-c5f7010c885f",
+      "season": 1,
+      "number": 4,
+      "name": "Ven eller fjende",
+      "airdate": "2023-11-12"
+    },
+    {
+      "id": "8aa85eb8-834c-4a87-83d6-c2c45895490c",
+      "season": 1,
+      "number": 5,
+      "name": "Den desperate hævn",
+      "airdate": "2023-11-19"
+    },
+    {
+      "id": "abe2c4f7-0d4a-44b3-9889-7c17c6554387",
+      "season": 1,
+      "number": 6,
+      "name": "Angrebet",
+      "airdate": "2023-11-26"
+    },
+    {
+      "id": "e4a2e14d-24f9-409a-987f-0e0707731b7f",
+      "season": 2,
+      "number": 1,
+      "name": "Kniven på struben",
+      "airdate": "2025-10-26"
+    },
+    {
+      "id": "2ef9cf12-233e-4b37-b15d-86ef7b916123",
+      "season": 2,
+      "number": 2,
+      "name": "DNA-match",
+      "airdate": "2025-11-02"
+    },
+    {
+      "id": "67fe2ac1-0c70-44e2-99d3-86e0b6ef35bb",
+      "season": 2,
+      "number": 3,
+      "name": "Genopstandelse",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "50e68fff-bc9a-46c7-a79a-82cb60a9c5ea",
+      "season": 2,
+      "number": 4,
+      "name": "Pagten brydes",
+      "airdate": "2025-11-16"
+    },
+    {
+      "id": "c8d889e6-4d3d-4dd6-818c-26800db653c9",
+      "season": 2,
+      "number": 5,
+      "name": "Brand",
+      "airdate": "2025-11-23"
+    },
+    {
+      "id": "90c08233-c941-4ab6-8366-b415193bc902",
+      "season": 2,
+      "number": 6,
+      "name": "Midnatsmesse",
+      "airdate": "2025-11-30"
+    }
+  ]
+}

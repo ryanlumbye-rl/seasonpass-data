@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:smuk-som-min-mor-tv2",
+  "name": "Smuk som min mor",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "3ae736b4-51ce-4c68-b4b7-048d5a8297c3",
+      "season": 1,
+      "number": 1,
+      "name": "Smukke mennesker klarer sig bedre",
+      "airdate": "2020-12-08"
+    },
+    {
+      "id": "ad1a33f6-6c47-4818-ab9f-dd0d177356b7",
+      "season": 1,
+      "number": 2,
+      "name": "Presset udefra",
+      "airdate": "2020-12-08"
+    },
+    {
+      "id": "fcc03858-2f39-4ea3-b817-34fc07ce8997",
+      "season": 1,
+      "number": 3,
+      "name": "Alle kan blive pænere, hvis de har råd til det",
+      "airdate": "2020-12-15"
+    },
+    {
+      "id": "f1935e0b-151e-4749-9f1c-e56750576583",
+      "season": 1,
+      "number": 4,
+      "name": "Under kniven igen",
+      "airdate": "2020-12-22"
+    }
+  ]
+}

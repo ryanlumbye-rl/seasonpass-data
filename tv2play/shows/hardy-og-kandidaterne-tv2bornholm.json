@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:hardy-og-kandidaterne-tv2bornholm",
+  "name": "Hardy og kandidaterne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Se med, når vi møder nogle af de mere ukendte kandidater frem mod kommunalvalget 18. november og diskuterer spørgsmålet: 'Hvad vil du gøre for Bornholm?'.",
+  "image": "https://cdn-play.tv2i.dk/5066fedf-8e9e-4a9a-9ea2-c7188a8514ad.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e9e14cc7-da27-4fae-8410-b2f63fe345d3",
+      "season": 1,
+      "number": 1,
+      "name": "Stig Lodberg, João Møller og Bo Ancher Jensen",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "f3654ac5-afcf-4f16-9f7a-a96c1506d650",
+      "season": 1,
+      "number": 2,
+      "name": "Birgitte Wittorff, Magnus Larsen og Sebastian Bloch Jensen",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "f1468764-3629-4a4d-936a-c3b420745337",
+      "season": 1,
+      "number": 3,
+      "name": "Jan Jørgensen, Conrad Severin og Betina Tychsen",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "f327b1b1-8413-48de-85ca-f6cc9f0ebb92",
+      "season": 1,
+      "number": 4,
+      "name": "Jonas Ipsen, Tine Eriksen og Heidi Burgedahl",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "d57bd9d6-41c1-4fe7-b1e2-f6a2516167a3",
+      "season": 1,
+      "number": 5,
+      "name": "Jens Hjul-Nielsen, Mogens Anneberg og Ann Rubæk-Nielsen",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "aec69b24-2755-408a-b783-d01126c46c1e",
+      "season": 1,
+      "number": 6,
+      "name": "Jørn Westh, Emil Boesen og Kristoffer Kromand",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "50bea6a9-858d-4526-b86c-69e69b7fb924",
+      "season": 1,
+      "number": 7,
+      "name": "Stine Zink Kaasgaard, Ditte Damkjær og Lars Funk",
+      "airdate": "2025-11-10"
+    }
+  ]
+}

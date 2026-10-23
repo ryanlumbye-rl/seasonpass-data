@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:haabloest-arbejde-tv2",
+  "name": "Håbløst arbejde",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Syge borgere er fanget i årelange forløb i beskæftigelsessystemet. Mange af dem oplever, at den hjælp, de får, gør dem mere syge. Vi følger fire danskere, der har det tilfælles, at de troede, der var et sikkerhedsnet.",
+  "image": "https://cdn-play.tv2i.dk/35648bd8-4b47-4a0a-9dd5-b3e4fdbca594.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d233b146-8d85-4c35-b780-f55a64ad44be",
+      "season": 1,
+      "number": 1,
+      "name": "25 års mareridt i jobcentret",
+      "airdate": "2022-09-01"
+    },
+    {
+      "id": "bfa107b0-722d-4d5e-a6be-72c7d33e252d",
+      "season": 1,
+      "number": 2,
+      "name": "Den sidste udvej",
+      "airdate": "2022-09-01"
+    }
+  ]
+}

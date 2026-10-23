@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kriger-tv2",
+  "name": "Kriger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Militærmanden CC vender hjem til Danmark efter ti års aktiv tjeneste. Men da han indvilliger i at hjælpe sin bedste vens enke, ender han i en farlig situation.",
+  "image": "https://cdn-play.tv2i.dk/80b40abd-615d-41c0-8d37-f665f584b4ee.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "87e06d05-0e44-4910-a214-97e7fe063021",
+      "season": 1,
+      "number": 1,
+      "name": "Begravelsen",
+      "airdate": "2018-10-08"
+    },
+    {
+      "id": "f0b08eb0-9d93-467e-843a-c745957bb284",
+      "season": 1,
+      "number": 2,
+      "name": "Testen",
+      "airdate": "2018-10-15"
+    },
+    {
+      "id": "f32f75ce-c4e2-4271-82d8-7e652aff83e5",
+      "season": 1,
+      "number": 3,
+      "name": "Krigen",
+      "airdate": "2018-10-22"
+    },
+    {
+      "id": "3af3c2f2-9c57-486a-9b97-7e219f888a6c",
+      "season": 1,
+      "number": 4,
+      "name": "Afhøringen",
+      "airdate": "2018-10-29"
+    },
+    {
+      "id": "04b6df51-c559-4c27-a281-dc2c2e991e1a",
+      "season": 1,
+      "number": 5,
+      "name": "Rotten",
+      "airdate": "2018-11-05"
+    },
+    {
+      "id": "18d4d892-a52f-498f-9edf-46338b60d906",
+      "season": 1,
+      "number": 6,
+      "name": "Showdown",
+      "airdate": "2018-11-12"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:lukas-vil-leve-tv2echo",
+  "name": "Lukas vil leve!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "46fcfdaf-dc06-4fd4-abb4-f57d557898db",
+      "season": 1,
+      "number": 1,
+      "name": "Løftet",
+      "airdate": "2024-02-12"
+    },
+    {
+      "id": "d712f720-91d1-4ed3-8337-97255ad52f3e",
+      "season": 1,
+      "number": 2,
+      "name": "Død og genfødsel",
+      "airdate": "2024-02-19"
+    },
+    {
+      "id": "e8c55ee5-15e1-4740-99ba-91d77d48db19",
+      "season": 1,
+      "number": 3,
+      "name": "Tilbage til livet",
+      "airdate": "2024-02-26"
+    }
+  ]
+}

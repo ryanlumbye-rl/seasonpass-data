@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:friheden-tv2play",
+  "name": "Friheden",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På overfladen er de en helt almindelig familie. Uofficielt er de Danmarks mest berygtede bedragere. Spørgsmålet er, hvordan de skal håndtere forældremøder, madpakker og afbetalinger samtidig med, de bliver tvunget til at gennemføre et sidste svindelnummer.",
+  "image": "https://cdn-play.tv2i.dk/c13c4e4f-9845-45c4-9949-e21076d54f21.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4fd6e503-a06a-40e2-b404-ddc7890840f9",
+      "season": 1,
+      "number": 1,
+      "name": "Et virkeligt liv",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "fb947b7f-8b3e-44e8-8a5c-aba44a47bdc8",
+      "season": 1,
+      "number": 2,
+      "name": "Vandskade",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "13c09d36-f0a7-4ae9-b510-e877556fdd78",
+      "season": 1,
+      "number": 3,
+      "name": "Der er noget råddent...",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "9f5952c1-4f21-458d-8f12-83970fdd4ba4",
+      "season": 1,
+      "number": 4,
+      "name": "Den belgiske vending!",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "a7a49589-3f84-4ea0-b919-1a52b47f7435",
+      "season": 1,
+      "number": 5,
+      "name": "Barnets første sygedag",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "e52feed6-f18c-4e34-9738-8eb7d5740dea",
+      "season": 1,
+      "number": 6,
+      "name": "Spænd sikkerhedsselen",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "2b4fd8b4-23fd-4f1b-9b92-b4781d600bf1",
+      "season": 1,
+      "number": 7,
+      "name": "Minus 467.889 kroner",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "3ca325ad-021a-488e-941c-221499fd361f",
+      "season": 1,
+      "number": 8,
+      "name": "Brug det blå håndklæde",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "5acd67f4-2d09-4368-bdc1-50e9eafe8e7e",
+      "season": 1,
+      "number": 9,
+      "name": "Ko på isen",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "94b7fdc9-8a36-4b5b-95f6-842b1ec406c3",
+      "season": 1,
+      "number": 10,
+      "name": "Bolivia",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "63a567be-e672-4e86-b92b-f50e05f6e2f9",
+      "season": 2,
+      "number": 1,
+      "name": "Konsekvenser",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "877c4752-e05a-492c-901c-c4bdf342dc50",
+      "season": 2,
+      "number": 2,
+      "name": "Familieforretningen",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "68efbfd0-fc3b-47b0-8943-8d9f193566fb",
+      "season": 2,
+      "number": 3,
+      "name": "Jeg har en meget sart næse",
+      "airdate": "2026-02-20"
+    },
+    {
+      "id": "2f8ea108-bc93-4225-bfee-b95e73a4dbc7",
+      "season": 2,
+      "number": 4,
+      "name": "Han er en stor gambler",
+      "airdate": "2026-02-20"
+    },
+    {
+      "id": "e969d7fa-9332-4400-9d1e-f2ada92159cc",
+      "season": 2,
+      "number": 5,
+      "name": "Alle er til salg",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "1e72a76f-31b0-44df-b55e-48c3c7b8352d",
+      "season": 2,
+      "number": 6,
+      "name": "Champagne til hr. Vandenbosch",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "2905cc65-5795-43b7-872f-6b26b8f8d4dc",
+      "season": 2,
+      "number": 7,
+      "name": "Den sicilianske enke",
+      "airdate": "2026-03-06"
+    },
+    {
+      "id": "022cbc57-a922-4090-8f98-821c799d54c2",
+      "season": 2,
+      "number": 8,
+      "name": "Opgør",
+      "airdate": "2026-03-06"
+    }
+  ]
+}

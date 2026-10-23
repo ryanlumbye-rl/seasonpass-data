@@ -5,6 +5,8 @@
   "status": "Running",
   "tmdbId": null,
   "next": "2026-10-28",
+  "description": "Møn er pludselig blevet verdenskendt, og turisterne strømmer til. Men hvor mange kan øen rumme, uden at miste det, alle kommer for? HC, tidligere skovfoged og mønbo, følger sin ø gennem en sommer, hvor begejstring og bekymring vokser, mens kærligheden til Møn sættes på prøve.",
+  "image": "https://cdn-play.tv2i.dk/60bbc622-d3c9-3ba4-ad3a-84da62733495.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "ec969e24-55cb-4748-ba94-55be02a475ef",
@@ -12,6 +14,13 @@
       "number": 1,
       "name": "Da hele verden bankede på",
       "airdate": "2026-10-21"
+    },
+    {
+      "id": "8d56cc0f-064d-4aad-a659-89f399b27b95",
+      "season": 1,
+      "number": 2,
+      "name": "Da verden flyttede ind",
+      "airdate": "2026-10-28"
     }
   ]
 }

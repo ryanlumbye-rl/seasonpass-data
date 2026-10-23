@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:in-the-know-skyshowtime",
+  "name": "In the Know",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Med hjælp fra sit mangfoldige dukkehold er den velmenende, men hykleriske nitwit-dukke og den tredjemest populære radiovært, Lauren Caspian, værter for dybdegående interviews med kendte gæster fra den virkelige verden",
+  "image": "https://cdn-play.tv2i.dk/f239f3b9-925b-4a7c-ae1a-6cd18141c17e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3680%2C2070&w=1280",
+  "episodes": [
+    {
+      "id": "e50b9265-35e0-40a3-9c7c-6b6cfb556192",
+      "season": 1,
+      "number": 1,
+      "name": "I'm No Hero",
+      "airdate": "2024-07-01"
+    },
+    {
+      "id": "cf9dca7e-40f7-4207-a776-3e093a581844",
+      "season": 1,
+      "number": 2,
+      "name": "Whose House?",
+      "airdate": "2024-07-01"
+    },
+    {
+      "id": "49e45993-aaaf-4555-82cb-4a305d8d1cd8",
+      "season": 1,
+      "number": 3,
+      "name": "Very Gross",
+      "airdate": "2024-07-01"
+    },
+    {
+      "id": "33505d51-d304-4e65-99ea-9cbbf6723e25",
+      "season": 1,
+      "number": 4,
+      "name": "Portrait of a Safety Rep on Fire",
+      "airdate": "2024-07-01"
+    },
+    {
+      "id": "142dc94f-cf2b-4293-85a9-f2f922239505",
+      "season": 1,
+      "number": 5,
+      "name": "Yogurt Week",
+      "airdate": "2024-07-01"
+    },
+    {
+      "id": "7daf9364-c0a9-43aa-a6bc-50ae9110676d",
+      "season": 1,
+      "number": 6,
+      "name": "Thinksgiving",
+      "airdate": "2024-07-01"
+    }
+  ]
+}

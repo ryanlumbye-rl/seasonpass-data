@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:the-art-of-joy-skyshowtime",
+  "name": "The Art of Joy",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Modesta er født i fattigdom, men, oprørsk af natur, tror hun, at hun er bestemt til et bedre liv. Hun flytter fra sit sicilianske barndomshjem til et kloster for velhavende unge kvinder og til sidst til en dekadent, aristokratisk villa, hvor hun rejser sig i verden. Bemærk: engelske undertekster.",
+  "image": "https://cdn-play.tv2i.dk/53bb1a9c-c086-4f0f-a63f-5bdef07e618b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d454d519-cb0e-4231-aa29-fca5f0e72a2a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "6e9e1706-eb59-4371-951f-67a024eb942e",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "62f8a971-3097-4245-8c83-59aefdff8018",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "00d596f4-b220-47a8-ae9a-d51602f1bfc6",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "5ee986c8-b40c-408e-ae5d-20099a3f595e",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-03-27"
+    },
+    {
+      "id": "b66b7c63-f532-438f-a6b1-07c1001175b3",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-03-27"
+    }
+  ]
+}

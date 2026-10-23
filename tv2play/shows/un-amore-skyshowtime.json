@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:un-amore-skyshowtime",
+  "name": "Un Amore",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Under en sommertogrejse møder teenagerne Alessandro og Anna hinanden og forelsker sig ved første blik. Selvom livet hurtigt skiller dem ad, viser et tilfældigt møde i Bologna 20 år senere, at kærligheden kan overleve både tid og afstand.",
+  "image": "https://cdn-play.tv2i.dk/7dd481db-f900-41a2-9796-ed1f63c53269.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c7fceacf-4b15-4ca0-82b5-a6ab61b95896",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "2a26e3a5-93e7-49d7-b335-f1aae1704e1d",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "904ae62d-a4b4-47e4-b895-5ee5dd3ca82f",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-03-22"
+    },
+    {
+      "id": "57bce378-cb2f-4470-870a-8d0c5e6d767e",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-03-29"
+    },
+    {
+      "id": "52a1845a-ab46-403e-883b-163f6e38bf58",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "a3ce05bd-9c70-4f50-aa1e-076a1071f90d",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-04-12"
+    }
+  ]
+}

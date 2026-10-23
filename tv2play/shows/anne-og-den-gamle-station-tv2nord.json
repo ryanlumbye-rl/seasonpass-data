@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:anne-og-den-gamle-station-tv2nord",
+  "name": "Anne og den gamle station",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det er ikke en hvilken som helst bygning, Anne Horsevad Andersen har købt. Den gamle stationsbygning i Hirtshals er historisk, og mange af byens borgere har et forhold til den. Så det store arbejde med at renovere 600 kvadratmeter sker med kærlig hånd.",
+  "image": "https://cdn-play.tv2i.dk/6cadf9b3-9b5a-4039-8a78-cbf5569a1f5c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2e4e3d0f-289a-4f1d-a0ff-d4d82db8b790",
+      "season": 1,
+      "number": 1,
+      "name": "Et hus med historie",
+      "airdate": "2024-10-26"
+    },
+    {
+      "id": "1eaca32d-3e46-46eb-ab70-7e4b406b71fb",
+      "season": 1,
+      "number": 2,
+      "name": "Godt jeg har mor",
+      "airdate": "2024-11-02"
+    },
+    {
+      "id": "d4743a39-acae-4321-9fc8-f8c24f2786db",
+      "season": 1,
+      "number": 3,
+      "name": "Hirtshals er skøn",
+      "airdate": "2024-11-09"
+    }
+  ]
+}

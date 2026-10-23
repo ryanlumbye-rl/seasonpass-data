@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:sagt-med-sjov-tv2charlie",
+  "name": "Sagt med sjov",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvordan skriver man en festtale, der ikke luller hele selskabet i søvn? Det ser vi, når komikerne Mahamad Habane, Thomas Warberg, Jesper Juhl og Søren Dürr arbejder i den sjove tales tjeneste, når de hjælper desperate taleholdere med at skrive taler, der får gæsterne til at græde af grin.",
+  "image": "https://cdn-play.tv2i.dk/9c5948be-0bf5-4eb9-804e-95c79378d240.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ab18252d-58c2-4bcb-a20d-7b1aa00e2d96",
+      "season": 1,
+      "number": 1,
+      "name": "Men nok om jeres sexliv",
+      "airdate": "2023-10-23"
+    },
+    {
+      "id": "3d839cf6-3847-438b-9278-8d16508dd32b",
+      "season": 1,
+      "number": 2,
+      "name": "Robotstøvsugeren har hængt sig i garagen",
+      "airdate": "2023-10-23"
+    },
+    {
+      "id": "36141887-a158-4e7a-876b-33a37cf8da7a",
+      "season": 1,
+      "number": 3,
+      "name": "Tiden flyver, når du lyver",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "85436a85-63df-418f-93e3-38c1751eb034",
+      "season": 1,
+      "number": 4,
+      "name": "Du er jo vant til at pille i gammel pels",
+      "airdate": "2023-11-06"
+    },
+    {
+      "id": "a626fa06-06f4-411b-a596-3092715a3cfb",
+      "season": 1,
+      "number": 5,
+      "name": "Hævnens time",
+      "airdate": "2023-11-13"
+    },
+    {
+      "id": "21aed846-4818-43b5-a892-cb8638e82aae",
+      "season": 1,
+      "number": 6,
+      "name": "Du er så lækker... af en vvs’er at være",
+      "airdate": "2023-11-20"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "id": "tv2play:abby-hatcher-skyshowtime",
+  "name": "Abby Hatcher",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Abby og de nuttede Fuzzlies går på eventyr på Abbys forældres hotel.",
+  "image": "https://cdn-play.tv2i.dk/b78f645c-0c75-48df-9dad-91f06fe504fc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2f368720-5739-4515-bfcc-4acf9ad21047",
+      "season": 1,
+      "number": 1,
+      "name": "Abby og paniske pibende pipper",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c47e9bda-1dc3-4f04-ad3c-d5e753516baf",
+      "season": 1,
+      "number": 2,
+      "name": "Fuzzlies Talent Show",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9518f964-ba50-41bb-ada7-27c3a7b3d9e8",
+      "season": 1,
+      "number": 3,
+      "name": "For træt til tuba",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9f42dd6a-1db9-4c2d-984d-fe00ac88d8bf",
+      "season": 1,
+      "number": 4,
+      "name": "Fuzzly med lækkert hår",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6be1ee65-0309-4c39-bdb9-4193c1f6153c",
+      "season": 1,
+      "number": 5,
+      "name": "Kusine Flugtilda",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ec04105e-d663-42b3-8b2a-228c2e1ddd28",
+      "season": 1,
+      "number": 6,
+      "name": "Kokken Curly",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "13c4954b-e586-4ae8-93a0-521843e26480",
+      "season": 1,
+      "number": 7,
+      "name": "Curly og sokkedukken",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "18d04660-6205-4b1a-b317-bc819070c234",
+      "season": 1,
+      "number": 8,
+      "name": "Da Abby mødte Bozzly",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d4a38742-6931-40af-beb9-2b524c112ed5",
+      "season": 1,
+      "number": 9,
+      "name": "Hjerternes og krammenes dag",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "54b9ea70-7914-4317-9178-3a084fd3fdd4",
+      "season": 1,
+      "number": 10,
+      "name": "Mo og Bo i sneen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c35b9d96-6afe-4e71-b5c0-6dac3d57ad24",
+      "season": 1,
+      "number": 11,
+      "name": "Teeny Terrys gave",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "7dd47f66-2544-4522-bcf6-eab32cd012be",
+      "season": 1,
+      "number": 12,
+      "name": "Hemmelig kælderdisco",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f7b260e3-e114-46e5-9ce1-c178d05c3029",
+      "season": 1,
+      "number": 13,
+      "name": "Otis vil have slik eller ballade",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f4998e00-92e7-41d0-a525-b34a52581b92",
+      "season": 1,
+      "number": 14,
+      "name": "Fuzzly pyjamasparty",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "51ffc5e1-6ca9-477d-b106-c0b935683c6d",
+      "season": 1,
+      "number": 15,
+      "name": "Prinsesse Flugs blomstrede eventy",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "39143b1e-92fb-4561-a10d-a6984dc9b3de",
+      "season": 1,
+      "number": 16,
+      "name": "Prinsesse Flugs kælesnegl",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6c247649-b6bd-4521-becf-bcff1cb8134a",
+      "season": 1,
+      "number": 17,
+      "name": "Eventyrlige Fuzzly",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "dc8df43a-69d1-4bd1-9dd9-b6473a28c13f",
+      "season": 1,
+      "number": 18,
+      "name": "Fuzzlys Camping tur",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f94a1509-2fdd-423b-b53f-69e4d9d92cfb",
+      "season": 1,
+      "number": 19,
+      "name": "Pelikanen Teeny Terry",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "121e997a-c3e0-4384-9ff0-418d82943f4a",
+      "season": 1,
+      "number": 20,
+      "name": "Fuzzliernes nytårsdrage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2e8f4838-e2c8-4e0f-8fd7-9f9e8da0b2d9",
+      "season": 1,
+      "number": 21,
+      "name": "Fuzzly Bold",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "5a0d784a-df04-4292-a55e-e0793fd0f45d",
+      "season": 1,
+      "number": 22,
+      "name": "Snug elsker jordegern",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "85b9e910-4f8e-42c5-abf4-fffaf93e7b69",
+      "season": 1,
+      "number": 23,
+      "name": "Otis på farten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "08dcac08-1fbc-4d0b-986c-f787b3e1f60f",
+      "season": 1,
+      "number": 24,
+      "name": "Grumbles' former",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "5a4d5aea-833b-4c48-a372-42ba8fbf7c69",
+      "season": 1,
+      "number": 25,
+      "name": "Elvin bliver væk fra Abby",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "28674744-002e-46d5-aa04-469f4f567270",
+      "season": 1,
+      "number": 26,
+      "name": "Grumbles forsvinder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2ff468a0-5c0f-4467-98f3-51329d019cf5",
+      "season": 2,
+      "number": 1,
+      "name": "Pipper-transport-rørene",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ef2b656a-52b6-45e2-ae3d-d9a428ca07b3",
+      "season": 2,
+      "number": 2,
+      "name": "Mini Terry er... Mini-mand",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4292a0d6-3124-437c-aad2-de50a1c74b6e",
+      "season": 2,
+      "number": 3,
+      "name": "Legetid med Mo og Bo",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "293af275-5b4b-46b7-bfe3-a88577668dee",
+      "season": 2,
+      "number": 4,
+      "name": "Mo og Bo ruller derudaf",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "21b26d09-59f7-450e-b511-041639dd65e3",
+      "season": 2,
+      "number": 5,
+      "name": "Super stærke Curly",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3e297cc1-2853-4224-ad63-00f11e322ab0",
+      "season": 2,
+      "number": 6,
+      "name": "Otis og snackmaskinen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "eabc5ea3-83fa-4c4a-ac7a-360386987955",
+      "season": 2,
+      "number": 7,
+      "name": "Lille Dohs forsvundne sut",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6b439ab0-9cd7-43d8-bf26-dbccd8aabe79",
+      "season": 2,
+      "number": 8,
+      "name": "Den perfekte sport til Mini Terry",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9275fc0c-cc49-43ac-96b2-4c0ab37b0c15",
+      "season": 2,
+      "number": 9,
+      "name": "Abby og kostumeballet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e1883563-731d-4690-bd56-bcc8fa7f2078",
+      "season": 2,
+      "number": 10,
+      "name": "Otis' sygedag",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1996896f-9be9-45b8-90b6-058a3f9841ab",
+      "season": 2,
+      "number": 11,
+      "name": "Fussling-stranddag",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0f0c44f8-2ac7-4d07-917d-93bf65a93db7",
+      "season": 2,
+      "number": 12,
+      "name": "En prinsesse og pipperne",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "51f599eb-a186-4781-bf51-47b2ef7c6fee",
+      "season": 2,
+      "number": 13,
+      "name": "Abbys bondegårdsvenner",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d62c21e3-2563-4351-99a2-60e7115ff90e",
+      "season": 2,
+      "number": 14,
+      "name": "Mini Terry som sikkerhedsdirektør",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9209141e-f942-49d0-b042-26a9ab8c6a7c",
+      "season": 2,
+      "number": 15,
+      "name": "Prinsesse Flug står på ski",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fa4327ec-4f23-4f32-8454-e0b8e9b87142",
+      "season": 2,
+      "number": 16,
+      "name": "Blomsterbandet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "7f79f7b2-da7c-4a9b-ba86-e3a308f542b3",
+      "season": 2,
+      "number": 17,
+      "name": "Mo og Bo på farten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4b8dc20d-e62d-4542-b51c-c2c66766bf8d",
+      "season": 2,
+      "number": 18,
+      "name": "En fusstastisk, glædelig jul",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "295430ea-9560-4a3f-819f-7c2d81eed0c0",
+      "season": 2,
+      "number": 19,
+      "name": "Bozzly og babyen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "81163906-0948-42f7-9e8c-5ed1cb3219ae",
+      "season": 2,
+      "number": 20,
+      "name": "For meget af det gode",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d9a98f7b-b673-41b9-b409-f42d18399adb",
+      "season": 2,
+      "number": 21,
+      "name": "Mo og Bo, de er væk begge to?",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8de712be-7df2-42d8-8d32-82b05a1a125b",
+      "season": 2,
+      "number": 22,
+      "name": "Mo og Bo er to og to",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b719e7db-8142-492d-8616-e800a35959c1",
+      "season": 2,
+      "number": 23,
+      "name": "Blomsterbandet på turné",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6ce15eab-fd0c-4a44-9e80-a1ada1178365",
+      "season": 2,
+      "number": 24,
+      "name": "Blomsterbandet og rock og rul-scenen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "41155776-6826-4e62-914a-0a33e29852dc",
+      "season": 2,
+      "number": 25,
+      "name": "Den forsvundne bænkebider",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "dadf7b3a-6b94-4b16-acd9-a8d188e37037",
+      "season": 2,
+      "number": 26,
+      "name": "Blomsterbandet går fra hinanden",
+      "airdate": "2023-01-01"
+    }
+  ]
+}

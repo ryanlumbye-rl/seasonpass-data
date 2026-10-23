@@ -5,7 +5,156 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Nu kan du se noget så originalt som en comedy-reportage-serie! Det er komikerne Martin Høgsted og Magnus Millang, der er bagmændene, og de får hjælp af en stjernerække af Danmarks sjoveste personligheder. Så hvis du er i tvivl om, hvordan danskerne egentlig er, så skal du blot se på programmets brede persongalleri !",
+  "image": "https://cdn-play.tv2i.dk/56650c93-6e43-3702-aab6-af1034995505.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
+    {
+      "id": "da6088ea-24df-4858-9a17-5ca4b65359bb",
+      "season": 1,
+      "number": 1,
+      "name": "We are red, we are white!",
+      "airdate": "2012-02-18"
+    },
+    {
+      "id": "89fe1d69-7101-4596-bbae-ef4a0a80e8d0",
+      "season": 1,
+      "number": 2,
+      "name": "We are red, we are white!",
+      "airdate": "2012-02-25"
+    },
+    {
+      "id": "5d049083-66be-416f-9ab2-6a6d8ea3411c",
+      "season": 1,
+      "number": 3,
+      "name": "We are red, we are white!",
+      "airdate": "2012-03-03"
+    },
+    {
+      "id": "f8c38ad6-da03-4169-8941-87064ff086bf",
+      "season": 1,
+      "number": 4,
+      "name": "We are red, we are white!",
+      "airdate": "2012-03-10"
+    },
+    {
+      "id": "db1a3306-28a7-4987-807b-c1c1fafe9201",
+      "season": 1,
+      "number": 5,
+      "name": "We are red, we are white!",
+      "airdate": "2012-03-17"
+    },
+    {
+      "id": "49cd54f1-6862-4854-96d1-47ca91824a27",
+      "season": 1,
+      "number": 6,
+      "name": "We are red, we are white!",
+      "airdate": "2012-03-24"
+    },
+    {
+      "id": "1c5e56ad-aaa4-4520-b8e0-f1886e4b3cb2",
+      "season": 1,
+      "number": 7,
+      "name": "We are red, we are white!",
+      "airdate": "2012-03-31"
+    },
+    {
+      "id": "b6f86387-c653-49fb-84e7-b34db6459cb9",
+      "season": 1,
+      "number": 8,
+      "name": "We are red, we are white!",
+      "airdate": "2012-04-07"
+    },
+    {
+      "id": "c8266603-5a48-4e24-ab0a-571cf395b812",
+      "season": 2,
+      "number": 1,
+      "name": "We are red, we are white!",
+      "airdate": "2013-01-28"
+    },
+    {
+      "id": "2879f52d-f658-451b-98a3-f61dc72480b4",
+      "season": 2,
+      "number": 2,
+      "name": "We are red, we are white!",
+      "airdate": "2013-02-04"
+    },
+    {
+      "id": "1568aae0-0b70-4de5-9cc4-abc07ee31bbd",
+      "season": 2,
+      "number": 3,
+      "name": "We are red, we are white!",
+      "airdate": "2013-02-11"
+    },
+    {
+      "id": "9c8c7845-3202-4b28-b01a-b06009f0ad9b",
+      "season": 2,
+      "number": 4,
+      "name": "We are red, we are white!",
+      "airdate": "2013-02-18"
+    },
+    {
+      "id": "d71b6d2f-da1a-4289-9dc6-acf29cb4b1a6",
+      "season": 2,
+      "number": 5,
+      "name": "We are red, we are white!",
+      "airdate": "2013-02-25"
+    },
+    {
+      "id": "dd2dcbff-28eb-4519-97d9-b0bb3358b441",
+      "season": 2,
+      "number": 6,
+      "name": "We are red, we are white!",
+      "airdate": "2013-03-04"
+    },
+    {
+      "id": "d43cf9bf-9382-43cd-b7ae-2381d1dd3010",
+      "season": 2,
+      "number": 7,
+      "name": "We are red, we are white!",
+      "airdate": "2013-03-11"
+    },
+    {
+      "id": "4e2d5d57-19cb-49ad-a1a7-babbe5e6c116",
+      "season": 3,
+      "number": 1,
+      "name": "We are red, we are white!",
+      "airdate": "2014-04-03"
+    },
+    {
+      "id": "114191d8-52d6-4a07-a374-ec62444b825b",
+      "season": 3,
+      "number": 2,
+      "name": "We are red, we are white!",
+      "airdate": "2014-04-07"
+    },
+    {
+      "id": "e4ce7399-f9df-406a-8e1f-34e50652aaf1",
+      "season": 3,
+      "number": 3,
+      "name": "We are red, we are white!",
+      "airdate": "2014-04-14"
+    },
+    {
+      "id": "7e03ac6c-0e7b-45a9-8482-d32682652be4",
+      "season": 3,
+      "number": 4,
+      "name": "We are red, we are white!",
+      "airdate": "2014-04-21"
+    },
+    {
+      "id": "b48670e1-7d25-4bcf-b2ab-5be0afab2b20",
+      "season": 3,
+      "number": 5,
+      "name": "We are red, we are white!",
+      "airdate": "2014-04-28"
+    },
+    {
+      "id": "2e5c712d-09bb-4246-8be7-199e48d5b406",
+      "season": 3,
+      "number": 6,
+      "name": "We are red, we are white!",
+      "airdate": "2014-05-05"
+    },
     {
       "id": "609db35a-7bd1-4356-b58c-304d6a93aa8e",
       "season": 3,

@@ -5,16 +5,11 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Døgnet rundt står politifolk, brandmænd og ambulancereddere i Blackpool klar til at rykke ud, når folk ringer til alarmcentralen på nummer 999 for at få hjælp.",
+  "image": "https://cdn-play.tv2i.dk/569f5f3d-0763-48e3-9e30-97d2f5358033.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "2f468514-b503-42a5-8755-dd316bec62a6",
-      "season": 6,
-      "number": 1,
-      "name": "Frygtens tidsalder",
-      "airdate": "2022-04-11"
-    },
-    {
-      "id": "1999d211-201d-4d90-a81f-81f6cde6ca2d",
       "season": 6,
       "number": 1,
       "name": "Frygtens tidsalder",
@@ -75,6 +70,13 @@
       "number": 9,
       "name": "Hadefulde beskeder",
       "airdate": "2022-04-22"
+    },
+    {
+      "id": "1999d211-201d-4d90-a81f-81f6cde6ca2d",
+      "season": 6,
+      "number": 10,
+      "name": "En lang nat",
+      "airdate": "2022-04-25"
     }
   ]
 }

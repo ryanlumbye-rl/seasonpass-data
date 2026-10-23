@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:det-store-spoergsmaal-tv2",
+  "name": "Det store spørgsmål",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En række kendte mennesker får et enkelt spørgsmål: Hvordan er du endt som den, du er i dag? De svarer hudløst ærligt i det nye portrætprogram, hvor Hans Pilgaard har opsøgt dem, fordi de alle har betydet noget helt særligt for ham.",
+  "image": "https://cdn-play.tv2i.dk/c131a773-e05a-4aed-a882-b3b6090fc936.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "adefe299-c24a-48fb-a3f0-859362742fff",
+      "season": 1,
+      "number": 1,
+      "name": "Lars Mikkelsen",
+      "airdate": "2024-01-03"
+    },
+    {
+      "id": "ffac1946-31bd-4eaa-a91c-6e574a91bfed",
+      "season": 1,
+      "number": 2,
+      "name": "Casper Christensen",
+      "airdate": "2024-01-10"
+    },
+    {
+      "id": "cc54550b-bb2f-4e49-bdf9-d5cbbf3a721d",
+      "season": 1,
+      "number": 3,
+      "name": "Anne Linnet",
+      "airdate": "2024-01-17"
+    },
+    {
+      "id": "fb45528e-cc9c-431e-b30e-b9400b7a0ad6",
+      "season": 1,
+      "number": 4,
+      "name": "Lars von Trier",
+      "airdate": "2024-01-24"
+    },
+    {
+      "id": "24d449c1-3c26-4209-bcc7-ea61e7879282",
+      "season": 1,
+      "number": 5,
+      "name": "Hella Joof",
+      "airdate": "2024-01-31"
+    },
+    {
+      "id": "8d0382cf-b5cc-4004-a359-c415c2c28ab7",
+      "season": 1,
+      "number": 6,
+      "name": "Peter Schmeichel",
+      "airdate": "2024-02-07"
+    },
+    {
+      "id": "93c3c14c-33a9-4d87-9b46-023e822b1158",
+      "season": 1,
+      "number": 7,
+      "name": "Mikael Persbrandt",
+      "airdate": "2024-04-29"
+    }
+  ]
+}

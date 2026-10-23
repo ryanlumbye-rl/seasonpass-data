@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:de-saerligt-smukke-tv2echo",
+  "name": "De særligt smukke",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Modelbureauet Zebedee Talent i Sheffield har specialiseret sig i modeller, der falder uden for normen, og som for eksempel har en benprotese, lider af en hudsygdom eller har Downs syndrom. Kan de være med til at rykke ved skønhedsbegrebet?",
+  "image": "https://cdn-play.tv2i.dk/4e6508a9-fc62-489c-92a0-fb70e2347cc0.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "64df5388-3a38-4f1f-8cb7-be1c597f2187",
+      "season": 1,
+      "number": 1,
+      "name": "Et nyt ansigt",
+      "airdate": "2024-08-05"
+    },
+    {
+      "id": "25f8d9e2-3bc6-46bc-882a-9108536a6d27",
+      "season": 1,
+      "number": 2,
+      "name": "Den røde løber",
+      "airdate": "2024-08-12"
+    },
+    {
+      "id": "d44cea3d-3d97-4687-909a-b69a4cb0aa31",
+      "season": 1,
+      "number": 3,
+      "name": "Modeuge i London",
+      "airdate": "2024-08-19"
+    }
+  ]
+}

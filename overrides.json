@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-21T00:00:00Z",
+  "updated": "2026-10-23T00:00:00Z",
   "shows": {
     "tvmaze:75026": {
       "title": "MobLand",
@@ -51,7 +51,7 @@
           }
         },
         "2": {
-          "episodes": 5,
+          "episodes": 6,
           "release": "2021-04-13",
           "pattern": "explicit",
           "episodeOverrides": {
@@ -69,6 +69,9 @@
             },
             "5": {
               "release": "2021-05-11"
+            },
+            "6": {
+              "release": "2021-05-18"
             }
           }
         }

@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:the-curse-skyshowtime",
+  "name": "The Curse",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En påstået forbandelse forstyrrer livet for et nygift par, der prøver at undfange et barn, mens de er værter for deres eget nye boligprogram i den lille amerikanske by Española i New Mexico",
+  "image": "https://cdn-play.tv2i.dk/dac82446-862c-4842-9fa7-31fa80a408cb.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3328%2C1872&w=1280",
+  "episodes": [
+    {
+      "id": "52adfd48-5e90-4137-9585-cadd5de20ff6",
+      "season": 1,
+      "number": 1,
+      "name": "Land of Enchantment",
+      "airdate": "2024-01-05"
+    },
+    {
+      "id": "7cff0995-dcc3-470a-b019-5a40efa9d5d8",
+      "season": 1,
+      "number": 2,
+      "name": "Pressure’s Looking Good So Far",
+      "airdate": "2024-01-05"
+    },
+    {
+      "id": "2c1dd636-a0a5-4469-9eef-625773413254",
+      "season": 1,
+      "number": 3,
+      "name": "Questa Lane",
+      "airdate": "2024-01-05"
+    },
+    {
+      "id": "c354232b-4c0f-4323-9619-c1ed8e83df9c",
+      "season": 1,
+      "number": 4,
+      "name": "Under the Big Tree",
+      "airdate": "2024-01-05"
+    },
+    {
+      "id": "5ada5652-2049-41d7-9163-bd13b41f3f55",
+      "season": 1,
+      "number": 5,
+      "name": "It’s a Good Day",
+      "airdate": "2024-01-05"
+    },
+    {
+      "id": "fd446124-7df2-4ed5-a62e-b4050498d9dd",
+      "season": 1,
+      "number": 6,
+      "name": "The Fire Burns On",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "d9f5efa9-1737-4bc8-a97b-750306573b21",
+      "season": 1,
+      "number": 7,
+      "name": "Self-Exclusion",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "966d52fc-1b13-406e-97bf-93aa0369a156",
+      "season": 1,
+      "number": 8,
+      "name": "Down and Dirty",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "5dd41293-584a-4ca7-9030-bf9c0f4131b4",
+      "season": 1,
+      "number": 9,
+      "name": "Young Hearts",
+      "airdate": "2024-02-16"
+    },
+    {
+      "id": "bd0ab25d-fe2e-48eb-9de8-45be4dc3369a",
+      "season": 1,
+      "number": 10,
+      "name": "Green Queen",
+      "airdate": "2024-02-16"
+    }
+  ]
+}

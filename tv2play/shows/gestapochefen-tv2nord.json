@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:gestapochefen-tv2nord",
+  "name": "Gestapochefen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Gestapochefen Fritz Bolle var en af de mest frygtede mænd i Aalborg. Han stod bag tortur, fængslinger og henrettelser af modstandsfolk, og hans brutalitet satte dybe spor i befolkningen. Han er måske den største krigsforbryder i Nordjyllands historie, og konsekvenserne af hans handlinger mærkes stadig.",
+  "image": "https://cdn-play.tv2i.dk/c69bb545-e9a3-4491-9852-8d83b57e0b5c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "dd84eaff-9b09-47ae-acb2-4e0db1a1035b",
+      "season": 1,
+      "number": 1,
+      "name": "Bødlen fra Toulouse",
+      "airdate": "2025-04-17"
+    },
+    {
+      "id": "9fc82c55-4ab6-4d18-8d17-3bcdf0fa0805",
+      "season": 1,
+      "number": 2,
+      "name": "Dømt af Gestapo",
+      "airdate": "2025-04-24"
+    },
+    {
+      "id": "fbf8bc42-fce2-434f-8b88-27a8addf86e1",
+      "season": 1,
+      "number": 3,
+      "name": "Befrielsen kommer",
+      "airdate": "2025-05-01"
+    },
+    {
+      "id": "90230b03-d3c3-41d4-8bcf-28d051abaf07",
+      "season": 1,
+      "number": 4,
+      "name": "De sidste timer",
+      "airdate": "2025-05-08"
+    }
+  ]
+}

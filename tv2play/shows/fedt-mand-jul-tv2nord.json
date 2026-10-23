@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:fedt-mand-jul-tv2nord",
+  "name": "Fedt mand - Jul!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Knaldperlen og Dolken tager på et hæsblæsende juleeventyr i denne julespecial, der blandt andet byder på nytårscigar, et møde med selveste julemanden og J-dag i Jomfru Ane Gade",
+  "image": "https://cdn-play.tv2i.dk/767ee38e-36d9-4c84-8b85-682951f1e9fc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "766e1668-e590-4446-be93-045a457d5cfa",
+      "season": 1,
+      "number": 1,
+      "name": "Sneen falder i Jomfru Ane Gade",
+      "airdate": "2024-12-15"
+    },
+    {
+      "id": "db500d4e-ea4d-4976-b9b6-c8f38e921404",
+      "season": 1,
+      "number": 2,
+      "name": "I lære hos julemanden",
+      "airdate": "2024-12-22"
+    }
+  ]
+}

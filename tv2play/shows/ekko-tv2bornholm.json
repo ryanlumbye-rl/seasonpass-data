@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:ekko-tv2bornholm",
+  "name": "EKKO",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Naturmagasinet EKKO følger den særlige bornholmske natur helt tæt på, lige fra de mindste insekter over fugle til de udsatte bisoner i skoven Almindingen. Dyre- og plantelivet på klippeøen følges hele året under havets overflade, på landjorden og i luften.",
+  "image": "https://cdn-play.tv2i.dk/0955f5de-c8d2-4d9b-8389-50f2b1e6ef19.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a1c9ac14-2cd0-44c8-81a3-fe5a1343ff73",
+      "season": 2024,
+      "number": 8,
+      "name": "EKKO i september",
+      "airdate": "2024-11-21"
+    },
+    {
+      "id": "4671b881-014b-47d8-b74d-a4354305236d",
+      "season": 2024,
+      "number": 9,
+      "name": "EKKO i oktober",
+      "airdate": "2025-02-03"
+    },
+    {
+      "id": "864f966a-a1e2-468b-80d5-cdc3b073e10c",
+      "season": 2024,
+      "number": 10,
+      "name": "EKKO i 2024",
+      "airdate": "2025-02-10"
+    }
+  ]
+}

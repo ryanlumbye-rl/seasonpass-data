@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:django-skyshowtime",
+  "name": "Django",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I det amerikanske vesten i 1870'erne er en cowboy, der hjemsøges af mordet på sin familie, chokeret over at finde sin datter i live i New Babylon - et hjem for udstødte af alle racer og overbevisninger - hvor han sværger at blive og beskytte hende.",
+  "image": "https://cdn-play.tv2i.dk/c193ab94-e4b9-46cf-ade3-0821583bc6b5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8b2edccf-f143-43b5-ac4a-2609318c0ca9",
+      "season": 1,
+      "number": 1,
+      "name": "New Babylon",
+      "airdate": "2023-07-03"
+    },
+    {
+      "id": "3667c42e-82ae-4ca0-bd5a-083cbc2b5e86",
+      "season": 1,
+      "number": 2,
+      "name": "The Lady",
+      "airdate": "2023-07-10"
+    },
+    {
+      "id": "edb46404-163b-4f97-b58f-891f5b3fc526",
+      "season": 1,
+      "number": 3,
+      "name": "Nagadoches",
+      "airdate": "2023-07-17"
+    },
+    {
+      "id": "4008bb38-63a4-497b-97f3-20666a94e47f",
+      "season": 1,
+      "number": 4,
+      "name": "Fountainhead",
+      "airdate": "2023-07-24"
+    },
+    {
+      "id": "2f743361-b102-430e-ab56-678b354e0f7d",
+      "season": 1,
+      "number": 5,
+      "name": "Chambersburg",
+      "airdate": "2023-07-31"
+    },
+    {
+      "id": "84a12a12-d05a-4055-bb72-54fa78bc35db",
+      "season": 1,
+      "number": 6,
+      "name": "The Trial",
+      "airdate": "2023-08-07"
+    },
+    {
+      "id": "e159ee93-a61d-49b2-9fe4-0b41bb0b1bc8",
+      "season": 1,
+      "number": 7,
+      "name": "The Giant",
+      "airdate": "2023-08-14"
+    },
+    {
+      "id": "702726c4-2252-4922-af58-7aa25def7214",
+      "season": 1,
+      "number": 8,
+      "name": "Tobacco Tin",
+      "airdate": "2023-08-21"
+    },
+    {
+      "id": "d2bce641-80b1-48c1-88cc-c856c7196a31",
+      "season": 1,
+      "number": 9,
+      "name": "Masquerade",
+      "airdate": "2023-08-28"
+    },
+    {
+      "id": "c08d2389-ae7e-4bad-8f00-cfd64053b3e6",
+      "season": 1,
+      "number": 10,
+      "name": "The Western Sea",
+      "airdate": "2023-09-04"
+    }
+  ]
+}

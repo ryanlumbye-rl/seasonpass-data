@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:ingemann-og-oestkysten-tv2",
+  "name": "Ingemann og Østkysten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Peter Ingemanns tur på knallertryg går denne gang op langs den jyske østkyst og slutter til verdens største knallerttræf i Skagen. Peter viser blandt andet sin hjemstavn frem - det smukke område omkring Silkeborg og Ry i Jylland.",
+  "image": "https://cdn-play.tv2i.dk/6b79071c-24f6-4601-ae61-f57d1332b67e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "af582e76-e438-44af-9ab7-1f5b5d7b1400",
+      "season": 1,
+      "number": 1,
+      "name": "Knallertbaronen er tilbage",
+      "airdate": "2024-05-05"
+    },
+    {
+      "id": "9bdb4623-43b9-4179-830c-50f1b8edd2bf",
+      "season": 1,
+      "number": 2,
+      "name": "En stærk barndomshelt",
+      "airdate": "2024-05-12"
+    },
+    {
+      "id": "7e680bd6-838a-4e6d-a382-a9b566a987c8",
+      "season": 1,
+      "number": 3,
+      "name": "Togrøverens søn",
+      "airdate": "2024-05-19"
+    },
+    {
+      "id": "b43668c2-11ba-46e3-bba7-8f592ed5de93",
+      "season": 1,
+      "number": 4,
+      "name": "Ølbong og en tyr der hedder Vagn",
+      "airdate": "2024-05-26"
+    },
+    {
+      "id": "28434edf-29de-4699-b53c-c1ed8f8cbffe",
+      "season": 1,
+      "number": 5,
+      "name": "Fra penthouse til tiny house",
+      "airdate": "2024-06-02"
+    },
+    {
+      "id": "60a672d3-f126-4f5f-a1e5-c92861457651",
+      "season": 1,
+      "number": 6,
+      "name": "Nachos med makrel",
+      "airdate": "2024-06-09"
+    },
+    {
+      "id": "d6b2c8aa-01dd-4823-a51a-546b359e956c",
+      "season": 1,
+      "number": 7,
+      "name": "Verdens største knallerttræf",
+      "airdate": "2024-06-16"
+    }
+  ]
+}

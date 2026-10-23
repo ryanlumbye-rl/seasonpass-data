@@ -1,0 +1,320 @@
+{
+  "id": "tv2play:school-of-rock-skyshowtime",
+  "name": "School of Rock",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En fattig rockmusiker giver den som vikar og inspirerer en klasse med stræberfolkeskoleelever til at forme et hemmeligt rockband.",
+  "image": "https://cdn-play.tv2i.dk/f43fe903-25fe-4bec-898e-e7d3a16809b4.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280",
+  "episodes": [
+    {
+      "id": "2e2fb60e-f9be-432c-b694-ce841345f1c5",
+      "season": 1,
+      "number": 1,
+      "name": "Come Together",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "54055194-dd4c-41ad-b011-b84538c83335",
+      "season": 1,
+      "number": 2,
+      "name": "Video Killed the Speed Debate Star",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d82eb236-997c-43bd-b5e8-0957d7c4585f",
+      "season": 1,
+      "number": 3,
+      "name": "The Story of Us (But More about Me)",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "33667055-16c2-453c-8ec1-75239c52e28a",
+      "season": 1,
+      "number": 4,
+      "name": "We're Not Gonna Take It",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "dc6a1b1c-b799-4bd3-a2f1-f6d0d7192230",
+      "season": 1,
+      "number": 5,
+      "name": "A Band with No Name",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "2e23a363-d93b-438f-a880-3e0468615ab9",
+      "season": 1,
+      "number": 6,
+      "name": "We Can Be Heroes, Sort Of",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "3057afaf-ba7f-4ccd-aaea-c21624dcd47d",
+      "season": 1,
+      "number": 7,
+      "name": "Should I Stay or Should I Go?",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "65973016-8ccb-4988-9e85-4ab8833e221f",
+      "season": 1,
+      "number": 8,
+      "name": "Money (That's What I Want)",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "25cd3576-7629-4ced-923c-dbf0786b2a9c",
+      "season": 1,
+      "number": 9,
+      "name": "Freddy Fights for His Right to Party",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "3920542f-06bb-41ed-8fb0-9a221f233c01",
+      "season": 1,
+      "number": 10,
+      "name": "(Really Really) Old Time Rock and Roll",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "b7202f4e-c10b-4a0f-853c-4e43f7d52c36",
+      "season": 1,
+      "number": 11,
+      "name": "We Are the Champions... Maybe",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "3373b5e9-9d04-4390-8647-42f32299bc20",
+      "season": 2,
+      "number": 1,
+      "name": "Changes",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "21dedbea-2a90-4430-9d47-f30860592c7d",
+      "season": 2,
+      "number": 2,
+      "name": "Wouldn't It Be Nice?",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "dfe00330-a61e-418c-a962-330aa7702597",
+      "season": 2,
+      "number": 3,
+      "name": "With or Without You",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2aaca42b-e51a-4960-9e1b-0c67b9ecd99d",
+      "season": 2,
+      "number": 4,
+      "name": "School of Rock",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "f92ebe05-fe1a-4acb-a35f-4468de737b6f",
+      "season": 2,
+      "number": 5,
+      "name": "Takin' Care of Business",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c48f2962-065c-450d-8ec1-85efdc2c7193",
+      "season": 2,
+      "number": 6,
+      "name": "Is She Really Going Out with Him?",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a664872d-63a0-4a46-917c-f0502d64b184",
+      "season": 2,
+      "number": 7,
+      "name": "Voices Carry",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "75af3a26-7dbc-4098-8190-9c13d2388d83",
+      "season": 2,
+      "number": 8,
+      "name": "I Put a Spell on You",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "5b58950d-fc64-4934-8b70-94155a906c94",
+      "season": 2,
+      "number": 9,
+      "name": "Truckin'",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "690494ab-3414-4ac2-83da-70996eac0268",
+      "season": 2,
+      "number": 10,
+      "name": "Welcome to My Nightmare",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "45479890-89ba-48a6-b3e9-0e8874c0cfac",
+      "season": 2,
+      "number": 11,
+      "name": "Total Eclipse of the Heart",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "0e504748-ead4-4894-9458-72d6801ad04b",
+      "season": 2,
+      "number": 12,
+      "name": "Don’t Let Me Be Misunderstood",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b16303fc-f318-4fc7-beae-43d5f502dc2f",
+      "season": 2,
+      "number": 13,
+      "name": "Don't Stop Believin'",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "16bee51a-bdda-4654-8029-fc45b500f0b6",
+      "season": 3,
+      "number": 1,
+      "name": "School of Rock",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "bb4d7ca4-8e71-4012-82d8-bc24fe480159",
+      "season": 3,
+      "number": 2,
+      "name": "Vil du høre en hemmelighed?",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "0d0d263d-6b03-443e-a87c-459de37172fb",
+      "season": 3,
+      "number": 3,
+      "name": "Uenighed Gør Mester",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2c855f68-9593-41df-9ae6-c18df7b508c6",
+      "season": 3,
+      "number": 4,
+      "name": "Helte & Skurke",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "329fd335-4f02-40c5-a1d9-81310c5cc7a8",
+      "season": 3,
+      "number": 5,
+      "name": "Hvem Skal Være Leder?",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a4d31dbc-dafb-4fde-9323-396ea960d145",
+      "season": 3,
+      "number": 6,
+      "name": "Hundehvalpen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "d46be47a-e51a-479a-92b4-145374151ce6",
+      "season": 3,
+      "number": 7,
+      "name": "Summers Mørke Side",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2174934b-ab8c-4851-b56a-7abe42505060",
+      "season": 3,
+      "number": 8,
+      "name": "Ville Jeg Lyve Over for Dig?",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "4a6357b2-6f19-4c34-a1a1-223ade5479b6",
+      "season": 3,
+      "number": 9,
+      "name": "Mindsteløn",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "40f203f0-8aee-47bd-a05c-1e9ca1643123",
+      "season": 3,
+      "number": 10,
+      "name": "Et Spørgsmål om Tillid",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "9f0c9e05-19b7-4bb9-88c0-23377d67cddc",
+      "season": 3,
+      "number": 11,
+      "name": "Kool Thing",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "31a4577a-25e9-41e5-a4d1-a07af554ed06",
+      "season": 3,
+      "number": 12,
+      "name": "Kærlighed er en Slagmark",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "6a8319a0-769b-4d45-9ede-fe4a4ac18bac",
+      "season": 3,
+      "number": 13,
+      "name": "Sikken Overraskelse",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "d2a05050-06d4-441b-85e3-2d955b09e394",
+      "season": 3,
+      "number": 14,
+      "name": "Du Ved Ikke, Hvad du har (Før det er for Sent)",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "3c6a5d1d-7173-4a00-9857-ffb2a53048fd",
+      "season": 3,
+      "number": 15,
+      "name": "Bjældeklang",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2d423133-7094-4019-91f3-88c5275921de",
+      "season": 3,
+      "number": 16,
+      "name": "Vi Skal ud Herfra",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c260da47-bbbc-423e-8dd5-16043cd0514e",
+      "season": 3,
+      "number": 17,
+      "name": "Vild Med Rock and Roll, Part 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "1ee05b17-e015-4128-8b8c-89f46f9d4a7f",
+      "season": 3,
+      "number": 18,
+      "name": "Vild Med Rock and Roll: Part 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ae42a94c-88f7-49a4-9075-81658f45e5e6",
+      "season": 3,
+      "number": 19,
+      "name": "Ikke Bange",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "46e1a55a-70b9-4294-90d6-3486840d25fe",
+      "season": 3,
+      "number": 20,
+      "name": "Alle Billeder Fortæller en Historie",
+      "airdate": "2023-03-15"
+    }
+  ]
+}

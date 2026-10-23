@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:det-store-soeslag-tv2",
+  "name": "Det store søslag",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tange Sø ligger naturskønt i Midtjylland mellem Viborg og Silkeborg. Men den 100 år gamle sø er kunstig, og det deler vandene. Naturforkæmpere vil have nedlagt søen, fordi den ødelægger det naturlige løb i Danmarks største vandløb, Gudenåen. De lokale beboere kæmper indædt for at bevare deres dejlige sø. Timeglasset i den årtier lange konflikt er ved at rinde ud. Nu skal der træffes en afgørelse.",
+  "image": "https://cdn-play.tv2i.dk/98b76e8e-530a-3fee-a630-7555077f6de9.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "eb89c0e7-5eac-4266-b58f-8f666df8e661",
+      "season": 1,
+      "number": 1,
+      "name": "Fronterne trækkes op",
+      "airdate": "2026-06-02"
+    },
+    {
+      "id": "1043e664-43a4-454a-b828-916b53213197",
+      "season": 1,
+      "number": 2,
+      "name": "Trusler før afgørelsen",
+      "airdate": "2026-06-09"
+    }
+  ]
+}

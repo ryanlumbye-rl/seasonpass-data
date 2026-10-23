@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "De to meget forskellige efterforskere Philip Boyd og Aoife Regan bliver tvunget til at arbejde sammen og overkomme deres uenigheder for at opklare en række alvorlige forbrydelser.",
+  "image": "https://cdn-play.tv2i.dk/2e38a0e3-a42c-44f4-a9fb-184803400398.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "d35ee369-060a-4fbc-b43e-5dbfa08b646c",
@@ -26,6 +28,13 @@
       "number": 3,
       "name": "Uhyggelig last - del 1",
       "airdate": "2025-10-21"
+    },
+    {
+      "id": "f60e3934-1690-4141-89fe-74829c1b4922",
+      "season": 1,
+      "number": 4,
+      "name": "Uhyggelig last - del 2",
+      "airdate": "2025-10-28"
     },
     {
       "id": "2837a19f-60d8-42f8-9940-6ea5b494171d",

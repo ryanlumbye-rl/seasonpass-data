@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:hitlers-circle-of-evil-skyshowtime",
+  "name": "Hitler's Circle of Evil",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den detaljerede historie om Det Tredje Riges storhed og fald fra perspektivet af dem, der fik det til at ske - Hitlers loyale tilhængere, som havde Førerens tillid. Mænd som Himmler, Hess, Göring og Goebbels, som stræbte efter at overgå hinanden med brutalitet og engagement i den nazistiske sag.",
+  "image": "https://cdn-play.tv2i.dk/098f941f-d8f2-44c3-8f73-6eda4abbf0ce.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8055b6ba-5742-4fd7-886e-4a38cc57c55c",
+      "season": 1,
+      "number": 1,
+      "name": "Helte og udskud",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "bac1a3af-388f-4f58-b534-222be510f5d7",
+      "season": 1,
+      "number": 2,
+      "name": "Omgruppering",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "ac2a112d-4df3-45c3-9df2-5b63adf47261",
+      "season": 1,
+      "number": 3,
+      "name": "Röhms fald",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "520124ae-7d37-425b-91e1-74ea8b844f69",
+      "season": 1,
+      "number": 4,
+      "name": "Antisemitismens fremmarch",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "72bad7dd-3043-4d79-bcc5-8bbb4f026bc7",
+      "season": 1,
+      "number": 5,
+      "name": "Berghof-sættet",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "0d9e64ea-2259-43cc-9fba-d5ca2c767e20",
+      "season": 1,
+      "number": 6,
+      "name": "Rudolf Hess' galskab",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "aa54539e-570c-49f0-84ad-b57eeb5142ba",
+      "season": 1,
+      "number": 7,
+      "name": "Reinhard Heydrichs storhed og fald",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "3efcb156-d9ca-4f44-8dd7-e524363846e9",
+      "season": 1,
+      "number": 8,
+      "name": "Spytslikkernes indtog",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "9f72eb66-4e5c-45ca-9ba5-4cf4e02e016f",
+      "season": 1,
+      "number": 9,
+      "name": "Begyndelsen på enden",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "5b525500-4109-479e-b297-fa573e8ab398",
+      "season": 1,
+      "number": 10,
+      "name": "Nedsmeltning",
+      "airdate": "2025-05-04"
+    }
+  ]
+}

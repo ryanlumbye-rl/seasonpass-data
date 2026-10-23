@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:bubber-bs-paa-nye-afveje-tv2",
+  "name": "Bubber & BS på nye afveje",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Legebarnet og jægersoldaten har været på ny ekspedition i Canada, og også denne gang har elementerne tvunget Bubber til at se livsfarlige dyr - og sin egen frygt - i øjnene.",
+  "image": "https://cdn-play.tv2i.dk/d975d0b4-9572-4747-a090-b9679b7007d0.jpg?auto=format%2Ccompress&fm=webp&rect=3%2C0%2C3837%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0c2f742e-50a7-4118-996d-e5d218baf652",
+      "season": 1,
+      "number": 1,
+      "name": "Canadas vestkyst",
+      "airdate": "2007-02-07"
+    },
+    {
+      "id": "eb1d0ba2-8b6a-4300-9aff-31e34b8e3799",
+      "season": 1,
+      "number": 2,
+      "name": "Canadas vestkyst",
+      "airdate": "2007-02-14"
+    },
+    {
+      "id": "96d3a1ca-0129-412a-be32-4f4d166b0019",
+      "season": 1,
+      "number": 3,
+      "name": "Canadas vestkyst",
+      "airdate": "2007-02-21"
+    },
+    {
+      "id": "18c07714-8ab6-4d6b-abc2-72f8fb3f7131",
+      "season": 1,
+      "number": 4,
+      "name": "Canadas vestkyst",
+      "airdate": "2007-02-28"
+    },
+    {
+      "id": "85d2b82c-7c44-452e-95e3-3aa138a26f3c",
+      "season": 1,
+      "number": 5,
+      "name": "Canadas vestkyst",
+      "airdate": "2007-03-07"
+    },
+    {
+      "id": "44bbbda9-27b0-4313-9164-f0ccb012894b",
+      "season": 1,
+      "number": 6,
+      "name": "Canadas vestkyst",
+      "airdate": "2007-03-14"
+    }
+  ]
+}

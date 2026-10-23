@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:din-teenagers-hemmelige-liv-tv2",
+  "name": "Din teenagers hemmelige liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Alkohol, hash og stoffer. Der er fristelser nok som ung teenager i Danmark.Vi har fået unik adgang til en række helt unge 14-16-årige, som allerede er meget erfarne brugere af rusmidler.",
+  "image": "https://cdn-play.tv2i.dk/83fd0b3b-a13b-4d76-bafb-ec0cd3dfbd23.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "8f0bb5bf-fc52-472f-b846-7f839291f2d4",
+      "season": 1,
+      "number": 1,
+      "name": "Alkohol, hash og stoffer i en ung alder",
+      "airdate": "2019-08-08"
+    },
+    {
+      "id": "9ab7c32d-21d2-4d2b-a0cb-c2b2606531b4",
+      "season": 1,
+      "number": 2,
+      "name": "Alkohol, hash og stoffer i en ung alder",
+      "airdate": "2019-08-15"
+    },
+    {
+      "id": "f8780992-34f3-47d3-8440-14fb20209c5a",
+      "season": 1,
+      "number": 3,
+      "name": "Alkohol, hash og stoffer i en ung alder",
+      "airdate": "2019-08-22"
+    },
+    {
+      "id": "7ffcf198-1054-4223-8b12-8a20d6f89b74",
+      "season": 1,
+      "number": 4,
+      "name": "Alkohol, hash og stoffer i en ung alder",
+      "airdate": "2019-08-29"
+    }
+  ]
+}

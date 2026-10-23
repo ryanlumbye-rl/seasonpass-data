@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:a-recipe-for-murder-skyshowtime",
+  "name": "A Recipe for Murder",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "A Recipe for Murder er en overbevisende dokumentarserie, der fortæller om det makabre mord på den colombianske kirurg Edwin Arrieta på en rolig thailandsk ø. Daniel Sancho, en 29-årig håbefuld Youtube-kok og søn af den spanske filmstjerne Rodolfo Sancho, blev idømt fængsel på livstid for mordet.",
+  "image": "https://cdn-play.tv2i.dk/8a02b609-d5fc-4765-b70e-ad47617d638a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "842b3ea4-20cc-4fa7-9c58-047928d5ee06",
+      "season": 1,
+      "number": 1,
+      "name": "Del 1",
+      "airdate": "2025-02-23"
+    },
+    {
+      "id": "cd2b2bd7-79f8-4ca7-943e-e7463e66391a",
+      "season": 1,
+      "number": 2,
+      "name": "Del 2",
+      "airdate": "2025-02-23"
+    },
+    {
+      "id": "830e1f1d-4c2f-45f4-9c75-a841c300293e",
+      "season": 1,
+      "number": 3,
+      "name": "Del 3",
+      "airdate": "2025-02-23"
+    },
+    {
+      "id": "cccc3904-25f0-4726-a786-6395340b5651",
+      "season": 1,
+      "number": 4,
+      "name": "Del 4",
+      "airdate": "2025-03-02"
+    },
+    {
+      "id": "b60d140c-cb4c-456b-9b35-b23e1925933d",
+      "season": 1,
+      "number": 5,
+      "name": "Del 5",
+      "airdate": "2025-03-09"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:foerst-til-verdens-ende-uk-tv2echo",
+  "name": "Først til verdens ende UK",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "6578a240-5ba9-41f4-964d-ce4d45d6d065",
+      "season": 4,
+      "number": 1,
+      "name": "Sapporo",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "0d34b5b0-f635-41f9-8772-0b8f0f675c32",
+      "season": 4,
+      "number": 2,
+      "name": "Sydkorea",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "5fd4f6c3-9557-4404-9bbb-8aefaed62895",
+      "season": 4,
+      "number": 3,
+      "name": "Hanoi",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "ef4e9096-232a-4ac4-8449-eae03abe6b95",
+      "season": 4,
+      "number": 4,
+      "name": "Phnom Penh",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "ecf1f7d7-2aab-4736-b30e-fd05d5304696",
+      "season": 4,
+      "number": 5,
+      "name": "Koh Phi Phi",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "65123e4c-de3a-48fe-a85b-2e652dbbb6a2",
+      "season": 4,
+      "number": 6,
+      "name": "Malaysia",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "0119d7bc-fd24-4ab1-a7f7-728a61f4eee4",
+      "season": 4,
+      "number": 7,
+      "name": "Sumatra",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "abb513de-ff77-4089-ab6a-b6cb94e6f801",
+      "season": 4,
+      "number": 8,
+      "name": "Lombok",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "6a67dea2-25ef-4562-89a3-1669c583ed45",
+      "season": 4,
+      "number": 9,
+      "name": "Reunion",
+      "airdate": "2025-11-17"
+    }
+  ]
+}

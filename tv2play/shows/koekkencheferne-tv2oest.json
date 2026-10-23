@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:koekkencheferne-tv2oest",
+  "name": "Køkkencheferne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad skal der til for at være køkkenchef på nogle af vores allerbedste restauranter? Vi tegner et personligt portræt af køkkencheferne, og hvad der driver dem til at stræbe efter perfektion i en verden fyldt med pres og passion for mad. .",
+  "image": "https://cdn-play.tv2i.dk/d6679b68-27e1-4c41-8e67-a22fa90e75ba.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "53aec015-005f-4846-901e-6413192bcf56",
+      "season": 1,
+      "number": 1,
+      "name": "Bandholm Badehotel",
+      "airdate": "2024-11-05"
+    },
+    {
+      "id": "4c91bc3f-e4b5-4bd6-9e87-bf282108aab5",
+      "season": 1,
+      "number": 2,
+      "name": "Restaurant ND 122",
+      "airdate": "2024-11-12"
+    },
+    {
+      "id": "34be4052-dc34-4bd7-925f-fa6201275470",
+      "season": 1,
+      "number": 3,
+      "name": "Rørvig Kro",
+      "airdate": "2024-11-19"
+    },
+    {
+      "id": "d4b426ba-b0cc-4624-8ece-3821c055380b",
+      "season": 1,
+      "number": 4,
+      "name": "Restaurant B-spis",
+      "airdate": "2024-11-26"
+    },
+    {
+      "id": "4716aa92-cd8b-4a61-91aa-56c615cd361f",
+      "season": 1,
+      "number": 5,
+      "name": "Restaurant SuRi",
+      "airdate": "2024-12-03"
+    },
+    {
+      "id": "2cbe222f-3739-4e69-96fd-207f964a631b",
+      "season": 1,
+      "number": 6,
+      "name": "Hotel Frederiksminde",
+      "airdate": "2024-12-10"
+    },
+    {
+      "id": "8285d26c-e479-4ff7-85ea-089c36adca06",
+      "season": 1,
+      "number": 7,
+      "name": "Støvlet Katrines Hus",
+      "airdate": "2024-12-17"
+    },
+    {
+      "id": "fdcbeade-7d12-49f8-9191-889af2d95db9",
+      "season": 1,
+      "number": 8,
+      "name": "Vallø Slotskro",
+      "airdate": "2024-12-24"
+    },
+    {
+      "id": "3574b40e-9fed-4677-99c9-d3a59079c581",
+      "season": 1,
+      "number": 9,
+      "name": "Gaia på Vejrø",
+      "airdate": "2024-12-31"
+    },
+    {
+      "id": "db7745a5-a5b7-45c2-924f-6d9b2ca1b18a",
+      "season": 1,
+      "number": 10,
+      "name": "Dragsholm Slot",
+      "airdate": "2025-01-07"
+    }
+  ]
+}

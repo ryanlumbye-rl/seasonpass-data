@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:nicki-bille-braender-tv2",
+  "name": "Nicki Bille brænder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom tæt på den skandaleramte fodboldspiller Nicki Bille, der på få år er gået fra et succesfuldt liv i rampelyset til at være hjemløs, afhængig og arbejdsløs.",
+  "image": "https://cdn-play.tv2i.dk/eb3f2825-7ade-46a4-9ac8-3728bc75ef4d.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "f01e3cbc-4065-4f1b-b215-3cf86a660068",
+      "season": 1,
+      "number": 1,
+      "name": "Dømt skyldig",
+      "airdate": "2020-07-06"
+    },
+    {
+      "id": "5a66f149-9e8c-46a5-b19e-36649988cc3d",
+      "season": 1,
+      "number": 2,
+      "name": "Liv i kaos",
+      "airdate": "2020-07-06"
+    },
+    {
+      "id": "bb41ed92-3f76-457d-833d-c615728896c4",
+      "season": 1,
+      "number": 3,
+      "name": "Fortidens spøgelser",
+      "airdate": "2020-07-13"
+    }
+  ]
+}

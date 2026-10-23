@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:ibiza-narcos-skyshowtime",
+  "name": "Ibiza Narcos",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fra 1970'erne til 2000'erne forvandler den lille, søvnige middelhavsø Ibiza sig til en af verdens mest pulserende festhovedstæder. Udviklingen bliver drevet frem af en lukrativ og farlig narkohandel, der trækker lige så mange kriminelle som festglade turister til øen",
+  "image": "https://cdn-play.tv2i.dk/ed7b859c-4a06-4eed-8b54-da362a8cb99e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "5d7a0e8a-c04d-4b58-a0be-2e39aa378bfd",
+      "season": 1,
+      "number": 1,
+      "name": "Disorganised Crime",
+      "airdate": "2024-10-13"
+    },
+    {
+      "id": "1bb18e8e-74d5-46d9-84c8-5cc522842cb4",
+      "season": 1,
+      "number": 2,
+      "name": "No Sleep 'til Wednesday",
+      "airdate": "2024-10-13"
+    },
+    {
+      "id": "fa9fbe51-20af-4e33-8537-f80269f7690f",
+      "season": 1,
+      "number": 3,
+      "name": "Giving It the Absolute Big 'Un",
+      "airdate": "2024-10-13"
+    }
+  ]
+}

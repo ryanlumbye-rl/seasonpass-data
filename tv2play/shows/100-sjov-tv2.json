@@ -1,0 +1,124 @@
+{
+  "id": "tv2play:100-sjov-tv2",
+  "name": "100% sjov",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I '100% sjov' kæmper tre kendte danskere om, hvem der kan finde de sjoveste klip frem. Dommerpanelet består af 100 publikummer, der afgør, hvem der vinder.",
+  "image": "https://cdn-play.tv2i.dk/ec2e8063-02e8-49d3-a889-d1f945a7efd1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ed1af2ae-e3ef-4bef-9671-bc51fe80570f",
+      "season": 1,
+      "number": 1,
+      "name": "Jacob Haugaard, Mille Gori og Victor Lander",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "11bd0c1f-aef1-4fd3-8430-817849aa2017",
+      "season": 1,
+      "number": 2,
+      "name": "Andreas Bo, Natasha Brock og Micki Cheng",
+      "airdate": "2024-08-24"
+    },
+    {
+      "id": "4765973a-9381-436e-b834-a959d8ef8b51",
+      "season": 1,
+      "number": 3,
+      "name": "Peter Frödin, Lise Baastrup og Mikkel Kryger",
+      "airdate": "2024-08-31"
+    },
+    {
+      "id": "2de77ab3-ebf2-4d41-b719-4e17309a1137",
+      "season": 1,
+      "number": 4,
+      "name": "Annette Heick, Mads Vad og Carsten Bang",
+      "airdate": "2024-09-07"
+    },
+    {
+      "id": "3fc14827-4bb5-40db-a062-6c4cc887d367",
+      "season": 1,
+      "number": 5,
+      "name": "Torben Chris, Ane Høgsberg og Ulla Vejby",
+      "airdate": "2024-09-14"
+    },
+    {
+      "id": "78adf4d6-40da-4be2-a5b5-2b3387e5dd8e",
+      "season": 1,
+      "number": 6,
+      "name": "Lars Hjortshøj, Jesper Ole Feit og Amalie Rud Seerup",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "426a85ca-839e-4744-884c-374a6548c6df",
+      "season": 1,
+      "number": 7,
+      "name": "Gordon Kennedy, Anders Fjeldsted og Kristina 'Mulle' Kristiansen",
+      "airdate": "2024-09-28"
+    },
+    {
+      "id": "b79ee6cc-396f-44b2-8023-270ed25ed1af",
+      "season": 1,
+      "number": 8,
+      "name": "Lasse Rimmer, Lina Rafn og Umut Sakarya",
+      "airdate": "2024-10-05"
+    },
+    {
+      "id": "874b8970-fca7-4c9f-8751-21c3d5bce509",
+      "season": 2,
+      "number": 1,
+      "name": "100% sjove dyr",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "189d2512-c77e-48b3-b827-8de3173d43ca",
+      "season": 2,
+      "number": 2,
+      "name": "Helt til tårer",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "c8cdec32-7748-484f-9c6f-3e265128258d",
+      "season": 2,
+      "number": 3,
+      "name": "Mundbæ og flødeboller",
+      "airdate": "2025-06-07"
+    },
+    {
+      "id": "1c1a5699-e07a-4d4f-a704-13ba6b3cc50b",
+      "season": 2,
+      "number": 4,
+      "name": "Blæst bagover af grin",
+      "airdate": "2025-06-14"
+    },
+    {
+      "id": "cc5d863d-f1f4-499b-9925-4a7f41ba97b5",
+      "season": 2,
+      "number": 5,
+      "name": "En vest til lejligheden",
+      "airdate": "2025-06-21"
+    },
+    {
+      "id": "0c372e03-9192-467a-93ff-99135d982745",
+      "season": 2,
+      "number": 6,
+      "name": "Niels Olsen og No Cap",
+      "airdate": "2025-06-28"
+    },
+    {
+      "id": "998542b9-8d20-4829-83cb-7474cb59187b",
+      "season": 2,
+      "number": 7,
+      "name": "Tyren fra Thy",
+      "airdate": "2025-07-05"
+    },
+    {
+      "id": "8df11d51-f02b-45fb-8609-58e35be8b46b",
+      "season": 2,
+      "number": 8,
+      "name": "Højt at flyve…",
+      "airdate": "2025-07-12"
+    }
+  ]
+}

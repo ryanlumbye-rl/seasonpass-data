@@ -1,0 +1,152 @@
+{
+  "id": "tv2play:frasier-2023-skyshowtime",
+  "name": "Frasier (2023)",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Frasier Crane vender tilbage til Boston for at begynde på det næste kapitel i sit liv med nye udfordringer, nye forhold, der skal smedes, og en gammel drøm eller to, der endelig skal opfyldes.",
+  "image": "https://cdn-play.tv2i.dk/ee80d3a1-47e6-4917-aed4-08ff3159da2a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3319%2C1865&w=1280",
+  "episodes": [
+    {
+      "id": "d6f40c03-7fb8-43f0-9d46-b5c29b094ef6",
+      "season": 1,
+      "number": 1,
+      "name": "The Good Father",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "08cf523c-ed28-42c7-af62-a99575b919f6",
+      "season": 1,
+      "number": 2,
+      "name": "Moving In",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "0d6d0694-d93f-48f2-9c78-bde728768608",
+      "season": 1,
+      "number": 3,
+      "name": "First Class",
+      "airdate": "2023-11-10"
+    },
+    {
+      "id": "429a6097-39a9-4eaf-a9f2-d00ec6a3a7c1",
+      "season": 1,
+      "number": 4,
+      "name": "Trivial Pursuits",
+      "airdate": "2023-11-17"
+    },
+    {
+      "id": "86853249-795e-4ddf-93ca-caadb2f3b07b",
+      "season": 1,
+      "number": 5,
+      "name": "The Founders Society",
+      "airdate": "2023-11-24"
+    },
+    {
+      "id": "4286e51e-d1d7-4cb8-8c10-113d9126913c",
+      "season": 1,
+      "number": 6,
+      "name": "Blind date",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "7c3e4172-6040-4475-9024-d43826e55378",
+      "season": 1,
+      "number": 7,
+      "name": "Freddy’s Birthday",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "bf349590-2079-4587-a5b1-ab912a22d9b7",
+      "season": 1,
+      "number": 8,
+      "name": "The B Story",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "0d4064a8-1992-4597-8387-3863eaa4ae49",
+      "season": 1,
+      "number": 9,
+      "name": "The Fix Is In",
+      "airdate": "2023-12-22"
+    },
+    {
+      "id": "bbfd56dd-0564-4704-b7f7-fced478231f7",
+      "season": 1,
+      "number": 10,
+      "name": "Reindeer Games",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "b17592da-d161-42ef-a116-f32c3ab48b6a",
+      "season": 2,
+      "number": 1,
+      "name": "Ham",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "621ef202-d234-4781-b35b-fc41ad000468",
+      "season": 2,
+      "number": 2,
+      "name": "Cyrano, Cyrano",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "592d2eff-e653-421f-90df-99b18971556e",
+      "season": 2,
+      "number": 3,
+      "name": "All About Eve",
+      "airdate": "2024-09-30"
+    },
+    {
+      "id": "ae64d893-b49f-4562-a9c5-16c27c8f92ae",
+      "season": 2,
+      "number": 4,
+      "name": "The Dedication",
+      "airdate": "2024-10-07"
+    },
+    {
+      "id": "7d969e05-eb1f-44f8-806d-b7bcaa11fb91",
+      "season": 2,
+      "number": 5,
+      "name": "The Squash Courtship of Freddy's Father",
+      "airdate": "2024-10-14"
+    },
+    {
+      "id": "6af6d50c-e470-4482-aba4-bc5ce10a26d4",
+      "season": 2,
+      "number": 6,
+      "name": "Cape Cod",
+      "airdate": "2024-10-21"
+    },
+    {
+      "id": "a2462c19-c367-4e67-8aa7-a5d828c98898",
+      "season": 2,
+      "number": 7,
+      "name": "My Brilliant Sister",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "84a58287-464c-4dcc-b3e5-b6333d4ff22b",
+      "season": 2,
+      "number": 8,
+      "name": "Thank You, Dr. Crane",
+      "airdate": "2024-11-04"
+    },
+    {
+      "id": "553b3b10-0061-4bd8-8a1a-1429b055e5f6",
+      "season": 2,
+      "number": 9,
+      "name": "Murder Most Finch",
+      "airdate": "2024-11-11"
+    },
+    {
+      "id": "ff29741d-3d57-4968-b4ca-566a300b776a",
+      "season": 2,
+      "number": 10,
+      "name": "Father Christmas",
+      "airdate": "2024-11-18"
+    }
+  ]
+}

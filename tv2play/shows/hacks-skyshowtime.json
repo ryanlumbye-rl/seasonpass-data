@@ -1,0 +1,201 @@
+{
+  "id": "tv2play:hacks-skyshowtime",
+  "name": "Hacks",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Deborah Vance, en legendarisk stand-up-komiker fra Las Vegas, skal genopfinde sit aldrende nummer for at undgå at miste sin kontrakt. Ava Daniels er en ung, arrogant men arbejdsløs komedieforfatter. Da Avas agent sender hende på arbejde som Deborahs nye chefforfatter, knytter de to langsomt bånd.",
+  "image": "https://cdn-play.tv2i.dk/d3782dc4-3bd9-3f24-864b-399cdd2a40d3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "43554e9d-1904-434a-97e3-8bbf6fec0ff6",
+      "season": 1,
+      "number": 1,
+      "name": "There Is No Line",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "5a49f13c-9ca8-48eb-bca4-78c421a53d51",
+      "season": 1,
+      "number": 2,
+      "name": "Primm",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "fba01646-bfa4-45c1-b032-7286b2eebe6f",
+      "season": 1,
+      "number": 3,
+      "name": "A Gig's a Gig",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "d561cd3e-20c6-4261-80bc-777e23d07a4b",
+      "season": 1,
+      "number": 4,
+      "name": "D'Jewelry",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "14d6049e-21e5-4207-9f67-8aaba69f4bf4",
+      "season": 1,
+      "number": 5,
+      "name": "Falling",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "60114a61-4b2f-4c2a-943a-052ce63ad36e",
+      "season": 1,
+      "number": 6,
+      "name": "New Eyes",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "4044bbeb-0ab1-490c-8517-810d79c7e83b",
+      "season": 1,
+      "number": 7,
+      "name": "Tunnel of Love",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "adde98d9-56ea-431d-b906-7cd0b8b5c28f",
+      "season": 1,
+      "number": 8,
+      "name": "1.69 Million",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "16d7dbe6-e221-43ac-9fc6-97ec2c9626ee",
+      "season": 1,
+      "number": 9,
+      "name": "Interview",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "e2e2ab59-d5a8-42cd-a93b-dfaa69fe77fb",
+      "season": 1,
+      "number": 10,
+      "name": "I Think She Will",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "bba16518-6ef5-46bb-8287-c24dba1c1447",
+      "season": 2,
+      "number": 1,
+      "name": "There Will Be Blood",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "85caae32-75a9-41de-b7f6-4c246e468d25",
+      "season": 2,
+      "number": 2,
+      "name": "Quid Pro Quo",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "ca83c797-4bb3-4a8e-9ca4-5246858dcc70",
+      "season": 2,
+      "number": 3,
+      "name": "Trust the Process",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "886313c1-61c3-4392-804e-73af29f203a9",
+      "season": 2,
+      "number": 4,
+      "name": "The Captain's Wife",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "45045cb9-cdd5-4d01-8cbd-37925aec135d",
+      "season": 2,
+      "number": 5,
+      "name": "Retired",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "af3a63bf-7de6-448b-b6da-eb6767328e5c",
+      "season": 2,
+      "number": 6,
+      "name": "The Click",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "bd10608e-7dcf-4c1c-ba7b-61103114a161",
+      "season": 2,
+      "number": 7,
+      "name": "On the Market",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "585af5d4-1590-4326-9413-56cd892ed277",
+      "season": 2,
+      "number": 8,
+      "name": "The One, the Only",
+      "airdate": "2024-11-01"
+    },
+    {
+      "id": "18b009f8-bdd3-4ec2-be09-52800bd71f70",
+      "season": 3,
+      "number": 1,
+      "name": "Just for Laughs",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "be3edc0c-3005-4fba-936a-1da8358e2a65",
+      "season": 3,
+      "number": 2,
+      "name": "Better Late",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "92edc562-10f9-4483-b974-31470d749cf8",
+      "season": 3,
+      "number": 3,
+      "name": "The Roast of Deborah Vance",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "12499f86-8169-485f-ab69-23919bc6da1e",
+      "season": 3,
+      "number": 4,
+      "name": "Join the Club",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "fc854a52-b9cd-4da7-b1dd-087e77687867",
+      "season": 3,
+      "number": 5,
+      "name": "One Day",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "18b51995-5f69-47a0-a5aa-6f4690abef10",
+      "season": 3,
+      "number": 6,
+      "name": "Par for the Course",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "5c1e19c6-621a-4574-aeb7-394e42dd02c9",
+      "season": 3,
+      "number": 7,
+      "name": "The Deborah Vance Christmas Spectacular",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "6dd5c610-a4b7-4bd9-9f28-15fe3d0e3212",
+      "season": 3,
+      "number": 8,
+      "name": "Yes, And",
+      "airdate": "2026-07-22"
+    },
+    {
+      "id": "3ec52cf1-fef3-4481-9c29-25a6a01bb90a",
+      "season": 3,
+      "number": 9,
+      "name": "Bulletproof",
+      "airdate": "2026-07-22"
+    }
+  ]
+}

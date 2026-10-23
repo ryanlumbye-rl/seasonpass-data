@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:hemmeligheden-i-skyggearkivet-tv2",
+  "name": "Hemmeligheden i skyggearkivet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "9000 børn blev adopteret fra Sydkorea til Danmark fra 1970 til 2014. Langt de fleste har fået at vide, at de var hittebørn. Men er det rigtigt, eller skjuler adoptionsbureauerne noget i skyggearkiverne? I to programmer følger TV 2 Dokumentar med tre adopterede til Sydkorea for at finde svar.",
+  "image": "https://cdn-play.tv2i.dk/6ef9544c-ad74-42ce-8441-4e6c6ab83341.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "502797d8-20d1-4221-a52a-268b47c74e50",
+      "season": 1,
+      "number": 1,
+      "name": "Løgnen om os",
+      "airdate": "2023-08-02"
+    },
+    {
+      "id": "703c5f15-6e8d-417f-89ea-74182c7edd5d",
+      "season": 1,
+      "number": 2,
+      "name": "Jagten på de skjulte søskende",
+      "airdate": "2023-08-02"
+    }
+  ]
+}

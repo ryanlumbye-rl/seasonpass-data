@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:kan-man-spise-sig-rask-tv2",
+  "name": "Kan man spise sig rask?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I fire programmer tester otte danskere med kroniske sygdomme, om de kan spise sig raske.",
+  "image": "https://cdn-play.tv2i.dk/67dd4899-32c9-4de0-9801-2d82d3942d3d.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "7dcb4074-2413-4a1d-bfb9-170bc9fd751c",
+      "season": 1,
+      "number": 1,
+      "name": "Nina og Signe",
+      "airdate": "2017-12-26"
+    },
+    {
+      "id": "192c3c60-76db-4307-ba64-e41760726543",
+      "season": 1,
+      "number": 2,
+      "name": "Jill og Jesper",
+      "airdate": "2018-01-02"
+    },
+    {
+      "id": "8fd6b0a3-fe3f-4ecf-a3d8-e3b31dcf4ec3",
+      "season": 1,
+      "number": 3,
+      "name": "Ernst og Lene",
+      "airdate": "2018-01-09"
+    },
+    {
+      "id": "0ad9104b-e0ac-4e6e-93c4-8ca5d8b7f1f9",
+      "season": 1,
+      "number": 4,
+      "name": "Susanne og Brian",
+      "airdate": "2018-01-23"
+    },
+    {
+      "id": "8b344282-ca22-48f8-98c5-da08e6a8a963",
+      "season": 2,
+      "number": 1,
+      "name": "Psoriasisgigt og søvnapnø",
+      "airdate": "2019-01-30"
+    },
+    {
+      "id": "180244b7-4298-42fa-89b5-ab127da93b5f",
+      "season": 2,
+      "number": 2,
+      "name": "Børneeksem og astma",
+      "airdate": "2019-01-30"
+    },
+    {
+      "id": "4a1c2711-5a6f-4c9c-992d-7bff01b09d59",
+      "season": 2,
+      "number": 3,
+      "name": "Kronisk tarmbetændelse og migræne",
+      "airdate": "2019-02-06"
+    },
+    {
+      "id": "d51a436e-ae3f-4acd-9e72-8e047f02bd34",
+      "season": 2,
+      "number": 4,
+      "name": "Rosacea, forhøjet blodtryk og type 2-diabetes",
+      "airdate": "2019-02-13"
+    },
+    {
+      "id": "dc09e93d-a58f-4227-a5e5-2760b6a9e505",
+      "season": 2,
+      "number": 5,
+      "name": "Type 2-diabetes og leddegigt",
+      "airdate": "2019-02-20"
+    }
+  ]
+}

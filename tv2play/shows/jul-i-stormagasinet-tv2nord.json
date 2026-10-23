@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:jul-i-stormagasinet-tv2nord",
+  "name": "Jul i stormagasinet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mette Kringel elsker julen. Det er heldigt. For hun er chefdekoratør i stormagasinet Salling, hvor julen starter i august",
+  "image": "https://cdn-play.tv2i.dk/35be78bf-683d-49e8-9572-b1f57208702e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6fb0ecaa-4898-4b09-a99a-466c6199b22d",
+      "season": 1,
+      "number": 1,
+      "name": "Ingen jul uden glimmer",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "f38ada0a-4391-4c78-bca3-5db6a1376863",
+      "season": 1,
+      "number": 2,
+      "name": "Den store afsløring",
+      "airdate": "2024-12-08"
+    }
+  ]
+}

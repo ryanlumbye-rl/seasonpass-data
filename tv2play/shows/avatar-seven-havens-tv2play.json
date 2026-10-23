@@ -2,10 +2,24 @@
   "id": "tv2play:avatar-seven-havens-tv2play",
   "name": "Avatar: Seven Havens",
   "service": "tv2",
-  "status": "Unknown",
+  "status": "Running",
   "tmdbId": null,
-  "next": null,
+  "next": "2026-10-31",
   "episodes": [
+    {
+      "id": "4eb721aa-ce4b-4fae-8107-60397fe5fc16",
+      "season": 1,
+      "number": 1,
+      "name": "I horisonten",
+      "airdate": "2026-10-17"
+    },
+    {
+      "id": "f093ab09-5afa-4b63-9980-9c31baf34400",
+      "season": 1,
+      "number": 2,
+      "name": "Ordenen",
+      "airdate": "2026-10-17"
+    },
     {
       "id": "490f1228-c920-406f-bb3b-b6becdfc8b9c",
       "season": 1,
@@ -13,5 +27,7 @@
       "name": "Under overfladen",
       "airdate": "2026-10-31"
     }
-  ]
+  ],
+  "description": "Gamle legender vækkes til live, mens kampen om de syv fristeder tager fart. Kun mod, venskab og elementernes kraft kan redde verden.",
+  "image": "https://cdn-play.tv2i.dk/6dc71ce8-4187-3b31-9aa7-00c961aa887f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3799%2C2137&w=1280"
 }

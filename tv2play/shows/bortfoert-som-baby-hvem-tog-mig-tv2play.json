@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:bortfoert-som-baby-hvem-tog-mig-tv2play",
+  "name": "Bortført som baby - hvem tog mig?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 1997 brænder ægteparret Pedro og Luzaidas hus ned. Og i branden omkommer på tragisk vis deres 10 dage gamle baby, Delimar. Men seks år senere tager sagen en fuldkommen uventet og overraskende drejning, der kræver, at politiet involveres på ny. Omkom Delimar i branden, eller er hun i live?",
+  "image": "https://cdn-play.tv2i.dk/7ff7f0a8-d214-4108-99f5-79e6499b36e8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2915b98e-adf3-4f71-b1dd-003d53abc48c",
+      "season": 1,
+      "number": 1,
+      "name": "Familiefesten",
+      "airdate": "2025-07-14"
+    },
+    {
+      "id": "68d2d71d-773d-494a-ae1f-4bc89221adf8",
+      "season": 1,
+      "number": 2,
+      "name": "Kidnapningen",
+      "airdate": "2025-07-21"
+    },
+    {
+      "id": "9edd6b2a-2403-4276-84a1-79686157d414",
+      "season": 1,
+      "number": 3,
+      "name": "Jagten på svar",
+      "airdate": "2025-07-28"
+    }
+  ]
+}

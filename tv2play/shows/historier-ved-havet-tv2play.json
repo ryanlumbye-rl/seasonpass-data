@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:historier-ved-havet-tv2play",
+  "name": "Historier ved havet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mogens Arnt Christensen har ganske vist rundet 90 år, men han er stadig aktiv som strandfoged. Han fortæller historier fra et langt liv ved Nordbornholms kyster.",
+  "image": "https://cdn-play.tv2i.dk/a26ccc71-d8ad-4b56-8d91-c049e40b9cd4.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3698%2C2080&w=1280",
+  "episodes": [
+    {
+      "id": "858510cc-3a9f-498d-b392-e7eab87dc608",
+      "season": 1,
+      "number": 1,
+      "name": "De døde kvinder",
+      "airdate": "2026-01-13"
+    },
+    {
+      "id": "29508cd9-af58-4fcf-8bff-5e8640ff2452",
+      "season": 1,
+      "number": 2,
+      "name": "Bombemand og tyveri",
+      "airdate": "2026-01-13"
+    },
+    {
+      "id": "4fb87341-bbd0-4bc6-8d11-2ff53e8c8160",
+      "season": 1,
+      "number": 3,
+      "name": "Fyrpasserens fine middag",
+      "airdate": "2026-01-13"
+    },
+    {
+      "id": "31c587a1-f219-463f-8f45-e1d935bc1285",
+      "season": 1,
+      "number": 4,
+      "name": "Forlis og bøderegn",
+      "airdate": "2026-01-13"
+    },
+    {
+      "id": "91b9cfe8-cd75-4fa6-9864-ac7367fece67",
+      "season": 1,
+      "number": 5,
+      "name": "Det halve liv",
+      "airdate": "2026-01-13"
+    }
+  ]
+}

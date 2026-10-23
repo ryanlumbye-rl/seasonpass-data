@@ -299,6 +299,15 @@
       "number": 6,
       "name": "Før klokkerne ringer",
       "airdate": "2025-10-19"
+    },
+    {
+      "id": "ef875eb1-940e-4f32-966a-c5c196edac6f",
+      "season": 8,
+      "number": 1,
+      "name": "Knuste drømme",
+      "airdate": "2026-10-25"
     }
-  ]
+  ],
+  "description": "Følg de unge studerende og personalets gang på Fredenslund Hospital, hvor kærlighed, intriger og kampen mellem liv og død præger hverdagen.",
+  "image": "https://cdn-play.tv2i.dk/604182cc-2acc-352e-bd2c-cede0a34e6a6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3888%2C2160&w=1280"
 }

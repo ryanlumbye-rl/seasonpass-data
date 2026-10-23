@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:suits-la-skyshowtime",
+  "name": "Suits L.A.",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ted Black, en tidligere føderal anklager fra New York, har genopfundet sig selv som repræsentant for de mest magtfulde klienter i Los Angeles. Hans firma befinder sig i en krise, og for at overleve må han påtage sig en rolle, han har foragtet hele sin karriere.",
+  "image": "https://cdn-play.tv2i.dk/70e8b15e-9265-45b7-9de2-d21c1e748531.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8ea44757-6eaa-4066-aa83-91f49da5b95d",
+      "season": 1,
+      "number": 1,
+      "name": "Seven Days a Week and Twice on Sunday",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "d80b2b61-5df6-410d-979c-207b9689799b",
+      "season": 1,
+      "number": 2,
+      "name": "Old Man Hanrahan",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "13fb6cac-33a5-4f24-aafd-c7a6db6f034e",
+      "season": 1,
+      "number": 3,
+      "name": "He Knew",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "4eea8045-ac03-4648-a98e-a036979f64db",
+      "season": 1,
+      "number": 4,
+      "name": "Batman Returns",
+      "airdate": "2025-09-04"
+    },
+    {
+      "id": "2d3b039c-532e-4a53-9b78-f6857ff549ec",
+      "season": 1,
+      "number": 5,
+      "name": "You're on Your Own",
+      "airdate": "2025-09-11"
+    },
+    {
+      "id": "0b15927e-ee02-42fe-a2b3-2aa617f68b07",
+      "season": 1,
+      "number": 6,
+      "name": "Dester",
+      "airdate": "2025-09-18"
+    },
+    {
+      "id": "3f776577-4649-45bd-97ec-a5e16e8a60db",
+      "season": 1,
+      "number": 7,
+      "name": "Good Times",
+      "airdate": "2025-09-25"
+    },
+    {
+      "id": "4b8fbd44-5c0f-4f89-bc55-b3f673db35e0",
+      "season": 1,
+      "number": 8,
+      "name": "Acapulco",
+      "airdate": "2025-10-02"
+    },
+    {
+      "id": "72c2d909-54c9-4bc1-a25d-3c921cba145c",
+      "season": 1,
+      "number": 9,
+      "name": "Bat Signal",
+      "airdate": "2025-10-09"
+    },
+    {
+      "id": "33011ec3-ba86-4854-910c-4c46b37bae07",
+      "season": 1,
+      "number": 10,
+      "name": "Slugfest",
+      "airdate": "2025-10-16"
+    },
+    {
+      "id": "43a7bfb5-b95a-42a3-871d-47413830b49d",
+      "season": 1,
+      "number": 11,
+      "name": "Stuart and the Tedster",
+      "airdate": "2025-10-23"
+    },
+    {
+      "id": "96abd6d8-76f1-4bff-882b-c0d46d15cd2b",
+      "season": 1,
+      "number": 12,
+      "name": "Angry Sylvester",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "257a76ef-b3dd-4782-a462-c7ad70beb1bb",
+      "season": 1,
+      "number": 13,
+      "name": "Freedom",
+      "airdate": "2025-11-06"
+    }
+  ]
+}

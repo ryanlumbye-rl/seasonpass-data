@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:crutch-tv2play",
+  "name": "Crutch",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En enkemands planer om at flytte fra sit hjem i Harlem bliver sat på pause, da hans voksne søn og frisindede datter flytter hjem igen.",
+  "image": "https://cdn-play.tv2i.dk/e26e5d40-e5ae-4a18-b289-7500c859e85d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "1cd8fc09-5693-4ae5-a658-023ae38ad59a",
+      "season": 1,
+      "number": 1,
+      "name": "Financial Crutch",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "8dc0d90c-1b91-41c1-99a7-1b32d92baadb",
+      "season": 1,
+      "number": 2,
+      "name": "Crazy Crutch",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "de95e9f8-c64c-405e-aa1d-038d5ea50591",
+      "season": 1,
+      "number": 3,
+      "name": "Emotional Crutch",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "7b7ca64d-48b1-4c98-8121-cb63ba795f13",
+      "season": 1,
+      "number": 4,
+      "name": "Coach Crutch",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "0ea1e3f4-ee36-41ab-9b1d-e7da5d7ecb36",
+      "season": 1,
+      "number": 5,
+      "name": "Community Crutch",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "ac554322-6286-4173-b21b-de07d23ad3de",
+      "season": 1,
+      "number": 6,
+      "name": "Legal Crutch",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "6c9ab04c-6bbf-4624-ab83-8720a62c6a37",
+      "season": 1,
+      "number": 7,
+      "name": "Matchmaker Crutch",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "b1ce246f-5d8d-4abd-bc78-c3a15be8f1be",
+      "season": 1,
+      "number": 8,
+      "name": "Free Crutch",
+      "airdate": "2026-01-08"
+    }
+  ]
+}

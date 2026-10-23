@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:feel-free-to-fuck-up-tv2oestjylland",
+  "name": "Feel free to fuck up",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I ni år har et kamera fulgt en gruppe unge aarhusianere i deres kamp for at skabe et sted i byen for alle de unge, der ikke passer ind. Albert F. Helmig og Laura Carlsen stifter i 2016 kulturforeningen Aarhus Volume, der holder gadefester, hvor dengang upcoming kunstnere spiller.",
+  "image": "https://cdn-play.tv2i.dk/5c8c71de-c79e-4651-9c6a-d54c98a32b30.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6d4635b4-7c8e-4bcc-bc06-4e6036e3ec38",
+      "season": 1,
+      "number": 1,
+      "name": "Vi kommer til at overtage det hele!",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "ef373958-2444-4ccb-a9fb-e7b6114bf402",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad har vi gang i?",
+      "airdate": "2025-04-11"
+    },
+    {
+      "id": "d5e3cb5f-fcb5-45b2-9592-0736f3434f2d",
+      "season": 1,
+      "number": 3,
+      "name": "Man skal ikke dø, når man er 24",
+      "airdate": "2025-04-18"
+    }
+  ]
+}

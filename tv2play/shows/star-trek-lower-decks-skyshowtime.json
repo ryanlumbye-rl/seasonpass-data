@@ -21,6 +21,20 @@
       "airdate": "2025-07-30"
     },
     {
+      "id": "f713d676-389b-4c09-8714-8b7df3535877",
+      "season": 1,
+      "number": 3,
+      "name": "Temporal Edict",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "b96c6856-dcc5-439f-8b5e-0cf0cb66d05d",
+      "season": 1,
+      "number": 4,
+      "name": "Moist Vessel",
+      "airdate": "2025-07-30"
+    },
+    {
       "id": "389e3bdb-d191-415c-97c2-3152df9eeca6",
       "season": 1,
       "number": 5,
@@ -42,10 +56,31 @@
       "airdate": "2025-07-30"
     },
     {
+      "id": "3fd6e57b-fe6d-412f-b6e6-ab5be635a01d",
+      "season": 1,
+      "number": 8,
+      "name": "Veritas",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "e4557feb-1aa5-46d8-884d-9b3e670567f1",
+      "season": 1,
+      "number": 9,
+      "name": "Crisis Point",
+      "airdate": "2025-07-30"
+    },
+    {
       "id": "a9d3913d-83f5-4c6f-ab76-141c4b11cdc9",
       "season": 1,
       "number": 10,
       "name": "No Small Parts",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "99e2e046-e6c1-4562-a599-e961512c28f2",
+      "season": 2,
+      "number": 1,
+      "name": "Strange Energies",
       "airdate": "2025-07-30"
     },
     {
@@ -70,10 +105,24 @@
       "airdate": "2025-07-30"
     },
     {
+      "id": "709c0e99-8fea-42c3-82ed-f514a0d1ce46",
+      "season": 2,
+      "number": 5,
+      "name": "An Embarrassment of Dooplers",
+      "airdate": "2025-07-30"
+    },
+    {
       "id": "83a8f5ec-6c6a-441b-9851-09df1eb22833",
       "season": 2,
       "number": 6,
       "name": "The Spy Humongous",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "685863ff-9265-4ecf-9df6-8f4de8a68ba2",
+      "season": 2,
+      "number": 7,
+      "name": "Where Pleasant Fountains Lie",
       "airdate": "2025-07-30"
     },
     {
@@ -97,5 +146,7 @@
       "name": "First Contact",
       "airdate": "2025-07-30"
     }
-  ]
+  ],
+  "description": "Vi følger livet hos støttebesætningen på et af Stjerneflådens mindst vigtige skibe, U.S.S. Cerritos, i 2380. Mariner, Boimler, Rutherford og Tendi skal holde styr på deres pligter og deres sociale liv, ofte mens skibet rystes af et væld af sci-fi-anomalier.",
+  "image": "https://cdn-play.tv2i.dk/2714167d-cf98-48d8-bae1-0697a2dcf598.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:de-oversete-kvinder-tv2oestjylland",
+  "name": "De oversete kvinder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Flere og flere unge kvinder bliver sendiagnosticeret med ADHD. Vi følger tre influenceres kamp for at få hverdagen til at fungere på trods af diagnosen.  .",
+  "image": "https://cdn-play.tv2i.dk/0aceb70a-ba10-4463-be32-34673266298e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "fc062f4d-c797-4ad3-9223-2453620bb67a",
+      "season": 1,
+      "number": 1,
+      "name": "Er jeg anderledes?",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "d2630144-eb82-4897-bff4-c588d22d1f14",
+      "season": 1,
+      "number": 2,
+      "name": "Tabuer nedbrydes",
+      "airdate": "2025-02-12"
+    }
+  ]
+}

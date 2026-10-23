@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Hans Pilgaard inviterer to kendte danskere på tur og kommer rundt i hele Danmark, når der skal gættes priser på oplevelser.",
+  "image": "https://cdn-play.tv2i.dk/2322957d-69a8-4556-8cae-6b9ec0f2bd54.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3885%2C2160&w=1280",
   "episodes": [
     {
       "id": "418c2f59-511e-4701-ae4b-10b0b0cbaca7",

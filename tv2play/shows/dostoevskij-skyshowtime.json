@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:dostoevskij-skyshowtime",
+  "name": "Dostoevskij",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En skarp kriminalbetjent med en problematisk fortid kommer på sporet af den hensynsløse seriemorder Dostojevskij, som har fået sit øgenavn på grund af breve, fulde af grusomme detaljer, som han efterlader på gerningsstederne.",
+  "image": "https://cdn-play.tv2i.dk/d91bc1a6-630a-4598-acd5-7ab639cdc522.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3594%2C2022&w=1280",
+  "episodes": [
+    {
+      "id": "c3d42999-e6f8-4291-bdac-ba6fceb16653",
+      "season": 1,
+      "number": 1,
+      "name": "Dostoevskij",
+      "airdate": "2025-01-20"
+    },
+    {
+      "id": "148def19-3cec-47eb-abb5-64748570258b",
+      "season": 1,
+      "number": 2,
+      "name": "De forkerte børns by",
+      "airdate": "2025-01-20"
+    },
+    {
+      "id": "98ac0518-753c-4484-b1b7-454c41b56d34",
+      "season": 1,
+      "number": 3,
+      "name": "Containeren",
+      "airdate": "2025-01-20"
+    },
+    {
+      "id": "bea149c1-9b1f-4b1e-b80d-34b188ffb98a",
+      "season": 1,
+      "number": 4,
+      "name": "Døre",
+      "airdate": "2025-01-20"
+    },
+    {
+      "id": "d1f5bff0-0f16-40af-8e63-9097234c05ef",
+      "season": 1,
+      "number": 5,
+      "name": "Den værste årstid",
+      "airdate": "2025-01-20"
+    },
+    {
+      "id": "e08d991c-7a28-4fd6-b4ae-30e352d5e1ff",
+      "season": 1,
+      "number": 6,
+      "name": "Vær ikke ond med en slutning",
+      "airdate": "2025-01-20"
+    }
+  ]
+}

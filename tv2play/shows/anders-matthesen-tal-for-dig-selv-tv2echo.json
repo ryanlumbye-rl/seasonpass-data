@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Dansk standup fra 2006.",
+  "image": "https://cdn-play.tv2i.dk/45c1e463-af44-47d5-ba45-79e175a51a32.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2400%2C1350&w=1280",
   "episodes": [
     {
       "id": "043cee28-d51a-4b54-8651-2593761dafb5",

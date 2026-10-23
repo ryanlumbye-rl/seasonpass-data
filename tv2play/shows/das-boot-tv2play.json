@@ -1,0 +1,222 @@
+{
+  "id": "tv2play:das-boot-tv2play",
+  "name": "Das Boot",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I det besatte Frankrig under 2. Verdenskrig udsættes en ung tysk ubådsbesætning og en spion for følelsesmæssige prøvelser og umulige valg for at overleve den meningsløse krigs brutale realiteter.",
+  "image": "https://cdn-play.tv2i.dk/6aaf434b-108c-434e-ad42-c53f1493549f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "294ff244-e753-41cf-953e-20b3badf5e35",
+      "season": 1,
+      "number": 1,
+      "name": "Ny dag",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f51ca5d3-7d2e-4b55-9aa9-7fc9e1e2aaca",
+      "season": 1,
+      "number": 2,
+      "name": "Hemmelig mission",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9a2b5c87-d364-494d-9f45-869295b98e0d",
+      "season": 1,
+      "number": 4,
+      "name": "Tvivl",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3dd09579-7951-4503-b853-06868c64e5f9",
+      "season": 1,
+      "number": 5,
+      "name": "Loyalitet",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f3729698-e694-4248-8468-dc2b58776d6f",
+      "season": 1,
+      "number": 6,
+      "name": "Imod uret",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "595472da-470d-42df-8cde-559947a05189",
+      "season": 1,
+      "number": 7,
+      "name": "Helvede",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "86518fad-810a-4e35-83c9-7c9b33e48797",
+      "season": 1,
+      "number": 8,
+      "name": "Regnskabets time",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "53f01c6e-ce46-4ee3-a6bd-63904a976e50",
+      "season": 2,
+      "number": 1,
+      "name": "Exitstrategi",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a941841c-896c-4df5-a016-6f53f7931df2",
+      "season": 2,
+      "number": 2,
+      "name": "Usikre alliancer",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9eee3358-c066-4bfb-8ee9-5207c1a95295",
+      "season": 2,
+      "number": 3,
+      "name": "Sabotage",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "10659189-2f28-4632-86b1-ac2c77d50f6b",
+      "season": 2,
+      "number": 4,
+      "name": "Terningerne er kastet",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "66537577-f86d-4308-a171-cbeb2ce9f108",
+      "season": 2,
+      "number": 5,
+      "name": "Skyd for at dræbe",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f894637d-cbe8-4aca-88e2-666b49e0c28c",
+      "season": 2,
+      "number": 6,
+      "name": "Afgørelsens time",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ee0ba5aa-5e31-4836-a361-714477b73d65",
+      "season": 2,
+      "number": 7,
+      "name": "I clinch",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "df8f6a4e-3c2a-4942-911f-3085ef776fcd",
+      "season": 2,
+      "number": 8,
+      "name": "Den anden side",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ed7c02d6-3eac-418c-91c0-2485a170cf8d",
+      "season": 3,
+      "number": 1,
+      "name": "En ny chance",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "0b6c824b-d514-4bbe-a1a8-f4f218c8c301",
+      "season": 3,
+      "number": 2,
+      "name": "Nye ordrer",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "24c4c272-8b76-41b3-a6f5-3fdd2fb42451",
+      "season": 3,
+      "number": 3,
+      "name": "Tidevandet vender",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "170f99be-9eaf-4036-8cad-62043af44e44",
+      "season": 3,
+      "number": 4,
+      "name": "Krig med andre midler",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "30df0f8b-f41d-4a20-b7a0-38f7ffc72cd4",
+      "season": 3,
+      "number": 5,
+      "name": "I dybden",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "05b9a945-5884-4c5f-ae78-14a09f11b5ac",
+      "season": 3,
+      "number": 6,
+      "name": "Omringet",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "0b5137eb-19f0-4204-92d0-b028fd328fc4",
+      "season": 3,
+      "number": 7,
+      "name": "Min fjendes fjende",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "c44fa411-6493-480e-b485-d1793d2daf44",
+      "season": 3,
+      "number": 9,
+      "name": "Sømandens salme",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "6bb92e93-539d-46f5-8a66-dd92c3097c7d",
+      "season": 3,
+      "number": 10,
+      "name": "En ægte ubådsmand",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "8c385859-5d4f-4f9d-ab8f-8eafe3e2ed47",
+      "season": 4,
+      "number": 1,
+      "name": "En tysk helt",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "230aec84-3c2c-4f5e-bd2c-1739c5787b5b",
+      "season": 4,
+      "number": 2,
+      "name": "Mål i sigte",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "657ae06c-448f-416f-84a6-b3814a44d31d",
+      "season": 4,
+      "number": 3,
+      "name": "Min brors vogter",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "a7b70b35-cb83-4eaa-aef8-4d435b4c647d",
+      "season": 4,
+      "number": 4,
+      "name": "Frontlinjer",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "48ab8008-4088-48fc-9909-27542725a16c",
+      "season": 4,
+      "number": 5,
+      "name": "Ingen vej tilbage",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "ecaa32f0-fd88-4146-b357-8539afbb8567",
+      "season": 4,
+      "number": 6,
+      "name": "Intet personligt",
+      "airdate": "2025-06-01"
+    }
+  ]
+}

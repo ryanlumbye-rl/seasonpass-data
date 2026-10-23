@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:badehotellets-kokkeskole-tv2fri",
+  "name": "Badehotellets kokkeskole",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Merete Mærkedahl og Ulla Vejby inviterer en række kolleger fra 'Badehotellet' i køkkenet, og sammen bliver de udfordret i at lave danske retter fra de gode, gamle dage.",
+  "image": "https://cdn-play.tv2i.dk/8282184d-dabf-4088-ad28-3a873709be6d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e3cace26-126c-4c8e-8389-dd4707bc8a54",
+      "season": 1,
+      "number": 1,
+      "name": "Kanin på menuen…igen!",
+      "airdate": "2024-04-29"
+    },
+    {
+      "id": "a5c74892-79f0-49f4-b7b5-d99447b253bc",
+      "season": 1,
+      "number": 2,
+      "name": "Hr. Weyses elskede rødspætter og rødgrød",
+      "airdate": "2024-05-06"
+    },
+    {
+      "id": "d7195df7-5577-4276-9c68-9a6a1d1a2937",
+      "season": 1,
+      "number": 3,
+      "name": "Benløse fugle og bondepige med slør",
+      "airdate": "2024-05-13"
+    },
+    {
+      "id": "83adf85f-d6f2-407f-ad9c-b5f7c64e5f44",
+      "season": 1,
+      "number": 4,
+      "name": "Kødhakker, kåldolmere og kræmmerhuse",
+      "airdate": "2024-05-20"
+    },
+    {
+      "id": "3800b36c-c88c-4a30-af9d-89aa6aa5ab46",
+      "season": 1,
+      "number": 5,
+      "name": "Kødløs tirsdag på Badehotellet",
+      "airdate": "2024-05-27"
+    },
+    {
+      "id": "0eaf3fbc-c37a-490f-8060-2401b7e4284d",
+      "season": 1,
+      "number": 6,
+      "name": "Amanda og grev Ditmars forlovelsesmenu",
+      "airdate": "2024-06-03"
+    }
+  ]
+}

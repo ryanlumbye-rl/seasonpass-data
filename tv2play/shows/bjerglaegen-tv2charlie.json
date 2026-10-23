@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Efter flere år har bjerglægen Martin Gruber det endelig godt med sin kæreste Anne, og de nyder tiden sammen. Men desværre er der hårde tider på vej. Franziska er gravid, og Martin er far til hendes baby. Efter at Anne opdager graviditeten, er hun knust. Hvad skal der ske nu?",
+  "image": "https://cdn-play.tv2i.dk/3314dfce-b26c-4afa-8c63-76aab00509ff.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "f1059065-8cc4-4ad5-9947-3a2cd3c0b4f4",
@@ -1027,6 +1029,13 @@
       "number": 6,
       "name": "Finale Klarheit - del 2",
       "airdate": "2020-01-02"
+    },
+    {
+      "id": "79e22a9f-3adb-4053-bc1a-cc465a699778",
+      "season": 11,
+      "number": 7,
+      "name": "Lebensangst - del 1",
+      "airdate": "2020-01-03"
     },
     {
       "id": "460d78f1-7354-4b51-8034-062b7b605096",

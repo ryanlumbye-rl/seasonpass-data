@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Svensk dramaserie baseret på Jan Guillous klassiske roman om den unge Erik Ponti og hans problemfyldte år på Stjernsberg i slutningen af 1950'erne.",
+  "image": "https://cdn-play.tv2i.dk/b350ad51-cd68-4de4-b050-37121bb1bf5f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280",
   "episodes": [
     {
       "id": "c8016a19-1af5-453b-adc9-afd9f5afc134",

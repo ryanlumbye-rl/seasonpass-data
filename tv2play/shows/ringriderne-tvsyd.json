@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:ringriderne-tvsyd",
+  "name": "Ringriderne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vi kigger ind i fællesskabet bag den sønderjyske nationalsport ringridning. En folkefest med lang og stolt historie, men også faldende ryttertal. Findes der mon ringridning om 100 år?",
+  "image": "https://cdn-play.tv2i.dk/777e8bbe-6262-4f40-ac0c-d54a728453de.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "9c55996f-dba7-4129-97f8-7dd418bcfb3f",
+      "season": 1,
+      "number": 1,
+      "name": "Stolte traditioner",
+      "airdate": "2025-10-05"
+    },
+    {
+      "id": "3222d0a0-7ad6-4594-9c8c-bae8055220e3",
+      "season": 1,
+      "number": 2,
+      "name": "Royale traditioner",
+      "airdate": "2025-10-12"
+    },
+    {
+      "id": "cc2ca79f-71c5-48ec-a378-32e02a012456",
+      "season": 1,
+      "number": 3,
+      "name": "Mændenes traditioner",
+      "airdate": "2025-10-19"
+    },
+    {
+      "id": "dded77b5-9b8b-4531-8081-34eef6266a0a",
+      "season": 1,
+      "number": 4,
+      "name": "Fremtidens traditioner",
+      "airdate": "2025-10-26"
+    }
+  ]
+}

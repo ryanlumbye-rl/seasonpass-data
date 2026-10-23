@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:en-dag-paa-floejeren-tv2bornholm",
+  "name": "En dag på fløjeren",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Flyruten mellem Rønne og København er en livsnerve for Bornholm, som både erhvervsliv, patienter og pendlere er afhængige af. TV2 Bornholm har i gennem et døgn fulgt de luftens helte, der hver dag fragter øens passagerer til hovedstaden.",
+  "image": "https://cdn-play.tv2i.dk/4acf36e4-1919-412c-be00-a13f8e23a0b5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7334965b-fc90-46d9-bc2d-7187ba3c919c",
+      "season": 1,
+      "number": 1,
+      "name": "En dag på fløjeren",
+      "airdate": "2025-09-06"
+    },
+    {
+      "id": "924720dd-af96-4372-8034-701d2950d760",
+      "season": 1,
+      "number": 2,
+      "name": "Flyet, der blev væk",
+      "airdate": "2025-09-06"
+    },
+    {
+      "id": "b322691f-9eb3-4911-af8b-1ce4fce0c3ae",
+      "season": 1,
+      "number": 3,
+      "name": "Født til at flyve",
+      "airdate": "2025-09-06"
+    },
+    {
+      "id": "055d5596-a7f3-43be-b910-02720c738163",
+      "season": 1,
+      "number": 4,
+      "name": "Bornholm og Super Åge",
+      "airdate": "2025-09-06"
+    }
+  ]
+}

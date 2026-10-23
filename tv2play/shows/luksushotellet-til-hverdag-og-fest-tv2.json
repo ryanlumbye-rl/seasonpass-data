@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:luksushotellet-til-hverdag-og-fest-tv2",
+  "name": "Luksushotellet - til hverdag og fest",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Få et enestående kig bag kulisserne på et af Londons mest ikoniske hoteller. Mens hotellet fejrer sit 60-årsjubilæum, og gæster strømmer til, gennemgår det en renovering til flere millioner pund.",
+  "image": "https://cdn-play.tv2i.dk/bb415cfd-538e-4a35-82c1-a40aabb3f839.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "adbf6d87-2763-44ed-b8e1-a04fe4543597",
+      "season": 1,
+      "number": 1,
+      "name": "En dyr renovering",
+      "airdate": "2024-09-07"
+    },
+    {
+      "id": "34c2716f-c4b8-4895-b3c9-c05d1d3bc6c1",
+      "season": 1,
+      "number": 2,
+      "name": "En stor opgave",
+      "airdate": "2024-09-07"
+    },
+    {
+      "id": "22f09722-82ee-463f-94ff-5a1516d2d4a3",
+      "season": 1,
+      "number": 3,
+      "name": "Den travle sommersæson",
+      "airdate": "2024-09-14"
+    },
+    {
+      "id": "ad5d16fd-7df9-4887-b696-73b0d6688126",
+      "season": 1,
+      "number": 4,
+      "name": "Åbningsdagen",
+      "airdate": "2024-09-14"
+    }
+  ]
+}

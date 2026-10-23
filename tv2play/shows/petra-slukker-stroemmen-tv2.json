@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:petra-slukker-stroemmen-tv2",
+  "name": "Petra slukker strømmen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Energikrisen er reel, og vi opfordres alle til at spare på strømmen. Men hvordan får en familie i Danmark hverdagen til at fungere, hvis der slukkes helt for strømmen? Det undersøger Petra Nagel og hendes familie, når de i 20 dage prøver at leve uden strøm derhjemme.",
+  "image": "https://cdn-play.tv2i.dk/b0e2823d-8f74-40a1-babb-44bcfd93dafe.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C4724%2C2658&w=1280",
+  "episodes": [
+    {
+      "id": "43dd6ac2-2834-4b5c-a8dd-47334fc9d2f6",
+      "season": 1,
+      "number": 1,
+      "name": "Parforholdet på prøve",
+      "airdate": "2023-02-20"
+    },
+    {
+      "id": "d80e34e0-aeef-4de9-9c17-4e758d8be9c9",
+      "season": 1,
+      "number": 2,
+      "name": "Kan vi leve uden strøm?",
+      "airdate": "2023-02-20"
+    }
+  ]
+}

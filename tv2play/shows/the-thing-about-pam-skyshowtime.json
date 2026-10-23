@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:the-thing-about-pam-skyshowtime",
+  "name": "The Thing About Pam",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da en kvinde bliver myrdet, tager politiets efterforskning en række uventede drejninger. Efterforskningen afslører en djævelsk plan, der involverer ofrets nære veninde Pam Hupp.",
+  "image": "https://cdn-play.tv2i.dk/9c958970-97c9-4106-b69d-8157e7abdd88.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "04d38660-33ee-4069-bf7b-55992d607197",
+      "season": 1,
+      "number": 2,
+      "name": "She's a Helper",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "87a2e60e-c85b-4297-a00b-ed3269e367d8",
+      "season": 1,
+      "number": 5,
+      "name": "She's Not Who You Think She Is",
+      "airdate": "2024-12-06"
+    }
+  ]
+}

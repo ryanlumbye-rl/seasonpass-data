@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:styx-skyshowtime",
+  "name": "Styx",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den korrupte politimand Raphaël Styx vågner op og finder sig selv levende død. Mens Styx begynder at navigere rundt i denne uhyggelige tilstand, begynder han at forstå alvoren af sin situation og de udfordringer, der ligger forude.",
+  "image": "https://cdn-play.tv2i.dk/53fc810c-6847-4700-87e0-708c59f036f6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "84225dd8-f004-4156-9380-6ff01d157523",
+      "season": 1,
+      "number": 1,
+      "name": "Død",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "1a1c744a-db38-47b1-9cec-4cd5ce739e15",
+      "season": 1,
+      "number": 2,
+      "name": "Sulten",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "f7c2ea24-e376-4736-982a-8d2fa16cd5f2",
+      "season": 1,
+      "number": 3,
+      "name": "Håb",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "502e7fc1-dd95-485c-b522-ec70c5b9455b",
+      "season": 1,
+      "number": 4,
+      "name": "Monster",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "11d1f621-2c00-4050-b205-a33035bd4fd7",
+      "season": 1,
+      "number": 5,
+      "name": "Åbenbaring",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "fbc55699-3c8a-4d45-8031-f42c5844cbdb",
+      "season": 1,
+      "number": 6,
+      "name": "Vikingen",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "194894b8-2677-468a-b2e2-fb0e3824bd7d",
+      "season": 1,
+      "number": 7,
+      "name": "Prisen",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "70ff5e12-8f5d-4ca3-b8e5-ba37b45adc8c",
+      "season": 1,
+      "number": 8,
+      "name": "Ekstra chancer",
+      "airdate": "2025-05-12"
+    }
+  ]
+}

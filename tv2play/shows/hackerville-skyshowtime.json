@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:hackerville-skyshowtime",
+  "name": "Hackerville",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da et hack på en stor tysk bank spores til Rumænien, bliver cyberkriminalitetsekspert Lisa Metz sendt fra Frankfurt for at hjælpe lokale efterforskere i Timisoara, hendes fødeby, hvor hun skal konfrontere både kriminelle og sin families mørke fortid.",
+  "image": "https://cdn-play.tv2i.dk/4acda690-7448-46aa-8290-d710b15aeb67.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ce4a8166-a015-4543-9b91-93352c36375c",
+      "season": 1,
+      "number": 1,
+      "name": "Three Nines",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "4c5e8bbc-efaa-4812-9bd2-098f2e1276bc",
+      "season": 1,
+      "number": 2,
+      "name": "Red Wins",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "52011b14-d94b-4c4b-b20b-4b684953036d",
+      "season": 1,
+      "number": 3,
+      "name": "The Talented Mr. Cipi",
+      "airdate": "2023-05-12"
+    },
+    {
+      "id": "51cc94a1-d8d4-4af9-9257-86e2c668beee",
+      "season": 1,
+      "number": 4,
+      "name": "Divide and Conquer",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "e02ee164-3df9-4b38-9048-bf6d31baa621",
+      "season": 1,
+      "number": 5,
+      "name": "Offline",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "948546fd-4a09-48d4-9408-71e66276612e",
+      "season": 1,
+      "number": 6,
+      "name": "Do We Want to Play?",
+      "airdate": "2023-06-02"
+    }
+  ]
+}

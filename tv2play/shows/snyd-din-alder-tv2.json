@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:snyd-din-alder-tv2",
+  "name": "Snyd din alder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvor gammel er din krop i virkeligheden indeni, og kan du ændre på det? Kendte danskere tager imod udfordringen og skal i 12 uger spise og leve på en ny måde.",
+  "image": "https://cdn-play.tv2i.dk/4c07b77c-30a7-4a90-963e-75b5d5f713a2.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "779bb918-fc49-442b-b6c2-3bca914d05c7",
+      "season": 1,
+      "number": 1,
+      "name": "Min krops sande alder",
+      "airdate": "2024-01-02"
+    },
+    {
+      "id": "b86e4a20-145c-4523-abc8-eac229964346",
+      "season": 1,
+      "number": 2,
+      "name": "Er jeg blevet yngre indeni?",
+      "airdate": "2024-01-09"
+    },
+    {
+      "id": "cc406985-9bdf-4788-af89-dd6fe49274fd",
+      "season": 2,
+      "number": 1,
+      "name": "Nej til ultraforarbejdet mad og ja til motion",
+      "airdate": "2026-01-07"
+    },
+    {
+      "id": "c25d72d9-2809-4613-bea5-76a33cef5b68",
+      "season": 2,
+      "number": 2,
+      "name": "Var det besværet værd?",
+      "airdate": "2026-01-14"
+    }
+  ]
+}

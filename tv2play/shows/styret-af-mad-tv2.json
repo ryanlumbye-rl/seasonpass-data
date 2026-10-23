@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:styret-af-mad-tv2",
+  "name": "Styret af mad",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I dokumentarserien på fire episoder følger vi Louise, Mette, Anja, Signe, Kasper, Sonny og Karina, der alle er styret af mad og vægt. Alle kæmper de for at finde den rette hjælp til få kontrollen over deres liv tilbage.",
+  "image": "https://cdn-play.tv2i.dk/86469699-2d74-448f-b1d9-028bf681edc2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b0ef09f2-6d08-4568-9f3c-82da37f8bf57",
+      "season": 1,
+      "number": 1,
+      "name": "Forbandet vægt",
+      "airdate": "2023-07-27"
+    },
+    {
+      "id": "0005747c-3ac0-41e3-b916-15c2c006d72c",
+      "season": 1,
+      "number": 2,
+      "name": "Fortidens hemmeligheder",
+      "airdate": "2023-08-03"
+    },
+    {
+      "id": "ac1d3616-20fb-4bf5-a8eb-05d401560f57",
+      "season": 1,
+      "number": 3,
+      "name": "Syge regler",
+      "airdate": "2023-08-03"
+    },
+    {
+      "id": "a6c63a24-b1ea-41ec-8e7e-eb102ed99d4d",
+      "season": 1,
+      "number": 4,
+      "name": "Ja til livet",
+      "airdate": "2023-08-17"
+    }
+  ]
+}

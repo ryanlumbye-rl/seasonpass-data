@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": null,
+  "image": "https://cdn-play.tv2i.dk/c8fb5f76-80e9-4ca8-aa8b-5f3864089219.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "a527c08c-fd7e-4dd4-9de5-266726b662d4",

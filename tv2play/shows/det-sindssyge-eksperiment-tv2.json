@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:det-sindssyge-eksperiment-tv2",
+  "name": "Det sindssyge eksperiment",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Søren Pilmark og Amalie Dollerup spiller hovedrollerne i dramadokumentaren i fire afsnit, der blotlægger en af danmarkshistoriens mest bizarre psykiatriskandaler. Et lægehold blev frifundet for at udsætte flere hundrede danske patienter for forsøg med LSD. Men nu er et hemmeligt arkiv dukket op.",
+  "image": "https://cdn-play.tv2i.dk/2f680a52-cdaa-43d1-bee3-c748ebdcf1e5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d473e54e-9c41-4809-9921-d403be6a061a",
+      "season": 1,
+      "number": 1,
+      "name": "Mirakelkuren",
+      "airdate": "2023-11-07"
+    },
+    {
+      "id": "b1bcbbde-c117-4906-9dbe-7dd3d1d5b676",
+      "season": 1,
+      "number": 2,
+      "name": "Selvmordet",
+      "airdate": "2023-11-14"
+    },
+    {
+      "id": "ce8d50aa-d4ff-4e1d-b120-df97b6e4e4a0",
+      "season": 1,
+      "number": 3,
+      "name": "Tvang og forsøg",
+      "airdate": "2023-11-21"
+    },
+    {
+      "id": "a483ac29-9b1e-4db0-9deb-07e7d2581247",
+      "season": 1,
+      "number": 4,
+      "name": "Retssagen",
+      "airdate": "2023-11-21"
+    }
+  ]
+}

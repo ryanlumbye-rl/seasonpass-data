@@ -1,0 +1,292 @@
+{
+  "id": "tv2play:dora-udforskeren-skyshowtime",
+  "name": "Dora Udforskeren",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med, når Dora tager på eventyr sammen med sin bedste ven, aben Boots. 'Dora Udforskeren' er en interaktiv og animeret tegneserie. Du kan være med til at hjælpe Dora med de problemer, som hun og Boots støder på undervejs på deres rejser.",
+  "image": "https://cdn-play.tv2i.dk/afeaf1de-d4af-4fd9-b855-7b2697d548a2.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "82a34267-9ab8-4955-a3dc-1fe986d352e4",
+      "season": 7,
+      "number": 1,
+      "name": "Dora's Easter Adventure",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2e16d058-bf45-486e-88af-39e6a91499b9",
+      "season": 7,
+      "number": 2,
+      "name": "A Ribbon for Pinto",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "21828a69-896a-4aa2-b274-983db07db1c7",
+      "season": 7,
+      "number": 3,
+      "name": "Benny the Castaway",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6d6578f4-2dc8-4714-a6d3-458b98ba06c5",
+      "season": 7,
+      "number": 4,
+      "name": "Feliz Dia de los Padres",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "94c491a4-eaf0-4ced-bfce-b796edc6d93b",
+      "season": 7,
+      "number": 5,
+      "name": "Dora's Fantastic Gymnastics Adventure",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "389c3e7d-233c-4e7b-8631-6a6ca010ee72",
+      "season": 7,
+      "number": 6,
+      "name": "Dora's Moonlight Adventures",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e62ddb0a-3065-47b5-9326-12192a442e76",
+      "season": 7,
+      "number": 7,
+      "name": "Perrito's Big Surprise",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c9125a4a-17a2-4474-9471-ce5680121ed0",
+      "season": 7,
+      "number": 8,
+      "name": "Dora's Thanksgiving Day Parade",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "06114bcb-457f-4465-8394-a16a9a5378bd",
+      "season": 7,
+      "number": 9,
+      "name": "Check Up Day",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "722b434e-5dd3-4e7d-b16a-96b2e3b53ac8",
+      "season": 7,
+      "number": 10,
+      "name": "Little Map",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "44d24542-8ae4-401b-8833-d2b8477291db",
+      "season": 7,
+      "number": 11,
+      "name": "Baby Bongo's Big Music Show",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4ff9fe9f-4a28-4f9c-8c24-8bd5e1b5e1a5",
+      "season": 7,
+      "number": 12,
+      "name": "School Science Fair",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cf1a0b68-bb83-425e-8733-fc4a65653114",
+      "season": 7,
+      "number": 13,
+      "name": "Dora's Rescue in Mermaid Kingdom",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f770c119-24e1-4e61-bc1e-7297bb069d12",
+      "season": 7,
+      "number": 14,
+      "name": "Let's Paint!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a43d3542-0199-4e43-8838-7fd9943d84c6",
+      "season": 7,
+      "number": 15,
+      "name": "Dora in Wonderland Part 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a4fb3d43-61f0-4db7-b53d-8a5db2dd4000",
+      "season": 7,
+      "number": 16,
+      "name": "Dora in Wonderland Part 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d4c6babb-8b1a-4cf7-9f86-9e2cd4b33acd",
+      "season": 7,
+      "number": 17,
+      "name": "Dora Rocks!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9090e82e-ddcc-42c1-8a56-73a38537edb9",
+      "season": 7,
+      "number": 18,
+      "name": "The Butterfly Ball",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dcaac636-453e-456c-9414-499dcacdd940",
+      "season": 7,
+      "number": 19,
+      "name": "Dora and Diego's Amazing Animal Circus Adventure",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9c78a07e-5355-4f2b-970b-215714a59eb9",
+      "season": 7,
+      "number": 20,
+      "name": "Book Explorers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bc7bfb81-adec-43d4-8b05-a656b0f362b5",
+      "season": 8,
+      "number": 1,
+      "name": "Doras store foldboldkamp",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "8353136f-2975-4b3d-bfbb-b31d6ad661d6",
+      "season": 8,
+      "number": 2,
+      "name": "Hvalp på afveje",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "ecee0792-2a69-4d83-8282-d78f72e61009",
+      "season": 8,
+      "number": 3,
+      "name": "Fang det formtog!",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "04b07c5e-33de-4cb4-a1ea-31ab61218f17",
+      "season": 8,
+      "number": 4,
+      "name": "Greenies fødselsdagsfest",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "bcb1b56d-9d39-443e-a9f9-df1bdf6babe5",
+      "season": 8,
+      "number": 5,
+      "name": "Dora og Perrito Redder Dagen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "95d01c43-c5d7-4d0b-a039-31a3a13f7d0f",
+      "season": 8,
+      "number": 6,
+      "name": "Rutschebanebjerget",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "ec4c3195-ba51-4d10-974e-fc738766ef29",
+      "season": 8,
+      "number": 7,
+      "name": "Killingetrillinger",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "4c3407c1-89f5-41bf-9e9b-b7772b4728c2",
+      "season": 8,
+      "number": 8,
+      "name": "Doras store rulleskøjteeventyr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "b9e12f96-30ea-41d5-b3f5-f31d5550c442",
+      "season": 8,
+      "number": 9,
+      "name": "Sparkys rideeventyr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c2b50082-07c6-4273-952f-33177f35ed1b",
+      "season": 8,
+      "number": 10,
+      "name": "Doras Museums-Overnatnings-Eventyr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "565691c7-0188-4fb4-9b24-74058a6cf32d",
+      "season": 8,
+      "number": 11,
+      "name": "Dora's skøjteeventyr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "a3bf38c2-309b-47a6-b467-822f6b2cf356",
+      "season": 8,
+      "number": 12,
+      "name": "Dora redder Eventyrland - del 1",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "843cd4b1-e4be-4163-9ccc-f9cc917a39fb",
+      "season": 8,
+      "number": 13,
+      "name": "Dora redder Eventyrland - del 2",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "57899957-bef0-4a75-8e6f-45b14d10081e",
+      "season": 8,
+      "number": 14,
+      "name": "Doras Regnskov-talentshow",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "5db1d7a4-75e9-4334-b411-bc31c4b5a151",
+      "season": 8,
+      "number": 15,
+      "name": "Dora og Diego i Dinosauernes Tid",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "aef830cc-efc7-4f13-88ff-03295c987e84",
+      "season": 8,
+      "number": 16,
+      "name": "Dora og den Meget Trætte Bjørn",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "1806a0b3-fd0f-4598-a332-49ba241687f3",
+      "season": 8,
+      "number": 17,
+      "name": "Lad os tage på musikskole",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "008488d7-0293-45f7-9071-7fed9508a1c8",
+      "season": 8,
+      "number": 18,
+      "name": "Dora og Boots hjælper feen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "ce5a1716-d724-4b98-a010-52075bd2625c",
+      "season": 8,
+      "number": 19,
+      "name": "Doras Animalito Eventyr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "cab7d545-888e-45fd-9fad-3213ca05082d",
+      "season": 8,
+      "number": 20,
+      "name": "Doras Natlampe-eventyr",
+      "airdate": "2022-01-15"
+    }
+  ]
+}

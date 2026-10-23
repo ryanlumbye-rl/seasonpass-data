@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:degn-vil-vaere-far-tv2",
+  "name": "Degn vil være far",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I fire afsnit følger vi tv-vært Christian Degn og hans kæreste, Trine, der drømmer om at blive forældre",
+  "image": "https://cdn-play.tv2i.dk/d7768670-bac8-4f80-8228-d56568128fd4.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e7f2c9d7-a98f-408f-9476-b566248a1712",
+      "season": 1,
+      "number": 1,
+      "name": "Sorger og glæder",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "40a3d395-98b7-42af-acaa-96f9650bc012",
+      "season": 1,
+      "number": 2,
+      "name": "Lykken er lunefuld",
+      "airdate": "2023-02-28"
+    },
+    {
+      "id": "c10a1e4e-8b3a-4735-87d8-90aebb84954a",
+      "season": 1,
+      "number": 3,
+      "name": "Skæbnesvangre dage",
+      "airdate": "2023-03-07"
+    },
+    {
+      "id": "da740b30-d281-4fee-92b8-259920d3f74c",
+      "season": 1,
+      "number": 4,
+      "name": "Lykkens triumf ",
+      "airdate": "2023-03-14"
+    }
+  ]
+}

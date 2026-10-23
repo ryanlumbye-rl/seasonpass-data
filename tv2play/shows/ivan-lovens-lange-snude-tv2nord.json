@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:ivan-lovens-lange-snude-tv2nord",
+  "name": "Ivan - lovens lange snude",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 Nord følger den sorte schäferhvalp Ivan frem mod den mulige godkendelse som politihund ved Nordjyllands Politi. Uddannelsen er grundig, dramatisk og kan være forgæves i sidste ende, hvis ikke Ivan består alle prøver.",
+  "image": "https://cdn-play.tv2i.dk/c5133384-8a87-4651-bd33-3d858eb2300b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2158&w=1280",
+  "episodes": [
+    {
+      "id": "76632618-dc1b-4cc6-9b7c-96dd295b7328",
+      "season": 1,
+      "number": 1,
+      "name": "Ivan vil være politihund",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "5bb3fa9d-f0f9-4464-abf3-c7f883cf6316",
+      "season": 1,
+      "number": 2,
+      "name": "Balance er en svær ting",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "1f973b2b-31ef-4680-b958-e585ae682f0e",
+      "season": 1,
+      "number": 3,
+      "name": "Ivans første virkelige drama",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "34d8c70c-ea4d-491b-8185-6c8c5ed94171",
+      "season": 1,
+      "number": 4,
+      "name": "Eksamen",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "aaaf4287-e7f3-4aec-abcf-15fd9363bfb9",
+      "season": 2,
+      "number": 1,
+      "name": "Et års arbejde står på spil",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "305a08f8-6db5-49c6-b018-8dca500f3def",
+      "season": 2,
+      "number": 2,
+      "name": "Ivan får problemer med testen",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "0efb85da-2a49-4a8c-be58-d9414bc93a8d",
+      "season": 2,
+      "number": 3,
+      "name": "Ivans første patruljedag",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "a96f4634-0bb2-4837-81c2-d04547a329be",
+      "season": 3,
+      "number": 1,
+      "name": "Politihund i Superligaen",
+      "airdate": "2025-09-25"
+    },
+    {
+      "id": "5bcb4ebf-e03d-404f-82f1-852926dc9ab5",
+      "season": 3,
+      "number": 2,
+      "name": "Den forsvundne pige",
+      "airdate": "2025-10-02"
+    },
+    {
+      "id": "27f71d36-7e82-4fd4-8f73-c12b9a7fff7d",
+      "season": 3,
+      "number": 3,
+      "name": "Drabet i Farsø",
+      "airdate": "2025-10-09"
+    }
+  ]
+}

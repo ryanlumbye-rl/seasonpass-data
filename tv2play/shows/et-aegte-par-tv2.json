@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:et-aegte-par-tv2",
+  "name": "Et ægte par",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sidsel og Christian har Downs Syndrom og forholder sig til hinanden og verden uden filter - ofte med et poetisk, skævt og filosofisk blik.",
+  "image": "https://cdn-play.tv2i.dk/d08d2ea3-4582-4c6e-9f75-7e00fe5610ad.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C5474%2C3079&w=1280",
+  "episodes": [
+    {
+      "id": "00154a82-cfe7-4d5d-bce7-13f2fbacf01d",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2019-04-30"
+    },
+    {
+      "id": "9c4c7ae1-da28-4682-bf3e-30a0e16f54f3",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2019-05-07"
+    },
+    {
+      "id": "9fe8bebf-09c1-4bb5-b5f3-3bd38ef4994e",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2019-05-14"
+    }
+  ]
+}

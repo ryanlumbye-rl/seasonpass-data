@@ -1,17 +1,152 @@
 {
   "id": "tv2play:bella-and-the-bulldogs-tv2play",
   "name": "Bella and the Bulldogs",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "15002a5a-23aa-41a7-b340-7c387175deb7",
+      "season": 1,
+      "number": 1,
+      "name": "Den nye quarterback, første del",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "2a50ef56-fdd9-4b4b-9004-85b001fb2da5",
+      "season": 1,
+      "number": 2,
+      "name": "Den nye quarterback, anden del",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "eab6df3b-adca-4b8d-8091-1871bf11b705",
+      "season": 1,
+      "number": 3,
+      "name": "Sladrehanken",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "5de6549f-7b1a-4ae8-b43e-9505666faaa3",
+      "season": 1,
+      "number": 4,
+      "name": "Danser på målstregen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "567d0175-3468-44ea-8c7d-769fc46130b9",
+      "season": 1,
+      "number": 5,
+      "name": "Det er MIN tri-five!",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "f377a408-b5bb-4163-907a-2dec57821386",
+      "season": 1,
+      "number": 6,
+      "name": "Den stinkende succes",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "ceebc307-f3d8-4f4d-9064-ff31d872d433",
+      "season": 1,
+      "number": 7,
+      "name": "En venskabelig udfordring",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "6db4fe8a-6aa3-47e8-b682-f2674092c7d1",
+      "season": 1,
+      "number": 8,
+      "name": "God kampfri uge",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "4d381aba-6e79-462b-9840-62993eb8301c",
+      "season": 1,
+      "number": 9,
+      "name": "Tex Fest",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "43b8ea67-6466-415f-af04-354851acd2d3",
+      "season": 1,
+      "number": 10,
+      "name": "Tornadofrygt",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "c51f6f8a-a494-49de-9fc2-68b9a099f8e7",
+      "season": 1,
+      "number": 11,
+      "name": "Mislykket aflevering",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "5f3dfb42-3766-4212-9ca2-bac9b772529b",
+      "season": 1,
+      "number": 12,
+      "name": "Quarterback-bænkevarmer",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "9f9beb6f-5f71-4192-ab2c-0cd8af6422d5",
+      "season": 1,
+      "number": 13,
+      "name": "På date med fjenden",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "11d4d253-69e0-423b-bd9f-9a3948ed49b6",
+      "season": 1,
+      "number": 14,
+      "name": "Bedste Bulldogs",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "74216db7-b8fb-4195-99ba-222654cb4cb0",
+      "season": 1,
+      "number": 15,
+      "name": "Om had og kærester",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "c3a316de-ccf4-4c86-a72d-a2a473ba32ff",
+      "season": 1,
+      "number": 16,
+      "name": "Spark og spilopper",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "5bc3ea9a-ece1-4100-bfba-217294813d81",
+      "season": 1,
+      "number": 17,
+      "name": "Bulldog blues",
+      "airdate": "2023-02-21"
+    },
     {
       "id": "ca685056-a447-4af2-9239-2b34a78aaba8",
       "season": 1,
       "number": 18,
       "name": "Hep på Newt",
       "airdate": "2023-02-21"
+    },
+    {
+      "id": "0c22eda2-856b-4550-a722-d57013172600",
+      "season": 1,
+      "number": 19,
+      "name": "Piger ingen adgang",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "9b77afbe-3779-428e-af44-ef6cf409ef85",
+      "season": 1,
+      "number": 20,
+      "name": "Grillet",
+      "airdate": "2023-02-21"
     }
-  ]
+  ],
+  "description": "En cheerleader bliver quarterback på sin skoles amerikanske fodboldhold.",
+  "image": "https://cdn-play.tv2i.dk/efc75d84-63d4-4aa7-ba5b-4e38e8872772.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280"
 }

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:forsorgshjemmet-tv2play",
+  "name": "Forsorgshjemmet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Forsorgshjemmet i Næstved griber nogle af dem, der mangler tag over hovedet og har brug for støtte til at komme på benene igen. Vi har fulgt forsorgshjemmet og det mobile team, der kører ud for at møde borgere, som trænger til en hjælpende hånd.",
+  "image": "https://cdn-play.tv2i.dk/19d6da5b-2864-457e-9f02-3a911ba42f16.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "42d0443f-1b14-4289-a609-efc44458246e",
+      "season": 1,
+      "number": 1,
+      "name": "Løbet tør for penge",
+      "airdate": "2026-02-21"
+    },
+    {
+      "id": "c33f4fde-e86e-48b5-bd3d-1a956d646874",
+      "season": 1,
+      "number": 2,
+      "name": "Sundhedsskadelig lejlighed",
+      "airdate": "2026-02-21"
+    },
+    {
+      "id": "d60dd486-820e-4400-9b01-7709f0eb244f",
+      "season": 1,
+      "number": 3,
+      "name": "På egne ben",
+      "airdate": "2026-02-28"
+    }
+  ]
+}

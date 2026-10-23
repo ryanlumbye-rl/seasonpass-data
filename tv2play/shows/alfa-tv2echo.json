@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:alfa-tv2echo",
+  "name": "Alfa",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dansk krimiserie af brødrene Avaz om de to brødre Adam og Jakob og deres angstfulde jagt på mål og mening med livet.",
+  "image": "https://cdn-play.tv2i.dk/a4446376-345b-4770-aa5c-98dded60ee62.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2158&w=1280",
+  "episodes": [
+    {
+      "id": "cea1a13f-8217-402b-aeda-e911c491b31f",
+      "season": 1,
+      "number": 1,
+      "name": "Pivot-forretning",
+      "airdate": "2020-08-16"
+    },
+    {
+      "id": "c51d7228-29fa-4e6b-bbc0-36b6e5f4f689",
+      "season": 1,
+      "number": 2,
+      "name": "Udvid horisontalt",
+      "airdate": "2020-08-16"
+    },
+    {
+      "id": "fc642167-05ee-431f-8dcb-ed99feb7e131",
+      "season": 1,
+      "number": 3,
+      "name": "De sunkne omkostninger",
+      "airdate": "2020-08-23"
+    },
+    {
+      "id": "26b92243-e20a-4a18-b53d-015381fa0881",
+      "season": 1,
+      "number": 4,
+      "name": "Salgsmødet",
+      "airdate": "2020-08-30"
+    },
+    {
+      "id": "b685feb4-b783-499a-8dd9-b322fc034996",
+      "season": 1,
+      "number": 5,
+      "name": "Konkurrenterne",
+      "airdate": "2020-09-06"
+    },
+    {
+      "id": "d9858034-4574-437c-a5ab-be8e78c2d189",
+      "season": 1,
+      "number": 6,
+      "name": "Blue Ocean Strategi",
+      "airdate": "2020-09-13"
+    },
+    {
+      "id": "a507b3df-73a9-4a0e-b13f-63e64aebf42a",
+      "season": 1,
+      "number": 7,
+      "name": "Standardisering",
+      "airdate": "2020-09-20"
+    },
+    {
+      "id": "44c0227e-bc1a-4122-b4ea-d8fe6027a804",
+      "season": 1,
+      "number": 8,
+      "name": "Monopol",
+      "airdate": "2020-09-27"
+    }
+  ]
+}

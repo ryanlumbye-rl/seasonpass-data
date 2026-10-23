@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:inside-greenpeace-skyshowtime",
+  "name": "Inside Greenpeace",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vi følger et år hos miljøaktivisterne inden for den kendte organisation Greepeace, mens de rejser verden rundt for at skabe opmærksomhed, promovere retslige kampagner og udføre videnskabeligt arbejde på deres mission for at redde planeten",
+  "image": "https://cdn-play.tv2i.dk/75289cee-cf55-4a69-b50f-ca10b67291cf.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "04bd129b-7707-45b4-9084-40a6c68374b7",
+      "season": 1,
+      "number": 1,
+      "name": "David vs. Goliath",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "20623445-5013-45a6-bdf6-47b8a647f348",
+      "season": 1,
+      "number": 2,
+      "name": "Money Trees",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "f0a14fec-5d3c-4e97-97f9-496b92d6def5",
+      "season": 1,
+      "number": 3,
+      "name": "Old Fears, New Threats",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "9ac4a7d1-38bf-4fe0-88f6-7625acb40de0",
+      "season": 1,
+      "number": 4,
+      "name": "Fight for the Oceans",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "ddbf7298-71c6-401d-8dbe-f35d99840694",
+      "season": 1,
+      "number": 5,
+      "name": "No Time to Waste",
+      "airdate": "2023-12-14"
+    }
+  ]
+}

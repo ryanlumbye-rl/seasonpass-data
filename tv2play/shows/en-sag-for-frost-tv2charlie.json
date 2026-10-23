@@ -14,13 +14,6 @@
       "airdate": "1997-05-11"
     },
     {
-      "id": "8bb10c08-b188-4854-923e-2f79fbe24722",
-      "season": 3,
-      "number": 2,
-      "name": "Quarry",
-      "airdate": "1997-05-11"
-    },
-    {
       "id": "dec24134-0864-4ef3-bce0-9709e10e8fef",
       "season": 3,
       "number": 3,
@@ -69,5 +62,7 @@
       "name": "Deep Waters",
       "airdate": "1997-06-29"
     }
-  ]
+  ],
+  "description": "Den jordbundne, men temperamentsfulde detektiv Jack Frost - mesterligt spillet af David Jason - er beundret af sine kollegaer, men hadet af sine overordnede.",
+  "image": "https://cdn-play.tv2i.dk/4d798e7c-e41a-4b93-b1b9-074e84f8c600.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280"
 }

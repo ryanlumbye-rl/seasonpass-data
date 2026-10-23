@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:farvel-kedelige-liv-tv2play",
+  "name": "Farvel, kedelige liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mathias og hans bedste ven Lukas har købt båden Ønske. Nu står de foran deres livs eventyr: en jordomsejling, hvor Atlanterhavet bliver den første store prøve. Sammen jagter de friheden på havet og de oplevelser, der venter dem undervejs.",
+  "image": "https://cdn-play.tv2i.dk/ddc6236e-03d6-44a8-b006-4a6ca17824ae.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ab97e97f-54f8-456e-9c8f-ba37535b7a53",
+      "season": 1,
+      "number": 1,
+      "name": "Drømmekurs",
+      "airdate": "2026-01-04"
+    },
+    {
+      "id": "07eee316-5491-4bab-bb43-c94c350f26f2",
+      "season": 1,
+      "number": 2,
+      "name": "Kursen er sat",
+      "airdate": "2026-01-11"
+    },
+    {
+      "id": "6bcdf26f-15bc-469c-ba02-e057abc4eee4",
+      "season": 1,
+      "number": 3,
+      "name": "Mellem himmel og hav",
+      "airdate": "2026-01-18"
+    },
+    {
+      "id": "2b863a08-6353-4f70-b004-071603d2d3e6",
+      "season": 1,
+      "number": 4,
+      "name": "Land i sigte",
+      "airdate": "2026-01-25"
+    }
+  ]
+}

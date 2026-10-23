@@ -1,31 +1,33 @@
 {
   "id": "tv2play:klar-til-krig-tv2",
-  "name": "Klar til krig?",
+  "name": "Klar til krig",
   "service": "tv2",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Danmark skal opruste for 357 milliarder kroner. Efter i årevis at have sparet Forsvaret i sænk skal Hæren, Flyvevåbnet og Flåden nu have nyt udstyr og flere soldater. Det kan kun gå for langsomt. Spørgsmålet er, om det kan nås, og om der er folk nok.",
+  "image": "https://cdn-play.tv2i.dk/9c9c0450-14b3-3304-ad5f-e625b37885ee.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
-      "id": "e7117def-d4c3-40ba-b10e-5649ba0233b3",
+      "id": "c71aa5be-1719-49d2-a3d1-085eb31f1585",
       "season": 1,
       "number": 1,
-      "name": "Det kan kun gå for langsomt",
-      "airdate": "2026-09-16"
+      "name": "Hæren",
+      "airdate": "2026-06-07"
     },
     {
-      "id": "97b284d9-af65-454c-b6de-ee93b025360d",
+      "id": "0715cc63-c12f-4c3d-ab89-a28f817b5cbc",
       "season": 1,
       "number": 2,
-      "name": "Det skal min lille dreng ikke",
-      "airdate": "2026-09-23"
+      "name": "Flyvevåbnet",
+      "airdate": "2026-06-14"
     },
     {
-      "id": "653384a1-0aa2-464c-8930-24f49cee011c",
+      "id": "6f827cb8-95d7-4920-9de7-24d2e66d75d8",
       "season": 1,
       "number": 3,
-      "name": "Sammen er vi stærkest",
-      "airdate": "2026-09-30"
+      "name": "Søværnet",
+      "airdate": "2026-06-21"
     }
   ]
 }

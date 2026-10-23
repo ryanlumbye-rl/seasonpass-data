@@ -1,0 +1,313 @@
+{
+  "id": "tv2play:ridderprinsessen-nella-skyshowtime",
+  "name": "Ridderprinsessen Nella",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nella er prinsessen der forvandler sig til ridder! Hun tager på fantastiske eventyr med sine venner, ridder Garrett, Trinket og Clod, for at kæmpe det godes sag.",
+  "image": "https://cdn-play.tv2i.dk/39087968-49ed-4382-b74e-e1a10b84687e.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "814b1af3-ac31-46f0-b18f-c93e2a45eef4",
+      "season": 1,
+      "number": 1,
+      "name": "Prinsesse Nellas ork-ester / Blaine-legen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c0505d22-b49b-49d0-b722-92dd7f3503c8",
+      "season": 1,
+      "number": 3,
+      "name": "God-ridderlig-nat drager / Kongelig Gemmeleg",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1cbd818f-c1a5-4358-9855-cd2828aff24a",
+      "season": 1,
+      "number": 4,
+      "name": "Drilledragen / Kongelækker Blommebær",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0cfb7239-bf57-4d5d-b5a9-e531106aa1d9",
+      "season": 1,
+      "number": 5,
+      "name": "Den nye pige i kongeriget / Fødselsdagsoverraskelsen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "678aa9e2-7f6d-46a7-b059-46786771bc81",
+      "season": 1,
+      "number": 6,
+      "name": "Flagres Bommert / En Gnomling i Stødet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "36a8ddac-e227-409a-ae86-1503482e6b47",
+      "season": 1,
+      "number": 7,
+      "name": "Glimmerfesten Begynder / En glimmerplaske Vennedag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "796c6349-3c4f-4f7f-b3c6-dd3123858142",
+      "season": 1,
+      "number": 8,
+      "name": "Hvad er Bedstevenner til for? / På Dybt Vandmelon",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e29fc269-86ee-4141-9851-ba15911ccbb4",
+      "season": 1,
+      "number": 9,
+      "name": "Ridder Træners Byttekort / En Ridders Fortælling",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3ceeaab2-b117-4719-89dc-2244449675a6",
+      "season": 1,
+      "number": 10,
+      "name": "Nul Kjole, nul Krone, nul Teselskab",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5cbcb5f-1839-4a74-9c5d-5be8a735a9ac",
+      "season": 1,
+      "number": 11,
+      "name": "Deledag / Vrinskestjerner",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "da271bed-5641-4fdb-aa25-20541e6f5ca8",
+      "season": 1,
+      "number": 12,
+      "name": "Tre er en for Meget / Mere end øjet kan se",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e8e29558-f4f1-455f-870f-3dbafba83ed7",
+      "season": 1,
+      "number": 13,
+      "name": "En Totalt Kongelækker Stranddag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "341fe007-2a22-4c2d-a6f8-97553adccc82",
+      "season": 1,
+      "number": 14,
+      "name": "Om Drager og andre Væsner / Kareter, Kærrer og Kæmpe-biler",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ad9bdfab-c1d3-40bc-9d97-a09974d31e29",
+      "season": 1,
+      "number": 15,
+      "name": "Ridder Træners Mission / Drageridderen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6f7656ad-65f4-45cd-a228-3cf33f4659d5",
+      "season": 1,
+      "number": 18,
+      "name": "Den Fornemmeste i Landet her / Træning Skaber Fremskridt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "11218625-eac3-4391-8c67-7a19abc6386c",
+      "season": 1,
+      "number": 19,
+      "name": "Julens Ridder",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "99da8314-33bc-4514-9eeb-28364ff7a13c",
+      "season": 1,
+      "number": 20,
+      "name": "Lad det Sne / Dragefugle, giv den gas!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fdf9918b-364d-465e-bad7-0a1aab0ec267",
+      "season": 1,
+      "number": 21,
+      "name": "Halloween-hippogriffen / Kong Gork den Første",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "45de00d4-c0af-40a6-8799-25c3ba8701f5",
+      "season": 1,
+      "number": 22,
+      "name": "Ridder Blaines Jagt efter Mærker / Trinkets Store Uheld",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "0bcbf743-9b8e-4577-8686-59a235a07a2a",
+      "season": 1,
+      "number": 24,
+      "name": "Den Rullende Enhjørning / Den Modige Drage",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "21826fcc-45ee-4c26-b45b-0d8802b48e3f",
+      "season": 1,
+      "number": 25,
+      "name": "Flagre 2.0 / Tre der Leger",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "69bd3d3f-887e-4c6b-bbe0-f30c0573e55a",
+      "season": 1,
+      "number": 26,
+      "name": "Så Skal der Surfes / En Kæmpe Rejse",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "630a3e91-4707-4920-acc8-f4fb55133729",
+      "season": 1,
+      "number": 27,
+      "name": "Nellas labyrinteventyr / Pakkekrig i Slottehvile",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "db375d49-4f51-4dfe-8c83-c391210728b4",
+      "season": 1,
+      "number": 28,
+      "name": "Enhjørningen i Søen / Trinkets Legetøjsproblemer",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "487d5afb-0674-45ae-a7a6-9d42c8be78f8",
+      "season": 1,
+      "number": 29,
+      "name": "Byttetricks / Smagskonkurrencen",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "5e8a87b9-f8b6-4b1c-a304-f717885bbfd0",
+      "season": 1,
+      "number": 30,
+      "name": "Den Store Tøjkrise / Drage-fange",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "9952459d-7792-4ae2-9381-e3618cccdc75",
+      "season": 1,
+      "number": 32,
+      "name": "Skattejagt på Slottet / Kigger på Skovdyr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "c1a7be51-9bc5-464b-9bb3-b158663cdeb4",
+      "season": 1,
+      "number": 33,
+      "name": "Den dag Musikken Stoppede / Clod Flytter ind",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "eecb46e0-d1b7-4d4f-acf3-3ee0050faab9",
+      "season": 1,
+      "number": 34,
+      "name": "Frossen Trinket / Alt for en ven",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "9d403a7f-315f-47da-ada6-33d393f9be01",
+      "season": 1,
+      "number": 35,
+      "name": "Dronning Mors Dag / Katastrofal Drage-Legeaftale",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "d809cbf1-10b5-4b89-b265-4cc991f82db3",
+      "season": 1,
+      "number": 36,
+      "name": "En Ridderprinsesse Giver Aldrig Op / Det Var Også På Ride",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "73a0acc3-b743-4b6f-bb16-dbeb8c830dd6",
+      "season": 1,
+      "number": 37,
+      "name": "Et Ridderligt Racerløb / Ridderen der Råbte Søuhyret Kommer",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "2d070e16-31f1-4943-9f59-fe014d776a32",
+      "season": 1,
+      "number": 38,
+      "name": "Modighedsmobilen / Slottehviles Redningsklub",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "36cec28e-58ea-46c8-951b-311b7df50032",
+      "season": 1,
+      "number": 39,
+      "name": "Nella til sine Dages ende / Kriblende Krybdyr",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "32ac94ac-cf67-4726-951f-6756836532af",
+      "season": 1,
+      "number": 40,
+      "name": "Prisen for mod / Museet for ridderlig magi",
+      "airdate": "2022-01-15"
+    },
+    {
+      "id": "5e071115-9556-4cad-8d2a-03db03992973",
+      "season": 2,
+      "number": 4,
+      "name": "Clods store spring",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "34fe542b-7812-4975-bb7e-bb6138d37c31",
+      "season": 2,
+      "number": 5,
+      "name": "En ganger med gang i",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f0f854aa-091f-42bc-871a-f3259df25d60",
+      "season": 2,
+      "number": 9,
+      "name": "En magisk dag i mudderet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3806fa78-37f9-4001-ad84-40a2079c1531",
+      "season": 2,
+      "number": 12,
+      "name": "Frys Fleaglerne ude",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "5255a746-75f0-4fa6-9a24-46ef918ecfec",
+      "season": 2,
+      "number": 13,
+      "name": "Tandfeen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "57fee40e-d450-4c52-8fa8-93e0dc269b9e",
+      "season": 2,
+      "number": 14,
+      "name": "Hoppende babyer og springende konger",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "458a06be-7d20-4617-97f7-430f358c9797",
+      "season": 2,
+      "number": 16,
+      "name": "Æblekind på de skrå brædder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "553786ae-ca71-486c-9b90-2edc457d3d7f",
+      "season": 2,
+      "number": 18,
+      "name": "En særlig ingrediens til kagen",
+      "airdate": "2023-01-01"
+    }
+  ]
+}

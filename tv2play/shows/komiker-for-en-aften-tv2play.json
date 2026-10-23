@@ -1,0 +1,89 @@
+{
+  "id": "tv2play:komiker-for-en-aften-tv2play",
+  "name": "Komiker for en aften",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hver uge kommer fire kendte danskere på dybt vand, når de skal lære standup og optræde foran et levende publikum.",
+  "image": "https://cdn-play.tv2i.dk/de42b9f5-ae6c-468e-b093-327c77f4063d.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "7ae5dda3-16f7-43a7-8d30-9b4641c0b197",
+      "season": 1,
+      "number": 1,
+      "name": "Bubber",
+      "airdate": "2018-12-03"
+    },
+    {
+      "id": "cc8dfa47-eb9e-4fe5-96ce-853a7c228de2",
+      "season": 1,
+      "number": 2,
+      "name": "Mascha Vang",
+      "airdate": "2018-12-03"
+    },
+    {
+      "id": "14afdc0f-8b45-48e4-8d1d-f2c334806a87",
+      "season": 1,
+      "number": 3,
+      "name": "Manu Sareen",
+      "airdate": "2018-12-05"
+    },
+    {
+      "id": "31fbe9df-f453-4f81-97fb-9b5fb3544206",
+      "season": 1,
+      "number": 4,
+      "name": "Jens Werner",
+      "airdate": "2018-12-06"
+    },
+    {
+      "id": "0f72efe3-b139-4ad7-b8c9-91757b341255",
+      "season": 1,
+      "number": 5,
+      "name": "Adam Duvå Hall",
+      "airdate": "2018-12-06"
+    },
+    {
+      "id": "4e9f3827-03b6-4ed6-b519-16bcb1030d12",
+      "season": 1,
+      "number": 6,
+      "name": "Claes Quaade",
+      "airdate": "2018-12-10"
+    },
+    {
+      "id": "eaea86e5-c2da-4f4f-9b5b-228b38912346",
+      "season": 1,
+      "number": 7,
+      "name": "Ibi Makienok",
+      "airdate": "2018-12-11"
+    },
+    {
+      "id": "50b94d13-e74a-4df1-af2b-ee69a513e62e",
+      "season": 1,
+      "number": 8,
+      "name": "Adrian Hughes",
+      "airdate": "2018-12-12"
+    },
+    {
+      "id": "2db26415-4cb8-42b6-9e1b-363e55fc01b3",
+      "season": 1,
+      "number": 10,
+      "name": "Lina Rafn",
+      "airdate": "2018-12-17"
+    },
+    {
+      "id": "d2d13b3b-150e-4eaf-9153-1120d6e2d51f",
+      "season": 1,
+      "number": 11,
+      "name": "Dan Jørgensen",
+      "airdate": "2018-12-18"
+    },
+    {
+      "id": "f8f00fb9-b9f0-4314-8937-0336fc458d05",
+      "season": 1,
+      "number": 12,
+      "name": "Jesper Skibby",
+      "airdate": "2018-12-19"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "tv2play:to-ens-med-ingemann-tv2fri",
+  "name": "To ens - med Ingemann",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Palævilla, ø-liv, husbåd, penthouse eller måske første række til vandet? Nu skal Peter Ingemann og hans to gode ejendomsmægler-venner, Anders Gerner Frost og Claus Dreyer, rundt i Danmark for at gætte priser på huse, der opfylder den samme boligdrøm.",
+  "image": "https://cdn-play.tv2i.dk/b6ba38da-16e9-4335-8c5c-54a3edb24a91.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C5061%2C2813&w=1280",
+  "episodes": [
+    {
+      "id": "c0cd2dd9-2ed9-4a89-85eb-923e2a6d20cd",
+      "season": 1,
+      "number": 1,
+      "name": "Patriciervilla",
+      "airdate": "2021-08-11"
+    },
+    {
+      "id": "4a7a2f6f-8871-4ab6-9687-21974bc811ea",
+      "season": 1,
+      "number": 2,
+      "name": "Rækkehus - to ens på tværs af Storebælt",
+      "airdate": "2021-08-11"
+    },
+    {
+      "id": "3c52eaf7-826a-4519-9511-edf16efa1e1d",
+      "season": 1,
+      "number": 3,
+      "name": "Murermestervilla",
+      "airdate": "2021-08-18"
+    },
+    {
+      "id": "ecec9d36-c59f-48cc-9e53-43572635de1d",
+      "season": 1,
+      "number": 4,
+      "name": "Parcelhus fra 00'erne",
+      "airdate": "2021-08-25"
+    },
+    {
+      "id": "a254f0df-815b-458e-8f44-7eb80b844263",
+      "season": 1,
+      "number": 5,
+      "name": "Ny funkisvilla",
+      "airdate": "2021-09-01"
+    },
+    {
+      "id": "4e661927-888a-4c9c-9f60-9403eb63b611",
+      "season": 1,
+      "number": 6,
+      "name": "Villa fra 1970’erne",
+      "airdate": "2021-09-08"
+    },
+    {
+      "id": "89289d50-d923-4fae-ad96-17ea420e268e",
+      "season": 1,
+      "number": 7,
+      "name": "Sommerhus",
+      "airdate": "2021-09-15"
+    },
+    {
+      "id": "3ba4afcb-8b52-41ff-9d03-eac5f1fddafc",
+      "season": 1,
+      "number": 8,
+      "name": "Mølle",
+      "airdate": "2021-09-22"
+    },
+    {
+      "id": "034f44a8-5a96-40c4-82f2-02e53538abab",
+      "season": 2,
+      "number": 1,
+      "name": "Palævilla",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "3556486b-da8a-4c04-a22f-93b3b9829e2e",
+      "season": 2,
+      "number": 2,
+      "name": "Penthouse",
+      "airdate": "2023-08-08"
+    },
+    {
+      "id": "b37264b5-5a50-4cd9-974f-f62dec32409d",
+      "season": 2,
+      "number": 3,
+      "name": "Ø-liv",
+      "airdate": "2023-08-15"
+    },
+    {
+      "id": "5f49bbeb-2de6-4800-9794-589e12dee9bb",
+      "season": 2,
+      "number": 4,
+      "name": "Første række til vandet",
+      "airdate": "2023-08-22"
+    },
+    {
+      "id": "902e1e8b-36d2-4dd1-8d5e-4b0b510d9f62",
+      "season": 2,
+      "number": 5,
+      "name": "Arkitekttegnet",
+      "airdate": "2023-08-29"
+    },
+    {
+      "id": "3b1ad9ae-7239-4ac2-a817-6579c54530c8",
+      "season": 2,
+      "number": 6,
+      "name": "Retro",
+      "airdate": "2023-09-05"
+    },
+    {
+      "id": "31c4249f-f92a-46ee-a63b-6d5538000320",
+      "season": 2,
+      "number": 7,
+      "name": "Husbåd",
+      "airdate": "2023-09-12"
+    },
+    {
+      "id": "2660195a-c2b5-45f9-9aab-974676fe3d9a",
+      "season": 2,
+      "number": 8,
+      "name": "Lystejendom",
+      "airdate": "2023-09-19"
+    }
+  ]
+}

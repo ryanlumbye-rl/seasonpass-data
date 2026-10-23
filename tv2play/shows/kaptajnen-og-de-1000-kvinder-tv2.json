@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:kaptajnen-og-de-1000-kvinder-tv2",
+  "name": "Kaptajnen og de 1000 kvinder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mange tusind enlige kvinder får knust deres hjerter og tømt deres bankkonti af én mand: Kaptajn Thomas. Men hvem er kaptajn Thomas, og hvordan slipper han afsted med at franarre kvinderne deres opsparinger? TV 2 Dokumentar afdækker i to afsnit en kæmpe svindelsag.",
+  "image": "https://cdn-play.tv2i.dk/1b5aba6e-54e1-4bc0-9e27-3af43ea1360c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6c0553fb-d4bd-459e-a68f-6217fb67afc5",
+      "season": 1,
+      "number": 1,
+      "name": "Den mystiske kaptajn",
+      "airdate": "2024-02-14"
+    },
+    {
+      "id": "6a67c2df-a409-47bb-b865-013a5934ea42",
+      "season": 1,
+      "number": 2,
+      "name": "Jagten på bagmændene",
+      "airdate": "2024-02-21"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:jens-the-beast-tv2echo",
+  "name": "Jens the Beast",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Jens har levet et liv på kanten som 'stærk mand'. Han har brugt steroider og pumpet paraffinolie ind i sine arme. Selvom det er ti år siden nu, så vokser armene stadig, og det kan have dødelige konsekvenser. Vi følger Jens, når han skal igennem fire smertefulde operationer for at få fjernet olien.",
+  "image": "https://cdn-play.tv2i.dk/f6ce32d8-9a5d-4220-bcdf-e3ba5c70eef3.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "c4c83cc9-d2e3-4523-89fb-bee2f67d0723",
+      "season": 1,
+      "number": 1,
+      "name": "Fortidens lænker",
+      "airdate": "2021-08-03"
+    },
+    {
+      "id": "c0fb0e72-b8ea-465f-b29a-617dc542951b",
+      "season": 1,
+      "number": 2,
+      "name": "Opgøret",
+      "airdate": "2021-08-03"
+    },
+    {
+      "id": "a357e0ff-fe6f-4c77-ab70-5ed77121d5cd",
+      "season": 1,
+      "number": 3,
+      "name": "Endelig fri",
+      "airdate": "2021-11-28"
+    }
+  ]
+}

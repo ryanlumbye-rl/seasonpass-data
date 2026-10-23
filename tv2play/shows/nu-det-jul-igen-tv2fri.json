@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:nu-det-jul-igen-tv2fri",
+  "name": "Nu' det jul igen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Seks kendte danskere er fanget i en juleboble og skal på skift være vært for hver deres drømmejul. Med masser af julepassion og legesyge kæmper alle om at opfylde værtens juleønsker. Spørgsmålet er, hvem der har den mest kreative julesjæl, og efter alle seks juleaftener kan kalde sig 'Årets nisse'?.",
+  "image": "https://cdn-play.tv2i.dk/ac52ea20-e75b-4ce2-9e28-bc6cbc960e80.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "245a4911-fb36-4963-943b-db3b9bc5e123",
+      "season": 1,
+      "number": 1,
+      "name": "Ulla Vejbys jul på den gamle slægtsgård",
+      "airdate": "2023-11-16"
+    },
+    {
+      "id": "69aab9ed-fcab-4bc0-a522-1a7c3ccb9646",
+      "season": 1,
+      "number": 2,
+      "name": "Thomas Evers Poulsens hvide jul",
+      "airdate": "2023-11-23"
+    },
+    {
+      "id": "ee4a1835-59e8-43cf-a423-651e32e34a54",
+      "season": 1,
+      "number": 3,
+      "name": "Rosas julehygge i en nøddeskal",
+      "airdate": "2023-11-30"
+    },
+    {
+      "id": "07cb2266-8195-489c-a567-211f33f93d15",
+      "season": 1,
+      "number": 4,
+      "name": "Jaffers overdådige bling bling jul",
+      "airdate": "2023-12-07"
+    },
+    {
+      "id": "971af891-9c3d-437c-a471-6e6c70450a11",
+      "season": 1,
+      "number": 5,
+      "name": "Sara Lygums kreative genbrugsjul",
+      "airdate": "2023-12-14"
+    },
+    {
+      "id": "c718c00e-f70f-48c8-a713-f735e8a08c79",
+      "season": 1,
+      "number": 6,
+      "name": "Simon Stenspil og den barnlige glædes jul",
+      "airdate": "2023-12-21"
+    }
+  ]
+}

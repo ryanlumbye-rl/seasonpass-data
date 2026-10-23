@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Blippi Wonders er en animationsserie, der besvarer spørgsmål, børn kan forholde sig til, mens den tilskynder til latter, sjov og eventyr! Drysser man lidt læring, klovnenumre og falde på halen-komik ud over det, og bum! Så har du vores serie!",
+  "image": "https://cdn-play.tv2i.dk/bf3cdc3c-79b8-43e4-a85f-3926f42777c8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "972811a1-f486-4e88-9a4a-94537a6da4aa",

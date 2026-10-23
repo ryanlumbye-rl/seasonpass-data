@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:sommer-til-salg-tv2fri",
+  "name": "Sommer til salg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Oplev de smukkeste og mest idylliske sommerhuse, når danske ejendomsmæglere inviterer dig indenfor i unikke boliger i både Danmark og Sydeuropa.",
+  "image": "https://cdn-play.tv2i.dk/4f215cba-efe4-412c-8b69-acf4d8019b55.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8f29e24c-d716-41fa-84c7-4d9befd98db8",
+      "season": 1,
+      "number": 1,
+      "name": "Sommerbolig i Rom",
+      "airdate": "2024-04-30"
+    },
+    {
+      "id": "85cf6d88-5c53-494d-a3aa-26f3eca61392",
+      "season": 1,
+      "number": 2,
+      "name": "3000 år gammelt italiensk grottehus",
+      "airdate": "2024-05-07"
+    },
+    {
+      "id": "90e62c63-5a94-4b75-86f8-e9fb49da9ae6",
+      "season": 1,
+      "number": 3,
+      "name": "Historisk bolig på Bornholm",
+      "airdate": "2024-05-14"
+    },
+    {
+      "id": "8d4a1782-8e4b-4786-a5c1-11bbb3d71af8",
+      "season": 1,
+      "number": 4,
+      "name": "Danmarks største sommerhusområde",
+      "airdate": "2024-05-21"
+    },
+    {
+      "id": "c4ac5c83-d39c-420a-b90b-ea6ffcd9f229",
+      "season": 2,
+      "number": 1,
+      "name": "Drømmebolig i Sydfrankrig",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "6b05b47b-24f5-40bd-b64a-ef086082a224",
+      "season": 2,
+      "number": 2,
+      "name": "Moderne drengerøvsbolig",
+      "airdate": "2025-04-22"
+    },
+    {
+      "id": "1840f5c5-3aa5-4933-93b4-18fbb7efa5a9",
+      "season": 2,
+      "number": 3,
+      "name": "Håndværkertilbud i Piemonte",
+      "airdate": "2025-04-29"
+    },
+    {
+      "id": "8afcf8ab-8098-4d33-95b2-3e595dae3a53",
+      "season": 2,
+      "number": 4,
+      "name": "Styling af sommerbolig på Bornholm",
+      "airdate": "2025-05-06"
+    }
+  ]
+}

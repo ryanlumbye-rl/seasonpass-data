@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:mr-throwback-skyshowtime",
+  "name": "Mr. Throwback",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Danny har nået bunden. Hans potentiale er forspildt, ægteskabet mislykket, forholdet til datteren turbulent og han plejer tvivlsom omgang med sandheden. Og så er hans sportsmemorabilia-butik, Mr. Throwback, ved at gå konkurs. Af nød søger han hjælp hos sin barndomsven, NBA-stjernen Stephen Curry.",
+  "image": "https://cdn-play.tv2i.dk/a4a7c7f6-ae16-4e59-a3e9-52ecf9a656d0.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2161&w=1280",
+  "episodes": [
+    {
+      "id": "f6761627-58da-4dc8-9647-f0abd8548208",
+      "season": 1,
+      "number": 1,
+      "name": "Why Not Me",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "7c8631e1-3648-46a8-8757-9739cc9dd4d3",
+      "season": 1,
+      "number": 2,
+      "name": "Charlie World",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "1cf2c288-fa7a-4218-a5bf-09c1f6224153",
+      "season": 1,
+      "number": 3,
+      "name": "The Slump",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "b012e739-4eba-44d9-bd3a-8acf8f738996",
+      "season": 1,
+      "number": 4,
+      "name": "The Only Way Out Is Through",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "f4a66d18-0d12-4b68-ad8a-d2b348b61562",
+      "season": 1,
+      "number": 5,
+      "name": "Bang Bang",
+      "airdate": "2025-04-14"
+    },
+    {
+      "id": "9e4943e7-f42f-4acd-ab5f-0857496d3915",
+      "season": 1,
+      "number": 6,
+      "name": "Eric Roth Costs a Fortune, Bro",
+      "airdate": "2025-04-14"
+    }
+  ]
+}

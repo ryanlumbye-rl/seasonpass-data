@@ -1,0 +1,208 @@
+{
+  "id": "tv2play:hav-kaptajnen-santiago-skyshowtime",
+  "name": "Hav-kaptajnen Santiago",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sammen med sine to bedste venner Tomás og Lorelai drager den modige og godhjertede otteårige pirat Santi ud på caribiske eventyr.",
+  "image": "https://cdn-play.tv2i.dk/b718b91f-cb92-4b15-a2a9-d0d37e756f66.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ccb17b7a-a3fe-4de2-ba5f-a6e795da2a4e",
+      "season": 1,
+      "number": 1,
+      "name": "Legenden om Capitán Calavera",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "af8454bb-c973-4870-93c4-19da31c10f9f",
+      "season": 1,
+      "number": 17,
+      "name": "Santiago og Bonnie til undsætning",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "d379f7d5-3721-4a13-acda-efc369b8fc20",
+      "season": 1,
+      "number": 19,
+      "name": "Den mystiske ø",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "00d8c30a-0519-475b-b8c0-434a32fa6879",
+      "season": 2,
+      "number": 1,
+      "name": "Den magtfulde sten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "955fc250-a085-481c-b74c-90fe61a10566",
+      "season": 2,
+      "number": 2,
+      "name": "Finceañera",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "53dee0b3-7a9f-42a9-b360-c4494e1771db",
+      "season": 2,
+      "number": 3,
+      "name": "En fortælling om To-más",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "547f2a1a-f96b-4fc3-9de9-66e5ea5ac06b",
+      "season": 2,
+      "number": 4,
+      "name": "Sørøverbeskytterens prøvelser",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "269d13d8-df37-4054-ab7c-715042b80338",
+      "season": 2,
+      "number": 6,
+      "name": "Frugtfestivalen",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "925233b3-68b6-43af-b1eb-5297f637d044",
+      "season": 2,
+      "number": 7,
+      "name": "Bonnies mor",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "f5f1e1bb-4602-4467-9323-6f49f6f3c357",
+      "season": 2,
+      "number": 8,
+      "name": "Kikos sang",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "684ddac9-8d7d-4206-a334-84673d133a8c",
+      "season": 2,
+      "number": 9,
+      "name": "Øen Chickcharney",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "a62600e0-499a-4477-b15d-3e800b31c39d",
+      "season": 2,
+      "number": 10,
+      "name": "Tidskapslen",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "62235202-f893-4185-a603-b9b9a74edb40",
+      "season": 2,
+      "number": 11,
+      "name": "Kometkager",
+      "airdate": "2023-04-30"
+    },
+    {
+      "id": "c0f0495c-d146-4f83-9d76-a4f20b1e7a54",
+      "season": 2,
+      "number": 12,
+      "name": "Tittebøh!",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "4b680417-94d2-488c-87a4-c1d14da0650e",
+      "season": 2,
+      "number": 13,
+      "name": "Piratfesten",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "b2591e46-3030-4594-96a1-660151ed870d",
+      "season": 2,
+      "number": 14,
+      "name": "Legend om El Ratoncito Pérez",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "9d6c6741-0853-498f-a2fc-d14674212da4",
+      "season": 2,
+      "number": 15,
+      "name": "Hellig Trekongersdag",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "6aa900a9-280e-4e02-9975-975e93f8c914",
+      "season": 2,
+      "number": 16,
+      "name": "Alle gode gange tre",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "6ed76080-aa3e-4990-90e9-8a94e34e14ba",
+      "season": 2,
+      "number": 17,
+      "name": "Det hemmelige rum",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "89e217c0-bd72-4e3a-a846-b827a1abc63f",
+      "season": 2,
+      "number": 18,
+      "name": "Griseøen",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "c52ab677-6687-457b-b42a-db37ca37f1a8",
+      "season": 2,
+      "number": 19,
+      "name": "Den gyldne guitar",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "366395de-d1fe-4c94-b1f8-ed03e69dabbe",
+      "season": 2,
+      "number": 20,
+      "name": "Nacho Supreme",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "0ec7eb31-45ca-4b6c-9234-e9ac9947656d",
+      "season": 2,
+      "number": 21,
+      "name": "Mors dag på verdenshavene",
+      "airdate": "2024-01-28"
+    },
+    {
+      "id": "fe617ab6-e0e0-4a29-82f4-a808c9a57d75",
+      "season": 2,
+      "number": 22,
+      "name": "Lorelais familieferie",
+      "airdate": "2024-01-28"
+    },
+    {
+      "id": "0301686d-9883-4957-bb32-f9286b7e2934",
+      "season": 2,
+      "number": 23,
+      "name": "Glemte skrubber",
+      "airdate": "2024-01-28"
+    },
+    {
+      "id": "cc872ef5-29dd-4b9e-8dea-10c6de96b092",
+      "season": 2,
+      "number": 24,
+      "name": "Himmelsørøverne - Del 1",
+      "airdate": "2024-01-28"
+    },
+    {
+      "id": "b5978804-8cfe-4a01-9cef-2c20d3288852",
+      "season": 2,
+      "number": 25,
+      "name": "Himmelsørøverne - Del 2",
+      "airdate": "2024-01-28"
+    },
+    {
+      "id": "9f938f36-4e77-4fca-9ccb-9ba2bf3e2816",
+      "season": 2,
+      "number": 26,
+      "name": "Escarlatas lillesøster",
+      "airdate": "2024-01-28"
+    }
+  ]
+}

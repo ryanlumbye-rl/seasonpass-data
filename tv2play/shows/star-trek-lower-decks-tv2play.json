@@ -1,11 +1,25 @@
 {
   "id": "tv2play:star-trek-lower-decks-tv2play",
   "name": "Star Trek: Lower Decks",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "59c070d8-edb8-4f4d-a446-b8ca2112cc67",
+      "season": 1,
+      "number": 1,
+      "name": "Second Contact",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "e85e7370-b0eb-470b-936d-27cfef620eb4",
+      "season": 1,
+      "number": 2,
+      "name": "Envoys",
+      "airdate": "2025-07-30"
+    },
     {
       "id": "f713d676-389b-4c09-8714-8b7df3535877",
       "season": 1,
@@ -18,6 +32,27 @@
       "season": 1,
       "number": 4,
       "name": "Moist Vessel",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "389e3bdb-d191-415c-97c2-3152df9eeca6",
+      "season": 1,
+      "number": 5,
+      "name": "Cupid's Errant Arrow",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "76701f45-cb9b-4052-9274-dcc4acbc5e0b",
+      "season": 1,
+      "number": 6,
+      "name": "Terminal Provocations",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "3a8adff8-c594-4e24-bc63-44c7dbdaba61",
+      "season": 1,
+      "number": 7,
+      "name": "Much Ado About Boimler",
       "airdate": "2025-07-30"
     },
     {
@@ -35,10 +70,38 @@
       "airdate": "2025-07-30"
     },
     {
+      "id": "a9d3913d-83f5-4c6f-ab76-141c4b11cdc9",
+      "season": 1,
+      "number": 10,
+      "name": "No Small Parts",
+      "airdate": "2025-07-30"
+    },
+    {
       "id": "99e2e046-e6c1-4562-a599-e961512c28f2",
       "season": 2,
       "number": 1,
       "name": "Strange Energies",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "d6c1e5bd-ccc7-49e6-9ee9-5ef179eab45d",
+      "season": 2,
+      "number": 2,
+      "name": "Kayshon, His Eyes Open",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "91fbc33f-45eb-45aa-a13c-101f0365a407",
+      "season": 2,
+      "number": 3,
+      "name": "We'll Always Have Tom Paris",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "cd67be07-d902-4b30-9685-edf1e4d46279",
+      "season": 2,
+      "number": 4,
+      "name": "Mugato, Gumato",
       "airdate": "2025-07-30"
     },
     {
@@ -49,11 +112,41 @@
       "airdate": "2025-07-30"
     },
     {
+      "id": "83a8f5ec-6c6a-441b-9851-09df1eb22833",
+      "season": 2,
+      "number": 6,
+      "name": "The Spy Humongous",
+      "airdate": "2025-07-30"
+    },
+    {
       "id": "685863ff-9265-4ecf-9df6-8f4de8a68ba2",
       "season": 2,
       "number": 7,
       "name": "Where Pleasant Fountains Lie",
       "airdate": "2025-07-30"
+    },
+    {
+      "id": "efd7c7c4-b3cd-4a48-9559-5e04bd59249f",
+      "season": 2,
+      "number": 8,
+      "name": "I, Excretus",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "0062839c-613c-4afb-9cf2-d75354502611",
+      "season": 2,
+      "number": 9,
+      "name": "Wej Duj",
+      "airdate": "2025-07-30"
+    },
+    {
+      "id": "73c47626-f569-468b-ba01-3ef7e87c2688",
+      "season": 2,
+      "number": 10,
+      "name": "First Contact",
+      "airdate": "2025-07-30"
     }
-  ]
+  ],
+  "description": "Vi følger livet hos støttebesætningen på et af Stjerneflådens mindst vigtige skibe, U.S.S. Cerritos, i 2380. Mariner, Boimler, Rutherford og Tendi skal holde styr på deres pligter og deres sociale liv, ofte mens skibet rystes af et væld af sci-fi-anomalier.",
+  "image": "https://cdn-play.tv2i.dk/2714167d-cf98-48d8-bae1-0697a2dcf598.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

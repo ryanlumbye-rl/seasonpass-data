@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:hvorfor-drikker-jeg-tv2",
+  "name": "Hvorfor drikker jeg?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Næsten 500.000 personer har et alkoholproblem i Danmark. Det er et omfattende samfundsproblem med store økonomiske og menneskelige konsekvenser. Dokumentarserie på TV 2 går helt tæt på en gruppe helt almindelige danskeres kamp mod alkohol på et behandlingshjem. Kan de få det liv, de drømmer om?",
+  "image": "https://cdn-play.tv2i.dk/a90df9f3-9610-4090-ac09-275c6804767a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ec5ed0bd-61f3-406b-a452-bbedf28cd118",
+      "season": 1,
+      "number": 1,
+      "name": "Hvis ikke jeg får hjælp nu",
+      "airdate": "2025-09-23"
+    },
+    {
+      "id": "4bbc4dea-450c-440e-b724-7f450b0458c5",
+      "season": 1,
+      "number": 2,
+      "name": "Min familie ved ingenting",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "babf93c8-ed9e-45a9-be3d-288c36cd66ad",
+      "season": 1,
+      "number": 3,
+      "name": "En fuckfinger til mit misbrug",
+      "airdate": "2025-10-07"
+    }
+  ]
+}

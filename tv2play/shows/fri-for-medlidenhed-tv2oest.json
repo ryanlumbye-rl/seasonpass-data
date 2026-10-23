@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:fri-for-medlidenhed-tv2oest",
+  "name": "Fri for medlidenhed",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mennesker med handicap skal have de samme muligheder og rettigheder som personer uden handicap. Sådan lyder det i FN’s Handicapkonvention, som Danmark har tilsluttet sig. Alligevel halter vi bagefter, når det kommer til ligestilling på jobmarkedet for personer med handicap.",
+  "image": "https://cdn-play.tv2i.dk/6947bd40-a02f-466c-8d28-d46867b99774.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "72f53c1c-a3e1-4037-a156-7b56420677b3",
+      "season": 1,
+      "number": 1,
+      "name": "Rasmus",
+      "airdate": "2025-04-11"
+    },
+    {
+      "id": "2ce8a066-23e5-48c5-821a-604b95ec514d",
+      "season": 1,
+      "number": 2,
+      "name": "Zander",
+      "airdate": "2025-04-18"
+    },
+    {
+      "id": "d52530ae-fabb-48d3-8cf7-b5eae1569b24",
+      "season": 1,
+      "number": 3,
+      "name": "Martin",
+      "airdate": "2025-04-25"
+    },
+    {
+      "id": "919195d7-945d-4628-8d24-96ec3963a49a",
+      "season": 1,
+      "number": 4,
+      "name": "Jackie",
+      "airdate": "2025-05-02"
+    },
+    {
+      "id": "7b50e513-594a-4884-bc12-36c1918df4d5",
+      "season": 1,
+      "number": 5,
+      "name": "Christoffer",
+      "airdate": "2025-05-09"
+    }
+  ]
+}

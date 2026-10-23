@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:maegtige-maskiner-tv2play",
+  "name": "Mægtige maskiner",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "'Mægtige Maskiner' på hjul og larvefødder er rigtige maskiner, der arbejder på byggepladserne og på vejene. Maskinerne larmer, ruller, drejer og løfter.",
+  "image": "https://cdn-play.tv2i.dk/a9cee0ce-80fc-4c2b-ba68-10bb0f9f95ed.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "af48b43c-9db5-4a03-b966-cca3ac1a07b0",
+      "season": 1,
+      "number": 1,
+      "name": "Tårnkran",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "18b2881f-a131-4c0e-b301-446727f9e294",
+      "season": 1,
+      "number": 2,
+      "name": "Borerig",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "4561f8ea-30cd-4594-8fcd-bf1aef43b18c",
+      "season": 1,
+      "number": 3,
+      "name": "Asfaltmaskine",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "41169f0a-8a96-49c2-ac43-948a7a766362",
+      "season": 1,
+      "number": 4,
+      "name": "Kædegraver",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b6d50b33-19a5-4fb7-a2f0-9d10e0565e94",
+      "season": 1,
+      "number": 5,
+      "name": "Stribemaler",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "f103602a-105a-4376-a52e-ea623c041cfa",
+      "season": 1,
+      "number": 6,
+      "name": "Betonkanon",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8a6bdfa9-b08e-4b0f-941b-229db0078a3b",
+      "season": 1,
+      "number": 7,
+      "name": "Sorteringsmaskine",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "eec35d40-2224-4da1-b91c-e9f3c7e2068e",
+      "season": 1,
+      "number": 8,
+      "name": "Fræser",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "3c5203eb-b668-4be4-adc5-a8209719f160",
+      "season": 1,
+      "number": 9,
+      "name": "Piloteringsmaskine",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9a117158-e9cb-4323-8ca6-fcfd84292354",
+      "season": 1,
+      "number": 10,
+      "name": "Wiremaskine",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "8fb1a4fa-c9f5-41d8-86dd-31247163156b",
+      "season": 1,
+      "number": 11,
+      "name": "Gravkomaskine",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "35c6f110-58bd-42aa-a4f7-b476868679a2",
+      "season": 1,
+      "number": 12,
+      "name": "Lift",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9673d6e3-4d1c-4edb-b901-6e7679d7c1bf",
+      "season": 1,
+      "number": 13,
+      "name": "Lastbil",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

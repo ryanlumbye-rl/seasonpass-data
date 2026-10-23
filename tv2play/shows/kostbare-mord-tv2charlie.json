@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kostbare-mord-tv2charlie",
+  "name": "Kostbare mord",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den kunstelskende kriminalinspektør Mick Palmer og den ligefremme kriminalassistent Shazia Malik opklarer mord, der har forbindelse til kunst og antikviteter.",
+  "image": "https://cdn-play.tv2i.dk/0c53b3b7-ea89-4320-ad1b-ebee6e6edb30.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d230b1a2-efc8-4225-aa41-123989b82228",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "1ed59ebb-773f-4999-b46b-bcf346c819d7",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-09-02"
+    },
+    {
+      "id": "d2fcc12e-860a-47f9-a289-d18c892a748c",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "dd0f1120-241b-47eb-8893-66da76197234",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "384f0e40-2683-4bbb-9d74-a97d6ef67e06",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-09-23"
+    },
+    {
+      "id": "4f9dc0df-6c66-4127-be9b-6d6254cfdd06",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-09-30"
+    }
+  ]
+}

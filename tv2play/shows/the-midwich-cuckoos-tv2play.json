@@ -55,5 +55,7 @@
       "name": "Departure",
       "airdate": "2022-09-20"
     }
-  ]
+  ],
+  "description": null,
+  "image": null
 }

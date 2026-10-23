@@ -1,0 +1,152 @@
+{
+  "id": "tv2play:the-agency-skyshowtime",
+  "name": "The Agency",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "c5342690-0379-4f52-bc29-aac305a03462",
+      "season": 1,
+      "number": 1,
+      "name": "The Bends",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "373c0081-b711-4275-80fc-7978b5da8f24",
+      "season": 1,
+      "number": 2,
+      "name": "Wooden Duck",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "05bd1e34-4269-478f-98c9-0a2e4bd92a6d",
+      "season": 1,
+      "number": 3,
+      "name": "Hawk from a Handsaw",
+      "airdate": "2025-02-17"
+    },
+    {
+      "id": "f3b2d531-f109-479f-9756-cb741272ec76",
+      "season": 1,
+      "number": 4,
+      "name": "Quarterback Blitz",
+      "airdate": "2025-02-24"
+    },
+    {
+      "id": "0b3998b6-0229-4831-a93d-83e15c0fc1c0",
+      "season": 1,
+      "number": 5,
+      "name": "Rat Trap",
+      "airdate": "2025-03-03"
+    },
+    {
+      "id": "e9997df4-fa2a-4c8f-aa67-1005c93fa313",
+      "season": 1,
+      "number": 6,
+      "name": "Spy for Sale",
+      "airdate": "2025-03-10"
+    },
+    {
+      "id": "09fbaa03-d352-4326-b025-7da40300b0f8",
+      "season": 1,
+      "number": 7,
+      "name": "Hard Landing",
+      "airdate": "2025-03-17"
+    },
+    {
+      "id": "04f1ddd5-016e-44e6-81ca-0d7061f2f989",
+      "season": 1,
+      "number": 8,
+      "name": "Truth Will Set You Free",
+      "airdate": "2025-03-24"
+    },
+    {
+      "id": "d25833ad-7f0c-443a-a2b8-32cededc6510",
+      "season": 1,
+      "number": 9,
+      "name": "The Rubicon",
+      "airdate": "2025-03-31"
+    },
+    {
+      "id": "2a7b74f8-f168-4b8f-9976-0530ee590130",
+      "season": 1,
+      "number": 10,
+      "name": "Overtaken by Events",
+      "airdate": "2025-04-07"
+    },
+    {
+      "id": "d844294e-0755-44d0-9752-eca24fc3a7fe",
+      "season": 2,
+      "number": 1,
+      "name": "Kick the Wasp’s Nest",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "bd8cd6c5-7f1b-4caf-8b89-eb15b1d4ce43",
+      "season": 2,
+      "number": 2,
+      "name": "A Bear in Wolf’s Clothing",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "f4bdbf08-01e3-4f21-9eb5-872dc6022362",
+      "season": 2,
+      "number": 3,
+      "name": "Spymaster",
+      "airdate": "2026-06-22"
+    },
+    {
+      "id": "e49f0bf2-a207-43ab-95d3-7854440a9831",
+      "season": 2,
+      "number": 4,
+      "name": "Dead End",
+      "airdate": "2026-06-29"
+    },
+    {
+      "id": "7a477832-31ac-4d4f-91b1-0c743d5839a6",
+      "season": 2,
+      "number": 5,
+      "name": "Out Cold",
+      "airdate": "2026-07-06"
+    },
+    {
+      "id": "4b8cd6c2-343d-467f-8663-4d780d31e2f4",
+      "season": 2,
+      "number": 6,
+      "name": "Officially a Ghost",
+      "airdate": "2026-07-13"
+    },
+    {
+      "id": "4b3d72b9-320c-4ab3-8779-8fbc8e3e30bf",
+      "season": 2,
+      "number": 7,
+      "name": "Drown Him Then Throw Him a Lifejacket",
+      "airdate": "2026-07-20"
+    },
+    {
+      "id": "463f8acd-c511-4c35-b833-e7fede33249c",
+      "season": 2,
+      "number": 8,
+      "name": "False Flag Attack",
+      "airdate": "2026-07-27"
+    },
+    {
+      "id": "bebb75d2-b9a8-496d-8385-34bef7b898bf",
+      "season": 2,
+      "number": 9,
+      "name": "Rogue Cell",
+      "airdate": "2026-08-03"
+    },
+    {
+      "id": "068bce53-0ecc-450a-8c54-86345b4e06c6",
+      "season": 2,
+      "number": 10,
+      "name": "King Sacrifice",
+      "airdate": "2026-08-10"
+    }
+  ],
+  "description": "Da en hemmelig CIA-agent vender tilbage til London Station, blusser romancen med en gammel flamme, han efterlod, op igen – hvilket kaster dem ud i et dødbringende spil med internationale intriger og spionage.",
+  "image": "https://cdn-play.tv2i.dk/cb5116ec-f5d9-4c84-a165-592b0017d9a5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2811%2C1583&w=1280"
+}

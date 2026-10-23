@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:kampen-om-pladsen-tv2",
+  "name": "Kampen om pladsen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Maria Kirkeplads på Istedgade har i årevis været tilholdssted for samfundets allersvageste. Nu er romaerne rykket ind, og det skaber tumult i lokalområdet. For selv om man betragter sig selv som næstekærlig, kan det være svært, når fremmede slår lejr i ens baghave",
+  "image": "https://cdn-play.tv2i.dk/b1e819c3-ffc2-46b4-a565-12652d4b7f10.png?auto=format%2Ccompress&fm=webp&rect=0%2C1%2C3024%2C1701&w=1280",
+  "episodes": [
+    {
+      "id": "f8a0a5fe-a069-40de-9078-855538e30ead",
+      "season": 1,
+      "number": 1,
+      "name": "En fremmed er en ven, du ikke har mødt",
+      "airdate": "2025-05-06"
+    },
+    {
+      "id": "1bf47bda-081c-40e0-ae21-9c00ee51e5c2",
+      "season": 1,
+      "number": 2,
+      "name": "Alene kan vi gøre lidt; sammen kan vi gøre meget",
+      "airdate": "2025-05-13"
+    },
+    {
+      "id": "1c8f4394-1525-46e8-9d8a-c93af9d6480e",
+      "season": 1,
+      "number": 3,
+      "name": "Vi bygger for mange mure og for få broer",
+      "airdate": "2025-05-20"
+    }
+  ]
+}

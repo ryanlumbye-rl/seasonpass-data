@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:min-kone-slaar-mig-tv2play",
+  "name": "Min kone slår mig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På overfladen lignede Richard og Sheree det perfekte par. Men i virkeligheden gennemlevede Richard i tyve år et mareridt med en voldelig kone. Få historien her.",
+  "image": "https://cdn-play.tv2i.dk/7e2d021d-7c77-4121-a0ed-30c85a235826.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b743b194-aa9e-4189-b68b-67c895e62f3a",
+      "season": 1,
+      "number": 1,
+      "name": "Den perfekte familie",
+      "airdate": "2024-10-14"
+    },
+    {
+      "id": "7991f196-8964-4c40-a0e8-dd413782af6c",
+      "season": 1,
+      "number": 2,
+      "name": "En voldsom sag",
+      "airdate": "2024-10-21"
+    }
+  ]
+}

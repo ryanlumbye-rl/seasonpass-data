@@ -1,0 +1,194 @@
+{
+  "id": "tv2play:hunden-ib-skyshowtime",
+  "name": "Hunden Ib",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ib er en lille, nysgerrig hund med mod på livet. Han er klog og selvsikker som et børnehavebarn. Og han er også lige så modig",
+  "image": "https://cdn-play.tv2i.dk/18392ef2-8176-40a9-8411-282b338358c8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "8fe2c09d-a078-4c8d-ae72-93fcd327c990",
+      "season": 2,
+      "number": 1,
+      "name": "Ib bliver forfulgt af nogle bænkebidere",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "1d2ae13e-5623-4001-bb5b-b77b2e547138",
+      "season": 2,
+      "number": 2,
+      "name": "Ib bygger en snemand",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "e370d4b8-6491-40aa-aa3a-9a1195458cf6",
+      "season": 2,
+      "number": 3,
+      "name": "Ib klatrer op i kirsebærtræet",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "c5c4499f-0c63-4948-b4d2-b9f53d2704e5",
+      "season": 2,
+      "number": 4,
+      "name": "Ib opfører sig usædvanligt",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "00ee96eb-ce1c-4c08-807b-fd37bf8ce6d9",
+      "season": 2,
+      "number": 5,
+      "name": "Ib går sidelæns hjem",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "d2282448-7be8-4ac1-ab7c-33ac97b1835f",
+      "season": 2,
+      "number": 6,
+      "name": "Ib og puddel prøver at sidde stille",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "077cf19a-1494-4279-923d-81abcec186cc",
+      "season": 2,
+      "number": 7,
+      "name": "Ib og Mus leger med ansigtsmaling",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "3df544ec-2ff3-485b-8751-5cba1b51b15b",
+      "season": 2,
+      "number": 8,
+      "name": "Ib læser en tyk bog",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "4e7e28de-cc4a-4ac4-8bb8-060280f216c6",
+      "season": 2,
+      "number": 9,
+      "name": "Ib går en tur i skoven",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "5d08fb36-16e9-4b51-836c-7a1274f883ea",
+      "season": 2,
+      "number": 10,
+      "name": "Ib hjælper en træt svane",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "9499d262-a531-48ea-9a7e-9e7e2c388a8d",
+      "season": 2,
+      "number": 11,
+      "name": "Ib stiller sig på en kasse",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "46e270e5-da22-4fd1-8fc3-3e7456c47d23",
+      "season": 2,
+      "number": 12,
+      "name": "Ib skraber i en sti",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "2f44d0ec-1861-48d2-a777-13b7ce213d0b",
+      "season": 2,
+      "number": 13,
+      "name": "Ib taler med Kim D",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "5f4da453-3721-4caf-9116-7164af2838dd",
+      "season": 2,
+      "number": 14,
+      "name": "Ib fortæller noget sjovt",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "235201ab-bae1-4b91-af05-0940edd0ee27",
+      "season": 2,
+      "number": 15,
+      "name": "Ib standser en sækkevogn",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "c5c5a28b-8173-4272-8754-fe6e2a2753d4",
+      "season": 2,
+      "number": 16,
+      "name": "Ib inviterer Esther N",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "d63a1530-b555-458e-a3d5-301ad77c1a32",
+      "season": 2,
+      "number": 17,
+      "name": "Ib ser nordstjernen",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "9567913a-932e-4242-847f-8619612b3fa0",
+      "season": 2,
+      "number": 18,
+      "name": "Ib bytter",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "efc4e913-06e4-465c-b6f1-d05865392a6c",
+      "season": 2,
+      "number": 19,
+      "name": "Ib går ud i garagen",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "af11e032-91bc-47c3-8cce-d3cf7f43d4c7",
+      "season": 2,
+      "number": 20,
+      "name": "Ib er så glad",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "945e9a18-13bc-4b48-8fe0-ab371c26f2a8",
+      "season": 2,
+      "number": 21,
+      "name": "Ib vander en frø",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "63a7b77e-df80-4b06-85a9-6094c5264b87",
+      "season": 2,
+      "number": 22,
+      "name": "Ib bader i en kold å",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "f92f214b-3a0c-48ff-b4e7-9c81c27ec966",
+      "season": 2,
+      "number": 23,
+      "name": "Ib løber fire meter",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "1846b750-74b4-4117-8895-be880f67e499",
+      "season": 2,
+      "number": 24,
+      "name": "Ib lægger risten på plads",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "e75e6728-0b03-49a2-b07e-b4108a674c4a",
+      "season": 2,
+      "number": 25,
+      "name": "Ib har solbriller på om vinteren",
+      "airdate": "2024-04-06"
+    },
+    {
+      "id": "94d2ed5a-b8b1-4eff-8252-332b37a0a396",
+      "season": 2,
+      "number": 26,
+      "name": "Ib skal noget",
+      "airdate": "2024-04-06"
+    }
+  ]
+}

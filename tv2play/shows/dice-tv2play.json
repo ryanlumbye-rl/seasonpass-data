@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:dice-tv2play",
+  "name": "Dice",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "369aba50-008f-486d-9f4e-6b019a379a72",
+      "season": 1,
+      "number": 1,
+      "name": "Elvis",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d55ae277-71f1-4d75-9653-54685d69ab3d",
+      "season": 1,
+      "number": 2,
+      "name": "Ego",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "981678e8-c1d7-4aa3-9ab8-63a6192b7d11",
+      "season": 1,
+      "number": 3,
+      "name": "Prestige",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9c717b07-6101-46fc-ab3c-203b0a789773",
+      "season": 1,
+      "number": 4,
+      "name": "Alimony",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1d84b35b-f389-4f3b-a184-13a3ffed54c3",
+      "season": 1,
+      "number": 5,
+      "name": "Sal Maldonado",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9b2647e1-0d5c-45d9-86fc-3cd8452bb268",
+      "season": 1,
+      "number": 6,
+      "name": "Six Grand",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fca4d672-44a7-4cbd-b033-0de604489171",
+      "season": 2,
+      "number": 1,
+      "name": "It's a Miserable Life",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "33229963-67b6-45a6-9a1e-fbbd994d54f6",
+      "season": 2,
+      "number": 2,
+      "name": "Big Fan",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2e03637b-f95d-46e6-a468-a83617d52869",
+      "season": 2,
+      "number": 3,
+      "name": "No Bull...",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a970975d-ca39-4b49-91c5-212eaefa682c",
+      "season": 2,
+      "number": 4,
+      "name": "The Twelve",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a91479d1-6484-4bf1-a9f4-d7f14725e43c",
+      "season": 2,
+      "number": 5,
+      "name": "The Old Man",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2ba789c0-8753-43ea-b0e2-f2f2eea499c5",
+      "season": 2,
+      "number": 6,
+      "name": "Fingerless",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5d8ceb9b-5a8f-439f-9b10-b2c7446dc4ac",
+      "season": 2,
+      "number": 7,
+      "name": "The Trial",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

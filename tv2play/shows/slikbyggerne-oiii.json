@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Ni af Danmarks allermest kreative børn kæmper om at blive Danmarks vildeste slikbygger, når Micki Cheng udfordrer dem til at lave de sejeste og flotteste kreationer ud af slik. Hvem er bedst til at løse opgaven? Og hvad synes dommerne om børnenes vilde slikværker?",
+  "image": "https://cdn-play.tv2i.dk/3c7e7821-7655-38a8-8491-e9457038a013.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "81fbf1b6-9ace-4cd4-999b-63745571ceb4",
@@ -138,6 +140,27 @@
       "number": 6,
       "name": "Finale! Hvem vinder?",
       "airdate": "2026-06-27"
+    },
+    {
+      "id": "0dda66dd-1c42-442d-ad1e-25cb9a9ae628",
+      "season": 3,
+      "number": 7,
+      "name": "Skummel slikspand med Philip May",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "91888e24-218c-47a7-b3ed-4bf4d60051be",
+      "season": 3,
+      "number": 8,
+      "name": "Skræmmende accessories med Marie Watson",
+      "airdate": "2026-10-10"
+    },
+    {
+      "id": "595e4c90-ce16-48db-b534-0414288663ab",
+      "season": 3,
+      "number": 9,
+      "name": "Det mest uhyggelige finalemonster!",
+      "airdate": "2026-10-10"
     }
   ]
 }

@@ -1,0 +1,264 @@
+{
+  "id": "tv2play:du-og-blaa-loeser-gaader-skyshowtime",
+  "name": "Du og Blå løser gåder",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kan du hjælpe Blå og Josh med at løse alverdens gåder, når I sammen tager på et eventyr?",
+  "image": "https://cdn-play.tv2i.dk/dc37afba-9d1c-4778-8b72-94d4ab04be57.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "706476cf-3607-4c79-9cf8-9bfc5b4d8c8d",
+      "season": 1,
+      "number": 5,
+      "name": "Du og Blå løser gåder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4ae941d0-1ca4-49db-8243-68c39a1b05b7",
+      "season": 1,
+      "number": 7,
+      "name": "Du og Blå løser gåder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b38ae5f0-d81a-4815-bedf-339269a060a0",
+      "season": 1,
+      "number": 8,
+      "name": "Du og Blå løser gåder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "37892d3e-fd2b-45cc-ab9c-6fd2744a57e0",
+      "season": 1,
+      "number": 11,
+      "name": "Du og Blå løser gåder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "84b32718-1e31-457a-8d57-72c3d85dbd56",
+      "season": 1,
+      "number": 13,
+      "name": "Du og Blå løser gåder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2124c6a4-f6e0-4128-95a8-8d04d4a82c72",
+      "season": 1,
+      "number": 15,
+      "name": "Du og Blå løser gåder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "96f30688-10a7-4db6-b6e7-269f26ccab59",
+      "season": 2,
+      "number": 3,
+      "name": "Blås skattejagt",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e664cb79-73c4-4e81-9449-fe7548606ee1",
+      "season": 3,
+      "number": 1,
+      "name": "Vores nye nabo!",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2e05f57d-15f4-4f34-afb4-6158eabdac6c",
+      "season": 3,
+      "number": 5,
+      "name": "Byg med blå",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4c7afe64-fa03-4f76-a1b5-0925e84048f3",
+      "season": 3,
+      "number": 6,
+      "name": "Lysfesten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f25f7bd9-2c65-4504-8192-917e9f76cd82",
+      "season": 4,
+      "number": 1,
+      "name": "Blås ønske går i opfyldelse",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "4b709715-9c9b-42d3-9072-5cb882c1c365",
+      "season": 4,
+      "number": 2,
+      "name": "Legenden om Jack Græskarhoved",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "1efc246b-efd1-453a-9dab-1818d54b657a",
+      "season": 4,
+      "number": 3,
+      "name": "Brandkvinde Blå kommer til undsætning",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "19971354-537f-4342-911d-58ab0fe720c8",
+      "season": 4,
+      "number": 4,
+      "name": "Takkedag",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "76018850-abf1-4f28-89b8-341bbefd619b",
+      "season": 4,
+      "number": 5,
+      "name": "Ridderne af snackbordet",
+      "airdate": "2023-11-03"
+    },
+    {
+      "id": "fd882a18-6a61-4d64-8459-87a1c1ee75e9",
+      "season": 4,
+      "number": 6,
+      "name": "En blå jul sammen med dig",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "a882431f-1d5b-4ffe-a25d-94a1e98bc5d9",
+      "season": 4,
+      "number": 7,
+      "name": "Nat på Blåmuseet",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "e37982a0-f7aa-494b-b7a3-dacd73204dd4",
+      "season": 4,
+      "number": 8,
+      "name": "Fortællingen om Skovl og Spand",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "8d1d036c-f943-485b-a31e-ea5f28f0013e",
+      "season": 4,
+      "number": 9,
+      "name": "Den blå sløjfepræmie",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "9399288c-f156-444d-b6c0-99a530261367",
+      "season": 4,
+      "number": 10,
+      "name": "Perles sparkeboldmesterskab",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "e68bbcee-3d2c-4525-956b-417f1b6896b0",
+      "season": 4,
+      "number": 11,
+      "name": "Sagen om den forsvundne tænkestol",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "fe40fb43-bb7f-4a59-97a8-f7ee7725f044",
+      "season": 4,
+      "number": 12,
+      "name": "Det Store Blå Grand Prix",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "95480ffc-739f-4700-abc1-18cf45c0efa3",
+      "season": 4,
+      "number": 13,
+      "name": "Blås nye kæledyr",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "adc3f303-800e-433f-aec8-504cd659e953",
+      "season": 4,
+      "number": 14,
+      "name": "Troldmanden fra Skidoo",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "4eb9f98b-7d59-4729-868a-6fd71b1449b5",
+      "season": 4,
+      "number": 15,
+      "name": "Joshes øvdag",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "461fa5da-b979-443a-b409-7a03ade029bd",
+      "season": 4,
+      "number": 16,
+      "name": "Josh og Blås isbutik",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "ec0607aa-f92f-4174-918e-3c5a3bd11066",
+      "season": 4,
+      "number": 17,
+      "name": "Tænkebrigaden vender tilbage",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "d1e5d16b-9e57-408d-94e7-e9abbb6786b6",
+      "season": 4,
+      "number": 18,
+      "name": "Den løjerlige lugtende lugt",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "09a0fc80-60ea-45f6-8fd7-ff1a0b475645",
+      "season": 4,
+      "number": 19,
+      "name": "Tillykke med fødselsdagen, Salvie og Ingefær",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "3146238b-0a29-4f0c-966e-8106ece493b7",
+      "season": 4,
+      "number": 20,
+      "name": "Regnbuehvalpen",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "7681fa98-74ac-4576-975c-28c474c32277",
+      "season": 4,
+      "number": 21,
+      "name": "¡Hola, Mexico City!",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "92662367-b3b9-480c-ba84-a0df9a1530a6",
+      "season": 4,
+      "number": 22,
+      "name": "Kamusta, Filippinerne!",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "3c3537df-dec3-46ac-87bf-0be0fe134b53",
+      "season": 4,
+      "number": 23,
+      "name": "Hotel Bleu",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "b0800a4b-0153-46fa-80b0-2688b49d43fa",
+      "season": 4,
+      "number": 24,
+      "name": "Blås nyheder",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "b9005fc7-19fe-4bbd-83b9-8afb7d4ff3dd",
+      "season": 4,
+      "number": 25,
+      "name": "Blås nedtællingsfejring",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "7a80a10b-9690-455e-8173-b8fcfb6cace5",
+      "season": 4,
+      "number": 26,
+      "name": "Hvis du ikke ser det, så vær det!",
+      "airdate": "2024-07-17"
+    }
+  ]
+}

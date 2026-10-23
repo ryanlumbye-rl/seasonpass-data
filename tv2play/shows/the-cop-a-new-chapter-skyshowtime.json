@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:the-cop-a-new-chapter-skyshowtime",
+  "name": "The Cop. A New Chapter",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Warszawas drabsafdeling konfronteres hver eneste dag med vold og død. De garvede detektiver Banas og Jozwiak får selskab af den unge Tamara Rudnik, som kastes direkte ind i byens mørke underverden. Hver sag flår i sjælen – og tvinger dem til at kæmpe mod deres egne indre dæmoner.",
+  "image": "https://cdn-play.tv2i.dk/0bdcd0e4-3d89-4158-9174-0abcb6a9ba3a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3f4aa4e1-391c-476b-b843-709a0f9a5e9c",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-10-16"
+    },
+    {
+      "id": "c66776fe-d88f-435a-bd53-84f7ecdbaa59",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-10-16"
+    },
+    {
+      "id": "aa565fdf-1248-4aff-9352-384135ad0fae",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-10-23"
+    },
+    {
+      "id": "638a4b79-e693-42e1-bb23-38f9a89ea7b2",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "0e64a7ce-f3f3-4d07-ad16-89aea6f10910",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "604983a5-7cce-408f-8089-23e4a2e08a54",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-11-13"
+    }
+  ]
+}

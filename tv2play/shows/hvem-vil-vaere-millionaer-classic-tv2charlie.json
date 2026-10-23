@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Se eller gense de gode, gamle millionærprogrammer, hvor der quizzes om alt mellem himmel og jord.",
+  "image": "https://cdn-play.tv2i.dk/02e2b2fe-ca8c-4030-9d0d-ae954b4d3512.jpg?auto=format%2Ccompress&fm=webp&rect=98%2C36%2C3694%2C2077&w=1280",
   "episodes": [
     {
       "id": "a2eb1564-a664-4ff8-a9cf-9bcb19d34672",
@@ -208,6 +210,13 @@
       "number": 22,
       "name": "Mig og min date - del 1",
       "airdate": "2008-08-18"
+    },
+    {
+      "id": "b5526e60-b078-4ade-b7b4-72169d2d8019",
+      "season": 16,
+      "number": 23,
+      "name": "Mig og min date - del 2",
+      "airdate": "2008-08-25"
     },
     {
       "id": "53b3df16-fb5c-4c07-93b4-9926099a74e3",

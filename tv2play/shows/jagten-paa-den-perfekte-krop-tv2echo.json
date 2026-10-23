@@ -1,0 +1,89 @@
+{
+  "id": "tv2play:jagten-paa-den-perfekte-krop-tv2echo",
+  "name": "Jagten på den perfekte krop",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Er de sociale medier med til at skabe et snævert skønhedsideal? Hvor langt er vi villige til at gå for at opnå dette? Olivia Attwood udforsker skønhedstendenser og banebrydende nye behandlinger i jagten på 'den perfekte krop'.",
+  "image": "https://cdn-play.tv2i.dk/a70eb2c5-a16f-4b58-a8fe-95e18c8d260d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "72c3407d-1109-4952-a999-4f294397a59c",
+      "season": 1,
+      "number": 1,
+      "name": "Duckface for alle pengene",
+      "airdate": "2024-07-31"
+    },
+    {
+      "id": "c5d10cf2-74c1-4ddc-a791-c77235d9b81c",
+      "season": 1,
+      "number": 2,
+      "name": "Boobie Wonderland",
+      "airdate": "2024-08-07"
+    },
+    {
+      "id": "b47a3608-edda-4b4f-afbe-9a507bbf8a68",
+      "season": 1,
+      "number": 3,
+      "name": "Når enden er god, er alting godt",
+      "airdate": "2024-08-14"
+    },
+    {
+      "id": "d5650493-fcd2-4e0f-b047-78e418844ca2",
+      "season": 1,
+      "number": 4,
+      "name": "Den helt store vulvavidenskab",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "361ecf69-7d7f-46e2-a5b6-af08563e0c60",
+      "season": 1,
+      "number": 5,
+      "name": "Det sande penisparadis",
+      "airdate": "2024-08-28"
+    },
+    {
+      "id": "de64e799-0c25-4754-93ec-92c0b3e5e5a8",
+      "season": 2,
+      "number": 1,
+      "name": "Vægttab",
+      "airdate": "2025-08-26"
+    },
+    {
+      "id": "9c76471f-54cd-4521-825c-46e712863822",
+      "season": 2,
+      "number": 2,
+      "name": "Smil",
+      "airdate": "2025-09-02"
+    },
+    {
+      "id": "80693fb8-9e26-4ccb-8861-0fb8a9196a49",
+      "season": 2,
+      "number": 3,
+      "name": "Hud",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "4b02c1c1-a384-4f9e-b406-eed7815ffdba",
+      "season": 2,
+      "number": 4,
+      "name": "Efter fødslen",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "2d8f0f3f-c59b-4fe7-994f-6008efe5f04c",
+      "season": 2,
+      "number": 5,
+      "name": "Mænd",
+      "airdate": "2025-09-23"
+    },
+    {
+      "id": "a327ac20-a52d-4b9a-9b56-157a62b8a627",
+      "season": 2,
+      "number": 6,
+      "name": "Afhængighed",
+      "airdate": "2025-09-30"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:de-danske-kamppiloter-tv2",
+  "name": "De danske kamppiloter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På Flyveskolen er hver dag afgørende for de unge mænd og kvinder, der kæmper for at blive Danmarks kommende kamppiloter. Vi møder også rutinerede F-16 piloter, der fortæller om afgørende missioner, og vi følger dem på Luke Air Force Base i USA, hvor piloterne omskoles til de nye F-35 kampfly. .",
+  "image": "https://cdn-play.tv2i.dk/bfde8af9-7ed8-443e-9c73-8af85c4ec24d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "dadd20e5-c384-4648-8f76-c265a9752304",
+      "season": 1,
+      "number": 1,
+      "name": "Første gang det er rigtigt, rigtigt",
+      "airdate": "2023-01-16"
+    },
+    {
+      "id": "55a68b13-67f0-4e42-bed8-bc4c3550092e",
+      "season": 1,
+      "number": 2,
+      "name": "Når alvoren melder sig",
+      "airdate": "2023-01-30"
+    },
+    {
+      "id": "e226048c-2792-4cb5-bd23-ffe35cc3afd6",
+      "season": 1,
+      "number": 3,
+      "name": "Jeg kan ikke gøre alting perfekt",
+      "airdate": "2023-02-06"
+    },
+    {
+      "id": "28f61de8-9642-402b-ab81-4a0d1636b64b",
+      "season": 1,
+      "number": 4,
+      "name": "Der er langt fra en pløjemark i Karup",
+      "airdate": "2023-02-13"
+    }
+  ]
+}

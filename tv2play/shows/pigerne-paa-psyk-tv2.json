@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:pigerne-paa-psyk-tv2",
+  "name": "Pigerne på psyk",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvordan er det at være indlagt på en ungdomspsykiatrisk afdeling, og hvad stiller man op med de unge, der i en alt for tidlig alder har mistet lysten til at leve? TV 2 Dokumentar følger i to episoder 16-årige Viola og 13-årige Matilde igennem deres udredningsforløb på afdeling B203 i Glostrup.",
+  "image": "https://cdn-play.tv2i.dk/e1f9004e-7b40-48fd-b576-b579515dcab6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a991fa06-169d-444a-a829-8c30b0f21c87",
+      "season": 1,
+      "number": 1,
+      "name": "Jeg vil ikke være her mere",
+      "airdate": "2024-06-27"
+    },
+    {
+      "id": "e6bbe9f4-b915-4bb8-b071-86e82043e1df",
+      "season": 1,
+      "number": 2,
+      "name": "Bliver det lyst igen?",
+      "airdate": "2024-07-02"
+    }
+  ]
+}

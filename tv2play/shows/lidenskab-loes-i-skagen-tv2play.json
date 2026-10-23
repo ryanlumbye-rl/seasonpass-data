@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:lidenskab-loes-i-skagen-tv2play",
+  "name": "Lidenskab løs i Skagen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fire kvinder tildeles hver et unikt hotelophold langt væk fra hverdagen. Med personlige udfordringer og passion ankommer de til toppen af Danmark - et sted, hvor det særlige lys får ting til at ske.",
+  "image": "https://cdn-play.tv2i.dk/21bd43c2-ac21-4e2b-abaa-85086a8c664e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9b171b03-61fc-4d89-99b8-e3cba6f4aa3b",
+      "season": 1,
+      "number": 1,
+      "name": "Farvel til hverdagen",
+      "airdate": "2026-05-09"
+    },
+    {
+      "id": "108a47c9-5469-469b-b78b-a8aec16914b2",
+      "season": 1,
+      "number": 2,
+      "name": "En gave pakket ind i en lort",
+      "airdate": "2026-05-16"
+    }
+  ]
+}

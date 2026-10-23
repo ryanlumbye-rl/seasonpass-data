@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:en-for-holdet-tv2",
+  "name": "En for holdet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvem kan vi takke for ligestillingen i dag, og hvor langt er vi egentlig kommet? Det undersøger Petra Nagel og Janni Pedersen sammen i tre programmer.",
+  "image": "https://cdn-play.tv2i.dk/4d4872b2-7a79-4dfb-87fd-011cc9dae89e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8065de9b-ed47-43b3-8c95-f4052566fac9",
+      "season": 1,
+      "number": 1,
+      "name": "Kvinde kend din kamp",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "2912c6da-943e-4dec-a1c8-f6a5c2a73b86",
+      "season": 1,
+      "number": 2,
+      "name": "Jagten på ligestilling",
+      "airdate": "2025-03-11"
+    },
+    {
+      "id": "c4fb68aa-0062-4bc2-b639-2eaae9488bc5",
+      "season": 1,
+      "number": 3,
+      "name": "Søsterskab",
+      "airdate": "2025-03-18"
+    }
+  ]
+}

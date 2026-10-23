@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:farlige-foraeldre-tv2",
+  "name": "Farlige forældre",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvem hjælper børnene, når de bliver udsat for vold fra deres mor og far? TV 2 følger i to afsnit nogle af de mange unge, der er vokset op med fysisk og psykisk vold og nu kæmper for at finde deres egne ben i livet. Men hvorfor fik børnene aldrig den hjælp, de havde brug for?.",
+  "image": "https://cdn-play.tv2i.dk/174fd4ef-415a-4ac7-8f99-f7f081f73a58.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "438a7e19-2c20-4da0-80ae-609428b751ad",
+      "season": 1,
+      "number": 1,
+      "name": "Ondskab bag lukkede døre",
+      "airdate": "2023-06-05"
+    },
+    {
+      "id": "c0385a70-cc99-44e6-a878-31fc20ac6f28",
+      "season": 1,
+      "number": 2,
+      "name": "Kampen for retfærdighed",
+      "airdate": "2023-06-12"
+    }
+  ]
+}

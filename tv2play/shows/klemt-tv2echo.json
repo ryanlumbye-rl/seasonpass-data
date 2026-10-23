@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:klemt-tv2echo",
+  "name": "KLEMT",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Skør, farverig og akavet komedieserie med komiker Eva Jin i hovedrollen. Som nyudklækket børne-tv-vært leder 22-årige Stina efter sin egen indre stemme i et virvar af andres langt mere markante stemmer, hvilket ofte ender med, at hun kommer i klemme i den ene uheldige situation efter den anden",
+  "image": "https://cdn-play.tv2i.dk/af10388f-e242-4078-a6c0-82841492b886.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c1ddc681-7686-48ac-9a6a-c9bb8787b433",
+      "season": 1,
+      "number": 1,
+      "name": "Stina elsker børn",
+      "airdate": "2021-07-19"
+    },
+    {
+      "id": "82f3db8b-3949-4578-8c16-28ca6c217ff6",
+      "season": 1,
+      "number": 2,
+      "name": "Stina er Sun",
+      "airdate": "2021-07-26"
+    },
+    {
+      "id": "970482ae-bfd0-4bdb-8710-93a0907c0ae3",
+      "season": 1,
+      "number": 3,
+      "name": "Stina går i cølibat",
+      "airdate": "2021-08-02"
+    },
+    {
+      "id": "4ab1e3e2-f320-452a-9308-e0281ac278a6",
+      "season": 1,
+      "number": 4,
+      "name": "Stina køber stoffer",
+      "airdate": "2021-08-09"
+    },
+    {
+      "id": "74c20b4c-6b14-4a69-8015-b0f515283aba",
+      "season": 1,
+      "number": 5,
+      "name": "Stina har en affære",
+      "airdate": "2021-08-16"
+    },
+    {
+      "id": "5572e76f-abdd-4f29-9b59-3c2d27f9bf4a",
+      "season": 1,
+      "number": 6,
+      "name": "Stina er gravid",
+      "airdate": "2021-08-23"
+    }
+  ]
+}

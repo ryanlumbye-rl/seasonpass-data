@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:sproede-svaer-og-varme-hjerter-tv2play",
+  "name": "Sprøde svær og varme hjerter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I Holeby på Lolland ligger en lidt særlig grillbar. Bag disken står Mulle, som ikke bare serverer sprøde svær og perfekte pizzaer, men også byder på gratis kaffe og hjerterum i baglokalet. Men Mulles helbred skranter - og hvad skal der så blive af grillbarens varme hjerte?",
+  "image": "https://cdn-play.tv2i.dk/e9cc1599-d496-4bfe-9d84-7c0cf63051dc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C4032%2C2268&w=1280",
+  "episodes": [
+    {
+      "id": "201587e4-6cc3-4519-8c35-f7d3dd085db9",
+      "season": 1,
+      "number": 1,
+      "name": "Hos Mulle",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "5c55bf64-bab3-448c-9108-6a1f36595694",
+      "season": 1,
+      "number": 2,
+      "name": "Gitte klarer kaffen",
+      "airdate": "2025-12-25"
+    },
+    {
+      "id": "2febf6c7-4e90-4234-a280-2233865581a8",
+      "season": 1,
+      "number": 3,
+      "name": "Cassandras julegave",
+      "airdate": "2026-01-01"
+    },
+    {
+      "id": "b1cb46b0-bbd3-4800-9a87-259ae07b0ebb",
+      "season": 1,
+      "number": 4,
+      "name": "Helbredet halter",
+      "airdate": "2026-01-08"
+    },
+    {
+      "id": "83ee9a8a-69c0-46a0-93e9-2ff9a41a817d",
+      "season": 1,
+      "number": 5,
+      "name": "Mulle overdrager grillen",
+      "airdate": "2026-01-15"
+    },
+    {
+      "id": "a606bb62-e45d-4816-9915-1925741a4964",
+      "season": 1,
+      "number": 6,
+      "name": "Baglokalet er lukket",
+      "airdate": "2026-01-22"
+    },
+    {
+      "id": "3d7927d8-4a34-4395-890f-bd068be3f74c",
+      "season": 1,
+      "number": 7,
+      "name": "Tarotkort og ny begyndelse",
+      "airdate": "2026-01-29"
+    },
+    {
+      "id": "654902f8-9f61-4d57-a505-a41b057dc330",
+      "season": 1,
+      "number": 8,
+      "name": "Så er der banko!",
+      "airdate": "2026-02-05"
+    }
+  ]
+}

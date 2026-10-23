@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:maa-jeg-vaere-mor-tv2echo",
+  "name": "Må jeg være mor?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 ECHO sætter fokus på begrebet 'mom-shaming', når de gennem et år har fulgt syv forskellige kvinder og deres ret til at være mor på deres egen måde.",
+  "image": "https://cdn-play.tv2i.dk/e82ee34b-209d-4598-b883-5b25b27391a7.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "d85a4f2a-f526-42ab-866d-9a9d6a4219be",
+      "season": 1,
+      "number": 1,
+      "name": "For tyk til at blive mor",
+      "airdate": "2021-11-09"
+    },
+    {
+      "id": "1e397467-7d34-4652-899b-c2c51be813d1",
+      "season": 1,
+      "number": 2,
+      "name": "Mor og spastisk lammet",
+      "airdate": "2021-11-09"
+    },
+    {
+      "id": "4ef69c61-9d87-4706-bfce-ea25bf250455",
+      "season": 1,
+      "number": 3,
+      "name": "Overvågning eller plejefamilie?",
+      "airdate": "2021-11-16"
+    },
+    {
+      "id": "26972d63-c7e6-4d2b-912f-51aafab812ed",
+      "season": 1,
+      "number": 4,
+      "name": "Ødelægger min psyke børnene?",
+      "airdate": "2021-11-23"
+    },
+    {
+      "id": "b00d77ed-cbca-4d3e-b0ec-c47157b19839",
+      "season": 1,
+      "number": 5,
+      "name": "Mor er væk fire dage om ugen",
+      "airdate": "2021-11-30"
+    },
+    {
+      "id": "fecc135b-eb96-4a98-8f83-90c2cfa6bfef",
+      "season": 1,
+      "number": 6,
+      "name": "En god mor, men på lånt tid",
+      "airdate": "2021-12-07"
+    }
+  ]
+}

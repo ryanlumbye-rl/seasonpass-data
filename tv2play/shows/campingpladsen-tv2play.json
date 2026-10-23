@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:campingpladsen-tv2play",
+  "name": "Campingpladsen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I udkanten af Rønne på Bornholm ligger Nordskoven Strand Camping som en oase af feriestemning og hygge. Kom med ind bag teltdugen, når vi følger familien bag campingpladsen, møder gæsterne og mærker solen på kinderne i programmet ’Campingpladsen’.",
+  "image": "https://cdn-play.tv2i.dk/6defb7aa-f98f-4dde-b6af-9bbe59490a7b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "add6c131-c3d1-46cb-9dab-cdbf30682438",
+      "season": 1,
+      "number": 1,
+      "name": "I ly for regnen",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "b52ec67a-4a74-48fd-8bf1-c2b9a7df7c33",
+      "season": 1,
+      "number": 2,
+      "name": "Importeret assistance",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "452331a7-9d1d-4e33-a340-c380d56b177a",
+      "season": 1,
+      "number": 3,
+      "name": "Hundeugen",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "a5167d35-8d26-447c-abfa-8b6264c1d8ab",
+      "season": 1,
+      "number": 4,
+      "name": "Sæsonafslutningen",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "627d1270-cfb2-42c1-815b-46989c7fc4b6",
+      "season": 2,
+      "number": 1,
+      "name": "Sankthans i fare",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "3903d7bb-2f2e-42d3-895e-8b5f40ffefc4",
+      "season": 2,
+      "number": 2,
+      "name": "Stjernestøv på campingpladsen",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "8066f8cd-341b-473b-97a3-7218fa5dd348",
+      "season": 2,
+      "number": 3,
+      "name": "Kærlighed, venskab og frivillige kræfter",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "89f58f0b-2cb8-4e5f-8089-2af6c679373e",
+      "season": 2,
+      "number": 4,
+      "name": "Sæsonafslutning",
+      "airdate": "2026-02-13"
+    }
+  ]
+}

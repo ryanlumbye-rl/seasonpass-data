@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:naar-livet-lagger-tv2oest",
+  "name": "Når livet lagger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hver tiende unge er hverken i uddannelse eller job, og sidder lidt fast i livet. Værst står det til i kommunerne på øerne, Syd- og Vestsjælland. E-sportsforeningen Sørby E-sport har sat sig for at gøre noget ved statistikken, og hjælpe nogle af de unge med at komme godt videre i livet.",
+  "image": "https://cdn-play.tv2i.dk/da1dc00b-19f8-4de9-a19e-d155ce93fb2a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8be5a689-2bf7-489c-ac98-df41ac6a4765",
+      "season": 1,
+      "number": 1,
+      "name": "Fra gaming til jobdrøm",
+      "airdate": "2025-08-25"
+    },
+    {
+      "id": "cf927a8d-2a99-4153-90f2-365d96ab1861",
+      "season": 1,
+      "number": 2,
+      "name": "Små skridt, store sejre",
+      "airdate": "2025-09-01"
+    },
+    {
+      "id": "adfcd5e2-e592-4fb4-bd60-d25ad6a54993",
+      "season": 1,
+      "number": 3,
+      "name": "Nye muligheder i sigte",
+      "airdate": "2025-09-08"
+    }
+  ]
+}

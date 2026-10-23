@@ -1,0 +1,236 @@
+{
+  "id": "tv2play:minkavlerne-tv2echo",
+  "name": "Minkavlerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I Nordjylland bor en minkavlerfamilie bestående af Niller, Gerda og deres tre voksne sønner, Martin, Allan og Jakob. I den stjernespækkede komedieserie kan du følge familien Christiansens kamp for at beholde gården og holde sammen på familien, hvilket kræver blod, hemmeligheder og et boogietræk.",
+  "image": "https://cdn-play.tv2i.dk/b9e26344-1c54-4a70-9cfb-7810130d18cf.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ca9d6bb0-dae2-4a09-9400-e03f0707bd17",
+      "season": 1,
+      "number": 1,
+      "name": "Har du ikke boogietræk på?",
+      "airdate": "2019-09-01"
+    },
+    {
+      "id": "3aa32cec-af41-4200-8272-0f9735642310",
+      "season": 1,
+      "number": 2,
+      "name": "Den Røde Romario",
+      "airdate": "2019-09-01"
+    },
+    {
+      "id": "c82e6952-f42f-4c9b-b2fe-5c283535dccc",
+      "season": 1,
+      "number": 3,
+      "name": "Pletskud",
+      "airdate": "2019-09-08"
+    },
+    {
+      "id": "8910fc3c-9ec5-4833-9706-03ae1c8e3e26",
+      "season": 1,
+      "number": 4,
+      "name": "Stikkersvin",
+      "airdate": "2019-09-15"
+    },
+    {
+      "id": "27f3866c-637a-4b32-a070-23af01a9532e",
+      "season": 1,
+      "number": 5,
+      "name": "\"Syge, klamme minkdyr\"",
+      "airdate": "2019-09-22"
+    },
+    {
+      "id": "0bd5ccf3-13b1-4709-bebd-e5f8fbca8164",
+      "season": 1,
+      "number": 6,
+      "name": "En jagtulykke",
+      "airdate": "2019-09-29"
+    },
+    {
+      "id": "602c85b3-bd2c-4d4f-af71-0e41eab97494",
+      "season": 1,
+      "number": 7,
+      "name": "Hvor er krudtet?",
+      "airdate": "2019-10-06"
+    },
+    {
+      "id": "8cb87adb-2491-4707-af69-a911404c6346",
+      "season": 1,
+      "number": 8,
+      "name": "Til middag hos...",
+      "airdate": "2019-10-21"
+    },
+    {
+      "id": "5c877fde-4380-4d46-a8fa-809df1dbcdc3",
+      "season": 2,
+      "number": 1,
+      "name": "Jeg melder mig",
+      "airdate": "2021-04-11"
+    },
+    {
+      "id": "051d05f5-2bf0-427e-a20c-ead6c24e31b1",
+      "season": 2,
+      "number": 2,
+      "name": "Du' mugechef",
+      "airdate": "2021-04-11"
+    },
+    {
+      "id": "64a7b68d-91bb-46fb-b5e3-0cba48181fc4",
+      "season": 2,
+      "number": 3,
+      "name": "Fire dåser makrel",
+      "airdate": "2021-04-18"
+    },
+    {
+      "id": "6c1bab12-de78-4fa1-b154-2fedec977ae7",
+      "season": 2,
+      "number": 4,
+      "name": "Snavse' drenge",
+      "airdate": "2021-04-25"
+    },
+    {
+      "id": "fff8b236-6d94-46fb-9ff7-770499345c39",
+      "season": 2,
+      "number": 5,
+      "name": "Du skal over på HDMI",
+      "airdate": "2021-05-02"
+    },
+    {
+      "id": "02e61438-c21f-4619-b896-9623ea0e84e6",
+      "season": 2,
+      "number": 6,
+      "name": "Momsfri mandag",
+      "airdate": "2021-05-09"
+    },
+    {
+      "id": "e6c83dcf-c585-4225-a8ec-ed4020c21d3f",
+      "season": 2,
+      "number": 7,
+      "name": "Jeg skyder efter nossern'",
+      "airdate": "2021-05-16"
+    },
+    {
+      "id": "052f4f61-35a5-4cdd-b7a8-975a13c49fe7",
+      "season": 2,
+      "number": 8,
+      "name": "Ærlighed varer længst",
+      "airdate": "2021-05-23"
+    },
+    {
+      "id": "05c1a6d7-d9d3-4ecb-a396-5ffcd9bd10b7",
+      "season": 3,
+      "number": 1,
+      "name": "Hva' fanden sker der?",
+      "airdate": "2022-04-04"
+    },
+    {
+      "id": "a1587c88-1f01-4590-8983-40d56e166e10",
+      "season": 3,
+      "number": 2,
+      "name": "En ordentlig mukkert",
+      "airdate": "2022-04-11"
+    },
+    {
+      "id": "2fc0a1d0-60da-4a9b-a033-0760744b7339",
+      "season": 3,
+      "number": 3,
+      "name": "Koldt vand i blodet",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "7c9922c1-d165-4a68-bfa2-bd8c68aa58dc",
+      "season": 3,
+      "number": 4,
+      "name": "Du hænger på beatet",
+      "airdate": "2022-04-25"
+    },
+    {
+      "id": "8fb8a572-6516-4b16-8db5-b67a3f9d3e0a",
+      "season": 3,
+      "number": 5,
+      "name": "Susanne og hendes succes",
+      "airdate": "2022-05-02"
+    },
+    {
+      "id": "1c7df6de-fead-4419-9f11-95faac879e0b",
+      "season": 3,
+      "number": 6,
+      "name": "Den nye printer",
+      "airdate": "2022-05-09"
+    },
+    {
+      "id": "b7f78408-33db-4e00-85f7-e0cd19921e05",
+      "season": 3,
+      "number": 7,
+      "name": "Jagt forbi nummer syv",
+      "airdate": "2022-05-16"
+    },
+    {
+      "id": "36289162-a6b4-48ca-843a-e0486528b08f",
+      "season": 3,
+      "number": 8,
+      "name": "De fede tider",
+      "airdate": "2022-05-23"
+    },
+    {
+      "id": "b1ed48f8-f4de-46b0-822c-b9b193a877f5",
+      "season": 4,
+      "number": 1,
+      "name": "Operation SMIL",
+      "airdate": "2023-08-27"
+    },
+    {
+      "id": "644b85c0-9981-4d3a-9913-f6da40df29da",
+      "season": 4,
+      "number": 2,
+      "name": "En bleg DJØF'er",
+      "airdate": "2023-09-03"
+    },
+    {
+      "id": "f501af17-8d11-4c74-b784-f9711daa9867",
+      "season": 4,
+      "number": 3,
+      "name": "Kodesprog",
+      "airdate": "2023-09-10"
+    },
+    {
+      "id": "f93ebd6e-6981-4ba4-a6ee-af30ddb6d1aa",
+      "season": 4,
+      "number": 4,
+      "name": "En ærgerlig situation",
+      "airdate": "2023-09-17"
+    },
+    {
+      "id": "3f083f41-12b5-417f-9324-b1b312576e51",
+      "season": 4,
+      "number": 5,
+      "name": "Løgn varer længst",
+      "airdate": "2023-09-24"
+    },
+    {
+      "id": "f7d459e0-61a6-49e5-a782-8fa50b3031b6",
+      "season": 4,
+      "number": 6,
+      "name": "En habil medarbejder",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "000791fe-4cf3-448f-9405-70574cc0d101",
+      "season": 4,
+      "number": 7,
+      "name": "Lånte fjer",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "232c176d-eb4a-4358-9153-00634565e821",
+      "season": 4,
+      "number": 8,
+      "name": "Surprise!",
+      "airdate": "2023-10-15"
+    }
+  ]
+}

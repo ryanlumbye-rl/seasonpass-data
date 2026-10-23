@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:holdningsholdet-tv2nord",
+  "name": "Holdningsholdet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tre nordjyder med deres meningers mod og klare holdninger debatterer aktuelle emner over en kop kaffe. De tager alle emner under kærlig behandling, lige fra de nære problematikker i hjemmet til de store samfundsmæssige dilemmaer.",
+  "image": "https://cdn-play.tv2i.dk/095454e5-7ca3-4271-90d0-1e841caccf7e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "21c581bb-37c8-4c86-97f3-94d0d71d6dc0",
+      "season": 1,
+      "number": 3,
+      "name": "Berøringsangst og børns (over)forbrug af SoMe",
+      "airdate": "2024-10-29"
+    },
+    {
+      "id": "c1b40047-1c95-422b-b1f5-bb832345d5af",
+      "season": 1,
+      "number": 4,
+      "name": "Borgmester drak øl-bong og græs som menneskemad",
+      "airdate": "2024-11-12"
+    },
+    {
+      "id": "39413ba2-215c-4115-a38d-9e0a3041f5b3",
+      "season": 1,
+      "number": 5,
+      "name": "Kontroversiel kinesisk webshop og ensomme unge",
+      "airdate": "2024-12-03"
+    },
+    {
+      "id": "865970ba-118a-467a-bc2a-4efbe9965e82",
+      "season": 1,
+      "number": 6,
+      "name": "Læger under tvang og gaveræs over gevind",
+      "airdate": "2024-12-17"
+    }
+  ]
+}

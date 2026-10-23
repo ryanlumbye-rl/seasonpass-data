@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:shit-jeg-flytter-hjemmefra-tv2nord",
+  "name": "Shit - jeg flytter hjemmefra",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hverdagen med Tourettes udfordres for alvor af madlavning, vasketøj og indkøb, når den 22-årige komiker Jonathan Christensen flytter hjemmefra.",
+  "image": "https://cdn-play.tv2i.dk/be58642a-c874-4345-a442-def1f9be92f0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "afa4d8d1-9f2f-4aea-aa11-3365f78ebf51",
+      "season": 1,
+      "number": 1,
+      "name": "IKEA-testen med Tourettes",
+      "airdate": "2025-05-10"
+    },
+    {
+      "id": "1767ef84-e151-4fa0-9ab6-137aca1fd068",
+      "season": 1,
+      "number": 2,
+      "name": "Forvirret",
+      "airdate": "2025-05-17"
+    }
+  ]
+}

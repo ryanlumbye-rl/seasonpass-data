@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:pibestativ-stakit-kasket-tv2fri",
+  "name": "Pibestativ, stakit, kasket",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Jacob Riising og Melvin Kakooza sætter sig for at finde ud af, hvad man kan bytte sig til på et år. De starter med Otto Leisners gamle pibestativ - og store drømme. .",
+  "image": "https://cdn-play.tv2i.dk/ae693d89-3a0b-41d2-b0fa-e3dbbed21aa3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "37c2a2c1-386b-4d2d-8dea-828586f6509d",
+      "season": 1,
+      "number": 1,
+      "name": "Selveste Otto Leisner",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "0ab6ad07-d477-425c-8c2d-80a756db1eb9",
+      "season": 1,
+      "number": 2,
+      "name": "Futte",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "5dc4dc25-3025-4df4-8a50-26e0461fbffe",
+      "season": 1,
+      "number": 3,
+      "name": "Når enden er god",
+      "airdate": "2024-08-24"
+    },
+    {
+      "id": "57e881f2-10df-404f-9c37-8090f4350e55",
+      "season": 1,
+      "number": 4,
+      "name": "Spidsen af en jetjager",
+      "airdate": "2024-08-31"
+    },
+    {
+      "id": "92a5a447-e86c-4214-bfaa-976c0fd131f3",
+      "season": 1,
+      "number": 5,
+      "name": "Dyrskue og jyske dollars",
+      "airdate": "2024-09-07"
+    },
+    {
+      "id": "3f0ce2f2-f5f6-494a-ac49-f0f0e79fcfc1",
+      "season": 1,
+      "number": 6,
+      "name": "Så til søs",
+      "airdate": "2024-09-14"
+    },
+    {
+      "id": "8c72898b-9c58-4123-93a4-a42c0e412377",
+      "season": 1,
+      "number": 7,
+      "name": "Fiskeæg og dyre dråber",
+      "airdate": "2024-09-21"
+    },
+    {
+      "id": "7723dcac-0db6-4966-9e07-c4ad918d6bb4",
+      "season": 1,
+      "number": 8,
+      "name": "Blåt blod i årene",
+      "airdate": "2024-09-28"
+    }
+  ]
+}

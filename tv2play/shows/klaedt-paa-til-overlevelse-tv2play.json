@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:klaedt-paa-til-overlevelse-tv2play",
+  "name": "Klædt på til overlevelse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Snak om krise, cyberkrig og hybridkrig har fået David til at opsøge en vaskeægte overlevelsesekspert i håbet om at blive klædt på til overlevelse i naturen.",
+  "image": "https://cdn-play.tv2i.dk/03699c1b-dfae-411a-8bc3-e1946a5ddaa5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C854%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "c6411817-f0c2-4e03-90ab-ec8410d28250",
+      "season": 1,
+      "number": 1,
+      "name": "Sådan laver du ild",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "a97fd5e9-f33d-401b-b614-97937d2a397e",
+      "season": 1,
+      "number": 2,
+      "name": "Naturens spisekammer",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "45e5ec2e-747b-4d71-a2c1-0f9de363ae10",
+      "season": 1,
+      "number": 3,
+      "name": "En pølle i skovbunden",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "ae4fe5c3-2abd-4376-b0df-dd2c0aef650a",
+      "season": 1,
+      "number": 4,
+      "name": "Undgå at blive skør",
+      "airdate": "2026-02-27"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:dublin-narcos-skyshowtime",
+  "name": "Dublin Narcos",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I løbet af 1980'erne og 1990'erne gennemgik Dublin en seismisk transformation, der forvandlede byen fra et recessionsplaget dødvande til en af de rigeste byer i Europa. Da organiseret kriminalitet og ulovlig narkotikahandel samtidig blusser op, forandres byens sociale struktur.",
+  "image": "https://cdn-play.tv2i.dk/bd37601f-bd22-48af-acc6-7d3b06936440.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0c0fb3b8-41a2-4e33-be3b-0322558ee2c3",
+      "season": 1,
+      "number": 1,
+      "name": "Ordinary Decent Criminal",
+      "airdate": "2024-01-19"
+    },
+    {
+      "id": "35560969-7a6c-42be-83d5-5084fac58dfb",
+      "season": 1,
+      "number": 2,
+      "name": "The Entrepreneurs",
+      "airdate": "2024-01-19"
+    },
+    {
+      "id": "75136599-d307-4012-9f72-909182dd04a1",
+      "season": 1,
+      "number": 3,
+      "name": "The Untouchables",
+      "airdate": "2024-01-19"
+    }
+  ]
+}

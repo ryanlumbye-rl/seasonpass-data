@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:efterretningstjenesten-tv2",
+  "name": "Efterretningstjenesten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Politiets Efterretningstjeneste arbejder normalt i dybeste hemmelighed for at beskytte Danmark og danskerne mod trusler udefra. I programmerne tager topfolk fra PET os med ind i maskinrummet og giver et unikt indblik i, hvordan de har forsøgt at stoppe terrorangreb.",
+  "image": "https://cdn-play.tv2i.dk/22546799-2c6b-4834-a406-c0fdfbd54dc9.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "539f33e3-409e-4ddb-8982-e4cf94e3f745",
+      "season": 1,
+      "number": 1,
+      "name": "Angreb på udebane",
+      "airdate": "2023-05-28"
+    },
+    {
+      "id": "66c1b794-2019-4c96-ae15-d625055ff168",
+      "season": 1,
+      "number": 2,
+      "name": "Under radaren",
+      "airdate": "2023-05-28"
+    },
+    {
+      "id": "8aa869f8-5650-4ec9-8d9d-9f999b65473b",
+      "season": 1,
+      "number": 3,
+      "name": "Truslen fra Stockholm",
+      "airdate": "2023-06-04"
+    },
+    {
+      "id": "ab2da572-0dc0-4858-a868-016743e3070e",
+      "season": 1,
+      "number": 4,
+      "name": "Ensom ulv",
+      "airdate": "2023-06-25"
+    },
+    {
+      "id": "26563b24-a677-4670-912a-3c81a1b46a72",
+      "season": 1,
+      "number": 5,
+      "name": "17.460 tændstikker",
+      "airdate": "2023-06-25"
+    }
+  ]
+}

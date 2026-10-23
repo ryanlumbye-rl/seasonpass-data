@@ -14,11 +14,74 @@
       "airdate": "2025-08-21"
     },
     {
-      "id": "d05434d6-c485-4187-a439-05246a0ed45c",
+      "id": "16e633c8-522a-4abf-826f-6a8c2983a84e",
       "season": 1,
+      "number": 2,
+      "name": "En helt særlig lastbil",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "064e187e-fe86-45fe-8930-51dd7c557443",
+      "season": 1,
+      "number": 3,
+      "name": "Strømmen går!",
+      "airdate": "2025-09-04"
+    },
+    {
+      "id": "3de1ee55-f009-4deb-9f7d-7e4292646dea",
+      "season": 1,
+      "number": 4,
+      "name": "Danske romkugler",
+      "airdate": "2025-09-19"
+    },
+    {
+      "id": "b6d8efde-2114-47c0-a822-d9cf2dd92682",
+      "season": 1,
+      "number": 5,
+      "name": "Do you speak English?",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "7fd22b2b-8827-454d-8244-6897e1821987",
+      "season": 1,
+      "number": 6,
+      "name": "Virkelighedens drømme",
+      "airdate": "2025-10-03"
+    },
+    {
+      "id": "26b4e9c7-5386-4056-8a86-057cd3e86478",
+      "season": 1,
+      "number": 7,
+      "name": "Ovnen bryder sammen",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "d4764fef-f07e-4d06-8a37-4129223b1145",
+      "season": 1,
+      "number": 8,
+      "name": "Ostemanden kigger forbi",
+      "airdate": "2025-10-17"
+    },
+    {
+      "id": "e9e87620-c112-4bfb-85e8-27d828058886",
+      "season": 1,
+      "number": 9,
+      "name": "Lev livet, mens du har det!",
+      "airdate": "2025-10-24"
+    },
+    {
+      "id": "321516ac-d90a-4230-aa87-26ba78ede8b7",
+      "season": 2,
       "number": 1,
-      "name": "Legendarisk ostemad",
-      "airdate": "2025-08-21"
+      "name": "Yvonne er tilbage!",
+      "airdate": "2026-08-25"
+    },
+    {
+      "id": "d05434d6-c485-4187-a439-05246a0ed45c",
+      "season": 2,
+      "number": 2,
+      "name": "Plads til alle",
+      "airdate": "2026-08-25"
     },
     {
       "id": "095c21a8-8708-4dce-ba1a-d5f6bc856253",
@@ -48,5 +111,7 @@
       "name": "Yvonne vil have revanche",
       "airdate": "2026-09-18"
     }
-  ]
+  ],
+  "description": "Sådan cirka midt på Sydmotorvejen ligger rastepladsen Piberhus Øst. Den er et såkaldt infoteria - og dem er der kun 13 tilbage af i hele Danmark. I denne serie følger vi livet på rastepladsen.",
+  "image": "https://cdn-play.tv2i.dk/7ac34421-2e68-3441-b4e7-34bea0b241d5.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

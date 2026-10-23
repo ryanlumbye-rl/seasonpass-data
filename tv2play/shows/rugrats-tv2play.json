@@ -1,11 +1,361 @@
 {
   "id": "tv2play:rugrats-tv2play",
   "name": "Rugrats",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "262a971a-287b-45f3-a448-46c418b5d7c9",
+      "season": 1,
+      "number": 1,
+      "name": "Second Time Around - del 1",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "239b771f-2163-4134-9c07-73b3416658af",
+      "season": 1,
+      "number": 2,
+      "name": "Second Time Around - del 2",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "0f83a2c4-608c-4347-a543-1b78c07d2b4b",
+      "season": 1,
+      "number": 3,
+      "name": "Lady DeClutter",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "89cb57c1-5776-431d-b8e6-d44837a88b85",
+      "season": 1,
+      "number": 4,
+      "name": "Tail of the Dogbot",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "055dba36-f39e-46f0-b972-6855ce592d81",
+      "season": 1,
+      "number": 5,
+      "name": "One Big Happy Family",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "f3419942-ffd3-47da-ad0c-9464d32854d3",
+      "season": 1,
+      "number": 6,
+      "name": "March for Peas",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "41d1297b-4fd6-45e8-9ee2-7fbc90189566",
+      "season": 1,
+      "number": 8,
+      "name": "The Fish Stick",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "495ace93-6319-4485-b6b8-49908d6eb7f3",
+      "season": 1,
+      "number": 9,
+      "name": "Goodbye Reptar",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "4ad58c24-a048-4139-a514-3fae496e2508",
+      "season": 1,
+      "number": 10,
+      "name": "The Bubble & Zayde Show",
+      "airdate": "2021-10-29"
+    },
+    {
+      "id": "6d97824c-dacf-4742-abbc-a24eba76bd51",
+      "season": 1,
+      "number": 11,
+      "name": "The Big Diff",
+      "airdate": "2021-12-22"
+    },
+    {
+      "id": "aaafff0c-4691-4061-8f8a-0f1a32058f8b",
+      "season": 1,
+      "number": 12,
+      "name": "Great Minds Think Alike",
+      "airdate": "2021-12-22"
+    },
+    {
+      "id": "43187c3a-9d2b-4cc9-920d-5a8b52eaffee",
+      "season": 1,
+      "number": 13,
+      "name": "Escape from Preschool",
+      "airdate": "2021-12-22"
+    },
+    {
+      "id": "6bf89c4d-b514-4c2f-8c20-0e09c0308402",
+      "season": 1,
+      "number": 14,
+      "name": "The Werewoof Hunter",
+      "airdate": "2021-12-22"
+    },
+    {
+      "id": "bb3ce35c-fe0d-45ae-b367-542fdaa84eca",
+      "season": 1,
+      "number": 15,
+      "name": "Traditions",
+      "airdate": "2021-12-22"
+    },
+    {
+      "id": "e8f34c2d-35c4-4c35-9128-dbf730371514",
+      "season": 1,
+      "number": 16,
+      "name": "Chuckie mod Støvsugeren",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "20349e67-f18a-48d2-bfc1-133c7726adbb",
+      "season": 1,
+      "number": 17,
+      "name": "Den Gavmilde Engel",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "9ea68f87-9fcf-4b1f-8d68-5eb2ade409c0",
+      "season": 1,
+      "number": 18,
+      "name": "Bryllupsknusere",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "4b256d7c-8f91-4a1b-99b4-eed4836c6bd1",
+      "season": 1,
+      "number": 19,
+      "name": "Kaptajn Susie",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "11741997-35e0-4032-9423-f32a4ba800e5",
+      "season": 1,
+      "number": 20,
+      "name": "Lykkepletten",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "0e6e97aa-b6b0-49a0-99c1-2b40bdb38af8",
+      "season": 1,
+      "number": 21,
+      "name": "Red Cynthia",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "ef3179a6-42bd-4db0-8a62-1a4981f203c1",
+      "season": 1,
+      "number": 22,
+      "name": "Bidronning",
+      "airdate": "2022-06-30"
+    },
+    {
+      "id": "ddf752bf-f757-487c-ab4e-db91c131628b",
+      "season": 1,
+      "number": 23,
+      "name": "Natte-kravleren",
+      "airdate": "2022-06-30"
+    },
+    {
+      "id": "cb020601-dd94-47cc-8b7a-d1f400027d45",
+      "season": 1,
+      "number": 24,
+      "name": "Papkassehuset",
+      "airdate": "2022-06-30"
+    },
+    {
+      "id": "40db1b56-eaa6-4ece-9576-00f17bf5317e",
+      "season": 1,
+      "number": 25,
+      "name": "Kunsteren Susie",
+      "airdate": "2022-06-30"
+    },
+    {
+      "id": "363d84c2-4aaf-4e61-917e-8ad8db77ba14",
+      "season": 2,
+      "number": 1,
+      "name": "Tværs over Antarktis",
+      "airdate": "2023-11-22"
+    },
+    {
+      "id": "74fd778b-5d30-488c-b184-44500f789333",
+      "season": 2,
+      "number": 2,
+      "name": "At dele eller ikke at dele",
+      "airdate": "2023-11-22"
+    },
+    {
+      "id": "b76adc37-c905-4c5f-b90c-f032fbe23034",
+      "season": 2,
+      "number": 3,
+      "name": "En slange iblandt os",
+      "airdate": "2023-11-22"
+    },
+    {
+      "id": "f01a05a3-7df0-481a-a1df-44a18bd0eb0f",
+      "season": 2,
+      "number": 4,
+      "name": "Opgøret i Tot Springs",
+      "airdate": "2023-11-22"
+    },
+    {
+      "id": "8db6bd11-e673-4876-add6-1f2ac2e96252",
+      "season": 2,
+      "number": 5,
+      "name": "Lille-bukke-søster",
+      "airdate": "2023-11-22"
+    },
+    {
+      "id": "caaada39-f970-4649-b88d-d8c2a0aac4a9",
+      "season": 2,
+      "number": 6,
+      "name": "Væk med flasken",
+      "airdate": "2023-11-22"
+    },
+    {
+      "id": "2f96479b-643b-4c46-923f-2cd7317a6f41",
+      "season": 2,
+      "number": 7,
+      "name": "Klamping",
+      "airdate": "2023-11-22"
+    },
+    {
+      "id": "87e0a84c-f485-4e32-b4dd-b15155189afd",
+      "season": 2,
+      "number": 8,
+      "name": "Klumpen fra det ydre rum",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "f2c158b2-b869-46dd-9bc8-566f6afd843f",
+      "season": 2,
+      "number": 9,
+      "name": "Kæmpen Tommy",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "20e743e0-e345-4ba1-a711-724a1b8d080b",
+      "season": 2,
+      "number": 10,
+      "name": "Sir Spike",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "9cedbdc9-2c7e-4c9c-a4c3-922c1c62b2e2",
+      "season": 2,
+      "number": 11,
+      "name": "Reptardag",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "735dbcc8-4dd6-494a-940f-7af168b5e820",
+      "season": 2,
+      "number": 12,
+      "name": "Miss Match",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "c80d9fae-eccc-4358-8a60-292984c5c16a",
+      "season": 2,
+      "number": 13,
+      "name": "Babysprog",
+      "airdate": "2023-11-29"
+    },
+    {
+      "id": "05553a3d-bd45-4c9c-9ea6-fbad5b5d8824",
+      "season": 2,
+      "number": 14,
+      "name": "Opstigningen",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "1f36f56c-2042-4a3b-a093-3c7d9f167a67",
+      "season": 2,
+      "number": 15,
+      "name": "Lille Chuckie",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "f77cdfe6-4465-4885-9e29-e46b8236ac78",
+      "season": 2,
+      "number": 16,
+      "name": "Mini-Mor",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "18f985a8-d3f6-43a2-bf2e-529947161aaa",
+      "season": 2,
+      "number": 17,
+      "name": "Kun et spøgelse",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "19085d8a-6439-4739-b62c-c3dc561a5388",
+      "season": 2,
+      "number": 18,
+      "name": "Guitarmanden",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "30919ebc-4734-4589-9054-17f4009ee085",
+      "season": 2,
+      "number": 19,
+      "name": "Purim",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "4abd0791-1eb8-4ce0-bfa1-b9e2d92b56d4",
+      "season": 2,
+      "number": 20,
+      "name": "Dil på eventyr",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "29248a9d-a8bb-4f10-9307-e948a95eea4a",
+      "season": 2,
+      "number": 21,
+      "name": "Kuppet",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "c460e56a-14ac-41a0-b02a-07d667cc83ab",
+      "season": 2,
+      "number": 22,
+      "name": "Store Tommy",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "6dd7c138-7688-49ad-ad37-6031144b7cb6",
+      "season": 2,
+      "number": 23,
+      "name": "Den store aften",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "360686c4-f855-4948-813b-d2bd4ff34285",
+      "season": 2,
+      "number": 24,
+      "name": "Overnatning",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "dd996bed-af37-4c20-a336-d010a9d65e97",
+      "season": 2,
+      "number": 25,
+      "name": "Chuckie, kom hjem - Del 1",
+      "airdate": "2026-06-20"
+    },
+    {
+      "id": "e36b3978-1b93-4e63-8f57-68a4ecc34f43",
+      "season": 2,
+      "number": 26,
+      "name": "Chuckie, kom hjem - Del 2",
+      "airdate": "2026-06-20"
+    },
     {
       "id": "98530876-9f0d-4f8f-a953-59a6615a301d",
       "season": 3,
@@ -104,5 +454,7 @@
       "name": "Den store kagedag - del 2",
       "airdate": "2026-09-19"
     }
-  ]
+  ],
+  "description": "Den elskede 90'er-tegnefilm Rollinger er tilbage i en opdateret version. Vi følger en gruppe nysgerrige babyer, imens de udforsker den store verden omkring dem. Tommy Pickles leder flokken rundt i en fantastisk og fantasifuld verden i knæhøjde.",
+  "image": "https://cdn-play.tv2i.dk/5864f3dc-6cf9-44e4-bca1-aa4a3e6e3b38.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3420%2C1901&w=1280"
 }

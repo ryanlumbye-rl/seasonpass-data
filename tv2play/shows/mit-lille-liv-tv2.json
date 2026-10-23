@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:mit-lille-liv-tv2",
+  "name": "Mit lille liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Rikkes liv tager en uventet drejning, da hun halvvejs i sin graviditet bliver mor til datteren Eva, der har en fødselsvægt på bare 567 gram. TV 2 Dokumentar har fulgt Rikke og Eva og en række andre familier i den mest sårbare start på livet, man kan forestille sig.",
+  "image": "https://cdn-play.tv2i.dk/822e1967-f187-4458-929e-cb6ac7a39fa8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280",
+  "episodes": [
+    {
+      "id": "56b08710-ac5c-48ac-bb06-2a9875583208",
+      "season": 1,
+      "number": 1,
+      "name": "En uventet fødsel",
+      "airdate": "2022-06-30"
+    },
+    {
+      "id": "a4406fa2-81e2-4e19-9c78-9fbd8ebd776e",
+      "season": 1,
+      "number": 2,
+      "name": "Kommer vi nogensinde hjem?",
+      "airdate": "2022-07-07"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:ghetto-tv2",
+  "name": "Ghetto",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Milliarder af kroner er brugt på problemerne i Gellerup i Aarhus V, men kriminelle klaner og parallelsamfund præger fortsat ghettoen. Vidner trues til tavshed. Kvinder fastholdes i uønsket ægteskab. Bander koster uskyldige ofre, og islamiske mæglingsråd afgør sager uden om det danske retssystem.",
+  "image": "https://cdn-play.tv2i.dk/762e1c0c-e834-4b2e-bde2-814df85f38fc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ac7b3f5c-1c3b-4021-ac4b-a342b5b08412",
+      "season": 1,
+      "number": 1,
+      "name": "Truet til tavshed",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "982dc85b-6376-4ca5-b236-eafb4be552d2",
+      "season": 1,
+      "number": 2,
+      "name": "Klanernes magt",
+      "airdate": "2025-04-02"
+    }
+  ]
+}

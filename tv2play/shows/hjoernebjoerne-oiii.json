@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "En række små tegnefilm for de mindste, hvor man både kan lære at tegne dyr og få en masse spændende viden om dyr. I hvert afsnit møder vi et nyt lille dyrebarn og følger dets små kampe med hverdagens udfordringer.",
+  "image": "https://cdn-play.tv2i.dk/588eb276-cfa1-40c9-a30a-e1533ecf19a0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "829efa0e-addd-41a3-8e1c-e10d32c8cafc",

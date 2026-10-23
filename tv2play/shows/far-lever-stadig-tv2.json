@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:far-lever-stadig-tv2",
+  "name": "Far lever stadig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Christian og Jakob er begge fædre med en uhelbredelig kræftsygdom. På trods af den alvorlige diagnose forsøger de at få det bedste ud af hverdagen sammen med deres familier. Men hvordan lever man, når man ved, at man skal dø af sin sygdom?",
+  "image": "https://cdn-play.tv2i.dk/b0113343-4c4a-4570-b236-254a76a07664.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ab87e235-04fb-4449-b7d2-6c8696a3ccb7",
+      "season": 1,
+      "number": 1,
+      "name": "Der er kun lige nu og her",
+      "airdate": "2025-05-21"
+    },
+    {
+      "id": "469dfa1e-1147-4d6d-abac-bc4bd24b5d8c",
+      "season": 1,
+      "number": 2,
+      "name": "Er kræften tilbage?",
+      "airdate": "2025-05-28"
+    }
+  ]
+}

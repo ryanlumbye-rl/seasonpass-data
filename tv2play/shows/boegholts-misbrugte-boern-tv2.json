@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:boegholts-misbrugte-boern-tv2",
+  "name": "Bøgholts misbrugte børn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En række tidligere anbragte børn står frem og fortæller, at de er blevet udsat for seksuelle overgreb på det anerkendte behandlingshjem Bøgholt ved Aarhus. Overgrebene fandt sted over en lang årrække fra slutningen af 1970'erne til langt ind i 1990'erne.",
+  "image": "https://cdn-play.tv2i.dk/b7853ce3-2136-473c-a418-42adef3765cb.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "24a1aeaf-8744-4547-a4f1-a871efe124d9",
+      "season": 1,
+      "number": 1,
+      "name": "Udnyttet på vagtværelset",
+      "airdate": "2024-09-16"
+    },
+    {
+      "id": "8f6f0f68-2f1a-4d0c-88c5-51bbf0227632",
+      "season": 1,
+      "number": 2,
+      "name": "Delt ud som chokolade",
+      "airdate": "2024-09-23"
+    },
+    {
+      "id": "5d58a061-3094-48c7-ad15-e77dec188e33",
+      "season": 1,
+      "number": 3,
+      "name": "Hvem tager ansvaret?",
+      "airdate": "2024-09-30"
+    }
+  ]
+}

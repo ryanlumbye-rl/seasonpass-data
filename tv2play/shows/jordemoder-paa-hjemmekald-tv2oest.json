@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:jordemoder-paa-hjemmekald-tv2oest",
+  "name": "Jordemoder på hjemmekald",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Holbæk og Odsherred har rekord i antallet af hjemmefødsler. Nu kæmper områdets jordemødre for, at den unikke hjemmefødselsordning kan fortsætte.",
+  "image": "https://cdn-play.tv2i.dk/e004feb3-45e9-4cd6-b297-416728a9b0fa.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6481cad6-c8dd-4733-87bb-29f8824a05dc",
+      "season": 1,
+      "number": 1,
+      "name": "Rekordmange hjemmefødsler",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "aedac8f9-0c02-48ba-894f-68f4e6e567da",
+      "season": 1,
+      "number": 2,
+      "name": "Født i stuen",
+      "airdate": "2025-09-20"
+    },
+    {
+      "id": "dcde7729-3ab2-4a35-97d1-7e530f00e7e6",
+      "season": 1,
+      "number": 3,
+      "name": "Opråb til politikerne",
+      "airdate": "2025-09-27"
+    }
+  ]
+}

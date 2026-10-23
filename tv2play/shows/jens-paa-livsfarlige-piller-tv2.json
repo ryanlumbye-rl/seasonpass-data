@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:jens-paa-livsfarlige-piller-tv2",
+  "name": "Jens på livsfarlige piller",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Teenagere fra helt almindelige familier er i stigende grad begyndt at misbruge smertestillende piller. Én af dem er Jens, som efter gymnasiet havner i et heftigt misbrug af Tramadol. Et misbrug, der får store konsekvenser for hans liv.",
+  "image": "https://cdn-play.tv2i.dk/c92dca25-7bdb-4ac6-805d-db7f01837c5e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "06dcab63-c35a-4e1e-8f79-e2b35dbce724",
+      "season": 1,
+      "number": 1,
+      "name": "Hvordan kunne det gå så galt?",
+      "airdate": "2024-08-21"
+    },
+    {
+      "id": "31b345a8-951e-4a85-ac61-9529c556a9d5",
+      "season": 1,
+      "number": 2,
+      "name": "Kommer jeg til at dø tidligt?",
+      "airdate": "2024-08-28"
+    }
+  ]
+}

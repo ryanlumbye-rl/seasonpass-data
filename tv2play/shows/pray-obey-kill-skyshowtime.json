@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:pray-obey-kill-skyshowtime",
+  "name": "Pray Obey Kill",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En undersøgelse af mordet på en ung kvinde i den stille svenske landsby Kubty i 2004 og den efterfølgende retssag",
+  "image": "https://cdn-play.tv2i.dk/90ab0c48-f39f-46cc-821c-64cbf91b6b72.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "da1c97a5-63fc-49fd-9fd8-68a167e75381",
+      "season": 1,
+      "number": 1,
+      "name": "Where Truth Lies",
+      "airdate": "2023-07-14"
+    },
+    {
+      "id": "ef1a6432-bb97-44a1-9aae-7fedf8998c32",
+      "season": 1,
+      "number": 2,
+      "name": "Dying Is Not So Bad",
+      "airdate": "2023-07-14"
+    },
+    {
+      "id": "faf85dc4-a287-4d00-bf81-3885b2db2ea2",
+      "season": 1,
+      "number": 3,
+      "name": "Gates of Hell",
+      "airdate": "2023-07-21"
+    },
+    {
+      "id": "e51a1720-b0e6-467c-81ba-f68d2d151f8f",
+      "season": 1,
+      "number": 4,
+      "name": "Hand of God",
+      "airdate": "2023-07-28"
+    },
+    {
+      "id": "5f2f172e-2ecd-40e6-9621-f3bf34166436",
+      "season": 1,
+      "number": 5,
+      "name": "Don't Be Afraid to Go Close",
+      "airdate": "2023-08-04"
+    },
+    {
+      "id": "0e066767-2d6c-4c0b-956c-95d7ee19e445",
+      "season": 1,
+      "number": 6,
+      "name": "The Evil God of Knutby",
+      "airdate": "2023-08-11"
+    }
+  ]
+}

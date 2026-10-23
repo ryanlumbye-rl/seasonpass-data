@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:min-sindssygt-sunde-familie-tv2",
+  "name": "Min sindssygt sunde familie",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad er en sund livsstil? I fem programmer følger vi fire ekstremt sunde familier, der lever vidt forskelligt. I løbet af programmerne får vi svar på, hvor fysisk og mentalt sunde familier rent faktisk er, og hvor store mængder pesticider familierne indtager gennem deres kost.",
+  "image": "https://cdn-play.tv2i.dk/31655424-890a-4f3b-84f1-03a013f5e13c.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "af02bd37-db0b-43e5-8e50-b22c8fcbb90d",
+      "season": 1,
+      "number": 1,
+      "name": "Kan en sund livsstil være usund?",
+      "airdate": "2019-05-06"
+    },
+    {
+      "id": "4c6a6fd3-a7df-4197-b8cc-e4b5d6bc4c07",
+      "season": 1,
+      "number": 2,
+      "name": "Kan en sund livsstil være usund?",
+      "airdate": "2019-05-13"
+    },
+    {
+      "id": "97207556-2303-4087-a3eb-0c3ddf639409",
+      "season": 1,
+      "number": 3,
+      "name": "Kan en sund livsstil være usund?",
+      "airdate": "2019-05-20"
+    },
+    {
+      "id": "5c009213-de68-40a7-b42e-37bfd9e9d1f7",
+      "season": 1,
+      "number": 4,
+      "name": "Kan en sund livsstil være usund?",
+      "airdate": "2019-05-27"
+    },
+    {
+      "id": "0f679114-d64e-4ed7-8f5e-fd1e586241f9",
+      "season": 2,
+      "number": 1,
+      "name": "Tre familiers bud på det sunde liv",
+      "airdate": "2020-04-23"
+    },
+    {
+      "id": "3fbf02a9-36ae-4c57-bcad-50301a5eb757",
+      "season": 2,
+      "number": 2,
+      "name": "Tre familiers bud på det sunde liv",
+      "airdate": "2020-04-30"
+    },
+    {
+      "id": "90fa3dd2-6211-481c-81a3-225c63b20edb",
+      "season": 2,
+      "number": 3,
+      "name": "Tre familiers bud på det sunde liv",
+      "airdate": "2020-05-07"
+    },
+    {
+      "id": "e1d26661-b40b-4b41-ab5c-6f791681dffe",
+      "season": 2,
+      "number": 4,
+      "name": "Tre familiers bud på det sunde liv",
+      "airdate": "2020-05-21"
+    },
+    {
+      "id": "e60481f6-2967-4b09-b2a3-1a947fa134ca",
+      "season": 3,
+      "number": 1,
+      "name": "Fokus på krop og sind",
+      "airdate": "2022-03-10"
+    },
+    {
+      "id": "d50cabad-108b-45be-91c0-ddd10135d8ac",
+      "season": 3,
+      "number": 2,
+      "name": "100 kilometer stafet",
+      "airdate": "2022-03-10"
+    },
+    {
+      "id": "2f3cfd49-0a0e-4f44-a8ac-647cdb67d2d4",
+      "season": 3,
+      "number": 3,
+      "name": "De rene råvarer",
+      "airdate": "2022-03-17"
+    },
+    {
+      "id": "65974bf1-63d3-42b6-b189-8ca9f857fe03",
+      "season": 3,
+      "number": 4,
+      "name": "Gift i kroppen",
+      "airdate": "2022-03-24"
+    },
+    {
+      "id": "9cd6dbbc-85eb-475e-a51c-363b4b0bc22f",
+      "season": 3,
+      "number": 5,
+      "name": "Nye vaner",
+      "airdate": "2022-03-31"
+    }
+  ]
+}

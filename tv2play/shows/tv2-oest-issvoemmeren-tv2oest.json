@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:tv2-oest-issvoemmeren-tv2oest",
+  "name": "Issvømmeren",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nadja er en dedikeret issvømmer, der udfordrer både kulden og sig selv i jagten på medaljer. Som para-atlet har hun nu sat kurs mod VM i Italien - en drøm, der kræver både vilje og støtte. På sidelinjen står hendes mor, der ikke kun hjælper i sporten, men også i livet",
+  "image": "https://cdn-play.tv2i.dk/107821d0-d45d-46f9-9baf-ef028afe5186.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "bb266b7c-a715-4627-8f10-3e542cca91e5",
+      "season": 1,
+      "number": 1,
+      "name": "Med mor på sidelinjen",
+      "airdate": "2025-03-11"
+    },
+    {
+      "id": "d310baa2-d262-4c56-a66b-da92944836c8",
+      "season": 1,
+      "number": 2,
+      "name": "Den sidste test",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "e15e66cd-4815-4bc5-b22b-9601186120b3",
+      "season": 1,
+      "number": 3,
+      "name": "Kampen for medaljer",
+      "airdate": "2025-03-25"
+    }
+  ]
+}

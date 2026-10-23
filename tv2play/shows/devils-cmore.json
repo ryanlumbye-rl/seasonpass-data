@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:devils-cmore",
+  "name": "Devils",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Thrillerserie om den frygtløse tradingchef Massimo, som tvinges til at rense sit navn, da han mistænkes for mordet på en af sine kollegaer.",
+  "image": "https://cdn-play.tv2i.dk/73a2a0c0-501f-4515-8fdc-7d6ec3e1f41d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "45b15004-45e1-4b1f-8022-73296b8acb8e",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "1c18f461-e73b-4b97-bde7-2283aa7d241e",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "e1345e89-6eb9-4878-bfc6-7e949330eb7f",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "30711dc4-2f83-4e72-af94-3e6972f502e1",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "175c01f7-ea78-441d-875e-4e1f42f60050",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "9dc60dce-7cbd-4e03-a1c3-41485c0c0471",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "556741d9-bbaa-4a44-97a5-d488bb34005f",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ce2fcabf-e1f1-49e4-bc46-14c574a790f1",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "ca053c98-95be-45e3-8b1b-8e6c8aa5aaf6",
+      "season": 1,
+      "number": 9,
+      "name": "Episode 9",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "cf723135-f29b-4683-af5e-1cfcffc1b4ab",
+      "season": 1,
+      "number": 10,
+      "name": "Episode 10",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "0fd2bf51-3d17-4adc-8012-db656cbb6372",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "389471fb-781b-4326-bd12-426c815a1a0e",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "95e4a014-591c-44f0-a1f2-2ddd6716dec0",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "86e5257a-0b4b-4aae-be4e-129e0dc3f7f8",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "853ec3a3-a80d-4b3c-bf23-9453ca310d45",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "6fb74b7b-b773-45ef-8cd5-bcc555cfa69d",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "b81807ce-47f1-4e20-959f-159039aebdfa",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "d3cd88dc-0cf8-411b-bf9e-2126495418f9",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-01"
+    }
+  ]
+}

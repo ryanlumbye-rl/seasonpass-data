@@ -1,0 +1,124 @@
+{
+  "id": "tv2play:flokken-tv2",
+  "name": "Flokken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vælger du fællesskabet, eller vælger du dig selv? ’Flokken’ sætter det hele på spidsen, når deltagerne bliver udsat for svære valg, opgaver og dilemmaer, mens de skal overleve i den barske natur i de bulgarske bjerge.",
+  "image": "https://cdn-play.tv2i.dk/c466ff13-5f0e-41de-ad66-9bd7986e8a16.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "73c0d983-e769-492f-908c-2a9b4c9ccff7",
+      "season": 1,
+      "number": 1,
+      "name": "Spredt for alle vinde",
+      "airdate": "2023-10-09"
+    },
+    {
+      "id": "a87d6bfa-1045-4305-ac8e-bdb06af990db",
+      "season": 1,
+      "number": 2,
+      "name": "Der er andre derude",
+      "airdate": "2023-10-09"
+    },
+    {
+      "id": "602e86c5-bbf7-492e-af0d-a3605664c7a9",
+      "season": 1,
+      "number": 3,
+      "name": "Du holder, hvad du lover",
+      "airdate": "2023-10-16"
+    },
+    {
+      "id": "b615d5d7-ab99-40a1-8881-a666795be289",
+      "season": 1,
+      "number": 4,
+      "name": "Nu er vi tre",
+      "airdate": "2023-10-23"
+    },
+    {
+      "id": "18e76a58-3f2a-4852-b9d6-8761802919f7",
+      "season": 1,
+      "number": 5,
+      "name": "Kom med mig hjem",
+      "airdate": "2023-10-30"
+    },
+    {
+      "id": "1e04ebdc-ebf2-4594-84fa-b5f28ef84cc3",
+      "season": 1,
+      "number": 6,
+      "name": "Vi er her for \"skejs\"",
+      "airdate": "2023-11-06"
+    },
+    {
+      "id": "a74f2a55-16e0-41aa-857e-603d1ec9df44",
+      "season": 1,
+      "number": 7,
+      "name": "En god leder",
+      "airdate": "2023-11-13"
+    },
+    {
+      "id": "bee9eb0a-2c6c-405f-9f81-41e4046c5c97",
+      "season": 1,
+      "number": 8,
+      "name": "Kom i mål sammen",
+      "airdate": "2023-11-20"
+    },
+    {
+      "id": "f860977f-6377-4375-bc63-ad01915fc12d",
+      "season": 2,
+      "number": 1,
+      "name": "Flokken er samlet",
+      "airdate": "2024-10-03"
+    },
+    {
+      "id": "f70042a1-519a-497b-9601-7b086a89cd59",
+      "season": 2,
+      "number": 2,
+      "name": "Spillet er startet",
+      "airdate": "2024-10-10"
+    },
+    {
+      "id": "23cb6bd8-079d-4a1e-91a2-3e421bf42649",
+      "season": 2,
+      "number": 3,
+      "name": "Hvem spiller du sammen med?",
+      "airdate": "2024-10-17"
+    },
+    {
+      "id": "24c26977-4822-4b08-b60f-7f3d1f4a0f8b",
+      "season": 2,
+      "number": 4,
+      "name": "Hvem bliver efterladt?",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "3721b65b-e9ce-40b0-83da-6817882ee5d6",
+      "season": 2,
+      "number": 5,
+      "name": "Svesken på disken",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "f4f3a342-4a5a-4476-adeb-8c6674138883",
+      "season": 2,
+      "number": 6,
+      "name": "Er du missionen værdig?",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "8a7ea59a-f4b0-481f-9733-13d0a90d37bc",
+      "season": 2,
+      "number": 7,
+      "name": "Hvem stoler vi mest på?",
+      "airdate": "2024-11-14"
+    },
+    {
+      "id": "a9fee4a1-000b-4fcf-a874-747118a96b98",
+      "season": 2,
+      "number": 8,
+      "name": "Penge eller venner?",
+      "airdate": "2024-11-21"
+    }
+  ]
+}

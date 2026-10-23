@@ -1,0 +1,194 @@
+{
+  "id": "tv2play:have-haves-tv2",
+  "name": "Have haves",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Inspirerende haveprogram med havedesigner Stig Lauritsen, som tager rundt til haveejere, der har mistet overblikket over deres haveprojekter.",
+  "image": "https://cdn-play.tv2i.dk/4dc35bca-00a5-48c1-a198-cbbd020a3e40.jpeg?auto=format%2Ccompress&fm=webp&rect=-11%2C0%2C1010%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "bbb25f68-21f4-4d53-b9b8-15dfb4c5015e",
+      "season": 1,
+      "number": 1,
+      "name": "Espergærde",
+      "airdate": "2005-03-10"
+    },
+    {
+      "id": "f66e5481-e67f-4e58-9fc0-02bd903a2a12",
+      "season": 1,
+      "number": 2,
+      "name": "Gundsømagle",
+      "airdate": "2005-03-17"
+    },
+    {
+      "id": "e79dd084-4cd3-4e15-9a8a-163381f2820c",
+      "season": 1,
+      "number": 3,
+      "name": "Ølstykke",
+      "airdate": "2005-03-24"
+    },
+    {
+      "id": "1f805919-7f65-427c-97ce-bf2346eed789",
+      "season": 1,
+      "number": 4,
+      "name": "Gilleleje",
+      "airdate": "2005-03-31"
+    },
+    {
+      "id": "fc2192d2-30f1-4b54-a23d-d0e027cb688e",
+      "season": 1,
+      "number": 5,
+      "name": "Vesterbro",
+      "airdate": "2005-04-07"
+    },
+    {
+      "id": "8969bc33-2742-46fc-8c70-8e69faf382c9",
+      "season": 1,
+      "number": 6,
+      "name": "Holbæk",
+      "airdate": "2005-04-14"
+    },
+    {
+      "id": "bf5c54c7-cdf8-419b-a601-de2e681758d6",
+      "season": 1,
+      "number": 7,
+      "name": "Sundby",
+      "airdate": "2005-04-21"
+    },
+    {
+      "id": "ccae87f6-1357-4f21-a2a1-fe8cec9132ce",
+      "season": 1,
+      "number": 8,
+      "name": "Skælskør",
+      "airdate": "2005-04-28"
+    },
+    {
+      "id": "9bf73cd5-d502-4164-b785-335f6933273b",
+      "season": 2,
+      "number": 1,
+      "name": "Hvidovre",
+      "airdate": "2006-03-09"
+    },
+    {
+      "id": "232e2ace-8ddc-4e03-8025-2e263619c53f",
+      "season": 2,
+      "number": 2,
+      "name": "Bornholm",
+      "airdate": "2006-03-16"
+    },
+    {
+      "id": "1ee72f1d-e54f-4a54-90f5-8d011d1fcd40",
+      "season": 2,
+      "number": 3,
+      "name": "Kastrup",
+      "airdate": "2006-03-23"
+    },
+    {
+      "id": "b26c9f65-9ed3-436a-992b-31cdd250e8e4",
+      "season": 2,
+      "number": 4,
+      "name": "Seest",
+      "airdate": "2006-03-30"
+    },
+    {
+      "id": "c8874e6d-09ad-4b1c-90b1-a76ea35d2308",
+      "season": 2,
+      "number": 5,
+      "name": "Strøby egede",
+      "airdate": "2006-04-06"
+    },
+    {
+      "id": "1e9f3ceb-ab45-49ff-98fe-5687f024017f",
+      "season": 2,
+      "number": 6,
+      "name": "Snekkersten",
+      "airdate": "2006-04-20"
+    },
+    {
+      "id": "71ff40e9-131d-457c-8064-2db0c4de180c",
+      "season": 2,
+      "number": 7,
+      "name": "Fakse",
+      "airdate": "2006-04-27"
+    },
+    {
+      "id": "da376fc7-8e19-4f3a-8696-e6c1dca34a3a",
+      "season": 2,
+      "number": 8,
+      "name": "Valby",
+      "airdate": "2006-05-04"
+    },
+    {
+      "id": "8e2886b3-797b-4e2a-9ffd-97d43deffd51",
+      "season": 2,
+      "number": 9,
+      "name": "tv2playtest_01",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "56b13b7b-36eb-49ab-aa47-5a42d14a0a37",
+      "season": 2,
+      "number": 10,
+      "name": "tv2playtest_02",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "6eea68bd-de8d-4c8f-9ece-fb865c771c8f",
+      "season": 2,
+      "number": 11,
+      "name": "tv2playtest_03",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "00452720-9889-4731-84f1-8a62214d1bdc",
+      "season": 2,
+      "number": 12,
+      "name": "tv2playtest_04",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "c68d1bfc-e63c-454f-a786-15d6eab6366a",
+      "season": 2,
+      "number": 13,
+      "name": "tv2playtest_05",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "cbfb6bd5-f762-4d15-a682-a886d0e1d517",
+      "season": 2,
+      "number": 14,
+      "name": "tv2playtest_06",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "ac806352-cd1f-48b9-ac57-9771ba757c52",
+      "season": 2,
+      "number": 15,
+      "name": "tv2playtest_07",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "5b9d82e7-9ed3-4a9b-8710-a61a7ba753b1",
+      "season": 2,
+      "number": 16,
+      "name": "tv2playtest_08",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "720e0af4-44b7-4ee4-9229-755a58283640",
+      "season": 2,
+      "number": 17,
+      "name": "tv2playtest_09",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "7fae8948-5d4d-4e97-ae31-8dd976ff3618",
+      "season": 2,
+      "number": 18,
+      "name": "tv2playtest_10",
+      "airdate": "2022-05-24"
+    }
+  ]
+}

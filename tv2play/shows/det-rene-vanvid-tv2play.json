@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:det-rene-vanvid-tv2play",
+  "name": "Det rene vanvid",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I en spritny og knofedt-krævende konkurrence dyster 10 rengøringsvanvittige danskere om at have bedst styr på skidtet. Her er en plet ikke bare en plet, og kun én kan løbe med sejren og 'Den Gyldne Rengøringsspand'.",
+  "image": "https://cdn-play.tv2i.dk/ac431dab-c0fd-4308-9cde-33c096436553.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C999%2C555&w=1280",
+  "episodes": [
+    {
+      "id": "4a02728e-e7bd-4874-81f0-603ce17ed232",
+      "season": 1,
+      "number": 1,
+      "name": "Menneskets beskidte ven",
+      "airdate": "2022-04-04"
+    },
+    {
+      "id": "1943df52-2c14-4740-8294-e5c8d2a73873",
+      "season": 1,
+      "number": 2,
+      "name": "Et stinkende festivaltoilet",
+      "airdate": "2022-04-04"
+    },
+    {
+      "id": "aa6fef7f-37d5-45e5-a628-8bdb04abffbb",
+      "season": 1,
+      "number": 3,
+      "name": "Græsk rengøring",
+      "airdate": "2022-04-11"
+    },
+    {
+      "id": "2623bce6-9a72-47de-9502-b84e1003ac41",
+      "season": 1,
+      "number": 4,
+      "name": "Grill og hvid skjorte",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "b7cddf15-fe23-4e57-9a80-dfe4e714237c",
+      "season": 1,
+      "number": 5,
+      "name": "Kunsten at fjerne pletter",
+      "airdate": "2022-04-25"
+    },
+    {
+      "id": "786d3135-c815-49f5-9d20-9654e70d17fd",
+      "season": 1,
+      "number": 6,
+      "name": "Efter festen",
+      "airdate": "2022-05-02"
+    },
+    {
+      "id": "2348dbd0-5aa3-4f9a-8b11-e162405369cf",
+      "season": 1,
+      "number": 7,
+      "name": "Og vinderen er...",
+      "airdate": "2022-05-09"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:codename-annika-skyshowtime",
+  "name": "Codename: Annika",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den finske detektiv Emma Haka, der går undercover med aliasset Annika Stormare, dykker hovedkulds ned i Stockholms korrupte kunstverden",
+  "image": "https://cdn-play.tv2i.dk/34e81102-a47f-4669-871a-946819a60dfc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "95dbb2d7-8646-4275-9ce8-1c052a58e9d5",
+      "season": 1,
+      "number": 1,
+      "name": "Provenance",
+      "airdate": "2023-09-30"
+    },
+    {
+      "id": "0fa26438-8402-46d1-8a10-aa8dbc0d9e42",
+      "season": 1,
+      "number": 2,
+      "name": "Impasto",
+      "airdate": "2023-10-07"
+    },
+    {
+      "id": "c17d1ef8-abcb-4c2c-af28-151778986655",
+      "season": 1,
+      "number": 3,
+      "name": "Pentimento",
+      "airdate": "2023-10-14"
+    },
+    {
+      "id": "0f3c6b92-afeb-4cd0-ae0e-2ed05bbf3f75",
+      "season": 1,
+      "number": 4,
+      "name": "Fauve",
+      "airdate": "2023-10-21"
+    },
+    {
+      "id": "261dece9-502f-413c-b589-4ca438f1abbb",
+      "season": 1,
+      "number": 5,
+      "name": "Trompe L’oeil",
+      "airdate": "2023-10-28"
+    },
+    {
+      "id": "c031f3fe-39a0-4e14-815a-67e8455813e2",
+      "season": 1,
+      "number": 6,
+      "name": "Chiaroscuro",
+      "airdate": "2023-11-04"
+    }
+  ]
+}

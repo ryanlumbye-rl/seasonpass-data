@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:piano-tv2",
+  "name": "Piano",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Igennem fem programmer inviterer Sarah Grünewald amatørpianister fra hele landet til at spille og dele deres glæde ved klaveret. I al hemmelighed lytter Mads Langer og Tanja Zapolski med for til sidst at inviterer fire talenter til at medvirke i en storslået koncert",
+  "image": "https://cdn-play.tv2i.dk/151295d6-b21d-41da-bdf9-91c4fa29e3bb.png?auto=format%2Ccompress&fm=webp&rect=0%2C1%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b1a45072-9cc2-4cd3-8cc8-1f15424a3acc",
+      "season": 1,
+      "number": 1,
+      "name": "Københavns Hovedbanegård",
+      "airdate": "2024-11-23"
+    },
+    {
+      "id": "0aae0089-69fd-4dea-b671-ad39e746d7d8",
+      "season": 1,
+      "number": 2,
+      "name": "Aarhus Banegård",
+      "airdate": "2024-11-30"
+    },
+    {
+      "id": "b188d916-abd2-46aa-a319-5a1f787b3ac3",
+      "season": 1,
+      "number": 3,
+      "name": "Odense Banegård",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "39388e0b-c23a-4ad8-a486-96f202e363dd",
+      "season": 1,
+      "number": 4,
+      "name": "Kongens Nytorv",
+      "airdate": "2024-12-14"
+    },
+    {
+      "id": "9c04b901-1bce-43bb-8a5e-c6d95697caf7",
+      "season": 1,
+      "number": 5,
+      "name": "Koncerten",
+      "airdate": "2024-12-21"
+    }
+  ]
+}

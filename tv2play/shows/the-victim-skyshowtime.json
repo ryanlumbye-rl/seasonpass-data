@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:the-victim-skyshowtime",
+  "name": "The Victim",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Femten år er gået siden Annas søn blev myrdet. Nu er hun anklaget for at have afsløret morderens identitet online og for at have konspireret om at få ham myrdet.",
+  "image": "https://cdn-play.tv2i.dk/bd5021e0-a600-42c7-9c6b-b8cb624ecc3c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "828eefa6-aa2a-41d1-994a-c97a3f1173f5",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "1a7056bb-ea75-47ce-947a-fc479a0d87d3",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "4acff8b2-b001-4cfb-a394-82b3a4eb5e32",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "821cae44-fafb-491f-a892-f87394c0ce56",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-09-09"
+    }
+  ]
+}

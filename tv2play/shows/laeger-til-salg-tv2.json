@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:laeger-til-salg-tv2",
+  "name": "Læger til salg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 Dokumentar afslører, hvordan én af Europas mest indflydelsesrige hjertelæger i årevis har modtaget enorme pengebeløb fra et stort medicinfirma. Kan vi stole på, at vores medicin gavner, hvis systemet bag lægers anbefalinger kan påvirkes af penge fra medicinalindustrien?.",
+  "image": "https://cdn-play.tv2i.dk/0f7d6872-1fd6-4475-b6fb-c4bf4a34e016.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "fa214cb5-fba0-4ec7-9e15-bde6320d4f2d",
+      "season": 1,
+      "number": 1,
+      "name": "Præsidentens mange millioner",
+      "airdate": "2024-09-25"
+    },
+    {
+      "id": "5b5e4c59-6650-4963-a0be-d1ec35099769",
+      "season": 1,
+      "number": 2,
+      "name": "Kan du stole på hjertelægen?",
+      "airdate": "2024-09-26"
+    }
+  ]
+}

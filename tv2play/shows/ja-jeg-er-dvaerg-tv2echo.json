@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:ja-jeg-er-dvaerg-tv2echo",
+  "name": "Ja, jeg er dværg!",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Magnus, Andreas, Helene og Emma har dværgvækst. De er alle under 138 cm, og det giver dem et liv fyldt med udfordringer. Alligevel har de besluttet sig for, at dværgvæksten ikke skal stoppe dem i at leve et helt normalt ungdomsliv med karrieredrømme, Tinder og bekymringer om fremtiden.",
+  "image": "https://cdn-play.tv2i.dk/d873180f-d99d-476a-bb73-03108e638fb6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C5066%2C2850&w=1280",
+  "episodes": [
+    {
+      "id": "2bf6f68e-e320-4ae5-9e44-21c73edecb93",
+      "season": 1,
+      "number": 1,
+      "name": "Hvis man ikke kan, vil man det ikke nok",
+      "airdate": "2023-08-14"
+    },
+    {
+      "id": "adfef3e9-eb16-41aa-b107-3c0fc6524c93",
+      "season": 1,
+      "number": 2,
+      "name": "For real eller fetish?",
+      "airdate": "2023-08-14"
+    },
+    {
+      "id": "34fa80f2-069a-4536-84d7-628c95a9373f",
+      "season": 1,
+      "number": 3,
+      "name": "Når kroppen siger fra",
+      "airdate": "2023-08-21"
+    },
+    {
+      "id": "d1e9e48f-93bb-4edc-b4d4-b24b8615d424",
+      "season": 1,
+      "number": 4,
+      "name": "Selvsikker soloferie",
+      "airdate": "2023-08-28"
+    },
+    {
+      "id": "d39109f8-d7dd-4fd6-9928-a135b9a94e51",
+      "season": 2,
+      "number": 1,
+      "name": "Jeg kan sagtens, selvom jeg er dværg!",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "b81bd22d-a5f8-4079-9ed6-1bc52f501ae2",
+      "season": 2,
+      "number": 2,
+      "name": "Findes ægte kærlighed i Pattaya?",
+      "airdate": "2024-11-04"
+    },
+    {
+      "id": "23489d59-3f29-4e5b-9478-a46e5f609170",
+      "season": 2,
+      "number": 3,
+      "name": "Øjeblikkelig tøjkrise",
+      "airdate": "2024-11-11"
+    },
+    {
+      "id": "c2224f6c-b88a-4ffc-8b2e-509f74c22311",
+      "season": 2,
+      "number": 4,
+      "name": "Jeg vil leve, og ikke bare overleve",
+      "airdate": "2024-11-18"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:laenge-leve-hjemmeplejen-tv2oest",
+  "name": "Længe leve hjemmeplejen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vi møder medarbejdere og borgere i en presset hverdag. Serien skildrer omsorg, ensomhed, manglen på hænder og de varme relationer, der gør forskellen for tusindvis af ældre.",
+  "image": "https://cdn-play.tv2i.dk/233171d9-932f-447d-96d2-27655b1a79c3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "50c77aa7-3068-492f-b7e6-4ce282bbf5f0",
+      "season": 1,
+      "number": 1,
+      "name": "Snart mangler vi hænder",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "935d71d2-44e9-4dd9-b513-3d112a72b1a4",
+      "season": 1,
+      "number": 2,
+      "name": "Connie går snart på pension",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "8c76cc3f-acea-4dce-9cc3-ade4ecd851ea",
+      "season": 1,
+      "number": 3,
+      "name": "Vi har ikke tid nok",
+      "airdate": "2025-10-15"
+    }
+  ]
+}

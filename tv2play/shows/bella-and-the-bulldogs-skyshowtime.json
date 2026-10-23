@@ -126,6 +126,13 @@
       "airdate": "2023-02-21"
     },
     {
+      "id": "ca685056-a447-4af2-9239-2b34a78aaba8",
+      "season": 1,
+      "number": 18,
+      "name": "Hep på Newt",
+      "airdate": "2023-02-21"
+    },
+    {
       "id": "0c22eda2-856b-4550-a722-d57013172600",
       "season": 1,
       "number": 19,
@@ -139,5 +146,7 @@
       "name": "Grillet",
       "airdate": "2023-02-21"
     }
-  ]
+  ],
+  "description": "En cheerleader bliver quarterback på sin skoles amerikanske fodboldhold.",
+  "image": "https://cdn-play.tv2i.dk/efc75d84-63d4-4aa7-ba5b-4e38e8872772.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280"
 }

@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:welcome-to-utmark-skyshowtime",
+  "name": "Welcome to Utmark",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I den fjerntliggende norske by Utmark sætter en kæde af hævngerninger gang i begivenheder, der påvirker et helt samfunds forskruede og tragiske liv.",
+  "image": "https://cdn-play.tv2i.dk/a8e3bf87-d2bc-47a6-acce-2995870b6be6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2dfd8190-c692-4c31-900a-46afa61e625e",
+      "season": 1,
+      "number": 1,
+      "name": "Eye for an Eye",
+      "airdate": "2023-07-14"
+    },
+    {
+      "id": "a6b8bf16-d6c3-487f-8940-70066a8ed3f0",
+      "season": 1,
+      "number": 2,
+      "name": "Dog Day",
+      "airdate": "2023-07-14"
+    },
+    {
+      "id": "35b39d55-b83d-41a5-93fe-ac8cbfe25035",
+      "season": 1,
+      "number": 3,
+      "name": "Everything Comes with a Price",
+      "airdate": "2023-07-21"
+    },
+    {
+      "id": "973eb2ea-ca55-424a-92d5-3ee612506dd2",
+      "season": 1,
+      "number": 4,
+      "name": "Flesh and Blood",
+      "airdate": "2023-07-28"
+    },
+    {
+      "id": "757898a0-e2e6-4612-ad64-ead0e086dff7",
+      "season": 1,
+      "number": 5,
+      "name": "Ashes to Ashes",
+      "airdate": "2023-08-04"
+    },
+    {
+      "id": "745a8c88-5a7b-44ea-93fa-1b609b41911f",
+      "season": 1,
+      "number": 6,
+      "name": "Cry Wolf",
+      "airdate": "2023-08-11"
+    },
+    {
+      "id": "3ebf3f48-50b7-4db7-9501-036dc420aba9",
+      "season": 1,
+      "number": 7,
+      "name": "Hello Darkness",
+      "airdate": "2023-08-18"
+    },
+    {
+      "id": "4c5fabdd-f24c-49a2-86ad-53b491e68e3c",
+      "season": 1,
+      "number": 8,
+      "name": "And They Lived Happily Ever After",
+      "airdate": "2023-08-25"
+    }
+  ]
+}

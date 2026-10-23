@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:kvinder-paa-jagt-tv2play",
+  "name": "Kvinder på jagt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Med højt humør og ildhu kaster en gruppe nordjyske kvinder sig over at tage jagttegn sammen. Der skal læres masser af teori og våbenhåndtering, inden de kan gå på den første jagt sammen.",
+  "image": "https://cdn-play.tv2i.dk/7c0d944a-bff8-48c6-b12f-9b2020bde90b.jfif?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f9257937-f901-4f4f-9393-b2ee497f81a6",
+      "season": 1,
+      "number": 1,
+      "name": "Preben har altid ret",
+      "airdate": "2025-11-22"
+    },
+    {
+      "id": "203b76da-c4eb-48c4-9f04-a9ced303979b",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad må man skyde?",
+      "airdate": "2025-11-29"
+    },
+    {
+      "id": "e9d210d2-14de-41e8-a193-7bd7eb5e679b",
+      "season": 1,
+      "number": 3,
+      "name": "Så går det løs",
+      "airdate": "2025-12-06"
+    }
+  ]
+}

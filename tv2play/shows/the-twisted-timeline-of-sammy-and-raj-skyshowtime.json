@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:the-twisted-timeline-of-sammy-and-raj-skyshowtime",
+  "name": "The Twisted Timeline of Sammy and Raj",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da fætrene Sammy og Raj opdager en tidsændrende app, forsøger de at løse alle de problemer de havde i skolen, men det sender dem til gengæld ud på et virkelighedsbøjende eventyr.",
+  "image": "https://cdn-play.tv2i.dk/3723c79c-817b-4e2a-90ec-b075d40e2b63.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a842240e-3617-452a-9d28-2ae1ab42ea40",
+      "season": 1,
+      "number": 1,
+      "name": "Fødselsdagsfesten er ovre",
+      "airdate": "2023-05-20"
+    },
+    {
+      "id": "e1c593ca-819d-4b7c-9fd8-5e307c2ca82b",
+      "season": 1,
+      "number": 5,
+      "name": "Indtrængende Dim",
+      "airdate": "2023-05-20"
+    },
+    {
+      "id": "f6efd9de-871f-4604-8e44-24f3f871d5b4",
+      "season": 1,
+      "number": 8,
+      "name": "Man kan ikke vinde over sneen",
+      "airdate": "2023-05-20"
+    },
+    {
+      "id": "fb60d866-6a02-4f2f-ac12-3faaf09edc4c",
+      "season": 1,
+      "number": 11,
+      "name": "Væk mig, før du går går, Hugo",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "44579b17-454b-4639-b41f-664002f0498d",
+      "season": 1,
+      "number": 12,
+      "name": "Ren maskine",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "fa1a41ec-11f6-429d-9ac0-62535c0a84f2",
+      "season": 1,
+      "number": 13,
+      "name": "Diwalifjollerier",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "e24efbd4-9f37-49e7-a9d8-a7dae73200bc",
+      "season": 1,
+      "number": 14,
+      "name": "Få din indre spejder ud",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "95057718-9bda-4f61-ab60-5895d82210bf",
+      "season": 1,
+      "number": 15,
+      "name": "En ikke så hemmelig valentine",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "4f543d35-2fcb-43c2-9fc4-4dedefbb8cf3",
+      "season": 1,
+      "number": 16,
+      "name": "Spillets overhoved",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "7e555b48-d1dd-43d5-929b-acd3aba42ea7",
+      "season": 1,
+      "number": 17,
+      "name": "Familie er ikke lutter lagkage",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "ecb3ea4b-7621-4082-91b6-762f7fe2b615",
+      "season": 1,
+      "number": 18,
+      "name": "En god skat",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "02febafb-8649-4bd0-a169-53bd3769b14c",
+      "season": 1,
+      "number": 19,
+      "name": "Drengene vil bare have det sjovt",
+      "airdate": "2023-10-27"
+    },
+    {
+      "id": "9e68a539-2204-4dd5-a8c5-578550463eb7",
+      "season": 1,
+      "number": 20,
+      "name": "Bryllupsforvirring",
+      "airdate": "2023-10-27"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:en-giftig-kvinde-tv2",
+  "name": "En giftig kvinde",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En russisk kvinde slog i 2017 sin danske ægtemand ihjel med en kanyle. Det viser sig, at kvindens datter ved flere lejligheder har fortalt, at det ikke er det eneste mistænkelige dødsfald, den russiske kvinde har været involveret i. TV 2 Dokumentar går i tre episoder tæt på kvinden og hendes fortid.",
+  "image": "https://cdn-play.tv2i.dk/cbaef23b-b439-4530-bffe-13be2cb59154.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9722ddea-a775-4257-afa8-96ef1e096609",
+      "season": 1,
+      "number": 1,
+      "name": "Kanyledrabet",
+      "airdate": "2024-08-26"
+    },
+    {
+      "id": "3bedad3d-7f23-4073-98a0-c5b882c2528d",
+      "season": 1,
+      "number": 2,
+      "name": "Ægtemanden i Aalborg",
+      "airdate": "2024-09-02"
+    },
+    {
+      "id": "8b7fae39-ee95-4c4b-a2ec-7b83ea3c209f",
+      "season": 1,
+      "number": 3,
+      "name": "Et mystisk dødsfald i Ukraine",
+      "airdate": "2024-09-09"
+    }
+  ]
+}

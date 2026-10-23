@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:stem-de-nordjyske-valg-tv2nord",
+  "name": "STEM - De nordjyske valg",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De nordjyske spidskandidater i de 11 kommuner og Region Nordjylland mødes i denne serie, hvor de debatterer de udfordringer de respektive kommuner og Regionen står overfor i den kommende valgperiode.",
+  "image": "https://cdn-play.tv2i.dk/200f9e15-60f0-42fa-941f-789d5aaa51c8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c41fbfdc-9f34-4e5a-bcc5-4d4b777a7e57",
+      "season": 1,
+      "number": 1,
+      "name": "Frederikshavn",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "8232c4aa-af7f-4f62-b81c-fdb2666f16cf",
+      "season": 1,
+      "number": 2,
+      "name": "Rebild",
+      "airdate": "2025-10-28"
+    },
+    {
+      "id": "92cfdf7c-0b23-4097-92a6-a2c2964148fb",
+      "season": 1,
+      "number": 3,
+      "name": "Region Nordjylland",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "e42723be-df63-427a-a6f9-01be19bfed51",
+      "season": 1,
+      "number": 4,
+      "name": "Læsø",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "87c6f1d7-a145-489d-a8bd-4701076fbdb4",
+      "season": 1,
+      "number": 5,
+      "name": "Morsø",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "6f45556d-1efb-4e0a-894b-b2956b32cbf0",
+      "season": 1,
+      "number": 6,
+      "name": "Thisted",
+      "airdate": "2025-11-04"
+    },
+    {
+      "id": "4a503a3d-a285-4476-8ee1-057f29fad8ca",
+      "season": 1,
+      "number": 7,
+      "name": "Hjørring",
+      "airdate": "2025-11-05"
+    },
+    {
+      "id": "ce3e7394-588b-422c-acda-0ee9a0ac0e81",
+      "season": 1,
+      "number": 8,
+      "name": "Vesthimmerland",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "75972caa-8b01-46de-8f77-9aedc5842434",
+      "season": 1,
+      "number": 9,
+      "name": "Mariagerfjord",
+      "airdate": "2025-11-10"
+    },
+    {
+      "id": "5dc2cdac-6c60-4ec7-a688-92b6943aebfa",
+      "season": 1,
+      "number": 10,
+      "name": "Brønderslev",
+      "airdate": "2025-11-11"
+    },
+    {
+      "id": "22ff9974-846f-4295-9998-0f482e553063",
+      "season": 1,
+      "number": 11,
+      "name": "Jammerbugt",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "98714597-3878-430d-81c8-9edc2dd9b92d",
+      "season": 1,
+      "number": 12,
+      "name": "Aalborg",
+      "airdate": "2025-11-13"
+    },
+    {
+      "id": "5563957a-c64d-41de-952d-8eb2dddd6333",
+      "season": 1,
+      "number": 13,
+      "name": "Nordjyske højdepunkter",
+      "airdate": "2025-11-17"
+    }
+  ]
+}

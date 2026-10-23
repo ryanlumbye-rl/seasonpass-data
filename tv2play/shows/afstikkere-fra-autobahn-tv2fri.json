@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:afstikkere-fra-autobahn-tv2fri",
+  "name": "Afstikkere fra Autobahn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ulla Terkelsen gør op med de fordomme, som vi danskere - måske - har til Tyskland.",
+  "image": "https://cdn-play.tv2i.dk/8e73bd36-564f-4791-b5a5-759d851495dd.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C440%2C2400%2C1350&w=1280",
+  "episodes": [
+    {
+      "id": "0975f092-5a7a-4af3-93a2-ce6a5120f44b",
+      "season": 1,
+      "number": 1,
+      "name": "Tyskerne har ingen humor",
+      "airdate": "2017-08-17"
+    },
+    {
+      "id": "8b6020a5-79ae-42d3-b6ab-a91ad8b1d746",
+      "season": 1,
+      "number": 2,
+      "name": "Tyskerne har dårlig stil",
+      "airdate": "2017-08-24"
+    },
+    {
+      "id": "59a04252-dff6-4d4f-a6b9-565748b5244b",
+      "season": 1,
+      "number": 3,
+      "name": "Tyskere har nok i sig selv",
+      "airdate": "2017-08-31"
+    },
+    {
+      "id": "6d65ae62-8452-42db-b826-3c931869233f",
+      "season": 1,
+      "number": 4,
+      "name": "Tyskerne løber med guldet",
+      "airdate": "2017-09-07"
+    },
+    {
+      "id": "88268679-4ced-4280-bcb3-bd832f9e1382",
+      "season": 1,
+      "number": 5,
+      "name": "Tyskerne kan ikke lave mad",
+      "airdate": "2017-09-14"
+    },
+    {
+      "id": "dbddf027-5ec7-4553-b4d1-0cbdc657c211",
+      "season": 1,
+      "number": 6,
+      "name": "Tyskerne er firkantede og effektive",
+      "airdate": "2017-09-21"
+    }
+  ]
+}

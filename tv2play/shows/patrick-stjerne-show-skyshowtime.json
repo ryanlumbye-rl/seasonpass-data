@@ -362,6 +362,15 @@
       "number": 10,
       "name": "Næsten helt sikker",
       "airdate": "2026-06-27"
+    },
+    {
+      "id": "779c43a3-95ef-49ea-8b2f-2c091bd6238a",
+      "season": 4,
+      "number": 13,
+      "name": "Terror på bånd",
+      "airdate": "2026-10-31"
     }
-  ]
+  ],
+  "description": "Med støtte fra sin familie spiller Patrick Stjerne hovedrollen i sin helt egen skøre, falske sitcom sammen med sine elskelige venner i Bikini Bunden.",
+  "image": "https://cdn-play.tv2i.dk/584bdf1d-df3c-41e7-aa85-110c16faa02d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

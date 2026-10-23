@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:min-datter-aetsede-ihjel-tv2kosmopol",
+  "name": "Min datter ætsede ihjel",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "For et halvt år siden mistede Lone Dahl Jensen sin datter. Men hun har stadig ikke fået svar på, hvordan det kunne ske, at Nanna Kirstine Dahl fik voldsomme ætsninger på store dele af kroppen, når hun netop boede på et botilbud, hvor hun burde være i sikkerhed.",
+  "image": "https://cdn-play.tv2i.dk/573f27f2-14ef-418d-87f6-7b536df68174.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "cb4ecaf9-0bbb-4ad5-bb5a-90aa845b059d",
+      "season": 1,
+      "number": 1,
+      "name": "Mistrivsel på bostedet",
+      "airdate": "2024-12-08"
+    },
+    {
+      "id": "84c57aac-0d44-4f1c-a6fd-552e1324ac2c",
+      "season": 1,
+      "number": 2,
+      "name": "Nogen må vide noget",
+      "airdate": "2024-12-08"
+    }
+  ]
+}

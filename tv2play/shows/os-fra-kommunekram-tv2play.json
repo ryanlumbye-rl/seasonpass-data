@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:os-fra-kommunekram-tv2play",
+  "name": "Os fra KommuneKram",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Udefra ligner KommuneKram måske enhver anden genbrugsbutik. Men hvis du kigger indenfor, vil du opdage, at den er noget ganske særligt.",
+  "image": "https://cdn-play.tv2i.dk/0736dc0d-07b4-49cf-9394-2ca6aa744260.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3839%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "d6f1ea25-e540-4823-b21e-b264c9b06356",
+      "season": 1,
+      "number": 1,
+      "name": "Den perfekte p-vagt",
+      "airdate": "2026-01-09"
+    },
+    {
+      "id": "de02fcdf-c837-4c94-8683-39bec32f608d",
+      "season": 1,
+      "number": 2,
+      "name": "Om lidt er kaffemaskinen klar",
+      "airdate": "2026-01-16"
+    },
+    {
+      "id": "1f74d0c6-3ab8-4b99-aa56-6dfbead2de9e",
+      "season": 1,
+      "number": 3,
+      "name": "Victor får styr på rodet",
+      "airdate": "2026-01-23"
+    },
+    {
+      "id": "64ec5c40-3359-4089-b665-1bd99b1dba77",
+      "season": 1,
+      "number": 4,
+      "name": "Per Søren blæser taget af",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "744da578-a643-4c37-9d62-f1ab7ffaecd4",
+      "season": 1,
+      "number": 5,
+      "name": "På tur med Louise",
+      "airdate": "2026-02-06"
+    },
+    {
+      "id": "296cb66c-539b-40db-a067-6cae020ca5f2",
+      "season": 1,
+      "number": 6,
+      "name": "Elif styrer SoMe",
+      "airdate": "2026-02-13"
+    }
+  ]
+}

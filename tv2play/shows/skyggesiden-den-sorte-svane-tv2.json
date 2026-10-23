@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:skyggesiden-den-sorte-svane-tv2",
+  "name": "Skyggesiden - Den sorte svane",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "3b2f6b31-372a-4615-8ff4-02db1bc0d80f",
+      "season": 1,
+      "number": 7,
+      "name": "Sorteper",
+      "airdate": "2025-06-18"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:sleeper-cell-skyshowtime",
+  "name": "Sleeper Cell",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den eksplosive serie Sleeper Cell fører seerne bag sløret hos en sovende terrorcelle og viser de chokerende udfordringer, som en agent støder på, da han skal afsløre dens mørke og forskruede planer.",
+  "image": "https://cdn-play.tv2i.dk/d1df3971-abd8-4cac-8f24-74e585b32e27.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4341a264-4d9a-4ace-8248-84ee37657118",
+      "season": 1,
+      "number": 1,
+      "name": "Al-Fatiha",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5b18e12-e307-46e2-8dcd-1609fc488032",
+      "season": 1,
+      "number": 2,
+      "name": "Target",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3805ad4b-c2a3-4a3a-953d-d15cebeda2b5",
+      "season": 1,
+      "number": 3,
+      "name": "Money",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c52a6a01-3f67-4d30-98ef-df16d55dd5ad",
+      "season": 1,
+      "number": 4,
+      "name": "Scholar",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e9799c99-1576-4f33-809b-96529ba60cc9",
+      "season": 1,
+      "number": 5,
+      "name": "Soldier",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ea47744e-fd8f-4938-b637-e78cddfe6738",
+      "season": 1,
+      "number": 6,
+      "name": "Family",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "757c1938-f072-44f2-8729-78a7c92369f1",
+      "season": 1,
+      "number": 7,
+      "name": "Immigrant",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7573a25-3d61-4351-b02a-ef0c04808627",
+      "season": 1,
+      "number": 8,
+      "name": "Intramural",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d68add1a-eca0-4d69-a389-8aaca7a24e2c",
+      "season": 1,
+      "number": 9,
+      "name": "Hijack",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "35f9f3f1-9491-4526-9f9e-75e861f98c26",
+      "season": 1,
+      "number": 10,
+      "name": "Youmud Din",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ffc56a4d-6121-451a-a01e-8a11562f6170",
+      "season": 2,
+      "number": 1,
+      "name": "Al-Baqara",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2c71a079-e00e-4865-a1b9-aeb2c10af752",
+      "season": 2,
+      "number": 2,
+      "name": "Salesman",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8e5814fe-2e38-4f51-943b-b360935a92de",
+      "season": 2,
+      "number": 3,
+      "name": "Torture",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7cfa1a08-953e-4ba7-bcb3-904507d155d3",
+      "season": 2,
+      "number": 4,
+      "name": "Faith",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "42d5aca6-00b1-40f3-b8a7-3416925fadb6",
+      "season": 2,
+      "number": 5,
+      "name": "Home",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e29a7573-b3aa-4baa-a723-e97bce36133a",
+      "season": 2,
+      "number": 6,
+      "name": "School",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f8ca2b50-b2fe-4dd9-a595-2d4e00e1b543",
+      "season": 2,
+      "number": 7,
+      "name": "Fitna",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "eecc12fe-c98f-40b0-a38a-2e75b787fa1f",
+      "season": 2,
+      "number": 8,
+      "name": "Reunion",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

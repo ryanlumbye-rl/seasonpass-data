@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:concordia-skyshowtime",
+  "name": "Concordia",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Til sit 20-års jubilæum er den AI-drevne utopiske by Concordia i Sverige klar til at udvide til Tyskland, men da en Concordia-analytikers mystiske død truer disse planer, undersøger en kriseekspert og en AI-entusiast situationen for at redde projektet",
+  "image": "https://cdn-play.tv2i.dk/985a81fe-805e-4b40-911e-9a18257bf084.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f719789a-2885-4891-a047-c7ada1cf4f3e",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "2361593e-cab2-4c85-a1ad-b09fd164bf9a",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-05-23"
+    },
+    {
+      "id": "1b6d1b59-80dd-455c-8fce-d4178c3b546a",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "cba0b8d5-7777-4b10-9931-b96daceb26dd",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-05-30"
+    },
+    {
+      "id": "e04b408a-a6ae-4e46-ad6a-c7c0bc6416b0",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-06-06"
+    },
+    {
+      "id": "e2238f10-7695-43da-a0ea-75e19a52ee9d",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-06-06"
+    }
+  ]
+}

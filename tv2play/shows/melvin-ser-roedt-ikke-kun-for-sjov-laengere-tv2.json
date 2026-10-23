@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:melvin-ser-roedt-ikke-kun-for-sjov-laengere-tv2",
+  "name": "Melvin ser rødt - ikke kun for sjov længere",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "FC Fredericia er efter 24 år klar til Superligaen, og nu starter det hårde arbejde for alvor. Kan klubben overhovedet følge med, når nye krav, nye forpligtelser og en ny professionel virkelighed rammer? Midt i det hele står den nye medejer, Melvin Kakooza, og kæmper for at få drømmen til at lykkes.",
+  "image": "https://cdn-play.tv2i.dk/4222c6cc-1803-41df-97ad-979669446b6e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d584d525-bb09-4a7b-b841-0c6eb5eb9cfe",
+      "season": 1,
+      "number": 1,
+      "name": "Højt at flyve…",
+      "airdate": "2025-11-07"
+    },
+    {
+      "id": "5090707f-f8c4-4479-aee1-5119e41cd206",
+      "season": 1,
+      "number": 2,
+      "name": "Fundamentet slår sprækker",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "3029c842-1dc9-4e9e-80e8-56b8ef42345a",
+      "season": 1,
+      "number": 3,
+      "name": "Dybt at falde…",
+      "airdate": "2025-11-21"
+    }
+  ]
+}

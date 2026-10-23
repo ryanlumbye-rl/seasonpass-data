@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:80-aar-efter-bomberne-bornholm-dengang-og-nu-tv2play",
+  "name": "80 år efter bomberne - Bornholm dengang og nu",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I maj 1945 bombede sovjetiske styrker Rønne og Nexø. En dramatisk afslutning på den tyske besættelse af Bornholm. 80 år senere er øen igen i centrum for stormagtspolitik. Vi markerer årsdagen med et program, der både ser tilbage og kigger frem. For i en tid med voksende spændinger mellem Vesten og Rusland og med Bornholms strategiske placering midt i Østersøen, er øens rolle i det sikkerhedspolitiske spil atter kommet i fokus.",
+  "image": "https://cdn-play.tv2i.dk/db191c64-401f-4d46-b2ef-44a78335aea2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "83fefbd9-abdc-4040-a8c0-6a5bdcf8fd51",
+      "season": 1,
+      "number": 1,
+      "name": "Bornholm mellem stormagter - 80 år efter bomberne",
+      "airdate": "2025-05-07"
+    }
+  ]
+}

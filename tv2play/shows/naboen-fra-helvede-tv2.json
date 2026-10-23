@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:naboen-fra-helvede-tv2",
+  "name": "Naboen fra helvede",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Markus og Lisas drøm om et stille liv på landet er truet af deres nabo, Simon, som har opført en kæmpe minigolfpark på grunden mellem dem. Nu tager Markus ekstreme midler i brug for at få roen tilbage på sin landejendom, hvor han sammen med sin kæreste skulle lave lydhealing og være selvforsynende.",
+  "image": "https://cdn-play.tv2i.dk/76f126a1-d995-43b3-a9c2-4939fddbdfe1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0506713b-1a33-454d-b738-5ac7bf079576",
+      "season": 1,
+      "number": 1,
+      "name": "Jeres fornøjelse - vores mareridt",
+      "airdate": "2025-02-05"
+    },
+    {
+      "id": "81e22ba7-a507-4e2a-a022-bf636f9ef4ee",
+      "season": 1,
+      "number": 2,
+      "name": "Vi brænder hele marken af næste gang",
+      "airdate": "2025-02-12"
+    }
+  ]
+}

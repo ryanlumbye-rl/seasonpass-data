@@ -1,0 +1,257 @@
+{
+  "id": "tv2play:skymed-tv2play",
+  "name": "SkyMed",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sygeplejersken Hayley Roberts slutter sig til et tempofyldt team af sygeplejersker og piloter, der bor og arbejder sammen ved risikofyldte medicinske redninger for at redde liv i det barske nordlige Manitoba.",
+  "image": "https://cdn-play.tv2i.dk/ca5d29a3-e3a5-4435-a63c-27a018673c7e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C4201%2C2364&w=1280",
+  "episodes": [
+    {
+      "id": "fdc3460a-bf84-4844-bd3f-540e9e858e70",
+      "season": 1,
+      "number": 1,
+      "name": "Pilots and Nurses and Bears, Oh My!",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "edd41b86-6668-46d2-be6e-7afdc536a2b7",
+      "season": 1,
+      "number": 2,
+      "name": "Line Indoc",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "4681ae18-992d-4ef2-9a14-fecbf2013428",
+      "season": 1,
+      "number": 3,
+      "name": "The Kids Are Alright",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "7cccd176-e698-4319-9e0c-79a1ff6796d4",
+      "season": 1,
+      "number": 4,
+      "name": "Where There's Smoke",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "f951086b-50d8-4617-b293-78d58e0d2641",
+      "season": 1,
+      "number": 5,
+      "name": "Bushwhacked",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "e227dcfa-8e8d-4e0e-8124-c358dca38218",
+      "season": 1,
+      "number": 6,
+      "name": "Girls Just Wanna Have Fun",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "0c045f87-f7ee-4d8b-b417-7fb9a88c1433",
+      "season": 1,
+      "number": 7,
+      "name": "Daj Mi Buzi",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "347891cd-98e7-495e-a33a-1fc74db6d8bb",
+      "season": 1,
+      "number": 8,
+      "name": "Frozen",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "abc47227-91ba-4cf9-b26a-4e63bb2e1460",
+      "season": 1,
+      "number": 9,
+      "name": "Leave It All on the Ice",
+      "airdate": "2022-10-25"
+    },
+    {
+      "id": "fdb9614a-25d0-45bf-a979-2f7c538a65a8",
+      "season": 2,
+      "number": 1,
+      "name": "Return to Base",
+      "airdate": "2024-01-20"
+    },
+    {
+      "id": "7ad74893-4934-4f67-889c-f1c03a5b4f00",
+      "season": 2,
+      "number": 2,
+      "name": "Spun Out",
+      "airdate": "2024-01-20"
+    },
+    {
+      "id": "5887f476-1669-4e8d-bde3-3e0547baab61",
+      "season": 2,
+      "number": 3,
+      "name": "Things That Matter Most",
+      "airdate": "2024-01-20"
+    },
+    {
+      "id": "e2528e90-1509-4fa2-8d7c-acf97655d545",
+      "season": 2,
+      "number": 4,
+      "name": "Turbulence",
+      "airdate": "2024-01-27"
+    },
+    {
+      "id": "f6e19c72-0726-40c8-8d97-507b7791e771",
+      "season": 2,
+      "number": 5,
+      "name": "Code Silver",
+      "airdate": "2024-02-03"
+    },
+    {
+      "id": "75453bf1-a31c-48a2-9d8d-33a40d90372d",
+      "season": 2,
+      "number": 6,
+      "name": "Little Lies",
+      "airdate": "2024-02-10"
+    },
+    {
+      "id": "5e4f1dbd-c2c5-49ce-a43d-3d4c6e15c492",
+      "season": 2,
+      "number": 7,
+      "name": "Old Wounds",
+      "airdate": "2024-02-17"
+    },
+    {
+      "id": "a048d499-1a14-41a7-bcc4-b41c073a0c0b",
+      "season": 2,
+      "number": 8,
+      "name": "Before Sunrise, After Sunset",
+      "airdate": "2024-02-24"
+    },
+    {
+      "id": "eb87a0eb-80a9-410a-a6c7-af413cf55839",
+      "season": 2,
+      "number": 9,
+      "name": "Out with a Bang",
+      "airdate": "2024-03-02"
+    },
+    {
+      "id": "6589cab7-b225-4d8c-9891-3eb8831ae3f9",
+      "season": 3,
+      "number": 1,
+      "name": "Arrivals, Departures",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "f344cfc8-35e7-475c-89ca-5c8f9f2353d6",
+      "season": 3,
+      "number": 2,
+      "name": "The Fire",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "c8cfd0e3-d2aa-4f5d-a25a-c2aed58a537d",
+      "season": 3,
+      "number": 3,
+      "name": "Ride Along",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "801eb492-aef6-4d0b-872c-7de61e5a4108",
+      "season": 3,
+      "number": 4,
+      "name": "Stuck",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "750d1286-c324-4cb3-aef2-b0fa78bfa150",
+      "season": 3,
+      "number": 5,
+      "name": "Marianncing the Stone",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "f30c117a-6f97-413f-b9be-9d748643ea41",
+      "season": 3,
+      "number": 6,
+      "name": "WheezerVision",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "99837833-0e1b-46e0-82f5-ed89141b4c5f",
+      "season": 3,
+      "number": 7,
+      "name": "Altitude",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "95e24796-ab48-4d19-9e95-7bba19c8eb0a",
+      "season": 3,
+      "number": 8,
+      "name": "Clarity",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "d3af7b7c-94c7-4c2a-af36-e88846a9ce9a",
+      "season": 3,
+      "number": 9,
+      "name": "Chasing Sunsets",
+      "airdate": "2025-06-02"
+    },
+    {
+      "id": "4dd56f8c-b194-41c1-a51a-a485bc241dbf",
+      "season": 4,
+      "number": 1,
+      "name": "Incoming",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "ed07e74f-ac16-4b12-bf8b-d29e1900842e",
+      "season": 4,
+      "number": 2,
+      "name": "Teambuilding",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "b8090780-7556-4380-a894-71c496e1ce17",
+      "season": 4,
+      "number": 3,
+      "name": "Kidneys Out",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "a72f1f69-3492-4c46-b153-55672b940390",
+      "season": 4,
+      "number": 4,
+      "name": "Deadheading",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "8baeb709-a7e4-417e-93cc-358ab164d2aa",
+      "season": 4,
+      "number": 5,
+      "name": "Mercury Retrograde",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "0c4b4b5f-fbb7-408e-a582-94e15b58d649",
+      "season": 4,
+      "number": 6,
+      "name": "77 Hours",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "b67522f6-7898-495d-afc4-023513838c0f",
+      "season": 4,
+      "number": 7,
+      "name": "Aftermath",
+      "airdate": "2026-06-15"
+    },
+    {
+      "id": "1ba7910f-e759-4d2f-b89a-c02158b529f0",
+      "season": 4,
+      "number": 8,
+      "name": "Stick the Landing",
+      "airdate": "2026-06-15"
+    }
+  ]
+}

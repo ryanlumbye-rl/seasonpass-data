@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:hund-soeger-hjem-tv2fri",
+  "name": "Hund søger hjem",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lene Beier og Dyreværnets hundetræner og adfærdsbehandler Nina Amdi hjælper otte internat-hunde med at finde det helt perfekte hjem.",
+  "image": "https://cdn-play.tv2i.dk/4a02bf2c-2b2e-4c80-98c6-ad736a34b07c.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "d0d4f240-e189-4bd3-ac81-bcdc71592e6b",
+      "season": 1,
+      "number": 1,
+      "name": "Et nyt hjem til energibomben Balder",
+      "airdate": "2017-08-22"
+    },
+    {
+      "id": "f53811c9-1fcc-4007-8c55-6651fc03feb7",
+      "season": 1,
+      "number": 2,
+      "name": "Kenzo søger kærligt hjem",
+      "airdate": "2017-08-29"
+    },
+    {
+      "id": "617b8614-1f9e-4c74-bffa-66815db049c3",
+      "season": 1,
+      "number": 3,
+      "name": "Hold fast, nu kommer Hubert!",
+      "airdate": "2017-09-05"
+    },
+    {
+      "id": "6c3b4cba-0647-4ab2-ba61-028063920a1f",
+      "season": 1,
+      "number": 4,
+      "name": "Ballademageren Sirius leder efter drømmehjemmet",
+      "airdate": "2017-09-11"
+    },
+    {
+      "id": "e14785d8-2f11-44f4-802c-5c81384e94c4",
+      "season": 1,
+      "number": 5,
+      "name": "Alma leder efter ny familie",
+      "airdate": "2017-09-18"
+    },
+    {
+      "id": "2dbce00d-87d7-4eef-9919-958c04eb430b",
+      "season": 1,
+      "number": 6,
+      "name": "Hvalpen Møffe på jagt efter ny familie",
+      "airdate": "2017-09-25"
+    },
+    {
+      "id": "d00d1453-ce77-404e-ad04-37ddd661cfb5",
+      "season": 1,
+      "number": 7,
+      "name": "Et hjem til hvalpen Snoopy",
+      "airdate": "2017-10-02"
+    },
+    {
+      "id": "7ab8fc4d-1a9e-4f56-b5df-760ec3199f38",
+      "season": 1,
+      "number": 8,
+      "name": "Et godt hjem til Fnuggi",
+      "airdate": "2017-10-09"
+    }
+  ]
+}

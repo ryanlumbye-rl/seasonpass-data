@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:city-on-a-hill-skyshowtime",
+  "name": "City on a Hill",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tidligt i 1990'erne i Boston indgår assisterende statsanklager Decourcy Ward en usædvanlig alliance med den korrupte, men respekterede FBI-veteran, Jackie Rhor. Sammen påtager de sig en sag, der i sidste ende ændrer hele byens kriminalretlige system.",
+  "image": "https://cdn-play.tv2i.dk/10a82017-25fb-4df6-ab56-0f647511acb9.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3036%2C1688&w=1280",
+  "episodes": [
+    {
+      "id": "2fd93c40-d583-42ff-8b57-83ece5536d27",
+      "season": 1,
+      "number": 1,
+      "name": "The Night Flynn Sent the Cops on the Ice",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0f9f4bf2-7c27-4e40-8a47-7fdb1deb1a8a",
+      "season": 1,
+      "number": 2,
+      "name": "What They Saw in Southie High",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "00ea4d19-41b7-4b86-8c34-57055c451e48",
+      "season": 1,
+      "number": 3,
+      "name": "If Only the Fool Would Persist in His Folly",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b6a149e6-591b-492d-8e58-000c3176ff6b",
+      "season": 1,
+      "number": 4,
+      "name": "The Wickedness of the Wicked Shall Be Upon Himself",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "db61fedc-b675-42bb-9f2b-d3def42fcd4b",
+      "season": 1,
+      "number": 5,
+      "name": "From Injustice Came the Way to Describe Justice",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3bd0e2f5-7fd6-4936-96b3-91bcd02575bc",
+      "season": 1,
+      "number": 6,
+      "name": "It's Hard to Be a Saint in the City",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b1dc0fda-658f-42c3-ad0e-d21d29a934f2",
+      "season": 1,
+      "number": 7,
+      "name": "There Are No F**king Sides",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5dcabe38-9abb-4ae6-a784-3a507a4fd2c5",
+      "season": 1,
+      "number": 8,
+      "name": "High On The Looming Gallows Tree",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4ab4330c-a8f0-4b90-b02d-c617a5eb5732",
+      "season": 1,
+      "number": 9,
+      "name": "The Deaf Sage of Pompeii",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7669085d-82fe-48cd-a2bc-fec3e6061f59",
+      "season": 1,
+      "number": 10,
+      "name": "Mayor Curley and The Last Hurrah",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "179a8232-ec6e-4dfa-8404-d7557585a54d",
+      "season": 2,
+      "number": 1,
+      "name": "Bill Russell's Bedsheets",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "fb48741a-872b-4ee2-96d8-80251920a1e9",
+      "season": 2,
+      "number": 2,
+      "name": "I Need a Goat",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "cb0284f0-9518-4f92-8a13-318e34e76ef0",
+      "season": 2,
+      "number": 3,
+      "name": "Is the Total Black, Being Spoken",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "353fe63e-5443-408f-b88c-a1af42b331b4",
+      "season": 2,
+      "number": 4,
+      "name": "Overtime White and Overtime Stupid",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "75c30a0a-cb8a-4893-8ff2-425ce13a7420",
+      "season": 2,
+      "number": 5,
+      "name": "East of Eden",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "5b7849a2-2cba-4cdb-8c57-ec599bb44837",
+      "season": 2,
+      "number": 6,
+      "name": "Don't Go Sayin' Last Words",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "4e7222d6-8535-49d3-8ed5-5b2902440dd6",
+      "season": 2,
+      "number": 7,
+      "name": "Apophasis",
+      "airdate": "2022-03-29"
+    },
+    {
+      "id": "12110586-cf87-461e-ae9d-362552a329dd",
+      "season": 2,
+      "number": 8,
+      "name": "Pax Bostonia",
+      "airdate": "2022-03-29"
+    }
+  ]
+}

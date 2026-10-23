@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "I denne programserie kan du møde en række kendte bornholmere, der har krydset Østersøen, fået succes og fundet deres vej i livet 'ovre' på den anden side af vandet.",
+  "image": "https://cdn-play.tv2i.dk/3b1d21b7-36f7-4bb5-88ba-e951f65b5fa1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "889b1c07-fa95-4ffd-9d82-d051c6acd6fd",

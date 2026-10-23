@@ -1,0 +1,362 @@
+{
+  "id": "tv2play:catfish-the-tv-show-tv2echo",
+  "name": "Catfish: The TV Show",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Når kærligheden blomstrer online, hjælper makkerparret Nev Schulman og Kamie Crawford med at afsløre, om personen i den anden ende virkelig er den, de siger, de er.",
+  "image": "https://cdn-play.tv2i.dk/73d696f2-00de-441f-a32f-39640fc6b83f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b7d17873-b2df-4337-8e46-f89dc4e34098",
+      "season": 8,
+      "number": 1,
+      "name": "Red og Jalissa",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "76a484b3-5f5a-4690-b311-8543f2535f07",
+      "season": 8,
+      "number": 2,
+      "name": "Antonnio og Alfred",
+      "airdate": "2025-08-28"
+    },
+    {
+      "id": "4453aa3d-d7bb-41e0-96b2-f376bfd68335",
+      "season": 8,
+      "number": 3,
+      "name": "Sparkayla og Maritha",
+      "airdate": "2025-08-29"
+    },
+    {
+      "id": "2fad5874-30c3-40a5-8835-0641a027137b",
+      "season": 8,
+      "number": 4,
+      "name": "Jesus og Alexis",
+      "airdate": "2025-09-01"
+    },
+    {
+      "id": "7dc0de5a-6ca6-4996-9b0c-0041af6b19bd",
+      "season": 8,
+      "number": 5,
+      "name": "Jospeh og Sabrina",
+      "airdate": "2025-09-02"
+    },
+    {
+      "id": "df075f5a-1a8b-4334-9419-408287b2ec93",
+      "season": 8,
+      "number": 6,
+      "name": "William og Jamie",
+      "airdate": "2025-09-03"
+    },
+    {
+      "id": "8324a350-c132-45ba-8053-0f4c857206e5",
+      "season": 8,
+      "number": 7,
+      "name": "Danielle og BJ",
+      "airdate": "2025-09-04"
+    },
+    {
+      "id": "e77f58a5-32e5-4e68-b444-88aef5686f7e",
+      "season": 8,
+      "number": 8,
+      "name": "DeJohn og Cashay",
+      "airdate": "2025-09-05"
+    },
+    {
+      "id": "924eebb7-87db-421d-acec-d9b971349135",
+      "season": 8,
+      "number": 9,
+      "name": "Aaliyah og Jaquan",
+      "airdate": "2025-09-08"
+    },
+    {
+      "id": "b1004ed0-ce31-4fb4-860d-9f203c23f94c",
+      "season": 8,
+      "number": 10,
+      "name": "Gemini og Myranda",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "ca91649a-96c1-4fde-b496-86a3e0b05cd9",
+      "season": 8,
+      "number": 11,
+      "name": "Jason og Keith",
+      "airdate": "2025-09-10"
+    },
+    {
+      "id": "91d61176-9cf0-4757-9399-911b78814d4d",
+      "season": 8,
+      "number": 12,
+      "name": "Dre og Casey",
+      "airdate": "2025-09-11"
+    },
+    {
+      "id": "f090d732-cc22-4df2-afc4-dcc831e14f46",
+      "season": 8,
+      "number": 13,
+      "name": "Dustin og Keegan",
+      "airdate": "2025-09-12"
+    },
+    {
+      "id": "c32da358-2dff-4de1-8f87-634105e237cc",
+      "season": 8,
+      "number": 14,
+      "name": "Kirsten og Alex",
+      "airdate": "2025-09-15"
+    },
+    {
+      "id": "fe4ef4e4-0a30-4a02-80a2-2437b3d22178",
+      "season": 8,
+      "number": 15,
+      "name": "Stephanie og Danny",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "1bf4137d-f86c-4a94-9562-1cb418e37ace",
+      "season": 8,
+      "number": 16,
+      "name": "Zay og Jayda",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "b633ba0b-ca4c-4de2-9493-e825e7d0627f",
+      "season": 8,
+      "number": 17,
+      "name": "Ryan og Micah",
+      "airdate": "2025-09-18"
+    },
+    {
+      "id": "46b64250-aaf4-4b34-bf96-43c22d0aa597",
+      "season": 8,
+      "number": 18,
+      "name": "Dianela og Jose",
+      "airdate": "2025-09-19"
+    },
+    {
+      "id": "58c66398-0b53-4ef3-8837-6e83d4d474ea",
+      "season": 8,
+      "number": 19,
+      "name": "Brooklyn og Jason",
+      "airdate": "2025-09-22"
+    },
+    {
+      "id": "9443440a-dbc7-4aaf-bce0-0adbb60066cf",
+      "season": 8,
+      "number": 20,
+      "name": "Jay og Anna",
+      "airdate": "2025-09-23"
+    },
+    {
+      "id": "aa492061-2c85-4569-a4cd-65b4bead0b64",
+      "season": 8,
+      "number": 21,
+      "name": "Jeanette, Kiara og Patrick",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "d5cf84dc-996e-4f36-ae04-5e9483e95876",
+      "season": 8,
+      "number": 22,
+      "name": "Tony og Tiana",
+      "airdate": "2025-09-25"
+    },
+    {
+      "id": "8ad30df7-56af-4665-a1bf-9eb70e1b70bc",
+      "season": 8,
+      "number": 23,
+      "name": "Eric og Lianna",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "350226f7-56fb-41a0-864e-133ed1642044",
+      "season": 8,
+      "number": 24,
+      "name": "Scooba og Renae",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "6d333f08-e451-4dc5-9801-1a02d3baa3d4",
+      "season": 8,
+      "number": 25,
+      "name": "DeJuan og Tynea",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "420a422c-1e62-4cb9-aab2-71c2a511bb2f",
+      "season": 8,
+      "number": 26,
+      "name": "Michael og Julia",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "f2b459b9-65be-432a-a11d-d72c282a0d04",
+      "season": 8,
+      "number": 27,
+      "name": "Jason og Mar",
+      "airdate": "2025-10-02"
+    },
+    {
+      "id": "5435bdc5-9605-405c-bbaa-8bd9b7735106",
+      "season": 8,
+      "number": 28,
+      "name": "Will og Cherry",
+      "airdate": "2025-10-03"
+    },
+    {
+      "id": "d28b432f-b096-46f7-b3c9-401daad66d62",
+      "season": 8,
+      "number": 29,
+      "name": "Tam og Jamena",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "1b954b37-9fab-4ffb-b94d-2321019afc30",
+      "season": 8,
+      "number": 30,
+      "name": "Paul og Caitea",
+      "airdate": "2025-10-07"
+    },
+    {
+      "id": "ae2c9415-7a67-44e6-b213-e93fac776767",
+      "season": 8,
+      "number": 31,
+      "name": "Tyler og Stefany",
+      "airdate": "2025-10-08"
+    },
+    {
+      "id": "30ebfef4-6a84-47cc-9920-23992f0d2a42",
+      "season": 8,
+      "number": 32,
+      "name": "Courtney og Chris",
+      "airdate": "2025-10-09"
+    },
+    {
+      "id": "f7e61f09-6847-4817-9c36-4f3dae29d9f8",
+      "season": 8,
+      "number": 33,
+      "name": "Imari",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "98e5eb34-339e-4d17-ab08-4a87f7d9638c",
+      "season": 8,
+      "number": 34,
+      "name": "Bryn og Stephanie",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "f5df3923-7ec4-4fc2-8418-a82d44777702",
+      "season": 8,
+      "number": 35,
+      "name": "Apryl og Daryl",
+      "airdate": "2025-10-14"
+    },
+    {
+      "id": "ed601765-c4c0-4be6-98e8-24089cdded0e",
+      "season": 8,
+      "number": 36,
+      "name": "Michael og Dustin",
+      "airdate": "2025-10-15"
+    },
+    {
+      "id": "24de6480-6a8a-48d4-94b0-24b37e7dfcf9",
+      "season": 8,
+      "number": 37,
+      "name": "Jeremiah og Linda",
+      "airdate": "2025-10-16"
+    },
+    {
+      "id": "67c74e11-03a5-453f-a2e8-de738357c2a6",
+      "season": 8,
+      "number": 38,
+      "name": "Aaliyah og Paula",
+      "airdate": "2025-10-17"
+    },
+    {
+      "id": "833e198e-372e-4da2-b453-ea5163ff0e64",
+      "season": 8,
+      "number": 39,
+      "name": "Nyhjee og Cianna",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "0f26b55c-795b-4598-84a6-89be746b17ce",
+      "season": 8,
+      "number": 40,
+      "name": "Aaron og Treyvon",
+      "airdate": "2025-10-21"
+    },
+    {
+      "id": "08138a9b-3471-47fd-b5c0-76a2537979ab",
+      "season": 8,
+      "number": 41,
+      "name": "Alexis og Jaymes",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "ab20aaf5-b478-4270-a2d1-79d021dd3a01",
+      "season": 8,
+      "number": 42,
+      "name": "Deonn og Lanise",
+      "airdate": "2025-10-23"
+    },
+    {
+      "id": "1544e019-865d-40d8-9205-e5f9c2f527ee",
+      "season": 8,
+      "number": 43,
+      "name": "Zark og Roger",
+      "airdate": "2025-10-24"
+    },
+    {
+      "id": "13cd2ddc-6c31-4d6c-9077-48dd2cfa3a91",
+      "season": 8,
+      "number": 44,
+      "name": "Brittany og Mark",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "56ad9d3e-3234-4058-a939-ef79da0acc96",
+      "season": 8,
+      "number": 45,
+      "name": "Dey og Cody",
+      "airdate": "2025-10-28"
+    },
+    {
+      "id": "206098f4-3422-4e2d-8fd3-e9de78996b6e",
+      "season": 8,
+      "number": 46,
+      "name": "Kailan og Jordan",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "08d6fe1f-e8ff-4e66-8e7d-0f775d6e24a4",
+      "season": 8,
+      "number": 47,
+      "name": "Diamond og Steve",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "a003aff2-61f7-4fb1-829c-b74fb71a8f3c",
+      "season": 8,
+      "number": 48,
+      "name": "Vonni og Andrew",
+      "airdate": "2025-10-31"
+    },
+    {
+      "id": "7377620a-dc06-4af3-b04f-613fea6e6845",
+      "season": 8,
+      "number": 49,
+      "name": "Myldred, India & KJ",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "2de5c202-409c-443a-a705-3ec43dd774f6",
+      "season": 8,
+      "number": 50,
+      "name": "Tracii & Ace",
+      "airdate": "2025-11-04"
+    }
+  ]
+}

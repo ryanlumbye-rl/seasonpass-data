@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Lyt til al den gode musik fra Katrine Undersøger.",
+  "image": "https://cdn-play.tv2i.dk/7d412c0b-1938-4c05-958f-067fdb68fbf0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "c1cca708-d609-4425-a910-1e488998ddcc",

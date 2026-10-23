@@ -1,0 +1,201 @@
+{
+  "id": "tv2play:riviera-skyshowtime",
+  "name": "Riviera",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Georgina prøver at slippe af sted med mord, men nogen kender hendes hemmelighed.",
+  "image": "https://cdn-play.tv2i.dk/a578a58d-02b6-4103-8688-2a60b25c858f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "915b99d8-25aa-4689-b371-7023d964d85e",
+      "season": 1,
+      "number": 1,
+      "name": "Villa Carmella",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d928869f-8db8-4e10-8036-69481fb046eb",
+      "season": 1,
+      "number": 2,
+      "name": "Falskmøntnere",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8710d6ba-832d-4220-87f4-4ebf4a0b3c5e",
+      "season": 1,
+      "number": 3,
+      "name": "Det hemmelige kammer",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a3817725-b0b6-4519-ae84-f74530aaf14e",
+      "season": 1,
+      "number": 4,
+      "name": "Familiemalerier",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ecb36682-87c2-4af9-990a-a51cdec8c30b",
+      "season": 1,
+      "number": 5,
+      "name": "Elena",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5d1c8c4e-22b0-42ac-91b8-78d5343b8cad",
+      "season": 1,
+      "number": 6,
+      "name": "Kunstnerens værk",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "62088bcd-669f-4f1f-8f51-1bf738727b8d",
+      "season": 1,
+      "number": 7,
+      "name": "Le Don",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "751b5570-9f48-4ca7-b4e4-3d49b72301b5",
+      "season": 1,
+      "number": 8,
+      "name": "Nøglen",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "cec8aa80-4b0d-4499-aba0-460014eb9fc2",
+      "season": 1,
+      "number": 9,
+      "name": "Et øje for et øje",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1c0d13ab-9eb9-4f1a-9602-75f62bce7661",
+      "season": 1,
+      "number": 10,
+      "name": "Synlig for alle",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f0c12ee4-1ad6-4fca-a474-3086cdc7c27f",
+      "season": 2,
+      "number": 1,
+      "name": "Jeg så, hvad du gjorde",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e559a9bc-633f-48f5-92c0-09bcc6f67683",
+      "season": 2,
+      "number": 2,
+      "name": "Åbenbaringer",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a411fd11-8c70-4ce8-a01b-f58d0c95f437",
+      "season": 2,
+      "number": 3,
+      "name": "Gennem lukkede døre",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "93d04123-2dd9-4119-8635-113d4fe7caee",
+      "season": 2,
+      "number": 4,
+      "name": "Renæssance",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4b4cce64-2007-45d6-8fba-9315494b2d05",
+      "season": 2,
+      "number": 5,
+      "name": "Trist fødselsdag",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8e8eef1b-cb95-4fdf-8034-c54caff64f0b",
+      "season": 2,
+      "number": 6,
+      "name": "Anger",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7c0471e6-208f-47e2-ac90-8ed4f93279d6",
+      "season": 2,
+      "number": 7,
+      "name": "På ruinerne af vores drømme",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bd59f0a5-dc21-45a7-ab9b-3c6ae7d1a948",
+      "season": 2,
+      "number": 8,
+      "name": "Fremkaldt",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0040a3e6-4848-4efc-919a-508850aef9d9",
+      "season": 2,
+      "number": 9,
+      "name": "På vej mod sandheden",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1b7192dd-8d7c-4a20-ac26-259b9a5d2bb7",
+      "season": 2,
+      "number": 10,
+      "name": "Ild og vand",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "89e6b680-ad1d-434b-8d64-36d16781cbb8",
+      "season": 3,
+      "number": 1,
+      "name": "Det søde liv",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "4af5ce48-f28c-49b3-9320-5b286de51521",
+      "season": 3,
+      "number": 2,
+      "name": "Mistralen",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "7a8e293a-b378-4810-9c86-62a20962585b",
+      "season": 3,
+      "number": 3,
+      "name": "Det, der går i vasken",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "68d9e760-ac7e-4151-a909-0e4907fcaedd",
+      "season": 3,
+      "number": 4,
+      "name": "Nådestødet",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "9925016e-2733-478e-9a56-4c7671f3c273",
+      "season": 3,
+      "number": 6,
+      "name": "Ja, vi kan",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "a7f771da-da1d-47dc-8af6-99eea42e627d",
+      "season": 3,
+      "number": 7,
+      "name": "Øje for øje",
+      "airdate": "2025-08-21"
+    },
+    {
+      "id": "adadee1e-106f-4c25-9190-8630d2f56343",
+      "season": 3,
+      "number": 8,
+      "name": "Stilhed",
+      "airdate": "2025-08-21"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:anker-tv2",
+  "name": "Anker",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mod alle odds bliver Anker statsminister i 1972. Han har ikke selv søgt jobbet, han er ufaglært arbejder og har aldrig været minister. Han vil kæmpe for de svageste, men ender i stedet med at kæmpe mod oliekrise, Glistrup, et kvindeoprør og landets elendige økonomi. Kampene truer også familiesammenholdet i den Jørgensens lejlighed i Sydhavnen.",
+  "image": "https://cdn-play.tv2i.dk/5901b57b-16a7-4a3f-8be6-17f8589f59d1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9b17aac1-7362-4e01-8d34-805610ab556d",
+      "season": 1,
+      "number": 1,
+      "name": "Ufaglært statsminister",
+      "airdate": "2024-01-07"
+    },
+    {
+      "id": "e90b4f92-ec1e-4295-ae10-5f0cd3f8e929",
+      "season": 1,
+      "number": 2,
+      "name": "Duellen om Danmark",
+      "airdate": "2024-01-07"
+    },
+    {
+      "id": "0c1e21a1-00b0-4313-a81c-4710c4f1ff53",
+      "season": 1,
+      "number": 3,
+      "name": "Mod afgrunden",
+      "airdate": "2024-01-14"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:victorious-skyshowtime",
+  "name": "Victorious",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Serien handler om den 16-årige Tori Vega. Hun vokser op i skyggen af sin tvillingesøster Trina, som er familiens store funklende stjerne. Men da Tori bliver optaget på skolen Hollywood Arts ændrer alt sig, og pludselig springer hun ud som stjerne.",
+  "image": "https://cdn-play.tv2i.dk/1189b574-e4f0-4bea-9242-2268084efb67.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "af1b1f2f-2c85-4818-8490-77337a5da7e2",
+      "season": 2,
+      "number": 1,
+      "name": "Beck Falls for Tori",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "5d08f247-6f35-428a-a9fe-effa8765020f",
+      "season": 2,
+      "number": 2,
+      "name": "Helen Back Again",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "1f0dfcdf-dcbf-4fcb-be41-dcb1df0077f7",
+      "season": 2,
+      "number": 8,
+      "name": "Who Did It to Trina?",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "451ed8de-40aa-4710-bd2b-83b342ecd1b7",
+      "season": 3,
+      "number": 5,
+      "name": "Car, Rain & Fire",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "d88c3b73-50d7-4280-a778-becd3784d1b4",
+      "season": 3,
+      "number": 8,
+      "name": "Driving Tori Crazy",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "f92917c2-ff04-4059-a5a2-70dade392148",
+      "season": 3,
+      "number": 18,
+      "name": "Cell Block",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "20d71ca1-532c-4984-98cd-524aa3609c50",
+      "season": 3,
+      "number": 19,
+      "name": "Three Girls and a Moose",
+      "airdate": "2023-06-14"
+    }
+  ]
+}

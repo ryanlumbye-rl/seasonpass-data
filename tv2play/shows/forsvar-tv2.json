@@ -1,0 +1,215 @@
+{
+  "id": "tv2play:forsvar-tv2",
+  "name": "Forsvar",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Se alle afsnittene af den danske TV 2-serie 'Forsvar' med en perlerække af Danmarks bedste skuespillere.",
+  "image": "https://cdn-play.tv2i.dk/561b630b-2b5b-4f57-9958-167489bb0fa5.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "446268e0-38b1-4ae6-be62-4cbef961b3bd",
+      "season": 1,
+      "number": 1,
+      "name": "En lykkelig familie",
+      "airdate": "2003-09-21"
+    },
+    {
+      "id": "e088c264-eb55-437f-9c7c-351b9a9f8b50",
+      "season": 1,
+      "number": 2,
+      "name": "Manden i Sydhavnen",
+      "airdate": "2003-09-24"
+    },
+    {
+      "id": "8ff3460c-06ac-4695-94b0-877787ce34c6",
+      "season": 1,
+      "number": 3,
+      "name": "Vrede mænd",
+      "airdate": "2003-10-01"
+    },
+    {
+      "id": "d587f616-ea05-406c-baf5-6dba926dfd45",
+      "season": 1,
+      "number": 4,
+      "name": "Udenfor loven",
+      "airdate": "2003-10-08"
+    },
+    {
+      "id": "b490ba24-e6a4-4bb1-951d-a45a7ad3d990",
+      "season": 1,
+      "number": 5,
+      "name": "Den gode søn",
+      "airdate": "2003-10-15"
+    },
+    {
+      "id": "321d67a8-e1c3-4cd6-9176-662363b845b4",
+      "season": 1,
+      "number": 6,
+      "name": "Den man elsker",
+      "airdate": "2003-10-22"
+    },
+    {
+      "id": "fb679ac1-bcbe-404b-972d-96865c78a908",
+      "season": 1,
+      "number": 7,
+      "name": "Kæmp for alt hvad du har kært",
+      "airdate": "2003-10-29"
+    },
+    {
+      "id": "6ce47d85-42d5-498c-a941-19453c5f6727",
+      "season": 1,
+      "number": 8,
+      "name": "Loverboy",
+      "airdate": "2003-11-05"
+    },
+    {
+      "id": "87473f13-20fa-4df7-8846-77572f79509e",
+      "season": 1,
+      "number": 9,
+      "name": "Broderskab",
+      "airdate": "2003-11-12"
+    },
+    {
+      "id": "b0e40a06-28fd-4685-90ca-1cc588eab549",
+      "season": 1,
+      "number": 10,
+      "name": "En god muslim",
+      "airdate": "2003-11-19"
+    },
+    {
+      "id": "4c9efe1f-accd-4a7b-a8e9-07667243b657",
+      "season": 1,
+      "number": 11,
+      "name": "Falske vidner",
+      "airdate": "2003-11-26"
+    },
+    {
+      "id": "5f921820-dcd7-4bc2-b145-c4d214a34763",
+      "season": 2,
+      "number": 1,
+      "name": "Blodets bånd",
+      "airdate": "2004-03-14"
+    },
+    {
+      "id": "7c0bd994-32f5-447b-a0b0-3939fb00f3ed",
+      "season": 2,
+      "number": 2,
+      "name": "Værelse 522",
+      "airdate": "2004-03-21"
+    },
+    {
+      "id": "5a2c3465-addd-40f2-99fa-d6d6c8ace3cb",
+      "season": 2,
+      "number": 3,
+      "name": "En vidunderlig mand",
+      "airdate": "2004-03-28"
+    },
+    {
+      "id": "42f5a690-1cc4-4177-9ddd-be1ec8ececac",
+      "season": 2,
+      "number": 4,
+      "name": "Forførerne",
+      "airdate": "2004-04-04"
+    },
+    {
+      "id": "95871c11-8c0a-4754-8171-4e7887b2e719",
+      "season": 2,
+      "number": 5,
+      "name": "Fremtid med havudsigt - del 1",
+      "airdate": "2004-04-11"
+    },
+    {
+      "id": "b7723a9b-b56f-44df-b5d3-a5c869006168",
+      "season": 2,
+      "number": 6,
+      "name": "Fremtid med havudsigt - del 2",
+      "airdate": "2004-04-18"
+    },
+    {
+      "id": "e892d1f0-3032-484f-b0be-f59209c24e6d",
+      "season": 2,
+      "number": 7,
+      "name": "Skytsenglen - del 1",
+      "airdate": "2004-04-25"
+    },
+    {
+      "id": "2eb0fb28-07a7-48e9-b68d-779203557e0b",
+      "season": 2,
+      "number": 8,
+      "name": "Skytsenglen - del 2",
+      "airdate": "2004-05-02"
+    },
+    {
+      "id": "17c16fba-372c-4922-838e-4c53c9dee63d",
+      "season": 3,
+      "number": 1,
+      "name": "Jagten på vished",
+      "airdate": "2004-08-25"
+    },
+    {
+      "id": "015a7382-2b95-4001-90d9-04b7fc74ea15",
+      "season": 3,
+      "number": 2,
+      "name": "En uforglemmelig dag",
+      "airdate": "2004-09-01"
+    },
+    {
+      "id": "2254b61c-3b0b-4ae2-b4b0-784b54052d4f",
+      "season": 3,
+      "number": 3,
+      "name": "Ild i gamle huse",
+      "airdate": "2004-09-08"
+    },
+    {
+      "id": "c94678d4-8798-48d9-ae56-d9edc9765955",
+      "season": 3,
+      "number": 4,
+      "name": "Bankende hjerte",
+      "airdate": "2004-09-15"
+    },
+    {
+      "id": "d18bf895-b442-4cc4-8749-500c5c571030",
+      "season": 3,
+      "number": 5,
+      "name": "Som brødre vi dele",
+      "airdate": "2004-09-22"
+    },
+    {
+      "id": "ad5e19f8-f41a-4b32-8b47-ac476912a408",
+      "season": 3,
+      "number": 6,
+      "name": "Hemmeligheder",
+      "airdate": "2004-09-29"
+    },
+    {
+      "id": "07eaba0c-c13b-4989-a1f9-56dedc7af536",
+      "season": 3,
+      "number": 7,
+      "name": "Den fortabte søn",
+      "airdate": "2004-10-06"
+    },
+    {
+      "id": "96e3d64d-bd2d-4821-8afe-294e19000aa7",
+      "season": 3,
+      "number": 8,
+      "name": "Kærlighed og bedrag",
+      "airdate": "2004-10-20"
+    },
+    {
+      "id": "d8eab3f4-c3b8-4f06-8fa2-1d5d96ac5595",
+      "season": 3,
+      "number": 9,
+      "name": "Det største offer",
+      "airdate": "2004-10-27"
+    },
+    {
+      "id": "c115615d-910c-4cdc-8757-2c68d2145e96",
+      "season": 3,
+      "number": 10,
+      "name": "Kærlighed og død",
+      "airdate": "2004-11-03"
+    }
+  ]
+}

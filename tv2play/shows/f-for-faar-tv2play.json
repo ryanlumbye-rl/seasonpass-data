@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": null,
+  "image": null,
   "episodes": [
     {
       "id": "268adc6e-932d-4e3a-a79e-52e61e7e91d4",

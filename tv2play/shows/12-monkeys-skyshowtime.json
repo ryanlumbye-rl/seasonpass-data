@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:12-monkeys-skyshowtime",
+  "name": "12 Monkeys",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En tidsrejsende fra den postapokalyptiske fremtid tager på en mission til nutiden for at finde og udrydde kilden til en dødbringende sygdom, der i sidste ende vil udslette menneskeheden.",
+  "image": "https://cdn-play.tv2i.dk/d6a4003a-c454-4f2c-86b0-30b4211be569.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3263%2C1835&w=1280",
+  "episodes": [
+    {
+      "id": "3d09052a-39b8-484f-98cd-af30e65984db",
+      "season": 4,
+      "number": 1,
+      "name": "The End",
+      "airdate": "2024-08-15"
+    },
+    {
+      "id": "7ee3d8d6-cdc5-41b9-be0b-0b8c19ee71b9",
+      "season": 4,
+      "number": 10,
+      "name": "The Beginning - Part 1",
+      "airdate": "2024-08-15"
+    }
+  ]
+}

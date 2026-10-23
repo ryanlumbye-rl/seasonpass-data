@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:fanden-ta-kommunen-tv2",
+  "name": "Fanden ta' kommunen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "For 16 år siden tog Annie og hendes voksne datter Marianne et drastisk valg: De ’meldte sig ud’ af samfundet, og siden da har de levet et selvforsynende liv uden penge, lægehjælp, el eller varme. Men nu truer en tvangsauktion deres tilværelse i pagt med naturen.",
+  "image": "https://cdn-play.tv2i.dk/7481c324-7df7-45a2-8895-3d9bbdbe3a45.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f7d1007d-3d55-4b77-8507-a645502adb47",
+      "season": 1,
+      "number": 1,
+      "name": "Det er MIN jord",
+      "airdate": "2024-02-15"
+    },
+    {
+      "id": "e143b662-c18c-46e3-a095-62fae724e644",
+      "season": 1,
+      "number": 2,
+      "name": "Vi dør, det er voldtægt!",
+      "airdate": "2024-02-22"
+    }
+  ]
+}

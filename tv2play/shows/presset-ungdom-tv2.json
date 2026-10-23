@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:presset-ungdom-tv2",
+  "name": "Presset ungdom",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En generation af unge føler sig pressede som aldrig før. Hver tredje unge kvinde og hver femte unge mand mistrives. Men hvor kommer presset fra? TV 2 Dokumentar undersøger i to episoder, hvorfor så mange unge knækker mentalt.",
+  "image": "https://cdn-play.tv2i.dk/e50d2bf6-7855-4305-a1dc-d79274bbadbc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a9299a16-92fa-4e1e-9059-1d5b36bc3e0e",
+      "season": 1,
+      "number": 1,
+      "name": "Yasmina bag masken",
+      "airdate": "2023-08-16"
+    },
+    {
+      "id": "524b8fd1-5f76-42cf-9cb4-0b903e2e9ae7",
+      "season": 1,
+      "number": 2,
+      "name": "Præstationsræset fra 0. klasse",
+      "airdate": "2023-08-16"
+    }
+  ]
+}

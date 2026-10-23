@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Bertil har fået en magisk bæltetaske, der er noget af en frækkert. Men selvom Bæltetasken ofte får Bertil i problemer, hjælper Bæltetasken ham også ud af dem. Og han kan også hjælpe andre i nød! For Bæltetasken har nemlig sin egen brevkasse, hvor han svarer på alt muligt!",
+  "image": "https://cdn-play.tv2i.dk/ed168806-1d31-4095-869b-833be11e19f1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
   "episodes": [
     {
       "id": "713eab85-d1ef-442d-8a1f-66234761320d",
@@ -60,6 +62,13 @@
       "season": 1,
       "number": 8,
       "name": "Bestik med slik",
+      "airdate": "2021-01-16"
+    },
+    {
+      "id": "5d024e9e-6676-4402-942e-4475890aff70",
+      "season": 1,
+      "number": 9,
+      "name": "Knuste damehjerter",
       "airdate": "2021-01-16"
     },
     {

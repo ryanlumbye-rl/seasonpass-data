@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:mamen-mayo-skyshowtime",
+  "name": "Mamen Mayo",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mamen Mayo og hendes mæglingsteam forsøger at løse interessekonflikter i familier, der er viklet ind i arvestridigheder og skjulte hemmeligheder.",
+  "image": "https://cdn-play.tv2i.dk/948ebdf2-dea3-4df7-9415-28f6448c999d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "97ee7891-48ca-4e2f-9ea5-fd01dad02145",
+      "season": 1,
+      "number": 1,
+      "name": "En lejlighed og en investeringsfind",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "b289724a-fb24-4e3c-84fb-b21e266b5a20",
+      "season": 1,
+      "number": 2,
+      "name": "En hytte i skoven",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "2f7b4d82-998c-46b4-ad4f-a9d22b11aeeb",
+      "season": 1,
+      "number": 3,
+      "name": "Et hjemsøgte hus",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "439060b8-7a8e-4982-9159-abfcaa47f661",
+      "season": 1,
+      "number": 4,
+      "name": "En strandrestaurant",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "6db74192-abc0-4811-ae82-57cab2ca9f82",
+      "season": 1,
+      "number": 5,
+      "name": "Nicolásss",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "e466b9c3-903e-4b16-a715-1d066fc0103f",
+      "season": 1,
+      "number": 6,
+      "name": "Nogle smykker, noget undertøj og et manuskript",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "bff9c6f6-4bb2-49eb-9f83-31edd4ca83b8",
+      "season": 1,
+      "number": 7,
+      "name": "En hårlok",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "0fa6d98c-6481-4048-89aa-389a178ca3cb",
+      "season": 1,
+      "number": 8,
+      "name": "Mayo-meditation",
+      "airdate": "2025-02-27"
+    }
+  ]
+}

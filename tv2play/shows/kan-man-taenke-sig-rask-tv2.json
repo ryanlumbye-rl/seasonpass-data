@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:kan-man-taenke-sig-rask-tv2",
+  "name": "Kan man tænke sig rask?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Danskere med Parkinson-rystelser, gigt og psoriasis hævder at være healet af alternative metoder eller mentale teknikker. Journalist Thomas Breinholt undersøger de mystiske historier, og opsøger forskere for at opklare dem.",
+  "image": "https://cdn-play.tv2i.dk/017c940a-fdce-4e52-b620-98a368c3415d.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "59194e5e-34a7-4626-bbff-1e48d70ad085",
+      "season": 1,
+      "number": 1,
+      "name": "Mystisk healing",
+      "airdate": "2021-05-03"
+    },
+    {
+      "id": "89ef3e52-5050-4bef-8b9a-1a2b9c7b2801",
+      "season": 1,
+      "number": 2,
+      "name": "Fra smertehelvede til elitedykker",
+      "airdate": "2021-05-10"
+    },
+    {
+      "id": "b88cb06a-1233-4cfb-9127-91b0266e6ecc",
+      "season": 1,
+      "number": 3,
+      "name": "Meditation som medicin",
+      "airdate": "2021-05-17"
+    }
+  ]
+}

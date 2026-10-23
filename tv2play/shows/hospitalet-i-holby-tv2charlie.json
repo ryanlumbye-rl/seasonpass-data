@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Kom tæt på livet, personalet og patienterne på hospitalet i Holby, når de hver dag kæmper for dem selv og andres liv i denne populære britiske dramaserie.",
+  "image": "https://cdn-play.tv2i.dk/3e9a774c-60c8-4074-84c4-a4ec2c0ae0f4.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
   "episodes": [
     {
       "id": "e4238ab2-90c0-47fd-a6c5-26b71e89ef63",
@@ -14,21 +16,7 @@
       "airdate": "2020-12-07"
     },
     {
-      "id": "6618f5d4-7579-4bb4-a623-18e61484dfd9",
-      "season": 20,
-      "number": 5,
-      "name": "One Day at a Time",
-      "airdate": "2020-12-07"
-    },
-    {
       "id": "1328490d-16fb-467b-a9a4-c22dfb3cea96",
-      "season": 20,
-      "number": 6,
-      "name": "Not Your Home Now",
-      "airdate": "2020-12-07"
-    },
-    {
-      "id": "1e9b2888-76ac-47e3-9217-5248b5c43bc9",
       "season": 20,
       "number": 7,
       "name": "Precipice",
@@ -82,6 +70,20 @@
       "number": 14,
       "name": "Tete a Tate",
       "airdate": "2020-12-11"
+    },
+    {
+      "id": "6618f5d4-7579-4bb4-a623-18e61484dfd9",
+      "season": 20,
+      "number": 15,
+      "name": "Tate Gallery",
+      "airdate": "2020-12-12"
+    },
+    {
+      "id": "178d8e30-e059-442f-a600-e0fc5b76f3e5",
+      "season": 20,
+      "number": 16,
+      "name": "New Ain't All It's Cracked Up To Be",
+      "airdate": "2020-12-12"
     }
   ]
 }

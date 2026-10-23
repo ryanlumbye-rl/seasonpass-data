@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:hotelkampen-tv2fri",
+  "name": "Hotelkampen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tre vidt forskellige par rejser til Ærø med en drøm om at blive hotelejere. Nu får de chancen for at afprøve drømmen, når de i otte uger skal forvandle og drive deres drømmehotel i hjertet af Ærøskøbing. Kun et par vinder 'Hotelkampen' og 100.000 kroner.",
+  "image": "https://cdn-play.tv2i.dk/05d8aef1-b780-40df-81f1-72fe6268da03.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f98e43c2-c163-4e83-97da-83f5d3523a09",
+      "season": 1,
+      "number": 3,
+      "name": "Hotel-brunch på menuen",
+      "airdate": "2017-09-05"
+    },
+    {
+      "id": "ab789c43-2d39-4780-9b07-8da11e0da583",
+      "season": 1,
+      "number": 4,
+      "name": "Store haveuge",
+      "airdate": "2017-09-12"
+    },
+    {
+      "id": "1f9e2887-bed5-4203-966e-6c4873c4b49e",
+      "season": 1,
+      "number": 5,
+      "name": "Claus Holm bedømmer hotellernes mad",
+      "airdate": "2017-09-19"
+    },
+    {
+      "id": "1e57bf90-b595-41e3-bdab-6f6e6bcc3c1a",
+      "season": 1,
+      "number": 6,
+      "name": "Hotellerne tager gæster med på tur",
+      "airdate": "2017-09-26"
+    },
+    {
+      "id": "6c535b6b-8eb6-49a8-a4aa-ebb2124e5088",
+      "season": 1,
+      "number": 7,
+      "name": "Cecilies hemmelige spioner checker ind",
+      "airdate": "2017-10-03"
+    },
+    {
+      "id": "82ae673c-a9a4-4bb3-a69f-35bc506ab0bf",
+      "season": 1,
+      "number": 8,
+      "name": "I medgang og modgang",
+      "airdate": "2017-10-10"
+    }
+  ]
+}

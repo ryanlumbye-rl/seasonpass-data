@@ -5,6 +5,8 @@
   "status": "Running",
   "tmdbId": null,
   "next": "2026-10-29",
+  "description": "Meyerheim og hans panel af kendte danskere er klar til at dele generøst ud af erfaringer og anekdoter for at hjælpe danskerne med deres dilemmaer.",
+  "image": "https://cdn-play.tv2i.dk/8422ab2f-ab78-4133-be9a-06da5428f031.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
   "episodes": [
     {
       "id": "e4e54712-fb4a-40ab-9f18-83b4bf1d0e3f",
@@ -1370,6 +1372,13 @@
       "number": 9,
       "name": "Min datter synger forfærdeligt",
       "airdate": "2026-10-22"
+    },
+    {
+      "id": "2115d1f0-341f-4c8d-b6bf-4f6db2e02cc8",
+      "season": 25,
+      "number": 10,
+      "name": "Tatoveret kærlighed",
+      "airdate": "2026-10-29"
     }
   ]
 }

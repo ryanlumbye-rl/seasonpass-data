@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:lady-foer-baby-tv2play",
+  "name": "Lady før baby",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mette Milan er influencer. Hun kan godt lide børn, men hun elsker sin frihed højere. Derfor vil hun steriliseres. Men der er mange, som har en mening om hendes valg.",
+  "image": "https://cdn-play.tv2i.dk/ba793185-308f-44b4-a0a2-ebd28703c19f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "a273acc5-b17f-41cd-af85-931a4dff9941",
+      "season": 1,
+      "number": 1,
+      "name": "Den kat er mere interessant end børn",
+      "airdate": "2021-06-16"
+    },
+    {
+      "id": "e0c856c9-4478-4f69-ac4a-5592fe394b34",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg skal bare steriliseres",
+      "airdate": "2021-06-16"
+    }
+  ]
+}

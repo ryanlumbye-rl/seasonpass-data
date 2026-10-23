@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:stefan-minus-200-kilo-tv2fyn",
+  "name": "Stefan minus 200 kilo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I årevis har Stefan Jepsen levet i et fedtfængsel med en kampvægt på 350 kg. Nu har han tabt sig 200 kilo og forude venter et helt nyt liv, hvor han skal forsøge at slippe sin angst og den isolerede tilværelse. Men først skal han igennem en risikabel operation, der kan koste ham livet.",
+  "image": "https://cdn-play.tv2i.dk/9f32a390-4a66-4b73-b63c-b3107e159d55.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1998%2C1124&w=1280",
+  "episodes": [
+    {
+      "id": "fa0b3452-6ad4-4138-a51d-4f62affb64a5",
+      "season": 1,
+      "number": 1,
+      "name": "En risikabel operation",
+      "airdate": "2025-06-30"
+    },
+    {
+      "id": "cd6acee8-3800-4c59-a7ff-119f5f752cf8",
+      "season": 1,
+      "number": 2,
+      "name": "Et bedre liv",
+      "airdate": "2025-07-07"
+    }
+  ]
+}

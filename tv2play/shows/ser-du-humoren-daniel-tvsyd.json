@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:ser-du-humoren-daniel-tvsyd",
+  "name": "Ser du humoren, Daniel?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det viser sig, at Torben Chris er Daniel Ryes gamle FDF-leder. Nu lokker han sin gamle elev ud et vanvittigt projekt. Kan man lære at lave standup om alt - også om at være gidsel hos Islamisk Stat?",
+  "image": "https://cdn-play.tv2i.dk/c3753a39-1a74-4611-8161-e5663400b3cd.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "16aa43c8-eb8c-484b-89ef-4d50fbb8f685",
+      "season": 1,
+      "number": 1,
+      "name": "Tragedie + tid = comedy?",
+      "airdate": "2025-04-04"
+    },
+    {
+      "id": "d7749f82-d82f-4c1f-a643-3cf63c1973be",
+      "season": 1,
+      "number": 2,
+      "name": "Ubærligt, men sjovt",
+      "airdate": "2025-04-11"
+    },
+    {
+      "id": "e91c064b-1743-46b3-89f5-8d2352c157c4",
+      "season": 1,
+      "number": 3,
+      "name": "Torben på pinebænken",
+      "airdate": "2025-04-18"
+    },
+    {
+      "id": "9e18352f-f79e-4f12-b90e-bd80dc0d7e6e",
+      "season": 1,
+      "number": 4,
+      "name": "Grænserne testes",
+      "airdate": "2025-04-25"
+    },
+    {
+      "id": "ea5ddac7-287f-4cb5-82df-715b90f1f69f",
+      "season": 1,
+      "number": 5,
+      "name": "Showtime",
+      "airdate": "2025-05-02"
+    }
+  ]
+}

@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Seneste skud i stammen af 'Star Trek'-serier, som er forhistorien til den originale 'Star Trek'-historie. Vi følger Kaptajn Pike, Spock og Number One fra før, Kaptajn Kirk gik ombord på U.S.S. Enterprise - på vej til at udforske nye verdener i galaksen.",
+  "image": "https://cdn-play.tv2i.dk/ab4b2a7c-7460-3a2f-aab4-2897864aecc7.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
   "episodes": [
     {
       "id": "b7eb0389-337b-4385-87ae-8b47858f6aa3",

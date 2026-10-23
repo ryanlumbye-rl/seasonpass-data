@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:det-fede-faellesskab-tv2",
+  "name": "Det fede fællesskab",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fem unge flytter sammen i et bofællesskab. De har alle for høj vægt og for lavt selvværd. Nu skal de bryde med de livslange mønstre, der har gjort dem usunde og overvægtige. Kan de støtte hinanden i kampen for et godt liv, hvor de kan leve uden skyld, skam og selvhad?",
+  "image": "https://cdn-play.tv2i.dk/4c860be9-b02a-446d-8128-bfda0b6da422.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "00488db2-2c9f-4235-9280-85d92c994da8",
+      "season": 1,
+      "number": 1,
+      "name": "Fra ensomhed til fællesskab",
+      "airdate": "2023-01-31"
+    },
+    {
+      "id": "52f544cb-4225-4abf-9309-f9d677d719f8",
+      "season": 1,
+      "number": 2,
+      "name": "På kutter i Øresund",
+      "airdate": "2023-01-31"
+    },
+    {
+      "id": "00345d12-8f6e-481f-af17-f73dbe670f61",
+      "season": 1,
+      "number": 3,
+      "name": "Selvhadet skal væk",
+      "airdate": "2023-02-14"
+    },
+    {
+      "id": "fce4296f-9242-4d20-bd82-a8a1d552fda4",
+      "season": 1,
+      "number": 4,
+      "name": "Den svære brandmandsøvelse",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "429bf312-b339-4b62-b028-9e6b6da93d59",
+      "season": 1,
+      "number": 5,
+      "name": "Kan naturen overvinde dovenskab?",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d7381e52-5074-40bb-b14f-a4fe49654ac0",
+      "season": 1,
+      "number": 6,
+      "name": "Bliver drømmene opfyldt?",
+      "airdate": "2023-02-28"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "tv2play:laerkevej-tv2",
+  "name": "Lærkevej",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tre søskende flygter fra mafiaen med liget af en lejemorder i bagagerummet og tror, at de på Lærkevej har fundet det perfekte sted at holde helt lav profil og vogte på deres hemmelighed. Men de kunne ikke have taget mere fejl, for på Lærkevej er der mange hemmeligheder og endnu flere nysgerrige naboer!",
+  "image": "https://cdn-play.tv2i.dk/dcc0b872-01cd-421b-a8c1-fbc2cf822b79.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a80562c1-fd9f-4a18-b287-45676a3d47d7",
+      "season": 1,
+      "number": 1,
+      "name": "De skyldige",
+      "airdate": "2009-09-24"
+    },
+    {
+      "id": "1deb498a-e7f9-4e3b-aeae-9f4b8b44942e",
+      "season": 1,
+      "number": 2,
+      "name": "Før brylluppet",
+      "airdate": "2009-10-01"
+    },
+    {
+      "id": "a74fe434-bda9-49a4-b007-8bcfee1b3985",
+      "season": 1,
+      "number": 3,
+      "name": "Alle hemmeligheder har en nabo",
+      "airdate": "2009-10-08"
+    },
+    {
+      "id": "84c1832b-c782-4b60-be9b-3b10f693476a",
+      "season": 1,
+      "number": 4,
+      "name": "Den stærkeste hånd",
+      "airdate": "2009-10-15"
+    },
+    {
+      "id": "a525cf1b-62c0-4a4e-8f45-3dfd77b942d4",
+      "season": 1,
+      "number": 5,
+      "name": "Sådan er livet",
+      "airdate": "2009-10-22"
+    },
+    {
+      "id": "e71704c9-05d0-4438-b56d-d44cc1c2d8c4",
+      "season": 1,
+      "number": 6,
+      "name": "Fred her til lands",
+      "airdate": "2009-10-29"
+    },
+    {
+      "id": "bf6ac0a0-2d96-4309-944a-016911b2175f",
+      "season": 1,
+      "number": 7,
+      "name": "Hans og Grete",
+      "airdate": "2009-11-05"
+    },
+    {
+      "id": "30b1b052-cdd6-40be-8627-a371c633b673",
+      "season": 1,
+      "number": 8,
+      "name": "Fri som fuglen",
+      "airdate": "2009-11-12"
+    },
+    {
+      "id": "71ab205e-35b2-4427-8630-ad11094af135",
+      "season": 1,
+      "number": 9,
+      "name": "Det 5. bud",
+      "airdate": "2009-11-19"
+    },
+    {
+      "id": "7497cad0-f8a5-487a-8ce6-dbe6693e99f2",
+      "season": 1,
+      "number": 10,
+      "name": "Dejlig er jorden",
+      "airdate": "2009-11-26"
+    },
+    {
+      "id": "c1824f4b-7ee6-4abb-82c6-964f86e3ba52",
+      "season": 2,
+      "number": 1,
+      "name": "Har I nogen I skal af med?",
+      "airdate": "2010-09-09"
+    },
+    {
+      "id": "aaad374a-49d9-481e-ad19-2d800735f6e8",
+      "season": 2,
+      "number": 2,
+      "name": "Er det dit endelige svar?",
+      "airdate": "2010-09-16"
+    },
+    {
+      "id": "f397136f-22e6-4303-89f6-2b84e28cf44c",
+      "season": 2,
+      "number": 3,
+      "name": "Fissehviskeren",
+      "airdate": "2010-09-23"
+    },
+    {
+      "id": "595d3dd8-e02e-4bf2-a9e8-bddffd9b09ff",
+      "season": 2,
+      "number": 4,
+      "name": "Lad være at se så frelst ud!",
+      "airdate": "2010-09-30"
+    },
+    {
+      "id": "63efc1b4-98d7-4f5f-97a6-1cdded03957b",
+      "season": 2,
+      "number": 5,
+      "name": "Underdirektøren for det hele",
+      "airdate": "2010-10-07"
+    },
+    {
+      "id": "ff10a588-ea32-49e1-89f8-006a04afc611",
+      "season": 2,
+      "number": 6,
+      "name": "Din lille fede kælegris",
+      "airdate": "2010-10-14"
+    },
+    {
+      "id": "d2e02e45-fec4-47cb-9470-8df76d59ac7c",
+      "season": 2,
+      "number": 7,
+      "name": "Den frække stilhed",
+      "airdate": "2010-10-21"
+    },
+    {
+      "id": "f53e4c70-edaa-4947-9ac9-318cd21114df",
+      "season": 2,
+      "number": 8,
+      "name": "Flotte fyr",
+      "airdate": "2010-10-28"
+    },
+    {
+      "id": "32a01c83-4138-470d-89e8-42c62d8d0215",
+      "season": 2,
+      "number": 9,
+      "name": "Nyt Legetøj",
+      "airdate": "2010-11-04"
+    },
+    {
+      "id": "66c8be16-ceb1-41cb-8dde-3d721bda6255",
+      "season": 2,
+      "number": 10,
+      "name": "Vand På Flaske",
+      "airdate": "2010-11-11"
+    },
+    {
+      "id": "47973a90-a506-4570-9912-7c309f628a78",
+      "season": 2,
+      "number": 11,
+      "name": "Jeg har også slået en ihjel",
+      "airdate": "2010-11-18"
+    },
+    {
+      "id": "17df3d7a-6ee7-41cd-bc2b-1411dd018287",
+      "season": 2,
+      "number": 12,
+      "name": "Pas På Lærkevej",
+      "airdate": "2010-11-25"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "id": "tv2play:hunter-street-skyshowtime",
+  "name": "Hunter Street",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Søskendeflokken Max, Tess, Anika, Sal og Daniel glæder sig til at tilbringe den første nat i et nyt hjem med deres plejefamilie. Men da forældrenene pludseligt forsvinder, må ungerne tage på en episk rejse for at finde dem.",
+  "image": "https://cdn-play.tv2i.dk/c2f3c0cb-0ea5-47d7-b393-a4e649887595.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "744747de-c142-4a6b-83dd-f8c393c9f1c2",
+      "season": 1,
+      "number": 1,
+      "name": "Den nye Hunter",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3c5b71e8-846e-4a45-8c28-fa43c404bf15",
+      "season": 1,
+      "number": 2,
+      "name": "Saganash",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "9bb881ce-e5dd-40b4-9178-ed5bf6f07479",
+      "season": 1,
+      "number": 3,
+      "name": "Det hemmelige rum",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0bdd0fb3-2d40-4ebf-ad81-17ce2bc7b672",
+      "season": 1,
+      "number": 4,
+      "name": "Rektor",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0f0b7faa-0b81-48f3-82ae-61af79dc8118",
+      "season": 1,
+      "number": 5,
+      "name": "Rinus",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "eb0c5c25-a77a-48e3-969d-ab49a50fd8cc",
+      "season": 1,
+      "number": 6,
+      "name": "Nøglen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f293e6d2-7838-4cef-b725-304a2ccbdd3d",
+      "season": 1,
+      "number": 7,
+      "name": "Den Blå Diamant",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ce6a1ba9-ad68-464c-8279-c8c139dc03c7",
+      "season": 1,
+      "number": 8,
+      "name": "MGP",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "53fe3c7c-c58d-47e2-bfee-ca8c20cb7752",
+      "season": 1,
+      "number": 9,
+      "name": "Tanta Hedwig og Onkel Eugene",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0cc5765e-f23f-4474-a9d6-b87c9d370ac9",
+      "season": 1,
+      "number": 10,
+      "name": "Kontakt",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0f30146d-26d6-4ac3-8ee4-30b0fb03487d",
+      "season": 1,
+      "number": 11,
+      "name": "Slægtninge",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f6ea6604-4ab9-4bb5-a612-04ab3bc058ae",
+      "season": 1,
+      "number": 12,
+      "name": "Den Røde Diamant",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ddaf5905-0fa1-4ec8-89ea-12ae887e5773",
+      "season": 1,
+      "number": 13,
+      "name": "Cassandras kort",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8d159099-dd49-4510-8b1e-2147516dd001",
+      "season": 1,
+      "number": 14,
+      "name": "Anikas fødselsdag",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "eccaebf3-1034-4d28-9518-3f8c82b1423f",
+      "season": 1,
+      "number": 15,
+      "name": "Labyrinten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1e0e1bc5-a030-4984-98af-a200c6e6acd2",
+      "season": 1,
+      "number": 16,
+      "name": "Undercover",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "eefe887e-8b71-4a5b-a21e-0d7afaec88bf",
+      "season": 1,
+      "number": 17,
+      "name": "Sophie",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "15d1e201-5e2a-4044-8a4d-35ec5eb8e61f",
+      "season": 1,
+      "number": 18,
+      "name": "Bruhl",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "254c36b7-cbe8-45a8-b342-30f964531deb",
+      "season": 1,
+      "number": 19,
+      "name": "Næsten tilbage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b21eef56-c464-417a-ab29-09b7b2724159",
+      "season": 1,
+      "number": 20,
+      "name": "The Deed",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "296e9e9c-9f63-43fc-86af-55171f02040a",
+      "season": 2,
+      "number": 1,
+      "name": "Pakken",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "21aceebf-4614-48e3-aa17-e448b53f767e",
+      "season": 2,
+      "number": 2,
+      "name": "The Arrest",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "87293d55-dc23-4588-bce2-e4b164d4a0dd",
+      "season": 2,
+      "number": 3,
+      "name": "Max",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8b37f44b-103b-473c-932e-7ece4dfe687b",
+      "season": 2,
+      "number": 4,
+      "name": "Evie",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "7157316b-992a-4eec-82ee-552964ca844b",
+      "season": 2,
+      "number": 5,
+      "name": "Museet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ed85547c-5601-4b54-b931-3c3f9aff1a74",
+      "season": 2,
+      "number": 6,
+      "name": "Den nye ven",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "076db850-c2a9-4277-91f6-96961c0c5bff",
+      "season": 2,
+      "number": 7,
+      "name": "Stamtræet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "fc08f3b3-a8d9-46f7-b7e7-bf4e656e537e",
+      "season": 2,
+      "number": 8,
+      "name": "Hævnens time",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "66cf1ff5-abc3-421c-8ba3-097c60e2dce2",
+      "season": 2,
+      "number": 9,
+      "name": "Planen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3688b548-f587-433b-bb11-cf6733ef4503",
+      "season": 2,
+      "number": 10,
+      "name": "Det omvendte kup",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "10ca9e26-518d-466d-a95c-5d69348fe334",
+      "season": 2,
+      "number": 11,
+      "name": "Muldvarpen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "c02f996d-26b0-4ff4-bdf4-5692d7a80293",
+      "season": 2,
+      "number": 12,
+      "name": "Den grønne maske",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1534ff3d-fe7d-4d50-be8f-ded59a3d2b5f",
+      "season": 2,
+      "number": 13,
+      "name": "Hackerens skjulested",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "def38c60-1347-4186-a6d5-29c401de3983",
+      "season": 2,
+      "number": 14,
+      "name": "Det superhemmelige rum",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0686eff5-2fec-4a7a-9054-a2ff3f503299",
+      "season": 2,
+      "number": 15,
+      "name": "Kronen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1e95dc76-a422-42ce-87f7-97f6921f388b",
+      "season": 2,
+      "number": 16,
+      "name": "Gemmeleg",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "7e78eea9-1406-498d-ae5f-750c79d6344e",
+      "season": 2,
+      "number": 17,
+      "name": "Husbåden",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "13dd7dc5-d8d9-48dd-858f-8f6ec2ad245c",
+      "season": 2,
+      "number": 18,
+      "name": "Spion",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "47b949c5-5dc7-48fd-adcd-40a2952e8b48",
+      "season": 2,
+      "number": 19,
+      "name": "Ritualet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2c39485c-17fc-416e-b0a2-10dd3584cbe6",
+      "season": 2,
+      "number": 20,
+      "name": "Hunters for altid",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ceb148e7-be83-46c7-b002-ea5086112132",
+      "season": 3,
+      "number": 1,
+      "name": "Fødselsdagsgaven",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "064b2d02-671f-467f-80ec-cceea91ed249",
+      "season": 3,
+      "number": 2,
+      "name": "Uhyggeligt hus",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "659dfb7e-0ca0-4fe6-b6a0-4a69bd09ee7a",
+      "season": 3,
+      "number": 3,
+      "name": "Stormen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b340beea-1e1f-4d82-a988-961a66702400",
+      "season": 3,
+      "number": 4,
+      "name": "Jakes forbandelse",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "f77669a9-39a5-4d0f-8ac6-869ef7d62691",
+      "season": 3,
+      "number": 5,
+      "name": "Faret vild i skoven",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "063d66ac-27ac-4040-b211-aaedb5c71196",
+      "season": 3,
+      "number": 6,
+      "name": "Oliver",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "21661828-05c3-4343-bd87-66bc287a843f",
+      "season": 3,
+      "number": 7,
+      "name": "Koden",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a86609d5-3096-493c-a6f0-df909bec1ad0",
+      "season": 3,
+      "number": 8,
+      "name": "Miksturer og gåder",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "79774dee-319c-46f5-a93b-3de8876b4465",
+      "season": 3,
+      "number": 9,
+      "name": "Forbandelse eller kur?",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a5d3a422-ae90-43cf-a706-8c06e38b69f9",
+      "season": 3,
+      "number": 10,
+      "name": "Hunter Street",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "98126bf2-7143-4b85-b483-75c968c50b7f",
+      "season": 3,
+      "number": 11,
+      "name": "Tilbage til Huntermuseet",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "7dde5c50-1611-4311-bb66-d1ffa874d13f",
+      "season": 3,
+      "number": 12,
+      "name": "Hr. Bjørn",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "17b2ceef-9fb1-4316-9c02-a3a92031a293",
+      "season": 3,
+      "number": 13,
+      "name": "Rex redder dagen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "def79044-4f11-475c-aefc-3b122ab29336",
+      "season": 3,
+      "number": 14,
+      "name": "Hemmelige tegn",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "89517db0-d361-403d-b3f2-56895cbeea00",
+      "season": 3,
+      "number": 15,
+      "name": "Evil Narikoa",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b97c89d3-6feb-4aa2-9621-87c195049e27",
+      "season": 3,
+      "number": 16,
+      "name": "Søskende",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "aa358098-0c21-48b7-b7d1-b086891ce8c4",
+      "season": 3,
+      "number": 17,
+      "name": "Det, der gemmer sig nedenunder",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "64fee679-17cd-449f-977c-7b2556a64fc3",
+      "season": 3,
+      "number": 18,
+      "name": "Sommerfuglesolen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "4344f262-86fd-442e-ab18-3fd172e1c9f1",
+      "season": 3,
+      "number": 19,
+      "name": "Udsendelsen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "28bcdbab-7f3d-4022-a980-014450c1a02c",
+      "season": 3,
+      "number": 20,
+      "name": "Fanget",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "12bb00d8-61de-4245-820c-b8d88866d95f",
+      "season": 3,
+      "number": 21,
+      "name": "Slip væk",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "40c4359b-4e56-4834-8969-7b0c7be442a0",
+      "season": 3,
+      "number": 22,
+      "name": "Mødre",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a01fc59d-31a0-4327-892d-c499d4579670",
+      "season": 3,
+      "number": 23,
+      "name": "I sumpen",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "60aa5290-07a2-4917-9f2b-8bcb5dea8629",
+      "season": 3,
+      "number": 24,
+      "name": "Sandheder og løgne",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "25594b2f-4fba-4915-9304-937c5c76ad76",
+      "season": 3,
+      "number": 25,
+      "name": "Den sidste gåde?",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a089eabb-9dc0-43cb-be9f-674879c4fa0a",
+      "season": 3,
+      "number": 26,
+      "name": "Åbenbaringer",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "acc2c6c8-43a6-4e9b-917d-892d7df43e80",
+      "season": 3,
+      "number": 27,
+      "name": "Et rundt kryds markerer skatten",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "87a63c94-2e15-4b8c-88c2-9c3c255d207c",
+      "season": 3,
+      "number": 28,
+      "name": "Vanskelige tider",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "f0c31da1-e0b5-44ab-a893-61c88068da1a",
+      "season": 3,
+      "number": 29,
+      "name": "Pyramiden",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "776b12e7-b05e-48e7-9c8b-ddb1964071ff",
+      "season": 3,
+      "number": 30,
+      "name": "Formørkelse",
+      "airdate": "2023-03-15"
+    }
+  ]
+}

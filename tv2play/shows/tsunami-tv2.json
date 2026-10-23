@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:tsunami-tv2",
+  "name": "Tsunami",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I to programmer tager en række danskere os tilbage til de dramatiske døgn for tyve år siden, hvor store dele af Sydøstasien blev ramt af en af de mest dødelige naturkatastrofer nogensinde.",
+  "image": "https://cdn-play.tv2i.dk/9c2fd828-4e42-4a17-a441-21faf76e673d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "08ce3c28-cd78-4a55-a0c5-54068c8fe32a",
+      "season": 1,
+      "number": 1,
+      "name": "Nærmest som paradis",
+      "airdate": "2024-12-18"
+    },
+    {
+      "id": "eabe4d57-d690-4ea4-b35a-4aeb5c71b3e8",
+      "season": 1,
+      "number": 2,
+      "name": "Gjorde jeg nok?",
+      "airdate": "2024-12-26"
+    }
+  ]
+}

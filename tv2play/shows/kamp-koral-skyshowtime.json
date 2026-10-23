@@ -1,0 +1,208 @@
+{
+  "id": "tv2play:kamp-koral-skyshowtime",
+  "name": "Kamp Koral",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tag med SvampeBob og hans venner, når de tilbringer sommeren med at bygge undervandslejrbål, fange vilde brandmænd og svømme i Fyddasmat Søen. Det sker på Korallejren, som er den skøreste sommerlejr i hele tangskoven.",
+  "image": "https://cdn-play.tv2i.dk/03f819fb-0cb0-4aeb-ab7e-dfd54bf2fee0.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9216804b-3ed8-4d52-9c4d-3e950256b834",
+      "season": 1,
+      "number": 1,
+      "name": "Brandmandsdrengen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a336137f-8dd4-4ea0-b961-5e9fd4688a54",
+      "season": 1,
+      "number": 2,
+      "name": "Sukkersaft",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ad6f6c73-8eb5-4ed4-a6b8-1afa62ff2117",
+      "season": 1,
+      "number": 3,
+      "name": "På jagt efter hjul",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "83e1111e-8285-44a5-ae45-e29b01e222fe",
+      "season": 1,
+      "number": 4,
+      "name": "Hvor er nudistlejren?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "868b9de4-064f-47aa-99d5-3ccccbbabea2",
+      "season": 1,
+      "number": 5,
+      "name": "Korallejrens skat",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e17f139f-dcd9-4e7a-bd9b-48a3772398fc",
+      "season": 1,
+      "number": 9,
+      "name": "Blækkeri",
+      "airdate": "2021-09-20"
+    },
+    {
+      "id": "76126504-0218-4c9f-ab79-1df394aff470",
+      "season": 1,
+      "number": 10,
+      "name": "Min gode Nobby",
+      "airdate": "2021-09-20"
+    },
+    {
+      "id": "53c0f613-5ef4-45bd-94d2-798e88334503",
+      "season": 1,
+      "number": 12,
+      "name": "Den store juleskræk",
+      "airdate": "2021-09-20"
+    },
+    {
+      "id": "193275cb-ae40-4564-86af-95641e30299e",
+      "season": 1,
+      "number": 20,
+      "name": "Reveille-revolution",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "43cba26c-f043-4cdf-9392-da770186acfb",
+      "season": 1,
+      "number": 21,
+      "name": "Bøvlet ombytning",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "8c15350b-9848-4606-828b-ded4e258974b",
+      "season": 1,
+      "number": 22,
+      "name": "Det sansende automatiske logi",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "00d52e42-b40f-4479-80d4-b71d630522dc",
+      "season": 1,
+      "number": 23,
+      "name": "Butler på afveje",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "42935d16-c782-4624-9349-c185d0033c39",
+      "season": 1,
+      "number": 24,
+      "name": "Ikke mere pølsesnak",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "2f591a14-355f-4c42-9572-24bbf507790b",
+      "season": 1,
+      "number": 25,
+      "name": "Smagen af nederlag",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "19ce9ae8-5cc3-4acc-a619-6f32b5f3f581",
+      "season": 1,
+      "number": 26,
+      "name": "Hatte i rummet",
+      "airdate": "2023-12-05"
+    },
+    {
+      "id": "bf63e59d-1caf-4662-a78c-fd4b86ff5192",
+      "season": 2,
+      "number": 1,
+      "name": "Galt videnskabsegern",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "943494bd-649e-4264-8b52-06170e75ca3b",
+      "season": 2,
+      "number": 2,
+      "name": "Hængt til tørre",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "67cb7923-483f-425d-b257-82bf528adea8",
+      "season": 2,
+      "number": 3,
+      "name": "Fem gange sjovere",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "13434aa1-56c4-4db3-80d2-a37d0f7717e4",
+      "season": 2,
+      "number": 4,
+      "name": "Nøddegalskab",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "50e64e6e-32c5-4043-86ff-4797711220cc",
+      "season": 2,
+      "number": 5,
+      "name": "En fortælling om to Roxier",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "56b79d10-a0fd-47e7-bf26-4f10fa860815",
+      "season": 2,
+      "number": 6,
+      "name": "Kalder alle monstre",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "5eef41d1-95ce-4ae7-ab84-e75f36ffd4ce",
+      "season": 2,
+      "number": 7,
+      "name": "U-indbrud",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "e41ae936-782d-4538-ae7d-9e69d89a0534",
+      "season": 2,
+      "number": 8,
+      "name": "Krabbeklovn",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "cc6d2c43-eced-4dce-8922-10763b82d6dc",
+      "season": 2,
+      "number": 9,
+      "name": "Maskotgalskab",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "6d19471a-117c-4be5-9e89-e94c5af32a0c",
+      "season": 2,
+      "number": 10,
+      "name": "Hvem klager?",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "4b753290-4ece-482f-bfe0-2a322ef84a66",
+      "season": 2,
+      "number": 11,
+      "name": "En finnefuld sanddollars",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "65400ed7-da0c-4f52-92fc-8c393e8b6c17",
+      "season": 2,
+      "number": 12,
+      "name": "Det klæder dig",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "858d58fd-7c17-4e20-88a7-1337cb324248",
+      "season": 2,
+      "number": 13,
+      "name": "Sommerafslutning",
+      "airdate": "2024-12-21"
+    }
+  ]
+}

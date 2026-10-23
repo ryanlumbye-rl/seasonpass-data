@@ -1,0 +1,117 @@
+{
+  "id": "tv2play:temple-tv2play",
+  "name": "Temple",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "d14513b2-55ad-4e9d-93e7-c2bb3397964d",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "6249abf2-5d84-420e-a7f7-d833f1a58e54",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "79e55d07-f587-441b-b955-214076bf21a5",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "3b6ca074-cc9d-409e-9915-64432e2b823b",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "9ca5564c-db4f-4b00-bb47-46a8090625db",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "0b44d2b9-4db5-4665-82e2-98a64fb058c8",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "31f61f28-d216-40cd-a96b-70614be972fa",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "236e9259-0be6-4d23-9b2f-8dd96023c00e",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "aa735a60-234a-4469-841c-8c08bb20ad77",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "4a1b3db4-2aba-4939-b11f-11fc005d4a9f",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "3c1039ac-e882-4d89-a7c5-01a76d762d6d",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "cc699f0b-8403-4cc6-ada5-93e8bca44f5e",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "73042aff-6476-4640-90ed-72ff99f364be",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "ee0962b7-bbf8-4e2e-862c-d7e61c8713e0",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-08-01"
+    },
+    {
+      "id": "4922a10e-2146-4013-8915-4b752fb56d4f",
+      "season": 2,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-08-01"
+    }
+  ]
+}

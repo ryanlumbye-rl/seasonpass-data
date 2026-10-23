@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kunsten-at-leve-med-doeden-tvsyd",
+  "name": "Kunsten at leve med døden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kan man lære at leve med døden? På Sct. Maria Hospice og Sygehus Lillebælt i Vejle er døden hverdag. Her kommer patienterne, når der ikke er mere at gøre. .",
+  "image": "https://cdn-play.tv2i.dk/63602c7d-bd90-42b3-a806-41cc0026e882.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "06d1fe31-6df6-43f3-990d-8a94e933bfe7",
+      "season": 1,
+      "number": 1,
+      "name": "Mellem liv og død",
+      "airdate": "2025-01-16"
+    },
+    {
+      "id": "0955b26f-466f-4531-baf3-d2fba99d73e9",
+      "season": 1,
+      "number": 2,
+      "name": "En plads til Torben",
+      "airdate": "2025-01-23"
+    },
+    {
+      "id": "ef85e422-0b5b-47e2-8cb7-997f7177b1af",
+      "season": 1,
+      "number": 3,
+      "name": "Er du bange for at dø?",
+      "airdate": "2025-01-30"
+    },
+    {
+      "id": "dc3ab4bb-47ec-4bb8-bfd4-2c7a78faa816",
+      "season": 1,
+      "number": 4,
+      "name": "Julles sidste tur",
+      "airdate": "2025-02-06"
+    },
+    {
+      "id": "44f04f02-962a-4c98-9ebe-c8a5b45042ed",
+      "season": 1,
+      "number": 5,
+      "name": "En udløbsdato i panden",
+      "airdate": "2025-02-13"
+    },
+    {
+      "id": "fe9fbf4d-947d-410f-aba9-851762c2d5e5",
+      "season": 1,
+      "number": 6,
+      "name": "Livet skal leves til det sidste",
+      "airdate": "2025-02-20"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "tv2play:aarets-dejligste-have-tv2fri",
+  "name": "Årets dejligste have",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tag med de to haveeksperter, Dorthe Kvist og Tom Knudsen, rundt i Danmark, når de er på jagt efter \"Årets dejligste have\".",
+  "image": "https://cdn-play.tv2i.dk/4cbcbdae-1649-4eaa-a85c-45f009f02572.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "3a115c30-50e4-433d-9f71-4eacc5430294",
+      "season": 1,
+      "number": 1,
+      "name": "Nordsjælland",
+      "airdate": "2014-03-10"
+    },
+    {
+      "id": "91bcf23e-9823-4093-b1c5-add975f15539",
+      "season": 1,
+      "number": 2,
+      "name": "Fyn",
+      "airdate": "2014-03-17"
+    },
+    {
+      "id": "409421c2-9a1d-4ae8-9872-9e2a05b2ca5a",
+      "season": 1,
+      "number": 3,
+      "name": "Nordjylland",
+      "airdate": "2014-03-24"
+    },
+    {
+      "id": "2b2ffcc5-ac11-4217-8ce7-8ea2fc08c4b8",
+      "season": 1,
+      "number": 4,
+      "name": "Hovedstaden",
+      "airdate": "2014-03-31"
+    },
+    {
+      "id": "07fe3e31-989d-4aa9-9e98-14b23484340a",
+      "season": 1,
+      "number": 5,
+      "name": "Midtjylland",
+      "airdate": "2014-04-07"
+    },
+    {
+      "id": "efff5372-e8c7-428c-b2ee-3710207d67a7",
+      "season": 1,
+      "number": 6,
+      "name": "Sydsjælland",
+      "airdate": "2014-04-14"
+    },
+    {
+      "id": "dbffbff1-0ec2-4731-bb6d-71fee38e505b",
+      "season": 1,
+      "number": 7,
+      "name": "Sønderjylland",
+      "airdate": "2014-04-21"
+    },
+    {
+      "id": "4ed97b46-d85b-4988-8eb5-f6b5bfea4700",
+      "season": 1,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2014-04-28"
+    },
+    {
+      "id": "802c439d-bcbf-4828-8bb1-fac3beb31260",
+      "season": 2,
+      "number": 1,
+      "name": "Nordjylland",
+      "airdate": "2015-02-23"
+    },
+    {
+      "id": "d762c08d-0504-4738-a749-4b04f02c8218",
+      "season": 2,
+      "number": 2,
+      "name": "Fyn",
+      "airdate": "2015-03-02"
+    },
+    {
+      "id": "a36a74f9-4dcf-4f16-aa41-c5fa534aff40",
+      "season": 2,
+      "number": 3,
+      "name": "Midtjylland",
+      "airdate": "2015-03-09"
+    },
+    {
+      "id": "f1cf0745-96bb-40b4-a532-5787ae938f13",
+      "season": 2,
+      "number": 4,
+      "name": "Hovedstaden",
+      "airdate": "2015-03-16"
+    },
+    {
+      "id": "9ca7d220-47f0-4dcf-a374-990600c17f47",
+      "season": 2,
+      "number": 5,
+      "name": "Sydvestjylland",
+      "airdate": "2015-03-23"
+    },
+    {
+      "id": "78a968bc-4f1f-4f9e-bd27-fd4a7fbb2f05",
+      "season": 2,
+      "number": 6,
+      "name": "Sydsjælland og øerne",
+      "airdate": "2015-03-30"
+    },
+    {
+      "id": "d009f3c6-9c42-4ea4-b6b8-546282a6e40c",
+      "season": 2,
+      "number": 7,
+      "name": "Nordsjælland",
+      "airdate": "2015-04-06"
+    },
+    {
+      "id": "67a67712-3fc9-4729-9e3c-37ee7baf2992",
+      "season": 2,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2015-04-13"
+    }
+  ]
+}

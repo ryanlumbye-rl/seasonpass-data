@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:nissen-flytter-altid-med-tv2",
+  "name": "Nissen flytter altid med",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Jan Linnebjerg har besluttet sig for at sige farvel til sin karakter Pyrus. Kostumet er mølædt, og det er blevet tid til at give slip. Tid til at forsøge at finde ud af, hvem han er uden nissen. Noget, han aldrig har været i stand til. Men spørgsmålet er: Hvem er han uden Pyrus? .",
+  "image": "https://cdn-play.tv2i.dk/708aee7e-8431-48b2-9b47-ce2ef51c5b50.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1455e9e5-0d87-490f-8eec-1d082918f0ba",
+      "season": 1,
+      "number": 1,
+      "name": "Nisseforbandelsen",
+      "airdate": "2022-11-10"
+    },
+    {
+      "id": "8b9a57aa-4d7a-415a-b0b3-f5dba95d7fac",
+      "season": 1,
+      "number": 2,
+      "name": "Hvem er jeg uden Pyrus?",
+      "airdate": "2022-11-17"
+    }
+  ]
+}

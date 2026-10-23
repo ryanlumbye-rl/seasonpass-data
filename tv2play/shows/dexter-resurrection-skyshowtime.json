@@ -5,6 +5,8 @@
   "status": "Running",
   "tmdbId": null,
   "next": "2026-10-31",
+  "description": "Dexter Morgan er blevet skudt i brystet af sin egen søn. Da han vågner op af koma, opdager han, at Harrison er forsvundet sporløst. Dexter indser, hvad han har udsat sin søn for og begiver sig til New York City, fast besluttet på at finde ham og gøre det godt igen.",
+  "image": "https://cdn-play.tv2i.dk/e2487cb0-2a78-34f3-beff-fdb34e460805.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "78ef9fc3-c040-4940-b6b5-900c0c81a505",
@@ -75,6 +77,13 @@
       "number": 10,
       "name": "And Justice for All…",
       "airdate": "2025-11-07"
+    },
+    {
+      "id": "23e4dd22-47aa-473f-a6f6-3058e656b054",
+      "season": 2,
+      "number": 1,
+      "name": "Risky Business",
+      "airdate": "2026-10-31"
     }
   ]
 }

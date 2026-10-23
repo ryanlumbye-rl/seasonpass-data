@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:zulus-store-fede-nytaarsquiz-tv2play",
+  "name": "Zulus store fede nytårsquiz",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Victor Lander inviterer til nytårsquiz og får svaret på alle de spørgsmål, der har fyldt i årets løb.",
+  "image": "https://cdn-play.tv2i.dk/5dc766b8-219e-4e30-96b4-471315256813.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "0bd9448d-ff61-490f-82be-4cf212af32d6",
+      "season": 2021,
+      "number": 1,
+      "name": "Med Kathrine Abrahamsen, Mathias Helt, Natasha Brock og Jesper Ole Feit.",
+      "airdate": "2021-12-20"
+    },
+    {
+      "id": "3c8edc28-c928-49b8-b56c-7ac23ef8d316",
+      "season": 2021,
+      "number": 2,
+      "name": "Med Eva Jin, Martin Johannes Larsen, Mikkel Klint Thorius og Martin Nørgaard",
+      "airdate": "2021-12-21"
+    },
+    {
+      "id": "5bf91df1-067d-46a3-9c74-2d0d881d406f",
+      "season": 2021,
+      "number": 3,
+      "name": "Finalen",
+      "airdate": "2021-12-22"
+    }
+  ]
+}

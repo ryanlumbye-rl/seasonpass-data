@@ -1,0 +1,131 @@
+{
+  "id": "tv2play:imposters-skyshowtime",
+  "name": "Imposters",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En forførende svindler udnytter sine intetanende ofre økonomisk og emotionelt. Ved at ændre sin personlighed får hun mænd – og kvinder – til at gifte sig med hende og forsvinder derefter med deres penge og med lige akkurat nok kompromitterende information til at sikre, at de aldrig går til politiet.",
+  "image": "https://cdn-play.tv2i.dk/87c13245-148f-48da-9b88-f008d1842681.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e2d3c8be-7a43-4efb-8cc8-efb704857227",
+      "season": 1,
+      "number": 1,
+      "name": "My So-Called Wife",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "32add7e6-0d6c-49ad-a497-3b8de7f355b3",
+      "season": 1,
+      "number": 2,
+      "name": "My Balls, Dickhead",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "956f5390-5e07-42a1-83e0-456bed4c3f78",
+      "season": 1,
+      "number": 3,
+      "name": "We Wanted Every Lie",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "f539d8a5-8d45-4506-9ae9-ba634bd90182",
+      "season": 1,
+      "number": 4,
+      "name": "Cohen, Lenny Cohen",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "cc1eaaf5-90b6-4208-a30f-2efec98baa8f",
+      "season": 1,
+      "number": 5,
+      "name": "Is a Shark Good or Bad?",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "3ee6c998-45fb-4d5e-b24a-37096b7b1315",
+      "season": 1,
+      "number": 6,
+      "name": "The Maddie Code",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "34f109f2-2428-499a-b94b-23430ad233ac",
+      "season": 1,
+      "number": 7,
+      "name": "Frog-Bikini-Eiffel Tower",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "8904d267-8897-4091-8f18-9fbdb39abdf4",
+      "season": 1,
+      "number": 8,
+      "name": "In the Game",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "a89d6469-1c86-4308-8815-f778e4884300",
+      "season": 2,
+      "number": 1,
+      "name": "Fillion Bollar King",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "d088e25f-c755-4d0f-b988-50b7940e3417",
+      "season": 2,
+      "number": 2,
+      "name": "Trouble Maybe",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "b470c43b-a8c0-43ba-937b-01128e03b419",
+      "season": 2,
+      "number": 3,
+      "name": "Old Unresolved Sh*t",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "24471e87-cc5f-4ff4-bbce-bce557375e67",
+      "season": 2,
+      "number": 4,
+      "name": "Andiamo",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "e7cd1efc-4111-475b-a008-196d223c8b31",
+      "season": 2,
+      "number": 5,
+      "name": "Maybe/Definitely",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "ec5a93aa-a4f4-4b3a-b55d-8fcb7a76fcce",
+      "season": 2,
+      "number": 6,
+      "name": "That's Enough. Off You Go",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "0c5ce63f-59b2-4e99-a81b-6352f6f4ffa1",
+      "season": 2,
+      "number": 8,
+      "name": "Phase Two Sucks",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "44af90c5-d736-40e7-b5fd-37137df8776c",
+      "season": 2,
+      "number": 9,
+      "name": "The World Needs Heroes. Over.",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "8007acc0-8c9e-4994-8f5b-fac65600b444",
+      "season": 2,
+      "number": 10,
+      "name": "See You Soon, Macaroon",
+      "airdate": "2025-09-16"
+    }
+  ]
+}

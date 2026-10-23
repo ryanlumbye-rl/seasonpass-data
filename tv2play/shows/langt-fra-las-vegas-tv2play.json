@@ -1,0 +1,383 @@
+{
+  "id": "tv2play:langt-fra-las-vegas-tv2play",
+  "name": "Langt fra Las Vegas",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Programmet 'Jumpstart' og den tilhørende redaktion er omdrejningspunktet i denne geniale sitcom skabt af Casper Christensen og Frank Hvam. Den skrupskøre redaktion er så upolitiske korrekte som noget kan være, og det er både pinligt, sjovt og hjertevarmt, når de på bedste vis prøver at tage fusen på hinanden i kampen om penge, sex og jobs.",
+  "image": "https://cdn-play.tv2i.dk/078f35d4-5328-419b-8d50-c814139ea0d6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "037749b3-54da-4ac4-912a-f5cf9f5ce45d",
+      "season": 1,
+      "number": 1,
+      "name": "En ordentlig sneppetur",
+      "airdate": "2001-02-27"
+    },
+    {
+      "id": "82610209-7f47-4049-9f63-0ba7651ddea3",
+      "season": 1,
+      "number": 2,
+      "name": "Trillekød",
+      "airdate": "2001-03-06"
+    },
+    {
+      "id": "cff927b5-94b5-41c6-b0b9-ed96e260434f",
+      "season": 1,
+      "number": 3,
+      "name": "Danish Dynamite",
+      "airdate": "2001-03-13"
+    },
+    {
+      "id": "18108f24-b2c4-43c7-9905-3f4544fe33fd",
+      "season": 1,
+      "number": 4,
+      "name": "Ordnung muss sein",
+      "airdate": "2001-03-20"
+    },
+    {
+      "id": "698c3b24-a488-4b72-9754-6245bd123eab",
+      "season": 1,
+      "number": 5,
+      "name": "Kærlighedspokalen",
+      "airdate": "2001-03-27"
+    },
+    {
+      "id": "9b683809-c7a6-4595-b3fd-3d177e8b8de9",
+      "season": 1,
+      "number": 6,
+      "name": "Proletarkæden",
+      "airdate": "2001-04-03"
+    },
+    {
+      "id": "8f81d14b-d5c8-428d-91a7-7bf581cc783c",
+      "season": 1,
+      "number": 7,
+      "name": "Sexfreak",
+      "airdate": "2001-04-10"
+    },
+    {
+      "id": "a10c88a8-24b6-4528-b05d-ca07f38a6c5c",
+      "season": 1,
+      "number": 8,
+      "name": "Se og Hor",
+      "airdate": "2001-04-17"
+    },
+    {
+      "id": "3597381a-6d2b-4615-9f98-281453d81920",
+      "season": 1,
+      "number": 9,
+      "name": "Heidi del 1",
+      "airdate": "2001-04-24"
+    },
+    {
+      "id": "95f71ee0-f7fb-4b8f-bd96-9f36966bfb2b",
+      "season": 1,
+      "number": 10,
+      "name": "Heidi del 2",
+      "airdate": "2001-05-01"
+    },
+    {
+      "id": "c4638b6b-ca28-4b12-9dbf-d18aae911472",
+      "season": 1,
+      "number": 11,
+      "name": "Én på egnsdragten",
+      "airdate": "2001-05-08"
+    },
+    {
+      "id": "6b33694b-75b7-45ca-9ff7-d00fa87f69de",
+      "season": 1,
+      "number": 12,
+      "name": "I.T. Phone Home",
+      "airdate": "2001-05-15"
+    },
+    {
+      "id": "bd5de3b0-f9d1-4b0e-abdc-bb9269bf8448",
+      "season": 1,
+      "number": 13,
+      "name": "Helmig fucki fucki",
+      "airdate": "2001-05-22"
+    },
+    {
+      "id": "580039cf-bb32-4b8f-86c5-87471cf8ff86",
+      "season": 2,
+      "number": 1,
+      "name": "Lars Herlow",
+      "airdate": "2002-03-05"
+    },
+    {
+      "id": "118cea2e-8b44-4d14-9362-171a32da7d6b",
+      "season": 2,
+      "number": 2,
+      "name": "Mia Hundvin",
+      "airdate": "2002-03-12"
+    },
+    {
+      "id": "b2eb4289-8a2c-49f6-b549-6cf136fdc153",
+      "season": 2,
+      "number": 3,
+      "name": "John Travolta",
+      "airdate": "2002-03-19"
+    },
+    {
+      "id": "1ebe2f48-18cb-42d0-b143-836ed1f5fdfd",
+      "season": 2,
+      "number": 4,
+      "name": "Mek Pek",
+      "airdate": "2002-03-26"
+    },
+    {
+      "id": "dc0275b2-8e2c-4cc0-8c11-8f8124a5c013",
+      "season": 2,
+      "number": 5,
+      "name": "Mufufu",
+      "airdate": "2002-04-02"
+    },
+    {
+      "id": "da29182a-bb03-47e4-841a-84bc24abff68",
+      "season": 2,
+      "number": 6,
+      "name": "Michel",
+      "airdate": "2002-04-09"
+    },
+    {
+      "id": "0d6a2cee-6bda-4bc9-b557-cf2e3291f999",
+      "season": 2,
+      "number": 7,
+      "name": "Liva",
+      "airdate": "2002-04-16"
+    },
+    {
+      "id": "56c30dbb-c5f6-4844-95fb-ecb9097c42ce",
+      "season": 2,
+      "number": 8,
+      "name": "Mogens K. Eberhart",
+      "airdate": "2002-04-23"
+    },
+    {
+      "id": "bceffdce-69b4-4dd7-a261-a522e52e8799",
+      "season": 2,
+      "number": 9,
+      "name": "Monsieur Dipp",
+      "airdate": "2002-04-30"
+    },
+    {
+      "id": "9ca5a44a-00d5-4b5c-8ceb-d7cd502af86f",
+      "season": 2,
+      "number": 10,
+      "name": "Oliver",
+      "airdate": "2002-05-07"
+    },
+    {
+      "id": "e61121e6-c0c7-4c27-9ce5-6f42e1540884",
+      "season": 3,
+      "number": 1,
+      "name": "Feng Shui",
+      "airdate": "2002-09-17"
+    },
+    {
+      "id": "42948b5b-c8ab-4836-8707-899e14c45d73",
+      "season": 3,
+      "number": 2,
+      "name": "Kat",
+      "airdate": "2002-09-24"
+    },
+    {
+      "id": "e45d9ef8-a9b1-41a4-b444-baa59b310aa5",
+      "season": 3,
+      "number": 3,
+      "name": "Laust",
+      "airdate": "2002-10-01"
+    },
+    {
+      "id": "7c7415a1-a7c5-413a-9d9d-2e0daf83019a",
+      "season": 3,
+      "number": 4,
+      "name": "Polle Pot",
+      "airdate": "2002-10-08"
+    },
+    {
+      "id": "7cc0502d-1cfb-49ce-9b79-da0d012d71a9",
+      "season": 3,
+      "number": 5,
+      "name": "Bedste, det er bare mig",
+      "airdate": "2002-10-15"
+    },
+    {
+      "id": "90caa93f-a71a-407c-a9e2-70072caa217a",
+      "season": 3,
+      "number": 6,
+      "name": "Tis",
+      "airdate": "2002-10-22"
+    },
+    {
+      "id": "95cb72cc-e8e2-42af-b5d9-2f58eacd4b63",
+      "season": 3,
+      "number": 7,
+      "name": "Jeopardy!",
+      "airdate": "2002-10-29"
+    },
+    {
+      "id": "04a637c8-fb8e-416e-9bdd-e8962d6194ae",
+      "season": 3,
+      "number": 8,
+      "name": "Kærlighed gør blind",
+      "airdate": "2002-11-05"
+    },
+    {
+      "id": "4c567b05-0159-4370-9955-c808b48e0216",
+      "season": 3,
+      "number": 9,
+      "name": "Som søn så far",
+      "airdate": "2002-11-12"
+    },
+    {
+      "id": "07c41820-1dbe-4454-ad13-90120aa30a95",
+      "season": 3,
+      "number": 10,
+      "name": "Det sidste ord",
+      "airdate": "2002-11-19"
+    },
+    {
+      "id": "1a854121-0030-4161-96df-35bb79ab3ddb",
+      "season": 4,
+      "number": 1,
+      "name": "Pressemødet",
+      "airdate": "2003-03-18"
+    },
+    {
+      "id": "7dff33ac-5237-478c-8696-a58a4f923d06",
+      "season": 4,
+      "number": 2,
+      "name": "Don't Wanna Lus You Now",
+      "airdate": "2003-03-25"
+    },
+    {
+      "id": "15ebae2a-319b-4fea-8df1-8b785eecf320",
+      "season": 4,
+      "number": 3,
+      "name": "Starfucker",
+      "airdate": "2003-04-01"
+    },
+    {
+      "id": "12794771-e92d-45ff-81f9-0206ba0e7d47",
+      "season": 4,
+      "number": 4,
+      "name": "Mere møs til Dennis",
+      "airdate": "2003-04-08"
+    },
+    {
+      "id": "ad63d578-a91b-41d9-94a4-dbe69f91b439",
+      "season": 4,
+      "number": 5,
+      "name": "Tino, Gunnar og en hel krukke bolsjer",
+      "airdate": "2003-04-15"
+    },
+    {
+      "id": "f880b231-2051-466d-ab98-1cfe9fb689b9",
+      "season": 4,
+      "number": 6,
+      "name": "Ultimate Kosher",
+      "airdate": "2003-04-22"
+    },
+    {
+      "id": "d1158a1e-5a99-4a63-9863-789e2464aeea",
+      "season": 4,
+      "number": 7,
+      "name": "Arrivederci Kenny",
+      "airdate": "2003-04-29"
+    },
+    {
+      "id": "a8b63225-814b-41b6-a70e-6db2bec6532b",
+      "season": 4,
+      "number": 8,
+      "name": "Nestor",
+      "airdate": "2003-05-06"
+    },
+    {
+      "id": "9b119dfd-1284-4340-9aa9-4ac986c58dac",
+      "season": 4,
+      "number": 9,
+      "name": "Trøstepagten",
+      "airdate": "2003-05-13"
+    },
+    {
+      "id": "201859c3-245d-4f3c-b7b2-d1c3e0095566",
+      "season": 4,
+      "number": 10,
+      "name": "Kammeratstolen",
+      "airdate": "2003-05-20"
+    },
+    {
+      "id": "cbef234b-546d-4aa3-a37c-f40d8c85dcd3",
+      "season": 5,
+      "number": 1,
+      "name": "Skat",
+      "airdate": "2003-09-23"
+    },
+    {
+      "id": "8c4076a7-a19b-4e66-b745-123125d77485",
+      "season": 5,
+      "number": 2,
+      "name": "DVD-aftener",
+      "airdate": "2003-09-30"
+    },
+    {
+      "id": "52cd35b3-999e-4b84-9bfd-4aa260279452",
+      "season": 5,
+      "number": 3,
+      "name": "Den forsølvede barnesko",
+      "airdate": "2003-10-07"
+    },
+    {
+      "id": "27428dcb-bc4c-4a67-acb1-abab1abaddad",
+      "season": 5,
+      "number": 4,
+      "name": "Hvem ka' Lie Kaas?",
+      "airdate": "2003-10-14"
+    },
+    {
+      "id": "84546459-558e-4ce2-91d6-3a6d3b71945b",
+      "season": 5,
+      "number": 5,
+      "name": "Picaspero",
+      "airdate": "2003-10-21"
+    },
+    {
+      "id": "23820fd5-7a53-43cb-9f5e-47ee9049da8d",
+      "season": 5,
+      "number": 6,
+      "name": "Onani",
+      "airdate": "2003-10-28"
+    },
+    {
+      "id": "14ed6e92-c95f-4f2e-8114-fd38afac8c4d",
+      "season": 5,
+      "number": 7,
+      "name": "Who's Your Daddy?",
+      "airdate": "2003-11-04"
+    },
+    {
+      "id": "b9ff7506-fae9-4c1f-b27b-85d7963be43f",
+      "season": 5,
+      "number": 8,
+      "name": "Herretur",
+      "airdate": "2003-11-11"
+    },
+    {
+      "id": "fbf7866d-bf68-4d82-8e8e-05b8fed46638",
+      "season": 5,
+      "number": 9,
+      "name": "Kim og femidomet",
+      "airdate": "2003-11-18"
+    },
+    {
+      "id": "497f8b97-c4ac-4d61-914f-6c2445adc847",
+      "season": 5,
+      "number": 10,
+      "name": "Et fister øjeblik",
+      "airdate": "2003-11-25"
+    }
+  ]
+}

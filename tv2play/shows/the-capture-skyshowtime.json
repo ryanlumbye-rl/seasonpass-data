@@ -1,0 +1,117 @@
+{
+  "id": "tv2play:the-capture-skyshowtime",
+  "name": "The Capture",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En tidligere soldat bliver ved hjælp af videomateriale frikendt for mordet på en krigsfange. Men han kommer hurtigt i søgelyset igen, da sekvenser fra et overvågningskamera viser ham overfalde og bortføre en advokat, som ellers fik ham frikendt.",
+  "image": "https://cdn-play.tv2i.dk/4d72c246-77ba-4554-962b-9eac7cc44bdb.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9429b552-7854-4022-99e7-8ea8e7ab6ca9",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "50d8a964-a2ca-49f5-82e6-6ae9866148be",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "4e5d765d-132c-4dc7-aa90-dc23dfbbf23e",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "4a270764-b6b2-4f7a-bba3-109b2e5a363d",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "bc5863a5-1de8-4ec9-a43e-3609bb40bfa8",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "acf38a18-7d2d-4134-9f10-70ce04eee0cc",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "8cdc5d40-7ae5-4b88-a3f6-6d0d82c7df0c",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "557fd603-74a9-4ffc-99a4-340a21b437f0",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "dfdcb0ba-b57a-44f2-87fe-94e9e38c6408",
+      "season": 2,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "d392060c-df87-4bcd-992d-a0112bfffe5f",
+      "season": 2,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "d2601550-c8b4-4001-9878-ac684ee16330",
+      "season": 2,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "1fedf3ea-5a45-4148-9dfb-5e858a6f1e39",
+      "season": 2,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "72d84f54-e0f3-49c5-8a38-b0a908e425a8",
+      "season": 2,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "703979a2-411b-460f-b5f9-767863d380da",
+      "season": 2,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-08-27"
+    },
+    {
+      "id": "27c0f6c3-c52d-46b0-9039-40ec8986052f",
+      "season": 2,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-08-27"
+    }
+  ]
+}

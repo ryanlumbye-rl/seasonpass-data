@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:rabbit-hole-tv2play",
+  "name": "Rabbit Hole",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "c30dfde1-4aa4-49ec-90fd-14dfadd2c4e1",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "66231e2a-706f-4d8a-bcdf-68d86523ce6f",
+      "season": 1,
+      "number": 2,
+      "name": "At Any Given Moment",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "81fde8da-790d-4363-b3a7-8c4ad39644de",
+      "season": 1,
+      "number": 3,
+      "name": "The Algorithms of Control",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "72877a78-c679-4ad4-a7d4-b97112328b33",
+      "season": 1,
+      "number": 4,
+      "name": "The Person in Your Ear",
+      "airdate": "2023-04-14"
+    },
+    {
+      "id": "c1f4306b-4413-4bb1-a3bc-f28bd93da90c",
+      "season": 1,
+      "number": 5,
+      "name": "Tom",
+      "airdate": "2023-04-21"
+    },
+    {
+      "id": "e467f178-2642-4220-aad2-6d34cab6f89e",
+      "season": 1,
+      "number": 6,
+      "name": "The Playbook",
+      "airdate": "2023-04-28"
+    },
+    {
+      "id": "11b13f12-fc63-47a6-a0d2-8ec19db174ca",
+      "season": 1,
+      "number": 7,
+      "name": "Gilgamesh",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "40f2e710-8f3b-4d86-b27c-272d547f7593",
+      "season": 1,
+      "number": 8,
+      "name": "Ace in the Hole",
+      "airdate": "2023-05-12"
+    }
+  ]
+}

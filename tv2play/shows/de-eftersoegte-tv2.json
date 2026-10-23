@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:de-eftersoegte-tv2",
+  "name": "De eftersøgte",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Få unik adgang til Manchester politis særlige afdeling for organiseret kriminalitet, når gruppen i kapløb med tiden forsøger at opspore farlige kriminelle.",
+  "image": "https://cdn-play.tv2i.dk/24222afb-f058-4b9e-b15f-640bcedd3334.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c338eec7-4e02-45b0-8210-d00665602cdb",
+      "season": 1,
+      "number": 1,
+      "name": "Kidnapning",
+      "airdate": "2025-07-10"
+    },
+    {
+      "id": "708f2c50-24ea-4dae-8362-5521c694b409",
+      "season": 1,
+      "number": 2,
+      "name": "Mord",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "12c6acea-d977-43d5-b548-b1f0d82fc66e",
+      "season": 1,
+      "number": 3,
+      "name": "Pistol",
+      "airdate": "2025-10-13"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:leth-og-pilgaard-indtager-danmark-tv2fri",
+  "name": "Leth og Pilgaard indtager Danmark",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hans Pilgaard og Jørgen Leth er sammen igen, denne gang i Danmark, hvor Hans Pilgaard har inviteret Jørgen på et fælles 'road trip' gennem fædrelandet.",
+  "image": "https://cdn-play.tv2i.dk/f0c7c6f2-b9f9-4ad9-91aa-a765d1f58938.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "71db8dc0-5ffa-4f64-9904-206243675707",
+      "season": 1,
+      "number": 1,
+      "name": "Den virker lidt død i det",
+      "airdate": "2021-08-18"
+    },
+    {
+      "id": "8793c742-a5de-4cf7-bf03-341d89b42ace",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg hader kulde og vind",
+      "airdate": "2021-08-25"
+    },
+    {
+      "id": "56c8575d-0a3d-4647-bdbb-484b41f2d7d1",
+      "season": 1,
+      "number": 3,
+      "name": "Spinat vil jeg ikke have noget med at gøre",
+      "airdate": "2021-09-01"
+    },
+    {
+      "id": "290ab9be-816b-49f6-bbd6-8b3fc539a152",
+      "season": 1,
+      "number": 4,
+      "name": "Jeg skal nok passe på dig, Jørgen…",
+      "airdate": "2021-09-08"
+    },
+    {
+      "id": "82f2f0b5-f8bb-40a0-b566-9820716a0f85",
+      "season": 1,
+      "number": 5,
+      "name": "Dadel mousse - det gider jeg sgu ikke",
+      "airdate": "2021-09-15"
+    },
+    {
+      "id": "b93a576f-13cc-47d2-bd57-5ce048a2bb66",
+      "season": 1,
+      "number": 6,
+      "name": "Camping er ikke Leth",
+      "airdate": "2021-09-22"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:chili-klaus-indtager-norden-tv2fri",
+  "name": "Chili Klaus indtager Norden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I otte programmer rejser Chili Klaus rundt i Norden med en kendt dansker for at komme tættere på vores nordiske brødre og søstre og smage de unikke, lokale delikatesser.",
+  "image": "https://cdn-play.tv2i.dk/21660623-b48c-464e-be81-33dce8a16f26.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C225%2C2400%2C1350&w=1280",
+  "episodes": [
+    {
+      "id": "b97435aa-9194-4ba5-81ac-cfc7536160c9",
+      "season": 1,
+      "number": 1,
+      "name": "Til Færøerne med Jacob Haugaard",
+      "airdate": "2016-09-12"
+    },
+    {
+      "id": "af3288b5-e9db-4715-9c91-cac5fbcdf980",
+      "season": 1,
+      "number": 2,
+      "name": "Til Sverige med Søs Fenger",
+      "airdate": "2016-09-19"
+    },
+    {
+      "id": "ea51fe03-38c8-497c-b7ce-0436cd053ffd",
+      "season": 1,
+      "number": 3,
+      "name": "Til Norge med Ghita Nørby",
+      "airdate": "2016-09-26"
+    },
+    {
+      "id": "5d157d4f-758a-4eb5-a1ef-8732bba12353",
+      "season": 1,
+      "number": 4,
+      "name": "Til Island med Søs Egelind",
+      "airdate": "2016-10-03"
+    },
+    {
+      "id": "f4c2670d-e6fd-472a-9931-383302072120",
+      "season": 1,
+      "number": 5,
+      "name": "Til Grønland med Lasse Rimmer",
+      "airdate": "2016-10-10"
+    },
+    {
+      "id": "27212624-da92-441c-9735-8873914a24e2",
+      "season": 1,
+      "number": 6,
+      "name": "Til Sverige med Uffe Ellemann-Jensen",
+      "airdate": "2016-10-17"
+    },
+    {
+      "id": "52cf6d52-3480-4c86-98d4-dbdacf116dde",
+      "season": 1,
+      "number": 7,
+      "name": "Til Island med Preben Kristensen",
+      "airdate": "2016-10-24"
+    },
+    {
+      "id": "09bf0426-c709-4706-a232-1ed61efd6984",
+      "season": 1,
+      "number": 8,
+      "name": "Til Finland med Kaya Brüel",
+      "airdate": "2016-11-07"
+    }
+  ]
+}

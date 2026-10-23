@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:borgenes-oe-tv2bornholm",
+  "name": "Borgenes ø",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tag med på en opdagelsesrejse til oldtidens Bornholm sammen med arkæolog Christina Seehusen, når hun sætter sig for at finde ud af, hvorfor vi mennesker altid har bekriget hinanden. Oplev, hvordan nutidens sikkerhedspolitiske landskab har rødder i fortidens magtkampe.",
+  "image": "https://cdn-play.tv2i.dk/e799104b-a712-4cd0-ba5c-39e012b05a2b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "79341ba1-b8d2-4aae-b16d-63cc607f4f3c",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-10-27"
+    },
+    {
+      "id": "f57d37ca-954c-4c0f-92e8-5f539bceaac3",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-10-27"
+    },
+    {
+      "id": "7f16cbb7-2d2c-4b8c-adf5-010c14393941",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-10-27"
+    },
+    {
+      "id": "6dba4585-f57d-4a6b-9af0-9a700337332c",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-10-27"
+    }
+  ]
+}

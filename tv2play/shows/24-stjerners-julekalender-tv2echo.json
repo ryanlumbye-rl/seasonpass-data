@@ -1,0 +1,348 @@
+{
+  "id": "tv2play:24-stjerners-julekalender-tv2echo",
+  "name": "24 stjerners julekalender",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Melvin Kakooza har samlet 24 kendte danskere i sin julehytte, hvor de skal dyste om den ærefulde titel som 'Årets julestjerne'.",
+  "image": "https://cdn-play.tv2i.dk/acdbd915-7abb-4fea-be9e-43ea4147913d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f647a0d6-4e24-45c4-8bd1-d047ca97a35d",
+      "season": 1,
+      "number": 1,
+      "name": "Nissens julebanger",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "dfed8a9c-d872-4458-8706-1bee2217f154",
+      "season": 1,
+      "number": 2,
+      "name": "Juleskum",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "29875c50-ac52-4835-a5c2-fcfe046fd5bb",
+      "season": 1,
+      "number": 3,
+      "name": "Drillenissen",
+      "airdate": "2024-12-03"
+    },
+    {
+      "id": "16bcc0f4-d230-4bd9-855e-745b5764d3cc",
+      "season": 1,
+      "number": 4,
+      "name": "Juleafslutning",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "77cdb43d-a58f-4c8f-813f-ed8f4668b847",
+      "season": 1,
+      "number": 5,
+      "name": "Julebag",
+      "airdate": "2024-12-05"
+    },
+    {
+      "id": "3a2840d0-1333-4ce8-b16c-9b32a9182658",
+      "season": 1,
+      "number": 6,
+      "name": "Jo færre klementiner jo bedre",
+      "airdate": "2024-12-06"
+    },
+    {
+      "id": "b39f498b-a35b-4547-b24a-28668235ec3c",
+      "season": 1,
+      "number": 7,
+      "name": "Julestress",
+      "airdate": "2024-12-07"
+    },
+    {
+      "id": "b0b655ad-23c3-4460-8f6f-cc66000ac119",
+      "season": 1,
+      "number": 8,
+      "name": "Lysenes fest",
+      "airdate": "2024-12-08"
+    },
+    {
+      "id": "b9af526c-e5a7-4651-a82b-3dd98f9cc568",
+      "season": 1,
+      "number": 9,
+      "name": "Klippe-klistre",
+      "airdate": "2024-12-09"
+    },
+    {
+      "id": "c9ac893f-e6ec-42c3-a753-86c622ac7662",
+      "season": 1,
+      "number": 10,
+      "name": "På loftet sidder nissen…",
+      "airdate": "2024-12-10"
+    },
+    {
+      "id": "57f85cd2-e87e-437b-b766-8d210d9e9e8f",
+      "season": 1,
+      "number": 11,
+      "name": "Juleklassiker",
+      "airdate": "2024-12-11"
+    },
+    {
+      "id": "3d5b9cd9-3bad-47a0-808e-b874216747fc",
+      "season": 1,
+      "number": 12,
+      "name": "Julefrokosten",
+      "airdate": "2024-12-12"
+    },
+    {
+      "id": "0e3019fd-daa2-4fb5-9475-b18ea0843d59",
+      "season": 1,
+      "number": 13,
+      "name": "Luciadag",
+      "airdate": "2024-12-13"
+    },
+    {
+      "id": "8d731501-ae1a-444c-9199-85b94c8249cf",
+      "season": 1,
+      "number": 14,
+      "name": "Julegaver",
+      "airdate": "2024-12-14"
+    },
+    {
+      "id": "604cdc2a-02f0-48a0-bc69-77d0e389dccf",
+      "season": 1,
+      "number": 15,
+      "name": "Julen varer længe. Koster mange penge",
+      "airdate": "2024-12-15"
+    },
+    {
+      "id": "7ca01532-5ee1-4b04-88ed-d32da59ee2f2",
+      "season": 1,
+      "number": 16,
+      "name": "Julemanden",
+      "airdate": "2024-12-16"
+    },
+    {
+      "id": "5dcf30ac-b93c-46cd-89f3-7f2c8c9d8b02",
+      "season": 1,
+      "number": 17,
+      "name": "Det skete i de dage…",
+      "airdate": "2024-12-17"
+    },
+    {
+      "id": "fc1d2fd5-0f1f-4d7a-84db-9a20570dca14",
+      "season": 1,
+      "number": 18,
+      "name": "Julesnapsen",
+      "airdate": "2024-12-18"
+    },
+    {
+      "id": "898eceb7-bfcc-4830-9bcb-b62d90ef988d",
+      "season": 1,
+      "number": 19,
+      "name": "Last jule christmas",
+      "airdate": "2024-12-19"
+    },
+    {
+      "id": "283b003c-3ed5-4898-b651-e2b50848283d",
+      "season": 1,
+      "number": 20,
+      "name": "Pakkeleg",
+      "airdate": "2024-12-20"
+    },
+    {
+      "id": "75a01a26-a296-46f6-b0fa-83c24bf4d9c3",
+      "season": 1,
+      "number": 21,
+      "name": "Hvem holder julemasken?",
+      "airdate": "2024-12-21"
+    },
+    {
+      "id": "e668c15c-94c6-4361-95c4-d2e54c84d8fe",
+      "season": 1,
+      "number": 22,
+      "name": "Julemad",
+      "airdate": "2024-12-22"
+    },
+    {
+      "id": "fe2022d4-2178-4d4b-a217-2de755351cb3",
+      "season": 1,
+      "number": 23,
+      "name": "Julestorm",
+      "airdate": "2024-12-23"
+    },
+    {
+      "id": "3cc5fd1e-d1c5-4d92-9ff9-ed5d71459bff",
+      "season": 1,
+      "number": 24,
+      "name": "Mandelgaven",
+      "airdate": "2024-12-24"
+    },
+    {
+      "id": "b9fa4de4-ae26-43ba-876e-a601b0d4a9aa",
+      "season": 2,
+      "number": 1,
+      "name": "Absolut jul",
+      "airdate": "2025-12-01"
+    },
+    {
+      "id": "8d405ba5-0633-40cc-a878-5cd2464fa479",
+      "season": 2,
+      "number": 2,
+      "name": "The Julekalender",
+      "airdate": "2025-12-02"
+    },
+    {
+      "id": "62c02469-74ea-4acc-b69a-1d6598ae7dfa",
+      "season": 2,
+      "number": 3,
+      "name": "Den glade julegris",
+      "airdate": "2025-12-03"
+    },
+    {
+      "id": "57be964b-7386-4359-b5f4-cda2b22ff8c8",
+      "season": 2,
+      "number": 4,
+      "name": "Jul i familiens skød",
+      "airdate": "2025-12-04"
+    },
+    {
+      "id": "f490ca45-2d5a-4455-9d46-798dc0352311",
+      "season": 2,
+      "number": 5,
+      "name": "Julekop-cup",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "d13dae48-1e39-441f-93d0-75108a94453a",
+      "season": 2,
+      "number": 6,
+      "name": "Ønskeskyen",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "8eec5d61-d7b7-47b1-a132-98adc2523122",
+      "season": 2,
+      "number": 7,
+      "name": "Julesange",
+      "airdate": "2025-12-07"
+    },
+    {
+      "id": "d7382fc6-f2cc-4475-97a9-5dd44e94bb33",
+      "season": 2,
+      "number": 8,
+      "name": "Julegavegemmeleg",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "96b3afa6-198c-48f8-b001-6cc4c9319028",
+      "season": 2,
+      "number": 9,
+      "name": "Julepost fra nord",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "6a0a57b0-5ef7-4280-a0a6-4ac6dc04e588",
+      "season": 2,
+      "number": 10,
+      "name": "Julemandens værksted",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "849f20a1-691b-4181-9e1f-6db5956a0c2e",
+      "season": 2,
+      "number": 11,
+      "name": "Julehygge",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "b839e40f-1ddb-43ad-83c1-e570deecb25b",
+      "season": 2,
+      "number": 12,
+      "name": "Et barn er født i Betlehem",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "2cd0d0ae-421b-455a-9e1e-5bb6ecc3f681",
+      "season": 2,
+      "number": 13,
+      "name": "Combat Lucia",
+      "airdate": "2025-12-13"
+    },
+    {
+      "id": "05a89404-9a4f-41f5-9a32-aac59e1e24a5",
+      "season": 2,
+      "number": 14,
+      "name": "Julegudstjeneste",
+      "airdate": "2025-12-14"
+    },
+    {
+      "id": "8891ccd5-385f-4215-ac42-216e2e92b8d1",
+      "season": 2,
+      "number": 15,
+      "name": "Julemandens natmad",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "dfbf3667-109c-482f-969c-708233ac1a2d",
+      "season": 2,
+      "number": 16,
+      "name": "Jule-tam-tam",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "9d2a5373-0e4c-419b-9599-93de094b7e0a",
+      "season": 2,
+      "number": 17,
+      "name": "Grød, fløde og løgne",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "f1d31663-4f45-4e88-b1ed-fd3da8e130af",
+      "season": 2,
+      "number": 18,
+      "name": "Dreaming of a white christmas",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "ccd29c34-c780-4f9b-b47f-774d0f1e302a",
+      "season": 2,
+      "number": 19,
+      "name": "Svigermord i hamsterjulen",
+      "airdate": "2025-12-19"
+    },
+    {
+      "id": "1b901324-9719-4650-be48-01d2046f27c9",
+      "season": 2,
+      "number": 20,
+      "name": "Alle de små rotter",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "a517dc35-c587-477b-881c-9daf63c124f8",
+      "season": 2,
+      "number": 21,
+      "name": "Jul i Tivoli",
+      "airdate": "2025-12-21"
+    },
+    {
+      "id": "4e889c20-cbe0-4458-bbce-4cf251368edf",
+      "season": 2,
+      "number": 22,
+      "name": "Det store, kolde julebord",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "d56c631d-f7cc-44cb-b787-ae156a1ee9a2",
+      "season": 2,
+      "number": 23,
+      "name": "Driving home for Christmas",
+      "airdate": "2025-12-23"
+    },
+    {
+      "id": "8fecb034-e77f-41b7-b8eb-ee724cce2d27",
+      "season": 2,
+      "number": 24,
+      "name": "Nu' det jul igen…",
+      "airdate": "2025-12-24"
+    }
+  ]
+}

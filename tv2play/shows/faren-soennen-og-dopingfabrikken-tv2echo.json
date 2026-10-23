@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:faren-soennen-og-dopingfabrikken-tv2echo",
+  "name": "Faren, sønnen og dopingfabrikken",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Bag drømmen om den perfekte krop gemmer sig en mørk sandhed. Macaulays rejse fra spinkel teenager til muskuløs mand afslører ikke kun et farligt steroidmisbrug – men også et splittet far-søn forhold og en kriminel konspiration til millioner.",
+  "image": "https://cdn-play.tv2i.dk/24e15e68-3155-4df0-aced-973d20b7afee.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C4240%2C2385&w=1280",
+  "episodes": [
+    {
+      "id": "41a7ebf9-7e03-4afb-a948-efe574c83de2",
+      "season": 1,
+      "number": 1,
+      "name": "Vejen til et imperium",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "8c5a1d56-2ff0-486c-83f5-a7481d0b08cd",
+      "season": 1,
+      "number": 2,
+      "name": "Kontanter i baghaven",
+      "airdate": "2025-10-27"
+    }
+  ]
+}

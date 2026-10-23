@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:your-honor-skyshowtime",
+  "name": "Your Honor",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Bryan Cranston spiller hovedrollen som en dommer med base i New Orleans, der er tvunget til at konfrontere sine dybeste overbevisninger, da hans søn flygter fra en bilulykke, som implicerer en familie med rod i organiseret kriminalitet.",
+  "image": "https://cdn-play.tv2i.dk/c39c4ec4-aa39-45c9-bdb5-51a1f3bccf48.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2be3d852-aa18-4d54-9eec-ce25b4ac4f47",
+      "season": 1,
+      "number": 1,
+      "name": "Part One",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "f05363a7-c439-49f5-b2e8-50c939bc5fa1",
+      "season": 1,
+      "number": 2,
+      "name": "Part Two",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "5f044b24-20a1-43a4-81a0-2c9a2690f229",
+      "season": 1,
+      "number": 3,
+      "name": "Part Three",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "396a1d08-fcb4-410d-bcf1-13e454fe072a",
+      "season": 1,
+      "number": 4,
+      "name": "Part Four",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "47c7f86c-4871-41f5-a328-5dc8769617fd",
+      "season": 1,
+      "number": 5,
+      "name": "Part Five",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "70bff330-40aa-4358-a86b-579dc4cac33b",
+      "season": 1,
+      "number": 6,
+      "name": "Part Six",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "445bf07f-f4fe-4d4e-af6e-3f8c2048fcbd",
+      "season": 1,
+      "number": 7,
+      "name": "Part Seven",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "7e437944-b2a3-4c92-ba08-e159e2ef8660",
+      "season": 1,
+      "number": 8,
+      "name": "Part Eight",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "8222358f-9032-4490-8134-d7511fe59411",
+      "season": 1,
+      "number": 9,
+      "name": "Part Nine",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "f73817c9-7f9d-4b0b-b5ad-75f67407f149",
+      "season": 1,
+      "number": 10,
+      "name": "Part Ten",
+      "airdate": "2021-12-07"
+    }
+  ]
+}

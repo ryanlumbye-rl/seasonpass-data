@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "TV2 Bornholm er med på Wonderfestiwall 2026, hvor vi hver dag møder nogle af de artister, der skal optræde på festivalens scener, til en snak om deres musik.",
+  "image": "https://cdn-play.tv2i.dk/293e0b66-5ebf-3582-b289-f9658e27fb97.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "e1169913-c184-4b03-9413-4421d00a76a9",

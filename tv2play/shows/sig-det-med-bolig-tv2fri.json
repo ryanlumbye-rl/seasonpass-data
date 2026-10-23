@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:sig-det-med-bolig-tv2fri",
+  "name": "Sig det med bolig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lene Beier forærer en bolig-makeover til en person, som virkelig fortjener det.",
+  "image": "https://cdn-play.tv2i.dk/0db8428a-f3f0-4454-888a-20a9c1422306.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "907f0d56-495d-49ab-9236-8389a3d511d9",
+      "season": 1,
+      "number": 1,
+      "name": "En hjælpende hånd i Gl. Havdrup",
+      "airdate": "2018-04-04"
+    },
+    {
+      "id": "fd0c4a25-ab58-4e7f-abeb-573496539e0d",
+      "season": 1,
+      "number": 2,
+      "name": "En hjælpende hånd i Dragør",
+      "airdate": "2018-04-11"
+    },
+    {
+      "id": "375ccccf-3bb1-49e4-9253-95cedf49c55d",
+      "season": 1,
+      "number": 3,
+      "name": "En hjælpende hånd på Amager",
+      "airdate": "2018-04-18"
+    },
+    {
+      "id": "50a51519-628f-4445-80f4-866988c4ab16",
+      "season": 1,
+      "number": 4,
+      "name": "En hjælpende hånd i Frederiksværk",
+      "airdate": "2018-04-25"
+    },
+    {
+      "id": "1e4151df-fecb-4c76-b90d-85db89b868dc",
+      "season": 1,
+      "number": 5,
+      "name": "En hjælpende hånd i Djursland",
+      "airdate": "2018-05-02"
+    },
+    {
+      "id": "5d059831-1c5b-4686-8c30-fe4834122cf5",
+      "season": 1,
+      "number": 6,
+      "name": "En hjælpende hånd i Nyborg",
+      "airdate": "2018-05-09"
+    },
+    {
+      "id": "5f6cce65-02eb-4f23-a676-544d6ae84890",
+      "season": 1,
+      "number": 7,
+      "name": "En hjælpende hånd i Viborg",
+      "airdate": "2018-05-16"
+    },
+    {
+      "id": "e8ee9814-4551-4451-86f7-9b9097b09cef",
+      "season": 1,
+      "number": 8,
+      "name": "En hjælpende hånd i Vojens",
+      "airdate": "2018-05-23"
+    },
+    {
+      "id": "73794ae1-60cc-4636-9366-31b81eab9035",
+      "season": 1,
+      "number": 9,
+      "name": "En hjælpende hånd i Karlslunde",
+      "airdate": "2018-05-30"
+    }
+  ]
+}

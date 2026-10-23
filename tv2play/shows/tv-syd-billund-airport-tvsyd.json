@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:tv-syd-billund-airport-tvsyd",
+  "name": "Billund Airport",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De skal sørge for sikkerhed og fly til tiden for mere end fire millioner passagerer hvert år. Tag med Billund Airports ansatte på arbejde.",
+  "image": "https://cdn-play.tv2i.dk/139228f3-999a-4caa-a6bf-abcd655d9e62.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "95628c7c-a024-4fad-8afb-16e448fa4c6a",
+      "season": 1,
+      "number": 1,
+      "name": "Forsinkede passagerer",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "5510ce1e-594e-4949-a4ae-d63ac964ebc6",
+      "season": 1,
+      "number": 2,
+      "name": "Skuffede søstre",
+      "airdate": "2025-03-08"
+    },
+    {
+      "id": "21ce7627-cb12-4619-b366-4b75797f2f05",
+      "season": 1,
+      "number": 3,
+      "name": "Ulovlige genstande i Security",
+      "airdate": "2025-03-15"
+    },
+    {
+      "id": "c1944c39-7a29-4be6-a688-85caa67faa8c",
+      "season": 1,
+      "number": 4,
+      "name": "Gravid kvinde afvises",
+      "airdate": "2025-03-22"
+    },
+    {
+      "id": "e3e87b20-574b-46e9-90b9-d2ee039fd453",
+      "season": 1,
+      "number": 5,
+      "name": "Pige får ildebefindende",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "7f7f876d-1d0d-4f51-9f43-b803f62a9fa2",
+      "season": 1,
+      "number": 6,
+      "name": "Farlige fugle på landingsbanen",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "69d0369b-7937-45fe-944a-80591d3fd6af",
+      "season": 1,
+      "number": 7,
+      "name": "Utilfredse passagerer",
+      "airdate": "2025-04-12"
+    },
+    {
+      "id": "9573bb32-adf5-4137-adc5-651c240fc4e7",
+      "season": 1,
+      "number": 8,
+      "name": "Lufthavnspolitiet i aktion",
+      "airdate": "2025-04-19"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:alt-for-charlie-tvmidtvest",
+  "name": "Alt for Charlie",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Charlie er født med en virus, der har skadet hans hjerne. Hjerneskaden har krævet store ændringer i familiens liv. Nu er det forældrenes mål at få Charlie til at gå.",
+  "image": "https://cdn-play.tv2i.dk/b3f521f8-915b-41ea-815f-441617ac9f23.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C4032%2C2268&w=1280",
+  "episodes": [
+    {
+      "id": "c9dd36db-2309-4e13-a7e6-18efb5904eca",
+      "season": 1,
+      "number": 1,
+      "name": "Mor og far tror på dig",
+      "airdate": "2025-05-12"
+    },
+    {
+      "id": "ef34e44c-90fc-4bc4-9c52-1c589d2b7e73",
+      "season": 1,
+      "number": 2,
+      "name": "Det første rul",
+      "airdate": "2025-05-19"
+    },
+    {
+      "id": "67ac01f9-aca2-4da5-8b7d-44e876dd5e12",
+      "season": 1,
+      "number": 3,
+      "name": "To år og flyvende i gåvogn",
+      "airdate": "2025-05-26"
+    }
+  ]
+}

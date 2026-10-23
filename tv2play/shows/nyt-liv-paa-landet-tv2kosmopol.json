@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:nyt-liv-paa-landet-tv2kosmopol",
+  "name": "Nyt liv på landet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Stadig flere drømmer om et liv på landet. Emma har sagt farvel til det lette liv i København for at dyrke grøntsager. Adam og Karen har forladt byen til fordel for et nedslidt landbrug og ambitionen om at blive moderne vinbønder",
+  "image": "https://cdn-play.tv2i.dk/edf064a2-4bf1-445d-80d8-1f768dca4563.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "ae7fbdb3-3c16-4f3d-80ee-67ed0268a8bb",
+      "season": 1,
+      "number": 1,
+      "name": "Fra byboer til jordbruger",
+      "airdate": "2025-01-05"
+    },
+    {
+      "id": "3c6efd14-d15a-4d18-9a75-7eba87ae9d10",
+      "season": 1,
+      "number": 2,
+      "name": "Hvad skal vi leve af?",
+      "airdate": "2025-01-05"
+    },
+    {
+      "id": "9504d9c4-a5d6-4fa6-b4be-4af772795442",
+      "season": 1,
+      "number": 3,
+      "name": "Mere arbejde – mere mening",
+      "airdate": "2025-01-05"
+    },
+    {
+      "id": "3db4d9ea-12d5-499f-8f25-0cf5a830b53d",
+      "season": 1,
+      "number": 4,
+      "name": "Høst og årsopgørelse",
+      "airdate": "2025-01-05"
+    }
+  ]
+}

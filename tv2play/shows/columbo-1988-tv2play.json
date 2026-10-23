@@ -1,11 +1,144 @@
 {
   "id": "tv2play:columbo-1988-tv2play",
   "name": "Columbo (1988)",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "3cc1e569-37d9-4c21-aa98-86b42469d512",
+      "season": 1,
+      "number": 1,
+      "name": "Columbo ender i Guillotinen",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "aa8610b5-8f77-4ee2-a4de-1e03a7bb53d1",
+      "season": 1,
+      "number": 2,
+      "name": "Mord, røg og skygger",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "1353ad3f-f39e-4b9a-8820-52f3693d6b3b",
+      "season": 1,
+      "number": 3,
+      "name": "Frække fristelser",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "969b97e7-c213-40fe-93bd-4d9c18d887a2",
+      "season": 1,
+      "number": 4,
+      "name": "Bedrag i stort format",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "2e5b1ac8-8770-403a-bf77-31a60a01b8ba",
+      "season": 1,
+      "number": 5,
+      "name": "Selvportræt af en morder",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "e42c83e1-b3df-4df6-b12e-a1e68c589c95",
+      "season": 2,
+      "number": 1,
+      "name": "Ulven kommer",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "8f530117-d4a9-473a-a92f-6084cc9cb350",
+      "season": 2,
+      "number": 2,
+      "name": "Mord på dagsordenen",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "f546e182-4c65-4095-b4cc-f2d60049f1c5",
+      "season": 2,
+      "number": 3,
+      "name": "Hvil i fred, mrs. Columbo",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "42b79733-2768-41f4-971d-944eeb46b034",
+      "season": 2,
+      "number": 4,
+      "name": "Utrygt hviler et kronet hoved",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "4f623722-2a44-439d-a1c2-3a985bb78d04",
+      "season": 2,
+      "number": 5,
+      "name": "Mord i Malibu",
+      "airdate": "2023-09-06"
+    },
+    {
+      "id": "30777970-5441-4f32-b706-8b15abb90668",
+      "season": 3,
+      "number": 1,
+      "name": "Columbo på universitetet",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "63dccbaf-f7d8-44c6-9ab0-20d9a8f023d9",
+      "season": 3,
+      "number": 2,
+      "name": "Mord kan være skadeligt for helbredet",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "0d38cae6-a71f-47c3-b9d1-62e5f55fecd5",
+      "season": 3,
+      "number": 3,
+      "name": "Mordet på en rockstjerne",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "c46417b9-5dd1-49c5-a4ac-aedd91abf99c",
+      "season": 4,
+      "number": 1,
+      "name": "Døden rammer jackpot",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "1f337fd4-e9f4-4382-8c47-2533f97015dd",
+      "season": 4,
+      "number": 2,
+      "name": "Ikke tid til at dø",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "ee558509-84c8-4378-86ec-db970fc8725e",
+      "season": 5,
+      "number": 1,
+      "name": "Én fugl i hånden",
+      "airdate": "2025-06-24"
+    },
+    {
+      "id": "05c5ce2f-2416-4222-9a02-acdd68b69b1c",
+      "season": 5,
+      "number": 2,
+      "name": "Med på legen",
+      "airdate": "2025-06-24"
+    },
+    {
+      "id": "75b60d87-73c1-405e-a049-c1fefd0c2ce1",
+      "season": 5,
+      "number": 3,
+      "name": "Dræbende afsløringer",
+      "airdate": "2025-06-24"
+    },
+    {
+      "id": "0820ea0c-5e5b-495f-9244-04db53592a4e",
+      "season": 5,
+      "number": 4,
+      "name": "Den forsvundne formue",
+      "airdate": "2025-06-24"
+    },
     {
       "id": "1c4ac2ad-04c8-49e6-90b3-986d951db892",
       "season": 6,
@@ -41,5 +174,7 @@
       "name": "Columbo Likes the Nightlife",
       "airdate": "2026-09-16"
     }
-  ]
+  ],
+  "description": "Den ydmyge og elskværdige Los Angeles-drabsdetektiv Columbo bruger en ukonventionel og ligetil tilgang til at løse de mest forbløffende mord.",
+  "image": "https://cdn-play.tv2i.dk/8d2b33a2-ae53-458c-b0a9-89273b3605a5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

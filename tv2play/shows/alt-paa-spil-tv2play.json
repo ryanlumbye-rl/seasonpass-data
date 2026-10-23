@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:alt-paa-spil-tv2play",
+  "name": "Alt på spil",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Travsporten er i store problemer, men på verdens mindste travbane på Bornholm kæmper man for at vende udviklingen. Derfor sættes alt på spil - både på og uden for banen.",
+  "image": "https://cdn-play.tv2i.dk/70b4f6b7-f7c2-4e7d-8f2e-c7056bbfacf1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b04a3940-195c-4016-a481-30560bc70db3",
+      "season": 1,
+      "number": 1,
+      "name": "Familieopgøret",
+      "airdate": "2026-01-04"
+    },
+    {
+      "id": "f9e1c6a4-ac91-4028-a0b6-aecb3d52d524",
+      "season": 1,
+      "number": 2,
+      "name": "Modvind i sporten",
+      "airdate": "2026-01-04"
+    },
+    {
+      "id": "a1e4e83b-d72f-4545-a339-b2d89d05f8ca",
+      "season": 1,
+      "number": 3,
+      "name": "Hattrick",
+      "airdate": "2026-01-04"
+    },
+    {
+      "id": "f660821e-bf8d-45b0-b261-c06e7750905c",
+      "season": 1,
+      "number": 4,
+      "name": "Mesterskabsdagen",
+      "airdate": "2026-01-04"
+    },
+    {
+      "id": "463820db-4c64-4140-b28c-6982bbe6bdd3",
+      "season": 1,
+      "number": 5,
+      "name": "Den sidste løbsdag",
+      "airdate": "2026-01-04"
+    }
+  ]
+}

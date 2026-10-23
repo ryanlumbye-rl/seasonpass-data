@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:ingemann-og-balkan-i-flammer-tv2",
+  "name": "Ingemann og Balkan i flammer",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I sommeren 1992 bryder en brutal krig ud på Balkan, hvor nære venner pludselig bliver dødsfjender. Peter Ingemann rejser tilbage til det tidligere Jugoslavien for at forstå vanviddet, 30 år efter krigen sluttede.",
+  "image": "https://cdn-play.tv2i.dk/6d973731-53de-4018-be4c-87850b34f67a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "74072380-dd74-482d-88c4-31bce652377e",
+      "season": 1,
+      "number": 1,
+      "name": "Livstegn fra Belma Nielsen",
+      "airdate": "2025-10-26"
+    },
+    {
+      "id": "26e5e4aa-184a-4439-8ecd-81b7b1faabbc",
+      "season": 1,
+      "number": 2,
+      "name": "Jeppe og dødens tunnel",
+      "airdate": "2025-11-02"
+    },
+    {
+      "id": "f12c4580-9bec-45b2-ae04-9f95c1f5e973",
+      "season": 1,
+      "number": 3,
+      "name": "Torben og Ramos kamp",
+      "airdate": "2025-11-09"
+    }
+  ]
+}

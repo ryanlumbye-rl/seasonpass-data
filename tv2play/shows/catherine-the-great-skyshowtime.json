@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:catherine-the-great-skyshowtime",
+  "name": "Catherine the Great",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mod slutningen af hendes regeringstid tager Katarina den Store rådgiver Grigory Potemkin som elsker.",
+  "image": "https://cdn-play.tv2i.dk/61cd9b42-295e-4704-bf1c-8325ba99ce85.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "107ce593-1d1a-42d0-8ccb-bdc1e1a61f86",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ab73553c-3ae6-4db9-9cd5-80de7ab93cd2",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "68c23caf-c625-45dd-bfb2-e626e47a730b",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

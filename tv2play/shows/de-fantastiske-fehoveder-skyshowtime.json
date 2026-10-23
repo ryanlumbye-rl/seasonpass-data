@@ -1,0 +1,474 @@
+{
+  "id": "tv2play:de-fantastiske-fehoveder-skyshowtime",
+  "name": "De fantastiske fehoveder",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "10-årige Timmy Turner kæmper med skolen og opvæksten. Hans magiske ønskegivende fe-gudforældre er, ivrige efter at hjælpe - men forårsager ofte flere problemer, end de løser!",
+  "image": "https://cdn-play.tv2i.dk/53a7fba1-2674-4dd6-8ac7-1cbf47dfc849.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6e3c9bbf-5b30-4723-9ed8-c049e5cc9555",
+      "season": 7,
+      "number": 1,
+      "name": "Anti-Poof",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "04309e00-dc58-41e2-a6e7-b11652d0c7fa",
+      "season": 7,
+      "number": 2,
+      "name": "Tilføj-en-far",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "5681494c-114f-46c9-926c-586849a730d6",
+      "season": 7,
+      "number": 3,
+      "name": "Mus-kapader",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "f88edb6c-fc9d-4827-b1c8-11006a6b4baf",
+      "season": 7,
+      "number": 4,
+      "name": "Dårlig arvingedag",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "c82386a6-99a3-4642-91d9-33f09aac519a",
+      "season": 7,
+      "number": 5,
+      "name": "Fluedreng",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "ccf232e0-fc30-4f50-b6cb-a75fdce9f279",
+      "season": 7,
+      "number": 6,
+      "name": "Crocker Shocker",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "f9f3a4d8-dc86-484c-b656-a5a89e2f9fca",
+      "season": 7,
+      "number": 7,
+      "name": "Farbracadabra",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "908129a5-e4eb-485e-adf9-2764be466752",
+      "season": 7,
+      "number": 8,
+      "name": "En mand forbudt",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "91ed22bc-1682-4b0a-aae6-4856b60cc098",
+      "season": 7,
+      "number": 9,
+      "name": "Skoldpoofs",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "19ca2c00-3612-47a3-b8c1-f4958dd962bb",
+      "season": 7,
+      "number": 10,
+      "name": "Dobbelt Oh Schnozmo",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "71e36418-44b1-4ebb-92c5-966c8a4bcc08",
+      "season": 7,
+      "number": 11,
+      "name": "Min chef",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "24258288-87d2-43ec-984c-5428dae1d1c3",
+      "season": 7,
+      "number": 12,
+      "name": "Den værste... legeaftale",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "67621c89-faa6-4917-b645-f60546021556",
+      "season": 7,
+      "number": 13,
+      "name": "Manisk mor-dag",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "d18d19f8-2d41-4849-ab46-34d5936b400a",
+      "season": 7,
+      "number": 14,
+      "name": "Polternørder",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "6477c39b-76ae-4590-95c6-e0b6a8765f3b",
+      "season": 7,
+      "number": 15,
+      "name": "Melbalancen",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "3fe1d1ea-443a-43c6-9b6b-9b23f47debb0",
+      "season": 7,
+      "number": 16,
+      "name": "Madkamp",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "07b13b57-6876-4eb8-b6bd-b31ed010007f",
+      "season": 7,
+      "number": 17,
+      "name": "Tag og falsk",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "514b3681-7319-4efe-bd9d-a49716f6b0a3",
+      "season": 7,
+      "number": 18,
+      "name": "Slukket lys",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "54f63949-1fbb-4ce1-9a2b-1c04abadb4a0",
+      "season": 7,
+      "number": 19,
+      "name": "Hus til gård",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "203a7ac3-9bea-4007-ba2a-763d8b98f9b8",
+      "season": 7,
+      "number": 20,
+      "name": "Mission Dinkleberg",
+      "airdate": "2023-09-18"
+    },
+    {
+      "id": "ae25fa40-b0bb-471d-a3f2-0397bcb28710",
+      "season": 9,
+      "number": 1,
+      "name": "Den Fantastiske Fe-hund",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "eaa8b691-b8dc-4eb8-bcde-062fe86b09a1",
+      "season": 9,
+      "number": 2,
+      "name": "Jeg drømmer om Cosmo",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "d40358b9-3a6b-406b-b13b-0d35368fb303",
+      "season": 9,
+      "number": 3,
+      "name": "TurneTurner & Hund",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "6488a367-4df5-487d-81f3-68a1212281a7",
+      "season": 9,
+      "number": 4,
+      "name": "Den Djævelske Duo",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "97bdd036-61a4-43ec-b9a7-1df23c876c5b",
+      "season": 9,
+      "number": 5,
+      "name": "Naturkræfter",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "7b3bed0f-f56c-4910-9199-7c2f114d50dd",
+      "season": 9,
+      "number": 6,
+      "name": "Det Grusomme Gudbarn",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "cee2be1a-f414-4137-8e14-6be5c5f003b6",
+      "season": 9,
+      "number": 7,
+      "name": "To og en halv babyer",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "095ffa97-0a25-4635-997a-3672d4352c2c",
+      "season": 9,
+      "number": 8,
+      "name": "Find Emo",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "b26a75e5-b834-4069-a43b-877599725140",
+      "season": 9,
+      "number": 9,
+      "name": "Agent Kedelig",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "9f2cfaf9-61f6-4cf3-a5b8-3599554d4ec5",
+      "season": 9,
+      "number": 10,
+      "name": "Når hunden er ude",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "e94c998b-93d4-46ef-a81e-db4505704299",
+      "season": 9,
+      "number": 11,
+      "name": "Cosmonopoly",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "7b123d02-e1c8-4864-8449-ce2f2fa89bca",
+      "season": 9,
+      "number": 12,
+      "name": "En dreng og hans hundedreng",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "1b7af94c-fe28-4785-a7a8-f506566a6ac0",
+      "season": 9,
+      "number": 13,
+      "name": "Fæhoveder på et tog",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "efd6e49f-7e90-4b71-8a91-0c5dbf7fb879",
+      "season": 9,
+      "number": 14,
+      "name": "Det Hemmelige Kodeord",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "50dd7e31-c528-4956-a7ed-529439782a66",
+      "season": 9,
+      "number": 15,
+      "name": "Åndssvage Ænder",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "58ea6458-f233-4e21-96c0-dae68b936682",
+      "season": 9,
+      "number": 16,
+      "name": "Kærlighed ved første vov",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "e232148b-b442-4285-ba16-a5c2a96d2031",
+      "season": 9,
+      "number": 17,
+      "name": "Fjols i forskellige former",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "213d4bb9-8c4b-4e7e-b68d-3208fc0f109c",
+      "season": 9,
+      "number": 18,
+      "name": "Transformeret til Turner",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "882a9d16-5d54-486f-b4c3-64296c43b78c",
+      "season": 9,
+      "number": 19,
+      "name": "Sceneskræk",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "41135be7-761f-45fe-b8fe-e05b73ce82de",
+      "season": 9,
+      "number": 20,
+      "name": "Det Fantastiske Fehovede",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "3f7944ca-9a7c-48fa-9a10-60e65cf9dc5f",
+      "season": 9,
+      "number": 21,
+      "name": "En skole med Crock i",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "6fa3faed-cb78-4c3a-9129-768921f90479",
+      "season": 9,
+      "number": 22,
+      "name": "Dimmsdalefortællinger",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "cf225eb4-8b6e-4d98-98cd-c4c0f9a4573d",
+      "season": 9,
+      "number": 23,
+      "name": "Til fortiden og tilbage igen",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "965e61c2-0443-4e29-bcad-baefcb965f64",
+      "season": 9,
+      "number": 24,
+      "name": "En Fe'ed Begyndelse",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "7418d854-3fd4-47b2-a335-42ba45318475",
+      "season": 9,
+      "number": 25,
+      "name": "Et fantastisk eventyr",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "81b9d840-c30b-4dfd-91cc-aaebbbd81e68",
+      "season": 9,
+      "number": 26,
+      "name": "Menneskets værste ven",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "9a2dc5c5-5a8c-4322-951f-8898d357b20f",
+      "season": 10,
+      "number": 1,
+      "name": "Dele-feer",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "d784cfc8-01fc-45e1-85e2-65341dea4ebb",
+      "season": 10,
+      "number": 2,
+      "name": "Snitten Wanda",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "0f752c36-7f59-4829-83a3-5e531fb94627",
+      "season": 10,
+      "number": 3,
+      "name": "Egernpigen - Fødselsdagskamp",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "4ca96969-4ea8-4d5e-8c06-b6b42275fab9",
+      "season": 10,
+      "number": 4,
+      "name": "Fair Bears",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "9c9b05d0-5b2f-472a-a7b6-e55c412fd472",
+      "season": 10,
+      "number": 5,
+      "name": "Skærfeksem - En fisk på land",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "30ace22e-ba59-4795-b40e-e388194469ce",
+      "season": 10,
+      "number": 6,
+      "name": "Crockerdyr - En sindssyg forkølelse",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "d55a66a0-837b-49fc-a92f-a3c7125c9dd0",
+      "season": 10,
+      "number": 7,
+      "name": "Sulefælden",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "4069aeef-e69b-4343-82dd-fb85ecd99b26",
+      "season": 10,
+      "number": 8,
+      "name": "Den blå engel - En jaget mand",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "0d119655-d1dd-435c-bc48-59acd7235c98",
+      "season": 10,
+      "number": 9,
+      "name": "Car Laser - Gift med mor",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "82969739-629c-46e7-a175-b7ee1d5a8db5",
+      "season": 10,
+      "number": 10,
+      "name": "Når hunden er ude: Turner på tidsrejse",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "9c0a758f-6e1c-406f-b442-e423f7ae7b89",
+      "season": 10,
+      "number": 11,
+      "name": "Fe-messen - Hunger-legene",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "adcc8620-937d-43ec-80ae-1d4064a9d9ec",
+      "season": 10,
+      "number": 12,
+      "name": "Feriefejde - Dimmsdale-drønet",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "46406f7c-5e91-4187-ae27-8b245a19a1d9",
+      "season": 10,
+      "number": 13,
+      "name": "Katten efter musen - Æblet falder ikke langt fra Crock'en",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "5bb99cb7-a065-4934-802c-dc82179e9513",
+      "season": 10,
+      "number": 14,
+      "name": "Rum-FAR-ten - Feriefuser",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "fe0b1389-a8d3-4298-abda-29ec88f541bc",
+      "season": 10,
+      "number": 15,
+      "name": "Skolens kæledyr - Grønkålsgutterne",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "ee15eff4-f190-46b5-b8cd-b79c6177c215",
+      "season": 10,
+      "number": 16,
+      "name": "Farlantis - Chloe styrer",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "0855c0f1-cd0e-42bc-b0f0-b72851b5223a",
+      "season": 10,
+      "number": 17,
+      "name": "Crocker alene hjemme - Pjækkerøv",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "43060ade-8e24-4a2a-9108-66dc729e0ba1",
+      "season": 10,
+      "number": 18,
+      "name": "Knyttede bånd - Har Dimmsdale talent?",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "dce231c4-aee4-464d-ae41-043e441f72a5",
+      "season": 10,
+      "number": 19,
+      "name": "Certificeret supersitter",
+      "airdate": "2023-06-14"
+    },
+    {
+      "id": "d4eb05fe-68e3-4420-9742-4af5b8313d75",
+      "season": 10,
+      "number": 20,
+      "name": "Guld-Crock og De Tre Fair Bears - Den Ultra-fine Fancy Klub",
+      "airdate": "2023-06-14"
+    }
+  ]
+}

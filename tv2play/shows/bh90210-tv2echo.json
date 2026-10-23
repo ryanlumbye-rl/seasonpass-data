@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:bh90210-tv2echo",
+  "name": "BH90210",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hvad sker der, når venner og fjender og gamle romancer mødes igen? Jason Priestley, Shannen Doherty og resten af det ikoniske cast bag 'Beverly Hills 90210' mødes igen for at indspille en ny sæson af den legendariske ungdomsserie. I bedste 'Klovn'-stil spiller skuespillerne sig selv, mens de forsøger at få en ny sæson 'Beverly Hills' op at stå.",
+  "image": "https://cdn-play.tv2i.dk/dfca06da-60df-4726-905a-7bc91fa95fe0.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d9217cff-948e-4e31-a0ab-a96f1502b1ad",
+      "season": 1,
+      "number": 1,
+      "name": "The Reunion",
+      "airdate": "2019-08-09"
+    },
+    {
+      "id": "7bb65aab-e622-42ee-8fd4-0f0e279aef43",
+      "season": 1,
+      "number": 2,
+      "name": "The Pitch",
+      "airdate": "2019-08-16"
+    },
+    {
+      "id": "069ee2ef-af1c-4588-adaf-3733efddcdc0",
+      "season": 1,
+      "number": 3,
+      "name": "The Photo Shoot",
+      "airdate": "2019-08-23"
+    },
+    {
+      "id": "14594dc1-500e-44a1-94f9-fa58cb6a2256",
+      "season": 1,
+      "number": 4,
+      "name": "The Table Read",
+      "airdate": "2019-08-30"
+    },
+    {
+      "id": "61d7a026-adac-4015-b896-40d55bc237f9",
+      "season": 1,
+      "number": 5,
+      "name": "Picture's Up",
+      "airdate": "2019-09-06"
+    },
+    {
+      "id": "167c288b-aa1e-4956-95fe-2dbc822395f1",
+      "season": 1,
+      "number": 6,
+      "name": "The Long Wait",
+      "airdate": "2019-09-13"
+    }
+  ]
+}

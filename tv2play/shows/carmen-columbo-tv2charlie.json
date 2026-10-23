@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:carmen-columbo-tv2charlie",
+  "name": "Carmen & Columbo",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I \"Carmen & Colombo\" følger vi detektiven Gert og frisøren Kate (Dick Kaysø, Ditte Gråbø), der har mødt hinanden i en moden alder.",
+  "image": "https://cdn-play.tv2i.dk/19676d07-3659-4e08-a940-37569e92553e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "83e83e37-5654-4393-a7df-6bf89516877e",
+      "season": 1,
+      "number": 1,
+      "name": "Hvor skal skabet stå?",
+      "airdate": "2011-09-21"
+    },
+    {
+      "id": "6c3ccbea-49db-4b72-9fa4-846873254153",
+      "season": 1,
+      "number": 2,
+      "name": "Den forsvundne hund",
+      "airdate": "2011-09-28"
+    },
+    {
+      "id": "2d96f865-256f-4331-9ade-a954ba20d9eb",
+      "season": 1,
+      "number": 3,
+      "name": "Den der ler sidst...",
+      "airdate": "2011-10-05"
+    },
+    {
+      "id": "fb869eb9-deb6-4874-b037-d55be0da45d7",
+      "season": 1,
+      "number": 4,
+      "name": "Gammel kærlighed...",
+      "airdate": "2011-10-12"
+    },
+    {
+      "id": "b32f7a80-cd74-4c37-a275-6ddd0ef6e537",
+      "season": 1,
+      "number": 5,
+      "name": "Rygeafvænning",
+      "airdate": "2011-10-19"
+    },
+    {
+      "id": "82b96612-d6cc-49b2-a7d5-25efb63a169c",
+      "season": 1,
+      "number": 6,
+      "name": "Surprise",
+      "airdate": "2011-10-26"
+    }
+  ]
+}

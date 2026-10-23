@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:aargang-0-forever-tv2",
+  "name": "Årgang 0 forever",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Stephanie, Rachel, Christian og Mathilde fra 'Årgang 0' har taget hul på ’voksen-voksen-livet’. Fredagsslik og teenagefester er fortid, og det er både skræmmende, vildt og fedt at stå med benene placeret midt i 20'erne. Hvad drømmer de om, hvad laver de, hvor er de nu?",
+  "image": "https://cdn-play.tv2i.dk/a95d3b4e-c283-46eb-b30d-37b1d82400a7.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b1e465fe-3ea3-4832-ad8b-ed952c96928f",
+      "season": 1,
+      "number": 1,
+      "name": "Det er crazy, vi er 25",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "4135dd8d-10f9-4c89-a7a2-1271e8a6e31e",
+      "season": 1,
+      "number": 2,
+      "name": "Mor helt ind til knoglerne",
+      "airdate": "2025-12-30"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:med-boernene-som-vaaben-tv2",
+  "name": "Med børnene som våben",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tusindvis af børn kommer i klemme, når deres mor eller far beskylder den anden for de værste ting og inddrager børnene i deres indbyrdes skilsmissekrig. Løser vi skilsmissekonflikter godt nok i Danmark? Alene i 2021 mistede over 300 børn retten til at se en af deres forældre i en skilsmissekonflikt.",
+  "image": "https://cdn-play.tv2i.dk/31514ef1-6c41-4319-9e97-4a107a2e10e7.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "c8783234-061c-459a-a048-2e53e468547b",
+      "season": 1,
+      "number": 1,
+      "name": "Anklager uden beviser",
+      "airdate": "2022-04-21"
+    },
+    {
+      "id": "6ba03562-25db-4865-a1d8-ba77eba121bd",
+      "season": 1,
+      "number": 2,
+      "name": "Fremmed for sit eget barn",
+      "airdate": "2022-04-21"
+    }
+  ]
+}

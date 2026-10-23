@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Populær britisk serie, som har vundet mange priser, og som kan prale af at have været Storbritanniens mest sete tv-serie.",
+  "image": "https://cdn-play.tv2i.dk/d76ac6ed-bf2d-443a-9517-d2cd77ab5333.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "a5a5640e-5566-432b-b90e-d47e33ce9f9b",

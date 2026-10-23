@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:the-death-of-bunny-munro-tv2play",
+  "name": "The Death of Bunny Munro",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "5ff1d57a-a0d5-4256-91d4-abb6cb4bfb63",
+      "season": 1,
+      "number": 1,
+      "name": "Family Man",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "adbdb37c-b906-4097-844a-6a15137e0cd8",
+      "season": 1,
+      "number": 2,
+      "name": "Salesman",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "97578fee-8155-4aca-b928-0f305efa673f",
+      "season": 1,
+      "number": 3,
+      "name": "Cocksman",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "58a11f28-f115-4a49-816e-4c23b1a6ee39",
+      "season": 1,
+      "number": 4,
+      "name": "Con Man",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "3261ae7f-c3e7-4ad7-ac8f-08bdcc3e28e7",
+      "season": 1,
+      "number": 5,
+      "name": "Dead Man",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "7b7460a5-82e9-4db8-a7c4-8a992ea5a92d",
+      "season": 1,
+      "number": 6,
+      "name": "Showman",
+      "airdate": "2026-01-30"
+    }
+  ]
+}

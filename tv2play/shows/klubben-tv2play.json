@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:klubben-tv2play",
+  "name": "Klubben",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Jan Gintberg har samlet 'Klubben' af danske komikere og humorister i en unik serie, der dykker ned i de skøre, provokerende og eftertænksomme tekstbidder, der har givet grin foran publikum.",
+  "image": "https://cdn-play.tv2i.dk/da28b8be-d183-42b4-9c4e-2683f45e244d.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "885226b9-5cdf-4f1d-ba36-f6f0e8210193",
+      "season": 1,
+      "number": 1,
+      "name": "Med Linda P, Jonatan Spang, Frank Hvam og Martin Nørgaard",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "3145d865-b88e-401a-8f41-622e26a8f0b6",
+      "season": 1,
+      "number": 2,
+      "name": "Med Rune Klan, Jacob Haugaard, Ane Høgsberg og Christian Fuhlendorff",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "d75a0ebb-a6fe-4e60-9ffb-8ea09fc300d6",
+      "season": 1,
+      "number": 3,
+      "name": "Med Mick Øgendahl, Huxi Bach, Carsten Eskelund og Torben Chris",
+      "airdate": "2021-10-18"
+    },
+    {
+      "id": "24fcabc9-1f43-4d12-8fb9-2e1dec5850b7",
+      "season": 1,
+      "number": 4,
+      "name": "Med Annika Aakjær, Hadi Ka-koush, Simon Talbot og Geo",
+      "airdate": "2021-10-25"
+    },
+    {
+      "id": "25efb43c-72d5-4096-bbee-4bde16d262dc",
+      "season": 1,
+      "number": 5,
+      "name": "Med Lars Hjortshøj, Heino Hansen, Rasmus Botoft og Omar Marzouk",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "0e1ca68d-2dea-420e-b74e-17e0a156e086",
+      "season": 1,
+      "number": 8,
+      "name": "Med Niels Hausgaard, Frank Hvam, Signe Molde og Linda P.",
+      "airdate": "2021-11-22"
+    }
+  ]
+}

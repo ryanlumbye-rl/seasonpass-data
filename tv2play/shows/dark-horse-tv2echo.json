@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:dark-horse-tv2echo",
+  "name": "Dark Horse",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Se Josephine Højbjerg og Birgitte Hjort Sørensen i spændingsserien i seks afsnit, hvor 17-årige Anna og hendes mor, Eva, under gådefulde omstændigheder flytter fra Kina til en lille, dansk provinsby. I et desperat forsøg på at passe ind kommer de begge på kollisionskurs med både loven og hinanden.",
+  "image": "https://cdn-play.tv2i.dk/22dc21af-c268-47e0-85d4-3788692c5551.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "cadd3f82-09fa-4170-bde2-62d13f55183d",
+      "season": 1,
+      "number": 1,
+      "name": "Fremmed fugl",
+      "airdate": "2024-01-21"
+    },
+    {
+      "id": "e4441916-9ed3-43ac-93e3-4d50152c6bdf",
+      "season": 1,
+      "number": 2,
+      "name": "Krystaller",
+      "airdate": "2024-01-28"
+    },
+    {
+      "id": "a118f4c8-1fcb-453a-a221-b197c5b69288",
+      "season": 1,
+      "number": 3,
+      "name": "En tjeneste",
+      "airdate": "2024-02-04"
+    },
+    {
+      "id": "49f6ecce-458d-4366-8a5b-c68658842ad9",
+      "season": 1,
+      "number": 4,
+      "name": "Hyp hyp",
+      "airdate": "2024-02-11"
+    },
+    {
+      "id": "7736b7db-5a8e-4c71-949d-be08e7cd756e",
+      "season": 1,
+      "number": 5,
+      "name": "Kalkgraven",
+      "airdate": "2024-02-18"
+    },
+    {
+      "id": "4604de19-10a1-41b5-96e9-8474c665bd6a",
+      "season": 1,
+      "number": 6,
+      "name": "Frit fald",
+      "airdate": "2024-02-25"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:rosa-elettrica-tv2play",
+  "name": "Rosa Elettrica",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En agent fra vidnebeskyttelsesprogrammet skal beskytte en ung, tidligere gangsterboss, der nu er informant i en brutal narkosag. Da hun opdager, at hendes egne chefer har ofret ham, tvinges de på flugt fra et system, der hellere vil se ham død end hørt.",
+  "image": "https://cdn-play.tv2i.dk/6415e8d9-504b-3674-9b38-b0333b44b4c1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "28c108cd-ae03-4db5-9b2c-4607388b9023",
+      "season": 1,
+      "number": 1,
+      "name": "Cocìss",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "860eb40b-0bf5-4e7a-8bfb-43705a900e80",
+      "season": 1,
+      "number": 2,
+      "name": "The Mole",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "13f3c53d-3e3c-43d1-8510-931a4965744e",
+      "season": 1,
+      "number": 3,
+      "name": "The Pact",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "d2235790-ee41-40db-917c-8db9dd1108cf",
+      "season": 1,
+      "number": 4,
+      "name": "Mama Camorra",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "1e733282-9468-4e08-943e-43bedb027c1b",
+      "season": 1,
+      "number": 5,
+      "name": "Kappa",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "7c9c9d21-7b2e-4a9b-a617-26b8bbb7ce59",
+      "season": 1,
+      "number": 6,
+      "name": "The Boss",
+      "airdate": "2026-06-18"
+    }
+  ]
+}

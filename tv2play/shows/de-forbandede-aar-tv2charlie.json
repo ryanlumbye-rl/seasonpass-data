@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:de-forbandede-aar-tv2charlie",
+  "name": "De forbandede år",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De to anmelderroste film ’De forbandede år’ 1 og 2 som miniserie om familien Skovs kamp for overlevelse under Anden Verdenskrig. Jesper Christensen spiller den succesfulde fabrikant Karl Skov, der indgår et kontroversielt samarbejde med besættelsesmagten. Et valg, der splitter familien ad.",
+  "image": "https://cdn-play.tv2i.dk/6cd690ed-d06a-485f-ac0e-eb7f8fd402d9.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "434f0720-3d00-459c-89ed-a79755427808",
+      "season": 1,
+      "number": 1,
+      "name": "De imponerende tyske sejre",
+      "airdate": "2024-12-25"
+    },
+    {
+      "id": "9323d6b1-fba9-493d-a0f7-ad977c35aac8",
+      "season": 1,
+      "number": 2,
+      "name": "Af jord er du kommet",
+      "airdate": "2024-12-25"
+    },
+    {
+      "id": "6cbc6b53-a130-4eea-afe4-a440aed8bd85",
+      "season": 1,
+      "number": 3,
+      "name": "Usynlig følger os en skare",
+      "airdate": "2024-12-26"
+    },
+    {
+      "id": "ba70594e-583a-4123-8f03-369a34e988bc",
+      "season": 1,
+      "number": 4,
+      "name": "Nu gik det lige så godt",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "ca06e840-89fd-48d2-ba97-f3bed6219651",
+      "season": 1,
+      "number": 5,
+      "name": "Kærligheden må vente på bedre tider",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "8ad5391f-2ab2-4a24-a1cf-42e5077fbe67",
+      "season": 1,
+      "number": 6,
+      "name": "Så er festen forbi",
+      "airdate": "2024-12-29"
+    }
+  ]
+}

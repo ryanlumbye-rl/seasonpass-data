@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:anstalten-tv2play",
+  "name": "Anstalten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den lukkede anstalt Lykkebo er hjem for en gruppe helt særlige mennesker, der mildest talt ikke er helt normale. Beboerne tæller blandt andre mordbrænderen Jenny, sociopaten Ernst, den apatiske Miffy og den skizofrene Leon. Til at styre det hele har vi den distræte forstanderinde Sonja.\n\nMedvirkende: Linda P. (Jenny og Miffy), Rasmus Bjerg (Ernst), Mick Øgendahl (Leon) og Hella Joof (Sonja).",
+  "image": "https://cdn-play.tv2i.dk/c1f9377e-1d85-4fc4-8b85-83b53e2542d4.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "c84796e3-c377-4ada-b8ce-2671b2952363",
+      "season": 1,
+      "number": 1,
+      "name": "Det er ikke en brødrister",
+      "airdate": "2011-04-11"
+    },
+    {
+      "id": "b2bb5085-7c40-44fa-98e4-3f2da160d5a0",
+      "season": 1,
+      "number": 2,
+      "name": "Måske de ka' sælges i Bangkok",
+      "airdate": "2011-04-18"
+    },
+    {
+      "id": "f91518ea-e35b-4f73-9db7-c821f09356f3",
+      "season": 1,
+      "number": 3,
+      "name": "Spøgelser spiser små Leon'er",
+      "airdate": "2011-04-25"
+    },
+    {
+      "id": "e1793f6f-c15b-4af6-b868-eced5cdd63e1",
+      "season": 1,
+      "number": 4,
+      "name": "Helle for at være Karsten Jensen",
+      "airdate": "2011-05-02"
+    },
+    {
+      "id": "7e1721be-0c5b-4711-bf90-8c655de9294f",
+      "season": 1,
+      "number": 5,
+      "name": "Hvor ville 67 ugler gemme sig?",
+      "airdate": "2011-05-09"
+    },
+    {
+      "id": "571c092c-b866-4262-8a3f-aa2d1980ff12",
+      "season": 1,
+      "number": 6,
+      "name": "Ingen beviser, ingen småkager",
+      "airdate": "2011-05-16"
+    }
+  ]
+}

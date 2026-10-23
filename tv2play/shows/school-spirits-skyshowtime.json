@@ -1,0 +1,180 @@
+{
+  "id": "tv2play:school-spirits-skyshowtime",
+  "name": "School Spirits",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Teenagepigen Maddie sidder fast i livet efter døden, og beslutter sig for at efterforske sin egen bortgang. Hun får hjælp fra andre elever på sin gymnasieskole, der også er fanget i skærsilden.",
+  "image": "https://cdn-play.tv2i.dk/694e26ae-ae4d-4c1a-9a55-6a11bba7b823.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b2190e52-4d28-4661-b688-b6b9763d0e80",
+      "season": 1,
+      "number": 1,
+      "name": "Min såkaldte død",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "127eff84-b71a-47f6-b23b-eef231549de2",
+      "season": 1,
+      "number": 2,
+      "name": "Fejlen i vores ar",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "507cdfb4-687a-49ce-98ff-92cce39692a9",
+      "season": 1,
+      "number": 3,
+      "name": "Død og forvirret",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "fe53df01-a73d-4d35-8f87-9dbaa66ffcb9",
+      "season": 1,
+      "number": 4,
+      "name": "Spøgelsesintentioner",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "a750b2ae-6cfe-4046-948e-e74fea660978",
+      "season": 1,
+      "number": 5,
+      "name": "Tusmørkefeltet",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "90e25817-5a5a-4e0a-ab51-76dcd3d1fa6d",
+      "season": 1,
+      "number": 6,
+      "name": "Grav den sidste dans",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "b3990570-1633-413f-aa9f-2a8164677f37",
+      "season": 1,
+      "number": 7,
+      "name": "Seance om hvad som helst",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "ee747f50-90ae-4b26-a87d-f9a4627eaec9",
+      "season": 1,
+      "number": 8,
+      "name": "Madisons lig",
+      "airdate": "2024-08-09"
+    },
+    {
+      "id": "472aa25a-8e8c-41fc-aa91-f17d6edd851b",
+      "season": 2,
+      "number": 1,
+      "name": "Hvad mon der skete med Maddie Nears?",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "c5f16036-8d8b-41ad-a50a-a6fa47bd9d61",
+      "season": 2,
+      "number": 2,
+      "name": "Skrigenes mark",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "697a300e-d005-4b67-8c2e-d6ae37922700",
+      "season": 2,
+      "number": 3,
+      "name": "Spøgende svært at vente",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "c55f68e0-6477-44d9-992b-f7bd66097428",
+      "season": 2,
+      "number": 4,
+      "name": "Et uventet besøg, man husker",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "be67d110-8605-4719-afcb-692305374796",
+      "season": 2,
+      "number": 5,
+      "name": "Spøgelset, der kommer til middag",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "202036be-d40d-4087-95eb-65dca0f99a45",
+      "season": 2,
+      "number": 6,
+      "name": "Spøgelsernes træf",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "dfc06301-5e41-4f13-acb6-d66bf9fe9cfd",
+      "season": 2,
+      "number": 7,
+      "name": "Brug af et radioaktivt beskyttelsesrum",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "5a522be6-f3be-436f-a57f-cc72b0fbadc6",
+      "season": 2,
+      "number": 8,
+      "name": "Ild, sig noget til mig",
+      "airdate": "2025-04-05"
+    },
+    {
+      "id": "0ba5d63c-0aac-46f7-9e37-f78176311c98",
+      "season": 3,
+      "number": 1,
+      "name": "It's a Wonderful Afterlife",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "64abac49-a230-4e9d-9a2d-b9c673beb75b",
+      "season": 3,
+      "number": 2,
+      "name": "Mean Ghouls",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "b1decc88-0e76-485d-8936-c07b98551fbf",
+      "season": 3,
+      "number": 3,
+      "name": "The Halls Have Eyes",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "7e4c3b6a-947c-4837-9759-de57bcd01116",
+      "season": 3,
+      "number": 4,
+      "name": "The Bereftest Club",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "8fe49f2a-1c14-474d-b5fb-f4430d00bba0",
+      "season": 3,
+      "number": 5,
+      "name": "Raiders of the Lost Scar",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "2a977999-92e7-44d1-b1f7-762f848591b0",
+      "season": 3,
+      "number": 6,
+      "name": "Children of the Scorned",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "87d1ba03-234d-46e0-a15f-db463f885d5b",
+      "season": 3,
+      "number": 7,
+      "name": "Midsomester",
+      "airdate": "2026-04-11"
+    },
+    {
+      "id": "009864d5-8fcd-4471-8109-ec71fc3ecbcf",
+      "season": 3,
+      "number": 8,
+      "name": "Dawn of the Deb",
+      "airdate": "2026-04-11"
+    }
+  ]
+}

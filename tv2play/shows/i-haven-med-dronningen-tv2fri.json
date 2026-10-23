@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:i-haven-med-dronningen-tv2fri",
+  "name": "I haven med dronningen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dronning Margrethe modtog i 75 års fødselsdagsgave en Årstidshave til Fredensborg Slotspark i Nordsjælland. Nu skal haven anlægges.",
+  "image": "https://cdn-play.tv2i.dk/4592f4b9-a8f3-3fc5-830f-b7d5cac1b394.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "25a14890-67e9-4e29-95ba-bfd7e0b0ecf0",
+      "season": 1,
+      "number": 1,
+      "name": "En royal ønskehave bliver til virkelighed",
+      "airdate": "2016-10-31"
+    },
+    {
+      "id": "c9eda13a-d123-4696-abc6-91a169b6c124",
+      "season": 1,
+      "number": 2,
+      "name": "Når Kong Vinter melder sin ankomst",
+      "airdate": "2016-11-07"
+    },
+    {
+      "id": "882a044d-b766-4cbd-96de-9b418e5fb63a",
+      "season": 1,
+      "number": 3,
+      "name": "Drømmen begynder at tage form",
+      "airdate": "2016-11-14"
+    },
+    {
+      "id": "2a8e2604-7334-4985-88fe-2ae40fc3a764",
+      "season": 1,
+      "number": 4,
+      "name": "Den nye Årstidshave skal indvies",
+      "airdate": "2016-11-21"
+    }
+  ]
+}

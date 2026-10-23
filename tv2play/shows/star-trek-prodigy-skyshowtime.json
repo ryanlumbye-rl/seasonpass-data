@@ -1,0 +1,285 @@
+{
+  "id": "tv2play:star-trek-prodigy-skyshowtime",
+  "name": "Star Trek: Prodigy",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "For at overleve de fjerneste afkroge af rummet og undgå deres forfølgere må en besætning af udstødte lære at samarbejde for at forblive ét skridt foran og løse det mysterium, der knytter sig til deres skib.",
+  "image": "https://cdn-play.tv2i.dk/f7cc5e5f-a20f-492a-b2ad-cfa15cbba27f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2161&w=1280",
+  "episodes": [
+    {
+      "id": "fb7b4950-d886-43ff-ace5-755f479c7f2f",
+      "season": 1,
+      "number": 1,
+      "name": "Hittegods",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "ea2c0b5e-3d9e-4ca1-8ade-d8afb7c23466",
+      "season": 1,
+      "number": 2,
+      "name": "Stjerneskudt",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "f21f8f81-937f-43a7-b00e-b75f0f65cbd3",
+      "season": 1,
+      "number": 3,
+      "name": "Drømmefanger",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "8ac32fbd-600b-425e-88d7-1470b4a6a312",
+      "season": 1,
+      "number": 4,
+      "name": "Rædslernes Planet",
+      "airdate": "2022-02-11"
+    },
+    {
+      "id": "0340dd71-aa14-4b12-ae1a-3d05fc8d2117",
+      "season": 1,
+      "number": 5,
+      "name": "Kobayashi",
+      "airdate": "2022-03-31"
+    },
+    {
+      "id": "14024920-89c7-4232-b1bd-cfdb86e7a048",
+      "season": 1,
+      "number": 6,
+      "name": "Første kontakt",
+      "airdate": "2022-03-31"
+    },
+    {
+      "id": "86f6e4e7-39f6-46e5-bcca-c984d6f74436",
+      "season": 1,
+      "number": 7,
+      "name": "Tidsamok",
+      "airdate": "2022-03-31"
+    },
+    {
+      "id": "8424172e-4fb6-40d8-a0bd-b0d71b0eb645",
+      "season": 1,
+      "number": 8,
+      "name": "En Moralsk Stjerne - del 1",
+      "airdate": "2022-03-31"
+    },
+    {
+      "id": "ffcfc05a-3b74-42a1-9786-882fef65e2eb",
+      "season": 1,
+      "number": 9,
+      "name": "En Moralsk Stjerne - del 2",
+      "airdate": "2022-03-31"
+    },
+    {
+      "id": "3070c77d-0e5a-4456-ad0e-aca035ac0b3a",
+      "season": 1,
+      "number": 10,
+      "name": "Asyl",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "d70ef96d-081b-4046-8bfb-5fd6ce51ab28",
+      "season": 1,
+      "number": 11,
+      "name": "Lad sovende Borg ligge",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "9b103871-caf4-44f1-bdf8-2b9cf7bedfca",
+      "season": 1,
+      "number": 12,
+      "name": "Hele verden er en scene",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "6b4b030e-e915-482c-aeaf-a95d57e718cf",
+      "season": 1,
+      "number": 13,
+      "name": "Skillevej",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "89cfa2b5-df4d-4ee2-a163-a4fe27ce9db6",
+      "season": 1,
+      "number": 14,
+      "name": "Maskerade",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "b144238c-fbd7-4974-a354-3b205a9dd4a7",
+      "season": 1,
+      "number": 15,
+      "name": "Optakt",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "dfd8efb6-ab09-419d-bdc9-f2865602d11c",
+      "season": 1,
+      "number": 16,
+      "name": "Spøgelse i maskinen",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "904dd365-06ef-46cc-80d1-d3f305107347",
+      "season": 1,
+      "number": 17,
+      "name": "Tankevandring",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "90d8f6da-69bb-4488-be04-d1a720d8924a",
+      "season": 1,
+      "number": 18,
+      "name": "Supernova - del 1",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "ed8a25c0-18f1-4c6c-b564-27e42ddb990b",
+      "season": 1,
+      "number": 19,
+      "name": "Supernova - del 2",
+      "airdate": "2023-06-01"
+    },
+    {
+      "id": "d7f7d28e-ca60-4b44-93dc-3da1b50e8895",
+      "season": 2,
+      "number": 1,
+      "name": "I brechen - del 1",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "8634d285-53b1-4b16-87df-bf99264040bc",
+      "season": 2,
+      "number": 2,
+      "name": "I brechen - del 2",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "467dbe83-8fd2-48c6-b262-8f7011e9e825",
+      "season": 2,
+      "number": 3,
+      "name": "Hvem frelser frelserne",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "2c461451-91e3-4acb-b6d6-1dba686e63ca",
+      "season": 2,
+      "number": 4,
+      "name": "Temporal mekanik 101",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "95e45301-62f9-46b0-850d-f1010dedb838",
+      "season": 2,
+      "number": 5,
+      "name": "Observatørparadoks",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "3f8bb18e-51bb-4d21-adc1-63b7c43b38b4",
+      "season": 2,
+      "number": 6,
+      "name": "Bedragersyndrom",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "a312c105-2961-4197-8f71-38fa371b2c42",
+      "season": 2,
+      "number": 7,
+      "name": "Den hurtige og den nysgerrige",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "faa70f8f-6b00-4f95-8b27-822ede30f787",
+      "season": 2,
+      "number": 8,
+      "name": "Er der ingen sandhed i skønhed?",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "ef358af1-2649-4db9-beb5-af27dc571d4b",
+      "season": 2,
+      "number": 9,
+      "name": "Fortæreren af alle ting - del 1",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "7c4ec67f-5d60-40d2-b895-4a13cbb932c1",
+      "season": 2,
+      "number": 10,
+      "name": "Fortæreren af alle ting - del 2",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "7a2ef399-d6a0-4d7c-9dfe-2f33f04ecb3c",
+      "season": 2,
+      "number": 11,
+      "name": "Protostjernens sidste tur - del 1",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "2aa22879-0f05-42d8-b32f-4cc6162f027b",
+      "season": 2,
+      "number": 12,
+      "name": "Protostjernens sidste tur - del 2",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "b67984e7-e2d1-4660-904a-9400953fcedb",
+      "season": 2,
+      "number": 13,
+      "name": "En Tribble-mission",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "c976b118-2e18-406c-8f60-83910a0f620f",
+      "season": 2,
+      "number": 14,
+      "name": "Revnet spejl",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "1bd0308f-149d-4b0f-bf44-820f8682ee13",
+      "season": 2,
+      "number": 15,
+      "name": "Himmelfart - del 1",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "68e7dbdb-adae-4fa0-8e71-588f328010ef",
+      "season": 2,
+      "number": 16,
+      "name": "Himmelfart - del 2",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "3d9fa6df-7256-4b95-9783-73a289a61032",
+      "season": 2,
+      "number": 17,
+      "name": "På randen",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "15360a79-7378-488a-bcda-e4eabdd55f9b",
+      "season": 2,
+      "number": 18,
+      "name": "Et strejf af gråt",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "8a848c28-e358-4515-9688-b70498a3f567",
+      "season": 2,
+      "number": 19,
+      "name": "Ouroboros - del 1",
+      "airdate": "2024-08-17"
+    },
+    {
+      "id": "821d839b-b8b1-4d16-85f3-ce97d7a62c9e",
+      "season": 2,
+      "number": 20,
+      "name": "Ouroboros - del 2",
+      "airdate": "2024-08-17"
+    }
+  ]
+}

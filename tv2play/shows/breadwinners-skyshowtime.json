@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:breadwinners-skyshowtime",
+  "name": "Breadwinners",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "To ænder oplever eventyr, mens de driver en brødleveringstjeneste sammen.",
+  "image": "https://cdn-play.tv2i.dk/2926c326-47c2-4ff6-97e2-4105bc76d6cc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1b619930-9946-4352-bba9-6f44cc0ee633",
+      "season": 1,
+      "number": 1,
+      "name": "Thug Loaf",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "e43c77cb-3348-4810-8e59-3d6bf7ee39b8",
+      "season": 1,
+      "number": 6,
+      "name": "Love Loaf",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "935f0423-357f-4632-b39a-c8a7480f8d7f",
+      "season": 2,
+      "number": 2,
+      "name": "Bad to the Duck Bone",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "4aa9edaa-f88a-4290-b32e-942b5c1df2ec",
+      "season": 2,
+      "number": 9,
+      "name": "Wolf Head Bread",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "45cffaed-9620-4ea5-9163-5452d2212668",
+      "season": 2,
+      "number": 16,
+      "name": "The Princess Frog Bride",
+      "airdate": "2023-02-21"
+    }
+  ]
+}

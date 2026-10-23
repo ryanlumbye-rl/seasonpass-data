@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:tv-midtvest-historien-om-vltj-tvmidtvest",
+  "name": "Historien om VLTJ",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De rød-hvide-orange tog slynger sig gennem det smukke landskab, når Vemb-Lemvig-Thyborøn Jernbane hver dag binder folk sammen på den yderste vestkyst. Banen er bedre kendt som VLTJ, og mange af os kender også Tørfisks sang om de legendariske tog, der nu bliver skiftet ud med helt nye batteritog. Vores vært Anders Bro har derfor besluttet sig for at fortælle historien om VLTJ – både om toget og om sangen.",
+  "image": "https://cdn-play.tv2i.dk/87dc5bd4-cd99-4440-828e-3f589f88a2b2.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "1e01ffc1-7caf-4065-899d-de52243b8c11",
+      "season": 1,
+      "number": 1,
+      "name": "Det legendariske tog",
+      "airdate": "2025-02-22"
+    },
+    {
+      "id": "5fd0f399-ff81-46f7-b732-4774ae605905",
+      "season": 1,
+      "number": 2,
+      "name": "Hanne og Oles lille station",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "7df06b46-7634-4e7a-b8c3-133e7a70bf36",
+      "season": 1,
+      "number": 3,
+      "name": "VLTJ-sangen i nyt beat",
+      "airdate": "2025-03-08"
+    },
+    {
+      "id": "dc5565d8-1652-4649-b648-0212e35b6f2b",
+      "season": 1,
+      "number": 4,
+      "name": "Den store togulykke",
+      "airdate": "2025-03-15"
+    },
+    {
+      "id": "42925815-fc04-48b4-a59d-f910adca4826",
+      "season": 1,
+      "number": 5,
+      "name": "El-tog får følelserne frem",
+      "airdate": "2025-03-22"
+    }
+  ]
+}

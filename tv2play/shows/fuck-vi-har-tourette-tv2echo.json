@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:fuck-vi-har-tourette-tv2echo",
+  "name": "Fuck! Vi har tourette",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kennie og Stine Sara har begge Tourettes syndrom. Men selvom de er blevet lidt af et comedyfænomen i Danmark, så er det ret svært at få livet til at fungere på lige fod med alle andre. I tre episoder lukker de os ind i deres liv, for hvem er de bag de mange anfald af upassende bandeord og udbrud?",
+  "image": "https://cdn-play.tv2i.dk/3ed15a9f-a2c2-4f6a-beb9-6d97d991e95c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8e8a2acc-3763-473a-9cb5-0c852e2a03be",
+      "season": 1,
+      "number": 1,
+      "name": "Er vi helt til grin?",
+      "airdate": "2023-06-27"
+    },
+    {
+      "id": "8f4429de-3236-4afb-948e-e64d93ac02db",
+      "season": 1,
+      "number": 2,
+      "name": "Stine Saras mirakelkur",
+      "airdate": "2023-06-27"
+    },
+    {
+      "id": "9d1bf91c-9423-44e3-933b-dd2ab9eda68c",
+      "season": 1,
+      "number": 3,
+      "name": "Internethate: I har faket jeres tourette",
+      "airdate": "2023-07-11"
+    }
+  ]
+}

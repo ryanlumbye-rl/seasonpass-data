@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:manden-i-boernevaerelset-tv2",
+  "name": "Manden i børneværelset",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I et villakvarter i Roskilde trænger en mystisk mand ind på børneværelser og rører ved børnefødder. Hvem er han? Hvad vil han? Og hvorfor er han ikke blevet stoppet?",
+  "image": "https://cdn-play.tv2i.dk/bbe9fbba-9e40-492f-9f83-2c0a64397ff2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "581f135f-f0b4-4c73-b463-29a8f5b022a5",
+      "season": 1,
+      "number": 1,
+      "name": "Hvem går efter en 12-årig?",
+      "airdate": "2025-03-31"
+    },
+    {
+      "id": "47f490c2-8836-485b-93f9-29d64f0f312c",
+      "season": 1,
+      "number": 2,
+      "name": "Det vil følge mig hele mit voksenliv",
+      "airdate": "2025-04-07"
+    },
+    {
+      "id": "2cfc8a6e-f55b-41b0-9a26-04aded69c3db",
+      "season": 1,
+      "number": 3,
+      "name": "Et massivt samfundssvigt",
+      "airdate": "2025-04-14"
+    }
+  ]
+}

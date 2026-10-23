@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:klar-til-michelin-tv2oest",
+  "name": "Klar til Michelin",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Når de nordiske Michelinstjerner uddeles den 16. juni i Anneberg Kulturpark, er det kulminationen på måneders arbejde i Odsherred. Vi følger de intense forberedelser og får et indblik i alt det hårde arbejde bag kulisserne, hvor håbet er at skabe både en uforglemmelig fest og et turismeløft.",
+  "image": "https://cdn-play.tv2i.dk/48a791a8-e5be-4a5a-ba29-1a7206ca4bae.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "23c508f8-5f78-43be-9166-46786ccf68d1",
+      "season": 1,
+      "number": 1,
+      "name": "Kostald og cocktails",
+      "airdate": "2025-05-22"
+    },
+    {
+      "id": "c637db89-6a6a-4b73-9fdb-41175af601bf",
+      "season": 1,
+      "number": 2,
+      "name": "Borebiller og jomfruhummere",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "c590fbb1-cdda-4013-99b1-d793d0ab7800",
+      "season": 1,
+      "number": 3,
+      "name": "Tang og fødervarefestival",
+      "airdate": "2025-06-05"
+    },
+    {
+      "id": "41796eee-d60d-4635-8955-448d6617d928",
+      "season": 1,
+      "number": 4,
+      "name": "Aspargeskongen",
+      "airdate": "2025-06-12"
+    },
+    {
+      "id": "086d85a4-840f-451c-8676-9a0ef18f7143",
+      "season": 1,
+      "number": 5,
+      "name": "Og madleverandøren er…",
+      "airdate": "2025-06-19"
+    },
+    {
+      "id": "8bce9634-2d7f-4f5b-90c9-c2ebc6a64462",
+      "season": 1,
+      "number": 6,
+      "name": "På kanten af klar",
+      "airdate": "2025-06-26"
+    },
+    {
+      "id": "f9e6d3da-6651-4be0-92c7-5535ff7053e9",
+      "season": 1,
+      "number": 7,
+      "name": "Festen er skudt i gang",
+      "airdate": "2025-07-03"
+    }
+  ]
+}

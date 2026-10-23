@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:kung-fu-panda-legends-of-awesomeness-skyshowtime",
+  "name": "Kung Fu Panda - Legends of Awesomeness",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hjulpet af sin mentor Shifu og de dygtige Fantastiske Fem - Tiger, Knæler, Trane, Abe og Hugorm - står den elskelige og klodsede panda Po over for nye modstandere i sit hjem i Fredsdalen, mens han fortsætter sin kung fu-uddannelse.",
+  "image": "https://cdn-play.tv2i.dk/ff76ccfe-33f6-43d1-9259-fe6cc68c8744.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b69c81af-97fb-4924-8ee0-350100daa687",
+      "season": 1,
+      "number": 2,
+      "name": "En klistret affære",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "dc9bb271-73bb-45e9-b8fa-cc5724a83637",
+      "season": 1,
+      "number": 4,
+      "name": "Kædereaktion",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0904858a-5936-4c7e-887c-9ca1430bb812",
+      "season": 1,
+      "number": 5,
+      "name": "De blafrende fingres glemsomhed",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0f0e039e-f895-4f17-8eb7-4edba5237b95",
+      "season": 1,
+      "number": 11,
+      "name": "God krokodille, slem krokodille",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4f66846e-857e-404f-938a-04064452b18a",
+      "season": 1,
+      "number": 20,
+      "name": "Oogways spøgelse",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "7c94bc14-583d-43f6-a0df-d55d21035252",
+      "season": 1,
+      "number": 21,
+      "name": "En kriminel far",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2104b5fd-0793-40ae-90d6-306e047bda2e",
+      "season": 2,
+      "number": 2,
+      "name": "Tegneserieknæleren",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "4dbfea52-007f-4cf7-9f3b-e975ae22423a",
+      "season": 2,
+      "number": 5,
+      "name": "Shifu er tilbage",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "5558d2d0-c44b-4389-a3b2-9d1afba694ae",
+      "season": 2,
+      "number": 9,
+      "name": "Kung fu-sko",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "bd36eecb-b48e-4198-920f-88af012cc767",
+      "season": 2,
+      "number": 11,
+      "name": "En tigers fortælling",
+      "airdate": "2023-01-01"
+    }
+  ]
+}

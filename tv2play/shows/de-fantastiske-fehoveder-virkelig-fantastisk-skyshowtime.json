@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:de-fantastiske-fehoveder-virkelig-fantastisk-skyshowtime",
+  "name": "De fantastiske fehoveder - virkelig fantastisk",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vivians liv forandres, da hendes far flytter dem til Dimmsdale. Men tingene bliver spændende, da Vivs fætter Timmy Turner giver hende sine magiske fe-gudforældre, Cosmo og Wanda, som hun skal dele med sin nye stedbror Roy.",
+  "image": "https://cdn-play.tv2i.dk/438a7b7c-6d75-41d6-a99a-f194b538e663.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e47c276f-904e-4fc9-81d2-0dc55e72f846",
+      "season": 1,
+      "number": 1,
+      "name": "Cake, Dance and Solid Gold Pants",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "53ba1a31-9033-44f9-b153-b8d53308e5db",
+      "season": 1,
+      "number": 2,
+      "name": "The Throne",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "65f1027b-251a-4d0d-92d5-b05394f5b7c7",
+      "season": 1,
+      "number": 3,
+      "name": "The Forbidden Phrase",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2ed6d345-5d5f-4655-844d-9e1b4520185a",
+      "season": 1,
+      "number": 4,
+      "name": "Vicky's Best Friend",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "0267439b-3372-4b14-b559-5c45528b374e",
+      "season": 1,
+      "number": 5,
+      "name": "King Roydas",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a8c4ac85-891f-40b0-b33c-699fc661acdf",
+      "season": 1,
+      "number": 6,
+      "name": "Cheater, Cheater Cookie Eater",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "2c37b4f5-ca9c-4977-b381-072402860770",
+      "season": 1,
+      "number": 7,
+      "name": "Da Wish App",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "48e58366-e990-496c-b9d1-4b4f0afa254d",
+      "season": 1,
+      "number": 8,
+      "name": "The Show Off",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b3e88d78-aebe-4625-9c32-c1d5e9ad1d72",
+      "season": 1,
+      "number": 9,
+      "name": "Back to the Scooter",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "e7a96e78-7f90-4946-b1a3-2d08d1eaf886",
+      "season": 1,
+      "number": 10,
+      "name": "Codzillard",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "4a485eb0-c713-4169-9e2b-112632448bc1",
+      "season": 1,
+      "number": 11,
+      "name": "Roy-Nocchio",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "22adc73a-19b2-49f2-9b6d-e92b544c7832",
+      "season": 1,
+      "number": 12,
+      "name": "Fairies Away! Part 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "7a5a4b83-7a40-4c83-8434-816843a6d182",
+      "season": 1,
+      "number": 13,
+      "name": "Fairies Away! Part 2",
+      "airdate": "2023-03-15"
+    }
+  ]
+}

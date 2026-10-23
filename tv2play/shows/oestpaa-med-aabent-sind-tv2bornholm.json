@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:oestpaa-med-aabent-sind-tv2bornholm",
+  "name": "Østpaa med åbent sind",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sommerens festivaler og friluftskoncerter er en kæmpe udfordring for folk med diagnoser. Det vil den bornholmske festival 'Østpaa' lave om på.",
+  "image": "https://cdn-play.tv2i.dk/d00e7a27-6bbe-405d-9c4e-b1dd9552b7e4.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "75fd45fb-dd79-4f57-b567-32892d0f9b90",
+      "season": 1,
+      "number": 1,
+      "name": "Dagen før dagen",
+      "airdate": "2025-07-18"
+    },
+    {
+      "id": "706dae81-d30a-4850-a305-bfb0d3f500d0",
+      "season": 1,
+      "number": 2,
+      "name": "Terningerne er kastet",
+      "airdate": "2025-07-18"
+    }
+  ]
+}

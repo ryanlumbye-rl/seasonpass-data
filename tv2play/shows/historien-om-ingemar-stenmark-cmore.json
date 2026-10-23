@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Svensk dokumentarserie i tre afsnit om og med vores tids største skiløber, Ingemar Stenmark.",
+  "image": "https://cdn-play.tv2i.dk/e6d9dbd3-a39e-4855-a356-2beb37750c42.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "04372e37-da53-41ac-a966-32183eeb8dcf",

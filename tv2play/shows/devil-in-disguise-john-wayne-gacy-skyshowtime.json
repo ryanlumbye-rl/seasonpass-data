@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:devil-in-disguise-john-wayne-gacy-skyshowtime",
+  "name": "Devil in Disguise: John Wayne Gacy",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da en teenager forsvinder, står det klart, at mange unge mænd og drenge er forsvundet omkring den hovedmistænkte, John Wayne Gacy, som viser sig at være en elskværdig og vellidt lokal forretningsmand.",
+  "image": "https://cdn-play.tv2i.dk/63c06a79-49c4-4546-8f39-00ef5edc7bde.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2552%2C1436&w=1280",
+  "episodes": [
+    {
+      "id": "b6af8064-894b-4407-85aa-f69ca59b037d",
+      "season": 1,
+      "number": 1,
+      "name": "Ti dage (Pilot)",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "afe46346-b221-4418-a03a-ad45c675e98a",
+      "season": 1,
+      "number": 2,
+      "name": "Johnny",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "8e534119-c0b8-454f-aa46-d4b64ef830c2",
+      "season": 1,
+      "number": 3,
+      "name": "Samuel og Randy",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "968a9815-4d22-4aec-80d6-77fed4c76359",
+      "season": 1,
+      "number": 4,
+      "name": "Billy",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "3cedf07f-27d0-4158-a419-0de0e9690dc0",
+      "season": 1,
+      "number": 5,
+      "name": "Billy og Dale",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "fd005453-f2cf-4ec8-a2a6-2cbc501faaf2",
+      "season": 1,
+      "number": 6,
+      "name": "Tim, John og Rob",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "88589ed7-dd6e-4a42-ab0b-37fe3b42f009",
+      "season": 1,
+      "number": 7,
+      "name": "David",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "8a5119f1-33fe-4684-bb0c-9a16e7172801",
+      "season": 1,
+      "number": 8,
+      "name": "Jeffrey",
+      "airdate": "2025-11-22"
+    }
+  ]
+}

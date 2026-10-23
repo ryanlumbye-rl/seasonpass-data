@@ -1,0 +1,467 @@
+{
+  "id": "tv2play:familien-thunderman-skyshowtime",
+  "name": "Familien Thunderman",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I byen Hiddenville lever en forstadsfamilie tilsyneladende et helt normalt liv, mens de holder på en stor hemmelighed: De er superhelte.",
+  "image": "https://cdn-play.tv2i.dk/f2e8b112-7522-4f88-b533-e25758b75a85.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3e3253b1-5904-48a0-84cf-96c1176a1a9f",
+      "season": 1,
+      "number": 18,
+      "name": "Korkampen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "509bde17-76cc-45b5-ac70-7ef325b455f3",
+      "season": 1,
+      "number": 20,
+      "name": "Far som superlærer",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f015c4f6-6b3e-4e54-b9f1-3f88335eea23",
+      "season": 2,
+      "number": 1,
+      "name": "Fire rødder og en baby",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "5cf34acc-b377-4c14-b512-037230df1ca4",
+      "season": 2,
+      "number": 2,
+      "name": "Cheer and Present Danger",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "fe8534ce-df4c-4c12-922e-5f395ab2d7b5",
+      "season": 2,
+      "number": 3,
+      "name": "Thunderbilen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "a3bf7eba-62d1-4ff5-97ef-8ce3946158b4",
+      "season": 2,
+      "number": 4,
+      "name": "Fupkunstnere",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "b39190ba-7a94-427a-b260-e6433057a4ad",
+      "season": 2,
+      "number": 5,
+      "name": "Max's Minions",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "dc146356-50fb-41ce-b83b-7283e62a54c7",
+      "season": 2,
+      "number": 6,
+      "name": "Partyforældre",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "5bd51c0f-a0e6-43cb-bc1d-57d275eb338c",
+      "season": 2,
+      "number": 7,
+      "name": "Pop og papir",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "3c0db60f-8499-466e-989b-6e86d5a259da",
+      "season": 2,
+      "number": 8,
+      "name": "Pheebs Will Rock You",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "3c03f7f1-9b66-42a5-9a95-030074966cfd",
+      "season": 2,
+      "number": 9,
+      "name": "Elektrisk fødselsdag",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "203db1b2-b33f-4525-960b-5ae5e19000ee",
+      "season": 2,
+      "number": 10,
+      "name": "Episk fallerina",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "7465cf03-2568-475d-8a9b-0c1f79ec1875",
+      "season": 2,
+      "number": 11,
+      "name": "Sidste aften med klikerne",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "e8c708d2-aaac-4a13-ac4a-8e0a83147926",
+      "season": 2,
+      "number": 12,
+      "name": "De hjemsøgte Hathaways",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d4e81d6c-4f5b-4d3c-a9d2-de8b39719711",
+      "season": 2,
+      "number": 13,
+      "name": "Supermor",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "fe9ee70c-a3c8-44da-9266-2adba165d606",
+      "season": 2,
+      "number": 14,
+      "name": "Det vildeste rotteræs",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "cc412614-c6ff-4115-b59b-1e7205c1eb62",
+      "season": 2,
+      "number": 15,
+      "name": "Jul i Thunderland",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "ad2ffef9-f708-4cb4-b283-7393b73c1d9f",
+      "season": 2,
+      "number": 16,
+      "name": "En slem fjende",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "7e4aeda9-2801-4f14-8725-52ac3cf69770",
+      "season": 2,
+      "number": 17,
+      "name": "De blå bønner",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d6192c3c-d853-4f35-ad44-5bd3c3cb23e5",
+      "season": 2,
+      "number": 18,
+      "name": "En superhelt fødes - del 1",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "04fe794c-66b4-4fde-ad21-72227b1b3d65",
+      "season": 2,
+      "number": 19,
+      "name": "En superhelt fødes - del 2",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "71dc0455-ac16-45e3-bf64-228b1c909204",
+      "season": 2,
+      "number": 20,
+      "name": "Kamp til stregen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "a906ce5b-bf03-41bd-9a4c-de3627bd96d4",
+      "season": 2,
+      "number": 21,
+      "name": "Det er ikke, hvad du tror!",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "078a0534-31ee-430c-827c-87fd41b37bbf",
+      "season": 2,
+      "number": 22,
+      "name": "Superheltekappen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "12eeb7ca-8f8f-49fa-9a8b-621ff4f58c83",
+      "season": 2,
+      "number": 23,
+      "name": "Straffet",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "b4a506a0-9ca0-48aa-8d2a-1be4836af6d6",
+      "season": 2,
+      "number": 24,
+      "name": "Det store hit",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "235c321e-4a26-49db-bf36-67f83dd4fd01",
+      "season": 2,
+      "number": 25,
+      "name": "Ged i dragen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "0fb95266-8dab-494b-86f3-30949f57738f",
+      "season": 3,
+      "number": 1,
+      "name": "På med pilen, Cherry",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "36a80c02-e576-4f43-be75-3b879168f669",
+      "season": 3,
+      "number": 2,
+      "name": "Phoebe mod Max: Fortsættelsen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "0bb454ab-c66a-4b82-9a9a-4f432b7017b8",
+      "season": 3,
+      "number": 3,
+      "name": "Mangomonster",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "f8be5b09-888a-4d2c-b3ea-ea922b3d5274",
+      "season": 3,
+      "number": 4,
+      "name": "Rapserier",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d40d2d0d-6a2d-4afb-84eb-1f12e2803c69",
+      "season": 3,
+      "number": 5,
+      "name": "Thundermanturen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "4cc4b5df-be03-4dcc-8216-a4138e87652a",
+      "season": 3,
+      "number": 6,
+      "name": "Ondskaben sover aldrig",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "d224bd19-07f1-440b-8360-6a2a3a33f013",
+      "season": 3,
+      "number": 7,
+      "name": "Albuerum",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "bf65f782-7e28-4861-ad06-ba774a23680d",
+      "season": 3,
+      "number": 8,
+      "name": "Spytkugler",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "da71e5d7-d7da-4344-81f2-3e1b97de093d",
+      "season": 3,
+      "number": 9,
+      "name": "Stinkeplanten",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "052929ba-8fb4-47d5-a653-f2b9b95c4821",
+      "season": 3,
+      "number": 10,
+      "name": "Giv mig en klap",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "a7dcb695-41e8-41d8-868e-d1049e4b58fe",
+      "season": 3,
+      "number": 11,
+      "name": "Store dateforventninger",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "a59dab2c-8870-46fd-a321-d5c11b499a4b",
+      "season": 3,
+      "number": 12,
+      "name": "Gammel, men god",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "60294962-b72b-44eb-91cc-e75eab73da54",
+      "season": 3,
+      "number": 13,
+      "name": "Familien Thunderman afsløret! Del 1",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "f038b0f5-ad3c-4859-abb6-1eb70a7b1614",
+      "season": 3,
+      "number": 14,
+      "name": "Familien Thunderman afsløret! Del 2",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "8b705cd1-40c8-4824-bc7e-5b1c311f1fc1",
+      "season": 3,
+      "number": 15,
+      "name": "Spil for galleriet",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "4604e218-0a5f-42e9-bcf1-3bf61f6f949e",
+      "season": 3,
+      "number": 16,
+      "name": "Kys mig, Nate",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "335a7245-7f43-4a6a-bb77-208695d4fd1f",
+      "season": 3,
+      "number": 17,
+      "name": "Du går i glemmebogen, fjols",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "c0b4d193-ad20-420f-8279-99818b86f9d8",
+      "season": 3,
+      "number": 18,
+      "name": "Helt til hundene",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "e0bcd913-0b0b-4a6a-ba76-3bf5296b5d79",
+      "season": 3,
+      "number": 19,
+      "name": "Strid tante",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "65d47475-4535-453f-8095-fc5ae2c83e9a",
+      "season": 3,
+      "number": 20,
+      "name": "Tilbage på skolebænken",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "2970e829-75d1-4e5d-8f4c-b885450e73dd",
+      "season": 3,
+      "number": 21,
+      "name": "Den fødte spasmager",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "6e5fef85-a59e-4e26-999d-e076023544ab",
+      "season": 3,
+      "number": 22,
+      "name": "Kærlighedsspionen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "2daac210-9a6a-48e4-9386-2820b59745be",
+      "season": 3,
+      "number": 23,
+      "name": "Rør og splat",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "e583486c-2fa9-4cc4-8ee6-36ae455d7696",
+      "season": 3,
+      "number": 24,
+      "name": "Møbler på afveje",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "07bc10cf-a08b-4935-9530-b4ef9cc7e0fe",
+      "season": 3,
+      "number": 25,
+      "name": "Phoebe Hood, den fredløse",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "05c6ae83-7757-46ad-b672-7a1c8c11b098",
+      "season": 3,
+      "number": 26,
+      "name": "Tæsk mor og far",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "78c70354-632f-4536-ae30-28e9d94ed9bd",
+      "season": 4,
+      "number": 1,
+      "name": "Kærestepar",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "e8ef33d6-749f-4ba0-8b7e-4dc86974f71a",
+      "season": 4,
+      "number": 2,
+      "name": "Totalt tjekket Team Spirit",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "1d5f82fc-0e3d-4522-86c5-f8383b0e44a1",
+      "season": 4,
+      "number": 4,
+      "name": "Berømmelsens forbandelser - del 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "df61fbfa-0583-4e35-beb4-1e731763709e",
+      "season": 4,
+      "number": 9,
+      "name": "Phoebes familiefest",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "7d9b7d55-6f10-4409-8565-bb1358ac8583",
+      "season": 4,
+      "number": 11,
+      "name": "Ond ungdom",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "d120320a-81de-4b01-b9b3-48fea0f3166c",
+      "season": 4,
+      "number": 12,
+      "name": "The Thunder Games - del 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "4c58d56a-6a42-4280-9885-97713380f41b",
+      "season": 4,
+      "number": 13,
+      "name": "The Thunder Games - del 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "339f3cb3-1461-4cf9-b9b4-4e9087e6099d",
+      "season": 4,
+      "number": 19,
+      "name": "Forløsende bror",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "168075d4-9399-44bb-b05d-8e8495edd486",
+      "season": 4,
+      "number": 21,
+      "name": "Udbrud i paradis - del 2",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "f1f1e0fb-f6b2-4c28-8dd7-edacf41839c5",
+      "season": 4,
+      "number": 24,
+      "name": "Pigerne mod drengene",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "719272b5-7c3e-4d8e-b85f-96cf6dcbd88b",
+      "season": 4,
+      "number": 25,
+      "name": "Medhjælper med slag i",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "efc5c787-87d0-455f-9434-92c351eda7e0",
+      "season": 4,
+      "number": 26,
+      "name": "Cookie i planerne",
+      "airdate": "2023-03-15"
+    }
+  ]
+}

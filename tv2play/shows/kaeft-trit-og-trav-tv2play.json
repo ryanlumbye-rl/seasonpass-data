@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:kaeft-trit-og-trav-tv2play",
+  "name": "Kæft, trit og trav",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det er make it or break it. For selvom der er store summer på spil, er der også kort til bunden i travsporten. Vi følger triumfer og frustrationer, når de to nordjyske travtrænere og kuske Nicklas Korfitsen og Jeppe Juel kæmper for succes og sæsonens største præmiegevinster.",
+  "image": "https://cdn-play.tv2i.dk/6f709c7e-a74c-4514-9911-1b5ac9a7542a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "b047c38c-e31b-4eed-9ab0-19f7bffe378c",
+      "season": 1,
+      "number": 1,
+      "name": "Den tunge arv",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "8ba16842-9ef3-4010-82cc-9992106ee3f7",
+      "season": 1,
+      "number": 2,
+      "name": "Nerver på travbanen",
+      "airdate": "2026-03-28"
+    },
+    {
+      "id": "bcfad6b5-7e5c-483f-b730-7f36480db957",
+      "season": 1,
+      "number": 3,
+      "name": "Alt på spil",
+      "airdate": "2026-04-04"
+    }
+  ]
+}

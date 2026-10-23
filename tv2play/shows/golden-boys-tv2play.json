@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Ny serie inspireret af Trustor-affæren. Golden Boys spiller højt spil for at gennemføre storslåede, men ulovlige, planer om at skabe et imperium.",
+  "image": "https://cdn-play.tv2i.dk/b6204243-2674-4012-92a2-047d8b48f0ca.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
   "episodes": [
     {
       "id": "95c58938-c664-439b-8417-9afaec30987e",

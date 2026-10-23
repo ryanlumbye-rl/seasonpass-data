@@ -1,0 +1,103 @@
+{
+  "id": "tv2play:the-enemy-within-skyshowtime",
+  "name": "The Enemy Within",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "FBI-agenten Will Keaton tvinges modvilligt til at hyre den mest berygtede forræder i amerikansk historie, den tidligere CIA-agent Erica Shepherd, til at hjælpe med at opspore en yderst farlig og undvigende spion.",
+  "image": "https://cdn-play.tv2i.dk/9ae2b162-d7fc-4feb-8f80-4900e621be67.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d5718d18-96bb-46e3-bda8-a792e4273b61",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "880114a6-2c1c-4664-a30c-e09936c3a7c3",
+      "season": 1,
+      "number": 2,
+      "name": "Black Bear",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "bafba17e-e4cf-45ab-a02b-1843920856ca",
+      "season": 1,
+      "number": 3,
+      "name": "The Ambassador's Wife",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "9ffb080a-2249-44b9-86a4-d32dda220ad0",
+      "season": 1,
+      "number": 4,
+      "name": "Confessions",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "d4b000f0-b56f-486e-b784-bb9597e2f7f7",
+      "season": 1,
+      "number": 5,
+      "name": "Havana",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "a98ea30b-47f0-44a3-9cd7-b3b83e5b5465",
+      "season": 1,
+      "number": 6,
+      "name": "Eye of Horus",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "b8ec04a0-b746-41e6-8767-6a37d3e4464f",
+      "season": 1,
+      "number": 7,
+      "name": "Decoded",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "ec37561d-bfdd-445a-98af-53f3b36c5365",
+      "season": 1,
+      "number": 8,
+      "name": "An Offer",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "f9c7e8d6-5135-480a-b819-b360c5396b7b",
+      "season": 1,
+      "number": 9,
+      "name": "Homecoming",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "8e0e4ef5-f5c6-4b2d-a7e9-63c7a153cd71",
+      "season": 1,
+      "number": 10,
+      "name": "Chigorin",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "7e7d200a-c711-441c-a879-5bbb54473ac0",
+      "season": 1,
+      "number": 11,
+      "name": "The Embassy",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "36ca8ed2-adb4-498d-88f7-86a4df3c0db9",
+      "season": 1,
+      "number": 12,
+      "name": "Sequestered",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "d6524050-db16-44d3-8ed9-eb18628fe076",
+      "season": 1,
+      "number": 13,
+      "name": "Sierra Maestra",
+      "airdate": "2025-09-09"
+    }
+  ]
+}

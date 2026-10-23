@@ -4,7 +4,9 @@
   "service": "tv2",
   "status": "Running",
   "tmdbId": null,
-  "next": "2026-11-04",
+  "next": "2026-10-28",
+  "description": "Rasmus Seebach og Ankerstjerne er en del af det ambitiøse og kreative hold, der sammen skal skabe en ny musical helt fra bunden. Kom tæt på det benhårde arbejde bag kulisserne og jagten på at finde det helt rigtige talent til at spille hovedrollen som Olivia.",
+  "image": "https://cdn-play.tv2i.dk/80795b88-ecf7-31bc-9b1c-24b0aa4a14cd.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
   "episodes": [
     {
       "id": "e2134059-d75f-441d-81e5-2bc219823838",
@@ -12,6 +14,13 @@
       "number": 1,
       "name": "Jagten begynder",
       "airdate": "2026-10-21"
+    },
+    {
+      "id": "8a66122b-73bc-4ef9-8b3e-873982f48f13",
+      "season": 1,
+      "number": 2,
+      "name": "Sved, sang og råt talent",
+      "airdate": "2026-10-28"
     },
     {
       "id": "017784f0-9932-4dbe-8a69-2bb62437cba1",

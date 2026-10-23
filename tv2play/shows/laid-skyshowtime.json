@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:laid-skyshowtime",
+  "name": "Laid",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ruby Yao, en 33-årig singlekvinde, der søger efter kærlighed, befinder sig midt i et mysterium. Efter en af hendes ekskærester er død, begynder andre at lide samme skæbne - de dør på mystisk vis i den rækkefølge, hun har været i seng med dem.",
+  "image": "https://cdn-play.tv2i.dk/be4cad3f-d74f-4c16-80b6-e45c97e7b5c1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d06d8079-a769-4c0b-9547-eb110441c329",
+      "season": 1,
+      "number": 1,
+      "name": "Brandon from College",
+      "airdate": "2025-01-13"
+    },
+    {
+      "id": "9ff3844a-839b-4af8-94fc-2e4e3cb749b5",
+      "season": 1,
+      "number": 2,
+      "name": "FB to the T",
+      "airdate": "2025-01-13"
+    },
+    {
+      "id": "1e2e5881-1f93-4150-87c6-58a54b76c84e",
+      "season": 1,
+      "number": 3,
+      "name": "Sex Cluster",
+      "airdate": "2025-01-13"
+    },
+    {
+      "id": "59c4f3c5-f2b8-4235-b6b8-3e7839e3e61e",
+      "season": 1,
+      "number": 4,
+      "name": "Flagstaff",
+      "airdate": "2025-01-13"
+    },
+    {
+      "id": "1c8682f9-0da4-4aa1-9902-cc0f1c38dce7",
+      "season": 1,
+      "number": 5,
+      "name": "Secret Soft",
+      "airdate": "2025-01-13"
+    },
+    {
+      "id": "8ce237b8-1306-45fa-a710-67383bcbfb44",
+      "season": 1,
+      "number": 6,
+      "name": "More Handsome than Joe Jonas",
+      "airdate": "2025-01-13"
+    },
+    {
+      "id": "a5b99350-64ab-4908-a088-e9996b381349",
+      "season": 1,
+      "number": 7,
+      "name": "Toby and Lindsey Are Here",
+      "airdate": "2025-01-13"
+    },
+    {
+      "id": "4f5a8012-fb3f-4fd7-89af-41c1b7a5b94a",
+      "season": 1,
+      "number": 8,
+      "name": "Il Mostro del Sesso",
+      "airdate": "2025-01-13"
+    }
+  ]
+}

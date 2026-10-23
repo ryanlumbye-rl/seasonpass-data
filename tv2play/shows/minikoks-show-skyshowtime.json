@@ -1,0 +1,215 @@
+{
+  "id": "tv2play:minikoks-show-skyshowtime",
+  "name": "Minikoks Show",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tiny Chef er vært for et plantebaseret madlavningsshow med sine bedste venner Olly, Ruby og Henry.",
+  "image": "https://cdn-play.tv2i.dk/b01079ae-20f3-4f5d-ae4e-da5250e97d3e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3468%2C1951&w=1280",
+  "episodes": [
+    {
+      "id": "f5098427-497b-4fdf-84d2-986bf3f9aa2f",
+      "season": 1,
+      "number": 1,
+      "name": "Pizza og brød",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "77c0b868-e9c5-4385-a587-f9cc5f732838",
+      "season": 1,
+      "number": 2,
+      "name": "Popcorn og banantoast",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "c10eb297-d8b9-4c99-9581-d890f69952cc",
+      "season": 1,
+      "number": 3,
+      "name": "Appelsin-ispinde og limonade",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "0797d5cd-642c-4e4a-b178-1e34b9b0a776",
+      "season": 1,
+      "number": 4,
+      "name": "Pandekager og s'mores",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "a17650c0-483f-4dc2-b504-ddb5a9c9de53",
+      "season": 1,
+      "number": 5,
+      "name": "Cookies og lynstegte sukkerærter",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "51694f00-4312-4ce8-a390-4c63a31206ba",
+      "season": 1,
+      "number": 6,
+      "name": "Æbletærte og guacamole",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "bdb79187-5573-4caf-ab3e-8d47e4f8d264",
+      "season": 1,
+      "number": 7,
+      "name": "Myrer på træstamme og quesadillas",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "7faa8597-0cb8-4dbc-b9e2-adbb2681a9f9",
+      "season": 1,
+      "number": 8,
+      "name": "Mac and Cheese og kartoffelgryde",
+      "airdate": "2023-08-01"
+    },
+    {
+      "id": "4379b292-d34d-4bfc-8c64-527dd4db569e",
+      "season": 2,
+      "number": 1,
+      "name": "Miskmask",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "e0f0979f-2a71-4898-a699-e820bf7a7773",
+      "season": 2,
+      "number": 2,
+      "name": "Donuts og regnbuesalat",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "70c15b67-a63b-4a96-956f-753ab9c2e8d7",
+      "season": 2,
+      "number": 3,
+      "name": "Et mysterieum og suppe med matzoboller",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "fa611f31-aeb2-4b39-aabd-f1f5ec77e873",
+      "season": 2,
+      "number": 4,
+      "name": "Peanutbutter og marmelade og lige dét, Henry vil ha'",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "6d5d1d5c-fcb2-4c84-80da-f450583c2801",
+      "season": 2,
+      "number": 5,
+      "name": "Myslibarrer og nachos",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "f796d4b9-be46-4843-9602-3cdd5fe59b65",
+      "season": 2,
+      "number": 6,
+      "name": "Frugtbidder og operakage",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "c4d23d04-41c8-48c8-a4c7-c8602db0ce22",
+      "season": 2,
+      "number": 7,
+      "name": "Is og tomatsovs",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "718815a8-685a-48b2-8c6f-9bc07fc3a649",
+      "season": 2,
+      "number": 8,
+      "name": "Løgdip og te",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "8455a7f9-2cdd-4b8c-81c4-1213f2684428",
+      "season": 2,
+      "number": 9,
+      "name": "Dinokage og dumplings",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "708b8357-b923-4531-8b40-1b051c4f81ad",
+      "season": 2,
+      "number": 11,
+      "name": "Rabarbertærte og smoothies",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "915cf72e-4834-4f7e-abbc-3847e827288d",
+      "season": 3,
+      "number": 1,
+      "name": "Nopales Tacos",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "550a427c-770d-4345-921c-0fe169afbb43",
+      "season": 3,
+      "number": 2,
+      "name": "Nuddelsuppe",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "32e75d97-6c96-4e4f-89a5-57211d4c5d85",
+      "season": 3,
+      "number": 3,
+      "name": "Selleri og hummus",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "1dc699d6-3645-4cde-8731-88eb44a70bb5",
+      "season": 3,
+      "number": 4,
+      "name": "Chili og majsbrød",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "619a5553-3eaa-4b17-849c-6668566849b3",
+      "season": 3,
+      "number": 5,
+      "name": "Bønnekage",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "2e7733fc-be2c-45db-a904-67c63623ee26",
+      "season": 3,
+      "number": 6,
+      "name": "Bananbrød og stjernefrugt-parfait",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "575636bd-751e-46bc-912c-7960009fee1c",
+      "season": 3,
+      "number": 7,
+      "name": "Vegetarburger med hemmelig sauce",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "2a870282-6e47-4a56-ab1a-da23464df058",
+      "season": 3,
+      "number": 8,
+      "name": "Fødselsdagskanelsnegle",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "43c520c1-0f7d-47d7-bd3b-e04cca97e8f0",
+      "season": 3,
+      "number": 9,
+      "name": "Fwendsgiving-middag og blåbærcrumble",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "f6af8855-abbc-4a21-959e-354b06c96323",
+      "season": 3,
+      "number": 10,
+      "name": "Bagte æbler og grøntsagsgryde",
+      "airdate": "2025-07-26"
+    },
+    {
+      "id": "b52f985b-c825-4942-9676-023f43b3d65f",
+      "season": 3,
+      "number": 11,
+      "name": "Tiny Chefs uhyggelige Stump-spektakel",
+      "airdate": "2026-01-31"
+    }
+  ]
+}

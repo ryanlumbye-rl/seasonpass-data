@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "'Højskolen' fortsætter samtalen i livedebatter fra de tre højskoler. Her bliver programmerne afsæt for debat om nogle af de spørgsmål, der fylder mest i Danmark lige nu.",
+  "image": "https://cdn-play.tv2i.dk/e8ac1556-5812-347f-90e0-529f5ab9daf3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "6aa65bd2-2abf-4c67-942a-5e786cd76160",

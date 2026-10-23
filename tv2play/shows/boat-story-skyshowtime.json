@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:boat-story-skyshowtime",
+  "name": "Boat Story",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da to fremmede i pengenød falder over en ladning kokain på et forlist skib, bliver de hurtigt rodet ind i en affære med politi, maskerede lejemordere og en skarpskåret fransk gangster, der kun er kendt som \"Skrædderen\"",
+  "image": "https://cdn-play.tv2i.dk/0c21ff15-09d3-4ca6-9ef8-507c422635a6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3474%2C1954&w=1280",
+  "episodes": [
+    {
+      "id": "ec0cf96f-eedf-45c2-8bae-7812f079f26a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "23d33210-5bc3-409c-8264-5f730afb6bf6",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-04-05"
+    },
+    {
+      "id": "68fff462-2d3b-4a5c-8f6e-30e9414c6793",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-04-12"
+    },
+    {
+      "id": "3c34ee3b-6b95-4e78-8b29-577921608813",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-04-19"
+    },
+    {
+      "id": "e82d8766-e2a7-41ca-a87c-83932f2a4a6e",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "5a52c903-6d5f-431b-8be4-d10ef3953c7b",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-05-03"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "tv2play:virkelige-hoejs-hus-skyshowtime",
+  "name": "Virkelige Højs Hus",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lincoln Høj navigerer i kaosset ved at bo i en familie med ti søstre med hjælp fra sin bedste ven Clyde McBride",
+  "image": "https://cdn-play.tv2i.dk/6842a250-573b-4da8-a58a-becbfb00555d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "71b91ac8-bdab-42cd-ab49-714ff4d197cf",
+      "season": 1,
+      "number": 1,
+      "name": "Machomanden med planen",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "1dbdd6b7-0306-41fb-a744-7738b6d0d054",
+      "season": 1,
+      "number": 2,
+      "name": "En rodet rengøring",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "b58fab84-c026-4ca5-8d1c-b7c78b211680",
+      "season": 1,
+      "number": 3,
+      "name": "Ro-Bror",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "001ef54d-6387-42b4-954a-26ea8358abc5",
+      "season": 1,
+      "number": 4,
+      "name": "Bumseballaden",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "b24d39bf-e6bb-4b79-ac7d-ae50f157554a",
+      "season": 1,
+      "number": 5,
+      "name": "En manager med en plan-ager",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "278ef2d4-8e07-42bf-b9a5-e759c72d2fd0",
+      "season": 1,
+      "number": 6,
+      "name": "Bananasplit-beslutningen",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "460955ab-f4d0-4a4a-b601-1326e31d4d9f",
+      "season": 1,
+      "number": 7,
+      "name": "Manden når du' på spanden",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "2e8a21c2-5a28-4848-8fc2-25a55ac5f7b3",
+      "season": 1,
+      "number": 8,
+      "name": "Lad mig holde din hånd",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "835ff7bb-20c5-4645-9d4e-6039eeb34c48",
+      "season": 1,
+      "number": 9,
+      "name": "Prinsessen og den evige smaragd: Et eventyr fra Kongeskoven - del 1",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "2f536b99-8354-431b-8682-40c43c82adca",
+      "season": 1,
+      "number": 10,
+      "name": "Prinsessen og den evige smaragd: Et eventyr fra Kongeskoven - del 2",
+      "airdate": "2023-09-02"
+    },
+    {
+      "id": "71963621-c620-4e0f-9d4f-1c332d44ced2",
+      "season": 1,
+      "number": 11,
+      "name": "Du er min",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "a2e9e8fe-e075-4fd3-ae59-a083326adb84",
+      "season": 1,
+      "number": 12,
+      "name": "Adgang forbudt for Høj'er",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "94160c4a-28e8-4430-8b71-ae418151c19b",
+      "season": 1,
+      "number": 13,
+      "name": "Helten er derhjemme",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "dca045cc-adb0-4d03-b5e0-37eaadd9d73d",
+      "season": 1,
+      "number": 14,
+      "name": "Et stinkende mareridt",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "ed721aba-bc1c-412f-8b11-7f3db7a279d6",
+      "season": 1,
+      "number": 15,
+      "name": "Stavning og dørfis",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "28fad029-ba30-454c-a5d7-f08fcef6d283",
+      "season": 1,
+      "number": 16,
+      "name": "Alt er tilladt i kærlighed og sleepovers",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "80f053f7-be51-404b-8c7c-33e7d93044d9",
+      "season": 1,
+      "number": 17,
+      "name": "Sammen er vi stærkere",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "7a733e18-39c9-4389-ab41-6d9ec005c040",
+      "season": 1,
+      "number": 18,
+      "name": "En ven at elske",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "6696ec46-cb90-42e2-90fd-68ab9d22dca4",
+      "season": 1,
+      "number": 19,
+      "name": "En mors dags-ommer",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "33b6c0f8-1e12-4079-9c35-d360715a5f57",
+      "season": 1,
+      "number": 20,
+      "name": "Den der jodler sidst...",
+      "airdate": "2024-04-15"
+    },
+    {
+      "id": "fc3adadd-7346-4713-8c86-cce79b843235",
+      "season": 2,
+      "number": 1,
+      "name": "En mindeværdig musical - del 1",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "e4d43ffb-5fdb-4055-b41e-4de3d734d55b",
+      "season": 2,
+      "number": 2,
+      "name": "En mindeværdig musical - del 2",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "ba36af64-5099-41e6-b8de-b08f82058ee9",
+      "season": 2,
+      "number": 3,
+      "name": "De gode fyre kommer først",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "2aae70d1-9197-49cd-961e-25d0417b7217",
+      "season": 2,
+      "number": 4,
+      "name": "Slip for stikbold",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "543d10d9-286f-474f-b0d6-86469c152bf8",
+      "season": 2,
+      "number": 5,
+      "name": "Den sidste ven tilbage",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "f1cff09a-f970-4cc7-8d95-4599fd57d390",
+      "season": 2,
+      "number": 6,
+      "name": "Et dusin højere",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "79c5bde9-4e56-4eb2-bbfc-45037c52d309",
+      "season": 2,
+      "number": 7,
+      "name": "Forelskede Høj",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "3cd1ca6e-1492-44cd-9876-935b4a236fce",
+      "season": 2,
+      "number": 8,
+      "name": "Den anden mand med bedre planer",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "e4de973c-8d1b-4ec0-8ff2-c753a0b8199d",
+      "season": 2,
+      "number": 9,
+      "name": "Tennessee-overraskelsen -- Amoriner i luften",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "bf16ebc4-eaec-4412-97a1-2058eca96bd0",
+      "season": 2,
+      "number": 10,
+      "name": "Familien Højs domstol: Retfærdighedens flammer",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "542ebf88-7fa5-41da-8215-b8dedb8e26e4",
+      "season": 2,
+      "number": 11,
+      "name": "McCloud mod maskinerne",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "96f479b3-68d6-4eb4-b0bd-02ed3c43a3f8",
+      "season": 2,
+      "number": 12,
+      "name": "Lillesøstrenes store eventyr",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "7618ef7c-c942-432a-a236-c8f1960f312d",
+      "season": 2,
+      "number": 13,
+      "name": "Høj blues",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "865a832b-57b6-4666-9b40-ab99cab7a90c",
+      "season": 2,
+      "number": 14,
+      "name": "Kærester for evigt",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "7a89a4df-ccd9-4e1d-9e0b-8a1398bd3330",
+      "season": 2,
+      "number": 15,
+      "name": "Manden med backup-planen",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "9cf879b4-c044-4f89-b6b7-a000c42f78ac",
+      "season": 2,
+      "number": 16,
+      "name": "Odysseen",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "7072cc9c-723e-48c5-9056-3cd15c9e8a3f",
+      "season": 2,
+      "number": 17,
+      "name": "En fortælling om tre fester",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "278589b9-fc3d-4181-aa8c-67bcad83b218",
+      "season": 2,
+      "number": 18,
+      "name": "Spilleaften",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "2e8e5cec-6478-4502-b988-35af0c61489d",
+      "season": 2,
+      "number": 19,
+      "name": "Et epos om episke uheld: en gal mands plan",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "c83a5ca3-6b2c-4dbc-aea2-2c88d6a54ca9",
+      "season": 2,
+      "number": 20,
+      "name": "En kalkuleret kalkunskandale",
+      "airdate": "2025-03-29"
+    }
+  ]
+}

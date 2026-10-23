@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:solstraaler-tvmidtvest",
+  "name": "Solstråler",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I arbejdet som journalist møder man indimellem mennesker, som fæstner sig i hukommelsen. De møder har journalist Anne Moulvad oplevet flere gange. Nu har hun valgt at gense nogle af dem, som har gjort et helt særligt indtryk.",
+  "image": "https://cdn-play.tv2i.dk/5a400a93-abc4-4f5a-9aaf-5c8ee4afbdda.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "c330fbfb-95d8-4df0-adca-0fbef769578f",
+      "season": 4,
+      "number": 1,
+      "name": "Fårehyrdens kamp",
+      "airdate": "2025-09-21"
+    },
+    {
+      "id": "b6c8c499-7fe2-4a38-93b4-5c3a6a221d76",
+      "season": 4,
+      "number": 2,
+      "name": "Bondeknægten, der blev millionær",
+      "airdate": "2025-09-21"
+    },
+    {
+      "id": "f62a6936-b3f4-42ad-98a8-bc64279ab8b6",
+      "season": 4,
+      "number": 3,
+      "name": "Stjernernes lærermester",
+      "airdate": "2025-09-21"
+    }
+  ]
+}

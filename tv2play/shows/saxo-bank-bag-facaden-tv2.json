@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:saxo-bank-bag-facaden-tv2",
+  "name": "Saxo Bank bag facaden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Saxo Bank er et af de største erhvervseventyr i Danmark. De to stiftere af banken, Lars Seier Christensen og Kim Fournais, har tjent milliarder på den succesfulde bank. Men hvor er pengene kommet fra? TV 2 Dokumentar undersøger, hvad der er sket i Saxo Bank, og hvordan banken har tjent sine penge",
+  "image": "https://cdn-play.tv2i.dk/c328f872-d855-464f-9cda-87d72f929f2d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7f0f702f-be7c-4ac4-846b-308da2beef60",
+      "season": 1,
+      "number": 1,
+      "name": "Den russiske forbindelse",
+      "airdate": "2023-02-26"
+    },
+    {
+      "id": "9fb2aea3-954a-49aa-b2cf-7afa678c6f4e",
+      "season": 1,
+      "number": 2,
+      "name": "Opgøret",
+      "airdate": "2023-03-05"
+    }
+  ]
+}

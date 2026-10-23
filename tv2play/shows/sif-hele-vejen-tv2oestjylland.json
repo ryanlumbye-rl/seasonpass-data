@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:sif-hele-vejen-tv2oestjylland",
+  "name": "SIF hele vejen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Christian Ditlev har været Silkeborg IF-fan, siden han kunne sparke til en bold. Men nu står Christian og hans tre venner over for et SIF i forandring. Klubben er overtaget af en amerikanskinvesteringsvirksomhed, og det skaber både håb og frygt blandt fansene.",
+  "image": "https://cdn-play.tv2i.dk/77515635-21d1-4f4e-85c9-b90b0f0852be.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4afdfa2f-b211-40ac-b204-2645fbad9360",
+      "season": 1,
+      "number": 1,
+      "name": "Det hjælper på mit blodtryk",
+      "airdate": "2025-07-06"
+    },
+    {
+      "id": "859e6de9-8955-4bc3-bdfc-bf924916ea18",
+      "season": 1,
+      "number": 2,
+      "name": "Uden det her var jeg ensom",
+      "airdate": "2025-07-13"
+    },
+    {
+      "id": "ae84f538-2f73-4cd7-b270-7e9e7ef74714",
+      "season": 1,
+      "number": 3,
+      "name": "Tænk hvis vi vandt",
+      "airdate": "2025-07-20"
+    }
+  ]
+}

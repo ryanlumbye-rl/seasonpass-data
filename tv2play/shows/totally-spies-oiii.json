@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "For alle andre virker Sam, Alex og Clover som helt almindelige gymnasiepiger, der går i skole, laver lektier og hænger ud med venner. Men deres liv er alt andet end normalt! De er faktisk superseje hemmelige agenter for en tophemmelig organisation kaldet WOOHP!",
+  "image": "https://cdn-play.tv2i.dk/6d04bc2f-bcef-4913-a579-f0a90be95b97.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "20901123-1e63-4b20-870b-0fafae010b6c",
@@ -19,6 +21,13 @@
       "number": 2,
       "name": "Vanvittigt cirkus",
       "airdate": "2005-03-27"
+    },
+    {
+      "id": "c62a5363-3372-4932-bbbf-04908d7f4bb5",
+      "season": 3,
+      "number": 3,
+      "name": "Computere og zombier",
+      "airdate": "2005-04-03"
     },
     {
       "id": "a2389f9d-6fff-477f-9817-427f531e0cda",

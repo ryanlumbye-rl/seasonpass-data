@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:et-lig-i-haven-tv2play",
+  "name": "Et lig i haven",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Der går chokbølger gennem den rolige, walisiske by Beddau, da man finder et lig pakket ind i 40 lag plastik gemt væk i et haveskur. Opklaringsarbejdet går straks i gang, og det går snart op for politiet, at de har at gøre med en yderst kompleks og indviklet mordsag, der fører helt til New Zealand.",
+  "image": "https://cdn-play.tv2i.dk/d1b1d5bd-004e-410a-8804-eb67a76771aa.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "db80a122-73ee-447f-be09-947364883311",
+      "season": 1,
+      "number": 1,
+      "name": "Liget",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "ee6ab6c6-f311-4de2-8bcc-47fedebc82e4",
+      "season": 1,
+      "number": 2,
+      "name": "Hemmeligheden",
+      "airdate": "2025-01-06"
+    },
+    {
+      "id": "ab1713b0-9c81-4238-a4bc-070ee2793e6b",
+      "season": 1,
+      "number": 3,
+      "name": "Sandheden",
+      "airdate": "2025-01-13"
+    }
+  ]
+}

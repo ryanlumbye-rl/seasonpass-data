@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:kaerlig-hilsen-tv2",
+  "name": "Kærlig hilsen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kendte danskere flytter tilbage til barndommen - til dengang, de var 12 år gamle - og de tager familien med. Kan mødet med fortiden gøre os klogere på nutiden?",
+  "image": "https://cdn-play.tv2i.dk/7643fbdd-e040-4d81-93f1-149fb9308603.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C999%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "010ed3b4-f085-4cb6-8983-554e03ee40b4",
+      "season": 1,
+      "number": 1,
+      "name": "1963 - Med Jarl Friis-Mikkelsen",
+      "airdate": "2018-10-28"
+    },
+    {
+      "id": "14fc1e7a-af61-40d3-b744-650566f120a2",
+      "season": 1,
+      "number": 2,
+      "name": "1976 - Med Marianne Florman",
+      "airdate": "2018-11-04"
+    },
+    {
+      "id": "da96c571-1440-4b8b-a698-19093fcda6ce",
+      "season": 1,
+      "number": 3,
+      "name": "1985 - Med Anne Sofie Espersen",
+      "airdate": "2018-11-11"
+    },
+    {
+      "id": "adf2b4de-b40f-4aed-b66b-3c3eb7e1be9c",
+      "season": 2,
+      "number": 1,
+      "name": "1958 - Lisbet Dahl",
+      "airdate": "2019-12-25"
+    },
+    {
+      "id": "2e3b93b2-ddb5-4a58-89dc-a6efa6b78620",
+      "season": 2,
+      "number": 2,
+      "name": "1983 - Annette Heick",
+      "airdate": "2019-12-27"
+    },
+    {
+      "id": "5e8017c8-4434-4128-9f7e-df1c07316785",
+      "season": 2,
+      "number": 4,
+      "name": "1994 - Astrid Krag",
+      "airdate": "2019-12-29"
+    },
+    {
+      "id": "5986c749-aa95-4358-a667-081f30271c95",
+      "season": 2,
+      "number": 5,
+      "name": "1970 - Søs Egelind",
+      "airdate": "2020-03-23"
+    },
+    {
+      "id": "aab9fc87-f925-4d5e-aefc-94c22c160d15",
+      "season": 2,
+      "number": 6,
+      "name": "1975 - Anders Lund Madsen",
+      "airdate": "2020-04-06"
+    },
+    {
+      "id": "b47912ab-4c7d-4916-a65e-039e731e35ae",
+      "season": 2,
+      "number": 7,
+      "name": "1997 - Thomas Buttenschøn",
+      "airdate": "2020-04-13"
+    },
+    {
+      "id": "3c1710c6-af47-4918-87aa-d2fb3c0b42ae",
+      "season": 2,
+      "number": 8,
+      "name": "1987 - Ibi Makienok",
+      "airdate": "2020-09-07"
+    },
+    {
+      "id": "7e68dbc5-78a2-41c8-91e3-33fcf71dc4a9",
+      "season": 2,
+      "number": 9,
+      "name": "1980 - Cutfather",
+      "airdate": "2020-09-14"
+    },
+    {
+      "id": "42e72634-c130-4918-adf0-103aa14b3227",
+      "season": 2,
+      "number": 10,
+      "name": "1955 - Johnny Reimar",
+      "airdate": "2020-09-21"
+    }
+  ]
+}

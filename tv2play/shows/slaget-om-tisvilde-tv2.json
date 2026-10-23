@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:slaget-om-tisvilde-tv2",
+  "name": "Slaget om Tisvilde",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I den attraktive badeby Tisvilde på den sjællandske nordkyst har en musikfestival splittet byen i to lejre. Hvilken slags by skal Tisvilde egentlig være, og hvem har retten til at bestemme? Dansk dokumentarserie i fire dele af folkene bag ’Balladen om kolonihaven’.",
+  "image": "https://cdn-play.tv2i.dk/6281f72e-8eaa-4f27-a29c-5647da96232d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C7008%2C3942&w=1280",
+  "episodes": [
+    {
+      "id": "0ce36893-a2d7-42c5-aa1d-d39a5f58d3a2",
+      "season": 1,
+      "number": 1,
+      "name": "Optræk til konflikt",
+      "airdate": "2025-07-08"
+    },
+    {
+      "id": "9e74bd5e-9860-4962-96ca-9b96cf635322",
+      "season": 1,
+      "number": 2,
+      "name": "Debatten stikker af",
+      "airdate": "2025-07-15"
+    },
+    {
+      "id": "ffe00f48-beb0-4f0f-9778-537d59bfefb3",
+      "season": 1,
+      "number": 3,
+      "name": "Kan festivalen blive?",
+      "airdate": "2025-07-22"
+    },
+    {
+      "id": "054e38eb-db40-4f30-985a-85d5690f0ed1",
+      "season": 1,
+      "number": 4,
+      "name": "Afgørelsens time",
+      "airdate": "2025-07-29"
+    }
+  ]
+}

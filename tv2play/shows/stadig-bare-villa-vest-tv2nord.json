@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:stadig-bare-villa-vest-tv2nord",
+  "name": "Stadig bare Villa Vest",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Villa Vest sætter sin røv i klaskehøjde i den højtsvævende og legendariske Michelin-verden. De vil skille sig ud og udfordre den stereotype forestilling om, hvad Michelin og den hektiske restaurantbranche er. Og det gør de med deres helt særlige nordjyske tilgang. Kan de to ting harmonere?",
+  "image": "https://cdn-play.tv2i.dk/713df1a4-1ca9-4e3f-8c9f-d033eae4505b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d9d01d34-4053-4a0d-880a-392caf1418a1",
+      "season": 1,
+      "number": 3,
+      "name": "Michelin eller svupser",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "2ab60393-3052-469b-8f16-44e10e0ee9d4",
+      "season": 1,
+      "number": 4,
+      "name": "Begge ben på jorden",
+      "airdate": "2024-10-31"
+    }
+  ]
+}

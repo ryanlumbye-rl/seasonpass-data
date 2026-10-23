@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:happy-face-skyshowtime",
+  "name": "Happy Face",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Historien om Melissa Reed, datter af Keith Hunter Jesperson, også kendt som Happy Face-morderen. Efter årtier uden kontakt tvinger Keith sig tilbage i sin datters liv, og Melissa må finde ud af, om en uskyldig mand skal henrettes for en forbrydelse, som hendes far har begået.",
+  "image": "https://cdn-play.tv2i.dk/090a73bd-3d64-4fec-a448-593111c2261e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1277559d-6138-4957-a32d-02eae3935ef4",
+      "season": 1,
+      "number": 1,
+      "name": "Tilståelsen",
+      "airdate": "2025-05-08"
+    },
+    {
+      "id": "e8dd38f8-ebd1-47b5-bd93-f171ba8242db",
+      "season": 1,
+      "number": 2,
+      "name": "Slå skammen ihjel",
+      "airdate": "2025-05-08"
+    },
+    {
+      "id": "b26374f4-62d3-4629-804a-04150f8a9aa6",
+      "season": 1,
+      "number": 3,
+      "name": "Var det dét værd?",
+      "airdate": "2025-05-08"
+    },
+    {
+      "id": "15f846aa-ff36-4f78-834e-5bd9f7d9491f",
+      "season": 1,
+      "number": 4,
+      "name": "Lad det svide",
+      "airdate": "2025-05-15"
+    },
+    {
+      "id": "58dc1758-c2e9-4c3b-95e3-5b1f8bfde48e",
+      "season": 1,
+      "number": 5,
+      "name": "Drøm ikke",
+      "airdate": "2025-05-22"
+    },
+    {
+      "id": "2692012d-3371-41a2-bc69-7bc1888a6824",
+      "season": 1,
+      "number": 6,
+      "name": "Lorelai",
+      "airdate": "2025-05-29"
+    },
+    {
+      "id": "16b04a18-4fdb-465a-9902-b9490515242e",
+      "season": 1,
+      "number": 7,
+      "name": "Mine Jesperson-piger",
+      "airdate": "2025-06-05"
+    },
+    {
+      "id": "e938d6fd-37f5-4b8a-9158-78dd102aa6aa",
+      "season": 1,
+      "number": 8,
+      "name": "Stjernen",
+      "airdate": "2025-06-12"
+    }
+  ]
+}

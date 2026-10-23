@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:livet-i-noedsporet-tv2play",
+  "name": "Livet i nødsporet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Komikerne Christian Fuhlendorff og Tobias Dybvad skylder over en halv million i skat, og det skal en hårdtpumpet tourplan rette op på: 28 jobs på 28 dage. Alle jobs tæller - og der er ikke råd til at være kræsen! Drengene skyr ingen midler, for skattefar... han skal ha' sine penge!",
+  "image": "https://cdn-play.tv2i.dk/eeb1080f-0b61-4bde-bf16-43efffec2869.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "83837ac6-04a1-431f-a979-015e66f843ba",
+      "season": 1,
+      "number": 1,
+      "name": "Rebeller til salg",
+      "airdate": "2011-09-22"
+    },
+    {
+      "id": "2b5e7f5f-4ceb-47d9-89c4-10f9c3793cc9",
+      "season": 1,
+      "number": 2,
+      "name": "Far til fetish",
+      "airdate": "2011-09-29"
+    },
+    {
+      "id": "c8bc6c91-1cc6-4008-9d97-a28330884cfb",
+      "season": 1,
+      "number": 3,
+      "name": "Sjov og sjovere",
+      "airdate": "2011-10-06"
+    },
+    {
+      "id": "c67e548c-36d0-4beb-8ac1-f8f547956892",
+      "season": 1,
+      "number": 4,
+      "name": "Røg og damp",
+      "airdate": "2011-10-13"
+    },
+    {
+      "id": "61ed85e8-8777-4ae1-9f63-aa9246413c56",
+      "season": 1,
+      "number": 5,
+      "name": "Impro ved grænselandet",
+      "airdate": "2011-10-20"
+    },
+    {
+      "id": "c64aa27d-ab2d-4fa0-99e0-eccb1a5400cc",
+      "season": 1,
+      "number": 6,
+      "name": "Enden er nær",
+      "airdate": "2011-10-27"
+    }
+  ]
+}

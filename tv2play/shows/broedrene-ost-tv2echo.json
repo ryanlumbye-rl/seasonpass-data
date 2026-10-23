@@ -1,0 +1,117 @@
+{
+  "id": "tv2play:broedrene-ost-tv2echo",
+  "name": "Brødrene Ost",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Magnus Millang sætter sig endnu en gang for at oplære sin lillebror Emil i, hvordan man lever livet rigtig fedt. Følg med, når de to brødre drager ud i verden og smager på livet som ægte levemænd.",
+  "image": "https://cdn-play.tv2i.dk/2ce8138f-e23e-4243-82dc-3e2a2b565888.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2022%2C1124&w=1280",
+  "episodes": [
+    {
+      "id": "dae0518b-db6e-43b3-8a53-a2037ec1329d",
+      "season": 1,
+      "number": 1,
+      "name": "Ostenes konge",
+      "airdate": "2020-09-05"
+    },
+    {
+      "id": "c7685dd0-61e1-4497-a08a-ec4fd279128f",
+      "season": 1,
+      "number": 2,
+      "name": "Senior Møgsvin i Barcelona",
+      "airdate": "2020-09-05"
+    },
+    {
+      "id": "41e55b42-96b3-423f-bd82-f4a73d439eb3",
+      "season": 1,
+      "number": 3,
+      "name": "Rømø vs. San Sebastian",
+      "airdate": "2020-09-12"
+    },
+    {
+      "id": "523c114a-3658-4fba-952a-efc223fccf49",
+      "season": 1,
+      "number": 4,
+      "name": "München: For fed til ost",
+      "airdate": "2020-09-19"
+    },
+    {
+      "id": "0ca99a5b-9c15-42c8-94c1-60da79da476f",
+      "season": 1,
+      "number": 5,
+      "name": "Feminisme og ged på Bornholm",
+      "airdate": "2020-09-26"
+    },
+    {
+      "id": "aae07135-dfe3-43af-bb66-2d5fa06ef8a8",
+      "season": 1,
+      "number": 6,
+      "name": "Ostenes Obama",
+      "airdate": "2020-10-03"
+    },
+    {
+      "id": "f99ecef7-0b1e-4f55-be3c-2574f5c99554",
+      "season": 1,
+      "number": 7,
+      "name": "Autonom ostebror",
+      "airdate": "2020-10-10"
+    },
+    {
+      "id": "430e82a7-acaa-4414-82a4-dcd4fc7d60e1",
+      "season": 1,
+      "number": 8,
+      "name": "Jagten på den syngende ostemunk",
+      "airdate": "2020-10-17"
+    },
+    {
+      "id": "1554650a-3e23-4413-bba9-b4b176aa8c75",
+      "season": 2,
+      "number": 1,
+      "name": "Porto",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "ade00785-c2c9-4bef-93d2-3d531bd26f91",
+      "season": 2,
+      "number": 2,
+      "name": "Djursland",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "c5491d5d-ddf3-418e-9af2-adcaadf426dc",
+      "season": 2,
+      "number": 3,
+      "name": "Modena",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "91041183-0d9f-44dd-8a50-417473bd24a0",
+      "season": 2,
+      "number": 4,
+      "name": "København",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "125f88fe-1cd5-49c6-b0b8-0a1ea7a9a36a",
+      "season": 2,
+      "number": 5,
+      "name": "Færøerne",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "8d981a6a-e454-4478-994d-3e2b2db997d3",
+      "season": 2,
+      "number": 6,
+      "name": "Lissabon",
+      "airdate": "2021-10-11"
+    },
+    {
+      "id": "9c66d596-3e20-4f26-8e92-b50ea0d31608",
+      "season": 2,
+      "number": 7,
+      "name": "Sardinien",
+      "airdate": "2021-10-11"
+    }
+  ]
+}

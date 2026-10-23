@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:strangers-britbox",
+  "name": "Strangers",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Professor Jonah Mulrays (John Simm) liv bliver vendt på hovedet, da hans kone, Megan (Dervla Kirwan), dør i en bilulykke i Hongkong.",
+  "image": "https://cdn-play.tv2i.dk/95d50cae-ce2d-479d-a4ba-0e1ceace9a93.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9461bcac-b820-4e88-99c1-28a9a7e00b76",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "99853edd-0785-46ea-a985-7ab39cb07dec",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "ef07e452-620a-4249-8b53-9d80994d8dff",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "25ce0620-d4e2-4012-b457-bf1c6467309a",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "0f7d6330-587d-423e-bd1c-f2e9b20cbc5d",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "5f8816b7-cdec-4b82-bb72-df2a2ed122bc",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "31629836-777b-4e1d-a3e8-603dedb8b57b",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-12-04"
+    },
+    {
+      "id": "0be4bc4e-5f09-4298-ae95-fd28125ffd74",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-12-04"
+    }
+  ]
+}

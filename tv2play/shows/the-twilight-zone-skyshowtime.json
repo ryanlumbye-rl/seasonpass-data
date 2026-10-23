@@ -1,0 +1,145 @@
+{
+  "id": "tv2play:the-twilight-zone-skyshowtime",
+  "name": "The Twilight Zone",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nyfortolkning af den oprindelige serie fra 1959. Jordan Peele er vært og fortæller.",
+  "image": "https://cdn-play.tv2i.dk/499c16e6-5ca8-4d1e-af26-63a052a75425.png?auto=format%2Ccompress&fm=webp&rect=0%2C1%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "46554795-b5c8-4903-9e05-909a882d567e",
+      "season": 1,
+      "number": 1,
+      "name": "The Comedian",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a37721ca-133c-4257-9b79-b212d54b7e7a",
+      "season": 1,
+      "number": 3,
+      "name": "Replay",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ed85bb9e-8f28-4454-a9b1-fa4f03f810d6",
+      "season": 1,
+      "number": 4,
+      "name": "A Traveler",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "febe4b97-ccff-44a3-a0de-2cc25039d15a",
+      "season": 1,
+      "number": 5,
+      "name": "The Wunderkind",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "af855214-e4fa-4b2f-8c9f-7ba5a119f759",
+      "season": 1,
+      "number": 6,
+      "name": "Six Degrees of Freedom",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fbc96a5a-19e5-4daf-8230-e8c190ae37bd",
+      "season": 1,
+      "number": 7,
+      "name": "Not All Men",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "26730b8c-5177-42b3-8bca-e634c140462c",
+      "season": 1,
+      "number": 8,
+      "name": "Point of Origin",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ff4bedd0-962e-41e8-b13b-57c58cd45ebf",
+      "season": 1,
+      "number": 9,
+      "name": "The Blue Scorpion",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0428ac97-0d03-443a-9103-aa479eb80955",
+      "season": 1,
+      "number": 10,
+      "name": "Blurryman",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b6a2e5a9-e672-438a-a150-58b7f0bb2df7",
+      "season": 2,
+      "number": 1,
+      "name": "Meet in the Middle",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "158fb303-7c7e-4c8b-a68a-05cc8502ed90",
+      "season": 2,
+      "number": 2,
+      "name": "Downtime",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "daf91c82-e06e-4388-9a74-22da7784bdf4",
+      "season": 2,
+      "number": 3,
+      "name": "The Who of You",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "0b3eb242-2e2b-402b-b266-a43334921dea",
+      "season": 2,
+      "number": 4,
+      "name": "Ovation",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "d9f3bf73-b56a-450e-b8fd-e3bb188ac09d",
+      "season": 2,
+      "number": 5,
+      "name": "Among The Untrodden",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "64f43fd8-18ec-4cfb-8119-2334204d8079",
+      "season": 2,
+      "number": 6,
+      "name": "8",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "7dd6c625-ce83-4688-939f-da64c39ca2c3",
+      "season": 2,
+      "number": 7,
+      "name": "A Human Face",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "ca92e543-f108-4fa9-96ee-3ad58dfbabe0",
+      "season": 2,
+      "number": 8,
+      "name": "A Small Town",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "b9de6b3a-1709-49ea-af08-a80285201308",
+      "season": 2,
+      "number": 9,
+      "name": "Try, Try",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "3e9796ec-cd89-4d8a-943f-ef1bb13401b8",
+      "season": 2,
+      "number": 10,
+      "name": "You Might Also Like",
+      "airdate": "2025-11-12"
+    }
+  ]
+}

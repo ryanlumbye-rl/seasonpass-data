@@ -1,11 +1,83 @@
 {
   "id": "tv2play:dexter-resurrection-tv2play",
   "name": "Dexter: Resurrection",
-  "service": "tv2",
-  "status": "Unknown",
+  "service": "skyshowtime",
+  "status": "Running",
   "tmdbId": null,
-  "next": null,
+  "next": "2026-10-31",
+  "description": "Dexter Morgan er blevet skudt i brystet af sin egen søn. Da han vågner op af koma, opdager han, at Harrison er forsvundet sporløst. Dexter indser, hvad han har udsat sin søn for og begiver sig til New York City, fast besluttet på at finde ham og gøre det godt igen.",
+  "image": "https://cdn-play.tv2i.dk/e2487cb0-2a78-34f3-beff-fdb34e460805.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
+    {
+      "id": "78ef9fc3-c040-4940-b6b5-900c0c81a505",
+      "season": 1,
+      "number": 1,
+      "name": "A Beating Heart…",
+      "airdate": "2025-09-12"
+    },
+    {
+      "id": "cb931822-1557-41eb-954b-d91a8224c491",
+      "season": 1,
+      "number": 2,
+      "name": "Camera Shy",
+      "airdate": "2025-09-12"
+    },
+    {
+      "id": "0aebbd12-29a9-44d0-93ff-a1eee6d9bcf8",
+      "season": 1,
+      "number": 3,
+      "name": "Backseat Driver",
+      "airdate": "2025-09-19"
+    },
+    {
+      "id": "abf3a27c-588e-46b4-bafa-3c42bf5944ff",
+      "season": 1,
+      "number": 4,
+      "name": "Call Me Red",
+      "airdate": "2025-09-26"
+    },
+    {
+      "id": "6632c2b7-eb6e-48ba-9d81-6f8283c33671",
+      "season": 1,
+      "number": 5,
+      "name": "Murder Horny",
+      "airdate": "2025-10-03"
+    },
+    {
+      "id": "0c038791-f5d0-4e5d-812c-e2ad9b678a4f",
+      "season": 1,
+      "number": 6,
+      "name": "Cats & Mouse",
+      "airdate": "2025-10-10"
+    },
+    {
+      "id": "ad08a5b0-35eb-43a9-8fcf-055fe5cbd895",
+      "season": 1,
+      "number": 7,
+      "name": "Course Correction",
+      "airdate": "2025-10-17"
+    },
+    {
+      "id": "e14fa352-8962-425b-af31-9d38a02708e6",
+      "season": 1,
+      "number": 8,
+      "name": "The Kill Room Where It Happens",
+      "airdate": "2025-10-24"
+    },
+    {
+      "id": "8d14d1d4-670b-40a7-a2be-7845266a2358",
+      "season": 1,
+      "number": 9,
+      "name": "Touched by an Ángel",
+      "airdate": "2025-10-31"
+    },
+    {
+      "id": "507f4903-63d7-4c2a-9bd0-4769abf9c6a4",
+      "season": 1,
+      "number": 10,
+      "name": "And Justice for All…",
+      "airdate": "2025-11-07"
+    },
     {
       "id": "23e4dd22-47aa-473f-a6f6-3058e656b054",
       "season": 2,

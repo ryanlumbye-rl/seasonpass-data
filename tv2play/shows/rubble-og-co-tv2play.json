@@ -1,11 +1,466 @@
 {
   "id": "tv2play:rubble-og-co-tv2play",
   "name": "Rubble og Co.",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "9fc2438f-3e40-49da-9d00-806a8051be32",
+      "season": 1,
+      "number": 1,
+      "name": "Holdet bygger en bro",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "d1943fe1-79c9-4919-9172-993e5147ddb9",
+      "season": 1,
+      "number": 2,
+      "name": "Holdet bygger en stor cykelbutik",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "5f3ef3b9-0c88-4051-adb1-0ef850605bc6",
+      "season": 1,
+      "number": 3,
+      "name": "Holdet bygger en isbutik",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "584e6e85-a088-4f7d-be74-9d877b03eb41",
+      "season": 1,
+      "number": 4,
+      "name": "Holdet bygger en legeplads",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "eb0fadc5-a413-4515-b8f0-ebb9b26ca608",
+      "season": 1,
+      "number": 5,
+      "name": "Holdet bygger en bilvask",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "aea44b32-ffa5-4b47-9908-64aa26e9a5b3",
+      "season": 1,
+      "number": 6,
+      "name": "Holdet bygger en skatepark",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "a07467b3-375a-4312-a0f7-e828f81c076f",
+      "season": 1,
+      "number": 7,
+      "name": "Holdet bygger et bæverbo",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "bd184911-78b2-45ca-b9a5-0a360c110dac",
+      "season": 1,
+      "number": 8,
+      "name": "Holdet bygger en popcorncafé",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "14dd1b62-a347-4c88-8205-44ca7caf80e1",
+      "season": 1,
+      "number": 9,
+      "name": "Holdet bygger en drive-in-biograf",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "b2886dcc-13fc-4e2e-8caf-20d59304162e",
+      "season": 1,
+      "number": 10,
+      "name": "Holdet bygger en grisestald",
+      "airdate": "2023-12-15"
+    },
+    {
+      "id": "335c530b-1426-40a3-a0ce-674c66e1eb38",
+      "season": 1,
+      "number": 11,
+      "name": "Holdet og Marshall bygger en brandstation",
+      "airdate": "2024-03-30"
+    },
+    {
+      "id": "dadafda3-0fc1-44ed-ad07-091c6d700239",
+      "season": 1,
+      "number": 12,
+      "name": "Holdet istandsætter et hus",
+      "airdate": "2024-03-30"
+    },
+    {
+      "id": "bc2115dd-63b7-4ebc-b90d-aacec1c0c791",
+      "season": 1,
+      "number": 13,
+      "name": "Holdet bygger et dinosaurmuseum",
+      "airdate": "2024-03-30"
+    },
+    {
+      "id": "840b98dd-491d-4213-a2ba-3a60f0704a17",
+      "season": 1,
+      "number": 14,
+      "name": "Holdet bygger en vandpark",
+      "airdate": "2024-03-30"
+    },
+    {
+      "id": "9bce9854-15c0-4b80-8b02-85f55a46d103",
+      "season": 1,
+      "number": 15,
+      "name": "Holdet bygger en skole",
+      "airdate": "2024-03-30"
+    },
+    {
+      "id": "29644107-a9c6-4bc5-98a3-4044da44c072",
+      "season": 1,
+      "number": 16,
+      "name": "Holdet fikser et hjemsøgt hus",
+      "airdate": "2024-03-30"
+    },
+    {
+      "id": "11b8b07f-513e-4c5c-a93e-c16d10e5ea31",
+      "season": 1,
+      "number": 17,
+      "name": "Holdet bygger et udkigssted",
+      "airdate": "2024-03-30"
+    },
+    {
+      "id": "67cadee6-8478-4f68-a21b-893a647948f2",
+      "season": 1,
+      "number": 18,
+      "name": "Holdet bygger en bibliotekscafé",
+      "airdate": "2024-04-27"
+    },
+    {
+      "id": "e5fb99c5-dcd2-4efe-98f3-e7b4ab007a17",
+      "season": 1,
+      "number": 19,
+      "name": "Holdet bygger en kæmpestor limonadebod",
+      "airdate": "2024-04-27"
+    },
+    {
+      "id": "df5ddb7b-aa93-43ed-93af-76ec0e1ea2b3",
+      "season": 1,
+      "number": 20,
+      "name": "Holdet og Chase er på sagen",
+      "airdate": "2024-04-27"
+    },
+    {
+      "id": "f539a5c7-cb75-4e0d-8769-d22ef8e636e4",
+      "season": 1,
+      "number": 21,
+      "name": "Holdet fikser scenen til talentshowet",
+      "airdate": "2025-03-22"
+    },
+    {
+      "id": "5655975b-bf15-4e3d-a2c8-b9f2aadca92b",
+      "season": 1,
+      "number": 22,
+      "name": "Holdet bygger en enorm dæmning",
+      "airdate": "2025-03-22"
+    },
+    {
+      "id": "3decb1e3-b5e2-40ca-8360-ad294288e154",
+      "season": 1,
+      "number": 23,
+      "name": "Holdet bygger et springvandsshow",
+      "airdate": "2025-03-22"
+    },
+    {
+      "id": "23148c11-dcd1-4015-8054-6888aa1c47aa",
+      "season": 1,
+      "number": 24,
+      "name": "Holdet bygger et juleshow",
+      "airdate": "2025-03-22"
+    },
+    {
+      "id": "5d2e19f1-e672-4df8-933a-0b764a4435f2",
+      "season": 1,
+      "number": 25,
+      "name": "Holdet bygger en parkeringsgarage",
+      "airdate": "2025-03-22"
+    },
+    {
+      "id": "cf75cb7b-a8a9-4ec8-9089-d198eea1ce64",
+      "season": 1,
+      "number": 26,
+      "name": "Holdet bygger en træhytte",
+      "airdate": "2025-03-22"
+    },
+    {
+      "id": "4b45a5ab-c859-41bd-8544-56ce368a4028",
+      "season": 2,
+      "number": 1,
+      "name": "Holdet bygger en rutsjebane",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "10e9f045-24e2-4bec-9550-db4967fcca16",
+      "season": 2,
+      "number": 2,
+      "name": "Holdet bygger en togstation",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "610f936c-e089-4047-9249-e820441cd8a8",
+      "season": 2,
+      "number": 3,
+      "name": "Holdet bygger en minigolfbane",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "f277a2f5-1b0c-4b3a-8996-5607afacea32",
+      "season": 2,
+      "number": 4,
+      "name": "Holdet bygger tunneller i biblioteket",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "d945dbc3-a9b5-4389-9ccf-8c0003ed8f57",
+      "season": 2,
+      "number": 5,
+      "name": "Holdet bygger en hårsalon",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "5fd489ce-99c8-47fb-bc3f-37f4c56e09f1",
+      "season": 2,
+      "number": 6,
+      "name": "Holdet bygger et træningscenter",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "2b3ac015-b874-4f15-b061-cb3e61a3b3da",
+      "season": 2,
+      "number": 7,
+      "name": "Holdet bygger en superseng til Charger",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "71a450fd-fac8-4357-b81b-1360fa6b38d3",
+      "season": 2,
+      "number": 8,
+      "name": "Holdet bygger en smoothiebutik",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "2dfae02b-192d-4f23-be9f-1eddd8d9a5d9",
+      "season": 2,
+      "number": 9,
+      "name": "Holdet bygger et pariserhjul",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "ffaee861-96e3-4877-90e5-99395c13d738",
+      "season": 2,
+      "number": 10,
+      "name": "Skye og holdet bygger en bjerghytte",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "199fd343-7938-42f0-9541-0f95be7d9126",
+      "season": 2,
+      "number": 11,
+      "name": "Holdet bygger et særligt springbræt til hr. Ducky-Doo",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "2e93dcce-2cc7-406d-9ac0-a17cefc64b5c",
+      "season": 2,
+      "number": 12,
+      "name": "Holdet bygger en baseballpark",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "4ad9edcd-305f-4713-b659-1bcde3a9f48f",
+      "season": 2,
+      "number": 13,
+      "name": "Holdet bygger en genbrugsstation",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "084a5a77-15e6-4ff6-9d80-274271a69492",
+      "season": 2,
+      "number": 14,
+      "name": "Holdet bygger et pizzeria",
+      "airdate": "2025-07-05"
+    },
+    {
+      "id": "6f884be6-c2db-4121-ac6b-c4b91d312995",
+      "season": 2,
+      "number": 15,
+      "name": "Holdet bygger et indendørs skydivingcenter",
+      "airdate": "2025-07-05"
+    },
+    {
+      "id": "f6fc8d69-22a5-412c-a530-942665df2653",
+      "season": 2,
+      "number": 16,
+      "name": "Holdet bygger en bowlinghal",
+      "airdate": "2025-07-05"
+    },
+    {
+      "id": "d178835d-943d-46fe-969d-a7885a3c88a4",
+      "season": 2,
+      "number": 17,
+      "name": "Holdet fejrer Byggernes Bugtgiving",
+      "airdate": "2025-07-05"
+    },
+    {
+      "id": "cda3f196-d161-48e3-a763-16966b28369f",
+      "season": 2,
+      "number": 18,
+      "name": "Rubble og Co. hæver en landingsbane",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "a8390513-dbf1-4616-86d9-06c30d3e8e71",
+      "season": 2,
+      "number": 19,
+      "name": "Rubble og Co. gør juleaften magisk",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "b72aad99-efcd-4772-ac2c-6b89da459615",
+      "season": 2,
+      "number": 20,
+      "name": "Rubble og Co. bygger et posthus",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "20fd6ad1-3082-4e02-b6ca-e779b77b93f3",
+      "season": 2,
+      "number": 21,
+      "name": "Rubble og Co. bygger et vinterlegeland",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "75755538-155e-4405-b6cf-de23434626dd",
+      "season": 2,
+      "number": 22,
+      "name": "Rubble og Co. bygger et hotel",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "9580b18a-ae04-4a63-bcae-2519e1f3acf5",
+      "season": 2,
+      "number": 23,
+      "name": "Rubble og Co. bygger en kænguru-safari",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "ccba7c86-f565-4271-bfe2-1f7742923a7e",
+      "season": 2,
+      "number": 24,
+      "name": "Rubble og Co. og Rocky bygger en bjørneø",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "c9ac9460-e9b4-40e0-8f21-e0c9d260f234",
+      "season": 2,
+      "number": 25,
+      "name": "Rubble og Co. bygger en tagscene",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "18fd2b51-f2c0-47f8-8d09-d95bab7561bc",
+      "season": 2,
+      "number": 26,
+      "name": "Rubble og Co. bygger en solcelledrevet bus",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "e63f66fd-5cb7-4cb0-8469-48ec6962cb22",
+      "season": 3,
+      "number": 1,
+      "name": "Rubble og Co. bygger en dyrlægeklinik",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "45a3afd8-9955-4994-bdb9-722888cdf27c",
+      "season": 3,
+      "number": 2,
+      "name": "Rubble og Co. bygger en hotelelevator",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "62dfe056-91f2-44ca-b97a-0bd638db90ac",
+      "season": 3,
+      "number": 3,
+      "name": "Rubble og Co. bygger et dige",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "0719d742-18b2-46ac-9961-ca103e8cbf85",
+      "season": 3,
+      "number": 4,
+      "name": "Rubble og Co. bygger en super mega-biografskærm",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "d5581d2f-f2dd-4ca5-a55a-c57486468b9b",
+      "season": 3,
+      "number": 5,
+      "name": "Rubble og Co. bygger en kæmpe skaterbane",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "4e712c66-5d8d-4968-b592-7cb650d64251",
+      "season": 3,
+      "number": 6,
+      "name": "Rubble og Co. bygger et kæmpe skildpaddehus",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "24426268-73f7-46d2-b919-2e721c21f064",
+      "season": 3,
+      "number": 7,
+      "name": "Rubble og Co. bygger et brandmandsuddannelsescenter",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "af4e9f04-b487-47dc-91ab-5ec3830ee758",
+      "season": 3,
+      "number": 8,
+      "name": "Rubble og Co. bygger et kæmpe andefly",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "8002287b-0667-47ba-a146-a2f14be2bae7",
+      "season": 3,
+      "number": 9,
+      "name": "Rubble og Co. bygger et kunstmuseum",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "e6f14d94-f649-474a-87f7-f1088991f3e2",
+      "season": 3,
+      "number": 10,
+      "name": "Rubble og Co. bygger en skyskraber",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "31c3823b-8144-4503-be85-5637a1069740",
+      "season": 3,
+      "number": 11,
+      "name": "Rubble og Co. løfter rådhuset",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "4c495cc1-6b00-469d-b745-334c39f019dd",
+      "season": 3,
+      "number": 12,
+      "name": "Rubble og Co. bygger en kæmpe tunnel",
+      "airdate": "2026-03-21"
+    },
+    {
+      "id": "7befe43a-ce5d-41de-97d3-af9ce0898816",
+      "season": 3,
+      "number": 13,
+      "name": "Rubble og Co. bygger en mega-stuntrampe",
+      "airdate": "2026-03-21"
+    },
     {
       "id": "b5e76c0e-eb8e-49c1-8fd7-264dc1dbba59",
       "season": 4,
@@ -62,5 +517,7 @@
       "name": "Rubble og Co. bygger en bondegårdsskatepark",
       "airdate": "2026-09-26"
     }
-  ]
+  ],
+  "description": "Byggehvalpen Rubble og hans dygtige familie arbejder sammen om at restaurere deres by, Builder Cove, og sikre den mod den skurkagtige Speed Meisters skumle planer.",
+  "image": "https://cdn-play.tv2i.dk/8bbea5c1-b9dc-4950-9364-570f26804ad8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

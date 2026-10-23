@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:en-vild-hverdag-tv2",
+  "name": "En vild hverdag",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med helt tæt på, når Simon Jul rejser ud i verden for at sætte sin egen hverdag i perspektiv.",
+  "image": "https://cdn-play.tv2i.dk/583e5333-c1b5-4c06-a44f-4ce8a6200f32.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "a403d3ee-ce73-42e3-bc7f-1fc908329193",
+      "season": 1,
+      "number": 1,
+      "name": "Simon Jul i Yakutsk",
+      "airdate": "2021-12-07"
+    },
+    {
+      "id": "c1e6912a-c812-4190-9da7-d92fa07b7f7d",
+      "season": 1,
+      "number": 2,
+      "name": "Simon Jul i Stolopinovo",
+      "airdate": "2021-12-07"
+    }
+  ]
+}

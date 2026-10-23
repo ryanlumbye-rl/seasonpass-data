@@ -89,6 +89,36 @@
       "number": 8,
       "name": "Episode 8",
       "airdate": "2024-02-14"
+    },
+    {
+      "id": "315e826d-2311-4ee3-b958-462704f6d1ed",
+      "season": 10,
+      "number": 1,
+      "name": "Den fjerde væg",
+      "airdate": "2026-09-18"
+    },
+    {
+      "id": "f5a7d369-4b38-4bd4-a494-ba6e9c2b6218",
+      "season": 10,
+      "number": 2,
+      "name": "Blodets bånd",
+      "airdate": "2026-09-25"
+    },
+    {
+      "id": "45b82f24-cf31-4514-9a4d-01d1f9c9786b",
+      "season": 10,
+      "number": 3,
+      "name": "Løftet",
+      "airdate": "2026-10-16"
+    },
+    {
+      "id": "83d4457a-6288-4ef4-841a-610400e1f60c",
+      "season": 10,
+      "number": 4,
+      "name": "Straffen",
+      "airdate": "2026-11-06"
     }
-  ]
+  ],
+  "description": "\"…ondsindet spændende.” Sådan beskrev Politiken serien. Maria Wern er kriminalinspektør og er ikke bange for at tage utraditionelle midler i brug.",
+  "image": "https://cdn-play.tv2i.dk/e3656a89-6c34-3c7a-90f0-8fb3f4c9bcc9.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

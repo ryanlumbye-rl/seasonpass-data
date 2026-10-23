@@ -1,0 +1,96 @@
+{
+  "id": "tv2play:four-in-a-bed-britbox",
+  "name": "Four in a Bed",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I livsstilsprogrammet Four in a Bed konkurrerer bed & breakfast-værter mod hinanden om, hvis hotel kan få flest point.",
+  "image": "https://cdn-play.tv2i.dk/1cfbbd32-1817-4ff9-a647-b4a48c5603f0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9f0c514f-8397-40e0-bfc5-c536e723488e",
+      "season": 13,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "bf1ca3f7-36cb-4164-b07b-36a3abc175db",
+      "season": 13,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "e200db09-8371-4233-a9b2-3b07e0b32be9",
+      "season": 13,
+      "number": 14,
+      "name": "Episode 14",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "f11bd335-6e24-4e0a-99bc-66b6bb9f5d59",
+      "season": 13,
+      "number": 19,
+      "name": "Episode 19",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "f4ba3ea7-0e48-4654-85d2-f5bf61e5aa36",
+      "season": 13,
+      "number": 34,
+      "name": "Episode 34",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "20346c0b-c848-45cb-a4d9-c0b1ac55cece",
+      "season": 13,
+      "number": 45,
+      "name": "Episode 45",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "31ecfad1-4273-4118-9178-a11432eb04cc",
+      "season": 13,
+      "number": 59,
+      "name": "Episode 59",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "fcf198a3-6771-4718-8a62-df5879a38f26",
+      "season": 13,
+      "number": 64,
+      "name": "Episode 64",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "5b4148df-202e-4319-8c04-6fc60eca5716",
+      "season": 13,
+      "number": 70,
+      "name": "Episode 70",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "64bab3a0-fb5e-4a01-a7a3-a0a6fe5bd511",
+      "season": 13,
+      "number": 77,
+      "name": "Episode 77",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "75eb5b04-f338-4816-9812-95bb67ec3433",
+      "season": 13,
+      "number": 80,
+      "name": "Episode 80",
+      "airdate": "2023-05-08"
+    },
+    {
+      "id": "74627a44-dbb2-4776-9579-7506d1f92d1f",
+      "season": 13,
+      "number": 82,
+      "name": "Episode 82",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

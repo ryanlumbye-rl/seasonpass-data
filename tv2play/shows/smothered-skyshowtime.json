@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:smothered-skyshowtime",
+  "name": "Smothered",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Efter dating-apps og frygtelige ekser har Sammy opgivet kærligheden og vil bare have det sjovt - intet ægteskab, ingen børn, bare en smule romantik. Da hun møder Tom, foreslår hun en affære fri for forpligtelser, men kan de holde det uforpligtende.",
+  "image": "https://cdn-play.tv2i.dk/a3025b96-b9ff-4c40-98b7-353d83bf48af.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "79765d4f-b41b-4b21-90fb-0d8d9c9974a0",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "e874bb22-a53d-46a5-84e1-ccb290ecfb67",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "1ceb88e4-57fe-447c-b66e-2eccfc2e88d3",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "cdeb535f-2be1-4499-baaa-c6da4c0f28b7",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "d1e2a85c-4a74-456a-a0d7-da1688051256",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "11d53d31-c790-4ec0-a82d-a8b3f794bac7",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2023-12-18"
+    }
+  ]
+}

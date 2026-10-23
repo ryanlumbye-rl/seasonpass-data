@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:vraget-tv2oest",
+  "name": "Vraget",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Et skibsvrag ud for Sjællands Odde gemmer på en vild historie om sortbørshandel og smugling. I denne serie følger vi Odsherred Teaters arbejde med en ny forestilling, samtidigt med at vi dykker ned i et brutalt dobbeltmord i den kriminelle underverden i 1940’ernes Danmark.",
+  "image": "https://cdn-play.tv2i.dk/d5f68f70-a06d-45a1-92c2-200dba51b1d6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "95a30340-2919-4873-bcfe-9661b05c895a",
+      "season": 1,
+      "number": 1,
+      "name": "Forliset",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "59a538f4-1561-42a6-937c-4aa20c3041b8",
+      "season": 1,
+      "number": 2,
+      "name": "Smugleren",
+      "airdate": "2025-10-30"
+    },
+    {
+      "id": "2750d80c-2879-4f00-8cf8-0c13155e2a6c",
+      "season": 1,
+      "number": 3,
+      "name": "Sortbørshajen",
+      "airdate": "2025-11-06"
+    },
+    {
+      "id": "130ad57c-4651-4959-a22c-c9f2ce2ee1bb",
+      "season": 1,
+      "number": 4,
+      "name": "Dobbeltmordet",
+      "airdate": "2025-11-06"
+    }
+  ]
+}

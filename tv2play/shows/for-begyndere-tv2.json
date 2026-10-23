@@ -2,9 +2,11 @@
   "id": "tv2play:for-begyndere-tv2",
   "name": "For begyndere",
   "service": "tv2",
-  "status": "Unknown",
+  "status": "Running",
   "tmdbId": null,
-  "next": null,
+  "next": "2026-10-28",
+  "description": "Er du også i tvivl om alt fra boligkøb til børneopdragelse og aktier? På 20 minutter hjælper nogle af Danmarks skarpeste eksperter dig uden om de største fælder, giver konkrete råd og en handlingsplan, der gør det nemt at tage næste skridt med det samme.",
+  "image": "https://cdn-play.tv2i.dk/376eada8-605b-35ba-8eef-41517818d328.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "354d0757-52ac-4dae-ba53-bd1c58aed1b3",
@@ -19,6 +21,13 @@
       "number": 2,
       "name": "Aktier for begyndere",
       "airdate": "2026-10-21"
+    },
+    {
+      "id": "8bf5cf79-0028-428f-8db9-d6c5bb14c48b",
+      "season": 1,
+      "number": 3,
+      "name": "For begyndere",
+      "airdate": "2026-10-28"
     }
   ]
 }

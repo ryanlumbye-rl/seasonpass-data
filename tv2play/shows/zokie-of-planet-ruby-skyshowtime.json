@@ -1,0 +1,194 @@
+{
+  "id": "tv2play:zokie-of-planet-ruby-skyshowtime",
+  "name": "Zokie of Planet Ruby",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da den spøjse vlogger Ruby opdager, at hendes eneste følger er rumvæsnet Zokie Sparkleby fra planeten Pudge, bliver de to hurtigt bedste venner og filmer deres daglige eventyr sammen. Ruby lærer Zokie om Jorden, mens han lærer at styre sin magi.",
+  "image": "https://cdn-play.tv2i.dk/a59e1710-7944-4600-bcd9-eef90ec93d74.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2702%2C1520&w=1280",
+  "episodes": [
+    {
+      "id": "c8775d05-a0a3-4842-ae48-1f421d643e5e",
+      "season": 1,
+      "number": 1,
+      "name": "Begyndelsen",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "16a976cc-a69f-4002-aac1-ebaa2c0d7c36",
+      "season": 1,
+      "number": 2,
+      "name": "Mere end en sandwich",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "5ad5ec35-740c-4de8-b5a8-1a113b5f3dd8",
+      "season": 1,
+      "number": 3,
+      "name": "Ekstrem bagedyst",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "3c899181-5ed2-4e0b-b678-73b322e99dbd",
+      "season": 1,
+      "number": 4,
+      "name": "Ansvarlig overnatning",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "e1492c76-29df-4c6e-a7bc-4c1c7805c4cd",
+      "season": 1,
+      "number": 5,
+      "name": "Lykkeamuletter",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "ff5a034b-a8ea-4026-ab0e-5e2af3acea5f",
+      "season": 1,
+      "number": 6,
+      "name": "Helt filtret ind",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "ea4fb167-1ad9-4377-9533-6d7696c05004",
+      "season": 1,
+      "number": 7,
+      "name": "Toksisk positivitet",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "4de4ae6f-2af2-4c08-b14a-c59878576183",
+      "season": 1,
+      "number": 8,
+      "name": "Bedbugs & Breakfast",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "48707d0e-9953-4364-86c9-50c1d97602f3",
+      "season": 1,
+      "number": 9,
+      "name": "Udlejer med glitterhest",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "6bb5041f-5522-4118-b7ca-db59b641af43",
+      "season": 1,
+      "number": 10,
+      "name": "Skru op!",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "21a56be8-e354-40ca-add3-57dc0349ae2e",
+      "season": 1,
+      "number": 11,
+      "name": "Moderbrødet",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "1d5433e4-ea52-4f90-8812-08a6f0a4ae09",
+      "season": 1,
+      "number": 12,
+      "name": "Helt i skyggen",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "ba62dc92-c09e-49a4-9fa2-02f198ea0684",
+      "season": 1,
+      "number": 13,
+      "name": "Dino-spøg",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "665a00e4-96d0-4ca7-9470-769a3c175f03",
+      "season": 1,
+      "number": 14,
+      "name": "Det grufulde skab",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "a3484b31-9469-4970-bf12-995b64f4f548",
+      "season": 1,
+      "number": 15,
+      "name": "Kalkundaktyl",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "d98efbfd-873d-4a55-9321-210412d7fa9e",
+      "season": 1,
+      "number": 16,
+      "name": "Ny leder af Pudge",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "b4d5b6b1-29dc-4bfd-ba9e-621db5483003",
+      "season": 1,
+      "number": 17,
+      "name": "Virtually Reality",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "27ef2b7a-65e5-4bca-99d2-63170592394c",
+      "season": 1,
+      "number": 18,
+      "name": "Sært tilfredsstillende",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "648b8a6f-082d-4237-92dd-08b53d14e377",
+      "season": 1,
+      "number": 19,
+      "name": "Kærlighedsfeber",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "136fac21-33c7-4d51-9e5d-587ffdd5e7c8",
+      "season": 1,
+      "number": 20,
+      "name": "Tweenkle fornyr sit image",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "088ada17-bc16-4800-a54d-1d76ea5ecb10",
+      "season": 1,
+      "number": 21,
+      "name": "Julehumbug",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "e267ad9d-3770-48a7-a66a-9d6d837071f1",
+      "season": 1,
+      "number": 22,
+      "name": "Hvem lader lortene ligge?",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "2578f5f7-468a-46bd-8177-786301e28674",
+      "season": 1,
+      "number": 23,
+      "name": "Den mest perfekte jordbo",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "dd22009f-e8d1-42ce-8539-ac3b15b15503",
+      "season": 1,
+      "number": 24,
+      "name": "RadicalCon",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "0c8cb785-5b6c-4303-a618-310f270de0fe",
+      "season": 1,
+      "number": 25,
+      "name": "Luk skibet ned",
+      "airdate": "2024-09-19"
+    },
+    {
+      "id": "755899fb-22c2-4ee2-b335-15c2a07ace2a",
+      "season": 1,
+      "number": 26,
+      "name": "Enden",
+      "airdate": "2024-09-19"
+    }
+  ]
+}

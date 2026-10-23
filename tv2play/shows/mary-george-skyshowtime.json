@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:mary-george-skyshowtime",
+  "name": "Mary & George",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 1600-tallets England planlægger den snu matriark Mary Villiers at hæve sin familie fra ydmyge kår til indflydelsesrige højder med alle nødvendige midler. Hun udnytter sin søn Georges skønhed til at forføre kong James I, blive hans elsker og i processen hæve familiens titel og status ved hoffet.",
+  "image": "https://cdn-play.tv2i.dk/3c1d4335-ad21-4937-a308-d96e82ded348.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C155%2C2513%2C1413&w=1280",
+  "episodes": [
+    {
+      "id": "cc581363-d12e-4190-9e8d-6dd6a62741e2",
+      "season": 1,
+      "number": 1,
+      "name": "The Second Son",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "6cd324bd-06fb-40ff-bb53-20be6e73b14c",
+      "season": 1,
+      "number": 2,
+      "name": "The Hunt",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "f1692329-d8c2-45d0-899a-647034f3b476",
+      "season": 1,
+      "number": 3,
+      "name": "Not So Much by Love as by Awe",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "1f4c89d5-d362-49b3-a775-15eb9e1bb3bd",
+      "season": 1,
+      "number": 4,
+      "name": "The Wolf & the Lamb",
+      "airdate": "2024-03-08"
+    },
+    {
+      "id": "21da3b7f-c2e9-4c28-9524-2b6e52dd5f93",
+      "season": 1,
+      "number": 5,
+      "name": "The Golden City",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "4902b6e4-4758-43e4-978c-1e04889ba0ac",
+      "season": 1,
+      "number": 6,
+      "name": "The Queen Is Dead",
+      "airdate": "2024-04-26"
+    },
+    {
+      "id": "390daf3b-dc6d-4202-8fca-bd3124d7d581",
+      "season": 1,
+      "number": 7,
+      "name": "War",
+      "airdate": "2024-04-26"
+    }
+  ]
+}

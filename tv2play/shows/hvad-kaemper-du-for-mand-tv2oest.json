@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:hvad-kaemper-du-for-mand-tv2oest",
+  "name": "Hvad kæmper du for mand?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Mænd bliver oftere ramt af alvorlig sygdom, er mere ensomme, begår oftere selvmord, ender oftere i misbrug og dør i gennemsnit fire år tidligere end kvinder. I denne serie skal du møde nogle af de mænd, der kæmper mod de dårlige statistikker op til Mændenes Internationale Kampdag i november",
+  "image": "https://cdn-play.tv2i.dk/e7d2d6bf-077c-4688-8d2d-71234932eda0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "5a24472e-b04e-4ab8-be02-7d54b41adf16",
+      "season": 1,
+      "number": 1,
+      "name": "Ove og Lukas",
+      "airdate": "2024-11-21"
+    },
+    {
+      "id": "2626ebd7-1ab5-435e-9b7a-1669a2219365",
+      "season": 1,
+      "number": 2,
+      "name": "Daniel og Steffen",
+      "airdate": "2024-11-21"
+    },
+    {
+      "id": "8f436b89-0bf6-4eb5-9cf9-a91f649a3c9e",
+      "season": 1,
+      "number": 3,
+      "name": "Anders og Bjarne",
+      "airdate": "2024-11-28"
+    }
+  ]
+}

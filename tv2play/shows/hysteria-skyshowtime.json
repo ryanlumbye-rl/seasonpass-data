@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:hysteria-skyshowtime",
+  "name": "Hysteria!",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da en elsket universitets-quarterback forsvinder sporløst under et formodet satanistisk ritual i Michigan, udgiver en gruppe high school-elever sig for at være satanister for at profilere deres kriseramte metalband. Snart starter en vild heksejagt - med tråde, der fører direkte tilbage til bandet",
+  "image": "https://cdn-play.tv2i.dk/78ee3237-5cbd-4d8a-983e-d926446c9ad7.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e2c77ea9-4112-4a1c-bf49-10ecd530a8e0",
+      "season": 1,
+      "number": 1,
+      "name": "Hysteria",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "abc94b1b-11fd-4fbd-b74d-e9d70eeca7b5",
+      "season": 1,
+      "number": 2,
+      "name": "Die Young",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "c29eeb0e-610d-46f4-9369-db369e1aeff6",
+      "season": 1,
+      "number": 3,
+      "name": "Can I Play with Madness",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "9a281a5f-5e98-47ad-94df-d5c16f13a54d",
+      "season": 1,
+      "number": 4,
+      "name": "Dance Macabre",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "e8d117a6-ff52-45ea-b55a-654780edd12a",
+      "season": 1,
+      "number": 5,
+      "name": "Mother",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "b1eb4dc6-d28b-4995-8db1-22d9806a5691",
+      "season": 1,
+      "number": 6,
+      "name": "Speaking in Tongues",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "b725d150-25a2-4fb5-a3c8-698e0dceb2ed",
+      "season": 1,
+      "number": 7,
+      "name": "It's Late",
+      "airdate": "2024-10-28"
+    },
+    {
+      "id": "ef3ff62a-d11b-42ec-86a3-b35636dd0407",
+      "season": 1,
+      "number": 8,
+      "name": "Heaven's on Fire",
+      "airdate": "2024-10-28"
+    }
+  ]
+}

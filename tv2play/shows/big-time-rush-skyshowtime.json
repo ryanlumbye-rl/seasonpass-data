@@ -1,0 +1,243 @@
+{
+  "id": "tv2play:big-time-rush-skyshowtime",
+  "name": "Big Time Rush",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Serien handler om de fire unge hockeyspillere: Kendall, Logan, James og Carlos, som bliver udvalgt til at lave et boyband. Kendall siger ja på den betingelse, at han kan få sine venner og familie med til Los Angeles. Det virker måske som en drøm, men det er ikke altid lige nemt at udskifte hockeystavene med hår og makeup. Har de det, der skal til for at klare sig i musikbranchen? Vil kendislivet ændre dem for altid? Og hvor skal de spille hockey henne?",
+  "image": "https://cdn-play.tv2i.dk/4af83a4d-5112-4fbd-89fa-4c8a0beff999.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "bde33cc5-988d-4392-b78e-ac9296d8b4c8",
+      "season": 1,
+      "number": 1,
+      "name": "Big Time Audition Part 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "47a767da-33a5-4cd0-9c0c-17f1083fa6eb",
+      "season": 1,
+      "number": 2,
+      "name": "Big Time Audition Part 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f7b5df54-ccdf-4341-9141-13d39f0f7886",
+      "season": 1,
+      "number": 3,
+      "name": "Big Time Crib",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0d8d8598-bfc7-498a-a249-6bae4a86695b",
+      "season": 1,
+      "number": 4,
+      "name": "Big Time School of Rocque",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7d1e980f-9671-4c5c-8db0-690b23f96f46",
+      "season": 1,
+      "number": 5,
+      "name": "Big Time Bad Boy",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d23b5924-5730-437e-aa23-89d1acb7367e",
+      "season": 1,
+      "number": 6,
+      "name": "Big Time Love Song",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3bdfeeee-6f03-420b-aef8-01a2fffeeb4e",
+      "season": 1,
+      "number": 7,
+      "name": "Big Time Mansion",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "73dd7e74-dbb1-479a-a38d-70a2f9edca56",
+      "season": 1,
+      "number": 8,
+      "name": "Big Time Photo Shoot",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "244c6836-9254-45a1-9222-df37439916ef",
+      "season": 1,
+      "number": 9,
+      "name": "Big Time Break",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8e72822b-89af-4ac6-9452-29c786463a47",
+      "season": 1,
+      "number": 10,
+      "name": "Big Time Demos",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9eea63c5-4ee5-418c-b85c-f055283de3a2",
+      "season": 1,
+      "number": 11,
+      "name": "Big Time Party",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "233fd3b2-cd4e-4960-ab5c-c06d0a684d4e",
+      "season": 1,
+      "number": 12,
+      "name": "Big Time Fever",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "07e0077c-cf69-4432-aff9-a4aab0fefa45",
+      "season": 1,
+      "number": 13,
+      "name": "Big Time Jobs",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f04117aa-8ddc-4a70-aa00-70526ad32d99",
+      "season": 1,
+      "number": 14,
+      "name": "Big Time Terror",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "aa907da0-5a72-4077-9a8c-f5eb3d49815a",
+      "season": 1,
+      "number": 15,
+      "name": "Big Time Dance",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1723ed8e-b992-448f-8143-1b9f893aad2f",
+      "season": 1,
+      "number": 16,
+      "name": "Big Time Blogger",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "42c17b13-ead8-4bf6-ae4d-f66f7e54e89e",
+      "season": 1,
+      "number": 17,
+      "name": "Big Time Sparks",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7c62eddf-9b04-4812-b034-2747ae4f07e9",
+      "season": 1,
+      "number": 18,
+      "name": "Big Time Video",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "439d2d66-76e7-4a01-8ec5-d87220e64a6e",
+      "season": 1,
+      "number": 20,
+      "name": "Big Time First Concert, Part 2",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "72de1738-eb85-460a-8293-1d98529a9e72",
+      "season": 2,
+      "number": 4,
+      "name": "Big Time Live",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "f586def9-f25a-4acb-b64e-4cdaf15b055b",
+      "season": 2,
+      "number": 7,
+      "name": "Big Time Pranks",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "36bf1733-3a90-45cb-9cdc-0fc2229e3bf2",
+      "season": 2,
+      "number": 9,
+      "name": "Big Time Christmas Part 1",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c5b01cae-68ab-4cba-ac04-40dfe65ffb24",
+      "season": 2,
+      "number": 11,
+      "name": "Big Time Songwriters",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "dfe1a0c8-f9ed-4a6b-8c77-a0d764a7d47c",
+      "season": 2,
+      "number": 16,
+      "name": "Big Time Reality",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "54922593-63f6-4fd5-862f-43c0417e7101",
+      "season": 2,
+      "number": 20,
+      "name": "Big Time Wedding",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "a329dfb0-1cfb-4ee1-92c8-1290cd83a601",
+      "season": 2,
+      "number": 22,
+      "name": "Big Time Contest",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "b2951a30-2c70-40e5-9d95-b75770026ef1",
+      "season": 2,
+      "number": 29,
+      "name": "Big Time Interview",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "c385ec73-cf2f-46db-a1ab-361555f85099",
+      "season": 3,
+      "number": 5,
+      "name": "Big Time Merchandise",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "d004847a-a355-40c5-ac3b-3b0bc8b59d0b",
+      "season": 3,
+      "number": 9,
+      "name": "Big Time Camping",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "7dd2bcb7-3bee-4a56-bb74-b0dfb34fe590",
+      "season": 3,
+      "number": 10,
+      "name": "Big Time Rescue",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "ff3ae4c5-b7c1-48e5-8d46-5b1a8bcc7158",
+      "season": 4,
+      "number": 2,
+      "name": "Big Time Scandal",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "d26a9e0e-f482-415a-a346-db9d7e5cea62",
+      "season": 4,
+      "number": 7,
+      "name": "Big Time Rides",
+      "airdate": "2023-03-15"
+    },
+    {
+      "id": "376db4b8-1773-475d-9d7b-d69c7b793f07",
+      "season": 4,
+      "number": 8,
+      "name": "Big Time Tests",
+      "airdate": "2023-03-15"
+    }
+  ]
+}

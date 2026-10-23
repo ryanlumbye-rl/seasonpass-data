@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:gangsterens-soen-tv2",
+  "name": "Gangsterens søn",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lonne er en 75-årig forhærdet eks-gangster fra Vesterbro, der har tilbragt 31 år i fængsel. Da han fik sin søn Danni for 16 år siden, besluttede han at ændre sit liv. Lonnes fokus er at sikre, at Danni får et godt liv uden kriminalitet. De har en stor familie, og når de er sammen, er der fest og farver.",
+  "image": "https://cdn-play.tv2i.dk/9eab6ec7-0ffa-422d-8688-88969d27bb04.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "4e9ee996-2d89-44cb-b5c1-d9e10bed56ec",
+      "season": 1,
+      "number": 1,
+      "name": "Store børn, store problemer",
+      "airdate": "2025-02-11"
+    },
+    {
+      "id": "ed30c915-3216-438e-85fe-33b17ce860a3",
+      "season": 1,
+      "number": 2,
+      "name": "'Siri, Hvad betyder empati?'",
+      "airdate": "2025-02-18"
+    },
+    {
+      "id": "ce6d5718-c862-4603-94de-2ed91a1fb361",
+      "season": 1,
+      "number": 3,
+      "name": "Alt for en fest",
+      "airdate": "2025-02-25"
+    }
+  ]
+}

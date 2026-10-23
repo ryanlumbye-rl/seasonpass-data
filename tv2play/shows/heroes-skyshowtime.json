@@ -1,0 +1,558 @@
+{
+  "id": "tv2play:heroes-skyshowtime",
+  "name": "Heroes",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da almindelige mennesker rundt om i verden opdager, at de har ekstraordinære kræfter, må de arbejde sammen for at forhindre en katastrofal fremtid.",
+  "image": "https://cdn-play.tv2i.dk/17aebe1d-d671-4c46-8b19-13331281a9ac.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "b4152531-152d-441d-a037-97f9155ec319",
+      "season": 1,
+      "number": 1,
+      "name": "Genesis",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4c7aecac-01af-4dd7-82fb-a0d365b78152",
+      "season": 1,
+      "number": 2,
+      "name": "Don't Look Back",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "61704d77-20ae-42b3-9c7b-75290dece6c2",
+      "season": 1,
+      "number": 3,
+      "name": "One Giant Leap",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2eadd01d-5ec9-4f2a-82f2-dd37ef1980a8",
+      "season": 1,
+      "number": 4,
+      "name": "Collision",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "88ea251d-4c68-4986-b010-e6bbc04c650c",
+      "season": 1,
+      "number": 5,
+      "name": "Hiro's",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ab3863b8-97da-4c37-b383-8e006d2665ee",
+      "season": 1,
+      "number": 6,
+      "name": "Better Halves",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "56924451-d24c-45c8-a62a-fec991af72ed",
+      "season": 1,
+      "number": 7,
+      "name": "Nothing to Hide",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b4371f3e-8b06-4ddd-b265-5c7f7a87262d",
+      "season": 1,
+      "number": 8,
+      "name": "Seven Minutes to Midnight",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "67a44f64-f621-4c8c-8f65-5949aac1b889",
+      "season": 1,
+      "number": 9,
+      "name": "Homecoming",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bf0d0745-1ae4-4c22-be49-24f0ff41c684",
+      "season": 1,
+      "number": 10,
+      "name": "Six Months Ago",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "58f2cb67-1b37-4373-aadc-3c18b377da55",
+      "season": 1,
+      "number": 11,
+      "name": "Fallout",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "43471c3b-87c1-45cd-b853-3d26309dd55b",
+      "season": 1,
+      "number": 12,
+      "name": "Godsend",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "cacabb9d-fd9e-4c84-bac3-5fc3b98cb1bf",
+      "season": 1,
+      "number": 13,
+      "name": "The Fix",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2d8bcdce-ad54-4d9d-a70b-d99b493f8d2c",
+      "season": 1,
+      "number": 14,
+      "name": "Distractions",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b7e8076c-4312-4b10-9182-0687a81901b5",
+      "season": 1,
+      "number": 15,
+      "name": "Run!",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "90ded149-b9c1-40d3-8a48-ab428b4fc1d0",
+      "season": 1,
+      "number": 16,
+      "name": "Unexpected",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0713f873-6e65-4b17-a2b8-5a654cab58e0",
+      "season": 1,
+      "number": 17,
+      "name": "Company Man",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3f44a206-1de7-4fe4-8381-28a02ace3978",
+      "season": 1,
+      "number": 18,
+      "name": "Parasite",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "aafa76e7-c358-4cc1-8960-fb07074b7a34",
+      "season": 1,
+      "number": 19,
+      "name": ".07%",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8cb08b25-bc7e-4441-8e40-3062457ee539",
+      "season": 1,
+      "number": 20,
+      "name": "Five Years Gone",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1c179755-6a88-41e8-898c-236c2ff60b29",
+      "season": 1,
+      "number": 21,
+      "name": "The Hard Part",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1618b6d9-6b68-4e86-95af-d70634b6c189",
+      "season": 1,
+      "number": 22,
+      "name": "Landslide",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b0ce68da-c4df-478c-b993-4cc1a85ea436",
+      "season": 1,
+      "number": 23,
+      "name": "How to Stop an Exploding Man",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ed5d532a-e0f5-4969-bfe9-017ed14e00c4",
+      "season": 2,
+      "number": 1,
+      "name": "Four Months Later",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "9d733caa-e623-422b-8aed-f81f64eb52ed",
+      "season": 2,
+      "number": 2,
+      "name": "Lizards",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "7a307d73-377a-4279-967d-4011dfd7e717",
+      "season": 2,
+      "number": 3,
+      "name": "Kindred",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "7fc6b6ec-c7a6-42b2-bbd3-52eb7b263a11",
+      "season": 2,
+      "number": 4,
+      "name": "The Kindness of Strangers",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "55c30c94-3bd7-4291-b973-8ca0063d09a7",
+      "season": 2,
+      "number": 5,
+      "name": "Fight or Flight",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "b04378d2-08dd-46fe-980a-5d888938a3c9",
+      "season": 2,
+      "number": 6,
+      "name": "The Line",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "6eea07f1-5e79-4aa5-9411-6ade8adc49e1",
+      "season": 2,
+      "number": 7,
+      "name": "Out of Time",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "3cbb6de7-d0cd-427b-8413-ed1ea529b3de",
+      "season": 2,
+      "number": 8,
+      "name": "Four Months Ago",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "1e0f1b5f-fd7e-44eb-a171-cc3246c3006a",
+      "season": 2,
+      "number": 9,
+      "name": "Cautionary Tales",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "66f0be22-ee15-4345-ab00-a28fa3b711dd",
+      "season": 2,
+      "number": 10,
+      "name": "Truth & Consequences",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "945555e2-a31c-4b2f-b260-b9475922937c",
+      "season": 2,
+      "number": 11,
+      "name": "Powerless",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "95bec7c1-7078-47fb-bca6-cb93b1716f6d",
+      "season": 3,
+      "number": 1,
+      "name": "The Second Coming",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "adfa3dfe-6c8d-4488-a94c-7201819e9eca",
+      "season": 3,
+      "number": 2,
+      "name": "The Butterfly Effect",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "bb312357-4f47-453c-b335-5c4755a53652",
+      "season": 3,
+      "number": 3,
+      "name": "One of Us, One of Them",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "627e7d3e-fa8c-4d7b-b772-0813be9246f3",
+      "season": 3,
+      "number": 4,
+      "name": "I Am Become Death",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "e3d01759-7d28-4462-9809-8b3de1a91532",
+      "season": 3,
+      "number": 5,
+      "name": "Angels and Monsters",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "cca990ba-1190-4ba5-9a76-cd50ed877e18",
+      "season": 3,
+      "number": 6,
+      "name": "Dying of the Light",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "76a3de73-b47e-4c7c-a491-4642765cf2d5",
+      "season": 3,
+      "number": 7,
+      "name": "Eris Quod Sum",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "1b5a3532-225c-482d-a7ec-72a608e8780f",
+      "season": 3,
+      "number": 8,
+      "name": "Villains",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "d2571c68-9a56-43c8-98b8-222dd68efa15",
+      "season": 3,
+      "number": 9,
+      "name": "It's Coming",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "13b25163-52ad-42e2-bf46-8dd21b897bac",
+      "season": 3,
+      "number": 10,
+      "name": "The Eclipse, Part One",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "ad2bef1b-334e-429f-a7a5-4b26ef86c372",
+      "season": 3,
+      "number": 11,
+      "name": "The Eclipse, Part Two",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "a95600c8-e8a5-415f-8c64-b2f8a4acaaf8",
+      "season": 3,
+      "number": 12,
+      "name": "Our Father",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "0fbceac9-8ae7-4340-b832-6795ca4d5259",
+      "season": 3,
+      "number": 13,
+      "name": "Dual",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "4677120e-48ff-486c-81f2-86558f617763",
+      "season": 3,
+      "number": 14,
+      "name": "A Clear and Present Danger",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "a381f638-3f2a-4306-a352-75dbe4d5cc8c",
+      "season": 3,
+      "number": 15,
+      "name": "Trust and Blood",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "5e9eea9d-a937-4dc9-8966-c8fe0636e932",
+      "season": 3,
+      "number": 16,
+      "name": "Building 26",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "50a0c0d7-788d-452d-b0e7-04e1971dfea3",
+      "season": 3,
+      "number": 17,
+      "name": "Cold Wars",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "06d9f504-d378-40b2-afe5-0722f5789c38",
+      "season": 3,
+      "number": 18,
+      "name": "Exposed",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "1f2b7f0b-512a-4fb2-a80a-139d6ca2f4de",
+      "season": 3,
+      "number": 19,
+      "name": "Shades of Gray",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "660b8a71-513c-4e63-b387-6e822d7db4a7",
+      "season": 3,
+      "number": 20,
+      "name": "Cold Snap",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "92703dc7-0db3-418d-a52e-016c82e83d05",
+      "season": 3,
+      "number": 21,
+      "name": "Into Asylum",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "79f37d71-e597-433b-b8a4-042e13ecac17",
+      "season": 3,
+      "number": 22,
+      "name": "Turn and Face the Strange",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "191f96c3-975f-40a5-946b-fa3326f4095a",
+      "season": 3,
+      "number": 23,
+      "name": "1961",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "3a9af89b-e4a6-4462-9844-ddbee4e0ec77",
+      "season": 3,
+      "number": 24,
+      "name": "I Am Sylar",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "40f55484-06ed-4302-9cb5-b3e35323a52c",
+      "season": 3,
+      "number": 25,
+      "name": "An Invisible Thread",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "ae490539-e244-4eb8-8dc4-d1d4beff1c81",
+      "season": 4,
+      "number": 1,
+      "name": "Orientation",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "3ce54d23-5352-451b-a554-33c3584e958a",
+      "season": 4,
+      "number": 2,
+      "name": "Jump, Push, Fall",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "eb4caa16-88dd-4376-b7f0-3643bb6bde82",
+      "season": 4,
+      "number": 3,
+      "name": "Ink",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "2733c677-7315-4def-afa5-6adbe74f17bd",
+      "season": 4,
+      "number": 4,
+      "name": "Acceptance",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "32e15f6f-e654-4097-921c-458deed1048f",
+      "season": 4,
+      "number": 5,
+      "name": "Hysterical Blindness",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "dd9f5b85-c9a1-4c37-9f86-1e3703a8e8fc",
+      "season": 4,
+      "number": 6,
+      "name": "Tabula Rasa",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "0c5688ef-25be-4e65-861e-3a2c5b3046b9",
+      "season": 4,
+      "number": 7,
+      "name": "Strange Attractors",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "3816259b-8544-495f-968b-775c17d8a849",
+      "season": 4,
+      "number": 8,
+      "name": "Once Upon a Time in Texas",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "dfae3cb4-1a24-46f8-ac5f-25be6ea914c3",
+      "season": 4,
+      "number": 9,
+      "name": "Shadowboxing",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "65d21f2b-50ac-4d6e-943e-de8407abfb3c",
+      "season": 4,
+      "number": 10,
+      "name": "Brother's Keeper",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "78a8117f-704c-4bfa-8867-d9cf29528d94",
+      "season": 4,
+      "number": 11,
+      "name": "Thanksgiving",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "ee8249d8-f310-42d4-9aaf-04569d04bd92",
+      "season": 4,
+      "number": 12,
+      "name": "The Fifth Stage",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "5bee76e7-2de6-4a1a-81cd-94eaa62228f8",
+      "season": 4,
+      "number": 13,
+      "name": "Upon This Rock",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "1da2bdca-274c-4f7d-b68c-531543b2b9f1",
+      "season": 4,
+      "number": 14,
+      "name": "Let It Bleed",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "a73848aa-04ff-4418-a462-9095ae8727ff",
+      "season": 4,
+      "number": 15,
+      "name": "Close to You",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "bfa51f71-575b-48f7-aaf8-975d9743c798",
+      "season": 4,
+      "number": 16,
+      "name": "Pass/Fail",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "4a35d17f-5795-4bf9-89fb-d81904fd1fcb",
+      "season": 4,
+      "number": 17,
+      "name": "The Art of Deception",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "9bd0cd52-049f-4510-a1ea-4651aa65e89b",
+      "season": 4,
+      "number": 18,
+      "name": "The Wall",
+      "airdate": "2022-11-20"
+    },
+    {
+      "id": "b7bf31c9-d041-4d20-bb7c-0fe1e171f175",
+      "season": 4,
+      "number": 19,
+      "name": "Brave New World",
+      "airdate": "2022-11-20"
+    }
+  ]
+}

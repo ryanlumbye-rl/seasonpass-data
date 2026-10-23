@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:bordellernes-bagmaend-tv2",
+  "name": "Bordellernes bagmænd",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Danske bagmænd tjener styrtende med penge på at leje huse ud til prostitution, selvom det er ulovligt. TV 2 Dokumentar går undercover i bordelbranchen for at afdække en underverden, hvor udenlandske kvinder bliver groft udnyttet. Hvem er bagmændene? Og hvorfor slipper de så nemt for straf?",
+  "image": "https://cdn-play.tv2i.dk/565296d0-a72b-4e47-9a51-5378680161ed.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e2d792d0-7038-450b-b087-ab671ffa42ea",
+      "season": 1,
+      "number": 1,
+      "name": "Det er sgu nemt!",
+      "airdate": "2024-04-24"
+    },
+    {
+      "id": "672fabc1-1d40-4030-b26e-04c7b269ca66",
+      "season": 1,
+      "number": 2,
+      "name": "Jagten på den jyske kræmmer",
+      "airdate": "2024-05-01"
+    }
+  ]
+}

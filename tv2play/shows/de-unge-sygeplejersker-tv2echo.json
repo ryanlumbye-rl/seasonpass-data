@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:de-unge-sygeplejersker-tv2echo",
+  "name": "De unge sygeplejersker",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg syv nyuddannede, walisiske sygeplejersker, når de fra første dag kastes ud i krævende arbejdsopgaver lige fra amputationer til hjertetilfælde.",
+  "image": "https://cdn-play.tv2i.dk/c8e83f76-54c3-45db-b53a-8d810dd5fcb6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "35defefb-84fd-471f-8e94-0d828f75a59c",
+      "season": 1,
+      "number": 1,
+      "name": "Alvorlige ulykker",
+      "airdate": "2025-09-17"
+    },
+    {
+      "id": "1a22b513-b96b-4755-8b58-853b6352a1a7",
+      "season": 1,
+      "number": 2,
+      "name": "En velkommen gæst",
+      "airdate": "2025-09-24"
+    },
+    {
+      "id": "820f7a7d-4527-40ff-b079-ee6c6782ae24",
+      "season": 1,
+      "number": 3,
+      "name": "En travl vagt",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "982888ff-945d-4cd3-beb9-42b2abf508c6",
+      "season": 1,
+      "number": 4,
+      "name": "Hurtig reaktion",
+      "airdate": "2025-10-08"
+    },
+    {
+      "id": "c69cb74c-3355-4891-8f77-3cc7b3941d91",
+      "season": 1,
+      "number": 5,
+      "name": "Et moralsk dilemma",
+      "airdate": "2025-10-15"
+    }
+  ]
+}

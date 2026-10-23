@@ -1,11 +1,67 @@
 {
   "id": "tv2play:the-lazarus-project-tv2play",
   "name": "The Lazarus Project",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "196a9800-32ce-4e46-9a3c-cea5cdbefa4a",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "138a13d5-7de1-415c-a072-ce4db688d25f",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "2204968f-551b-4650-8203-d75186e78fca",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "2d76e675-79fd-4a5c-94b8-41dd2add4b94",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "d95fe221-0b26-4ace-801a-60fb8f389de0",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "a916e222-3cf9-4ca8-84be-615bb073b645",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "d4ec8e84-b9c3-42bb-b23e-45338d7f2f88",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2024-12-01"
+    },
+    {
+      "id": "fc0722a5-ca4f-45dc-87b4-4fbdda368980",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2024-12-01"
+    },
     {
       "id": "0db1dfb9-fd25-4cca-bc87-4c11ea017a2d",
       "season": 2,
@@ -62,5 +118,7 @@
       "name": "Episode 8",
       "airdate": "2024-12-01"
     }
-  ]
+  ],
+  "description": "I London vågner George og opdager, at han genoplever de samme begivenheder igen og igen. Mystificeret søger han svar og bliver introduceret til Lazarus-projektet - en tophemmelig organisation, der bruger sin evne til at skrue tiden tilbage for at redde verden fra udslettelse.",
+  "image": "https://cdn-play.tv2i.dk/defc421e-576e-4c76-ab2d-490d6e55b7e8.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

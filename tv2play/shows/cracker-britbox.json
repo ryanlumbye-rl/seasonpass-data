@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:cracker-britbox",
+  "name": "Cracker",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Krimidrama med Robbie Coltrane som Fitz, en rapkæftet kriminalpsykolog, som ser bag ved beviserne for at afdække, hvad der driver forbrydere",
+  "image": "https://cdn-play.tv2i.dk/a6c97062-16d6-462d-94fe-392b1ca1dead.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "45c43508-ec0d-4b5e-93de-18006d3e279a",
+      "season": 4,
+      "number": 1,
+      "name": "A New Terror",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

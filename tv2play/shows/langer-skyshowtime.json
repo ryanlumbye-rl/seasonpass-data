@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:langer-skyshowtime",
+  "name": "Langer",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Piotr Langer, en ung, ambitiøs forretningsmand og flygtig seriemorder, som har undgået anklagemyndigheden i årevis, bliver viklet ind i et farligt spil med en mystisk kvinde ved navn Nina.",
+  "image": "https://cdn-play.tv2i.dk/5a0261ed-b471-4e56-90b3-89fe2f156002.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "72dd428a-8d81-47e4-ade4-0270b501de3e",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-07-11"
+    },
+    {
+      "id": "7b9cd9e4-9752-42a9-ba5c-e2c835f7b322",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-07-11"
+    },
+    {
+      "id": "76cb653e-530e-4b03-900b-e49d42d4a8e5",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-07-11"
+    },
+    {
+      "id": "4cafb48a-9089-421c-9387-c4e5543276c2",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-07-11"
+    },
+    {
+      "id": "776ea740-a7e7-4fcb-9c7d-bb098a2319a9",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-07-11"
+    },
+    {
+      "id": "512bbe64-7c61-42db-8b72-81065415299f",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-07-11"
+    }
+  ]
+}

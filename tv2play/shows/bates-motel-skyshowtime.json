@@ -1,0 +1,208 @@
+{
+  "id": "tv2play:bates-motel-skyshowtime",
+  "name": "Bates Motel",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Teenageren Norman Bates og hans mor Norma, som er enke, prøver at starte forfra i en kystby med åbningen af deres nye motel.",
+  "image": "https://cdn-play.tv2i.dk/5794140e-7717-4131-a760-fd744cc42edb.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2245%2C1263&w=1280",
+  "episodes": [
+    {
+      "id": "243857f3-af28-40be-9acc-c6c562379cfb",
+      "season": 1,
+      "number": 2,
+      "name": "Nice Town You Picked, Norma...",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f8aab604-2257-4dbb-89d6-401d9b187027",
+      "season": 1,
+      "number": 3,
+      "name": "What's Wrong with Norman",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a7883d27-4af7-4a4c-99ae-8b8386f7cd3d",
+      "season": 1,
+      "number": 4,
+      "name": "Trust Me",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1852d973-41d2-41df-b137-a38759eb1c30",
+      "season": 1,
+      "number": 5,
+      "name": "Ocean View",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ed706353-cbf0-4542-9192-42a58c677d0a",
+      "season": 1,
+      "number": 6,
+      "name": "The Truth",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "a9b98b1b-f355-41c6-8fc6-18a2b278592c",
+      "season": 1,
+      "number": 7,
+      "name": "The Man in Number 9",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4e212ec4-2cce-4b30-b75a-e15abf7ca206",
+      "season": 1,
+      "number": 8,
+      "name": "A Boy and His Dog",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d13bc4d0-9b91-4c17-98b5-ba240fd0ff16",
+      "season": 1,
+      "number": 9,
+      "name": "Underwater",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "3fd3f113-829c-4659-9517-8739e60531e6",
+      "season": 1,
+      "number": 10,
+      "name": "Midnight",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "fb9fb5e3-e604-45b2-a8b9-b86c03379d6d",
+      "season": 2,
+      "number": 1,
+      "name": "Gone but Not Forgotten",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9e22ada6-e94f-4476-aff6-b343a201f498",
+      "season": 2,
+      "number": 2,
+      "name": "Shadow of a Doubt",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8ad7b892-52a2-4d73-aa64-6ba7fbcc7f6a",
+      "season": 2,
+      "number": 3,
+      "name": "Caleb",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d5bc4a14-e166-413a-92ac-eba549f599dc",
+      "season": 2,
+      "number": 4,
+      "name": "Check-Out",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "95988c5e-3420-4bff-b2c5-907bed042cc8",
+      "season": 2,
+      "number": 5,
+      "name": "The Escape Artist",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "df4a047e-f730-4c69-a6a1-6d138372a26f",
+      "season": 2,
+      "number": 6,
+      "name": "Plunge",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "12c50871-37b1-4a0e-88de-b9e41dfdbe1a",
+      "season": 2,
+      "number": 7,
+      "name": "Presumed Innocent",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5fb441d2-3359-40d0-bdf7-46e25556ce2c",
+      "season": 2,
+      "number": 8,
+      "name": "Meltdown",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "90b95fdc-06f7-46ab-88a4-3467ea18c042",
+      "season": 2,
+      "number": 9,
+      "name": "The Box",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "abf462c4-aa21-4375-ae12-583725662286",
+      "season": 2,
+      "number": 10,
+      "name": "The Immutable Truth",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8831c526-1dd4-4b5c-9445-a264b6ce3996",
+      "season": 5,
+      "number": 1,
+      "name": "Dark Paradise",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c7aa4297-87ff-44e8-a376-01f7202fb6fe",
+      "season": 5,
+      "number": 2,
+      "name": "The Convergence of the Twain",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "dd77acbc-5af4-4e8c-acc0-b1453ee3277c",
+      "season": 5,
+      "number": 4,
+      "name": "Hidden",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bb6721f4-0d72-419d-a3aa-dfcbc66bd72e",
+      "season": 5,
+      "number": 5,
+      "name": "Dreams Die First",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7bc91607-7548-4c4b-902d-de5842ce9473",
+      "season": 5,
+      "number": 6,
+      "name": "Marion",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "d2d487a0-6de2-4126-b2fb-8620be8d3b46",
+      "season": 5,
+      "number": 7,
+      "name": "Inseparable",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "abc5d2bf-9933-4d28-881e-80e4f29dc6f1",
+      "season": 5,
+      "number": 8,
+      "name": "The Body",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "626ffdb5-1312-4a4e-ad4f-ca460e295cf2",
+      "season": 5,
+      "number": 9,
+      "name": "Visiting Hours",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "93d7cff4-7a24-4ce4-a3c6-da744906e090",
+      "season": 5,
+      "number": 10,
+      "name": "The Cord",
+      "airdate": "2022-09-20"
+    }
+  ]
+}

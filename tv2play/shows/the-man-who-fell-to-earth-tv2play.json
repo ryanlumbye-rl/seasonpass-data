@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:the-man-who-fell-to-earth-tv2play",
+  "name": "The Man Who Fell To Earth",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "a542dd3f-a8c7-4276-98c1-186fe194392b",
+      "season": 1,
+      "number": 1,
+      "name": "Hello, Spaceboy",
+      "airdate": "2022-04-25"
+    },
+    {
+      "id": "eed4fca9-5304-436a-b3bd-9dd462f847a4",
+      "season": 1,
+      "number": 2,
+      "name": "Unwashed and Somewhat Slightly Dazed",
+      "airdate": "2022-05-02"
+    },
+    {
+      "id": "939661e7-5e5f-4f74-a19d-df6d731e256a",
+      "season": 1,
+      "number": 3,
+      "name": "New Angels of Promise",
+      "airdate": "2022-05-09"
+    },
+    {
+      "id": "1636cd6e-5afd-4311-91ac-5c702a1ce003",
+      "season": 1,
+      "number": 4,
+      "name": "Under Pressure",
+      "airdate": "2022-05-16"
+    },
+    {
+      "id": "65bd5d6e-1c53-485f-b3e8-a01c4d9bc540",
+      "season": 1,
+      "number": 5,
+      "name": "Moonage Daydream",
+      "airdate": "2022-05-30"
+    },
+    {
+      "id": "7a1321ae-1d68-4a7a-a789-1fa1fb34e88c",
+      "season": 1,
+      "number": 6,
+      "name": "Changes",
+      "airdate": "2022-06-06"
+    },
+    {
+      "id": "eefe0866-3108-4121-9e6f-865f749422d1",
+      "season": 1,
+      "number": 7,
+      "name": "Cracked Actor",
+      "airdate": "2022-06-13"
+    },
+    {
+      "id": "f7775b1b-44fa-4b59-b524-4d2de4bdfb5d",
+      "season": 1,
+      "number": 8,
+      "name": "The Pretty Things Are Going to Hell",
+      "airdate": "2022-06-20"
+    },
+    {
+      "id": "e0888318-7e06-4bfb-a96a-365ef5e2df24",
+      "season": 1,
+      "number": 9,
+      "name": "As the World Falls Down",
+      "airdate": "2022-06-27"
+    },
+    {
+      "id": "18f6897c-029e-47ff-9d06-f6887b455eb9",
+      "season": 1,
+      "number": 10,
+      "name": "The Man Who Sold the World",
+      "airdate": "2022-07-04"
+    }
+  ]
+}

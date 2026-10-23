@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "I seks afsnit fortæller ’Skyggesiden’ historien om Amagermanden - en af Danmarks mest voldsomme serieforbrydere. Det er 15 år siden, retssagen rystede befolkningen, og Marcel Lychau Hansen blev dømt for to drab og seks voldtægter.",
+  "image": "https://cdn-play.tv2i.dk/90a11c5f-86a1-3211-ac07-05b58657d2e9.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "2bb0f255-81d0-4416-81d5-4e922a9b92db",
@@ -40,6 +42,13 @@
       "number": 5,
       "name": "Retssagen",
       "airdate": "2026-07-18"
+    },
+    {
+      "id": "2bf92f74-2f6f-4296-bfc8-21cdea68ecdd",
+      "season": 1,
+      "number": 6,
+      "name": "Dommen",
+      "airdate": "2026-07-25"
     }
   ]
 }

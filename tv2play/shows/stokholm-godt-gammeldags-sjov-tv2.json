@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:stokholm-godt-gammeldags-sjov-tv2",
+  "name": "Stokholm - godt gammeldags sjov",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Se med, når Nikolaj Stokholm forbereder sit fjerde onemanshow - fra de første spæde idéer til tæppefald i foråret 2026, hvor en af Stokholms helt store helte og dansk komedies ukronede konge, Dirch Passer, ville være fyldt 100 år.",
+  "image": "https://cdn-play.tv2i.dk/1d4a4d7a-b03e-4bd3-a569-5d73fdcfeddb.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "793ee4f5-71e2-45ad-ba48-d52867520f26",
+      "season": 1,
+      "number": 1,
+      "name": "Vil I se min trompet?",
+      "airdate": "2026-05-10"
+    },
+    {
+      "id": "81982b97-b812-41b5-9e23-e2f73969cd0c",
+      "season": 1,
+      "number": 2,
+      "name": "En rigtig pjattepind!",
+      "airdate": "2026-05-17"
+    }
+  ]
+}

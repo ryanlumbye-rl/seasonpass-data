@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:bolighajernes-lette-ofre-tv2",
+  "name": "Bolighajernes lette ofre",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tusindvis af unge latinamerikanere er i de senere år kommet til Danmark med drømmen om et bedre liv. De risikerer at blive mødt af bolighajer, der kræver op til 5.000 kroner for en seng i et delt værelse, når de skal finde et sted at bo. TV 2 og den dansk-mexicanske journalist Isabel undersøger de kritisable og ofte ulovlige forhold.",
+  "image": "https://cdn-play.tv2i.dk/3fb02da9-4237-4c12-9383-f14719fccb9f.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "17163fb2-54fb-4120-9a86-74f3f18d6b13",
+      "season": 1,
+      "number": 1,
+      "name": "Latino-fælden",
+      "airdate": "2022-05-09"
+    },
+    {
+      "id": "290b4e5b-338d-4872-ab35-ab7d1b22beaf",
+      "season": 1,
+      "number": 2,
+      "name": "Restaurant-senge til leje",
+      "airdate": "2022-05-09"
+    },
+    {
+      "id": "70f05e71-25eb-4001-b61a-299948c64fe7",
+      "season": 1,
+      "number": 3,
+      "name": "Ulovlige villaværelser",
+      "airdate": "2022-05-16"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "tv2play:our-cartoon-president-skyshowtime",
+  "name": "Our Cartoon President",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Med en todimensionel Donald Trump-avatar i hovedrollen i følgeskab med sit lalleglade følge af medarbejdere og familie, præsenterer denne knivskarpe komedie et næsten-sandt eventyr om Trump, hans fortrolige og hans bonkammerater.",
+  "image": "https://cdn-play.tv2i.dk/8af59060-b120-4e6f-b4f4-f3f3068f37f7.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "60af643b-5f46-4002-894f-0aa3ce24deae",
+      "season": 2,
+      "number": 1,
+      "name": "Trump Tower-Moscow",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2683d5e5-f813-4768-9fc2-f46d3d555133",
+      "season": 2,
+      "number": 2,
+      "name": "The Party of Trump",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "369e29ab-cf45-44fd-b2f7-f113d55974c0",
+      "season": 2,
+      "number": 3,
+      "name": "Culture War",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b3b94355-a23e-421a-9fbd-4a8287f74df3",
+      "season": 2,
+      "number": 4,
+      "name": "The Best People",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "47ba93b6-103f-4441-91d2-a1d339ff830b",
+      "season": 2,
+      "number": 5,
+      "name": "Mental Fitness",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dad5e05b-b341-4d6a-9d31-0d961bbfd73d",
+      "season": 2,
+      "number": 6,
+      "name": "Visiting the Troops",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f5bdda61-a57b-42a4-ba40-328eae4a59fd",
+      "season": 2,
+      "number": 7,
+      "name": "Supreme Court",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3daeeb5b-bf5e-4555-9248-596f0f489e73",
+      "season": 2,
+      "number": 8,
+      "name": "Climate Change",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a1a82e41-e57a-488a-b1e3-0a02a7fa7c96",
+      "season": 2,
+      "number": 9,
+      "name": "Save the Right",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8c59049b-2ea3-46a4-a91c-4867dfa1ba1b",
+      "season": 2,
+      "number": 10,
+      "name": "Space Force",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "05570b36-29e9-4aa1-a2f1-81257fd67b52",
+      "season": 3,
+      "number": 1,
+      "name": "Impeachment",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "e2c298e5-c637-4a48-9119-024be0c3e036",
+      "season": 3,
+      "number": 2,
+      "name": "The Economy",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "0a1e05c7-a69c-44f9-820b-d97ef7dc5c02",
+      "season": 3,
+      "number": 3,
+      "name": "Election Security",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "4d1d50db-d0d2-4e8d-ace4-382f2207942b",
+      "season": 3,
+      "number": 4,
+      "name": "Fox News",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "8d2be536-91d4-4581-a9ef-dd286c141257",
+      "season": 3,
+      "number": 5,
+      "name": "Hillary 2020",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "8b495be6-0769-4ca9-a9ec-f35bb9874f68",
+      "season": 3,
+      "number": 6,
+      "name": "The Endorsement",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "cf683c60-b3ee-428e-a1d7-76e2e086c262",
+      "season": 3,
+      "number": 7,
+      "name": "Warren vs. Facebook",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "7f3b819c-c7b2-483d-8ff5-0c06e9480927",
+      "season": 3,
+      "number": 8,
+      "name": "G-7",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "e47de4dd-5d94-4d28-b5a3-31ff57771c61",
+      "season": 3,
+      "number": 9,
+      "name": "Secret Money",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "e59457c9-0434-44d6-8fa5-1e96237d56a7",
+      "season": 3,
+      "number": 10,
+      "name": "Coronavirus",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "e2f54c27-841f-4a7c-9ef0-bde6839407b2",
+      "season": 3,
+      "number": 11,
+      "name": "Party Unity",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "06bde4b0-4fe4-4b32-8631-79f82f30e2aa",
+      "season": 3,
+      "number": 12,
+      "name": "Debate Prep",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "5721728f-c937-412e-a222-2201e237799b",
+      "season": 3,
+      "number": 13,
+      "name": "Madam Vice President",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "634fe5d0-81eb-4a4f-badb-bfffb7743177",
+      "season": 3,
+      "number": 14,
+      "name": "Hiding Joe Biden",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "3a2c2ef2-9e28-461a-b5a5-3ebdb95286c0",
+      "season": 3,
+      "number": 15,
+      "name": "Wartime President",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "c2f12bf1-88b7-433f-ae40-f4537663a05e",
+      "season": 3,
+      "number": 16,
+      "name": "Senate Control",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "9d58fc6c-50f6-4fd9-993c-033600dd5b48",
+      "season": 3,
+      "number": 17,
+      "name": "Closing Arguments",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "b13f80e3-6ceb-43e0-8e2b-1fc41dd37943",
+      "season": 3,
+      "number": 18,
+      "name": "Election Day",
+      "airdate": "2025-12-16"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:danefae-tv2",
+  "name": "Danefæ",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Intens dramaserie om arkæologparret Ester og Michael. Da Ester gør et banebrydende fund, udfordres både deres ægteskab, Michaels karriere og danmarkshistorien.",
+  "image": "https://cdn-play.tv2i.dk/cc3aaf8e-a9d9-4365-af2c-faf01065179a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8c47402d-21d5-4525-a396-952f85461aeb",
+      "season": 1,
+      "number": 1,
+      "name": "Tunneldalen",
+      "airdate": "2025-06-15"
+    },
+    {
+      "id": "c681c1d2-ceb7-4b05-8286-d9cfd5240795",
+      "season": 1,
+      "number": 2,
+      "name": "Ulfberht",
+      "airdate": "2025-06-22"
+    },
+    {
+      "id": "080dba6b-489c-44a6-86d0-f970792e463a",
+      "season": 1,
+      "number": 3,
+      "name": "Tvekamp",
+      "airdate": "2025-06-29"
+    },
+    {
+      "id": "b7cbbb96-6b31-4968-a677-5f784076de01",
+      "season": 1,
+      "number": 4,
+      "name": "Jelling",
+      "airdate": "2025-07-06"
+    },
+    {
+      "id": "1deb688e-0bcf-424f-8a72-261fb377e2f8",
+      "season": 1,
+      "number": 5,
+      "name": "Shitstorm",
+      "airdate": "2025-07-13"
+    },
+    {
+      "id": "1f1ce611-31ce-48db-ab5f-f6e5a71d7d82",
+      "season": 1,
+      "number": 6,
+      "name": "Kongerøgelse",
+      "airdate": "2025-07-20"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:top-wing-skyshowtime",
+  "name": "Top Wing",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fire unge fugle - Penny, Rod, Swift og Brody - bliver nye Top Wing-kadetter og begynder at hjælpe deres samfund.",
+  "image": "https://cdn-play.tv2i.dk/d7447299-3390-44d3-9895-49a3029b041e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3d17b1fc-4c28-4c87-be6a-29cd8193256a",
+      "season": 1,
+      "number": 4,
+      "name": "Citronpirater",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3cf98658-53eb-479d-b343-2d38f38a5a21",
+      "season": 1,
+      "number": 7,
+      "name": "Den store lyn-vinge redning",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "033ae76e-d661-41b3-a5a0-7e4c68569d10",
+      "season": 1,
+      "number": 19,
+      "name": "Ernas overnatningseventyr",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "35c010b4-9070-4480-8b89-0bc3b7b5b11d",
+      "season": 1,
+      "number": 22,
+      "name": "Penny redder Aquavingen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1b308be6-5e88-4801-9b4f-b5f92eb21a1a",
+      "season": 2,
+      "number": 22,
+      "name": "Vandfalds-hoppet",
+      "airdate": "2023-01-01"
+    }
+  ]
+}

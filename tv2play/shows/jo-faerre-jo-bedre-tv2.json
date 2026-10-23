@@ -5,6 +5,8 @@
   "status": "Running",
   "tmdbId": null,
   "next": "2026-10-26",
+  "description": "Nu skal der quizzes! Tre hold dyster om at finde de mest obskure svare og score så få point som muligt i håb om at gå hele vejen til finalen og vinde pengepræmien.",
+  "image": "https://cdn-play.tv2i.dk/9d351063-834c-3c8f-87c8-82827069b806.png?auto=format%2Ccompress&fm=webp&rect=5%2C0%2C3833%2C2159&w=1280",
   "episodes": [
     {
       "id": "5d7a013e-7400-41d4-b571-9a74d10b1c86",
@@ -761,6 +763,20 @@
       "number": 8,
       "name": "Aber, Disney-sange og dansk frokost",
       "airdate": "2026-10-12"
+    },
+    {
+      "id": "8735342a-52e0-4ddc-9357-8fec63e1f75a",
+      "season": 10,
+      "number": 9,
+      "name": "Nordmænd, næb og skov",
+      "airdate": "2026-10-19"
+    },
+    {
+      "id": "41256d05-a720-4955-bcd9-4795bc93d5cf",
+      "season": 10,
+      "number": 10,
+      "name": "Pasta, magi og demokrati",
+      "airdate": "2026-10-26"
     }
   ]
 }

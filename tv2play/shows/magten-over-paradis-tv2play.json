@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:magten-over-paradis-tv2play",
+  "name": "Magten over paradis",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På Fanø er der kaos bag kulissen. Nye kræfter udfordrer de gamle i et politisk magtopgør, mens borgerne ser til med frygt for øens fremtid.",
+  "image": "https://cdn-play.tv2i.dk/e3b05c25-836a-4dcf-a357-8494b645f979.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "d91ea48b-4574-46f4-97a1-0e39a217b9bc",
+      "season": 1,
+      "number": 1,
+      "name": "Det er enten os eller kaos",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "d95d78e1-1a4b-4d78-aa17-6a0c8c81975d",
+      "season": 1,
+      "number": 2,
+      "name": "Svigtet af magthaverne",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "b0febb79-d48f-4fe2-bfb7-1578e9fbc97a",
+      "season": 1,
+      "number": 3,
+      "name": "Små kommuner, store konsekvenser",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "b7d45423-a21a-4055-be0c-c8dc25563d5e",
+      "season": 1,
+      "number": 4,
+      "name": "Øens fremtid er på spil",
+      "airdate": "2025-11-25"
+    }
+  ]
+}

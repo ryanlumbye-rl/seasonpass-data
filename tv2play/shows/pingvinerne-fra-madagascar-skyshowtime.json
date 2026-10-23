@@ -1,0 +1,481 @@
+{
+  "id": "tv2play:pingvinerne-fra-madagascar-skyshowtime",
+  "name": "Pingvinerne fra Madagascar",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Pingvinerne fra Madagascar er en animeret serie, hvor pingvinerne Skipper, Kowalski, Rekrut og Rico går på eventyr i Central Park Zoo. Serien er baseret på filmen Madagascar.",
+  "image": "https://cdn-play.tv2i.dk/f86c996b-5f5b-4a14-b934-ac63d8ecf27c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2156&w=1280",
+  "episodes": [
+    {
+      "id": "8a939bf5-9d9d-4809-9bc9-4d6b05fa2478",
+      "season": 1,
+      "number": 1,
+      "name": "Popcorn panik",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a2c0d58e-629c-4be2-b661-e9a063dd7c1e",
+      "season": 1,
+      "number": 2,
+      "name": "Kampen på nettet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9b529be1-f93b-447a-966e-b8fa03612299",
+      "season": 1,
+      "number": 3,
+      "name": "Affyring",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cb6ae2a9-e63d-40ec-b76a-e538ef5a08f9",
+      "season": 1,
+      "number": 4,
+      "name": "Operation Plys & Forklædning",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "580f4c0c-402e-4b14-933b-8a6a0993348a",
+      "season": 1,
+      "number": 5,
+      "name": "En fars æggeinstinkt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ec87fa3f-f134-499b-94c1-3fe8e5f49c92",
+      "season": 1,
+      "number": 6,
+      "name": "Kampen om flaget",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2b029693-87c6-4446-b104-51caa00f887f",
+      "season": 1,
+      "number": 7,
+      "name": "De skjulte",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c19151e9-8702-4353-ab2d-64fb9d014e75",
+      "season": 1,
+      "number": 8,
+      "name": "Lille Zoo-coupé",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "64c0aeb7-18f1-4c69-9f54-71c78c8e123b",
+      "season": 1,
+      "number": 9,
+      "name": "Fisk!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ad2c6fb6-88b6-4b84-b44f-98f6cf65e788",
+      "season": 1,
+      "number": 10,
+      "name": "Nålepunkt",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4c50cb40-1779-47fb-b728-15c323a974c6",
+      "season": 1,
+      "number": 11,
+      "name": "Mort med frie tøjler",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d3b71143-a5b2-4182-9cf6-87d53e20c5cf",
+      "season": 1,
+      "number": 12,
+      "name": "Roger, Dodger",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "df8ae182-0e81-4128-b1d4-3368de76bb42",
+      "season": 1,
+      "number": 13,
+      "name": "Odder-amok",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1654a61f-0d2c-4897-b2cd-b0535396934b",
+      "season": 1,
+      "number": 14,
+      "name": "Ulykkekage / Abekærlighed",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c866f5ff-1ba2-434f-b4a2-625a40782934",
+      "season": 1,
+      "number": 15,
+      "name": "Skorka!",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7ee71fb5-31c8-42f1-9d6a-cb4adfbf6780",
+      "season": 1,
+      "number": 16,
+      "name": "Højt at flyve",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c6419f97-c1c8-4cd0-bb64-2aa75deae5ce",
+      "season": 1,
+      "number": 17,
+      "name": "Doktor Blæsehuls hævn",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f47ac4be-efcf-4d99-9f57-c9d10ac8404a",
+      "season": 1,
+      "number": 18,
+      "name": "Ingen groove",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a5178a2d-5055-480b-b0b0-a2e9bfccaf66",
+      "season": 1,
+      "number": 19,
+      "name": "Jeg var en pingvinzombie",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b4956659-efaa-4ff6-82ea-a53195db51a6",
+      "season": 1,
+      "number": 20,
+      "name": "Kommandokrise",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8f6e545f-7d47-4285-aa3a-b3064f4600da",
+      "season": 1,
+      "number": 21,
+      "name": "En konge uden et kongedømme",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ec748b23-e946-4a56-bbf7-24b80e762416",
+      "season": 1,
+      "number": 22,
+      "name": "En elefant glemmer aldrig",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5a0d29b3-4de6-4b39-972a-4d367bd04735",
+      "season": 1,
+      "number": 23,
+      "name": "En køn misforståelse",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "2a2c90f5-f768-4c37-bfb4-74d05502c16a",
+      "season": 1,
+      "number": 24,
+      "name": "Blæver",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "df3191ec-c8fa-4757-9e14-704630f42528",
+      "season": 1,
+      "number": 25,
+      "name": "Slangehoved",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "585ead28-bd17-4de0-b16f-beb812d077a3",
+      "season": 1,
+      "number": 26,
+      "name": "Pingvinerne bliver i billedet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c9d4fb8d-d32f-45e7-a1c1-67f64299ea84",
+      "season": 2,
+      "number": 1,
+      "name": "Det røde egern",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "dc7a342a-a3bc-4692-814c-34aaf7f6e1bf",
+      "season": 2,
+      "number": 2,
+      "name": "Kabum og kaput",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "b025047a-4a4e-4bc3-935c-2167a7ea7253",
+      "season": 2,
+      "number": 3,
+      "name": "Skadedyrene",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "551213d7-da14-486e-bdf7-77cc785b8171",
+      "season": 2,
+      "number": 4,
+      "name": "Alligator-alarm",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "d3d0dd39-67b4-4e43-9a17-d621d3444744",
+      "season": 2,
+      "number": 5,
+      "name": "Det gyldne egerns forsvundne skat",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "8ade5aaf-72ac-4a53-b97a-b93eb36bfc7b",
+      "season": 2,
+      "number": 6,
+      "name": "Koala krisen",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "c65f1e73-ad99-4c7e-a6aa-2e2d91465f0b",
+      "season": 2,
+      "number": 7,
+      "name": "Fingrene væk!",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "1513cb5e-9016-4c45-85e8-55c88960fd65",
+      "season": 2,
+      "number": 8,
+      "name": "Ønsketænkning",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "a376116c-573c-4d70-9c7f-ec917740544e",
+      "season": 2,
+      "number": 9,
+      "name": "Den talende dukke",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "0f6e003e-8b08-4f87-a289-b90fadc7755e",
+      "season": 2,
+      "number": 10,
+      "name": "Operation lusepest",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "07b7f2df-e38a-4f54-8543-d9e170345b84",
+      "season": 2,
+      "number": 11,
+      "name": "Hr. Tux",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "c247b27f-4f5a-4be7-ad12-62a2c1df6fe8",
+      "season": 2,
+      "number": 12,
+      "name": "Spillervennen",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "85630750-518e-4e82-9b84-4fd4765536f8",
+      "season": 2,
+      "number": 13,
+      "name": "Opfinder-indgrebet",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "b93c8685-d2e6-4e12-ad55-d88da0ce92c5",
+      "season": 2,
+      "number": 14,
+      "name": "Julefestforviklinger",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "b25f555f-da54-4a15-a045-f3c3230acfca",
+      "season": 2,
+      "number": 15,
+      "name": "VVS truslen",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "412c3a28-8d1f-478c-83a2-ee90f9dec0c2",
+      "season": 2,
+      "number": 16,
+      "name": "Lumske planer",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "5c4edeb6-df00-4744-8fe7-83be9f1abb78",
+      "season": 2,
+      "number": 17,
+      "name": "Besøg fra rummet",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "e221ade2-0acf-4350-981c-50c66dd39147",
+      "season": 2,
+      "number": 18,
+      "name": "Betjent X faktor",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "9819e69a-c915-4103-b1da-1d7cc24262f3",
+      "season": 2,
+      "number": 19,
+      "name": "Operation god gerning",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "9f382b23-aab4-4f63-b380-fe6ea38f4c45",
+      "season": 2,
+      "number": 20,
+      "name": "Kænguru-rædsel",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "0a228ae9-a3c0-4255-b649-569b248933a2",
+      "season": 2,
+      "number": 21,
+      "name": "Den højre hånd",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "2b73d1c4-963e-42dc-b33d-b21105215a3b",
+      "season": 2,
+      "number": 22,
+      "name": "En sød katastrofe",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "e1130014-98b5-43a4-9205-a441f2797d38",
+      "season": 2,
+      "number": 23,
+      "name": "Et besøg fra onkel Nigel",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "d198a436-764f-477d-87f3-04a555ce3aef",
+      "season": 2,
+      "number": 24,
+      "name": "Den kappeklædte fare",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "99bd2657-ed0f-4003-96ea-191f10b19e89",
+      "season": 2,
+      "number": 25,
+      "name": "Operation nabobytning",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "d0bdd0c0-14b0-42f5-88c0-54698e5006a9",
+      "season": 2,
+      "number": 26,
+      "name": "Sov sødt lille pipfugl",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "18b8eb44-1490-41b2-8840-11f57899b67f",
+      "season": 2,
+      "number": 27,
+      "name": "Foragt ved første blik",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "a7ed70f4-2f19-4a83-bb22-fb9ef290af77",
+      "season": 2,
+      "number": 28,
+      "name": "Det forsvundne hår",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "4bb42e08-89bb-489f-b412-783fc5aec59e",
+      "season": 2,
+      "number": 29,
+      "name": "Hobokens store overraskelse",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "e1e2e5be-ba18-4144-8adf-7b278e7367a1",
+      "season": 2,
+      "number": 30,
+      "name": "Stakkels kæledyr",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "9322b01b-6c56-4ce9-9759-4f01c53a5724",
+      "season": 2,
+      "number": 31,
+      "name": "Ærkefjende",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "e163d979-e359-47e5-880f-cd2ca5ebde36",
+      "season": 2,
+      "number": 32,
+      "name": "Den farligste spilleaften",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "8950cec1-03c8-4c14-bd3f-95b2d5035b42",
+      "season": 2,
+      "number": 33,
+      "name": "Time Out",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "2c6a8ffb-be27-453a-9af6-48eea07cbe15",
+      "season": 2,
+      "number": 34,
+      "name": "Dr. Blæsehuls hævn vender tilbage - del 1",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "ac4aa40f-7dfd-471e-950b-b1d97a2939e6",
+      "season": 2,
+      "number": 35,
+      "name": "Dr. Blæsehuls hævn vender tilbage - del 2",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "3a6fd736-27f1-4030-baa5-40eaf775a3be",
+      "season": 2,
+      "number": 36,
+      "name": "Mavefornemmelse",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "8f96dbe6-b1cc-4464-b886-804591e51781",
+      "season": 2,
+      "number": 37,
+      "name": "Operation: Antarctica",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "14fe9e28-d3ab-40b1-84b3-b5747d3834a0",
+      "season": 2,
+      "number": 38,
+      "name": "Nattenat Ninja",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "7ff7abbb-19cd-4dfa-80e7-ba0f4c827cdd",
+      "season": 2,
+      "number": 39,
+      "name": "Den store flytning",
+      "airdate": "2022-01-24"
+    },
+    {
+      "id": "661f6383-8504-48de-8b10-dc2167b9d66a",
+      "season": 3,
+      "number": 6,
+      "name": "Halløj på isen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "82607769-67b9-476d-aac8-740d3d68535a",
+      "season": 3,
+      "number": 9,
+      "name": "Operation Månehjørning-Apokalypse",
+      "airdate": "2023-01-01"
+    }
+  ]
+}

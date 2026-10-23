@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:borgen-for-begyndere-tv2play",
+  "name": "Borgen for begyndere",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "25. marts 2026 var en skelsættende dag for Christina Lykke og Thomas Klimek. Det var dagen, de to erfarne nordjyske byrådspolitikere fik beskeden om, at de var valgt til Folketinget.",
+  "image": "https://cdn-play.tv2i.dk/136fce14-e246-345c-8b3b-b67a142b3721.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9942ea74-cf4e-4a6d-a89d-1bd3569b1a6b",
+      "season": 1,
+      "number": 1,
+      "name": "En særlig underskrift",
+      "airdate": "2026-06-04"
+    },
+    {
+      "id": "136fbfb7-30fd-4c10-af45-01087812707f",
+      "season": 1,
+      "number": 2,
+      "name": "Et liv i en kuffert",
+      "airdate": "2026-06-04"
+    }
+  ]
+}

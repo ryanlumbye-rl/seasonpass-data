@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:the-burbs-tv2play",
+  "name": "The 'Burbs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da en mystisk mand flytter ind overfor, afslører et ungt par og deres excentriske naboer mørke hemmeligheder i den stille forstad.",
+  "image": "https://cdn-play.tv2i.dk/318a3043-0b4a-4d5f-b32d-f608a40e4ca5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "7084f5f8-9759-4ed2-83a9-494a7a53c482",
+      "season": 1,
+      "number": 1,
+      "name": "The Goddamn Brownies",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "c4bdab2c-f4ce-4dba-8fb4-682f3b73c047",
+      "season": 1,
+      "number": 2,
+      "name": "Mind Your Own Business",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "f6a5b37a-000d-405b-aab2-135257f9ef01",
+      "season": 1,
+      "number": 3,
+      "name": "Sardine?",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "6308f209-c064-4470-8c2c-3fec33fa59e9",
+      "season": 1,
+      "number": 4,
+      "name": "A Nine on the Tension Scale",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "838f2883-0b08-4c5c-a2f0-9f8bf931dd43",
+      "season": 1,
+      "number": 5,
+      "name": "The Old Face-to-Face",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "599376f9-8847-4757-bb5a-bbfbf75e11ed",
+      "season": 1,
+      "number": 6,
+      "name": "Neighbor Take Warning",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "92cf0cff-8bb5-4bcc-89e5-cb9dc3822d85",
+      "season": 1,
+      "number": 7,
+      "name": "Do Not Mess with Suburbanites",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "604ea778-6eb9-449d-8e18-243e6b7548a3",
+      "season": 1,
+      "number": 8,
+      "name": "Only One Way Out",
+      "airdate": "2026-02-27"
+    }
+  ]
+}

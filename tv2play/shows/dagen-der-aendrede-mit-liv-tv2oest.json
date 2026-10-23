@@ -1,0 +1,110 @@
+{
+  "id": "tv2play:dagen-der-aendrede-mit-liv-tv2oest",
+  "name": "Dagen der ændrede mit liv",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Der er nogle få dage i vores liv, som vi husker særlig godt. Fødslen af vores børn, vores bryllup, den sidste eksamen eller måske den dag vores forældre gik bort? Men for nogle mennesker kommer der også særlige dage, som rammer som et lyn fra en klar himmel. I denne serie fortæller de deres egen historie, og hvordan de kom videre efter dagen, der ændrede deres liv.",
+  "image": "https://cdn-play.tv2i.dk/79753ad5-e3dc-45bd-9ead-e31af5ac1d00.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7139d3de-c881-4d00-bfb2-f99a722ca230",
+      "season": 2,
+      "number": 1,
+      "name": "Hannah",
+      "airdate": "2025-01-10"
+    },
+    {
+      "id": "dfea0900-7127-440c-8aee-7e1b3b7356f0",
+      "season": 2,
+      "number": 2,
+      "name": "Janus",
+      "airdate": "2025-01-17"
+    },
+    {
+      "id": "f9b24124-6041-4f7d-ab38-f29a8bacf5e5",
+      "season": 2,
+      "number": 3,
+      "name": "Lea",
+      "airdate": "2025-01-24"
+    },
+    {
+      "id": "575b750d-9b84-4d64-8ed8-6ae4c56616e8",
+      "season": 2,
+      "number": 4,
+      "name": "Nicole",
+      "airdate": "2025-01-31"
+    },
+    {
+      "id": "16d0db33-eb42-4b72-a148-785cda95615d",
+      "season": 2,
+      "number": 5,
+      "name": "Forvekslet med en morder",
+      "airdate": "2025-02-07"
+    },
+    {
+      "id": "41789b49-5c60-46d2-b15d-10ed3aac2f39",
+      "season": 3,
+      "number": 1,
+      "name": "Bjergbestigeren",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "6d85e526-a436-4a24-a957-6632c7c1deb0",
+      "season": 3,
+      "number": 2,
+      "name": "Blev ramt af lynet",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "b6e356fa-dedc-4b9c-a9fd-939179d099de",
+      "season": 3,
+      "number": 3,
+      "name": "Steffies nyre",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "03836904-f0dd-41ac-b9cb-53bf70d44fe5",
+      "season": 3,
+      "number": 4,
+      "name": "Nicks første strip",
+      "airdate": "2025-06-07"
+    },
+    {
+      "id": "86675acc-cfe7-4944-a940-a2f39776a811",
+      "season": 3,
+      "number": 5,
+      "name": "Fra anbragt til forstander",
+      "airdate": "2025-06-14"
+    },
+    {
+      "id": "89f3bdbb-1665-48e5-b813-714ce1d2b257",
+      "season": 3,
+      "number": 6,
+      "name": "Sorg blev til stoffer",
+      "airdate": "2025-06-21"
+    },
+    {
+      "id": "b9016d1d-4bd5-4e9e-a270-f5f3a139bd37",
+      "season": 4,
+      "number": 1,
+      "name": "Da Claire blev englemor",
+      "airdate": "2026-03-30"
+    },
+    {
+      "id": "199f998b-d079-4f9e-9269-e77c2d4fc96d",
+      "season": 4,
+      "number": 2,
+      "name": "Fra kræftpatient til opfinder",
+      "airdate": "2026-04-06"
+    },
+    {
+      "id": "c780eabf-8a9f-4e4c-a951-c78bee0dccff",
+      "season": 4,
+      "number": 3,
+      "name": "Skudt med sømpistol",
+      "airdate": "2026-04-13"
+    }
+  ]
+}

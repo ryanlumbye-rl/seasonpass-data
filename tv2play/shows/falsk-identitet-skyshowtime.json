@@ -1,0 +1,362 @@
+{
+  "id": "tv2play:falsk-identitet-skyshowtime",
+  "name": "Falsk identitet",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En meget unik og fængslende serie om 'bureau des légendes', det mytiske kraftcenter inden for den franske efterretningstjeneste og dens hemmelige agenter. Manipulation, løgne og bedrag i statens tjeneste er deres levebrød.",
+  "image": "https://cdn-play.tv2i.dk/5b8b0462-9186-4fe5-9548-88b2a3967031.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e47d7178-974a-488b-a605-4351a225506e",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "3eaaf464-386e-427d-98be-6709d275d381",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "46365790-9a97-4c15-ad68-de188426e012",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "2b93016a-0d89-4b42-bda5-d629879588cb",
+      "season": 1,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "e45a3efd-2a86-4867-a44d-ca71f915a6cf",
+      "season": 1,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "0b4678f9-4d09-405b-bcb1-24b89c3bedc3",
+      "season": 1,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "68b56717-4d90-49f1-8b49-1a90390cedc8",
+      "season": 1,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "725faa5e-de54-49ca-97c8-aae21cb7532b",
+      "season": 1,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "0de0c53e-2968-4d22-838e-35c295bd7e24",
+      "season": 1,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "9d70d4f8-6509-4bf0-b3c5-f95e5813e47d",
+      "season": 1,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2025-02-10"
+    },
+    {
+      "id": "d85af2cc-6752-496b-bb21-c1b55423f1de",
+      "season": 2,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "47f5923a-5cc3-4204-8472-ba0213cfc2f3",
+      "season": 2,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "4ee05d92-c1af-417a-81c8-5c17833db21e",
+      "season": 2,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "6a401161-ca09-400e-8d29-4e180c0c5b0b",
+      "season": 2,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "4b359f27-31ab-4986-af61-4a90f9a09ad0",
+      "season": 2,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "98ee8b1a-bbd6-459c-acad-d7da22c3679f",
+      "season": 2,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "597dc878-9dc8-41cf-8e93-9b5662190664",
+      "season": 2,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "1e78d664-8aa1-4f5c-92af-998089c62348",
+      "season": 2,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "6d8de277-4833-45ac-a062-04bb5d13cf9f",
+      "season": 2,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "cc823f20-30fb-472c-87c6-7971931d443d",
+      "season": 2,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "b79e865c-d65a-42b4-b9db-0c2d3dc56c31",
+      "season": 3,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "51e3d1a8-0d2c-48fb-83ea-4d082140a2cf",
+      "season": 3,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "a386fbf8-6c0f-4783-b527-52a5ab286876",
+      "season": 3,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "3ea1b9ea-c3a4-45ea-96c0-acf4ee43b118",
+      "season": 3,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "be245a66-b6aa-44aa-b3f8-8885e3549c0c",
+      "season": 3,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "afb13732-5025-4d2b-9938-db0198b868bf",
+      "season": 3,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "7c600863-98a0-4a70-96f7-5d4a410c3b9a",
+      "season": 3,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "3246398b-cdb2-49d1-b5ec-a047905811ba",
+      "season": 3,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "12c2ad10-b2f4-4d2a-a091-7ec180aa9e8d",
+      "season": 3,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "d5470ff8-8e71-4076-a924-c24ba1f0f32f",
+      "season": 3,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2025-02-26"
+    },
+    {
+      "id": "f311a9d8-dee2-4a74-b8c9-6b9ca8c28088",
+      "season": 4,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "532155aa-cb52-4b04-9039-72fd4433c556",
+      "season": 4,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "b95c27ed-be2d-4b54-aa57-7700c87879de",
+      "season": 4,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "5b33378d-9844-41af-b103-b8296d3b7ac5",
+      "season": 4,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "f9daaa54-c099-462e-866c-999f8ac2dea1",
+      "season": 4,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "943be5ed-0191-4065-9839-5bdec5b4b8e7",
+      "season": 4,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "38d0dcbb-a60a-4975-ac8d-5bd08de4c0d7",
+      "season": 4,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "76c09d01-43dd-4959-8957-ff5ac879b6cc",
+      "season": 4,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "cd685c82-9ea2-49af-b05f-e2dd47916b6a",
+      "season": 4,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "e621cb12-57db-43c1-8096-b2d454623e9b",
+      "season": 4,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2025-03-05"
+    },
+    {
+      "id": "d717b527-07ed-441b-9145-b2b815e519b7",
+      "season": 5,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "2f7931ba-d6d3-45e0-95d5-8cc132202d40",
+      "season": 5,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "2fd4a667-43e7-4b99-98f4-fbaecc4652c4",
+      "season": 5,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "1e822d95-d3a6-4cb3-a9c2-e2938c46fd7a",
+      "season": 5,
+      "number": 4,
+      "name": "Afsnit 4",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "84084ff3-5fd4-4f3f-91e0-684b82a9dad4",
+      "season": 5,
+      "number": 5,
+      "name": "Afsnit 5",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "96f45229-9e85-4770-864e-4e1ae8dd6f90",
+      "season": 5,
+      "number": 6,
+      "name": "Afsnit 6",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "d1ca45a2-093b-4cdc-a5ef-a5d164d82547",
+      "season": 5,
+      "number": 7,
+      "name": "Afsnit 7",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "ec389448-84cc-4922-a847-4882e4aac4e3",
+      "season": 5,
+      "number": 8,
+      "name": "Afsnit 8",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "1893cf73-c6b3-42cf-ab12-5bb288732f94",
+      "season": 5,
+      "number": 9,
+      "name": "Afsnit 9",
+      "airdate": "2025-03-12"
+    },
+    {
+      "id": "6b8feaad-768d-41cd-ba40-7775d961d482",
+      "season": 5,
+      "number": 10,
+      "name": "Afsnit 10",
+      "airdate": "2025-03-12"
+    }
+  ]
+}

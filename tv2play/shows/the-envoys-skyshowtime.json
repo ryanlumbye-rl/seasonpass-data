@@ -1,0 +1,124 @@
+{
+  "id": "tv2play:the-envoys-skyshowtime",
+  "name": "The Envoys",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "To embedsfolk fra Vatikanet efterforsker påståede mirakler, der tilskrives en præst i en afsidesliggende mexicansk landsby, men denne forsvinder på mystisk vis, da de ankommer",
+  "image": "https://cdn-play.tv2i.dk/50260276-3f4a-4369-bc5a-103627a0b5bb.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a6202033-2d51-43c8-88d6-c74b04434c9d",
+      "season": 1,
+      "number": 1,
+      "name": "Walk With Your Eyes Wide Open",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "f580e2b8-5f72-469a-a2e1-6a0b008511e5",
+      "season": 1,
+      "number": 2,
+      "name": "And the Devil Appeared",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "07517f7f-8e00-4071-a2c1-b70c62e963e6",
+      "season": 1,
+      "number": 3,
+      "name": "Christ's Youth",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "942be46d-8acc-47c6-9da2-4ea8f4b80ce6",
+      "season": 1,
+      "number": 4,
+      "name": "Don't Scream",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "517870a2-b28f-4f39-8b6c-545f3191814d",
+      "season": 1,
+      "number": 5,
+      "name": "Descent Into Hell",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "dcf6687e-18b8-46e0-8618-a25cc03dbd12",
+      "season": 1,
+      "number": 6,
+      "name": "Salina's Trip",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "d668eade-f3b5-4ce9-bbd9-bc1ec54c0b50",
+      "season": 1,
+      "number": 7,
+      "name": "My Name Is Legion",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "91847650-2b14-430e-ba91-388e74760d87",
+      "season": 1,
+      "number": 8,
+      "name": "Deliver Us From Evil",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "5d9bb9d4-2639-4e5d-b000-16f940b49f96",
+      "season": 2,
+      "number": 1,
+      "name": "Oraklet fra Porto da Lúa",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "64e3cfbb-7089-47d1-841e-5325819fa13e",
+      "season": 2,
+      "number": 2,
+      "name": "Nøglerne til kongeriget",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "5d185e79-8283-4990-90b8-373995b212cf",
+      "season": 2,
+      "number": 3,
+      "name": "Guds lam",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "10838424-7aa8-4b7f-ac02-dab986df2505",
+      "season": 2,
+      "number": 4,
+      "name": "Hvil i fred",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "9bd9cae0-2879-4a5e-a0c1-fc7a0bae0a3c",
+      "season": 2,
+      "number": 5,
+      "name": "Fri for synd",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "c268cc48-b0e4-4284-bd2b-0d3025ae0b04",
+      "season": 2,
+      "number": 6,
+      "name": "Ildsøen",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "594e461c-2e3c-4ffb-b245-935a1036caee",
+      "season": 2,
+      "number": 7,
+      "name": "Hestia",
+      "airdate": "2024-03-15"
+    },
+    {
+      "id": "e1c8e860-2eb0-4249-9ff8-bfef95c2815a",
+      "season": 2,
+      "number": 8,
+      "name": "Lyset skinner i mørket",
+      "airdate": "2024-03-15"
+    }
+  ]
+}

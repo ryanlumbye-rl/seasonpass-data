@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:aaret-ifoelge-tv2play",
+  "name": "Året ifølge",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Et nyt år står for døren. Vi ser tilbage på året der er gået i Nordjylland i selskab med fire kendte nordjyder.",
+  "image": "https://cdn-play.tv2i.dk/0b4441dc-eb06-4ed3-bdb2-8c0a20b133a9.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "b8bc0b32-0181-4942-966f-38eca307cd69",
+      "season": 2024,
+      "number": 1,
+      "name": "Året ifølge Jonas Ellitsgaard Jensen",
+      "airdate": "2024-12-26"
+    },
+    {
+      "id": "3d80b85f-54f8-4057-a1e6-33abc7d5601d",
+      "season": 2024,
+      "number": 2,
+      "name": "Året ifølge Diana Sørensen",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "56d00d2b-9023-46fc-94a6-3da674c24a43",
+      "season": 2024,
+      "number": 3,
+      "name": "Året ifølge Thomas Kastrup-Larsen",
+      "airdate": "2025-01-02"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:naturfotografen-tv2play",
+  "name": "Naturfotografen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Naturfotograf Morten Jensen har rejst verden rundt efter vilde dyr. Nu vender han hjem til Østjylland for at vise, at spektakulære naturoplevelser også findes i den danske natur – fra havørne og sæler til slanger og rådyr.",
+  "image": "https://cdn-play.tv2i.dk/086ec88b-057f-3e18-bc74-aea307c2e8a2.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "11d67d6c-af07-423f-81a7-7e7d20451b1d",
+      "season": 1,
+      "number": 1,
+      "name": "Man ved aldrig, hvad der dukker op",
+      "airdate": "2026-07-03"
+    },
+    {
+      "id": "4b9e7d47-be65-42e6-bd9b-bac11e8ee731",
+      "season": 1,
+      "number": 2,
+      "name": "Dyrene under motorvejen",
+      "airdate": "2026-07-10"
+    },
+    {
+      "id": "1d8b3c44-b429-4223-8e50-780b1fc7af59",
+      "season": 1,
+      "number": 3,
+      "name": "Øen med tusindvis af kaniner",
+      "airdate": "2026-07-17"
+    },
+    {
+      "id": "6ae6e70f-2c11-4ee7-86d7-b2327e2dc8ae",
+      "season": 1,
+      "number": 4,
+      "name": "Tæt på Danmarks største rovfugl",
+      "airdate": "2026-07-24"
+    },
+    {
+      "id": "a5663b6d-136c-432c-9e7a-f554872d0fea",
+      "season": 1,
+      "number": 5,
+      "name": "Slanger flokkes til parring ved natursti",
+      "airdate": "2026-07-31"
+    }
+  ]
+}

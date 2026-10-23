@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:dyreinternatet-tv2nord",
+  "name": "Dyreinternatet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nordjyllands Dyreinternat i Hjallerup hjælper kæledyr, der har brug for nye og kærlige hjem. I denne serie kommer vi bag kulisserne, hvor vi møder dyrene, medarbejderne og de frivillige på internatet",
+  "image": "https://cdn-play.tv2i.dk/5ea5c889-fd20-4fc1-b68e-87d78f594960.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "082bee27-e3c7-46d0-ad07-4519c1a92cfc",
+      "season": 4,
+      "number": 1,
+      "name": "Sultne Sigurd & Garage Caisa",
+      "airdate": "2025-01-16"
+    },
+    {
+      "id": "7c421fd2-4fd6-4b68-96f4-ffcb1ba139b9",
+      "season": 4,
+      "number": 2,
+      "name": "Vildtstationen og killingen der skifter køn",
+      "airdate": "2025-01-23"
+    },
+    {
+      "id": "dd5225ff-2e1a-45b0-a3b8-ef97a6d71c7d",
+      "season": 4,
+      "number": 3,
+      "name": "Dødsboets slanger og Fjälrävskillingerne",
+      "airdate": "2025-01-30"
+    },
+    {
+      "id": "374efd84-5914-4359-9072-edc5bd9c85f5",
+      "season": 4,
+      "number": 4,
+      "name": "For sulen! Caisas tandpine og boatjek",
+      "airdate": "2025-02-06"
+    },
+    {
+      "id": "c8fe2ba9-f16f-4c2c-9339-0c3c0cbc5e0d",
+      "season": 4,
+      "number": 5,
+      "name": "Boa i baljen og Sigurds chance",
+      "airdate": "2025-02-13"
+    },
+    {
+      "id": "25cf51b2-de3b-49d9-bc73-4cf9d14eb504",
+      "season": 4,
+      "number": 6,
+      "name": "Caisas svømmetur og hundeangsten",
+      "airdate": "2025-02-20"
+    }
+  ]
+}

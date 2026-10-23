@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:las-vegas-bag-facaden-tv2play",
+  "name": "Las Vegas bag facaden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Glem alt om gamle casino­klicheer. Las Vegas er blevet hotspot for musik, mega-events og non-stop fester. En legeplads for unge, der jagter det ekstreme. Men under neonlyset gemmer sig en sandhed, der ikke glitrer.",
+  "image": "https://cdn-play.tv2i.dk/779ddeff-11cf-31ec-8d18-ef2f501869ba.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c6104a42-ad7e-4056-99ee-f0374726dfc2",
+      "season": 1,
+      "number": 1,
+      "name": "Voksende problemer",
+      "airdate": "2026-06-18"
+    },
+    {
+      "id": "8564c492-1f0c-4aa8-8a72-14651584dcd0",
+      "season": 1,
+      "number": 2,
+      "name": "Bag neonlyset",
+      "airdate": "2026-06-18"
+    }
+  ]
+}

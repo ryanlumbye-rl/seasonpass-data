@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:david-frost-six-interviews-skyshowtime",
+  "name": "David Frost: Six Interviews",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Epokegørende interviews udført af den legendariske tv-vært.",
+  "image": "https://cdn-play.tv2i.dk/d9cc3fbe-7f46-4f77-a8ec-0cbe5a4370c1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "45c37350-f9e9-4fab-a7a2-e6d6ebbaa10e",
+      "season": 1,
+      "number": 1,
+      "name": "David Frost vs. the Beatles",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "06dce56b-cc78-4b22-9b6e-0f460b4b8472",
+      "season": 1,
+      "number": 2,
+      "name": "David Frost vs. Muhammad Ali",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "33f30e91-b4c1-4578-849e-7a37934fb669",
+      "season": 1,
+      "number": 3,
+      "name": "David Frost vs. Jane Fonda",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "b80ddccc-7a23-403f-9cdd-55e54f888021",
+      "season": 1,
+      "number": 4,
+      "name": "David Frost vs. Richard Nixon",
+      "airdate": "2025-07-20"
+    },
+    {
+      "id": "bbe50716-7616-4875-acd4-fe6b2ca6154a",
+      "season": 1,
+      "number": 5,
+      "name": "David Frost vs. Elton John",
+      "airdate": "2025-07-20"
+    },
+    {
+      "id": "991c85ba-ff4a-4d87-aad0-540f558aa85a",
+      "season": 1,
+      "number": 6,
+      "name": "David Frost vs. The Middle East",
+      "airdate": "2025-07-20"
+    }
+  ]
+}

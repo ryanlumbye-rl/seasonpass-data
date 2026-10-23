@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:penny-dreadful-city-of-angels-tv2play",
+  "name": "Penny Dreadful: City of Angels",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "43f29f32-c614-4e01-b625-44358f602cfe",
+      "season": 1,
+      "number": 1,
+      "name": "Santa Muerte",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d7dd47f8-1762-49a9-b6c4-1817f4c670b6",
+      "season": 1,
+      "number": 2,
+      "name": "Dead People Lie Down",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cd1aafcf-754e-439a-8c22-a956b3b5b9d0",
+      "season": 1,
+      "number": 3,
+      "name": "Wicked Old World",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b1b99bfc-af2b-4e54-beef-ff1de4e64bd9",
+      "season": 1,
+      "number": 4,
+      "name": "Josefina and the Holy Spirit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "89d784c7-f95a-4a28-b6cf-d2b3f292a0da",
+      "season": 1,
+      "number": 5,
+      "name": "Children of the Royal Sun",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8d6447bb-70b8-4041-b140-1235b202a553",
+      "season": 1,
+      "number": 6,
+      "name": "How it is with Brothers",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "147b1ef8-2d8f-462c-a7c0-ad80ffe2f138",
+      "season": 1,
+      "number": 7,
+      "name": "Maria and the Beast",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "89d335e5-8f43-4ac1-9526-bc5ac437be98",
+      "season": 1,
+      "number": 8,
+      "name": "Hide and Seek",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "32d50bf1-8236-4f83-8cee-47330eca1ad2",
+      "season": 1,
+      "number": 9,
+      "name": "Sing, Sing, Sing",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1e97c349-2779-4bdb-83a5-f610ef250662",
+      "season": 1,
+      "number": 10,
+      "name": "Day of the Dead",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

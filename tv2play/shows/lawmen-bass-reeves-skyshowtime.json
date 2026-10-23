@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:lawmen-bass-reeves-skyshowtime",
+  "name": "Lawmen: Bass Reeves",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Historien om den legendariske lovmand Bass Reeves og hans rejse fra slaveri til at blive den første sorte Deputy U.S. Marshal vest for Mississippi-floden. I sin karriere nåede han at arrestere mere end 3.000 forbrydere, men med store moralske og spirituelle omkostninger for sin familie",
+  "image": "https://cdn-play.tv2i.dk/0d6b2fa8-8e02-4285-9873-71005d7f782a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "92b73f1a-a441-410b-9059-3d1a07767f58",
+      "season": 1,
+      "number": 1,
+      "name": "Part I",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "7c4b3397-cff7-4c74-b0b6-f46db0892d6d",
+      "season": 1,
+      "number": 2,
+      "name": "Part II",
+      "airdate": "2023-12-18"
+    },
+    {
+      "id": "f70e35f3-1f1c-4ae4-b0cb-79b4842c55b9",
+      "season": 1,
+      "number": 3,
+      "name": "Part III",
+      "airdate": "2023-12-25"
+    },
+    {
+      "id": "2c9a9b74-1ee3-4501-a08d-25b485dcf1a0",
+      "season": 1,
+      "number": 4,
+      "name": "Part IV",
+      "airdate": "2024-01-01"
+    },
+    {
+      "id": "5c8a2dfa-949f-4857-8df2-c0ad1a022887",
+      "season": 1,
+      "number": 5,
+      "name": "Part V",
+      "airdate": "2024-01-08"
+    },
+    {
+      "id": "4be5b7fd-75c1-467a-af4a-2f3d4e4741da",
+      "season": 1,
+      "number": 6,
+      "name": "Part VI",
+      "airdate": "2024-01-15"
+    },
+    {
+      "id": "5597b259-5b83-4757-89a2-9081fccc1217",
+      "season": 1,
+      "number": 7,
+      "name": "Part VII",
+      "airdate": "2024-01-22"
+    },
+    {
+      "id": "d6aa1e65-5e62-49c1-8154-8eb91739be18",
+      "season": 1,
+      "number": 8,
+      "name": "Part VIII",
+      "airdate": "2024-01-29"
+    }
+  ]
+}

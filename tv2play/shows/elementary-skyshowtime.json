@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Den excentriske Sherlock Holmes er faldet i unåde og har søgt tilflugt i New York. Det bliver starten på et usædvanligt venskab spækket med mordsager.",
+  "image": "https://cdn-play.tv2i.dk/d28feb85-fa45-44e6-b828-1efab47d38dc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "f7581f65-49b1-4d62-9852-11949b98e9a9",
@@ -357,10 +359,31 @@
       "airdate": "2022-09-20"
     },
     {
+      "id": "65979f9b-c61a-4cd1-ab80-5e4ba83e05c6",
+      "season": 3,
+      "number": 3,
+      "name": "Just a Regular Irregular",
+      "airdate": "2022-09-20"
+    },
+    {
       "id": "936d0e4e-f2ac-4070-8c29-038c00dcf692",
       "season": 3,
       "number": 4,
       "name": "Bella",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "dc0abd7c-11ea-4c33-88cd-ed74750b311f",
+      "season": 3,
+      "number": 5,
+      "name": "Rip Off",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1a56ebde-ec12-4719-995a-a8789a202d56",
+      "season": 3,
+      "number": 6,
+      "name": "Terra Pericolosa",
       "airdate": "2022-09-20"
     },
     {
@@ -382,6 +405,13 @@
       "season": 3,
       "number": 9,
       "name": "The Eternity Injection",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "26062a66-8c8e-4962-8f6e-1c1fdf0f7bc6",
+      "season": 3,
+      "number": 10,
+      "name": "Seed Money",
       "airdate": "2022-09-20"
     },
     {

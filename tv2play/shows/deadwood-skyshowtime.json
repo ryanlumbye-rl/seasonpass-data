@@ -1,0 +1,264 @@
+{
+  "id": "tv2play:deadwood-skyshowtime",
+  "name": "Deadwood",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det største guldfund i amerikansk historie tiltrækker rastløse outsidere. Historien begynder to uger efter general Custers nederlag ved Little Big Horn og blander fiktive og autentiske personligheder i en episk fortælling om moral.",
+  "image": "https://cdn-play.tv2i.dk/58200fd8-6794-40ad-a501-f448a519936b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3036%2C1688&w=1280",
+  "episodes": [
+    {
+      "id": "220af254-fac7-4158-9e2a-f79d924c74c9",
+      "season": 1,
+      "number": 1,
+      "name": "Deadwood",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "04a294b6-6b2a-4a9e-bcdc-05e78d4f839a",
+      "season": 1,
+      "number": 2,
+      "name": "Deep Water",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ed3c1959-3a8f-4911-b7dc-218b697d4325",
+      "season": 1,
+      "number": 3,
+      "name": "Reconoitering the Rim",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "15b56e6d-cd44-4ab3-8dc1-ea8d882e514b",
+      "season": 1,
+      "number": 4,
+      "name": "Here Was a Man",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6f4fa5db-4830-44cc-9669-09a8310f2eaa",
+      "season": 1,
+      "number": 5,
+      "name": "Trial of Jack McCall",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "83ee3d2b-1568-4f20-9912-3cb9d1e9149e",
+      "season": 1,
+      "number": 6,
+      "name": "Plague",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "271475eb-42d7-4527-b460-6ac7fa3eeb46",
+      "season": 1,
+      "number": 7,
+      "name": "Bullock Returns to Camp",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cad47d9d-ef71-4744-be7a-9d1c8d23a772",
+      "season": 1,
+      "number": 8,
+      "name": "Suffer the Little Children",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "82808eb1-1825-401c-a24e-0d5fbb9fa1ea",
+      "season": 1,
+      "number": 9,
+      "name": "No Other Sons or Daughters",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7db5da19-8375-4adb-988b-da3a6b03e871",
+      "season": 1,
+      "number": 10,
+      "name": "Mister Wu",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "17536095-f867-42f0-9c23-dbdda1dc597d",
+      "season": 1,
+      "number": 11,
+      "name": "Jewel's Boot is Made For Walking",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "ad84855a-d7ba-4eb8-b9f3-f3c4652b9494",
+      "season": 1,
+      "number": 12,
+      "name": "Sold Under Sin",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8d7c6786-26f3-447c-8c5c-fc79244137c8",
+      "season": 2,
+      "number": 1,
+      "name": "A Lie Agreed Upon, Part 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f44efaa0-ea97-4bba-a167-83a1cdda55d1",
+      "season": 2,
+      "number": 2,
+      "name": "A Lie Agreed Upon, Part 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "185fddad-7d46-4ba5-9e7d-497eb1cdf8c3",
+      "season": 2,
+      "number": 3,
+      "name": "New Money",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5adbe6ee-924f-46cc-8141-33d15ade409d",
+      "season": 2,
+      "number": 4,
+      "name": "Requiem for a Gleet",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5a2794e7-c11b-4184-ba5d-101ec0310e18",
+      "season": 2,
+      "number": 5,
+      "name": "Complications",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8debd0be-60f6-4930-9298-88246ef0b381",
+      "season": 2,
+      "number": 6,
+      "name": "Something Very Expensive",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "33182d54-4307-421b-8cb4-44f72740749b",
+      "season": 2,
+      "number": 7,
+      "name": "E. B. Was Left Out",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "5e9ac307-ab4b-43c8-83fc-3436bb89e156",
+      "season": 2,
+      "number": 8,
+      "name": "Childish Things",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "032c2f8a-7ac6-4ce9-bc67-ec3bf151444e",
+      "season": 2,
+      "number": 9,
+      "name": "Amalgamation and Capitol",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1f48578b-ee49-433c-a84c-e2311ba73d45",
+      "season": 2,
+      "number": 10,
+      "name": "Advances, None Miraculous",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e48e3013-646f-4378-badc-17087fd7abed",
+      "season": 2,
+      "number": 11,
+      "name": "The Whores Can Come",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1f4393e8-01f8-4936-8813-4e62926af761",
+      "season": 2,
+      "number": 12,
+      "name": "Boy-The-Earth-Talks-To",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "49d5e4b4-18c7-4c6f-85b8-ed61979e8ca4",
+      "season": 3,
+      "number": 1,
+      "name": "Tell Your God To Ready For Blood",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "374d0272-179f-48b3-898c-1866885a010e",
+      "season": 3,
+      "number": 2,
+      "name": "I Am Not The Fine Man You Take Me For",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9c7441b6-d723-4230-bdf1-26b11cc76e52",
+      "season": 3,
+      "number": 3,
+      "name": "True Colors",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b5d735bc-34ec-4efe-8551-c33216a139bf",
+      "season": 3,
+      "number": 4,
+      "name": "Full Faith And Credit",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8e0b94c4-9a19-48d1-bd56-d31eed7c00c9",
+      "season": 3,
+      "number": 5,
+      "name": "Two Headed Beast",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7d9997df-31cb-4bda-b15a-9faedcf438f1",
+      "season": 3,
+      "number": 6,
+      "name": "A Rich Find",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e90c03f0-192c-434a-8e26-8ba9f528840c",
+      "season": 3,
+      "number": 7,
+      "name": "Unauthorized Cinnamon",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4c069392-7ede-4c53-a45f-b130083c1c69",
+      "season": 3,
+      "number": 8,
+      "name": "Leviathan Smiles",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f9a3c919-efe1-4fd1-9642-0099d5e313af",
+      "season": 3,
+      "number": 9,
+      "name": "Amateur Night",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "e7e2be8d-9595-4af5-b435-5622083835b5",
+      "season": 3,
+      "number": 10,
+      "name": "A Constant Throb",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dc55a23a-97b1-4c14-8e32-1779339cc19e",
+      "season": 3,
+      "number": 11,
+      "name": "The Catbird Seat",
+      "airdate": "2024-11-05"
+    },
+    {
+      "id": "3d8f36fb-e911-4769-b1dc-b91078ba873e",
+      "season": 3,
+      "number": 12,
+      "name": "Tell Him Something Pretty",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

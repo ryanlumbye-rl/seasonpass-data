@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:gone-irelands-vanishing-triangle-skyshowtime",
+  "name": "Gone: Ireland’s Vanishing Triangle",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 1990'erne forsvandt seks kvinder i Irland, og de blev aldrig fundet. Det skræmte befolkningen og forvirrede efterforskerne. 30 år senere analyserer retsmedicinere og journalister forsvindingerne og fortsætter med at lede efter svar",
+  "image": "https://cdn-play.tv2i.dk/ff8a1ff4-41ef-4019-8082-28c933fba401.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3768%2C2120&w=1280",
+  "episodes": [
+    {
+      "id": "ca7e2747-6a0f-4d98-a59e-80137913b946",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-01-11"
+    },
+    {
+      "id": "dcea6c3c-abfd-4480-9012-9030f402fa8d",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-01-11"
+    }
+  ]
+}

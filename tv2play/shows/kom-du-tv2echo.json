@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:kom-du-tv2echo",
+  "name": "Kom du?",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Serien følger fire unge kvinder i jagten på kærlighed og god sex. De ønsker at gøre op med orgasmekløften og peger kameraet mod venner, familie, kærester og booty-calls for at forstå, hvorfor det er så svært at tale om sex og orgasmer. Vi følger dem i deres underholdende og svære mission.",
+  "image": "https://cdn-play.tv2i.dk/2990b8e1-7ab5-4d39-bf4f-0269f2ff5c10.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8dde51f5-7da0-4e84-b8eb-93d7917e8cc6",
+      "season": 1,
+      "number": 1,
+      "name": "Livet er for kort til dårlig sex",
+      "airdate": "2024-07-03"
+    },
+    {
+      "id": "f3d33f2f-674f-457f-8ece-0b16c4655a98",
+      "season": 1,
+      "number": 2,
+      "name": "Jeg kender din, men du kender ikke min..",
+      "airdate": "2024-07-10"
+    },
+    {
+      "id": "5bc344fc-61c1-456a-bce0-972257efd6e9",
+      "season": 1,
+      "number": 3,
+      "name": "Kan man guide for meget under sex?",
+      "airdate": "2024-07-17"
+    },
+    {
+      "id": "0d21d685-ab4e-4708-b1ef-656b2e6ef8da",
+      "season": 1,
+      "number": 4,
+      "name": "Den vildeste milepæl i min orgasmemission",
+      "airdate": "2024-07-24"
+    }
+  ]
+}

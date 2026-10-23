@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:box-21-skyshowtime",
+  "name": "Box 21",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lidia, en ung rumænsk kvinde, bliver lokket til at tage til Sverige med løfter om et bedre liv. I stedet bliver hun tvunget til at lade sig udnytte seksuelt.",
+  "image": "https://cdn-play.tv2i.dk/dc6d8a6a-6f6c-4c85-a6ea-ffe85c1e875b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "59cba2da-cd7f-4fdc-98ad-72609638f765",
+      "season": 1,
+      "number": 1,
+      "name": "Låst inde",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "2301a4d4-eca3-4049-b085-d00021a67472",
+      "season": 1,
+      "number": 2,
+      "name": "Planer",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "0319e701-3f38-4348-a903-5c29d52c4f48",
+      "season": 1,
+      "number": 3,
+      "name": "Gidslet",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "b656bed0-e6da-4d0f-93b3-b1b17efae61b",
+      "season": 1,
+      "number": 4,
+      "name": "Boksen",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "2e6fb08c-b99b-4590-a3b5-33cebb73e41d",
+      "season": 1,
+      "number": 5,
+      "name": "Bukarest",
+      "airdate": "2024-05-16"
+    },
+    {
+      "id": "739ee844-66d7-4a37-9e3e-a6a102e418dd",
+      "season": 1,
+      "number": 6,
+      "name": "Janus",
+      "airdate": "2024-05-16"
+    }
+  ]
+}

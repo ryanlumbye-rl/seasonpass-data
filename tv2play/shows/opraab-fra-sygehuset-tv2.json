@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:opraab-fra-sygehuset-tv2",
+  "name": "Opråb fra sygehuset",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Travlhed og mangel på personale har i længere tid været så stort et problem på flere af landets sygehuse, at der bliver begået fejl, som går ud over patienterne og i værste tilfælde koster liv. I to afsnit fortæller både læger og sygeplejersker om deres personlige oplevelser fra de seneste år.",
+  "image": "https://cdn-play.tv2i.dk/6b3fbda0-33b7-454c-9c1d-e52c651acc23.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "33e4e842-401d-420f-9603-161e30a781d6",
+      "season": 1,
+      "number": 1,
+      "name": "Livsfarligt travlt",
+      "airdate": "2021-10-21"
+    },
+    {
+      "id": "ef11e4e6-d9e7-49ca-9ed7-cd235e70f100",
+      "season": 1,
+      "number": 2,
+      "name": "Forbudte fejl",
+      "airdate": "2021-10-21"
+    }
+  ]
+}

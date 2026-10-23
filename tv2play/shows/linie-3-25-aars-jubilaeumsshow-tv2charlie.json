@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:linie-3-25-aars-jubilaeumsshow-tv2charlie",
+  "name": "Linie 3 - 25 års jubilæumsshow",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Preben Christensen, Thomas Eje og Anders Bircow har holdt sammen i tykt og tyndt i et kvart århundrede, og det skal naturligvis fejres med manér.",
+  "image": "https://cdn-play.tv2i.dk/3a29c91f-d92a-4eeb-86f4-005404e24e0f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C22%2C2400%2C1350&w=1280",
+  "episodes": [
+    {
+      "id": "15644280-c268-449c-bced-a82d65e8799d",
+      "season": 1,
+      "number": 1,
+      "name": "Til \"sølvbryllup\" med Danmarks populæreste trio",
+      "airdate": "2005-08-19"
+    },
+    {
+      "id": "3b0e867a-d3c9-4513-b8fa-e40982102384",
+      "season": 1,
+      "number": 2,
+      "name": "Til \"sølvbryllup\" med Danmarks populæreste trio",
+      "airdate": "2005-08-26"
+    }
+  ]
+}

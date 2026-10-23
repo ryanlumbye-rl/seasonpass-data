@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:umage-tv2echo",
+  "name": "Umage",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Ruben, Theis og Jakob er bedste venner. De elsker det liv, de har sammen med faste rutiner, ritualer og traditioner. Men deres fællesskab er truet af det, der bare ikke måtte ske: en af dem har fået en kæreste",
+  "image": "https://cdn-play.tv2i.dk/58b5bf73-70d6-4c1d-816c-1bfbb765f351.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "4378b2a7-83f8-414a-8d95-d6c86862fbca",
+      "season": 1,
+      "number": 1,
+      "name": "Vi skal drikke 'Bord'",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "419b6546-c6a1-4714-8ae6-80e762cb5c33",
+      "season": 1,
+      "number": 2,
+      "name": "Voksenrig",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "fc34a379-9a11-4498-af90-324183529676",
+      "season": 1,
+      "number": 3,
+      "name": "You've changed",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "579847e4-8f7a-43aa-ba84-d13065eafc66",
+      "season": 1,
+      "number": 4,
+      "name": "Trash Talk",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "81f6d136-b834-4632-ba78-c97251cd3913",
+      "season": 1,
+      "number": 5,
+      "name": "Counter Strike og damer",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "5efc43e6-4dfb-4194-86dc-240a633a6081",
+      "season": 1,
+      "number": 6,
+      "name": "Hviskefest",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "8b47b34d-02b7-4bec-9837-a0d2dffb1d3e",
+      "season": 1,
+      "number": 7,
+      "name": "Maybe Attending",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "17d9c3f6-6b76-4706-8d51-410cff89a1a0",
+      "season": 1,
+      "number": 8,
+      "name": "We've changed",
+      "airdate": "2022-12-19"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:de-unge-jordemoedre-tv2echo",
+  "name": "De unge jordemødre",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med på job med de unge jordemødre på Basildon University Hospital i Essex og oplev, hvordan de får privatlivet til at gå op med livet på fødegangen.",
+  "image": "https://cdn-play.tv2i.dk/a2c654ae-b9e8-4bce-b9cb-5ec0a750337c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "7f9f4d92-02fb-44d9-88aa-fa629df03ad4",
+      "season": 1,
+      "number": 1,
+      "name": "En hård vagt",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "2dc5e4df-4900-41ef-bc26-7563925fd77b",
+      "season": 1,
+      "number": 2,
+      "name": "Du gør ikke dette for pengenes skyld",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "cb7d8c2e-d9ce-4127-8811-827a556d8b18",
+      "season": 1,
+      "number": 3,
+      "name": "Hver elev tæller",
+      "airdate": "2025-10-29"
+    },
+    {
+      "id": "a236fed4-c075-4400-ac27-cb90bf5058c5",
+      "season": 1,
+      "number": 4,
+      "name": "Det hele er ikke lutter lagkage",
+      "airdate": "2025-11-05"
+    },
+    {
+      "id": "283d769e-33df-440e-9a43-b1fb081f0993",
+      "season": 1,
+      "number": 5,
+      "name": "Eksistentiel krise på vej",
+      "airdate": "2025-11-12"
+    },
+    {
+      "id": "16b9a379-cb09-465e-93b5-1bb3094ceab9",
+      "season": 1,
+      "number": 6,
+      "name": "Tænk på fremtiden",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "476e752c-0065-4cbd-9c8b-f68854549b37",
+      "season": 1,
+      "number": 7,
+      "name": "Knald eller fald",
+      "airdate": "2025-11-26"
+    },
+    {
+      "id": "5dadefa9-07f7-495c-bbe3-9220bae8418a",
+      "season": 1,
+      "number": 8,
+      "name": "Med stor magt følger stort ansvar",
+      "airdate": "2025-11-26"
+    }
+  ]
+}

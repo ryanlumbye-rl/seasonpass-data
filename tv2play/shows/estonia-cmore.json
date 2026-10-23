@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Virkelighedsbaseret dramaserie om en af de værste skibskatastrofer i nyere tid fra det indledende nødråb til havarikommissionens endelige rapport.",
+  "image": "https://cdn-play.tv2i.dk/1ca60c1a-26d2-43bf-b01a-0e15dbbd406f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "383be03f-0e70-47df-ae89-61b6aecf26ce",

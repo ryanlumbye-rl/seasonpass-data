@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:ombord-tv2echo",
+  "name": "Ombord",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På den anden side af jorden står otte unge overfor en rejse, der kan ændre deres vej i livet. Sammen går de ombord på en båd med et hemmeligt spørgsmål, der kaster en skygge over deres hverdag derhjemme. I 30 dage sejler de ud i det ukendte - og deler deres spørgsmål med hinanden i løbet af rejsen",
+  "image": "https://cdn-play.tv2i.dk/f8e8c982-4776-4de4-b04e-68f37af04bc6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2938d204-2e13-4e41-b668-9e21ac7faa40",
+      "season": 1,
+      "number": 1,
+      "name": "Ubesvarede spørgsmål",
+      "airdate": "2023-04-05"
+    },
+    {
+      "id": "04c96495-0c97-4ab9-97bb-242dc7dcd454",
+      "season": 1,
+      "number": 2,
+      "name": "Josephines hemmelighed",
+      "airdate": "2023-04-12"
+    },
+    {
+      "id": "b1610685-588c-473c-99c8-b1a6fbce4b9e",
+      "season": 1,
+      "number": 3,
+      "name": "Langt fra Lalandia",
+      "airdate": "2023-04-19"
+    },
+    {
+      "id": "22c48738-81d9-4198-a1da-153f046d9517",
+      "season": 1,
+      "number": 4,
+      "name": "Bare Kalle",
+      "airdate": "2023-04-26"
+    },
+    {
+      "id": "3169dd72-2008-452e-b9e6-f6748b3ecb2b",
+      "season": 1,
+      "number": 5,
+      "name": "Ønskeøen",
+      "airdate": "2023-05-03"
+    },
+    {
+      "id": "adca1022-ec2d-4006-b72a-ea1d6fb9c8fd",
+      "season": 1,
+      "number": 6,
+      "name": "Kaptajnsdrømme",
+      "airdate": "2023-05-10"
+    },
+    {
+      "id": "64ce7dfc-821d-4fd7-ad28-44ccf5697a83",
+      "season": 1,
+      "number": 7,
+      "name": "Junglefeber",
+      "airdate": "2023-05-17"
+    },
+    {
+      "id": "bb1938d4-45b9-4a3d-84cf-8ce6dbbf18ca",
+      "season": 1,
+      "number": 8,
+      "name": "Nye roller",
+      "airdate": "2023-05-24"
+    },
+    {
+      "id": "0c98fbd6-04b7-46a5-ae72-655bf361505c",
+      "season": 1,
+      "number": 9,
+      "name": "Udenfor",
+      "airdate": "2023-05-31"
+    },
+    {
+      "id": "1cbfd82e-66e6-426a-843e-97cb9cc5ba9b",
+      "season": 1,
+      "number": 10,
+      "name": "Svaret",
+      "airdate": "2023-06-07"
+    }
+  ]
+}

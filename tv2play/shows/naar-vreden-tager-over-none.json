@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:naar-vreden-tager-over-none",
+  "name": "Når vreden tager over",
+  "service": "tv2",
+  "status": "Running",
+  "tmdbId": null,
+  "next": "2026-10-29",
+  "description": "Fire kendte danskere åbner døren til en følelse, som de færreste har lyst til at vise frem. For hvad gemmer der sig bag de øjeblikke, hvor vreden tager over, og man mister kontrollen?",
+  "image": "https://cdn-play.tv2i.dk/fe82cb56-6a1a-3773-b86d-b744a97a2b40.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "0de187b9-2f2c-4b2f-95e2-dc7cee8688f3",
+      "season": 1,
+      "number": 1,
+      "name": "Når vreden rammer",
+      "airdate": "2026-10-08"
+    },
+    {
+      "id": "b7ea5497-5ea9-4425-bad3-83c54a497a94",
+      "season": 1,
+      "number": 2,
+      "name": "Ude af kontrol",
+      "airdate": "2026-10-15"
+    },
+    {
+      "id": "42d42a9f-b456-47fd-86c6-b5f3a127095d",
+      "season": 1,
+      "number": 3,
+      "name": "At tæmme vreden",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "2b5c44e0-abe8-4123-9984-1fa0f9f6149a",
+      "season": 1,
+      "number": 4,
+      "name": "Det svære ord: Undskyld",
+      "airdate": "2026-10-29"
+    }
+  ]
+}

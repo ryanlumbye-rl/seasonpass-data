@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:ponies-tv2play",
+  "name": "Ponies",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 1977 arbejder to PONIES – personer uden betydning i efterretningssprog – som sekretærer på USA's ambassade i Moskva. Da deres mænd dør under mystiske omstændigheder, kastes de ind i CIA. Bea er skarp og russisktalende, Twila frygtløs og handlekraftig. Sammen afslører de en dødelig sammensværgelse.",
+  "image": "https://cdn-play.tv2i.dk/afbe6546-1ba0-4c10-a252-81949d9b083f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "35fe0a52-ab08-4c75-a6a3-12572c3559d9",
+      "season": 1,
+      "number": 1,
+      "name": "Second Hand News",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "bd518653-7690-447b-9091-b915d3fa5da0",
+      "season": 1,
+      "number": 2,
+      "name": "Hanging on the Telephone",
+      "airdate": "2026-01-30"
+    },
+    {
+      "id": "ae7b2588-5a05-4c64-b34b-206848fdb5f0",
+      "season": 1,
+      "number": 3,
+      "name": "Backstreets",
+      "airdate": "2026-02-06"
+    },
+    {
+      "id": "e24db084-5334-43fb-8be9-71364a4f59cf",
+      "season": 1,
+      "number": 4,
+      "name": "Don't Go Breaking My Heart",
+      "airdate": "2026-02-13"
+    },
+    {
+      "id": "4ad00403-b0a2-46a0-b23f-224247b5e282",
+      "season": 1,
+      "number": 5,
+      "name": "Turn the Beat Around",
+      "airdate": "2026-02-20"
+    },
+    {
+      "id": "4703c459-42a7-4c74-9280-9c002ffe98d1",
+      "season": 1,
+      "number": 6,
+      "name": "Night Moves",
+      "airdate": "2026-02-27"
+    },
+    {
+      "id": "b77d37b0-db80-44c3-8175-877a1c335bb9",
+      "season": 1,
+      "number": 7,
+      "name": "Livin' Thing",
+      "airdate": "2026-03-06"
+    },
+    {
+      "id": "058a68e5-a498-4e3b-b310-caa3f44c8437",
+      "season": 1,
+      "number": 8,
+      "name": "The Stranger",
+      "airdate": "2026-03-13"
+    }
+  ]
+}

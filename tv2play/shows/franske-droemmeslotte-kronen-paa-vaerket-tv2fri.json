@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:franske-droemmeslotte-kronen-paa-vaerket-tv2fri",
+  "name": "Franske drømmeslotte - kronen på værket",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "De har kæmpet med smuldrede lofter og nedslidte tårne. Nu tager vi et tilbageblik på nogle af de britiske familier, der har købt og renoveret smukke, franske drømmeslotte, og ser resultatet af deres hårde arbejde.",
+  "image": "https://cdn-play.tv2i.dk/4f23c136-595a-451e-9804-3866222ccf12.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "042f1466-1770-4e1f-8888-ba279fb2a4fe",
+      "season": 1,
+      "number": 1,
+      "name": "Chateau de Lalande",
+      "airdate": "2024-04-14"
+    },
+    {
+      "id": "f7c341e5-5fc5-4390-9637-5a5fb243426c",
+      "season": 1,
+      "number": 2,
+      "name": "Château La Grande Maison",
+      "airdate": "2024-04-21"
+    },
+    {
+      "id": "6b129627-d3e0-4fdc-b5dd-d7c9b3702893",
+      "season": 1,
+      "number": 3,
+      "name": "Château de la Ruche",
+      "airdate": "2024-04-28"
+    },
+    {
+      "id": "61348da9-639f-4626-ad9b-f4f161d1c1a0",
+      "season": 1,
+      "number": 4,
+      "name": "Chateau Lagorce",
+      "airdate": "2024-05-05"
+    },
+    {
+      "id": "fd95788c-4294-4c3e-96ae-21cbc1f62e1f",
+      "season": 1,
+      "number": 5,
+      "name": "Château Domaine de la Barde",
+      "airdate": "2024-05-12"
+    },
+    {
+      "id": "69b22825-3e89-4331-9824-2ae5fdd0b608",
+      "season": 1,
+      "number": 6,
+      "name": "Château de Saugé",
+      "airdate": "2024-05-19"
+    },
+    {
+      "id": "5b937d81-637f-4288-a070-02915742074d",
+      "season": 1,
+      "number": 7,
+      "name": "Château Gioux",
+      "airdate": "2024-05-26"
+    },
+    {
+      "id": "eb4a4feb-4bd0-47e4-8ee2-51ed4aeb7605",
+      "season": 1,
+      "number": 8,
+      "name": "Château de la Fare",
+      "airdate": "2024-06-02"
+    }
+  ]
+}

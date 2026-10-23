@@ -1,0 +1,215 @@
+{
+  "id": "tv2play:berlin-station-tv2play",
+  "name": "Berlin Station",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "24a4d6f4-9bbe-4ad0-aa32-f5431f3a21c0",
+      "season": 1,
+      "number": 1,
+      "name": "Station to Station",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "bf0ab7dc-7366-41f9-9913-4824f385626b",
+      "season": 1,
+      "number": 2,
+      "name": "Lights Don't Run on Loyalty",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "094c71c3-518c-42c9-8d78-0e2e3731e8a1",
+      "season": 1,
+      "number": 3,
+      "name": "Riverrun Dry",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "e71b9138-e5ef-4226-becc-104890f38fde",
+      "season": 1,
+      "number": 4,
+      "name": "By Way of Deception",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "0b9e5e66-c6ef-4062-8ac5-f8a94a2634c6",
+      "season": 1,
+      "number": 5,
+      "name": "Unter Druck",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "1d9575bd-ea3b-4663-9f16-246d12a1bc93",
+      "season": 1,
+      "number": 6,
+      "name": "Just Decisions",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "fc0cfaf7-b799-4e46-a483-b5b54ac96433",
+      "season": 1,
+      "number": 7,
+      "name": "Proof of Life",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "694c6588-f4aa-41ec-9b9f-f01fedb27fde",
+      "season": 1,
+      "number": 8,
+      "name": "False Negative",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "40f06b3d-f3c6-43b6-a6b5-c0303764c990",
+      "season": 1,
+      "number": 9,
+      "name": "Thomas Shaw",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "9b59c716-b5dd-4e7c-a3d9-d766f5310ab6",
+      "season": 1,
+      "number": 10,
+      "name": "Oratorio Berlin",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ec49d5de-669f-4c84-a893-e8aca9cbc002",
+      "season": 2,
+      "number": 1,
+      "name": "Everything's Gonna Be Alt-Right",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c1337c84-a80e-4560-b8b0-df192c2bd5f3",
+      "season": 2,
+      "number": 2,
+      "name": "Right Here, Right Now",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "f7949aed-1b08-44a5-883b-94acaf479149",
+      "season": 2,
+      "number": 3,
+      "name": "Right to the Heart",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "b5a01254-55b4-4468-b4d7-2e4322d2519f",
+      "season": 2,
+      "number": 4,
+      "name": "Do the Right Thing",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "72326325-4534-459c-8d41-951305cf1cfd",
+      "season": 2,
+      "number": 5,
+      "name": "Right of Way",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "97b77524-c5de-4244-aa74-cb84ff1640e8",
+      "season": 2,
+      "number": 6,
+      "name": "The Right Hook",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "29d250fc-2ded-465f-93f5-53714db07b51",
+      "season": 2,
+      "number": 7,
+      "name": "Right and Wrong",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "dc12d410-5617-4a7b-ab1b-ab3e59766fa4",
+      "season": 2,
+      "number": 8,
+      "name": "The Righteous One",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "67504f09-0f08-43e5-9486-2e654fa29fc5",
+      "season": 2,
+      "number": 9,
+      "name": "Winners Right the History Books",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "462e8672-45fc-4300-b26e-495eaf74ae1e",
+      "season": 3,
+      "number": 1,
+      "name": "Aut Concilio Aut Ense",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "1651eca4-1502-4806-bfaa-8c6f28ec34f6",
+      "season": 3,
+      "number": 2,
+      "name": "Fire Knows Nothing of Mercy",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "3250c4b6-41e1-45e8-bf57-8fddb1375330",
+      "season": 3,
+      "number": 3,
+      "name": "The Old Lie",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "49be1dca-1275-47d3-b61d-cff86a021e41",
+      "season": 3,
+      "number": 4,
+      "name": "If You Swear, You'll Catch No Fish",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "8c191ad9-1a56-4d21-a009-74b664ddf5d1",
+      "season": 3,
+      "number": 5,
+      "name": "The Dream of the Four Policemen",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "33313441-6d7e-4828-a44b-7379d6118555",
+      "season": 3,
+      "number": 6,
+      "name": "In Cold Hell",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "8730bc80-4023-4ed0-adb6-95e49bd09204",
+      "season": 3,
+      "number": 7,
+      "name": "The Eye Fears When It Is Done to See",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "c452d999-3b57-4e77-a4e1-8c60efdc06b0",
+      "season": 3,
+      "number": 8,
+      "name": "The Green Dacha",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "715cb2c1-5214-41b1-9481-fb8695ce3d04",
+      "season": 3,
+      "number": 9,
+      "name": "End of War",
+      "airdate": "2023-12-01"
+    },
+    {
+      "id": "38fe9b06-9c0e-4b47-a93b-59f5c5e3ed3d",
+      "season": 3,
+      "number": 10,
+      "name": "Book of the Fallen",
+      "airdate": "2023-12-01"
+    }
+  ]
+}

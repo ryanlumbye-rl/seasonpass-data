@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:nazi-kartellet-tv2play",
+  "name": "Nazi-kartellet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "08342d4c-eaaf-420a-b7a0-4142b5d63d87",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-11-16"
+    },
+    {
+      "id": "bd190b9a-3078-4856-b87f-14d6ae50caee",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-11-16"
+    },
+    {
+      "id": "01b538b5-2951-4c77-a5fc-afd3631c4e24",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-11-16"
+    }
+  ]
+}

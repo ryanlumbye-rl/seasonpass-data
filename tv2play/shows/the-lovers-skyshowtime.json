@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:the-lovers-skyshowtime",
+  "name": "The Lovers",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "En kærlighedshistorie om to mennesker, der virker helt og aldeles forkerte for hinanden, men som måske alligevel er helt og aldeles rigtige. Da Seamus, en fin politisk kommentator fra London, bogstaveligt talt dumper ned i den grovkornede og sjove Belfast-pige Janets baghave, opstår der sød musik. .",
+  "image": "https://cdn-play.tv2i.dk/d4437e2b-47b1-4b94-a16d-0b4f7784b885.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "cb64f0b7-7050-4bf1-86e5-c1601e573e1b",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-02-08"
+    },
+    {
+      "id": "9e9627ab-804b-4a15-a76e-efd7bb033c94",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-02-08"
+    },
+    {
+      "id": "48757bc3-cbf2-4852-a128-330d85fc21f3",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-02-15"
+    },
+    {
+      "id": "7eefbb30-9482-4de8-bba0-cbc4a4b89d4c",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-02-22"
+    },
+    {
+      "id": "ba11ea1c-5a30-47ab-82e1-90705a92d75a",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-02-29"
+    },
+    {
+      "id": "592ffcb1-966f-4acd-a199-e3270ea77099",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-03-07"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:bonden-og-biologen-tv2bornholm",
+  "name": "Bonden og biologen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den grønne trepart skal give mere natur med højere biodiversitet, og 15% landbrugsjord skal ud af drift. Men hvordan kan det lade sig gøre på Bornholm? Vi lader en bonde møde en biolog for at lære om hinandens forskellige verdener.",
+  "image": "https://cdn-play.tv2i.dk/b7f8c6ef-1c55-41b6-98ae-ab3ff70b111a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "24b3a801-c285-4c5f-8f83-00d3a51eef96",
+      "season": 1,
+      "number": 1,
+      "name": "Roundup er regnormens bedste ven",
+      "airdate": "2025-08-29"
+    },
+    {
+      "id": "5a419d8a-ac04-4aed-9222-ce77de9a7cce",
+      "season": 1,
+      "number": 2,
+      "name": "En sky af klamuella",
+      "airdate": "2025-08-29"
+    }
+  ]
+}

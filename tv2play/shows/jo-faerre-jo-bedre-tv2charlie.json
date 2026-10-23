@@ -2,10 +2,768 @@
   "id": "tv2play:jo-faerre-jo-bedre-tv2charlie",
   "name": "Jo færre jo bedre",
   "service": "tv2",
-  "status": "Unknown",
+  "status": "Running",
   "tmdbId": null,
-  "next": null,
+  "next": "2026-10-26",
+  "description": "Nu skal der quizzes! Tre hold dyster om at finde de mest obskure svare og score så få point som muligt i håb om at gå hele vejen til finalen og vinde pengepræmien.",
+  "image": "https://cdn-play.tv2i.dk/9d351063-834c-3c8f-87c8-82827069b806.png?auto=format%2Ccompress&fm=webp&rect=5%2C0%2C3833%2C2159&w=1280",
   "episodes": [
+    {
+      "id": "5d7a013e-7400-41d4-b571-9a74d10b1c86",
+      "season": 1,
+      "number": 2,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-01-06"
+    },
+    {
+      "id": "6f589bce-9142-483a-bc29-9d9b323e5a6e",
+      "season": 1,
+      "number": 3,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-01-13"
+    },
+    {
+      "id": "8b602765-5a55-4fb7-acf5-5876ba7d88b8",
+      "season": 1,
+      "number": 5,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-02-03"
+    },
+    {
+      "id": "78841549-8826-40c3-9c99-59ba81832c06",
+      "season": 2,
+      "number": 1,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-10-06"
+    },
+    {
+      "id": "f1e7f6b3-ce8b-46dc-9a69-32ccbfeea931",
+      "season": 2,
+      "number": 2,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-10-13"
+    },
+    {
+      "id": "37f3d6ee-a114-43e4-b3b5-cd9f434bcb3e",
+      "season": 2,
+      "number": 3,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-10-20"
+    },
+    {
+      "id": "3a37dd1b-0d8d-4753-a269-d7f384202504",
+      "season": 2,
+      "number": 4,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-10-27"
+    },
+    {
+      "id": "76cafb51-6b4c-442d-a19f-a02a0999a95c",
+      "season": 2,
+      "number": 5,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-11-03"
+    },
+    {
+      "id": "61027932-08d1-4830-bea9-bfe74b33f498",
+      "season": 2,
+      "number": 6,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-11-10"
+    },
+    {
+      "id": "7e1be93d-dce5-4ce6-9f2d-da0dc3c942c4",
+      "season": 2,
+      "number": 7,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-11-17"
+    },
+    {
+      "id": "683d8d17-686f-4e69-be9a-93934b63c588",
+      "season": 2,
+      "number": 8,
+      "name": "Nytårsspecial",
+      "airdate": "2019-12-29"
+    },
+    {
+      "id": "063fd1b7-62c3-417e-81bc-ccf1ec1da6ed",
+      "season": 2,
+      "number": 9,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-12-30"
+    },
+    {
+      "id": "ebbe32bb-fda8-4ffb-80ae-803d281d051a",
+      "season": 2,
+      "number": 10,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-12-30"
+    },
+    {
+      "id": "ab9a9168-ea52-4265-a713-aa9778d96c55",
+      "season": 2,
+      "number": 11,
+      "name": "Find det mest obskure svar",
+      "airdate": "2019-12-30"
+    },
+    {
+      "id": "758c896b-8dce-490a-b18b-db60a3079d69",
+      "season": 2,
+      "number": 12,
+      "name": "Find det mest obskure svar",
+      "airdate": "2020-02-02"
+    },
+    {
+      "id": "5dbf6f5b-b021-445b-9dc4-992f4bd008f1",
+      "season": 2,
+      "number": 13,
+      "name": "Find det mest obskure svar",
+      "airdate": "2020-02-09"
+    },
+    {
+      "id": "f40685c2-c5ce-4a17-b27c-1bb5f3949c4d",
+      "season": 2,
+      "number": 14,
+      "name": "Find det mest obskure svar",
+      "airdate": "2020-02-16"
+    },
+    {
+      "id": "d7979b38-f7c0-4001-897d-c0630e1cd795",
+      "season": 2,
+      "number": 15,
+      "name": "Find det mest obskure svar",
+      "airdate": "2020-02-23"
+    },
+    {
+      "id": "67d1d093-6a36-4b07-b178-691289606606",
+      "season": 2,
+      "number": 16,
+      "name": "Find det mest obskure svar",
+      "airdate": "2020-03-01"
+    },
+    {
+      "id": "e52aa7f8-d963-4bd6-abdc-0d3cca008d85",
+      "season": 3,
+      "number": 1,
+      "name": "Kend din Matador",
+      "airdate": "2020-10-18"
+    },
+    {
+      "id": "7f83f5d0-bf87-402f-9c51-334945826d1d",
+      "season": 3,
+      "number": 2,
+      "name": "På rov efter svar",
+      "airdate": "2020-10-18"
+    },
+    {
+      "id": "76e8ebfc-651a-4fc7-8e7a-46f6ec5ed303",
+      "season": 3,
+      "number": 3,
+      "name": "Bær, cirkus og øhop",
+      "airdate": "2020-10-25"
+    },
+    {
+      "id": "2c03908c-7439-4e5c-9081-2cbd29183bb4",
+      "season": 3,
+      "number": 4,
+      "name": "Vejen til finalen",
+      "airdate": "2020-11-01"
+    },
+    {
+      "id": "ea52a09f-c8b0-4743-ad3f-849493e8921f",
+      "season": 3,
+      "number": 5,
+      "name": "Sirius, spejder og iskold sport",
+      "airdate": "2020-11-08"
+    },
+    {
+      "id": "973162b2-45eb-4eb9-a158-930a1fd59d16",
+      "season": 3,
+      "number": 6,
+      "name": "Julehygge og dejlig mad",
+      "airdate": "2020-11-15"
+    },
+    {
+      "id": "55084b4d-ac7e-410f-92f4-0c3a7fd8abba",
+      "season": 3,
+      "number": 7,
+      "name": "Julebag med mor og far",
+      "airdate": "2020-11-22"
+    },
+    {
+      "id": "c424c98d-803f-40c0-9368-a4a080e92a01",
+      "season": 3,
+      "number": 8,
+      "name": "Formænd, forlystelser og fiktiv mad",
+      "airdate": "2020-12-25"
+    },
+    {
+      "id": "77bb0022-80f5-4a53-a9e7-41d427f00893",
+      "season": 3,
+      "number": 9,
+      "name": "Filmskat og tårne",
+      "airdate": "2021-01-03"
+    },
+    {
+      "id": "dfb4f6b3-4bc6-4070-9a70-c69f7972cb17",
+      "season": 3,
+      "number": 10,
+      "name": "Superliga og salmer",
+      "airdate": "2021-01-03"
+    },
+    {
+      "id": "7ec32cbe-ee31-4734-89d4-d2d1915cd630",
+      "season": 3,
+      "number": 11,
+      "name": "Filmdyr og Far til fire",
+      "airdate": "2021-01-10"
+    },
+    {
+      "id": "126ccb8d-828f-4a2e-96a8-4b473e5735e3",
+      "season": 3,
+      "number": 12,
+      "name": "Guldlande og fugle i farver",
+      "airdate": "2021-01-24"
+    },
+    {
+      "id": "5fbb5be9-a61d-464a-af4c-c13a2fae5b1c",
+      "season": 3,
+      "number": 13,
+      "name": "Højskolesang og håndbold",
+      "airdate": "2021-01-31"
+    },
+    {
+      "id": "0f6b40da-c34c-4d7f-8ed6-5c00b0c21d1c",
+      "season": 3,
+      "number": 14,
+      "name": "Onkel-jokes og 3 x Mads",
+      "airdate": "2021-02-14"
+    },
+    {
+      "id": "89ba69e4-d487-4153-8168-dd729c70b29f",
+      "season": 3,
+      "number": 15,
+      "name": "Re-Sepp-Ten på en god quiz",
+      "airdate": "2021-02-21"
+    },
+    {
+      "id": "7602cdb6-abd4-42ec-91de-80cca56d4707",
+      "season": 3,
+      "number": 16,
+      "name": "Dyreparker og danske medaljer",
+      "airdate": "2021-05-13"
+    },
+    {
+      "id": "478a56fb-f8f4-417c-ab10-6c299680e37e",
+      "season": 4,
+      "number": 1,
+      "name": "Frugt, fødsler og folketing",
+      "airdate": "2021-10-24"
+    },
+    {
+      "id": "30f46e23-325c-4b3c-846b-6c770595b481",
+      "season": 4,
+      "number": 2,
+      "name": "Fodboldhelte og fiktive firmaer",
+      "airdate": "2021-10-24"
+    },
+    {
+      "id": "2ece2c8d-f5d6-460f-8ce2-699c6b566163",
+      "season": 4,
+      "number": 3,
+      "name": "Partiformænd, postnumre og pasodoble",
+      "airdate": "2021-10-31"
+    },
+    {
+      "id": "91e356e4-2898-4404-be87-bf4625dcdbe4",
+      "season": 4,
+      "number": 4,
+      "name": "Må de bedste brødre vinde",
+      "airdate": "2021-11-07"
+    },
+    {
+      "id": "caddf8fe-4df8-4595-ba89-10025c4e62f8",
+      "season": 4,
+      "number": 5,
+      "name": "Pop, øhop og præstationer i top",
+      "airdate": "2021-12-13"
+    },
+    {
+      "id": "515ef5cc-6f11-44c3-9d27-75b119ce5fab",
+      "season": 4,
+      "number": 6,
+      "name": "Store lande og store kunstnere",
+      "airdate": "2021-12-14"
+    },
+    {
+      "id": "2ade12d2-7a0d-4909-b7c1-433d633e452d",
+      "season": 4,
+      "number": 7,
+      "name": "Sange, der har samlet nationen",
+      "airdate": "2021-12-15"
+    },
+    {
+      "id": "b6dd24cd-1052-4f64-ba5c-647927f8f64f",
+      "season": 4,
+      "number": 8,
+      "name": "Fodboldmedaljer og Frost-karakterer",
+      "airdate": "2021-12-16"
+    },
+    {
+      "id": "4403efbe-7b67-408a-8c21-b76a1ea30bba",
+      "season": 4,
+      "number": 9,
+      "name": "Tour de France og tv-serier",
+      "airdate": "2021-12-24"
+    },
+    {
+      "id": "cb50f802-b6e4-4f97-bb67-bd5e14561b1b",
+      "season": 4,
+      "number": 10,
+      "name": "Kunst, Kina og kærlighed på tv",
+      "airdate": "2021-12-28"
+    },
+    {
+      "id": "b77fc227-4621-4b63-a8fb-b535a2863015",
+      "season": 4,
+      "number": 11,
+      "name": "Bamser, byer og bold",
+      "airdate": "2021-12-29"
+    },
+    {
+      "id": "8f30c5d4-41fa-4939-9dc5-604bb34c9af4",
+      "season": 4,
+      "number": 12,
+      "name": "Er I der Horsens?",
+      "airdate": "2021-12-31"
+    },
+    {
+      "id": "939e310f-b634-411e-80f7-ebdd489794f3",
+      "season": 4,
+      "number": 13,
+      "name": "En chance til",
+      "airdate": "2022-12-26"
+    },
+    {
+      "id": "7315652d-3a53-4af7-8d15-d506b4770174",
+      "season": 4,
+      "number": 14,
+      "name": "Amerika og Anders Thomas Jensen",
+      "airdate": "2022-12-27"
+    },
+    {
+      "id": "4e25c975-207a-4594-bddd-a00fe342e5f9",
+      "season": 4,
+      "number": 15,
+      "name": "Håndboldmedaljer og hovedstæder",
+      "airdate": "2022-12-28"
+    },
+    {
+      "id": "61d61cba-98b8-4954-917f-a73c39fe9f6c",
+      "season": 4,
+      "number": 16,
+      "name": "Melodi Grand Prix, museer og maskotter",
+      "airdate": "2022-12-29"
+    },
+    {
+      "id": "dffb3b55-1cf3-4e59-8452-3311dd63b448",
+      "season": 5,
+      "number": 1,
+      "name": "Skæg, slotte og stemmeslugere",
+      "airdate": "2023-09-10"
+    },
+    {
+      "id": "290c297e-3182-441b-b950-ef23e7cf7e4b",
+      "season": 5,
+      "number": 2,
+      "name": "Bolde, biler og bløde stemmer",
+      "airdate": "2023-09-17"
+    },
+    {
+      "id": "1fee3eec-c65e-4aef-998a-7ef9578953a3",
+      "season": 5,
+      "number": 3,
+      "name": "Aqua, discman og plateausko",
+      "airdate": "2023-09-24"
+    },
+    {
+      "id": "ae44d393-ccf1-4508-b17f-50c093fbc076",
+      "season": 5,
+      "number": 4,
+      "name": "Kim Larsen, kystlinjer og kyskhedsbælte",
+      "airdate": "2023-10-01"
+    },
+    {
+      "id": "030246a8-8bf4-487a-bab6-6a7245c1b6fd",
+      "season": 5,
+      "number": 5,
+      "name": "OL og Olsen-banden",
+      "airdate": "2023-10-08"
+    },
+    {
+      "id": "798670fb-242b-4aa5-a3fc-cbeca8b4d391",
+      "season": 5,
+      "number": 6,
+      "name": "Tunmousse og touperet hår",
+      "airdate": "2023-10-15"
+    },
+    {
+      "id": "ce9b43ab-f74c-4a10-95a8-1c16d878ca2a",
+      "season": 5,
+      "number": 7,
+      "name": "Traditioner, rensdyr og gløgg",
+      "airdate": "2023-11-26"
+    },
+    {
+      "id": "84d1227e-4d61-4570-b09f-074017de7057",
+      "season": 5,
+      "number": 8,
+      "name": "Pip, kvæk og brøl",
+      "airdate": "2024-03-03"
+    },
+    {
+      "id": "0c987cf7-b903-4513-a3d7-99ac7667657b",
+      "season": 5,
+      "number": 9,
+      "name": "Ringenes Herre, Rom og rød-hvide helte",
+      "airdate": "2024-03-10"
+    },
+    {
+      "id": "bcf90533-6712-404f-bda5-10200e4ec8c5",
+      "season": 5,
+      "number": 10,
+      "name": "Flag, farver og finalister",
+      "airdate": "2024-03-17"
+    },
+    {
+      "id": "c32dd066-96d5-425f-b247-6df0d61f0e39",
+      "season": 5,
+      "number": 11,
+      "name": "Fjerne lande, film og fyndige citater",
+      "airdate": "2024-03-24"
+    },
+    {
+      "id": "40730c41-100e-4943-a302-14f129d864f6",
+      "season": 5,
+      "number": 12,
+      "name": "Mor er den bedste i verden",
+      "airdate": "2024-03-31"
+    },
+    {
+      "id": "52226122-4aa7-435d-96e4-534e570576cd",
+      "season": 5,
+      "number": 13,
+      "name": "Filmmusik, fodbold og fiktive skoler",
+      "airdate": "2024-04-07"
+    },
+    {
+      "id": "815df06e-8fe7-4949-80d3-897466c8c10e",
+      "season": 5,
+      "number": 14,
+      "name": "Matador, mytologi og masser af drinks",
+      "airdate": "2024-04-14"
+    },
+    {
+      "id": "6b19ecff-d80d-4575-8dd4-df5948c0274a",
+      "season": 5,
+      "number": 15,
+      "name": "Sportsfamilier, skurke og ABBA på spansk",
+      "airdate": "2024-04-21"
+    },
+    {
+      "id": "00e24a67-1719-45ab-8f93-f39187620271",
+      "season": 5,
+      "number": 16,
+      "name": "M-byer, musicals og Melodi Grand Prix",
+      "airdate": "2024-04-28"
+    },
+    {
+      "id": "6e2e7ad9-e967-4ab5-8bee-c2194572e154",
+      "season": 6,
+      "number": 1,
+      "name": "Hundehoveder og Heino-musik",
+      "airdate": "2024-12-23"
+    },
+    {
+      "id": "2936125f-ffa3-425a-8599-28c8868faca5",
+      "season": 6,
+      "number": 2,
+      "name": "Helmig, Harry Potter og hundehvalpe",
+      "airdate": "2024-12-25"
+    },
+    {
+      "id": "a7393315-e6a8-4638-83fd-83b968a21496",
+      "season": 6,
+      "number": 3,
+      "name": "Festlige fans og flyselskaber",
+      "airdate": "2024-12-26"
+    },
+    {
+      "id": "c8ceed95-82f5-40b7-9a4d-0a1645c55494",
+      "season": 6,
+      "number": 4,
+      "name": "Eurovision, Emil og eksotiske dyr",
+      "airdate": "2024-12-27"
+    },
+    {
+      "id": "21722c15-a11c-48c9-8698-6afdf22275f3",
+      "season": 6,
+      "number": 5,
+      "name": "Dronninger og dyre måltider",
+      "airdate": "2024-12-28"
+    },
+    {
+      "id": "f69b9d33-3c78-403e-9925-4401758fbaa3",
+      "season": 6,
+      "number": 6,
+      "name": "Dyrebare sten og Disney-film",
+      "airdate": "2024-12-29"
+    },
+    {
+      "id": "5670dbf3-94b0-4761-888a-b3b8c57c5c4c",
+      "season": 6,
+      "number": 7,
+      "name": "Godt nytår!",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "bc9a0e11-c23f-4dfb-b079-53cc96b1a7d3",
+      "season": 7,
+      "number": 1,
+      "name": "Stormester, Schmeichel og stribede flag",
+      "airdate": "2025-03-30"
+    },
+    {
+      "id": "e7e60b20-8012-4980-812b-e701d35c8af7",
+      "season": 7,
+      "number": 2,
+      "name": "Fugle, frontkvinder og festivaler",
+      "airdate": "2025-04-06"
+    },
+    {
+      "id": "de7037fa-77eb-4f6b-a87b-ecf22b182088",
+      "season": 7,
+      "number": 3,
+      "name": "Amoriner i luften",
+      "airdate": "2025-04-13"
+    },
+    {
+      "id": "19039bc3-65ef-4ed9-b098-d8d405deb8b0",
+      "season": 7,
+      "number": 4,
+      "name": "Slik, stater og Spørge-Jørgen",
+      "airdate": "2025-04-20"
+    },
+    {
+      "id": "2cf2650b-585e-4f63-aabc-79dd5efac4c7",
+      "season": 7,
+      "number": 5,
+      "name": "I stærkeste opstilling",
+      "airdate": "2025-04-27"
+    },
+    {
+      "id": "102525b4-4599-4ae9-8809-13626089d6b6",
+      "season": 7,
+      "number": 6,
+      "name": "Håndbold, hatte og hovedstæder",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "025f135f-c2be-4c1f-80d4-05f07008d0ed",
+      "season": 7,
+      "number": 7,
+      "name": "Engle, djævle, drager og dild",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "0c3a813a-a300-49dc-9108-5e1f98b02d0b",
+      "season": 7,
+      "number": 8,
+      "name": "Dansesange og danske cykelsejre",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "61ca00a3-94f0-41e1-8a18-d603247806db",
+      "season": 7,
+      "number": 9,
+      "name": "Suppe, statuer og en tur til Galtvort",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "f87ab975-7d36-48cd-ab6c-adb5a3aed4d0",
+      "season": 7,
+      "number": 10,
+      "name": "Breddeidræt, buster og bitre nederlag",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "cb9859ab-71dd-46a6-b406-48757d806af6",
+      "season": 8,
+      "number": 1,
+      "name": "Ny boosterrunde og ny dommer",
+      "airdate": "2025-10-26"
+    },
+    {
+      "id": "0c771b31-a6b7-4c20-974a-d8e0ef067727",
+      "season": 8,
+      "number": 2,
+      "name": "En tur til Middelhavet og Down Under",
+      "airdate": "2025-11-02"
+    },
+    {
+      "id": "44561e2f-079f-465a-9fa0-f2069639330a",
+      "season": 8,
+      "number": 3,
+      "name": "Apps, burgere og Badehotellet",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "c36358c3-a589-430c-9b0a-6340cf8d9c0f",
+      "season": 8,
+      "number": 4,
+      "name": "Ministre, musicals og mundgodt",
+      "airdate": "2025-11-16"
+    },
+    {
+      "id": "2c37ac2d-13e2-4741-816c-4d210f86c764",
+      "season": 8,
+      "number": 5,
+      "name": "Svenske hits og selvstyrende lande",
+      "airdate": "2025-11-23"
+    },
+    {
+      "id": "b44cc480-1398-41b8-9ecf-5eff4733bf23",
+      "season": 8,
+      "number": 6,
+      "name": "Sange, slanger, fornavne og film",
+      "airdate": "2025-11-30"
+    },
+    {
+      "id": "4bb75c62-0663-4573-920c-6dc84fa547e2",
+      "season": 8,
+      "number": 7,
+      "name": "Quizsultne madeksperter",
+      "airdate": "2025-12-26"
+    },
+    {
+      "id": "4efddcfc-6898-448b-a311-ca5e4a58d35a",
+      "season": 8,
+      "number": 8,
+      "name": "Her er fjernsynet",
+      "airdate": "2025-12-27"
+    },
+    {
+      "id": "758556c3-a8a9-4c94-b410-e6f617e0ef13",
+      "season": 8,
+      "number": 9,
+      "name": "Je weniger, je besser",
+      "airdate": "2025-12-28"
+    },
+    {
+      "id": "37d7e03b-4c31-4d0f-927e-b9974b1d5488",
+      "season": 8,
+      "number": 10,
+      "name": "Good evening, Europe!",
+      "airdate": "2025-12-29"
+    },
+    {
+      "id": "345ba796-6efb-4a0b-9e00-7f23434c91b5",
+      "season": 9,
+      "number": 1,
+      "name": "Et skarpt hjørne",
+      "airdate": "2026-01-25"
+    },
+    {
+      "id": "69b2cc64-d185-4d67-b544-cdd65c4330a6",
+      "season": 9,
+      "number": 2,
+      "name": "Motorvej, Matador og monarker",
+      "airdate": "2026-02-01"
+    },
+    {
+      "id": "3a188a48-4839-4075-858f-de25c3d894ff",
+      "season": 9,
+      "number": 3,
+      "name": "Trekantsdrama, Simpsons og sovs",
+      "airdate": "2026-02-08"
+    },
+    {
+      "id": "30b52392-7d07-418e-a9d8-64306f21ca5f",
+      "season": 9,
+      "number": 4,
+      "name": "Andeby, bondegård og danske bands",
+      "airdate": "2026-02-15"
+    },
+    {
+      "id": "a3fac615-c53c-491f-83b8-79440a51431d",
+      "season": 9,
+      "number": 5,
+      "name": "Film, fisk og sexede mænd",
+      "airdate": "2026-02-22"
+    },
+    {
+      "id": "3a099a48-f839-4f72-804a-9d37b2fbce80",
+      "season": 9,
+      "number": 6,
+      "name": "Royal Run, rummet og religiøse ledere",
+      "airdate": "2026-03-01"
+    },
+    {
+      "id": "895f0136-f39a-4667-8093-2666ee655b68",
+      "season": 10,
+      "number": 1,
+      "name": "Barnestjerner, pålægssalater og arabisk",
+      "airdate": "2026-08-24"
+    },
+    {
+      "id": "ca114b68-8484-46b9-9c8a-84bb652b359f",
+      "season": 10,
+      "number": 2,
+      "name": "Frugter, fodbold og fantasy",
+      "airdate": "2026-08-31"
+    },
+    {
+      "id": "ce684df2-02a0-4f24-9b26-37c5968032d3",
+      "season": 10,
+      "number": 3,
+      "name": "Frankrig, fag og forkerte bogstaver",
+      "airdate": "2026-09-07"
+    },
+    {
+      "id": "926cfa02-578c-4d64-969f-ab4afab80192",
+      "season": 10,
+      "number": 4,
+      "name": "Spøgelser, stationer og studenterhuer",
+      "airdate": "2026-09-14"
+    },
+    {
+      "id": "bea18f2b-906d-4cf3-bf8f-425dc3affdd0",
+      "season": 10,
+      "number": 5,
+      "name": "Sportsbrands, sfærer og sange",
+      "airdate": "2026-09-21"
+    },
+    {
+      "id": "ff73d47c-2dee-4c9d-8668-f4608f007ffa",
+      "season": 10,
+      "number": 6,
+      "name": "Smørrebrød, skriftsprog, Søren og Mette",
+      "airdate": "2026-09-28"
+    },
+    {
+      "id": "447e7715-2c20-4dfa-a2a9-e2154451673f",
+      "season": 10,
+      "number": 7,
+      "name": "Superliga, sange og sidste nadver",
+      "airdate": "2026-10-05"
+    },
+    {
+      "id": "12164c8f-c114-406e-b74f-798f4f20c182",
+      "season": 10,
+      "number": 8,
+      "name": "Aber, Disney-sange og dansk frokost",
+      "airdate": "2026-10-12"
+    },
     {
       "id": "8735342a-52e0-4ddc-9357-8fec63e1f75a",
       "season": 10,

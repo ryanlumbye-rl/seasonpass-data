@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:linda-p-og-stjerneskuddene-tv2",
+  "name": "Linda P og stjerneskuddene",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Komiker Linda P har udvalgt fem børn, der kæmper med mobning og ensomhed. På to en halv måned vil hun ruste dem til at fremføre et comedyshow foran et stort publikum. Processen er svær, følelsesladet og angstprovokerende. Men Linda P vil vise, at man trods modgang kan så meget mere, end man går og tror.",
+  "image": "https://cdn-play.tv2i.dk/b5ca5d8b-6d47-498f-9edc-6d1979b639e4.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "a158696f-b3e1-4090-b567-401a7acfe0de",
+      "season": 1,
+      "number": 1,
+      "name": "Overraskelsen i Tivoli",
+      "airdate": "2022-05-17"
+    },
+    {
+      "id": "773b4954-bc36-430b-977f-373c069f80d5",
+      "season": 1,
+      "number": 2,
+      "name": "Grænserne rykkes",
+      "airdate": "2022-05-24"
+    },
+    {
+      "id": "24f5cd5d-d6c0-4e6e-a5c8-cb27937bba43",
+      "season": 1,
+      "number": 3,
+      "name": "Et barn siger farvel",
+      "airdate": "2022-05-31"
+    },
+    {
+      "id": "46adf5a9-4733-4f73-a210-e53a1adbb2b9",
+      "season": 1,
+      "number": 4,
+      "name": "Endnu et barn vil hoppe fra",
+      "airdate": "2022-06-07"
+    },
+    {
+      "id": "47d1e469-7b0e-4171-8f44-bf6d617ec2ee",
+      "season": 1,
+      "number": 5,
+      "name": "For stor en mundfuld?",
+      "airdate": "2022-06-14"
+    },
+    {
+      "id": "c97b688e-5a35-4f9d-8d69-fc9418e53696",
+      "season": 1,
+      "number": 6,
+      "name": "Showdag - det må briste eller bære",
+      "airdate": "2022-06-21"
+    }
+  ]
+}

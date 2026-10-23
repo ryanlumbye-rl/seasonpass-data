@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:laeger-paa-dybt-vand-tv2oest",
+  "name": "Læger på dybt vand",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Vi følger lægerne Helene og Berit i Korsør Lægecenter. De mangler læger, har flere, sygere og mere socialt udsatte patienter end i resten af Danmark, og er en såkaldt 'Deep End-klinik'. Men hvordan håndterer man så de vilkår, der nu engang er givet?",
+  "image": "https://cdn-play.tv2i.dk/fbae7bb5-2a71-4b14-a36d-e167bcc01c71.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9672ccb6-2e7f-4168-9664-a6901f736f05",
+      "season": 1,
+      "number": 1,
+      "name": "Tonys udfordringer",
+      "airdate": "2025-03-26"
+    },
+    {
+      "id": "22a4080e-0254-45f2-8841-4143aff7d2f0",
+      "season": 1,
+      "number": 2,
+      "name": "Medicinstuderende på hjemmebesøg",
+      "airdate": "2025-04-02"
+    },
+    {
+      "id": "4383d98a-9b7d-4e7e-836e-af231e6fba4b",
+      "season": 1,
+      "number": 3,
+      "name": "Fra vugge til grav",
+      "airdate": "2025-04-09"
+    }
+  ]
+}

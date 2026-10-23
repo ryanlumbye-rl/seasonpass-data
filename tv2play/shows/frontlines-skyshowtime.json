@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:frontlines-skyshowtime",
+  "name": "Frontlines",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Oplev de gribende historier om kampene i Anden Verdenskrigs mest afgørende slag, fra strandene i Normandiet til hjertet af Berlin. Øjenvidneberetninger og ekspertanalyser giver ny indsigt i de begivenheder, der formede krigens udfald.",
+  "image": "https://cdn-play.tv2i.dk/3ef92be6-b9a3-4203-abad-30126920a741.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e0c46894-e970-4ee4-a86a-c32e21a0ca43",
+      "season": 1,
+      "number": 1,
+      "name": "Midway",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "916dd91e-f4b4-4a49-bd18-7f09b4d4d9aa",
+      "season": 1,
+      "number": 2,
+      "name": "Monte Cassino",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "ed2b9ce3-e3ba-4e74-a6a9-d7e2ab9e133b",
+      "season": 1,
+      "number": 3,
+      "name": "Anzio",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "331be762-4b62-4872-957c-6ad968396ca8",
+      "season": 1,
+      "number": 4,
+      "name": "Omaha",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "b4ac2c0e-f3bb-4021-a0d0-7748840a1e0e",
+      "season": 1,
+      "number": 5,
+      "name": "Hill 112",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "3768da3a-ab65-42f8-8605-b25c9d27d69a",
+      "season": 1,
+      "number": 6,
+      "name": "Bastogne",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "668110f6-82c7-4c05-90fb-23e95ed6cb9d",
+      "season": 1,
+      "number": 7,
+      "name": "Iwo Jima",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "cb803871-39b2-493a-a5d7-5f5e40f522a0",
+      "season": 1,
+      "number": 8,
+      "name": "Berlin",
+      "airdate": "2025-05-04"
+    }
+  ]
+}

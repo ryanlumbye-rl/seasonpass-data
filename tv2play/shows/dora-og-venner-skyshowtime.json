@@ -1,0 +1,292 @@
+{
+  "id": "tv2play:dora-og-venner-skyshowtime",
+  "name": "Dora og venner",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sammen, alle for én! Gør dig klar til et nyt og spændende eventyr med Dora og hendes venner. Dora vokser op. Hun er flyttet til Playa Verde, som er en storby ved havet. Her er hun er startet i en ny skole med en rigdom af forskellighed. Hun har mere travlt end nogensinde før.",
+  "image": "https://cdn-play.tv2i.dk/90b97ed4-4b4f-4e56-9d6c-3fda364d0bed.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "episodes": [
+    {
+      "id": "058b808e-120d-42e9-9d30-6fe7d7ceaba7",
+      "season": 1,
+      "number": 1,
+      "name": "Hvalpenes dag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "837dd2ad-2701-4f0d-a39d-d1e2ec1e066a",
+      "season": 1,
+      "number": 2,
+      "name": "Den magiske ring",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "30e83ba8-c994-4ffd-8348-2ca5ee6b883d",
+      "season": 1,
+      "number": 3,
+      "name": "Dansefest",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "86560cfb-661b-4d6d-9f23-8fa43a761070",
+      "season": 1,
+      "number": 4,
+      "name": "Vi redder et piratskib",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "3ce51c61-15c0-4751-bb4e-a4eddf22ebdf",
+      "season": 1,
+      "number": 5,
+      "name": "Jagten på Mono",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "9798a56a-e74d-45b5-bede-a00d790b2545",
+      "season": 1,
+      "number": 6,
+      "name": "Dora Redder Operaland",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "75480d94-a9b2-49e7-acf9-01ce1da76866",
+      "season": 1,
+      "number": 7,
+      "name": "Et kongeligt bal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "bdce01d0-a1a9-4a09-8d9c-f07419eb2543",
+      "season": 1,
+      "number": 8,
+      "name": "Magiland",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "8a3276c9-841e-4e56-9202-6241134617ef",
+      "season": 1,
+      "number": 9,
+      "name": "Dukketeater",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d85e9a75-9faa-4866-bae7-6f1e083e4b61",
+      "season": 1,
+      "number": 10,
+      "name": "Dora i Urenes land",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dac74cfb-fe53-4c98-9a51-b0dfcec002c1",
+      "season": 1,
+      "number": 11,
+      "name": "Mysteriet om de magiske heste",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "924d38e5-ae71-4715-b3fb-31f175ba52bb",
+      "season": 1,
+      "number": 12,
+      "name": "Et magisk havfrue-eventyr",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "55a9944d-b365-4fa0-8588-c1a35ac10d69",
+      "season": 1,
+      "number": 13,
+      "name": "Det store venne-race",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "56b01d5a-e2bf-4be7-ad3e-2acb5e9ccc07",
+      "season": 1,
+      "number": 14,
+      "name": "Drage i skolen, Del 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "cc0e3873-5fad-4908-82bb-003e6a347c8d",
+      "season": 1,
+      "number": 15,
+      "name": "Drage i skolen, Del 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "349f1ddc-0376-432e-ac3c-455e0331b6ff",
+      "season": 1,
+      "number": 16,
+      "name": "Slik eller ballade?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "1cb62f47-c331-4012-85b4-f888c49c9b43",
+      "season": 1,
+      "number": 17,
+      "name": "S'more Camping",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "175d9444-a073-4235-b174-678fc633c504",
+      "season": 1,
+      "number": 18,
+      "name": "Hvalpeprinsesseredning, Del 1",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b50cf089-97b0-4d50-80e4-faeb259f2200",
+      "season": 1,
+      "number": 19,
+      "name": "Hvalpeprinsesseredning, Del 2",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "7b46f215-1188-4d37-b065-8c827895435b",
+      "season": 1,
+      "number": 20,
+      "name": "Vi redder musikken",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "6930e008-2ae3-4b8d-8277-41255bcad9d0",
+      "season": 2,
+      "number": 1,
+      "name": "Kates bog",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fcb96075-fa7d-4629-80b0-388b6fae5c5b",
+      "season": 2,
+      "number": 2,
+      "name": "Fælleshaven",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b1a88209-fe3f-4f88-a76e-89892154d2c0",
+      "season": 2,
+      "number": 3,
+      "name": "En kokos-tastisk fødselsdag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "08f4474a-f34d-4128-9041-d8518b20ed74",
+      "season": 2,
+      "number": 4,
+      "name": "Dragedag",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b9dc8267-9b08-4d9f-8974-e7df3914124f",
+      "season": 2,
+      "number": 5,
+      "name": "Fodboldspiller og kok",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "60a7e54e-6aee-4d04-a89e-95cb7e116671",
+      "season": 2,
+      "number": 6,
+      "name": "Emmas violin",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "609a569e-ccce-4ec2-95a1-fec1e54532e3",
+      "season": 2,
+      "number": 7,
+      "name": "Tilbage til regnskoven",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d8c00bdb-fa1d-4fd3-ab3f-eb336347b0c6",
+      "season": 2,
+      "number": 8,
+      "name": "Lys Gymnastikturneringen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "306f0f3e-a767-4732-b35a-c3886db2ce01",
+      "season": 2,
+      "number": 9,
+      "name": "Ballerinaen og trolde-prinsen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "0f656569-2f9d-4e39-9e60-c799eac37807",
+      "season": 2,
+      "number": 10,
+      "name": "Kate giver dukkerne en hånd",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d6fb8eb9-919d-4d1a-bdae-1ea034eb8be8",
+      "season": 2,
+      "number": 11,
+      "name": "Fugle-eventyret",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4190b227-dcb0-4bc9-84de-8731e45853dd",
+      "season": 2,
+      "number": 12,
+      "name": "Prinsessen og Kate",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "04708a12-c6ff-47ae-84f6-637f4df0ec70",
+      "season": 2,
+      "number": 13,
+      "name": "Den tabte halskæde",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "282e1c48-23e9-49eb-b43e-75ace2e86863",
+      "season": 2,
+      "number": 14,
+      "name": "Kate og Rapper",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "001f144a-aa1f-4ff6-a60e-effa9698fb84",
+      "season": 2,
+      "number": 15,
+      "name": "Broen til Horseeya",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c4f90c59-fd23-4990-b4bc-563c28d86818",
+      "season": 2,
+      "number": 16,
+      "name": "Kate og Rapper",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c781ab18-73d0-4b50-b594-40857d9faa7e",
+      "season": 2,
+      "number": 17,
+      "name": "Snemanden Kuldegys",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a26ee268-fec3-40c2-bbbb-cff330d197d7",
+      "season": 2,
+      "number": 18,
+      "name": "Alanas madvogn",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c2c3fa58-15cc-4d1d-944c-188c7d265a76",
+      "season": 2,
+      "number": 19,
+      "name": "Turen til regnbueklippen",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4f407815-765b-46b1-8b11-896b3dba3168",
+      "season": 2,
+      "number": 20,
+      "name": "Nattecirkus",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

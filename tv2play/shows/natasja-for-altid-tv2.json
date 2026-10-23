@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:natasja-for-altid-tv2",
+  "name": "Natasja for altid",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Musikeren Natasja Saad står på tærsklen til sit store gennembrud, da hun dør i en tragisk ulykke i 2007. Nu fortæller veninden Karen Mukupa den utrolig historie om deres venskab, musikken og ulykken, mens hun selv konfronterer sine indre dæmoner i et forsøg på at lægge sorgen og skylden bag sig.",
+  "image": "https://cdn-play.tv2i.dk/29e02eb6-e2f1-4295-963c-d31504ad3012.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "14d8cac0-37ef-4fc7-a120-fdb95ecccb34",
+      "season": 1,
+      "number": 1,
+      "name": "Venner for livet",
+      "airdate": "2025-09-04"
+    },
+    {
+      "id": "f306a47b-da9b-4234-8af0-cf2f1a52c5b1",
+      "season": 1,
+      "number": 2,
+      "name": "Op med hovedet",
+      "airdate": "2025-09-11"
+    },
+    {
+      "id": "a4413d89-132b-4c9b-8878-684a0b2091ee",
+      "season": 1,
+      "number": 3,
+      "name": "Succes og ulykke",
+      "airdate": "2025-09-18"
+    }
+  ]
+}

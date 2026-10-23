@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:du-forsvinder-aldrig-tv2",
+  "name": "Du forsvinder aldrig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Stephan er syg. Fremtiden er usikker. Hans kone, Katrine, nægter at give slip. Sammen sætter de alt ind på et vildt projekt: at skabe en digital version af Stephan. Et nyt ‘ham’ - formet af minder, stemme, personlighed. Skabt i et kapløb med tiden og med hjælp fra kunstig intelligens, der endnu er uprøvet.",
+  "image": "https://cdn-play.tv2i.dk/45a5b8e6-343f-4f09-b2a1-323a06f29544.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e7d8521b-7543-49e1-9a1f-2985540c421c",
+      "season": 1,
+      "number": 1,
+      "name": "Skabelsen",
+      "airdate": "2025-08-31"
+    },
+    {
+      "id": "a31592e1-6506-4888-ac5f-465a2a4105b7",
+      "season": 1,
+      "number": 2,
+      "name": "Genopstandelsen",
+      "airdate": "2025-09-07"
+    }
+  ]
+}

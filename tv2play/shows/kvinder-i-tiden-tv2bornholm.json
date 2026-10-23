@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:kvinder-i-tiden-tv2bornholm",
+  "name": "Kvinder i tiden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I denne programserie møder vi fire kvinder, som er med til at sætte deres præg på Bornholm både indenfor erhvervslivet, kulturelt og organisatorisk. Vi får også indblik i deres inspirationskilder, når hovedpersonerne og fageksperter trækker tråde til en række historiske kvinder på Bornholm.",
+  "image": "https://cdn-play.tv2i.dk/632c0461-bf4b-49cc-94d5-6fcce25cd6d8.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2a221326-a167-4887-967b-fb6592b99cd4",
+      "season": 1,
+      "number": 1,
+      "name": "Pernille Bülow",
+      "airdate": "2025-09-29"
+    },
+    {
+      "id": "8c26a95e-d2aa-422e-a3a3-a61e224df7f3",
+      "season": 1,
+      "number": 2,
+      "name": "Winni Grosbøll",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "0986ba18-aa09-4181-bc34-8a7646a40c62",
+      "season": 1,
+      "number": 3,
+      "name": "Pernille Kofod Lydolph",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "5ec2702f-dc9a-46d8-88ed-d2d5b3a97eda",
+      "season": 1,
+      "number": 4,
+      "name": "Ann Vibeke Knudsen",
+      "airdate": "2025-10-20"
+    }
+  ]
+}

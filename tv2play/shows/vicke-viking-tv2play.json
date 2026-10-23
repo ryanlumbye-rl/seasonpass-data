@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:vicke-viking-tv2play",
+  "name": "Vicke Viking",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "8c278a81-d7ed-4aee-804c-d853f70299e8",
+      "season": 1,
+      "number": 24,
+      "name": "Tunnellen",
+      "airdate": "2019-06-01"
+    }
+  ]
+}

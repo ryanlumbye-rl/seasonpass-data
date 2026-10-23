@@ -1,0 +1,110 @@
+{
+  "id": "tv2play:dna-tv2",
+  "name": "DNA",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Anders W. Berthelsen spiller betjenten Rolf, hvis datter forsvandt på mystisk vis i forbindelse med en sag, som han arbejdede på om en anden kidnappet pige. Da det viser sig, at der er systemfejl i Rigspolitiets DNA-register, genoptages den gamle sag, og Rolf bliver igen involveret. Men han har en skjult dagsorden: Han håber endelig at finde ud af, hvad der skete med hans egen datter.",
+  "image": "https://cdn-play.tv2i.dk/1184cf49-bccb-460c-9941-2c231e0ae09d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2158&w=1280",
+  "episodes": [
+    {
+      "id": "d2367176-2626-48fc-b14d-67621c1a35cf",
+      "season": 1,
+      "number": 1,
+      "name": "Minna",
+      "airdate": "2019-09-08"
+    },
+    {
+      "id": "1decd14c-a414-4d89-8dc7-167592a27fa9",
+      "season": 1,
+      "number": 2,
+      "name": "Tranummanden",
+      "airdate": "2019-09-16"
+    },
+    {
+      "id": "c031d31d-a10a-4056-baa4-c3ef8a663f48",
+      "season": 1,
+      "number": 3,
+      "name": "Babylugen",
+      "airdate": "2019-09-22"
+    },
+    {
+      "id": "5d16a5dd-abdf-4e64-8008-201b8ced9fd8",
+      "season": 1,
+      "number": 4,
+      "name": "Victoria",
+      "airdate": "2019-09-29"
+    },
+    {
+      "id": "e686d38a-9341-4956-b9d7-c36a43f8da9b",
+      "season": 1,
+      "number": 5,
+      "name": "Klosteret",
+      "airdate": "2019-10-06"
+    },
+    {
+      "id": "b5d13698-be0b-4b6e-a3f1-31756530ac9d",
+      "season": 1,
+      "number": 6,
+      "name": "Bliss",
+      "airdate": "2019-10-14"
+    },
+    {
+      "id": "1931511d-4a9f-4800-a30f-9f719c310552",
+      "season": 1,
+      "number": 7,
+      "name": "Moster Nova",
+      "airdate": "2019-10-20"
+    },
+    {
+      "id": "3014fd10-7a9f-4383-a1f0-ea113f69d83f",
+      "season": 1,
+      "number": 8,
+      "name": "Giv det videre",
+      "airdate": "2019-10-18"
+    },
+    {
+      "id": "d1cdaa09-9d59-4c28-814a-8df24b394058",
+      "season": 2,
+      "number": 1,
+      "name": "Hepatitis",
+      "airdate": "2022-12-18"
+    },
+    {
+      "id": "2e787630-ea9c-46c4-825f-ff05967ac280",
+      "season": 2,
+      "number": 2,
+      "name": "19 døde",
+      "airdate": "2022-12-25"
+    },
+    {
+      "id": "1bb06ee8-9024-4317-b2d1-f0697f19ceb3",
+      "season": 2,
+      "number": 3,
+      "name": "Græsruten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "b17c1e82-a55a-46ff-801e-d2091668c9ed",
+      "season": 2,
+      "number": 4,
+      "name": "De ukendtes grav",
+      "airdate": "2023-01-08"
+    },
+    {
+      "id": "f2c360b8-2537-407b-b215-be7268e148fe",
+      "season": 2,
+      "number": 5,
+      "name": "Bortført",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "a0495dc3-5939-4d31-b0c5-548f0291ccbe",
+      "season": 2,
+      "number": 6,
+      "name": "Donor",
+      "airdate": "2023-01-22"
+    }
+  ]
+}

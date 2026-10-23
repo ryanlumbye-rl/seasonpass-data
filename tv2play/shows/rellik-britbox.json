@@ -1,0 +1,19 @@
+{
+  "id": "tv2play:rellik-britbox",
+  "name": "Rellik",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Britisk krimidrama, der følger Gabriel Markham og hans team i jagten på en seriemorder.",
+  "image": "https://cdn-play.tv2i.dk/e5062bb4-2890-4025-a50d-6f916d439316.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9b7c5124-114b-4b00-a086-ef8e9d624cba",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-01-15"
+    }
+  ]
+}

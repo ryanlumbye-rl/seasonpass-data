@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:the-offer-tv2play",
+  "name": "The Offer",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "a58819a2-fe09-4b34-8aa2-47a3bcc53119",
+      "season": 1,
+      "number": 1,
+      "name": "A Seat at the Table",
+      "airdate": "2022-04-29"
+    },
+    {
+      "id": "c73afe20-d467-4aca-865a-09aeed73a65b",
+      "season": 1,
+      "number": 2,
+      "name": "Warning Shots",
+      "airdate": "2022-04-29"
+    },
+    {
+      "id": "4992beca-10a9-4ea4-af8d-362f689af3d7",
+      "season": 1,
+      "number": 3,
+      "name": "Fade In",
+      "airdate": "2022-04-29"
+    },
+    {
+      "id": "7047a920-6074-423e-b927-4668a89423ef",
+      "season": 1,
+      "number": 4,
+      "name": "The Right Shade of Yellow",
+      "airdate": "2022-05-06"
+    },
+    {
+      "id": "60197c9c-c03c-4f94-8948-2aa6abc1fe8e",
+      "season": 1,
+      "number": 5,
+      "name": "Kiss The Ring",
+      "airdate": "2022-05-13"
+    },
+    {
+      "id": "e2309021-20e4-48f5-afb4-2d95bb2272c3",
+      "season": 1,
+      "number": 6,
+      "name": "A Stand Up Guy",
+      "airdate": "2022-05-20"
+    },
+    {
+      "id": "ff604303-90d1-433a-97d7-c710e048d3e3",
+      "season": 1,
+      "number": 7,
+      "name": "Mr. Producer",
+      "airdate": "2022-05-27"
+    },
+    {
+      "id": "7b7cdf80-11b9-4d05-853f-22361983e5cf",
+      "season": 1,
+      "number": 8,
+      "name": "Crossing That Line",
+      "airdate": "2022-06-03"
+    },
+    {
+      "id": "b65be271-282c-4eb2-8b4c-e57ed0e14a1d",
+      "season": 1,
+      "number": 9,
+      "name": "It's Who We Are",
+      "airdate": "2022-06-10"
+    },
+    {
+      "id": "d6059643-5778-45e8-b05a-34b62c097f01",
+      "season": 1,
+      "number": 10,
+      "name": "Brains and Balls",
+      "airdate": "2022-06-17"
+    }
+  ]
+}

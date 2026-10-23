@@ -1,0 +1,124 @@
+{
+  "id": "tv2play:one-of-us-is-lying-tv2play",
+  "name": "One Of Us Is Lying",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fem elever går ind til eftersidning, men kun fire kommer ud igen. Da skolens berygtede sladderkonge findes død, bliver de resterende elever hovedmistænkte. Alle har hemmeligheder, alle har motiver, og ingen fortæller hele sandheden.",
+  "image": "https://cdn-play.tv2i.dk/d4b75d86-379c-3552-8cb3-dcfcf6dfa6cf.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280",
+  "episodes": [
+    {
+      "id": "08cb42a5-d0a0-4b7b-8e53-13a97ca9611e",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "1648149e-f266-4233-8366-8394642f3a31",
+      "season": 1,
+      "number": 2,
+      "name": "One of Us Is Grieving",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "a269124b-1924-43bf-84e9-8a4749296d52",
+      "season": 1,
+      "number": 3,
+      "name": "One of Us Is Not Like the Others",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "49ed6773-c36a-4269-b5ea-afee542aedcd",
+      "season": 1,
+      "number": 4,
+      "name": "One of Us Is Famous",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "92c641f8-1556-4b7a-8b8a-7911f23da616",
+      "season": 1,
+      "number": 5,
+      "name": "One of Us Is Cracking",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "5e0064a1-5e85-4051-98f5-bb02c8a130ef",
+      "season": 1,
+      "number": 6,
+      "name": "One of Us Is Dancing!",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "6ee0ac92-5372-4104-a3ef-cc26d3cd2084",
+      "season": 1,
+      "number": 7,
+      "name": "One of Us Is Not Giving Up",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "3c8e3837-6865-42e0-adc7-a936ab47989e",
+      "season": 1,
+      "number": 8,
+      "name": "One of Us Is Dead",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "9dc90772-e9d2-44f1-b936-7dd75ffa1715",
+      "season": 2,
+      "number": 1,
+      "name": "Simon Says Game On",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "69de0a4e-3584-4b3c-8539-5999daabb41e",
+      "season": 2,
+      "number": 2,
+      "name": "Simon Says Tick Tock",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "97711106-7dda-41cd-a9aa-cf2999504aca",
+      "season": 2,
+      "number": 3,
+      "name": "Simon Says Let's Get Personal",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "4fd8e9ab-dd31-48e3-83b5-82524e91f0f5",
+      "season": 2,
+      "number": 4,
+      "name": "Simon Says Gotcha!",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "9412147a-d36e-4b55-b173-19966ffed303",
+      "season": 2,
+      "number": 5,
+      "name": "Simon Says Ho Ho Ho!",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "0479b8f5-aba3-4426-b2da-5fcb35d04ffe",
+      "season": 2,
+      "number": 6,
+      "name": "Simon Says You Better Pray",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "b4261403-fa74-4014-b7f9-b2e026835ffd",
+      "season": 2,
+      "number": 7,
+      "name": "Simon Says Time Out",
+      "airdate": "2026-10-22"
+    },
+    {
+      "id": "5b09da63-10f2-4594-b087-62a703c6128d",
+      "season": 2,
+      "number": 8,
+      "name": "Simon Says Game Over",
+      "airdate": "2026-10-22"
+    }
+  ]
+}

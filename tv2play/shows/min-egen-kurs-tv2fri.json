@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:min-egen-kurs-tv2fri",
+  "name": "Min egen kurs",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Emil Midé Erichsen sætter sejl på Havana sammen med en stribe forskellige kendte danskere, der ligesom ham selv, er enten født ind i – eller selv har valgt at gå i deres families fodspor.",
+  "image": "https://cdn-play.tv2i.dk/ba4a6776-eae0-4d46-956d-24b4e526d5a6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "eb9f385c-b804-40ee-97e6-ef7d03f707bd",
+      "season": 1,
+      "number": 1,
+      "name": "Prins Nikolai",
+      "airdate": "2022-12-19"
+    },
+    {
+      "id": "11000ce4-4c0c-47c5-8e8d-97fe4f4a809a",
+      "season": 1,
+      "number": 2,
+      "name": "Sebastian Klein",
+      "airdate": "2023-05-16"
+    },
+    {
+      "id": "9b0624a0-f17f-468e-9879-a0d6844646ae",
+      "season": 1,
+      "number": 3,
+      "name": "Ena Spottag",
+      "airdate": "2023-05-23"
+    },
+    {
+      "id": "0f723c2e-c686-414a-8e6c-e9bf4fb9a085",
+      "season": 1,
+      "number": 4,
+      "name": "Molly Egelind",
+      "airdate": "2023-05-30"
+    },
+    {
+      "id": "1286fb68-6d8f-4b4e-8166-78548bdd8677",
+      "season": 1,
+      "number": 5,
+      "name": "David Owe",
+      "airdate": "2023-06-06"
+    },
+    {
+      "id": "f48d8379-ba09-4a90-ae87-30ecb910f2aa",
+      "season": 1,
+      "number": 6,
+      "name": "Simon Pytlick",
+      "airdate": "2023-06-13"
+    }
+  ]
+}

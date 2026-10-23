@@ -1,11 +1,277 @@
 {
   "id": "tv2play:the-legend-of-korra-tv2play",
   "name": "The Legend Of Korra",
-  "service": "tv2",
+  "service": "skyshowtime",
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
   "episodes": [
+    {
+      "id": "3c06eef8-51ae-407f-a778-23097c173ee9",
+      "season": 1,
+      "number": 1,
+      "name": "Velkommen til Republikken",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "24e0a805-bdbb-49a1-93e1-faf790e5c879",
+      "season": 1,
+      "number": 2,
+      "name": "Et blad i vinden",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "8d421099-bdd4-4f6f-829e-22a5b933f484",
+      "season": 1,
+      "number": 3,
+      "name": "Afsløringen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3610a78d-6e06-4d10-93e3-a358362035bf",
+      "season": 1,
+      "number": 4,
+      "name": "Stemmen i natten",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "0569aa55-ce5f-489a-8319-042d3f013072",
+      "season": 1,
+      "number": 5,
+      "name": "I konkurrencens ånd",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1e90b9ec-feba-4a02-9937-63fc3eb77eaf",
+      "season": 1,
+      "number": 6,
+      "name": "Og vinderen er...",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "20aa6b8a-18be-4024-a556-36eca2c8a81e",
+      "season": 1,
+      "number": 7,
+      "name": "Efterspillet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "5392effa-9d8c-4c67-9ca4-71012b70ccdf",
+      "season": 1,
+      "number": 8,
+      "name": "Når ekstremiteter mødes",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "174a20af-46dc-4c6c-8251-8b91f2ad244e",
+      "season": 1,
+      "number": 9,
+      "name": "Et varsel fra fortiden",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2877300d-2f7a-414b-bd4e-a75d5b1eb1b9",
+      "season": 1,
+      "number": 10,
+      "name": "Tidevandet vender",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e730e99e-d6e9-4b1a-9838-1e9f1b9f1f9a",
+      "season": 1,
+      "number": 11,
+      "name": "Skeletter i skabet",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "62d09e24-a272-44c1-a12a-0a1ea24fa4b3",
+      "season": 1,
+      "number": 12,
+      "name": "Afslutningen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "e504bbd1-43eb-4bca-bc43-19417078858a",
+      "season": 2,
+      "number": 1,
+      "name": "Rebelsk personlighed",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "949dc858-e97e-42d7-aa96-c25971821e92",
+      "season": 2,
+      "number": 2,
+      "name": "De sydlige lys",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "25e99c5f-3075-476e-87b8-7ec9f8454bc6",
+      "season": 2,
+      "number": 3,
+      "name": "Borgerkrig, 1. del",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "836899d3-a7fc-47d3-8649-56af6a5aa96c",
+      "season": 2,
+      "number": 4,
+      "name": "Borgerkrig, 2. del",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a6762d10-5ce6-42fc-b6ef-206a73bd075f",
+      "season": 2,
+      "number": 5,
+      "name": "Fredsbevarere",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "35e01223-528a-4ad6-a66b-678cbdce11d0",
+      "season": 2,
+      "number": 6,
+      "name": "Fælden",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "99c14e0f-2177-4b9e-b79c-99169d92c560",
+      "season": 2,
+      "number": 7,
+      "name": "Begyndelser, 1. del",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "3f48161f-9be8-4d82-be30-53981ed6a7cb",
+      "season": 2,
+      "number": 8,
+      "name": "Begyndelser, 2. del",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "acfdecec-8372-4f03-b835-e978276be938",
+      "season": 2,
+      "number": 9,
+      "name": "Guiden",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "215e4a55-6e63-4655-ae09-0dee3f6517f3",
+      "season": 2,
+      "number": 10,
+      "name": "En ny spirituel tidsalder",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "2281f238-cf19-49a4-9e42-36851e468a1c",
+      "season": 2,
+      "number": 11,
+      "name": "De tusinde stjerners nat",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "ccebd4ca-bfae-48d4-9339-92373e83d8df",
+      "season": 2,
+      "number": 12,
+      "name": "Den harmoniske konvergens",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "df181f0e-561c-4978-b52e-aaf5d017af6a",
+      "season": 2,
+      "number": 13,
+      "name": "Mørket sænker sig",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "83d4d810-9cb7-4e9d-a568-5f03266fdef1",
+      "season": 2,
+      "number": 14,
+      "name": "Light in the Dark",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "21de5df8-5b5c-45ac-9ac9-6d8bc3f95347",
+      "season": 3,
+      "number": 1,
+      "name": "Et pust frisk luft",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "b514f2e2-9519-49e2-ac4a-ceacd8b3c48d",
+      "season": 3,
+      "number": 2,
+      "name": "Genfødsel",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "22ea2873-24e3-44b3-8d11-a1fba03773f2",
+      "season": 3,
+      "number": 3,
+      "name": "Jorddronningen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "9f7af9ba-4e67-4046-b1d4-f81dee425cb2",
+      "season": 3,
+      "number": 4,
+      "name": "Med ondt overlæg",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "aa857e83-ad62-4540-8202-1d227c2272c1",
+      "season": 3,
+      "number": 5,
+      "name": "Metalklanen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "14f088c8-6039-4a65-99d2-f4d5894fa9bc",
+      "season": 3,
+      "number": 6,
+      "name": "Gamle sår",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "8a50766a-dd2c-4746-98d8-6b9b437e9a77",
+      "season": 3,
+      "number": 7,
+      "name": "De oprindelige luftbetvingere",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "c17f2572-e9d3-4c3c-ba42-5d8b27b88552",
+      "season": 3,
+      "number": 8,
+      "name": "Truslen indefra",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "9b71ad78-5d09-43c3-bd0b-699cd2c1a0c0",
+      "season": 3,
+      "number": 9,
+      "name": "Overvågningen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "ee2a1cba-8e8d-4475-9a74-29825b62f65a",
+      "season": 3,
+      "number": 10,
+      "name": "Længe leve dronningen",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "95362e27-01a6-4e81-b075-1e2731f04883",
+      "season": 3,
+      "number": 11,
+      "name": "Ultimatummet",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "c013a54c-6de2-437a-9b2f-422ff850d168",
+      "season": 3,
+      "number": 12,
+      "name": "Omfavn intetheden",
+      "airdate": "2023-02-21"
+    },
     {
       "id": "a61c9f84-b42e-4e55-acbc-9d960ba1c700",
       "season": 3,
@@ -70,6 +336,20 @@
       "airdate": "2023-02-21"
     },
     {
+      "id": "d6c1cf85-1df2-4b17-aa12-ca966b97d4b1",
+      "season": 4,
+      "number": 9,
+      "name": "Bag Vildnisset",
+      "airdate": "2023-02-21"
+    },
+    {
+      "id": "b411ec0c-016c-4e83-9032-5d1781a935bc",
+      "season": 4,
+      "number": 10,
+      "name": "Operation: Beifong",
+      "airdate": "2023-02-21"
+    },
+    {
       "id": "1a63e094-85e9-47de-ba9f-2740b5e7b29c",
       "season": 4,
       "number": 11,
@@ -90,5 +370,7 @@
       "name": "Sidste indsats",
       "airdate": "2023-02-21"
     }
-  ]
+  ],
+  "description": "Årtier efter Avatar Aang reddede verden, flytter den nye Avatar – en rapkæftet 17-årig kvinde ved navn Korra – til den moderne Republic City for at træne og udleve sin skæbne.",
+  "image": "https://cdn-play.tv2i.dk/a291b8f1-1e15-44a3-b070-f70ef0c4f4f1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2880%2C1619&w=1280"
 }

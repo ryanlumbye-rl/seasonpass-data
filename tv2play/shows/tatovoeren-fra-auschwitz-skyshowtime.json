@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:tatovoeren-fra-auschwitz-skyshowtime",
+  "name": "Tatovøren fra Auschwitz",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Tatovøren fra Auschwitz er den enestående, sande livshistorie om Lali og Gita Sokolov. Jøden Lali ankom til Auschwitz i 1942, og fik til opgave at tatovere ID-numre på nyankomne medfanger. En dag skal han tatovere Gita. Det er kærlighed ved første blik, og starten på en uforglemmelig historie.",
+  "image": "https://cdn-play.tv2i.dk/d13f7bc8-047a-47d0-aa93-14ed29bcd4b1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d763a327-3541-4425-a8f2-c940af218a44",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "b115fb34-b880-4885-9f6b-686956261909",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "01edc368-0f25-4ef9-a80c-e439e92b4698",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "d308b821-39b1-440f-90b0-5d996b9de281",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "e95e318b-9dcc-4e1a-aadf-03e90f0744c8",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2024-06-07"
+    },
+    {
+      "id": "c77b06ce-4360-46e4-8eea-0a5c0a27960d",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2024-06-07"
+    }
+  ]
+}

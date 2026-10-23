@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:sexy-beast-skyshowtime",
+  "name": "Sexy Beast",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Da deres ry vokser i London, bliver de professionelle tyve Gal og Don rekrutteret til et job med høj indsats af den berømte forbryderboss Teddy Bass. Men, deres stigende prominens i den kriminelle verden får livsændrende konsekvenser",
+  "image": "https://cdn-play.tv2i.dk/b865f347-7f66-452e-b815-0ebdd926ef63.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8451a4b4-37dd-477b-83f3-057558a9bfa9",
+      "season": 1,
+      "number": 1,
+      "name": "More",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "bf44fbb6-9e89-4980-9b57-24e5af517dd0",
+      "season": 1,
+      "number": 2,
+      "name": "Donny Donny Donny",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "abd8ee78-281f-4238-aa4c-cb0a5877b18b",
+      "season": 1,
+      "number": 3,
+      "name": "Won't Soon Forget This",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "0974ca49-338e-438f-b7ce-d2eb7344b096",
+      "season": 1,
+      "number": 4,
+      "name": "Always Wanted to See That Place...",
+      "airdate": "2024-03-07"
+    },
+    {
+      "id": "f4e356c7-83c4-4ed4-b7bd-876985f44c4f",
+      "season": 1,
+      "number": 5,
+      "name": "Trouble Is Real",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "21745d63-7ed7-439b-8d18-e5ed576f4b1a",
+      "season": 1,
+      "number": 6,
+      "name": "The Stag",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "e0e4e0d5-0bfd-40a1-a9e7-21f11c29eec1",
+      "season": 1,
+      "number": 7,
+      "name": "You and Me",
+      "airdate": "2024-04-25"
+    },
+    {
+      "id": "350a4470-25d7-46df-8eb4-28963858508d",
+      "season": 1,
+      "number": 8,
+      "name": "Think of the Money",
+      "airdate": "2024-04-25"
+    }
+  ]
+}

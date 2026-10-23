@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:titanic-ubaaden-det-katastrofale-dyk-tv2",
+  "name": "Titanic-ubåden - det katastrofale dyk",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I ubåden Titan sætter fem mennesker kurs mod vraget af Titanic, der ligger på havets bund. Men turen ender fatalt. Denne todelte dokumentar afslører, hvordan den kæmpemæssige redningsaktion foregik - minut for minut.",
+  "image": "https://cdn-play.tv2i.dk/f0137e53-fbe0-4277-8b3d-dff82541713d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "71723b1a-d30b-46e3-9528-0ca0ceeafc98",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2024-06-18"
+    },
+    {
+      "id": "fe6e7150-ab42-4d2d-b8f8-e8f64d3d1864",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2024-06-18"
+    }
+  ]
+}

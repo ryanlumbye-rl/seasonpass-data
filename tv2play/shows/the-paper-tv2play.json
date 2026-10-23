@@ -1,11 +1,81 @@
 {
   "id": "tv2play:the-paper-tv2play",
   "name": "The Paper",
-  "service": "tv2",
-  "status": "Unknown",
+  "service": "skyshowtime",
+  "status": "Running",
   "tmdbId": null,
-  "next": null,
+  "next": "2026-11-06",
   "episodes": [
+    {
+      "id": "03df874f-f28a-487d-bab0-4cd5787a2fdd",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "7c2e0ea1-ef01-4139-b3cd-4b391dc563a0",
+      "season": 1,
+      "number": 2,
+      "name": "The Five W's",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "e6196f70-8fe3-44cf-b38e-4a334132e48f",
+      "season": 1,
+      "number": 3,
+      "name": "Buddy and the Dude",
+      "airdate": "2025-11-14"
+    },
+    {
+      "id": "0d16cb21-a996-40c1-a8f3-6784d8d077f3",
+      "season": 1,
+      "number": 4,
+      "name": "TTT vs the Blogger",
+      "airdate": "2025-11-21"
+    },
+    {
+      "id": "bf53fd9f-12ae-45a9-b928-0c80c296d520",
+      "season": 1,
+      "number": 5,
+      "name": "Scam Alert!",
+      "airdate": "2025-11-28"
+    },
+    {
+      "id": "42b4a2c1-de5e-4c88-980c-ca0a856e7092",
+      "season": 1,
+      "number": 6,
+      "name": "Churnalism",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "7efa76f4-05f5-46d4-984b-b55e96bdc367",
+      "season": 1,
+      "number": 7,
+      "name": "I Love You",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "4d42ee99-336f-4dd3-9a93-28151567043c",
+      "season": 1,
+      "number": 8,
+      "name": "Church and State",
+      "airdate": "2025-12-19"
+    },
+    {
+      "id": "a93fe207-5187-4b84-a1b5-9b50d6074bad",
+      "season": 1,
+      "number": 9,
+      "name": "Matching Ponchos",
+      "airdate": "2025-12-26"
+    },
+    {
+      "id": "022c14f2-b803-48ef-990b-26a452bf166b",
+      "season": 1,
+      "number": 10,
+      "name": "The Ohio Journalism Awards",
+      "airdate": "2026-01-02"
+    },
     {
       "id": "5240100d-a01e-49de-bad1-015c6c1c4a30",
       "season": 2,
@@ -13,5 +83,7 @@
       "name": "The Paper",
       "airdate": "2026-11-06"
     }
-  ]
+  ],
+  "description": "Dokumentarholdet fra 'The Office' følger nu en nødlidende avis i Midtvesten, hvor frivillige journalister kæmper for at genoplive lokalnyhederne. En mockumentary om passionerede drømmere og deres mindre kompetente kolleger, der mangler ressourcer og uddannelse.",
+  "image": "https://cdn-play.tv2i.dk/7c145300-bd2c-406f-bbc3-ecb30dddb024.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

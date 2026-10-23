@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:liv-paa-landet-tvmidtvest",
+  "name": "Liv på landet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": "https://cdn-play.tv2i.dk/a850cc92-9b6c-4de0-b8eb-6c9448a237d4.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C4032%2C2268&w=1280",
+  "episodes": [
+    {
+      "id": "e9bde98a-0917-44ce-af80-1193b5953e83",
+      "season": 1,
+      "number": 1,
+      "name": "En vaskeægte bonde",
+      "airdate": "2025-02-01"
+    },
+    {
+      "id": "9c880b0b-7876-46d4-9e29-ca79dcb32079",
+      "season": 1,
+      "number": 2,
+      "name": "Den glemte salat",
+      "airdate": "2025-02-08"
+    },
+    {
+      "id": "ec97fd86-47d9-42fc-b4e9-9408cd218726",
+      "season": 1,
+      "number": 3,
+      "name": "Forsamlingshuset længe leve",
+      "airdate": "2025-02-15"
+    },
+    {
+      "id": "14b58c54-cd23-478a-8a0d-4d1d53ac0986",
+      "season": 1,
+      "number": 4,
+      "name": "Uperfekt er helt perfekt",
+      "airdate": "2025-02-22"
+    },
+    {
+      "id": "618dd0d0-77f9-4575-bbf5-5d6a5a57b107",
+      "season": 1,
+      "number": 5,
+      "name": "En kompost med overraskelser",
+      "airdate": "2025-03-01"
+    },
+    {
+      "id": "f7140eb0-525f-4935-99b4-464da3ac2674",
+      "season": 1,
+      "number": 6,
+      "name": "Så skal der plukkes",
+      "airdate": "2025-03-08"
+    },
+    {
+      "id": "16d5613b-d908-4f99-b30f-2e5324b01712",
+      "season": 1,
+      "number": 7,
+      "name": "Langbordsmiddag med vitaminer",
+      "airdate": "2025-03-15"
+    }
+  ]
+}

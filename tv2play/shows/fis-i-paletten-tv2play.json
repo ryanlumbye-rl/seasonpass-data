@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:fis-i-paletten-tv2play",
+  "name": "Fis i paletten",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hver dag er farverig på kunstskolen Snurretoppen. Troels skaber store værker med mønstre på nøgne kvinder, Maria tegner sin dukke, og Mette maler farvestrålende portrætter af musikere og filmstjerner. Alle elever har særlige behov, men er vidt forskellige som kunstnere og mennesker.",
+  "image": "https://cdn-play.tv2i.dk/89051962-96f7-4854-b8b3-4831ecafc031.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C6000%2C3375&w=1280",
+  "episodes": [
+    {
+      "id": "a50fd439-f3e2-483b-bcb8-2d029121b7f7",
+      "season": 1,
+      "number": 1,
+      "name": "Forårskaninen og mønstereleven",
+      "airdate": "2026-01-11"
+    },
+    {
+      "id": "f7f6ef31-ff78-4403-859c-6bb8af7f0690",
+      "season": 1,
+      "number": 2,
+      "name": "Kærester og volapyklort",
+      "airdate": "2026-01-18"
+    },
+    {
+      "id": "4eca4d5d-4af8-419f-9acf-e0471628a1be",
+      "season": 1,
+      "number": 3,
+      "name": "Bilka og Burning Love",
+      "airdate": "2026-01-25"
+    },
+    {
+      "id": "e80b6eb6-42f6-4ffe-990f-ac1da2b1c3cd",
+      "season": 1,
+      "number": 4,
+      "name": "Mareridts-tandfeen og Michael Jackson-krukken",
+      "airdate": "2026-02-01"
+    },
+    {
+      "id": "35d92010-b8ac-4d9d-b245-a5c6a805b6c2",
+      "season": 1,
+      "number": 5,
+      "name": "Rasmus Seebach og pissegrimme farver",
+      "airdate": "2026-02-08"
+    },
+    {
+      "id": "e5fe352f-fe85-45ab-ab86-c99f0518ddc4",
+      "season": 1,
+      "number": 6,
+      "name": "En fugl i baghovedet",
+      "airdate": "2026-02-15"
+    },
+    {
+      "id": "e6efcbb5-b6b8-44dd-bba7-0a09d96deb9d",
+      "season": 1,
+      "number": 7,
+      "name": "Tommeltot op",
+      "airdate": "2026-02-22"
+    },
+    {
+      "id": "5f1faa8d-9d8d-4266-8f98-1b7a91c40733",
+      "season": 1,
+      "number": 8,
+      "name": "Cliff Richard og Fenrisulven",
+      "airdate": "2026-03-01"
+    }
+  ]
+}

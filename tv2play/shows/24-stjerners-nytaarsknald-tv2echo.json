@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:24-stjerners-nytaarsknald-tv2echo",
+  "name": "24 stjerners nytårsknald",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Julen er overstået, og nu venter årets største fest, når Melvin Kakooza inviterer både nye og tidligere deltagere fra '24 stjerners julekalender' til årets allersidste realitydyst. Sammen med special guest stars Medina og Lina Rafn kæmper deltagerne over to episoder om titlen som 'Årets nytårsknallert'.",
+  "image": "https://cdn-play.tv2i.dk/06f73c3a-b1dc-4734-b5d8-ce8e77151c64.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2dec77dd-52d1-4f90-84bc-c90f05d2e5fc",
+      "season": 1,
+      "number": 1,
+      "name": "Medina som gæstedommer",
+      "airdate": "2025-12-29"
+    },
+    {
+      "id": "2e73c3ba-b1ed-49de-840a-ed459b843aa7",
+      "season": 1,
+      "number": 2,
+      "name": "Lina Rafn som gæstedommer",
+      "airdate": "2025-12-30"
+    }
+  ]
+}

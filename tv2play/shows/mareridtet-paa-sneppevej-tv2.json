@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:mareridtet-paa-sneppevej-tv2",
+  "name": "Mareridtet på Sneppevej",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dokumentar i to afsnit om et overlægepar, der i begyndelsen af 1970'erne vanrøgter tre af deres i alt ti pleje- og adoptivbørn ihjel. Et af de overlevende børn, Iben, fortæller for første gang hele historien om, hvad der skete dengang i hjemmet i Nordjylland. Serien er uegnet for børn under 15 år.",
+  "image": "https://cdn-play.tv2i.dk/0025c18c-a5c4-4108-b655-54da6b49b013.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "982a6b2c-fd43-4f46-ad89-4b27285d9d03",
+      "season": 1,
+      "number": 1,
+      "name": "Selv i de bedste hjem",
+      "airdate": "2023-06-21"
+    },
+    {
+      "id": "7ae5b1d4-8f53-4720-9e68-0f58f813be43",
+      "season": 1,
+      "number": 2,
+      "name": "Overleveren fra overlægefamilien",
+      "airdate": "2023-06-21"
+    }
+  ]
+}

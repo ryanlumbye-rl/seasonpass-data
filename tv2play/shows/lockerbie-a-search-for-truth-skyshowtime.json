@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:lockerbie-a-search-for-truth-skyshowtime",
+  "name": "Lockerbie: A Search for Truth",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Dr. Jim Swire søger retfærdighed, efter at hans datter Flora døde i en af de værste flykatastrofer i historien: bombningen af Pan Am Flight 103. I alt omkom 259 passagerer og besætningsmedlemmer samt 11 beboere på jorden, da flyet eksploderede over den rolige by Lockerbie i Skotland.",
+  "image": "https://cdn-play.tv2i.dk/56539630-adaa-4186-b9bc-dfc7b3e2d2c7.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "6dacd786-56a4-4366-ad0c-83c29ab420a1",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "8d4ed437-f393-468d-b701-e034ce4d3694",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-02-28"
+    },
+    {
+      "id": "25fbffeb-3b3d-4bf4-bf2b-36f85e900f77",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-03-07"
+    },
+    {
+      "id": "b1db3191-95bb-48bc-a2e4-8d4c380711bb",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-03-14"
+    },
+    {
+      "id": "4de02bb9-cd5f-4cc9-9fec-9af5c1d51ba7",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-03-21"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:50-aar-med-sjov-i-skoven-tv2nord",
+  "name": "50 år med sjov i skoven",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Skandinaviens første sommerland. Entreen var fire kroner, da Fårup Sommerland åbnede i 1975 med et par trampoliner, nogle islandske heste og en sø med små både. I dag er der halsbrækkende rutsjebaner, hotel, ismejeri og meget, meget mere. Få den fascinerende historie om Danmarks første sommerland.",
+  "image": "https://cdn-play.tv2i.dk/b0c3924e-3181-4be8-80b3-e6f5670dcf83.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "12c74c0f-ba7d-4cb5-881a-468d2be52cf0",
+      "season": 1,
+      "number": 1,
+      "name": "Fårups DNA er de ansatte",
+      "airdate": "2025-09-13"
+    },
+    {
+      "id": "be333563-71f2-4c5d-a2b9-1c9ed33d279d",
+      "season": 1,
+      "number": 2,
+      "name": "Kæmpe Fårup-fan klipper snoren",
+      "airdate": "2025-09-20"
+    },
+    {
+      "id": "7cbc8676-2d68-49a4-a0e9-2182afa654df",
+      "season": 1,
+      "number": 3,
+      "name": "Den store jubilæumsfest",
+      "airdate": "2025-09-27"
+    }
+  ]
+}

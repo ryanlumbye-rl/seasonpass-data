@@ -1,0 +1,201 @@
+{
+  "id": "tv2play:britannia-tv2play",
+  "name": "Britannia",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "774a0fd6-7702-4921-badf-92962b7ea883",
+      "season": 1,
+      "number": 1,
+      "name": "Woe to the Vanquished",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "70166456-7031-4eee-b6fa-9bdd42431889",
+      "season": 1,
+      "number": 2,
+      "name": "Secret Alliances",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "4ba10f40-c86c-4b6c-8855-b7c8e1fe291d",
+      "season": 1,
+      "number": 3,
+      "name": "Honor and Betrayals",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5769dee2-8ca2-41af-a9fa-9822254a44ef",
+      "season": 1,
+      "number": 4,
+      "name": "Judgement of the Gods",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "066a740d-4a18-4367-ac0f-030d410bb592",
+      "season": 1,
+      "number": 5,
+      "name": "Tractations",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "64fae359-81ea-4034-9916-78a6b401c2bf",
+      "season": 1,
+      "number": 6,
+      "name": "The Chosen One",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8e3f9739-3b1d-4b8a-a126-71491017800a",
+      "season": 1,
+      "number": 7,
+      "name": "Alone in the World",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "53c60a7c-da1a-44a1-a52c-7051e35e4c47",
+      "season": 1,
+      "number": 8,
+      "name": "Initiation",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "7d7384ea-fd5c-4b75-b52b-f3af30d21e12",
+      "season": 1,
+      "number": 9,
+      "name": "Pax Romana",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "862f9a3f-d5c0-4be1-9a01-92f09926a803",
+      "season": 2,
+      "number": 1,
+      "name": "Imperial Visit",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "ca3fd505-6e6c-4782-ab63-771fb94bb0f0",
+      "season": 2,
+      "number": 2,
+      "name": "May the Gods Speak",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c2836850-a155-4f08-a9bf-58a853a5acb3",
+      "season": 2,
+      "number": 3,
+      "name": "Genesis",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "63f73268-3d41-43e8-aabb-a9b2c78a8626",
+      "season": 2,
+      "number": 4,
+      "name": "Dark Game",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5b384c89-37fe-44d1-be63-a7318cc3548b",
+      "season": 2,
+      "number": 5,
+      "name": "My Sister, the Queen",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "cd57e71d-c140-42e2-8e16-2f781f18a9b7",
+      "season": 2,
+      "number": 6,
+      "name": "The Eagle's Arms",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "5819b5e6-6ab0-44f8-af62-bb1f5198c78b",
+      "season": 2,
+      "number": 7,
+      "name": "Alliance of Dark Forces",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "46d63c30-6de7-406c-bb34-2c986e403f19",
+      "season": 2,
+      "number": 8,
+      "name": "A Painful Truth",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2724131e-53b6-4e9e-9ffd-e0f9782555aa",
+      "season": 2,
+      "number": 9,
+      "name": "The Crossroads",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "14f7e4da-9de3-4591-93ec-540b295c64a7",
+      "season": 2,
+      "number": 10,
+      "name": "The Challenge",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "099b0980-1cc0-417e-923d-1a86595d8801",
+      "season": 3,
+      "number": 1,
+      "name": "The Return of the Chosen One",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "55d16ebc-f13b-456d-a8d1-13cd4975b9b2",
+      "season": 3,
+      "number": 2,
+      "name": "The Moon Tree",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "1ebedc4a-6f95-4813-b48e-86da3ee26b8b",
+      "season": 3,
+      "number": 3,
+      "name": "War Chest",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "db2e50be-0db4-4ad6-98cf-86d513278c00",
+      "season": 3,
+      "number": 4,
+      "name": "The Big Vision",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "d5f5ee71-4272-438f-9bf4-44705ea994c4",
+      "season": 3,
+      "number": 5,
+      "name": "Hemple's Machinations",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "7618def3-4896-4fa8-bc46-000022c97bec",
+      "season": 3,
+      "number": 6,
+      "name": "A Precious Asset",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "1e07b87c-bc5d-47b9-a9b7-2f4c86f7945a",
+      "season": 3,
+      "number": 7,
+      "name": "The Viaduct",
+      "airdate": "2024-06-20"
+    },
+    {
+      "id": "4b77a2d6-8a82-407d-9a73-4993c875eea1",
+      "season": 3,
+      "number": 8,
+      "name": "Vae Victis",
+      "airdate": "2024-06-20"
+    }
+  ]
+}

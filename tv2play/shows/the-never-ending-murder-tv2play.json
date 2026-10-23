@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:the-never-ending-murder-tv2play",
+  "name": "The Never Ending Murder",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Denne britiske true crime-dokumentar går i dybden med den uopklarede sag om Nicola Payne, der forsvandt sporløst som 18-årig og aldrig blev fundet.",
+  "image": "https://cdn-play.tv2i.dk/487be54e-8fd9-4f2d-b6ca-a2fcffac1ba1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "69e25ce7-a74a-4780-9ff6-8421e65aecec",
+      "season": 1,
+      "number": 1,
+      "name": "The Incident",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "59b58f2c-2f6b-4e08-8ee7-58c2e1639165",
+      "season": 1,
+      "number": 2,
+      "name": "The Investigation",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "faf05727-959a-4b07-b9b8-b553ed6b0b85",
+      "season": 1,
+      "number": 3,
+      "name": "The Trial",
+      "airdate": "2025-11-19"
+    },
+    {
+      "id": "1dfdb12a-2e9d-40cc-adac-c940d74ef542",
+      "season": 1,
+      "number": 4,
+      "name": "Closure",
+      "airdate": "2025-11-19"
+    }
+  ]
+}

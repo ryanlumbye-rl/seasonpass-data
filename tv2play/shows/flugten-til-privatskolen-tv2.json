@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:flugten-til-privatskolen-tv2",
+  "name": "Flugten til privatskolen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Privatskoler vinder frem i disse år. Flere og flere forældre flytter deres børn til fri- og privatskoler, og det er de mest ressourcestærke, der flytter. Men hvorfor flygter børnene fra folkeskolen, og hvad gør det ved dem, der bliver tilbage?",
+  "image": "https://cdn-play.tv2i.dk/e3b51ec2-78e3-412f-a785-d02fb69518da.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "1f1a4eeb-9491-4186-9cab-f3fe4c9272a0",
+      "season": 1,
+      "number": 1,
+      "name": "Det svære farvel til kammeraterne",
+      "airdate": "2022-03-24"
+    },
+    {
+      "id": "041f8b15-f572-40d7-a82f-d4b5f70ee278",
+      "season": 1,
+      "number": 2,
+      "name": "Malenes kamp for folkeskolen",
+      "airdate": "2022-03-24"
+    }
+  ]
+}

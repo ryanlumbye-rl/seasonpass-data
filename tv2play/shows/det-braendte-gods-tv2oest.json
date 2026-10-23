@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:det-braendte-gods-tv2oest",
+  "name": "Det brændte gods",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I 2013 slog et lyn ned i Sparresholm Gods på Sydsjælland og store dele af godset udbrændte. Det har taget ejeren Thomas Garth-Grüner 11 år at genopbygge familiens gods. Vi har fulgt ham på den lange rejse",
+  "image": "https://cdn-play.tv2i.dk/3931d11a-139d-40ad-b5bd-35038fd939cb.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "2c942dac-8280-49eb-9ab3-6271560dc83e",
+      "season": 1,
+      "number": 1,
+      "name": "Lynet slår ned",
+      "airdate": "2025-02-06"
+    },
+    {
+      "id": "7a5cae4b-5f13-4300-8857-8f71dc7973fb",
+      "season": 1,
+      "number": 2,
+      "name": "Historien forpligter",
+      "airdate": "2025-02-13"
+    },
+    {
+      "id": "1fdc05ea-8c50-422a-9293-f0596c82d3aa",
+      "season": 1,
+      "number": 3,
+      "name": "Munkesten og tagspær",
+      "airdate": "2025-02-20"
+    },
+    {
+      "id": "42f1ba18-5c94-444e-89f8-39b14e9b7245",
+      "season": 1,
+      "number": 4,
+      "name": "Byggeriet går i stå",
+      "airdate": "2025-02-27"
+    },
+    {
+      "id": "3f9466d3-dfb8-4b99-8b57-bad77e4464b9",
+      "season": 1,
+      "number": 5,
+      "name": "Nye kræfter",
+      "airdate": "2025-03-06"
+    },
+    {
+      "id": "8c03241e-f588-4f64-bd3d-39c2c7db72db",
+      "season": 1,
+      "number": 6,
+      "name": "Mors sidste ønske",
+      "airdate": "2025-03-13"
+    }
+  ]
+}

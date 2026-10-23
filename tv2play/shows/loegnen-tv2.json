@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:loegnen-tv2",
+  "name": "Løgnen",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den utilpassede Sille bliver tvunget i aktivering i et kommunalt sosu-team, hvor en række fysisk grænseoverskridende begivenheder skaber farlige spændinger. Det ender fatalt til den årlige sommerfest, og politiet står tilbage med forklaringer, der ikke hænger sammen.",
+  "image": "https://cdn-play.tv2i.dk/793dde64-355b-4ad9-bb2e-b49f5bfa5596.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c77b6632-80ed-41ef-b67d-6c9ca99d7027",
+      "season": 1,
+      "number": 1,
+      "name": "Hende den nye",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "63a52bd9-1aa7-4476-932e-9061b9fa7d6e",
+      "season": 1,
+      "number": 2,
+      "name": "For familiens skyld",
+      "airdate": "2025-05-11"
+    },
+    {
+      "id": "79e3e0a3-313f-407b-9468-4b5ecd3faeb2",
+      "season": 1,
+      "number": 3,
+      "name": "Tillid kommer med en pris",
+      "airdate": "2025-05-18"
+    },
+    {
+      "id": "845c5b05-148b-4574-a82c-112eeb1f87b1",
+      "season": 1,
+      "number": 4,
+      "name": "Første gang lader vi ham gå",
+      "airdate": "2025-05-25"
+    },
+    {
+      "id": "559a8571-01be-4f6b-88dd-646d2341613a",
+      "season": 1,
+      "number": 5,
+      "name": "Vi kom for at få en undskyldning",
+      "airdate": "2025-06-01"
+    },
+    {
+      "id": "7f3552e3-9495-4f42-a576-325dc38173a8",
+      "season": 1,
+      "number": 6,
+      "name": "Jeg siger ikke noget!",
+      "airdate": "2025-06-08"
+    }
+  ]
+}

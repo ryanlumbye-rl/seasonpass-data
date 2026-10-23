@@ -1,0 +1,131 @@
+{
+  "id": "tv2play:anders-og-torben-tv2",
+  "name": "Anders og Torben",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg de herlige tvillinger fra det nordlige Vestjylland.",
+  "image": "https://cdn-play.tv2i.dk/a57336b0-c0f7-45de-9cf7-56a140e657cc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "90224983-9621-4e2e-9610-5a9617370110",
+      "season": 2015,
+      "number": 1,
+      "name": "Tvillingerne fra Holstebro",
+      "airdate": "2015-01-12"
+    },
+    {
+      "id": "cb59292b-cc0a-4254-b78b-0ab0c71a9128",
+      "season": 2015,
+      "number": 2,
+      "name": "Tvillingerne i Thailand",
+      "airdate": "2015-01-19"
+    },
+    {
+      "id": "88b5710f-f0ab-40aa-bb2c-0ce022df2435",
+      "season": 2017,
+      "number": 1,
+      "name": "Tvillingerne og drømmen om Thailand",
+      "airdate": "2017-01-02"
+    },
+    {
+      "id": "a71dce09-0c5f-4c8d-ac32-23f705d14f49",
+      "season": 2017,
+      "number": 2,
+      "name": "Tvillingerne og forlovelsen",
+      "airdate": "2017-01-09"
+    },
+    {
+      "id": "4b59a6e8-2dde-4a4c-bac0-671852e54510",
+      "season": 2017,
+      "number": 3,
+      "name": "Tvillingerne og besøget fra Thailand",
+      "airdate": "2017-01-23"
+    },
+    {
+      "id": "f712b1fe-7f6b-4782-9744-d562be9939ac",
+      "season": 2017,
+      "number": 4,
+      "name": "Tvillingerne og den søde juletid",
+      "airdate": "2017-12-13"
+    },
+    {
+      "id": "08bc74eb-96b5-40cd-9995-53c9c5580b97",
+      "season": 2018,
+      "number": 1,
+      "name": "Tvillingerne og den nye date",
+      "airdate": "2018-01-04"
+    },
+    {
+      "id": "10bd8d7a-c370-4984-abc4-ca65d541f616",
+      "season": 2019,
+      "number": 1,
+      "name": "Tvillingerne og de nye tænder",
+      "airdate": "2019-01-28"
+    },
+    {
+      "id": "4eb0849f-059d-4621-8d35-054116c4f6b1",
+      "season": 2019,
+      "number": 2,
+      "name": "Tvillingerne og de nye tider",
+      "airdate": "2019-02-04"
+    },
+    {
+      "id": "80d43bc9-d970-4c7f-baa0-007c9e69acc7",
+      "season": 2020,
+      "number": 1,
+      "name": "Tvillingerne og den nye kærlighed",
+      "airdate": "2020-01-06"
+    },
+    {
+      "id": "a66e0e6a-ebdd-4e7b-b13d-893748ffd81f",
+      "season": 2020,
+      "number": 2,
+      "name": "Tvillingerne og drømmen om paradis",
+      "airdate": "2020-01-20"
+    },
+    {
+      "id": "73f1afee-cd97-477c-b23b-2f8428877905",
+      "season": 2021,
+      "number": 1,
+      "name": "Tvillingerne og 100-årsfødselsdagen",
+      "airdate": "2021-01-05"
+    },
+    {
+      "id": "9604a186-d5d8-44df-be92-be93a015f4dc",
+      "season": 2021,
+      "number": 2,
+      "name": "Tvillingerne og det nye, vilde liv",
+      "airdate": "2021-01-05"
+    },
+    {
+      "id": "568c31a8-ff46-478f-97a8-f724bc6d43b9",
+      "season": 2023,
+      "number": 1,
+      "name": "Tvillingerne og den store overraskelse",
+      "airdate": "2023-10-24"
+    },
+    {
+      "id": "ab17571e-5fb9-46fb-8fae-4ecbaaf5d08e",
+      "season": 2023,
+      "number": 2,
+      "name": "Tvillingerne og den lange to do-liste",
+      "airdate": "2023-10-31"
+    },
+    {
+      "id": "d26e843d-fb5f-4ba4-a2ac-b7b10dc46ff1",
+      "season": 2025,
+      "number": 1,
+      "name": "Tvillingerne og det store jubilæum",
+      "airdate": "2025-01-02"
+    },
+    {
+      "id": "2b5bfb14-587e-4542-b25a-9b9818e6e156",
+      "season": 2025,
+      "number": 2,
+      "name": "Tvillingerne og de store planer",
+      "airdate": "2025-01-08"
+    }
+  ]
+}

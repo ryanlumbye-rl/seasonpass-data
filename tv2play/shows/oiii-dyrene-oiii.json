@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Pege-TV til de helt små, der ikke har brug for for meget stimulering og har god tid til at observere. Med Oiii-dyrene kan de mindste komme helt tæt på dyrene uden forstyrrelser. Hør deres lyde, når de spiser, går i græsset og laver dyrelyde.",
+  "image": "https://cdn-play.tv2i.dk/0d2616e3-a79c-4ff3-a9d1-c6c6da992d9d.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "6abafd6f-b863-4be1-91a9-82da004be823",

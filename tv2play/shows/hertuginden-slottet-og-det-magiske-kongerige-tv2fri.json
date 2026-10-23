@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:hertuginden-slottet-og-det-magiske-kongerige-tv2fri",
+  "name": "Hertuginden, slottet og det magiske kongerige",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med bag kulisserne, når den britiske hertuginde Jane kaster sig ud i et vildt projekt og bygger den magiske landsby Lilidorei. Komplikationer får projektet på randen af kollaps, og der må undervejs udtænkes nye planer.",
+  "image": "https://cdn-play.tv2i.dk/ad7824fa-ce9c-4ecb-b916-f066fdf34d0a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "180a21f7-3956-442b-96ed-e618c75170a7",
+      "season": 1,
+      "number": 1,
+      "name": "En vild mission",
+      "airdate": "2024-09-01"
+    },
+    {
+      "id": "ee7f9ad4-393a-4930-8f0f-0f4253e4274d",
+      "season": 1,
+      "number": 2,
+      "name": "Fest og farver",
+      "airdate": "2024-09-01"
+    },
+    {
+      "id": "40400f7e-e62b-4c72-bdcc-2a298c2b1e47",
+      "season": 1,
+      "number": 3,
+      "name": "Jul på slottet",
+      "airdate": "2024-09-08"
+    },
+    {
+      "id": "f750b844-4b0f-498b-b6a6-10d08ba54f85",
+      "season": 1,
+      "number": 4,
+      "name": "Et hus til elverne",
+      "airdate": "2024-09-15"
+    },
+    {
+      "id": "2d852202-4b2b-4d77-a53b-43c22f2f4d81",
+      "season": 1,
+      "number": 5,
+      "name": "Den travle slutspurt",
+      "airdate": "2024-09-22"
+    },
+    {
+      "id": "18cacbaf-6dd0-481b-bb2a-6aa7054a5e20",
+      "season": 1,
+      "number": 6,
+      "name": "Kronen på værket",
+      "airdate": "2024-09-29"
+    }
+  ]
+}

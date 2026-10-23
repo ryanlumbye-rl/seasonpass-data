@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:merry-julefeber-tv2play",
+  "name": "Merry Julefeber",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kom med bag kulisserne i Birkegårdens Haver, hvor Merry og Finn gør klar til årets julemarked. Traditioner, travlhed og kærlighed – alt på én gang!",
+  "image": "https://cdn-play.tv2i.dk/b47af425-9905-4020-b8d6-ca8ebb5ac3bc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "186f23e6-fe28-4fd5-aa79-e6ba27b170b6",
+      "season": 1,
+      "number": 1,
+      "name": "Lad juleriet begynde",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "af884fa5-015d-4c82-a087-a27732db0132",
+      "season": 1,
+      "number": 2,
+      "name": "Magnus pynter - Merry dirigerer",
+      "airdate": "2025-12-05"
+    },
+    {
+      "id": "d0148f91-a35e-467f-9310-e38dd4d8cec0",
+      "season": 1,
+      "number": 3,
+      "name": "Broen skal pyntes",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "a0739eec-cbc1-46c2-806a-5fb34366a5d6",
+      "season": 1,
+      "number": 4,
+      "name": "Den store dag",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "4c0d89c7-3193-400f-af19-f71a40e96e63",
+      "season": 1,
+      "number": 5,
+      "name": "Julemarked i fuld gang",
+      "airdate": "2025-12-19"
+    }
+  ]
+}

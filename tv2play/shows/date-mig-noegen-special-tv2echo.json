@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:date-mig-noegen-special-tv2echo",
+  "name": "Date mig nøgen - special",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Redaktionen bag det populære datingshow har været i arkiverne og fundet materiale frem, som kan få enhver til at tabe kæben og udbryde: 'hold da op'.Redaktionen bag det populære datingshow har været i arkiverne og fundet materiale frem, som kan få enhver til at tabe kæben og udbryde: 'hold da op'.",
+  "image": "https://cdn-play.tv2i.dk/52c95a9c-a4c4-4ba8-a018-2c1549044b7f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "b30b1a2d-75c9-4d71-a761-fe398a2e8505",
+      "season": 1,
+      "number": 1,
+      "name": "Nye optagelser",
+      "airdate": "2021-05-08"
+    },
+    {
+      "id": "db4e174a-2d70-4b15-95ae-c88921482b8c",
+      "season": 1,
+      "number": 2,
+      "name": "Fra drømmeforhold til katastrofe",
+      "airdate": "2021-05-08"
+    },
+    {
+      "id": "22973cfc-2ff1-43a7-9539-7a24229a9d42",
+      "season": 1,
+      "number": 3,
+      "name": "Den første gang",
+      "airdate": "2021-05-15"
+    },
+    {
+      "id": "482853a5-d50e-4768-827d-2a588bdc6341",
+      "season": 1,
+      "number": 4,
+      "name": "Noget for enhver smag",
+      "airdate": "2021-05-15"
+    },
+    {
+      "id": "505799ad-f2c3-4d26-ad15-405a1dbbaec3",
+      "season": 1,
+      "number": 5,
+      "name": "Sød musik i studiet",
+      "airdate": "2021-05-21"
+    }
+  ]
+}

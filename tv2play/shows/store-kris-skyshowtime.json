@@ -1,0 +1,257 @@
+{
+  "id": "tv2play:store-kris-skyshowtime",
+  "name": "Store Kris",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den gammelkloge 11-årige Nate Wright navigerer i 6. klasse med sine bedste venner Francis og Teddy. Uanset om det handler om katastrofer derhjemme eller eftersidning i skolen, er Nate vant til udfordringer og udtrykker sig gennem sine tegneserier.",
+  "image": "https://cdn-play.tv2i.dk/8e6af172-59e4-46d3-9558-18165b9d2b8c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3545%2C1994&w=1280",
+  "episodes": [
+    {
+      "id": "08d1b7fe-d963-45fa-acec-612bc60f22fd",
+      "season": 1,
+      "number": 1,
+      "name": "Legenden om gavflaben",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "f831f042-515a-437f-9a7e-063588aa583b",
+      "season": 1,
+      "number": 2,
+      "name": "I dag er det Krises fødselsdag...",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a5918f88-f9ac-4775-91b6-b3021a87ec32",
+      "season": 1,
+      "number": 3,
+      "name": "En væmmelig valentin",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "6874e5d2-63c8-4b7d-b5d3-ca1176e152d7",
+      "season": 1,
+      "number": 4,
+      "name": "En smart plan",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "1eea32c6-3523-4136-a671-cc767f2e81b4",
+      "season": 1,
+      "number": 5,
+      "name": "Katastrofen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "a487efdc-9890-4817-acd5-1419563fdaa4",
+      "season": 1,
+      "number": 6,
+      "name": "Bumsen",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "159f4da8-2168-4134-9bce-b6599c2ead70",
+      "season": 1,
+      "number": 7,
+      "name": "Hvem ringer klokkerne for?",
+      "airdate": "2023-01-12"
+    },
+    {
+      "id": "59ebd683-679c-41d1-9912-3b2137398bef",
+      "season": 1,
+      "number": 8,
+      "name": "Tidsoptimister",
+      "airdate": "2023-01-12"
+    },
+    {
+      "id": "d9701ef3-5cfc-4ec9-94f4-c74d8049c361",
+      "season": 1,
+      "number": 9,
+      "name": "Krigere af vildnisset",
+      "airdate": "2023-01-12"
+    },
+    {
+      "id": "d02a37d2-4f71-473f-85ca-ebaa22fdb4d3",
+      "season": 1,
+      "number": 10,
+      "name": "Kolde frys",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "62caae33-562a-4956-9344-11a55f53c855",
+      "season": 1,
+      "number": 11,
+      "name": "Æblehvidernes forbandelse",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "1e1d7d99-fd46-4b3f-89ab-929c6a873b63",
+      "season": 1,
+      "number": 12,
+      "name": "Til døden os spiller",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "b8a71bd2-5677-4dd1-9521-53c4d36a8914",
+      "season": 1,
+      "number": 13,
+      "name": "Randys mor er et kapitel for sig",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "184a8156-5e67-45c4-8d58-46eb7d1dbbeb",
+      "season": 1,
+      "number": 14,
+      "name": "Drengen der ikke ville gå",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "d34a1646-14ee-47ee-8014-c012e0907499",
+      "season": 1,
+      "number": 15,
+      "name": "Knas på linjen",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "cb2f490f-f438-4c05-971a-2baa1d2f5209",
+      "season": 1,
+      "number": 16,
+      "name": "Spillet er ude",
+      "airdate": "2023-05-15"
+    },
+    {
+      "id": "613f24a7-4389-402b-83e2-ef7dd9eed3a5",
+      "season": 1,
+      "number": 18,
+      "name": "Venlighedskrig",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "160d2202-25be-4705-84a9-f7b4cd73f5ef",
+      "season": 1,
+      "number": 19,
+      "name": "Vent til mørkets frembrud",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "aa665956-e615-4206-b6b2-3d7cab8e0f99",
+      "season": 1,
+      "number": 20,
+      "name": "Kvadratroden af Teddy",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "8fff1f81-88ba-49a5-9479-cbb70486dbe6",
+      "season": 1,
+      "number": 21,
+      "name": "En anderledes fødselsdag",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "5569c716-559d-4bd9-82e9-5c167c1e7fdc",
+      "season": 1,
+      "number": 22,
+      "name": "Kris på et varmt bliktag",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "10d9281a-994c-4937-837f-db7961052ae8",
+      "season": 1,
+      "number": 23,
+      "name": "Det er koldt på toppen",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "f65f9152-1ffd-4a79-a111-0171d9f6fa79",
+      "season": 1,
+      "number": 24,
+      "name": "En bromance dukker op",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "24d47b2d-8eb1-4474-801e-aad81ecb4f28",
+      "season": 1,
+      "number": 25,
+      "name": "Kris kringler den",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "ba0ebb78-5b8f-45db-9c27-b0ee7c6389de",
+      "season": 1,
+      "number": 26,
+      "name": "Aprilsnar",
+      "airdate": "2023-12-29"
+    },
+    {
+      "id": "ba180fe6-9e66-4c8d-9b8f-fa8e0a35594f",
+      "season": 2,
+      "number": 1,
+      "name": "Adcorpicos forbandelse - del 1",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "fe6c39a2-f8fb-4ab3-9913-c7e6b361d022",
+      "season": 2,
+      "number": 2,
+      "name": "Adcorpicos forbandelse - del 2",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "0a6acb67-04ec-4451-b8f0-ed3a721d6ace",
+      "season": 2,
+      "number": 3,
+      "name": "Numserap",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "a4ae8304-21c5-438b-85e2-c8b46b47d66f",
+      "season": 2,
+      "number": 4,
+      "name": "Krises fridag",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "e72f4f34-5ad7-4bd2-8249-39527150b739",
+      "season": 2,
+      "number": 5,
+      "name": "Mundbrynsgalskab",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "f7259aac-8440-46fb-b37f-b4863c99eaab",
+      "season": 2,
+      "number": 6,
+      "name": "En stjerne splittes",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "d09b2728-d366-45f1-92fc-a47da1ad8f3f",
+      "season": 2,
+      "number": 7,
+      "name": "Valentinsdagen fra helvede: Kapitel II",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "3a69b7d7-7847-4ef7-b4ea-bfec28693a99",
+      "season": 2,
+      "number": 8,
+      "name": "Smagsforstærkede Yum Yums med skæg",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "727bf00d-047c-477b-8ce4-835269375fcf",
+      "season": 2,
+      "number": 9,
+      "name": "Rackleffs rekorder",
+      "airdate": "2024-06-10"
+    },
+    {
+      "id": "2bee2211-27a5-4ea6-b179-a20b8a93b704",
+      "season": 2,
+      "number": 10,
+      "name": "Krises store ballade",
+      "airdate": "2024-06-10"
+    }
+  ]
+}

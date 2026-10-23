@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:hundens-bedste-ven-tv2play",
+  "name": "Hundens bedste ven",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Jesper Funch Jensen har besluttet, at hans jagthund, Sally, skal have hvalpe. Han vil beholde én af dem og træne den til at blive hans nye jagthund.",
+  "image": "https://cdn-play.tv2i.dk/cd549763-c6ed-4b71-a9f6-0452394ee03a.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "1e7c5bbe-9440-4add-97cd-2ee3123a6f5e",
+      "season": 1,
+      "number": 1,
+      "name": "Fannys første tid",
+      "airdate": "2025-12-22"
+    },
+    {
+      "id": "4e11c9b7-f1ef-4642-b5e0-94cec9e9fa09",
+      "season": 1,
+      "number": 2,
+      "name": "Fannys første træning",
+      "airdate": "2025-12-29"
+    },
+    {
+      "id": "0533d7fb-f0ea-4448-8f08-818f03ccae53",
+      "season": 1,
+      "number": 3,
+      "name": "Den sidste træning og Fannys første jagt",
+      "airdate": "2026-01-05"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:world-war-ii-battles-for-europe-skyshowtime",
+  "name": "World War II - Battles for Europe",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Nogle af de mest betydningsfulde øjeblikke i krigshistorien: landgangen på D-dagen, den skæbnesvangre, luftbårne operation ved Arnhem, det tyske modangreb i Ardenneroffensiven og kapløbet om en af de sidste broer over Rhinen ved Remagen.",
+  "image": "https://cdn-play.tv2i.dk/d2b137d0-cbcf-4bee-b511-c8b5a47c999b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3e5a65d0-8fff-4f55-919f-c6ac32c92fa6",
+      "season": 1,
+      "number": 1,
+      "name": "D-dag",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "e551a6c5-3275-43e5-8913-93232a11a0c9",
+      "season": 1,
+      "number": 2,
+      "name": "Slaget om Caen",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "29950f83-04d6-4bef-acb6-57305a105813",
+      "season": 1,
+      "number": 3,
+      "name": "Udbruddet fra Normandiet",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "78caddcc-eaea-4117-98c5-7fabf0641bce",
+      "season": 1,
+      "number": 4,
+      "name": "Operation Market Garden",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "c5eb9ecf-1b08-44d7-9616-591a8efb0018",
+      "season": 1,
+      "number": 5,
+      "name": "Slaget om Schelde",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "19d1ab3d-afa8-4164-91d1-9d70c8f2c18e",
+      "season": 1,
+      "number": 6,
+      "name": "Slaget om Siegfried-linjen",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "4ce2f35f-4f37-407d-9f34-b3f9eda4be48",
+      "season": 1,
+      "number": 7,
+      "name": "Ardennernoffensiven",
+      "airdate": "2025-05-04"
+    },
+    {
+      "id": "f6eb1aff-a8be-45f1-ba48-ed3e5b012c3f",
+      "season": 1,
+      "number": 8,
+      "name": "Krydser Rhinen",
+      "airdate": "2025-05-04"
+    }
+  ]
+}

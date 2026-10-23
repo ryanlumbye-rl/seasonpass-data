@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:den-gode-stemning-tv2",
+  "name": "Den gode stemning",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Eva kæmper med en skrantende forretning og en hemmelige affære, mens hendes bror, Mads, forsøger at undertrykke sine drømme og skjule et voksende misbrug. Begge prøver de at bryde fri af destruktive mønstre, og det sætter deres familiære bånd på prøve.",
+  "image": "https://cdn-play.tv2i.dk/a0c4ab00-13c9-41a2-98ae-9836f9a1d01f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "d98793e2-576a-402a-a807-ed46f133d743",
+      "season": 1,
+      "number": 1,
+      "name": "Silent Retreat",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "8970c0f4-8062-449e-bbf5-243eb8c36a62",
+      "season": 1,
+      "number": 2,
+      "name": "Secrets",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "6acec219-11d9-4ec4-809c-250124f9e8ce",
+      "season": 1,
+      "number": 3,
+      "name": "Klovnen",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "487da776-8b82-4ab6-89c8-408706b5b28f",
+      "season": 1,
+      "number": 4,
+      "name": "Gæsterne",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "64cf027b-b6ff-4e98-ba90-b91fd34bff5b",
+      "season": 1,
+      "number": 5,
+      "name": "Bum, købt og betalt",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "6e426103-b38c-4fd3-82b4-e6a648d9c717",
+      "season": 1,
+      "number": 6,
+      "name": "Familiemøde",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "156d8ac9-407a-4cc8-b50b-2468c46edea2",
+      "season": 1,
+      "number": 7,
+      "name": "Det gode liv",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "5b92d1f6-4600-4b3e-a805-f5e6bf89073d",
+      "season": 1,
+      "number": 8,
+      "name": "Happy New Year",
+      "airdate": "2025-12-18"
+    }
+  ]
+}

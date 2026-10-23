@@ -4,7 +4,9 @@
   "service": "tv2",
   "status": "Running",
   "tmdbId": null,
-  "next": "2026-10-23",
+  "next": "2026-10-30",
+  "description": "I den hyggelige by Stars Hollow følger vi den skarpe og selvstændige Lorelai Gilmore og hendes kvikke datter Rory. Mens Rory tager sine første skridt mod voksenlivet, udfordres det tætte mor-datter-bånd af kærlighed, drømme og svære valg.",
+  "image": "https://cdn-play.tv2i.dk/b763566f-9740-3e17-ad3e-57d45c4d3e69.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "59a51c3d-33db-4cc5-8575-c8d9a07ae505",

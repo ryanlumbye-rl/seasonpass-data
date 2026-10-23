@@ -26,6 +26,29 @@
       "number": 3,
       "name": "Stejl byhave med roser i træerne",
       "airdate": "2026-04-12"
+    },
+    {
+      "id": "a959c9ef-3a01-47f2-bea2-eda4d16f1682",
+      "season": 2,
+      "number": 1,
+      "name": "Nybyggerhave til tusindvis af kroner",
+      "airdate": "2026-09-06"
+    },
+    {
+      "id": "47973df1-1575-4705-9715-5374e60e0c16",
+      "season": 2,
+      "number": 2,
+      "name": "Sten her, der og alle vegne",
+      "airdate": "2026-09-20"
+    },
+    {
+      "id": "d161d46f-4b0b-4be7-a3f7-9422fe1e0c0e",
+      "season": 2,
+      "number": 3,
+      "name": "Med stjålne blomster fra berømt have",
+      "airdate": "2026-09-27"
     }
-  ]
+  ],
+  "description": "I 'Herlige haver' besøger vi en række mennesker med en særlig kærlighed til deres have. De har grønne fingre, inspirerende haver og bruger det meste af deres tid under åben himmel med fingrene i jorden.",
+  "image": "https://cdn-play.tv2i.dk/c5c30db4-330b-4c06-8133-31531f8c0c84.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

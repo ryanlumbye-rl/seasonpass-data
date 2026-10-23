@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:lambs-of-god-skyshowtime",
+  "name": "Lambs of God",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "På en øde ø lever tre katolske nonner i et forfaldent kloster, hvor naturen har overtaget og får vandrer frit i kapellet. De deler mørke eventyr og beder i stilhed. Men da en ung præst med skjulte motiver ankommer til øen, tvinges nonnerne til at kæmpe for deres tro – og deres liv.",
+  "image": "https://cdn-play.tv2i.dk/3ecf31a6-05f8-4b8b-ab48-60f4620ffdc0.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "3a8a7793-6e13-4761-8f22-5f97771154a7",
+      "season": 1,
+      "number": 1,
+      "name": "The Devil into Paradise",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "0e80c9f2-6bd6-4c62-8c7d-a0a205a66690",
+      "season": 1,
+      "number": 2,
+      "name": "The Blood of Eden",
+      "airdate": "2025-10-01"
+    },
+    {
+      "id": "9460b1ce-89e5-4fa3-a325-a8f6f294a5ba",
+      "season": 1,
+      "number": 4,
+      "name": "Resurrection",
+      "airdate": "2025-10-01"
+    }
+  ]
+}

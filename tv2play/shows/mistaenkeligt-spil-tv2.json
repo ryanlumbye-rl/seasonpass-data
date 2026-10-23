@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:mistaenkeligt-spil-tv2",
+  "name": "Mistænkeligt spil",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 går undercover og undersøger mørk bagside af europæisk håndbold.",
+  "image": "https://cdn-play.tv2i.dk/e6dee9de-4b08-4d65-a5c5-77512348afbd.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "c2f94466-da29-43c0-ad9a-b729c14b3988",
+      "season": 1,
+      "number": 1,
+      "name": "Undercover som matchfixer",
+      "airdate": "2023-07-05"
+    },
+    {
+      "id": "8f0c3125-1dd6-492b-ac97-a7e8d14ff016",
+      "season": 1,
+      "number": 2,
+      "name": "'Det er så håbløst dømt'",
+      "airdate": "2023-07-12"
+    }
+  ]
+}

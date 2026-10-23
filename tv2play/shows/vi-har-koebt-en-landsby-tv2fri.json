@@ -1,0 +1,572 @@
+{
+  "id": "tv2play:vi-har-koebt-en-landsby-tv2fri",
+  "name": "Vi har købt en landsby",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Forladte og faldefærdige landsbyer i Europa får nyt liv, når modige og eventyrlystne briter satser alt. Med hårdt arbejde puster de liv i forsømte byggerier og forvandler dem til noget helt unikt.",
+  "image": "https://cdn-play.tv2i.dk/6f36b028-ff24-49e1-99b9-3262dd3b925f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "8f44f222-c3ff-457b-b1ca-fefa34833165",
+      "season": 1,
+      "number": 1,
+      "name": "Fra forfald til fremtid",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "e40479e8-6833-42f7-88a6-80c0ffaf3b20",
+      "season": 1,
+      "number": 2,
+      "name": "Klar til gæster",
+      "airdate": "2025-10-04"
+    },
+    {
+      "id": "f5b8e8ce-4bb8-4ced-9467-bbf01edaee21",
+      "season": 1,
+      "number": 3,
+      "name": "En uventet levering",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "e34484ca-76bc-44e8-b28f-5a8b848f69a5",
+      "season": 1,
+      "number": 4,
+      "name": "Travl genåbning",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "a550ee14-fb41-4070-a414-98fd3840a51b",
+      "season": 1,
+      "number": 5,
+      "name": "Bryllup og byggeri",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "a454e98b-678d-4fbf-b296-c23b8a895881",
+      "season": 1,
+      "number": 6,
+      "name": "Mure med mysterier",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "acfe074a-a310-4b3f-81ea-78f8e5ce6bc7",
+      "season": 1,
+      "number": 7,
+      "name": "To mystiske tårne",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "a6dfccfb-5ca3-4fa9-b804-47c777a33e20",
+      "season": 1,
+      "number": 8,
+      "name": "Tagproblemer og utæt vandrør",
+      "airdate": "2025-10-11"
+    },
+    {
+      "id": "7a7449b6-32df-407c-8cd3-e4780aa9bab8",
+      "season": 1,
+      "number": 9,
+      "name": "Jul i landsbyen",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "29cd8087-24b2-4aaf-a0f8-861eaaf95ff0",
+      "season": 1,
+      "number": 10,
+      "name": "Projekt på pause",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "f6b12294-d951-4f94-828c-bd3a4ab9f0de",
+      "season": 1,
+      "number": 11,
+      "name": "Drømmen vakler",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "14e7a5f8-2cea-437a-b340-d18436e90146",
+      "season": 1,
+      "number": 12,
+      "name": "En stor fejring",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "003a8f08-2389-42d9-987f-88e49c83bc76",
+      "season": 1,
+      "number": 13,
+      "name": "Høns i haven",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "1709246d-41b4-48d3-9fb7-b989ef69dff6",
+      "season": 1,
+      "number": 14,
+      "name": "Meget på spil",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "f059d51f-803f-48e7-a27d-aa46c06c7755",
+      "season": 1,
+      "number": 15,
+      "name": "Fra ceremoni til katastrofe",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "8e899f47-605d-4354-9c19-ed8e3cc9d339",
+      "season": 1,
+      "number": 16,
+      "name": "Ramt af jordskælv",
+      "airdate": "2025-10-18"
+    },
+    {
+      "id": "66bdf9ee-80e1-4b06-b1d0-ffb656d75dc3",
+      "season": 1,
+      "number": 17,
+      "name": "Oversvømmelser og udfordringer",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "14c35e5a-d136-4701-9edd-07f70915c0a2",
+      "season": 1,
+      "number": 18,
+      "name": "Hjælp fra frivillige",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "bfb21dd0-d1fc-42b5-956b-3314c4374ab9",
+      "season": 1,
+      "number": 19,
+      "name": "En svær balance",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "0f3433c9-e5ac-446f-b754-7f126f126883",
+      "season": 1,
+      "number": 20,
+      "name": "En særlig begivenhed",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "0d16494d-e971-41a7-925d-9970d17ff54c",
+      "season": 2,
+      "number": 1,
+      "name": "Tilbage til rødderne",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "f05cea14-9714-429e-9ef1-98a7878626be",
+      "season": 2,
+      "number": 2,
+      "name": "Det står stille",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "bf8bf254-44fb-4cab-9c64-0dcfd0618eca",
+      "season": 2,
+      "number": 3,
+      "name": "Sandhedens time",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "6fbb2148-06a1-430d-808e-78fe83d89cf6",
+      "season": 2,
+      "number": 4,
+      "name": "Udfordringer i spøgelsesbyen",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "916bc9e3-0895-43c6-a004-a4c4bdc17f22",
+      "season": 2,
+      "number": 5,
+      "name": "Bryllupsklokker og glamping",
+      "airdate": "2025-10-25"
+    },
+    {
+      "id": "57e65bcc-3e12-4d4d-9e44-bced74fea2ba",
+      "season": 2,
+      "number": 6,
+      "name": "I stumper og stykker",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "5b0a9740-103c-4cc3-a3da-7892116ef31d",
+      "season": 2,
+      "number": 7,
+      "name": "Fra internat til cocktailbar",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "7a71b7a2-ec17-44cb-8fba-6dfd060e95be",
+      "season": 2,
+      "number": 8,
+      "name": "Invaderet af skorpioner",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "4f022358-c1ce-4231-9ca0-ddcd1a97f6c5",
+      "season": 2,
+      "number": 9,
+      "name": "Skeletter på loftet",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "d9db5014-8b41-4bdd-93fa-beb3efb55e1a",
+      "season": 2,
+      "number": 10,
+      "name": "Set på nettet",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "6de3c8f5-fbbc-4937-904c-67ed4c7ec174",
+      "season": 2,
+      "number": 11,
+      "name": "De første druer",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "b5e1320f-d238-43f1-a679-40f80a71923a",
+      "season": 2,
+      "number": 12,
+      "name": "Dårlige nyheder",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "1bcd3c2e-17a1-446e-8a7f-940aba27eb23",
+      "season": 2,
+      "number": 13,
+      "name": "Udfordret af vinden",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "43ee2e8a-cf78-4a29-b488-46b7f29649bc",
+      "season": 2,
+      "number": 14,
+      "name": "Interessante fund",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "2bfae501-91fa-42d7-b3f7-162160bcc100",
+      "season": 2,
+      "number": 15,
+      "name": "Ikke efter planen",
+      "airdate": "2025-11-01"
+    },
+    {
+      "id": "2f0066da-3f97-4346-bae9-cdbf189276f1",
+      "season": 2,
+      "number": 16,
+      "name": "Bag murene",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "8bf0f71c-c9df-425f-8ae2-0aa8bd549858",
+      "season": 2,
+      "number": 17,
+      "name": "En vigtig høst",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "8513403f-9ebd-43e3-8e64-759d3b3688d6",
+      "season": 2,
+      "number": 18,
+      "name": "Moder Jords magt",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "734415c6-642d-4f7a-bb43-fed101f91bba",
+      "season": 2,
+      "number": 19,
+      "name": "Spøgelsesbyen genoplives",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "3612e3d3-14fc-44bd-bfee-dc4339fdac60",
+      "season": 2,
+      "number": 20,
+      "name": "En god bedømmelse",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "ce3c1016-e0e5-47b9-9dc5-2eba602c3ed7",
+      "season": 2,
+      "number": 21,
+      "name": "Jordskælv og modernisering",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "4a344764-6ae2-4ba0-a2c9-986c67bb15da",
+      "season": 2,
+      "number": 22,
+      "name": "Arbejdet bærer frugt",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "f0888ec2-a487-4617-970e-98aeb3ff7df1",
+      "season": 2,
+      "number": 23,
+      "name": "Underjordisk opdagelse",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "d18a0a6a-4687-438a-af6c-4aafbd7b0ba6",
+      "season": 2,
+      "number": 24,
+      "name": "Forfald og forbindelse",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "5ef563eb-723e-45af-b7f2-d3180420791b",
+      "season": 2,
+      "number": 25,
+      "name": "Sidste hånd på værket",
+      "airdate": "2025-11-08"
+    },
+    {
+      "id": "a1ac8469-a1d3-4616-a8b0-0c401c6c4664",
+      "season": 2,
+      "number": 26,
+      "name": "Planer under pres",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "4cc2edac-610d-4122-9a6e-89608bdbb26a",
+      "season": 2,
+      "number": 27,
+      "name": "Oversvømmelse skaber kaos",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "0b1a986f-b658-4577-a993-58a1e1a70d90",
+      "season": 2,
+      "number": 28,
+      "name": "Jordskred og forberedelser",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "cdc01fc2-fa64-40fa-b0fa-4bf1f99e51ac",
+      "season": 2,
+      "number": 29,
+      "name": "Hjertet af landsbyen",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "a7cfdd4c-ee0a-48ab-ac76-140f9d6825f9",
+      "season": 2,
+      "number": 30,
+      "name": "Åbning af galleri",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "9230945d-76e2-46f0-9ed1-a5b6704eef5e",
+      "season": 3,
+      "number": 1,
+      "name": "Nyt eventyr",
+      "airdate": "2025-11-15"
+    },
+    {
+      "id": "0485d671-9189-4e44-ac0c-e81bffecdf32",
+      "season": 3,
+      "number": 2,
+      "name": "Åbning og udfordringer",
+      "airdate": "2025-11-22"
+    },
+    {
+      "id": "da8a0746-a46b-403d-b68c-e7f2be32a9c5",
+      "season": 3,
+      "number": 3,
+      "name": "Svære overvejelser",
+      "airdate": "2025-11-22"
+    },
+    {
+      "id": "a8fc2b90-7a7c-4968-9b85-8a9a06275399",
+      "season": 3,
+      "number": 4,
+      "name": "Brev fra Første Verdenskrig",
+      "airdate": "2025-11-23"
+    },
+    {
+      "id": "331cf5f1-0940-4824-989b-eb4d07f03353",
+      "season": 3,
+      "number": 5,
+      "name": "Tusindvis af turister",
+      "airdate": "2025-11-23"
+    },
+    {
+      "id": "8b520fb7-ae91-4d81-b2d9-fe8705e0f24c",
+      "season": 3,
+      "number": 6,
+      "name": "Fra England til Frankrig",
+      "airdate": "2025-11-29"
+    },
+    {
+      "id": "d8c97b4b-3da6-43e3-b5bb-146210ca1a1d",
+      "season": 3,
+      "number": 7,
+      "name": "Naturens prøvelser",
+      "airdate": "2025-11-29"
+    },
+    {
+      "id": "645958d7-8e53-45cc-8941-376669974d98",
+      "season": 3,
+      "number": 8,
+      "name": "Fra jord til bord",
+      "airdate": "2025-11-29"
+    },
+    {
+      "id": "f6f2a910-a1e1-4bdc-bad2-afe10a95afd2",
+      "season": 3,
+      "number": 9,
+      "name": "Et spil om fortiden",
+      "airdate": "2025-11-30"
+    },
+    {
+      "id": "b2d1eccb-f2a3-48bd-8baa-17775a6e964f",
+      "season": 3,
+      "number": 10,
+      "name": "Redning og renovering",
+      "airdate": "2025-11-30"
+    },
+    {
+      "id": "7ed4b6bd-f2fc-4d3a-b35c-9ba6d36d2ca3",
+      "season": 3,
+      "number": 11,
+      "name": "På jagt i Bulgarien",
+      "airdate": "2025-11-30"
+    },
+    {
+      "id": "70197776-21ae-4547-a818-f62b079035de",
+      "season": 3,
+      "number": 12,
+      "name": "Kæmp for fortiden",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "133ec987-b653-454d-ad23-c181c22ea9a7",
+      "season": 3,
+      "number": 13,
+      "name": "En ny beboer",
+      "airdate": "2025-12-06"
+    },
+    {
+      "id": "7e392b4e-ae79-4ab1-803c-dd4456439833",
+      "season": 3,
+      "number": 14,
+      "name": "Naturen tager over",
+      "airdate": "2025-12-07"
+    },
+    {
+      "id": "4a1a188e-c7dd-46a1-b5ed-1139c4e394c7",
+      "season": 3,
+      "number": 15,
+      "name": "Kaos på kroen",
+      "airdate": "2025-12-08"
+    },
+    {
+      "id": "580532bb-5f0a-4470-9c64-e46d99227061",
+      "season": 3,
+      "number": 16,
+      "name": "Tre års arbejde",
+      "airdate": "2025-12-09"
+    },
+    {
+      "id": "64ae8591-9ad2-40d7-ac91-4ae8a0d0a0a2",
+      "season": 3,
+      "number": 17,
+      "name": "Drukner i problemer",
+      "airdate": "2025-12-10"
+    },
+    {
+      "id": "34131b4a-6924-4ede-a850-fea45b61a8e8",
+      "season": 3,
+      "number": 18,
+      "name": "Nye ejere",
+      "airdate": "2025-12-11"
+    },
+    {
+      "id": "aebda0f4-263f-4932-b00c-63f718246742",
+      "season": 3,
+      "number": 19,
+      "name": "Renoveringen tager form",
+      "airdate": "2025-12-12"
+    },
+    {
+      "id": "7514f4b9-30dc-4c02-bcfb-5865af05a652",
+      "season": 3,
+      "number": 20,
+      "name": "Musikken spiller",
+      "airdate": "2025-12-13"
+    },
+    {
+      "id": "6c0c69ac-6f90-46c4-8090-e76b99fbe721",
+      "season": 3,
+      "number": 21,
+      "name": "Katastrofe før åbning",
+      "airdate": "2025-12-13"
+    },
+    {
+      "id": "75290f6f-a1e5-4de5-9fb7-82183e5b13c9",
+      "season": 3,
+      "number": 22,
+      "name": "En ny ide",
+      "airdate": "2025-12-13"
+    },
+    {
+      "id": "ca2130e7-25b1-45ef-98a3-ee9275800860",
+      "season": 3,
+      "number": 23,
+      "name": "Femstjernet bedømmelse",
+      "airdate": "2025-12-14"
+    },
+    {
+      "id": "7f32b099-ec85-48fb-8281-989ee8c76cc8",
+      "season": 3,
+      "number": 24,
+      "name": "Storm og tørke truer",
+      "airdate": "2025-12-14"
+    },
+    {
+      "id": "71f8c109-1cdf-48fe-970e-82f32f6a7f93",
+      "season": 3,
+      "number": 25,
+      "name": "To landsbyer, én drøm",
+      "airdate": "2025-12-15"
+    },
+    {
+      "id": "3ba99fd9-f7e2-47af-9674-36a2b8ae1095",
+      "season": 3,
+      "number": 26,
+      "name": "Midt i kaos",
+      "airdate": "2025-12-16"
+    },
+    {
+      "id": "ee863047-5ad4-49f8-8785-a593719adee1",
+      "season": 3,
+      "number": 27,
+      "name": "Kan taget holde?",
+      "airdate": "2025-12-17"
+    },
+    {
+      "id": "0417d331-573a-4d76-93a4-f05e708e96f0",
+      "season": 3,
+      "number": 28,
+      "name": "Fortidens hemmeligheder",
+      "airdate": "2025-12-18"
+    },
+    {
+      "id": "f478d82a-9a18-4b7c-aa23-791144bc3ef7",
+      "season": 3,
+      "number": 29,
+      "name": "Stormen raser",
+      "airdate": "2025-12-19"
+    },
+    {
+      "id": "3593b5a4-978b-4b2e-9ee7-85baf110aca8",
+      "season": 3,
+      "number": 30,
+      "name": "Fra vandskade til velkomst",
+      "airdate": "2025-12-21"
+    }
+  ]
+}

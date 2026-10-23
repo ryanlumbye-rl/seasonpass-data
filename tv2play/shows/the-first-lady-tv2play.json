@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:the-first-lady-tv2play",
+  "name": "The First Lady",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "6a0dc6cc-8ad0-44e3-82ce-304193c65798",
+      "season": 1,
+      "number": 1,
+      "name": "That White House",
+      "airdate": "2022-04-18"
+    },
+    {
+      "id": "56b45129-ed97-439b-a63a-52ddfb8c7801",
+      "season": 1,
+      "number": 2,
+      "name": "Voices Carry",
+      "airdate": "2022-04-25"
+    },
+    {
+      "id": "3fa9b247-220b-4f93-97e9-4772bd8fcdad",
+      "season": 1,
+      "number": 3,
+      "name": "Please Allow Me",
+      "airdate": "2022-05-02"
+    },
+    {
+      "id": "440094ce-999d-4a41-a4fa-851344a38d1e",
+      "season": 1,
+      "number": 4,
+      "name": "Cracked Pot",
+      "airdate": "2022-05-09"
+    },
+    {
+      "id": "04dc8638-398d-4a6d-8863-947e0c68f297",
+      "season": 1,
+      "number": 5,
+      "name": "See Saw",
+      "airdate": "2022-05-16"
+    },
+    {
+      "id": "50635cb5-8a08-434f-8fab-5c00ac967cc3",
+      "season": 1,
+      "number": 6,
+      "name": "Shout Out",
+      "airdate": "2022-05-23"
+    },
+    {
+      "id": "21d2291a-7789-48c9-9594-c39d7d145361",
+      "season": 1,
+      "number": 7,
+      "name": "Nadir",
+      "airdate": "2022-05-30"
+    },
+    {
+      "id": "bebbcbf3-3e52-4327-9b44-d91123fdcad4",
+      "season": 1,
+      "number": 8,
+      "name": "Punch Perfect",
+      "airdate": "2022-06-06"
+    },
+    {
+      "id": "cfe2abd7-7859-47f1-9367-6f42e0eab07e",
+      "season": 1,
+      "number": 9,
+      "name": "Rift",
+      "airdate": "2022-06-13"
+    },
+    {
+      "id": "dc43b4ae-42b9-4b37-bb63-1d35de035424",
+      "season": 1,
+      "number": 10,
+      "name": "Victory Dance",
+      "airdate": "2022-06-20"
+    }
+  ]
+}

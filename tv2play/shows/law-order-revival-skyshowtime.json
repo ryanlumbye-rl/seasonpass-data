@@ -1,0 +1,481 @@
+{
+  "id": "tv2play:law-order-revival-skyshowtime",
+  "name": "Law & Order (Revival)",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I den komplekse proces med at fastslå skyld eller uskyld arbejder betjente og anklagere i New York for at løse forbrydelser og dømme lovovertrædere med livet på spil.",
+  "image": "https://cdn-play.tv2i.dk/c69d5faf-bc4c-4bf7-8ea5-12f31fa05d44.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "e1d58c75-be96-4c0f-9c02-3d33335251ee",
+      "season": 1,
+      "number": 1,
+      "name": "The Right Thing",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "fa7e5d78-97ee-4f98-afbe-b824c12dbe8b",
+      "season": 1,
+      "number": 2,
+      "name": "Impossible Dream",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "c1a63d11-fd01-46a2-9478-8f10f3ee563c",
+      "season": 1,
+      "number": 3,
+      "name": "Filtered Life",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "74bebac0-e06e-40b6-ad73-4f8611991675",
+      "season": 1,
+      "number": 4,
+      "name": "Fault Lines",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "19d8f9a9-2a35-4ca0-b1c8-2606a3dc031d",
+      "season": 1,
+      "number": 5,
+      "name": "Free Speech",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8b7e7f9a-01d1-4c2c-8928-3683daf5fa35",
+      "season": 1,
+      "number": 6,
+      "name": "Wicked Game",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "2fd060d0-43da-4ba5-aa2a-69c3b36724dc",
+      "season": 1,
+      "number": 7,
+      "name": "Legacy",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "238ea0a6-dce0-4326-8ff8-ded55dc8ef54",
+      "season": 1,
+      "number": 8,
+      "name": "Severance",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "8ebacba1-3de3-4544-b744-859c94ebebe9",
+      "season": 1,
+      "number": 9,
+      "name": "The Great Pretender",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "64d3695b-cc0d-473e-b25a-3f1a7424c139",
+      "season": 1,
+      "number": 10,
+      "name": "Black and Blue",
+      "airdate": "2022-09-20"
+    },
+    {
+      "id": "6f1d88cc-7ee6-4701-a8f6-78b3cb03dd31",
+      "season": 2,
+      "number": 1,
+      "name": "Gimme Shelter Part 3",
+      "airdate": "2023-01-13"
+    },
+    {
+      "id": "27d78529-1751-48f7-aa8c-357fbc3f4be3",
+      "season": 2,
+      "number": 2,
+      "name": "Battle Lines",
+      "airdate": "2023-01-20"
+    },
+    {
+      "id": "04c0bed9-7d37-4d5c-8cef-cc17ce7064ef",
+      "season": 2,
+      "number": 3,
+      "name": "Camouflage",
+      "airdate": "2023-01-27"
+    },
+    {
+      "id": "d22789d4-e7ba-48d9-b434-d0bedd961812",
+      "season": 2,
+      "number": 4,
+      "name": "Benefit of the Doubt",
+      "airdate": "2023-02-03"
+    },
+    {
+      "id": "b5b8b0e8-3b7b-4867-b9d2-75bd8dbf7a6e",
+      "season": 2,
+      "number": 5,
+      "name": "12 Seconds",
+      "airdate": "2023-02-10"
+    },
+    {
+      "id": "b92fed63-f32e-4e25-925e-191e7c0b2d86",
+      "season": 2,
+      "number": 6,
+      "name": "Vicious Cycle",
+      "airdate": "2023-02-17"
+    },
+    {
+      "id": "f6897676-133c-41e3-ae0b-8a9091552667",
+      "season": 2,
+      "number": 7,
+      "name": "Only the Lonely",
+      "airdate": "2023-02-24"
+    },
+    {
+      "id": "db89fbd8-d828-46e2-8fb6-bf0cb30dd35d",
+      "season": 2,
+      "number": 8,
+      "name": "Chain of Command",
+      "airdate": "2023-03-03"
+    },
+    {
+      "id": "1862c66f-fcf2-4517-a3fe-d7ab2ff3da52",
+      "season": 2,
+      "number": 9,
+      "name": "The System",
+      "airdate": "2023-03-10"
+    },
+    {
+      "id": "b4417ae4-721b-454e-bab0-a54ad6c1b51b",
+      "season": 2,
+      "number": 10,
+      "name": "Land of Opportunity",
+      "airdate": "2023-03-17"
+    },
+    {
+      "id": "cbc128a4-2e16-4dda-bf1b-9efe7f05b6d2",
+      "season": 2,
+      "number": 11,
+      "name": "Second Chance",
+      "airdate": "2023-03-24"
+    },
+    {
+      "id": "018b9f37-fc9e-4b2e-88ef-23e98512a270",
+      "season": 2,
+      "number": 12,
+      "name": "Almost Famous",
+      "airdate": "2023-03-31"
+    },
+    {
+      "id": "b8b0bd44-44dd-4f3e-aeab-ece95542a3a5",
+      "season": 2,
+      "number": 13,
+      "name": "Mammon",
+      "airdate": "2023-04-07"
+    },
+    {
+      "id": "142d56de-6c6a-4553-8b0e-032c91899231",
+      "season": 2,
+      "number": 14,
+      "name": "Heroes",
+      "airdate": "2023-04-14"
+    },
+    {
+      "id": "2f2c9511-685d-4d52-af3d-9e779c3f8c0b",
+      "season": 2,
+      "number": 15,
+      "name": "Fear and Loathing",
+      "airdate": "2023-04-21"
+    },
+    {
+      "id": "4c077f08-2c7a-418b-9405-2edca713cf0c",
+      "season": 2,
+      "number": 16,
+      "name": "Deadline",
+      "airdate": "2023-04-28"
+    },
+    {
+      "id": "bb01a603-c3e5-4f48-86b6-0fcd901baa1b",
+      "season": 2,
+      "number": 17,
+      "name": "Bias",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "8aea8f46-0143-42e8-855c-1a1a36e0ffb3",
+      "season": 2,
+      "number": 18,
+      "name": "Collateral Damage",
+      "airdate": "2023-05-12"
+    },
+    {
+      "id": "b51fbe1b-44fc-4f62-8e88-13f18ad7aa99",
+      "season": 2,
+      "number": 19,
+      "name": "Private Lives",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "5bf68999-da58-48dd-98bb-d57bde868aee",
+      "season": 2,
+      "number": 20,
+      "name": "Class Retreat",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "068280f5-2833-4bf1-9e86-1f2f04556237",
+      "season": 2,
+      "number": 21,
+      "name": "Appraisal",
+      "airdate": "2023-06-02"
+    },
+    {
+      "id": "e38cdfcd-6cd4-46dc-9ed7-91fccb6c6c69",
+      "season": 2,
+      "number": 22,
+      "name": "Open Wounds",
+      "airdate": "2023-06-09"
+    },
+    {
+      "id": "359bd99d-8682-40cb-bdae-7b78121b450a",
+      "season": 3,
+      "number": 1,
+      "name": "Freedom of Expression",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "3962bc7a-3f37-4a9f-a439-08b5ca222e30",
+      "season": 3,
+      "number": 2,
+      "name": "Human Innovation",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "3389b30b-351b-4ccf-a4a7-5095e4addd08",
+      "season": 3,
+      "number": 3,
+      "name": "Turn the Page",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "5eb4e66a-d4a5-46e0-a635-19d21f8166b5",
+      "season": 3,
+      "number": 4,
+      "name": "Unintended Consequences",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "57f04108-1ceb-49c6-98c4-3f885804f793",
+      "season": 3,
+      "number": 5,
+      "name": "Last Dance",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "5330d751-5b5d-4c32-b298-1f784511f014",
+      "season": 3,
+      "number": 6,
+      "name": "On the Ledge",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "cbe56af7-23e5-4304-94c8-25cd3faed9e9",
+      "season": 3,
+      "number": 7,
+      "name": "Balance of Power",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "065ba80e-0553-43c0-adb7-1a95f764aa43",
+      "season": 3,
+      "number": 8,
+      "name": "Facade",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "47a4fac6-6cb9-44b1-872b-c0cce1ebe302",
+      "season": 3,
+      "number": 9,
+      "name": "Family Ties",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "42de2fcd-bc82-45f2-be8c-47d7180dc6d8",
+      "season": 3,
+      "number": 10,
+      "name": "Inconvenient Truth",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "b1fc1e20-21b5-432c-95d1-668b0ca1073a",
+      "season": 3,
+      "number": 11,
+      "name": "Castle in the Sky",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "a3c4bfbc-5607-4b20-b48a-a4a939f1fc9a",
+      "season": 3,
+      "number": 12,
+      "name": "No Good Deed",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "f26fb555-b32b-4942-9b0b-fc132084bebe",
+      "season": 3,
+      "number": 13,
+      "name": "In Harm's Way",
+      "airdate": "2024-07-05"
+    },
+    {
+      "id": "8fdbcec9-447e-4068-ba92-68c28fd4c670",
+      "season": 4,
+      "number": 1,
+      "name": "Catch and Kill",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "175bf826-59a9-458a-9c0f-43a1b2f7f2af",
+      "season": 4,
+      "number": 2,
+      "name": "The Perfect Man",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "66abcabc-0d90-4e01-9755-4a34c5c6797e",
+      "season": 4,
+      "number": 3,
+      "name": "Big Brother",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "cfdb36a9-c713-4daf-828c-47ef25cb6d21",
+      "season": 4,
+      "number": 4,
+      "name": "The Meaning of Life",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "37097683-f6fd-4cc8-8b83-49d3477789b6",
+      "season": 4,
+      "number": 5,
+      "name": "Report Card",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "f111e656-3479-435f-8c32-683b8d8b9fd8",
+      "season": 4,
+      "number": 6,
+      "name": "Time Will Tell",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "8b958196-4db7-4231-9903-3e7d788d813e",
+      "season": 4,
+      "number": 7,
+      "name": "Truth and Consequences",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "9edd3851-ece6-409b-bc8d-fdefa7d26c27",
+      "season": 4,
+      "number": 8,
+      "name": "Bad Apple",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "4a0db793-e709-4bb2-87e0-4c8a7fcd4859",
+      "season": 4,
+      "number": 9,
+      "name": "Enemy of the State",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "d7af2d7c-4978-41cf-b1be-991c22552aab",
+      "season": 4,
+      "number": 10,
+      "name": "Greater Good",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "63d34afa-4ab1-4a86-9205-6c20b50350ff",
+      "season": 4,
+      "number": 11,
+      "name": "The Hardest Thing",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "f10f1610-8795-4fcd-a911-4544e88d858d",
+      "season": 4,
+      "number": 12,
+      "name": "Duty to Protect",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "3939c40b-a1dd-4ac0-97f8-ccde092014ad",
+      "season": 4,
+      "number": 13,
+      "name": "In God We Trust",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "283f9c6b-592e-4a56-b9c0-96e0b0020329",
+      "season": 4,
+      "number": 14,
+      "name": "A Price to Pay",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "19cb4d44-2fe3-411b-9f0c-f0d8ad18a864",
+      "season": 4,
+      "number": 15,
+      "name": "Crossing Lines",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "7b38c7f8-c902-4e40-9796-7e163b590e48",
+      "season": 4,
+      "number": 16,
+      "name": "Inherent Bias",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "224a90b3-90ec-4f7e-b448-8e3fce52789c",
+      "season": 4,
+      "number": 17,
+      "name": "Folk Hero",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "09c1ca8d-f378-46e0-af3d-99fce6c8a11e",
+      "season": 4,
+      "number": 18,
+      "name": "A Perfect Family",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "d7eabf21-c5c0-4cfc-9019-c951a93117ef",
+      "season": 4,
+      "number": 19,
+      "name": "Play with Fire - Part 1",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "2db1b49f-ab40-4f82-91bf-ad6baa006a09",
+      "season": 4,
+      "number": 20,
+      "name": "Sins of the Father",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "45930fe7-f480-435c-a5a7-8ea8fabe502b",
+      "season": 4,
+      "number": 21,
+      "name": "Tough Love",
+      "airdate": "2025-08-14"
+    },
+    {
+      "id": "deabdd2e-c351-4710-88c7-c95aae781c56",
+      "season": 4,
+      "number": 22,
+      "name": "Look the Other Way",
+      "airdate": "2025-08-14"
+    }
+  ]
+}

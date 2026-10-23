@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:smilf-tv2play",
+  "name": "SMILF",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "452d0852-0efe-468c-8336-76acea6ed4ef",
+      "season": 1,
+      "number": 1,
+      "name": "A Box of Dunkies & Two Squirts of Maple Syrup",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "f77e75cf-9900-4e41-a923-8e8bfd3fd371",
+      "season": 1,
+      "number": 2,
+      "name": "1,800 Filet-O-Fishes & One Small Diet Coke",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "4902c174-c6fa-4371-8394-205f035a7d14",
+      "season": 1,
+      "number": 3,
+      "name": "Half A Sheet Cake & a Blue-Raspberry Slushie",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "b7d6c52c-f535-4a01-8c6b-c19b3b288353",
+      "season": 1,
+      "number": 4,
+      "name": "Deep-Dish Pizza & a Shot of Holy Water",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dbae26cb-0eb4-498c-8901-a53a9a55b6d3",
+      "season": 1,
+      "number": 5,
+      "name": "Run, Bridgette, Run or Forty-Eight Burnt Cupcakes & Graveyard Rum",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "43ab6eed-ecb5-4432-a9b3-a8c4ef774aed",
+      "season": 1,
+      "number": 6,
+      "name": "Chocolate Pudding & a Cooler of Gatorade",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "d1e3150d-d3f9-4e4d-aae5-ab06f511d773",
+      "season": 1,
+      "number": 7,
+      "name": "Family-Sized Popcorn & a Can of Wine",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "35135d27-a548-471e-996c-6e8e990b8f73",
+      "season": 1,
+      "number": 8,
+      "name": "Mark's Lunch & Two Cups of Coffee",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "48d18f84-5f95-4a6f-bc9f-734e89eb380d",
+      "season": 2,
+      "number": 1,
+      "name": "Shit Man, I've Literally Failed",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "fd7b821e-47c0-454c-be02-8ed2ff78fdea",
+      "season": 2,
+      "number": 2,
+      "name": "Sorry Mary, I'm Losing Faith",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "36d33350-7f63-40f3-9f10-b93bcc945262",
+      "season": 2,
+      "number": 3,
+      "name": "Surrogate Mothers Inspire Loving Families",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "96057ed4-2323-41ce-83ee-7e03634f7cf1",
+      "season": 2,
+      "number": 4,
+      "name": "So Maybe I Look Feminine",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "21f81ad3-066a-496b-9f21-328d7d031df2",
+      "season": 2,
+      "number": 5,
+      "name": "Single Mom in Love Forever",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "dcd766e3-bfb2-42ad-a9fc-9095ccc5a6d0",
+      "season": 2,
+      "number": 6,
+      "name": "Should Mothers Incur Loss Financially?",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "09266b8d-d3bd-467a-81a7-b6c85b5d823f",
+      "season": 2,
+      "number": 7,
+      "name": "Smile More If Lying Fails",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "c8aa6b84-734e-4e36-bb80-e0d51bcb28b9",
+      "season": 2,
+      "number": 8,
+      "name": "Sex Makes It Less Formal",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a7ba8cf3-3c8a-44f1-bedd-e2f5f7b6b5c5",
+      "season": 2,
+      "number": 9,
+      "name": "Single Mom Is Losing Faith",
+      "airdate": "2021-07-01"
+    },
+    {
+      "id": "a366d4c9-1313-46a2-b1c3-59bf70eadd2c",
+      "season": 2,
+      "number": 10,
+      "name": "Single Mom Is Looking (for) Family",
+      "airdate": "2021-07-01"
+    }
+  ]
+}

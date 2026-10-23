@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:schmeichel-skyshowtime",
+  "name": "Schmeichel",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Han er en af verdens største fodboldlegender, og så er han dansk. I denne todelte dokumentar dykker vi ned i Peter Schmeichels forrygende fodboldkarriere og hans liv uden for banen.",
+  "image": "https://cdn-play.tv2i.dk/f8e279fb-9bc4-44fd-a577-512a0c295bb0.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "62d68d50-1ad2-4608-a5fe-e3ada2d781b8",
+      "season": 1,
+      "number": 1,
+      "name": "Schmeichel - del 1",
+      "airdate": "2025-02-09"
+    },
+    {
+      "id": "697d02f9-4f33-428a-a540-73cc7f826e16",
+      "season": 1,
+      "number": 2,
+      "name": "Schmeichel - del 2",
+      "airdate": "2025-02-09"
+    }
+  ]
+}

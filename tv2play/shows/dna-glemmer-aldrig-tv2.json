@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:dna-glemmer-aldrig-tv2",
+  "name": "DNA glemmer aldrig",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Et yderst dygtigt team af britiske efterforskere bruger ny DNA-teknik til at genefterforske uopklarede seksuelle forbrydelser, der går helt tilbage til 1980'ernes England. Kan teamet finde frem til gerningsmændene og endelig yde retfærdighed for ofrene?",
+  "image": "https://cdn-play.tv2i.dk/e1fa1268-ed21-4d17-bf42-4cb14fdfa019.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f5d484e1-5d31-456a-aec8-a5c408249b88",
+      "season": 1,
+      "number": 1,
+      "name": "Ny teknik",
+      "airdate": "2025-04-23"
+    },
+    {
+      "id": "cec2bfd4-50d8-4481-84af-68bb5e5e43d1",
+      "season": 1,
+      "number": 2,
+      "name": "Et gennembrud",
+      "airdate": "2025-04-30"
+    }
+  ]
+}

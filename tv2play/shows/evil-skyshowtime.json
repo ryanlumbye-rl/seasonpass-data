@@ -1,0 +1,194 @@
+{
+  "id": "tv2play:evil-skyshowtime",
+  "name": "Evil",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Serien fokuserer på en skeptisk kvindelig, klinisk psykolog, der slutter sig sammen med en præst under uddannelse og en entreprenør. Sammen undersøger de formodede mirakler, djælvebesættelser og andre ekstraordinære hændelser.",
+  "image": "https://cdn-play.tv2i.dk/ebf0aaf5-6c56-4fac-a3a9-f424a76859e1.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C2915%2C1620&w=1280",
+  "episodes": [
+    {
+      "id": "961c2d79-db94-44c9-b706-c73dc033b781",
+      "season": 1,
+      "number": 1,
+      "name": "Genesis 1",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "eadf07dd-61d5-454e-90d6-bfc55e68f97a",
+      "season": 1,
+      "number": 2,
+      "name": "177 Minutes",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "be9aed65-86fd-4f68-b160-55a0b6ec55c3",
+      "season": 1,
+      "number": 3,
+      "name": "3 Stars",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "b2bde5c2-7f98-4682-befe-8764c4ada239",
+      "season": 1,
+      "number": 4,
+      "name": "Rose390",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "f5ace609-b940-4fec-94af-6e6282ec46f2",
+      "season": 1,
+      "number": 5,
+      "name": "October 31",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "53aea0d1-23f5-4a83-ae57-851986c95812",
+      "season": 1,
+      "number": 6,
+      "name": "Let x = 9",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "5285c564-34e1-4510-b937-1f8d368c5432",
+      "season": 1,
+      "number": 7,
+      "name": "Vatican III",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "2227e5c3-4d6a-4de6-a6de-5a8021da9d94",
+      "season": 1,
+      "number": 8,
+      "name": "2 Fathers",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "1a56ae7f-5494-43f2-9815-7b9290943621",
+      "season": 1,
+      "number": 9,
+      "name": "Exorcism Part 2",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "a7e9d611-ec62-43dd-958d-5751db849ebd",
+      "season": 1,
+      "number": 10,
+      "name": "7 Swans a Singin",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "541dbc25-61b7-4d81-b28b-bfcebfcaa57b",
+      "season": 1,
+      "number": 11,
+      "name": "Room 320",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "487d9398-3d28-441d-ac06-c9efd9c15821",
+      "season": 1,
+      "number": 12,
+      "name": "Justice x 2",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "58fe4d70-ec58-478c-92f3-3977c2c01fe5",
+      "season": 1,
+      "number": 13,
+      "name": "Book 27",
+      "airdate": "2021-11-01"
+    },
+    {
+      "id": "1659c39f-2b8a-4628-b1e0-de3e0d91b48a",
+      "season": 2,
+      "number": 1,
+      "name": "N Is for Night Terrors",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "eba38827-f0b6-4440-b07d-ebdf38c09c3f",
+      "season": 2,
+      "number": 2,
+      "name": "A Is for Angel",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "299056a9-72b5-4ad2-af83-703cdc98d0e6",
+      "season": 2,
+      "number": 3,
+      "name": "F Is for Fire",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "568ae607-d685-4809-a571-68f6e76aaf1e",
+      "season": 2,
+      "number": 4,
+      "name": "E Is for Elevator",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "b53c2392-30ee-4982-a62d-de951047bb26",
+      "season": 2,
+      "number": 5,
+      "name": "Z Is for Zombie",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "4f7f6d6b-a949-4e35-a187-15884c76a66b",
+      "season": 2,
+      "number": 6,
+      "name": "C Is for Cop",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "f232d9ea-1913-4b4b-ae36-f411fa8798fa",
+      "season": 2,
+      "number": 7,
+      "name": "S Is for Silence",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "808d3eea-c00d-40aa-80ae-6f2c51e8fb99",
+      "season": 2,
+      "number": 8,
+      "name": "B Is for Brain",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "88f25c0c-81ad-4f2b-8f6d-ba4833438705",
+      "season": 2,
+      "number": 9,
+      "name": "U Is for UFO",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "2b6d47ca-d1c2-4657-901d-3f068bbf5586",
+      "season": 2,
+      "number": 10,
+      "name": "O Is for Ovaphobia",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "1c289715-d098-4878-9df3-bb2a54d5dc23",
+      "season": 2,
+      "number": 11,
+      "name": "I Is for IRS",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "5270420e-a2ad-470e-bd4f-f1632bfda7e1",
+      "season": 2,
+      "number": 12,
+      "name": "D Is for Doll",
+      "airdate": "2025-10-22"
+    },
+    {
+      "id": "e98be075-9fac-4ac8-b0ff-4fea1a9b81f4",
+      "season": 2,
+      "number": 13,
+      "name": "C Is for Cannibal",
+      "airdate": "2025-10-22"
+    }
+  ]
+}

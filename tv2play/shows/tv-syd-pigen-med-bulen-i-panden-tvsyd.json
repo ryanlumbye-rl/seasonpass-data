@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:tv-syd-pigen-med-bulen-i-panden-tvsyd",
+  "name": "Pigen med bulen i panden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kan en gennemgribende operation i hjernen ændre Mollys liv? Det tager familien en tur til Tyskland for at finde ud af.",
+  "image": "https://cdn-play.tv2i.dk/c4d02347-1293-4b4b-b326-9638b825597e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "f31b611e-2f62-4fdf-850f-52da481646b3",
+      "season": 2,
+      "number": 1,
+      "name": "Et år med Molly",
+      "airdate": "2025-05-17"
+    },
+    {
+      "id": "b8537170-31b2-4273-9629-aa339a6e9a08",
+      "season": 2,
+      "number": 2,
+      "name": "Det forsvundne knoglestykke",
+      "airdate": "2025-05-24"
+    },
+    {
+      "id": "e575759d-ec19-4ac0-a2b2-67ca38bfa7d4",
+      "season": 2,
+      "number": 3,
+      "name": "Livet som sjælden",
+      "airdate": "2025-05-31"
+    },
+    {
+      "id": "e94745d8-d422-4f94-a8c2-db28d5d312ee",
+      "season": 2,
+      "number": 4,
+      "name": "Hullet skal lukkes",
+      "airdate": "2025-06-07"
+    }
+  ]
+}

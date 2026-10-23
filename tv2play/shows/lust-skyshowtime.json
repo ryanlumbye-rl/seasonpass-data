@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:lust-skyshowtime",
+  "name": "Lust",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Efter at hendes forskningsundersøgelse tyder på, at sex er godt for helbredet, stiller Anette og hendes tre livslange venner spørgsmålstegn ved, hvordan de bedre kan navigere deres sexliv omkring karriere, børn, partnere og livets realiteter",
+  "image": "https://cdn-play.tv2i.dk/f3dc6b7d-9c39-47ce-9c04-bd75890bac5a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "432b7df3-e7a4-427c-8a67-8c8de8d8ef22",
+      "season": 1,
+      "number": 1,
+      "name": "Sex Is a Highway to Health",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "8c2603f5-9067-41a4-8e5b-2bae8491242b",
+      "season": 1,
+      "number": 2,
+      "name": "European Lover, Small",
+      "airdate": "2023-05-05"
+    },
+    {
+      "id": "c71ae786-383f-434d-9148-045d447fe2e7",
+      "season": 1,
+      "number": 3,
+      "name": "The End of Men",
+      "airdate": "2023-05-12"
+    },
+    {
+      "id": "066ce59b-ca7a-432a-b09e-2f72753c0634",
+      "season": 1,
+      "number": 4,
+      "name": "Micropenis",
+      "airdate": "2023-05-19"
+    },
+    {
+      "id": "a7a4dc96-3670-44a0-af66-2ffc483b8d44",
+      "season": 1,
+      "number": 5,
+      "name": "Pan",
+      "airdate": "2023-05-26"
+    },
+    {
+      "id": "bc35cbdb-9975-4fcc-8171-2d5b74930a1c",
+      "season": 1,
+      "number": 6,
+      "name": "Fishy Fruit",
+      "airdate": "2023-06-02"
+    },
+    {
+      "id": "8f7f38eb-0156-466a-85b1-add954d549d1",
+      "season": 1,
+      "number": 7,
+      "name": "The Night Games",
+      "airdate": "2023-06-09"
+    },
+    {
+      "id": "a7b27d33-eacc-416c-a269-9feac8998960",
+      "season": 1,
+      "number": 8,
+      "name": "Total Eclipse of the Heart",
+      "airdate": "2023-06-16"
+    }
+  ]
+}

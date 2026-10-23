@@ -75,6 +75,15 @@
       "number": 10,
       "name": "The Ohio Journalism Awards",
       "airdate": "2026-01-02"
+    },
+    {
+      "id": "5240100d-a01e-49de-bad1-015c6c1c4a30",
+      "season": 2,
+      "number": 1,
+      "name": "The Paper",
+      "airdate": "2026-11-06"
     }
-  ]
+  ],
+  "description": "Dokumentarholdet fra 'The Office' følger nu en nødlidende avis i Midtvesten, hvor frivillige journalister kæmper for at genoplive lokalnyhederne. En mockumentary om passionerede drømmere og deres mindre kompetente kolleger, der mangler ressourcer og uddannelse.",
+  "image": "https://cdn-play.tv2i.dk/7c145300-bd2c-406f-bbc3-ecb30dddb024.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

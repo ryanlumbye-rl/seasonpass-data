@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:comedy-fight-club-live-tv2play",
+  "name": "Comedy Fight Club Live",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Sarah Grünewald har været på jagt og fundet seks upcoming komikere, der kæmper om at blive kåret som det bedste comedytalent i landet - fra Karma Kajen i København. De seks komikere har forinden været på tur med en garvet kollega, som ud over at give dem gode råd også giver dem et emne, de skal skrive deres materiale ud fra. Simon Talbot har fået første tjans, og emnet er e-sport. Men inden de skal på scenen, skal talenterne først møde fem børn, der udfordrer dem i Counter-Strike. Se med fra København og vær med til at bestemme, hvem der er Danmarks bedste comedytalent!.",
+  "image": "https://cdn-play.tv2i.dk/f719b321-cf37-4269-9fe4-e93edf990e5c.jpg?auto=format%2Ccompress&fm=webp&rect=104%2C337%2C2296%2C1292&w=1280",
+  "episodes": [
+    {
+      "id": "1a917dec-1b42-400c-bd5d-bd272f3be41e",
+      "season": 5,
+      "number": 1,
+      "name": "Simon Talbot og eSport",
+      "airdate": "2017-04-03"
+    },
+    {
+      "id": "322901e1-fe18-4fbc-9dcf-a8c730382398",
+      "season": 5,
+      "number": 2,
+      "name": "Anders Stjernholm og religion",
+      "airdate": "2017-04-10"
+    },
+    {
+      "id": "bd4d9e3d-07ee-45a6-8628-bcd34a3713cc",
+      "season": 5,
+      "number": 3,
+      "name": "Torben Chris og herretur",
+      "airdate": "2017-04-17"
+    },
+    {
+      "id": "9e4592b2-7d02-4e78-84c9-69bd635a9a36",
+      "season": 5,
+      "number": 4,
+      "name": "Nikolaj Stokholm og revy",
+      "airdate": "2017-04-24"
+    },
+    {
+      "id": "480c0f9c-1f62-46e9-af16-0e88a80d09a7",
+      "season": 5,
+      "number": 5,
+      "name": "Sanne Søndergaard og mad",
+      "airdate": "2017-05-01"
+    },
+    {
+      "id": "187cf87b-05c9-4e8f-90b8-ced5e8a0ad65",
+      "season": 5,
+      "number": 6,
+      "name": "Michael Schøt og Politik",
+      "airdate": "2017-05-08"
+    },
+    {
+      "id": "4ff0255e-0a6b-4b74-827d-273e1d473ed8",
+      "season": 5,
+      "number": 7,
+      "name": "Karsten Green og dyr",
+      "airdate": "2017-05-15"
+    },
+    {
+      "id": "9d6b5810-f5f4-4b93-9aa1-3ec78148f158",
+      "season": 5,
+      "number": 8,
+      "name": "Finalen",
+      "airdate": "2017-05-22"
+    }
+  ]
+}

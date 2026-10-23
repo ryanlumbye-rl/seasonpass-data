@@ -1,0 +1,138 @@
+{
+  "id": "tv2play:all-the-sins-tv2play",
+  "name": "All the Sins",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "2a4b602c-3b56-4705-82b2-8a259573e234",
+      "season": 1,
+      "number": 1,
+      "name": "Rødder",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "670beaf2-deef-40b8-b4d8-e98751008784",
+      "season": 1,
+      "number": 2,
+      "name": "Ulykkens budbringer",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "6a2fd7cd-4b19-413c-a751-aaebeff6e17c",
+      "season": 1,
+      "number": 3,
+      "name": "De ydmyges sted",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "cc18703d-051b-462a-806a-7feed2b11f3d",
+      "season": 1,
+      "number": 4,
+      "name": "Farvel",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "fbc600fe-ddc2-49f1-bd32-1d94a35aaf2b",
+      "season": 1,
+      "number": 5,
+      "name": "Intuition",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "b70ea980-b6f4-480b-bc8f-1c48e9aea172",
+      "season": 1,
+      "number": 6,
+      "name": "Falske dommere",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "8e14c13a-937e-42c7-a3a3-c268fb6c835f",
+      "season": 2,
+      "number": 1,
+      "name": "En kvindes grænser",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "ebf3f6f4-71c1-4ce6-8d30-4d7bbfd89001",
+      "season": 2,
+      "number": 2,
+      "name": "Grav to grave",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "9729c1db-bc11-41cd-8281-8853a2beace0",
+      "season": 2,
+      "number": 3,
+      "name": "Kampen mod slangen",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "6712d8ff-262f-45d2-a5ee-67cbcf56c1ac",
+      "season": 2,
+      "number": 4,
+      "name": "Tempelbesudler",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "ed0b09e6-3a5a-4944-aed8-710189f15fa0",
+      "season": 2,
+      "number": 5,
+      "name": "Den sidste olie",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "ece7bafa-5587-4854-a939-c31e0ff22bfe",
+      "season": 2,
+      "number": 6,
+      "name": "Faldet",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "61552981-5267-4ac4-b0e8-7be1c5ff8122",
+      "season": 3,
+      "number": 1,
+      "name": "Tilbage til Varjakka",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "c7a766f9-3d69-4fe4-bd4b-9e9ee78321a3",
+      "season": 3,
+      "number": 2,
+      "name": "Liv og død",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "c1ab9dec-9dae-4e89-a89f-e9b6592554b2",
+      "season": 3,
+      "number": 3,
+      "name": "Guds lam",
+      "airdate": "2023-01-15"
+    },
+    {
+      "id": "49ccab41-f8bc-4436-83dc-d5ae14095458",
+      "season": 3,
+      "number": 4,
+      "name": "Kold hund",
+      "airdate": "2023-01-22"
+    },
+    {
+      "id": "e0a6fc71-31c4-42c8-be60-d1465ab40aec",
+      "season": 3,
+      "number": 5,
+      "name": "Fadermord",
+      "airdate": "2023-01-29"
+    },
+    {
+      "id": "b21f32b0-6523-4246-91e3-f6407fc823bd",
+      "season": 3,
+      "number": 6,
+      "name": "Hvis jeg ikke havde kærlighed",
+      "airdate": "2023-02-05"
+    }
+  ]
+}

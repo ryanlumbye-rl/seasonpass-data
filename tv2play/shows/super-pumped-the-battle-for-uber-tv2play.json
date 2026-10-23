@@ -1,0 +1,61 @@
+{
+  "id": "tv2play:super-pumped-the-battle-for-uber-tv2play",
+  "name": "Super Pumped: The Battle for Uber",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "ebb1bed6-e5b4-41cd-aa20-e6e900accdfe",
+      "season": 1,
+      "number": 1,
+      "name": "Grow or Die",
+      "airdate": "2022-05-12"
+    },
+    {
+      "id": "d45e71ed-2d74-4591-952e-2c80f9f72909",
+      "season": 1,
+      "number": 2,
+      "name": "X to the X",
+      "airdate": "2022-05-12"
+    },
+    {
+      "id": "5f1707a6-7b4d-40ce-998b-500d675da3ba",
+      "season": 1,
+      "number": 3,
+      "name": "War",
+      "airdate": "2022-05-12"
+    },
+    {
+      "id": "e56bbb74-e26d-4b9d-8508-21ef5f767236",
+      "season": 1,
+      "number": 4,
+      "name": "Boober",
+      "airdate": "2022-05-12"
+    },
+    {
+      "id": "d3c6847e-585e-4f3f-8053-d1c5e9edb215",
+      "season": 1,
+      "number": 5,
+      "name": "The Charm Offensive",
+      "airdate": "2022-05-12"
+    },
+    {
+      "id": "18967693-0fe0-4d6d-8b83-5fb2fd864c8b",
+      "season": 1,
+      "number": 6,
+      "name": "Delete Uber",
+      "airdate": "2022-05-12"
+    },
+    {
+      "id": "0c2a9b53-52ec-40ed-8710-b046c87c57e8",
+      "season": 1,
+      "number": 7,
+      "name": "Same Last Name",
+      "airdate": "2022-05-12"
+    }
+  ]
+}

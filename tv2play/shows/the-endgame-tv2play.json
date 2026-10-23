@@ -1,0 +1,82 @@
+{
+  "id": "tv2play:the-endgame-tv2play",
+  "name": "The Endgame",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Den fængslede våbenhandler Elena Federova er hjernen bag en serie nøje planlagte bankrøverier. Val Turner er den principfaste, ubarmhjertige og socialt udstødte FBI-agent, som ikke vil stoppe for noget for at forpurre hendes ambitiøse plan.",
+  "image": "https://cdn-play.tv2i.dk/162ac4ef-142b-3a02-9285-a45b6b4cac83.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "77401f61-036f-49e0-b72b-aaddb7925420",
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "dffc0914-e716-40a6-b3f6-e2f9d98cccfc",
+      "season": 1,
+      "number": 2,
+      "name": "Fairytale Wedding",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "e4e30f7b-7b1d-43bc-a541-cd29a80b54a5",
+      "season": 1,
+      "number": 3,
+      "name": "Bury the Lede",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "e3c272a9-ee2b-4902-8c3c-6463516bd89c",
+      "season": 1,
+      "number": 4,
+      "name": "#1 with a Bullet",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "7ed2debd-8e9b-478c-ae8d-3405058a698c",
+      "season": 1,
+      "number": 5,
+      "name": "Gold Rush",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "6e8f823c-721e-4214-b426-c325294cf09d",
+      "season": 1,
+      "number": 6,
+      "name": "Judge, Jury and Executioner",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "ca7d796b-296d-4ca6-a485-5cab7227e9e9",
+      "season": 1,
+      "number": 7,
+      "name": "Sleepover",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "4f2a9a6e-9401-46f0-94bd-eb11b738de71",
+      "season": 1,
+      "number": 8,
+      "name": "All That Glitters",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "89ad97fe-231d-479a-9b5f-dc58dd2b3d34",
+      "season": 1,
+      "number": 9,
+      "name": "Beauty and the Beast",
+      "airdate": "2026-06-30"
+    },
+    {
+      "id": "7ea3240e-68c9-4f15-9ec7-11c2fbdf92a1",
+      "season": 1,
+      "number": 10,
+      "name": "Happily Ever After",
+      "airdate": "2026-06-30"
+    }
+  ]
+}

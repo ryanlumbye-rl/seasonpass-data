@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:da-pengene-forsvandt-tv2play",
+  "name": "Da pengene forsvandt",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Finanskrisen ændrede Danmark. Banker krakkede, boligmarkedet kollapsede, og tusindvis af danskere mistede penge, tryghed og fremtidsdrømme. Vi ser tilbage på de dramatiske år og stiller spørgsmålet: Kan historien gentage sig?",
+  "image": "https://cdn-play.tv2i.dk/20bb13e7-02fa-39b1-a5db-1fc2237dc9f2.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "97535de8-5eb9-4c4d-92b8-4252ff12e457",
+      "season": 1,
+      "number": 1,
+      "name": "Det første bankkrak",
+      "airdate": "2026-07-12"
+    },
+    {
+      "id": "46b6a59d-7dac-4ba8-b9b6-0ed84ae8b4a4",
+      "season": 1,
+      "number": 2,
+      "name": "Boligboblens kollaps",
+      "airdate": "2026-07-12"
+    },
+    {
+      "id": "0e3b913c-fdf2-4a82-b041-b5c6e2986ddc",
+      "season": 1,
+      "number": 3,
+      "name": "Hvem havde ansvaret?",
+      "airdate": "2026-07-12"
+    }
+  ]
+}

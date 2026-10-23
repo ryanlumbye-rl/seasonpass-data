@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:tv-syd-politik-i-virkeligheden-tvsyd",
+  "name": "Politik i virkeligheden",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Der er langt fra Christiansborg til Syd- og Sønderjylland. Jonatan Dybro tager vores folketingspolitikere ud af deres vante rammer for at møde den virkelighed, de er med til at bestemme over.",
+  "image": "https://cdn-play.tv2i.dk/21bcd7e1-4bef-4bf2-889f-5b934b6a3593.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "d0ce1a08-2979-4fae-a386-1c5597968f66",
+      "season": 1,
+      "number": 1,
+      "name": "Skolemad eller ej?",
+      "airdate": "2025-03-04"
+    },
+    {
+      "id": "d9d3f666-0a38-4986-ad87-2106f158741d",
+      "season": 1,
+      "number": 2,
+      "name": "Køber vi for meget fra Kina?",
+      "airdate": "2025-03-11"
+    },
+    {
+      "id": "1da24ea4-0f46-4062-8a49-05123cfc7ec7",
+      "season": 1,
+      "number": 3,
+      "name": "Er vi klar til krig?",
+      "airdate": "2025-03-18"
+    },
+    {
+      "id": "5749a8a8-bab1-40e5-a26f-4eed8b57288d",
+      "season": 1,
+      "number": 4,
+      "name": "Hvordan skal vi hjælpe stofmisbrugere?",
+      "airdate": "2025-03-25"
+    },
+    {
+      "id": "6b1abda0-3229-47e2-a44a-e6aa0ae5005d",
+      "season": 1,
+      "number": 5,
+      "name": "Drømmen om egen virksomhed?",
+      "airdate": "2025-04-01"
+    },
+    {
+      "id": "9709564d-5c17-4ab3-9721-e68b3123ce1b",
+      "season": 1,
+      "number": 6,
+      "name": "Skal 17-årige køre bil alene?",
+      "airdate": "2025-04-08"
+    },
+    {
+      "id": "64ddfd71-6056-4ce5-9625-f8c1585f8f03",
+      "season": 1,
+      "number": 7,
+      "name": "Herre i eget hus?",
+      "airdate": "2025-04-15"
+    },
+    {
+      "id": "6aa297a3-6f27-4d3a-962e-81d47982248e",
+      "season": 1,
+      "number": 8,
+      "name": "Er det for svært at være landmand?",
+      "airdate": "2025-04-22"
+    }
+  ]
+}

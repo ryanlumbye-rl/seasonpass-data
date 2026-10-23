@@ -1,0 +1,299 @@
+{
+  "id": "tv2play:columbo-skyshowtime",
+  "name": "Columbo",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "episodes": [
+    {
+      "id": "87a60197-3d20-4d20-a6fd-0641c0abb1cc",
+      "season": 1,
+      "number": 1,
+      "name": "Murder by the Book",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "5effeb83-93ae-4608-8f81-e0a2e2fb0198",
+      "season": 1,
+      "number": 2,
+      "name": "Death Lends a Hand",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "414e8e6d-da79-4f19-8920-852e4f9ff240",
+      "season": 1,
+      "number": 3,
+      "name": "Dead Weight",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "dd1ba28a-94e1-4ca7-a155-ef0b7802361f",
+      "season": 1,
+      "number": 4,
+      "name": "Suitable for Framing",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "4a79a09c-187a-462e-b929-74a311e4166d",
+      "season": 1,
+      "number": 5,
+      "name": "Lady in Waiting",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "b044a5f1-0c52-4b36-be85-792c905a567c",
+      "season": 1,
+      "number": 6,
+      "name": "Short Fuse",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "042d41b0-8f4a-4b9a-b75a-45ebc6e0a807",
+      "season": 1,
+      "number": 7,
+      "name": "Blueprint for Murder",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "1a4c9956-90e5-4b38-978c-974338b37c99",
+      "season": 2,
+      "number": 1,
+      "name": "Etude in Black",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "25812e34-5e3c-4515-a5b2-4be7a1e97705",
+      "season": 2,
+      "number": 2,
+      "name": "The Greenhouse Jungle",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "84e2697b-7a6d-40dd-b45f-1a23f01b6e47",
+      "season": 2,
+      "number": 3,
+      "name": "The Most Crucial Game",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "963c526e-b45a-4b35-b676-08389dc356b8",
+      "season": 2,
+      "number": 4,
+      "name": "Dagger of the Mind",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "fb53fc44-9940-4775-bd2c-4fe74b3eda1b",
+      "season": 2,
+      "number": 5,
+      "name": "Requiem for a Falling Star",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "e8c51d86-a6aa-412e-89b1-0ea804869770",
+      "season": 2,
+      "number": 7,
+      "name": "The Most Dangerous Match",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "5ba5de91-04ef-463f-99ed-eeca8251682f",
+      "season": 2,
+      "number": 8,
+      "name": "Double Shock",
+      "airdate": "2023-09-01"
+    },
+    {
+      "id": "a1c6103e-3b8f-4f0d-aa5b-6f5e1989c69c",
+      "season": 3,
+      "number": 1,
+      "name": "Lovely But Lethal",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "fbd1c15d-d8ab-4af0-a4af-a9fa942204ed",
+      "season": 3,
+      "number": 2,
+      "name": "Any Old Port in a Storm",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "f9cc3ddf-bb98-4efb-a5ea-bcaa7b498724",
+      "season": 3,
+      "number": 3,
+      "name": "Candidate For Crime",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "e1ab1ee9-2dd9-4cfc-a1b0-b9c231478785",
+      "season": 3,
+      "number": 4,
+      "name": "Double Exposure",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "12e8a553-3d96-4cc2-b369-55da9990197d",
+      "season": 3,
+      "number": 5,
+      "name": "Publish Or Perish",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "8f4728de-0f67-4e81-9b20-40ec271cee67",
+      "season": 3,
+      "number": 6,
+      "name": "Mind Over Mayhem",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "a77add36-b7b1-4de3-8639-9249f8960726",
+      "season": 3,
+      "number": 7,
+      "name": "Swan Song",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "60e369c4-3f71-4063-97fa-b0b9a94f5a65",
+      "season": 3,
+      "number": 8,
+      "name": "A Friend in Deed",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "30146438-0dea-48ac-8332-0d6a9a85e2df",
+      "season": 4,
+      "number": 1,
+      "name": "An Exercise in Fatality",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "202b44ed-80eb-4ca1-9917-f6204d398e88",
+      "season": 4,
+      "number": 2,
+      "name": "Negative Reaction",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "dcd83548-c294-4b0c-88e7-cadf4f901a10",
+      "season": 4,
+      "number": 3,
+      "name": "By Dawn's Early Light",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "39980216-70b6-4639-b4ea-f36f63ff167c",
+      "season": 4,
+      "number": 4,
+      "name": "Troubled Waters",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "18c86755-8f4d-4148-8cd5-4ef599870716",
+      "season": 4,
+      "number": 5,
+      "name": "Playback",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "32425c25-3fee-4a16-a3c8-6537500dbf20",
+      "season": 4,
+      "number": 6,
+      "name": "A Deadly State of Mind",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "cd3092e9-512c-45de-81a7-bfd2083c9a74",
+      "season": 5,
+      "number": 1,
+      "name": "Forgotten Lady",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "f53db761-ded0-452c-b7ca-092dbf79b952",
+      "season": 5,
+      "number": 2,
+      "name": "A Case of Immunity",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "b635db09-5e28-4632-915c-1f52a10dbae1",
+      "season": 5,
+      "number": 3,
+      "name": "Identity Crisis",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "2f5a9203-f333-47b9-90be-c0b1ee8256fe",
+      "season": 5,
+      "number": 4,
+      "name": "A Matter of Honor",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "1ae8e4d6-cd97-4eaf-bc8c-f9ec08b7ebc0",
+      "season": 5,
+      "number": 5,
+      "name": "Now You See Him",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "deccd440-fba1-4b42-a51d-37f70c51a2cb",
+      "season": 5,
+      "number": 6,
+      "name": "Last Salute to the Commodore",
+      "airdate": "2023-12-08"
+    },
+    {
+      "id": "ded8335d-0671-4250-9a64-9fb781de2729",
+      "season": 6,
+      "number": 1,
+      "name": "Luk op for mord",
+      "airdate": "2025-06-24"
+    },
+    {
+      "id": "a7f87b37-434a-476b-9010-a85c1a752b2c",
+      "season": 6,
+      "number": 2,
+      "name": "En gammeldags forbryder",
+      "airdate": "2025-06-24"
+    },
+    {
+      "id": "bd2f2d90-cf28-4a72-868f-34b0bedce624",
+      "season": 6,
+      "number": 4,
+      "name": "Fang mig, hvis du kan",
+      "airdate": "2025-06-24"
+    },
+    {
+      "id": "73682cca-0489-4666-b4ba-ceccfff8a548",
+      "season": 7,
+      "number": 1,
+      "name": "Murder Under Glass",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "a63dc7f7-c194-49c5-bb12-96b91a498746",
+      "season": 7,
+      "number": 2,
+      "name": "Make Me A Perfect Murder",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "31e47d12-eb5c-4fcf-ba69-c8377b5136f9",
+      "season": 7,
+      "number": 3,
+      "name": "How To Dial A Murder",
+      "airdate": "2026-09-16"
+    },
+    {
+      "id": "d3f6f1fd-4957-4f1c-9b7b-c168320cb09e",
+      "season": 7,
+      "number": 4,
+      "name": "The Conspirators",
+      "airdate": "2026-09-16"
+    }
+  ],
+  "description": "Den ydmyge og elskværdige Los Angeles-drabsdetektiv Columbo bruger en ukonventionel og ligetil tilgang til at løse de mest forbløffende mord.",
+  "image": "https://cdn-play.tv2i.dk/742ae260-cf04-4090-bcd1-a11e02d9bfe1.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280"
+}

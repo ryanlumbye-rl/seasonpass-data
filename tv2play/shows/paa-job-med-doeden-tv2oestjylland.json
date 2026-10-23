@@ -7,11 +7,34 @@
   "next": null,
   "episodes": [
     {
+      "id": "9b498e9a-2434-4bf5-85c4-a585226834f9",
+      "season": 1,
+      "number": 1,
+      "name": "Niels' kølerum er fuld af lig",
+      "airdate": "2024-04-01"
+    },
+    {
       "id": "a5df10ae-fe5d-4a18-88fb-a522769033ac",
       "season": 1,
       "number": 2,
       "name": "Sebastian brænder de døde",
       "airdate": "2024-04-01"
+    },
+    {
+      "id": "5851346f-c279-40d6-a0c9-c4a77caa0458",
+      "season": 1,
+      "number": 3,
+      "name": "Peter har døden på bagsædet",
+      "airdate": "2024-04-08"
+    },
+    {
+      "id": "22c3fe5b-295a-41bb-ad84-c84bc8a0bf7d",
+      "season": 1,
+      "number": 4,
+      "name": "Toves sidste ønske",
+      "airdate": "2024-04-15"
     }
-  ]
+  ],
+  "description": "Kom med helt tæt på døden, når krematøren, kapelbetjenten, bedemanden og hospicesygeplejersken viser dagligdagen frem i en verden langt fra det normale. Her skal være plads til både sorg og godt humør, når hverdagen skal køre samtidig med, at man ser døden i øjnene.",
+  "image": "https://cdn-play.tv2i.dk/5a880cf6-3f61-43b6-92cd-967d81d9a148.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
 }

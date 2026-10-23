@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:amsterdam-narcos-skyshowtime",
+  "name": "Amsterdam Narcos",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Serien skildrer, hvordan Amsterdam fra 80'erne till 00'erne blev grobund for ulovlige stoffer – fra marihuana til ecstasy og kokain. Med tulipanmarker, bordeller og klubber som kulisse følger vi, hvordan byen blev centrum for en ny globaliseret og dybt kriminel narkoindustri.",
+  "image": "https://cdn-play.tv2i.dk/e995c3e4-7f35-4794-937a-febfee2ea397.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "080c3502-1878-4f15-a28e-518d6fc2fb5d",
+      "season": 1,
+      "number": 1,
+      "name": "Afsnit 1",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "974343d5-8514-4ecb-bd38-7da77fb08b25",
+      "season": 1,
+      "number": 2,
+      "name": "Afsnit 2",
+      "airdate": "2025-11-09"
+    },
+    {
+      "id": "bd4c84cd-e61c-45aa-ace2-b861e8bf58a6",
+      "season": 1,
+      "number": 3,
+      "name": "Afsnit 3",
+      "airdate": "2025-11-09"
+    }
+  ]
+}

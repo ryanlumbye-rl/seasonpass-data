@@ -1,0 +1,47 @@
+{
+  "id": "tv2play:for-dyrenes-skyld-tv2oest",
+  "name": "For dyrenes skyld",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Hver dag arbejder frivillige i Dyrenes Beskyttelse for at hjælpe dyr i nød.",
+  "image": "https://cdn-play.tv2i.dk/ea43ffaf-98cf-485e-9d9d-e40379e2e4f0.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "91a4892a-5ea7-4fe9-afb2-4ad96e905167",
+      "season": 1,
+      "number": 1,
+      "name": "Hundehvalpe i kælderen",
+      "airdate": "2025-09-09"
+    },
+    {
+      "id": "0f4d87dc-7d03-4967-8397-6449d4342172",
+      "season": 1,
+      "number": 2,
+      "name": "Vilde dyr i nød",
+      "airdate": "2025-09-16"
+    },
+    {
+      "id": "3b2d3209-615e-4bce-b6cf-976d6ccf2fde",
+      "season": 1,
+      "number": 3,
+      "name": "Livløst rålam",
+      "airdate": "2025-09-23"
+    },
+    {
+      "id": "086becdb-2013-43f2-afe3-d07e632de5fd",
+      "season": 1,
+      "number": 4,
+      "name": "Dyrlægen kommer",
+      "airdate": "2025-09-30"
+    },
+    {
+      "id": "c431b90b-9a8e-48ce-81f6-74f077313aab",
+      "season": 1,
+      "number": 5,
+      "name": "Moderløs mågeunge",
+      "airdate": "2025-10-07"
+    }
+  ]
+}

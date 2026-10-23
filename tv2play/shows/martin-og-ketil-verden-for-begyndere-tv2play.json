@@ -1,0 +1,495 @@
+{
+  "id": "tv2play:martin-og-ketil-verden-for-begyndere-tv2play",
+  "name": "Martin og Ketil - verden for begyndere",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fra deres rumskib 'Zulu' bliver Martin og Ketil skiftevis beamet ned på Jorden for at fortælle børnene om alt, hvad der er vigtigt at vide noget om, når man nu er helt ny i verden",
+  "image": "https://cdn-play.tv2i.dk/f75153da-b3f6-401d-84ee-e9caeec2b689.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "ed015e59-b283-44e1-8879-eb532191543e",
+      "season": 1,
+      "number": 1,
+      "name": "Storebælt",
+      "airdate": "2004-08-30"
+    },
+    {
+      "id": "d4ff031e-3eb9-4df9-bf08-2aa417b218a2",
+      "season": 1,
+      "number": 2,
+      "name": "Mølle",
+      "airdate": "2004-08-31"
+    },
+    {
+      "id": "21675185-399b-495c-a68d-68515f326b48",
+      "season": 1,
+      "number": 3,
+      "name": "Bilskrot",
+      "airdate": "2004-09-01"
+    },
+    {
+      "id": "134333ac-87b3-4300-b9dc-42aef8133e1a",
+      "season": 1,
+      "number": 4,
+      "name": "Hvepseedderkop",
+      "airdate": "2004-09-02"
+    },
+    {
+      "id": "87a33805-b31d-429e-81f4-389fdb0936cc",
+      "season": 1,
+      "number": 5,
+      "name": "Citron og masker",
+      "airdate": "2004-09-03"
+    },
+    {
+      "id": "557ae209-1f87-4528-a383-bbedad1fc422",
+      "season": 1,
+      "number": 6,
+      "name": "Korsedderkop",
+      "airdate": "2004-09-06"
+    },
+    {
+      "id": "6bf89816-4535-458e-9745-2b5c0b00e8ab",
+      "season": 1,
+      "number": 7,
+      "name": "Stenknuser",
+      "airdate": "2004-09-07"
+    },
+    {
+      "id": "029e941c-91ac-48ae-a761-53ecd8eb4dfc",
+      "season": 1,
+      "number": 8,
+      "name": "Fugleedderkop",
+      "airdate": "2004-09-07"
+    },
+    {
+      "id": "2d806800-8900-49e9-8059-f303b2016a36",
+      "season": 1,
+      "number": 9,
+      "name": "Slagteri",
+      "airdate": "2004-09-09"
+    },
+    {
+      "id": "c919ee57-81d7-4d8c-8071-06b147bfa99a",
+      "season": 1,
+      "number": 10,
+      "name": "Tjener",
+      "airdate": "2004-09-10"
+    },
+    {
+      "id": "ff4d720b-7413-4ee5-ba6b-c4f3053cf0d4",
+      "season": 1,
+      "number": 11,
+      "name": "Kogekone",
+      "airdate": "2004-08-30"
+    },
+    {
+      "id": "a82655a7-253f-466f-88bc-e9139c578ecc",
+      "season": 1,
+      "number": 12,
+      "name": "Pakkepost",
+      "airdate": "2004-08-31"
+    },
+    {
+      "id": "079cc2cc-b71c-4e26-b193-41ed4781d267",
+      "season": 1,
+      "number": 13,
+      "name": "Frokostborgen",
+      "airdate": "2004-09-01"
+    },
+    {
+      "id": "62e872b9-1d6a-4784-9374-b51a7d92a7c3",
+      "season": 1,
+      "number": 14,
+      "name": "Legetøj",
+      "airdate": "2004-09-02"
+    },
+    {
+      "id": "235720d2-e5d8-4098-aca1-eb99b937900d",
+      "season": 1,
+      "number": 15,
+      "name": "Amager forbrænding",
+      "airdate": "2004-09-17"
+    },
+    {
+      "id": "2c74bbbc-78c5-42d3-8a44-11dc59f83cc2",
+      "season": 1,
+      "number": 16,
+      "name": "Kompost",
+      "airdate": "2004-09-06"
+    },
+    {
+      "id": "3b5aef1e-6a0e-4ca2-ab55-d1dc57835401",
+      "season": 1,
+      "number": 17,
+      "name": "Afstraffelse i middelalderen",
+      "airdate": "2004-09-21"
+    },
+    {
+      "id": "09b1ab17-336c-4137-872f-23a1aa2cd62b",
+      "season": 1,
+      "number": 18,
+      "name": "Dykkerskolen",
+      "airdate": "2004-09-08"
+    },
+    {
+      "id": "b18ba240-86fc-4580-bb7b-40a33e365179",
+      "season": 1,
+      "number": 19,
+      "name": "Rovfugl",
+      "airdate": "2004-09-23"
+    },
+    {
+      "id": "2a3026b2-ba22-4d0b-9703-e150188f4800",
+      "season": 1,
+      "number": 20,
+      "name": "Storskrald",
+      "airdate": "2004-09-10"
+    },
+    {
+      "id": "e4aa4ed3-d01c-41ff-9deb-e9fa1fe3c372",
+      "season": 1,
+      "number": 21,
+      "name": "Vitaminpiller",
+      "airdate": "2004-09-13"
+    },
+    {
+      "id": "e8f0e7d4-eacf-4fa6-b902-f6b35db997a7",
+      "season": 1,
+      "number": 22,
+      "name": "Hofnar",
+      "airdate": "2004-09-14"
+    },
+    {
+      "id": "aa155180-96f7-4196-9dd1-3ef259b4e6e8",
+      "season": 1,
+      "number": 23,
+      "name": "Solsystem",
+      "airdate": "2004-09-15"
+    },
+    {
+      "id": "7afdcfa1-24b6-425e-8219-cc9455d239a7",
+      "season": 1,
+      "number": 24,
+      "name": "Øko-ko",
+      "airdate": "2004-09-16"
+    },
+    {
+      "id": "279feced-2bcd-48b7-b6aa-f7583435105a",
+      "season": 1,
+      "number": 25,
+      "name": "Fiskefrikadeller",
+      "airdate": "2004-09-17"
+    },
+    {
+      "id": "1da1d3c5-459e-42f7-aca5-8aaddcf76271",
+      "season": 1,
+      "number": 26,
+      "name": "Brugsen i gamle dage",
+      "airdate": "2004-09-20"
+    },
+    {
+      "id": "763ad7b0-1286-4c2a-ba65-7381bf17dcc2",
+      "season": 1,
+      "number": 27,
+      "name": "Oskar",
+      "airdate": "2004-09-29"
+    },
+    {
+      "id": "6e0fd707-f120-4351-91ec-0de0b968aea6",
+      "season": 1,
+      "number": 28,
+      "name": "Coop-lager",
+      "airdate": "2004-09-21"
+    },
+    {
+      "id": "5ef99eb1-f455-4721-8e80-cdcfa3c3828c",
+      "season": 1,
+      "number": 29,
+      "name": "Metro-kontrolrum",
+      "airdate": "2004-09-23"
+    },
+    {
+      "id": "688b69d8-3e75-489e-a0a0-3debceb6c8a2",
+      "season": 1,
+      "number": 30,
+      "name": "Ridderturnering",
+      "airdate": "2004-09-24"
+    },
+    {
+      "id": "27c805a0-b40f-410a-8bf9-4007e1fe229d",
+      "season": 1,
+      "number": 31,
+      "name": "Strynøfærgen",
+      "airdate": "2004-10-11"
+    },
+    {
+      "id": "9db6b785-d44e-41df-b11e-fc21b371eabf",
+      "season": 1,
+      "number": 32,
+      "name": "Zulu rocks",
+      "airdate": "2004-10-12"
+    },
+    {
+      "id": "c4781d16-1818-46dc-99e4-b39ec042921e",
+      "season": 1,
+      "number": 33,
+      "name": "Smike",
+      "airdate": "2004-10-13"
+    },
+    {
+      "id": "6d7f6110-1f60-445b-b920-2119c05648bb",
+      "season": 1,
+      "number": 34,
+      "name": "Elefanten Ida",
+      "airdate": "2004-10-14"
+    },
+    {
+      "id": "000af76b-b601-43ce-880a-46fb75e179ad",
+      "season": 1,
+      "number": 35,
+      "name": "Avedøre spildevand",
+      "airdate": "2004-10-15"
+    },
+    {
+      "id": "ebec6e1b-73b6-4a6e-b627-ca2fd6c59cf1",
+      "season": 1,
+      "number": 36,
+      "name": "Bueskydning",
+      "airdate": "2004-10-18"
+    },
+    {
+      "id": "6d7800e5-e351-4b3a-91ca-8fe13000eab9",
+      "season": 1,
+      "number": 37,
+      "name": "Smed i middelalderen",
+      "airdate": "2004-10-20"
+    },
+    {
+      "id": "ea0a56e2-7640-45d8-ad20-3dca2a8e59ab",
+      "season": 1,
+      "number": 38,
+      "name": "Prinsessekjole",
+      "airdate": "2004-10-18"
+    },
+    {
+      "id": "b2314bc9-8950-4540-940b-18b12826a0ba",
+      "season": 1,
+      "number": 39,
+      "name": "Hantigeren Aberkhan",
+      "airdate": "2004-10-22"
+    },
+    {
+      "id": "a48ab758-2b89-4093-86e8-5bb7de246633",
+      "season": 1,
+      "number": 40,
+      "name": "Gamle dage",
+      "airdate": "2004-10-11"
+    },
+    {
+      "id": "77a92897-9526-43c9-adcf-d8959f84dc0b",
+      "season": 1,
+      "number": 41,
+      "name": "H.C. Andersen",
+      "airdate": "2004-10-12"
+    },
+    {
+      "id": "6363e0a3-02aa-4345-80ce-ba9c7aea7e0d",
+      "season": 1,
+      "number": 42,
+      "name": "Ild",
+      "airdate": "2004-10-13"
+    },
+    {
+      "id": "03899bdf-d09d-4a1d-b6d8-a4b3fd0df7c0",
+      "season": 1,
+      "number": 43,
+      "name": "Valg",
+      "airdate": "2004-10-28"
+    },
+    {
+      "id": "2f526c3b-b481-4045-ab23-fe1ab2a9c986",
+      "season": 1,
+      "number": 44,
+      "name": "Flint",
+      "airdate": "2004-10-15"
+    },
+    {
+      "id": "2613c129-f43a-4347-8aae-e16ea092d452",
+      "season": 1,
+      "number": 45,
+      "name": "Øko-gris",
+      "airdate": "2004-10-26"
+    },
+    {
+      "id": "3cf06c31-c3a7-45fa-8a0b-5219c753d770",
+      "season": 1,
+      "number": 46,
+      "name": "Demokrati med Svend Auken",
+      "airdate": "2004-11-01"
+    },
+    {
+      "id": "dc52309b-743d-4cee-ae6b-f15cd2ef2465",
+      "season": 1,
+      "number": 47,
+      "name": "Snakkecenter",
+      "airdate": "2004-10-25"
+    },
+    {
+      "id": "766c5c98-8ca6-452e-a8b5-3e608780f7e8",
+      "season": 1,
+      "number": 48,
+      "name": "Piger på et slot",
+      "airdate": "2004-10-28"
+    },
+    {
+      "id": "0e35c97a-21dc-4190-a952-fc6baded4fb6",
+      "season": 1,
+      "number": 49,
+      "name": "Metro-service",
+      "airdate": "2004-10-29"
+    },
+    {
+      "id": "a58d0597-8e83-4ff4-9b89-631ce23b80c3",
+      "season": 1,
+      "number": 50,
+      "name": "Rejefisker",
+      "airdate": "2004-11-09"
+    },
+    {
+      "id": "cbc9ead2-0827-47b8-8deb-b7d6c6e8c061",
+      "season": 1,
+      "number": 51,
+      "name": "Kattemurerne",
+      "airdate": "2004-11-10"
+    },
+    {
+      "id": "e256afa3-801f-469f-afa1-5037f686485f",
+      "season": 1,
+      "number": 52,
+      "name": "Folketingets bibliotek",
+      "airdate": "2004-11-11"
+    },
+    {
+      "id": "8f62e29d-ea63-43cf-8110-32d550c8e1f9",
+      "season": 1,
+      "number": 53,
+      "name": "Elefantridning",
+      "airdate": "2004-11-12"
+    },
+    {
+      "id": "4658ce0d-cb86-4f7f-87a4-f117f8adf381",
+      "season": 1,
+      "number": 54,
+      "name": "VM-huset",
+      "airdate": "2004-11-15"
+    },
+    {
+      "id": "917f3b26-d299-49b1-90e8-ad5450975eae",
+      "season": 1,
+      "number": 55,
+      "name": "På besøg hos UNICEF",
+      "airdate": "2004-11-16"
+    },
+    {
+      "id": "9716b106-dbba-4af4-b783-b5e2f8f31472",
+      "season": 1,
+      "number": 56,
+      "name": "Skibssætning",
+      "airdate": "2004-11-17"
+    },
+    {
+      "id": "58d44c17-8782-4e37-8573-d162dd93d1e2",
+      "season": 1,
+      "number": 57,
+      "name": "Næsehorn",
+      "airdate": "2004-11-18"
+    },
+    {
+      "id": "7fbf4165-d974-4f00-9248-06194f49880f",
+      "season": 1,
+      "number": 58,
+      "name": "På ski",
+      "airdate": "2004-11-19"
+    },
+    {
+      "id": "d3675611-85c3-4bb5-9c6d-5af850d8ead4",
+      "season": 1,
+      "number": 59,
+      "name": "Kattegatcentret",
+      "airdate": "2004-11-18"
+    },
+    {
+      "id": "db844147-f997-40cb-93b6-fe787c61057c",
+      "season": 1,
+      "number": 60,
+      "name": "En blide fra middelalderen",
+      "airdate": "2004-11-09"
+    },
+    {
+      "id": "30b685d8-c9e6-4f38-81a3-71366a3c2eba",
+      "season": 1,
+      "number": 61,
+      "name": "Ørestad byplanlægning",
+      "airdate": "2004-11-10"
+    },
+    {
+      "id": "bb3100de-835c-46b2-8a24-027dd3f474fd",
+      "season": 1,
+      "number": 62,
+      "name": "To drenge fisker",
+      "airdate": "2004-11-11"
+    },
+    {
+      "id": "ce7242f6-541a-4943-b943-ff525676ffd5",
+      "season": 1,
+      "number": 63,
+      "name": "PADI Seal Team",
+      "airdate": "2004-11-12"
+    },
+    {
+      "id": "84156062-94ad-4617-af2c-5655bf0001a7",
+      "season": 1,
+      "number": 64,
+      "name": "Hest",
+      "airdate": "2004-11-15"
+    },
+    {
+      "id": "e58c81c4-152a-4a3c-80e9-a82665e739ac",
+      "season": 1,
+      "number": 65,
+      "name": "Kreaturfærge",
+      "airdate": "2004-11-16"
+    },
+    {
+      "id": "9060a96a-9357-4246-9c03-f575d429272a",
+      "season": 1,
+      "number": 66,
+      "name": "Drillenissen",
+      "airdate": "2004-12-01"
+    },
+    {
+      "id": "4db0b38f-9c14-4b67-bb81-571704e55143",
+      "season": 1,
+      "number": 67,
+      "name": "Oskar og Josefine",
+      "airdate": "2004-12-02"
+    },
+    {
+      "id": "1c753a6d-432a-487d-a1cf-3c39ead550c7",
+      "season": 1,
+      "number": 68,
+      "name": "Øko-kalv",
+      "airdate": "2004-11-22"
+    },
+    {
+      "id": "8eb6e81d-ce2e-4f20-bc7d-328915f7f294",
+      "season": 1,
+      "number": 69,
+      "name": "Unicef-lager",
+      "airdate": "2004-11-19"
+    }
+  ]
+}

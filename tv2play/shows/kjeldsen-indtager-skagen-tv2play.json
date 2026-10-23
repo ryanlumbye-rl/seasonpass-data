@@ -5,7 +5,44 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Han er kendt som Kvotekongen. Følg Skagen-fiskeren Henning Kjeldsen, der blev Danmarks rigeste fisker, gennem retssager, milliardforretninger og realiseringen af drømmeprojektet Maskinrummet - et spektakulært motormuseum og oplevelsescenter på havnefronten i Skagen.",
+  "image": "https://cdn-play.tv2i.dk/c35a2c7e-b1f9-3648-9cb6-955ed6e82243.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2159&w=1280",
   "episodes": [
+    {
+      "id": "60a6020d-1073-4b18-932d-9baf425fffdb",
+      "season": 1,
+      "number": 1,
+      "name": "Store planer",
+      "airdate": "2024-11-17"
+    },
+    {
+      "id": "9588e266-1b24-40b0-b1f1-fcbec4c1f157",
+      "season": 1,
+      "number": 2,
+      "name": "Dømt i Byretten",
+      "airdate": "2024-11-24"
+    },
+    {
+      "id": "06dd65e6-64b9-4c98-b84d-c2f8d1406c21",
+      "season": 1,
+      "number": 3,
+      "name": "Fra fisker til turisme",
+      "airdate": "2024-11-27"
+    },
+    {
+      "id": "c02c1c8a-b3a1-45bf-9d6d-ea37ab59dd6f",
+      "season": 2,
+      "number": 1,
+      "name": "Vintage Vuitton",
+      "airdate": "2026-02-01"
+    },
+    {
+      "id": "8eb10480-6444-47b5-9697-b1742e42c42c",
+      "season": 2,
+      "number": 2,
+      "name": "Milliardæren med skruemaskinen",
+      "airdate": "2026-02-08"
+    },
     {
       "id": "9956048d-8f09-4a25-b79a-e7ee345a1c76",
       "season": 3,

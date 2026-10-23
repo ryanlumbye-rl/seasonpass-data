@@ -1,0 +1,75 @@
+{
+  "id": "tv2play:a-friend-of-the-family-tv2play",
+  "name": "A Friend of the Family",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": null,
+  "episodes": [
+    {
+      "id": "3ebc9ef2-f587-4f6d-8fca-d33a3a4f131e",
+      "season": 1,
+      "number": 1,
+      "name": "Horseback Riding in American Falls",
+      "airdate": "2022-11-04"
+    },
+    {
+      "id": "39665e43-1aaa-4a3c-b38f-22c861148add",
+      "season": 1,
+      "number": 2,
+      "name": "The Mission",
+      "airdate": "2022-11-04"
+    },
+    {
+      "id": "fd99ec2b-0612-4f5f-b5eb-8e5633ca6d08",
+      "season": 1,
+      "number": 3,
+      "name": "The Gift of Tongues",
+      "airdate": "2022-11-04"
+    },
+    {
+      "id": "97566ae3-62bc-4b58-aefd-52c7540b5f88",
+      "season": 1,
+      "number": 4,
+      "name": "Articles of Faith",
+      "airdate": "2022-11-11"
+    },
+    {
+      "id": "93bf0ae0-a9ff-4bc3-8531-b4f3abc20cb0",
+      "season": 1,
+      "number": 5,
+      "name": "The Bitter Cup",
+      "airdate": "2022-11-18"
+    },
+    {
+      "id": "f44b8190-f994-4504-acbd-e31623439bb7",
+      "season": 1,
+      "number": 6,
+      "name": "Son of Perdition",
+      "airdate": "2022-11-25"
+    },
+    {
+      "id": "8a3233e5-2ea8-425e-9b4a-77699e42ec58",
+      "season": 1,
+      "number": 7,
+      "name": "The Great Deceiver",
+      "airdate": "2022-12-02"
+    },
+    {
+      "id": "8637af11-013b-49e5-a655-dc74aeb5968a",
+      "season": 1,
+      "number": 8,
+      "name": "Outer Darkness",
+      "airdate": "2022-12-09"
+    },
+    {
+      "id": "bb797868-cebc-4ca2-affc-e39d6208c06c",
+      "season": 1,
+      "number": 9,
+      "name": "Revelation",
+      "airdate": "2022-12-16"
+    }
+  ]
+}

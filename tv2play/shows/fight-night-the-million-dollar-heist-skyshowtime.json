@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:fight-night-the-million-dollar-heist-skyshowtime",
+  "name": "Fight Night: The Million Dollar Heist",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Historien om, hvordan et væbnet røveri til en efterfest i kølvandet på Muhammad Alis historiske comeback-kamp mod Jerry Quarry i 1970 forvandlede Atlanta til \"det sorte mekka\".",
+  "image": "https://cdn-play.tv2i.dk/ccae7e3d-0e9f-43cc-bd27-27cb98366d8b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "797c7a21-e077-4f5d-b926-94dca13123b3",
+      "season": 1,
+      "number": 1,
+      "name": "Round One: The Ballad of Chicken Man",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "2359a849-2d1d-49a1-ac93-eb6058e6d59c",
+      "season": 1,
+      "number": 2,
+      "name": "Round Two: Fight Night",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "2bc34019-88e7-460f-a89e-4412a50828f8",
+      "season": 1,
+      "number": 3,
+      "name": "Round Three: Black Vegas",
+      "airdate": "2024-12-02"
+    },
+    {
+      "id": "4ed45e22-adae-461b-ae2b-8b01ba18ce0e",
+      "season": 1,
+      "number": 4,
+      "name": "Round Four: Real Policework",
+      "airdate": "2024-12-09"
+    },
+    {
+      "id": "f6a4a3bf-630d-48b6-a3d5-09804ffd9920",
+      "season": 1,
+      "number": 5,
+      "name": "Round Five: Ambition Ain’t Free",
+      "airdate": "2024-12-16"
+    },
+    {
+      "id": "1f318285-2215-4ae9-960c-74e7f5e6eca5",
+      "season": 1,
+      "number": 6,
+      "name": "Round Six: Community Men",
+      "airdate": "2024-12-23"
+    },
+    {
+      "id": "6fb4626b-9a4b-4f71-aedb-6e5920cbb027",
+      "season": 1,
+      "number": 7,
+      "name": "Round Seven: Jekyll Island",
+      "airdate": "2024-12-30"
+    },
+    {
+      "id": "6566e830-7283-401a-bd82-07b8d023331d",
+      "season": 1,
+      "number": 8,
+      "name": "Round Eight: Testify",
+      "airdate": "2025-01-06"
+    }
+  ]
+}

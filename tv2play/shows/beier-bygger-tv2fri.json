@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:beier-bygger-tv2fri",
+  "name": "Beier bygger",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Lene Beier og hendes mand, Anders, har givet hinanden en kæmpe udfordring. De vil forvandle et gammel parcelhus fra 1970'erne til hele familiens drømmehus.",
+  "image": "https://cdn-play.tv2i.dk/dee39ac2-1662-404c-a176-a2628bac8948.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C232%2C2400%2C1350&w=1280",
+  "episodes": [
+    {
+      "id": "651a5e37-8ac1-4fcc-af40-8b4d87f9173c",
+      "season": 1,
+      "number": 1,
+      "name": "Parcelhus med potentiale",
+      "airdate": "2017-05-22"
+    },
+    {
+      "id": "b58c017f-f441-4ab8-adbf-7df645823ded",
+      "season": 1,
+      "number": 2,
+      "name": "Byggestøv og betonfeber",
+      "airdate": "2017-05-29"
+    },
+    {
+      "id": "f6cfff44-53b5-4f38-8567-d5c322531fe8",
+      "season": 1,
+      "number": 3,
+      "name": "Rå realiteter i råhuset",
+      "airdate": "2017-06-05"
+    },
+    {
+      "id": "14afa724-3d25-4793-a904-e7233c03ebe5",
+      "season": 1,
+      "number": 4,
+      "name": "Fliser, farver og finish",
+      "airdate": "2017-06-19"
+    }
+  ]
+}

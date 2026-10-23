@@ -1,0 +1,376 @@
+{
+  "id": "tv2play:dora-skyshowtime",
+  "name": "Dora",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg Dora, verdens bedste børneopdagelsesrejsende, Boots og resten af deres venner, når de påtager sig større udfordringer end nogensinde før, overvinder forhindringer og hjælper deres venner.",
+  "image": "https://cdn-play.tv2i.dk/648c55a2-f28f-477d-810a-be8daf36dc79.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "0748b634-a970-495e-b394-5b497be46842",
+      "season": 1,
+      "number": 1,
+      "name": "Vågn op, Store Røde Kylling",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "6eac0386-0a89-4261-8b39-f800aa970dec",
+      "season": 1,
+      "number": 2,
+      "name": "Regnskovs-rytme",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "6c6c1c75-9734-4bf6-a572-498469390e7b",
+      "season": 1,
+      "number": 3,
+      "name": "Kagedag i kage",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "ff1a77b9-2746-4b18-a4f6-91b56ba4bf12",
+      "season": 1,
+      "number": 4,
+      "name": "Årsdagseventyret",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "be0c3bab-6bf5-4747-a9f7-4ed1df0b7cb5",
+      "season": 1,
+      "number": 5,
+      "name": "Regnbuens forsvundne farver",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "327edcd0-82b9-4796-91ba-a2822cb012a6",
+      "season": 1,
+      "number": 6,
+      "name": "Vilde krokodiller",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "368bd2c5-f332-49dd-8299-76b9dec8b0eb",
+      "season": 1,
+      "number": 7,
+      "name": "Stop bolden!",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "cf446780-0908-487e-9fb2-3fe402973442",
+      "season": 1,
+      "number": 8,
+      "name": "Find Sprintegøjen",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "44b81207-a7fc-49c1-b572-2a406bfd484a",
+      "season": 1,
+      "number": 9,
+      "name": "Den magiske danser",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "649bf029-218d-4513-aa84-6ebff55dc747",
+      "season": 1,
+      "number": 10,
+      "name": "Alebrije-eventyret",
+      "airdate": "2024-07-27"
+    },
+    {
+      "id": "922414db-873d-4093-98cd-77595286d956",
+      "season": 1,
+      "number": 11,
+      "name": "En guayabera til Tico",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "03c22d2a-3397-4991-8aaf-35df38dd3df1",
+      "season": 1,
+      "number": 12,
+      "name": "Krebse-Boots",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "ae9cb54f-9c58-457d-a0f7-e72eb403d67d",
+      "season": 1,
+      "number": 13,
+      "name": "Den skæve ønskestav",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "cccf8289-4878-4bf0-9367-a0894f92a0da",
+      "season": 2,
+      "number": 1,
+      "name": "Store, store Boots",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "2efc01cd-6363-4c18-bc46-1479a020714b",
+      "season": 2,
+      "number": 2,
+      "name": "En piñata til Mami",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "7c30205d-cab8-4921-8538-96957b23a61f",
+      "season": 2,
+      "number": 3,
+      "name": "Isas kongelige havefest",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "68141bd4-01e1-4cf9-b77f-0ad76bad3938",
+      "season": 2,
+      "number": 4,
+      "name": "Gulvet er guava",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "73a52d69-7af6-4a55-8775-43ae65aa4360",
+      "season": 2,
+      "number": 5,
+      "name": "Krabbebryllup",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "6b788fc2-17ad-4ab2-bbb8-67cad53dcb7c",
+      "season": 2,
+      "number": 6,
+      "name": "Ranitas magiske striber",
+      "airdate": "2025-01-03"
+    },
+    {
+      "id": "ece6433c-f198-4f8d-98e4-9a34c33e6ace",
+      "season": 2,
+      "number": 7,
+      "name": "Troldemarmelade",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "d44a65dd-47fe-4a3a-867e-4a298d6d893a",
+      "season": 2,
+      "number": 8,
+      "name": "Eventyr med plantepasning",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "a93f2a09-439c-4c16-aa3e-f63a60a97902",
+      "season": 2,
+      "number": 9,
+      "name": "Regnskovsræs",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "13fc4da9-e822-49c7-be64-45bd6017b678",
+      "season": 2,
+      "number": 10,
+      "name": "For mange Hugoer",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "fc2fac9f-0930-4b61-a103-8874fade2edf",
+      "season": 2,
+      "number": 11,
+      "name": "Bedstemors køkkendyst",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "0754693e-da9e-482f-9c72-39488a6dbd31",
+      "season": 2,
+      "number": 12,
+      "name": "Knudetungetrolden",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "a1ad2680-e1a0-4c54-b005-d9c40a2c8e3b",
+      "season": 2,
+      "number": 13,
+      "name": "Onkels skattejagt",
+      "airdate": "2025-03-29"
+    },
+    {
+      "id": "b8ae89b1-93a7-46af-8b91-21c782baad1e",
+      "season": 3,
+      "number": 1,
+      "name": "Ratoncito Perez",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "6f5b45e5-085d-445e-8149-5f59eee70d7b",
+      "season": 3,
+      "number": 2,
+      "name": "Enhjørninge-dinosaurus",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "cc42a7f8-8768-4387-b957-1141482854f8",
+      "season": 3,
+      "number": 3,
+      "name": "Lille Doras store eventyr",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "ddf135a4-337c-4208-8c15-63c730452479",
+      "season": 3,
+      "number": 4,
+      "name": "Sang i badekarret",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "0ab3a04e-667c-4a02-8f30-894397b9a8ab",
+      "season": 3,
+      "number": 5,
+      "name": "Doras fødselsdagsoverraskelse",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "e9198161-6e87-4083-a22a-22139348414c",
+      "season": 3,
+      "number": 6,
+      "name": "Halloween er blevet stjålet",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "ef85a89f-ee18-4235-ac6e-f9af77252e2c",
+      "season": 3,
+      "number": 7,
+      "name": "Lær at flyve",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "d99ef385-184c-419c-9239-c1011e685e73",
+      "season": 3,
+      "number": 8,
+      "name": "Kanin-drengene",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "3f264067-6c39-4d9a-be41-30c455258c63",
+      "season": 3,
+      "number": 9,
+      "name": "En hund til Dora",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "6b5367f7-4ba9-4047-9f75-9074969bb526",
+      "season": 3,
+      "number": 10,
+      "name": "Dora redder julen",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "a8ee00ac-7ad5-4571-8474-e9ab574620f8",
+      "season": 3,
+      "number": 11,
+      "name": "Doras sang til Papi",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "e59ac077-1327-49b6-b01e-7d4af93a971a",
+      "season": 3,
+      "number": 12,
+      "name": "Bedstemors quinceañera",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "4f43e44b-17b2-4bb0-8e99-c3798fc0bf65",
+      "season": 3,
+      "number": 13,
+      "name": "Dora i rummet",
+      "airdate": "2025-12-20"
+    },
+    {
+      "id": "edf3431b-d0e7-4ba6-898e-9a1dfa3b972f",
+      "season": 4,
+      "number": 1,
+      "name": "Rygsæks amulet",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "8ea04e2e-1a1c-4373-b754-412e28302980",
+      "season": 4,
+      "number": 2,
+      "name": "Mito drømmer om La Playa",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "d969176a-07fc-4087-97ab-fe6d3fae4ca2",
+      "season": 4,
+      "number": 3,
+      "name": "Kaptajn Dora",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "9363fd07-81b6-4c7f-96e2-948da63964ae",
+      "season": 4,
+      "number": 4,
+      "name": "De forsvundne magiske instrumenter",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "c5880d2d-1865-4cbc-bb56-9dd5584509f0",
+      "season": 4,
+      "number": 5,
+      "name": "Dora og Diego redder jaguarungen",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "d7a0622c-00c3-40a6-9f79-5a23256dc141",
+      "season": 4,
+      "number": 6,
+      "name": "Dora og Diego og de store bjørnebrødre!",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "d064f55e-155f-4624-b637-65330e37e015",
+      "season": 4,
+      "number": 7,
+      "name": "Den hemmelige pyramide",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "12fec5f1-3cff-4107-b2b9-5cd362e6473d",
+      "season": 4,
+      "number": 8,
+      "name": "Maskotmobilen",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "5c9e3c38-ae1a-4927-8e4f-19ff9d091592",
+      "season": 4,
+      "number": 9,
+      "name": "Doras havfrueeventyr",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "8ccda44a-3fea-4ffd-87b3-44c9fc4e84fa",
+      "season": 4,
+      "number": 10,
+      "name": "Blæksprutte-Huggo",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "625c14f1-5bc5-452f-baec-14c618bfb287",
+      "season": 4,
+      "number": 11,
+      "name": "Volley-tyr!",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "5aabfbb8-19bd-447b-8fcb-a78baf7d00a0",
+      "season": 4,
+      "number": 12,
+      "name": "Gaucho-legene",
+      "airdate": "2026-04-03"
+    },
+    {
+      "id": "067c33fb-33c2-4221-a75f-198a61b57a2d",
+      "season": 4,
+      "number": 13,
+      "name": "Huggo-bamsen",
+      "airdate": "2026-04-03"
+    }
+  ]
+}

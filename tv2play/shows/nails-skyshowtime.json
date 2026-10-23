@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:nails-skyshowtime",
+  "name": "Nails",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Fire kvinder mødes i en neglesalon og danner et bånd, der udløser et oprør. Overvældet af samfundets pres om at være perfekte, afviser de deres gamle jeg og opretter 'The Free Women's Club' – et søsterskab, der hjælper andre med at genvinde deres identitet og frihed.",
+  "image": "https://cdn-play.tv2i.dk/4e45294c-4437-4a52-bc4e-76006934c673.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "f5f469f4-fea8-4389-ae34-4cfba6018470",
+      "season": 1,
+      "number": 1,
+      "name": "Episode 1",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "15363a38-c877-4b84-8fc3-81f0da0cb7e6",
+      "season": 1,
+      "number": 2,
+      "name": "Episode 2",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "21ee8268-9d5c-4593-a4e1-eb26a13ed9a3",
+      "season": 1,
+      "number": 3,
+      "name": "Episode 3",
+      "airdate": "2025-10-06"
+    },
+    {
+      "id": "9aade71b-a47f-42a9-8022-16931bc8f04d",
+      "season": 1,
+      "number": 4,
+      "name": "Episode 4",
+      "airdate": "2025-10-13"
+    },
+    {
+      "id": "b1fc5623-3dd8-40f9-8269-3bb3731433d2",
+      "season": 1,
+      "number": 5,
+      "name": "Episode 5",
+      "airdate": "2025-10-20"
+    },
+    {
+      "id": "70a0bbe7-ca54-4338-8a82-5d1bb7811e0b",
+      "season": 1,
+      "number": 6,
+      "name": "Episode 6",
+      "airdate": "2025-10-27"
+    },
+    {
+      "id": "79b5e857-c00e-46b6-b46a-c9e64db0932f",
+      "season": 1,
+      "number": 7,
+      "name": "Episode 7",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "9d9db509-7cf8-4b12-b92a-42a9f857859f",
+      "season": 1,
+      "number": 8,
+      "name": "Episode 8",
+      "airdate": "2025-11-10"
+    }
+  ]
+}

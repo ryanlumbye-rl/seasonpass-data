@@ -1,0 +1,26 @@
+{
+  "id": "tv2play:alkoholeksperimentet-tv2",
+  "name": "Alkoholeksperimentet",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Følg de fire kvinder Cecilie Hother, Zindy Laursen, Anna Thygesen og Carla Mickelborg, når de gennemgår et seksugers alkoholeksperiment. De bliver testet, mens de drikker, og herefter skal de være alkoholfri i 30 dage. Vil eksperimentet ændre deres vaner for fremtiden?.",
+  "image": "https://cdn-play.tv2i.dk/ad121bb6-2f78-47f3-9f6a-7b1c1429b9eb.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "bd6d46d8-b908-4bb8-854f-2275ffdaf563",
+      "season": 1,
+      "number": 1,
+      "name": "Drukmiddag og test",
+      "airdate": "2023-01-03"
+    },
+    {
+      "id": "aa03716a-406e-47d4-bf67-b73f851ddd8c",
+      "season": 1,
+      "number": 2,
+      "name": "30 dage uden alkohol",
+      "airdate": "2023-01-10"
+    }
+  ]
+}

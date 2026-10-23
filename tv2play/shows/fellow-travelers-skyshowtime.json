@@ -1,0 +1,68 @@
+{
+  "id": "tv2play:fellow-travelers-skyshowtime",
+  "name": "Fellow Travelers",
+  "service": "skyshowtime",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "I Washington D.C. under 1950'ernes homofobiske Lavender Scare i Amerika forelsker to mænd sig i hinanden. Den karismatiske og ambitiøse Hawkins Fuller og den religiøse idealist, Tim Laughlin, indleder et langt, risikabelt, ustabilt og sensuelt forhold",
+  "image": "https://cdn-play.tv2i.dk/43756a9c-f540-40a3-b1c7-d4c5b503a4cc.png?auto=format%2Ccompress&fm=webp&rect=16%2C14%2C3799%2C2136&w=1280",
+  "episodes": [
+    {
+      "id": "bd62406e-05c5-498b-a7dd-6279b671ee74",
+      "season": 1,
+      "number": 1,
+      "name": "You’re Wonderful",
+      "airdate": "2023-11-19"
+    },
+    {
+      "id": "45f88ce4-3f20-48ba-8b37-ef0367df20e3",
+      "season": 1,
+      "number": 2,
+      "name": "Bulletproof",
+      "airdate": "2023-11-26"
+    },
+    {
+      "id": "11b373b3-cb80-4a4d-8982-35bff867dd02",
+      "season": 1,
+      "number": 3,
+      "name": "Hit Me",
+      "airdate": "2023-12-03"
+    },
+    {
+      "id": "9785486f-7353-4900-b494-ab1b87feed60",
+      "season": 1,
+      "number": 4,
+      "name": "Your Nuts Roasting on an Open Fire",
+      "airdate": "2023-12-10"
+    },
+    {
+      "id": "32c2c0ae-135c-41a7-9f1b-6d66aca17885",
+      "season": 1,
+      "number": 5,
+      "name": "Promise You Won’t Write",
+      "airdate": "2023-12-17"
+    },
+    {
+      "id": "777d43fc-534b-4a1a-bd9f-4c57cc3eec1b",
+      "season": 1,
+      "number": 6,
+      "name": "Beyond Measure",
+      "airdate": "2023-12-24"
+    },
+    {
+      "id": "b934e991-37b3-419f-bcc1-dcfa2e51cbf0",
+      "season": 1,
+      "number": 7,
+      "name": "White Nights",
+      "airdate": "2023-12-31"
+    },
+    {
+      "id": "f8525449-a8d9-40c2-a688-2c7b6ed15279",
+      "season": 1,
+      "number": 8,
+      "name": "Make It Easy",
+      "airdate": "2024-01-07"
+    }
+  ]
+}

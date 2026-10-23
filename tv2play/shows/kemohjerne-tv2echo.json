@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:kemohjerne-tv2echo",
+  "name": "Kemohjerne",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Oliver lever det perfekte liv - lige indtil en scanning på Riget ændrer alt. Nu må Oliver kæmpe for ikke at miste sig selv, livet, vennerne og kærligheden.",
+  "image": "https://cdn-play.tv2i.dk/2387b644-a70c-4d75-868d-1eca72564432.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
+  "episodes": [
+    {
+      "id": "b0153da2-4d58-41cb-9f46-48ed7a66e73c",
+      "season": 1,
+      "number": 1,
+      "name": "Ristede løg",
+      "airdate": "2019-10-19"
+    },
+    {
+      "id": "b4a9c005-8c96-454b-9665-10fa13b300c9",
+      "season": 1,
+      "number": 2,
+      "name": "Offline mode",
+      "airdate": "2019-10-19"
+    },
+    {
+      "id": "acde5ec3-92fb-4277-b8ec-244298023bbf",
+      "season": 1,
+      "number": 3,
+      "name": "Die Hard",
+      "airdate": "2019-10-20"
+    },
+    {
+      "id": "2a551478-6c1c-45d5-8f27-41a49b1ca8fb",
+      "season": 1,
+      "number": 4,
+      "name": "Kviksand",
+      "airdate": "2019-10-21"
+    },
+    {
+      "id": "71363b69-067e-4367-aef2-1ece12373bc1",
+      "season": 1,
+      "number": 5,
+      "name": "Farvel",
+      "airdate": "2019-10-22"
+    },
+    {
+      "id": "0d9c4f50-8251-439d-828b-1eca19f11606",
+      "season": 2,
+      "number": 1,
+      "name": "Oliver og Eva",
+      "airdate": "2020-10-21"
+    }
+  ]
+}

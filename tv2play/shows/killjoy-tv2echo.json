@@ -1,0 +1,54 @@
+{
+  "id": "tv2play:killjoy-tv2echo",
+  "name": "Killjoy",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Har alle krav på en orgasme? Og hvem er du, hvis du egentlig bare faker? I seks afsnit følger vi Nanna, der på overfladen lever det perfekte liv, men da hun indser, at hun aldrig er kommet, forplanter usikkerheden sig til resten af hendes liv. Vil det lykkes Nanna at finde tryghed i sin egen seksualitet og få en ægte orgasme?.",
+  "image": "https://cdn-play.tv2i.dk/54806f23-922a-461f-9556-c7b0360a363b.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "380e6167-d708-462f-b8b6-58bfe7a43db0",
+      "season": 1,
+      "number": 1,
+      "name": "12-talspigen",
+      "airdate": "2023-04-02"
+    },
+    {
+      "id": "ee9832c4-1f48-4a15-9202-b6d34d7dfc1f",
+      "season": 1,
+      "number": 2,
+      "name": "Livs nye kæreste?",
+      "airdate": "2023-04-10"
+    },
+    {
+      "id": "1a774d91-ed0f-45ab-9fec-dee6fd652bc4",
+      "season": 1,
+      "number": 3,
+      "name": "Faker du hver gang?",
+      "airdate": "2023-04-17"
+    },
+    {
+      "id": "77940465-d907-449c-b09a-1603f1f13d67",
+      "season": 1,
+      "number": 4,
+      "name": "Fødselsdagen",
+      "airdate": "2023-04-24"
+    },
+    {
+      "id": "5b72861d-6ea4-46d2-96b1-233d3deecd62",
+      "season": 1,
+      "number": 5,
+      "name": "Jagten",
+      "airdate": "2023-05-01"
+    },
+    {
+      "id": "009ab4dd-c342-402f-9313-10aa060a5a2d",
+      "season": 1,
+      "number": 6,
+      "name": "Ærlig sex",
+      "airdate": "2023-05-08"
+    }
+  ]
+}

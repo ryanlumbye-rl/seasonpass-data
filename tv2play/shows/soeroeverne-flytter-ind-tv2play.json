@@ -1,0 +1,194 @@
+{
+  "id": "tv2play:soeroeverne-flytter-ind-tv2play",
+  "name": "Sørøverne flytter ind",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Animeret serie for børn fra 2017. Den by Matilda bor i er vildt kedelig. Men så en dag ankommer der en sørøverfamilie!",
+  "image": "https://cdn-play.tv2i.dk/5bc296ae-8c84-4794-bbd6-747bfa2f1ae4.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "episodes": [
+    {
+      "id": "8a352123-d263-4e69-82d9-da01b81d0b92",
+      "season": 1,
+      "number": 1,
+      "name": "Havfruejægeren Wilma",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "5fb3ce64-1711-4827-bd38-fdd8223a028c",
+      "season": 1,
+      "number": 2,
+      "name": "Hyggepiraternes forbandelse",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "48386e2e-b270-4098-a9e7-d64edc5338a7",
+      "season": 1,
+      "number": 3,
+      "name": "Sammenstødet",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "fd4ade78-fa01-4b94-a979-9d5a35844218",
+      "season": 1,
+      "number": 4,
+      "name": "Skænderiet",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "45505fed-b703-4237-beec-bb738aac1be6",
+      "season": 1,
+      "number": 5,
+      "name": "Jim og TME",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "ffea8ce9-3e32-4464-950a-2331cb9a3642",
+      "season": 1,
+      "number": 6,
+      "name": "Sørøver med manér",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "3d6c782a-614b-4ddc-9aac-ed773844e348",
+      "season": 1,
+      "number": 7,
+      "name": "Æresgælden",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "62ef44aa-e07e-4eed-9b9d-d744510e7209",
+      "season": 1,
+      "number": 8,
+      "name": "Mytteri i klasselokalet",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "cd6c1fd8-2696-48f6-8195-df2eb9c10361",
+      "season": 1,
+      "number": 9,
+      "name": "Rødskægs Rov",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "c31a9989-6965-4792-834b-6ce85228b5b2",
+      "season": 1,
+      "number": 10,
+      "name": "Gammeldags Sørøversnak Dag",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "03894311-7f21-4e61-9776-7eb9992108f9",
+      "season": 1,
+      "number": 11,
+      "name": "Sørøverdame i duffelcoat",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "3e97b09c-0b31-41c1-9be5-f800f97e393b",
+      "season": 1,
+      "number": 12,
+      "name": "De forsvundne sørøverfortællinger",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "b5068ac1-315c-4482-87c8-40e5f12f0a6f",
+      "season": 1,
+      "number": 13,
+      "name": "Et drømmejob",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "9640466d-edfa-45d8-bd6f-b1b002185ed5",
+      "season": 1,
+      "number": 14,
+      "name": "Anti-sørøver loven",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "38413919-1556-4b8e-945c-80c04723cbaf",
+      "season": 1,
+      "number": 15,
+      "name": "I lovens navn",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "af2c13bc-288e-4cc5-8589-e88a1c8ae75d",
+      "season": 1,
+      "number": 16,
+      "name": "Sørøveralarm",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "f44f4804-2bb5-40b6-9545-88f66fc31c29",
+      "season": 1,
+      "number": 17,
+      "name": "Korsar-kursus",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "4af59635-da0e-4f12-9eb2-cd664f83a1a2",
+      "season": 1,
+      "number": 18,
+      "name": "Den forgiftede skat",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "092f47c7-c184-4550-b25b-ac59c754a469",
+      "season": 1,
+      "number": 19,
+      "name": "Plyndring godkendt",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "ef62b2a1-41a3-419f-adcc-893fef623ca2",
+      "season": 1,
+      "number": 20,
+      "name": "Frøken Bastians hemmelighed",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "7b612745-2660-450e-9261-379a7b1e680a",
+      "season": 1,
+      "number": 21,
+      "name": "Attraktionen",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "813e1a4a-9239-465b-984d-720f5f406804",
+      "season": 1,
+      "number": 22,
+      "name": "Kaptajn Wilma",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "806b1cfd-abce-41ad-ac5f-2251a019ea56",
+      "season": 1,
+      "number": 23,
+      "name": "Heltemodige Jim",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "e011b46d-1139-4dbc-8e48-2beb2d0daa83",
+      "season": 1,
+      "number": 24,
+      "name": "Svitsende Svend",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "a0a4b42d-4551-41e8-93a9-bcbdca470abd",
+      "season": 1,
+      "number": 25,
+      "name": "Den sorte klat",
+      "airdate": "2026-03-05"
+    },
+    {
+      "id": "42d1eea7-a7e4-4039-9e1a-e9a76196bbce",
+      "season": 1,
+      "number": 26,
+      "name": "De hemmelige sardiner",
+      "airdate": "2026-03-05"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tv2play:foerstehjaelp-i-skudsikker-vest-tv2kosmopol",
+  "name": "Førstehjælp i skudsikker vest",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "TV 2 Kosmopol har fået unik adgang til specialenheden TEMS. Mød paramedicineren Thomas, der som den første rykkede ind ved skyderiet i Fields. Annika og Astrid arbejder hårdt for at blive optaget i TEMS.",
+  "image": "https://cdn-play.tv2i.dk/442c4470-27e8-4c25-ae5d-87f7b427b789.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "a240f2d9-47c9-4ba2-8235-3301edc98d32",
+      "season": 1,
+      "number": 1,
+      "name": "Den ultimative test",
+      "airdate": "2025-03-30"
+    },
+    {
+      "id": "cacdeb74-f3cf-40a0-8173-65d0fb7978db",
+      "season": 1,
+      "number": 2,
+      "name": "Hvem giver op først?",
+      "airdate": "2025-03-30"
+    },
+    {
+      "id": "49fb5708-82f7-4b66-a3a6-8137c1e89dbc",
+      "season": 1,
+      "number": 3,
+      "name": "Den store eksamen",
+      "airdate": "2025-03-30"
+    }
+  ]
+}

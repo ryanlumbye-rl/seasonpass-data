@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:jeg-har-ikke-nogen-kat-tv2nord",
+  "name": "Jeg har ikke nogen kat",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Det udfordrende voksenliv har ramt Jonathan Christensen, der er slået igennem som komiker med Tourettes syndrom. Ud over at skrive jokes og optræde skal han tage kørekort og købe bil. Han skal finde en lejlighed og helst også en kæreste",
+  "image": "https://cdn-play.tv2i.dk/0eef1c7a-e878-4187-901d-d9f86bc56ebb.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "episodes": [
+    {
+      "id": "9a2a9308-f6fe-459a-950d-1adddb4fa987",
+      "season": 1,
+      "number": 1,
+      "name": "Mit voksenliv med Tourette",
+      "airdate": "2024-12-25"
+    },
+    {
+      "id": "fb036515-9045-4e5f-84e9-0c141ed142ed",
+      "season": 1,
+      "number": 2,
+      "name": "Alting går ikke efter planen",
+      "airdate": "2025-01-01"
+    },
+    {
+      "id": "96607cb9-89c7-45b6-8a27-fda736c4786a",
+      "season": 1,
+      "number": 3,
+      "name": "Optur og angstanfald",
+      "airdate": "2025-01-08"
+    },
+    {
+      "id": "ab447f92-0856-4a76-b3ac-29f5ffd3aeff",
+      "season": 1,
+      "number": 4,
+      "name": "Det går jo meget godt",
+      "airdate": "2025-01-15"
+    }
+  ]
+}

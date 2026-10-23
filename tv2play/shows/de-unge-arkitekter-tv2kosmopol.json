@@ -1,0 +1,40 @@
+{
+  "id": "tv2play:de-unge-arkitekter-tv2kosmopol",
+  "name": "De unge arkitekter",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "København er valgt som arkitekturhovedstad 2023, og Danmark markerer sig i disse år med en ny generation af tegnestuer og arkitekter, der går nye veje med banebrydende og modige bygningsværker.",
+  "image": "https://cdn-play.tv2i.dk/07f69f5d-389d-4cba-9bd2-5814e7209c5a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "episodes": [
+    {
+      "id": "83ae1f62-bd5a-4c50-b2e2-ca6b3459f623",
+      "season": 2,
+      "number": 5,
+      "name": "Fællesskabsbygninger",
+      "airdate": "2024-10-24"
+    },
+    {
+      "id": "bfe4877c-a3f9-472a-bf2f-06d774901e43",
+      "season": 2,
+      "number": 6,
+      "name": "Respektfulde ombygninger",
+      "airdate": "2024-10-31"
+    },
+    {
+      "id": "63a9f1fe-7698-4cfb-b591-1e3165175ea3",
+      "season": 2,
+      "number": 7,
+      "name": "Genbrug",
+      "airdate": "2024-11-07"
+    },
+    {
+      "id": "cc87f5a6-1a05-4962-98a3-09d4330fc28b",
+      "season": 2,
+      "number": 8,
+      "name": "Arkitektens værksted",
+      "airdate": "2024-11-14"
+    }
+  ]
+}

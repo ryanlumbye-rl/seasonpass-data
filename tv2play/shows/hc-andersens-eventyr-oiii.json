@@ -5,6 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Der var engang en dansk eventyrforfatter, der kunne de mest fantastiske historier. Eventyrerne var så fantastiske, at de spredte sig fra forfatterens lille hjemland til den ganske verden. Eventyrforfatteren hed H.C. Andersen, og nu kan du nyde hans bedste historier genfortalt som tegnefilm.",
+  "image": "https://cdn-play.tv2i.dk/a25afc6d-f3ef-4bc1-994d-06e12d58ae10.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C999%2C562&w=1280",
   "episodes": [
     {
       "id": "d569a048-22af-4b39-bfa6-836c777e97aa",
