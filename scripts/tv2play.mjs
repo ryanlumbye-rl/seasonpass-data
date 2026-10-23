@@ -33,7 +33,9 @@ const FETCH_BUDGET = 15000;
 const FETCH_DEADLINE_MS = 270 * 60 * 1000;
 // Serier, der blev bygget før billede og beskrivelse kom med (22-10-2026), henter deres
 // serieside igen — højst så mange pr. kørsel, så opsamlingen ikke æder budgettet.
-const BACKFILL_BUDGET = 300;
+// 23-10-2026 kom plakat og titelart med, så hele kataloget (~1.500 serier, ½ sekund hver)
+// skal hentes én gang til; deadline'en nedenfor stopper den i tide, og resten tages næste nat.
+const BACKFILL_BUDGET = 2000;
 const DRY = process.argv.includes('--dry-run');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -163,8 +165,8 @@ async function main() {
       const { html } = page;
       const hintText = extractHint(html);
       const parsedHint = hintText ? parseHint(hintText, today) : null;
-      const { description, image } = extractSeries(html);
-      meta[slug] = { name, tmdbId: null, next: parsedHint?.date ?? null, description, image };
+      const { description, image, poster, titleArt } = extractSeries(html);
+      meta[slug] = { name, tmdbId: null, next: parsedHint?.date ?? null, description, image, poster, titleArt };
       if (parsedHint?.unparsed) unparsedThisRun[slug] = parsedHint.unparsed;
     } catch (err) {
       console.warn(`serieforside kunne ikke hentes: ${slug} — ${err.message}`);
@@ -185,7 +187,7 @@ async function main() {
   // forside under en anden endelse (23-10-2026) — dem kan vi nu finde.
   const needsArt = (slug) => {
     const show = readJson(`tv2play/shows/${slug}.json`, {}) ?? {};
-    return !('image' in show) || (show.image === null && siblingPages(slug, pages).length > 0);
+    return !('image' in show) || !('poster' in show) || (show.image === null && siblingPages(slug, pages).length > 0);
   };
   const missing = built.filter((slug) => !newShows[slug] && needsArt(slug)).slice(0, BACKFILL_BUDGET);
   for (const slug of missing) {
@@ -196,7 +198,7 @@ async function main() {
       const page = await fetchSeriesPage(slug, name, pages, get);
       // Ingen forside nogen steder: serien er fjernet fra TV 2 Play (fx Clarkson's Farm,
       // 22-10-2026). Det er et svar, ikke en fejl — gem null, så den ikke hentes igen hver nat.
-      backfill[slug] = page ? extractSeries(page.html) : { description: null, image: null };
+      backfill[slug] = page ? extractSeries(page.html) : { description: null, image: null, poster: null, titleArt: null };
     } catch (err) {
       console.warn(`serieforside kunne ikke hentes (opsamling): ${slug} — ${err.message}`);
     }
@@ -218,7 +220,7 @@ async function main() {
     mergedShowFiles[slug] = existingShow ? mergeTv2Show(existingShow, show) : show;
   }
   for (const [slug, art] of Object.entries(backfill)) {
-    mergedShowFiles[slug] = { ...readJson(`tv2play/shows/${slug}.json`, {}), description: art.description, image: art.image };
+    mergedShowFiles[slug] = { ...readJson(`tv2play/shows/${slug}.json`, {}), description: art.description, image: art.image, poster: art.poster, titleArt: art.titleArt };
   }
 
   // Samme serie under to adresser (alfa-tv2echo + alfa-tv2play) samles under -tv2play,

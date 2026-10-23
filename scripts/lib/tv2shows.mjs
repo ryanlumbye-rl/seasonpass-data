@@ -32,6 +32,9 @@ export function buildTv2Shows(found, meta) {
         // Fra seriesidens schema.org (extractSeries): til forhåndsvisningen, når TMDB intet har.
         description: m.description ?? null,
         image: m.image ?? null,
+        // TV 2's stående mobilformat og titelart (Ryan 23-10-2026): plakat på "Kommer snart".
+        poster: m.poster ?? null,
+        titleArt: m.titleArt ?? null,
         episodes: new Map(), // på GUID, så samme afsnit kun tælles én gang
       });
     }
@@ -130,6 +133,8 @@ export function consolidate(showsBySlug, canon) {
       status: nexts.length ? 'Running' : head.status,
       description: first('description'),
       image: first('image'),
+      poster: first('poster'),
+      titleArt: first('titleArt'),
       episodes: [...byKey.values()].sort((a, b) => a.season - b.season || a.number - b.number),
     };
     shows[c] = merged;
