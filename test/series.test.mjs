@@ -27,5 +27,28 @@ test('virker også på en anden serie: 24 timer på skadestuen', () => {
 });
 
 test('giver null-felter for en side uden TVSeries, i stedet for at kaste', () => {
-  assert.deepEqual(extractSeries('<html><body>intet</body></html>'), { name: null, description: null, image: null });
+  assert.deepEqual(extractSeries('<html><body>intet</body></html>'), { name: null, description: null, image: null, poster: null, titleArt: null });
+});
+
+// Plakat og titelart (Ryan 23-10-2026): uden dem stod en TV 2 Play-serie som et tomt kort under
+// "Kommer snart". TV 2's eget stående mobilformat (r2x3) er et udsnit af seriens billede.
+const xfiles = () => readFileSync('fixtures/tv2play-serieside-x-files-none.html', 'utf8');
+
+test('tager TV 2s stående plakat (r2x3) af seriens eget billede', () => {
+  const s = extractSeries(krejler());
+  assert.match(s.poster, /^https:\/\/cdn-play\.tv2i\.dk\/69335a40-4238-463e-b2dc-b52546f18676\.jpg\?/);
+  assert.match(s.poster, /ar=2%3A3/);
+  assert.match(s.poster, /[?&]w=600(&|$)/);
+  assert.match(extractSeries(xfiles()).poster, /6306afa0-ddec-304d-a5c5-7ea6fdbebe92/);
+});
+
+test('tager titelarten, når TV 2 har en', () => {
+  assert.match(extractSeries(krejler()).titleArt, /^https:\/\/cdn-play\.tv2i\.dk\/4a234ab8-cb64-43d5-8439-e8c006e74b4f\.png/);
+  assert.match(extractSeries(xfiles()).titleArt, /179c09fe-4de9-3892-8fb7-0b8d34cacaf1/);
+});
+
+test('ingen titelart på 24 timer på skadestuen: null, ikke en tom streng', () => {
+  const s = extractSeries(skadestue());
+  assert.equal(s.titleArt, null);
+  assert.match(s.poster, /280d3b1b-c37c-4fa0-8090-2b9966fcea2f/);
 });

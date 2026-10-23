@@ -45,9 +45,41 @@ export function extractSeries(html) {
     const description = typeof d.description === 'string' && d.description.trim() ? d.description.trim() : null;
     const raw = typeof d.image === 'string' ? d.image : Array.isArray(d.image) && typeof d.image[0] === 'string' ? d.image[0] : null;
     const name = typeof d.name === 'string' && d.name.trim() ? d.name.trim() : null;
-    return { name, description, image: raw ? widen(raw) : null };
+    return { name, description, image: raw ? widen(raw) : null, ...pageArt(html, raw, name) };
   }
-  return { name: null, description: null, image: null };
+  return { name: null, description: null, image: null, poster: null, titleArt: null };
+}
+
+/**
+ * Plakat og titelart fra sidens egne data (Ryan 23-10-2026), ikke fra schema.org. Siden har
+ * seriens billede i flere formater under backgroundImage; r2x3 er TV 2's stående mobiludgave.
+ * Andre serier på siden har deres egne, så kun det udsnit, der er af SERIENS billede (samme
+ * uuid som schema.org's image), bruges. Titelarten tages kun, når dens tekst er seriens navn.
+ */
+function pageArt(html, image, name) {
+  const flat = html.replace(/\\"/g, '"').replace(/\\u0026/g, '&');
+  const uuid = image?.match(/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/)?.[0];
+  let poster = null;
+  if (uuid) {
+    for (const m of flat.matchAll(/"r2x3":\{"__typename":"Image","url":"([^"]+)"/g)) {
+      if (m[1].includes(uuid)) { poster = sized(m[1], 600); break; }
+    }
+  }
+  let titleArt = null;
+  for (const m of flat.matchAll(/"title":\{"text":"([^"]*)","art":"(https:[^"]+)"/g)) {
+    if (name && m[1].trim() === name) { titleArt = m[2]; break; }
+  }
+  return { poster, titleArt };
+}
+
+function sized(url, w) {
+  try {
+    const u = new URL(url.replace(/&amp;/g, '&'));
+    u.searchParams.set('w', String(w));
+    return u.toString();
+  } catch {
+    return null;
+  }
 }
 
 function widen(url) {
