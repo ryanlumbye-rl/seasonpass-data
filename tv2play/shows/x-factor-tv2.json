@@ -316,5 +316,7 @@
       "name": "Afgørelsen",
       "airdate": "2026-04-10"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/0af1f4f5-fc19-4a6f-86de-e862ed3127f8.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzBhZjFmNGY1LWZjMTktNGE2Zi04NmRlLWU4NjJlZDMxMjdmOC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMzclMkMwJTJDNDc0NyUyQzQwNjk&rect=1337%2C0%2C4747%2C4069&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/5dd42fe9-11de-4957-9f49-6c41a8649931.png?auto=format%2Ccompress&fm=webp"
 }

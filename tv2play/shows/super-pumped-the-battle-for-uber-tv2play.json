@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Den vilde historie om skabelsen af Uber med Joseph Gordon-Levitt i hovedrollen som Ubers benhårde CEO, Travis Kalanick, der ender med at blive væltet i et bestyrelseskup. På rollelisten ses blandt andre også Uma Thurman, Elisabeth Shue og Kyle Chandler.",
+  "image": "https://cdn-play.tv2i.dk/5be78f76-6390-44c0-a87c-502e04bb1383.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C289%2C3327%2C1871&w=1280",
   "episodes": [
     {
       "id": "ebb1bed6-e5b4-41cd-aa20-e6e900accdfe",
@@ -57,5 +57,7 @@
       "name": "Same Last Name",
       "airdate": "2022-05-12"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/5be78f76-6390-44c0-a87c-502e04bb1383.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzViZTc4Zjc2LTYzOTAtNDRjMC1hODdjLTUwMmUwNGJiMTM4My5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTM1OCUyQzAlMkMyNTIwJTJDMjE2MA&rect=358%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/64143716-e408-3f7e-baf5-58bb7e2b3019.png?auto=format%2Ccompress&fm=webp"
 }

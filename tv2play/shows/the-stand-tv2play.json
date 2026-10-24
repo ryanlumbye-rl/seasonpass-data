@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "'The Stand' er Stephen Kings dommedagsvision om en verden, der er bragt i knæ af en verdensomspændende epidemi og nu hærges af kampen mellem godt og ondt. Menneskehedens skæbne hviler på skuldrene af den 108-årige Moder Abigail og en håndfuld overlevende.",
+  "image": "https://cdn-play.tv2i.dk/1ebe2750-3e3d-4abe-9195-8584edef1588.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2158&w=1280",
   "episodes": [
     {
       "id": "7c187325-7cb8-4c63-b019-674877d865e7",
@@ -71,5 +71,7 @@
       "name": "The Circle Closes",
       "airdate": "2021-12-17"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/1ebe2750-3e3d-4abe-9195-8584edef1588.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzFlYmUyNzUwLTNlM2QtNGFiZS05MTk1LTg1ODRlZGVmMTU4OC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwNTIlMkM0JTJDMjUxNiUyQzIxNTY&rect=1052%2C4%2C2516%2C2156&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/ae34e7c5-1e9a-4c8e-9476-dc524df1efe6.png?auto=format%2Ccompress&fm=webp"
 }

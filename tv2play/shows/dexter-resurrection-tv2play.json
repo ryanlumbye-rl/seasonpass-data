@@ -85,5 +85,7 @@
       "name": "Risky Business",
       "airdate": "2026-10-31"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/e2487cb0-2a78-34f3-beff-fdb34e460805.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2UyNDg3Y2IwLTJhNzgtMzRmMy1iZWZmLWZkYjM0ZTQ2MDgwNS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExMDUlMkMwJTJDMjUyMCUyQzIxNjA&rect=1105%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/93f4fbff-d10b-4f1c-bf26-a23d96f930ff.png?auto=format%2Ccompress&fm=webp"
 }

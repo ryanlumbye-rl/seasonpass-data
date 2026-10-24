@@ -50,5 +50,7 @@
       "name": "Mors sidste ønske",
       "airdate": "2025-03-13"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3931d11a-139d-40ad-b5bd-35038fd939cb.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzM5MzFkMTFhLTEzOWQtNDBhZC1iNWJkLTM1MDM4ZmQ5MzljYi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTc5NiUyQzAlMkMyNTIwJTJDMjE2MA&rect=796%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

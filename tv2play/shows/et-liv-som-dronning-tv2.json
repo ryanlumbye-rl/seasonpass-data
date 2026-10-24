@@ -36,5 +36,7 @@
       "name": "Livskunsten",
       "airdate": "2022-01-03"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/e5d38b9f-2be2-4fd8-8c51-7018ceea2083.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2U1ZDM4YjlmLTJiZTItNGZkOC04YzUxLTcwMThjZWVhMjA4My5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTc1NSUyQzAlMkMyNTIwJTJDMjE2MA&rect=755%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/bf94c356-3463-380e-b14e-add98dcba81e.png?auto=format%2Ccompress&fm=webp"
 }

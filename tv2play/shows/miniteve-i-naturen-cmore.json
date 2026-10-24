@@ -323,5 +323,7 @@
       "name": "Bjørneunge",
       "airdate": "2024-02-14"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/25c6fe2d-5674-415e-9f06-f43450048e06.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzI1YzZmZTJkLTU2NzQtNDE1ZS05ZjA2LWY0MzQ1MDA0OGUwNi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTM3NyUyQzAlMkMxNDQ1JTJDMTIzOA&rect=377%2C0%2C1445%2C1238&w=600",
+  "titleArt": null
 }

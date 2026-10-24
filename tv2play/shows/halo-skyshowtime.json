@@ -127,5 +127,7 @@
       "name": "Halo",
       "airdate": "2024-03-22"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a82da89d-7a1f-4dcd-b059-de005ea6d02e.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E4MmRhODlkLTdhMWYtNGRjZC1iMDU5LWRlMDA1ZWE2ZDAyZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTYzNyUyQzAlMkMxODkwJTJDMTYyMA&rect=637%2C0%2C1890%2C1620&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/ca3e41d1-84e0-467a-8630-b37c4bbd7eb7.png?auto=format%2Ccompress&fm=webp"
 }

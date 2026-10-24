@@ -722,5 +722,7 @@
       "name": "Well done London",
       "airdate": "2026-09-06"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/988d72fc-978d-314e-b926-f83752e60ca4.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzk4OGQ3MmZjLTk3OGQtMzE0ZS1iOTI2LWY4Mzc1MmU2MGNhNC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyNCUyQzAlMkM1NTklMkM0Nzk&rect=124%2C0%2C559%2C479&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/63f15138-cd09-4181-b3a3-cb418755958a.png?auto=format%2Ccompress&fm=webp"
 }

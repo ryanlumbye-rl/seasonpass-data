@@ -50,5 +50,7 @@
       "name": "Episode 6",
       "airdate": "2024-06-07"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/d13f7bc8-047a-47d0-aa93-14ed29bcd4b1.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2QxM2Y3YmM4LTA0N2EtNDdkMC1hYTkzLTE0ZWQyOWJjZDRiMS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyMDElMkMwJTJDMjUyMCUyQzIxNjA&rect=1201%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/2d0a027b-961c-4a4e-86fd-a9b99469715c.png?auto=format%2Ccompress&fm=webp"
 }

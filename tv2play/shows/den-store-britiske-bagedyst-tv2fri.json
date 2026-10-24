@@ -7,6 +7,8 @@
   "next": null,
   "description": "12 nye talenter står igen klar til at vise dommerne, hvad de duer til, når de går i krig med kager, kiks og andre lækkerier.",
   "image": "https://cdn-play.tv2i.dk/df38692e-45a4-3246-83ae-86838237c2e5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3886%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/df38692e-45a4-3246-83ae-86838237c2e5.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2RmMzg2OTJlLTQ1YTQtMzI0Ni04M2FlLTg2ODM4MjM3YzJlNS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTIyMSUyQzAlMkMyNTIxJTJDMjE2MA&rect=221%2C0%2C2521%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/dae6d0bf-9d58-4fa2-af8c-b8699b756261.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "88067ac5-fb13-4489-afbb-84794aa61a8e",
@@ -58,6 +60,20 @@
       "airdate": "2018-08-12"
     },
     {
+      "id": "9148456e-d7d4-46d3-a68d-07bcc9ca7bc4",
+      "season": 8,
+      "number": 9,
+      "name": "Semifinale",
+      "airdate": "2018-08-19"
+    },
+    {
+      "id": "9a30d017-1215-4900-9d2a-93023c66f87f",
+      "season": 8,
+      "number": 10,
+      "name": "Finale",
+      "airdate": "2018-08-19"
+    },
+    {
       "id": "3811012c-49c1-4fa4-9f5b-72a812d2fe00",
       "season": 9,
       "number": 1,
@@ -98,6 +114,13 @@
       "number": 6,
       "name": "Konkurrencen spidser til!",
       "airdate": "2019-04-02"
+    },
+    {
+      "id": "0724c4db-64e0-4328-9c17-e2037ec0aec0",
+      "season": 9,
+      "number": 7,
+      "name": "Vegansk bagværk",
+      "airdate": "2019-04-03"
     },
     {
       "id": "1292c0c3-776b-403f-850a-7811b592a838",

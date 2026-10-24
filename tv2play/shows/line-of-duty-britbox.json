@@ -260,5 +260,7 @@
       "name": "Episode 7",
       "airdate": "2023-05-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3c18e8da-9eb5-4463-949b-02bc57ec4f1e.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNjMThlOGRhLTllYjUtNDQ2My05NDliLTAyYmM1N2VjNGYxZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/d1e15727-8762-40cf-9af8-fd4197f3db04.png?auto=format%2Ccompress&fm=webp"
 }

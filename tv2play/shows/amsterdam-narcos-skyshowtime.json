@@ -29,5 +29,7 @@
       "name": "Afsnit 3",
       "airdate": "2025-11-09"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/e995c3e4-7f35-4794-937a-febfee2ea397.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2U5OTVjM2U0LTdmMzUtNDc5NC05MzdhLWZlYmZlZTJlYTM5Ny5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/dec18375-cbbb-4354-9673-655950386bb9.png?auto=format%2Ccompress&fm=webp"
 }

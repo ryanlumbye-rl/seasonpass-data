@@ -99,5 +99,7 @@
       "name": "Fairies Away! Part 2",
       "airdate": "2023-03-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/438a7b7c-6d75-41d6-a99a-f194b538e663.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQzOGE3YjdjLTZkNzUtNDFkNi1hOTlhLWYxOTRiNTM4ZTY2My5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQ3NCUyQzAlMkMyNTIwJTJDMjE2MA&rect=474%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

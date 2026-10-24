@@ -232,5 +232,7 @@
       "name": "Surprise!",
       "airdate": "2023-10-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/b9e26344-1c54-4a70-9cfb-7810130d18cf.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2I5ZTI2MzQ0LTFjNTQtNGE3MC05Y2ZiLTc4MTAxMzBkMThjZi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY3NCUyQzAlMkMyNTIyJTJDMjE2MA&rect=674%2C0%2C2522%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/0fef623e-9d6a-459e-b401-d37974047659.png?auto=format%2Ccompress&fm=webp"
 }

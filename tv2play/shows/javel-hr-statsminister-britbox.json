@@ -120,5 +120,7 @@
       "name": "The Tangled Web",
       "airdate": "2008-08-03"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/bb1b8e71-1a69-45f4-acc0-6cc54f64c4dd.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2JiMWI4ZTcxLTFhNjktNDVmNC1hY2MwLTZjYzU0ZjY0YzRkZC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY1OCUyQzAlMkMyNTIxJTJDMjE2MA&rect=658%2C0%2C2521%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/0b414d21-7895-416c-9e78-dbadde8df8a3.png?auto=format%2Ccompress&fm=webp"
 }

@@ -36,5 +36,7 @@
       "name": "Festspillet",
       "airdate": "2007-11-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/23095d56-5dae-4266-9ac5-eb2e927de8c5.jpeg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzIzMDk1ZDU2LTVkYWUtNDI2Ni05YWM1LWViMmU5MjdkZThjNS5qcGVnP2ZtPXdlYnAmbWFzazY0PWFIUjBjSE02THk5aGMzTmxkSE11Y0d4aGVTNTBkakpoTG1SckwyMWhjMnR6TDNJeWVETmZiV0Z6YTE5Mk15NXdibWMmcmVjdD0xMTIlMkMwJTJDNDE1JTJDMzU2&rect=112%2C0%2C415%2C356&w=600",
+  "titleArt": null
 }

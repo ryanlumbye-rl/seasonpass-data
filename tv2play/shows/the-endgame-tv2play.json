@@ -78,5 +78,7 @@
       "name": "Happily Ever After",
       "airdate": "2026-06-30"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/162ac4ef-142b-3a02-9285-a45b6b4cac83.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzE2MmFjNGVmLTE0MmItM2EwMi05Mjg1LWE0NWI2YjRjYWM4My5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/8c42d74e-72f1-3a4b-86a3-a57ac9a19b6d.png?auto=format%2Ccompress&fm=webp"
 }

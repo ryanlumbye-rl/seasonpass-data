@@ -407,5 +407,7 @@
       "name": "Danmarks sjoveste seerklip",
       "airdate": "2020-12-26"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f2358122-a0b3-44ea-9976-7292bc49e746.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2YyMzU4MTIyLWEwYjMtNDRlYS05OTc2LTcyOTJiYzQ5ZTc0Ni5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExMiUyQzAlMkM0MTUlMkMzNTY&rect=112%2C0%2C415%2C356&w=600",
+  "titleArt": null
 }

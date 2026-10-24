@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Den romerske kejserlige hær vender tilbage for at knuse Britannias keltiske hjerte.",
+  "image": "https://cdn-play.tv2i.dk/a6488c23-faf5-498b-ab71-f1480cb1f118.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3837%2C2160&w=1280",
   "episodes": [
     {
       "id": "774a0fd6-7702-4921-badf-92962b7ea883",
@@ -197,5 +197,7 @@
       "name": "Vae Victis",
       "airdate": "2024-06-20"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a6488c23-faf5-498b-ab71-f1480cb1f118.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E2NDg4YzIzLWZhZjUtNDk4Yi1hYjcxLWYxNDgwY2IxZjExOC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2NiUyQzAlMkMyNTIwJTJDMjE2MA&rect=666%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/6368f0e3-3e80-4b7b-af4d-f3cafe5ae6ca.png?auto=format%2Ccompress&fm=webp"
 }

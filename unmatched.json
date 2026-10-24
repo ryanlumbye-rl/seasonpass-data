@@ -21,8 +21,8 @@
     "seasons": [
       "1"
     ],
-    "episodes": 4,
-    "lastmod": "2026-10-08"
+    "episodes": 5,
+    "lastmod": "2026-10-23"
   },
   "100-sjov-tv2": {
     "seasons": [
@@ -100,7 +100,7 @@
       "19"
     ],
     "episodes": 121,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "50-aar-med-sjov-i-skoven-tv2nord": {
     "seasons": [
@@ -378,7 +378,7 @@
       "6"
     ],
     "episodes": 10,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "alene-sammen-tv2echo": {
     "seasons": [
@@ -850,8 +850,8 @@
     "seasons": [
       "2026"
     ],
-    "episodes": 2,
-    "lastmod": "2026-10-22"
+    "episodes": 3,
+    "lastmod": "2026-10-23"
   },
   "balladen-om-kolonihaven-tv2": {
     "seasons": [
@@ -1408,7 +1408,7 @@
     "seasons": [
       "4"
     ],
-    "episodes": 13,
+    "episodes": 14,
     "lastmod": "2026-10-22"
   },
   "borgen-for-begyndere-tv2play": {
@@ -1975,7 +1975,7 @@
       "3"
     ],
     "episodes": 21,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "danmarks-dejligste-badehoteller-tv2": {
     "seasons": [
@@ -2441,11 +2441,12 @@
       "12",
       "15",
       "16",
+      "7",
       "8",
       "9"
     ],
     "episodes": 58,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "den-store-dragdyst-tv2play": {
     "seasons": [
@@ -3279,7 +3280,7 @@
       "5"
     ],
     "episodes": 9,
-    "lastmod": "2026-10-18"
+    "lastmod": "2026-10-22"
   },
   "en-stor-dag-paa-godset-tv2": {
     "seasons": [
@@ -3905,7 +3906,7 @@
       "1"
     ],
     "episodes": 3,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "for-dyrenes-skyld-tv2oest": {
     "seasons": [
@@ -3965,7 +3966,7 @@
       "9"
     ],
     "episodes": 107,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "forraeder-tv2": {
     "seasons": [
@@ -3975,7 +3976,7 @@
       "4"
     ],
     "episodes": 32,
-    "lastmod": "2026-09-07"
+    "lastmod": "2026-10-23"
   },
   "forraeder-uk-tv2echo": {
     "seasons": [
@@ -4335,9 +4336,10 @@
     "seasons": [
       "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
-    "episodes": 44,
+    "episodes": 66,
     "lastmod": "2026-10-22"
   },
   "girl-taken-tv2play": {
@@ -4454,8 +4456,8 @@
     "seasons": [
       "2"
     ],
-    "episodes": 4,
-    "lastmod": "2026-10-22"
+    "episodes": 7,
+    "lastmod": "2026-10-23"
   },
   "granit-kidz-tv2play": {
     "seasons": [
@@ -4628,7 +4630,7 @@
       "9"
     ],
     "episodes": 43,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "han-hun-og-droemmeslottet-ud-i-det-blaa-tv2fri": {
     "seasons": [
@@ -5049,7 +5051,7 @@
       "3"
     ],
     "episodes": 14,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "hold-vejret-cmore": {
     "seasons": [
@@ -5095,7 +5097,7 @@
       "20"
     ],
     "episodes": 11,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "hotel-royal-tv2oestjylland": {
     "seasons": [
@@ -5636,7 +5638,7 @@
       "9"
     ],
     "episodes": 52,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "ja-jeg-er-dvaerg-tv2echo": {
     "seasons": [
@@ -5925,7 +5927,7 @@
       "1"
     ],
     "episodes": 5,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "jul-paa-hindsgavl-tv2fri": {
     "seasons": [
@@ -6221,7 +6223,7 @@
       "1"
     ],
     "episodes": 3,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "kilden-til-kaerlighed-tv2fri": {
     "seasons": [
@@ -6374,7 +6376,14 @@
       "2026"
     ],
     "episodes": 3,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
+  },
+  "knaek-cancer-tv2play": {
+    "seasons": [
+      "2026"
+    ],
+    "episodes": 1,
+    "lastmod": "2026-10-14"
   },
   "knight-rider-skyshowtime": {
     "seasons": [
@@ -6485,15 +6494,16 @@
       "1"
     ],
     "episodes": 13,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "kommissaer-rex-tv2charlie": {
     "seasons": [
       "19",
-      "4"
+      "4",
+      "5"
     ],
-    "episodes": 21,
-    "lastmod": "2026-10-22"
+    "episodes": 22,
+    "lastmod": "2026-10-23"
   },
   "kondrup-ka-os-tv2nord": {
     "seasons": [
@@ -7320,7 +7330,7 @@
     "seasons": [
       "3"
     ],
-    "episodes": 8,
+    "episodes": 6,
     "lastmod": "2026-10-21"
   },
   "luksushotellet-til-hverdag-og-fest-tv2": {
@@ -7575,8 +7585,8 @@
       "1",
       "2"
     ],
-    "episodes": 16,
-    "lastmod": "2026-10-15"
+    "episodes": 17,
+    "lastmod": "2026-10-22"
   },
   "martin-og-ketil-verden-for-begyndere-tv2play": {
     "seasons": [
@@ -7716,7 +7726,7 @@
       "2"
     ],
     "episodes": 7,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "megafamilierne-tv2": {
     "seasons": [
@@ -7791,16 +7801,22 @@
     "episodes": 1,
     "lastmod": "2025-11-05"
   },
+  "mesterlige-ombygninger-none": {
+    "seasons": [
+      "5"
+    ],
+    "episodes": 1,
+    "lastmod": "2026-10-23"
+  },
   "mesterlige-ombygninger-tv2": {
     "seasons": [
       "1",
       "2",
       "3",
-      "4",
-      "5"
+      "4"
     ],
-    "episodes": 19,
-    "lastmod": "2026-10-22"
+    "episodes": 18,
+    "lastmod": "2026-10-19"
   },
   "meyerheim-stjernerne-tv2charlie": {
     "seasons": [
@@ -8382,7 +8398,7 @@
       "1"
     ],
     "episodes": 3,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "naboen-fra-helvede-tv2": {
     "seasons": [
@@ -8972,6 +8988,13 @@
     ],
     "episodes": 6,
     "lastmod": "2025-10-31"
+  },
+  "overtime-historien-om-tv2": {
+    "seasons": [
+      "2026"
+    ],
+    "episodes": 1,
+    "lastmod": "2026-10-22"
   },
   "oxen-tv2": {
     "seasons": [
@@ -9741,7 +9764,7 @@
       "6"
     ],
     "episodes": 56,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "saa-er-der-banko-tv2play": {
     "seasons": [
@@ -10150,7 +10173,7 @@
       "34"
     ],
     "episodes": 6,
-    "lastmod": "2026-10-21"
+    "lastmod": "2026-10-23"
   },
   "skagen-festen-i-uge-29-tv2nord": {
     "seasons": [
@@ -10176,7 +10199,7 @@
       "5",
       "6"
     ],
-    "episodes": 67,
+    "episodes": 66,
     "lastmod": "2026-10-14"
   },
   "skoenhedsdronning-paa-svindlerjagt-tv2play": {
@@ -10705,7 +10728,7 @@
       "6"
     ],
     "episodes": 45,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "stokholm-godt-gammeldags-sjov-tv2": {
     "seasons": [
@@ -10778,7 +10801,7 @@
       "9"
     ],
     "episodes": 83,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "stormester-vindernes-vinder-tv2": {
     "seasons": [
@@ -10874,6 +10897,13 @@
     ],
     "episodes": 8,
     "lastmod": "2026-09-04"
+  },
+  "sulten-paa-100-knive-none": {
+    "seasons": [
+      "1"
+    ],
+    "episodes": 1,
+    "lastmod": "2026-10-22"
   },
   "sunes-verden-sfkids": {
     "seasons": [
@@ -11294,7 +11324,7 @@
     "seasons": [
       "1"
     ],
-    "episodes": 3,
+    "episodes": 4,
     "lastmod": "2026-10-22"
   },
   "the-girl-from-plainville-skyshowtime": {
@@ -12118,6 +12148,13 @@
     "episodes": 2,
     "lastmod": "2026-10-22"
   },
+  "vadehavsmordene-tv2charlie": {
+    "seasons": [
+      "1"
+    ],
+    "episodes": 1,
+    "lastmod": "2026-10-14"
+  },
   "vaerker-i-virkeligheden-tv2bornholm": {
     "seasons": [
       "1"
@@ -12139,7 +12176,7 @@
       "7"
     ],
     "episodes": 61,
-    "lastmod": "2026-10-22"
+    "lastmod": "2026-10-23"
   },
   "vaertens-bedste-braetspil-tv2": {
     "seasons": [
@@ -12196,7 +12233,7 @@
     "seasons": [
       "1"
     ],
-    "episodes": 6,
+    "episodes": 5,
     "lastmod": "2026-10-22"
   },
   "velkommen-hjem-rinkeby-united-cmore": {
@@ -12331,7 +12368,7 @@
     "seasons": [
       "1"
     ],
-    "episodes": 3,
+    "episodes": 4,
     "lastmod": "2026-10-22"
   },
   "vi-har-koebt-en-landsby-tv2fri": {

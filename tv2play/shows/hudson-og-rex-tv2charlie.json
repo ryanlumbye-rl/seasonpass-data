@@ -820,5 +820,7 @@
       "name": "Bird’s Eye View",
       "airdate": "2026-07-23"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3f7cb63d-48fe-376b-9d33-474bafc98030.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNmN2NiNjNkLTQ4ZmUtMzc2Yi05ZDMzLTQ3NGJhZmM5ODAzMC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY0NiUyQzAlMkMyNTIwJTJDMjE1OQ&rect=646%2C0%2C2520%2C2159&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/7b291fd4-eb4e-41dc-8e86-80db5a3ac9bd.png?auto=format%2Ccompress&fm=webp"
 }

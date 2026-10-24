@@ -64,5 +64,7 @@
       "name": "The Universe",
       "airdate": "2025-11-13"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/4350fc77-e078-4e4f-a147-0c8368039eae.jpeg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQzNTBmYzc3LWUwNzgtNGU0Zi1hMTQ3LTBjODM2ODAzOWVhZS5qcGVnP2ZtPXdlYnAmbWFzazY0PWFIUjBjSE02THk5aGMzTmxkSE11Y0d4aGVTNTBkakpoTG1SckwyMWhjMnR6TDNJeWVETmZiV0Z6YTE5Mk15NXdibWMmcmVjdD02MzQlMkMwJTJDMjQyNCUyQzIwNzc&rect=634%2C0%2C2424%2C2077&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/6f9a2cdf-0589-4c61-983c-d3ea8dff8997.png?auto=format%2Ccompress&fm=webp"
 }

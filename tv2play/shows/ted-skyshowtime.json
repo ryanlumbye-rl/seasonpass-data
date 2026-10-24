@@ -120,5 +120,7 @@
       "name": "Fraudcast News",
       "airdate": "2026-04-24"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/5f4aa473-efd3-45d5-b096-e33dd63520e9.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzVmNGFhNDczLWVmZDMtNDVkNS1iMDk2LWUzM2RkNjM1MjBlOS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/ad470634-202a-4da2-9252-88440791fa52.png?auto=format%2Ccompress&fm=webp"
 }

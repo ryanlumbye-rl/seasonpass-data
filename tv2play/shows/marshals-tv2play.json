@@ -4,7 +4,11 @@
   "service": "tv2",
   "status": "Running",
   "tmdbId": null,
-  "next": "2026-10-23",
+  "next": "2026-10-30",
+  "description": "Kayce Dutton har lagt Yellowstone Ranch bag sig og slutter sig til en eliteenhed under de amerikanske marshals. Med cowboyinstinkt og militær træning bliver han et værn mod volden i Montana, mens han kæmper med spøgelserne fra sin fortid.",
+  "image": "https://cdn-play.tv2i.dk/77ed6859-cb49-3334-86eb-e5b6b27fe406.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/77ed6859-cb49-3334-86eb-e5b6b27fe406.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzc3ZWQ2ODU5LWNiNDktMzMzNC04NmViLWU1YjZiMjdmZTQwNi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwNDglMkMwJTJDMjUyMSUyQzIxNjA&rect=1048%2C0%2C2521%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/57d1988e-f24f-39cd-9e6e-b0dcdedac16a.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "247e7b63-a68c-4cb0-b7a6-ab5816bb39e0",
@@ -117,8 +121,13 @@
       "number": 3,
       "name": "Falling Sky",
       "airdate": "2026-10-23"
+    },
+    {
+      "id": "82276c01-d3ee-4b6e-99e3-b65eb073901c",
+      "season": 2,
+      "number": 4,
+      "name": "Blast Radius",
+      "airdate": "2026-10-30"
     }
-  ],
-  "description": "Kayce Dutton har lagt Yellowstone Ranch bag sig og slutter sig til en eliteenhed under de amerikanske marshals. Med cowboyinstinkt og militær træning bliver han et værn mod volden i Montana, mens han kæmper med spøgelserne fra sin fortid.",
-  "image": "https://cdn-play.tv2i.dk/77ed6859-cb49-3334-86eb-e5b6b27fe406.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280"
+  ]
 }

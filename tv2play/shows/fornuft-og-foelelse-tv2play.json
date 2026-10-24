@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "To meget forskellige søstre og deres bejlere udgør omdrejningspunktet for denne miniserie efter Jane Austens klassiske roman.",
+  "image": "https://cdn-play.tv2i.dk/8476510c-9d5a-4267-ae7d-c8ccf5ed6de7.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "b80d7ce1-0504-407a-984b-0be22ec12b57",
@@ -29,5 +29,7 @@
       "name": "Episode 3",
       "airdate": "2023-05-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/8476510c-9d5a-4267-ae7d-c8ccf5ed6de7.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzg0NzY1MTBjLTlkNWEtNDI2Ny1hZTdkLWM4Y2NmNWVkNmRlNy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExODAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1180%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/10f2bcb4-9329-4dc1-83aa-a0953e79cc94.png?auto=format%2Ccompress&fm=webp"
 }

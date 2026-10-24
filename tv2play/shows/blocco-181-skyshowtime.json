@@ -120,5 +120,7 @@
       "name": "Episode 8",
       "airdate": "2025-06-13"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/047c21b7-31d7-407e-8c6a-f4e7fba40576.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzA0N2MyMWI3LTMxZDctNDA3ZS04YzZhLWY0ZTdmYmE0MDU3Ni5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMTclMkMwJTJDMjUyMyUyQzIxNjA&rect=1317%2C0%2C2523%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/3711e7d4-0a46-4028-b96f-e6e71a2e2c85.png?auto=format%2Ccompress&fm=webp"
 }

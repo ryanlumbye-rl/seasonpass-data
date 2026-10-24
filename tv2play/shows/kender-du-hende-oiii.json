@@ -50,5 +50,7 @@
       "name": "Jenny Kammersgaard",
       "airdate": "2023-03-04"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/06d2c741-436b-477a-96fc-4a35021f8ff7.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzA2ZDJjNzQxLTQzNmItNDc3YS05NmZjLTRhMzUwMjFmOGZmNy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTMzMCUyQzAlMkMxMjYwJTJDMTA4MA&rect=330%2C0%2C1260%2C1080&w=600",
+  "titleArt": null
 }

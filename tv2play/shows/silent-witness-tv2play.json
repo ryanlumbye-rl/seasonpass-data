@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Hver krop fortæller en historie. Et team af retsmedicinere afslører sandheden bag mord og dødsulykker.",
+  "image": "https://cdn-play.tv2i.dk/ae6c198b-e1e4-3844-88b7-4bcf67761db4.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "6ff9c358-b93c-488a-81bc-2f09e3186d04",
@@ -78,5 +78,7 @@
       "name": "Shame - del 2",
       "airdate": "2026-07-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/ae6c198b-e1e4-3844-88b7-4bcf67761db4.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2FlNmMxOThiLWUxZTQtMzg0NC04OGI3LTRiY2Y2Nzc2MWRiNC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQ0NCUyQzAlMkMxMjYwJTJDMTA4MA&rect=444%2C0%2C1260%2C1080&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/785381f9-8549-3b11-8664-118b131f9feb.png?auto=format%2Ccompress&fm=webp"
 }

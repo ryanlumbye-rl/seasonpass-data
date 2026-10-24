@@ -7,6 +7,8 @@
   "next": null,
   "description": "Et hold af Storbritanniens dygtigste og mest passionerede håndværkere reparerer finurlige arvestykker og bringer minder tilbage til livet.",
   "image": "https://cdn-play.tv2i.dk/554960a6-71c7-37d9-bd56-ea4f1333b673.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/554960a6-71c7-37d9-bd56-ea4f1333b673.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzU1NDk2MGE2LTcxYzctMzdkOS1iZDU2LWVhNGYxMzMzYjY3My5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTg1NSUyQzAlMkMyNTIwJTJDMjE2MA&rect=855%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/26f51d74-aae3-48ad-afb1-8990dc61b0c1.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "51269470-af5e-4a9a-be68-61dcd8e9b5ab",
@@ -331,6 +333,20 @@
       "airdate": "2023-04-05"
     },
     {
+      "id": "1684432e-e940-4b1c-8cf6-2178899e2cf3",
+      "season": 6,
+      "number": 47,
+      "name": "Et portræt, en symaskine og en ubåd",
+      "airdate": "2023-04-05"
+    },
+    {
+      "id": "40f9c8a0-132c-4291-a4c0-fa6663be2fba",
+      "season": 6,
+      "number": 48,
+      "name": "Et harmonium, en logbog og en tøjbamse",
+      "airdate": "2023-04-06"
+    },
+    {
       "id": "acf8c8a0-2be5-4bf2-8e8b-e7b3004c05a0",
       "season": 7,
       "number": 50,
@@ -343,13 +359,6 @@
       "number": 51,
       "name": "Lad musikken spille",
       "airdate": "2023-09-30"
-    },
-    {
-      "id": "7cc44a21-3485-4d5a-92ac-6b574191a199",
-      "season": 7,
-      "number": 54,
-      "name": "Kan alle projekter lykkes?",
-      "airdate": "2023-09-16"
     },
     {
       "id": "9c54b97a-1d0d-431f-8152-fecd519ec5cb",

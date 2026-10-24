@@ -50,5 +50,7 @@
       "name": "Den hvide hest",
       "airdate": "2022-08-27"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/8677c4ec-5d3f-49aa-8f16-bfbce32d58d3.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzg2NzdjNGVjLTVkM2YtNDlhYS04ZjE2LWJmYmNlMzJkNThkMy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTMzMCUyQzAlMkMxMjYwJTJDMTA4MA&rect=330%2C0%2C1260%2C1080&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/fd032538-2546-4510-a402-1c24914c7a42.png?auto=format%2Ccompress&fm=webp"
 }

@@ -92,5 +92,7 @@
       "name": "The Fugitive",
       "airdate": "2024-06-13"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/1b608abd-a08f-40b4-a187-3317b5a3b4b4.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzFiNjA4YWJkLWEwOGYtNDBiNC1hMTg3LTMzMTdiNWEzYjRiNC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTg5MSUyQzAlMkMyNTIwJTJDMjE2MA&rect=891%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

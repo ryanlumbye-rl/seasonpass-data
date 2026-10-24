@@ -7,6 +7,8 @@
   "next": null,
   "description": "Politibetjenten Richard Moser har mistet sin kone, og politihunden Rex har mistet sin herre, så de to finder sammen for både at bekæmpe kriminalitet og deres egen ensomhed. Det umage par udgør et sandt vinder-hold, hvor de risikerer liv og lemmer i deres jagt efter forbrydere.",
   "image": "https://cdn-play.tv2i.dk/f5f6c161-7f6b-32ad-ad84-e15c13ca039e.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/f5f6c161-7f6b-32ad-ad84-e15c13ca039e.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Y1ZjZjMTYxLTdmNmItMzJhZC1hZDg0LWUxNWMxM2NhMDM5ZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY3OSUyQzAlMkMyNTIwJTJDMjE2MA&rect=679%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/6efb3282-ba07-32ce-aec4-98f61b3d84bd.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "e994eb63-1753-4b48-ae91-eead83b01c75",
@@ -70,6 +72,20 @@
       "number": 12,
       "name": "Das letze Match",
       "airdate": "2007-02-15"
+    },
+    {
+      "id": "ce0074ee-747f-450a-a280-147d603c057d",
+      "season": 4,
+      "number": 13,
+      "name": "Gefährlicher Auftrag",
+      "airdate": "2007-02-16"
+    },
+    {
+      "id": "1f7deeac-7fa8-48ed-8d5f-be62d1678469",
+      "season": 5,
+      "number": 1,
+      "name": "Die Todesliste",
+      "airdate": "2007-02-17"
     },
     {
       "id": "5f0c7295-e7a2-423d-b8c3-7c1435983127",

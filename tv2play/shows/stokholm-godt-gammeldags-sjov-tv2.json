@@ -22,5 +22,7 @@
       "name": "En rigtig pjattepind!",
       "airdate": "2026-05-17"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/1d4a4d7a-b03e-4bd3-a569-5d73fdcfeddb.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzFkNGE0ZDdhLWIwM2UtNGJkMy1hNTY5LTVkNzNmZGNmZWRkYi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwMzIlMkMwJTJDMjUyMCUyQzIxNjA&rect=1032%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/d914f0cb-0190-46ac-b65b-f2074ea708d1.png?auto=format%2Ccompress&fm=webp"
 }

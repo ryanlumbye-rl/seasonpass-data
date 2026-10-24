@@ -36,5 +36,7 @@
       "name": "Afsnit 4",
       "airdate": "2024-10-17"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/d4151973-f456-4aa6-9f84-92086c2b1bb6.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Q0MTUxOTczLWY0NTYtNGFhNi05Zjg0LTkyMDg2YzJiMWJiNi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/820709c3-1fc0-4ebc-89fe-66fc3227e1a7.png?auto=format%2Ccompress&fm=webp"
 }

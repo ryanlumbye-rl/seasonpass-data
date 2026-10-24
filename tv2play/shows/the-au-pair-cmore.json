@@ -36,5 +36,7 @@
       "name": "Episode 4",
       "airdate": "2025-02-12"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/cbc3aa7d-a8c6-4a18-a8c6-25045f722fd4.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2NiYzNhYTdkLWE4YzYtNGExOC1hOGM2LTI1MDQ1ZjcyMmZkNC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/93b0f821-02b6-46a9-bbf8-d34beb4bff1a.png?auto=format%2Ccompress&fm=webp"
 }

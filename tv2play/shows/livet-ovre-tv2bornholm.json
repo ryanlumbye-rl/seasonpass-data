@@ -43,5 +43,7 @@
       "name": "Fra Svaneke til Frederiksberg",
       "airdate": "2025-07-04"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3b1d21b7-36f7-4bb5-88ba-e951f65b5fa1.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNiMWQyMWI3LTM2ZjctNGJiNS04OGJhLWU5NTFmNjViNWZhMS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTIxNCUyQzAlMkMyNTIwJTJDMjE2MA&rect=214%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

@@ -7,6 +7,8 @@
   "next": null,
   "description": "Skuespiller og tv-vært Nigel Havers inviterer fem købere indenfor til en budrunde på spændende og sjove ting, som folk har medbragt.",
   "image": "https://cdn-play.tv2i.dk/7db00c24-3fda-493f-887e-87431fa3800b.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/7db00c24-3fda-493f-887e-87431fa3800b.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzdkYjAwYzI0LTNmZGEtNDkzZi04ODdlLTg3NDMxZmEzODAwYi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyNSUyQzAlMkM1NjAlMkM0ODA&rect=125%2C0%2C560%2C480&w=600",
+  "titleArt": null,
   "episodes": [
     {
       "id": "4133a460-d440-48ec-8d1e-3b2fe479b442",
@@ -97,6 +99,20 @@
       "season": 4,
       "number": 13,
       "name": "Episode 13",
+      "airdate": "2024-11-02"
+    },
+    {
+      "id": "0c5d35d7-4e7d-4cce-ba98-2b99a36a7172",
+      "season": 4,
+      "number": 14,
+      "name": "Episode 14",
+      "airdate": "2024-11-02"
+    },
+    {
+      "id": "46fe68eb-4a81-4422-9183-0e9d67d6287a",
+      "season": 4,
+      "number": 15,
+      "name": "Episode 15",
       "airdate": "2024-11-02"
     }
   ]

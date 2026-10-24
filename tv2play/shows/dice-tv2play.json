@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Femogtyve år efter sin storhedstid vil Andrew Dice Clay tilbage på comedy-tronen. Som altid forsøger han at være kontroversiel. Denne semi-autobiografiske serie følger hans forsøg.",
+  "image": "https://cdn-play.tv2i.dk/7d3fc081-cc24-4677-adef-ff2c1564d608.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C640%2C356&w=1280",
   "episodes": [
     {
       "id": "369aba50-008f-486d-9f4e-6b019a379a72",
@@ -99,5 +99,7 @@
       "name": "The Trial",
       "airdate": "2021-07-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7d3fc081-cc24-4677-adef-ff2c1564d608.jpeg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzdkM2ZjMDgxLWNjMjQtNDY3Ny1hZGVmLWZmMmMxNTY0ZDYwOC5qcGVnP2ZtPXdlYnAmbWFzazY0PWFIUjBjSE02THk5aGMzTmxkSE11Y0d4aGVTNTBkakpoTG1SckwyMWhjMnR6TDNJeWVETmZiV0Z6YTE5Mk15NXdibWMmcmVjdD0xMTIlMkMwJTJDNDE1JTJDMzU2&rect=112%2C0%2C415%2C356&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/53d7829d-6315-3fc2-8746-5e1b00c060d1.png?auto=format%2Ccompress&fm=webp"
 }

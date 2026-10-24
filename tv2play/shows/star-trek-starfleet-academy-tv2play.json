@@ -78,5 +78,7 @@
       "name": "Rubicon",
       "airdate": "2026-04-02"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7ca36d6f-c00f-4cda-8c56-b28350ec8e02.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzdjYTM2ZDZmLWMwMGYtNGNkYS04YzU2LWIyODM1MGVjOGUwMi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/8e305857-86d6-43b1-ba4a-25860c6448d5.png?auto=format%2Ccompress&fm=webp"
 }

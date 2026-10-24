@@ -50,5 +50,7 @@
       "name": "I medgang og modgang",
       "airdate": "2017-10-10"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/05d8aef1-b780-40df-81f1-72fe6268da03.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzA1ZDhhZWYxLWI3ODAtNDBkZi04MWYxLTcyZmU2MjY4ZGEwMy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTc0NiUyQzAlMkMyNTIyJTJDMjE2MA&rect=746%2C0%2C2522%2C2160&w=600",
+  "titleArt": null
 }

@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Bridgette Bird er en smart, rodet, ung enlig mor, der forsøger at navigere i livet med en meget ukonventionel familie. Denne komedie belyser moderskab, forældresamarbejde og den kvindelige seksualitet gennem en rå og ufiltreret linse.",
+  "image": "https://cdn-play.tv2i.dk/932efcfb-8d16-41af-b731-bf5125cac73c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "452d0852-0efe-468c-8336-76acea6ed4ef",
@@ -134,5 +134,7 @@
       "name": "Single Mom Is Looking (for) Family",
       "airdate": "2021-07-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/932efcfb-8d16-41af-b731-bf5125cac73c.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzkzMmVmY2ZiLThkMTYtNDFhZi1iNzMxLWJmNTEyNWNhYzczYy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY3OSUyQzAlMkMyNTIwJTJDMjE2MA&rect=679%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/b89872e1-f1c6-4c02-8d82-c11a6bac9831.png?auto=format%2Ccompress&fm=webp"
 }

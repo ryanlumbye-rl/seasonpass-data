@@ -50,5 +50,7 @@
       "name": "Afsnit 6",
       "airdate": "2025-11-13"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/0bdcd0e4-3d89-4158-9174-0abcb6a9ba3a.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzBiZGNkMGU0LTNkODktNDE1OC05MTc0LTBhYmNiNmE5YmEzYS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/bbaf95a6-3ee4-4dc2-be48-af85feedebb0.png?auto=format%2Ccompress&fm=webp"
 }

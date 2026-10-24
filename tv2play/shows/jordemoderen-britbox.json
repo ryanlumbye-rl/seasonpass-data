@@ -799,5 +799,7 @@
       "name": "Episode 8",
       "airdate": "2026-02-04"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/d9ee99b1-69a1-411f-9eaf-5bc222d3347b.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Q5ZWU5OWIxLTY5YTEtNDExZi05ZWFmLTViYzIyMmQzMzQ3Yi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwNDElMkMyODQlMkMyMTkzJTJDMTg3Ng&rect=1041%2C284%2C2193%2C1876&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/7bfa864d-1090-4448-87e0-c7b0e1ea784f.png?auto=format%2Ccompress&fm=webp"
 }

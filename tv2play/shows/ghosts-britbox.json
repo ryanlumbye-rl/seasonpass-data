@@ -246,5 +246,7 @@
       "name": "A Christmas Gift",
       "airdate": "2026-10-21"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/ef96362a-255e-356c-84cb-4d01f3998ffe.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2VmOTYzNjJhLTI1NWUtMzU2Yy04NGNiLTRkMDFmMzk5OGZmZS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExMTglMkMwJTJDMjUyMCUyQzIxNjA&rect=1118%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/8025c6a0-70a4-48c9-83f6-6ac29f2f4d7b.png?auto=format%2Ccompress&fm=webp"
 }

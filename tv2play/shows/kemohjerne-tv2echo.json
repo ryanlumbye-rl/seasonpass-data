@@ -50,5 +50,7 @@
       "name": "Oliver og Eva",
       "airdate": "2020-10-21"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/2387b644-a70c-4d75-868d-1eca72564432.jpeg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzIzODdiNjQ0LWE3MGMtNGQ3NS04NjhkLTFlY2E3MjU2NDQzMi5qcGVnP2ZtPXdlYnAmbWFzazY0PWFIUjBjSE02THk5aGMzTmxkSE11Y0d4aGVTNTBkakpoTG1SckwyMWhjMnR6TDNJeWVETmZiV0Z6YTE5Mk15NXdibWMmcmVjdD0xMTIlMkMwJTJDNDE1JTJDMzU2&rect=112%2C0%2C415%2C356&w=600",
+  "titleArt": null
 }

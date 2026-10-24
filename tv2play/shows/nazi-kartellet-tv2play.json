@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Kokainhandelen, som vi kender den i dag, begyndte med et kup i Bolivia i 1980, ledet af nazisten Klaus Barbie og narkobaronen Roberto Suarez. De skabte verdens første kokainstat og banede vejen for Pablo Escobar. DEA-agent Michael Levine forsøgte at afsløre dem.",
+  "image": "https://cdn-play.tv2i.dk/cba20c1d-a251-432c-b4cf-b99d5d9e0b88.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "08342d4c-eaaf-420a-b7a0-4142b5d63d87",
@@ -29,5 +29,7 @@
       "name": "Afsnit 3",
       "airdate": "2025-11-16"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/cba20c1d-a251-432c-b4cf-b99d5d9e0b88.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2NiYTIwYzFkLWEyNTEtNDMyYy1iNGNmLWI5OWQ1ZDllMGI4OC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTkwNiUyQzAlMkMyNTIwJTJDMjE2MA&rect=906%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/5f903712-6639-4962-a978-d2066349b4fc.png?auto=format%2Ccompress&fm=webp"
 }

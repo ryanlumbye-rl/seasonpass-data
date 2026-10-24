@@ -7,6 +7,8 @@
   "next": null,
   "description": "De er unge, nysgerrige og fulde af holdninger. I denne serie møder vi en række førstegangskandidater - og enkelte gengangere - der alle har ét til fælles: de vil være med til at forme fremtidens kommuner.",
   "image": "https://cdn-play.tv2i.dk/5a1a2471-78f2-40b0-b898-08f0f287e3e6.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C853%2C480&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/5a1a2471-78f2-40b0-b898-08f0f287e3e6.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzVhMWEyNDcxLTc4ZjItNDBiMC1iODk4LTA4ZjBmMjg3ZTNlNi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE0NiUyQzAlMkM1NjAlMkM0ODA&rect=146%2C0%2C560%2C480&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/58564e74-0e15-4fb9-b267-687178d557bb.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "dfe0a46d-3ca7-4104-b716-db4fe185c1a3",
@@ -20,6 +22,13 @@
       "season": 1,
       "number": 2,
       "name": "Anes fra Lolland",
+      "airdate": "2025-11-03"
+    },
+    {
+      "id": "45432a24-2051-43f0-adc8-635a99c359be",
+      "season": 1,
+      "number": 3,
+      "name": "Frida fra Slagelse",
       "airdate": "2025-11-03"
     },
     {

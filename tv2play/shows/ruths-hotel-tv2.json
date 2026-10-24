@@ -99,5 +99,7 @@
       "name": "Efterår",
       "airdate": "2023-04-04"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/14cf7c1b-51d6-4ab0-8f4b-12e6e320b866.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzE0Y2Y3YzFiLTUxZDYtNGFiMC04ZjRiLTEyZTZlMzIwYjg2Ni5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTU2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=560%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/84091ed9-bb3a-3a89-8eb9-2d1748ed6aa8.png?auto=format%2Ccompress&fm=webp"
 }

@@ -71,5 +71,7 @@
       "name": "Aperture",
       "airdate": "2026-10-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/88cd5115-1c19-38ba-b7a1-725e9080d5e7.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzg4Y2Q1MTE1LTFjMTktMzhiYS1iN2ExLTcyNWU5MDgwZDVlNy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY4NCUyQzAlMkMyNTIwJTJDMjE2MA&rect=684%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/3ca34d80-1ca6-386a-bcd5-7cda3bfdc0e3.png?auto=format%2Ccompress&fm=webp"
 }

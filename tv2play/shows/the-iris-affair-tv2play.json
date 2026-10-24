@@ -64,5 +64,7 @@
       "name": "Charlie Says",
       "airdate": "2026-01-10"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/dd5e3576-12f8-4189-b9d8-12699052b8d5.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2RkNWUzNTc2LTEyZjgtNDE4OS1iOWQ4LTEyNjk5MDUyYjhkNS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTgyNSUyQzAlMkMyNTIyJTJDMjE2MQ&rect=825%2C0%2C2522%2C2161&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/bf05bee0-1d84-459d-86df-94ca23984187.png?auto=format%2Ccompress&fm=webp"
 }

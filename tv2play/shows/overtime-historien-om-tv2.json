@@ -1,0 +1,21 @@
+{
+  "id": "tv2play:overtime-historien-om-tv2",
+  "name": "Overtime - historien om",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": null,
+  "image": "https://cdn-play.tv2i.dk/43f77c21-2430-3683-a408-f804edc13df6.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/43f77c21-2430-3683-a408-f804edc13df6.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQzZjc3YzIxLTI0MzAtMzY4My1hNDA4LWY4MDRlZGMxM2RmNi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTc2MSUyQzAlMkMyNTIyJTJDMjE2MQ&rect=761%2C0%2C2522%2C2161&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/66601df0-f075-3064-9e77-4053c1609ac2.png?auto=format%2Ccompress&fm=webp",
+  "episodes": [
+    {
+      "id": "4b1954a0-0067-44fd-ae17-dfd3f2085235",
+      "season": 2026,
+      "number": 1,
+      "name": "Har NFL vokset sig for stort til USA?",
+      "airdate": "2026-10-23"
+    }
+  ]
+}

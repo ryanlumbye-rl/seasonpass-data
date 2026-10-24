@@ -43,5 +43,7 @@
       "name": "Episode 5",
       "airdate": "2025-03-21"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/56539630-adaa-4186-b9bc-dfc7b3e2d2c7.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzU2NTM5NjMwLWFkYWEtNDE4Ni1iOWJjLWRmYzdiM2UyZDJjNy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/bf738af5-9c30-4972-ac58-fa6d33dce82d.png?auto=format%2Ccompress&fm=webp"
 }

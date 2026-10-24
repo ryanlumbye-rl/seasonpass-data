@@ -36,5 +36,7 @@
       "name": "Episode 4",
       "airdate": "2024-07-22"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a774589b-a328-45ba-aa4e-7e9367a435d8.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E3NzQ1ODliLWEzMjgtNDViYS1hYTRlLTdlOTM2N2E0MzVkOC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/6156c1cb-1163-41f9-9392-ac170e0b3d37.png?auto=format%2Ccompress&fm=webp"
 }

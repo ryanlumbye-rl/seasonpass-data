@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Ny, dansk dramaserie af Tobias Lindholm baseret på opklaringen af ubådssagen. Med Søren Malling, Pilou Asbæk, Pernilla August, Rolf Lassgård og Laura Christensen.",
+  "image": "https://cdn-play.tv2i.dk/6ad59b49-f8c8-49e5-823d-82d5699d1406.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "f30678bf-2da1-444b-947b-bf389dfcbfe0",
@@ -50,5 +50,7 @@
       "name": "In dubio pro reo",
       "airdate": "2020-10-25"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/6ad59b49-f8c8-49e5-823d-82d5699d1406.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzZhZDU5YjQ5LWY4YzgtNDllNS04MjNkLTgyZDU2OTlkMTQwNi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/996f49d9-5b68-4e26-b627-bdb9009a09ef.png?auto=format%2Ccompress&fm=webp"
 }

@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "I den komplekse proces med at fastslå skyld eller uskyld arbejder betjente og anklagere i New York for at løse forbrydelser og dømme lovovertrædere med livet på spil.",
+  "image": "https://cdn-play.tv2i.dk/a049c360-59c0-4da2-b50d-08c6302b0b2a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "bd36c29d-49f7-435d-a315-b1e574911318",
@@ -169,5 +169,7 @@
       "name": "Rubber Room",
       "airdate": "2023-07-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a049c360-59c0-4da2-b50d-08c6302b0b2a.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2EwNDljMzYwLTU5YzAtNGRhMi1iNTBkLTA4YzYzMDJiMGIyYS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTUwNCUyQzAlMkMxMjYwJTJDMTA4MA&rect=504%2C0%2C1260%2C1080&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/413806c3-16d6-3583-ac3e-e41b68d4e140.png?auto=format%2Ccompress&fm=webp"
 }

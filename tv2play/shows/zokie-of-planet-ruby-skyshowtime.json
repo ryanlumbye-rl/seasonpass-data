@@ -190,5 +190,7 @@
       "name": "Enden",
       "airdate": "2024-09-19"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a59e1710-7944-4600-bcd9-eef90ec93d74.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E1OWUxNzEwLTc5NDQtNDYwMC1iY2Q5LWVlZjkwZWM5M2Q3NC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQ2MyUyQzAlMkMxNzc0JTJDMTUyMA&rect=463%2C0%2C1774%2C1520&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/82f0446e-a216-4954-959d-b61c7f0728b3.png?auto=format%2Ccompress&fm=webp"
 }

@@ -64,5 +64,7 @@
       "name": "Monopol",
       "airdate": "2020-09-27"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a4446376-345b-4770-aa5c-98dded60ee62.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E0NDQ2Mzc2LTM0NWItNDc3MC1hYTVjLTk4ZGRlZDYwZWU2Mi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTc0NyUyQzAlMkMyNTEzJTJDMjE1Mw&rect=747%2C0%2C2513%2C2153&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/d1f5afa2-08fc-441a-a804-18c13d595b78.png?auto=format%2Ccompress&fm=webp"
 }

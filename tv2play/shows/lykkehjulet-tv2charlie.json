@@ -295,5 +295,7 @@
       "name": "Ugefinale",
       "airdate": "2023-02-16"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7a2a0b3c-9bbc-43bd-90e7-f322acdac15d.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzdhMmEwYjNjLTliYmMtNDNiZC05MGU3LWYzMjJhY2RhYzE1ZC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY3NSUyQzAlMkMyNjQ2JTJDMjI2Nw&rect=675%2C0%2C2646%2C2267&w=600",
+  "titleArt": null
 }

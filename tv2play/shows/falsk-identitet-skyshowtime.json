@@ -358,5 +358,7 @@
       "name": "Afsnit 10",
       "airdate": "2025-03-12"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/5b8b0462-9186-4fe5-9548-88b2a3967031.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzViOGIwNDYyLTkxODYtNGZlNS05NTQ4LTg4YjJhMzk2NzAzMS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTc3MiUyQzAlMkMyNTIwJTJDMjE2MA&rect=772%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/7f041e8a-cf5c-455f-a579-be7fea401a47.png?auto=format%2Ccompress&fm=webp"
 }

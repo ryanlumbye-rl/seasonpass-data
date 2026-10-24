@@ -260,5 +260,7 @@
       "name": "Hvis du ikke ser det, så vær det!",
       "airdate": "2024-07-17"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/dc37afba-9d1c-4778-8b72-94d4ab04be57.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2RjMzdhZmJhLTlkMWMtNDc3OC04YjcyLTk0ZDRhYjA0YmU1Ny5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTg1OCUyQzAlMkMyNTIwJTJDMjE2MA&rect=858%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

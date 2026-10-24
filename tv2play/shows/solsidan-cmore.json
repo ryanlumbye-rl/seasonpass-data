@@ -638,5 +638,7 @@
       "name": "Mallorca del 2",
       "airdate": "2025-12-03"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/b3c2f859-a8a5-4bc8-8fd5-383d91df1472.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2IzYzJmODU5LWE4YTUtNGJjOC04ZmQ1LTM4M2Q5MWRmMTQ3Mi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwOTQlMkMwJTJDMjgzNSUyQzI0MzA&rect=1094%2C0%2C2835%2C2430&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/75733d65-996a-4144-8889-85a56ba19bb5.png?auto=format%2Ccompress&fm=webp"
 }

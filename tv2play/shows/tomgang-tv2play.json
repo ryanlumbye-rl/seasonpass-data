@@ -176,5 +176,7 @@
       "name": "På gule plader",
       "airdate": "2015-11-23"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/577ea87f-efc0-41fd-8c5c-65e7e98a28be.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzU3N2VhODdmLWVmYzAtNDFmZC04YzVjLTY1ZTdlOThhMjhiZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY0MSUyQzAlMkMyNTIwJTJDMjE2MA&rect=641%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/1a079d1b-a930-4260-a8a2-19d47a75d798.png?auto=format%2Ccompress&fm=webp"
 }

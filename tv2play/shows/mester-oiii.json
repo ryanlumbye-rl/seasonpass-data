@@ -78,5 +78,7 @@
       "name": "Dagens helt",
       "airdate": "2022-07-16"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/e8f56582-d76b-4297-a35e-5b8a94ee1f17.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2U4ZjU2NTgyLWQ3NmItNDI5Ny1hMzVlLTViOGE5NGVlMWYxNy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExNyUyQzAlMkMxMjYwJTJDMTA4MA&rect=117%2C0%2C1260%2C1080&w=600",
+  "titleArt": null
 }

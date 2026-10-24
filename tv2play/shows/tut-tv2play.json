@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Den unge farao Tutankhamon kæmper for at samle og styrke Egypten, mens magtbegærlige rådgivere og allierede trækker i hver sin retning. 'Tut' er et storslået historisk drama fyldt med kærlighed, forræderi, politiske intriger og blodige magtkampe.",
+  "image": "https://cdn-play.tv2i.dk/a027fbff-0a68-3657-b2c0-42399d7e0337.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "b721c48c-e821-4917-9fea-bd690aeb1c77",
@@ -29,5 +29,7 @@
       "name": "Destiny",
       "airdate": "2026-10-08"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a027fbff-0a68-3657-b2c0-42399d7e0337.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2EwMjdmYmZmLTBhNjgtMzY1Ny1iMmMwLTQyMzk5ZDdlMDMzNy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/66313c2e-fa6c-3df6-899b-e8cdc6da5df8.png?auto=format%2Ccompress&fm=webp"
 }

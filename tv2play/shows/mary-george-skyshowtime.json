@@ -57,5 +57,7 @@
       "name": "War",
       "airdate": "2024-04-26"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3c1d4335-ad21-4937-a308-d96e82ded348.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNjMWQ0MzM1LWFkMjEtNDkzNy1hMzA4LWQ5NmU4MmRlZDM0OC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTAlMkMwJTJDMjUyMCUyQzIxNjA&rect=0%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/0682dafc-eaea-47c4-9cf1-0880aa0beba3.png?auto=format%2Ccompress&fm=webp"
 }

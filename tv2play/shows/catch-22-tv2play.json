@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Den amerikanske bombeskyttekaptajn fra 2. verdenskrig John Yossarian bliver fanget af et bureaukratisk styre.",
+  "image": "https://cdn-play.tv2i.dk/f4ad0799-c368-4286-bb63-2077da3cdef3.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "bfdc058a-9ab6-4053-a332-438de24d7fbd",
@@ -50,5 +50,7 @@
       "name": "Episode 6",
       "airdate": "2023-09-05"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f4ad0799-c368-4286-bb63-2077da3cdef3.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Y0YWQwNzk5LWMzNjgtNDI4Ni1iYjYzLTIwNzdkYTNjZGVmMy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/71f7b71f-1f26-4ac1-8d9a-0cfa1a5e271c.png?auto=format%2Ccompress&fm=webp"
 }

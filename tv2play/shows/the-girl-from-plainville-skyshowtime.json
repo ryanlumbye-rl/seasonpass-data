@@ -64,5 +64,7 @@
       "name": "Blank Spaces",
       "airdate": "2025-09-30"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f948638d-e83d-4763-a253-7ced32751bbc.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Y5NDg2MzhkLWU4M2QtNDc2My1hMjUzLTdjZWQzMjc1MWJiYy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/54f8a976-e5d8-485c-a3f3-644daa60756d.png?auto=format%2Ccompress&fm=webp"
 }

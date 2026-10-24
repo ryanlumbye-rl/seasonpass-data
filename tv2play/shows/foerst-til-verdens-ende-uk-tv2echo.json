@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Fem par har pakket rygsækkene og er klar til en rejse ud over det sædvanlige. Ingen telefoner, intet internet, ingen kreditkort - og ingen flyveture! Lad ræset begynde!",
+  "image": "https://cdn-play.tv2i.dk/17560f21-941b-43dc-80e8-8ebc6e77cb7d.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C5642%2C3135&w=1280",
   "episodes": [
     {
       "id": "6578a240-5ba9-41f4-964d-ce4d45d6d065",
@@ -71,5 +71,7 @@
       "name": "Reunion",
       "airdate": "2025-11-17"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/17560f21-941b-43dc-80e8-8ebc6e77cb7d.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzE3NTYwZjIxLTk0MWItNDNkYy04MGU4LThlYmM2ZTc3Y2I3ZC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTk4NSUyQzAlMkMzNjU4JTJDMzEzNQ&rect=985%2C0%2C3658%2C3135&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/48bceea6-122a-44c9-8cc5-90dcd1a48058.png?auto=format%2Ccompress&fm=webp"
 }

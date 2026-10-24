@@ -64,5 +64,7 @@
       "name": "Hyldesten",
       "airdate": "2026-08-28"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a46d1f55-9599-37f1-b71d-60e7b25182c0.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E0NmQxZjU1LTk1OTktMzdmMS1iNzFkLTYwZTdiMjUxODJjMC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2OSUyQzAlMkMyNTIyJTJDMjE2MA&rect=669%2C0%2C2522%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/71721f99-e141-3658-8143-96030d32dea1.png?auto=format%2Ccompress&fm=webp"
 }

@@ -22,5 +22,7 @@
       "name": "Fodbold-vodcast",
       "airdate": "2026-10-28"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/4db930c5-5188-3a59-83ae-c60a429aa5f7.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzRkYjkzMGM1LTUxODgtM2E1OS04M2FlLWM2MGE0MjlhYTVmNy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyNzAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1270%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/ac36fa22-184f-30fd-8f4c-e5845afcc90d.png?auto=format%2Ccompress&fm=webp"
 }

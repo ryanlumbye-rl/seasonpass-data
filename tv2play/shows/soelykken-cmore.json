@@ -232,5 +232,7 @@
       "name": "Strandet",
       "airdate": "2023-06-05"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/cc8f9e10-0d1c-4ad3-9347-9bd0ecbf4777.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2NjOGY5ZTEwLTBkMWMtNGFkMy05MzQ3LTliZDBlY2JmNDc3Ny5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE0NiUyQzAlMkM1NjAlMkM0ODA&rect=146%2C0%2C560%2C480&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/1221a836-661d-45bf-8789-37d92309ef4d.png?auto=format%2Ccompress&fm=webp"
 }

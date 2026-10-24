@@ -295,5 +295,7 @@
       "name": "Hva' så Roskilde!",
       "airdate": "2026-09-07"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3bdf55d5-74c1-3e89-bb81-0f054c3e41b9.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNiZGY1NWQ1LTc0YzEtM2U4OS1iYjgxLTBmMDU0YzNlNDFiOS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMTglMkMwJTJDMjUyMiUyQzIxNjA&rect=1318%2C0%2C2522%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/b47e88cb-a2a9-3a7b-97f4-76c49624d40b.png?auto=format%2Ccompress&fm=webp"
 }

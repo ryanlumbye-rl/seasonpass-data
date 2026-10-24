@@ -78,5 +78,7 @@
       "name": "Dragsholm Slot",
       "airdate": "2025-01-07"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/d6679b68-27e1-4c41-8e67-a22fa90e75ba.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Q2Njc5YjY4LTI3ZTEtNGM0MS04ZTY3LWEyMmZhOTBlNzViYS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

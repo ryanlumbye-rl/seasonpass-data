@@ -64,5 +64,7 @@
       "name": "Borgmester lægger sig fladt ned",
       "airdate": "2021-12-07"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/e638c0f4-4e2d-4d96-b933-e11271744f94.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2U2MzhjMGY0LTRlMmQtNGQ5Ni1iOTMzLWUxMTI3MTc0NGY5NC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTM0MyUyQzAlMkMxMzEyJTJDMTEyNA&rect=343%2C0%2C1312%2C1124&w=600",
+  "titleArt": null
 }

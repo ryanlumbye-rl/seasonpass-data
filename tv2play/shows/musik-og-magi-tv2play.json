@@ -29,5 +29,7 @@
       "name": "I klientens rolle",
       "airdate": "2026-03-14"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/9569ae5a-08e2-4964-9f64-cb2018cc8f56.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzk1NjlhZTVhLTA4ZTItNDk2NC05ZjY0LWNiMjAxOGNjOGY1Ni5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwMDAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1000%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/daddd812-d342-4f53-9d55-e2d21d1606ac.png?auto=format%2Ccompress&fm=webp"
 }

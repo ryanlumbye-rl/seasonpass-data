@@ -1,0 +1,21 @@
+{
+  "id": "tv2play:sulten-paa-100-knive-none",
+  "name": "Sulten på 100 knive",
+  "service": "tv2",
+  "status": "Unknown",
+  "tmdbId": null,
+  "next": null,
+  "description": "Kok Alexandra Bækgaard og journalist Jacob Weil taler med gæster om deres kærlighed til mad-tv, og især om det, der griber dem ved '100 knive': kokkenes ambitioner, samarbejdet under pres og følelserne bag de retter, der bliver serveret.",
+  "image": "https://cdn-play.tv2i.dk/f3a48351-4811-30a1-a5ac-fde3dface464.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/f3a48351-4811-30a1-a5ac-fde3dface464.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2YzYTQ4MzUxLTQ4MTEtMzBhMS1hNWFjLWZkZTNkZmFjZTQ2NC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQ5OSUyQzAlMkMyNTIwJTJDMjE2MA&rect=499%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/b17d8ced-47d3-395b-80ee-55d95f09e636.png?auto=format%2Ccompress&fm=webp",
+  "episodes": [
+    {
+      "id": "13f1c3e6-1c29-4459-9f8f-8308b29f11bc",
+      "season": 1,
+      "number": 1,
+      "name": "Mere end mad på tallerkenen",
+      "airdate": "2026-10-23"
+    }
+  ]
+}

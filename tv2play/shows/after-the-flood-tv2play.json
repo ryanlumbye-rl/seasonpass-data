@@ -92,5 +92,7 @@
       "name": "Episode 6",
       "airdate": "2026-10-14"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3f532597-c3ff-481b-9a4e-51e97bce57d1.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNmNTMyNTk3LWMzZmYtNDgxYi05YTRlLTUxZTk3YmNlNTdkMS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTgwOCUyQzAlMkMyNDUzJTJDMjEwMg&rect=808%2C0%2C2453%2C2102&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/4f908b30-db7b-4663-b00c-d45e432698de.png?auto=format%2Ccompress&fm=webp"
 }

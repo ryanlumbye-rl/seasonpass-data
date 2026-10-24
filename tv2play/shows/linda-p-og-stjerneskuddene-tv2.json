@@ -50,5 +50,7 @@
       "name": "Showdag - det må briste eller bære",
       "airdate": "2022-06-21"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/b5ca5d8b-6d47-498f-9edc-6d1979b639e4.jpeg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2I1Y2E1ZDhiLTZkNDctNDk4Zi05ZWRjLTZkMTk3OWI2MzllNC5qcGVnP2ZtPXdlYnAmbWFzazY0PWFIUjBjSE02THk5aGMzTmxkSE11Y0d4aGVTNTBkakpoTG1SckwyMWhjMnR6TDNJeWVETmZiV0Z6YTE5Mk15NXdibWMmcmVjdD0xMTIlMkMwJTJDNDE1JTJDMzU2&rect=112%2C0%2C415%2C356&w=600",
+  "titleArt": null
 }

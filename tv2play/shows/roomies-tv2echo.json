@@ -71,5 +71,7 @@
       "name": "Hva' så nu?",
       "airdate": "2018-12-16"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/c12cf266-34c8-47e3-96ab-a265ff500025.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2MxMmNmMjY2LTM0YzgtNDdlMy05NmFiLWEyNjVmZjUwMDAyNS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTI0MiUyQzAlMkMyMDk5JTJDMTgwMA&rect=242%2C0%2C2099%2C1800&w=600",
+  "titleArt": null
 }

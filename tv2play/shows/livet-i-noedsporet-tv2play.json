@@ -50,5 +50,7 @@
       "name": "Enden er nær",
       "airdate": "2011-10-27"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/eeb1080f-0b61-4bde-bf16-43efffec2869.jpeg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2VlYjEwODBmLTBiNjEtNGJkZS1iZjE2LTQzZWZmZmVjMjg2OS5qcGVnP2ZtPXdlYnAmbWFzazY0PWFIUjBjSE02THk5aGMzTmxkSE11Y0d4aGVTNTBkakpoTG1SckwyMWhjMnR6TDNJeWVETmZiV0Z6YTE5Mk15NXdibWMmcmVjdD0xMTIlMkMwJTJDNDE1JTJDMzU2&rect=112%2C0%2C415%2C356&w=600",
+  "titleArt": null
 }

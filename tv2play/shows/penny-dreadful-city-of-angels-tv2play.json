@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Da et grusomt mord ryster Los Angeles i 1938, bliver kriminalbetjent Tiago Vega og hans partner Lewis Michener viklet ind i en episk fortælling, der afspejler byens rige fortid.",
+  "image": "https://cdn-play.tv2i.dk/093dee23-0c9d-4f55-9d6e-cf1c94a79a87.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "43f29f32-c614-4e01-b625-44358f602cfe",
@@ -78,5 +78,7 @@
       "name": "Day of the Dead",
       "airdate": "2021-07-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/093dee23-0c9d-4f55-9d6e-cf1c94a79a87.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzA5M2RlZTIzLTBjOWQtNGY1NS05ZDZlLWNmMWM5NGE3OWE4Ny5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTg3NSUyQzAlMkMyNTIwJTJDMjE2MA&rect=875%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/18bb472d-7de4-4e98-85ca-1cb8c2a16e90.png?auto=format%2Ccompress&fm=webp"
 }

@@ -36,5 +36,7 @@
       "name": "De sidste timer",
       "airdate": "2025-05-08"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/c69bb545-e9a3-4491-9852-8d83b57e0b5c.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2M2OWJiNTQ1LWU5YTMtNDQ5MS05ODUyLThkODNiNTdlMGI1Yy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTk2OSUyQzAlMkMyNTIwJTJDMjE2MA&rect=969%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

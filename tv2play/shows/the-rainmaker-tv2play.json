@@ -78,5 +78,7 @@
       "name": "Episode 10",
       "airdate": "2025-12-10"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f56144a3-efce-49ac-9718-a741a65aec19.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Y1NjE0NGEzLWVmY2UtNDlhYy05NzE4LWE3NDFhNjVhZWMxOS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQ5OSUyQzAlMkMxOTY5JTJDMTY4Nw&rect=499%2C0%2C1969%2C1687&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/222dbf81-0052-419d-b2d4-ff3c24490f10.png?auto=format%2Ccompress&fm=webp"
 }

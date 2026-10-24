@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Kendte danskere kommer på dybt vand, når de skal mestre symaskinen, svinge nål og tråd og give nyt liv til gammelt tøj. Hvem klarer sig bedst i udfordringerne og kan kåres som ny sy-ekspert?",
+  "image": "https://cdn-play.tv2i.dk/7674ebcc-18cd-4628-8e16-22ff64435e6a.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
   "episodes": [
     {
       "id": "65912d6e-72f2-482c-8ce5-3b00439033b3",
@@ -64,5 +64,7 @@
       "name": "Micki Cheng og Salomon Stampe",
       "airdate": "2025-10-11"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7674ebcc-18cd-4628-8e16-22ff64435e6a.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzc2NzRlYmNjLTE4Y2QtNDYyOC04ZTE2LTIyZmY2NDQzNWU2YS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMxMjYwJTJDMTA4MA&rect=660%2C0%2C1260%2C1080&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/f1d925d6-6c6a-4512-b48c-c3b3f0ad441c.png?auto=format%2Ccompress&fm=webp"
 }

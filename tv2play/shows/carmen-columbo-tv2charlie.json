@@ -50,5 +50,7 @@
       "name": "Surprise",
       "airdate": "2011-10-26"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/19676d07-3659-4e08-a940-37569e92553e.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzE5Njc2ZDA3LTM2NTktNGUwOC1hOTQwLTM3NTY5ZTkyNTUzZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

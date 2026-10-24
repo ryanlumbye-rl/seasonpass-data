@@ -617,5 +617,7 @@
       "name": "Episode 10",
       "airdate": "2026-09-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/595e03f9-424c-3ea4-849d-96e9e396c2b8.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzU5NWUwM2Y5LTQyNGMtM2VhNC04NDlkLTk2ZTllMzk2YzJiOC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTcxMyUyQzAlMkMyNTIwJTJDMjE2MA&rect=713%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/7a35f80f-acaa-464d-8544-d7690cad712f.png?auto=format%2Ccompress&fm=webp"
 }

@@ -64,5 +64,7 @@
       "name": "Håb",
       "airdate": "2023-07-10"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/5de09efe-adb2-4e22-b3b3-4b59b1576d2d.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzVkZTA5ZWZlLWFkYjItNGUyMi1iM2IzLTRiNTliMTU3NmQyZC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQxOSUyQzAlMkMyNTIwJTJDMjE2MA&rect=419%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/58670d79-dddd-42d2-ba85-7aa4412cf236.png?auto=format%2Ccompress&fm=webp"
 }
