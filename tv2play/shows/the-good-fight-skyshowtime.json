@@ -428,5 +428,7 @@
       "name": "The End of Everything",
       "airdate": "2025-07-09"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/5ee9d83f-9497-4b00-a022-74fd32dda24b.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzVlZTlkODNmLTk0OTctNGIwMC1hMDIyLTc0ZmQzMmRkYTI0Yi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExOTIlMkMwJTJDMjUyMCUyQzIxNjA&rect=1192%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/b9c78b5f-3054-4daf-b90c-f054456771d0.png?auto=format%2Ccompress&fm=webp"
 }

@@ -463,5 +463,7 @@
       "name": "Cookie i planerne",
       "airdate": "2023-03-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f2e8b112-7522-4f88-b533-e25758b75a85.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2YyZThiMTEyLTc1MjItNGY4OC1iNTMzLWUyNTc1OGI3NWE4NS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

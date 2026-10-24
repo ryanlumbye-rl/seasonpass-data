@@ -64,5 +64,7 @@
       "name": "All about Wonderland",
       "airdate": "2023-07-21"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/af75b949-73cc-43f3-9cff-7864b29e39ce.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2FmNzViOTQ5LTczY2MtNDNmMy05Y2ZmLTc4NjRiMjllMzljZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwNzMlMkMwJTJDMjUyMCUyQzIxNjA&rect=1073%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/61169d55-817d-40fc-9b20-2bad260aa9cf.png?auto=format%2Ccompress&fm=webp"
 }

@@ -7,6 +7,8 @@
   "next": null,
   "description": "USA's grænse strækker sig over cirka 31.000 km, så det siger sig selv, at der stilles store krav til de mænd og kvinder fra US Department of Homeland Security, der skal sikre deres medborgere mod f.eks. terrorangreb. Fra høje bjerge og knastørre ørkener over havne, lufthavne og til det åbne hav - ja, selv i cyberspace - holder grænsebetjentene et vågent øje med alt, hvad der bevæger sig. Og der er meget at holde øje med, både når det gælder menneskesmugling, illegal indvandring, narko- og våbensmugling og potentielle terrorister.",
   "image": "https://cdn-play.tv2i.dk/d1eaced6-fbfe-4664-ac45-f57f3e68c90e.jpeg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1011%2C562&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/d1eaced6-fbfe-4664-ac45-f57f3e68c90e.jpeg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2QxZWFjZWQ2LWZiZmUtNDY2NC1hYzQ1LWY1N2YzZTY4YzkwZS5qcGVnP2ZtPXdlYnAmbWFzazY0PWFIUjBjSE02THk5aGMzTmxkSE11Y0d4aGVTNTBkakpoTG1SckwyMWhjMnR6TDNJeWVETmZiV0Z6YTE5Mk15NXdibWMmcmVjdD0xNzclMkMwJTJDNjU2JTJDNTYy&rect=177%2C0%2C656%2C562&w=600",
+  "titleArt": null,
   "episodes": [
     {
       "id": "9321f70f-9556-4abb-891c-0d03926c89af",
@@ -35,6 +37,27 @@
       "number": 4,
       "name": "Grænsevagt i USA",
       "airdate": "2018-12-04"
+    },
+    {
+      "id": "787e8e88-bcf3-4429-a056-4f77793d54dd",
+      "season": 2,
+      "number": 5,
+      "name": "Grænsevagt i USA",
+      "airdate": "2018-12-05"
+    },
+    {
+      "id": "6116e042-2198-492a-bfb6-d8ea2894c701",
+      "season": 2,
+      "number": 6,
+      "name": "Grænsevagt i USA",
+      "airdate": "2018-12-05"
+    },
+    {
+      "id": "9aedfe93-aa6e-4831-93e8-5a8ba7251a0b",
+      "season": 2,
+      "number": 7,
+      "name": "Grænsevagt i USA",
+      "airdate": "2018-12-06"
     }
   ]
 }

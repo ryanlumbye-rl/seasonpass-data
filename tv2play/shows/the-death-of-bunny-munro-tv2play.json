@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Rejsesælgeren Bunny Munro tager sin søn med på en tur rundt i Sussex efter sin kone Libbys død. Mens Bunnys sorg og hans afhængighed truer med at ødelægge deres roadtrip fuldstændigt, bevæger en seriemorder, klædt ud som djævelen, sig ned mod Brighton.",
+  "image": "https://cdn-play.tv2i.dk/7f00027c-d82b-44c9-91ef-631124974c0f.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3839%2C2159&w=1280",
   "episodes": [
     {
       "id": "5ff1d57a-a0d5-4256-91d4-abb6cb4bfb63",
@@ -50,5 +50,7 @@
       "name": "Showman",
       "airdate": "2026-01-30"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7f00027c-d82b-44c9-91ef-631124974c0f.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzdmMDAwMjdjLWQ4MmItNDRjOS05MWVmLTYzMTEyNDk3NGMwZi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyNjQlMkMwJTJDMjUxOSUyQzIxNTk&rect=1264%2C0%2C2519%2C2159&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/b8d803c3-af2e-483f-a8ef-7565e1a90fcd.png?auto=format%2Ccompress&fm=webp"
 }

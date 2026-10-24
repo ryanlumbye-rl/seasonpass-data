@@ -288,5 +288,7 @@
       "name": "Hurtigt langsomt, hurtigt langsomt",
       "airdate": "2020-12-31"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/47081d02-cd73-40ef-b67a-52eceaee49dc.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQ3MDgxZDAyLWNkNzMtNDBlZi1iNjdhLTUyZWNlYWVlNDlkYy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyNjglMkMwJTJDMjUyMCUyQzIxNjI&rect=1268%2C0%2C2520%2C2162&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/a7ccb608-9381-4119-ac2c-09f46563d8ba.png?auto=format%2Ccompress&fm=webp"
 }

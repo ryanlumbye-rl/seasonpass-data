@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Ti år efter college dropper Bumper Allen sit liv som sikkerhedsvagt og flytter til Berlin for at gøre sin drøm om at blive popstjerne til virkelighed.",
+  "image": "https://cdn-play.tv2i.dk/44c6daa0-b786-4a28-8358-d0a43e3dc44b.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "77dc9fdb-6117-405c-873d-a06aaa37213d",
@@ -50,5 +50,7 @@
       "name": "Lebensabschnittspartner",
       "airdate": "2022-12-22"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/44c6daa0-b786-4a28-8358-d0a43e3dc44b.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQ0YzZkYWEwLWI3ODYtNGEyOC04MzU4LWQwYTQzZTNkYzQ0Yi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE3MSUyQzAlMkMyNTE5JTJDMjE1OQ&rect=171%2C0%2C2519%2C2159&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/d539d4f7-e7d1-4a39-911a-9656c93e646b.png?auto=format%2Ccompress&fm=webp"
 }

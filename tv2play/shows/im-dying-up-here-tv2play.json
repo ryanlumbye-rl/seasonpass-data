@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Hos Goldie's på Sunset Strip, arbejder en gruppe lovende komikere på deres stand-up. Her møder de rivaler, men også familie. Når det går godt for en af dem, går det også godt for gruppen. Og når det går skidt for en af dem, går det også skidt for gruppen.",
+  "image": "https://cdn-play.tv2i.dk/3dd96f4d-04dc-440b-806f-8545e2f71fab.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1943%2C1080&w=1280",
   "episodes": [
     {
       "id": "fb0a4efd-9e71-4fe2-a2be-d4a6bc7625d8",
@@ -148,5 +148,7 @@
       "name": "Lines Crossed",
       "airdate": "2021-07-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3dd96f4d-04dc-440b-806f-8545e2f71fab.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNkZDk2ZjRkLTA0ZGMtNDQwYi04MDZmLTg1NDVlMmY3MWZhYi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTMxNiUyQzAlMkMxMjYwJTJDMTA4MA&rect=316%2C0%2C1260%2C1080&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/025f30a7-abd9-30a5-a29a-3262355c9a9d.png?auto=format%2Ccompress&fm=webp"
 }

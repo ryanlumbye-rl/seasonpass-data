@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "I denne dramaserie instrueret af danske Susanne Bier går vi tæt på distinkte og ikoniske amerikanske førstedamer. I første sæson stifter vi bekendtskab med Michelle Obama (Viola Davis), Betty Ford (Michelle Pfeiffer) og Eleanor Roosevelt (Gillian Anderson).",
+  "image": "https://cdn-play.tv2i.dk/bbfd2721-0c79-42fd-9e17-44193715c070.jpg?auto=format%2Ccompress&fm=webp&rect=959%2C172%2C2881%2C1620&w=1280",
   "episodes": [
     {
       "id": "6a0dc6cc-8ad0-44e3-82ce-304193c65798",
@@ -78,5 +78,7 @@
       "name": "Victory Dance",
       "airdate": "2022-06-20"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/bbfd2721-0c79-42fd-9e17-44193715c070.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2JiZmQyNzIxLTBjNzktNDJmZC05ZTE3LTQ0MTkzNzE1YzA3MC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExNDAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1140%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/0b44bb9d-77b9-43fd-ac6b-3c9067bc7297.png?auto=format%2Ccompress&fm=webp"
 }

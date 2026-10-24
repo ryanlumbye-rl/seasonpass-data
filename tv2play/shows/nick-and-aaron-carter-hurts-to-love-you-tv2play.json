@@ -22,5 +22,7 @@
       "name": "Del 2",
       "airdate": "2025-11-09"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3cab1dfa-59b9-48fc-92fe-1ddb742410c3.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNjYWIxZGZhLTU5YjktNDhmYy05MmZlLTFkZGI3NDI0MTBjMy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/ce19ca7d-a970-46e8-a77f-5bc9d160c2aa.png?auto=format%2Ccompress&fm=webp"
 }

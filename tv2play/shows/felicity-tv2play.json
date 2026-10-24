@@ -596,5 +596,7 @@
       "name": "Back to the Future",
       "airdate": "2011-12-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/c5d5f80f-87b9-4837-a74e-2667bc3208cd.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2M1ZDVmODBmLTg3YjktNDgzNy1hNzRlLTI2NjdiYzMyMDhjZC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTc1MCUyQzAlMkMyNTIxJTJDMjE2MQ&rect=750%2C0%2C2521%2C2161&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/bf0ce9e7-902c-4391-b02a-e42ccf27504e.png?auto=format%2Ccompress&fm=webp"
 }

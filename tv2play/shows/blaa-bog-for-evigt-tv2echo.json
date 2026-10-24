@@ -43,5 +43,7 @@
       "name": "Afgang",
       "airdate": "2021-10-04"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/ef304f68-8de9-3789-a97d-2dd8ced7e354.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2VmMzA0ZjY4LThkZTktMzc4OS1hOTdkLTJkZDhjZWQ3ZTM1NC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTU5MCUyQzAlMkMyNTE5JTJDMjE2MA&rect=590%2C0%2C2519%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/e405b807-d84a-3415-916c-b6a2be1ba0de.png?auto=format%2Ccompress&fm=webp"
 }

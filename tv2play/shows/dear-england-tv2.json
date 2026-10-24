@@ -36,5 +36,7 @@
       "name": "Sidste chance",
       "airdate": "2026-06-09"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/c44dc9e7-3450-3626-84b6-4c67d3355065.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2M0NGRjOWU3LTM0NTAtMzYyNi04NGI2LTRjNjdkMzM1NTA2NS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMxMjYwJTJDMTA4MA&rect=660%2C0%2C1260%2C1080&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/76bb3626-6ac3-39a7-bd5f-098b635eed1c.png?auto=format%2Ccompress&fm=webp"
 }

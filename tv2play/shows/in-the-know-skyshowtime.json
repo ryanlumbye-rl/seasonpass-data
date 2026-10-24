@@ -50,5 +50,7 @@
       "name": "Thinksgiving",
       "airdate": "2024-07-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f239f3b9-925b-4a7c-ae1a-6cd18141c17e.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2YyMzlmM2I5LTkyNWItNGE3Yy1hZTFhLTZjZDE4MTQxYzE3ZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTYzMiUyQzAlMkMyNDE1JTJDMjA3MA&rect=632%2C0%2C2415%2C2070&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/3bb9287e-7a67-4036-8dca-699947f02218.png?auto=format%2Ccompress&fm=webp"
 }

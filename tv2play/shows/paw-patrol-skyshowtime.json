@@ -387,6 +387,13 @@
       "airdate": "2022-01-15"
     },
     {
+      "id": "d72ccec2-4a25-476e-8b64-b55f8d034470",
+      "season": 3,
+      "number": 17,
+      "name": "Verdensmestervovser / Vovserne redder Sportsdagen",
+      "airdate": "2022-01-15"
+    },
+    {
       "id": "bc59f749-5c21-4601-8f32-a80f58e50599",
       "season": 3,
       "number": 18,
@@ -1849,5 +1856,7 @@
       "name": "Vovserne redder en hum-sparker",
       "airdate": "2026-06-29"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/2bcc734d-269f-41e6-89d1-3c47d49ae354.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzJiY2M3MzRkLTI2OWYtNDFlNi04OWQxLTNjNDdkNDlhZTM1NC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTc0MSUyQzAlMkMyNTIyJTJDMjE2MA&rect=741%2C0%2C2522%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/f3fbfbae-7b27-42c0-ac3d-2319335df51b.png?auto=format%2Ccompress&fm=webp"
 }

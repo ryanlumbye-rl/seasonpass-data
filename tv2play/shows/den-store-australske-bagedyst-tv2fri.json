@@ -78,5 +78,7 @@
       "name": "Finale",
       "airdate": "2024-07-28"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/fcaaf532-8fd8-4ed4-a7a5-eb62716acfc2.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2ZjYWFmNTMyLThmZDgtNGVkNC1hN2E1LWViNjI3MTZhY2ZjMi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTcyMCUyQzAlMkMyNTIxJTJDMjE2MA&rect=720%2C0%2C2521%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/a90a4628-4bfe-4153-a886-74c405c17ff0.png?auto=format%2Ccompress&fm=webp"
 }

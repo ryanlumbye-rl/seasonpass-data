@@ -36,5 +36,7 @@
       "name": "Episode 4",
       "airdate": "2026-03-25"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/34fa7006-0044-43ca-9f11-d469bb143fdb.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzM0ZmE3MDA2LTAwNDQtNDNjYS05ZjExLWQ0NjliYjE0M2ZkYi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/0d252364-d013-40aa-867b-a4c96c3135f6.png?auto=format%2Ccompress&fm=webp"
 }

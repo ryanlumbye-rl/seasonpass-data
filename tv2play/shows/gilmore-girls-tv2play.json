@@ -7,6 +7,8 @@
   "next": "2026-10-30",
   "description": "I den hyggelige by Stars Hollow følger vi den skarpe og selvstændige Lorelai Gilmore og hendes kvikke datter Rory. Mens Rory tager sine første skridt mod voksenlivet, udfordres det tætte mor-datter-bånd af kærlighed, drømme og svære valg.",
   "image": "https://cdn-play.tv2i.dk/b763566f-9740-3e17-ad3e-57d45c4d3e69.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/b763566f-9740-3e17-ad3e-57d45c4d3e69.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2I3NjM1NjZmLTk3NDAtM2UxNy1hZDNlLTU3ZDQ1YzRkM2U2OS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/99b8a5ea-947d-32dc-a54e-a636c97f2d20.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "59a51c3d-33db-4cc5-8575-c8d9a07ae505",
@@ -315,6 +317,160 @@
       "number": 1,
       "name": "Those Lazy-Hazy-Crazy Days",
       "airdate": "2026-10-23"
+    },
+    {
+      "id": "c9a376ea-6b7f-442e-9381-6563d3ae6570",
+      "season": 3,
+      "number": 2,
+      "name": "Haunted Leg",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "3343f256-4f27-475a-aa2c-8fd9bc1cd1b2",
+      "season": 3,
+      "number": 3,
+      "name": "Application Anxiety",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "8185bfdf-63de-4eda-b5e2-c3bd3f3fcda9",
+      "season": 3,
+      "number": 4,
+      "name": "One's Got Class and the Other One Dyes",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "ce2e378f-8806-4266-881d-d47d0cab95e6",
+      "season": 3,
+      "number": 5,
+      "name": "Eight O'Clock at the Oasis",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "93ae7bb3-e599-499e-a20a-41e95e7f2805",
+      "season": 3,
+      "number": 6,
+      "name": "Take the Deviled Eggs...",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "e45f3288-e045-46bc-9fa2-8b64f89cf734",
+      "season": 3,
+      "number": 7,
+      "name": "They Shoot Gilmores, Don't They?",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "4d9824d1-385b-450a-8162-f9aca8706278",
+      "season": 3,
+      "number": 8,
+      "name": "Let the Games Begin",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "f91bd0aa-3539-43c0-8b95-d14665e781b0",
+      "season": 3,
+      "number": 9,
+      "name": "A Deep-Fried Korean Thanksgiving",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "261d7a01-92fa-4348-9579-f5e422c274fe",
+      "season": 3,
+      "number": 10,
+      "name": "That'll Do, Pig",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "ad2839b2-2566-4a44-b5d1-e166d068505e",
+      "season": 3,
+      "number": 11,
+      "name": "I Solemnly Swear...",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "ce6e43ba-a6c7-45c1-a787-b964c77d2849",
+      "season": 3,
+      "number": 12,
+      "name": "Lorelai Out of Water",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "15002f02-7984-47c6-bb37-b7255b00d4df",
+      "season": 3,
+      "number": 13,
+      "name": "Dear Emily and Richard",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "070b3579-b2d3-4488-8b23-5e72e86eff61",
+      "season": 3,
+      "number": 14,
+      "name": "Swan Song",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "477587ab-93c9-4b3f-97a8-c9a855af5866",
+      "season": 3,
+      "number": 15,
+      "name": "Face-Off",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "eee0c9ff-f3e9-4b4a-bf64-17a800bcb741",
+      "season": 3,
+      "number": 16,
+      "name": "The Big One",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "9bd4d207-5784-4526-a56e-a8474028a494",
+      "season": 3,
+      "number": 17,
+      "name": "A Tale of Poes and Fire",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "673599f5-43ef-4934-9962-3fdf1dd00abe",
+      "season": 3,
+      "number": 18,
+      "name": "Happy Birthday, Baby",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "44b203bb-33b9-4939-8bee-48c52d2bd495",
+      "season": 3,
+      "number": 19,
+      "name": "Keg! Max!",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "10236419-4270-4cac-aae6-ea54230e1b04",
+      "season": 3,
+      "number": 20,
+      "name": "Say Goodnight, Gracie",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "2c75ffcc-e43c-4467-b349-d9c9696058d3",
+      "season": 3,
+      "number": 21,
+      "name": "Here Comes the Son",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "a125c684-284e-48d8-9927-4c4d4ac32c15",
+      "season": 3,
+      "number": 22,
+      "name": "Those Are Strings, Pinocchio",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "77f13de9-754f-4590-806b-259de561fb2a",
+      "season": 4,
+      "number": 1,
+      "name": "Ballrooms and Biscotti",
+      "airdate": "2026-10-30"
     }
   ]
 }

@@ -7,6 +7,8 @@
   "next": "2026-10-28",
   "description": "Er du også i tvivl om alt fra boligkøb til børneopdragelse og aktier? På 20 minutter hjælper nogle af Danmarks skarpeste eksperter dig uden om de største fælder, giver konkrete råd og en handlingsplan, der gør det nemt at tage næste skridt med det samme.",
   "image": "https://cdn-play.tv2i.dk/376eada8-605b-35ba-8eef-41517818d328.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/376eada8-605b-35ba-8eef-41517818d328.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzM3NmVhZGE4LTYwNWItMzViYS04ZWVmLTQxNTE3ODE4ZDMyOC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTAlMkMwJTJDMjUyMCUyQzIxNjA&rect=0%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/3f2e821f-6028-3294-bb1b-4854f012e8b2.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "354d0757-52ac-4dae-ba53-bd1c58aed1b3",
@@ -26,7 +28,7 @@
       "id": "8bf5cf79-0028-428f-8db9-d6c5bb14c48b",
       "season": 1,
       "number": 3,
-      "name": "For begyndere",
+      "name": "Privatøkonomi for begyndere",
       "airdate": "2026-10-28"
     }
   ]

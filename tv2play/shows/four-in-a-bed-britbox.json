@@ -92,5 +92,7 @@
       "name": "Episode 82",
       "airdate": "2023-05-08"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/1cfbbd32-1817-4ff9-a647-b4a48c5603f0.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzFjZmJiZDMyLTE4MTctNGZmOS1hNjQ3LWI0YTQ4YzU2MDNmMC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/60d00e8d-acf4-4fd2-9f79-268779133f00.png?auto=format%2Ccompress&fm=webp"
 }

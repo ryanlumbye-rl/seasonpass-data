@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "De erfarne krimireportere Carsten Norton og Janni Pedersen fra TV 2s krimimagasin ’Skyggesiden’ gør seerne klogere på afsløringerne i dokumentaren ’Den sorte svane’",
+  "image": "https://cdn-play.tv2i.dk/d9dfd26f-dede-481e-9742-3c597f5b1ccb.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "3b2f6b31-372a-4615-8ff4-02db1bc0d80f",
@@ -15,5 +15,7 @@
       "name": "Sorteper",
       "airdate": "2025-06-18"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/d9dfd26f-dede-481e-9742-3c597f5b1ccb.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Q5ZGZkMjZmLWRlZGUtNDgxZS05NzQyLTNjNTk3ZjViMWNjYi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/b4299a9e-bdc1-41d9-a2d2-e12bfc412bf5.png?auto=format%2Ccompress&fm=webp"
 }

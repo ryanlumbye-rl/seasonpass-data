@@ -7,6 +7,8 @@
   "next": null,
   "description": "Tiny Chef er vært for et plantebaseret madlavningsshow med sine bedste venner Olly, Ruby og Henry.",
   "image": "https://cdn-play.tv2i.dk/b01079ae-20f3-4f5d-ae4e-da5250e97d3e.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3468%2C1951&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/b01079ae-20f3-4f5d-ae4e-da5250e97d3e.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2IwMTA3OWFlLTIwZjMtNGY1ZC1hZTRlLWRhNTI1MGU5N2QzZS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExMjIlMkMwJTJDMjI3NiUyQzE5NTE&rect=1122%2C0%2C2276%2C1951&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/6f231be7-ec8a-4013-b1dc-32d9b59a33a6.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "f5098427-497b-4fdf-84d2-986bf3f9aa2f",
@@ -125,6 +127,13 @@
       "season": 2,
       "number": 9,
       "name": "Dinokage og dumplings",
+      "airdate": "2025-04-19"
+    },
+    {
+      "id": "2d3a8406-bd17-4622-9ec6-3f0bd2fd0865",
+      "season": 2,
+      "number": 10,
+      "name": "Avocadoshushi og poi",
       "airdate": "2025-04-19"
     },
     {

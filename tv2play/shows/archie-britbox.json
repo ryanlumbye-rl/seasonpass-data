@@ -36,5 +36,7 @@
       "name": "Episode 4",
       "airdate": "2023-12-14"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/d1f8812d-6ec5-4ec9-893d-6c1dbacc8493.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2QxZjg4MTJkLTZlYzUtNGVjOS04OTNkLTZjMWRiYWNjODQ5My5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyOTYlMkMwJTJDMjUyMCUyQzIxNjA&rect=1296%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/cb5283ca-ea78-4325-a4dd-dbf692c66805.png?auto=format%2Ccompress&fm=webp"
 }

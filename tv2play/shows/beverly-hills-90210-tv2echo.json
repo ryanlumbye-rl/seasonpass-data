@@ -7,6 +7,8 @@
   "next": null,
   "description": "Se eller gense USAs hotteste serie om unge og deres familier i verdens rigeste kvarter, hvor succes er en livsstil, penge er en selvfølge og ægte kærlighed er en sjældenhed.",
   "image": "https://cdn-play.tv2i.dk/a819f546-1e59-4537-a555-8cd8a6c9b82c.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/a819f546-1e59-4537-a555-8cd8a6c9b82c.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E4MTlmNTQ2LTFlNTktNDUzNy1hNTU1LThjZDhhNmM5YjgyYy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTcwNSUyQzAlMkMyNTIwJTJDMjE2MA&rect=705%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/2a3973f7-8d18-43ad-bfd1-53d71f7d79c8.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "d47f8d1c-e94f-42b8-a679-aa7a298a4f28",
@@ -637,6 +639,13 @@
       "number": 11,
       "name": "Take Back the Night",
       "airdate": "1994-05-19"
+    },
+    {
+      "id": "031ee656-7bc7-41e3-be75-fd324ab024e4",
+      "season": 4,
+      "number": 12,
+      "name": "Radar Love",
+      "airdate": "1994-05-26"
     },
     {
       "id": "5145ae53-fa34-4aef-901e-303a8ae008fd",

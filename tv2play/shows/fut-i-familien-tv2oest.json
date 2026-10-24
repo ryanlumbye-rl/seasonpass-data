@@ -36,5 +36,7 @@
       "name": "Den sidste udfordring",
       "airdate": "2025-05-13"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/5d036666-db6c-4bec-a888-0a0b0ad1b03c.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzVkMDM2NjY2LWRiNmMtNGJlYy1hODg4LTBhMGIwYWQxYjAzYy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwNTklMkMwJTJDMjUyMCUyQzIxNjA&rect=1059%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

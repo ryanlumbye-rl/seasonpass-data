@@ -246,5 +246,7 @@
       "name": "White Box",
       "airdate": "2023-11-29"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a1fb8776-6e09-4a78-9242-f68fa0a38c08.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2ExZmI4Nzc2LTZlMDktNGE3OC05MjQyLWY2OGZhMGEzOGMwOC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwODglMkMwJTJDMjUyMCUyQzIxNjA&rect=1088%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/20e4a8dd-32df-42e6-8d19-4e9896c32fc2.png?auto=format%2Ccompress&fm=webp"
 }

@@ -29,5 +29,7 @@
       "name": "Episode 3",
       "airdate": "2025-08-03"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7548c133-7869-4c6f-9657-9528c93bd29c.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzc1NDhjMTMzLTc4NjktNGM2Zi05NjU3LTk1MjhjOTNiZDI5Yy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTUwMyUyQzAlMkMxOTE4JTJDMTY0NA&rect=503%2C0%2C1918%2C1644&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/eeb149fa-0870-4647-b245-d0d8a4662154.png?auto=format%2Ccompress&fm=webp"
 }

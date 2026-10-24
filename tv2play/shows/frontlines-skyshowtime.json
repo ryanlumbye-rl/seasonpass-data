@@ -64,5 +64,7 @@
       "name": "Berlin",
       "airdate": "2025-05-04"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3ef92be6-b9a3-4203-abad-30126920a741.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNlZjkyYmU2LWI5YTMtNDIwMy1hYmFkLTMwMTI2OTIwYTc0MS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyMzMlMkMwJTJDMjUyMCUyQzIxNjA&rect=1233%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/e49c9369-63dd-4c49-b8e3-7bc1b10d5192.png?auto=format%2Ccompress&fm=webp"
 }

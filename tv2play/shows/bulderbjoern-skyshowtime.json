@@ -211,5 +211,7 @@
       "name": "Den værste dårlige dag nogensinde",
       "airdate": "2024-05-25"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/74c22fcd-a8e4-4b69-aac3-60a8c356600f.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzc0YzIyZmNkLWE4ZTQtNGI2OS1hYWMzLTYwYThjMzU2NjAwZi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTYxMiUyQzAlMkMyMzQwJTJDMjAwNQ&rect=612%2C0%2C2340%2C2005&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/95c78b92-78ec-40c0-91a3-13b15105e747.png?auto=format%2Ccompress&fm=webp"
 }

@@ -29,5 +29,7 @@
       "name": "Er der tale om drab?",
       "airdate": "2023-10-09"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3938170a-f4e9-4877-b431-b9183e59b64e.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzM5MzgxNzBhLWY0ZTktNDg3Ny1iNDMxLWI5MTgzZTU5YjY0ZS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY3NyUyQzAlMkMyNTIwJTJDMjE2MA&rect=677%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

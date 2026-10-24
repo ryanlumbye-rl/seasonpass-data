@@ -148,5 +148,7 @@
       "name": "Vinduer",
       "airdate": "2025-07-10"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/454a4ec1-53c3-4671-812c-9f2ee2a4951e.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQ1NGE0ZWMxLTUzYzMtNDY3MS04MTJjLTlmMmVlMmE0OTUxZS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTYzMCUyQzAlMkMyNTIwJTJDMjE2MA&rect=630%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/ad0d2a96-6f5e-4a4f-b41a-2af476732f18.png?auto=format%2Ccompress&fm=webp"
 }

@@ -1457,5 +1457,7 @@
       "name": "I den gode sags tjeneste",
       "airdate": "2018-05-27"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/02e2b2fe-ca8c-4030-9d0d-ae954b4d3512.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzAyZTJiMmZlLWNhOGMtNDAzMC05ZDBkLWFlOTU0YjRkMzUxMi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTczNiUyQzAlMkMyNTIxJTJDMjE2MA&rect=736%2C0%2C2521%2C2160&w=600",
+  "titleArt": null
 }

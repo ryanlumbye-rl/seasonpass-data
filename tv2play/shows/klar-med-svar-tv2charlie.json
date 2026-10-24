@@ -120,5 +120,7 @@
       "name": "Eventyr og landbrug",
       "airdate": "2024-07-27"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/4e133e48-65d6-4bcf-8657-1903d9c30d5f.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzRlMTMzZTQ4LTY1ZDYtNGJjZi04NjU3LTE5MDNkOWMzMGQ1Zi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE0ODElMkMwJTJDNTY3MCUyQzQ4NjA&rect=1481%2C0%2C5670%2C4860&w=600",
+  "titleArt": null
 }

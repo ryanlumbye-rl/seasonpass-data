@@ -120,5 +120,7 @@
       "name": "Summer",
       "airdate": "2023-05-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/2da60d36-6dec-4d74-9a9f-6d0cad502f30.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzJkYTYwZDM2LTZkZWMtNGQ3NC05YTlmLTZkMGNhZDUwMmYzMC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExMTUlMkMwJTJDMjUzMyUyQzIxNzE&rect=1115%2C0%2C2533%2C2171&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/cb536ddd-5e4b-495f-a9c1-d948527614e9.png?auto=format%2Ccompress&fm=webp"
 }

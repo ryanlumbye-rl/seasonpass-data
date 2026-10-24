@@ -99,5 +99,7 @@
       "name": "Happy end",
       "airdate": "2017-04-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f3336877-2c09-49dc-bacd-c0d4254cc13e.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2YzMzM2ODc3LTJjMDktNDlkYy1iYWNkLWMwZDQyNTRjYzEzZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY1OCUyQzAlMkMyNTIwJTJDMjE2MA&rect=658%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/feb961fe-1eb7-42fb-af92-8da0d0376ac2.png?auto=format%2Ccompress&fm=webp"
 }

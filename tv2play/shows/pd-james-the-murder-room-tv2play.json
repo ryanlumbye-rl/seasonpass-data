@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Adam Dalgliesh bliver trukket ind i en mørk sag, da et brutalt mord ryster et eksklusivt museum fyldt med hemmeligheder. Mens mistanken spreder sig blandt de indflydelsesrige medlemmer, afdækker efterforskningen et net af løgne, jalousi og fortidens synder.",
+  "image": "https://cdn-play.tv2i.dk/9099a496-2c37-3eb4-be5d-6aa92e2250dc.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "b4fc4e24-4e87-450c-b6af-07e063c6f4f0",
@@ -22,5 +22,7 @@
       "name": "Episode 2",
       "airdate": "2026-09-25"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/9099a496-2c37-3eb4-be5d-6aa92e2250dc.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzkwOTlhNDk2LTJjMzctM2ViNC1iZTVkLTZhYTkyZTIyNTBkYy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/354fdd83-e72f-3f1c-a18f-402f76e68f30.png?auto=format%2Ccompress&fm=webp"
 }

@@ -22,5 +22,7 @@
       "name": "Episode 2",
       "airdate": "2025-02-19"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/1d1bde93-7d1a-40d6-9c9a-9a11e4c6c395.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzFkMWJkZTkzLTdkMWEtNDBkNi05YzlhLTlhMTFlNGM2YzM5NS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTYzNSUyQzAlMkMyNDIyJTJDMjA3Ng&rect=635%2C0%2C2422%2C2076&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/60125511-9055-4b1d-9117-c4d7f8077e12.png?auto=format%2Ccompress&fm=webp"
 }

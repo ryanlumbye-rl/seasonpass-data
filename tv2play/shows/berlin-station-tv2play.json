@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Sagsbehandleren Daniel Miller, der netop er ankommet til CIA's station i Berlin, er på en hemmelig mission for at afsløre kilden til en lækage, mens han kæmper med bedrag, farer og moralske kompromiser.",
+  "image": "https://cdn-play.tv2i.dk/1ac453d5-eff3-4247-8d8b-b10939e5d73c.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3835%2C2159&w=1280",
   "episodes": [
     {
       "id": "24a4d6f4-9bbe-4ad0-aa32-f5431f3a21c0",
@@ -211,5 +211,7 @@
       "name": "Book of the Fallen",
       "airdate": "2023-12-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/1ac453d5-eff3-4247-8d8b-b10939e5d73c.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzFhYzQ1M2Q1LWVmZjMtNDI0Ny04ZDhiLWIxMDkzOWU1ZDczYy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY1MyUyQzAlMkMyNTE3JTJDMjE1OQ&rect=653%2C0%2C2517%2C2159&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/b2a92634-427b-46ac-b8c5-7fc6980b9683.png?auto=format%2Ccompress&fm=webp"
 }

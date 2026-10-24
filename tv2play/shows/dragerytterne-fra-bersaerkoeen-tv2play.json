@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Hikke, Tandløs og Drageridderne møder barske nye lande, drager der ikke kan tæmmes og fjender, som er fast besluttet på at ødelægge harmonien mellem vikingerne og dragerne.",
+  "image": "https://cdn-play.tv2i.dk/86396288-2691-484b-ba83-fb980855b4d5.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "e6a2a7b1-cee9-4f19-9730-85077f8636b0",
@@ -288,5 +288,7 @@
       "name": "Udstødt - del 2",
       "airdate": "2024-11-08"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/86396288-2691-484b-ba83-fb980855b4d5.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzg2Mzk2Mjg4LTI2OTEtNDg0Yi1iYTgzLWZiOTgwODU1YjRkNS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExNTYlMkMwJTJDMjUyMCUyQzIxNjA&rect=1156%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/0a486ee5-b5a7-34e1-8a74-c6de9ddc6cd6.png?auto=format%2Ccompress&fm=webp"
 }

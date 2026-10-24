@@ -64,5 +64,7 @@
       "name": "Finalen",
       "airdate": "2017-05-22"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f719b321-cf37-4269-9fe4-e93edf990e5c.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2Y3MTliMzIxLWNmMzctNDI2OS05ZmU0LWU5M2VkZjk5MGU1Yy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTMwMCUyQzAlMkMyMTAwJTJDMTgwMA&rect=300%2C0%2C2100%2C1800&w=600",
+  "titleArt": null
 }

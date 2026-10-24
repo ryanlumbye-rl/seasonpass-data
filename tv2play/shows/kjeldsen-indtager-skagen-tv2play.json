@@ -57,5 +57,7 @@
       "name": "Grand opening",
       "airdate": "2026-09-23"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/c35a2c7e-b1f9-3648-9cb6-955ed6e82243.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2MzNWEyYzdlLWIxZjktMzY0OC05Y2I2LTk1NWVkNmU4MjI0My5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTk0NSUyQzAlMkMyNTIwJTJDMjE2MA&rect=945%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/ae5e94a5-a391-49d2-a0d1-7d4f92630a4f.png?auto=format%2Ccompress&fm=webp"
 }

@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Følg producer Al Ruddys kamp i skabelsen af det filmiske mesterværk 'The Godfather', der blev besværliggjort af en kompliceret produktion, politik samt trusler på livet fra den virkelige mafia.",
+  "image": "https://cdn-play.tv2i.dk/f21420b3-5863-4b95-9ff6-054d404f65dc.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "a58819a2-fe09-4b34-8aa2-47a3bcc53119",
@@ -78,5 +78,7 @@
       "name": "Brains and Balls",
       "airdate": "2022-06-17"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/f21420b3-5863-4b95-9ff6-054d404f65dc.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2YyMTQyMGIzLTU4NjMtNGI5NS05ZmY2LTA1NGQ0MDRmNjVkYy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY3OSUyQzAlMkMyNTIwJTJDMjE2MA&rect=679%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/9ba6ccf9-a549-33b2-9bd1-98455c7b75c4.png?auto=format%2Ccompress&fm=webp"
 }

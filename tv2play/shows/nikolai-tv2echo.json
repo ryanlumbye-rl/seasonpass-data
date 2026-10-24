@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Hvordan finder man sin egen vej i livet, når man er født ind i en familie, hvor ens navn og titel kommer med store forventninger? Igennem ét år følger vi grev Nikolai helt tæt på, mens han forsøger at finde balancen mellem arbejdsliv og alle sine drømme.",
+  "image": "https://cdn-play.tv2i.dk/373163f1-b007-3701-bbe4-c2dd788e0327.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "0f1b798e-8744-45c6-aa25-6f1cc5bf2e40",
@@ -36,5 +36,7 @@
       "name": "Verden står åben",
       "airdate": "2026-07-13"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/373163f1-b007-3701-bbe4-c2dd788e0327.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzM3MzE2M2YxLWIwMDctMzcwMS1iYmU0LWMyZGQ3ODhlMDMyNy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTkyMCUyQzAlMkMyNTIwJTJDMjE2MA&rect=920%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/fca8d296-f3eb-34dd-a3f9-f5b281ff8699.png?auto=format%2Ccompress&fm=webp"
 }

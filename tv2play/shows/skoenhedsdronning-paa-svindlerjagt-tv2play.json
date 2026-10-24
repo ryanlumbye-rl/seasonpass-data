@@ -29,5 +29,7 @@
       "name": "Motiv søges",
       "airdate": "2026-04-16"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/4718b106-0b9d-43cd-b763-7f8b68889ea6.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQ3MThiMTA2LTBiOWQtNDNjZC1iNzYzLTdmOGI2ODg4OWVhNi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/146e87c3-d834-4df2-8785-4eca68987b9f.png?auto=format%2Ccompress&fm=webp"
 }

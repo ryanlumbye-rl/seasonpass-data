@@ -7,6 +7,8 @@
   "next": null,
   "description": "Sammen med et hold af frivillige hjælper Kloakministeriet folk i håbløse livs- og boligsituationer. Alt er gratis, og materialerne får de gennem deres følgere på sociale medier. Når det ser allersortest ud, går de live, og så sker det magiske: Folk dukker bare op!",
   "image": "https://cdn-play.tv2i.dk/8399a4f1-7544-3f5c-9b13-54cf53a3b692.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1920%2C1080&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/8399a4f1-7544-3f5c-9b13-54cf53a3b692.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzgzOTlhNGYxLTc1NDQtM2Y1Yy05YjEzLTU0Y2Y1M2EzYjY5Mi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTI4MCUyQzAlMkMxMjYwJTJDMTA4MA&rect=280%2C0%2C1260%2C1080&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/372ba275-5b90-392e-be89-b859caf49c3d.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "eade0fd0-d3ac-450b-a8eb-6c2986e80cf9",
@@ -27,6 +29,13 @@
       "season": 1,
       "number": 3,
       "name": "Projekt håb - Del 1",
+      "airdate": "2026-10-23"
+    },
+    {
+      "id": "b47087c8-6339-4ad3-b2e8-5912f916b210",
+      "season": 1,
+      "number": 4,
+      "name": "Projekt håb - Del 2",
       "airdate": "2026-10-23"
     }
   ]

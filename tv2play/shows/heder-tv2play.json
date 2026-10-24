@@ -162,5 +162,7 @@
       "name": "Pigeaften",
       "airdate": "2026-02-02"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/c14ea8a2-c318-472e-86e4-5d5c84f0950c.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2MxNGVhOGEyLWMzMTgtNDcyZS04NmU0LTVkNWM4NGYwOTUwYy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE0NiUyQzAlMkM1NjAlMkM0ODA&rect=146%2C0%2C560%2C480&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/5271b0f6-11fb-40ca-b2eb-36ce3ee7c5dc.png?auto=format%2Ccompress&fm=webp"
 }

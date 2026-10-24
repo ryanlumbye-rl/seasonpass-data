@@ -71,5 +71,7 @@
       "name": "El Padrino",
       "airdate": "2026-07-10"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/83df59ab-42ab-44b0-90a9-d6ded9ffa0b4.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzgzZGY1OWFiLTQyYWItNDRiMC05MGE5LWQ2ZGVkOWZmYTBiNC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE2NyUyQzAlMkM1NjAlMkM0ODA&rect=167%2C0%2C560%2C480&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/b2f8e516-27e7-4d05-b2f1-49785818928e.png?auto=format%2Ccompress&fm=webp"
 }

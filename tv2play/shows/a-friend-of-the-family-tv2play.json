@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "I 1970'erne oplever Broberg-familien gentagne gange det, som alle forældre frygter: Deres datter Jan bliver kidnappet. Men det mystiske er, at det sker flere gange og af en ven af familien, der på listig vis formår at udnytte familiens venlighed, åbenhed og sårbarhed. Baseret på en sand historie.",
+  "image": "https://cdn-play.tv2i.dk/544d5974-3e0a-49cd-b87a-d6de8b6a2cde.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "3ebc9ef2-f587-4f6d-8fca-d33a3a4f131e",
@@ -71,5 +71,7 @@
       "name": "Revelation",
       "airdate": "2022-12-16"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/544d5974-3e0a-49cd-b87a-d6de8b6a2cde.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzU0NGQ1OTc0LTNlMGEtNDljZC1iODdhLWQ2ZGU4YjZhMmNkZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQ5NyUyQzAlMkMyNTIwJTJDMjE2MA&rect=497%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/6ff6335a-76d3-458c-8e5d-29a24843dc1b.png?auto=format%2Ccompress&fm=webp"
 }

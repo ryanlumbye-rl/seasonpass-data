@@ -169,5 +169,7 @@
       "name": "Sy et julehjerte",
       "airdate": "2026-03-07"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/5eed0c20-0210-4851-9170-0b2459163a09.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzVlZWQwYzIwLTAyMTAtNDg1MS05MTcwLTBiMjQ1OTE2M2EwOS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE0NiUyQzAlMkM1NjAlMkM0ODA&rect=146%2C0%2C560%2C480&w=600",
+  "titleArt": null
 }

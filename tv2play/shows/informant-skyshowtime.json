@@ -64,5 +64,7 @@
       "name": "Afsnit 8",
       "airdate": "2023-04-11"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/b2863f0b-fc6b-49b9-853f-b52eb2463c7c.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2IyODYzZjBiLWZjNmItNDliOS04NTNmLWI1MmViMjQ2M2M3Yy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTYwNiUyQzAlMkMyNTIwJTJDMjE2MA&rect=606%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/8466336f-a65b-4c7b-8b83-adeb4c132b4f.png?auto=format%2Ccompress&fm=webp"
 }

@@ -29,5 +29,7 @@
       "name": "Den røde panda",
       "airdate": "2026-09-20"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/fce46163-70bc-3102-b16b-1df693b5fcd0.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2ZjZTQ2MTYzLTcwYmMtMzEwMi1iMTZiLTFkZjY5M2I1ZmNkMC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTYzOSUyQzAlMkMyNTIwJTJDMjE2MA&rect=639%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/4af7be9e-9d14-3c1c-a21b-c6fd99f2b2a5.png?auto=format%2Ccompress&fm=webp"
 }

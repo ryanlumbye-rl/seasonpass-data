@@ -43,5 +43,7 @@
       "name": "Canada",
       "airdate": "2025-03-26"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/ea3334c9-9535-4680-b3d5-8415a8dc22b5.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2VhMzMzNGM5LTk1MzUtNDY4MC1iM2Q1LTg0MTVhOGRjMjJiNS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/e7c189cb-ebe2-407b-8343-3c03c23b38f2.png?auto=format%2Ccompress&fm=webp"
 }

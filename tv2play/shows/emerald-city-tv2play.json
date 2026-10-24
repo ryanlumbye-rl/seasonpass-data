@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Dorothy, en ung kvinde fra Kansas, får hele sin verden vendt på hovedet, da en tornado blæser hende væk til Oz – et mærkeligt og farligt land med intrigante hekse, dødbringende krigere og forbudt magi.",
+  "image": "https://cdn-play.tv2i.dk/68c22304-655c-4aaa-9f6f-e787f1e0ca95.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3769%2C2120&w=1280",
   "episodes": [
     {
       "id": "e18d7bf0-829d-4e4b-a5f7-572e8f306a0c",
@@ -78,5 +78,7 @@
       "name": "No Place Like Home",
       "airdate": "2025-11-18"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/68c22304-655c-4aaa-9f6f-e787f1e0ca95.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzY4YzIyMzA0LTY1NWMtNGFhYS05ZjZmLWU3ODdmMWUwY2E5NS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQ0OCUyQzAlMkMyNDc0JTJDMjEyMA&rect=448%2C0%2C2474%2C2120&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/258ded82-b499-40c6-9bf1-282dd1e1fbf7.png?auto=format%2Ccompress&fm=webp"
 }

@@ -50,5 +50,7 @@
       "name": "Episode 6",
       "airdate": "2023-12-18"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a3025b96-b9ff-4c40-98b7-353d83bf48af.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2EzMDI1Yjk2LWI5ZmYtNGM0MC05OGI3LTM1M2Q4M2JmNDhhZi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTExMTQlMkMwJTJDMjUyMCUyQzIxNjA&rect=1114%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/5d2d4ff5-fa9c-4420-ae54-e057c000f1a0.png?auto=format%2Ccompress&fm=webp"
 }

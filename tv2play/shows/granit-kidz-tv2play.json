@@ -43,5 +43,7 @@
       "name": "Lykkecup",
       "airdate": "2026-06-22"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7f0b3ef2-8bf1-3c05-8128-cc0bc1b84121.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzdmMGIzZWYyLThiZjEtM2MwNS04MTI4LWNjMGJjMWI4NDEyMS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTU0MiUyQzAlMkMyMzUyJTJDMjAxNg&rect=542%2C0%2C2352%2C2016&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/0e4056ba-89b1-329e-959c-687762a9515f.png?auto=format%2Ccompress&fm=webp"
 }

@@ -64,5 +64,7 @@
       "name": "Sæbebobler",
       "airdate": "2024-09-21"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/9d1d0a11-89a6-47eb-9a68-3183b30f10a5.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzlkMWQwYTExLTg5YTYtNDdlYi05YTY4LTMxODNiMzBmMTBhNS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQxMyUyQzAlMkMxMjYwJTJDMTA4MA&rect=413%2C0%2C1260%2C1080&w=600",
+  "titleArt": null
 }

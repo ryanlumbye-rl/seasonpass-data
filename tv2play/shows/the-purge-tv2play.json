@@ -148,5 +148,7 @@
       "name": "7:01am",
       "airdate": "2026-10-13"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/0b9798bd-48db-3541-a672-f4db426139f9.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzBiOTc5OGJkLTQ4ZGItMzU0MS1hNjcyLWY0ZGI0MjYxMzlmOS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTgxMyUyQzAlMkMyNTIwJTJDMjE2MA&rect=813%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/548c9c91-e8cd-3c90-8a74-9a9f1577c77a.png?auto=format%2Ccompress&fm=webp"
 }

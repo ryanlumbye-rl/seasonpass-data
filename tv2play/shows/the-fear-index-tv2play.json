@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Klar til at dræbe et system, der udnytter frygt på de finansielle markeder, er en rig datalog tvunget til at stille spørgsmålstegn ved alt, da hans liv tager en skræmmende drejning i løbet af 24 timer.",
+  "image": "https://cdn-play.tv2i.dk/8d13f83b-fd6c-499c-a684-2dcb2b54d322.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "0b610029-02dd-4daf-8ac5-d7cd463d72b5",
@@ -36,5 +36,7 @@
       "name": "Evening",
       "airdate": "2022-09-20"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/8d13f83b-fd6c-499c-a684-2dcb2b54d322.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzhkMTNmODNiLWZkNmMtNDk5Yy1hNjg0LTJkY2IyYjU0ZDMyMi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwMTElMkMwJTJDMjUyMCUyQzIxNjA&rect=1011%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/1fb953d6-e437-4c5e-9df8-fbe739b1fe5d.png?auto=format%2Ccompress&fm=webp"
 }

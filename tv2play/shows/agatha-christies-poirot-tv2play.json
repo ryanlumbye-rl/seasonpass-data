@@ -505,5 +505,7 @@
       "name": "Tæppefald",
       "airdate": "2026-02-09"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/c781f45a-b506-4eb1-8799-aa544e17cb49.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2M3ODFmNDVhLWI1MDYtNGViMS04Nzk5LWFhNTQ0ZTE3Y2I0OS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyNTglMkMwJTJDMjQwNCUyQzIwNjA&rect=1258%2C0%2C2404%2C2060&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/ffac11c2-5bc5-46ab-98ca-103588db4ed8.png?auto=format%2Ccompress&fm=webp"
 }

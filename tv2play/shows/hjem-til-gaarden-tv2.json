@@ -442,5 +442,7 @@
       "name": "Sidste stik",
       "airdate": "2021-05-08"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/67f2fbe3-f72a-49a0-b03d-55ac734071e9.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzY3ZjJmYmUzLWY3MmEtNDlhMC1iMDNkLTU1YWM3MzQwNzFlOS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MyUyQzAlMkMxNDAzJTJDMTIwMw&rect=663%2C0%2C1403%2C1203&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/189d3de0-7724-483e-a963-edf76e357b34.png?auto=format%2Ccompress&fm=webp"
 }

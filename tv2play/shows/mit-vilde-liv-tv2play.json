@@ -36,5 +36,7 @@
       "name": "Verdens farligste sport",
       "airdate": "2026-08-31"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/8efdf209-e954-379e-899d-a6eae932c8b8.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzhlZmRmMjA5LWU5NTQtMzc5ZS04OTlkLWE2ZWFlOTMyYzhiOC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/e684b55b-d391-31d5-b7ae-5ab7a7a56f0d.png?auto=format%2Ccompress&fm=webp"
 }

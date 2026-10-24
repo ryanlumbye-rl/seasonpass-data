@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Keld Jonstrup bor på gården Sønderlund nær Blokhus. For ham er dyrevelfærd i højsædet. Grise, køer, høns og ænder får et liv på første klasse. Det er langt fra almindelig stordrift, og Keld er hverken særlig effektiv eller særlig rig. Men han er stolt af det han laver og kalder sig selv den glade bondemand.",
+  "image": "https://cdn-play.tv2i.dk/e23801f4-9743-4f69-b138-c1cd2ab2bcee.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "55d24ad2-69c6-48a6-b14a-cb2bc23094f8",
@@ -85,5 +85,7 @@
       "name": "Heste, koldt forår og en våd vinter",
       "airdate": "2023-06-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/e23801f4-9743-4f69-b138-c1cd2ab2bcee.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2UyMzgwMWY0LTk3NDMtNGY2OS1iMTM4LWMxY2QyYWIyYmNlZS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY3OSUyQzAlMkMyNTIwJTJDMjE2MA&rect=679%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/49241e0a-33b5-3e79-84dd-263b9363641a.png?auto=format%2Ccompress&fm=webp"
 }

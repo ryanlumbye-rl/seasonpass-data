@@ -64,5 +64,7 @@
       "name": "Det mystiske postkort",
       "airdate": "2025-12-25"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/302933fe-aa85-4faa-be42-91c9bf075b8a.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzMwMjkzM2ZlLWFhODUtNGZhYS1iZTQyLTkxYzliZjA3NWI4YS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwMjIlMkMwJTJDMjUyMCUyQzIxNjA&rect=1022%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/bfff8882-2987-4dea-86c3-ac96e243a488.png?auto=format%2Ccompress&fm=webp"
 }

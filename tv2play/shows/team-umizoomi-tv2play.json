@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Milli, Geo og Bot elsker matematik og bruger den til at løse alle hverdagens små problemer i Umi-byen. Det er sjov, fantasifuld og lærerig matematik for de mindste.",
+  "image": "https://cdn-play.tv2i.dk/7c2aef06-b906-4695-9957-7555c68a0013.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
   "episodes": [
     {
       "id": "a0c3664c-1b15-4e5d-9a4b-1007ba8b430f",
@@ -148,5 +148,7 @@
       "name": "Dyrenes skole",
       "airdate": "2023-08-29"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7c2aef06-b906-4695-9957-7555c68a0013.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzdjMmFlZjA2LWI5MDYtNDY5NS05OTU3LTc1NTVjNjhhMDAxMy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTIwOCUyQzAlMkMyNTIwJTJDMjE2MA&rect=208%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/53c5efc0-6486-47ef-ad2c-d5c1686ffbd6.png?auto=format%2Ccompress&fm=webp"
 }

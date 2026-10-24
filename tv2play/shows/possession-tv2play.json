@@ -43,5 +43,7 @@
       "name": "Episode 5",
       "airdate": "2026-09-25"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/36d8c09a-472c-3db5-be99-923ec45b78bc.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzM2ZDhjMDlhLTQ3MmMtM2RiNS1iZTk5LTkyM2VjNDViNzhiYy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/bccd753a-c709-3dd2-9c70-736a6181a53b.png?auto=format%2Ccompress&fm=webp"
 }

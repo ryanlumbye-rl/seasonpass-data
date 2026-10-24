@@ -197,5 +197,7 @@
       "name": "Stilhed",
       "airdate": "2025-08-21"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a578a58d-02b6-4103-8688-2a60b25c858f.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E1NzhhNThkLTAyYjYtNDEwMy04Njg4LTJhNjBiMjVjODU4Zi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQzMCUyQzAlMkMyNTIwJTJDMjE2MA&rect=430%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/267066bb-bbe2-4d7e-8bae-239e701e9ae4.png?auto=format%2Ccompress&fm=webp"
 }

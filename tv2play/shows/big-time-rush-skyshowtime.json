@@ -239,5 +239,7 @@
       "name": "Big Time Tests",
       "airdate": "2023-03-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/4af83a4d-5112-4fbd-89fa-4c8a0beff999.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzRhZjgzYTRkLTUxMTItNGZiZC04OWZhLTRjOGEwYmVmZjk5OS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/809449e6-4858-4607-bbe8-679acc9de40c.png?auto=format%2Ccompress&fm=webp"
 }

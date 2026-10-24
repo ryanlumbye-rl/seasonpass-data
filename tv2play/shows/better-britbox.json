@@ -43,5 +43,7 @@
       "name": "Episode 5",
       "airdate": "2023-09-20"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/81302020-5390-4bf3-9efa-d0dd74026da3.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzgxMzAyMDIwLTUzOTAtNGJmMy05ZWZhLWQwZGQ3NDAyNmRhMy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTgwOSUyQzAlMkMyNTIwJTJDMjE2MA&rect=809%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/9db7a80b-d122-4e00-819b-9baaceb2b670.png?auto=format%2Ccompress&fm=webp"
 }

@@ -5,6 +5,10 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
+  "description": "Den jordbundne, men temperamentsfulde detektiv Jack Frost - mesterligt spillet af David Jason - er beundret af sine kollegaer, men hadet af sine overordnede.",
+  "image": "https://cdn-play.tv2i.dk/4d798e7c-e41a-4b93-b1b9-074e84f8c600.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/4d798e7c-e41a-4b93-b1b9-074e84f8c600.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzRkNzk4ZTdjLWU0MWEtNGI5My1iMWI5LTA3NGU4NGY4YzYwMC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY3OSUyQzAlMkMyNTIwJTJDMjE2MA&rect=679%2C0%2C2520%2C2160&w=600",
+  "titleArt": null,
   "episodes": [
     {
       "id": "4e47ce0d-bb82-4269-a910-c26c61468050",
@@ -62,7 +66,5 @@
       "name": "Deep Waters",
       "airdate": "1997-06-29"
     }
-  ],
-  "description": "Den jordbundne, men temperamentsfulde detektiv Jack Frost - mesterligt spillet af David Jason - er beundret af sine kollegaer, men hadet af sine overordnede.",
-  "image": "https://cdn-play.tv2i.dk/4d798e7c-e41a-4b93-b1b9-074e84f8c600.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3887%2C2160&w=1280"
+  ]
 }

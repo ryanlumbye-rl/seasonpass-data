@@ -78,5 +78,7 @@
       "name": "Full Circle",
       "airdate": "2025-12-15"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/7b030cf1-3c60-4a76-b8ff-f03749d187dd.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzdiMDMwY2YxLTNjNjAtNGE3Ni1iOGZmLWYwMzc0OWQxODdkZC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE3OTIlMkMxNTAlMkMyMDQ4JTJDMTc1NQ&rect=1792%2C150%2C2048%2C1755&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/fac60bd1-a714-43b3-86b9-74edd460e193.png?auto=format%2Ccompress&fm=webp"
 }

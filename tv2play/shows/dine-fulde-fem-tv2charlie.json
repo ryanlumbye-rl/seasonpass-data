@@ -218,5 +218,7 @@
       "name": "Ae min arm!",
       "airdate": "2022-05-14"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/5f968f76-f92a-4918-aa9f-12fcfdee07c1.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzVmOTY4Zjc2LWY5MmEtNDkxOC1hYTlmLTEyZmNmZGVlMDdjMS5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTM1OCUyQzAlMkMxMzEwJTJDMTEyNA&rect=358%2C0%2C1310%2C1124&w=600",
+  "titleArt": null
 }

@@ -50,5 +50,7 @@
       "name": "Episode 6",
       "airdate": "2025-03-19"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/438cc254-f261-43a3-a545-5932085af0c9.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQzOGNjMjU0LWYyNjEtNDNhMy1hNTQ1LTU5MzIwODVhZjBjOS5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/63494403-7fcd-40c4-85a8-3df6c39e8028.png?auto=format%2Ccompress&fm=webp"
 }

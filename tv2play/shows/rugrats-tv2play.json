@@ -49,6 +49,13 @@
       "airdate": "2021-10-29"
     },
     {
+      "id": "e1b06aea-8887-492a-9c35-3852167230b2",
+      "season": 1,
+      "number": 7,
+      "name": "No License to Drive",
+      "airdate": "2021-10-29"
+    },
+    {
       "id": "41d1297b-4fd6-45e8-9ee2-7fbc90189566",
       "season": 1,
       "number": 8,
@@ -456,5 +463,7 @@
     }
   ],
   "description": "Den elskede 90'er-tegnefilm Rollinger er tilbage i en opdateret version. Vi følger en gruppe nysgerrige babyer, imens de udforsker den store verden omkring dem. Tommy Pickles leder flokken rundt i en fantastisk og fantasifuld verden i knæhøjde.",
-  "image": "https://cdn-play.tv2i.dk/5864f3dc-6cf9-44e4-bca1-aa4a3e6e3b38.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3420%2C1901&w=1280"
+  "image": "https://cdn-play.tv2i.dk/5864f3dc-6cf9-44e4-bca1-aa4a3e6e3b38.png?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3420%2C1901&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/5864f3dc-6cf9-44e4-bca1-aa4a3e6e3b38.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzU4NjRmM2RjLTZjZjktNDRlNC1iY2ExLWFhNGEzZTZlM2IzOC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTU5NyUyQzAlMkMyMjE4JTJDMTkwMQ&rect=597%2C0%2C2218%2C1901&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/099be36d-2567-4c31-873e-4aa4792376fe.png?auto=format%2Ccompress&fm=webp"
 }

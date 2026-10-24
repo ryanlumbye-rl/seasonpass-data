@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "44-årige Thom Payne presses til at forny sig selv, da hans bureau hyrer et par unge svenskere som kreative direktører. Thom rådes til at indrømme sandheden.",
+  "image": "https://cdn-play.tv2i.dk/4c60e4b8-a57e-4f78-ac65-9b9f5fc80480.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C1798%2C1000&w=1280",
   "episodes": [
     {
       "id": "de36ccbc-c015-4f8d-9749-e52ae86da56b",
@@ -78,5 +78,7 @@
       "name": "Starring Christopher Hitchens, Philip Larkin and Josef Stalin",
       "airdate": "2021-07-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/4c60e4b8-a57e-4f78-ac65-9b9f5fc80480.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzRjNjBlNGI4LWE1N2UtNGY3OC1hYzY1LTliOWY1ZmM4MDQ4MC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTMxNCUyQzAlMkMxMTY2JTJDMTAwMA&rect=314%2C0%2C1166%2C1000&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/19d88830-1cfd-4e86-926c-e405cffa1277.png?auto=format%2Ccompress&fm=webp"
 }

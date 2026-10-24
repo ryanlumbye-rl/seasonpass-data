@@ -50,5 +50,7 @@
       "name": "Den brune ost",
       "airdate": "2023-09-25"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/444910dc-e91b-46bc-9939-ce5a97638fa3.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzQ0NDkxMGRjLWU5MWItNDZiYy05OTM5LWNlNWE5NzYzOGZhMy5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE3MSUyQzAlMkM2NTYlMkM1NjI&rect=171%2C0%2C656%2C562&w=600",
+  "titleArt": null
 }

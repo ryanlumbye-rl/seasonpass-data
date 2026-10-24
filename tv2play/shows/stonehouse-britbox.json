@@ -29,5 +29,7 @@
       "name": "Episode 3",
       "airdate": "2023-05-01"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/15b8c90e-fe7b-4a87-94f7-a5d9fc60f5a7.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzE1YjhjOTBlLWZlN2ItNGE4Ny05NGY3LWE1ZDlmYzYwZjVhNy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/094865cd-aab1-4ff9-8a65-5205857feede.png?auto=format%2Ccompress&fm=webp"
 }

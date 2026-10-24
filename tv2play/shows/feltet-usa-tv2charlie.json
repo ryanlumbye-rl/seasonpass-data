@@ -78,5 +78,7 @@
       "name": "Den sidste duel",
       "airdate": "2026-05-02"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3f3a17aa-dceb-48c3-a3df-3bfd661e8fed.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNmM2ExN2FhLWRjZWItNDhjMy1hM2RmLTNiZmQ2NjFlOGZlZC5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE0NiUyQzAlMkM1NjAlMkM0ODA&rect=146%2C0%2C560%2C480&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/895d8f6b-f38e-4c45-8605-37f4123f4aec.png?auto=format%2Ccompress&fm=webp"
 }

@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "Da Olivia Eriksen fødte alt for tidligt, var det ikke kun begyndelsen på en kamp for datterens overlevelse. Det blev også en kamp for bedre barselsrettigheder",
+  "image": "https://cdn-play.tv2i.dk/3b3e80c0-07f2-4e94-ae66-2883e4d52fb3.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "5e8cf961-8abc-432f-bb2a-a930bfc267dc",
@@ -36,5 +36,7 @@
       "name": "Opkaldet fra Pia",
       "airdate": "2025-03-16"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/3b3e80c0-07f2-4e94-ae66-2883e4d52fb3.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzNiM2U4MGMwLTA3ZjItNGU5NC1hZTY2LTI4ODNlNGQ1MmZiMy5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTMyOCUyQzAlMkMyNTIwJTJDMjE2MA&rect=328%2C0%2C2520%2C2160&w=600",
+  "titleArt": null
 }

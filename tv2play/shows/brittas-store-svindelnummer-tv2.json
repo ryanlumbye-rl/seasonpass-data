@@ -36,5 +36,7 @@
       "name": "Fanget",
       "airdate": "2022-08-29"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/91186e4c-e38e-449d-95f4-d63a4ce17af0.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzkxMTg2ZTRjLWUzOGUtNDQ5ZC05NWY0LWQ2M2E0Y2UxN2FmMC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTE1NCUyQzAlMkMxMzEyJTJDMTEyNA&rect=154%2C0%2C1312%2C1124&w=600",
+  "titleArt": null
 }

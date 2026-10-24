@@ -344,5 +344,7 @@
       "name": "Finalen",
       "airdate": "2026-04-22"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/99f416b9-5239-4e0d-aefc-068441b9cd2b.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzk5ZjQxNmI5LTUyMzktNGUwZC1hZWZjLTA2ODQ0MWI5Y2QyYi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEwMDYlMkMwJTJDMjUyMSUyQzIxNjA&rect=1006%2C0%2C2521%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/4d437d36-a88b-46f9-9417-9f7de9e8b595.png?auto=format%2Ccompress&fm=webp"
 }

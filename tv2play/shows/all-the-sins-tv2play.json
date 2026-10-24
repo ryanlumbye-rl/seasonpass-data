@@ -5,8 +5,8 @@
   "status": "Unknown",
   "tmdbId": null,
   "next": null,
-  "description": null,
-  "image": null,
+  "description": "En ung betjent konfronterer vanskelige sandheder om sit liv, mens han jagter en seriemorder.",
+  "image": "https://cdn-play.tv2i.dk/a65aefd5-9ba0-4e17-9846-fb3a7e476c96.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
   "episodes": [
     {
       "id": "2a4b602c-3b56-4705-82b2-8a259573e234",
@@ -134,5 +134,7 @@
       "name": "Hvis jeg ikke havde kærlighed",
       "airdate": "2023-02-05"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/a65aefd5-9ba0-4e17-9846-fb3a7e476c96.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2E2NWFlZmQ1LTliYTAtNGUxNy05ODQ2LWZiM2E3ZTQ3NmM5Ni5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTY2MCUyQzAlMkMyNTIwJTJDMjE2MA&rect=660%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/65d2d093-50ef-43b2-a484-97059b322c9a.png?auto=format%2Ccompress&fm=webp"
 }

@@ -7,6 +7,8 @@
   "next": "2026-11-11",
   "description": "BAGOM giver dig den personlige fortælling bag TV 2’s største dokumentarer. Kom med ind i maskinrummet, når vært og undersøgende journalist Andreas Wentoft taler med centrale personer om de oplevelser, dilemmaer og afgørende valg, der formede historierne.",
   "image": "https://cdn-play.tv2i.dk/822c4271-7840-3fe7-9e70-7ca6178c043f.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/822c4271-7840-3fe7-9e70-7ca6178c043f.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrLzgyMmM0MjcxLTc4NDAtM2ZlNy05ZTcwLTdjYTYxNzhjMDQzZi5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEzMjAlMkMwJTJDMjUyMCUyQzIxNjA&rect=1320%2C0%2C2520%2C2160&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/195b72a2-5852-33c4-8b89-cdde252fd960.png?auto=format%2Ccompress&fm=webp",
   "episodes": [
     {
       "id": "809be778-c702-4cff-9cb7-f2c491571b6b",
@@ -21,6 +23,13 @@
       "number": 2,
       "name": "Fars lille pige",
       "airdate": "2026-10-22"
+    },
+    {
+      "id": "99f8553b-2b56-444e-a9c7-fffdb10810bb",
+      "season": 2026,
+      "number": 3,
+      "name": "Bagom",
+      "airdate": "2026-11-11"
     }
   ]
 }

@@ -7,12 +7,21 @@
   "next": null,
   "description": "Hjulpet af sin mentor Shifu og de dygtige Fantastiske Fem - Tiger, Knæler, Trane, Abe og Hugorm - står den elskelige og klodsede panda Po over for nye modstandere i sit hjem i Fredsdalen, mens han fortsætter sin kung fu-uddannelse.",
   "image": "https://cdn-play.tv2i.dk/ff76ccfe-33f6-43d1-9259-fe6cc68c8744.jpg?auto=format%2Ccompress&fm=webp&rect=0%2C0%2C3840%2C2160&w=1280",
+  "poster": "https://cdn-play.tv2i.dk/ff76ccfe-33f6-43d1-9259-fe6cc68c8744.jpg?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2ZmNzZjY2ZlLTMzZjYtNDNkMS05MjU5LWZlNmNjNjhjODc0NC5qcGc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTEyMzYlMkMwJTJDMjUyMCUyQzIxNjA&rect=1236%2C0%2C2520%2C2160&w=600",
+  "titleArt": null,
   "episodes": [
     {
       "id": "b69c81af-97fb-4924-8ee0-350100daa687",
       "season": 1,
       "number": 2,
       "name": "En klistret affære",
+      "airdate": "2023-01-01"
+    },
+    {
+      "id": "50c37937-b573-45a2-b3b2-8c4d450dc410",
+      "season": 1,
+      "number": 3,
+      "name": "Prinsessen og Po",
       "airdate": "2023-01-01"
     },
     {

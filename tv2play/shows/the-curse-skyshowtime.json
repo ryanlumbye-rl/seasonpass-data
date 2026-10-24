@@ -78,5 +78,7 @@
       "name": "Green Queen",
       "airdate": "2024-02-16"
     }
-  ]
+  ],
+  "poster": "https://cdn-play.tv2i.dk/dac82446-862c-4842-9fa7-31fa80a408cb.png?ar=2%3A3&ar=2%3A3&auto=format%2Ccompress&blend-alpha=50&blend-color=FF7A7ACC&blend-mode=saturation&blur=600&fit=crop&fm=webp&mark-align=top%2Ccenter&mark-fit=fill&mark-pad=0&mark-w=1.0&mark64=aHR0cHM6Ly9jZG4tcGxheS50djJpLmRrL2RhYzgyNDQ2LTg2MmMtNDg0Mi05ZmE3LTMxZmE4MGE0MDhjYi5wbmc_Zm09d2VicCZtYXNrNjQ9YUhSMGNITTZMeTloYzNObGRITXVjR3hoZVM1MGRqSmhMbVJyTDIxaGMydHpMM0l5ZUROZmJXRnphMTkyTXk1d2JtYyZyZWN0PTQ5JTJDMCUyQzIxODQlMkMxODcy&rect=49%2C0%2C2184%2C1872&w=600",
+  "titleArt": "https://cdn-play.tv2i.dk/c5045002-d458-444a-a0cf-b27a9e61734a.png?auto=format%2Ccompress&fm=webp"
 }
